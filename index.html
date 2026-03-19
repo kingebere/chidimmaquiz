@@ -157,7 +157,7 @@
             flex-direction: column;
             gap: .9rem;
             width: 100%;
-            max-width: 400px;
+            max-width: 420px;
             margin-bottom: 1.5rem;
             animation: fadeUp .6s .4s ease both
         }
@@ -206,11 +206,202 @@
             box-shadow: 0 12px 40px rgba(124, 58, 237, .5)
         }
 
+        .btn-history-landing {
+            width: 100%;
+            padding: 15px;
+            background: linear-gradient(135deg, #334155, #1e293b);
+            border: none;
+            border-radius: var(--radius);
+            font-family: 'Syne', sans-serif;
+            font-size: .96rem;
+            font-weight: 700;
+            color: #fff;
+            cursor: pointer;
+            transition: transform .15s, box-shadow .2s;
+            letter-spacing: .02em;
+            box-shadow: 0 8px 28px rgba(30, 41, 59, .35)
+        }
+
+        .btn-history-landing:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 12px 36px rgba(30, 41, 59, .5)
+        }
+
         .disclaimer {
             font-size: .75rem;
             color: var(--muted);
             animation: fadeUp .6s .6s ease both;
             line-height: 1.6
+        }
+
+        #history,
+        #results {
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 2.2rem 1.2rem 4rem
+        }
+
+        .history-shell {
+            width: 100%;
+            max-width: 980px
+        }
+
+        .history-header {
+            text-align: center;
+            margin-bottom: 1.6rem
+        }
+
+        .history-header h2 {
+            font-family: 'Syne', sans-serif;
+            font-size: clamp(1.6rem, 4vw, 2.6rem);
+            margin-bottom: .5rem
+        }
+
+        .history-header p {
+            color: var(--muted);
+            font-size: .95rem
+        }
+
+        .history-controls {
+            background: var(--card);
+            border: 1px solid var(--border);
+            border-radius: 18px;
+            padding: 1rem;
+            display: grid;
+            grid-template-columns: 1fr auto auto;
+            gap: .8rem;
+            margin-bottom: 1.2rem
+        }
+
+        .history-input {
+            width: 100%;
+            background: var(--surface2);
+            border: 2px solid var(--border);
+            border-radius: 12px;
+            padding: 13px 16px;
+            font-family: 'DM Sans', sans-serif;
+            font-size: 1rem;
+            color: var(--text);
+            outline: none
+        }
+
+        .history-input:focus {
+            border-color: var(--accent1);
+            box-shadow: 0 0 0 4px var(--glow1)
+        }
+
+        .btn-history {
+            padding: 12px 18px;
+            border: none;
+            border-radius: 12px;
+            font-family: 'Syne', sans-serif;
+            font-weight: 700;
+            color: #fff;
+            cursor: pointer;
+            white-space: nowrap
+        }
+
+        .btn-history.primary {
+            background: linear-gradient(135deg, #7c3aed, #6d28d9)
+        }
+
+        .btn-history.secondary {
+            background: linear-gradient(135deg, #334155, #1e293b)
+        }
+
+        .history-grid {
+            display: grid;
+            grid-template-columns: 1.2fr .8fr;
+            gap: 1rem
+        }
+
+        .history-section {
+            background: var(--card);
+            border: 1px solid var(--border);
+            border-radius: 18px;
+            padding: 1rem
+        }
+
+        .history-section-title {
+            font-family: 'Syne', sans-serif;
+            font-size: 1rem;
+            font-weight: 700;
+            margin-bottom: .9rem;
+            color: var(--muted)
+        }
+
+        .history-list {
+            display: flex;
+            flex-direction: column;
+            gap: .7rem
+        }
+
+        .history-card {
+            background: var(--surface2);
+            border: 1px solid var(--border);
+            border-radius: 14px;
+            padding: .95rem
+        }
+
+        .history-card-top {
+            display: flex;
+            justify-content: space-between;
+            gap: .8rem;
+            flex-wrap: wrap;
+            margin-bottom: .45rem
+        }
+
+        .history-card-title {
+            font-weight: 700;
+            color: var(--text)
+        }
+
+        .history-card-meta {
+            font-size: .82rem;
+            color: var(--muted);
+            line-height: 1.55
+        }
+
+        .history-actions {
+            display: flex;
+            flex-wrap: wrap;
+            gap: .5rem;
+            margin-top: .7rem
+        }
+
+        .btn-mini {
+            padding: 9px 12px;
+            border: none;
+            border-radius: 10px;
+            font-family: 'Syne', sans-serif;
+            font-size: .78rem;
+            font-weight: 700;
+            color: #fff;
+            cursor: pointer
+        }
+
+        .btn-mini.view {
+            background: linear-gradient(135deg, #06b6d4, #0891b2)
+        }
+
+        .btn-mini.retake {
+            background: linear-gradient(135deg, #7c3aed, #6d28d9)
+        }
+
+        .btn-mini.practice {
+            background: linear-gradient(135deg, #10b981, #059669)
+        }
+
+        .btn-mini.archive {
+            background: linear-gradient(135deg, #334155, #1e293b)
+        }
+
+        .history-empty {
+            color: var(--muted);
+            font-size: .9rem;
+            padding: .8rem 0
         }
 
         #quiz {
@@ -478,11 +669,6 @@
             color: var(--text)
         }
 
-        .option-btn.disabled {
-            cursor: default;
-            pointer-events: none
-        }
-
         .opt-letter {
             display: flex;
             align-items: center;
@@ -586,9 +772,9 @@
             flex-wrap: wrap
         }
 
-        .btn-next {
+        .btn-next,
+        .btn-back {
             padding: 12px 22px;
-            background: linear-gradient(135deg, #06b6d4, #0891b2);
             border: none;
             border-radius: 11px;
             font-family: 'Syne', sans-serif;
@@ -600,32 +786,22 @@
             align-items: center;
             gap: 7px;
             transition: transform .15s, box-shadow .2s, opacity .2s;
-            box-shadow: 0 6px 20px rgba(6, 182, 212, .3);
             letter-spacing: .02em;
             white-space: nowrap
+        }
+
+        .btn-next {
+            background: linear-gradient(135deg, #06b6d4, #0891b2);
+            box-shadow: 0 6px 20px rgba(6, 182, 212, .3)
         }
 
         .btn-back {
-            padding: 12px 22px;
             background: linear-gradient(135deg, #374151, #1f2937);
-            border: none;
-            border-radius: 11px;
-            font-family: 'Syne', sans-serif;
-            font-size: .88rem;
-            font-weight: 700;
-            color: #fff;
-            cursor: pointer;
-            display: flex;
-            align-items: center;
-            gap: 7px;
-            transition: transform .15s, box-shadow .2s, opacity .2s;
-            box-shadow: 0 6px 20px rgba(31, 41, 55, .35);
-            letter-spacing: .02em;
-            white-space: nowrap
+            box-shadow: 0 6px 20px rgba(31, 41, 55, .35)
         }
 
-        .btn-back:hover:not(:disabled),
-        .btn-next:hover:not(:disabled) {
+        .btn-next:hover:not(:disabled),
+        .btn-back:hover:not(:disabled) {
             transform: translateY(-2px)
         }
 
@@ -711,14 +887,6 @@
             font-weight: 700;
             color: #fff;
             cursor: pointer
-        }
-
-        #results {
-            min-height: 100vh;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            padding: 2.5rem 1.2rem 4rem
         }
 
         .results-header {
@@ -1018,6 +1186,11 @@
             box-shadow: 0 8px 24px rgba(239, 68, 68, .35)
         }
 
+        .btn-history-results {
+            background: linear-gradient(135deg, #334155, #1e293b);
+            box-shadow: 0 8px 24px rgba(30, 41, 59, .35)
+        }
+
         .made-with-love {
             margin-top: 2.5rem;
             font-size: .78rem;
@@ -1060,6 +1233,18 @@
 
         .grade-F {
             color: #f87171
+        }
+
+        @media(max-width:900px) {
+            .history-grid {
+                grid-template-columns: 1fr
+            }
+        }
+
+        @media(max-width:600px) {
+            .history-controls {
+                grid-template-columns: 1fr
+            }
         }
 
         @media(max-width:480px) {
@@ -1137,6 +1322,7 @@
         <div class="toast-sub">Your answers are being graded now...</div>
         <button class="btn-toast" onclick="finalizeQuiz()">See My Results →</button>
     </div>
+
     <div id="landing" class="screen">
         <div class="landing-badge">Quiz</div>
         <h1 class="landing-title">Test Your<br /><span> Knowledge</span></h1>
@@ -1147,12 +1333,41 @@
             <div class="stat-chip">📊 <strong>Instant</strong> Results</div>
         </div>
         <div class="name-form">
-            <input class="name-input" type="text" id="studentName" placeholder="Enter your full name..." maxlength="60"
+            <input class="name-input" type="text" id="studentName" placeholder="Enter course name..." maxlength="60"
                 autocomplete="name" />
             <button class="btn-start" onclick="startQuiz()">🚀 Start Quiz</button>
+            <button class="btn-history-landing" onclick="openHistory()">📚 Past Results & Retakes</button>
         </div>
-        <p class="disclaimer">Back button enabled · You can change answers before submitting · Timer starts immediately</p>
+        <p class="disclaimer">Back button enabled · Answers can be changed before final submission · Past attempts are saved on this browser</p>
     </div>
+
+    <div id="history" class="screen hidden">
+        <div class="history-shell">
+            <div class="history-header">
+                <h2>Past Results & Retakes</h2>
+                <p>Search by course name, review old scores, retake archived quizzes, or practice missed questions.</p>
+            </div>
+
+            <div class="history-controls">
+                <input id="historyStudentFilter" class="history-input" type="text" placeholder="Enter course name to filter attempts..." />
+                <button class="btn-history primary" onclick="renderHistory()">Search</button>
+                <button class="btn-history secondary" onclick="closeHistory()">Back Home</button>
+            </div>
+
+            <div class="history-grid">
+                <div class="history-section">
+                    <div class="history-section-title">Course Attempt History</div>
+                    <div id="attemptHistoryList" class="history-list"></div>
+                </div>
+
+                <div class="history-section">
+                    <div class="history-section-title">Archived Quiz Sets</div>
+                    <div id="quizArchiveList" class="history-list"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
     <div id="quiz" class="screen hidden">
         <div class="quiz-topbar">
             <div class="topbar-left">
@@ -1171,6 +1386,7 @@
             <div class="question-card" id="questionCard"></div>
         </div>
     </div>
+
     <div id="results" class="screen hidden">
         <div class="results-header">
             <span class="results-emoji" id="resultEmoji">🎉</span>
@@ -1214,14 +1430,76 @@
         </div>
         <div class="results-actions">
             <button class="btn-action btn-pdf" onclick="exportPDF()">📄 Export PDF Result</button>
-            <button class="btn-action btn-retake" onclick="resetQuiz()">🔄 Retake Quiz</button>
+            <button class="btn-action btn-retake" onclick="resetQuiz()">🔄 Retake Current Quiz</button>
+            <button class="btn-action btn-history-results" onclick="openHistory()">📚 Past Results & Retakes</button>
         </div>
         <div class="made-with-love">Made with <span>♥</span> from Goodluck</div>
     </div>
+
     <script>
         const TIMER_MINUTES = 50;
+        const QUIZ_ARCHIVES_KEY = 'quiz_archives_v1';
+        const QUIZ_ATTEMPTS_KEY = 'quiz_attempts_v1';
+
         let QUESTIONS = [];
+        let LIVE_QUESTIONS = [];
+        let LIVE_QUIZ_META = null;
+        let ACTIVE_QUIZ_META = null;
+
         let cQ = 0, ans = {}, tInt = null, sLeft = 0, qStart = null, qEnded = false, wShown = false, dShown = false, gRes = [];
+        let currentAttemptSaved = false;
+
+        function deepClone(v) {
+            return JSON.parse(JSON.stringify(v));
+        }
+
+        function getStoredArray(key) {
+            try {
+                const raw = localStorage.getItem(key);
+                const parsed = raw ? JSON.parse(raw) : [];
+                return Array.isArray(parsed) ? parsed : [];
+            } catch (e) {
+                return [];
+            }
+        }
+
+        function setStoredArray(key, value) {
+            localStorage.setItem(key, JSON.stringify(value));
+        }
+
+        function hashString(str) {
+            let hash = 0;
+            for (let i = 0; i < str.length; i++) {
+                hash = ((hash << 5) - hash) + str.charCodeAt(i);
+                hash |= 0;
+            }
+            return Math.abs(hash).toString(36);
+        }
+
+        function getQuizTitle(questions) {
+            return 'Quiz Set (' + questions.length + ' Questions)';
+        }
+
+        function ensureQuizArchived(questions, customTitle) {
+            const archives = getStoredArray(QUIZ_ARCHIVES_KEY);
+            const snapshot = deepClone(questions);
+            const quizId = 'quiz_' + hashString(JSON.stringify(snapshot)) + '_' + snapshot.length;
+            let found = archives.find(q => q.quizId === quizId);
+
+            if (!found) {
+                found = {
+                    quizId,
+                    title: customTitle || getQuizTitle(snapshot),
+                    createdAt: new Date().toISOString(),
+                    questionCount: snapshot.length,
+                    questions: snapshot
+                };
+                archives.unshift(found);
+                setStoredArray(QUIZ_ARCHIVES_KEY, archives);
+            }
+
+            return found;
+        }
 
         async function loadQuestions() {
             try {
@@ -1231,7 +1509,11 @@
                 const data = await res.json();
                 if (!Array.isArray(data)) throw new Error('questions.json must contain an array');
 
-                QUESTIONS = data;
+                LIVE_QUESTIONS = deepClone(data);
+                LIVE_QUIZ_META = ensureQuizArchived(LIVE_QUESTIONS, getQuizTitle(LIVE_QUESTIONS));
+                QUESTIONS = deepClone(LIVE_QUESTIONS);
+                ACTIVE_QUIZ_META = { ...LIVE_QUIZ_META };
+
                 document.getElementById('totalQCount').textContent = QUESTIONS.length;
             } catch (error) {
                 console.error('Question loading error:', error);
@@ -1244,6 +1526,8 @@
             document.getElementById('timerDisplay').textContent = fmt(TIMER_MINUTES * 60);
             await loadQuestions();
             document.getElementById('studentName').addEventListener('keydown', e => { if (e.key === 'Enter') startQuiz(); });
+            const historyInput = document.getElementById('historyStudentFilter');
+            historyInput.addEventListener('keydown', e => { if (e.key === 'Enter') renderHistory(); });
         });
 
         function startQuiz() {
@@ -1259,12 +1543,37 @@
                 alert('Questions have not loaded yet.');
                 return;
             }
+
             document.getElementById('landing').classList.add('hidden');
+            document.getElementById('history').classList.add('hidden');
+            document.getElementById('results').classList.add('hidden');
             document.getElementById('quiz').classList.remove('hidden');
-            cQ = 0; ans = {}; sLeft = TIMER_MINUTES * 60; qStart = Date.now(); qEnded = false; wShown = false; dShown = false; renderQ(); startTimer();
+
+            cQ = 0;
+            ans = {};
+            sLeft = TIMER_MINUTES * 60;
+            qStart = Date.now();
+            qEnded = false;
+            wShown = false;
+            dShown = false;
+            currentAttemptSaved = false;
+
+            renderQ();
+            startTimer();
         }
 
-        function startTimer() { if (tInt) clearInterval(tInt); tInt = setInterval(() => { sLeft--; updateTimer(); if (sLeft <= 0) { clearInterval(tInt); timeUp(); } }, 1000); }
+        function startTimer() {
+            if (tInt) clearInterval(tInt);
+            tInt = setInterval(() => {
+                sLeft--;
+                updateTimer();
+                if (sLeft <= 0) {
+                    clearInterval(tInt);
+                    timeUp();
+                }
+            }, 1000);
+        }
+
         function updateTimer() {
             const el = document.getElementById('timerDisplay');
             const bn = document.getElementById('warningBanner');
@@ -1291,7 +1600,9 @@
             } else {
                 bn.classList.remove('show');
             }
-        } function showAlert(t) {
+        }
+
+        function showAlert(t) {
             const ex = document.getElementById('tAlertOv');
             if (ex) ex.remove();
 
@@ -1337,10 +1648,21 @@
             setTimeout(function () {
                 if (ov.parentNode) ov.remove();
             }, 10000);
-        } function fmt(s) { return Math.floor(s / 60).toString().padStart(2, '0') + ':' + ((s % 60).toString().padStart(2, '0')); }
-        function timeUp() { if (qEnded) return; qEnded = true; document.getElementById('expiredToast').classList.add('show'); }
+        }
 
-        function hasValue(v) { return v !== undefined && v !== null && String(v).trim() !== ''; }
+        function fmt(s) {
+            return Math.floor(s / 60).toString().padStart(2, '0') + ':' + ((s % 60).toString().padStart(2, '0'));
+        }
+
+        function timeUp() {
+            if (qEnded) return;
+            qEnded = true;
+            document.getElementById('expiredToast').classList.add('show');
+        }
+
+        function hasValue(v) {
+            return v !== undefined && v !== null && String(v).trim() !== '';
+        }
 
         function saveCurrentAnswer() {
             const q = QUESTIONS[cQ];
@@ -1352,15 +1674,22 @@
         }
 
         function renderQ() {
-            if (cQ >= QUESTIONS.length) { finalizeQuiz(); return; }
+            if (cQ >= QUESTIONS.length) {
+                finalizeQuiz();
+                return;
+            }
+
             const q = QUESTIONS[cQ], tot = QUESTIONS.length, pct = Math.round((cQ / tot) * 100);
             document.getElementById('progressText').textContent = 'Q ' + (cQ + 1) + ' / ' + tot;
             document.getElementById('progressFill').style.width = pct + '%';
+
             const card = document.getElementById('questionCard');
             card.style.animation = 'none';
+
             requestAnimationFrame(() => {
                 card.style.animation = '';
                 card.innerHTML = buildQ(q, cQ, tot);
+
                 if (q.type === 'mcq') {
                     card.querySelectorAll('.option-btn').forEach(b => {
                         b.addEventListener('click', () => selOpt(b, q.id));
@@ -1416,7 +1745,9 @@
             return '<div class="q-type-badge ' + tc + '">' + tl + '</div><div class="q-number">Question ' + (idx + 1) + ' of ' + tot + '</div><div class="q-stem">' + q.stem + '</div>' + ct + '<div class="card-bottom"><div class="answered-label"><div class="answered-dot' + df + '"></div>' + (answered ? 'Answered' : 'Not answered yet') + '</div><div class="nav-actions"><button class="btn-back"' + backDisabled + ' onclick="prevQ()">← Back</button><button class="' + bc + '"' + nd + ' onclick="nextQ()">' + bl + '</button></div></div>';
         }
 
-        function esc(s) { return String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;'); }
+        function esc(s) {
+            return String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+        }
 
         function selOpt(btn, qId) {
             const options = document.getElementById('questionCard').querySelectorAll('.option-btn');
@@ -1443,7 +1774,8 @@
             const q = QUESTIONS[cQ];
             if (ans[q.id] === undefined) ans[q.id] = null;
             cQ++;
-            if (cQ >= QUESTIONS.length) finalizeQuiz(); else renderQ();
+            if (cQ >= QUESTIONS.length) finalizeQuiz();
+            else renderQ();
         }
 
         function prevQ() {
@@ -1453,22 +1785,393 @@
             renderQ();
         }
 
-        function finalizeQuiz() { if (tInt) clearInterval(tInt); document.getElementById('expiredToast').classList.remove('show'); const ov = document.getElementById('tAlertOv'); if (ov) ov.remove(); document.getElementById('quiz').classList.add('hidden'); document.getElementById('results').classList.remove('hidden'); showResults(); }
-        function norm(s) { return (s || '').toLowerCase().trim().replace(/[^a-z0-9α]/g, ''); }
-        function chkAns(q, ua) { if (ua === null || ua === undefined || ua === '') return 'skipped'; if (q.type === 'mcq') return ua === q.answer ? 'correct' : 'incorrect'; const acc = [q.answer, ...(q.acceptableAnswers || [])].map(norm); return acc.includes(norm(ua)) ? 'correct' : 'incorrect'; }
-        function showResults() { let co = 0, wr = 0, sk = 0; gRes = []; QUESTIONS.forEach(q => { const ua = ans[q.id] ?? null, r = chkAns(q, ua); if (r === 'correct') co++; else if (r === 'incorrect') wr++; else sk++; gRes.push({ q, ua, r }); }); const tot = QUESTIONS.length, pct = Math.round((co / tot) * 100), tu = Math.round((Date.now() - qStart) / 1000); let gr, gc, em, ti; if (pct >= 90) { gr = 'A'; gc = 'grade-A'; em = '🏆'; ti = 'Outstanding!'; } else if (pct >= 75) { gr = 'B'; gc = 'grade-B'; em = '🎉'; ti = 'Great Work!'; } else if (pct >= 60) { gr = 'C'; gc = 'grade-C'; em = '👍'; ti = 'Good Effort!'; } else if (pct >= 50) { gr = 'D'; gc = 'grade-D'; em = '📚'; ti = 'Keep Studying!'; } else { gr = 'F'; gc = 'grade-F'; em = '💪'; ti = 'Try Again!'; } const nm = document.getElementById('studentName').value; document.getElementById('resultEmoji').textContent = em; document.getElementById('resultTitle').textContent = ti; document.getElementById('resultSub').textContent = nm + ' · ' + pct + '% · Grade ' + gr; document.getElementById('scorePct').textContent = pct + '%'; document.getElementById('scorePct').className = 'score-pct ' + gc; document.getElementById('gradeDisplay').textContent = 'GRADE ' + gr; document.getElementById('gradeDisplay').className = 'grade-big ' + gc; document.getElementById('statCorrect').textContent = co; document.getElementById('statWrong').textContent = wr; document.getElementById('statSkipped').textContent = sk; document.getElementById('statTime').textContent = fmt(tu); const circ = 452, off = circ - (pct / 100) * circ, rf = document.getElementById('scoreRingFill'), cols = { A: '#4ade80', B: '#a78bfa', C: '#fbbf24', D: '#f97316', F: '#f87171' }; rf.style.stroke = cols[gr]; setTimeout(() => rf.style.strokeDashoffset = off, 100); const list = document.getElementById('reviewList'); list.innerHTML = ''; gRes.forEach(({ q, ua, r }) => { const item = document.createElement('div'); item.className = 'review-item ' + r; const sM = { correct: '✓ Correct', incorrect: '✗ Wrong', skipped: '— Skipped' }, sC = { correct: 'c', incorrect: 'x', skipped: 's' }, L = ['A', 'B', 'C', 'D']; let ud = '', cd = ''; if (r === 'skipped') { ud = '<span class="skipped-ans">Not answered</span>'; } else if (q.type === 'mcq') { const ix = L.indexOf(ua), tx = ix >= 0 ? q.options[ix] : ua; ud = '<span class="' + (r === 'correct' ? 'correct-ans' : 'your-ans') + '">' + ua + '. ' + tx + '</span>'; } else { ud = '<span class="' + (r === 'correct' ? 'correct-ans' : 'your-ans') + '">' + esc(ua || '') + '</span>'; } if (r !== 'correct') { if (q.type === 'mcq') { const ix = L.indexOf(q.answer); cd = '<span class="correct-ans">' + q.answer + '. ' + q.options[ix] + '</span>'; } else { cd = '<span class="correct-ans">' + esc(q.answer) + '</span>'; } } item.innerHTML = '<div class="review-header-row"><div class="review-q-num">Q' + q.id + ' · ' + (q.type === 'mcq' ? 'MCQ' : 'Fill-in-Gap') + '</div><span class="status-badge ' + sC[r] + '">' + sM[r] + '</span></div><div class="review-q-text">' + q.stem + '</div><div class="review-answers"><div class="review-row"><span class="review-row-label">Your answer:</span>' + ud + '</div>' + (r !== 'correct' ? '<div class="review-row"><span class="review-row-label">Correct:</span>' + cd + '</div>' : '') + '</div>'; list.appendChild(item); }); }
+        function finalizeQuiz() {
+            if (tInt) clearInterval(tInt);
+            document.getElementById('expiredToast').classList.remove('show');
+            const ov = document.getElementById('tAlertOv');
+            if (ov) ov.remove();
+            document.getElementById('quiz').classList.add('hidden');
+            document.getElementById('results').classList.remove('hidden');
+            showResults();
+        }
+
+        function norm(s) {
+            return (s || '').toLowerCase().trim().replace(/[^a-z0-9α]/g, '');
+        }
+
+        function chkAns(q, ua) {
+            if (ua === null || ua === undefined || ua === '') return 'skipped';
+            if (q.type === 'mcq') return ua === q.answer ? 'correct' : 'incorrect';
+            const acc = [q.answer, ...(q.acceptableAnswers || [])].map(norm);
+            return acc.includes(norm(ua)) ? 'correct' : 'incorrect';
+        }
+
+        function getGradeInfo(pct) {
+            if (pct >= 90) return { grade: 'A', gradeClass: 'grade-A', emoji: '🏆', title: 'Outstanding!' };
+            if (pct >= 75) return { grade: 'B', gradeClass: 'grade-B', emoji: '🎉', title: 'Great Work!' };
+            if (pct >= 60) return { grade: 'C', gradeClass: 'grade-C', emoji: '👍', title: 'Good Effort!' };
+            if (pct >= 50) return { grade: 'D', gradeClass: 'grade-D', emoji: '📚', title: 'Keep Studying!' };
+            return { grade: 'F', gradeClass: 'grade-F', emoji: '💪', title: 'Try Again!' };
+        }
+
+        function buildResultPayload(questions, answersObj, timeUsedSeconds, studentName, quizMeta, startedAt, finishedAt) {
+            let co = 0, wr = 0, sk = 0;
+            const review = [];
+
+            questions.forEach(q => {
+                const ua = answersObj[q.id] ?? null;
+                const r = chkAns(q, ua);
+                if (r === 'correct') co++;
+                else if (r === 'incorrect') wr++;
+                else sk++;
+                review.push({ q, ua, r });
+            });
+
+            const tot = questions.length || 1;
+            const pct = Math.round((co / tot) * 100);
+            const gi = getGradeInfo(pct);
+
+            return {
+                attemptId: 'attempt_' + Date.now() + '_' + Math.random().toString(36).slice(2, 8),
+                quizId: quizMeta?.quizId || ('quiz_runtime_' + Date.now()),
+                quizTitle: quizMeta?.title || getQuizTitle(questions),
+                studentName,
+                startedAt,
+                finishedAt,
+                timeUsedSeconds,
+                answers: deepClone(answersObj),
+                questionsSnapshot: deepClone(questions),
+                correct: co,
+                incorrect: wr,
+                skipped: sk,
+                scorePercent: pct,
+                grade: gi.grade,
+                gradeClass: gi.gradeClass,
+                emoji: gi.emoji,
+                title: gi.title,
+                review
+            };
+        }
+
+        function saveAttempt(payload) {
+            const attempts = getStoredArray(QUIZ_ATTEMPTS_KEY);
+            const toSave = {
+                attemptId: payload.attemptId,
+                quizId: payload.quizId,
+                quizTitle: payload.quizTitle,
+                studentName: payload.studentName,
+                startedAt: payload.startedAt,
+                finishedAt: payload.finishedAt,
+                timeUsedSeconds: payload.timeUsedSeconds,
+                answers: deepClone(payload.answers),
+                questionsSnapshot: deepClone(payload.questionsSnapshot),
+                correct: payload.correct,
+                incorrect: payload.incorrect,
+                skipped: payload.skipped,
+                scorePercent: payload.scorePercent,
+                grade: payload.grade
+            };
+            attempts.unshift(toSave);
+            setStoredArray(QUIZ_ATTEMPTS_KEY, attempts);
+        }
+
+        function showResults(payload = null) {
+            const resultData = payload || buildResultPayload(
+                QUESTIONS,
+                ans,
+                Math.round((Date.now() - qStart) / 1000),
+                document.getElementById('studentName').value,
+                ACTIVE_QUIZ_META,
+                new Date(qStart).toISOString(),
+                new Date().toISOString()
+            );
+
+            if (!payload && !currentAttemptSaved) {
+                saveAttempt(resultData);
+                currentAttemptSaved = true;
+            }
+
+            gRes = resultData.review;
+
+            document.getElementById('resultEmoji').textContent = resultData.emoji;
+            document.getElementById('resultTitle').textContent = resultData.title;
+            document.getElementById('resultSub').textContent = resultData.studentName + ' · ' + resultData.scorePercent + '% · Grade ' + resultData.grade + ' · ' + resultData.quizTitle;
+            document.getElementById('scorePct').textContent = resultData.scorePercent + '%';
+            document.getElementById('scorePct').className = 'score-pct ' + resultData.gradeClass;
+            document.getElementById('gradeDisplay').textContent = 'GRADE ' + resultData.grade;
+            document.getElementById('gradeDisplay').className = 'grade-big ' + resultData.gradeClass;
+            document.getElementById('statCorrect').textContent = resultData.correct;
+            document.getElementById('statWrong').textContent = resultData.incorrect;
+            document.getElementById('statSkipped').textContent = resultData.skipped;
+            document.getElementById('statTime').textContent = fmt(resultData.timeUsedSeconds);
+
+            const circ = 452,
+                off = circ - (resultData.scorePercent / 100) * circ,
+                rf = document.getElementById('scoreRingFill'),
+                cols = { A: '#4ade80', B: '#a78bfa', C: '#fbbf24', D: '#f97316', F: '#f87171' };
+
+            rf.style.stroke = cols[resultData.grade];
+            setTimeout(() => rf.style.strokeDashoffset = off, 100);
+
+            const list = document.getElementById('reviewList');
+            list.innerHTML = '';
+
+            resultData.review.forEach(({ q, ua, r }) => {
+                const item = document.createElement('div');
+                item.className = 'review-item ' + r;
+                const sM = { correct: '✓ Correct', incorrect: '✗ Wrong', skipped: '— Skipped' },
+                    sC = { correct: 'c', incorrect: 'x', skipped: 's' },
+                    L = ['A', 'B', 'C', 'D'];
+
+                let ud = '', cd = '';
+
+                if (r === 'skipped') {
+                    ud = '<span class="skipped-ans">Not answered</span>';
+                } else if (q.type === 'mcq') {
+                    const ix = L.indexOf(ua), tx = ix >= 0 ? q.options[ix] : ua;
+                    ud = '<span class="' + (r === 'correct' ? 'correct-ans' : 'your-ans') + '">' + ua + '. ' + tx + '</span>';
+                } else {
+                    ud = '<span class="' + (r === 'correct' ? 'correct-ans' : 'your-ans') + '">' + esc(ua || '') + '</span>';
+                }
+
+                if (r !== 'correct') {
+                    if (q.type === 'mcq') {
+                        const ix = L.indexOf(q.answer);
+                        cd = '<span class="correct-ans">' + q.answer + '. ' + q.options[ix] + '</span>';
+                    } else {
+                        cd = '<span class="correct-ans">' + esc(q.answer) + '</span>';
+                    }
+                }
+
+                item.innerHTML = '<div class="review-header-row"><div class="review-q-num">Q' + q.id + ' · ' + (q.type === 'mcq' ? 'MCQ' : 'Fill-in-Gap') + '</div><span class="status-badge ' + sC[r] + '">' + sM[r] + '</span></div><div class="review-q-text">' + q.stem + '</div><div class="review-answers"><div class="review-row"><span class="review-row-label">Your answer:</span>' + ud + '</div>' + (r !== 'correct' ? '<div class="review-row"><span class="review-row-label">Correct:</span>' + cd + '</div>' : '') + '</div>';
+                list.appendChild(item);
+            });
+        }
+
+        function openHistory() {
+            document.getElementById('landing').classList.add('hidden');
+            document.getElementById('quiz').classList.add('hidden');
+            document.getElementById('results').classList.add('hidden');
+            document.getElementById('history').classList.remove('hidden');
+
+            const existingName = document.getElementById('studentName').value.trim();
+            if (existingName && !document.getElementById('historyStudentFilter').value.trim()) {
+                document.getElementById('historyStudentFilter').value = existingName;
+            }
+
+            renderHistory();
+        }
+
+        function closeHistory() {
+            document.getElementById('history').classList.add('hidden');
+            document.getElementById('landing').classList.remove('hidden');
+        }
+
+        function renderHistory() {
+            const filter = document.getElementById('historyStudentFilter').value.trim().toLowerCase();
+            const attempts = getStoredArray(QUIZ_ATTEMPTS_KEY);
+            const archives = getStoredArray(QUIZ_ARCHIVES_KEY);
+
+            const attemptBox = document.getElementById('attemptHistoryList');
+            const archiveBox = document.getElementById('quizArchiveList');
+
+            const filteredAttempts = filter
+                ? attempts.filter(a => (a.studentName || '').toLowerCase().includes(filter))
+                : attempts;
+
+            if (!filteredAttempts.length) {
+                attemptBox.innerHTML = '<div class="history-empty">No saved attempts found for this filter yet.</div>';
+            } else {
+                attemptBox.innerHTML = filteredAttempts.map(a => {
+                    const missedCount = (a.incorrect || 0) + (a.skipped || 0);
+                    return `
+                        <div class="history-card">
+                            <div class="history-card-top">
+                                <div class="history-card-title">${esc(a.studentName)} · ${esc(a.quizTitle || 'Quiz')}</div>
+                                <div class="history-card-title">${a.scorePercent}% · Grade ${a.grade}</div>
+                            </div>
+                            <div class="history-card-meta">
+                                Date: ${new Date(a.finishedAt || a.startedAt || Date.now()).toLocaleString()}<br />
+                                Correct: ${a.correct} · Incorrect: ${a.incorrect} · Skipped: ${a.skipped} · Time: ${fmt(a.timeUsedSeconds || 0)}
+                            </div>
+                            <div class="history-actions">
+                                <button class="btn-mini view" onclick="reviewAttempt('${a.attemptId}')">Review</button>
+                                <button class="btn-mini retake" onclick="retakeAttempt('${a.attemptId}')">Retake Full Quiz</button>
+                                ${missedCount > 0 ? `<button class="btn-mini practice" onclick="practiceMissed('${a.attemptId}')">Practice Missed Only</button>` : ''}
+                            </div>
+                        </div>
+                    `;
+                }).join('');
+            }
+
+            if (!archives.length) {
+                archiveBox.innerHTML = '<div class="history-empty">No archived quiz sets found yet.</div>';
+            } else {
+                archiveBox.innerHTML = archives.map(q => `
+                    <div class="history-card">
+                        <div class="history-card-top">
+                            <div class="history-card-title">${esc(q.title)}</div>
+                            <div class="history-card-title">${q.questionCount} Qs</div>
+                        </div>
+                        <div class="history-card-meta">
+                            Archived: ${new Date(q.createdAt).toLocaleString()}
+                        </div>
+                        <div class="history-actions">
+                            <button class="btn-mini archive" onclick="retakeArchiveQuiz('${q.quizId}')">Retake This Quiz</button>
+                        </div>
+                    </div>
+                `).join('');
+            }
+        }
+
+        function getAttemptById(attemptId) {
+            return getStoredArray(QUIZ_ATTEMPTS_KEY).find(a => a.attemptId === attemptId);
+        }
+
+        function getArchiveById(quizId) {
+            return getStoredArray(QUIZ_ARCHIVES_KEY).find(q => q.quizId === quizId);
+        }
+
+        function reviewAttempt(attemptId) {
+            const attempt = getAttemptById(attemptId);
+            if (!attempt) {
+                alert('Attempt not found.');
+                return;
+            }
+
+            const payload = buildResultPayload(
+                attempt.questionsSnapshot || [],
+                attempt.answers || {},
+                attempt.timeUsedSeconds || 0,
+                attempt.studentName || 'Course',
+                { quizId: attempt.quizId, title: attempt.quizTitle || 'Quiz' },
+                attempt.startedAt,
+                attempt.finishedAt
+            );
+
+            payload.attemptId = attempt.attemptId;
+            payload.correct = attempt.correct;
+            payload.incorrect = attempt.incorrect;
+            payload.skipped = attempt.skipped;
+            payload.scorePercent = attempt.scorePercent;
+            payload.grade = attempt.grade;
+            payload.gradeClass = getGradeInfo(attempt.scorePercent).gradeClass;
+            payload.emoji = getGradeInfo(attempt.scorePercent).emoji;
+            payload.title = getGradeInfo(attempt.scorePercent).title;
+
+            document.getElementById('history').classList.add('hidden');
+            document.getElementById('quiz').classList.add('hidden');
+            document.getElementById('landing').classList.add('hidden');
+            document.getElementById('results').classList.remove('hidden');
+            showResults(payload);
+        }
+
+        function prepareQuizLaunch(questions, quizMeta, studentName) {
+            QUESTIONS = deepClone(questions);
+            ACTIVE_QUIZ_META = { ...quizMeta };
+            currentAttemptSaved = false;
+
+            document.getElementById('history').classList.add('hidden');
+            document.getElementById('results').classList.add('hidden');
+            document.getElementById('quiz').classList.add('hidden');
+            document.getElementById('landing').classList.remove('hidden');
+
+            if (studentName) {
+                document.getElementById('studentName').value = studentName;
+                startQuiz();
+            } else {
+                alert('Quiz loaded. Enter course name and click Start Quiz.');
+            }
+        }
+
+        function retakeAttempt(attemptId) {
+            const attempt = getAttemptById(attemptId);
+            if (!attempt) {
+                alert('Attempt not found.');
+                return;
+            }
+            prepareQuizLaunch(
+                attempt.questionsSnapshot || [],
+                { quizId: attempt.quizId, title: attempt.quizTitle || 'Quiz' },
+                attempt.studentName || ''
+            );
+        }
+
+        function practiceMissed(attemptId) {
+            const attempt = getAttemptById(attemptId);
+            if (!attempt) {
+                alert('Attempt not found.');
+                return;
+            }
+
+            const originalQuestions = attempt.questionsSnapshot || [];
+            const missedQuestions = originalQuestions.filter(q => {
+                const ua = (attempt.answers || {})[q.id] ?? null;
+                return chkAns(q, ua) !== 'correct';
+            });
+
+            if (!missedQuestions.length) {
+                alert('No missed questions found in this attempt.');
+                return;
+            }
+
+            prepareQuizLaunch(
+                missedQuestions,
+                {
+                    quizId: 'practice_' + attempt.attemptId,
+                    title: (attempt.quizTitle || 'Quiz') + ' — Practice Missed Only'
+                },
+                attempt.studentName || ''
+            );
+        }
+
+        function retakeArchiveQuiz(quizId) {
+            const archive = getArchiveById(quizId);
+            if (!archive) {
+                alert('Archived quiz not found.');
+                return;
+            }
+
+            const studentName = document.getElementById('historyStudentFilter').value.trim() || document.getElementById('studentName').value.trim() || '';
+            prepareQuizLaunch(
+                archive.questions || [],
+                { quizId: archive.quizId, title: archive.title || 'Quiz' },
+                studentName
+            );
+        }
+
         function exportPDF() {
             const { jsPDF } = window.jspdf, doc = new jsPDF({ orientation: 'portrait', unit: 'mm', format: 'a4' }), W = 210, M = 15, CW = W - M * 2; let y = M; const nm = document.getElementById('studentName').value, ptxt = document.getElementById('scorePct').textContent, pct = parseInt(ptxt), gtxt = document.getElementById('gradeDisplay').textContent, gr = gtxt.replace('GRADE ', '').trim(), coN = document.getElementById('statCorrect').textContent, wrN = document.getElementById('statWrong').textContent, skN = document.getElementById('statSkipped').textContent, tmN = document.getElementById('statTime').textContent, gCols = { A: [34, 197, 94], B: [167, 139, 250], C: [245, 158, 11], D: [249, 115, 22], F: [239, 68, 68] }, gc = gCols[gr] || [124, 58, 237]; function chkY(n) { if (y + n > 283) { doc.addPage(); y = M; } }
             doc.setFillColor(13, 15, 26); doc.rect(0, 0, W, 42, 'F'); doc.setFillColor(...gc); doc.rect(0, 40, W, 2.5, 'F');
             doc.setFont('helvetica', 'bold'); doc.setFontSize(16); doc.setTextColor(232, 234, 246); doc.text('QUIZ — RESULT REPORT', W / 2, 13, { align: 'center' }); doc.setFontSize(8.5); doc.setTextColor(136, 146, 176); doc.text('Detailed Score Report', W / 2, 22, { align: 'center' }); doc.setFontSize(8); doc.setTextColor(103, 232, 249); doc.text('Made with love from Goodluck', W / 2, 31, { align: 'center' }); y = 50;
-            doc.setFillColor(22, 24, 40); doc.setDrawColor(...gc); doc.setLineWidth(0.5); doc.roundedRect(M, y, CW, 36, 3, 3, 'FD'); doc.setFont('helvetica', 'bold'); doc.setFontSize(7.5); doc.setTextColor(...gc); doc.text('STUDENT INFORMATION', M + 5, y + 8); doc.setLineWidth(0.2); doc.line(M + 5, y + 10, M + CW - 5, y + 10); doc.setFont('helvetica', 'normal'); doc.setFontSize(11); doc.setTextColor(232, 234, 246); doc.text('Name:  ' + nm, M + 5, y + 20); doc.setFontSize(8); doc.setTextColor(136, 146, 176); doc.text('Date: ' + new Date().toLocaleDateString('en-GB', { day: '2-digit', month: 'long', year: 'numeric' }), M + 5, y + 29); doc.text('Subject: Quiz', M + 65, y + 29); y += 44;
+            doc.setFillColor(22, 24, 40); doc.setDrawColor(...gc); doc.setLineWidth(0.5); doc.roundedRect(M, y, CW, 36, 3, 3, 'FD'); doc.setFont('helvetica', 'bold'); doc.setFontSize(7.5); doc.setTextColor(...gc); doc.text('COURSE INFORMATION', M + 5, y + 8); doc.setLineWidth(0.2); doc.line(M + 5, y + 10, M + CW - 5, y + 10); doc.setFont('helvetica', 'normal'); doc.setFontSize(11); doc.setTextColor(232, 234, 246); doc.text('Name:  ' + nm, M + 5, y + 20); doc.setFontSize(8); doc.setTextColor(136, 146, 176); doc.text('Date: ' + new Date().toLocaleDateString('en-GB', { day: '2-digit', month: 'long', year: 'numeric' }), M + 5, y + 29); doc.text('Subject: Quiz', M + 65, y + 29); y += 44;
             chkY(55); doc.setFillColor(22, 24, 40); doc.setDrawColor(...gc); doc.setLineWidth(0.8); doc.roundedRect(M, y, CW, 52, 3, 3, 'FD'); doc.setFillColor(...gc); doc.circle(M + 22, y + 26, 16, 'F'); doc.setFont('helvetica', 'bold'); doc.setFontSize(22); doc.setTextColor(255, 255, 255); doc.text(gr, M + 22, y + 33, { align: 'center' }); doc.setFontSize(7.5); doc.setTextColor(136, 146, 176); doc.text('GRADE', M + 22, y + 43, { align: 'center' }); doc.setFont('helvetica', 'bold'); doc.setFontSize(28); doc.setTextColor(...gc); doc.text(ptxt, M + 48, y + 30); doc.setFontSize(8); doc.setTextColor(136, 146, 176); doc.text('OVERALL SCORE', M + 48, y + 38); const perf = pct >= 90 ? 'OUTSTANDING' : pct >= 75 ? 'GREAT WORK' : pct >= 60 ? 'GOOD EFFORT' : pct >= 50 ? 'NEEDS IMPROVEMENT' : 'REQUIRES REVISION'; doc.setFont('helvetica', 'bold'); doc.setFontSize(11); doc.setTextColor(232, 234, 246); doc.text(perf, M + 48, y + 48); const sts = [[coN, 'Correct', [34, 197, 94]], [wrN, 'Incorrect', [239, 68, 68]], [skN, 'Skipped', [245, 158, 11]], [tmN, 'Time Used', [103, 232, 249]]]; let sx = M + 118; sts.forEach(([v, l, c]) => { doc.setFont('helvetica', 'bold'); doc.setFontSize(11); doc.setTextColor(...c); doc.text(String(v), sx, y + 24, { align: 'center' }); doc.setFont('helvetica', 'normal'); doc.setFontSize(7); doc.setTextColor(136, 146, 176); doc.text(l.toUpperCase(), sx, y + 31, { align: 'center' }); sx += 22; }); y += 60;
             chkY(14); doc.setFont('helvetica', 'bold'); doc.setFontSize(11); doc.setTextColor(232, 234, 246); doc.text('DETAILED QUESTION REVIEW', M, y); doc.setDrawColor(...gc); doc.setLineWidth(0.3); doc.line(M, y + 2, W - M, y + 2); y += 10;
             const L = ['A', 'B', 'C', 'D']; gRes.forEach(({ q, ua, r }) => { const bH = r === 'correct' ? [34, 197, 94] : r === 'incorrect' ? [239, 68, 68] : [245, 158, 11], sw = doc.splitTextToSize(q.id + '. ' + q.stem, CW - 10), bH2 = sw.length * 5 + 20, eH = r !== 'correct' ? 7 : 0, tH = bH2 + eH + 2; chkY(tH + 4); doc.setFillColor(26, 29, 46); doc.roundedRect(M, y, CW, tH, 2, 2, 'F'); doc.setFillColor(...bH); doc.rect(M, y, 3, tH, 'F'); doc.setFont('helvetica', 'bold'); doc.setFontSize(7); doc.setTextColor(...bH); doc.text('Q' + q.id + '  ·  ' + (q.type === 'mcq' ? 'MCQ' : 'FILL-IN'), M + 6, y + 7); const sT = r === 'correct' ? 'CORRECT' : r === 'incorrect' ? 'WRONG' : 'SKIPPED'; doc.text(sT, W - M - 3, y + 7, { align: 'right' }); doc.setFont('helvetica', 'normal'); doc.setFontSize(8.5); doc.setTextColor(220, 222, 236); sw.forEach((ln, li) => doc.text(ln, M + 6, y + 13 + li * 5)); let iy = y + 13 + sw.length * 5; doc.setFont('helvetica', 'bold'); doc.setFontSize(7.5); doc.setTextColor(136, 146, 176); doc.text('Your answer:', M + 6, iy + 1); doc.setFont('helvetica', 'normal'); if (r === 'skipped') { doc.setTextColor(251, 191, 36); doc.text('Not answered', M + 30, iy + 1); } else if (q.type === 'mcq') { const ix = L.indexOf(ua), tx = ix >= 0 ? q.options[ix] : ua; doc.setTextColor(r === 'correct' ? 74 : 248, r === 'correct' ? 222 : 113, r === 'correct' ? 128 : 113); doc.text(ua + '. ' + String(tx).substring(0, 72), M + 30, iy + 1); } else { doc.setTextColor(r === 'correct' ? 74 : 248, r === 'correct' ? 222 : 113, r === 'correct' ? 128 : 113); doc.text(String(ua || '').substring(0, 72), M + 30, iy + 1); } if (r !== 'correct') { iy += 6; doc.setFont('helvetica', 'bold'); doc.setFontSize(7.5); doc.setTextColor(136, 146, 176); doc.text('Correct:', M + 6, iy + 1); doc.setFont('helvetica', 'normal'); doc.setTextColor(74, 222, 128); if (q.type === 'mcq') { const ix = L.indexOf(q.answer); doc.text(q.answer + '. ' + String(q.options[ix]).substring(0, 72), M + 24, iy + 1); } else { doc.text(String(q.answer).substring(0, 72), M + 24, iy + 1); } } y += tH + 3; });
             const tp = doc.internal.getNumberOfPages(); for (let p = 1; p <= tp; p++) { doc.setPage(p); doc.setFillColor(13, 15, 26); doc.rect(0, 287, W, 10, 'F'); doc.setFillColor(...gc); doc.rect(0, 285, W, 1.5, 'F'); doc.setFont('helvetica', 'italic'); doc.setFontSize(7.5); doc.setTextColor(136, 146, 176); doc.text('Made with love from Goodluck', M, 292); doc.text('Page ' + p + ' of ' + tp, W - M, 292, { align: 'right' }); doc.text(nm + ' · Grade ' + gr + ' · ' + ptxt, W / 2, 292, { align: 'center' }); }
-            const sn = (nm.replace(/[^a-z0-9]/gi, '_').substring(0, 20) || 'Student'); doc.save('Quiz_Result_' + sn + '_Grade' + gr + '.pdf');
+            const sn = (nm.replace(/[^a-z0-9]/gi, '_').substring(0, 20) || 'Course'); doc.save('Quiz_Result_' + sn + '_Grade' + gr + '.pdf');
         }
-        function resetQuiz() { cQ = 0; ans = {}; sLeft = TIMER_MINUTES * 60; qEnded = false; wShown = false; dShown = false; if (tInt) clearInterval(tInt); document.getElementById('results').classList.add('hidden'); document.getElementById('landing').classList.remove('hidden'); document.getElementById('studentName').value = ''; document.getElementById('timerDisplay').textContent = fmt(TIMER_MINUTES * 60); document.getElementById('timerDisplay').className = 'timer-display'; document.getElementById('warningBanner').classList.remove('show'); }
+
+        function resetQuiz() {
+            cQ = 0;
+            ans = {};
+            sLeft = TIMER_MINUTES * 60;
+            qEnded = false;
+            wShown = false;
+            dShown = false;
+            currentAttemptSaved = false;
+            if (tInt) clearInterval(tInt);
+
+            QUESTIONS = deepClone(LIVE_QUESTIONS);
+            ACTIVE_QUIZ_META = LIVE_QUIZ_META ? { ...LIVE_QUIZ_META } : null;
+
+            document.getElementById('results').classList.add('hidden');
+            document.getElementById('history').classList.add('hidden');
+            document.getElementById('landing').classList.remove('hidden');
+            document.getElementById('timerDisplay').textContent = fmt(TIMER_MINUTES * 60);
+            document.getElementById('timerDisplay').className = 'timer-display';
+            document.getElementById('warningBanner').classList.remove('show');
+        }
     </script>
 </body>
 
