@@ -1,763 +1,749 @@
-[
-    {
-      "id": 1,
-      "type": "mcq",
-      "stem": "Glycoproteins are proteins that contain carbohydrate residues attached by which process?",
-      "options": [
-        "Phosphorylation",
-        "Glycosylation",
-        "Methylation",
-        "Acetylation"
-      ],
-      "answer": "B"
-    },
-    {
-      "id": 2,
-      "type": "mcq",
-      "stem": "Which of the following is NOT listed as a sugar residue found in glycoproteins?",
-      "options": [
-        "Fucose",
-        "Galactose",
-        "Glucose",
-        "Mannose"
-      ],
-      "answer": "C"
-    },
-    {
-      "id": 3,
-      "type": "mcq",
-      "stem": "In glycoproteins, which subunits differ and confer biological specificity?",
-      "options": [
-        "Both subunits are identical",
-        "α subunits",
-        "β subunits",
-        "Neither subunit"
-      ],
-      "answer": "C"
-    },
-    {
-      "id": 4,
-      "type": "mcq",
-      "stem": "Which hormone is a glycoprotein with two subunits (α and β)?",
-      "options": [
-        "Adrenaline",
-        "Thyroxine",
-        "Luteinizing Hormone (LH)",
-        "Cortisol"
-      ],
-      "answer": "C"
-    },
-    {
-      "id": 5,
-      "type": "mcq",
-      "stem": "Human Chorionic Gonadotrophin (HCG) is classified under which subdivision?",
-      "options": [
-        "Other polypeptides",
-        "Growth factors/Cytokines",
-        "Glycoproteins",
-        "Eicosanoids"
-      ],
-      "answer": "C"
-    },
-    {
-      "id": 6,
-      "type": "mcq",
-      "stem": "Which of the following is listed as an 'Other Polypeptide' hormone?",
-      "options": [
-        "Luteinizing Hormone",
-        "Hypothalamic releasing hormones",
-        "Prostaglandins",
-        "Cortisol"
-      ],
-      "answer": "B"
-    },
-    {
-      "id": 7,
-      "type": "mcq",
-      "stem": "Parathyroid hormones and pancreatic hormones are classified under:",
-      "options": [
-        "Glycoproteins",
-        "Growth factors/Cytokines",
-        "Other polypeptides",
-        "Eicosanoids"
-      ],
-      "answer": "C"
-    },
-    {
-      "id": 8,
-      "type": "mcq",
-      "stem": "Growth Factors/Cytokines — which cell type is NOT listed as a source?",
-      "options": [
-        "Lymphocytes",
-        "Macrophages",
-        "Hepatocytes",
-        "Endothelial cells"
-      ],
-      "answer": "C"
-    },
-    {
-      "id": 9,
-      "type": "mcq",
-      "stem": "Growth factors and cytokines act on:",
-      "options": [
-        "Only one specific target organ",
-        "Only endocrine glands",
-        "The multiplicity of target cells",
-        "Only lymphocytes"
-      ],
-      "answer": "C"
-    },
-    {
-      "id": 10,
-      "type": "mcq",
-      "stem": "Growth factors/Cytokines may interact and are described as having:",
-      "options": [
-        "No relationship",
-        "Identical or overlapping effects",
-        "Only opposite effects",
-        "Only synergistic effects"
-      ],
-      "answer": "B"
-    },
-    {
-      "id": 11,
-      "type": "mcq",
-      "stem": "Lipid hormones tend to partition preferentially to:",
-      "options": [
-        "Water soluble environments",
-        "Hydrophilic compartments",
-        "Hydrophobic environments (oil)",
-        "The bloodstream freely"
-      ],
-      "answer": "C"
-    },
-    {
-      "id": 12,
-      "type": "mcq",
-      "stem": "The two main types of lipid hormones are:",
-      "options": [
-        "Glycoproteins and Polypeptides",
-        "Amino acids and Peptides",
-        "Steroids and Eicosanoids",
-        "Cytokines and Growth Factors"
-      ],
-      "answer": "C"
-    },
-    {
-      "id": 13,
-      "type": "mcq",
-      "stem": "Steroid hormones are usually synthesized from:",
-      "options": [
-        "Amino acids",
-        "Glucose",
-        "Cholesterol",
-        "Fatty acids"
-      ],
-      "answer": "C"
-    },
-    {
-      "id": 14,
-      "type": "mcq",
-      "stem": "Steroid hormones contain which common nucleus?",
-      "options": [
-        "Peptide ring structure",
-        "Phospholipid bilayer",
-        "Cyclopentanoperhydrophenanthrene ring (4 rings: A, B, C, D)",
-        "Purine ring system"
-      ],
-      "answer": "C"
-    },
-    {
-      "id": 15,
-      "type": "mcq",
-      "stem": "Which of the following is NOT an example of a steroid hormone?",
-      "options": [
-        "Adrenal cortex hormones",
-        "Gonadal hormones",
-        "Activated vitamin D",
-        "Prostaglandins"
-      ],
-      "answer": "D"
-    },
-    {
-      "id": 16,
-      "type": "mcq",
-      "stem": "Because steroid hormones are lipid soluble, they can:",
-      "options": [
-        "Bind only to cell surface receptors",
-        "Dissolve easily in water",
-        "Easily permeate the cell membrane lipid bilayer and act on receptors inside cells",
-        "Travel freely in plasma without carrier proteins"
-      ],
-      "answer": "C"
-    },
-    {
-      "id": 17,
-      "type": "mcq",
-      "stem": "ECF (where steroids are released immediately) stands for:",
-      "options": [
-        "Enzyme Cleavage Factor",
-        "Extracellular Fluid",
-        "Endocrine Cell Formation",
-        "External Cellular Function"
-      ],
-      "answer": "B"
-    },
-    {
-      "id": 18,
-      "type": "mcq",
-      "stem": "Eicosanoids originate from poly-unsaturated fatty acids with how many carbon atoms?",
-      "options": [
-        "16",
-        "18",
-        "20",
-        "22"
-      ],
-      "answer": "C"
-    },
-    {
-      "id": 19,
-      "type": "mcq",
-      "stem": "The main fatty acid precursor of eicosanoids is:",
-      "options": [
-        "Linoleic acid",
-        "Oleic acid",
-        "Arachidonic acid",
-        "Palmitic acid"
-      ],
-      "answer": "C"
-    },
-    {
-      "id": 20,
-      "type": "mcq",
-      "stem": "Eicosanoids are produced by:",
-      "options": [
-        "Only the adrenal glands",
-        "Almost all cells in the body",
-        "Only white blood cells",
-        "Only the liver and kidney"
-      ],
-      "answer": "B"
-    },
-    {
-      "id": 21,
-      "type": "mcq",
-      "stem": "Which of the following is an example of an Eicosanoid?",
-      "options": [
-        "Cortisol",
-        "Thyroxine",
-        "Prostaglandin",
-        "Insulin"
-      ],
-      "answer": "C"
-    },
-    {
-      "id": 22,
-      "type": "mcq",
-      "stem": "Thromboxane and prostacyclin are classified as:",
-      "options": [
-        "Steroid hormones",
-        "Glycoprotein hormones",
-        "Eicosanoids",
-        "Amino acid derivatives"
-      ],
-      "answer": "C"
-    },
-    {
-      "id": 23,
-      "type": "mcq",
-      "stem": "Gases as hormones mainly act in which manner?",
-      "options": [
-        "Endocrine manner only",
-        "Autocrine and paracrine manner, but sometimes endocrine",
-        "Paracrine manner only",
-        "Only through cell surface receptors"
-      ],
-      "answer": "B"
-    },
-    {
-      "id": 24,
-      "type": "mcq",
-      "stem": "The solubility-based classification is based on the ability to:",
-      "options": [
-        "Bind to plasma proteins",
-        "Act on nuclear receptors",
-        "Dissolve easily in aqueous solution",
-        "Synthesize in the endoplasmic reticulum"
-      ],
-      "answer": "C"
-    },
-    {
-      "id": 25,
-      "type": "mcq",
-      "stem": "Water Soluble Hormones travel in blood:",
-      "options": [
-        "Bound tightly to plasma proteins",
-        "Freely and easily — unbound or weakly bound to plasma proteins",
-        "Dissolved in red blood cells",
-        "Stored in platelets"
-      ],
-      "answer": "B"
-    },
-    {
-      "id": 26,
-      "type": "mcq",
-      "stem": "Water Soluble Hormones cannot pass through the lipid bilayer because:",
-      "options": [
-        "They are too large",
-        "They are hydrophilic and cannot permeate the hydrophobic lipid bilayer",
-        "They lack a receptor binding domain",
-        "They are too small"
-      ],
-      "answer": "B"
-    },
-    {
-      "id": 27,
-      "type": "mcq",
-      "stem": "The implication of Water Soluble Hormones binding to cell membrane receptors is:",
-      "options": [
-        "Slow onset with prolonged duration",
-        "No biological response",
-        "Rapid onset with a shorter duration of action",
-        "Must enter the nucleus to act"
-      ],
-      "answer": "C"
-    },
-    {
-      "id": 28,
-      "type": "mcq",
-      "stem": "Lipid Soluble Hormones are NOT stored — which is the EXCEPTION?",
-      "options": [
-        "Steroid hormones",
-        "Thyroid hormones",
-        "Eicosanoids",
-        "Growth factors"
-      ],
-      "answer": "B"
-    },
-    {
-      "id": 29,
-      "type": "mcq",
-      "stem": "Lipid Soluble Hormones act on receptors located:",
-      "options": [
-        "Only on the outer cell membrane",
-        "Inside cells — cytoplasm or nucleus",
-        "In the extracellular fluid only",
-        "On the mitochondrial membrane"
-      ],
-      "answer": "B"
-    },
-    {
-      "id": 30,
-      "type": "mcq",
-      "stem": "For Lipid Soluble Hormones, onset is slowed but duration is:",
-      "options": [
-        "Also shorter",
-        "Prolonged",
-        "Identical to water soluble",
-        "Unpredictable"
-      ],
-      "answer": "B"
-    },
-    {
-      "id": 31,
-      "type": "mcq",
-      "stem": "Lipid Soluble Hormones are transported bound to plasma proteins because they:",
-      "options": [
-        "Are too large to travel freely",
-        "Are highly hydrophilic",
-        "Cannot move freely in water-soluble compartments of body fluids",
-        "Need proteins to bind receptors"
-      ],
-      "answer": "C"
-    },
-    {
-      "id": 32,
-      "type": "mcq",
-      "stem": "A Receptor specifically and selectively recognizes chemical substances to:",
-      "options": [
-        "Transport hormones in the blood",
-        "Elicit a biochemical or physiological response",
-        "Synthesize hormones",
-        "Destroy hormones after use"
-      ],
-      "answer": "B"
-    },
-    {
-      "id": 33,
-      "type": "mcq",
-      "stem": "Removal of hormones from blood by binding to glucuronic acid and sulphates aims to:",
-      "options": [
-        "Block hormone receptors",
-        "Improve solubility and enhance biliary and urinary excretion",
-        "Activate more hormone production",
-        "Recycle hormones"
-      ],
-      "answer": "B"
-    },
-    {
-      "id": 34,
-      "type": "mcq",
-      "stem": "The concentration of hormones in blood ranges from:",
-      "options": [
-        "Several grams per litre",
-        "About one picogram to a few micrograms",
-        "Equal to plasma protein concentration",
-        "Only millimoles per litre"
-      ],
-      "answer": "B"
-    },
-    {
-      "id": 35,
-      "type": "mcq",
-      "stem": "In the intestine, some intermediate hormone metabolites may be broken down by bacteria and:",
-      "options": [
-        "Permanently excreted",
-        "Converted to steroids",
-        "Reabsorbed into the body",
-        "Destroyed completely"
-      ],
-      "answer": "C"
-    },
-    {
-      "id": 36,
-      "type": "fitb",
-      "stem": "A ligand forms a complex with a receptor with the aim of eliciting a _______________ response.",
-      "answer": "biological",
-      "acceptableAnswers": [
-        "biological",
-        "bio"
-      ]
-    },
-    {
-      "id": 37,
-      "type": "fitb",
-      "stem": "A Receptor is a _______________ molecule that specifically and selectively recognizes chemical substances.",
-      "answer": "protein",
-      "acceptableAnswers": [
-        "protein"
-      ]
-    },
-    {
-      "id": 38,
-      "type": "fitb",
-      "stem": "A target cell binds a given hormone irrespective of whether or not a biochemical or _______________ response has been determined.",
-      "answer": "physiological",
-      "acceptableAnswers": [
-        "physiological"
-      ]
-    },
-    {
-      "id": 39,
-      "type": "fitb",
-      "stem": "Hormone blood concentration ranges from about one _______________ to a few micrograms.",
-      "answer": "picogram",
-      "acceptableAnswers": [
-        "picogram",
-        "picograms"
-      ]
-    },
-    {
-      "id": 40,
-      "type": "fitb",
-      "stem": "Hormones are removed from the target site so that their _______________ may terminate.",
-      "answer": "effect",
-      "acceptableAnswers": [
-        "effect",
-        "effects",
-        "biological effect"
-      ]
-    },
-    {
-      "id": 41,
-      "type": "fitb",
-      "stem": "Removal of hormones from blood involves binding to _______________ acid and sulphates.",
-      "answer": "glucuronic",
-      "acceptableAnswers": [
-        "glucuronic"
-      ]
-    },
-    {
-      "id": 42,
-      "type": "fitb",
-      "stem": "Binding to glucuronic acid and sulphates improves _______________ and enhances biliary and urinary excretion.",
-      "answer": "solubility",
-      "acceptableAnswers": [
-        "solubility"
-      ]
-    },
-    {
-      "id": 43,
-      "type": "fitb",
-      "stem": "In the intestine, some metabolites may be broken down by _______________ and reabsorbed into the body.",
-      "answer": "bacteria",
-      "acceptableAnswers": [
-        "bacteria",
-        "intestinal bacteria"
-      ]
-    },
-    {
-      "id": 44,
-      "type": "fitb",
-      "stem": "Glycoproteins are proteins with carbohydrate residues attached by the process of _______________.",
-      "answer": "glycosylation",
-      "acceptableAnswers": [
-        "glycosylation"
-      ]
-    },
-    {
-      "id": 45,
-      "type": "fitb",
-      "stem": "Sugar residues in glycoproteins include fucose, galactose, _______________, galactosamine, glucosamine and sialic acid.",
-      "answer": "mannose",
-      "acceptableAnswers": [
-        "mannose"
-      ]
-    },
-    {
-      "id": 46,
-      "type": "fitb",
-      "stem": "Glycoproteins contain two subunits: _______________ and β.",
-      "answer": "α",
-      "acceptableAnswers": [
-        "α",
-        "alpha",
-        "a"
-      ]
-    },
-    {
-      "id": 47,
-      "type": "fitb",
-      "stem": "In glycoproteins, the _______________ subunits of all glycoproteins are similar.",
-      "answer": "α",
-      "acceptableAnswers": [
-        "α",
-        "alpha",
-        "a"
-      ]
-    },
-    {
-      "id": 48,
-      "type": "fitb",
-      "stem": "The β subunits of glycoproteins _______________ and confer biological specificity.",
-      "answer": "differ",
-      "acceptableAnswers": [
-        "differ",
-        "are different",
-        "differ from each other"
-      ]
-    },
-    {
-      "id": 49,
-      "type": "fitb",
-      "stem": "Follicle Stimulating Hormone is abbreviated as _______________.",
-      "answer": "FSH",
-      "acceptableAnswers": [
-        "FSH",
-        "fsh"
-      ]
-    },
-    {
-      "id": 50,
-      "type": "fitb",
-      "stem": "Human Chorionic Gonadotrophin is abbreviated as _______________.",
-      "answer": "HCG",
-      "acceptableAnswers": [
-        "HCG",
-        "hcg"
-      ]
-    },
-    {
-      "id": 51,
-      "type": "fitb",
-      "stem": "Other Polypeptides include hypothalamic releasing hormones, pituitary trophic hormones, parathyroid hormones, pancreatic hormones, intestinal hormones and _______________.",
-      "answer": "angiotensin",
-      "acceptableAnswers": [
-        "angiotensin"
-      ]
-    },
-    {
-      "id": 52,
-      "type": "fitb",
-      "stem": "Growth factors/Cytokines are small _______________ and proteins synthesized by a variety of cell types.",
-      "answer": "polypeptides",
-      "acceptableAnswers": [
-        "polypeptides",
-        "polypeptide"
-      ]
-    },
-    {
-      "id": 53,
-      "type": "fitb",
-      "stem": "Growth factors are synthesized by lymphocytes, _______________, endothelial cells, neurones and glial cells.",
-      "answer": "macrophages",
-      "acceptableAnswers": [
-        "macrophages",
-        "macrophage"
-      ]
-    },
-    {
-      "id": 54,
-      "type": "fitb",
-      "stem": "Growth factors/Cytokines may interact having identical or _______________ effects.",
-      "answer": "overlapping",
-      "acceptableAnswers": [
-        "overlapping"
-      ]
-    },
-    {
-      "id": 55,
-      "type": "fitb",
-      "stem": "Steroid hormones are usually synthesized from _______________.",
-      "answer": "cholesterol",
-      "acceptableAnswers": [
-        "cholesterol"
-      ]
-    },
-    {
-      "id": 56,
-      "type": "fitb",
-      "stem": "Steroid hormones are not stored and are released immediately to _______________.",
-      "answer": "ECF",
-      "acceptableAnswers": [
-        "ECF",
-        "ecf",
-        "extracellular fluid",
-        "the ECF"
-      ]
-    },
-    {
-      "id": 57,
-      "type": "fitb",
-      "stem": "The steroid nucleus consists of _______________ rings labelled A, B, C, D.",
-      "answer": "4",
-      "acceptableAnswers": [
-        "4",
-        "four"
-      ]
-    },
-    {
-      "id": 58,
-      "type": "fitb",
-      "stem": "Steroid examples include adrenal cortex hormones, gonadal hormones, and activated _______________ D.",
-      "answer": "vitamin",
-      "acceptableAnswers": [
-        "vitamin"
-      ]
-    },
-    {
-      "id": 59,
-      "type": "fitb",
-      "stem": "Eicosanoids originate from poly-unsaturated _______________ carbon atom fatty acids.",
-      "answer": "20",
-      "acceptableAnswers": [
-        "20",
-        "twenty"
-      ]
-    },
-    {
-      "id": 60,
-      "type": "fitb",
-      "stem": "The main fatty acid precursor of eicosanoids is _______________ acid.",
-      "answer": "arachidonic",
-      "acceptableAnswers": [
-        "arachidonic"
-      ]
-    },
-    {
-      "id": 61,
-      "type": "fitb",
-      "stem": "Eicosanoids are produced by almost _______________ cells in the body.",
-      "answer": "all",
-      "acceptableAnswers": [
-        "all"
-      ]
-    },
-    {
-      "id": 62,
-      "type": "fitb",
-      "stem": "Examples of eicosanoids include prostaglandins, prostacyclin, _______________ and leukotrienes.",
-      "answer": "thromboxane",
-      "acceptableAnswers": [
-        "thromboxane",
-        "thromboxanes"
-      ]
-    },
-    {
-      "id": 63,
-      "type": "fitb",
-      "stem": "Lipid hormones are less soluble in _______________ fluid.",
-      "answer": "aqueous",
-      "acceptableAnswers": [
-        "aqueous"
-      ]
-    },
-    {
-      "id": 64,
-      "type": "fitb",
-      "stem": "Lipid hormones partition preferentially to _______________ environments (oil).",
-      "answer": "hydrophobic",
-      "acceptableAnswers": [
-        "hydrophobic"
-      ]
-    },
-    {
-      "id": 65,
-      "type": "fitb",
-      "stem": "Gases as hormones mainly act in autocrine and _______________ manner.",
-      "answer": "paracrine",
-      "acceptableAnswers": [
-        "paracrine"
-      ]
-    },
-    {
-      "id": 66,
-      "type": "fitb",
-      "stem": "Solubility classification is based on the ability to dissolve easily in _______________ solution.",
-      "answer": "aqueous",
-      "acceptableAnswers": [
-        "aqueous"
-      ]
-    },
-    {
-      "id": 67,
-      "type": "fitb",
-      "stem": "Water Soluble Hormones travel _______________ in blood — unbound or weakly bound to plasma proteins.",
-      "answer": "freely",
-      "acceptableAnswers": [
-        "freely",
-        "free"
-      ]
-    },
-    {
-      "id": 68,
-      "type": "fitb",
-      "stem": "Water Soluble Hormones bind to _______________ membrane receptors.",
-      "answer": "cell",
-      "acceptableAnswers": [
-        "cell",
-        "cell membrane",
-        "cellular"
-      ]
-    },
-    {
-      "id": 69,
-      "type": "fitb",
-      "stem": "For Water Soluble Hormones, the implication is a _______________ onset with a shorter duration of action.",
-      "answer": "rapid",
-      "acceptableAnswers": [
-        "rapid",
-        "fast",
-        "quick"
-      ]
-    },
-    {
-      "id": 70,
-      "type": "fitb",
-      "stem": "Lipid Soluble Hormones are transported _______________ to plasma proteins.",
-      "answer": "bound",
-      "acceptableAnswers": [
-        "bound"
-      ]
-    }
-  ]
+
+  {
+    "id": 1,
+    "type": "mcq",
+    "stem": "According to Fansworth (1957), mental health is best defined as:",
+    "options": [
+      "The absence of any psychiatric disorder or psychopathology",
+      "A state of mind in which one is free to make use of his capacities in an effective and satisfying manner",
+      "Maladaptive responses to stressors from the internal or external environment",
+      "A state of well-being in which the individual realizes his or her own abilities"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 2,
+    "type": "mcq",
+    "stem": "The World Health Organization (WHO) defines mental health as a state of well-being in which the individual realizes his or her own abilities, can cope with normal stresses of life, and is able to:",
+    "options": [
+      "Avoid all forms of psychiatric disorder",
+      "Perform optimally in all situations without any distress",
+      "Make a contribution to his or her community",
+      "Remain free from all negative emotions"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 3,
+    "type": "mcq",
+    "stem": "Black and Andreasen (2011) describe mental health as a state of being that is:",
+    "options": [
+      "Absolute and fixed",
+      "Relative rather than absolute",
+      "Only determinable by psychiatric assessment",
+      "Equivalent to the absence of mental illness"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 4,
+    "type": "mcq",
+    "stem": "Townsend (2015) defined mental health as the successful adaptation to stressors from the internal or external environment, evidenced by thoughts, feelings, and behaviors that are:",
+    "options": [
+      "Completely free of distress and cultural influence",
+      "Age-appropriate and congruent with local and cultural norms",
+      "Independent of social and occupational functioning",
+      "Determined solely by psychiatric diagnosis"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 5,
+    "type": "mcq",
+    "stem": "Mental health is described as the foundation for which of the following clusters?",
+    "options": [
+      "Physical health, nutrition, and exercise",
+      "Emotions, thinking, communication, learning, resilience, hope and self-esteem",
+      "Social policy, economic stability, and community services",
+      "Medical diagnosis, pharmacological treatment, and clinical assessment"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 6,
+    "type": "mcq",
+    "stem": "Jahoda (1958) identified how many indicators as a reflection of mental health?",
+    "options": [
+      "Four",
+      "Five",
+      "Six",
+      "Seven"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 7,
+    "type": "mcq",
+    "stem": "According to Jahoda (1958), 'Autonomy' as an indicator of mental health refers to:",
+    "options": [
+      "The ability to perceive the environment without distortion",
+      "The individual's ability to perform in an independent, self-directed manner",
+      "The capacity to adaptively respond to the environment",
+      "An objective view of self including strengths and limitations"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 8,
+    "type": "mcq",
+    "stem": "Jahoda's indicator of 'Perception of Reality' includes which of the following?",
+    "options": [
+      "The ability to perform independently without social support",
+      "The development of a philosophy of life",
+      "Perception of the environment without distortion, and capacity for empathy and social sensitivity",
+      "Knowledge and acceptance of one's strengths and limitations"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 9,
+    "type": "mcq",
+    "stem": "The 'Integration' indicator of mental health according to Jahoda includes the ability to adaptively respond to the environment AND:",
+    "options": [
+      "Seek help from mental health professionals",
+      "Avoid all forms of stress",
+      "The development of a philosophy of life",
+      "Achieve self-actualization at every developmental stage"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 10,
+    "type": "mcq",
+    "stem": "The Medical Model of normality in mental health defines normal mental health as:",
+    "options": [
+      "Optimal functioning in all areas of life",
+      "The absence of any psychiatric disorder or psychopathology",
+      "A statistical average within two standard deviations",
+      "An absence of distress or help-seeking behaviour"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 11,
+    "type": "mcq",
+    "stem": "The Statistical Model of normality in mental health defines normal as falling within how many standard deviations of the normal distribution curve?",
+    "options": [
+      "One",
+      "Two",
+      "Three",
+      "Four"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 12,
+    "type": "mcq",
+    "stem": "The Utopian Model of normality focuses on defining normality as:",
+    "options": [
+      "Absence of psychiatric disorder",
+      "Statistical average within the population",
+      "Optimal functioning",
+      "Absence of distress or disability"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 13,
+    "type": "mcq",
+    "stem": "According to the Subjective Model of normality, normality is viewed as:",
+    "options": [
+      "Optimal functioning in all life domains",
+      "A statistical average for the population",
+      "An absence of distress, disability, or any help-seeking behaviour resulting thereof",
+      "Conforming to socially acceptable behaviour"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 14,
+    "type": "mcq",
+    "stem": "The Process Model of normality views normality as:",
+    "options": [
+      "A static and fixed concept",
+      "A dynamic and changing process rather than a static concept",
+      "The absence of psychiatric disorder",
+      "Defined by societal norms only"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 15,
+    "type": "mcq",
+    "stem": "The Continuum Model of normality considers normality and mental disorder as:",
+    "options": [
+      "Completely separate and unrelated entities",
+      "Falling at the two ends of a continuum rather than being disparate entities",
+      "Defined solely by psychiatric diagnosis",
+      "Equivalent states on a static scale"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 16,
+    "type": "mcq",
+    "stem": "Which two elements are specifically associated with individuals' perceptions of mental illness, regardless of cultural origin?",
+    "options": [
+      "Stigma and discrimination",
+      "Incomprehensibility and cultural relativity",
+      "Diagnosis and treatment resistance",
+      "Social isolation and occupational impairment"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 17,
+    "type": "mcq",
+    "stem": "Incomprehensibility in the context of mental illness refers to:",
+    "options": [
+      "The inability to afford mental health treatment",
+      "The difficulty in diagnosing mental illness accurately",
+      "The inability of the general population to understand the motivation behind the behavior",
+      "The complexity of psychiatric terminology"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 18,
+    "type": "mcq",
+    "stem": "Cultural relativity in mental illness considers that behavior labeled as 'mentally ill' in one society may:",
+    "options": [
+      "Always be considered abnormal globally",
+      "Be viewed as normal in another society, and vice versa",
+      "Only be assessed by internationally agreed diagnostic criteria",
+      "Remain unchanged regardless of cultural context"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 19,
+    "type": "mcq",
+    "stem": "Townsend (2015) defined mental illness as maladaptive responses to stressors, evidenced by thoughts, feelings, and behaviors that are incongruent with local and cultural norms AND that interfere with:",
+    "options": [
+      "The individual's family planning decisions",
+      "Religious and spiritual practices",
+      "The individual's social, occupational, and/or physical functioning",
+      "Community leadership and civic participation"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 20,
+    "type": "mcq",
+    "stem": "The American Psychiatric Association defines mental illnesses as health conditions involving changes in:",
+    "options": [
+      "Only neurological structure and brain chemistry",
+      "Emotion, thinking or behavior (or a combination of these)",
+      "Social relationships and economic status exclusively",
+      "Only mood and sleep patterns"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 21,
+    "type": "mcq",
+    "stem": "A mental disorder is characterized by a clinically significant disturbance in an individual's cognition, emotional regulation, or behaviour. It is usually associated with:",
+    "options": [
+      "Only changes in brain chemistry measurable by scanning",
+      "Distress or impairment in important areas of functioning",
+      "Complete loss of all mental capacity",
+      "Exclusively social withdrawal"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 22,
+    "type": "mcq",
+    "stem": "Which of the following is listed as an example of mental illness in the document?",
+    "options": [
+      "Hypertension and diabetes",
+      "Depression, anxiety disorders, schizophrenia, eating disorders and addictive behaviors",
+      "Insomnia, fatigue, and muscle pain",
+      "Chronic pain and inflammatory conditions"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 23,
+    "type": "mcq",
+    "stem": "Which of the following is listed as a characteristic of a mentally-ill person?",
+    "options": [
+      "High self-esteem and strong coping",
+      "Consistent mood and emotional stability",
+      "Extreme mood changes of highs and lows",
+      "Excellent ability to cope with daily problems"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 24,
+    "type": "mcq",
+    "stem": "According to the Mental HealthâMental Illness Continuum, the absence of mental health:",
+    "options": [
+      "Always means the presence of mental illness",
+      "Does not necessarily mean the presence of mental illness",
+      "Is equivalent to a diagnosed psychiatric disorder",
+      "Cannot occur without severe symptoms"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 25,
+    "type": "mcq",
+    "stem": "The Continuum Model of Mental Health shows that a person may still have good mental health and wellbeing while:",
+    "options": [
+      "Having no diagnosed conditions whatsoever",
+      "Living with a diagnosed mental illness",
+      "Showing no symptoms of distress",
+      "Meeting criteria for multiple psychiatric disorders simultaneously"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 26,
+    "type": "mcq",
+    "stem": "A mental health distress becomes a mental illness when:",
+    "options": [
+      "The person refuses to seek professional help",
+      "The symptoms last for more than two weeks",
+      "Ongoing signs and symptoms cause frequent stress and affect the ability to function",
+      "A psychiatric label has been formally assigned"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 27,
+    "type": "mcq",
+    "stem": "The continuum of mental health spans from which state to which endpoint?",
+    "options": [
+      "Normal functioning to complete psychosis",
+      "No distress (healthy) to mental distress, mental health problem, to mental illness (severe symptoms)",
+      "Mild anxiety to clinical depression only",
+      "Physical health to social dysfunction"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 28,
+    "type": "mcq",
+    "stem": "Mental health is described as 'completely abstract' because:",
+    "options": [
+      "It can be easily measured with clinical tools",
+      "It is only relevant in psychiatric settings",
+      "An onlooker does not know what is going on with an individual internally",
+      "It changes too rapidly to be studied"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 29,
+    "type": "mcq",
+    "stem": "The Social Model of normality defines a normal person as one who:",
+    "options": [
+      "Scores within two standard deviations of the population mean",
+      "Is free from any psychiatric disorder",
+      "Is expected to behave in a socially 'acceptable' behaviour",
+      "Functions optimally in all life domains"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 30,
+    "type": "mcq",
+    "stem": "Mental health implies all of the following EXCEPT:",
+    "options": [
+      "A moderate amount of self-understanding",
+      "The capacity to be creative",
+      "The ability to love and accept love",
+      "Complete freedom from all personal limitations"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 31,
+    "type": "mcq",
+    "stem": "According to the document, mental health is a component of overall well-being. It can influence and be influenced by:",
+    "options": [
+      "Economic status alone",
+      "Physical health",
+      "Education and employment only",
+      "Social class and political environment"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 32,
+    "type": "mcq",
+    "stem": "Jahoda's first indicator of mental health â 'A Positive Attitude Toward Self' â includes:",
+    "options": [
+      "The development of a philosophy of life",
+      "The ability to perform independently",
+      "An objective view of self, including knowledge and acceptance of strengths and limitations",
+      "Perception of the environment without distortion"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 33,
+    "type": "mcq",
+    "stem": "The term 'mental health conditions' is described as a broader term than 'mental disorders' because it also covers:",
+    "options": [
+      "Physical health and neurological disorders only",
+      "Psychosocial disabilities and other mental states associated with significant distress, impairment in functioning, or risk of self-harm",
+      "Personality traits and learning differences only",
+      "Cultural behaviors that differ from societal norms"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 34,
+    "type": "mcq",
+    "stem": "Being mentally healthy involves having the strength to overcome difficulties and having which of the following?",
+    "options": [
+      "Complete immunity from all life stressors",
+      "Unlimited social support networks",
+      "Confidence, self-esteem, and the ability to make decisions and believe in oneself",
+      "Professional psychiatric certification"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 35,
+    "type": "mcq",
+    "stem": "When observers are unable to find meaning or comprehensibility in behavior, they are likely to:",
+    "options": [
+      "Seek cultural explanations for the behavior",
+      "Label that behavior as mental illness",
+      "Provide psychiatric diagnosis based on DSM criteria",
+      "Offer social support to the individual"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 36,
+    "type": "fitb",
+    "stem": "Mental health is a state which is completely _______________ because an onlooker does not know what is going on with an individual, but its manifestations are generally observed in the individual's overt behaviour.",
+    "answer": "abstract",
+    "acceptableAnswers": [
+      "abstract"
+    ]
+  },
+  {
+    "id": 37,
+    "type": "fitb",
+    "stem": "_______________ (1957) defines mental health as a state of mind in which one is free to make use of his capacities in an effective and satisfying manner.",
+    "answer": "Fansworth",
+    "acceptableAnswers": [
+      "Fansworth",
+      "Farnsworth"
+    ]
+  },
+  {
+    "id": 38,
+    "type": "fitb",
+    "stem": "The World Health Organization is abbreviated as _______________.",
+    "answer": "WHO",
+    "acceptableAnswers": [
+      "WHO",
+      "W.H.O."
+    ]
+  },
+  {
+    "id": 39,
+    "type": "fitb",
+    "stem": "Black and Andreasen defined mental health in the year _______________.",
+    "answer": "2011",
+    "acceptableAnswers": [
+      "2011"
+    ]
+  },
+  {
+    "id": 40,
+    "type": "fitb",
+    "stem": "Townsend (2015) defined mental health as the successful adaptation to _______________ from the internal or external environment.",
+    "answer": "stressors",
+    "acceptableAnswers": [
+      "stressors",
+      "stressor"
+    ]
+  },
+  {
+    "id": 41,
+    "type": "fitb",
+    "stem": "Mental health involves effective functioning in daily activities resulting in productive activities, healthy relationships, and the ability to adapt to change and cope with _______________.",
+    "answer": "adversity",
+    "acceptableAnswers": [
+      "adversity"
+    ]
+  },
+  {
+    "id": 42,
+    "type": "fitb",
+    "stem": "Mental health is the foundation for emotions, thinking, communication, learning, resilience, hope and _______________.",
+    "answer": "self-esteem",
+    "acceptableAnswers": [
+      "self-esteem",
+      "self esteem"
+    ]
+  },
+  {
+    "id": 43,
+    "type": "fitb",
+    "stem": "_______________ (1958) identified a list of six indicators she suggested are a reflection of mental health.",
+    "answer": "Jahoda",
+    "acceptableAnswers": [
+      "Jahoda"
+    ]
+  },
+  {
+    "id": 44,
+    "type": "fitb",
+    "stem": "Jahoda's indicator of 'Growth, Development, and the Ability to Achieve Self-actualization' correlates with whether the individual successfully achieves the tasks associated with each level of _______________.",
+    "answer": "development",
+    "acceptableAnswers": [
+      "development"
+    ]
+  },
+  {
+    "id": 45,
+    "type": "fitb",
+    "stem": "Jahoda's 'Integration' indicator includes the ability to adaptively respond to the environment and the development of a _______________ of life.",
+    "answer": "philosophy",
+    "acceptableAnswers": [
+      "philosophy"
+    ]
+  },
+  {
+    "id": 46,
+    "type": "fitb",
+    "stem": "Jahoda's indicator of 'Environmental Mastery' suggests that the individual is able to love and accept the love of others, and when faced with life situations is able to strategize, make decisions, change, adjust, and _______________.",
+    "answer": "adapt",
+    "acceptableAnswers": [
+      "adapt",
+      "adapt."
+    ]
+  },
+  {
+    "id": 47,
+    "type": "fitb",
+    "stem": "The Medical Model of normality is also known as 'Normality as _______________'.",
+    "answer": "Health",
+    "acceptableAnswers": [
+      "Health",
+      "health"
+    ]
+  },
+  {
+    "id": 48,
+    "type": "fitb",
+    "stem": "The Statistical Model of normality defines statistically normal mental health as falling within two _______________ deviations of the normal distribution curve for the population.",
+    "answer": "standard",
+    "acceptableAnswers": [
+      "standard"
+    ]
+  },
+  {
+    "id": 49,
+    "type": "fitb",
+    "stem": "The Utopian Model is also described as 'Normality as _______________' with its focus on optimal functioning.",
+    "answer": "Utopia",
+    "acceptableAnswers": [
+      "Utopia",
+      "utopia"
+    ]
+  },
+  {
+    "id": 50,
+    "type": "fitb",
+    "stem": "The Process Model views normality as a dynamic and changing process rather than as a _______________ concept.",
+    "answer": "static",
+    "acceptableAnswers": [
+      "static"
+    ]
+  },
+  {
+    "id": 51,
+    "type": "fitb",
+    "stem": "The Process Model of normality can be combined with any _______________ model mentioned.",
+    "answer": "other",
+    "acceptableAnswers": [
+      "other"
+    ]
+  },
+  {
+    "id": 52,
+    "type": "fitb",
+    "stem": "The two elements associated with individuals' perceptions of mental illness regardless of cultural origin are incomprehensibility and _______________ relativity.",
+    "answer": "cultural",
+    "acceptableAnswers": [
+      "cultural"
+    ]
+  },
+  {
+    "id": 53,
+    "type": "fitb",
+    "stem": "Cultural relativity considers that behavior defined as 'normal' or 'abnormal' is determined by one's _______________ or societal norms.",
+    "answer": "cultural",
+    "acceptableAnswers": [
+      "cultural",
+      "culture"
+    ]
+  },
+  {
+    "id": 54,
+    "type": "fitb",
+    "stem": "Mental illness is defined as maladaptive responses to stressors from the internal or external environment, evidenced by thoughts, feelings, and behaviors that are _______________ with the local and cultural norms. (Townsend, 2015)",
+    "answer": "incongruent",
+    "acceptableAnswers": [
+      "incongruent"
+    ]
+  },
+  {
+    "id": 55,
+    "type": "fitb",
+    "stem": "The _______________ Psychiatric Association defined mental illnesses as health conditions involving changes in emotion, thinking or behavior.",
+    "answer": "American",
+    "acceptableAnswers": [
+      "American"
+    ]
+  },
+  {
+    "id": 56,
+    "type": "fitb",
+    "stem": "A mental disorder is characterized by a clinically significant disturbance in an individual's cognition, emotional regulation, or behaviour, and is usually associated with distress or _______________ in important areas of functioning.",
+    "answer": "impairment",
+    "acceptableAnswers": [
+      "impairment"
+    ]
+  },
+  {
+    "id": 57,
+    "type": "fitb",
+    "stem": "Mental disorders may also be referred to as mental health _______________.",
+    "answer": "conditions",
+    "acceptableAnswers": [
+      "conditions",
+      "condition"
+    ]
+  },
+  {
+    "id": 58,
+    "type": "fitb",
+    "stem": "Examples of mental illness include depression, anxiety disorders, _______________, eating disorders and addictive behaviors.",
+    "answer": "schizophrenia",
+    "acceptableAnswers": [
+      "schizophrenia"
+    ]
+  },
+  {
+    "id": 59,
+    "type": "fitb",
+    "stem": "One characteristic of a mentally-ill person is detachment from _______________.",
+    "answer": "reality",
+    "acceptableAnswers": [
+      "reality"
+    ]
+  },
+  {
+    "id": 60,
+    "type": "fitb",
+    "stem": "Mental health and mental illness are influenced by one another but are not _______________ opposites.",
+    "answer": "polar",
+    "acceptableAnswers": [
+      "polar"
+    ]
+  },
+  {
+    "id": 61,
+    "type": "fitb",
+    "stem": "In the Continuum Model, it is the _______________ (scores above the 'cutoff') that determines whether a particular person's experience constitutes a symptom of a disorder.",
+    "answer": "severity",
+    "acceptableAnswers": [
+      "severity"
+    ]
+  },
+  {
+    "id": 62,
+    "type": "fitb",
+    "stem": "The Continuum Model of Mental Health shows how mental health and mental illness belong to two interconnected but _______________ continua.",
+    "answer": "separate",
+    "acceptableAnswers": [
+      "separate"
+    ]
+  },
+  {
+    "id": 63,
+    "type": "fitb",
+    "stem": "A person may have significant problems with their mental health but not meet the _______________ for a diagnosed mental illness.",
+    "answer": "criteria",
+    "acceptableAnswers": [
+      "criteria"
+    ]
+  },
+  {
+    "id": 64,
+    "type": "fitb",
+    "stem": "A mental health distress becomes a mental illness when ongoing signs and symptoms cause frequent stress and affect your ability to _______________.",
+    "answer": "function",
+    "acceptableAnswers": [
+      "function"
+    ]
+  },
+  {
+    "id": 65,
+    "type": "fitb",
+    "stem": "The continuum of mental health spans from a state of no distress (healthy) to mental distress (mild symptoms), to mental health problem (_______________ symptoms) and then to mental illness (severe symptoms).",
+    "answer": "moderate",
+    "acceptableAnswers": [
+      "moderate"
+    ]
+  },
+  {
+    "id": 66,
+    "type": "fitb",
+    "stem": "Mental health is also key to relationships, personal and emotional well-being and contributing to _______________ or society.",
+    "answer": "community",
+    "acceptableAnswers": [
+      "community"
+    ]
+  },
+  {
+    "id": 67,
+    "type": "fitb",
+    "stem": "The Social Model of normality expects a normal person to behave in a socially '_______________ ' behaviour.",
+    "answer": "acceptable",
+    "acceptableAnswers": [
+      "acceptable",
+      "accepted"
+    ]
+  },
+  {
+    "id": 68,
+    "type": "fitb",
+    "stem": "Jahoda's indicator of 'Perception of Reality' includes perception of the environment without _______________, as well as the capacity for empathy and social sensitivity.",
+    "answer": "distortion",
+    "acceptableAnswers": [
+      "distortion"
+    ]
+  },
+  {
+    "id": 69,
+    "type": "fitb",
+    "stem": "The presence of mental illness does not imply a complete _______________ of mental health.",
+    "answer": "absence",
+    "acceptableAnswers": [
+      "absence"
+    ]
+  },
+  {
+    "id": 70,
+    "type": "fitb",
+    "stem": "Mental health has not been easy to define because of several _______________ associated with it.",
+    "answer": "views",
+    "acceptableAnswers": [
+      "views",
+      "perspectives",
+      "views associated"
+    ]
+  }
+]
