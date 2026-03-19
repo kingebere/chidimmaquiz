@@ -466,7 +466,7 @@
             width: 100%
         }
 
-        .option-btn:hover:not(.disabled) {
+        .option-btn:hover {
             border-color: var(--accent1);
             color: var(--text);
             transform: translateX(3px)
@@ -579,6 +579,13 @@
             background: var(--accent4)
         }
 
+        .nav-actions {
+            display: flex;
+            align-items: center;
+            gap: .7rem;
+            flex-wrap: wrap
+        }
+
         .btn-next {
             padding: 12px 22px;
             background: linear-gradient(135deg, #06b6d4, #0891b2);
@@ -598,12 +605,40 @@
             white-space: nowrap
         }
 
+        .btn-back {
+            padding: 12px 22px;
+            background: linear-gradient(135deg, #374151, #1f2937);
+            border: none;
+            border-radius: 11px;
+            font-family: 'Syne', sans-serif;
+            font-size: .88rem;
+            font-weight: 700;
+            color: #fff;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            gap: 7px;
+            transition: transform .15s, box-shadow .2s, opacity .2s;
+            box-shadow: 0 6px 20px rgba(31, 41, 55, .35);
+            letter-spacing: .02em;
+            white-space: nowrap
+        }
+
+        .btn-back:hover:not(:disabled),
         .btn-next:hover:not(:disabled) {
-            transform: translateY(-2px);
+            transform: translateY(-2px)
+        }
+
+        .btn-next:hover:not(:disabled) {
             box-shadow: 0 10px 28px rgba(6, 182, 212, .45)
         }
 
-        .btn-next:disabled {
+        .btn-back:hover:not(:disabled) {
+            box-shadow: 0 10px 28px rgba(31, 41, 55, .45)
+        }
+
+        .btn-next:disabled,
+        .btn-back:disabled {
             opacity: .4;
             cursor: not-allowed
         }
@@ -1058,7 +1093,8 @@
                 font-size: .68rem
             }
 
-            .btn-next {
+            .btn-next,
+            .btn-back {
                 padding: 11px 16px;
                 font-size: .84rem
             }
@@ -1085,6 +1121,11 @@
             .options-grid {
                 gap: .5rem
             }
+
+            .nav-actions {
+                width: 100%;
+                justify-content: space-between
+            }
         }
     </style>
 </head>
@@ -1110,7 +1151,7 @@
                 autocomplete="name" />
             <button class="btn-start" onclick="startQuiz()">🚀 Start Quiz</button>
         </div>
-        <p class="disclaimer">No back button · Questions lock once answered · Timer starts immediately</p>
+        <p class="disclaimer">Back button enabled · You can change answers before submitting · Timer starts immediately</p>
     </div>
     <div id="quiz" class="screen hidden">
         <div class="quiz-topbar">
@@ -1298,12 +1339,120 @@
             }, 10000);
         } function fmt(s) { return Math.floor(s / 60).toString().padStart(2, '0') + ':' + ((s % 60).toString().padStart(2, '0')); }
         function timeUp() { if (qEnded) return; qEnded = true; document.getElementById('expiredToast').classList.add('show'); }
-        function renderQ() { if (cQ >= QUESTIONS.length) { finalizeQuiz(); return; } const q = QUESTIONS[cQ], tot = QUESTIONS.length, pct = Math.round((cQ / tot) * 100); document.getElementById('progressText').textContent = 'Q ' + (cQ + 1) + ' / ' + tot; document.getElementById('progressFill').style.width = pct + '%'; const card = document.getElementById('questionCard'); card.style.animation = 'none'; requestAnimationFrame(() => { card.style.animation = ''; card.innerHTML = buildQ(q, cQ, tot); if (q.type === 'mcq') { card.querySelectorAll('.option-btn').forEach(b => { b.addEventListener('click', () => selOpt(b, q.id)); }); } else { const inp = card.querySelector('.fitb-input'); if (inp) { inp.addEventListener('input', () => { const nb = card.querySelector('.btn-next'); if (nb) nb.disabled = inp.value.trim().length === 0; updDot(inp.value.trim().length > 0); }); inp.addEventListener('keydown', e => { if (e.key === 'Enter') { const nb = card.querySelector('.btn-next'); if (nb && !nb.disabled) nb.click(); } }); setTimeout(() => inp.focus(), 80); } } }); }
-        function buildQ(q, idx, tot) { const iL = idx === tot - 1, tl = q.type === 'mcq' ? '◆ Multiple Choice' : '✎ Fill in the Gap', tc = q.type === 'mcq' ? 'mcq' : 'fitb', sv = ans[q.id]; let ct = ''; if (q.type === 'mcq') { const L = ['A', 'B', 'C', 'D']; ct = '<div class="options-grid">'; q.options.forEach((o, i) => { const l = L[i], s = sv === l ? ' selected disabled' : (sv !== undefined ? ' disabled' : ''); ct += '<button class="option-btn' + s + '" data-letter="' + l + '"><span class="opt-letter">' + l + '</span><span class="opt-text">' + o + '</span></button>'; }); ct += '</div>'; } else { const v = sv || ''; ct = '<div class="fitb-wrap"><div class="fitb-hint">✏️ Type your exact answer</div><input class="fitb-input" type="text" placeholder="Type your answer here..." value="' + esc(v) + '" ' + (sv !== undefined ? 'disabled' : '') + '/></div>'; } const nd = (q.type === 'fitb' && sv === undefined) ? ' disabled' : '', bl = iL ? '✓ Submit Quiz' : 'Next Question →', bc = iL ? 'btn-next btn-submit' : 'btn-next', df = sv !== undefined ? ' filled' : ''; return '<div class="q-type-badge ' + tc + '">' + tl + '</div><div class="q-number">Question ' + (idx + 1) + ' of ' + tot + '</div><div class="q-stem">' + q.stem + '</div>' + ct + '<div class="card-bottom"><div class="answered-label"><div class="answered-dot' + df + '"></div>' + (sv !== undefined ? 'Answered' : 'Not answered yet') + '</div><button class="' + bc + '"' + nd + ' onclick="nextQ()">' + bl + '</button></div>'; }
+
+        function hasValue(v) { return v !== undefined && v !== null && String(v).trim() !== ''; }
+
+        function saveCurrentAnswer() {
+            const q = QUESTIONS[cQ];
+            if (!q) return;
+            if (q.type === 'fitb') {
+                const inp = document.querySelector('.fitb-input');
+                ans[q.id] = inp && inp.value.trim() ? inp.value.trim() : null;
+            }
+        }
+
+        function renderQ() {
+            if (cQ >= QUESTIONS.length) { finalizeQuiz(); return; }
+            const q = QUESTIONS[cQ], tot = QUESTIONS.length, pct = Math.round((cQ / tot) * 100);
+            document.getElementById('progressText').textContent = 'Q ' + (cQ + 1) + ' / ' + tot;
+            document.getElementById('progressFill').style.width = pct + '%';
+            const card = document.getElementById('questionCard');
+            card.style.animation = 'none';
+            requestAnimationFrame(() => {
+                card.style.animation = '';
+                card.innerHTML = buildQ(q, cQ, tot);
+                if (q.type === 'mcq') {
+                    card.querySelectorAll('.option-btn').forEach(b => {
+                        b.addEventListener('click', () => selOpt(b, q.id));
+                    });
+                } else {
+                    const inp = card.querySelector('.fitb-input');
+                    if (inp) {
+                        inp.addEventListener('input', () => {
+                            const nb = card.querySelector('.btn-next');
+                            if (nb) nb.disabled = inp.value.trim().length === 0;
+                            updDot(inp.value.trim().length > 0);
+                        });
+                        inp.addEventListener('keydown', e => {
+                            if (e.key === 'Enter') {
+                                const nb = card.querySelector('.btn-next');
+                                if (nb && !nb.disabled) nb.click();
+                            }
+                        });
+                        setTimeout(() => inp.focus(), 80);
+                    }
+                }
+            });
+        }
+
+        function buildQ(q, idx, tot) {
+            const iL = idx === tot - 1,
+                tl = q.type === 'mcq' ? '◆ Multiple Choice' : '✎ Fill in the Gap',
+                tc = q.type === 'mcq' ? 'mcq' : 'fitb',
+                sv = ans[q.id],
+                answered = hasValue(sv);
+
+            let ct = '';
+
+            if (q.type === 'mcq') {
+                const L = ['A', 'B', 'C', 'D'];
+                ct = '<div class="options-grid">';
+                q.options.forEach((o, i) => {
+                    const l = L[i], s = sv === l ? ' selected' : '';
+                    ct += '<button class="option-btn' + s + '" data-letter="' + l + '"><span class="opt-letter">' + l + '</span><span class="opt-text">' + o + '</span></button>';
+                });
+                ct += '</div>';
+            } else {
+                const v = sv || '';
+                ct = '<div class="fitb-wrap"><div class="fitb-hint">✏️ Type your exact answer</div><input class="fitb-input" type="text" placeholder="Type your answer here..." value="' + esc(v) + '" /></div>';
+            }
+
+            const nd = (q.type === 'fitb' && !answered) ? ' disabled' : '',
+                bl = iL ? '✓ Submit Quiz' : 'Next Question →',
+                bc = iL ? 'btn-next btn-submit' : 'btn-next',
+                df = answered ? ' filled' : '',
+                backDisabled = idx === 0 ? ' disabled' : '';
+
+            return '<div class="q-type-badge ' + tc + '">' + tl + '</div><div class="q-number">Question ' + (idx + 1) + ' of ' + tot + '</div><div class="q-stem">' + q.stem + '</div>' + ct + '<div class="card-bottom"><div class="answered-label"><div class="answered-dot' + df + '"></div>' + (answered ? 'Answered' : 'Not answered yet') + '</div><div class="nav-actions"><button class="btn-back"' + backDisabled + ' onclick="prevQ()">← Back</button><button class="' + bc + '"' + nd + ' onclick="nextQ()">' + bl + '</button></div></div>';
+        }
+
         function esc(s) { return String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;'); }
-        function selOpt(btn, qId) { if (btn.classList.contains('disabled')) return; document.getElementById('questionCard').querySelectorAll('.option-btn').forEach(b => b.classList.add('disabled')); btn.classList.add('selected'); ans[qId] = btn.dataset.letter; updDot(true); const nb = document.getElementById('questionCard').querySelector('.btn-next'); if (nb) nb.disabled = false; }
-        function updDot(f) { const d = document.querySelector('.answered-dot'), l = document.querySelector('.answered-label'); if (!d) return; if (f) { d.classList.add('filled'); if (l) l.innerHTML = '<div class="answered-dot filled"></div>Answered'; } else { d.classList.remove('filled'); if (l) l.innerHTML = '<div class="answered-dot"></div>Not answered yet'; } }
-        function nextQ() { const q = QUESTIONS[cQ]; if (q.type === 'fitb') { const inp = document.querySelector('.fitb-input'); if (inp && inp.value.trim()) ans[q.id] = inp.value.trim(); } if (ans[q.id] === undefined) ans[q.id] = null; cQ++; if (cQ >= QUESTIONS.length) finalizeQuiz(); else renderQ(); }
+
+        function selOpt(btn, qId) {
+            const options = document.getElementById('questionCard').querySelectorAll('.option-btn');
+            options.forEach(b => b.classList.remove('selected'));
+            btn.classList.add('selected');
+            ans[qId] = btn.dataset.letter;
+            updDot(true);
+        }
+
+        function updDot(f) {
+            const d = document.querySelector('.answered-dot'), l = document.querySelector('.answered-label');
+            if (!d) return;
+            if (f) {
+                d.classList.add('filled');
+                if (l) l.innerHTML = '<div class="answered-dot filled"></div>Answered';
+            } else {
+                d.classList.remove('filled');
+                if (l) l.innerHTML = '<div class="answered-dot"></div>Not answered yet';
+            }
+        }
+
+        function nextQ() {
+            saveCurrentAnswer();
+            const q = QUESTIONS[cQ];
+            if (ans[q.id] === undefined) ans[q.id] = null;
+            cQ++;
+            if (cQ >= QUESTIONS.length) finalizeQuiz(); else renderQ();
+        }
+
+        function prevQ() {
+            if (cQ <= 0) return;
+            saveCurrentAnswer();
+            cQ--;
+            renderQ();
+        }
+
         function finalizeQuiz() { if (tInt) clearInterval(tInt); document.getElementById('expiredToast').classList.remove('show'); const ov = document.getElementById('tAlertOv'); if (ov) ov.remove(); document.getElementById('quiz').classList.add('hidden'); document.getElementById('results').classList.remove('hidden'); showResults(); }
         function norm(s) { return (s || '').toLowerCase().trim().replace(/[^a-z0-9α]/g, ''); }
         function chkAns(q, ua) { if (ua === null || ua === undefined || ua === '') return 'skipped'; if (q.type === 'mcq') return ua === q.answer ? 'correct' : 'incorrect'; const acc = [q.answer, ...(q.acceptableAnswers || [])].map(norm); return acc.includes(norm(ua)) ? 'correct' : 'incorrect'; }
