@@ -1,0 +1,1287 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
+    <title>Quiz </title>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700;800&family=DM+Sans:ital,wght@0,300;0,400;0,500;0,600;1,400&family=DM+Mono:wght@400;500&display=swap"
+        rel="stylesheet" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+    <style>
+        :root {
+            --bg: #0d0f1a;
+            --surface: #161828;
+            --surface2: #1e2235;
+            --border: #2a2f4a;
+            --accent1: #7c3aed;
+            --accent2: #06b6d4;
+            --accent3: #f59e0b;
+            --accent4: #10b981;
+            --accent5: #ef4444;
+            --text: #e8eaf6;
+            --muted: #8892b0;
+            --card: #1a1d2e;
+            --glow1: rgba(124, 58, 237, 0.3);
+            --glow2: rgba(6, 182, 212, 0.3);
+            --radius: 16px
+        }
+
+        *,
+        *::before,
+        *::after {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0
+        }
+
+        html {
+            font-size: 16px
+        }
+
+        body {
+            font-family: 'DM Sans', sans-serif;
+            background: var(--bg);
+            color: var(--text);
+            min-height: 100vh;
+            overflow-x: hidden;
+            -webkit-text-size-adjust: 100%
+        }
+
+        body::before {
+            content: '';
+            position: fixed;
+            inset: 0;
+            background: radial-gradient(ellipse 80% 50% at 20% -10%, rgba(124, 58, 237, 0.18) 0%, transparent 60%), radial-gradient(ellipse 60% 40% at 80% 110%, rgba(6, 182, 212, 0.15) 0%, transparent 60%);
+            pointer-events: none;
+            z-index: 0
+        }
+
+        .screen {
+            position: relative;
+            z-index: 1
+        }
+
+        .screen.hidden {
+            display: none !important
+        }
+
+        #landing {
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            padding: 2rem 1.2rem;
+            text-align: center
+        }
+
+        .landing-badge {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            background: rgba(124, 58, 237, 0.15);
+            border: 1px solid rgba(124, 58, 237, 0.4);
+            border-radius: 100px;
+            padding: 6px 18px;
+            font-size: .78rem;
+            font-weight: 600;
+            color: #a78bfa;
+            letter-spacing: .08em;
+            text-transform: uppercase;
+            margin-bottom: 1.8rem;
+            animation: fadeUp .6s ease both
+        }
+
+        .landing-badge::before {
+            content: '\u2B21';
+            font-size: 1rem;
+            color: #7c3aed
+        }
+
+        .landing-title {
+            font-family: 'Syne', sans-serif;
+            font-size: clamp(1.9rem, 5.5vw, 4rem);
+            font-weight: 800;
+            line-height: 1.08;
+            margin-bottom: 1rem;
+            animation: fadeUp .6s .1s ease both
+        }
+
+        .landing-title span {
+            background: linear-gradient(135deg, #7c3aed, #06b6d4, #f59e0b);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text
+        }
+
+        .landing-sub {
+            color: var(--muted);
+            font-size: .97rem;
+            max-width: 480px;
+            line-height: 1.7;
+            margin-bottom: 2rem;
+            animation: fadeUp .6s .2s ease both
+        }
+
+        .stats-row {
+            display: flex;
+            gap: .7rem;
+            flex-wrap: wrap;
+            justify-content: center;
+            margin-bottom: 2rem;
+            animation: fadeUp .6s .3s ease both
+        }
+
+        .stat-chip {
+            background: var(--surface2);
+            border: 1px solid var(--border);
+            border-radius: 10px;
+            padding: 8px 14px;
+            font-size: .8rem;
+            display: flex;
+            align-items: center;
+            gap: 7px;
+            color: var(--muted)
+        }
+
+        .stat-chip strong {
+            color: var(--text);
+            font-weight: 600
+        }
+
+        .name-form {
+            display: flex;
+            flex-direction: column;
+            gap: .9rem;
+            width: 100%;
+            max-width: 400px;
+            margin-bottom: 1.5rem;
+            animation: fadeUp .6s .4s ease both
+        }
+
+        .name-input {
+            background: var(--surface2);
+            border: 2px solid var(--border);
+            border-radius: var(--radius);
+            padding: 14px 18px;
+            font-family: 'DM Sans', sans-serif;
+            font-size: 1rem;
+            color: var(--text);
+            outline: none;
+            transition: border-color .2s, box-shadow .2s;
+            width: 100%
+        }
+
+        .name-input::placeholder {
+            color: var(--muted)
+        }
+
+        .name-input:focus {
+            border-color: var(--accent1);
+            box-shadow: 0 0 0 4px var(--glow1)
+        }
+
+        .btn-start {
+            width: 100%;
+            padding: 15px;
+            background: linear-gradient(135deg, #7c3aed, #6d28d9);
+            border: none;
+            border-radius: var(--radius);
+            font-family: 'Syne', sans-serif;
+            font-size: 1rem;
+            font-weight: 700;
+            color: #fff;
+            cursor: pointer;
+            transition: transform .15s, box-shadow .2s;
+            letter-spacing: .02em;
+            box-shadow: 0 8px 32px rgba(124, 58, 237, .35);
+            animation: fadeUp .6s .5s ease both
+        }
+
+        .btn-start:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 12px 40px rgba(124, 58, 237, .5)
+        }
+
+        .disclaimer {
+            font-size: .75rem;
+            color: var(--muted);
+            animation: fadeUp .6s .6s ease both;
+            line-height: 1.6
+        }
+
+        #quiz {
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column
+        }
+
+        .quiz-topbar {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: .9rem 1.4rem;
+            background: rgba(22, 24, 40, .92);
+            backdrop-filter: blur(12px);
+            border-bottom: 1px solid var(--border);
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            gap: .8rem;
+            flex-wrap: wrap
+        }
+
+        .topbar-left {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            flex-shrink: 0
+        }
+
+        .quiz-logo {
+            font-family: 'Syne', sans-serif;
+            font-weight: 800;
+            font-size: .95rem;
+            color: #a78bfa
+        }
+
+        .q-progress-text {
+            font-size: .78rem;
+            color: var(--muted);
+            font-family: 'DM Mono', monospace
+        }
+
+        .topbar-center {
+            flex: 1;
+            min-width: 120px
+        }
+
+        .progress-track {
+            height: 5px;
+            background: var(--border);
+            border-radius: 100px;
+            overflow: hidden
+        }
+
+        .progress-fill {
+            height: 100%;
+            background: linear-gradient(90deg, #7c3aed, #06b6d4);
+            border-radius: 100px;
+            transition: width .5s cubic-bezier(.4, 0, .2, 1)
+        }
+
+        .timer-display {
+            font-family: 'DM Mono', monospace;
+            font-size: 1rem;
+            font-weight: 500;
+            padding: 7px 14px;
+            border-radius: 10px;
+            background: var(--surface2);
+            border: 2px solid var(--border);
+            min-width: 80px;
+            text-align: center;
+            transition: color .3s, border-color .3s, box-shadow .3s;
+            flex-shrink: 0
+        }
+
+        .timer-display.warning {
+            color: #f59e0b;
+            border-color: rgba(245, 158, 11, .5);
+            box-shadow: 0 0 12px rgba(245, 158, 11, .3);
+            animation: timerPulse 1s infinite
+        }
+
+        .timer-display.danger {
+            color: #ef4444;
+            border-color: rgba(239, 68, 68, .5);
+            box-shadow: 0 0 20px rgba(239, 68, 68, .5);
+            animation: timerShake .4s infinite
+        }
+
+        @keyframes timerPulse {
+
+            0%,
+            100% {
+                transform: scale(1)
+            }
+
+            50% {
+                transform: scale(1.05)
+            }
+        }
+
+        @keyframes timerShake {
+
+            0%,
+            100% {
+                transform: translateX(0)
+            }
+
+            20% {
+                transform: translateX(-4px)
+            }
+
+            40% {
+                transform: translateX(4px)
+            }
+
+            60% {
+                transform: translateX(-3px)
+            }
+
+            80% {
+                transform: translateX(3px)
+            }
+        }
+
+        .warning-banner {
+            display: none;
+            align-items: center;
+            justify-content: center;
+            gap: 10px;
+            padding: 10px 1.4rem;
+            background: linear-gradient(90deg, rgba(239, 68, 68, .15), rgba(239, 68, 68, .08));
+            border-bottom: 1px solid rgba(239, 68, 68, .3);
+            font-size: .85rem;
+            font-weight: 600;
+            color: #f87171;
+            text-align: center;
+            animation: bannerPulse 1s infinite
+        }
+
+        .warning-banner.show {
+            display: flex
+        }
+
+        @keyframes bannerPulse {
+
+            0%,
+            100% {
+                opacity: 1
+            }
+
+            50% {
+                opacity: .7
+            }
+        }
+
+        .quiz-body {
+            flex: 1;
+            display: flex;
+            align-items: flex-start;
+            justify-content: center;
+            padding: 2rem 1.2rem;
+            max-width: 820px;
+            margin: 0 auto;
+            width: 100%
+        }
+
+        .question-card {
+            background: var(--card);
+            border: 1px solid var(--border);
+            border-radius: 20px;
+            padding: 2rem;
+            width: 100%;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, .4);
+            animation: slideIn .35s cubic-bezier(.4, 0, .2, 1) both
+        }
+
+        @keyframes slideIn {
+            from {
+                opacity: 0;
+                transform: translateY(18px) scale(.98)
+            }
+
+            to {
+                opacity: 1;
+                transform: translateY(0) scale(1)
+            }
+        }
+
+        .q-type-badge {
+            display: inline-flex;
+            align-items: center;
+            gap: 5px;
+            border-radius: 8px;
+            padding: 4px 11px;
+            font-size: .7rem;
+            font-weight: 700;
+            letter-spacing: .08em;
+            text-transform: uppercase;
+            margin-bottom: 1rem
+        }
+
+        .q-type-badge.mcq {
+            background: rgba(124, 58, 237, .2);
+            color: #a78bfa;
+            border: 1px solid rgba(124, 58, 237, .3)
+        }
+
+        .q-type-badge.fitb {
+            background: rgba(6, 182, 212, .15);
+            color: #67e8f9;
+            border: 1px solid rgba(6, 182, 212, .3)
+        }
+
+        .q-number {
+            font-family: 'DM Mono', monospace;
+            font-size: .74rem;
+            color: var(--muted);
+            margin-bottom: .4rem
+        }
+
+        .q-stem {
+            font-family: 'Syne', sans-serif;
+            font-size: clamp(.98rem, 2.5vw, 1.12rem);
+            font-weight: 600;
+            line-height: 1.55;
+            color: var(--text);
+            margin-bottom: 1.5rem
+        }
+
+        .options-grid {
+            display: flex;
+            flex-direction: column;
+            gap: .6rem;
+            margin-bottom: 1.8rem
+        }
+
+        .option-btn {
+            display: flex;
+            align-items: flex-start;
+            gap: 12px;
+            background: var(--surface2);
+            border: 2px solid var(--border);
+            border-radius: 12px;
+            padding: 12px 14px;
+            cursor: pointer;
+            font-family: 'DM Sans', sans-serif;
+            font-size: .9rem;
+            color: var(--muted);
+            text-align: left;
+            transition: all .18s ease;
+            width: 100%
+        }
+
+        .option-btn:hover:not(.disabled) {
+            border-color: var(--accent1);
+            color: var(--text);
+            transform: translateX(3px)
+        }
+
+        .option-btn.selected {
+            border-color: var(--accent1);
+            background: rgba(124, 58, 237, .15);
+            color: var(--text)
+        }
+
+        .option-btn.disabled {
+            cursor: default;
+            pointer-events: none
+        }
+
+        .opt-letter {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            min-width: 26px;
+            height: 26px;
+            border-radius: 7px;
+            background: var(--surface);
+            border: 1px solid var(--border);
+            font-family: 'DM Mono', monospace;
+            font-size: .72rem;
+            font-weight: 600;
+            color: var(--muted);
+            transition: all .18s;
+            flex-shrink: 0;
+            margin-top: 1px
+        }
+
+        .option-btn.selected .opt-letter {
+            background: var(--accent1);
+            border-color: var(--accent1);
+            color: #fff
+        }
+
+        .opt-text {
+            flex: 1;
+            line-height: 1.5;
+            padding-top: 2px;
+            word-break: break-word
+        }
+
+        .fitb-wrap {
+            margin-bottom: 1.8rem
+        }
+
+        .fitb-hint {
+            font-size: .79rem;
+            color: var(--muted);
+            margin-bottom: .7rem;
+            display: flex;
+            align-items: center;
+            gap: 5px
+        }
+
+        .fitb-input {
+            width: 100%;
+            background: var(--surface2);
+            border: 2px solid var(--border);
+            border-radius: 12px;
+            padding: 14px 18px;
+            font-family: 'DM Sans', sans-serif;
+            font-size: 1rem;
+            color: var(--text);
+            outline: none;
+            transition: border-color .2s, box-shadow .2s
+        }
+
+        .fitb-input::placeholder {
+            color: var(--muted)
+        }
+
+        .fitb-input:focus {
+            border-color: var(--accent2);
+            box-shadow: 0 0 0 4px var(--glow2)
+        }
+
+        .card-bottom {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: .8rem;
+            flex-wrap: wrap;
+            margin-top: .5rem
+        }
+
+        .answered-label {
+            font-size: .79rem;
+            color: var(--muted);
+            display: flex;
+            align-items: center;
+            gap: 5px
+        }
+
+        .answered-dot {
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+            background: var(--border);
+            transition: background .2s;
+            flex-shrink: 0
+        }
+
+        .answered-dot.filled {
+            background: var(--accent4)
+        }
+
+        .btn-next {
+            padding: 12px 22px;
+            background: linear-gradient(135deg, #06b6d4, #0891b2);
+            border: none;
+            border-radius: 11px;
+            font-family: 'Syne', sans-serif;
+            font-size: .88rem;
+            font-weight: 700;
+            color: #fff;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            gap: 7px;
+            transition: transform .15s, box-shadow .2s, opacity .2s;
+            box-shadow: 0 6px 20px rgba(6, 182, 212, .3);
+            letter-spacing: .02em;
+            white-space: nowrap
+        }
+
+        .btn-next:hover:not(:disabled) {
+            transform: translateY(-2px);
+            box-shadow: 0 10px 28px rgba(6, 182, 212, .45)
+        }
+
+        .btn-next:disabled {
+            opacity: .4;
+            cursor: not-allowed
+        }
+
+        .btn-submit {
+            background: linear-gradient(135deg, #10b981, #059669);
+            box-shadow: 0 6px 20px rgba(16, 185, 129, .35)
+        }
+
+        .time-expired-toast {
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%) scale(.8);
+            background: rgba(15, 17, 30, .97);
+            border: 2px solid var(--accent5);
+            border-radius: 22px;
+            padding: 2.2rem 2.5rem;
+            text-align: center;
+            z-index: 9999;
+            backdrop-filter: blur(20px);
+            box-shadow: 0 0 0 999px rgba(0, 0, 0, .75), 0 32px 80px rgba(239, 68, 68, .3);
+            animation: toastIn .4s cubic-bezier(.34, 1.56, .64, 1) both;
+            display: none;
+            max-width: 90vw
+        }
+
+        .time-expired-toast.show {
+            display: block
+        }
+
+        @keyframes toastIn {
+            from {
+                transform: translate(-50%, -50%) scale(.8);
+                opacity: 0
+            }
+
+            to {
+                transform: translate(-50%, -50%) scale(1);
+                opacity: 1
+            }
+        }
+
+        .toast-icon {
+            font-size: 2.8rem;
+            margin-bottom: .7rem
+        }
+
+        .toast-title {
+            font-family: 'Syne', sans-serif;
+            font-size: 1.5rem;
+            font-weight: 800;
+            color: #f87171;
+            margin-bottom: .4rem
+        }
+
+        .toast-sub {
+            color: var(--muted);
+            font-size: .88rem;
+            margin-bottom: 1.4rem
+        }
+
+        .btn-toast {
+            padding: 11px 22px;
+            background: var(--accent5);
+            border: none;
+            border-radius: 11px;
+            font-family: 'Syne', sans-serif;
+            font-size: .92rem;
+            font-weight: 700;
+            color: #fff;
+            cursor: pointer
+        }
+
+        #results {
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 2.5rem 1.2rem 4rem
+        }
+
+        .results-header {
+            text-align: center;
+            margin-bottom: 2.5rem;
+            animation: fadeUp .6s ease both
+        }
+
+        .results-emoji {
+            font-size: 3.5rem;
+            margin-bottom: .8rem;
+            display: block;
+            animation: bounceIn .6s .2s ease both
+        }
+
+        @keyframes bounceIn {
+            0% {
+                transform: scale(0);
+                opacity: 0
+            }
+
+            60% {
+                transform: scale(1.2)
+            }
+
+            100% {
+                transform: scale(1);
+                opacity: 1
+            }
+        }
+
+        .results-title {
+            font-family: 'Syne', sans-serif;
+            font-size: clamp(1.7rem, 5vw, 2.8rem);
+            font-weight: 800;
+            margin-bottom: .4rem
+        }
+
+        .results-sub {
+            color: var(--muted);
+            font-size: .95rem
+        }
+
+        .score-ring-wrap {
+            display: flex;
+            justify-content: center;
+            margin-bottom: 2rem;
+            animation: fadeUp .6s .2s ease both
+        }
+
+        .score-ring {
+            position: relative;
+            width: 160px;
+            height: 160px
+        }
+
+        .score-ring svg {
+            position: absolute;
+            inset: 0;
+            transform: rotate(-90deg)
+        }
+
+        .score-ring-bg {
+            fill: none;
+            stroke: var(--border);
+            stroke-width: 10
+        }
+
+        .score-ring-fill {
+            fill: none;
+            stroke-width: 10;
+            stroke-linecap: round;
+            stroke-dasharray: 452;
+            stroke-dashoffset: 452;
+            transition: stroke-dashoffset 1.5s cubic-bezier(.4, 0, .2, 1) .5s
+        }
+
+        .score-ring-inner {
+            position: absolute;
+            inset: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center
+        }
+
+        .score-pct {
+            font-family: 'Syne', sans-serif;
+            font-size: 2rem;
+            font-weight: 800;
+            line-height: 1
+        }
+
+        .score-pct-label {
+            font-size: .7rem;
+            color: var(--muted);
+            font-family: 'DM Mono', monospace;
+            margin-top: 2px
+        }
+
+        .grade-big {
+            font-family: 'Syne', sans-serif;
+            font-size: 1rem;
+            font-weight: 800;
+            margin-top: 4px;
+            letter-spacing: .1em
+        }
+
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(130px, 1fr));
+            gap: .8rem;
+            width: 100%;
+            max-width: 680px;
+            margin-bottom: 2rem;
+            animation: fadeUp .6s .3s ease both
+        }
+
+        .stat-card {
+            background: var(--card);
+            border: 1px solid var(--border);
+            border-radius: var(--radius);
+            padding: 1.1rem;
+            text-align: center
+        }
+
+        .stat-val {
+            font-family: 'Syne', sans-serif;
+            font-size: 1.7rem;
+            font-weight: 800;
+            margin-bottom: 3px
+        }
+
+        .stat-lbl {
+            font-size: .73rem;
+            color: var(--muted);
+            text-transform: uppercase;
+            letter-spacing: .06em
+        }
+
+        .review-wrap {
+            width: 100%;
+            max-width: 720px;
+            animation: fadeUp .6s .4s ease both
+        }
+
+        .review-title {
+            font-family: 'Syne', sans-serif;
+            font-size: 1rem;
+            font-weight: 700;
+            margin-bottom: .8rem;
+            display: flex;
+            align-items: center;
+            gap: 7px;
+            color: var(--muted)
+        }
+
+        .review-item {
+            background: var(--card);
+            border: 1px solid var(--border);
+            border-radius: var(--radius);
+            padding: 1.2rem 1.4rem;
+            margin-bottom: .6rem;
+            border-left: 4px solid var(--border)
+        }
+
+        .review-item.correct {
+            border-left-color: var(--accent4)
+        }
+
+        .review-item.incorrect {
+            border-left-color: var(--accent5)
+        }
+
+        .review-item.skipped {
+            border-left-color: var(--accent3)
+        }
+
+        .review-q-num {
+            font-family: 'DM Mono', monospace;
+            font-size: .7rem;
+            color: var(--muted);
+            margin-bottom: 3px
+        }
+
+        .review-q-text {
+            font-size: .87rem;
+            color: var(--text);
+            margin-bottom: .5rem;
+            line-height: 1.5
+        }
+
+        .review-header-row {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            margin-bottom: 5px;
+            gap: 8px;
+            flex-wrap: wrap
+        }
+
+        .review-row {
+            font-size: .8rem;
+            display: flex;
+            align-items: baseline;
+            gap: 7px;
+            margin-bottom: 3px;
+            flex-wrap: wrap
+        }
+
+        .review-row-label {
+            font-weight: 600;
+            min-width: 72px;
+            flex-shrink: 0;
+            font-size: .71rem;
+            text-transform: uppercase;
+            letter-spacing: .05em;
+            color: var(--muted)
+        }
+
+        .your-ans {
+            color: #f87171
+        }
+
+        .correct-ans {
+            color: #4ade80
+        }
+
+        .skipped-ans {
+            color: #fbbf24;
+            font-style: italic
+        }
+
+        .status-badge {
+            display: inline-flex;
+            align-items: center;
+            gap: 4px;
+            font-size: .7rem;
+            font-weight: 700;
+            padding: 3px 9px;
+            border-radius: 100px;
+            flex-shrink: 0;
+            letter-spacing: .05em;
+            text-transform: uppercase
+        }
+
+        .status-badge.c {
+            background: rgba(16, 185, 129, .15);
+            color: #4ade80
+        }
+
+        .status-badge.x {
+            background: rgba(239, 68, 68, .15);
+            color: #f87171
+        }
+
+        .status-badge.s {
+            background: rgba(245, 158, 11, .15);
+            color: #fbbf24
+        }
+
+        .results-actions {
+            display: flex;
+            gap: .8rem;
+            flex-wrap: wrap;
+            justify-content: center;
+            margin-top: 2rem;
+            animation: fadeUp .6s .5s ease both
+        }
+
+        .btn-action {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            padding: 13px 24px;
+            border: none;
+            border-radius: var(--radius);
+            font-family: 'Syne', sans-serif;
+            font-size: .93rem;
+            font-weight: 700;
+            color: #fff;
+            cursor: pointer;
+            transition: transform .15s, box-shadow .2s
+        }
+
+        .btn-action:hover {
+            transform: translateY(-2px)
+        }
+
+        .btn-retake {
+            background: linear-gradient(135deg, #7c3aed, #6d28d9);
+            box-shadow: 0 8px 24px rgba(124, 58, 237, .4)
+        }
+
+        .btn-pdf {
+            background: linear-gradient(135deg, #ef4444, #dc2626);
+            box-shadow: 0 8px 24px rgba(239, 68, 68, .35)
+        }
+
+        .made-with-love {
+            margin-top: 2.5rem;
+            font-size: .78rem;
+            color: var(--muted);
+            text-align: center;
+            animation: fadeUp .6s .6s ease both
+        }
+
+        .made-with-love span {
+            color: #f87171
+        }
+
+        @keyframes fadeUp {
+            from {
+                opacity: 0;
+                transform: translateY(14px)
+            }
+
+            to {
+                opacity: 1;
+                transform: translateY(0)
+            }
+        }
+
+        .grade-A {
+            color: #4ade80
+        }
+
+        .grade-B {
+            color: #a78bfa
+        }
+
+        .grade-C {
+            color: #fbbf24
+        }
+
+        .grade-D {
+            color: #f97316
+        }
+
+        .grade-F {
+            color: #f87171
+        }
+
+        @media(max-width:480px) {
+            .quiz-topbar {
+                padding: .7rem 1rem
+            }
+
+            .quiz-body {
+                padding: 1.2rem .8rem
+            }
+
+            .question-card {
+                padding: 1.4rem 1.2rem;
+                border-radius: 16px
+            }
+
+            .q-stem {
+                font-size: .96rem;
+                margin-bottom: 1.2rem
+            }
+
+            .option-btn {
+                padding: 10px 12px;
+                font-size: .87rem;
+                gap: 10px
+            }
+
+            .opt-letter {
+                min-width: 24px;
+                height: 24px;
+                font-size: .68rem
+            }
+
+            .btn-next {
+                padding: 11px 16px;
+                font-size: .84rem
+            }
+
+            .stats-grid {
+                grid-template-columns: repeat(2, 1fr)
+            }
+
+            .score-ring {
+                width: 140px;
+                height: 140px
+            }
+
+            .results-actions {
+                flex-direction: column;
+                width: 100%;
+                max-width: 320px
+            }
+
+            .btn-action {
+                justify-content: center
+            }
+
+            .options-grid {
+                gap: .5rem
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="time-expired-toast" id="expiredToast">
+        <div class="toast-icon">⏰</div>
+        <div class="toast-title">Time's Up!</div>
+        <div class="toast-sub">Your answers are being graded now...</div>
+        <button class="btn-toast" onclick="finalizeQuiz()">See My Results →</button>
+    </div>
+    <div id="landing" class="screen">
+        <div class="landing-badge">Quiz</div>
+        <h1 class="landing-title">Test Your<br /><span> Knowledge</span></h1>
+        <div class="stats-row">
+            <div class="stat-chip">📝 <strong id="totalQCount">70</strong> Questions</div>
+            <div class="stat-chip">⏱ <strong id="timerLabel">50</strong> Minutes</div>
+            <div class="stat-chip">🎯 <strong>MCQ + Fill-in</strong></div>
+            <div class="stat-chip">📊 <strong>Instant</strong> Results</div>
+        </div>
+        <div class="name-form">
+            <input class="name-input" type="text" id="studentName" placeholder="Enter your full name..." maxlength="60"
+                autocomplete="name" />
+            <button class="btn-start" onclick="startQuiz()">🚀 Start Quiz</button>
+        </div>
+        <p class="disclaimer">No back button · Questions lock once answered · Timer starts immediately</p>
+    </div>
+    <div id="quiz" class="screen hidden">
+        <div class="quiz-topbar">
+            <div class="topbar-left">
+                <div class="quiz-logo">⬡ EndoQuiz</div>
+                <div class="q-progress-text" id="progressText">Q 1 / 70</div>
+            </div>
+            <div class="topbar-center">
+                <div class="progress-track">
+                    <div class="progress-fill" id="progressFill" style="width:0%"></div>
+                </div>
+            </div>
+            <div class="timer-display" id="timerDisplay">50:00</div>
+        </div>
+        <div class="warning-banner" id="warningBanner">⚠️ Less than 5 minutes remaining — wrap up quickly!</div>
+        <div class="quiz-body">
+            <div class="question-card" id="questionCard"></div>
+        </div>
+    </div>
+    <div id="results" class="screen hidden">
+        <div class="results-header">
+            <span class="results-emoji" id="resultEmoji">🎉</span>
+            <h2 class="results-title" id="resultTitle">Well Done!</h2>
+            <p class="results-sub" id="resultSub">Here's how you performed</p>
+        </div>
+        <div class="score-ring-wrap">
+            <div class="score-ring">
+                <svg viewBox="0 0 160 160" width="160" height="160">
+                    <circle class="score-ring-bg" cx="80" cy="80" r="72" />
+                    <circle class="score-ring-fill" id="scoreRingFill" cx="80" cy="80" r="72" />
+                </svg>
+                <div class="score-ring-inner">
+                    <div class="score-pct" id="scorePct">0%</div>
+                    <div class="score-pct-label">SCORE</div>
+                    <div class="grade-big" id="gradeDisplay">—</div>
+                </div>
+            </div>
+        </div>
+        <div class="stats-grid">
+            <div class="stat-card">
+                <div class="stat-val" id="statCorrect" style="color:#4ade80">0</div>
+                <div class="stat-lbl">Correct</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-val" id="statWrong" style="color:#f87171">0</div>
+                <div class="stat-lbl">Incorrect</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-val" id="statSkipped" style="color:#fbbf24">0</div>
+                <div class="stat-lbl">Skipped</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-val" id="statTime" style="color:#67e8f9">—</div>
+                <div class="stat-lbl">Time Used</div>
+            </div>
+        </div>
+        <div class="review-wrap">
+            <div class="review-title">📋 Detailed Question Review</div>
+            <div id="reviewList"></div>
+        </div>
+        <div class="results-actions">
+            <button class="btn-action btn-pdf" onclick="exportPDF()">📄 Export PDF Result</button>
+            <button class="btn-action btn-retake" onclick="resetQuiz()">🔄 Retake Quiz</button>
+        </div>
+        <div class="made-with-love">Made with <span>♥</span> from Goodluck</div>
+    </div>
+    <script>
+        const TIMER_MINUTES = 50;
+        const QUESTIONS = 
+        [{ id: 1, type: "mcq", stem: "Glycoproteins are proteins that contain carbohydrate residues attached by which process?", options: ["Phosphorylation", "Glycosylation", "Methylation", "Acetylation"], answer: "B" }, { id: 2, type: "mcq", stem: "Which of the following is NOT listed as a sugar residue found in glycoproteins?", options: ["Fucose", "Galactose", "Glucose", "Mannose"], answer: "C" }, { id: 3, type: "mcq", stem: "In glycoproteins, which subunits differ and confer biological specificity?", options: ["Both subunits are identical", "α subunits", "β subunits", "Neither subunit"], answer: "C" }, { id: 4, type: "mcq", stem: "Which hormone is a glycoprotein with two subunits (α and β)?", options: ["Adrenaline", "Thyroxine", "Luteinizing Hormone (LH)", "Cortisol"], answer: "C" }, { id: 5, type: "mcq", stem: "Human Chorionic Gonadotrophin (HCG) is classified under which subdivision?", options: ["Other polypeptides", "Growth factors/Cytokines", "Glycoproteins", "Eicosanoids"], answer: "C" }, { id: 6, type: "mcq", stem: "Which of the following is listed as an 'Other Polypeptide' hormone?", options: ["Luteinizing Hormone", "Hypothalamic releasing hormones", "Prostaglandins", "Cortisol"], answer: "B" }, { id: 7, type: "mcq", stem: "Parathyroid hormones and pancreatic hormones are classified under:", options: ["Glycoproteins", "Growth factors/Cytokines", "Other polypeptides", "Eicosanoids"], answer: "C" }, { id: 8, type: "mcq", stem: "Growth Factors/Cytokines — which cell type is NOT listed as a source?", options: ["Lymphocytes", "Macrophages", "Hepatocytes", "Endothelial cells"], answer: "C" }, { id: 9, type: "mcq", stem: "Growth factors and cytokines act on:", options: ["Only one specific target organ", "Only endocrine glands", "The multiplicity of target cells", "Only lymphocytes"], answer: "C" }, { id: 10, type: "mcq", stem: "Growth factors/Cytokines may interact and are described as having:", options: ["No relationship", "Identical or overlapping effects", "Only opposite effects", "Only synergistic effects"], answer: "B" }, { id: 11, type: "mcq", stem: "Lipid hormones tend to partition preferentially to:", options: ["Water soluble environments", "Hydrophilic compartments", "Hydrophobic environments (oil)", "The bloodstream freely"], answer: "C" }, { id: 12, type: "mcq", stem: "The two main types of lipid hormones are:", options: ["Glycoproteins and Polypeptides", "Amino acids and Peptides", "Steroids and Eicosanoids", "Cytokines and Growth Factors"], answer: "C" }, { id: 13, type: "mcq", stem: "Steroid hormones are usually synthesized from:", options: ["Amino acids", "Glucose", "Cholesterol", "Fatty acids"], answer: "C" }, { id: 14, type: "mcq", stem: "Steroid hormones contain which common nucleus?", options: ["Peptide ring structure", "Phospholipid bilayer", "Cyclopentanoperhydrophenanthrene ring (4 rings: A, B, C, D)", "Purine ring system"], answer: "C" }, { id: 15, type: "mcq", stem: "Which of the following is NOT an example of a steroid hormone?", options: ["Adrenal cortex hormones", "Gonadal hormones", "Activated vitamin D", "Prostaglandins"], answer: "D" }, { id: 16, type: "mcq", stem: "Because steroid hormones are lipid soluble, they can:", options: ["Bind only to cell surface receptors", "Dissolve easily in water", "Easily permeate the cell membrane lipid bilayer and act on receptors inside cells", "Travel freely in plasma without carrier proteins"], answer: "C" }, { id: 17, type: "mcq", stem: "ECF (where steroids are released immediately) stands for:", options: ["Enzyme Cleavage Factor", "Extracellular Fluid", "Endocrine Cell Formation", "External Cellular Function"], answer: "B" }, { id: 18, type: "mcq", stem: "Eicosanoids originate from poly-unsaturated fatty acids with how many carbon atoms?", options: ["16", "18", "20", "22"], answer: "C" }, { id: 19, type: "mcq", stem: "The main fatty acid precursor of eicosanoids is:", options: ["Linoleic acid", "Oleic acid", "Arachidonic acid", "Palmitic acid"], answer: "C" }, { id: 20, type: "mcq", stem: "Eicosanoids are produced by:", options: ["Only the adrenal glands", "Almost all cells in the body", "Only white blood cells", "Only the liver and kidney"], answer: "B" }, { id: 21, type: "mcq", stem: "Which of the following is an example of an Eicosanoid?", options: ["Cortisol", "Thyroxine", "Prostaglandin", "Insulin"], answer: "C" }, { id: 22, type: "mcq", stem: "Thromboxane and prostacyclin are classified as:", options: ["Steroid hormones", "Glycoprotein hormones", "Eicosanoids", "Amino acid derivatives"], answer: "C" }, { id: 23, type: "mcq", stem: "Gases as hormones mainly act in which manner?", options: ["Endocrine manner only", "Autocrine and paracrine manner, but sometimes endocrine", "Paracrine manner only", "Only through cell surface receptors"], answer: "B" }, { id: 24, type: "mcq", stem: "The solubility-based classification is based on the ability to:", options: ["Bind to plasma proteins", "Act on nuclear receptors", "Dissolve easily in aqueous solution", "Synthesize in the endoplasmic reticulum"], answer: "C" }, { id: 25, type: "mcq", stem: "Water Soluble Hormones travel in blood:", options: ["Bound tightly to plasma proteins", "Freely and easily — unbound or weakly bound to plasma proteins", "Dissolved in red blood cells", "Stored in platelets"], answer: "B" }, { id: 26, type: "mcq", stem: "Water Soluble Hormones cannot pass through the lipid bilayer because:", options: ["They are too large", "They are hydrophilic and cannot permeate the hydrophobic lipid bilayer", "They lack a receptor binding domain", "They are too small"], answer: "B" }, { id: 27, type: "mcq", stem: "The implication of Water Soluble Hormones binding to cell membrane receptors is:", options: ["Slow onset with prolonged duration", "No biological response", "Rapid onset with a shorter duration of action", "Must enter the nucleus to act"], answer: "C" }, { id: 28, type: "mcq", stem: "Lipid Soluble Hormones are NOT stored — which is the EXCEPTION?", options: ["Steroid hormones", "Thyroid hormones", "Eicosanoids", "Growth factors"], answer: "B" }, { id: 29, type: "mcq", stem: "Lipid Soluble Hormones act on receptors located:", options: ["Only on the outer cell membrane", "Inside cells — cytoplasm or nucleus", "In the extracellular fluid only", "On the mitochondrial membrane"], answer: "B" }, { id: 30, type: "mcq", stem: "For Lipid Soluble Hormones, onset is slowed but duration is:", options: ["Also shorter", "Prolonged", "Identical to water soluble", "Unpredictable"], answer: "B" }, { id: 31, type: "mcq", stem: "Lipid Soluble Hormones are transported bound to plasma proteins because they:", options: ["Are too large to travel freely", "Are highly hydrophilic", "Cannot move freely in water-soluble compartments of body fluids", "Need proteins to bind receptors"], answer: "C" }, { id: 32, type: "mcq", stem: "A Receptor specifically and selectively recognizes chemical substances to:", options: ["Transport hormones in the blood", "Elicit a biochemical or physiological response", "Synthesize hormones", "Destroy hormones after use"], answer: "B" }, { id: 33, type: "mcq", stem: "Removal of hormones from blood by binding to glucuronic acid and sulphates aims to:", options: ["Block hormone receptors", "Improve solubility and enhance biliary and urinary excretion", "Activate more hormone production", "Recycle hormones"], answer: "B" }, { id: 34, type: "mcq", stem: "The concentration of hormones in blood ranges from:", options: ["Several grams per litre", "About one picogram to a few micrograms", "Equal to plasma protein concentration", "Only millimoles per litre"], answer: "B" }, { id: 35, type: "mcq", stem: "In the intestine, some intermediate hormone metabolites may be broken down by bacteria and:", options: ["Permanently excreted", "Converted to steroids", "Reabsorbed into the body", "Destroyed completely"], answer: "C" }, { id: 36, type: "fitb", stem: "A ligand forms a complex with a receptor with the aim of eliciting a _______________ response.", answer: "biological", acceptableAnswers: ["biological", "bio"] }, { id: 37, type: "fitb", stem: "A Receptor is a _______________ molecule that specifically and selectively recognizes chemical substances.", answer: "protein", acceptableAnswers: ["protein"] }, { id: 38, type: "fitb", stem: "A target cell binds a given hormone irrespective of whether or not a biochemical or _______________ response has been determined.", answer: "physiological", acceptableAnswers: ["physiological"] }, { id: 39, type: "fitb", stem: "Hormone blood concentration ranges from about one _______________ to a few micrograms.", answer: "picogram", acceptableAnswers: ["picogram", "picograms"] }, { id: 40, type: "fitb", stem: "Hormones are removed from the target site so that their _______________ may terminate.", answer: "effect", acceptableAnswers: ["effect", "effects", "biological effect"] }, { id: 41, type: "fitb", stem: "Removal of hormones from blood involves binding to _______________ acid and sulphates.", answer: "glucuronic", acceptableAnswers: ["glucuronic"] }, { id: 42, type: "fitb", stem: "Binding to glucuronic acid and sulphates improves _______________ and enhances biliary and urinary excretion.", answer: "solubility", acceptableAnswers: ["solubility"] }, { id: 43, type: "fitb", stem: "In the intestine, some metabolites may be broken down by _______________ and reabsorbed into the body.", answer: "bacteria", acceptableAnswers: ["bacteria", "intestinal bacteria"] }, { id: 44, type: "fitb", stem: "Glycoproteins are proteins with carbohydrate residues attached by the process of _______________.", answer: "glycosylation", acceptableAnswers: ["glycosylation"] }, { id: 45, type: "fitb", stem: "Sugar residues in glycoproteins include fucose, galactose, _______________, galactosamine, glucosamine and sialic acid.", answer: "mannose", acceptableAnswers: ["mannose"] }, { id: 46, type: "fitb", stem: "Glycoproteins contain two subunits: _______________ and β.", answer: "α", acceptableAnswers: ["α", "alpha", "a"] }, { id: 47, type: "fitb", stem: "In glycoproteins, the _______________ subunits of all glycoproteins are similar.", answer: "α", acceptableAnswers: ["α", "alpha", "a"] }, { id: 48, type: "fitb", stem: "The β subunits of glycoproteins _______________ and confer biological specificity.", answer: "differ", acceptableAnswers: ["differ", "are different", "differ from each other"] }, { id: 49, type: "fitb", stem: "Follicle Stimulating Hormone is abbreviated as _______________.", answer: "FSH", acceptableAnswers: ["FSH", "fsh"] }, { id: 50, type: "fitb", stem: "Human Chorionic Gonadotrophin is abbreviated as _______________.", answer: "HCG", acceptableAnswers: ["HCG", "hcg"] }, { id: 51, type: "fitb", stem: "Other Polypeptides include hypothalamic releasing hormones, pituitary trophic hormones, parathyroid hormones, pancreatic hormones, intestinal hormones and _______________.", answer: "angiotensin", acceptableAnswers: ["angiotensin"] }, { id: 52, type: "fitb", stem: "Growth factors/Cytokines are small _______________ and proteins synthesized by a variety of cell types.", answer: "polypeptides", acceptableAnswers: ["polypeptides", "polypeptide"] }, { id: 53, type: "fitb", stem: "Growth factors are synthesized by lymphocytes, _______________, endothelial cells, neurones and glial cells.", answer: "macrophages", acceptableAnswers: ["macrophages", "macrophage"] }, { id: 54, type: "fitb", stem: "Growth factors/Cytokines may interact having identical or _______________ effects.", answer: "overlapping", acceptableAnswers: ["overlapping"] }, { id: 55, type: "fitb", stem: "Steroid hormones are usually synthesized from _______________.", answer: "cholesterol", acceptableAnswers: ["cholesterol"] }, { id: 56, type: "fitb", stem: "Steroid hormones are not stored and are released immediately to _______________.", answer: "ECF", acceptableAnswers: ["ECF", "ecf", "extracellular fluid", "the ECF"] }, { id: 57, type: "fitb", stem: "The steroid nucleus consists of _______________ rings labelled A, B, C, D.", answer: "4", acceptableAnswers: ["4", "four"] }, { id: 58, type: "fitb", stem: "Steroid examples include adrenal cortex hormones, gonadal hormones, and activated _______________ D.", answer: "vitamin", acceptableAnswers: ["vitamin"] }, { id: 59, type: "fitb", stem: "Eicosanoids originate from poly-unsaturated _______________ carbon atom fatty acids.", answer: "20", acceptableAnswers: ["20", "twenty"] }, { id: 60, type: "fitb", stem: "The main fatty acid precursor of eicosanoids is _______________ acid.", answer: "arachidonic", acceptableAnswers: ["arachidonic"] }, { id: 61, type: "fitb", stem: "Eicosanoids are produced by almost _______________ cells in the body.", answer: "all", acceptableAnswers: ["all"] }, { id: 62, type: "fitb", stem: "Examples of eicosanoids include prostaglandins, prostacyclin, _______________ and leukotrienes.", answer: "thromboxane", acceptableAnswers: ["thromboxane", "thromboxanes"] }, { id: 63, type: "fitb", stem: "Lipid hormones are less soluble in _______________ fluid.", answer: "aqueous", acceptableAnswers: ["aqueous"] }, { id: 64, type: "fitb", stem: "Lipid hormones partition preferentially to _______________ environments (oil).", answer: "hydrophobic", acceptableAnswers: ["hydrophobic"] }, { id: 65, type: "fitb", stem: "Gases as hormones mainly act in autocrine and _______________ manner.", answer: "paracrine", acceptableAnswers: ["paracrine"] }, { id: 66, type: "fitb", stem: "Solubility classification is based on the ability to dissolve easily in _______________ solution.", answer: "aqueous", acceptableAnswers: ["aqueous"] }, { id: 67, type: "fitb", stem: "Water Soluble Hormones travel _______________ in blood — unbound or weakly bound to plasma proteins.", answer: "freely", acceptableAnswers: ["freely", "free"] }, { id: 68, type: "fitb", stem: "Water Soluble Hormones bind to _______________ membrane receptors.", answer: "cell", acceptableAnswers: ["cell", "cell membrane", "cellular"] }, { id: 69, type: "fitb", stem: "For Water Soluble Hormones, the implication is a _______________ onset with a shorter duration of action.", answer: "rapid", acceptableAnswers: ["rapid", "fast", "quick"] }, { id: 70, type: "fitb", stem: "Lipid Soluble Hormones are transported _______________ to plasma proteins.", answer: "bound", acceptableAnswers: ["bound"] }];
+        let cQ = 0, ans = {}, tInt = null, sLeft = 0, qStart = null, qEnded = false, wShown = false, dShown = false, gRes = [];
+        document.addEventListener('DOMContentLoaded', () => { document.getElementById('totalQCount').textContent = QUESTIONS.length; document.getElementById('timerLabel').textContent = TIMER_MINUTES; document.getElementById('timerDisplay').textContent = fmt(TIMER_MINUTES * 60); document.getElementById('studentName').addEventListener('keydown', e => { if (e.key === 'Enter') startQuiz(); }); });
+        function startQuiz() { const nm = document.getElementById('studentName').value.trim(); if (!nm) { const i = document.getElementById('studentName'); i.focus(); i.style.borderColor = '#ef4444'; setTimeout(() => i.style.borderColor = '', 1500); return; } document.getElementById('landing').classList.add('hidden'); document.getElementById('quiz').classList.remove('hidden'); cQ = 0; ans = {}; sLeft = TIMER_MINUTES * 60; qStart = Date.now(); qEnded = false; wShown = false; dShown = false; renderQ(); startTimer(); }
+        function startTimer() { if (tInt) clearInterval(tInt); tInt = setInterval(() => { sLeft--; updateTimer(); if (sLeft <= 0) { clearInterval(tInt); timeUp(); } }, 1000); }
+        function updateTimer() {
+            const el = document.getElementById('timerDisplay');
+            const bn = document.getElementById('warningBanner');
+
+            el.textContent = fmt(sLeft);
+            el.classList.remove('warning', 'danger');
+
+            if (sLeft <= 60) {
+                el.classList.add('danger');
+                bn.textContent = '🚨 Less than 1 minute! Submit NOW!';
+                bn.classList.add('show');
+                if (!dShown) {
+                    dShown = true;
+                    showAlert('danger');
+                }
+            } else if (sLeft <= 300) {
+                el.classList.add('warning');
+                bn.textContent = '⚠️ Less than 5 minutes — wrap up quickly!';
+                bn.classList.add('show');
+                if (!wShown) {
+                    wShown = true;
+                    showAlert('warning');
+                }
+            } else {
+                bn.classList.remove('show');
+            }
+        } function showAlert(t) {
+            const ex = document.getElementById('tAlertOv');
+            if (ex) ex.remove();
+
+            const ov = document.createElement('div');
+            ov.id = 'tAlertOv';
+            ov.style.cssText =
+                'position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.72);z-index:9998;display:flex;align-items:center;justify-content:center;padding:1rem;';
+
+            const bx = document.createElement('div');
+            const cl = t === 'danger' ? '#ef4444' : '#f59e0b';
+
+            bx.style.cssText =
+                'background:rgba(15,17,30,0.98);border:2px solid ' + cl + ';border-radius:20px;padding:1.8rem 2rem;text-align:center;max-width:320px;width:100%;box-shadow:0 0 40px rgba(239,68,68,0.3);';
+
+            bx.innerHTML =
+                '<div style="font-size:3rem;margin-bottom:.7rem">' + (t === 'danger' ? '🚨' : '⚠️') + '</div>' +
+                '<div style="font-family:Syne,sans-serif;font-size:1.35rem;font-weight:800;color:' + cl + ';margin-bottom:.4rem">' +
+                (t === 'danger' ? 'Under 1 Minute!' : '5 Minutes Left!') +
+                '</div>' +
+                '<div style="color:#8892b0;font-size:.86rem;line-height:1.6;margin-bottom:1.2rem">' +
+                (t === 'danger'
+                    ? 'Less than 60 seconds!<br><strong style="color:#f87171">Submit immediately!</strong>'
+                    : '5 minutes remaining.<br>Finish your answers.') +
+                '</div>' +
+                '<button id="closeTimeAlertBtn" style="padding:10px 20px;background:' + cl + ';border:none;border-radius:10px;font-family:Syne,sans-serif;font-size:.9rem;font-weight:700;color:#fff;cursor:pointer;width:100%;">Continue Quiz</button>';
+
+            ov.appendChild(bx);
+
+            ov.addEventListener('click', function (e) {
+                if (e.target === ov) ov.remove();
+            });
+
+            document.body.appendChild(ov);
+
+            const closeBtn = document.getElementById('closeTimeAlertBtn');
+            if (closeBtn) {
+                closeBtn.addEventListener('click', function () {
+                    const alertEl = document.getElementById('tAlertOv');
+                    if (alertEl) alertEl.remove();
+                });
+            }
+
+            setTimeout(function () {
+                if (ov.parentNode) ov.remove();
+            }, 10000);
+        } function fmt(s) { return Math.floor(s / 60).toString().padStart(2, '0') + ':' + ((s % 60).toString().padStart(2, '0')); }
+        function timeUp() { if (qEnded) return; qEnded = true; document.getElementById('expiredToast').classList.add('show'); }
+        function renderQ() { if (cQ >= QUESTIONS.length) { finalizeQuiz(); return; } const q = QUESTIONS[cQ], tot = QUESTIONS.length, pct = Math.round((cQ / tot) * 100); document.getElementById('progressText').textContent = 'Q ' + (cQ + 1) + ' / ' + tot; document.getElementById('progressFill').style.width = pct + '%'; const card = document.getElementById('questionCard'); card.style.animation = 'none'; requestAnimationFrame(() => { card.style.animation = ''; card.innerHTML = buildQ(q, cQ, tot); if (q.type === 'mcq') { card.querySelectorAll('.option-btn').forEach(b => { b.addEventListener('click', () => selOpt(b, q.id)); }); } else { const inp = card.querySelector('.fitb-input'); if (inp) { inp.addEventListener('input', () => { const nb = card.querySelector('.btn-next'); if (nb) nb.disabled = inp.value.trim().length === 0; updDot(inp.value.trim().length > 0); }); inp.addEventListener('keydown', e => { if (e.key === 'Enter') { const nb = card.querySelector('.btn-next'); if (nb && !nb.disabled) nb.click(); } }); setTimeout(() => inp.focus(), 80); } } }); }
+        function buildQ(q, idx, tot) { const iL = idx === tot - 1, tl = q.type === 'mcq' ? '◆ Multiple Choice' : '✎ Fill in the Gap', tc = q.type === 'mcq' ? 'mcq' : 'fitb', sv = ans[q.id]; let ct = ''; if (q.type === 'mcq') { const L = ['A', 'B', 'C', 'D']; ct = '<div class="options-grid">'; q.options.forEach((o, i) => { const l = L[i], s = sv === l ? ' selected disabled' : (sv !== undefined ? ' disabled' : ''); ct += '<button class="option-btn' + s + '" data-letter="' + l + '"><span class="opt-letter">' + l + '</span><span class="opt-text">' + o + '</span></button>'; }); ct += '</div>'; } else { const v = sv || ''; ct = '<div class="fitb-wrap"><div class="fitb-hint">✏️ Type your exact answer</div><input class="fitb-input" type="text" placeholder="Type your answer here..." value="' + esc(v) + '" ' + (sv !== undefined ? 'disabled' : '') + '/></div>'; } const nd = (q.type === 'fitb' && sv === undefined) ? ' disabled' : '', bl = iL ? '✓ Submit Quiz' : 'Next Question →', bc = iL ? 'btn-next btn-submit' : 'btn-next', df = sv !== undefined ? ' filled' : ''; return '<div class="q-type-badge ' + tc + '">' + tl + '</div><div class="q-number">Question ' + (idx + 1) + ' of ' + tot + '</div><div class="q-stem">' + q.stem + '</div>' + ct + '<div class="card-bottom"><div class="answered-label"><div class="answered-dot' + df + '"></div>' + (sv !== undefined ? 'Answered' : 'Not answered yet') + '</div><button class="' + bc + '"' + nd + ' onclick="nextQ()">' + bl + '</button></div>'; }
+        function esc(s) { return String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;'); }
+        function selOpt(btn, qId) { if (btn.classList.contains('disabled')) return; document.getElementById('questionCard').querySelectorAll('.option-btn').forEach(b => b.classList.add('disabled')); btn.classList.add('selected'); ans[qId] = btn.dataset.letter; updDot(true); const nb = document.getElementById('questionCard').querySelector('.btn-next'); if (nb) nb.disabled = false; }
+        function updDot(f) { const d = document.querySelector('.answered-dot'), l = document.querySelector('.answered-label'); if (!d) return; if (f) { d.classList.add('filled'); if (l) l.innerHTML = '<div class="answered-dot filled"></div>Answered'; } else { d.classList.remove('filled'); if (l) l.innerHTML = '<div class="answered-dot"></div>Not answered yet'; } }
+        function nextQ() { const q = QUESTIONS[cQ]; if (q.type === 'fitb') { const inp = document.querySelector('.fitb-input'); if (inp && inp.value.trim()) ans[q.id] = inp.value.trim(); } if (ans[q.id] === undefined) ans[q.id] = null; cQ++; if (cQ >= QUESTIONS.length) finalizeQuiz(); else renderQ(); }
+        function finalizeQuiz() { if (tInt) clearInterval(tInt); document.getElementById('expiredToast').classList.remove('show'); const ov = document.getElementById('tAlertOv'); if (ov) ov.remove(); document.getElementById('quiz').classList.add('hidden'); document.getElementById('results').classList.remove('hidden'); showResults(); }
+        function norm(s) { return (s || '').toLowerCase().trim().replace(/[^a-z0-9α]/g, ''); }
+        function chkAns(q, ua) { if (ua === null || ua === undefined || ua === '') return 'skipped'; if (q.type === 'mcq') return ua === q.answer ? 'correct' : 'incorrect'; const acc = [q.answer, ...(q.acceptableAnswers || [])].map(norm); return acc.includes(norm(ua)) ? 'correct' : 'incorrect'; }
+        function showResults() { let co = 0, wr = 0, sk = 0; gRes = []; QUESTIONS.forEach(q => { const ua = ans[q.id] ?? null, r = chkAns(q, ua); if (r === 'correct') co++; else if (r === 'incorrect') wr++; else sk++; gRes.push({ q, ua, r }); }); const tot = QUESTIONS.length, pct = Math.round((co / tot) * 100), tu = Math.round((Date.now() - qStart) / 1000); let gr, gc, em, ti; if (pct >= 90) { gr = 'A'; gc = 'grade-A'; em = '🏆'; ti = 'Outstanding!'; } else if (pct >= 75) { gr = 'B'; gc = 'grade-B'; em = '🎉'; ti = 'Great Work!'; } else if (pct >= 60) { gr = 'C'; gc = 'grade-C'; em = '👍'; ti = 'Good Effort!'; } else if (pct >= 50) { gr = 'D'; gc = 'grade-D'; em = '📚'; ti = 'Keep Studying!'; } else { gr = 'F'; gc = 'grade-F'; em = '💪'; ti = 'Try Again!'; } const nm = document.getElementById('studentName').value; document.getElementById('resultEmoji').textContent = em; document.getElementById('resultTitle').textContent = ti; document.getElementById('resultSub').textContent = nm + ' · ' + pct + '% · Grade ' + gr; document.getElementById('scorePct').textContent = pct + '%'; document.getElementById('scorePct').className = 'score-pct ' + gc; document.getElementById('gradeDisplay').textContent = 'GRADE ' + gr; document.getElementById('gradeDisplay').className = 'grade-big ' + gc; document.getElementById('statCorrect').textContent = co; document.getElementById('statWrong').textContent = wr; document.getElementById('statSkipped').textContent = sk; document.getElementById('statTime').textContent = fmt(tu); const circ = 452, off = circ - (pct / 100) * circ, rf = document.getElementById('scoreRingFill'), cols = { A: '#4ade80', B: '#a78bfa', C: '#fbbf24', D: '#f97316', F: '#f87171' }; rf.style.stroke = cols[gr]; setTimeout(() => rf.style.strokeDashoffset = off, 100); const list = document.getElementById('reviewList'); list.innerHTML = ''; gRes.forEach(({ q, ua, r }) => { const item = document.createElement('div'); item.className = 'review-item ' + r; const sM = { correct: '✓ Correct', incorrect: '✗ Wrong', skipped: '— Skipped' }, sC = { correct: 'c', incorrect: 'x', skipped: 's' }, L = ['A', 'B', 'C', 'D']; let ud = '', cd = ''; if (r === 'skipped') { ud = '<span class="skipped-ans">Not answered</span>'; } else if (q.type === 'mcq') { const ix = L.indexOf(ua), tx = ix >= 0 ? q.options[ix] : ua; ud = '<span class="' + (r === 'correct' ? 'correct-ans' : 'your-ans') + '">' + ua + '. ' + tx + '</span>'; } else { ud = '<span class="' + (r === 'correct' ? 'correct-ans' : 'your-ans') + '">' + esc(ua || '') + '</span>'; } if (r !== 'correct') { if (q.type === 'mcq') { const ix = L.indexOf(q.answer); cd = '<span class="correct-ans">' + q.answer + '. ' + q.options[ix] + '</span>'; } else { cd = '<span class="correct-ans">' + esc(q.answer) + '</span>'; } } item.innerHTML = '<div class="review-header-row"><div class="review-q-num">Q' + q.id + ' · ' + (q.type === 'mcq' ? 'MCQ' : 'Fill-in-Gap') + '</div><span class="status-badge ' + sC[r] + '">' + sM[r] + '</span></div><div class="review-q-text">' + q.stem + '</div><div class="review-answers"><div class="review-row"><span class="review-row-label">Your answer:</span>' + ud + '</div>' + (r !== 'correct' ? '<div class="review-row"><span class="review-row-label">Correct:</span>' + cd + '</div>' : '') + '</div>'; list.appendChild(item); }); }
+        function exportPDF() {
+            const { jsPDF } = window.jspdf, doc = new jsPDF({ orientation: 'portrait', unit: 'mm', format: 'a4' }), W = 210, M = 15, CW = W - M * 2; let y = M; const nm = document.getElementById('studentName').value, ptxt = document.getElementById('scorePct').textContent, pct = parseInt(ptxt), gtxt = document.getElementById('gradeDisplay').textContent, gr = gtxt.replace('GRADE ', '').trim(), coN = document.getElementById('statCorrect').textContent, wrN = document.getElementById('statWrong').textContent, skN = document.getElementById('statSkipped').textContent, tmN = document.getElementById('statTime').textContent, gCols = { A: [34, 197, 94], B: [167, 139, 250], C: [245, 158, 11], D: [249, 115, 22], F: [239, 68, 68] }, gc = gCols[gr] || [124, 58, 237]; function chkY(n) { if (y + n > 283) { doc.addPage(); y = M; } }
+            doc.setFillColor(13, 15, 26); doc.rect(0, 0, W, 42, 'F'); doc.setFillColor(...gc); doc.rect(0, 40, W, 2.5, 'F');
+            doc.setFont('helvetica', 'bold'); doc.setFontSize(16); doc.setTextColor(232, 234, 246); doc.text('ENDOCRINOLOGY QUIZ — RESULT REPORT', W / 2, 13, { align: 'center' }); doc.setFontSize(8.5); doc.setTextColor(136, 146, 176); doc.text('Detailed Score Report', W / 2, 22, { align: 'center' }); doc.setFontSize(8); doc.setTextColor(103, 232, 249); doc.text('Made with love from Goodluck', W / 2, 31, { align: 'center' }); y = 50;
+            doc.setFillColor(22, 24, 40); doc.setDrawColor(...gc); doc.setLineWidth(0.5); doc.roundedRect(M, y, CW, 36, 3, 3, 'FD'); doc.setFont('helvetica', 'bold'); doc.setFontSize(7.5); doc.setTextColor(...gc); doc.text('STUDENT INFORMATION', M + 5, y + 8); doc.setLineWidth(0.2); doc.line(M + 5, y + 10, M + CW - 5, y + 10); doc.setFont('helvetica', 'normal'); doc.setFontSize(11); doc.setTextColor(232, 234, 246); doc.text('Name:  ' + nm, M + 5, y + 20); doc.setFontSize(8); doc.setTextColor(136, 146, 176); doc.text('Date: ' + new Date().toLocaleDateString('en-GB', { day: '2-digit', month: 'long', year: 'numeric' }), M + 5, y + 29); doc.text('Subject: Quiz', M + 65, y + 29); y += 44;
+            chkY(55); doc.setFillColor(22, 24, 40); doc.setDrawColor(...gc); doc.setLineWidth(0.8); doc.roundedRect(M, y, CW, 52, 3, 3, 'FD'); doc.setFillColor(...gc); doc.circle(M + 22, y + 26, 16, 'F'); doc.setFont('helvetica', 'bold'); doc.setFontSize(22); doc.setTextColor(255, 255, 255); doc.text(gr, M + 22, y + 33, { align: 'center' }); doc.setFontSize(7.5); doc.setTextColor(136, 146, 176); doc.text('GRADE', M + 22, y + 43, { align: 'center' }); doc.setFont('helvetica', 'bold'); doc.setFontSize(28); doc.setTextColor(...gc); doc.text(ptxt, M + 48, y + 30); doc.setFontSize(8); doc.setTextColor(136, 146, 176); doc.text('OVERALL SCORE', M + 48, y + 38); const perf = pct >= 90 ? 'OUTSTANDING' : pct >= 75 ? 'GREAT WORK' : pct >= 60 ? 'GOOD EFFORT' : pct >= 50 ? 'NEEDS IMPROVEMENT' : 'REQUIRES REVISION'; doc.setFont('helvetica', 'bold'); doc.setFontSize(11); doc.setTextColor(232, 234, 246); doc.text(perf, M + 48, y + 48); const sts = [[coN, 'Correct', [34, 197, 94]], [wrN, 'Incorrect', [239, 68, 68]], [skN, 'Skipped', [245, 158, 11]], [tmN, 'Time Used', [103, 232, 249]]]; let sx = M + 118; sts.forEach(([v, l, c]) => { doc.setFont('helvetica', 'bold'); doc.setFontSize(11); doc.setTextColor(...c); doc.text(String(v), sx, y + 24, { align: 'center' }); doc.setFont('helvetica', 'normal'); doc.setFontSize(7); doc.setTextColor(136, 146, 176); doc.text(l.toUpperCase(), sx, y + 31, { align: 'center' }); sx += 22; }); y += 60;
+            chkY(14); doc.setFont('helvetica', 'bold'); doc.setFontSize(11); doc.setTextColor(232, 234, 246); doc.text('DETAILED QUESTION REVIEW', M, y); doc.setDrawColor(...gc); doc.setLineWidth(0.3); doc.line(M, y + 2, W - M, y + 2); y += 10;
+            const L = ['A', 'B', 'C', 'D']; gRes.forEach(({ q, ua, r }) => { const bH = r === 'correct' ? [34, 197, 94] : r === 'incorrect' ? [239, 68, 68] : [245, 158, 11], sw = doc.splitTextToSize(q.id + '. ' + q.stem, CW - 10), bH2 = sw.length * 5 + 20, eH = r !== 'correct' ? 7 : 0, tH = bH2 + eH + 2; chkY(tH + 4); doc.setFillColor(26, 29, 46); doc.roundedRect(M, y, CW, tH, 2, 2, 'F'); doc.setFillColor(...bH); doc.rect(M, y, 3, tH, 'F'); doc.setFont('helvetica', 'bold'); doc.setFontSize(7); doc.setTextColor(...bH); doc.text('Q' + q.id + '  ·  ' + (q.type === 'mcq' ? 'MCQ' : 'FILL-IN'), M + 6, y + 7); const sT = r === 'correct' ? 'CORRECT' : r === 'incorrect' ? 'WRONG' : 'SKIPPED'; doc.text(sT, W - M - 3, y + 7, { align: 'right' }); doc.setFont('helvetica', 'normal'); doc.setFontSize(8.5); doc.setTextColor(220, 222, 236); sw.forEach((ln, li) => doc.text(ln, M + 6, y + 13 + li * 5)); let iy = y + 13 + sw.length * 5; doc.setFont('helvetica', 'bold'); doc.setFontSize(7.5); doc.setTextColor(136, 146, 176); doc.text('Your answer:', M + 6, iy + 1); doc.setFont('helvetica', 'normal'); if (r === 'skipped') { doc.setTextColor(251, 191, 36); doc.text('Not answered', M + 30, iy + 1); } else if (q.type === 'mcq') { const ix = L.indexOf(ua), tx = ix >= 0 ? q.options[ix] : ua; doc.setTextColor(r === 'correct' ? 74 : 248, r === 'correct' ? 222 : 113, r === 'correct' ? 128 : 113); doc.text(ua + '. ' + String(tx).substring(0, 72), M + 30, iy + 1); } else { doc.setTextColor(r === 'correct' ? 74 : 248, r === 'correct' ? 222 : 113, r === 'correct' ? 128 : 113); doc.text(String(ua || '').substring(0, 72), M + 30, iy + 1); } if (r !== 'correct') { iy += 6; doc.setFont('helvetica', 'bold'); doc.setFontSize(7.5); doc.setTextColor(136, 146, 176); doc.text('Correct:', M + 6, iy + 1); doc.setFont('helvetica', 'normal'); doc.setTextColor(74, 222, 128); if (q.type === 'mcq') { const ix = L.indexOf(q.answer); doc.text(q.answer + '. ' + String(q.options[ix]).substring(0, 72), M + 24, iy + 1); } else { doc.text(String(q.answer).substring(0, 72), M + 24, iy + 1); } } y += tH + 3; });
+            const tp = doc.internal.getNumberOfPages(); for (let p = 1; p <= tp; p++) { doc.setPage(p); doc.setFillColor(13, 15, 26); doc.rect(0, 287, W, 10, 'F'); doc.setFillColor(...gc); doc.rect(0, 285, W, 1.5, 'F'); doc.setFont('helvetica', 'italic'); doc.setFontSize(7.5); doc.setTextColor(136, 146, 176); doc.text('Made with love from Goodluck', M, 292); doc.text('Page ' + p + ' of ' + tp, W - M, 292, { align: 'right' }); doc.text(nm + ' · Grade ' + gr + ' · ' + ptxt, W / 2, 292, { align: 'center' }); }
+            const sn = (nm.replace(/[^a-z0-9]/gi, '_').substring(0, 20) || 'Student'); doc.save('Quiz_Result_' + sn + '_Grade' + gr + '.pdf');
+        }
+        function resetQuiz() { cQ = 0; ans = {}; sLeft = TIMER_MINUTES * 60; qEnded = false; wShown = false; dShown = false; if (tInt) clearInterval(tInt); document.getElementById('results').classList.add('hidden'); document.getElementById('landing').classList.remove('hidden'); document.getElementById('studentName').value = ''; document.getElementById('timerDisplay').textContent = fmt(TIMER_MINUTES * 60); document.getElementById('timerDisplay').className = 'timer-display'; document.getElementById('warningBanner').classList.remove('show'); }
+    </script>
+</body>
+
+</html>
