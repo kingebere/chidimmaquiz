@@ -1,767 +1,85 @@
 [
-  {
-    "id": 1,
-    "type": "mcq",
-    "stem": "Nutrition is an important medical science that has a significant place in which educational programme?",
-    "options": [
-      "Pharmacy educational programme",
-      "Nursing educational programme",
-      "Medical laboratory educational programme",
-      "Public health educational programme"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 2,
-    "type": "mcq",
-    "stem": "Which of the following is the FIRST era in the history of nutrition?",
-    "options": [
-      "Chemical-Analytical Era",
-      "Cellular or Molecular Era",
-      "Naturalistic Era",
-      "Biological Era"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": 3,
-    "type": "mcq",
-    "stem": "Lavoisier studied all of the following EXCEPT:",
-    "options": [
-      "Respiration",
-      "Calorimetry",
-      "Photosynthesis",
-      "Oxidation"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": 4,
-    "type": "mcq",
-    "stem": "Which philosopher made the famous statement: 'Thou shouldst eat to live; not live to eat'?",
-    "options": [
-      "Hippocrates",
-      "Aristotle",
-      "Plato",
-      "Socrates"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": 5,
-    "type": "mcq",
-    "stem": "The Cellular or Molecular Era began in which year?",
-    "options": [
-      "1900",
-      "1934",
-      "1955",
-      "1960"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": 6,
-    "type": "mcq",
-    "stem": "Which of the following diseases listed in the text is a result of nutrient deficiency that affects vision?",
-    "options": [
-      "Cretinism",
-      "Scurvy",
-      "Blindness",
-      "Preterm birth"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": 7,
-    "type": "mcq",
-    "stem": "During the Chemical-Analytical Era, which animals were used for the first quantitative studies on respiration?",
-    "options": [
-      "Rabbits",
-      "Guinea pigs",
-      "Monkeys",
-      "Rats"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 8,
-    "type": "mcq",
-    "stem": "Human nutrition deals with the provision of essential nutrients in food that are necessary to support which of the following?",
-    "options": [
-      "Disease treatment and drug metabolism",
-      "Human life and good health",
-      "Agricultural productivity",
-      "Surgical recovery only"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 9,
-    "type": "mcq",
-    "stem": "The science of nutrition is recognized as a distinct discipline only in which year?",
-    "options": [
-      "1912",
-      "1900",
-      "1955",
-      "1934"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": 10,
-    "type": "mcq",
-    "stem": "According to the text, which of the following correctly describes 'Nutrition'?",
-    "options": [
-      "The chemical process of food breakdown in the intestines",
-      "The sum of processes by which a living organism receives materials from its environment and uses them to promote its own vital activities",
-      "The measurement of caloric content in food",
-      "The biological analysis of carbohydrates and fats"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 11,
-    "type": "mcq",
-    "stem": "Graham Lusk secured which benefit specifically for adolescent children?",
-    "options": [
-      "Free hospital meals",
-      "Vitamin supplementation",
-      "A food allowance equal to that of adults",
-      "Reduced caloric diet requirements"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": 12,
-    "type": "mcq",
-    "stem": "According to the text, what is the LAST stage of the nutritional process in human nutrition?",
-    "options": [
-      "Assimilation",
-      "Absorption",
-      "Transport",
-      "Excretion"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": 13,
-    "type": "mcq",
-    "stem": "The Biological Era of nutrition spans which period?",
-    "options": [
-      "400 BC to 1750 AD",
-      "1750 to 1900",
-      "1900 to 1955",
-      "1955 to present"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": 14,
-    "type": "mcq",
-    "stem": "Which of the following nutrients was Lavoisier particularly interested in during the Chemical-Analytical Era?",
-    "options": [
-      "Vitamins and minerals",
-      "Carbon-bearing carbohydrates, fats and proteins",
-      "Water and electrolytes",
-      "Hormones and enzymes"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 15,
-    "type": "mcq",
-    "stem": "In which country is Graham Lusk recognized as the founder of the science of nutrition?",
-    "options": [
-      "France",
-      "England",
-      "Germany",
-      "America"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": 16,
-    "type": "mcq",
-    "stem": "The teaching and preparation techniques for food during the Naturalistic Era came from which source?",
-    "options": [
-      "Formal scientific training and publications",
-      "Government regulations and health ministries",
-      "Trial and error and an incredible capacity of human inventiveness",
-      "Religious institutions and missionaries"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": 17,
-    "type": "mcq",
-    "stem": "According to the text, which of the following best defines 'nutrients'?",
-    "options": [
-      "Medications derived from plants",
-      "Chemical substances produced in the liver",
-      "Materials received from the environment used by organisms to promote vital activities; it is food at work in the body",
-      "Hormones secreted by the endocrine glands"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": 18,
-    "type": "mcq",
-    "stem": "Poor nutrition was specifically listed in the text as able to cause which thyroid-related deficiency disease?",
-    "options": [
-      "Goitre",
-      "Cretinism",
-      "Hypothyroidism",
-      "Hashimoto's disease"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 19,
-    "type": "mcq",
-    "stem": "After the 1960s, nutrition research shifted its focus to which of the following areas?",
-    "options": [
-      "The discovery of new essential dietary components",
-      "The study of interrelationship among nutrients, precise roles, dietary requirements, and effect of processing on nutrient quality",
-      "Animal experiments using guinea pigs",
-      "The caloric value of carbohydrates and fats"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 20,
-    "type": "mcq",
-    "stem": "What is the responsibility of every nursing student according to the text?",
-    "options": [
-      "To prescribe dietary supplements to all patients",
-      "To apply the principles of nutrition personally and pass the knowledge to others to keep a far-reaching nutritional improvement program alive",
-      "To conduct research on nutritional deficiency diseases",
-      "To manage the dietary department of a hospital"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 21,
-    "type": "mcq",
-    "stem": "Which nutritional stage comes immediately AFTER absorption in the nutritional process?",
-    "options": [
-      "Ingestion",
-      "Digestion",
-      "Transport",
-      "Assimilation"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": 22,
-    "type": "mcq",
-    "stem": "Hippocrates believed that food impacts a person's health, body and mind in order to achieve which goals?",
-    "options": [
-      "Increase body mass and strength",
-      "Help prevent illness and maintain wellness",
-      "Boost reproductive capacity",
-      "Enhance mental intelligence only"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 23,
-    "type": "mcq",
-    "stem": "Which of the following is NOT listed as a deficiency disease caused by poor nutrition in the text?",
-    "options": [
-      "Scurvy",
-      "Blindness",
-      "Malaria",
-      "Anemia"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": 24,
-    "type": "mcq",
-    "stem": "The science of nutrition emerged after the development of which other branches of science?",
-    "options": [
-      "Mathematics and engineering",
-      "Psychology and sociology",
-      "Chemistry, biology, etc.",
-      "Physics and astronomy"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": 25,
-    "type": "mcq",
-    "stem": "The Chemical-Analytical Era in nutrition history ends in which year?",
-    "options": [
-      "1750",
-      "1900",
-      "1934",
-      "1955"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 26,
-    "type": "mcq",
-    "stem": "According to the text, what was the major characteristic of the Naturalistic Era?",
-    "options": [
-      "Scientific study of vitamins and minerals",
-      "Vague ideas about food mostly revolving around taboos, magical powers or medicinal value",
-      "Use of laboratory animals for nutritional experiments",
-      "Development of dietary charts for different age groups"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 27,
-    "type": "mcq",
-    "stem": "What was one key contribution of the Biological Era regarding dietary essentials?",
-    "options": [
-      "It identified caloric values of carbohydrates",
-      "It demonstrated that there was another dietary essential beside carbohydrates, fats and proteins",
-      "It introduced molecular studies of nutrients",
-      "It emphasized the role of fiber in digestion"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 28,
-    "type": "mcq",
-    "stem": "Laplace, who collaborated with Lavoisier, held what professional title?",
-    "options": [
-      "Chemist",
-      "Biologist",
-      "Physicist",
-      "Nutritionist"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": 29,
-    "type": "mcq",
-    "stem": "The history of nutrition is divided into how many eras?",
-    "options": [
-      "Two",
-      "Three",
-      "Four",
-      "Five"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": 30,
-    "type": "mcq",
-    "stem": "According to the text, what does awareness and application of nutrition in medical practice have on healthcare in society?",
-    "options": [
-      "A minor, indirect effect",
-      "No measurable impact",
-      "A major impact",
-      "An impact limited to pediatric care only"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": 31,
-    "type": "mcq",
-    "stem": "A 28-year-old pregnant woman is brought to the antenatal clinic appearing pale and fatigued. On questioning, she admits to eating very little over the past three months due to poverty. Which nutrient deficiency-related condition listed in NSC 204 is she MOST likely at risk of developing?",
-    "options": [
-      "Scurvy and blindness",
-      "Anemia and preterm birth",
-      "Cretinism and goitre",
-      "Diabetes and hypertension"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 32,
-    "type": "mcq",
-    "stem": "A nursing student is asked by her supervisor why nutrition is important in nursing education. Based on NSC 204, which of the following is the MOST appropriate answer she should give?",
-    "options": [
-      "It helps nurses to prescribe medications for dietary disorders",
-      "It equips nurses to promote health maintenance, prevent disease, facilitate recovery from illness, and augment treatment of disease states",
-      "It is required only for nurses working in the dietary department",
-      "It helps nurses understand the chemistry of food production"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 33,
-    "type": "mcq",
-    "stem": "A health educator is teaching a community group about the history of nutrition. She describes an era during which 'research changed from a search for essential dietary components to a study of the interrelationship among nutrients.' Which era is she referring to?",
-    "options": [
-      "Naturalistic Era",
-      "Chemical-Analytical Era",
-      "Biological Era",
-      "Cellular or Molecular Era"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": 34,
-    "type": "mcq",
-    "stem": "A 6-year-old child is brought to the paediatric ward showing signs of growth retardation. The mother reports the child has been feeding on a very unbalanced diet. Based on NSC 204 principles, which founding nutritionist's work specifically addressed securing adequate nutrition for children's normal growth?",
-    "options": [
-      "Lavoisier",
-      "Hippocrates",
-      "Graham Lusk",
-      "Socrates"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": 35,
-    "type": "mcq",
-    "stem": "A nurse educator is discussing with student nurses that nutrition knowledge serves a 'two-fold purpose.' A student asks for the two purposes. Which of the following is the CORRECT response?",
-    "options": [
-      "To prepare food and to administer intravenous fluids",
-      "To provide knowledge useful in personal living and for professional training",
-      "To prescribe vitamins and to manage nutritional wards",
-      "To prevent disease and to perform nutritional surgery"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 36,
-    "type": "mcq",
-    "stem": "A public health nurse is conducting a nutritional awareness campaign in a rural community. She explains that 'food is at work in the body.' Which term in nutritional science does this phrase describe?",
-    "options": [
-      "Diet",
-      "Metabolism",
-      "Nutrients",
-      "Digestion"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": 37,
-    "type": "mcq",
-    "stem": "During a ward round, a nurse observes a patient with scurvy admitted due to poor dietary intake. Which era in the history of nutrition FIRST gave concentrated scientific interest to the caloric value of foods?",
-    "options": [
-      "Naturalistic Era",
-      "Biological Era",
-      "Chemical-Analytical Era",
-      "Cellular or Molecular Era"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": 38,
-    "type": "mcq",
-    "stem": "A professor presenting a lecture on the history of nutrition quotes an ancient thinker who said 'Let thy food be thy medicine and thy medicine be thy food.' Which historical figure made this statement?",
-    "options": [
-      "Socrates",
-      "Lavoisier",
-      "Hippocrates",
-      "Graham Lusk"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": 39,
-    "type": "mcq",
-    "stem": "A newborn is delivered prematurely to a mother who had been malnourished throughout the pregnancy. Based on the text, which condition directly associated with nutritional deficiency does this represent?",
-    "options": [
-      "Cretinism",
-      "Still birth",
-      "Preterm birth",
-      "Anemia"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": 40,
-    "type": "mcq",
-    "stem": "A nursing student states that 'nutrition is relatively a youngster in the scientific community.' Based on the text, this is because it was recognized as a distinct discipline only in 1934 and emerged only after the development of which other disciplines?",
-    "options": [
-      "Psychology and philosophy",
-      "Chemistry, biology, etc.",
-      "Mathematics and engineering",
-      "Sociology and anthropology"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 41,
-    "type": "fitb",
-    "stem": "The fourth and current era of nutrition history is the _______________ era.",
-    "answer": "Cellular or Molecular",
-    "acceptableAnswers": [
-      "Cellular or Molecular",
-      "Cellular/Molecular",
-      "Molecular"
-    ]
-  },
-  {
-    "id": 42,
-    "type": "fitb",
-    "stem": "Graham Lusk is known as the founder of the science of nutrition in America and he lived from 1866 to _______________.",
-    "answer": "1932",
-    "acceptableAnswers": [
-      "1932"
-    ]
-  },
-  {
-    "id": 43,
-    "type": "fitb",
-    "stem": "The Naturalistic Era of nutrition dates back to the _______________ of humanity.",
-    "answer": "dawn",
-    "acceptableAnswers": [
-      "dawn",
-      "beginning",
-      "start"
-    ]
-  },
-  {
-    "id": 44,
-    "type": "fitb",
-    "stem": "In 1912, it was well established that there was another dietary essential beside carbohydrates, fats and _______________.",
-    "answer": "proteins",
-    "acceptableAnswers": [
-      "proteins"
-    ]
-  },
-  {
-    "id": 45,
-    "type": "fitb",
-    "stem": "Lavoisier is known as the father of _______________ .",
-    "answer": "nutrition",
-    "acceptableAnswers": [
-      "nutrition"
-    ]
-  },
-  {
-    "id": 46,
-    "type": "fitb",
-    "stem": "The nutritional stages in human nutrition are ingestion, digestion, absorption, transport, _______________ and excretion.",
-    "answer": "assimilation",
-    "acceptableAnswers": [
-      "assimilation"
-    ]
-  },
-  {
-    "id": 47,
-    "type": "fitb",
-    "stem": "During the Naturalistic Era, early peoples had vague ideas about food that mostly revolved around taboos, magical powers or _______________ value.",
-    "answer": "medicinal",
-    "acceptableAnswers": [
-      "medicinal"
-    ]
-  },
-  {
-    "id": 48,
-    "type": "fitb",
-    "stem": "Lavoisier, with the Physicist Laplace, used guinea pigs for the first _______________ studies on respiration.",
-    "answer": "quantitative",
-    "acceptableAnswers": [
-      "quantitative"
-    ]
-  },
-  {
-    "id": 49,
-    "type": "fitb",
-    "stem": "The science of nutrition emerged only after the development of other branches of science like chemistry, _______________ , etc.",
-    "answer": "biology",
-    "acceptableAnswers": [
-      "biology"
-    ]
-  },
-  {
-    "id": 50,
-    "type": "fitb",
-    "stem": "Millions of children were indebted to _______________ for the privilege of normal growth.",
-    "answer": "Lusk",
-    "acceptableAnswers": [
-      "Lusk",
-      "Graham Lusk"
-    ]
-  },
-  {
-    "id": 51,
-    "type": "fitb",
-    "stem": "Hippocrates is known as the father of _______________ .",
-    "answer": "medicine",
-    "acceptableAnswers": [
-      "medicine"
-    ]
-  },
-  {
-    "id": 52,
-    "type": "fitb",
-    "stem": "Awareness and application of nutrition in medical practice has a _______________ impact on health care in our society.",
-    "answer": "major",
-    "acceptableAnswers": [
-      "major",
-      "significant"
-    ]
-  },
-  {
-    "id": 53,
-    "type": "fitb",
-    "stem": "During the Chemical-Analytical Era, there was concentrated interest in the energy value or _______________ value of foods.",
-    "answer": "calorie",
-    "acceptableAnswers": [
-      "calorie",
-      "caloric"
-    ]
-  },
-  {
-    "id": 54,
-    "type": "fitb",
-    "stem": "One of Graham Lusk's chief contributions was a chart of the _______________ requirements of the different grade and age groups.",
-    "answer": "caloric",
-    "acceptableAnswers": [
-      "caloric",
-      "calorie"
-    ]
-  },
-  {
-    "id": 55,
-    "type": "fitb",
-    "stem": "Nutrition is an important _______________ science and has an important place in nursing educational programme.",
-    "answer": "medical",
-    "acceptableAnswers": [
-      "medical"
-    ]
-  },
-  {
-    "id": 56,
-    "type": "fitb",
-    "stem": "Nutrition may be described as the sum of the processes by which a living organism receives materials from its environment and uses them to promote its own _______________ activities.",
-    "answer": "vital",
-    "acceptableAnswers": [
-      "vital"
-    ]
-  },
-  {
-    "id": 57,
-    "type": "fitb",
-    "stem": "For nursing students, the study of nutrition fulfills a _______________ purpose.",
-    "answer": "two-fold",
-    "acceptableAnswers": [
-      "two-fold",
-      "twofold",
-      "dual",
-      "double"
-    ]
-  },
-  {
-    "id": 58,
-    "type": "fitb",
-    "stem": "The Chemical-Analytical Era was initiated by Lavoisier who studied respiration, oxidation and _______________ .",
-    "answer": "calorimetry",
-    "acceptableAnswers": [
-      "calorimetry"
-    ]
-  },
-  {
-    "id": 59,
-    "type": "fitb",
-    "stem": "Nutrients are materials received from the environment; nutrition is food at work in the _______________ .",
-    "answer": "body",
-    "acceptableAnswers": [
-      "body"
-    ]
-  },
-  {
-    "id": 60,
-    "type": "fitb",
-    "stem": "Poor nutrition can cause nutrient deficiency-related diseases such as blindness, anemia, scurvy, preterm birth, still birth, _______________ etc.",
-    "answer": "cretinism",
-    "acceptableAnswers": [
-      "cretinism"
-    ]
-  },
-  {
-    "id": 61,
-    "type": "fitb",
-    "stem": "The Chemical-Analytical Era covers the period from 1750 to _______________.",
-    "answer": "1900",
-    "acceptableAnswers": [
-      "1900"
-    ]
-  },
-  {
-    "id": 62,
-    "type": "fitb",
-    "stem": "Hippocrates realized that food impacts a person's health, body and mind to help prevent illness as well as maintain _______________.",
-    "answer": "wellness",
-    "acceptableAnswers": [
-      "wellness",
-      "well-being"
-    ]
-  },
-  {
-    "id": 63,
-    "type": "fitb",
-    "stem": "After 1960, nutritional research changed from a search for essential dietary components to a study of the _______________ among nutrients.",
-    "answer": "interrelationship",
-    "acceptableAnswers": [
-      "interrelationship",
-      "interrelationships"
-    ]
-  },
-  {
-    "id": 64,
-    "type": "fitb",
-    "stem": "Nurses need nutritional knowledge to augment the treatment of medical and _______________ disease states.",
-    "answer": "surgical",
-    "acceptableAnswers": [
-      "surgical"
-    ]
-  },
-  {
-    "id": 65,
-    "type": "fitb",
-    "stem": "The Cellular or Molecular Era includes determination of human dietary requirements and the effect of _______________ on the nutrient quality of foods.",
-    "answer": "processing",
-    "acceptableAnswers": [
-      "processing",
-      "food processing"
-    ]
-  },
-  {
-    "id": 66,
-    "type": "fitb",
-    "stem": "The science of nutrition is recognized as a distinct discipline only in _______________.",
-    "answer": "1934",
-    "acceptableAnswers": [
-      "1934"
-    ]
-  },
-  {
-    "id": 67,
-    "type": "fitb",
-    "stem": "During the Naturalistic Era, nutrition was largely determined by the availability and _______________ of foods.",
-    "answer": "palatability",
-    "acceptableAnswers": [
-      "palatability"
-    ]
-  },
-  {
-    "id": 68,
-    "type": "fitb",
-    "stem": "Every nursing student is responsible for applying the principle of nutrition personally and passing on knowledge to keep a far-reaching nutritional _______________ program alive.",
-    "answer": "improvement",
-    "acceptableAnswers": [
-      "improvement"
-    ]
-  },
-  {
-    "id": 69,
-    "type": "fitb",
-    "stem": "Animals have continued to play a major role in _______________ experiments since the Chemical-Analytical Era.",
-    "answer": "nutritional",
-    "acceptableAnswers": [
-      "nutritional",
-      "nutrition"
-    ]
-  },
-  {
-    "id": 70,
-    "type": "fitb",
-    "stem": "The Naturalistic Era of nutrition spans from 400 BC to _______________ AD.",
-    "answer": "1750",
-    "acceptableAnswers": [
-      "1750"
-    ]
-  }
+{"id":1,"type":"mcq","stem":"A nurse is caring for a client with COPD who is receiving oxygen at 6 L/min via nasal cannula. The client becomes drowsy and confused. What is the priority action?","options":["Reduce oxygen flow rate","Encourage deep breathing","Check oxygen saturation"],"answer":"A"},
+{"id":2,"type":"mcq","stem":"A postoperative patient suddenly develops shortness of breath and chest pain. What is the nurse’s first action?","options":["Administer oxygen","Notify physician","Assess vital signs"],"answer":"A"},
+{"id":3,"type":"mcq","stem":"A client with diabetic ketoacidosis is receiving insulin infusion. Which lab value indicates effective treatment?","options":["Decreasing blood glucose","Increasing potassium","Rising pH"],"answer":"A"},
+{"id":4,"type":"mcq","stem":"A nurse is assessing a client with increased intracranial pressure. Which finding is most concerning?","options":["Bradycardia","Hypertension","Restlessness"],"answer":"A"},
+{"id":5,"type":"mcq","stem":"A client receiving heparin develops bleeding gums. What is the priority action?","options":["Stop heparin infusion","Administer protamine sulfate","Check aPTT level"],"answer":"A"},
+
+{"id":6,"type":"mcq","stem":"Case: A patient reports hearing voices commanding harm. What is the nurse’s priority response?","options":["Ask content of voices","Reassure patient voices are not real","Ensure patient safety"],"answer":"C"},
+{"id":7,"type":"mcq","stem":"Case: A postpartum client has heavy vaginal bleeding and a boggy uterus. What should the nurse do first?","options":["Massage uterus","Call physician","Administer oxytocin"],"answer":"A"},
+{"id":8,"type":"mcq","stem":"Case: A child presents with high fever, stiff neck, and photophobia. What precaution is required?","options":["Airborne","Droplet","Contact"],"answer":"B"},
+{"id":9,"type":"mcq","stem":"Case: A patient with asthma is using accessory muscles to breathe. What is priority?","options":["Administer bronchodilator","Encourage coughing","Give fluids"],"answer":"A"},
+{"id":10,"type":"mcq","stem":"Case: A client suddenly develops unilateral weakness and slurred speech. What is the priority?","options":["Assess airway","Give aspirin","Check blood glucose"],"answer":"A"},
+
+{"id":11,"type":"mcq","stem":"Which electrolyte imbalance is most likely to cause cardiac arrest?","options":["Hyperkalemia","Hyponatremia","Hypocalcemia"],"answer":"A"},
+{"id":12,"type":"mcq","stem":"A client on warfarin therapy has INR of 5.2. What is the priority intervention?","options":["Hold medication","Administer vitamin K","Monitor for bleeding"],"answer":"A"},
+{"id":13,"type":"mcq","stem":"Which finding indicates fluid overload?","options":["Crackles","Dry mucosa","Hypotension"],"answer":"A"},
+{"id":14,"type":"mcq","stem":"Which patient is at highest risk for infection?","options":["Neutropenic patient","Diabetic patient","Postoperative patient"],"answer":"A"},
+{"id":15,"type":"mcq","stem":"Which sign is most indicative of hypocalcemia?","options":["Tetany","Bradycardia","Flushing"],"answer":"A"},
+
+{"id":16,"type":"mcq","stem":"A nurse is caring for a client with burns. What indicates adequate fluid resuscitation?","options":["Urine output >30 mL/hr","Stable blood pressure","Normal heart rate"],"answer":"A"},
+{"id":17,"type":"mcq","stem":"Which client should the nurse see first?","options":["Chest pain patient","Fever patient","Vomiting patient"],"answer":"A"},
+{"id":18,"type":"mcq","stem":"Which medication requires monitoring for ototoxicity?","options":["Gentamicin","Paracetamol","Metformin"],"answer":"A"},
+{"id":19,"type":"mcq","stem":"Which condition requires airborne precautions?","options":["Tuberculosis","Influenza","MRSA"],"answer":"A"},
+{"id":20,"type":"mcq","stem":"Which lab indicates kidney dysfunction?","options":["Elevated creatinine","Low sodium","High glucose"],"answer":"A"},
+
+{"id":21,"type":"mcq","stem":"Case: A patient with hypoglycemia is unconscious. What is priority?","options":["Give IV dextrose","Check blood sugar","Administer insulin"],"answer":"A"},
+{"id":22,"type":"mcq","stem":"Case: A client with eclampsia is seizing. What is first intervention?","options":["Protect airway","Administer magnesium sulfate","Call physician"],"answer":"A"},
+{"id":23,"type":"mcq","stem":"Case: A patient has severe allergic reaction. What is first drug?","options":["Epinephrine","Antihistamine","Steroid"],"answer":"A"},
+{"id":24,"type":"mcq","stem":"Case: A child has dehydration with sunken eyes. What is priority?","options":["Oral rehydration","IV antibiotics","Antipyretics"],"answer":"A"},
+{"id":25,"type":"mcq","stem":"Case: A patient develops confusion after surgery. Likely cause?","options":["Hypoxia","Infection","Pain"],"answer":"A"},
+
+{"id":26,"type":"mcq","stem":"Which patient is most at risk for pressure ulcers?","options":["Immobile patient","Ambulatory patient","Young adult"],"answer":"A"},
+{"id":27,"type":"mcq","stem":"Which indicates effective CPR?","options":["Return of pulse","Chest rise","Pupil reaction"],"answer":"A"},
+{"id":28,"type":"mcq","stem":"Which condition causes metabolic acidosis?","options":["DKA","Vomiting","Hyperventilation"],"answer":"A"},
+{"id":29,"type":"mcq","stem":"Which symptom is early sign of shock?","options":["Tachycardia","Hypotension","Bradycardia"],"answer":"A"},
+{"id":30,"type":"mcq","stem":"Which action prevents aspiration?","options":["Elevate head of bed","Supine position","Give fluids"],"answer":"A"},
+
+{"id":31,"type":"mcq","stem":"Case: A patient refuses medication due to paranoia. What should nurse do?","options":["Explain purpose calmly","Force medication","Ignore refusal"],"answer":"A"},
+{"id":32,"type":"mcq","stem":"Case: A neonate has cyanosis and poor feeding. Priority?","options":["Assess airway","Give glucose","Call parent"],"answer":"A"},
+{"id":33,"type":"mcq","stem":"Case: A patient on opioids has respiratory rate 8/min. Action?","options":["Administer naloxone","Reduce dose","Monitor"],"answer":"A"},
+{"id":34,"type":"mcq","stem":"Case: A patient has high fever after transfusion. Action?","options":["Stop transfusion","Give antipyretic","Slow rate"],"answer":"A"},
+{"id":35,"type":"mcq","stem":"Case: A patient has sudden leg swelling and pain. Risk?","options":["DVT","Stroke","MI"],"answer":"A"},
+
+{"id":36,"type":"fitb","stem":"The antidote for heparin is __________.","answer":"protamine sulfate","acceptableAnswers":["protamine sulfate"]},
+{"id":37,"type":"fitb","stem":"Normal urine output should be at least __________ mL/hr.","answer":"30","acceptableAnswers":["30"]},
+{"id":38,"type":"fitb","stem":"The first step in airway management is __________.","answer":"positioning","acceptableAnswers":["positioning","airway positioning"]},
+{"id":39,"type":"fitb","stem":"Hypoxia primarily affects the __________ system.","answer":"respiratory","acceptableAnswers":["respiratory"]},
+{"id":40,"type":"fitb","stem":"Shock results from inadequate __________ perfusion.","answer":"tissue","acceptableAnswers":["tissue"]},
+
+{"id":41,"type":"fitb","stem":"The antidote for opioid overdose is __________.","answer":"naloxone","acceptableAnswers":["naloxone"]},
+{"id":42,"type":"fitb","stem":"High potassium level is called __________.","answer":"hyperkalemia","acceptableAnswers":["hyperkalemia"]},
+{"id":43,"type":"fitb","stem":"Low sodium level is __________.","answer":"hyponatremia","acceptableAnswers":["hyponatremia"]},
+{"id":44,"type":"fitb","stem":"Inflammation of the appendix is __________.","answer":"appendicitis","acceptableAnswers":["appendicitis"]},
+{"id":45,"type":"fitb","stem":"Loss of consciousness is called __________.","answer":"syncope","acceptableAnswers":["syncope"]},
+
+{"id":46,"type":"fitb","stem":"Oxygen saturation below __________% is abnormal.","answer":"90","acceptableAnswers":["90"]},
+{"id":47,"type":"fitb","stem":"A seizure lasting more than 5 minutes is __________.","answer":"status epilepticus","acceptableAnswers":["status epilepticus"]},
+{"id":48,"type":"fitb","stem":"Fluid accumulation in lungs is called __________.","answer":"pulmonary edema","acceptableAnswers":["pulmonary edema"]},
+{"id":49,"type":"fitb","stem":"The normal pH range is __________.","answer":"7.35-7.45","acceptableAnswers":["7.35-7.45"]},
+{"id":50,"type":"fitb","stem":"The main electrolyte in extracellular fluid is __________.","answer":"sodium","acceptableAnswers":["sodium"]},
+
+{"id":51,"type":"fitb","stem":"Excessive bleeding is called __________.","answer":"hemorrhage","acceptableAnswers":["hemorrhage"]},
+{"id":52,"type":"fitb","stem":"A blood clot in a vein is called __________.","answer":"thrombosis","acceptableAnswers":["thrombosis"]},
+{"id":53,"type":"fitb","stem":"The first sign of infection is often __________.","answer":"fever","acceptableAnswers":["fever"]},
+{"id":54,"type":"fitb","stem":"Pain scale ranges from 0 to __________.","answer":"10","acceptableAnswers":["10"]},
+{"id":55,"type":"fitb","stem":"Severe allergic reaction is __________.","answer":"anaphylaxis","acceptableAnswers":["anaphylaxis"]},
+
+{"id":56,"type":"fitb","stem":"The brain controls __________ functions.","answer":"body","acceptableAnswers":["body"]},
+{"id":57,"type":"fitb","stem":"The smallest functional unit of lung is __________.","answer":"alveoli","acceptableAnswers":["alveoli"]},
+{"id":58,"type":"fitb","stem":"The universal donor blood group is __________.","answer":"O negative","acceptableAnswers":["O negative","O-"]},
+{"id":59,"type":"fitb","stem":"The universal recipient blood group is __________.","answer":"AB positive","acceptableAnswers":["AB positive","AB+"]},
+{"id":60,"type":"fitb","stem":"The study of disease is __________.","answer":"pathology","acceptableAnswers":["pathology"]},
+
+{"id":61,"type":"fitb","stem":"The process of blood clotting is __________.","answer":"coagulation","acceptableAnswers":["coagulation"]},
+{"id":62,"type":"fitb","stem":"Inflammation of joints is __________.","answer":"arthritis","acceptableAnswers":["arthritis"]},
+{"id":63,"type":"fitb","stem":"Difficulty breathing is __________.","answer":"dyspnea","acceptableAnswers":["dyspnea"]},
+{"id":64,"type":"fitb","stem":"Vomiting blood is __________.","answer":"hematemesis","acceptableAnswers":["hematemesis"]},
+{"id":65,"type":"fitb","stem":"Black tarry stool is __________.","answer":"melena","acceptableAnswers":["melena"]},
+
+{"id":66,"type":"fitb","stem":"Pain in chest due to ischemia is __________.","answer":"angina","acceptableAnswers":["angina"]},
+{"id":67,"type":"fitb","stem":"High blood sugar is __________.","answer":"hyperglycemia","acceptableAnswers":["hyperglycemia"]},
+{"id":68,"type":"fitb","stem":"Low blood sugar is __________.","answer":"hypoglycemia","acceptableAnswers":["hypoglycemia"]},
+{"id":69,"type":"fitb","stem":"Excess fluid in tissues is __________.","answer":"edema","acceptableAnswers":["edema"]},
+{"id":70,"type":"fitb","stem":"Loss of appetite is __________.","answer":"anorexia","acceptableAnswers":["anorexia"]}
 ]
