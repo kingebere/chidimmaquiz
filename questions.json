@@ -1,85 +1,797 @@
 [
-{"id":1,"type":"mcq","stem":"A nurse is caring for a client with COPD who is receiving oxygen at 6 L/min via nasal cannula. The client becomes drowsy and confused. What is the priority action?","options":["Reduce oxygen flow rate","Encourage deep breathing","Check oxygen saturation"],"answer":"A"},
-{"id":2,"type":"mcq","stem":"A postoperative patient suddenly develops shortness of breath and chest pain. What is the nurse’s first action?","options":["Administer oxygen","Notify physician","Assess vital signs"],"answer":"A"},
-{"id":3,"type":"mcq","stem":"A client with diabetic ketoacidosis is receiving insulin infusion. Which lab value indicates effective treatment?","options":["Decreasing blood glucose","Increasing potassium","Rising pH"],"answer":"A"},
-{"id":4,"type":"mcq","stem":"A nurse is assessing a client with increased intracranial pressure. Which finding is most concerning?","options":["Bradycardia","Hypertension","Restlessness"],"answer":"A"},
-{"id":5,"type":"mcq","stem":"A client receiving heparin develops bleeding gums. What is the priority action?","options":["Stop heparin infusion","Administer protamine sulfate","Check aPTT level"],"answer":"A"},
-
-{"id":6,"type":"mcq","stem":"Case: A patient reports hearing voices commanding harm. What is the nurse’s priority response?","options":["Ask content of voices","Reassure patient voices are not real","Ensure patient safety"],"answer":"C"},
-{"id":7,"type":"mcq","stem":"Case: A postpartum client has heavy vaginal bleeding and a boggy uterus. What should the nurse do first?","options":["Massage uterus","Call physician","Administer oxytocin"],"answer":"A"},
-{"id":8,"type":"mcq","stem":"Case: A child presents with high fever, stiff neck, and photophobia. What precaution is required?","options":["Airborne","Droplet","Contact"],"answer":"B"},
-{"id":9,"type":"mcq","stem":"Case: A patient with asthma is using accessory muscles to breathe. What is priority?","options":["Administer bronchodilator","Encourage coughing","Give fluids"],"answer":"A"},
-{"id":10,"type":"mcq","stem":"Case: A client suddenly develops unilateral weakness and slurred speech. What is the priority?","options":["Assess airway","Give aspirin","Check blood glucose"],"answer":"A"},
-
-{"id":11,"type":"mcq","stem":"Which electrolyte imbalance is most likely to cause cardiac arrest?","options":["Hyperkalemia","Hyponatremia","Hypocalcemia"],"answer":"A"},
-{"id":12,"type":"mcq","stem":"A client on warfarin therapy has INR of 5.2. What is the priority intervention?","options":["Hold medication","Administer vitamin K","Monitor for bleeding"],"answer":"A"},
-{"id":13,"type":"mcq","stem":"Which finding indicates fluid overload?","options":["Crackles","Dry mucosa","Hypotension"],"answer":"A"},
-{"id":14,"type":"mcq","stem":"Which patient is at highest risk for infection?","options":["Neutropenic patient","Diabetic patient","Postoperative patient"],"answer":"A"},
-{"id":15,"type":"mcq","stem":"Which sign is most indicative of hypocalcemia?","options":["Tetany","Bradycardia","Flushing"],"answer":"A"},
-
-{"id":16,"type":"mcq","stem":"A nurse is caring for a client with burns. What indicates adequate fluid resuscitation?","options":["Urine output >30 mL/hr","Stable blood pressure","Normal heart rate"],"answer":"A"},
-{"id":17,"type":"mcq","stem":"Which client should the nurse see first?","options":["Chest pain patient","Fever patient","Vomiting patient"],"answer":"A"},
-{"id":18,"type":"mcq","stem":"Which medication requires monitoring for ototoxicity?","options":["Gentamicin","Paracetamol","Metformin"],"answer":"A"},
-{"id":19,"type":"mcq","stem":"Which condition requires airborne precautions?","options":["Tuberculosis","Influenza","MRSA"],"answer":"A"},
-{"id":20,"type":"mcq","stem":"Which lab indicates kidney dysfunction?","options":["Elevated creatinine","Low sodium","High glucose"],"answer":"A"},
-
-{"id":21,"type":"mcq","stem":"Case: A patient with hypoglycemia is unconscious. What is priority?","options":["Give IV dextrose","Check blood sugar","Administer insulin"],"answer":"A"},
-{"id":22,"type":"mcq","stem":"Case: A client with eclampsia is seizing. What is first intervention?","options":["Protect airway","Administer magnesium sulfate","Call physician"],"answer":"A"},
-{"id":23,"type":"mcq","stem":"Case: A patient has severe allergic reaction. What is first drug?","options":["Epinephrine","Antihistamine","Steroid"],"answer":"A"},
-{"id":24,"type":"mcq","stem":"Case: A child has dehydration with sunken eyes. What is priority?","options":["Oral rehydration","IV antibiotics","Antipyretics"],"answer":"A"},
-{"id":25,"type":"mcq","stem":"Case: A patient develops confusion after surgery. Likely cause?","options":["Hypoxia","Infection","Pain"],"answer":"A"},
-
-{"id":26,"type":"mcq","stem":"Which patient is most at risk for pressure ulcers?","options":["Immobile patient","Ambulatory patient","Young adult"],"answer":"A"},
-{"id":27,"type":"mcq","stem":"Which indicates effective CPR?","options":["Return of pulse","Chest rise","Pupil reaction"],"answer":"A"},
-{"id":28,"type":"mcq","stem":"Which condition causes metabolic acidosis?","options":["DKA","Vomiting","Hyperventilation"],"answer":"A"},
-{"id":29,"type":"mcq","stem":"Which symptom is early sign of shock?","options":["Tachycardia","Hypotension","Bradycardia"],"answer":"A"},
-{"id":30,"type":"mcq","stem":"Which action prevents aspiration?","options":["Elevate head of bed","Supine position","Give fluids"],"answer":"A"},
-
-{"id":31,"type":"mcq","stem":"Case: A patient refuses medication due to paranoia. What should nurse do?","options":["Explain purpose calmly","Force medication","Ignore refusal"],"answer":"A"},
-{"id":32,"type":"mcq","stem":"Case: A neonate has cyanosis and poor feeding. Priority?","options":["Assess airway","Give glucose","Call parent"],"answer":"A"},
-{"id":33,"type":"mcq","stem":"Case: A patient on opioids has respiratory rate 8/min. Action?","options":["Administer naloxone","Reduce dose","Monitor"],"answer":"A"},
-{"id":34,"type":"mcq","stem":"Case: A patient has high fever after transfusion. Action?","options":["Stop transfusion","Give antipyretic","Slow rate"],"answer":"A"},
-{"id":35,"type":"mcq","stem":"Case: A patient has sudden leg swelling and pain. Risk?","options":["DVT","Stroke","MI"],"answer":"A"},
-
-{"id":36,"type":"fitb","stem":"The antidote for heparin is __________.","answer":"protamine sulfate","acceptableAnswers":["protamine sulfate"]},
-{"id":37,"type":"fitb","stem":"Normal urine output should be at least __________ mL/hr.","answer":"30","acceptableAnswers":["30"]},
-{"id":38,"type":"fitb","stem":"The first step in airway management is __________.","answer":"positioning","acceptableAnswers":["positioning","airway positioning"]},
-{"id":39,"type":"fitb","stem":"Hypoxia primarily affects the __________ system.","answer":"respiratory","acceptableAnswers":["respiratory"]},
-{"id":40,"type":"fitb","stem":"Shock results from inadequate __________ perfusion.","answer":"tissue","acceptableAnswers":["tissue"]},
-
-{"id":41,"type":"fitb","stem":"The antidote for opioid overdose is __________.","answer":"naloxone","acceptableAnswers":["naloxone"]},
-{"id":42,"type":"fitb","stem":"High potassium level is called __________.","answer":"hyperkalemia","acceptableAnswers":["hyperkalemia"]},
-{"id":43,"type":"fitb","stem":"Low sodium level is __________.","answer":"hyponatremia","acceptableAnswers":["hyponatremia"]},
-{"id":44,"type":"fitb","stem":"Inflammation of the appendix is __________.","answer":"appendicitis","acceptableAnswers":["appendicitis"]},
-{"id":45,"type":"fitb","stem":"Loss of consciousness is called __________.","answer":"syncope","acceptableAnswers":["syncope"]},
-
-{"id":46,"type":"fitb","stem":"Oxygen saturation below __________% is abnormal.","answer":"90","acceptableAnswers":["90"]},
-{"id":47,"type":"fitb","stem":"A seizure lasting more than 5 minutes is __________.","answer":"status epilepticus","acceptableAnswers":["status epilepticus"]},
-{"id":48,"type":"fitb","stem":"Fluid accumulation in lungs is called __________.","answer":"pulmonary edema","acceptableAnswers":["pulmonary edema"]},
-{"id":49,"type":"fitb","stem":"The normal pH range is __________.","answer":"7.35-7.45","acceptableAnswers":["7.35-7.45"]},
-{"id":50,"type":"fitb","stem":"The main electrolyte in extracellular fluid is __________.","answer":"sodium","acceptableAnswers":["sodium"]},
-
-{"id":51,"type":"fitb","stem":"Excessive bleeding is called __________.","answer":"hemorrhage","acceptableAnswers":["hemorrhage"]},
-{"id":52,"type":"fitb","stem":"A blood clot in a vein is called __________.","answer":"thrombosis","acceptableAnswers":["thrombosis"]},
-{"id":53,"type":"fitb","stem":"The first sign of infection is often __________.","answer":"fever","acceptableAnswers":["fever"]},
-{"id":54,"type":"fitb","stem":"Pain scale ranges from 0 to __________.","answer":"10","acceptableAnswers":["10"]},
-{"id":55,"type":"fitb","stem":"Severe allergic reaction is __________.","answer":"anaphylaxis","acceptableAnswers":["anaphylaxis"]},
-
-{"id":56,"type":"fitb","stem":"The brain controls __________ functions.","answer":"body","acceptableAnswers":["body"]},
-{"id":57,"type":"fitb","stem":"The smallest functional unit of lung is __________.","answer":"alveoli","acceptableAnswers":["alveoli"]},
-{"id":58,"type":"fitb","stem":"The universal donor blood group is __________.","answer":"O negative","acceptableAnswers":["O negative","O-"]},
-{"id":59,"type":"fitb","stem":"The universal recipient blood group is __________.","answer":"AB positive","acceptableAnswers":["AB positive","AB+"]},
-{"id":60,"type":"fitb","stem":"The study of disease is __________.","answer":"pathology","acceptableAnswers":["pathology"]},
-
-{"id":61,"type":"fitb","stem":"The process of blood clotting is __________.","answer":"coagulation","acceptableAnswers":["coagulation"]},
-{"id":62,"type":"fitb","stem":"Inflammation of joints is __________.","answer":"arthritis","acceptableAnswers":["arthritis"]},
-{"id":63,"type":"fitb","stem":"Difficulty breathing is __________.","answer":"dyspnea","acceptableAnswers":["dyspnea"]},
-{"id":64,"type":"fitb","stem":"Vomiting blood is __________.","answer":"hematemesis","acceptableAnswers":["hematemesis"]},
-{"id":65,"type":"fitb","stem":"Black tarry stool is __________.","answer":"melena","acceptableAnswers":["melena"]},
-
-{"id":66,"type":"fitb","stem":"Pain in chest due to ischemia is __________.","answer":"angina","acceptableAnswers":["angina"]},
-{"id":67,"type":"fitb","stem":"High blood sugar is __________.","answer":"hyperglycemia","acceptableAnswers":["hyperglycemia"]},
-{"id":68,"type":"fitb","stem":"Low blood sugar is __________.","answer":"hypoglycemia","acceptableAnswers":["hypoglycemia"]},
-{"id":69,"type":"fitb","stem":"Excess fluid in tissues is __________.","answer":"edema","acceptableAnswers":["edema"]},
-{"id":70,"type":"fitb","stem":"Loss of appetite is __________.","answer":"anorexia","acceptableAnswers":["anorexia"]}
+  {
+    "id": 1,
+    "type": "mcq",
+    "stem": "A 34-year-old male presents with paranoid ideation, claiming his neighbours are controlling his thoughts through radio waves. He insists this is true despite logical explanation. Which type of delusion does this BEST represent?",
+    "options": [
+      "Delusion of grandeur",
+      "Delusion of control",
+      "Delusion of poverty",
+      "Paranoid delusion"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 2,
+    "type": "mcq",
+    "stem": "Twin and adoption studies examining the heritability of schizophrenia primarily support which cause of mental illness?",
+    "options": [
+      "Sociocultural factors",
+      "Environmental pollution",
+      "Biological/genetic factors",
+      "Behavioural conditioning"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 3,
+    "type": "mcq",
+    "stem": "Structural abnormality in the prefrontal cortex of the brain has been most strongly associated with which mental disorder?",
+    "options": [
+      "Major depressive disorder",
+      "Generalised anxiety disorder",
+      "Schizophrenia",
+      "Bipolar affective disorder"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 4,
+    "type": "mcq",
+    "stem": "A nurse is reviewing the chart of a patient who recently migrated from a rural community to Lagos and is showing signs of depression and anxiety. Which category of causative factor does this BEST fall under?",
+    "options": [
+      "Biological factors",
+      "Sociocultural â migration and acculturation stress",
+      "Environmental â toxin exposure",
+      "Political â government policy"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 5,
+    "type": "mcq",
+    "stem": "A patient with bipolar disorder is noted to describe horrific events such as the death of a family member in a laughing, jovial manner. What is the CORRECT term for this symptom?",
+    "options": [
+      "Elation",
+      "Euphoria",
+      "Incongruity of affect",
+      "Flattening of affect"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 6,
+    "type": "mcq",
+    "stem": "High levels of cortisol released during prolonged stress are MOST directly associated with the development of which conditions?",
+    "options": [
+      "Schizophrenia and delirium",
+      "Anxiety and depression",
+      "Obsessive-compulsive disorder and phobia",
+      "Dementia and confabulation"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 7,
+    "type": "mcq",
+    "stem": "Which of the following BEST describes a precipitating factor in the development of mental illness?",
+    "options": [
+      "A chronic financial hardship that sustains the patient's anxiety over years",
+      "A patient's competence in managing household responsibilities",
+      "A recent relationship conflict that triggered an acute psychotic episode",
+      "A family history of depression identified at birth"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 8,
+    "type": "mcq",
+    "stem": "A patient on the psychiatric ward is observed walking in a fixed, repetitive pattern regardless of instructions given by the nurse. This behaviour is BEST described as:",
+    "options": [
+      "Mannerism",
+      "Impulsiveness",
+      "Stereotype of movement",
+      "Negativism"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 9,
+    "type": "mcq",
+    "stem": "During a mental state examination, a patient refuses to carry out all instructions given and does the exact opposite. The nurse documents this as:",
+    "options": [
+      "Ambivalence",
+      "Negativism",
+      "Confabulation",
+      "Anhedonia"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 10,
+    "type": "mcq",
+    "stem": "Imbalances in which neurotransmitters have been MOST consistently associated with the development of mental illness?",
+    "options": [
+      "Acetylcholine, glutamate, and GABA",
+      "Serotonin, dopamine, and norepinephrine",
+      "Histamine, glycine, and substance P",
+      "Endorphin, enkephalin, and dynorphin"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 11,
+    "type": "mcq",
+    "stem": "A patient recovering from a recent streptococcal throat infection begins exhibiting obsessive-compulsive symptoms. Which biological cause of mental illness does this MOST likely illustrate?",
+    "options": [
+      "Prenatal damage",
+      "Hormonal imbalance",
+      "Infection â PANDAS",
+      "Birth injury"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 12,
+    "type": "mcq",
+    "stem": "Which of the following is classified as a PERPETUATING factor in mental illness?",
+    "options": [
+      "A recent job loss that triggered a depressive episode",
+      "A patient's strong family support network",
+      "Ongoing financial hardship that sustains depressive symptoms",
+      "A history of parental mental illness"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 13,
+    "type": "mcq",
+    "stem": "A patient presents claiming to have untold wealth and to be a direct descendant of a Nigerian king, despite being a subsistence farmer. This is BEST described as:",
+    "options": [
+      "Paranoid delusion",
+      "Delusion of grandeur",
+      "Delusion of poverty",
+      "Delusion of control"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 14,
+    "type": "mcq",
+    "stem": "Exposure to heavy metals, pesticides, and other environmental pollutants during childhood is classified under which category of mental illness causes?",
+    "options": [
+      "Political factors",
+      "Biological â infections",
+      "Environmental factors",
+      "Sociocultural factors"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 15,
+    "type": "mcq",
+    "stem": "A patient is unable to recognise the current date, the ward he is on, or the name of the nurse caring for him. This symptom is BEST described as:",
+    "options": [
+      "Confabulation",
+      "Anhedonia",
+      "Disorientation",
+      "Ambivalence"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 16,
+    "type": "mcq",
+    "stem": "In mental health nursing, auditory hallucinations are BEST defined as:",
+    "options": [
+      "Misinterpretation of a real external sound",
+      "Perception of sound without any outside stimulus",
+      "A false belief maintained despite evidence",
+      "Heightened sensitivity to environmental noise"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 17,
+    "type": "mcq",
+    "stem": "Which of the following BEST distinguishes a hallucination from an illusion?",
+    "options": [
+      "Hallucinations involve an existing external stimulus; illusions do not",
+      "Illusions are always auditory; hallucinations are always visual",
+      "Hallucinations occur without an external stimulus; illusions involve misinterpretation of a real stimulus",
+      "Illusions are only seen in psychotic disorders; hallucinations occur in all disorders"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 18,
+    "type": "mcq",
+    "stem": "A woman who recently lost her husband and only child in an accident is brought to a psychiatric facility showing emotional withdrawal and inability to experience joy. Which symptom does this MOST represent?",
+    "options": [
+      "Elation",
+      "Euphoria",
+      "Anhedonia",
+      "Confabulation"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 19,
+    "type": "mcq",
+    "stem": "Government austerity policies that increase poverty and social isolation are classified under which category of mental illness causative factors?",
+    "options": [
+      "Behavioural/psychological factors",
+      "Environmental factors",
+      "Political factors",
+      "Sociocultural factors"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 20,
+    "type": "mcq",
+    "stem": "A psychiatric patient has a gross defect in memory and fills in the gaps with entirely fabricated events presented as real. The nurse documents this as:",
+    "options": [
+      "Negativism",
+      "Confabulation",
+      "Ambivalence",
+      "Flight of ideas"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 21,
+    "type": "mcq",
+    "stem": "A patient shows rapid jumping from one idea to another without completing any thought. Which symptom of mental illness does the nurse MOST likely document?",
+    "options": [
+      "Word salad",
+      "Blocking",
+      "Flight of ideas",
+      "Neologism"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 22,
+    "type": "mcq",
+    "stem": "The amygdala of the brain has been most strongly associated with which mental condition?",
+    "options": [
+      "Schizophrenia",
+      "Bipolar disorder",
+      "Anxiety disorder",
+      "Major depressive disorder"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 23,
+    "type": "mcq",
+    "stem": "CASE STUDY: A 19-year-old university student returns home after failing his final year exams. He stops eating, sleeps excessively, neglects personal hygiene, and tells his mother he hears a voice calling his name even when alone. Which of the following BEST explains the precipitating factor in this case?",
+    "options": [
+      "History of childhood abuse",
+      "Genetic predisposition to schizophrenia",
+      "Academic failure as an acute stressor",
+      "Poor access to healthcare"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 24,
+    "type": "mcq",
+    "stem": "CASE STUDY (continued from Q23): The voice the student hears calling his name without an external source is BEST classified as which type of hallucination?",
+    "options": [
+      "Visual hallucination",
+      "Gustatory hallucination",
+      "Auditory hallucination",
+      "Tactile hallucination"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 25,
+    "type": "mcq",
+    "stem": "A nurse observes that a patient suddenly stops mid-sentence and is unable to continue her train of thought. There is a prolonged pause before she speaks again. This is BEST documented as:",
+    "options": [
+      "Mutism",
+      "Incoherence",
+      "Blocking",
+      "Verbigeration"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 26,
+    "type": "mcq",
+    "stem": "Vitamin B deficiency and protein deprivation contributing to mental illness are classified as which type of predisposing factor?",
+    "options": [
+      "Political factors",
+      "Nutritional factors",
+      "Sociocultural factors",
+      "Hormonal factors"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 27,
+    "type": "mcq",
+    "stem": "A patient experiencing excessive joy far beyond what his current circumstances warrant is BEST described as displaying:",
+    "options": [
+      "Euphoria",
+      "Elation",
+      "Incongruity of affect",
+      "Flattening of affect"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 28,
+    "type": "mcq",
+    "stem": "Which of the following BEST represents a protective factor in mental health assessment?",
+    "options": [
+      "Family history of bipolar disorder",
+      "Unemployment and social isolation",
+      "Patient's demonstrated areas of competence and coping ability",
+      "Exposure to domestic violence in childhood"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 29,
+    "type": "mcq",
+    "stem": "A patient creates entirely new words that have no recognised meaning and uses them in speech. The nurse documents this as:",
+    "options": [
+      "Incoherence",
+      "Word salad",
+      "Neologism",
+      "Verbigeration"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 30,
+    "type": "mcq",
+    "stem": "Discrimination based on race, ethnicity, gender, or sexual orientation that leads to chronic psychological stress is categorised under which factor in mental illness?",
+    "options": [
+      "Environmental factors",
+      "Sociocultural â discrimination and marginalisation",
+      "Political â human rights violations",
+      "Behavioural â trauma and stress"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 31,
+    "type": "mcq",
+    "stem": "A patient involuntarily maintains an uncomfortable posture for an extended period without any apparent discomfort. This phenomenon is BEST described as:",
+    "options": [
+      "Mannerism",
+      "Negativism",
+      "Catalepsy",
+      "Impulsiveness"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 32,
+    "type": "mcq",
+    "stem": "Which predisposing factor to mental illness is associated with decline in mental and physical wellbeing?",
+    "options": [
+      "Sex",
+      "Nutritional deficiency",
+      "Old age",
+      "Environmental exposure"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 33,
+    "type": "mcq",
+    "stem": "CASE STUDY: Mrs. A., a 45-year-old widow living in Kano, was recently retrenched and evicted from her home. She now presents with persistent low mood, weight loss, and inability to sleep. Her children report she recently said she has no money despite having a substantial savings account. What type of delusion is Mrs. A. exhibiting?",
+    "options": [
+      "Delusion of grandeur",
+      "Paranoid delusion",
+      "Delusion of poverty",
+      "Delusion of control"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 34,
+    "type": "mcq",
+    "stem": "CASE STUDY (continued from Q33): The sociocultural factor MOST contributing to Mrs. A.'s condition is:",
+    "options": [
+      "Birth injury",
+      "Substance abuse",
+      "Poverty, unemployment, and social isolation",
+      "Prenatal alcohol exposure"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 35,
+    "type": "mcq",
+    "stem": "A patient makes utterances that are grammatically incorrect and semantically meaningless, mixing unrelated words randomly. This is BEST described as:",
+    "options": [
+      "Neologism",
+      "Flight of ideas",
+      "Word salad",
+      "Incoherence"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 36,
+    "type": "mcq",
+    "stem": "Prolonged exposure to wars, violence, and crime leading to mental illness is classified under which environmental factor?",
+    "options": [
+      "Lifestyle factors",
+      "Insecurity",
+      "Childhood experiences",
+      "Sociocultural norms"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 37,
+    "type": "mcq",
+    "stem": "A patient simultaneously loves and hates his mother with equal intensity and cannot resolve these contradictory feelings. The nurse correctly identifies this as:",
+    "options": [
+      "Anhedonia",
+      "Ambivalence",
+      "Confabulation",
+      "Disorientation"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 38,
+    "type": "mcq",
+    "stem": "Generalised feelings of well-being that are exaggerated and seen commonly in manic episodes and some alcoholic patients are BEST described as:",
+    "options": [
+      "Elation",
+      "Flattening of affect",
+      "Euphoria",
+      "Incongruity of affect"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 39,
+    "type": "mcq",
+    "stem": "A psychiatric patient persistently repeats the same word or phrase in a monotonous tone without any communicative purpose. This symptom is BEST described as:",
+    "options": [
+      "Neologism",
+      "Verbigeration",
+      "Word salad",
+      "Incoherence"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 40,
+    "type": "mcq",
+    "stem": "According to the classification of causes of mental illness, an unhappy marriage, work dissatisfaction, and frustration in life are examples of which category?",
+    "options": [
+      "Personality factors",
+      "Cognitive factors",
+      "Domestic/emotional factors",
+      "Sociocultural norms"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 41,
+    "type": "mcq",
+    "stem": "A patient perceives a real odour but interprets it as a completely different, nonexistent scent. This BEST represents which type of perceptual disturbance?",
+    "options": [
+      "Olfactory hallucination",
+      "Gustatory illusion",
+      "Olfactory illusion",
+      "Tactile hallucination"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 42,
+    "type": "mcq",
+    "stem": "Prenatal exposure to alcohol and drug use by a pregnant mother is categorised under which biological cause of mental illness?",
+    "options": [
+      "Genetic factors",
+      "Hormonal imbalance",
+      "Prenatal damage",
+      "Neurotransmitter dysfunction"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 43,
+    "type": "mcq",
+    "stem": "Which of the following BEST describes a patient experiencing a gustatory hallucination?",
+    "options": [
+      "The patient perceives a non-existent odour",
+      "The patient perceives taste without any oral stimulus",
+      "The patient hears music playing with no sound source present",
+      "The patient sees flashing lights with no external light source"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 44,
+    "type": "mcq",
+    "stem": "A patient on a psychiatric ward exhibits odd, habitual gestures and facial expressions that have no apparent communicative function. The nurse documents this as:",
+    "options": [
+      "Impulsiveness",
+      "Mannerism",
+      "Catalepsy",
+      "Negativism"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 45,
+    "type": "mcq",
+    "stem": "Negative thought patterns and cognitive biases that increase vulnerability to depression and anxiety are classified under which cause of mental illness?",
+    "options": [
+      "Emotional factors",
+      "Cognitive/behavioural factors",
+      "Sociocultural factors",
+      "Political factors"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 46,
+    "type": "mcq",
+    "stem": "CASE STUDY: A 28-year-old refugee who fled civil war presents at a psychiatric outpatient unit in Abuja. He is unable to sleep, hypervigilant, and reports recurrent nightmares. He states he can still smell burning flesh even in clean environments. Which of the following MOST accurately describes the smell he reports?",
+    "options": [
+      "Auditory hallucination",
+      "Olfactory hallucination",
+      "Tactile illusion",
+      "Gustatory hallucination"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 47,
+    "type": "mcq",
+    "stem": "CASE STUDY (continued from Q46): The political factor MOST responsible for this patient's mental health condition is:",
+    "options": [
+      "Lack of exercise and poor diet",
+      "Cultural beliefs and values",
+      "Political instability, civil war, displacement, and trauma",
+      "Unemployment and poverty"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 48,
+    "type": "mcq",
+    "stem": "Reduced or absent emotional response to both joyful and sorrowful stimuli in a psychiatric patient is BEST documented as:",
+    "options": [
+      "Euphoria",
+      "Elation",
+      "Flattening of affect",
+      "Incongruity of affect"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 49,
+    "type": "mcq",
+    "stem": "A patient who was a millionaire before becoming ill now insists he has no money and cannot afford food. The nurse identifies this as:",
+    "options": [
+      "Paranoid delusion",
+      "Delusion of poverty",
+      "Delusion of control",
+      "Confabulation"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 50,
+    "type": "mcq",
+    "stem": "Rigid gender role expectations and social norms that create undue pressure are classified under which causative category of mental illness?",
+    "options": [
+      "Environmental factors",
+      "Political factors",
+      "Sociocultural factors â social norms and expectations",
+      "Behavioural/psychological factors"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 51,
+    "type": "fitb",
+    "stem": "Precipitating factors in mental illness are defined as stressors or other events, either positive or negative, that may be _______________ of the symptoms.",
+    "answer": "precipitants",
+    "acceptableAnswers": [
+      "precipitants",
+      "triggers",
+      "precipitating causes"
+    ]
+  },
+  {
+    "id": 52,
+    "type": "fitb",
+    "stem": "Structural and functional abnormalities in the _______________ cortex of the brain have been linked to schizophrenia.",
+    "answer": "prefrontal",
+    "acceptableAnswers": [
+      "prefrontal",
+      "pre-frontal"
+    ]
+  },
+  {
+    "id": 53,
+    "type": "fitb",
+    "stem": "Abnormalities in the _______________ of the brain are associated with anxiety disorder.",
+    "answer": "amygdala",
+    "acceptableAnswers": [
+      "amygdala"
+    ]
+  },
+  {
+    "id": 54,
+    "type": "fitb",
+    "stem": "Delusions are false beliefs which are not true to fact and cannot be corrected by an appeal to _______________ or logic.",
+    "answer": "reason",
+    "acceptableAnswers": [
+      "reason",
+      "reasoning"
+    ]
+  },
+  {
+    "id": 55,
+    "type": "fitb",
+    "stem": "When a patient perceives a taste sensation without any oral stimulus present, this is classified as a _______________ hallucination.",
+    "answer": "gustatory",
+    "acceptableAnswers": [
+      "gustatory"
+    ]
+  },
+  {
+    "id": 56,
+    "type": "fitb",
+    "stem": "A generalised feeling of well-being that is exaggerated and commonly observed in manic and some alcoholic patients is referred to as _______________.",
+    "answer": "euphoria",
+    "acceptableAnswers": [
+      "euphoria"
+    ]
+  },
+  {
+    "id": 57,
+    "type": "fitb",
+    "stem": "Imbalances in serotonin, dopamine, and _______________ have been associated with the development of mental illness.",
+    "answer": "norepinephrine",
+    "acceptableAnswers": [
+      "norepinephrine",
+      "noradrenaline",
+      "norepinephrine (noradrenaline)"
+    ]
+  },
+  {
+    "id": 58,
+    "type": "fitb",
+    "stem": "Predisposing factors of mental illness are those factors that make an individual more _______________ or vulnerable to developing mental illness.",
+    "answer": "susceptible",
+    "acceptableAnswers": [
+      "susceptible",
+      "prone",
+      "vulnerable"
+    ]
+  },
+  {
+    "id": 59,
+    "type": "fitb",
+    "stem": "The symptom in which a patient simultaneously experiences two contradictory feelings such as love and hate for the same person is called _______________.",
+    "answer": "ambivalence",
+    "acceptableAnswers": [
+      "ambivalence"
+    ]
+  },
+  {
+    "id": 60,
+    "type": "fitb",
+    "stem": "CASE STUDY: Mr. T., a 52-year-old male, was admitted after being found wandering his village naked and claiming to be a deity. He believes certain government officials are placing commands in his head. The term for Mr. T.'s belief that external persons are controlling his thoughts is a delusion of _______________.",
+    "answer": "control",
+    "acceptableAnswers": [
+      "control"
+    ]
+  },
+  {
+    "id": 61,
+    "type": "fitb",
+    "stem": "A patient who has a gross defect in memory and fills in the gaps of missing information with purely imaginary events presented as real is exhibiting _______________.",
+    "answer": "confabulation",
+    "acceptableAnswers": [
+      "confabulation"
+    ]
+  },
+  {
+    "id": 62,
+    "type": "fitb",
+    "stem": "An illusion is defined as a false perception involving the _______________ of an external stimulus rather than perception without any stimulus.",
+    "answer": "misinterpretation",
+    "acceptableAnswers": [
+      "misinterpretation",
+      "misperception",
+      "misreading"
+    ]
+  },
+  {
+    "id": 63,
+    "type": "fitb",
+    "stem": "Perpetuating factors are any conditions in the patient, family, or community that _______________ rather than solve the problem.",
+    "answer": "exacerbate",
+    "acceptableAnswers": [
+      "exacerbate",
+      "worsen",
+      "aggravate",
+      "perpetuate"
+    ]
+  },
+  {
+    "id": 64,
+    "type": "fitb",
+    "stem": "Lack of exercise and poor diet are classified as _______________ factors under the environmental causes of mental illness.",
+    "answer": "lifestyle",
+    "acceptableAnswers": [
+      "lifestyle"
+    ]
+  },
+  {
+    "id": 65,
+    "type": "fitb",
+    "stem": "CASE STUDY: Nurse Eze is assessing a patient who abruptly stops speaking mid-sentence, stares blankly, and cannot recall what she was saying for several minutes. This interruption in the stream of thought is called _______________.",
+    "answer": "blocking",
+    "acceptableAnswers": [
+      "blocking",
+      "thought blocking"
+    ]
+  },
+  {
+    "id": 66,
+    "type": "fitb",
+    "stem": "The experience of perceiving an odour that is not actually present is described as an _______________ hallucination.",
+    "answer": "olfactory",
+    "acceptableAnswers": [
+      "olfactory"
+    ]
+  },
+  {
+    "id": 67,
+    "type": "fitb",
+    "stem": "Disorientation is defined as one's inability to appreciate _______________, space, and personal relations at the present moment.",
+    "answer": "time",
+    "acceptableAnswers": [
+      "time"
+    ]
+  },
+  {
+    "id": 68,
+    "type": "fitb",
+    "stem": "Pediatric autoimmune neuropsychiatric disorders associated with streptococcal infections are abbreviated as _______________.",
+    "answer": "PANDAS",
+    "acceptableAnswers": [
+      "PANDAS"
+    ]
+  },
+  {
+    "id": 69,
+    "type": "fitb",
+    "stem": "CASE STUDY: A community health nurse visits a family where the father has a known mental illness. The mother reports that since losing her job three months ago, she has been unable to afford the father's medication, and his symptoms have significantly worsened. The factor that is MOST responsible for worsening his condition is classified as a _______________ factor.",
+    "answer": "perpetuating",
+    "acceptableAnswers": [
+      "perpetuating",
+      "perpetuating factor"
+    ]
+  },
+  {
+    "id": 70,
+    "type": "fitb",
+    "stem": "The diminished ability to experience pleasure from activities that were previously enjoyable is a psychiatric symptom known as _______________.",
+    "answer": "anhedonia",
+    "acceptableAnswers": [
+      "anhedonia"
+    ]
+  }
 ]
