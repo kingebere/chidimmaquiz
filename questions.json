@@ -2,796 +2,794 @@
   {
     "id": 1,
     "type": "mcq",
-    "stem": "A 34-year-old male presents with paranoid ideation, claiming his neighbours are controlling his thoughts through radio waves. He insists this is true despite logical explanation. Which type of delusion does this BEST represent?",
+    "stem": "The nervous system develops embryologically from which structure?",
     "options": [
-      "Delusion of grandeur",
-      "Delusion of control",
-      "Delusion of poverty",
-      "Paranoid delusion"
+      "Notochord",
+      "Neural crest",
+      "Neural tube",
+      "Endoderm"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 2,
     "type": "mcq",
-    "stem": "Twin and adoption studies examining the heritability of schizophrenia primarily support which cause of mental illness?",
+    "stem": "A nursing student is asked to identify the division of the nervous system that acts as the body's control centre by processing information and sending out commands. Which structure BEST fits this description?",
     "options": [
-      "Sociocultural factors",
-      "Environmental pollution",
-      "Biological/genetic factors",
-      "Behavioural conditioning"
+      "Peripheral Nervous System",
+      "Autonomic Nervous System",
+      "Central Nervous System",
+      "Somatic Nervous System"
     ],
     "answer": "C"
   },
   {
     "id": 3,
     "type": "mcq",
-    "stem": "Structural abnormality in the prefrontal cortex of the brain has been most strongly associated with which mental disorder?",
+    "stem": "Which division of the peripheral nervous system is specifically responsible for controlling voluntary skeletal muscle movements?",
     "options": [
-      "Major depressive disorder",
-      "Generalised anxiety disorder",
-      "Schizophrenia",
-      "Bipolar affective disorder"
+      "Autonomic Nervous System",
+      "Sympathetic Nervous System",
+      "Parasympathetic Nervous System",
+      "Somatic Nervous System"
     ],
-    "answer": "C"
+    "answer": "D"
   },
   {
     "id": 4,
     "type": "mcq",
-    "stem": "A nurse is reviewing the chart of a patient who recently migrated from a rural community to Lagos and is showing signs of depression and anxiety. Which category of causative factor does this BEST fall under?",
+    "stem": "A patient admitted to the emergency ward following a near-accident is noted to have a rapid heart rate, dilated pupils, and dry mouth. These findings BEST reflect activation of which division of the nervous system?",
     "options": [
-      "Biological factors",
-      "Sociocultural â migration and acculturation stress",
-      "Environmental â toxin exposure",
-      "Political â government policy"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 5,
-    "type": "mcq",
-    "stem": "A patient with bipolar disorder is noted to describe horrific events such as the death of a family member in a laughing, jovial manner. What is the CORRECT term for this symptom?",
-    "options": [
-      "Elation",
-      "Euphoria",
-      "Incongruity of affect",
-      "Flattening of affect"
+      "Somatic nervous system",
+      "Parasympathetic nervous system",
+      "Sympathetic nervous system",
+      "Central nervous system"
     ],
     "answer": "C"
   },
   {
+    "id": 5,
+    "type": "mcq",
+    "stem": "Which part of the neuron is primarily responsible for integrating incoming signals and maintaining the cell's metabolic functions?",
+    "options": [
+      "Axon terminal",
+      "Dendrites",
+      "Myelin sheath",
+      "Cell body (soma)"
+    ],
+    "answer": "D"
+  },
+  {
     "id": 6,
     "type": "mcq",
-    "stem": "High levels of cortisol released during prolonged stress are MOST directly associated with the development of which conditions?",
+    "stem": "Saltatory conduction, which allows nerve impulses to travel rapidly along an axon, occurs because of which anatomical feature?",
     "options": [
-      "Schizophrenia and delirium",
-      "Anxiety and depression",
-      "Obsessive-compulsive disorder and phobia",
-      "Dementia and confabulation"
+      "The abundance of dendrites on the neuron",
+      "Gaps in the myelin sheath called Nodes of Ranvier",
+      "The large diameter of the cell body",
+      "Neurotransmitter release at axon terminals"
     ],
     "answer": "B"
   },
   {
     "id": 7,
     "type": "mcq",
-    "stem": "Which of the following BEST describes a precipitating factor in the development of mental illness?",
+    "stem": "A patient with multiple sclerosis has widespread destruction of myelin in the CNS. The glial cells responsible for producing myelin in the CNS are:",
     "options": [
-      "A chronic financial hardship that sustains the patient's anxiety over years",
-      "A patient's competence in managing household responsibilities",
-      "A recent relationship conflict that triggered an acute psychotic episode",
-      "A family history of depression identified at birth"
+      "Schwann cells",
+      "Astrocytes",
+      "Microglia",
+      "Oligodendrocytes"
     ],
-    "answer": "C"
+    "answer": "D"
   },
   {
     "id": 8,
     "type": "mcq",
-    "stem": "A patient on the psychiatric ward is observed walking in a fixed, repetitive pattern regardless of instructions given by the nurse. This behaviour is BEST described as:",
+    "stem": "Which type of neuron carries sensory information â such as touch and temperature â toward the brain?",
     "options": [
-      "Mannerism",
-      "Impulsiveness",
-      "Stereotype of movement",
-      "Negativism"
+      "Motor neurons",
+      "Interneurons",
+      "Sensory neurons",
+      "Efferent neurons"
     ],
     "answer": "C"
   },
   {
     "id": 9,
     "type": "mcq",
-    "stem": "During a mental state examination, a patient refuses to carry out all instructions given and does the exact opposite. The nurse documents this as:",
+    "stem": "Interneurons are anatomically located in which structure?",
     "options": [
-      "Ambivalence",
-      "Negativism",
-      "Confabulation",
-      "Anhedonia"
+      "Peripheral nerves only",
+      "Muscles and glands",
+      "Sensory receptors",
+      "Within the CNS"
     ],
-    "answer": "B"
+    "answer": "D"
   },
   {
     "id": 10,
     "type": "mcq",
-    "stem": "Imbalances in which neurotransmitters have been MOST consistently associated with the development of mental illness?",
+    "stem": "CASE STUDY: A 67-year-old retired teacher presents to a neurology clinic with progressive forgetfulness, difficulty recognising family members, and an inability to form new memories. His wife reports he recently left the gas on and forgot to eat for an entire day. A brain scan reveals significant atrophy of areas linked to memory. Which neurotransmitter deficiency MOST likely underlies this clinical presentation?",
     "options": [
-      "Acetylcholine, glutamate, and GABA",
-      "Serotonin, dopamine, and norepinephrine",
-      "Histamine, glycine, and substance P",
-      "Endorphin, enkephalin, and dynorphin"
+      "Dopamine",
+      "Serotonin",
+      "Acetylcholine",
+      "GABA"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 11,
     "type": "mcq",
-    "stem": "A patient recovering from a recent streptococcal throat infection begins exhibiting obsessive-compulsive symptoms. Which biological cause of mental illness does this MOST likely illustrate?",
+    "stem": "CASE STUDY (continued from Q10): The nurse educating the family explains that the patient's condition is associated with degeneration of neurons in circuits dependent on which neurotransmitter. The same neurotransmitter is ALSO involved in:",
     "options": [
-      "Prenatal damage",
-      "Hormonal imbalance",
-      "Infection â PANDAS",
-      "Birth injury"
+      "Regulation of sleep-wake cycles",
+      "Reward and motivation pathways",
+      "Memory and learning",
+      "Inhibition of neuronal excitability"
     ],
     "answer": "C"
   },
   {
     "id": 12,
     "type": "mcq",
-    "stem": "Which of the following is classified as a PERPETUATING factor in mental illness?",
+    "stem": "Neurotransmitters are stored within the axon terminal in small sacs called:",
     "options": [
-      "A recent job loss that triggered a depressive episode",
-      "A patient's strong family support network",
-      "Ongoing financial hardship that sustains depressive symptoms",
-      "A history of parental mental illness"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": 13,
-    "type": "mcq",
-    "stem": "A patient presents claiming to have untold wealth and to be a direct descendant of a Nigerian king, despite being a subsistence farmer. This is BEST described as:",
-    "options": [
-      "Paranoid delusion",
-      "Delusion of grandeur",
-      "Delusion of poverty",
-      "Delusion of control"
+      "Mitochondria",
+      "Synaptic vesicles",
+      "Ribosomes",
+      "Lysosomes"
     ],
     "answer": "B"
   },
   {
-    "id": 14,
+    "id": 13,
     "type": "mcq",
-    "stem": "Exposure to heavy metals, pesticides, and other environmental pollutants during childhood is classified under which category of mental illness causes?",
+    "stem": "After binding to receptors on the postsynaptic neuron, the action of a neurotransmitter is terminated by which of the following mechanisms? Select the MOST complete answer.",
     "options": [
-      "Political factors",
-      "Biological â infections",
-      "Environmental factors",
-      "Sociocultural factors"
+      "Reuptake into the presynaptic neuron only",
+      "Enzymatic degradation only",
+      "Reuptake, enzymatic degradation, or diffusion away from the synapse",
+      "Diffusion back into the axon terminal only"
     ],
     "answer": "C"
   },
   {
+    "id": 14,
+    "type": "mcq",
+    "stem": "A patient on a psychiatric unit is started on a selective serotonin reuptake inhibitor (SSRI). The nurse understands that this drug works by preventing which process at the synapse?",
+    "options": [
+      "Enzymatic degradation of dopamine",
+      "Reuptake of serotonin into the presynaptic neuron",
+      "Release of GABA into the synaptic cleft",
+      "Binding of glutamate to postsynaptic receptors"
+    ],
+    "answer": "B"
+  },
+  {
     "id": 15,
     "type": "mcq",
-    "stem": "A patient is unable to recognise the current date, the ward he is on, or the name of the nurse caring for him. This symptom is BEST described as:",
+    "stem": "Excess glutamate activity in the synaptic cleft is MOST associated with:",
     "options": [
-      "Confabulation",
-      "Anhedonia",
-      "Disorientation",
-      "Ambivalence"
+      "Parkinson's disease and movement disorders",
+      "Alzheimer's disease and memory loss",
+      "Neurotoxicity and mental disorders",
+      "Depression and reduced mood"
     ],
     "answer": "C"
   },
   {
     "id": 16,
     "type": "mcq",
-    "stem": "In mental health nursing, auditory hallucinations are BEST defined as:",
+    "stem": "Which neurotransmitter is described as the MAIN inhibitory neurotransmitter of the CNS, with reduced levels linked to anxiety and insomnia?",
     "options": [
-      "Misinterpretation of a real external sound",
-      "Perception of sound without any outside stimulus",
-      "A false belief maintained despite evidence",
-      "Heightened sensitivity to environmental noise"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 17,
-    "type": "mcq",
-    "stem": "Which of the following BEST distinguishes a hallucination from an illusion?",
-    "options": [
-      "Hallucinations involve an existing external stimulus; illusions do not",
-      "Illusions are always auditory; hallucinations are always visual",
-      "Hallucinations occur without an external stimulus; illusions involve misinterpretation of a real stimulus",
-      "Illusions are only seen in psychotic disorders; hallucinations occur in all disorders"
+      "Glutamate",
+      "Dopamine",
+      "GABA",
+      "Norepinephrine"
     ],
     "answer": "C"
   },
   {
+    "id": 17,
+    "type": "mcq",
+    "stem": "A 32-year-old patient with a history of auditory hallucinations and disorganised thinking is admitted. The nurse is aware that the patient's condition has been linked to dysregulation of which neurotransmitter?",
+    "options": [
+      "Serotonin",
+      "Acetylcholine",
+      "GABA",
+      "Dopamine"
+    ],
+    "answer": "D"
+  },
+  {
     "id": 18,
     "type": "mcq",
-    "stem": "A woman who recently lost her husband and only child in an accident is brought to a psychiatric facility showing emotional withdrawal and inability to experience joy. Which symptom does this MOST represent?",
+    "stem": "The peripheral nervous system (PNS) consists of:",
     "options": [
-      "Elation",
-      "Euphoria",
-      "Anhedonia",
-      "Confabulation"
+      "The brain and the spinal cord exclusively",
+      "The brain, spinal cord, and cranial nerves",
+      "All nerves located outside the CNS",
+      "Only the autonomic and somatic motor neurons"
     ],
     "answer": "C"
   },
   {
     "id": 19,
     "type": "mcq",
-    "stem": "Government austerity policies that increase poverty and social isolation are classified under which category of mental illness causative factors?",
+    "stem": "During the step-by-step process of neuronal communication, what triggers the release of neurotransmitters into the synaptic cleft?",
     "options": [
-      "Behavioural/psychological factors",
-      "Environmental factors",
-      "Political factors",
-      "Sociocultural factors"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": 20,
-    "type": "mcq",
-    "stem": "A psychiatric patient has a gross defect in memory and fills in the gaps with entirely fabricated events presented as real. The nurse documents this as:",
-    "options": [
-      "Negativism",
-      "Confabulation",
-      "Ambivalence",
-      "Flight of ideas"
+      "Binding of neurotransmitters to dendrite receptors",
+      "An electrical signal (action potential) reaching the axon terminal",
+      "The cell body receiving adequate nutrients",
+      "Formation of new synaptic vesicles"
     ],
     "answer": "B"
   },
   {
+    "id": 20,
+    "type": "mcq",
+    "stem": "CASE STUDY: A 45-year-old male is brought to the clinic after experiencing a sudden episode of extreme sweating, palpitations, and a feeling of impending doom following a traumatic road traffic accident. His vital signs show BP 160/100 mmHg, HR 120 bpm. The nurse identifies his response as a physiological stress reaction. Which neurotransmitter is PRIMARILY responsible for his elevated blood pressure and heart rate in this situation?",
+    "options": [
+      "Serotonin",
+      "Acetylcholine",
+      "GABA",
+      "Norepinephrine"
+    ],
+    "answer": "D"
+  },
+  {
     "id": 21,
     "type": "mcq",
-    "stem": "A patient shows rapid jumping from one idea to another without completing any thought. Which symptom of mental illness does the nurse MOST likely document?",
+    "stem": "CASE STUDY (continued from Q20): The nurse explains to the patient's family that the part of the autonomic nervous system responsible for triggering this 'fight or flight' response is the:",
     "options": [
-      "Word salad",
-      "Blocking",
-      "Flight of ideas",
-      "Neologism"
+      "Somatic nervous system",
+      "Parasympathetic nervous system",
+      "Central nervous system",
+      "Sympathetic nervous system"
     ],
-    "answer": "C"
+    "answer": "D"
   },
   {
     "id": 22,
     "type": "mcq",
-    "stem": "The amygdala of the brain has been most strongly associated with which mental condition?",
+    "stem": "Which glial cells are responsible for producing myelin in the PERIPHERAL nervous system?",
     "options": [
-      "Schizophrenia",
-      "Bipolar disorder",
-      "Anxiety disorder",
-      "Major depressive disorder"
+      "Oligodendrocytes",
+      "Astrocytes",
+      "Schwann cells",
+      "Microglia"
     ],
     "answer": "C"
   },
   {
     "id": 23,
     "type": "mcq",
-    "stem": "CASE STUDY: A 19-year-old university student returns home after failing his final year exams. He stops eating, sleeps excessively, neglects personal hygiene, and tells his mother he hears a voice calling his name even when alone. Which of the following BEST explains the precipitating factor in this case?",
+    "stem": "Neuroglia differ from neurons in that they:",
     "options": [
-      "History of childhood abuse",
-      "Genetic predisposition to schizophrenia",
-      "Academic failure as an acute stressor",
-      "Poor access to healthcare"
+      "Are larger and found only in the PNS",
+      "Do not conduct electrical impulses but provide structural support and maintain neurons",
+      "Synthesise and release neurotransmitters",
+      "Are responsible for generating action potentials"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 24,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q23): The voice the student hears calling his name without an external source is BEST classified as which type of hallucination?",
+    "stem": "In the process of synaptic transmission, neurotransmitters bind to receptors located on the:",
     "options": [
-      "Visual hallucination",
-      "Gustatory hallucination",
-      "Auditory hallucination",
-      "Tactile hallucination"
+      "Axon hillock of the presynaptic neuron",
+      "Myelin sheath of the transmitting neuron",
+      "Postsynaptic neuron or target cell",
+      "Synaptic vesicles within the axon terminal"
     ],
     "answer": "C"
   },
   {
     "id": 25,
     "type": "mcq",
-    "stem": "A nurse observes that a patient suddenly stops mid-sentence and is unable to continue her train of thought. There is a prolonged pause before she speaks again. This is BEST documented as:",
+    "stem": "A nurse is providing discharge education to a patient newly diagnosed with Parkinson's disease. She correctly explains that the motor symptoms are primarily due to a deficiency of which neurotransmitter in the brain?",
     "options": [
-      "Mutism",
-      "Incoherence",
-      "Blocking",
-      "Verbigeration"
+      "Serotonin",
+      "Dopamine",
+      "Norepinephrine",
+      "Glutamate"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 26,
     "type": "mcq",
-    "stem": "Vitamin B deficiency and protein deprivation contributing to mental illness are classified as which type of predisposing factor?",
+    "stem": "Which of the following BEST explains how the myelin sheath increases the speed of nerve impulse conduction?",
     "options": [
-      "Political factors",
-      "Nutritional factors",
-      "Sociocultural factors",
-      "Hormonal factors"
+      "It increases the number of neurotransmitters released at the synapse",
+      "It allows the action potential to jump between Nodes of Ranvier rather than travelling the entire axon continuously",
+      "It increases dendrite surface area to receive more signals",
+      "It amplifies the electrical charge generated in the cell body"
     ],
     "answer": "B"
   },
   {
     "id": 27,
     "type": "mcq",
-    "stem": "A patient experiencing excessive joy far beyond what his current circumstances warrant is BEST described as displaying:",
+    "stem": "CASE STUDY: A 19-year-old nursing student observes a patient post-surgery who is calmly resting, with slowed heart rate, increased bowel sounds, and normal respirations. She asks her preceptor which division of the nervous system is dominant. The CORRECT answer is:",
     "options": [
-      "Euphoria",
-      "Elation",
-      "Incongruity of affect",
-      "Flattening of affect"
+      "Sympathetic nervous system",
+      "Somatic nervous system",
+      "Central nervous system",
+      "Parasympathetic nervous system"
     ],
-    "answer": "B"
+    "answer": "D"
   },
   {
     "id": 28,
     "type": "mcq",
-    "stem": "Which of the following BEST represents a protective factor in mental health assessment?",
+    "stem": "CASE STUDY (continued from Q27): The preceptor further explains that the parasympathetic nervous system promotes which physiological state?",
     "options": [
-      "Family history of bipolar disorder",
-      "Unemployment and social isolation",
-      "Patient's demonstrated areas of competence and coping ability",
-      "Exposure to domestic violence in childhood"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": 29,
-    "type": "mcq",
-    "stem": "A patient creates entirely new words that have no recognised meaning and uses them in speech. The nurse documents this as:",
-    "options": [
-      "Incoherence",
-      "Word salad",
-      "Neologism",
-      "Verbigeration"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": 30,
-    "type": "mcq",
-    "stem": "Discrimination based on race, ethnicity, gender, or sexual orientation that leads to chronic psychological stress is categorised under which factor in mental illness?",
-    "options": [
-      "Environmental factors",
-      "Sociocultural â discrimination and marginalisation",
-      "Political â human rights violations",
-      "Behavioural â trauma and stress"
+      "Fight or flight",
+      "Rest and digest",
+      "Voluntary muscle control",
+      "Rapid impulse transmission"
     ],
     "answer": "B"
   },
   {
-    "id": 31,
+    "id": 29,
     "type": "mcq",
-    "stem": "A patient involuntarily maintains an uncomfortable posture for an extended period without any apparent discomfort. This phenomenon is BEST described as:",
+    "stem": "Psychiatric medications that target neurotransmitter systems are used to restore balance in neuronal signalling. A nurse explains this to a patient. Which statement BEST reflects the nurse's understanding of why this matters?",
     "options": [
-      "Mannerism",
-      "Negativism",
-      "Catalepsy",
-      "Impulsiveness"
+      "Neurotransmitters are only important during physical disease",
+      "Neurons and neurotransmitter communication form the biological basis of mood, cognition, and behaviour",
+      "Psychiatric drugs primarily affect skeletal muscles and motor function",
+      "Glial cells are the primary target of all psychiatric medications"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 30,
+    "type": "mcq",
+    "stem": "The axon of a motor neuron extending from the spinal cord all the way to the toes is BEST used to illustrate which fact about axons?",
+    "options": [
+      "Axons always branch into dendrites at their terminal end",
+      "Axons contain the nucleus of the neuron",
+      "Axons can extend over very long distances within the body",
+      "Axons conduct impulses toward the cell body"
     ],
     "answer": "C"
   },
   {
+    "id": 31,
+    "type": "mcq",
+    "stem": "Which step in neuronal communication involves the cell body (soma) evaluating whether the received signal is strong enough to propagate further?",
+    "options": [
+      "Transmission (Electrical)",
+      "Communication",
+      "Reception",
+      "Processing"
+    ],
+    "answer": "D"
+  },
+  {
     "id": 32,
     "type": "mcq",
-    "stem": "Which predisposing factor to mental illness is associated with decline in mental and physical wellbeing?",
+    "stem": "A nurse assessing a patient who is comatose following severe head trauma notices a total absence of response to stimuli. The nurse understands that consciousness and thinking are governed by which system?",
     "options": [
-      "Sex",
-      "Nutritional deficiency",
-      "Old age",
-      "Environmental exposure"
+      "Somatic nervous system",
+      "Autonomic nervous system",
+      "Central nervous system",
+      "Peripheral nervous system"
     ],
     "answer": "C"
   },
   {
     "id": 33,
     "type": "mcq",
-    "stem": "CASE STUDY: Mrs. A., a 45-year-old widow living in Kano, was recently retrenched and evicted from her home. She now presents with persistent low mood, weight loss, and inability to sleep. Her children report she recently said she has no money despite having a substantial savings account. What type of delusion is Mrs. A. exhibiting?",
+    "stem": "The function of the peripheral nervous system in relation to the CNS is BEST described as:",
     "options": [
-      "Delusion of grandeur",
-      "Paranoid delusion",
-      "Delusion of poverty",
-      "Delusion of control"
+      "Processing sensory data and generating memory",
+      "Connecting the CNS to the rest of the body, transmitting sensory information in and motor commands out",
+      "Regulating voluntary thought and cognition",
+      "Producing myelin for faster CNS impulse conduction"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 34,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q33): The sociocultural factor MOST contributing to Mrs. A.'s condition is:",
+    "stem": "CASE STUDY: A 55-year-old man with a history of untreated depression is admitted after a suicide attempt. His attending psychiatrist notes that his serotonin levels have been chronically low. Which of the following MOST accurately explains how low serotonin directly contributes to his presentation?",
     "options": [
-      "Birth injury",
-      "Substance abuse",
-      "Poverty, unemployment, and social isolation",
-      "Prenatal alcohol exposure"
+      "Low serotonin increases dopamine dysregulation, causing hallucinations",
+      "Reduced serotonin signalling is linked to depressed mood and anxiety",
+      "Low serotonin impairs the formation of myelin sheaths",
+      "Reduced serotonin causes excessive excitatory neurotransmission"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 35,
     "type": "mcq",
-    "stem": "A patient makes utterances that are grammatically incorrect and semantically meaningless, mixing unrelated words randomly. This is BEST described as:",
+    "stem": "CASE STUDY (continued from Q34): During a nursing handover, the oncoming nurse asks what serotonin's primary roles are. The outgoing nurse correctly responds that serotonin regulates:",
     "options": [
-      "Neologism",
-      "Flight of ideas",
-      "Word salad",
-      "Incoherence"
+      "Memory, learning, and voluntary movement",
+      "Reward, motivation, and the dopamine pathway",
+      "Mood, sleep, and appetite",
+      "Inhibitory balance and prevention of insomnia only"
     ],
     "answer": "C"
   },
   {
     "id": 36,
     "type": "mcq",
-    "stem": "Prolonged exposure to wars, violence, and crime leading to mental illness is classified under which environmental factor?",
+    "stem": "Which part of a neuron releases neurotransmitters into the synapse to pass a signal to the next neuron or effector cell?",
     "options": [
-      "Lifestyle factors",
-      "Insecurity",
-      "Childhood experiences",
-      "Sociocultural norms"
+      "Cell body",
+      "Dendrites",
+      "Nodes of Ranvier",
+      "Axon terminals (synaptic boutons)"
     ],
-    "answer": "B"
+    "answer": "D"
   },
   {
     "id": 37,
     "type": "mcq",
-    "stem": "A patient simultaneously loves and hates his mother with equal intensity and cannot resolve these contradictory feelings. The nurse correctly identifies this as:",
+    "stem": "A patient with severe generalised anxiety disorder is prescribed a benzodiazepine. The nurse explains that this drug works by enhancing the effect of which neurotransmitter?",
     "options": [
-      "Anhedonia",
-      "Ambivalence",
-      "Confabulation",
-      "Disorientation"
+      "Dopamine",
+      "Norepinephrine",
+      "GABA",
+      "Glutamate"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 38,
     "type": "mcq",
-    "stem": "Generalised feelings of well-being that are exaggerated and seen commonly in manic episodes and some alcoholic patients are BEST described as:",
+    "stem": "Which of the following CORRECTLY differentiates sensory neurons from motor neurons?",
     "options": [
-      "Elation",
-      "Flattening of affect",
-      "Euphoria",
-      "Incongruity of affect"
+      "Sensory neurons carry commands from the brain; motor neurons carry information to the brain",
+      "Sensory neurons connect neurons within the CNS; motor neurons send signals to muscles",
+      "Sensory neurons carry information to the brain; motor neurons carry commands from the brain",
+      "Sensory and motor neurons both originate in the spinal cord"
     ],
     "answer": "C"
   },
   {
     "id": 39,
     "type": "mcq",
-    "stem": "A psychiatric patient persistently repeats the same word or phrase in a monotonous tone without any communicative purpose. This symptom is BEST described as:",
+    "stem": "A nurse reviewing pathophysiology notes that excessive dopamine activity in certain brain pathways has been specifically implicated in which psychiatric disorder?",
     "options": [
-      "Neologism",
-      "Verbigeration",
-      "Word salad",
-      "Incoherence"
+      "Major depressive disorder",
+      "Generalised anxiety disorder",
+      "Alzheimer's disease",
+      "Schizophrenia"
     ],
-    "answer": "B"
+    "answer": "D"
   },
   {
     "id": 40,
     "type": "mcq",
-    "stem": "According to the classification of causes of mental illness, an unhappy marriage, work dissatisfaction, and frustration in life are examples of which category?",
+    "stem": "Norepinephrine imbalance in the brain is associated with which of the following conditions?",
     "options": [
-      "Personality factors",
-      "Cognitive factors",
-      "Domestic/emotional factors",
-      "Sociocultural norms"
+      "Parkinson's disease and memory loss",
+      "Depression and anxiety",
+      "Schizophrenia and psychosis",
+      "Neurotoxicity and dementia"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 41,
     "type": "mcq",
-    "stem": "A patient perceives a real odour but interprets it as a completely different, nonexistent scent. This BEST represents which type of perceptual disturbance?",
+    "stem": "CASE STUDY: During a pharmacology class, a nursing lecturer asks students to identify which neurotransmitter, when present in excess at the synapse, leads to overstimulation of neurons and neurotoxicity. A student answers correctly by naming:",
     "options": [
-      "Olfactory hallucination",
-      "Gustatory illusion",
-      "Olfactory illusion",
-      "Tactile hallucination"
+      "GABA",
+      "Acetylcholine",
+      "Glutamate",
+      "Serotonin"
     ],
     "answer": "C"
   },
   {
     "id": 42,
     "type": "mcq",
-    "stem": "Prenatal exposure to alcohol and drug use by a pregnant mother is categorised under which biological cause of mental illness?",
+    "stem": "CASE STUDY (continued from Q41): The lecturer then asks which neurotransmitter performs the opposing (inhibitory) function in the CNS. The correct answer is:",
     "options": [
-      "Genetic factors",
-      "Hormonal imbalance",
-      "Prenatal damage",
-      "Neurotransmitter dysfunction"
+      "Dopamine",
+      "Norepinephrine",
+      "Serotonin",
+      "GABA"
     ],
-    "answer": "C"
+    "answer": "D"
   },
   {
     "id": 43,
     "type": "mcq",
-    "stem": "Which of the following BEST describes a patient experiencing a gustatory hallucination?",
+    "stem": "Which structural component of the neuron houses the nucleus and is responsible for the cell's genetic material and overall metabolic health?",
     "options": [
-      "The patient perceives a non-existent odour",
-      "The patient perceives taste without any oral stimulus",
-      "The patient hears music playing with no sound source present",
-      "The patient sees flashing lights with no external light source"
+      "Dendrites",
+      "Axon hillock",
+      "Cell body (soma)",
+      "Myelin sheath"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 44,
     "type": "mcq",
-    "stem": "A patient on a psychiatric ward exhibits odd, habitual gestures and facial expressions that have no apparent communicative function. The nurse documents this as:",
+    "stem": "When a nurse assesses the ability of a patient to feel a pinprick on their foot, which functional neuron type is being evaluated?",
     "options": [
-      "Impulsiveness",
-      "Mannerism",
-      "Catalepsy",
-      "Negativism"
+      "Motor neurons",
+      "Interneurons",
+      "Efferent neurons",
+      "Sensory neurons"
     ],
-    "answer": "B"
+    "answer": "D"
   },
   {
     "id": 45,
     "type": "mcq",
-    "stem": "Negative thought patterns and cognitive biases that increase vulnerability to depression and anxiety are classified under which cause of mental illness?",
+    "stem": "Glial cells contribute to homeostasis in the nervous system by performing all of the following functions EXCEPT:",
     "options": [
-      "Emotional factors",
-      "Cognitive/behavioural factors",
-      "Sociocultural factors",
-      "Political factors"
+      "Providing structural support to neurons",
+      "Generating and conducting electrical impulses",
+      "Supplying nutrients and oxygen to neurons",
+      "Removing waste products from the neural environment"
     ],
     "answer": "B"
   },
   {
     "id": 46,
     "type": "mcq",
-    "stem": "CASE STUDY: A 28-year-old refugee who fled civil war presents at a psychiatric outpatient unit in Abuja. He is unable to sleep, hypervigilant, and reports recurrent nightmares. He states he can still smell burning flesh even in clean environments. Which of the following MOST accurately describes the smell he reports?",
+    "stem": "CASE STUDY: Mr. B., a 40-year-old teacher, is admitted to a neurological ward following a spinal cord injury at the T10 level. He has no voluntary movement below the waist but intact sensation above the injury site. Which part of the nervous system has been MOST directly damaged to cause loss of voluntary motor function?",
     "options": [
-      "Auditory hallucination",
-      "Olfactory hallucination",
-      "Tactile illusion",
-      "Gustatory hallucination"
+      "Parasympathetic nervous system",
+      "Somatic nervous system â motor pathway",
+      "Autonomic nervous system â sympathetic division",
+      "Peripheral sensory pathways"
     ],
     "answer": "B"
   },
   {
     "id": 47,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q46): The political factor MOST responsible for this patient's mental health condition is:",
+    "stem": "CASE STUDY (continued from Q46): Mr. B. subsequently develops autonomic dysreflexia with severe hypertension and bradycardia after the injury. The nurse understands that this involves dysfunction of which division of the nervous system?",
     "options": [
-      "Lack of exercise and poor diet",
-      "Cultural beliefs and values",
-      "Political instability, civil war, displacement, and trauma",
-      "Unemployment and poverty"
+      "Somatic nervous system",
+      "Central nervous system at the cortical level",
+      "Autonomic nervous system",
+      "Peripheral sensory system"
     ],
     "answer": "C"
   },
   {
     "id": 48,
     "type": "mcq",
-    "stem": "Reduced or absent emotional response to both joyful and sorrowful stimuli in a psychiatric patient is BEST documented as:",
+    "stem": "The role of dendrites in neuronal communication is BEST described as:",
     "options": [
-      "Euphoria",
-      "Elation",
-      "Flattening of affect",
-      "Incongruity of affect"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": 49,
-    "type": "mcq",
-    "stem": "A patient who was a millionaire before becoming ill now insists he has no money and cannot afford food. The nurse identifies this as:",
-    "options": [
-      "Paranoid delusion",
-      "Delusion of poverty",
-      "Delusion of control",
-      "Confabulation"
+      "Transmitting electrical impulses away from the cell body",
+      "Receiving incoming signals from other neurons or sensory receptors",
+      "Releasing neurotransmitters into the synaptic cleft",
+      "Producing the myelin sheath for insulation"
     ],
     "answer": "B"
   },
   {
+    "id": 49,
+    "type": "mcq",
+    "stem": "A patient newly started on an antipsychotic medication complains of stiffness and tremors. The nurse recognises these as extrapyramidal side effects caused by blockade of which neurotransmitter receptor?",
+    "options": [
+      "Serotonin receptors",
+      "GABA receptors",
+      "Acetylcholine receptors",
+      "Dopamine receptors"
+    ],
+    "answer": "D"
+  },
+  {
     "id": 50,
     "type": "mcq",
-    "stem": "Rigid gender role expectations and social norms that create undue pressure are classified under which causative category of mental illness?",
+    "stem": "CASE STUDY: A 28-year-old woman with newly diagnosed epilepsy is started on sodium valproate, a drug that increases GABA activity. Her sister asks the nurse how GABA reduces seizure activity. The BEST explanation is:",
     "options": [
-      "Environmental factors",
-      "Political factors",
-      "Sociocultural factors â social norms and expectations",
-      "Behavioural/psychological factors"
+      "GABA excites more neurons to create a competing signal that stops seizures",
+      "GABA inhibits neuronal activity, reducing the excessive electrical discharges seen in seizures",
+      "GABA breaks down excess glutamate that would otherwise cause hyperexcitability",
+      "GABA enhances dopamine signalling to stabilise mood and prevent seizures"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 51,
     "type": "fitb",
-    "stem": "Precipitating factors in mental illness are defined as stressors or other events, either positive or negative, that may be _______________ of the symptoms.",
-    "answer": "precipitants",
+    "stem": "The nervous system develops from the embryonic _______________.",
+    "answer": "neural tube",
     "acceptableAnswers": [
-      "precipitants",
-      "triggers",
-      "precipitating causes"
+      "neural tube"
     ]
   },
   {
     "id": 52,
     "type": "fitb",
-    "stem": "Structural and functional abnormalities in the _______________ cortex of the brain have been linked to schizophrenia.",
-    "answer": "prefrontal",
+    "stem": "The two main components of the central nervous system are the brain and the _______________.",
+    "answer": "spinal cord",
     "acceptableAnswers": [
-      "prefrontal",
-      "pre-frontal"
+      "spinal cord"
     ]
   },
   {
     "id": 53,
     "type": "fitb",
-    "stem": "Abnormalities in the _______________ of the brain are associated with anxiety disorder.",
-    "answer": "amygdala",
+    "stem": "The fatty layer covering many axons that insulates them and speeds up electrical signal transmission is called the _______________ sheath.",
+    "answer": "myelin",
     "acceptableAnswers": [
-      "amygdala"
+      "myelin"
     ]
   },
   {
     "id": 54,
     "type": "fitb",
-    "stem": "Delusions are false beliefs which are not true to fact and cannot be corrected by an appeal to _______________ or logic.",
-    "answer": "reason",
+    "stem": "Gaps in the myelin sheath that allow signals to jump rapidly along the axon are called Nodes of _______________.",
+    "answer": "Ranvier",
     "acceptableAnswers": [
-      "reason",
-      "reasoning"
+      "Ranvier"
     ]
   },
   {
     "id": 55,
     "type": "fitb",
-    "stem": "When a patient perceives a taste sensation without any oral stimulus present, this is classified as a _______________ hallucination.",
-    "answer": "gustatory",
+    "stem": "The type of conduction in which a nerve impulse jumps between Nodes of Ranvier rather than travelling continuously along the axon is called _______________ conduction.",
+    "answer": "saltatory",
     "acceptableAnswers": [
-      "gustatory"
+      "saltatory"
     ]
   },
   {
     "id": 56,
     "type": "fitb",
-    "stem": "A generalised feeling of well-being that is exaggerated and commonly observed in manic and some alcoholic patients is referred to as _______________.",
-    "answer": "euphoria",
+    "stem": "Neurotransmitters are stored in the axon terminal inside small sacs called synaptic _______________.",
+    "answer": "vesicles",
     "acceptableAnswers": [
-      "euphoria"
+      "vesicles",
+      "synaptic vesicles"
     ]
   },
   {
     "id": 57,
     "type": "fitb",
-    "stem": "Imbalances in serotonin, dopamine, and _______________ have been associated with the development of mental illness.",
-    "answer": "norepinephrine",
+    "stem": "CASE STUDY: A patient with chronic low mood, insomnia, and loss of appetite is referred to psychiatry. The doctor explains that a deficiency in _______________ has been linked to depression and anxiety.",
+    "answer": "serotonin",
     "acceptableAnswers": [
-      "norepinephrine",
-      "noradrenaline",
-      "norepinephrine (noradrenaline)"
+      "serotonin",
+      "5-HT",
+      "5-hydroxytryptamine"
     ]
   },
   {
     "id": 58,
     "type": "fitb",
-    "stem": "Predisposing factors of mental illness are those factors that make an individual more _______________ or vulnerable to developing mental illness.",
-    "answer": "susceptible",
+    "stem": "The neurotransmitter described as the MAIN excitatory neurotransmitter of the CNS, where excess causes neurotoxicity, is _______________.",
+    "answer": "glutamate",
     "acceptableAnswers": [
-      "susceptible",
-      "prone",
-      "vulnerable"
+      "glutamate"
     ]
   },
   {
     "id": 59,
     "type": "fitb",
-    "stem": "The symptom in which a patient simultaneously experiences two contradictory feelings such as love and hate for the same person is called _______________.",
-    "answer": "ambivalence",
+    "stem": "Glial cells that produce myelin in the peripheral nervous system are called _______________ cells.",
+    "answer": "Schwann",
     "acceptableAnswers": [
-      "ambivalence"
+      "Schwann",
+      "Schwann cells"
     ]
   },
   {
     "id": 60,
     "type": "fitb",
-    "stem": "CASE STUDY: Mr. T., a 52-year-old male, was admitted after being found wandering his village naked and claiming to be a deity. He believes certain government officials are placing commands in his head. The term for Mr. T.'s belief that external persons are controlling his thoughts is a delusion of _______________.",
-    "answer": "control",
+    "stem": "The subdivision of the autonomic nervous system that prepares the body for 'fight or flight' during stress is called the _______________ nervous system.",
+    "answer": "sympathetic",
     "acceptableAnswers": [
-      "control"
+      "sympathetic"
     ]
   },
   {
     "id": 61,
     "type": "fitb",
-    "stem": "A patient who has a gross defect in memory and fills in the gaps of missing information with purely imaginary events presented as real is exhibiting _______________.",
-    "answer": "confabulation",
+    "stem": "Neurons that connect other neurons within the CNS and do not directly receive sensory input or send motor output are called _______________.",
+    "answer": "interneurons",
     "acceptableAnswers": [
-      "confabulation"
+      "interneurons",
+      "association neurons",
+      "relay neurons"
     ]
   },
   {
     "id": 62,
     "type": "fitb",
-    "stem": "An illusion is defined as a false perception involving the _______________ of an external stimulus rather than perception without any stimulus.",
-    "answer": "misinterpretation",
+    "stem": "Reduced levels of _______________ in the brain are specifically associated with the motor symptoms of Parkinson's disease.",
+    "answer": "dopamine",
     "acceptableAnswers": [
-      "misinterpretation",
-      "misperception",
-      "misreading"
+      "dopamine",
+      "dopamine (DA)"
     ]
   },
   {
     "id": 63,
     "type": "fitb",
-    "stem": "Perpetuating factors are any conditions in the patient, family, or community that _______________ rather than solve the problem.",
-    "answer": "exacerbate",
+    "stem": "Supportive cells of the nervous system that do not conduct impulses but provide structural support, supply nutrients, and form myelin are called _______________ or glial cells.",
+    "answer": "neuroglia",
     "acceptableAnswers": [
-      "exacerbate",
-      "worsen",
-      "aggravate",
-      "perpetuate"
+      "neuroglia",
+      "glia",
+      "glial cells"
     ]
   },
   {
     "id": 64,
     "type": "fitb",
-    "stem": "Lack of exercise and poor diet are classified as _______________ factors under the environmental causes of mental illness.",
-    "answer": "lifestyle",
+    "stem": "CASE STUDY: A 72-year-old woman with advanced Alzheimer's disease is unable to recall her grandchildren's names or learn any new information. The nurse understands that this memory deficit is primarily linked to a deficiency of _______________, a neurotransmitter involved in memory and learning.",
+    "answer": "acetylcholine",
     "acceptableAnswers": [
-      "lifestyle"
+      "acetylcholine",
+      "ACh"
     ]
   },
   {
     "id": 65,
     "type": "fitb",
-    "stem": "CASE STUDY: Nurse Eze is assessing a patient who abruptly stops speaking mid-sentence, stares blankly, and cannot recall what she was saying for several minutes. This interruption in the stream of thought is called _______________.",
-    "answer": "blocking",
+    "stem": "In synaptic transmission, after neurotransmitters bind to their postsynaptic receptors, their action can be terminated by reuptake, enzymatic degradation, or _______________ away from the synapse.",
+    "answer": "diffusion",
     "acceptableAnswers": [
-      "blocking",
-      "thought blocking"
+      "diffusion"
     ]
   },
   {
     "id": 66,
     "type": "fitb",
-    "stem": "The experience of perceiving an odour that is not actually present is described as an _______________ hallucination.",
-    "answer": "olfactory",
+    "stem": "The functional units of the nervous system, responsible for receiving, processing, and transmitting impulses, are called _______________.",
+    "answer": "neurons",
     "acceptableAnswers": [
-      "olfactory"
+      "neurons",
+      "nerve cells"
     ]
   },
   {
     "id": 67,
     "type": "fitb",
-    "stem": "Disorientation is defined as one's inability to appreciate _______________, space, and personal relations at the present moment.",
-    "answer": "time",
+    "stem": "The subdivision of the autonomic nervous system that promotes 'rest and digest' functions by calming the body is called the _______________ nervous system.",
+    "answer": "parasympathetic",
     "acceptableAnswers": [
-      "time"
+      "parasympathetic"
     ]
   },
   {
     "id": 68,
     "type": "fitb",
-    "stem": "Pediatric autoimmune neuropsychiatric disorders associated with streptococcal infections are abbreviated as _______________.",
-    "answer": "PANDAS",
+    "stem": "CASE STUDY: A nursing student presents a seminar on a condition where the body's immune system attacks the myelin produced by oligodendrocytes in the CNS, leading to slowed or blocked nerve conduction. The disease being described is _______________ sclerosis.",
+    "answer": "multiple",
     "acceptableAnswers": [
-      "PANDAS"
+      "multiple"
     ]
   },
   {
     "id": 69,
     "type": "fitb",
-    "stem": "CASE STUDY: A community health nurse visits a family where the father has a known mental illness. The mother reports that since losing her job three months ago, she has been unable to afford the father's medication, and his symptoms have significantly worsened. The factor that is MOST responsible for worsening his condition is classified as a _______________ factor.",
-    "answer": "perpetuating",
+    "stem": "The branch-like extensions from the neuron's cell body that receive incoming electrical signals from other neurons are called _______________.",
+    "answer": "dendrites",
     "acceptableAnswers": [
-      "perpetuating",
-      "perpetuating factor"
+      "dendrites"
     ]
   },
   {
     "id": 70,
     "type": "fitb",
-    "stem": "The diminished ability to experience pleasure from activities that were previously enjoyable is a psychiatric symptom known as _______________.",
-    "answer": "anhedonia",
+    "stem": "Norepinephrine affects attention, stress response, and mood, and its imbalance is associated with _______________ and anxiety.",
+    "answer": "depression",
     "acceptableAnswers": [
-      "anhedonia"
+      "depression",
+      "depressive disorder",
+      "major depressive disorder"
     ]
   }
 ]
