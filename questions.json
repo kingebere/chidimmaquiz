@@ -2,794 +2,792 @@
   {
     "id": 1,
     "type": "mcq",
-    "stem": "The nervous system develops embryologically from which structure?",
+    "stem": "The hypothalamus regulates body temperature by sending signals to which structures when internal temperature deviates from normal?",
     "options": [
-      "Notochord",
-      "Neural crest",
-      "Neural tube",
-      "Endoderm"
-    ], 
-    "answer": "C"
+      "Kidneys, liver, and pancreas",
+      "Muscles, organs, glands, and nervous system",
+      "Heart, lungs, and adrenal glands",
+      "Skin receptors and lymph nodes only"
+    ],
+    "answer": "B"
   },
   {
     "id": 2,
     "type": "mcq",
-    "stem": "A nursing student is asked to identify the division of the nervous system that acts as the body's control centre by processing information and sending out commands. Which structure BEST fits this description?",
+    "stem": "A patient's body temperature is 38.9°C. Using the Fahrenheit conversion formula F = (C × 9/5) + 32, what is this temperature in Fahrenheit?",
     "options": [
-      "Peripheral Nervous System",
-      "Autonomic Nervous System",
-      "Central Nervous System",
-      "Somatic Nervous System"
+      "99.2°F",
+      "100.4°F",
+      "102.0°F",
+      "103.1°F"
     ],
     "answer": "C"
   },
   {
     "id": 3,
     "type": "mcq",
-    "stem": "Which division of the peripheral nervous system is specifically responsible for controlling voluntary skeletal muscle movements?",
+    "stem": "A nurse is assessing a febrile patient and notes gooseflesh appearance of skin, shivering, and cessation of sweating. These findings are characteristic of which phase of fever?",
     "options": [
-      "Autonomic Nervous System",
-      "Sympathetic Nervous System",
-      "Parasympathetic Nervous System",
-      "Somatic Nervous System"
+      "Defervescence phase",
+      "Course (plateau) phase",
+      "Onset (chill or cold) phase",
+      "Abatement phase"
     ],
-    "answer": "D"
+    "answer": "C"
   },
   {
     "id": 4,
     "type": "mcq",
-    "stem": "A patient admitted to the emergency ward following a near-accident is noted to have a rapid heart rate, dilated pupils, and dry mouth. These findings BEST reflect activation of which division of the nervous system?",
+    "stem": "During which phase of fever are nursing measures specifically designed to INCREASE heat loss?",
     "options": [
-      "Somatic nervous system",
-      "Parasympathetic nervous system",
-      "Sympathetic nervous system",
-      "Central nervous system"
+      "Onset phase",
+      "Plateau phase",
+      "Defervescence phase",
+      "Prodromal phase"
     ],
     "answer": "C"
   },
   {
     "id": 5,
     "type": "mcq",
-    "stem": "Which part of the neuron is primarily responsible for integrating incoming signals and maintaining the cell's metabolic functions?",
+    "stem": "A patient with malaria presents with alternating periods of high fever and normal temperature at regular intervals. This pattern of fever is BEST classified as:",
     "options": [
-      "Axon terminal",
-      "Dendrites",
-      "Myelin sheath",
-      "Cell body (soma)"
+      "Remittent fever",
+      "Constant fever",
+      "Relapsing fever",
+      "Intermittent fever"
     ],
     "answer": "D"
   },
   {
     "id": 6,
     "type": "mcq",
-    "stem": "Saltatory conduction, which allows nerve impulses to travel rapidly along an axon, occurs because of which anatomical feature?",
+    "stem": "Which mechanism of heat loss involves the conversion of water to gas, such as occurs during sweating or swimming on a hot day?",
     "options": [
-      "The abundance of dendrites on the neuron",
-      "Gaps in the myelin sheath called Nodes of Ranvier",
-      "The large diameter of the cell body",
-      "Neurotransmitter release at axon terminals"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 7,
-    "type": "mcq",
-    "stem": "A patient with multiple sclerosis has widespread destruction of myelin in the CNS. The glial cells responsible for producing myelin in the CNS are:",
-    "options": [
-      "Schwann cells",
-      "Astrocytes",
-      "Microglia",
-      "Oligodendrocytes"
+      "Conduction",
+      "Convection",
+      "Radiation",
+      "Evaporation"
     ],
     "answer": "D"
   },
   {
+    "id": 7,
+    "type": "mcq",
+    "stem": "CASE STUDY: A 52-year-old male construction worker is brought to the emergency unit after collapsing on a hot afternoon. His skin is warm and flushed, he is not sweating, his temperature is 40.2°C, and he is semi-conscious with a history of muscle cramps. Which condition does this presentation MOST likely represent?",
+    "options": [
+      "Heat exhaustion",
+      "Severe hypothermia",
+      "Heat stroke",
+      "Remittent fever from influenza"
+    ],
+    "answer": "C"
+  },
+  {
     "id": 8,
     "type": "mcq",
-    "stem": "Which type of neuron carries sensory information â such as touch and temperature â toward the brain?",
+    "stem": "CASE STUDY (continued from Q7): The nurse prioritises which of the following interventions for this patient?",
     "options": [
-      "Motor neurons",
-      "Interneurons",
-      "Sensory neurons",
-      "Efferent neurons"
+      "Administer antipyretics and monitor intake/output",
+      "Provide dry clothing and apply warm blankets",
+      "Rapid cooling measures, airway management, and IV fluids",
+      "Remove excess blankets and monitor vital signs only"
     ],
     "answer": "C"
   },
   {
     "id": 9,
     "type": "mcq",
-    "stem": "Interneurons are anatomically located in which structure?",
+    "stem": "A body temperature reading of 28.5°C in an adult patient would be classified under which type of hypothermia?",
     "options": [
-      "Peripheral nerves only",
-      "Muscles and glands",
-      "Sensory receptors",
-      "Within the CNS"
+      "Mild hypothermia",
+      "Moderate hypothermia",
+      "Severe hypothermia",
+      "Induced hypothermia"
     ],
-    "answer": "D"
+    "answer": "B"
   },
   {
     "id": 10,
     "type": "mcq",
-    "stem": "CASE STUDY: A 67-year-old retired teacher presents to a neurology clinic with progressive forgetfulness, difficulty recognising family members, and an inability to form new memories. His wife reports he recently left the gas on and forgot to eat for an entire day. A brain scan reveals significant atrophy of areas linked to memory. Which neurotransmitter deficiency MOST likely underlies this clinical presentation?",
+    "stem": "Vasoconstriction as a physiological response to cold DECREASES heat loss by which mechanism?",
     "options": [
-      "Dopamine",
-      "Serotonin",
-      "Acetylcholine",
-      "GABA"
+      "Stimulating shivering to produce additional heat",
+      "Narrowing blood vessels under the skin to reduce blood flow and retain heat near the inner body",
+      "Activating the thyroid gland to release heat-producing hormones",
+      "Increasing metabolic rate to generate more body heat"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 11,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q10): The nurse educating the family explains that the patient's condition is associated with degeneration of neurons in circuits dependent on which neurotransmitter. The same neurotransmitter is ALSO involved in:",
+    "stem": "Which type of fever is characterised by body temperature that constantly fluctuates but always remains above normal, as seen in leukaemia and Hodgkin's disease?",
     "options": [
-      "Regulation of sleep-wake cycles",
-      "Reward and motivation pathways",
-      "Memory and learning",
-      "Inhibition of neuronal excitability"
+      "Remittent",
+      "Intermittent",
+      "Relapsing",
+      "Constant"
     ],
-    "answer": "C"
+    "answer": "D"
   },
   {
     "id": 12,
     "type": "mcq",
-    "stem": "Neurotransmitters are stored within the axon terminal in small sacs called:",
+    "stem": "A nurse is preparing to take a temperature via the axillary route. Which statement regarding this method is CORRECT?",
     "options": [
-      "Mitochondria",
-      "Synaptic vesicles",
-      "Ribosomes",
-      "Lysosomes"
+      "It is the most accurate method and reads higher than oral temperature",
+      "It is safe and non-invasive but reads lower than oral temperature and requires prolonged placement",
+      "It provides immediate readings and reflects core body temperature accurately",
+      "It is contraindicated in adults because of skin sensitivity"
     ],
     "answer": "B"
   },
   {
     "id": 13,
     "type": "mcq",
-    "stem": "After binding to receptors on the postsynaptic neuron, the action of a neurotransmitter is terminated by which of the following mechanisms? Select the MOST complete answer.",
+    "stem": "CASE STUDY: A 4-month-old infant is brought to the clinic. The nurse is about to assess vital signs. According to best practice for infants, temperature assessment should be performed:",
     "options": [
-      "Reuptake into the presynaptic neuron only",
-      "Enzymatic degradation only",
-      "Reuptake, enzymatic degradation, or diffusion away from the synapse",
-      "Diffusion back into the axon terminal only"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": 14,
-    "type": "mcq",
-    "stem": "A patient on a psychiatric unit is started on a selective serotonin reuptake inhibitor (SSRI). The nurse understands that this drug works by preventing which process at the synapse?",
-    "options": [
-      "Enzymatic degradation of dopamine",
-      "Reuptake of serotonin into the presynaptic neuron",
-      "Release of GABA into the synaptic cleft",
-      "Binding of glutamate to postsynaptic receptors"
+      "Before pulse and respirations because it is the most critical parameter",
+      "After pulse and respiration because temperature-taking can be distressing and increase heart rate and pulse",
+      "Only rectally to ensure accuracy in neonates",
+      "Only via temporal artery to avoid discomfort"
     ],
     "answer": "B"
   },
   {
-    "id": 15,
+    "id": 14,
     "type": "mcq",
-    "stem": "Excess glutamate activity in the synaptic cleft is MOST associated with:",
+    "stem": "CASE STUDY (continued from Q13): The infant's temperature is taken rectally and reads 38.2°C. The mother asks why rectal temperature is used. The nurse CORRECTLY explains that rectal temperature is:",
     "options": [
-      "Parkinson's disease and movement disorders",
-      "Alzheimer's disease and memory loss",
-      "Neurotoxicity and mental disorders",
-      "Depression and reduced mood"
+      "Lower than oral and axillary temperature",
+      "The least invasive method available for infants",
+      "Reliable and higher than oral temperature, though uncomfortable",
+      "The fastest method requiring no special equipment"
     ],
     "answer": "C"
   },
   {
+    "id": 15,
+    "type": "mcq",
+    "stem": "Induced hypothermia is a deliberate lowering of body temperature primarily performed to achieve which clinical goal?",
+    "options": [
+      "Increase cardiac output during surgery",
+      "Decrease the need for oxygen by body tissues during certain surgeries",
+      "Prevent post-operative infection by reducing metabolic waste",
+      "Stimulate shivering to raise the basal metabolic rate"
+    ],
+    "answer": "B"
+  },
+  {
     "id": 16,
     "type": "mcq",
-    "stem": "Which neurotransmitter is described as the MAIN inhibitory neurotransmitter of the CNS, with reduced levels linked to anxiety and insomnia?",
+    "stem": "A patient in the plateau phase of fever is MOST likely to exhibit which combination of symptoms?",
     "options": [
-      "Glutamate",
-      "Dopamine",
-      "GABA",
-      "Norepinephrine"
+      "Shivering, cold skin, and cessation of sweating",
+      "Flushed skin, profuse sweating, and decreased shivering",
+      "Skin feels warm, increased thirst, restlessness, and possible convulsions",
+      "Pallor, dizziness, nausea, and moderately increased temperature"
     ],
     "answer": "C"
   },
   {
     "id": 17,
     "type": "mcq",
-    "stem": "A 32-year-old patient with a history of auditory hallucinations and disorganised thinking is admitted. The nurse is aware that the patient's condition has been linked to dysregulation of which neurotransmitter?",
+    "stem": "Heat loss through the physical contact of one object with another — such as a patient lying on a cold metallic surface — is classified as which mechanism?",
     "options": [
-      "Serotonin",
-      "Acetylcholine",
-      "GABA",
-      "Dopamine"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": 18,
-    "type": "mcq",
-    "stem": "The peripheral nervous system (PNS) consists of:",
-    "options": [
-      "The brain and the spinal cord exclusively",
-      "The brain, spinal cord, and cranial nerves",
-      "All nerves located outside the CNS",
-      "Only the autonomic and somatic motor neurons"
+      "Convection",
+      "Radiation",
+      "Conduction",
+      "Evaporation"
     ],
     "answer": "C"
   },
   {
+    "id": 18,
+    "type": "mcq",
+    "stem": "A patient presents with paleness, dizziness, nausea, vomiting, fainting, and a moderately elevated temperature after working in a hot kitchen all day. This presentation is MOST consistent with:",
+    "options": [
+      "Heat stroke",
+      "Hyperpyrexia",
+      "Remittent fever",
+      "Heat exhaustion"
+    ],
+    "answer": "D"
+  },
+  {
     "id": 19,
     "type": "mcq",
-    "stem": "During the step-by-step process of neuronal communication, what triggers the release of neurotransmitters into the synaptic cleft?",
+    "stem": "The thyroid gland contributes to body temperature regulation through which mechanism?",
     "options": [
-      "Binding of neurotransmitters to dendrite receptors",
-      "An electrical signal (action potential) reaching the axon terminal",
-      "The cell body receiving adequate nutrients",
-      "Formation of new synaptic vesicles"
+      "Decreasing blood flow to the periphery to conserve heat",
+      "Releasing hormones that increase body metabolism, energy production, and heat generation",
+      "Stimulating the hypothalamus to produce more heat receptors",
+      "Causing shivering in skeletal muscles to generate warmth"
     ],
     "answer": "B"
   },
   {
     "id": 20,
     "type": "mcq",
-    "stem": "CASE STUDY: A 45-year-old male is brought to the clinic after experiencing a sudden episode of extreme sweating, palpitations, and a feeling of impending doom following a traumatic road traffic accident. His vital signs show BP 160/100 mmHg, HR 120 bpm. The nurse identifies his response as a physiological stress reaction. Which neurotransmitter is PRIMARILY responsible for his elevated blood pressure and heart rate in this situation?",
+    "stem": "Which temperature measurement site is described as readily accessible and very fast but carries a risk of injuring the membrane, and where right and left measurements can differ?",
     "options": [
-      "Serotonin",
-      "Acetylcholine",
-      "GABA",
-      "Norepinephrine"
+      "Axillary",
+      "Rectal",
+      "Temporal artery",
+      "Tympanic membrane"
     ],
     "answer": "D"
   },
   {
     "id": 21,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q20): The nurse explains to the patient's family that the part of the autonomic nervous system responsible for triggering this 'fight or flight' response is the:",
+    "stem": "CASE STUDY: A 78-year-old woman is rescued from her unheated home during a harmattan cold spell. On assessment, she has a body temperature of 33°C, is pale with waxy cool skin, has decreased urinary output, and her muscles are poorly coordinated. She is shivering severely. The nurse classifies her hypothermia as:",
     "options": [
-      "Somatic nervous system",
-      "Parasympathetic nervous system",
-      "Central nervous system",
-      "Sympathetic nervous system"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": 22,
-    "type": "mcq",
-    "stem": "Which glial cells are responsible for producing myelin in the PERIPHERAL nervous system?",
-    "options": [
-      "Oligodendrocytes",
-      "Astrocytes",
-      "Schwann cells",
-      "Microglia"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": 23,
-    "type": "mcq",
-    "stem": "Neuroglia differ from neurons in that they:",
-    "options": [
-      "Are larger and found only in the PNS",
-      "Do not conduct electrical impulses but provide structural support and maintain neurons",
-      "Synthesise and release neurotransmitters",
-      "Are responsible for generating action potentials"
+      "Severe hypothermia",
+      "Mild hypothermia",
+      "Induced hypothermia",
+      "Moderate hypothermia"
     ],
     "answer": "B"
   },
   {
+    "id": 22,
+    "type": "mcq",
+    "stem": "CASE STUDY (continued from Q21): Which nursing intervention is the HIGHEST priority for this patient?",
+    "options": [
+      "Administer antipyretics and monitor vital signs",
+      "Provide a warm environment, dry clothing, warm blankets, and warm oral or IV fluids",
+      "Remove all clothing, apply cool compresses, and fan the patient",
+      "Assess skin colour and administer antibiotic therapy"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 23,
+    "type": "mcq",
+    "stem": "Heat loss through the movement of air or water molecules across the skin — such as using a fan to cool the body — is classified as:",
+    "options": [
+      "Radiation",
+      "Evaporation",
+      "Conduction",
+      "Convection"
+    ],
+    "answer": "D"
+  },
+  {
     "id": 24,
     "type": "mcq",
-    "stem": "In the process of synaptic transmission, neurotransmitters bind to receptors located on the:",
+    "stem": "A temperature of 104°F converted to Celsius using the formula C = (F – 32) × 5/9 equals approximately:",
     "options": [
-      "Axon hillock of the presynaptic neuron",
-      "Myelin sheath of the transmitting neuron",
-      "Postsynaptic neuron or target cell",
-      "Synaptic vesicles within the axon terminal"
+      "38.5°C",
+      "39.2°C",
+      "40.0°C",
+      "41.1°C"
     ],
     "answer": "C"
   },
   {
     "id": 25,
     "type": "mcq",
-    "stem": "A nurse is providing discharge education to a patient newly diagnosed with Parkinson's disease. She correctly explains that the motor symptoms are primarily due to a deficiency of which neurotransmitter in the brain?",
+    "stem": "A patient with a body temperature above 41°C is CORRECTLY described as having:",
     "options": [
-      "Serotonin",
-      "Dopamine",
-      "Norepinephrine",
-      "Glutamate"
+      "Pyrexia",
+      "Hyperpyrexia",
+      "Intermittent fever",
+      "Constant fever"
     ],
     "answer": "B"
   },
   {
     "id": 26,
     "type": "mcq",
-    "stem": "Which of the following BEST explains how the myelin sheath increases the speed of nerve impulse conduction?",
+    "stem": "Which of the following BEST explains why oral temperature measurement is considered inaccurate in a patient who recently smoked a cigarette?",
     "options": [
-      "It increases the number of neurotransmitters released at the synapse",
-      "It allows the action potential to jump between Nodes of Ranvier rather than travelling the entire axon continuously",
-      "It increases dendrite surface area to receive more signals",
-      "It amplifies the electrical charge generated in the cell body"
+      "Smoking increases salivary enzyme production that reacts with the thermometer",
+      "Recent ingestion of hot or cold substances — including smoke — affects oral cavity temperature and gives a false reading",
+      "Smoking causes oral mucosa inflammation that blocks the thermometer probe",
+      "Nicotine directly lowers core body temperature transiently"
     ],
     "answer": "B"
   },
   {
     "id": 27,
     "type": "mcq",
-    "stem": "CASE STUDY: A 19-year-old nursing student observes a patient post-surgery who is calmly resting, with slowed heart rate, increased bowel sounds, and normal respirations. She asks her preceptor which division of the nervous system is dominant. The CORRECT answer is:",
+    "stem": "CASE STUDY: A patient with influenza has had a temperature fluctuating between 38.2°C and 39.8°C over 24 hours, always remaining above normal. The nurse correctly documents this fever pattern as:",
     "options": [
-      "Sympathetic nervous system",
-      "Somatic nervous system",
-      "Central nervous system",
-      "Parasympathetic nervous system"
+      "Intermittent",
+      "Relapsing",
+      "Constant",
+      "Remittent"
     ],
     "answer": "D"
   },
   {
     "id": 28,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q27): The preceptor further explains that the parasympathetic nervous system promotes which physiological state?",
+    "stem": "CASE STUDY (continued from Q27): The nurse plans nursing interventions. At which daily minimum fluid intake should the nurse aim to prevent dehydration in this febrile adult patient?",
     "options": [
-      "Fight or flight",
-      "Rest and digest",
-      "Voluntary muscle control",
-      "Rapid impulse transmission"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 29,
-    "type": "mcq",
-    "stem": "Psychiatric medications that target neurotransmitter systems are used to restore balance in neuronal signalling. A nurse explains this to a patient. Which statement BEST reflects the nurse's understanding of why this matters?",
-    "options": [
-      "Neurotransmitters are only important during physical disease",
-      "Neurons and neurotransmitter communication form the biological basis of mood, cognition, and behaviour",
-      "Psychiatric drugs primarily affect skeletal muscles and motor function",
-      "Glial cells are the primary target of all psychiatric medications"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 30,
-    "type": "mcq",
-    "stem": "The axon of a motor neuron extending from the spinal cord all the way to the toes is BEST used to illustrate which fact about axons?",
-    "options": [
-      "Axons always branch into dendrites at their terminal end",
-      "Axons contain the nucleus of the neuron",
-      "Axons can extend over very long distances within the body",
-      "Axons conduct impulses toward the cell body"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": 31,
-    "type": "mcq",
-    "stem": "Which step in neuronal communication involves the cell body (soma) evaluating whether the received signal is strong enough to propagate further?",
-    "options": [
-      "Transmission (Electrical)",
-      "Communication",
-      "Reception",
-      "Processing"
+      "500 ml",
+      "1000 ml",
+      "1500 ml",
+      "2000 ml"
     ],
     "answer": "D"
   },
   {
-    "id": 32,
+    "id": 29,
     "type": "mcq",
-    "stem": "A nurse assessing a patient who is comatose following severe head trauma notices a total absence of response to stimuli. The nurse understands that consciousness and thinking are governed by which system?",
+    "stem": "Which physiological process increases heat production by causing muscles to contract rapidly and generate warmth when the body is chilled?",
     "options": [
-      "Somatic nervous system",
-      "Autonomic nervous system",
-      "Central nervous system",
-      "Peripheral nervous system"
+      "Vasoconstriction",
+      "Hormonal thermogenesis",
+      "Shivering",
+      "Evaporation"
     ],
     "answer": "C"
   },
   {
+    "id": 30,
+    "type": "mcq",
+    "stem": "The skin has more receptors for cold than for warmth. When the body is chilled, how many physiological processes occur to increase body temperature?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 31,
+    "type": "mcq",
+    "stem": "A nurse caring for a febrile patient removes excess blankets when the patient feels warm but provides extra warmth when the patient feels chilled. This intervention is specifically aimed at:",
+    "options": [
+      "Preventing pressure injuries from prolonged bed rest",
+      "Maintaining comfort while supporting the body's thermoregulation efforts",
+      "Inducing therapeutic hypothermia to reduce metabolic demand",
+      "Minimising the risk of hospital-acquired infection"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 32,
+    "type": "mcq",
+    "stem": "Which mechanism of heat loss involves infrared rays transferring heat from the body to cooler objects without direct contact — such as the sun transferring heat to the earth?",
+    "options": [
+      "Conduction",
+      "Evaporation",
+      "Convection",
+      "Radiation"
+    ],
+    "answer": "D"
+  },
+  {
     "id": 33,
     "type": "mcq",
-    "stem": "The function of the peripheral nervous system in relation to the CNS is BEST described as:",
+    "stem": "CASE STUDY: A 35-year-old woman is admitted with tick-borne relapsing fever. The nurse reviews her temperature chart showing high fever for 2 days followed by 1 day of normal temperature, then recurrence. Which defining characteristic distinguishes relapsing fever from intermittent fever?",
     "options": [
-      "Processing sensory data and generating memory",
-      "Connecting the CNS to the rest of the body, transmitting sensory information in and motor commands out",
-      "Regulating voluntary thought and cognition",
-      "Producing myelin for faster CNS impulse conduction"
+      "Relapsing fever always occurs with remittent periods within 24 hours",
+      "Relapsing fever involves short periods of fever lasting days interspersed with periods of normal temperature lasting 1–2 days",
+      "Relapsing fever stays constantly above normal without any normal periods",
+      "Relapsing fever is always associated with a bacterial rather than parasitic cause"
     ],
     "answer": "B"
   },
   {
     "id": 34,
     "type": "mcq",
-    "stem": "CASE STUDY: A 55-year-old man with a history of untreated depression is admitted after a suicide attempt. His attending psychiatrist notes that his serotonin levels have been chronically low. Which of the following MOST accurately explains how low serotonin directly contributes to his presentation?",
+    "stem": "CASE STUDY (continued from Q33): The nurse assessing this patient notes the fever is now in the plateau phase. Which symptom would she LEAST expect to find?",
     "options": [
-      "Low serotonin increases dopamine dysregulation, causing hallucinations",
-      "Reduced serotonin signalling is linked to depressed mood and anxiety",
-      "Low serotonin impairs the formation of myelin sheaths",
-      "Reduced serotonin causes excessive excitatory neurotransmission"
+      "Skin feels warm",
+      "Increased thirst",
+      "Profuse shivering and cold clammy skin",
+      "Drowsiness and restlessness"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 35,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q34): During a nursing handover, the oncoming nurse asks what serotonin's primary roles are. The outgoing nurse correctly responds that serotonin regulates:",
+    "stem": "According to the notes, which temperature measurement site requires an electronic device that may be very expensive or unavailable and can be influenced by external ambient temperature?",
     "options": [
-      "Memory, learning, and voluntary movement",
-      "Reward, motivation, and the dopamine pathway",
-      "Mood, sleep, and appetite",
-      "Inhibitory balance and prevention of insomnia only"
+      "Tympanic membrane",
+      "Axillary",
+      "Temporal artery",
+      "Rectal"
     ],
     "answer": "C"
   },
   {
     "id": 36,
     "type": "mcq",
-    "stem": "Which part of a neuron releases neurotransmitters into the synapse to pass a signal to the next neuron or effector cell?",
+    "stem": "A nurse is covering a hypothermic patient's scalp with a cap or turban. The rationale for this intervention is BEST explained by:",
     "options": [
-      "Cell body",
-      "Dendrites",
-      "Nodes of Ranvier",
-      "Axon terminals (synaptic boutons)"
+      "The scalp has fewer pain receptors and needs protection from pressure",
+      "Significant heat loss occurs through the head, and covering it helps retain body warmth",
+      "The cap prevents evaporative cooling of cerebrospinal fluid",
+      "Head covering prevents hospital-acquired infections in immunocompromised patients"
     ],
-    "answer": "D"
+    "answer": "B"
   },
   {
     "id": 37,
     "type": "mcq",
-    "stem": "A patient with severe generalised anxiety disorder is prescribed a benzodiazepine. The nurse explains that this drug works by enhancing the effect of which neurotransmitter?",
+    "stem": "A client with severe hypothermia (temperature <28°C) is MOST likely to exhibit which clinical manifestation?",
     "options": [
-      "Dopamine",
-      "Norepinephrine",
-      "GABA",
-      "Glutamate"
+      "Active shivering, warm skin, and elevated blood pressure",
+      "Decreased body temperature, hypotension, pale waxy skin, and decreased urinary output",
+      "Flushed warm skin, dilated pupils, and increased respiratory rate",
+      "Fever spikes, restlessness, and profuse diaphoresis"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 38,
     "type": "mcq",
-    "stem": "Which of the following CORRECTLY differentiates sensory neurons from motor neurons?",
+    "stem": "Two conditions are described as elevated temperature that is NOT true fever. Which pair CORRECTLY represents these two conditions?",
     "options": [
-      "Sensory neurons carry commands from the brain; motor neurons carry information to the brain",
-      "Sensory neurons connect neurons within the CNS; motor neurons send signals to muscles",
-      "Sensory neurons carry information to the brain; motor neurons carry commands from the brain",
-      "Sensory and motor neurons both originate in the spinal cord"
+      "Hyperpyrexia and constant fever",
+      "Intermittent fever and relapsing fever",
+      "Heat exhaustion and heat stroke",
+      "Remittent fever and induced hypothermia"
     ],
     "answer": "C"
   },
   {
     "id": 39,
     "type": "mcq",
-    "stem": "A nurse reviewing pathophysiology notes that excessive dopamine activity in certain brain pathways has been specifically implicated in which psychiatric disorder?",
+    "stem": "CASE STUDY: A nurse in a paediatric ward notices a 6-year-old child has herpetic sores of the mouth, loss of appetite, delirium, and a skin temperature that feels warm to touch. The nurse correctly identifies these as findings consistent with which phase of fever?",
     "options": [
-      "Major depressive disorder",
-      "Generalised anxiety disorder",
-      "Alzheimer's disease",
-      "Schizophrenia"
+      "Onset (chill) phase",
+      "Defervescence phase",
+      "Course (plateau) phase",
+      "Post-febrile recovery phase"
     ],
-    "answer": "D"
+    "answer": "C"
   },
   {
     "id": 40,
     "type": "mcq",
-    "stem": "Norepinephrine imbalance in the brain is associated with which of the following conditions?",
+    "stem": "CASE STUDY (continued from Q39): In addition to administering antipyretics as ordered, the nurse should prioritise which intervention to address the child's oral manifestations?",
     "options": [
-      "Parkinson's disease and memory loss",
-      "Depression and anxiety",
-      "Schizophrenia and psychosis",
-      "Neurotoxicity and dementia"
+      "Apply warm blankets and keep the limbs close to the body",
+      "Provide adequate nutrition and fluids, and perform oral care to manage herpetic sores",
+      "Supply warm IV fluids and cover the scalp with a turban",
+      "Assess laboratory reports and administer antibiotics"
     ],
     "answer": "B"
   },
   {
     "id": 41,
     "type": "mcq",
-    "stem": "CASE STUDY: During a pharmacology class, a nursing lecturer asks students to identify which neurotransmitter, when present in excess at the synapse, leads to overstimulation of neurons and neurotoxicity. A student answers correctly by naming:",
+    "stem": "Accidental hypothermia differs from induced hypothermia in that it:",
     "options": [
-      "GABA",
-      "Acetylcholine",
-      "Glutamate",
-      "Serotonin"
+      "Is always more severe than induced hypothermia",
+      "Results from deliberate lowering of body temperature for surgical purposes",
+      "Results from uncontrolled exposure to cold environments, cold water immersion, or lack of adequate clothing and shelter",
+      "Occurs only in neonates and elderly patients above 70 years"
     ],
     "answer": "C"
   },
   {
     "id": 42,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q41): The lecturer then asks which neurotransmitter performs the opposing (inhibitory) function in the CNS. The correct answer is:",
+    "stem": "When a nurse uses a fan to cool a febrile patient, she is applying which mechanism of heat loss?",
     "options": [
-      "Dopamine",
-      "Norepinephrine",
-      "Serotonin",
-      "GABA"
+      "Radiation",
+      "Evaporation",
+      "Convection",
+      "Conduction"
     ],
-    "answer": "D"
+    "answer": "C"
   },
   {
     "id": 43,
     "type": "mcq",
-    "stem": "Which structural component of the neuron houses the nucleus and is responsible for the cell's genetic material and overall metabolic health?",
+    "stem": "A patient is described as 'afebrile.' The nurse CORRECTLY interprets this to mean the patient:",
     "options": [
-      "Dendrites",
-      "Axon hillock",
-      "Cell body (soma)",
-      "Myelin sheath"
+      "Has a very high fever above 41°C",
+      "Has a fever currently being treated with antipyretics",
+      "Does not have a fever",
+      "Is in the defervescence phase of fever"
     ],
     "answer": "C"
   },
   {
     "id": 44,
     "type": "mcq",
-    "stem": "When a nurse assesses the ability of a patient to feel a pinprick on their foot, which functional neuron type is being evaluated?",
+    "stem": "CASE STUDY: A 29-year-old woman presents to the outpatient clinic feeling flushed and sweaty. Her temperature is 37.6°C orally, and she reports she recently ingested very hot tea. The nurse is aware that this reading may be inaccurate because:",
     "options": [
-      "Motor neurons",
-      "Interneurons",
-      "Efferent neurons",
-      "Sensory neurons"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": 45,
-    "type": "mcq",
-    "stem": "Glial cells contribute to homeostasis in the nervous system by performing all of the following functions EXCEPT:",
-    "options": [
-      "Providing structural support to neurons",
-      "Generating and conducting electrical impulses",
-      "Supplying nutrients and oxygen to neurons",
-      "Removing waste products from the neural environment"
+      "The oral route is unreliable in women of childbearing age",
+      "Recent ingestion of hot food or fluids can falsely elevate oral temperature readings",
+      "Sweating invalidates all temperature measurement methods",
+      "Oral temperature always reads higher than core temperature"
     ],
     "answer": "B"
   },
   {
+    "id": 45,
+    "type": "mcq",
+    "stem": "CASE STUDY (continued from Q44): After waiting the appropriate period, the nurse retakes the temperature orally and obtains 37.0°C. She correctly documents this finding as:",
+    "options": [
+      "Hyperpyrexia — requiring immediate intervention",
+      "Pyrexia — indicating a mild fever",
+      "Within the normal range of 36.5°C to 37.2°C, slightly elevated",
+      "Hypothermic — below normal and requiring warming measures"
+    ],
+    "answer": "C"
+  },
+  {
     "id": 46,
     "type": "mcq",
-    "stem": "CASE STUDY: Mr. B., a 40-year-old teacher, is admitted to a neurological ward following a spinal cord injury at the T10 level. He has no voluntary movement below the waist but intact sensation above the injury site. Which part of the nervous system has been MOST directly damaged to cause loss of voluntary motor function?",
+    "stem": "The three physiological mechanisms of hypothermia identified in the notes are excessive heat loss, impaired hypothalamic thermoregulation, and:",
     "options": [
-      "Parasympathetic nervous system",
-      "Somatic nervous system â motor pathway",
-      "Autonomic nervous system â sympathetic division",
-      "Peripheral sensory pathways"
+      "Failure of peripheral vasoconstriction",
+      "Inadequate heat production to counteract heat loss",
+      "Thyroid hormone deficiency",
+      "Excessive evaporative cooling"
     ],
     "answer": "B"
   },
   {
     "id": 47,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q46): Mr. B. subsequently develops autonomic dysreflexia with severe hypertension and bradycardia after the injury. The nurse understands that this involves dysfunction of which division of the nervous system?",
+    "stem": "A nurse documents that a patient's nursing care during the onset phase of fever is 'designed to decrease heat loss.' Which intervention aligns CORRECTLY with this goal?",
     "options": [
-      "Somatic nervous system",
-      "Central nervous system at the cortical level",
-      "Autonomic nervous system",
-      "Peripheral sensory system"
+      "Removing blankets, applying cool compresses, and increasing fan speed",
+      "Providing extra clothing, warm environment, and reducing exposure to cold draughts",
+      "Administering antipyretics and encouraging cold oral fluids",
+      "Applying ice packs to the axilla and groin"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 48,
     "type": "mcq",
-    "stem": "The role of dendrites in neuronal communication is BEST described as:",
+    "stem": "A patient with cold exposure hypothermia has their limbs kept close to the body as part of nursing management. The PRIMARY rationale for this intervention is:",
     "options": [
-      "Transmitting electrical impulses away from the cell body",
-      "Receiving incoming signals from other neurons or sensory receptors",
-      "Releasing neurotransmitters into the synaptic cleft",
-      "Producing the myelin sheath for insulation"
+      "To prevent deep vein thrombosis in the lower extremities",
+      "To reduce the surface area exposed to the cold environment and minimise further heat loss",
+      "To facilitate venous return and improve cardiac output",
+      "To prevent pressure injuries from cold-induced vasoconstriction"
     ],
     "answer": "B"
   },
   {
     "id": 49,
     "type": "mcq",
-    "stem": "A patient newly started on an antipsychotic medication complains of stiffness and tremors. The nurse recognises these as extrapyramidal side effects caused by blockade of which neurotransmitter receptor?",
+    "stem": "CASE STUDY: A nurse is preparing a teaching session on fever for student nurses. She explains that pyrexia can also be referred to by two other terms. What are the correct alternative names for pyrexia?",
     "options": [
-      "Serotonin receptors",
-      "GABA receptors",
-      "Acetylcholine receptors",
-      "Dopamine receptors"
+      "Hyperthermia and hyperpyrexia",
+      "Hypothermia and afebrile state",
+      "Hyperthermia or fever",
+      "Constant fever and relapsing fever"
     ],
-    "answer": "D"
+    "answer": "C"
   },
   {
     "id": 50,
     "type": "mcq",
-    "stem": "CASE STUDY: A 28-year-old woman with newly diagnosed epilepsy is started on sodium valproate, a drug that increases GABA activity. Her sister asks the nurse how GABA reduces seizure activity. The BEST explanation is:",
+    "stem": "CASE STUDY (continued from Q49): A student nurse asks what distinguishes hyperpyrexia from regular pyrexia. The correct response is:",
     "options": [
-      "GABA excites more neurons to create a competing signal that stops seizures",
-      "GABA inhibits neuronal activity, reducing the excessive electrical discharges seen in seizures",
-      "GABA breaks down excess glutamate that would otherwise cause hyperexcitability",
-      "GABA enhances dopamine signalling to stabilise mood and prevent seizures"
+      "Hyperpyrexia occurs only in children; pyrexia occurs in adults",
+      "Hyperpyrexia is a very high fever specifically above 41°C",
+      "Hyperpyrexia involves shivering; pyrexia does not",
+      "Hyperpyrexia is caused by infection only; pyrexia has many causes"
     ],
     "answer": "B"
   },
   {
     "id": 51,
     "type": "fitb",
-    "stem": "The nervous system develops from the embryonic _______________.",
-    "answer": "neural tube",
+    "stem": "The organ responsible for regulation of internal body temperature (thermoregulation) is the _______________.",
+    "answer": "hypothalamus",
     "acceptableAnswers": [
-      "neural tube"
+      "hypothalamus"
     ]
   },
   {
     "id": 52,
     "type": "fitb",
-    "stem": "The two main components of the central nervous system are the brain and the _______________.",
-    "answer": "spinal cord",
+    "stem": "The normal body temperature range in adults is between _______________ and 37.2 degrees Celsius.",
+    "answer": "36.5",
     "acceptableAnswers": [
-      "spinal cord"
+      "36.5",
+      "36.5°C"
     ]
   },
   {
     "id": 53,
     "type": "fitb",
-    "stem": "The fatty layer covering many axons that insulates them and speeds up electrical signal transmission is called the _______________ sheath.",
-    "answer": "myelin",
+    "stem": "A body temperature above the usual range is called pyrexia, hyperthermia, or _______________. A very high fever above 41°C is specifically called hyperpyrexia.",
+    "answer": "fever",
     "acceptableAnswers": [
-      "myelin"
+      "fever"
     ]
   },
   {
     "id": 54,
     "type": "fitb",
-    "stem": "Gaps in the myelin sheath that allow signals to jump rapidly along the axon are called Nodes of _______________.",
-    "answer": "Ranvier",
+    "stem": "CASE STUDY: A 60-year-old woman rescued from a flooding incident arrives at the emergency unit. Her temperature is 29°C, she has waxy pale skin, decreased urinary output, and lacks muscle coordination. Her hypothermia is classified as _______________ hypothermia.",
+    "answer": "moderate",
     "acceptableAnswers": [
-      "Ranvier"
+      "moderate"
     ]
   },
   {
     "id": 55,
     "type": "fitb",
-    "stem": "The type of conduction in which a nerve impulse jumps between Nodes of Ranvier rather than travelling continuously along the axon is called _______________ conduction.",
-    "answer": "saltatory",
+    "stem": "Mild hypothermia is defined as a core body temperature between 32°C and _______________°C.",
+    "answer": "35",
     "acceptableAnswers": [
-      "saltatory"
+      "35",
+      "35°C"
     ]
   },
   {
     "id": 56,
     "type": "fitb",
-    "stem": "Neurotransmitters are stored in the axon terminal inside small sacs called synaptic _______________.",
-    "answer": "vesicles",
+    "stem": "The formula for converting Celsius to Fahrenheit is: F = (C × 9/5) + _______________.",
+    "answer": "32",
     "acceptableAnswers": [
-      "vesicles",
-      "synaptic vesicles"
+      "32"
     ]
   },
   {
     "id": 57,
     "type": "fitb",
-    "stem": "CASE STUDY: A patient with chronic low mood, insomnia, and loss of appetite is referred to psychiatry. The doctor explains that a deficiency in _______________ has been linked to depression and anxiety.",
-    "answer": "serotonin",
+    "stem": "During the onset phase of fever, nursing measures are designed to decrease _______________ .",
+    "answer": "heat loss",
     "acceptableAnswers": [
-      "serotonin",
-      "5-HT",
-      "5-hydroxytryptamine"
+      "heat loss"
     ]
   },
   {
     "id": 58,
     "type": "fitb",
-    "stem": "The neurotransmitter described as the MAIN excitatory neurotransmitter of the CNS, where excess causes neurotoxicity, is _______________.",
-    "answer": "glutamate",
+    "stem": "Vasoconstriction decreases heat loss by making the blood vessels under the skin become _______________, leading to decreased blood flow to the skin.",
+    "answer": "narrower",
     "acceptableAnswers": [
-      "glutamate"
+      "narrower",
+      "constricted",
+      "more narrow"
     ]
   },
   {
     "id": 59,
     "type": "fitb",
-    "stem": "Glial cells that produce myelin in the peripheral nervous system are called _______________ cells.",
-    "answer": "Schwann",
+    "stem": "CASE STUDY: A nurse assesses a febrile patient and notes profuse sweating, flushed skin, and decreased shivering. She correctly identifies these as signs of the _______________ phase of fever.",
+    "answer": "defervescence",
     "acceptableAnswers": [
-      "Schwann",
-      "Schwann cells"
+      "defervescence",
+      "fever abatement",
+      "flush phase"
     ]
   },
   {
     "id": 60,
     "type": "fitb",
-    "stem": "The subdivision of the autonomic nervous system that prepares the body for 'fight or flight' during stress is called the _______________ nervous system.",
-    "answer": "sympathetic",
+    "stem": "Heat loss through infrared rays transferred from one object to another without physical contact is called _______________.",
+    "answer": "radiation",
     "acceptableAnswers": [
-      "sympathetic"
+      "radiation"
     ]
   },
   {
     "id": 61,
     "type": "fitb",
-    "stem": "Neurons that connect other neurons within the CNS and do not directly receive sensory input or send motor output are called _______________.",
-    "answer": "interneurons",
+    "stem": "The two main alterations in body temperature described in the notes are pyrexia and _______________.",
+    "answer": "hypothermia",
     "acceptableAnswers": [
-      "interneurons",
-      "association neurons",
-      "relay neurons"
+      "hypothermia"
     ]
   },
   {
     "id": 62,
     "type": "fitb",
-    "stem": "Reduced levels of _______________ in the brain are specifically associated with the motor symptoms of Parkinson's disease.",
-    "answer": "dopamine",
+    "stem": "In nursing management of hypothermia, the minimum fluid intake recommended for febrile adults to prevent dehydration is at least _______________ ml per day.",
+    "answer": "2000",
     "acceptableAnswers": [
-      "dopamine",
-      "dopamine (DA)"
+      "2000",
+      "2000ml",
+      "2 litres"
     ]
   },
   {
     "id": 63,
     "type": "fitb",
-    "stem": "Supportive cells of the nervous system that do not conduct impulses but provide structural support, supply nutrients, and form myelin are called _______________ or glial cells.",
-    "answer": "neuroglia",
+    "stem": "CASE STUDY: A student nurse asks her preceptor to explain why temperature in infants should be assessed after pulse and respiration. The preceptor explains that temperature-taking can be _______________ and the discomfort can increase heart rate and pulse rate, making those readings inaccurate.",
+    "answer": "distressing",
     "acceptableAnswers": [
-      "neuroglia",
-      "glia",
-      "glial cells"
+      "distressing",
+      "uncomfortable",
+      "distressing and uncomfortable"
     ]
   },
   {
     "id": 64,
     "type": "fitb",
-    "stem": "CASE STUDY: A 72-year-old woman with advanced Alzheimer's disease is unable to recall her grandchildren's names or learn any new information. The nurse understands that this memory deficit is primarily linked to a deficiency of _______________, a neurotransmitter involved in memory and learning.",
-    "answer": "acetylcholine",
+    "stem": "Intermittent fever is characterised by body temperature that alternates at regular intervals between periods of fever and periods of normal or subnormal temperature, as seen in _______________.",
+    "answer": "malaria",
     "acceptableAnswers": [
-      "acetylcholine",
-      "ACh"
+      "malaria"
     ]
   },
   {
     "id": 65,
     "type": "fitb",
-    "stem": "In synaptic transmission, after neurotransmitters bind to their postsynaptic receptors, their action can be terminated by reuptake, enzymatic degradation, or _______________ away from the synapse.",
-    "answer": "diffusion",
+    "stem": "The rectal route of temperature measurement is described as reliable but is higher than _______________ temperature.",
+    "answer": "oral",
     "acceptableAnswers": [
-      "diffusion"
+      "oral"
     ]
   },
   {
     "id": 66,
     "type": "fitb",
-    "stem": "The functional units of the nervous system, responsible for receiving, processing, and transmitting impulses, are called _______________.",
-    "answer": "neurons",
+    "stem": "The process of losing heat through the conversion of water to gas, for example during sweating or swimming on a hot day, is called _______________.",
+    "answer": "evaporation",
     "acceptableAnswers": [
-      "neurons",
-      "nerve cells"
+      "evaporation"
     ]
   },
   {
     "id": 67,
     "type": "fitb",
-    "stem": "The subdivision of the autonomic nervous system that promotes 'rest and digest' functions by calming the body is called the _______________ nervous system.",
-    "answer": "parasympathetic",
+    "stem": "CASE STUDY: A patient post-cardiac surgery is placed on deliberate cooling to reduce tissue oxygen demand. This type of hypothermia, intentionally performed during surgery, is classified as _______________ hypothermia.",
+    "answer": "induced",
     "acceptableAnswers": [
-      "parasympathetic"
+      "induced"
     ]
   },
   {
     "id": 68,
     "type": "fitb",
-    "stem": "CASE STUDY: A nursing student presents a seminar on a condition where the body's immune system attacks the myelin produced by oligodendrocytes in the CNS, leading to slowed or blocked nerve conduction. The disease being described is _______________ sclerosis.",
-    "answer": "multiple",
+    "stem": "Heat stroke differs from heat exhaustion in that heat stroke patients often do NOT _______________, have a very high temperature, and can be delirious or unconscious.",
+    "answer": "sweat",
     "acceptableAnswers": [
-      "multiple"
+      "sweat",
+      "perspire"
     ]
   },
   {
     "id": 69,
     "type": "fitb",
-    "stem": "The branch-like extensions from the neuron's cell body that receive incoming electrical signals from other neurons are called _______________.",
-    "answer": "dendrites",
+    "stem": "Hormonal thermogenesis involves the _______________ gland releasing hormones that increase body metabolism, thereby increasing energy and heat production.",
+    "answer": "thyroid",
     "acceptableAnswers": [
-      "dendrites"
+      "thyroid"
     ]
   },
   {
     "id": 70,
     "type": "fitb",
-    "stem": "Norepinephrine affects attention, stress response, and mood, and its imbalance is associated with _______________ and anxiety.",
-    "answer": "depression",
+    "stem": "A client who has fever is described as _______________, while a client who does not have fever is described as afebrile.",
+    "answer": "febrile",
     "acceptableAnswers": [
-      "depression",
-      "depressive disorder",
-      "major depressive disorder"
+      "febrile"
     ]
   }
 ]
