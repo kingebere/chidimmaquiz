@@ -2,791 +2,804 @@
   {
     "id": 1,
     "type": "mcq",
-    "stem": "A nurse is educating a patient about carbohydrate metabolism. Which statement BEST describes the primary reason glucose is considered the most physiologically significant monosaccharide?",
+    "stem": "A patient with liver cirrhosis develops ascites, jaundice, and peripheral oedema. The nurse understands these findings are MOST directly related to which system involvement documented in cirrhosis?",
     "options": [
-      "It is the sweetest of all naturally occurring sugars",
-      "It is the form of sugar normally found in the bloodstream and serves as an immediate energy source for cells and tissues",
-      "It cannot be broken down further by digestive enzymes",
-      "It is found exclusively in fruits and vegetables"
+      "Endocrine system",
+      "Hepatic system",
+      "Hematologic system",
+      "Central nervous system"
     ],
     "answer": "B"
   },
   {
     "id": 2,
     "type": "mcq",
-    "stem": "During a nutritional assessment of a 3-month-old infant, the dietitian recommends a maltose-containing formula combined with dextrin. What is the PRIMARY rationale for this combination in infant diets?",
+    "stem": "Which of the following is considered the DEFINITIVE diagnostic test for cirrhosis because it detects destruction and fibrosis of hepatic tissue?",
     "options": [
-      "Maltose enhances fat absorption when combined with dextrin",
-      "Maltose is readily soluble and not readily fermented in the digestive tract, making it suitable for sensitive infant digestive systems",
-      "Dextrin converts maltose into fructose, which infants digest more easily",
-      "The combination increases the caloric density without increasing osmolarity"
+      "CT scan",
+      "Liver biopsy",
+      "Ultrasound of the abdomen",
+      "Serum ALT and AST levels"
     ],
     "answer": "B"
   },
   {
     "id": 3,
     "type": "mcq",
-    "stem": "A nursing student is studying disaccharide hydrolysis. When sucrose is hydrolyzed, which two monosaccharides are produced?",
+    "stem": "A 48-year-old male with a 20-year history of heavy alcohol use presents with flapping tremor (asterixis), slurred speech, and mental changes. These findings are MOST consistent with which complication of cirrhosis?",
     "options": [
-      "Glucose and galactose",
-      "Glucose and maltose",
-      "Glucose and fructose",
-      "Fructose and galactose"
+      "Hepatic renal syndrome",
+      "Portal hypertension",
+      "Hepatic encephalopathy",
+      "Variceal bleeding"
     ],
     "answer": "C"
   },
   {
     "id": 4,
     "type": "mcq",
-    "stem": "A 6-week-old infant presents with jaundice, failure to thrive, enlarged liver and spleen, and cataracts. Urine testing reveals galactose. The nurse correctly identifies this condition as resulting from:",
+    "stem": "The most common type of cirrhosis, Laennec's cirrhosis, accounts for what percentage of cirrhotic patients?",
     "options": [
-      "Deficiency of amylase leading to incomplete starch digestion",
-      "Absence of galactose-1-phosphate transferase (GALT), preventing conversion of galactose to glucose",
-      "Excessive lactose intake causing osmotic diarrhea",
-      "Congenital absence of the pancreatic duct"
+      "5% to 10%",
+      "10% to 15%",
+      "15% to 20%",
+      "30% to 50%"
     ],
-    "answer": "B"
+    "answer": "D"
   },
   {
     "id": 5,
     "type": "mcq",
-    "stem": "According to nutritional science, which of the following CORRECTLY defines a disaccharide?",
+    "stem": "CASE STUDY: Mr. O., a 55-year-old banker, is admitted with complaints of progressive abdominal distension, generalised weakness, and yellowing of the eyes for 3 months. On assessment, the nurse notes spider angiomas, gynaecomastia, and testicular atrophy. His wife reports he has been forgetful and occasionally confused. Liver function tests reveal elevated AST, ALT, and bilirubin. Which system manifestation BEST explains the gynaecomastia and testicular atrophy?",
     "options": [
-      "A carbohydrate compound consisting of very many sugar units linked by glycosidic bonds",
-      "The simplest form of carbohydrate that cannot be hydrolyzed further",
-      "A compound formed by the condensation of two monosaccharide units",
-      "An organic molecule that yields glucose and fructose upon complete digestion"
+      "Hematologic system involvement",
+      "Endocrine system manifestation of cirrhosis",
+      "Central nervous system deterioration",
+      "Respiratory system compromise"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 6,
     "type": "mcq",
-    "stem": "A patient with known lactose intolerance asks the nurse why consuming milk causes diarrhea. The nurse's BEST response is based on the understanding that:",
+    "stem": "CASE STUDY (continued from Q5): Mr. O.'s blood ammonia level is elevated. The nurse monitors him closely for which specific neurological finding that is pathognomonic of hepatic encephalopathy?",
     "options": [
-      "Lactose is rapidly fermented in the small intestine, producing excessive gas",
-      "Undigested lactose residue in the large intestine exerts a laxative action, and excessive amounts may cause diarrhea",
-      "Lactose directly stimulates the enteric nervous system, accelerating peristalsis",
-      "Galactose accumulates in the colon and draws water into the intestinal lumen"
+      "Peripheral neuropathy and paraesthesia",
+      "Asterixis (flapping tremor)",
+      "Nuchal rigidity and photophobia",
+      "Unilateral facial drooping"
     ],
     "answer": "B"
   },
   {
     "id": 7,
     "type": "mcq",
-    "stem": "The WHO defines health as:",
+    "stem": "Serum AST and ALT are elevated in liver disease because they are liver enzymes released when there is:",
     "options": [
-      "The absence of disease or physical infirmity in an individual",
-      "A state of complete physical, mental and social well-being and not merely the absence of disease or infirmity",
-      "The optimal functioning of all organ systems in the human body",
-      "A condition characterized by normal BMI, adequate sleep, and regular exercise"
+      "Obstruction of the biliary duct system",
+      "Liver injury or inflammation",
+      "Suppression of bone marrow production",
+      "Derangement of serum protein and albumin levels"
     ],
     "answer": "B"
   },
   {
     "id": 8,
     "type": "mcq",
-    "stem": "A nurse explains to a student that ATP is produced in body cells from glucose. Through which process is this energy production primarily achieved?",
+    "stem": "A patient's serum bilirubin is reported as 1.8 mg/dL. The nurse correctly interprets this result as:",
     "options": [
-      "Glycogenolysis",
-      "Gluconeogenesis",
-      "Cellular respiration",
-      "Oxidative phosphorylation of fatty acids"
+      "Within normal range; no intervention required",
+      "Slightly below normal; monitor for haemolysis",
+      "Elevated; above the normal upper limit of 1.2 mg/dL",
+      "Critically low; indicating hepatic failure"
     ],
     "answer": "C"
   },
   {
     "id": 9,
     "type": "mcq",
-    "stem": "During starvation, a patient's body begins breaking down complex molecules to release energy. This metabolic process is correctly termed:",
+    "stem": "Which radiological investigation uses sound waves, is inexpensive and non-invasive, and is MOST commonly used to detect gallbladder stones and liver pathology?",
     "options": [
-      "Anabolism",
-      "Metabolism",
-      "Catabolism",
-      "Glycolysis"
+      "CT scan",
+      "MRI",
+      "Ultrasonogram (USG)",
+      "Radio-isotope scan"
     ],
     "answer": "C"
   },
   {
     "id": 10,
     "type": "mcq",
-    "stem": "A nutritionist classifies iron, iodine, calcium, and zinc under inorganic elements in food. Which of the following is INCORRECTLY classified in this category?",
+    "stem": "Endoscopic retrograde cholangiopancreatography (ERCP) is PRIMARILY used in the diagnosis of which conditions?",
     "options": [
-      "Phosphorus",
-      "Sodium",
-      "Carbohydrates",
-      "Cobalt"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": 11,
-    "type": "mcq",
-    "stem": "A nurse assessing a malnourished child notes listlessness, pale and sallow skin, undersized body, flabby muscles, and dull eyes. These findings are MOST consistent with:",
-    "options": [
-      "Good nutritional status with temporary illness",
-      "Moderate nutritional status requiring supplementation",
-      "Poor nutritional status",
-      "Adequate nutritional status with dehydration"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": 12,
-    "type": "mcq",
-    "stem": "Lactose content in human milk versus cow's milk per 100ml is approximately:",
-    "options": [
-      "4.8g in human milk and 6.8g in cow's milk",
-      "6.8g in human milk and 4.8g in cow's milk",
-      "5.5g in human milk and 5.5g in cow's milk",
-      "6.8g in both human and cow's milk"
+      "Hepatitis B viral load monitoring and ammonia level detection",
+      "Tumours, gallbladder stone obstructions, and bile and pancreatic duct pathology",
+      "Autoimmune antibodies in autoimmune hepatitis",
+      "Bone marrow suppression in advanced liver disease"
     ],
     "answer": "B"
   },
   {
-    "id": 13,
+    "id": 11,
     "type": "mcq",
-    "stem": "A dietitian counsels a mother on the biological sources of sucrose. Which of the following is NOT a natural source of sucrose?",
+    "stem": "A cirrhotic patient has a prothrombin time significantly prolonged beyond normal. The nurse understands this is MOST likely because:",
     "options": [
-      "Sugar cane",
-      "Maple syrup",
-      "Mammalian milk",
-      "Sugar beets"
+      "The kidneys are failing to activate clotting factors",
+      "Chronic liver disease leads to impaired protein formation and decreased clotting factor production",
+      "Bone marrow suppression has depleted platelet stores",
+      "Elevated bilirubin directly inhibits the clotting cascade"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 12,
+    "type": "mcq",
+    "stem": "CASE STUDY: A 39-year-old woman is admitted with jaundice, pruritus, and fatigue. Her history reveals no alcohol use, but she was diagnosed with primary biliary cholangitis (PBC) 2 years ago. Her liver biopsy confirms cirrhotic changes. Which category of cirrhosis does this patient MOST likely have?",
+    "options": [
+      "Laennec's cirrhosis",
+      "Post-necrotic cirrhosis",
+      "Biliary cirrhosis",
+      "Idiopathic cirrhosis"
     ],
     "answer": "C"
   },
   {
+    "id": 13,
+    "type": "mcq",
+    "stem": "CASE STUDY (continued from Q12): During nursing assessment, the nurse checks the patient's skin, gums, stools, and vomitus for which priority concern in cirrhosis?",
+    "options": [
+      "Signs of infection and elevated temperature",
+      "Evidence of bleeding",
+      "Presence of oedema and skin turgor",
+      "Level of consciousness and orientation"
+    ],
+    "answer": "B"
+  },
+  {
     "id": 14,
     "type": "mcq",
-    "stem": "In the context of nutrition, which statement CORRECTLY describes the process of absorption?",
+    "stem": "Which type of liver disease is the LEADING cause of liver disease in Canada and globally and is directly linked to obesity?",
     "options": [
-      "It is the breakdown of food into smaller particles by mechanical and chemical means",
-      "It is the process by which nutrients are carried into the circulation system and delivered to cells",
-      "It refers to the cellular utilization of nutrients to produce energy and structural materials",
-      "It involves the elimination of undigested food materials from the gastrointestinal tract"
+      "Alcoholic hepatitis",
+      "Fatty liver disease",
+      "Primary biliary cholangitis",
+      "Haemochromatosis"
     ],
     "answer": "B"
   },
   {
     "id": 15,
     "type": "mcq",
-    "stem": "A nursing instructor asks students which carbohydrate class includes compounds that consist of very many sugar units. The CORRECT answer is:",
+    "stem": "A patient with suspected autoimmune hepatitis would MOST likely have which specific blood test ordered to confirm the diagnosis?",
     "options": [
-      "Monosaccharides",
-      "Disaccharides",
-      "Polysaccharides",
-      "Oligosaccharides"
+      "Blood levels of ammonia",
+      "Viral load for hepatitis B and C",
+      "Blood for autoimmune antibodies",
+      "Pancreatic lipase levels"
     ],
     "answer": "C"
   },
   {
     "id": 16,
     "type": "mcq",
-    "stem": "A patient undergoing nutritional assessment is described as having an 'incorrect amount of one or more nutrients' in their diet. The nurse correctly identifies this condition as:",
+    "stem": "Respiratory symptoms in cirrhosis occur late in the disease as a result of hepatic insufficiency and portal hypertension. Which mechanism DIRECTLY causes hypoxia in these patients?",
     "options": [
-      "Nutritional deficiency",
-      "Malnutrition",
-      "Undernutrition",
-      "Micronutrient deficiency"
+      "Decreased red blood cell production leading to anaemia",
+      "Pleural effusion and limited thoracic expansion due to abdominal ascites interfering with efficient gas exchange",
+      "Elevated ammonia levels impairing the respiratory centre in the brain",
+      "Pulmonary fibrosis secondary to hepatic toxin accumulation"
     ],
     "answer": "B"
   },
   {
     "id": 17,
     "type": "mcq",
-    "stem": "Galactose differs from glucose and fructose in that it:",
+    "stem": "Which of the following genetic conditions, caused by defective gene inheritance, can present as liver disease from infancy and is listed as a genetic cause of liver disease?",
     "options": [
-      "Is a trisaccharide rather than a monosaccharide",
-      "Does not occur freely in nature and is only produced during digestion of lactose",
-      "Can be absorbed directly through the gastric mucosa without digestion",
-      "Is the primary monosaccharide found in the bloodstream"
+      "Primary biliary cholangitis and autoimmune hepatitis",
+      "Haemochromatosis, Wilson disease, tyrosinaemia, and glycogen storage disease",
+      "Hepatitis A, B, and C infections",
+      "Alcoholic cirrhosis and drug-induced hepatitis"
     ],
     "answer": "B"
   },
   {
     "id": 18,
     "type": "mcq",
-    "stem": "The enzyme responsible for producing maltose from starch in the body is:",
+    "stem": "A complete blood count in a patient with advanced liver disease shows decreased WBC, RBC, and platelets. The nurse attributes this PRIMARILY to:",
     "options": [
-      "Diastase",
-      "Lactase",
-      "Sucrase",
-      "Amylase"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": 19,
-    "type": "mcq",
-    "stem": "A nurse is classifying nutrients for a health education session. Which grouping CORRECTLY separates organic from inorganic food components?",
-    "options": [
-      "Organic: proteins, fats, carbohydrates, some vitamins; Inorganic: water and minerals",
-      "Organic: vitamins, minerals, water; Inorganic: proteins, fats, carbohydrates",
-      "Organic: carbohydrates, minerals, fats; Inorganic: vitamins, proteins, water",
-      "Organic: water, proteins, vitamins; Inorganic: fats, carbohydrates, minerals"
-    ],
-    "answer": "A"
-  },
-  {
-    "id": 20,
-    "type": "mcq",
-    "stem": "The general chemical formula of carbohydrates is:",
-    "options": [
-      "CâHâO",
-      "CHâO",
-      "CâHââOâ",
-      "CHOâ"
+      "Excessive haemolysis caused by elevated bilirubin",
+      "Suppression of bone marrow, which is the seat of production of these cells",
+      "Nutritional deficiency of iron and vitamin B12",
+      "Splenomegaly destroying mature blood cells"
     ],
     "answer": "B"
   },
   {
+    "id": 19,
+    "type": "mcq",
+    "stem": "CASE STUDY: A 62-year-old man presents with a 6-month history of anorexia, constipation, and weight loss. Physical examination reveals hepatomegaly, ascites, and peripheral oedema. He is a known chronic hepatitis C patient. Liver biopsy reveals extensive fibrosis. Which type of cirrhosis is MOST associated with this aetiology?",
+    "options": [
+      "Laennec's cirrhosis",
+      "Pigment cirrhosis",
+      "Post-necrotic cirrhosis",
+      "Idiopathic cirrhosis"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 20,
+    "type": "mcq",
+    "stem": "CASE STUDY (continued from Q19): During nursing assessment, the nurse weighs the patient and measures abdominal girth daily. Which nursing assessment parameter is this SPECIFICALLY monitoring?",
+    "options": [
+      "Mentation and level of consciousness",
+      "Bleeding tendencies",
+      "Fluid retention",
+      "Risk of injury"
+    ],
+    "answer": "C"
+  },
+  {
     "id": 21,
     "type": "mcq",
-    "stem": "A 45-year-old patient presents with elevated blood galactose levels, cataracts, and mental retardation. The nurse reviewing this patient's history suspects which congenital metabolic disorder?",
+    "stem": "GGT (Gamma glutamyl transferase) and Alkaline Phosphatase are liver enzymes raised in liver disease that are released from which specific structure?",
     "options": [
-      "Phenylketonuria",
-      "Galactosemia",
-      "Lactose intolerance",
-      "Fructosemia"
+      "Hepatocytes damaged by viral infection",
+      "Bile ducts",
+      "Kupffer cells lining hepatic sinusoids",
+      "Portal vein endothelium"
     ],
     "answer": "B"
   },
   {
     "id": 22,
     "type": "mcq",
-    "stem": "A community health nurse is assessing a patient's nutritional status. Which finding is NOT consistent with good nutritional status?",
+    "stem": "Which investigation involves injecting a radioactive isotope into the bloodstream, which is then taken up by liver cells, and is particularly useful in demonstrating liver tumours?",
     "options": [
-      "Smooth and glossy hair",
-      "Reddish pink colour of eyelids and membranes of the mouth",
-      "Lustreless and rough hair",
-      "Well-developed and firm muscles"
+      "MRI",
+      "CT scan",
+      "ERCP",
+      "Radio-isotope scan"
     ],
-    "answer": "C"
+    "answer": "D"
   },
   {
     "id": 23,
     "type": "mcq",
-    "stem": "Which of the following BEST describes the role of a dietitian in healthcare?",
+    "stem": "A nurse reviewing the history of a newly admitted patient notes unprotected sexual intercourse, use of shared contaminated needles, and history of blood transfusion. These risk factors raise suspicion for which type of liver disease?",
     "options": [
-      "A professional who prescribes medications to manage diet-related diseases",
-      "A person who applies the science of nutrition to the feeding of individuals and groups in both health and disease",
-      "A technician who measures body composition and calculates BMI",
-      "A healthcare provider who exclusively manages patients with eating disorders"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 24,
-    "type": "mcq",
-    "stem": "In the manufacturing of beer, which enzyme present in sprouting grains converts starch to maltose?",
-    "options": [
-      "Amylase",
-      "Lactase",
-      "Diastase",
-      "Maltase"
+      "Primary biliary cholangitis",
+      "Drug-induced hepatitis",
+      "Chronic infective liver disease caused by hepatitis B or C",
+      "Wilson disease and haemochromatosis"
     ],
     "answer": "C"
   },
   {
-    "id": 25,
+    "id": 24,
     "type": "mcq",
-    "stem": "A nurse explains to a group of nursing students that during growth, the predominant type of metabolism is:",
+    "stem": "A female patient with cirrhosis reports menstrual irregularities and loss of axillary hair. The nurse correctly relates these findings to which system manifestation?",
     "options": [
-      "Catabolism, because energy is needed for tissue breakdown",
-      "Anabolism, because complex molecules are synthesized from simpler ones",
-      "Glycolysis, because glucose is rapidly consumed",
-      "Lipolysis, because fats are mobilized for energy"
+      "Hematologic involvement causing anaemia",
+      "Endocrine manifestation of cirrhosis",
+      "Skin manifestations including severe pruritus",
+      "Central nervous system involvement"
     ],
     "answer": "B"
   },
   {
+    "id": 25,
+    "type": "mcq",
+    "stem": "The nurse understands that derangement of blood protein and albumin levels in liver disease is significant because these levels are indicative of:",
+    "options": [
+      "The degree of biliary obstruction",
+      "The risk of developing autoimmune antibodies",
+      "Healthy functioning of the liver",
+      "The extent of bone marrow suppression"
+    ],
+    "answer": "C"
+  },
+  {
     "id": 26,
     "type": "mcq",
-    "stem": "Which of the following correctly lists the three mechanical processes involved in digestion?",
+    "stem": "CASE STUDY: A 45-year-old woman with liver cirrhosis is being assessed. The nurse notes she is drowsy, confused, and has asterixis. Blood ammonia is 120 Âµmol/L (elevated). Which nursing assessment priority is MOST critical at this moment?",
     "options": [
-      "Chewing, chemical hydrolysis, and enzymatic degradation",
-      "Chewing, swallowing, and enzymatic secretion",
-      "Chewing of food, swallowing of food, churning action in the stomach, and rhythmic contraction of the intestinal tract",
-      "Peristalsis, segmentation, and mass movement only"
+      "Measuring abdominal girth and weighing the patient",
+      "Checking skin, gums, and stools for bleeding",
+      "Assessing level of consciousness frequently and observing for changes in behaviour and personality",
+      "Monitoring intake and output for fluid retention"
     ],
     "answer": "C"
   },
   {
     "id": 27,
     "type": "mcq",
-    "stem": "Fructose is produced along with glucose when which disaccharide is hydrolyzed by heat and acid?",
+    "stem": "CASE STUDY (continued from Q26): The elevated ammonia in this patient results from the liver's failure to perform which function?",
     "options": [
-      "Lactose",
-      "Maltose",
-      "Sucrose",
-      "Trehalose"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": 28,
-    "type": "mcq",
-    "stem": "A nutritional assessment tool incorporates anthropometrics. Which of the following is NOT an anthropometric measurement?",
-    "options": [
-      "Height",
-      "Weight",
-      "BMI",
-      "Serum albumin level"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": 29,
-    "type": "mcq",
-    "stem": "A nurse explains the psychological function of food to a patient. Which statement BEST reflects this function?",
-    "options": [
-      "Food provides macronutrients that support cellular respiration and ATP production",
-      "Food satisfies emotional needs such as a sense of security, love, and attention; sharing food is a token of friendship and acceptance",
-      "Food regulates hormonal activity and supports immune system function",
-      "Food builds and repairs body tissue through protein synthesis"
+      "Synthesising clotting factors from vitamin K",
+      "Converting ammonia to urea for excretion â a detoxification function",
+      "Producing bile salts necessary for fat digestion",
+      "Storing glycogen and releasing glucose when needed"
     ],
     "answer": "B"
   },
   {
+    "id": 28,
+    "type": "mcq",
+    "stem": "Which of the following CORRECTLY describes the MRI as a diagnostic tool in liver disease?",
+    "options": [
+      "It uses sound waves and is the most inexpensive method for liver assessment",
+      "It injects a radio-isotope to detect liver tumours via cellular uptake",
+      "It provides a clearer imaging study to look at damaged liver tissues for pathological clues",
+      "It uses an endoscope to visualise bile and pancreatic ducts directly"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 29,
+    "type": "mcq",
+    "stem": "When the liver is required to detoxify alcohol continuously and liver cells are overwhelmed, the cells may be destroyed or altered, resulting in which progressive sequence?",
+    "options": [
+      "Fatty liver â alcoholic hepatitis â cirrhosis",
+      "Cirrhosis â fatty liver â hepatic encephalopathy",
+      "Alcoholic hepatitis â fatty liver â hepatocellular carcinoma",
+      "Fatty liver â hepatic encephalopathy â portal hypertension"
+    ],
+    "answer": "A"
+  },
+  {
     "id": 30,
     "type": "mcq",
-    "stem": "A patient asks the nurse what makes sucrose the most common form of sugar in the diet. The BEST response is:",
+    "stem": "Cholecystography and cholangiography are imaging studies used specifically to visualise which structures?",
     "options": [
-      "It is the only disaccharide that occurs naturally in plant foods",
-      "It is a very inexpensive and common form of sugar; purified, it is a white crystalline, quite soluble, sweet material",
-      "It requires no digestion and is directly absorbed in the stomach",
-      "It contains the highest caloric density of all dietary sugars"
+      "The liver parenchyma and hepatic veins",
+      "The gallbladder and biliary duct system",
+      "The portal venous system and varices",
+      "Intrahepatic masses and metastases"
     ],
     "answer": "B"
   },
   {
     "id": 31,
     "type": "mcq",
-    "stem": "The nutritional status that can be described as 'good, fair, or poor' based on the balance between requirement and intake of nutrients is known as:",
+    "stem": "CASE STUDY: A 50-year-old man is admitted with jaundice and a history of working in an industrial chemical plant for 15 years. He has no alcohol use or viral hepatitis history. His liver biopsy reveals fibrosis. Which cause of cirrhosis MOST likely explains his condition?",
     "options": [
-      "Balanced diet index",
-      "Nutritional assessment score",
-      "Nutritional status",
-      "Dietary adequacy ratio"
+      "Chronic alcoholism",
+      "Repeated bouts of heart failure with liver congestion",
+      "Toxic hepatitis caused by prolonged exposure to environmental toxins",
+      "Genetic inheritance of haemochromatosis"
     ],
     "answer": "C"
   },
   {
     "id": 32,
     "type": "mcq",
-    "stem": "A patient's diet provides adequate amounts of all nutrients â not too much and not too little. This is BEST described as:",
+    "stem": "CASE STUDY (continued from Q31): A colleague argues that this patient's cirrhosis could be post-necrotic. Post-necrotic cirrhosis occurs in what percentage of cirrhotic patients?",
     "options": [
-      "Nutritional surplus",
-      "A balanced diet",
-      "Optimal dietary intake",
-      "A therapeutic diet"
+      "5% to 10%",
+      "10% to 30%",
+      "30% to 50%",
+      "15% to 20%"
     ],
     "answer": "B"
   },
   {
     "id": 33,
     "type": "mcq",
-    "stem": "Which monosaccharide, sometimes called dextrose or grape sugar, is widely distributed in nature and found in fruits, vegetables, the sap of trees, sweet corn, corn syrup, and honey?",
+    "stem": "A patient with liver disease has blood urea, creatinine, and electrolytes ordered. The nurse understands these tests are requested because liver disease may also be associated with:",
     "options": [
-      "Fructose",
-      "Galactose",
-      "Maltose",
-      "Glucose"
+      "Disturbed kidney function",
+      "Autoimmune antibody production",
+      "Bone marrow suppression and anaemia",
+      "Viral load monitoring in hepatitis"
     ],
-    "answer": "D"
+    "answer": "A"
   },
   {
     "id": 34,
     "type": "mcq",
-    "stem": "When assessing a newborn diagnosed with galactosemia, what dietary intervention should the nurse prioritize in the care plan?",
+    "stem": "The liver is described as the largest organ in the body and performs well over how many functions?",
     "options": [
-      "Increase glucose supplementation to compensate for energy deficit",
-      "Initiate a galactose-free diet immediately to prevent progression of the disorder",
-      "Provide lactose-enriched formula to stimulate GALT enzyme production",
-      "Restrict all carbohydrates and substitute with medium-chain triglycerides"
+      "50",
+      "75",
+      "100",
+      "150"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 35,
     "type": "mcq",
-    "stem": "A student nurse correctly identifies that carbohydrates primarily serve as a source of energy particularly for:",
+    "stem": "Splenoportal venography is a diagnostic procedure used in cirrhosis to visualise which specific structure?",
     "options": [
-      "Renal tubular reabsorption and hepatic detoxification",
-      "Brain function and physical activity",
-      "Hormonal synthesis and immune regulation",
-      "Bone mineralization and blood clotting"
+      "The gallbladder and biliary tree",
+      "The portal venous system",
+      "Intrahepatic masses and tumours",
+      "The hepatic arterial supply"
     ],
     "answer": "B"
   },
   {
     "id": 36,
     "type": "mcq",
-    "stem": "The physiological function of food that includes clotting of blood, maintenance of body temperature, and control of water balance falls under which category?",
+    "stem": "CASE STUDY: Nurse Ada is caring for a patient with liver cirrhosis on the medical ward. During her shift, she observes the patient vomiting blood (haematemesis). Which assessment finding would she MOST urgently correlate with this presentation?",
     "options": [
-      "Building the body",
-      "Providing energy",
-      "Regulating activities of the body",
-      "Improving resistance to disease"
+      "Elevated blood ammonia and confusion",
+      "Prolonged clotting time and bleeding tendencies from cirrhosis",
+      "Decreased urinary output and creatinine elevation",
+      "Rising bilirubin with increasing jaundice"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 37,
     "type": "mcq",
-    "stem": "Nutritional assessment is based on several components. Which of the following is a biochemical data parameter used in nutritional assessment?",
+    "stem": "CASE STUDY (continued from Q36): Nurse Ada's immediate nursing priority for this patient is to:",
     "options": [
-      "Head circumference",
-      "BMI",
-      "Levels of nutrients in the blood, urine, and feces",
-      "Food and nutrition-related history"
+      "Measure abdominal girth and document daily weight",
+      "Assess level of consciousness for hepatic encephalopathy",
+      "Maintain airway, assess vital signs, and notify the physician immediately",
+      "Review liver function tests and explain findings to the patient"
     ],
     "answer": "C"
   },
   {
     "id": 38,
     "type": "mcq",
-    "stem": "A nurse is explaining how maltose is formed in the body. Which of the following CORRECTLY describes this process?",
+    "stem": "Which of the following statements CORRECTLY describes percutaneous transhepatic cholangiography?",
     "options": [
-      "Maltose is formed by the direct condensation of two glucose units in the liver",
-      "Maltose is formed as an intermediate product of starch digestion through the action of amylase on starch",
-      "Maltose is synthesized in adipose tissue as an energy reserve",
-      "Maltose is produced during the fermentation of fructose by intestinal bacteria"
+      "It uses sound waves to detect gallbladder stones non-invasively",
+      "It differentiates intrahepatic from extrahepatic obstructive jaundice and discloses hepatic pathology and gallstones",
+      "It injects a radio-isotope to demonstrate liver tumour uptake",
+      "It aspirates hepatic tissue for microscopic examination"
     ],
     "answer": "B"
   },
   {
     "id": 39,
     "type": "mcq",
-    "stem": "A nurse describes digestion as the process that releases nutrients in forms the body can use by breaking up food in the intestinal tract. Which process FOLLOWS digestion in the use of food by the body?",
+    "stem": "Ascites in liver cirrhosis is characterised by accumulation of fluid in which compartment?",
     "options": [
-      "Utilisation",
-      "Metabolism",
-      "Absorption",
-      "Anabolism"
+      "Pleural cavity",
+      "Pericardial space",
+      "Abdomen",
+      "Retroperitoneal space"
     ],
     "answer": "C"
   },
   {
     "id": 40,
     "type": "mcq",
-    "stem": "The suffix '-hydrate' in the term carbohydrate indicates that:",
+    "stem": "A nurse is educating a newly diagnosed hepatitis B patient about preventing transmission. Which history item MOST directly raises suspicion for how this patient contracted the infection?",
     "options": [
-      "The molecule contains carbon atoms bonded to water molecules in a 1:1 ratio",
-      "Hydrogen and oxygen occur in the same proportion as in water (HâO)",
-      "Carbohydrates dissolve completely when combined with water",
-      "The molecule releases water when metabolized"
+      "Living in a damp environment with poor ventilation",
+      "Eating undercooked shellfish from a local market",
+      "Sharing contaminated needles with other drug users",
+      "Working in a chemical manufacturing facility"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 41,
     "type": "mcq",
-    "stem": "According to the classification of food functions, proteins, water, and minerals are specifically associated with which nutritional function?",
+    "stem": "CASE STUDY: A 33-year-old man with no known liver disease undergoes a routine check-up. Labs show AST 210 IU/L and ALT 185 IU/L (normal range 100â200 IU/L). His GGT and alkaline phosphatase are also elevated. He denies alcohol use but has been on long-term acetaminophen for chronic back pain. Which cause of liver disease BEST explains his enzyme elevation?",
     "options": [
-      "Furnishing heat and mechanical energy",
-      "Regulation of body processes",
-      "Building and repairing body tissue",
-      "Improving resistance to infection"
+      "Genetic haemochromatosis causing hepatic iron overload",
+      "Autoimmune primary biliary cholangitis",
+      "Drug and toxin-induced liver disease from acetaminophen overexposure",
+      "Infective hepatitis A from contaminated food"
     ],
     "answer": "C"
   },
   {
     "id": 42,
     "type": "mcq",
-    "stem": "A community health nurse conducts nutritional status assessments. A child with normal weight for height, healthy skin, clear eyes, smooth and glossy hair, and good appetite is BEST classified as having:",
+    "stem": "CASE STUDY (continued from Q41): The physician orders a liver biopsy. During pre-procedure teaching, the nurse correctly explains that the biopsy needle is guided into the liver with the help of:",
     "options": [
-      "Fair nutritional status",
-      "Good nutritional status",
-      "Adequate but borderline nutritional status",
-      "Nutritional surplus requiring dietary restriction"
+      "Ultrasonography alone",
+      "An endoscope inserted into the gastrointestinal tract",
+      "A CT scan",
+      "Radio-isotope imaging"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 43,
     "type": "mcq",
-    "stem": "Poor nutritional status may result from all of the following EXCEPT:",
+    "stem": "Which skin manifestation is MOST characteristic of liver cirrhosis and would require the nurse to assess for pruritus management?",
     "options": [
-      "Poor food selection",
-      "Irregularity in meal schedule",
-      "Adequate sleep and regular elimination",
-      "Inappropriate work-sleep balance"
+      "Petechiae and purpura from thrombocytopenia",
+      "Severe pruritus, extreme dryness, poor tissue turgor, abnormal pigmentation, and jaundice",
+      "Generalised maculopapular rash from autoimmune activation",
+      "Cyanosis from respiratory compromise and hypoxia"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 44,
     "type": "mcq",
-    "stem": "A patient's nutritional history reveals consumption of foods rich in fructose. Which of the following is NOT a dietary source of fructose?",
+    "stem": "The nurse recognises that primary cancer of the liver is relatively uncommon, but the liver is susceptible to secondary cancer because:",
     "options": [
-      "Honey",
-      "Nectar of flowers",
-      "Many fruits and vegetables",
-      "All mammalian milk"
+      "The liver produces hormones that promote tumour growth",
+      "The liver filters a high volume of blood that may carry cancer cells from other sites",
+      "Hepatitis viruses directly transform all liver cells into malignant cells",
+      "The portal vein delivers chemotherapy-resistant cancer cells from the pancreas"
     ],
-    "answer": "D"
+    "answer": "B"
   },
   {
     "id": 45,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A 28-year-old nursing mother visits a maternal health clinic. She reports that her 2-month-old infant becomes excessively gassy and has loose stools after every breastfeeding session. On assessment, the nurse notes the infant is not gaining weight appropriately. The nurse suspects the infant may have difficulty digesting a specific disaccharide in breast milk. Which disaccharide is MOST likely involved?",
+    "stem": "CASE STUDY: A nurse is performing a nursing assessment on a patient with cirrhosis who is being prepared for discharge. She assesses abdominal girth, checks for peripheral oedema, and reviews recent lab work showing low albumin and protein. Which nursing diagnosis is MOST appropriate for this patient?",
     "options": [
-      "Sucrose",
-      "Maltose",
-      "Lactose",
-      "Trehalose"
+      "Risk for infection related to altered immune response",
+      "Excess fluid volume related to portal hypertension and decreased albumin",
+      "Acute pain related to liver capsule distension",
+      "Impaired skin integrity related to jaundice and pruritus"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 46,
     "type": "mcq",
-    "stem": "CASE SCENARIO (continued from id 45): The disaccharide identified yields which two monosaccharides upon hydrolysis?",
+    "stem": "CASE STUDY (continued from Q45): The nurse explains to the student nurse why low albumin worsens ascites. The CORRECT physiological explanation is:",
     "options": [
-      "Glucose and fructose",
-      "Glucose and galactose",
-      "Two molecules of glucose",
-      "Galactose and fructose"
+      "Low albumin reduces bile production, increasing pressure in the biliary system",
+      "Low albumin reduces plasma oncotic pressure, causing fluid to shift from the intravascular space into the abdominal cavity",
+      "Low albumin impairs clotting factor synthesis, leading to haemorrhage into the peritoneum",
+      "Low albumin increases ammonia conversion, worsening hepatic encephalopathy"
     ],
     "answer": "B"
   },
   {
     "id": 47,
     "type": "mcq",
-    "stem": "CASE SCENARIO (continued from id 45): The nurse counsels the mother that the properties of the problematic sugar include all of the following EXCEPT:",
+    "stem": "Pancreatic lipase is assessed in patients with liver disease for which SPECIFIC reason?",
     "options": [
-      "It is relatively expensive compared to other disaccharides",
-      "It is less soluble than sucrose and maltose",
-      "It is more slowly digested than other disaccharides",
-      "It is the most readily fermented sugar in the digestive tract"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": 48,
-    "type": "mcq",
-    "stem": "CASE SCENARIO: A 55-year-old male patient is admitted with fatigue, weight loss, and poor wound healing. Nutritional assessment reveals a diet deficient in proteins and key micronutrients. His skin is pale, muscles are small and flabby, and he has no appetite. The nurse classifies his nutritional status as:",
-    "options": [
-      "Good nutritional status with acute illness overlay",
-      "Fair nutritional status",
-      "Poor nutritional status",
-      "Moderate malnutrition with compensated reserves"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": 49,
-    "type": "mcq",
-    "stem": "CASE SCENARIO (continued from id 48): The nurse develops a care plan for this patient. Which nutrient classification should be PRIORITIZED for building and repairing the patient's damaged body tissues?",
-    "options": [
-      "Carbohydrates and fats",
-      "Proteins, water, and minerals",
-      "Vitamins and trace elements only",
-      "Lipids and fat-soluble vitamins"
+      "To detect alcohol-induced liver failure",
+      "To rule out co-existing pancreatic inflammation",
+      "To estimate the degree of biliary obstruction",
+      "To confirm the presence of autoimmune hepatitis"
     ],
     "answer": "B"
   },
   {
+    "id": 48,
+    "type": "mcq",
+    "stem": "Which of the following CORRECTLY states the normal serum bilirubin range?",
+    "options": [
+      "0.1 to 0.5 mg/dL",
+      "0.3 to 1.2 mg/dL",
+      "1.5 to 3.0 mg/dL",
+      "2.0 to 4.5 mg/dL"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 49,
+    "type": "mcq",
+    "stem": "CASE STUDY: Mrs. F., a 41-year-old mother of three, is being assessed by a community health nurse. She has jaundice, dark urine, and clay-coloured stools. Her anti-mitochondrial antibody test is positive. Liver biopsy confirms bile duct destruction. Which specific liver disease does this presentation MOST suggest?",
+    "options": [
+      "Alcoholic cirrhosis (Laennec's)",
+      "Post-necrotic cirrhosis from viral hepatitis",
+      "Primary biliary cholangitis (PBC)",
+      "Glycogen storage disease"
+    ],
+    "answer": "C"
+  },
+  {
     "id": 50,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A 3-year-old child is brought to a pediatric clinic with the following findings: failure to thrive, jaundice, enlarged liver and spleen, cataracts, and galactose in the urine. Blood tests confirm elevated galactose levels. Which enzyme deficiency is responsible for this presentation?",
+    "stem": "CASE STUDY (continued from Q49): The nurse educating Mrs. F. explains that primary biliary cholangitis is caused by which mechanism?",
     "options": [
-      "Amylase",
-      "Lactase",
-      "Galactose-1-phosphate transferase (GALT)",
-      "Sucrase-isomaltase"
+      "Prolonged use of hepatotoxic medications",
+      "Recurrent bacterial infection of the biliary tract",
+      "The body's own immune system attacking the bile ducts, causing inflammation and scarring",
+      "Genetic defect in copper metabolism leading to copper accumulation in the liver"
     ],
     "answer": "C"
   },
   {
     "id": 51,
-    "type": "mcq",
-    "stem": "CASE SCENARIO (continued from id 50): The child in the scenario is started on a special diet. What is the cornerstone dietary management for this child's condition?",
-    "options": [
-      "High-protein, low-carbohydrate diet",
-      "Galactose-free diet to prevent further accumulation",
-      "Restriction of all disaccharides and supplementation with glucose",
-      "Lactose-supplemented formula to stimulate residual enzyme activity"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "The largest organ in the body is the _______________, which performs well over 100 functions necessary for survival.",
+    "answer": "liver",
+    "acceptableAnswers": [
+      "liver"
+    ]
   },
   {
     "id": 52,
-    "type": "mcq",
-    "stem": "CASE SCENARIO: A nurse is conducting a community nutrition education session. She explains that food has social functions. Which of the following is the BEST example of the social function of food?",
-    "options": [
-      "Food provides ATP through cellular respiration to power muscular activity",
-      "Special foods distributed as a benediction in religious ceremonies and feasts at births, marriages, and social milestones reflect food's role in community and cultural life",
-      "Food regulates body temperature through thermogenic nutrients",
-      "Food improves resistance to disease through immune-modulating vitamins"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "The DEFINITIVE test for cirrhosis that detects hepatic tissue destruction and fibrosis is liver _______________.",
+    "answer": "biopsy",
+    "acceptableAnswers": [
+      "biopsy",
+      "liver biopsy"
+    ]
   },
   {
     "id": 53,
-    "type": "mcq",
-    "stem": "Which of the following statements about maltose is FALSE?",
-    "options": [
-      "It is found in sweet potatoes, sprouting grains, and malted milk",
-      "It occurs freely and abundantly in nature",
-      "It yields two molecules of glucose upon hydrolysis",
-      "It is manufactured from starch by the action of diastase"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "CASE STUDY: A 57-year-old man with liver cirrhosis develops a flapping tremor of the hands when arms are outstretched, confusion, and personality changes. The nurse documents this as _______________, a sign of hepatic encephalopathy.",
+    "answer": "asterixis",
+    "acceptableAnswers": [
+      "asterixis",
+      "flapping tremor",
+      "asterixis (flapping tremor)"
+    ]
   },
   {
     "id": 54,
-    "type": "mcq",
-    "stem": "A patient's blood glucose is monitored after a carbohydrate-rich meal. The nurse explains that all digestible carbohydrates are ultimately converted during digestion to which sugar that enters the bloodstream?",
-    "options": [
-      "Fructose",
-      "Galactose",
-      "Glucose",
-      "Sucrose"
-    ],
-    "answer": "C"
+    "type": "fitb",
+    "stem": "The most common type of cirrhosis, caused by chronic alcoholism, is called _______________ cirrhosis.",
+    "answer": "Laennec's",
+    "acceptableAnswers": [
+      "Laennec's",
+      "Laennec"
+    ]
   },
   {
     "id": 55,
-    "type": "mcq",
-    "stem": "The measurement of nutritional status based on food/nutrition-related history, anthropometrics, and biochemical data is called:",
-    "options": [
-      "Nutritional surveillance",
-      "Nutritional assessment",
-      "Dietary screening",
-      "Health profiling"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "A serum bilirubin level above _______________ mg/dL is usually considered high in liver disease assessment.",
+    "answer": "1.2",
+    "acceptableAnswers": [
+      "1.2",
+      "1.2 mg/dL"
+    ]
   },
   {
     "id": 56,
-    "type": "mcq",
-    "stem": "An essential nutrient differs from a non-essential nutrient in that it:",
-    "options": [
-      "Can be synthesized by the body in sufficient amounts from other compounds",
-      "Is necessary for life and cannot be synthesized by the body, therefore must be included in the diet",
-      "Is required only during periods of illness and recovery",
-      "Is found exclusively in animal-derived food products"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "Early indicators of cirrhosis usually involve gastrointestinal signs and symptoms such as anorexia, indigestion, nausea, vomiting, constipation, or _______________.",
+    "answer": "diarrhoea",
+    "acceptableAnswers": [
+      "diarrhoea",
+      "diarrhea"
+    ]
   },
   {
     "id": 57,
-    "type": "mcq",
-    "stem": "Carbohydrates provide most of the energy needed by the body. When carbohydrates are burned (oxidized), which two products are formed?",
-    "options": [
-      "Carbon dioxide and ATP",
-      "Water and carbon",
-      "Glucose and oxygen",
-      "Carbon monoxide and water"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "CASE STUDY: A patient with known liver cirrhosis is admitted with worsening abdominal distension. A tap on the abdomen reveals a fluid wave. The nurse documents this as _______________, an accumulation of fluid in the abdomen.",
+    "answer": "ascites",
+    "acceptableAnswers": [
+      "ascites"
+    ]
   },
   {
     "id": 58,
-    "type": "mcq",
-    "stem": "The process by which cells use nutrients absorbed from the bloodstream to produce materials needed for the body's existence is termed:",
-    "options": [
-      "Digestion",
-      "Absorption",
-      "Utilisation",
-      "Assimilation"
-    ],
-    "answer": "C"
+    "type": "fitb",
+    "stem": "In advanced liver disease, total blood counts of white blood cells, red blood cells, and platelets may be reduced due to suppression of _______________ marrow.",
+    "answer": "bone",
+    "acceptableAnswers": [
+      "bone",
+      "bone marrow"
+    ]
   },
   {
     "id": 59,
-    "type": "mcq",
-    "stem": "A nurse correctly states that lactose is NOT found in plants. Lactose is present exclusively in:",
-    "options": [
-      "Root vegetables and tubers",
-      "Fermented grain products",
-      "All mammalian milk",
-      "Legumes and seeds"
-    ],
-    "answer": "C"
+    "type": "fitb",
+    "stem": "AST stands for Aspartate aminotransferase, and ALT stands for _______________ aminotransferase.",
+    "answer": "Alanine",
+    "acceptableAnswers": [
+      "Alanine",
+      "alanine"
+    ]
   },
   {
     "id": 60,
-    "type": "mcq",
-    "stem": "Regulation of body processes in nutrition involves all of the following EXCEPT:",
-    "options": [
-      "Essential fatty acids",
-      "Vitamin supplementation",
-      "Minerals and water",
-      "Starch and dietary fiber exclusively"
-    ],
-    "answer": "D"
+    "type": "fitb",
+    "stem": "CASE STUDY: A nurse reviews a patient's chart and notes blood for autoimmune antibodies has been requested. The nurse correctly recognises this test is ordered to evaluate for _______________.",
+    "answer": "autoimmune hepatitis",
+    "acceptableAnswers": [
+      "autoimmune hepatitis",
+      "autoimmune liver disease"
+    ]
   },
   {
     "id": 61,
     "type": "fitb",
-    "stem": "Maltose is formed in the body as an intermediate product of _____________ digestion.",
-    "answer": "starch",
-    "acceptableAnswers": ["starch", "starch digestion"]
+    "stem": "Idiopathic cirrhosis, whose cause is unknown, occurs in about _______________ % of patients.",
+    "answer": "10",
+    "acceptableAnswers": [
+      "10",
+      "10%"
+    ]
   },
   {
     "id": 62,
     "type": "fitb",
-    "stem": "The three monosaccharides important in the study of nutrition are glucose, fructose, and _____________.",
-    "answer": "galactose",
-    "acceptableAnswers": ["galactose"]
+    "stem": "In liver disease, blood levels of protein and albumin are indicative of the _______________ functioning of the liver.",
+    "answer": "healthy",
+    "acceptableAnswers": [
+      "healthy",
+      "normal",
+      "overall"
+    ]
   },
   {
     "id": 63,
     "type": "fitb",
-    "stem": "Sucrose is also known as _____________ sugar and is composed of one unit of glucose and one unit of fructose.",
-    "answer": "cane",
-    "acceptableAnswers": ["cane", "table", "cane/table"]
+    "stem": "Biliary cirrhosis results from diseases such as primary biliary cholangitis (PBC) and primary _______________ cholangitis (PSC).",
+    "answer": "sclerosing",
+    "acceptableAnswers": [
+      "sclerosing",
+      "primary sclerosing"
+    ]
   },
   {
     "id": 64,
     "type": "fitb",
-    "stem": "A diet that provides adequate amounts of all nutrients, not too much and not too little, is referred to as a _____________ diet.",
-    "answer": "balanced",
-    "acceptableAnswers": ["balanced", "balanced diet"]
+    "stem": "CASE STUDY: A student nurse asks why a patient with cirrhosis has easy bruising and prolonged bleeding from a minor IV site. The preceptor explains that chronic liver disease leads to impaired _______________ formation, reducing levels of clotting factors.",
+    "answer": "protein",
+    "acceptableAnswers": [
+      "protein",
+      "protein formation",
+      "clotting factor"
+    ]
   },
   {
     "id": 65,
     "type": "fitb",
-    "stem": "The enzyme _____________ found in sprouting grains acts on starch to produce maltose during the manufacture of beer.",
-    "answer": "diastase",
-    "acceptableAnswers": ["diastase"]
+    "stem": "GGT (Gamma glutamyl transferase) and Alkaline Phosphatase are liver enzymes released from _______________ ducts and are raised in liver diseases.",
+    "answer": "bile",
+    "acceptableAnswers": [
+      "bile",
+      "biliary"
+    ]
   },
   {
     "id": 66,
     "type": "fitb",
-    "stem": "The absence or deficiency of the enzyme galactose-1-phosphate transferase (GALT) results in a hereditary condition called _____________.",
-    "answer": "galactosemia",
-    "acceptableAnswers": ["galactosemia", "galactosaemia"]
+    "stem": "The three main types of tests performed in the diagnosis of liver disease are laboratory tests, radiological studies, and _______________.",
+    "answer": "biopsies",
+    "acceptableAnswers": [
+      "biopsies",
+      "biopsy",
+      "liver biopsies"
+    ]
   },
   {
     "id": 67,
     "type": "fitb",
-    "stem": "The use of food in the body involves three processes: digestion, _____________, and utilisation.",
-    "answer": "absorption",
-    "acceptableAnswers": ["absorption"]
+    "stem": "CASE STUDY: During nursing rounds, a student nurse asks what the five focus areas of nursing management for a patient with liver cirrhosis are. The preceptor lists: promoting rest, improving nutritional status, providing skin care, reducing risk of injury, and _______________ complications.",
+    "answer": "monitoring and managing",
+    "acceptableAnswers": [
+      "monitoring and managing",
+      "monitoring",
+      "managing"
+    ]
   },
   {
     "id": 68,
     "type": "fitb",
-    "stem": "The two types of metabolism are anabolism and _____________; the former builds complex molecules while the latter breaks them down to release energy.",
-    "answer": "catabolism",
-    "acceptableAnswers": ["catabolism"]
+    "stem": "Cirrhosis is defined as a condition that results from permanent damage or _______________ of the liver due to previous damage.",
+    "answer": "scarring",
+    "acceptableAnswers": [
+      "scarring",
+      "scar formation"
+    ]
   },
   {
     "id": 69,
     "type": "fitb",
-    "stem": "According to the WHO, health is defined as a state of complete physical, mental and _____________ well-being and not merely the absence of disease or infirmity.",
-    "answer": "social",
-    "acceptableAnswers": ["social"]
+    "stem": "Liver disease that arises because the immune system attacks the liver or bile ducts, causing inflammation and scarring, is classified as _______________ disorder.",
+    "answer": "autoimmune",
+    "acceptableAnswers": [
+      "autoimmune",
+      "an autoimmune"
+    ]
   },
   {
     "id": 70,
     "type": "fitb",
-    "stem": "Glucose in the blood is taken up into the body's cells and used to produce a fuel molecule called adenosine triphosphate (ATP) through a series of complex processes known as _____________ respiration.",
-    "answer": "cellular",
-    "acceptableAnswers": ["cellular", "cell"]
+    "stem": "CASE STUDY: A nurse assessing a patient's mentation in liver cirrhosis is looking for changes in _______________ of consciousness and alterations in behaviour or personality as early signs of hepatic encephalopathy.",
+    "answer": "level",
+    "acceptableAnswers": [
+      "level",
+      "level of consciousness"
+    ]
   }
 ]
