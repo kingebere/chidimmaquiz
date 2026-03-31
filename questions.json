@@ -2,804 +2,797 @@
   {
     "id": 1,
     "type": "mcq",
-    "stem": "A patient with liver cirrhosis develops ascites, jaundice, and peripheral oedema. The nurse understands these findings are MOST directly related to which system involvement documented in cirrhosis?",
+    "stem": "A nurse palpates a patient's pulse and finds it irregular. She decides to assess the apical pulse instead. Which instrument is used to assess the apical pulse?",
     "options": [
-      "Endocrine system",
-      "Hepatic system",
-      "Hematologic system",
-      "Central nervous system"
+      "Sphygmomanometer",
+      "Stethoscope (diaphragm)",
+      "Pulse oximeter",
+      "Doppler ultrasound"
     ],
     "answer": "B"
   },
   {
     "id": 2,
     "type": "mcq",
-    "stem": "Which of the following is considered the DEFINITIVE diagnostic test for cirrhosis because it detects destruction and fibrosis of hepatic tissue?",
+    "stem": "A nurse is assessing a 2-year-old infant's apical pulse. Where is the CORRECT anatomical location of the apical pulse for this age group?",
     "options": [
-      "CT scan",
-      "Liver biopsy",
-      "Ultrasound of the abdomen",
-      "Serum ALT and AST levels"
+      "5th intercostal space at the midsternal line",
+      "Left of the midclavicular line",
+      "Midclavicular line at the 5th intercostal space",
+      "Between the midclavicular line and anterior axillary line"
     ],
     "answer": "B"
   },
   {
     "id": 3,
     "type": "mcq",
-    "stem": "A 48-year-old male with a 20-year history of heavy alcohol use presents with flapping tremor (asterixis), slurred speech, and mental changes. These findings are MOST consistent with which complication of cirrhosis?",
+    "stem": "A patient's apical pulse is 96 bpm and the radial pulse is 82 bpm. The nurse correctly documents this finding as a:",
     "options": [
-      "Hepatic renal syndrome",
-      "Portal hypertension",
-      "Hepatic encephalopathy",
-      "Variceal bleeding"
+      "Normal variation in healthy adults",
+      "Pulse deficit requiring immediate reporting",
+      "Dysrhythmia correctable by positioning",
+      "Tachycardia from elevated stroke volume"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 4,
     "type": "mcq",
-    "stem": "The most common type of cirrhosis, Laennec's cirrhosis, accounts for what percentage of cirrhotic patients?",
+    "stem": "Blood viscosity increases significantly when the haematocrit exceeds which threshold, thereby increasing blood pressure?",
     "options": [
-      "5% to 10%",
-      "10% to 15%",
-      "15% to 20%",
-      "30% to 50%"
+      "40% to 45%",
+      "50% to 55%",
+      "60% to 65%",
+      "70% to 75%"
     ],
-    "answer": "D"
+    "answer": "C"
   },
   {
     "id": 5,
     "type": "mcq",
-    "stem": "CASE STUDY: Mr. O., a 55-year-old banker, is admitted with complaints of progressive abdominal distension, generalised weakness, and yellowing of the eyes for 3 months. On assessment, the nurse notes spider angiomas, gynaecomastia, and testicular atrophy. His wife reports he has been forgetful and occasionally confused. Liver function tests reveal elevated AST, ALT, and bilirubin. Which system manifestation BEST explains the gynaecomastia and testicular atrophy?",
+    "stem": "CASE STUDY: A 68-year-old woman is admitted after a near-syncopal episode. Her lying blood pressure is 130/82 mmHg. After assisting her to stand, her BP drops to 108/70 mmHg and her pulse rises from 72 to 94 bpm. The nurse correctly identifies this as:",
     "options": [
-      "Hematologic system involvement",
-      "Endocrine system manifestation of cirrhosis",
-      "Central nervous system deterioration",
-      "Respiratory system compromise"
+      "Primary hypertension",
+      "Hypotension secondary to dehydration",
+      "Orthostatic (postural) hypotension",
+      "Normal physiological response to standing"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 6,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q5): Mr. O.'s blood ammonia level is elevated. The nurse monitors him closely for which specific neurological finding that is pathognomonic of hepatic encephalopathy?",
+    "stem": "CASE STUDY (continued from Q5): In assessing for orthostatic hypotension, after placing the patient supine and recording baseline vital signs, the next steps are to assist her to sit or stand, immediately recheck pulse and BP in the same sites, then repeat the pulse and BP after how many minutes?",
     "options": [
-      "Peripheral neuropathy and paraesthesia",
-      "Asterixis (flapping tremor)",
-      "Nuchal rigidity and photophobia",
-      "Unilateral facial drooping"
+      "1 minute",
+      "2 minutes",
+      "3 minutes",
+      "5 minutes"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 7,
     "type": "mcq",
-    "stem": "Serum AST and ALT are elevated in liver disease because they are liver enzymes released when there is:",
+    "stem": "A patient with a haemoglobin of 6 g/dL has a pulse oximetry reading of 98%. The nurse correctly interprets this result as:",
     "options": [
-      "Obstruction of the biliary duct system",
-      "Liver injury or inflammation",
-      "Suppression of bone marrow production",
-      "Derangement of serum protein and albumin levels"
+      "Accurate; the patient has no respiratory compromise",
+      "Potentially misleading; the haemoglobin is fully saturated but too low to adequately supply tissues, so the patient may still be hypoxic",
+      "Critically low and requiring immediate oxygen supplementation",
+      "Invalid because the pulse oximeter cannot function with anaemia"
     ],
     "answer": "B"
   },
   {
     "id": 8,
     "type": "mcq",
-    "stem": "A patient's serum bilirubin is reported as 1.8 mg/dL. The nurse correctly interprets this result as:",
+    "stem": "A nurse is assessing a patient's blood pressure. The cuff bladder is too narrow for the patient's arm. What effect will this have on the blood pressure reading?",
     "options": [
-      "Within normal range; no intervention required",
-      "Slightly below normal; monitor for haemolysis",
-      "Elevated; above the normal upper limit of 1.2 mg/dL",
-      "Critically low; indicating hepatic failure"
+      "The reading will be erroneously low",
+      "The reading will be accurate if proper technique is used",
+      "The reading will be erroneously high",
+      "The reading will show a widened pulse pressure"
     ],
     "answer": "C"
   },
   {
     "id": 9,
     "type": "mcq",
-    "stem": "Which radiological investigation uses sound waves, is inexpensive and non-invasive, and is MOST commonly used to detect gallbladder stones and liver pathology?",
+    "stem": "Which breathing pattern is characterised by a gradual increase and decrease in respirations with periods of apnoea?",
     "options": [
-      "CT scan",
-      "MRI",
-      "Ultrasonogram (USG)",
-      "Radio-isotope scan"
+      "Biot respiration",
+      "Apneustic breathing",
+      "Cheyne-Stokes breathing",
+      "Kussmaul breathing"
     ],
     "answer": "C"
   },
   {
     "id": 10,
     "type": "mcq",
-    "stem": "Endoscopic retrograde cholangiopancreatography (ERCP) is PRIMARILY used in the diagnosis of which conditions?",
+    "stem": "CASE STUDY: A 42-year-old factory worker is admitted after being rescued from a building fire. He appears conscious but his SpO2 reads 99% on room air. He has a cherry-red skin colour and complains of a severe headache. The nurse is concerned the pulse oximeter reading is unreliable. Why?",
     "options": [
-      "Hepatitis B viral load monitoring and ammonia level detection",
-      "Tumours, gallbladder stone obstructions, and bile and pancreatic duct pathology",
-      "Autoimmune antibodies in autoimmune hepatitis",
-      "Bone marrow suppression in advanced liver disease"
+      "Smoke inhalation causes bronchoconstriction that falsely elevates SpO2",
+      "Pulse oximeters cannot discriminate between haemoglobin saturated with carbon monoxide versus oxygen, giving a falsely high reading",
+      "Activity and movement during the rescue have interfered with sensor accuracy",
+      "Impaired peripheral circulation from burns has created an inaccurate reading"
     ],
     "answer": "B"
   },
   {
     "id": 11,
     "type": "mcq",
-    "stem": "A cirrhotic patient has a prothrombin time significantly prolonged beyond normal. The nurse understands this is MOST likely because:",
+    "stem": "CASE STUDY (continued from Q10): A life-threatening SpO2 level using a pulse oximeter would be:",
     "options": [
-      "The kidneys are failing to activate clotting factors",
-      "Chronic liver disease leads to impaired protein formation and decreased clotting factor production",
-      "Bone marrow suppression has depleted platelet stores",
-      "Elevated bilirubin directly inhibits the clotting cascade"
+      "Below 95%",
+      "Below 90%",
+      "Below 80%",
+      "Below 70%"
     ],
-    "answer": "B"
+    "answer": "D"
   },
   {
     "id": 12,
     "type": "mcq",
-    "stem": "CASE STUDY: A 39-year-old woman is admitted with jaundice, pruritus, and fatigue. Her history reveals no alcohol use, but she was diagnosed with primary biliary cholangitis (PBC) 2 years ago. Her liver biopsy confirms cirrhotic changes. Which category of cirrhosis does this patient MOST likely have?",
+    "stem": "The width of a blood pressure cuff bladder should be what percentage of the circumference of the arm?",
     "options": [
-      "Laennec's cirrhosis",
-      "Post-necrotic cirrhosis",
-      "Biliary cirrhosis",
-      "Idiopathic cirrhosis"
+      "20%",
+      "30%",
+      "40%",
+      "50%"
     ],
     "answer": "C"
   },
   {
     "id": 13,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q12): During nursing assessment, the nurse checks the patient's skin, gums, stools, and vomitus for which priority concern in cirrhosis?",
+    "stem": "A patient's blood pressure is 158/96 mmHg on two separate clinic days. The nurse correctly classifies this as:",
     "options": [
-      "Signs of infection and elevated temperature",
-      "Evidence of bleeding",
-      "Presence of oedema and skin turgor",
-      "Level of consciousness and orientation"
+      "Normal blood pressure within acceptable range",
+      "Hypotension requiring fluid resuscitation",
+      "Hypertension meeting diagnostic criteria",
+      "White coat hypertension requiring further monitoring only"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 14,
     "type": "mcq",
-    "stem": "Which type of liver disease is the LEADING cause of liver disease in Canada and globally and is directly linked to obesity?",
+    "stem": "Peripheral vascular resistance (PVR) increases blood pressure because:",
     "options": [
-      "Alcoholic hepatitis",
-      "Fatty liver disease",
-      "Primary biliary cholangitis",
-      "Haemochromatosis"
+      "Increased PVR increases blood volume in the ventricles",
+      "Increased vasoconstriction increases blood pressure; the smaller the diameter of the vessel the greater the resistance",
+      "Increased PVR reduces heart rate, increasing stroke volume per beat",
+      "Increased PVR dilates arterioles to accommodate more blood flow"
     ],
     "answer": "B"
   },
   {
     "id": 15,
     "type": "mcq",
-    "stem": "A patient with suspected autoimmune hepatitis would MOST likely have which specific blood test ordered to confirm the diagnosis?",
+    "stem": "A nurse is preparing to measure blood pressure in a patient who has an arteriovenous fistula for renal dialysis in the left arm. What is the correct action?",
     "options": [
-      "Blood levels of ammonia",
-      "Viral load for hepatitis B and C",
-      "Blood for autoimmune antibodies",
-      "Pancreatic lipase levels"
+      "Measure in the left arm, documenting the presence of the fistula",
+      "Use a smaller cuff size for the left arm to reduce pressure on the fistula",
+      "Avoid measuring blood pressure in that limb; use the other arm",
+      "Assess blood pressure in the thigh instead of any arm"
     ],
     "answer": "C"
   },
   {
     "id": 16,
     "type": "mcq",
-    "stem": "Respiratory symptoms in cirrhosis occur late in the disease as a result of hepatic insufficiency and portal hypertension. Which mechanism DIRECTLY causes hypoxia in these patients?",
+    "stem": "CASE STUDY: A nurse receives a patient post-cardiac surgery whose peripheral pulse is weak and barely palpable. She decides to assess the apical pulse. She is aware this is also routinely done before administering which category of medications?",
     "options": [
-      "Decreased red blood cell production leading to anaemia",
-      "Pleural effusion and limited thoracic expansion due to abdominal ascites interfering with efficient gas exchange",
-      "Elevated ammonia levels impairing the respiratory centre in the brain",
-      "Pulmonary fibrosis secondary to hepatic toxin accumulation"
+      "Antibiotics and antifungals",
+      "Medications that affect heart rate",
+      "Analgesics and antiemetics",
+      "Diuretics and electrolyte replacements"
     ],
     "answer": "B"
   },
   {
     "id": 17,
     "type": "mcq",
-    "stem": "Which of the following genetic conditions, caused by defective gene inheritance, can present as liver disease from infancy and is listed as a genetic cause of liver disease?",
+    "stem": "CASE STUDY (continued from Q16): Two nurses are assigned to assess the apical-radial pulse simultaneously. For accurate measurement, both nurses should count the pulses for how long?",
     "options": [
-      "Primary biliary cholangitis and autoimmune hepatitis",
-      "Haemochromatosis, Wilson disease, tyrosinaemia, and glycogen storage disease",
-      "Hepatitis A, B, and C infections",
-      "Alcoholic cirrhosis and drug-induced hepatitis"
+      "15 seconds",
+      "30 seconds",
+      "60 seconds",
+      "90 seconds"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 18,
     "type": "mcq",
-    "stem": "A complete blood count in a patient with advanced liver disease shows decreased WBC, RBC, and platelets. The nurse attributes this PRIMARILY to:",
+    "stem": "Vesicular breath sounds are normal breath sounds that are best described as:",
     "options": [
-      "Excessive haemolysis caused by elevated bilirubin",
-      "Suppression of bone marrow, which is the seat of production of these cells",
-      "Nutritional deficiency of iron and vitamin B12",
-      "Splenomegaly destroying mature blood cells"
+      "High-pitched, loud, harsh sounds heard over the trachea",
+      "Low-pitched, gentle sighing sounds heard over the peripheral lung",
+      "Moderately pitched blowing sounds heard between the scapulae",
+      "Continuous high-pitched squeaky sounds heard over all lung fields"
     ],
     "answer": "B"
   },
   {
     "id": 19,
     "type": "mcq",
-    "stem": "CASE STUDY: A 62-year-old man presents with a 6-month history of anorexia, constipation, and weight loss. Physical examination reveals hepatomegaly, ascites, and peripheral oedema. He is a known chronic hepatitis C patient. Liver biopsy reveals extensive fibrosis. Which type of cirrhosis is MOST associated with this aetiology?",
+    "stem": "A patient is found to have wheeze on auscultation. The nurse understands this is caused by:",
     "options": [
-      "Laennec's cirrhosis",
-      "Pigment cirrhosis",
-      "Post-necrotic cirrhosis",
-      "Idiopathic cirrhosis"
+      "Air passing through fluid or mucus in any air passage",
+      "Rubbing together of inflamed pleural surfaces",
+      "Air passing through a constricted bronchus due to secretions, swelling, or tumour",
+      "Air moving through large airways creating blowing sounds"
     ],
     "answer": "C"
   },
   {
     "id": 20,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q19): During nursing assessment, the nurse weighs the patient and measures abdominal girth daily. Which nursing assessment parameter is this SPECIFICALLY monitoring?",
+    "stem": "A pulse pressure greater than 40 mmHg is associated with which condition?",
     "options": [
-      "Mentation and level of consciousness",
-      "Bleeding tendencies",
-      "Fluid retention",
-      "Risk of injury"
+      "Severe heart failure",
+      "Hypovolaemic shock",
+      "Arteriosclerosis",
+      "Orthostatic hypotension"
     ],
     "answer": "C"
   },
   {
     "id": 21,
     "type": "mcq",
-    "stem": "GGT (Gamma glutamyl transferase) and Alkaline Phosphatase are liver enzymes raised in liver disease that are released from which specific structure?",
+    "stem": "A nurse auscultates a patient's lungs and hears a superficial grating or creaking sound during both inspiration and expiration that is not altered by coughing. She correctly identifies this as:",
     "options": [
-      "Hepatocytes damaged by viral infection",
-      "Bile ducts",
-      "Kupffer cells lining hepatic sinusoids",
-      "Portal vein endothelium"
+      "Wheezes",
+      "Crackles (rales)",
+      "Friction rub",
+      "Gurgles (rhonchi)"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 22,
     "type": "mcq",
-    "stem": "Which investigation involves injecting a radioactive isotope into the bloodstream, which is then taken up by liver cells, and is particularly useful in demonstrating liver tumours?",
+    "stem": "CASE STUDY: A 30-year-old woman with asthma is admitted during an acute exacerbation. On auscultation, the nurse hears high-pitched continuous musical sounds over all lung fields, best heard on expiration. These sounds are NOT usually altered by coughing. The nurse documents these as:",
     "options": [
-      "MRI",
-      "CT scan",
-      "ERCP",
-      "Radio-isotope scan"
+      "Crackles (rales)",
+      "Friction rub",
+      "Gurgles (rhonchi)",
+      "Wheezes"
     ],
     "answer": "D"
   },
   {
     "id": 23,
     "type": "mcq",
-    "stem": "A nurse reviewing the history of a newly admitted patient notes unprotected sexual intercourse, use of shared contaminated needles, and history of blood transfusion. These risk factors raise suspicion for which type of liver disease?",
+    "stem": "CASE STUDY (continued from Q22): The patient's SpO2 drops to 88% on room air. The nurse understands that normal SpO2 should be within which range?",
     "options": [
-      "Primary biliary cholangitis",
-      "Drug-induced hepatitis",
-      "Chronic infective liver disease caused by hepatitis B or C",
-      "Wilson disease and haemochromatosis"
+      "85% to 95%",
+      "90% to 95%",
+      "97% to 100%",
+      "94% to 96%"
     ],
     "answer": "C"
   },
   {
     "id": 24,
     "type": "mcq",
-    "stem": "A female patient with cirrhosis reports menstrual irregularities and loss of axillary hair. The nurse correctly relates these findings to which system manifestation?",
+    "stem": "Hypovolaemia increases the pulse rate in adults because:",
     "options": [
-      "Hematologic involvement causing anaemia",
-      "Endocrine manifestation of cirrhosis",
-      "Skin manifestations including severe pruritus",
-      "Central nervous system involvement"
+      "Reduced blood volume stimulates the parasympathetic nervous system to slow the heart",
+      "Loss of blood from the vascular system normally increases pulse rate as the heart adjusts to increase blood pressure to compensate for blood loss",
+      "Hypovolaemia directly stimulates cardiac pacemaker cells to fire more rapidly",
+      "Reduced venous return increases end-diastolic volume and stroke volume"
     ],
     "answer": "B"
   },
   {
     "id": 25,
     "type": "mcq",
-    "stem": "The nurse understands that derangement of blood protein and albumin levels in liver disease is significant because these levels are indicative of:",
+    "stem": "A patient's blood pressure cannot be measured on the right arm due to burns. The nurse decides to assess on the thigh. Which statement is TRUE about thigh blood pressure measurement?",
     "options": [
-      "The degree of biliary obstruction",
-      "The risk of developing autoimmune antibodies",
-      "Healthy functioning of the liver",
-      "The extent of bone marrow suppression"
+      "The thigh blood pressure is always lower than the arm and should never be used for diagnosis",
+      "Thigh blood pressure assessment is indicated when the arms cannot be used and the reading should be compared with the other thigh",
+      "Thigh blood pressure is always higher and requires a special conversion formula to interpret",
+      "Thigh blood pressure is only valid in patients under 40 years of age"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 26,
     "type": "mcq",
-    "stem": "CASE STUDY: A 45-year-old woman with liver cirrhosis is being assessed. The nurse notes she is drowsy, confused, and has asterixis. Blood ammonia is 120 Âµmol/L (elevated). Which nursing assessment priority is MOST critical at this moment?",
+    "stem": "Respiration is controlled by respiratory centres in the medulla oblongata and the pons of the brain, as well as chemoreceptors that respond to changes in which three substances?",
     "options": [
-      "Measuring abdominal girth and weighing the patient",
-      "Checking skin, gums, and stools for bleeding",
-      "Assessing level of consciousness frequently and observing for changes in behaviour and personality",
-      "Monitoring intake and output for fluid retention"
+      "Sodium, potassium, and chloride",
+      "Oxygen, carbon dioxide, and hydrogen concentrations",
+      "Glucose, lactate, and bicarbonate",
+      "Nitrogen, calcium, and phosphate"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 27,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q26): The elevated ammonia in this patient results from the liver's failure to perform which function?",
+    "stem": "A well-trained athlete is found to have a resting heart rate of 48 bpm. The nurse correctly interprets this as:",
     "options": [
-      "Synthesising clotting factors from vitamin K",
-      "Converting ammonia to urea for excretion â a detoxification function",
-      "Producing bile salts necessary for fat digestion",
-      "Storing glycogen and releasing glucose when needed"
+      "Bradycardia requiring immediate cardiac monitoring",
+      "Normal for a well-trained athlete due to greater cardiac size, strength, and efficiency",
+      "Abnormal bradycardia caused by vagal nerve overactivation",
+      "Tachycardia threshold not yet reached and no action needed"
     ],
     "answer": "B"
   },
   {
     "id": 28,
     "type": "mcq",
-    "stem": "Which of the following CORRECTLY describes the MRI as a diagnostic tool in liver disease?",
+    "stem": "CASE STUDY: A 55-year-old male patient tells the nurse he works night shifts and has not slept in 36 hours. His BP is 148/92 mmHg. He appears anxious and agitated. Which factor affecting blood pressure MOST likely explains the elevated reading?",
     "options": [
-      "It uses sound waves and is the most inexpensive method for liver assessment",
-      "It injects a radio-isotope to detect liver tumours via cellular uptake",
-      "It provides a clearer imaging study to look at damaged liver tissues for pathological clues",
-      "It uses an endoscope to visualise bile and pancreatic ducts directly"
+      "Age-related decreased arterial elasticity",
+      "Racial predisposition to hypertension",
+      "Stress stimulating the SNS, increasing cardiac output and vasoconstriction",
+      "Decreased blood viscosity from sleep deprivation"
     ],
     "answer": "C"
   },
   {
     "id": 29,
     "type": "mcq",
-    "stem": "When the liver is required to detoxify alcohol continuously and liver cells are overwhelmed, the cells may be destroyed or altered, resulting in which progressive sequence?",
+    "stem": "CASE STUDY (continued from Q28): The patient asks the nurse what is the difference between primary and secondary hypertension. The nurse correctly explains:",
     "options": [
-      "Fatty liver â alcoholic hepatitis â cirrhosis",
-      "Cirrhosis â fatty liver â hepatic encephalopathy",
-      "Alcoholic hepatitis â fatty liver â hepatocellular carcinoma",
-      "Fatty liver â hepatic encephalopathy â portal hypertension"
+      "Primary hypertension has a known cause; secondary hypertension does not",
+      "Primary (essential) hypertension has no known cause; secondary hypertension has a known identifiable cause",
+      "Primary hypertension only affects the elderly; secondary hypertension affects all ages",
+      "Primary hypertension is treated with lifestyle changes only; secondary requires medication"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 30,
     "type": "mcq",
-    "stem": "Cholecystography and cholangiography are imaging studies used specifically to visualise which structures?",
+    "stem": "Crackles (rales) are abnormal breath sounds best described as:",
     "options": [
-      "The liver parenchyma and hepatic veins",
-      "The gallbladder and biliary duct system",
-      "The portal venous system and varices",
-      "Intrahepatic masses and metastases"
+      "Continuous high-pitched sounds caused by narrowed bronchi",
+      "Short interrupted crackling sounds caused by air passing through fluid or mucus; best heard on inspiration",
+      "Grating sounds caused by inflamed pleural surfaces rubbing together",
+      "Coarse low-pitched sounds caused by secretions in the trachea and bronchi"
     ],
     "answer": "B"
   },
   {
     "id": 31,
     "type": "mcq",
-    "stem": "CASE STUDY: A 50-year-old man is admitted with jaundice and a history of working in an industrial chemical plant for 15 years. He has no alcohol use or viral hepatitis history. His liver biopsy reveals fibrosis. Which cause of cirrhosis MOST likely explains his condition?",
+    "stem": "Systolic blood pressure represents pressure in the arteries during which cardiac event?",
     "options": [
-      "Chronic alcoholism",
-      "Repeated bouts of heart failure with liver congestion",
-      "Toxic hepatitis caused by prolonged exposure to environmental toxins",
-      "Genetic inheritance of haemochromatosis"
+      "Ventricular relaxation",
+      "Atrial contraction",
+      "Ventricular contraction",
+      "Isovolumetric filling"
     ],
     "answer": "C"
   },
   {
     "id": 32,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q31): A colleague argues that this patient's cirrhosis could be post-necrotic. Post-necrotic cirrhosis occurs in what percentage of cirrhotic patients?",
+    "stem": "A patient's blood pressure falls to 90/60 mmHg post-operatively following major abdominal surgery with significant blood loss. The nurse attributes the decline in blood pressure PRIMARILY to:",
     "options": [
-      "5% to 10%",
-      "10% to 30%",
-      "30% to 50%",
-      "15% to 20%"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 33,
-    "type": "mcq",
-    "stem": "A patient with liver disease has blood urea, creatinine, and electrolytes ordered. The nurse understands these tests are requested because liver disease may also be associated with:",
-    "options": [
-      "Disturbed kidney function",
-      "Autoimmune antibody production",
-      "Bone marrow suppression and anaemia",
-      "Viral load monitoring in hepatitis"
-    ],
-    "answer": "A"
-  },
-  {
-    "id": 34,
-    "type": "mcq",
-    "stem": "The liver is described as the largest organ in the body and performs well over how many functions?",
-    "options": [
-      "50",
-      "75",
-      "100",
-      "150"
+      "Decreased blood viscosity from haemodilution",
+      "Reduced peripheral vascular resistance from anaesthetic agents",
+      "Decreased blood volume leading to less fluid in the vessels",
+      "Impaired cardiac pumping from surgical stress"
     ],
     "answer": "C"
   },
   {
+    "id": 33,
+    "type": "mcq",
+    "stem": "CASE STUDY: A nurse is auscultating the lungs of a 70-year-old COPD patient. She hears a continuous low-pitched coarse sound with a moaning or snoring quality predominantly over the trachea and bronchi, best heard on expiration. The nurse documents this as:",
+    "options": [
+      "Friction rub",
+      "Vesicular sounds",
+      "Wheeze",
+      "Gurgles (rhonchi)"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 34,
+    "type": "mcq",
+    "stem": "CASE STUDY (continued from Q33): The nurse notes the gurgles are partially cleared after the patient coughs. Which characteristic of gurgles explains this finding?",
+    "options": [
+      "Gurgles are due to pleural inflammation that resolves temporarily with coughing",
+      "Gurgles may be altered by coughing because they are caused by secretions in the airways that can be partially mobilised",
+      "Gurgles are fixed airway sounds unrelated to secretion clearance",
+      "Coughing increases intrathoracic pressure and temporarily silences all breath sounds"
+    ],
+    "answer": "B"
+  },
+  {
     "id": 35,
     "type": "mcq",
-    "stem": "Splenoportal venography is a diagnostic procedure used in cirrhosis to visualise which specific structure?",
+    "stem": "A nurse assesses pulse volume as 'bounding' in a patient. This refers to:",
     "options": [
-      "The gallbladder and biliary tree",
-      "The portal venous system",
-      "Intrahepatic masses and tumours",
-      "The hepatic arterial supply"
+      "An irregular rhythm between beats",
+      "A very strong, forceful pulse felt with each beat",
+      "An absent pulse in the peripheral vessels",
+      "A pulse that alternates between strong and weak beats"
     ],
     "answer": "B"
   },
   {
     "id": 36,
     "type": "mcq",
-    "stem": "CASE STUDY: Nurse Ada is caring for a patient with liver cirrhosis on the medical ward. During her shift, she observes the patient vomiting blood (haematemesis). Which assessment finding would she MOST urgently correlate with this presentation?",
+    "stem": "Diaphragmatic (abdominal) breathing involves contraction and relaxation of the diaphragm and is MOST commonly observed in which group?",
     "options": [
-      "Elevated blood ammonia and confusion",
-      "Prolonged clotting time and bleeding tendencies from cirrhosis",
-      "Decreased urinary output and creatinine elevation",
-      "Rising bilirubin with increasing jaundice"
+      "Elderly women and post-surgical patients",
+      "Women with respiratory disease",
+      "Men and young children",
+      "Patients with increased intracranial pressure"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 37,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q36): Nurse Ada's immediate nursing priority for this patient is to:",
+    "stem": "An adult patient has a respiratory rate of 8 breaths per minute with shallow respirations. The nurse recognises this as hypoventilation characterised by:",
     "options": [
-      "Measure abdominal girth and document daily weight",
-      "Assess level of consciousness for hepatic encephalopathy",
-      "Maintain airway, assess vital signs, and notify the physician immediately",
-      "Review liver function tests and explain findings to the patient"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": 38,
-    "type": "mcq",
-    "stem": "Which of the following statements CORRECTLY describes percutaneous transhepatic cholangiography?",
-    "options": [
-      "It uses sound waves to detect gallbladder stones non-invasively",
-      "It differentiates intrahepatic from extrahepatic obstructive jaundice and discloses hepatic pathology and gallstones",
-      "It injects a radio-isotope to demonstrate liver tumour uptake",
-      "It aspirates hepatic tissue for microscopic examination"
+      "Rapid and deep breathing with overexpansion of the lungs",
+      "Under-expansion of the lungs characterised by shallow respirations",
+      "Alternating periods of rapid breathing and apnoea",
+      "Prolonged inspiratory phase with brief expiration"
     ],
     "answer": "B"
   },
   {
+    "id": 38,
+    "type": "mcq",
+    "stem": "CASE STUDY: A 77-year-old male with congestive heart failure is admitted. He can only breathe comfortably when sitting upright and becomes severely dyspnoeic when lying flat. The nurse correctly documents this as:",
+    "options": [
+      "Dyspnoea",
+      "Tachypnoea",
+      "Apnoea",
+      "Orthopnoea"
+    ],
+    "answer": "D"
+  },
+  {
     "id": 39,
     "type": "mcq",
-    "stem": "Ascites in liver cirrhosis is characterised by accumulation of fluid in which compartment?",
+    "stem": "CASE STUDY (continued from Q38): Auscultation of this patient's lungs reveals crackles (rales) bilaterally at the bases. The nurse understands that these crackles are MOST likely caused by:",
     "options": [
-      "Pleural cavity",
-      "Pericardial space",
-      "Abdomen",
-      "Retroperitoneal space"
+      "Inflamed pleural surfaces rubbing together due to pleuritis",
+      "Secretions and fluid accumulation in the lower airways secondary to heart failure",
+      "Air passing through chronically constricted bronchi",
+      "Narrowed airways from tumour infiltration"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 40,
     "type": "mcq",
-    "stem": "A nurse is educating a newly diagnosed hepatitis B patient about preventing transmission. Which history item MOST directly raises suspicion for how this patient contracted the infection?",
+    "stem": "The carotid pulse site is specifically used during which clinical emergency?",
     "options": [
-      "Living in a damp environment with poor ventilation",
-      "Eating undercooked shellfish from a local market",
-      "Sharing contaminated needles with other drug users",
-      "Working in a chemical manufacturing facility"
+      "Routine blood pressure assessment in hypertensive patients",
+      "Cardiac arrest or shock",
+      "Cardiac auscultation for murmurs",
+      "Apical-radial pulse deficit measurement"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 41,
     "type": "mcq",
-    "stem": "CASE STUDY: A 33-year-old man with no known liver disease undergoes a routine check-up. Labs show AST 210 IU/L and ALT 185 IU/L (normal range 100â200 IU/L). His GGT and alkaline phosphatase are also elevated. He denies alcohol use but has been on long-term acetaminophen for chronic back pain. Which cause of liver disease BEST explains his enzyme elevation?",
+    "stem": "A patient's blood pressure is 130/80 mmHg. The pulse pressure is:",
     "options": [
-      "Genetic haemochromatosis causing hepatic iron overload",
-      "Autoimmune primary biliary cholangitis",
-      "Drug and toxin-induced liver disease from acetaminophen overexposure",
-      "Infective hepatitis A from contaminated food"
+      "210 mmHg",
+      "80 mmHg",
+      "50 mmHg",
+      "105 mmHg"
     ],
     "answer": "C"
   },
   {
     "id": 42,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q41): The physician orders a liver biopsy. During pre-procedure teaching, the nurse correctly explains that the biopsy needle is guided into the liver with the help of:",
+    "stem": "CASE STUDY: A nurse assessing a patient notes the respiratory rate is 28 breaths per minute with quick, shallow breaths. The patient appears anxious after receiving bad news. The nurse documents this breathing pattern as:",
     "options": [
-      "Ultrasonography alone",
-      "An endoscope inserted into the gastrointestinal tract",
-      "A CT scan",
-      "Radio-isotope imaging"
+      "Bradypnoea",
+      "Eupnoea",
+      "Apnoea",
+      "Tachypnoea"
     ],
-    "answer": "C"
+    "answer": "D"
   },
   {
     "id": 43,
     "type": "mcq",
-    "stem": "Which skin manifestation is MOST characteristic of liver cirrhosis and would require the nurse to assess for pruritus management?",
+    "stem": "CASE STUDY (continued from Q42): The nurse understands that this patient's tachypnoea is MOST likely caused by:",
     "options": [
-      "Petechiae and purpura from thrombocytopenia",
-      "Severe pruritus, extreme dryness, poor tissue turgor, abnormal pigmentation, and jaundice",
-      "Generalised maculopapular rash from autoimmune activation",
-      "Cyanosis from respiratory compromise and hypoxia"
+      "Increased intracranial pressure from an intracranial bleed",
+      "Stress triggering the flight or fight response",
+      "Narcotic analgesics given post-procedure",
+      "Increased altitude reducing ambient oxygen"
     ],
     "answer": "B"
   },
   {
     "id": 44,
     "type": "mcq",
-    "stem": "The nurse recognises that primary cancer of the liver is relatively uncommon, but the liver is susceptible to secondary cancer because:",
+    "stem": "Arterial wall elasticity is assessed when palpating a pulse and normal arterial wall should feel:",
     "options": [
-      "The liver produces hormones that promote tumour growth",
-      "The liver filters a high volume of blood that may carry cancer cells from other sites",
-      "Hepatitis viruses directly transform all liver cells into malignant cells",
-      "The portal vein delivers chemotherapy-resistant cancer cells from the pancreas"
+      "Rigid, hard, and non-compressible",
+      "Straight, smooth, soft, and pliable",
+      "Tortuous and thickened with irregular borders",
+      "Firm and bounding with high resistance to compression"
     ],
     "answer": "B"
   },
   {
     "id": 45,
     "type": "mcq",
-    "stem": "CASE STUDY: A nurse is performing a nursing assessment on a patient with cirrhosis who is being prepared for discharge. She assesses abdominal girth, checks for peripheral oedema, and reviews recent lab work showing low albumin and protein. Which nursing diagnosis is MOST appropriate for this patient?",
+    "stem": "The popliteal pulse is used for which clinical assessment purpose?",
     "options": [
-      "Risk for infection related to altered immune response",
-      "Excess fluid volume related to portal hypertension and decreased albumin",
-      "Acute pain related to liver capsule distension",
-      "Impaired skin integrity related to jaundice and pruritus"
+      "Cardiac arrest and shock assessment",
+      "Measuring blood pressure in infants",
+      "Assessing circulation to the lower leg",
+      "Cardiac auscultation pre-medication"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 46,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q45): The nurse explains to the student nurse why low albumin worsens ascites. The CORRECT physiological explanation is:",
+    "stem": "CASE STUDY: A nurse is about to administer digoxin 0.25 mg orally to a patient. Before administration, she assesses the apical pulse and finds it is 54 bpm. Which action is MOST appropriate?",
     "options": [
-      "Low albumin reduces bile production, increasing pressure in the biliary system",
-      "Low albumin reduces plasma oncotic pressure, causing fluid to shift from the intravascular space into the abdominal cavity",
-      "Low albumin impairs clotting factor synthesis, leading to haemorrhage into the peritoneum",
-      "Low albumin increases ammonia conversion, worsening hepatic encephalopathy"
+      "Administer the digoxin as prescribed and continue monitoring",
+      "Hold the digoxin, document the finding, and notify the physician immediately, as digoxin can further lower heart rate",
+      "Administer half the dose and reassess in 30 minutes",
+      "Reassess the pulse using the radial site before deciding"
     ],
     "answer": "B"
   },
   {
     "id": 47,
     "type": "mcq",
-    "stem": "Pancreatic lipase is assessed in patients with liver disease for which SPECIFIC reason?",
+    "stem": "CASE STUDY (continued from Q46): The physician is notified and asks about the pulse deficit. A pulse deficit is BEST described as:",
     "options": [
-      "To detect alcohol-induced liver failure",
-      "To rule out co-existing pancreatic inflammation",
-      "To estimate the degree of biliary obstruction",
-      "To confirm the presence of autoimmune hepatitis"
+      "Any pulse rate below 60 bpm in an adult patient",
+      "The difference between apical and radial pulse rates, indicating inadequate cardiac output reaching the periphery",
+      "The absence of a radial pulse in a patient with known atrial fibrillation",
+      "A widened pulse pressure indicating arteriosclerosis"
     ],
     "answer": "B"
   },
   {
     "id": 48,
     "type": "mcq",
-    "stem": "Which of the following CORRECTLY states the normal serum bilirubin range?",
+    "stem": "The Korotkoff sounds heard during blood pressure measurement are produced by which method?",
     "options": [
-      "0.1 to 0.5 mg/dL",
-      "0.3 to 1.2 mg/dL",
-      "1.5 to 3.0 mg/dL",
-      "2.0 to 4.5 mg/dL"
+      "The pulse oximeter detecting arterial pulsations",
+      "Blood flowing through the artery as detected by the stethoscope and sphygmomanometer",
+      "The cuff bladder vibrating against the arm during inflation",
+      "The diaphragm of the stethoscope amplifying venous sounds"
     ],
     "answer": "B"
   },
   {
     "id": 49,
     "type": "mcq",
-    "stem": "CASE STUDY: Mrs. F., a 41-year-old mother of three, is being assessed by a community health nurse. She has jaundice, dark urine, and clay-coloured stools. Her anti-mitochondrial antibody test is positive. Liver biopsy confirms bile duct destruction. Which specific liver disease does this presentation MOST suggest?",
+    "stem": "A nurse is assessing a 5-year-old child's apical pulse. Based on age, where is the CORRECT location of the apical pulse?",
     "options": [
-      "Alcoholic cirrhosis (Laennec's)",
-      "Post-necrotic cirrhosis from viral hepatitis",
-      "Primary biliary cholangitis (PBC)",
-      "Glycogen storage disease"
+      "Left of the midclavicular line",
+      "5th intercostal space at the midsternal line",
+      "Midclavicular line at the 5th intercostal space",
+      "Between the midsternal line and midclavicular line at the 5th intercostal space"
     ],
     "answer": "C"
   },
   {
     "id": 50,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q49): The nurse educating Mrs. F. explains that primary biliary cholangitis is caused by which mechanism?",
+    "stem": "CASE STUDY: A nurse places a pulse oximeter on a patient's finger who has been shivering excessively. The SpO2 reading fluctuates between 88% and 96%. The nurse recognises that this most likely reflects:",
     "options": [
-      "Prolonged use of hepatotoxic medications",
-      "Recurrent bacterial infection of the biliary tract",
-      "The body's own immune system attacking the bile ducts, causing inflammation and scarring",
-      "Genetic defect in copper metabolism leading to copper accumulation in the liver"
+      "True hypoxaemia requiring immediate supplemental oxygen",
+      "Peripheral cyanosis from poor perfusion",
+      "Inaccurate readings because shivering and excessive movement at the sensor site interfere with accurate readings",
+      "Carbon monoxide poisoning creating falsely elevated saturation"
     ],
     "answer": "C"
   },
   {
     "id": 51,
     "type": "fitb",
-    "stem": "The largest organ in the body is the _______________, which performs well over 100 functions necessary for survival.",
-    "answer": "liver",
+    "stem": "An excessively fast pulse rate above 100 beats per minute is called _______________, while a very slow pulse rate below 60 beats per minute is called bradycardia.",
+    "answer": "tachycardia",
     "acceptableAnswers": [
-      "liver"
+      "tachycardia"
     ]
   },
   {
     "id": 52,
     "type": "fitb",
-    "stem": "The DEFINITIVE test for cirrhosis that detects hepatic tissue destruction and fibrosis is liver _______________.",
-    "answer": "biopsy",
+    "stem": "The normal adult respiratory rate is _______________ to 20 counts per minute.",
+    "answer": "12",
     "acceptableAnswers": [
-      "biopsy",
-      "liver biopsy"
+      "12"
     ]
   },
   {
     "id": 53,
     "type": "fitb",
-    "stem": "CASE STUDY: A 57-year-old man with liver cirrhosis develops a flapping tremor of the hands when arms are outstretched, confusion, and personality changes. The nurse documents this as _______________, a sign of hepatic encephalopathy.",
-    "answer": "asterixis",
+    "stem": "CASE STUDY: Nurse Bola is preparing a patient newly started on a cardiac medication. She knows she must assess the _______________ pulse before administering any medication that affects the heart rate, and must hold the medication if the rate is outside the safe range.",
+    "answer": "apical",
     "acceptableAnswers": [
-      "asterixis",
-      "flapping tremor",
-      "asterixis (flapping tremor)"
+      "apical"
     ]
   },
   {
     "id": 54,
     "type": "fitb",
-    "stem": "The most common type of cirrhosis, caused by chronic alcoholism, is called _______________ cirrhosis.",
-    "answer": "Laennec's",
+    "stem": "Hypertension is diagnosed when blood pressure measured on two different days is greater than or equal to 140 mmHg systolic AND greater than or equal to _______________ mmHg diastolic.",
+    "answer": "90",
     "acceptableAnswers": [
-      "Laennec's",
-      "Laennec"
+      "90",
+      "90 mmHg"
     ]
   },
   {
     "id": 55,
     "type": "fitb",
-    "stem": "A serum bilirubin level above _______________ mg/dL is usually considered high in liver disease assessment.",
-    "answer": "1.2",
+    "stem": "Pulse pressure is the difference between the _______________ and diastolic pressures.",
+    "answer": "systolic",
     "acceptableAnswers": [
-      "1.2",
-      "1.2 mg/dL"
+      "systolic"
     ]
   },
   {
     "id": 56,
     "type": "fitb",
-    "stem": "Early indicators of cirrhosis usually involve gastrointestinal signs and symptoms such as anorexia, indigestion, nausea, vomiting, constipation, or _______________.",
-    "answer": "diarrhoea",
+    "stem": "CASE STUDY: A student nurse asks why a blood pressure cuff must be the correct size. The preceptor explains that if the bladder is too narrow, the reading will be erroneously _______________, and if too wide, it will be erroneously low.",
+    "answer": "high",
     "acceptableAnswers": [
-      "diarrhoea",
-      "diarrhea"
+      "high",
+      "elevated"
     ]
   },
   {
     "id": 57,
     "type": "fitb",
-    "stem": "CASE STUDY: A patient with known liver cirrhosis is admitted with worsening abdominal distension. A tap on the abdomen reveals a fluid wave. The nurse documents this as _______________, an accumulation of fluid in the abdomen.",
-    "answer": "ascites",
+    "stem": "Normal arterial blood oxygen saturation (SpO2) ranges from 97% to 100%, and a SpO2 below _______________ % is considered life threatening.",
+    "answer": "70",
     "acceptableAnswers": [
-      "ascites"
+      "70",
+      "70%"
     ]
   },
   {
     "id": 58,
     "type": "fitb",
-    "stem": "In advanced liver disease, total blood counts of white blood cells, red blood cells, and platelets may be reduced due to suppression of _______________ marrow.",
-    "answer": "bone",
+    "stem": "Orthostatic hypotension is indicated by a rise in pulse of 15 to 30 beats per minute OR a drop in blood pressure of _______________ mmHg systolic or 10 mmHg diastolic upon standing.",
+    "answer": "20",
     "acceptableAnswers": [
-      "bone",
-      "bone marrow"
+      "20",
+      "20 mmHg"
     ]
   },
   {
     "id": 59,
     "type": "fitb",
-    "stem": "AST stands for Aspartate aminotransferase, and ALT stands for _______________ aminotransferase.",
-    "answer": "Alanine",
+    "stem": "CASE STUDY: A nurse is documenting abnormal breath sounds in a post-operative patient. She hears a grating sound in the lower anterior and lateral chest areas during both inspiration and expiration that is not relieved by coughing. She documents this as a pleural friction _______________.",
+    "answer": "rub",
     "acceptableAnswers": [
-      "Alanine",
-      "alanine"
+      "rub",
+      "friction rub"
     ]
   },
   {
     "id": 60,
     "type": "fitb",
-    "stem": "CASE STUDY: A nurse reviews a patient's chart and notes blood for autoimmune antibodies has been requested. The nurse correctly recognises this test is ordered to evaluate for _______________.",
-    "answer": "autoimmune hepatitis",
+    "stem": "An elevated blood pressure of unknown cause is called primary or _______________ hypertension.",
+    "answer": "essential",
     "acceptableAnswers": [
-      "autoimmune hepatitis",
-      "autoimmune liver disease"
+      "essential"
     ]
   },
   {
     "id": 61,
     "type": "fitb",
-    "stem": "Idiopathic cirrhosis, whose cause is unknown, occurs in about _______________ % of patients.",
-    "answer": "10",
+    "stem": "Blood pressure is measured in millimetres of _______________ (mmHg).",
+    "answer": "mercury",
     "acceptableAnswers": [
-      "10",
-      "10%"
+      "mercury"
     ]
   },
   {
     "id": 62,
     "type": "fitb",
-    "stem": "In liver disease, blood levels of protein and albumin are indicative of the _______________ functioning of the liver.",
-    "answer": "healthy",
+    "stem": "The breathing pattern characterised by an abnormal pattern with groups of rapid respirations of equal depth and regular apnoea periods is called _______________ respiration.",
+    "answer": "Biot",
     "acceptableAnswers": [
-      "healthy",
-      "normal",
-      "overall"
+      "Biot",
+      "biot"
     ]
   },
   {
     "id": 63,
     "type": "fitb",
-    "stem": "Biliary cirrhosis results from diseases such as primary biliary cholangitis (PBC) and primary _______________ cholangitis (PSC).",
-    "answer": "sclerosing",
+    "stem": "CASE STUDY: A nurse is placing a pulse oximeter on a patient with carbon monoxide poisoning. She recognises that the reading may be falsely _______________ because pulse oximeters cannot discriminate between haemoglobin saturated with carbon monoxide versus oxygen.",
+    "answer": "high",
     "acceptableAnswers": [
-      "sclerosing",
-      "primary sclerosing"
+      "high",
+      "elevated",
+      "falsely normal"
     ]
   },
   {
     "id": 64,
     "type": "fitb",
-    "stem": "CASE STUDY: A student nurse asks why a patient with cirrhosis has easy bruising and prolonged bleeding from a minor IV site. The preceptor explains that chronic liver disease leads to impaired _______________ formation, reducing levels of clotting factors.",
-    "answer": "protein",
+    "stem": "The difference or disparity between the apical and radial pulse rates is called a pulse _______________.",
+    "answer": "deficit",
     "acceptableAnswers": [
-      "protein",
-      "protein formation",
-      "clotting factor"
+      "deficit"
     ]
   },
   {
     "id": 65,
     "type": "fitb",
-    "stem": "GGT (Gamma glutamyl transferase) and Alkaline Phosphatase are liver enzymes released from _______________ ducts and are raised in liver diseases.",
-    "answer": "bile",
+    "stem": "Costal (thoracic) breathing involves the external intercostal muscles and can be observed by the upward and outward movement of the chest. It is most common among _______________.",
+    "answer": "women",
     "acceptableAnswers": [
-      "bile",
-      "biliary"
+      "women",
+      "females"
     ]
   },
   {
     "id": 66,
     "type": "fitb",
-    "stem": "The three main types of tests performed in the diagnosis of liver disease are laboratory tests, radiological studies, and _______________.",
-    "answer": "biopsies",
+    "stem": "CASE STUDY: A preceptor asks a nursing student to name the five data parameters collected when assessing the pulse. The student responds: rate, rhythm, volume, arterial wall elasticity, and presence or absence of _______________ wall equality.",
+    "answer": "bilateral",
     "acceptableAnswers": [
-      "biopsies",
-      "biopsy",
-      "liver biopsies"
+      "bilateral",
+      "bilateral wall equality"
     ]
   },
   {
     "id": 67,
     "type": "fitb",
-    "stem": "CASE STUDY: During nursing rounds, a student nurse asks what the five focus areas of nursing management for a patient with liver cirrhosis are. The preceptor lists: promoting rest, improving nutritional status, providing skin care, reducing risk of injury, and _______________ complications.",
-    "answer": "monitoring and managing",
+    "stem": "Blood pressure rises with age, reaching a peak at the onset of puberty, and the elderly have an increased systolic blood pressure due to decreased elasticity of the _______________.",
+    "answer": "arteries",
     "acceptableAnswers": [
-      "monitoring and managing",
-      "monitoring",
-      "managing"
+      "arteries",
+      "arterial walls"
     ]
   },
   {
     "id": 68,
     "type": "fitb",
-    "stem": "Cirrhosis is defined as a condition that results from permanent damage or _______________ of the liver due to previous damage.",
-    "answer": "scarring",
+    "stem": "Diastolic pressure is the pressure in the arteries when the ventricles are at _______________.",
+    "answer": "rest",
     "acceptableAnswers": [
-      "scarring",
-      "scar formation"
+      "rest",
+      "rest (relaxation)",
+      "relaxation"
     ]
   },
   {
     "id": 69,
     "type": "fitb",
-    "stem": "Liver disease that arises because the immune system attacks the liver or bile ducts, causing inflammation and scarring, is classified as _______________ disorder.",
-    "answer": "autoimmune",
+    "stem": "CASE STUDY: A community nurse visits an elderly woman who reports feeling faint when she stands up quickly. To assess for orthostatic hypotension, the nurse first places her in the _______________ position, records baseline pulse and BP, then assists her to slowly stand before rechecking.",
+    "answer": "supine",
     "acceptableAnswers": [
-      "autoimmune",
-      "an autoimmune"
+      "supine",
+      "lying down",
+      "lying flat"
     ]
   },
   {
     "id": 70,
     "type": "fitb",
-    "stem": "CASE STUDY: A nurse assessing a patient's mentation in liver cirrhosis is looking for changes in _______________ of consciousness and alterations in behaviour or personality as early signs of hepatic encephalopathy.",
-    "answer": "level",
+    "stem": "In adults, the apical pulse is located on the left side of the chest at the 4th, 5th, or 6th intercostal space, in between the midsternal line and the _______________ line.",
+    "answer": "midclavicular",
     "acceptableAnswers": [
-      "level",
-      "level of consciousness"
+      "midclavicular",
+      "mid-clavicular"
     ]
   }
 ]
