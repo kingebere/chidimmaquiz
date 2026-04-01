@@ -2,797 +2,794 @@
   {
     "id": 1,
     "type": "mcq",
-    "stem": "A nurse palpates a patient's pulse and finds it irregular. She decides to assess the apical pulse instead. Which instrument is used to assess the apical pulse?",
+    "stem": "Tuberculosis is caused by which specific organism, and what is its primary route of transmission?",
     "options": [
-      "Sphygmomanometer",
-      "Stethoscope (diaphragm)",
-      "Pulse oximeter",
-      "Doppler ultrasound"
+      "Streptococcus pneumoniae; transmitted via contaminated food and water",
+      "Mycobacterium tuberculosis; primarily transmitted through respiratory droplets",
+      "Klebsiella pneumoniae; transmitted by direct contact with infected skin lesions",
+      "Pneumocystis carinii; transmitted through blood transfusion"
     ],
     "answer": "B"
   },
   {
     "id": 2,
     "type": "mcq",
-    "stem": "A nurse is assessing a 2-year-old infant's apical pulse. Where is the CORRECT anatomical location of the apical pulse for this age group?",
+    "stem": "A patient with active pulmonary tuberculosis is admitted to the ward. The nurse correctly implements which isolation precaution FIRST?",
     "options": [
-      "5th intercostal space at the midsternal line",
-      "Left of the midclavicular line",
-      "Midclavicular line at the 5th intercostal space",
-      "Between the midclavicular line and anterior axillary line"
+      "Contact precautions with gown and gloves only",
+      "Respiratory isolation to prevent spread, with all staff and visitors using face masks",
+      "Reverse isolation to protect the immunocompromised patient",
+      "Standard precautions only, as TB is not airborne once on treatment"
     ],
     "answer": "B"
   },
   {
     "id": 3,
     "type": "mcq",
-    "stem": "A patient's apical pulse is 96 bpm and the radial pulse is 82 bpm. The nurse correctly documents this finding as a:",
+    "stem": "In the pathophysiology of tuberculosis, after macrophages ingest the bacilli, the organisms that resist destruction are carried to which structure?",
     "options": [
-      "Normal variation in healthy adults",
-      "Pulse deficit requiring immediate reporting",
-      "Dysrhythmia correctable by positioning",
-      "Tachycardia from elevated stroke volume"
+      "Alveolar walls",
+      "Pleural space",
+      "Lymph nodes",
+      "Bronchioles"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 4,
     "type": "mcq",
-    "stem": "Blood viscosity increases significantly when the haematocrit exceeds which threshold, thereby increasing blood pressure?",
+    "stem": "A chest X-ray of a patient with pulmonary tuberculosis is MOST likely to reveal which findings?",
     "options": [
-      "40% to 45%",
-      "50% to 55%",
-      "60% to 65%",
-      "70% to 75%"
+      "Consolidation of entire lung lobe with pleural fluid",
+      "Nodular lesions, cavitations, and scar tissue",
+      "Hyperinflation with flattened diaphragm",
+      "Ground glass opacities in both lower lobes"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 5,
     "type": "mcq",
-    "stem": "CASE STUDY: A 68-year-old woman is admitted after a near-syncopal episode. Her lying blood pressure is 130/82 mmHg. After assisting her to stand, her BP drops to 108/70 mmHg and her pulse rises from 72 to 94 bpm. The nurse correctly identifies this as:",
+    "stem": "CASE STUDY: Mr. K., a 38-year-old man, presents with a 3-month history of productive cough, haemoptysis, night sweats, low-grade fever, and 8 kg weight loss. A tuberculin skin test is performed. Which statement about this test is CORRECT?",
     "options": [
-      "Primary hypertension",
-      "Hypotension secondary to dehydration",
-      "Orthostatic (postural) hypotension",
-      "Normal physiological response to standing"
+      "A positive reaction confirms active TB disease and the patient must be isolated immediately",
+      "A positive reaction after 2 to 6 weeks is diagnostic of TB infection",
+      "A negative result definitively rules out TB in all patients",
+      "The test is only valid in patients under 40 years of age"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 6,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q5): In assessing for orthostatic hypotension, after placing the patient supine and recording baseline vital signs, the next steps are to assist her to sit or stand, immediately recheck pulse and BP in the same sites, then repeat the pulse and BP after how many minutes?",
+    "stem": "CASE STUDY (continued from Q5): The physician orders sputum smears and cultures. What is the clinical purpose of sputum smears in TB diagnosis?",
     "options": [
-      "1 minute",
-      "2 minutes",
-      "3 minutes",
-      "5 minutes"
+      "To detect autoimmune antibodies that confirm TB reactivation",
+      "To reveal the causative organism (Mycobacterium tuberculosis)",
+      "To quantify red blood cell destruction in haemoptysis",
+      "To measure the level of drug resistance before treatment"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 7,
     "type": "mcq",
-    "stem": "A patient with a haemoglobin of 6 g/dL has a pulse oximetry reading of 98%. The nurse correctly interprets this result as:",
+    "stem": "The medical management of tuberculosis involves simultaneous administration of three or more medications. The PRIMARY rationale for this multi-drug approach is to:",
     "options": [
-      "Accurate; the patient has no respiratory compromise",
-      "Potentially misleading; the haemoglobin is fully saturated but too low to adequately supply tissues, so the patient may still be hypoxic",
-      "Critically low and requiring immediate oxygen supplementation",
-      "Invalid because the pulse oximeter cannot function with anaemia"
+      "Reduce the length of treatment from 12 months to 3 months",
+      "Increase therapeutic effect and decrease development of resistant bacteria",
+      "Prevent side effects by distributing medication load across multiple drugs",
+      "Provide coverage for both bacterial and viral pulmonary co-infections"
     ],
     "answer": "B"
   },
   {
     "id": 8,
     "type": "mcq",
-    "stem": "A nurse is assessing a patient's blood pressure. The cuff bladder is too narrow for the patient's arm. What effect will this have on the blood pressure reading?",
+    "stem": "Which of the following combinations represents FIRST-LINE anti-tuberculosis drugs?",
     "options": [
-      "The reading will be erroneously low",
-      "The reading will be accurate if proper technique is used",
-      "The reading will be erroneously high",
-      "The reading will show a widened pulse pressure"
+      "Cycloserine, Para-aminosalicylic acid, Streptomycin, Capreomycin",
+      "Isoniazid, Rifampicin, Ethambutol, Pyrazinamide",
+      "Amikacin, Kanamycin, Ethionamide, Viomycin",
+      "Ciprofloxacin, Moxifloxacin, Linezolid, Bedaquiline"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 9,
     "type": "mcq",
-    "stem": "Which breathing pattern is characterised by a gradual increase and decrease in respirations with periods of apnoea?",
+    "stem": "A patient with drug-resistant tuberculosis is prescribed second-line anti-TB drugs. Which drug is classified as a SECOND-LINE agent?",
     "options": [
-      "Biot respiration",
-      "Apneustic breathing",
-      "Cheyne-Stokes breathing",
-      "Kussmaul breathing"
+      "Isoniazid",
+      "Rifampicin",
+      "Pyrazinamide",
+      "Cycloserine"
     ],
-    "answer": "C"
+    "answer": "D"
   },
   {
     "id": 10,
     "type": "mcq",
-    "stem": "CASE STUDY: A 42-year-old factory worker is admitted after being rescued from a building fire. He appears conscious but his SpO2 reads 99% on room air. He has a cherry-red skin colour and complains of a severe headache. The nurse is concerned the pulse oximeter reading is unreliable. Why?",
+    "stem": "CASE STUDY: After 3 weeks of TB treatment, Mrs. A. tells the nurse she feels much better and wants to stop taking her medications. The nurse's MOST appropriate response is:",
     "options": [
-      "Smoke inhalation causes bronchoconstriction that falsely elevates SpO2",
-      "Pulse oximeters cannot discriminate between haemoglobin saturated with carbon monoxide versus oxygen, giving a falsely high reading",
-      "Activity and movement during the rescue have interfered with sensor accuracy",
-      "Impaired peripheral circulation from burns has created an inaccurate reading"
+      "Reassure her and allow her to reduce the dose since she is improving",
+      "Explain that it is crucial to finish the full course of therapy (6â9 months) as stopping early can lead to drug-resistant TB",
+      "Contact the physician to switch her to a shorter regimen given her good response",
+      "Document her preference and respect her autonomy as the patient"
     ],
     "answer": "B"
   },
   {
     "id": 11,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q10): A life-threatening SpO2 level using a pulse oximeter would be:",
+    "stem": "CASE STUDY (continued from Q10): To ensure medication adherence, the nurse recommends a program whereby a health care worker administers medication directly to the patient. This strategy is called:",
     "options": [
-      "Below 95%",
-      "Below 90%",
-      "Below 80%",
-      "Below 70%"
+      "Supervised medication therapy (SMT)",
+      "Directly Observed Therapy (DOT)",
+      "Active case management protocol (ACMP)",
+      "Medication-assisted treatment (MAT)"
     ],
-    "answer": "D"
+    "answer": "B"
   },
   {
     "id": 12,
     "type": "mcq",
-    "stem": "The width of a blood pressure cuff bladder should be what percentage of the circumference of the arm?",
+    "stem": "Pneumonia is BEST defined as:",
     "options": [
-      "20%",
-      "30%",
-      "40%",
-      "50%"
+      "A chronic obstructive disease of the airways causing irreversible airflow limitation",
+      "An inflammatory process involving the respiratory bronchioles, alveolar space, and walls of the lobes of the lungs",
+      "A condition in which the pleural space fills with fluid secondary to cardiac failure",
+      "Collapse of alveoli due to obstruction or external compression"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 13,
     "type": "mcq",
-    "stem": "A patient's blood pressure is 158/96 mmHg on two separate clinic days. The nurse correctly classifies this as:",
+    "stem": "Which of the following organisms is classified as a BACTERIAL cause of pneumonia?",
     "options": [
-      "Normal blood pressure within acceptable range",
-      "Hypotension requiring fluid resuscitation",
-      "Hypertension meeting diagnostic criteria",
-      "White coat hypertension requiring further monitoring only"
+      "Pneumocystis carinii",
+      "Influenza virus",
+      "Streptococcus pneumoniae",
+      "Haemophilus influenza virus"
     ],
     "answer": "C"
   },
   {
     "id": 14,
     "type": "mcq",
-    "stem": "Peripheral vascular resistance (PVR) increases blood pressure because:",
+    "stem": "CASE STUDY: A 72-year-old woman with a history of stroke is admitted with fever of 39.2Â°C, productive purulent sputum, grunting, and nasal flaring. Chest X-ray shows consolidation of the right lower lobe. Which type of pneumonia (by location) does this presentation MOST likely represent?",
     "options": [
-      "Increased PVR increases blood volume in the ventricles",
-      "Increased vasoconstriction increases blood pressure; the smaller the diameter of the vessel the greater the resistance",
-      "Increased PVR reduces heart rate, increasing stroke volume per beat",
-      "Increased PVR dilates arterioles to accommodate more blood flow"
+      "Bronchopneumonia involving distal air ways and alveoli",
+      "Lobar pneumonia involving the entire lobe",
+      "Pleuritic pneumonia involving pleural membranes only",
+      "Atypical pneumonia from viral cause"
     ],
     "answer": "B"
   },
   {
     "id": 15,
     "type": "mcq",
-    "stem": "A nurse is preparing to measure blood pressure in a patient who has an arteriovenous fistula for renal dialysis in the left arm. What is the correct action?",
+    "stem": "CASE STUDY (continued from Q14): Which predisposing factor from the patient's history MOST likely contributed to her developing pneumonia?",
     "options": [
-      "Measure in the left arm, documenting the presence of the fistula",
-      "Use a smaller cuff size for the left arm to reduce pressure on the fistula",
-      "Avoid measuring blood pressure in that limb; use the other arm",
-      "Assess blood pressure in the thigh instead of any arm"
+      "Her age alone, as elderly patients are universally susceptible",
+      "Post-stroke dysphagia increasing aspiration risk from foreign matter into the bronchi",
+      "Dehydration causing increased blood viscosity",
+      "Hospitalisation causing exposure to hospital-acquired organisms"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 16,
     "type": "mcq",
-    "stem": "CASE STUDY: A nurse receives a patient post-cardiac surgery whose peripheral pulse is weak and barely palpable. She decides to assess the apical pulse. She is aware this is also routinely done before administering which category of medications?",
+    "stem": "In the pathophysiology of pneumonia, the alveoli fill with blood and exudates because of which sequence of events?",
     "options": [
-      "Antibiotics and antifungals",
-      "Medications that affect heart rate",
-      "Analgesics and antiemetics",
-      "Diuretics and electrolyte replacements"
+      "Airway constriction â air trapping â alveolar overdistension â rupture",
+      "Infection â inflammation of the airway â exudate and oedema â spread to other areas â capillary engorgement with blood â alveolar membrane breaks down",
+      "Bacterial toxin release â direct alveolar wall necrosis â haemorrhage â consolidation",
+      "Immune suppression â macrophage failure â uncontrolled bacterial proliferation â systemic sepsis"
     ],
     "answer": "B"
   },
   {
     "id": 17,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q16): Two nurses are assigned to assess the apical-radial pulse simultaneously. For accurate measurement, both nurses should count the pulses for how long?",
+    "stem": "A nurse auscultates a patient's lungs and hears crackles bilaterally at the bases. The chest X-ray shows consolidation. A complete blood count shows elevated white blood cells. The nurse correctly recognises the elevated WBC as indicating:",
     "options": [
-      "15 seconds",
-      "30 seconds",
-      "60 seconds",
-      "90 seconds"
+      "Bone marrow suppression secondary to antibiotic therapy",
+      "Bacterial infection causing leucocytosis",
+      "Allergic reaction to inhaled pathogens",
+      "Viral pneumonia characteristically elevating WBC"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 18,
     "type": "mcq",
-    "stem": "Vesicular breath sounds are normal breath sounds that are best described as:",
+    "stem": "The goal of management in pneumonia is BEST described as:",
     "options": [
-      "High-pitched, loud, harsh sounds heard over the trachea",
-      "Low-pitched, gentle sighing sounds heard over the peripheral lung",
-      "Moderately pitched blowing sounds heard between the scapulae",
-      "Continuous high-pitched squeaky sounds heard over all lung fields"
+      "Suppressing cough reflexes and preventing sputum production",
+      "Getting rid of the invading organism and enhancing respiration",
+      "Administering steroids to reduce lung inflammation",
+      "Providing mechanical ventilation early to prevent respiratory failure"
     ],
     "answer": "B"
   },
   {
     "id": 19,
     "type": "mcq",
-    "stem": "A patient is found to have wheeze on auscultation. The nurse understands this is caused by:",
+    "stem": "A physician orders sputum culture and sensitivity for a patient admitted with pneumonia. What is the PRIMARY purpose of this test?",
     "options": [
-      "Air passing through fluid or mucus in any air passage",
-      "Rubbing together of inflamed pleural surfaces",
-      "Air passing through a constricted bronchus due to secretions, swelling, or tumour",
-      "Air moving through large airways creating blowing sounds"
+      "To confirm the diagnosis of pneumonia through WBC analysis",
+      "To identify the causative organism and determine antibiotic sensitivity to guide treatment",
+      "To quantify the degree of alveolar damage through bacterial load",
+      "To detect the presence of acid-fast bacilli and confirm tuberculosis"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 20,
     "type": "mcq",
-    "stem": "A pulse pressure greater than 40 mmHg is associated with which condition?",
+    "stem": "CASE STUDY: A 55-year-old man is admitted with high fever, chills, dyspnoea, purulent sputum, and chest pain. His SpO2 is 88% on room air. The physician prescribes amoxicillin. The nurse correctly identifies amoxicillin as which class of drug?",
     "options": [
-      "Severe heart failure",
-      "Hypovolaemic shock",
-      "Arteriosclerosis",
-      "Orthostatic hypotension"
+      "Mucolytic agent",
+      "Antipyretic",
+      "Antibiotic",
+      "Bronchodilator"
     ],
     "answer": "C"
   },
   {
     "id": 21,
     "type": "mcq",
-    "stem": "A nurse auscultates a patient's lungs and hears a superficial grating or creaking sound during both inspiration and expiration that is not altered by coughing. She correctly identifies this as:",
+    "stem": "CASE STUDY (continued from Q20): The nurse positions the patient in which position to optimise respiratory function?",
     "options": [
-      "Wheezes",
-      "Crackles (rales)",
-      "Friction rub",
-      "Gurgles (rhonchi)"
+      "Supine with legs elevated",
+      "Left lateral decubitus",
+      "Fowler's position",
+      "Trendelenburg position"
     ],
     "answer": "C"
   },
   {
     "id": 22,
     "type": "mcq",
-    "stem": "CASE STUDY: A 30-year-old woman with asthma is admitted during an acute exacerbation. On auscultation, the nurse hears high-pitched continuous musical sounds over all lung fields, best heard on expiration. These sounds are NOT usually altered by coughing. The nurse documents these as:",
+    "stem": "Which mucolytic agent is listed in the notes as a pharmacological option to facilitate sputum expectoration in pneumonia management?",
     "options": [
-      "Crackles (rales)",
-      "Friction rub",
-      "Gurgles (rhonchi)",
-      "Wheezes"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": 23,
-    "type": "mcq",
-    "stem": "CASE STUDY (continued from Q22): The patient's SpO2 drops to 88% on room air. The nurse understands that normal SpO2 should be within which range?",
-    "options": [
-      "85% to 95%",
-      "90% to 95%",
-      "97% to 100%",
-      "94% to 96%"
+      "Aminophylline",
+      "Tetracycline",
+      "Acetylcysteine",
+      "Erythromycin"
     ],
     "answer": "C"
   },
   {
+    "id": 23,
+    "type": "mcq",
+    "stem": "The upper respiratory tract includes all of the following structures EXCEPT:",
+    "options": [
+      "Nose and sinuses",
+      "Pharynx and epiglottis",
+      "Larynx with mucus-secreting cells and cilia",
+      "Terminal bronchioles and alveoli"
+    ],
+    "answer": "D"
+  },
+  {
     "id": 24,
     "type": "mcq",
-    "stem": "Hypovolaemia increases the pulse rate in adults because:",
+    "stem": "Type II alveolar cells serve which critical function in the respiratory system?",
     "options": [
-      "Reduced blood volume stimulates the parasympathetic nervous system to slow the heart",
-      "Loss of blood from the vascular system normally increases pulse rate as the heart adjusts to increase blood pressure to compensate for blood loss",
-      "Hypovolaemia directly stimulates cardiac pacemaker cells to fire more rapidly",
-      "Reduced venous return increases end-diastolic volume and stroke volume"
+      "They ingest foreign matter to provide immune defence",
+      "They secrete surfactant that prevents alveolar collapse",
+      "They transport oxygen across the alveolar membrane into the bloodstream",
+      "They produce mucus to trap inhaled particles"
     ],
     "answer": "B"
   },
   {
     "id": 25,
     "type": "mcq",
-    "stem": "A patient's blood pressure cannot be measured on the right arm due to burns. The nurse decides to assess on the thigh. Which statement is TRUE about thigh blood pressure measurement?",
+    "stem": "CASE STUDY: A medical student asks a nurse why the pleura is clinically important. The nurse correctly explains that the pleura:",
     "options": [
-      "The thigh blood pressure is always lower than the arm and should never be used for diagnosis",
-      "Thigh blood pressure assessment is indicated when the arms cannot be used and the reading should be compared with the other thigh",
-      "Thigh blood pressure is always higher and requires a special conversion formula to interpret",
-      "Thigh blood pressure is only valid in patients under 40 years of age"
+      "Produces surfactant to maintain alveolar patency",
+      "Provides parietal and visceral membranes separated by fluid in the intrapleural space, allowing smooth lung movement during breathing",
+      "Regulates neurological control of respiratory rate via chemoreceptors",
+      "Prevents air from entering the mediastinum during forced expiration"
     ],
     "answer": "B"
   },
   {
     "id": 26,
     "type": "mcq",
-    "stem": "Respiration is controlled by respiratory centres in the medulla oblongata and the pons of the brain, as well as chemoreceptors that respond to changes in which three substances?",
+    "stem": "CASE STUDY (continued from Q25): A patient develops a stabbing chest pain worsened by breathing and a friction rub on auscultation. The nurse correctly identifies this as:",
     "options": [
-      "Sodium, potassium, and chloride",
-      "Oxygen, carbon dioxide, and hydrogen concentrations",
-      "Glucose, lactate, and bicarbonate",
-      "Nitrogen, calcium, and phosphate"
+      "Pneumonia with cavitation",
+      "Pleuritis with inflammation of the pleural surfaces",
+      "Tension pneumothorax requiring immediate decompression",
+      "Pulmonary embolism causing pleuritic pain"
     ],
     "answer": "B"
   },
   {
     "id": 27,
     "type": "mcq",
-    "stem": "A well-trained athlete is found to have a resting heart rate of 48 bpm. The nurse correctly interprets this as:",
+    "stem": "The right lung differs from the left lung in that it:",
     "options": [
-      "Bradycardia requiring immediate cardiac monitoring",
-      "Normal for a well-trained athlete due to greater cardiac size, strength, and efficiency",
-      "Abnormal bradycardia caused by vagal nerve overactivation",
-      "Tachycardia threshold not yet reached and no action needed"
+      "Contains two lobes and is smaller to accommodate the heart",
+      "Contains three lobes while the left lung contains two lobes",
+      "Has a lingula and cardiac notch absent in the left lung",
+      "Receives blood only from the pulmonary artery, not the bronchial circulation"
     ],
     "answer": "B"
   },
   {
     "id": 28,
     "type": "mcq",
-    "stem": "CASE STUDY: A 55-year-old male patient tells the nurse he works night shifts and has not slept in 36 hours. His BP is 148/92 mmHg. He appears anxious and agitated. Which factor affecting blood pressure MOST likely explains the elevated reading?",
+    "stem": "Neurologic control of respiration involves receptor sites in the brain that respond to chemical changes. Peripheral receptor sites specifically respond to changes in which parameter?",
     "options": [
-      "Age-related decreased arterial elasticity",
-      "Racial predisposition to hypertension",
-      "Stress stimulating the SNS, increasing cardiac output and vasoconstriction",
-      "Decreased blood viscosity from sleep deprivation"
+      "Changes in arterial blood pressure and heart rate",
+      "CO2 levels and baroreceptor input",
+      "Serum sodium and potassium levels",
+      "Pulmonary capillary wedge pressure"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 29,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q28): The patient asks the nurse what is the difference between primary and secondary hypertension. The nurse correctly explains:",
+    "stem": "In multi-drug resistant tuberculosis (MDR-TB), when medical management fails, which surgical interventions may be instituted?",
     "options": [
-      "Primary hypertension has a known cause; secondary hypertension does not",
-      "Primary (essential) hypertension has no known cause; secondary hypertension has a known identifiable cause",
-      "Primary hypertension only affects the elderly; secondary hypertension affects all ages",
-      "Primary hypertension is treated with lifestyle changes only; secondary requires medication"
+      "Tracheostomy and mechanical ventilation",
+      "Lobectomy or pneumonectomy to remove infected tissue",
+      "Thoracentesis and pleural biopsy",
+      "Bronchoscopy and bronchial lavage"
     ],
     "answer": "B"
   },
   {
     "id": 30,
     "type": "mcq",
-    "stem": "Crackles (rales) are abnormal breath sounds best described as:",
+    "stem": "A nurse is discharging a patient with pulmonary tuberculosis. Which education point is MOST important to prevent reactivation?",
     "options": [
-      "Continuous high-pitched sounds caused by narrowed bronchi",
-      "Short interrupted crackling sounds caused by air passing through fluid or mucus; best heard on inspiration",
-      "Grating sounds caused by inflamed pleural surfaces rubbing together",
-      "Coarse low-pitched sounds caused by secretions in the trachea and bronchi"
+      "Avoid crowding, improve ventilation at home, dispose of secretions in plastic bags, and avoid exposure to silicone",
+      "Wear a surgical mask at all times outdoors and avoid public transport permanently",
+      "Restrict fluid intake to reduce sputum production and night sweats",
+      "Take double the prescribed dose if symptoms return after feeling better"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 31,
     "type": "mcq",
-    "stem": "Systolic blood pressure represents pressure in the arteries during which cardiac event?",
+    "stem": "The diaphragm is innervated by which nerve?",
     "options": [
-      "Ventricular relaxation",
-      "Atrial contraction",
-      "Ventricular contraction",
-      "Isovolumetric filling"
+      "Vagus nerve (CN X)",
+      "Phrenic nerve (a branch of the vagus nerve)",
+      "Intercostal nerve",
+      "Accessory nerve (CN XI)"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 32,
     "type": "mcq",
-    "stem": "A patient's blood pressure falls to 90/60 mmHg post-operatively following major abdominal surgery with significant blood loss. The nurse attributes the decline in blood pressure PRIMARILY to:",
+    "stem": "CASE STUDY: A 28-year-old HIV-positive patient is admitted with progressive dyspnoea, fever, and non-productive cough. A sputum culture reveals Pneumocystis carinii. The nurse correctly identifies this organism as which type of pathogen?",
     "options": [
-      "Decreased blood viscosity from haemodilution",
-      "Reduced peripheral vascular resistance from anaesthetic agents",
-      "Decreased blood volume leading to less fluid in the vessels",
-      "Impaired cardiac pumping from surgical stress"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": 33,
-    "type": "mcq",
-    "stem": "CASE STUDY: A nurse is auscultating the lungs of a 70-year-old COPD patient. She hears a continuous low-pitched coarse sound with a moaning or snoring quality predominantly over the trachea and bronchi, best heard on expiration. The nurse documents this as:",
-    "options": [
-      "Friction rub",
-      "Vesicular sounds",
-      "Wheeze",
-      "Gurgles (rhonchi)"
+      "Gram-positive bacteria",
+      "Gram-negative bacteria",
+      "Virus",
+      "Fungus/protozoan (viral classification in text)"
     ],
     "answer": "D"
   },
   {
+    "id": 33,
+    "type": "mcq",
+    "stem": "CASE STUDY (continued from Q32): The patient has severely impaired gas exchange. Which nursing diagnosis is MOST appropriate?",
+    "options": [
+      "Fluid volume deficit related to excessive diaphoresis",
+      "Impaired gas exchange related to inflammation of the alveoli causing hypoxia",
+      "Risk for infection transmission related to the nature of the disease",
+      "Impaired sleep pattern related to night sweats"
+    ],
+    "answer": "B"
+  },
+  {
     "id": 34,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q33): The nurse notes the gurgles are partially cleared after the patient coughs. Which characteristic of gurgles explains this finding?",
+    "stem": "Haematogenous dissemination of tuberculosis occurs when infection spreads through which route?",
     "options": [
-      "Gurgles are due to pleural inflammation that resolves temporarily with coughing",
-      "Gurgles may be altered by coughing because they are caused by secretions in the airways that can be partially mobilised",
-      "Gurgles are fixed airway sounds unrelated to secretion clearance",
-      "Coughing increases intrathoracic pressure and temporarily silences all breath sounds"
+      "Direct contact between infected sputum and mucosal surfaces",
+      "Blood and lymphatic circulation to distant sites",
+      "Droplet nuclei inhaled directly into the systemic circulation",
+      "Gastrointestinal absorption of swallowed bacilli"
     ],
     "answer": "B"
   },
   {
     "id": 35,
     "type": "mcq",
-    "stem": "A nurse assesses pulse volume as 'bounding' in a patient. This refers to:",
+    "stem": "A nurse uses bronchoscopy findings to confirm a TB diagnosis. In addition to showing inflammation and altered lung tissue, bronchoscopy can also be performed to:",
     "options": [
-      "An irregular rhythm between beats",
-      "A very strong, forceful pulse felt with each beat",
-      "An absent pulse in the peripheral vessels",
-      "A pulse that alternates between strong and weak beats"
+      "Measure pulmonary artery pressure directly",
+      "Obtain sputum when the patient cannot produce an adequate sputum specimen",
+      "Visualise the pleural space and diagnose pleural effusion",
+      "Quantify the degree of atelectasis through direct alveolar inspection"
     ],
     "answer": "B"
   },
   {
     "id": 36,
     "type": "mcq",
-    "stem": "Diaphragmatic (abdominal) breathing involves contraction and relaxation of the diaphragm and is MOST commonly observed in which group?",
+    "stem": "Acid-base regulation is one function of the respiratory system. An increase in CO2 levels causes which change in blood pH?",
     "options": [
-      "Elderly women and post-surgical patients",
-      "Women with respiratory disease",
-      "Men and young children",
-      "Patients with increased intracranial pressure"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": 37,
-    "type": "mcq",
-    "stem": "An adult patient has a respiratory rate of 8 breaths per minute with shallow respirations. The nurse recognises this as hypoventilation characterised by:",
-    "options": [
-      "Rapid and deep breathing with overexpansion of the lungs",
-      "Under-expansion of the lungs characterised by shallow respirations",
-      "Alternating periods of rapid breathing and apnoea",
-      "Prolonged inspiratory phase with brief expiration"
+      "Increases pH (alkalosis) by stimulating CO2 excretion",
+      "Decreases pH (acidosis) because CO2 combines with water to form carbonic acid",
+      "Has no effect on pH as the kidneys fully compensate immediately",
+      "Increases bicarbonate, restoring pH to normal within minutes"
     ],
     "answer": "B"
   },
   {
-    "id": 38,
+    "id": 37,
     "type": "mcq",
-    "stem": "CASE STUDY: A 77-year-old male with congestive heart failure is admitted. He can only breathe comfortably when sitting upright and becomes severely dyspnoeic when lying flat. The nurse correctly documents this as:",
+    "stem": "CASE STUDY: A 60-year-old COPD patient is admitted with worsening dyspnoea. Bronchoscopy is performed and reveals inflamed airways. He is prescribed aminophylline. The nurse understands aminophylline is used in pneumonia/respiratory disorders because it:",
     "options": [
-      "Dyspnoea",
-      "Tachypnoea",
-      "Apnoea",
-      "Orthopnoea"
+      "Kills the causative bacterial organism directly",
+      "Reduces fever by inhibiting prostaglandin synthesis",
+      "Maintains high fluid intake and reduces viscosity of secretions",
+      "Acts as a bronchodilator for respiratory mucociliary clearance"
     ],
     "answer": "D"
   },
   {
+    "id": 38,
+    "type": "mcq",
+    "stem": "CASE STUDY (continued from Q37): The nurse also administers an antipyretic to manage the patient's temperature of 39.4Â°C. Which medication would be MOST appropriate for this purpose?",
+    "options": [
+      "Amoxicillin",
+      "Acetylcysteine",
+      "Acetaminophen (paracetamol)",
+      "Aminoglycoside"
+    ],
+    "answer": "C"
+  },
+  {
     "id": 39,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q38): Auscultation of this patient's lungs reveals crackles (rales) bilaterally at the bases. The nurse understands that these crackles are MOST likely caused by:",
+    "stem": "The incubation period of Mycobacterium tuberculosis is between 1 to 3 months. However, in individuals with adequate immunity, the organism may:",
     "options": [
-      "Inflamed pleural surfaces rubbing together due to pleuritis",
-      "Secretions and fluid accumulation in the lower airways secondary to heart failure",
-      "Air passing through chronically constricted bronchi",
-      "Narrowed airways from tumour infiltration"
+      "Be completely eliminated within 2 weeks by macrophage activity",
+      "Remain dormant for a very long time after being encapsulated and inactivated",
+      "Immediately progress to active disease without a latent phase",
+      "Develop drug resistance within the first month without treatment"
     ],
     "answer": "B"
   },
   {
     "id": 40,
     "type": "mcq",
-    "stem": "The carotid pulse site is specifically used during which clinical emergency?",
+    "stem": "A patient with pneumonia has a nursing diagnosis of 'impaired nutrition less than body requirements related to poor appetite.' The nurse plans which intervention MOST aligned with the TB and pneumonia nutrition guidelines?",
     "options": [
-      "Routine blood pressure assessment in hypertensive patients",
-      "Cardiac arrest or shock",
-      "Cardiac auscultation for murmurs",
-      "Apical-radial pulse deficit measurement"
+      "Restrict protein intake to prevent excessive metabolic demand on the inflamed lungs",
+      "Provide a high-calorie, high-protein diet with vitamins and minerals to boost the immune system and facilitate lung tissue healing",
+      "Encourage a low-fat liquid diet to minimise digestive workload during acute illness",
+      "Provide parenteral nutrition exclusively to bypass oral intake difficulties"
     ],
     "answer": "B"
   },
   {
     "id": 41,
     "type": "mcq",
-    "stem": "A patient's blood pressure is 130/80 mmHg. The pulse pressure is:",
+    "stem": "Negative pressure in the pleural (intrapleural) space is important because it:",
     "options": [
-      "210 mmHg",
-      "80 mmHg",
-      "50 mmHg",
-      "105 mmHg"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": 42,
-    "type": "mcq",
-    "stem": "CASE STUDY: A nurse assessing a patient notes the respiratory rate is 28 breaths per minute with quick, shallow breaths. The patient appears anxious after receiving bad news. The nurse documents this breathing pattern as:",
-    "options": [
-      "Bradypnoea",
-      "Eupnoea",
-      "Apnoea",
-      "Tachypnoea"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": 43,
-    "type": "mcq",
-    "stem": "CASE STUDY (continued from Q42): The nurse understands that this patient's tachypnoea is MOST likely caused by:",
-    "options": [
-      "Increased intracranial pressure from an intracranial bleed",
-      "Stress triggering the flight or fight response",
-      "Narcotic analgesics given post-procedure",
-      "Increased altitude reducing ambient oxygen"
+      "Prevents air from entering the lungs during forced expiration",
+      "Keeps the lungs expanded against the chest wall and prevents lung collapse",
+      "Regulates the flow of blood through the pulmonary circulation",
+      "Maintains the production of surfactant by type II alveolar cells"
     ],
     "answer": "B"
   },
   {
+    "id": 42,
+    "type": "mcq",
+    "stem": "CASE STUDY: A student nurse asks why a TB patient admitted to the ward is placed in a room with negative pressure ventilation. The senior nurse correctly explains:",
+    "options": [
+      "Negative pressure ventilation provides supplemental oxygen to the patient",
+      "Negative pressure prevents TB-contaminated air from escaping the room into the corridor, protecting other patients and staff",
+      "It reduces the atmospheric pressure in the room, killing airborne mycobacteria",
+      "It creates a humidity-controlled environment that prevents bacterial growth"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 43,
+    "type": "mcq",
+    "stem": "CASE STUDY (continued from Q42): Family members visiting the patient ask the nurse why they must wear face masks. The nurse explains that TB is transmitted primarily through:",
+    "options": [
+      "Direct contact with the patient's skin lesions",
+      "Contaminated food and water shared with the patient",
+      "Respiratory droplets from infected persons who cough or sneeze",
+      "Blood and body fluid contact during patient care activities"
+    ],
+    "answer": "C"
+  },
+  {
     "id": 44,
     "type": "mcq",
-    "stem": "Arterial wall elasticity is assessed when palpating a pulse and normal arterial wall should feel:",
+    "stem": "Bronchopneumonia differs from lobar pneumonia in that bronchopneumonia:",
     "options": [
-      "Rigid, hard, and non-compressible",
-      "Straight, smooth, soft, and pliable",
-      "Tortuous and thickened with irregular borders",
-      "Firm and bounding with high resistance to compression"
+      "Is always caused by viral organisms while lobar pneumonia is always bacterial",
+      "Involves distal air ways and alveoli while lobar pneumonia involves the entire lobe",
+      "Only affects the right lung while lobar pneumonia affects both lungs simultaneously",
+      "Is less severe and never requires hospitalisation compared to lobar pneumonia"
     ],
     "answer": "B"
   },
   {
     "id": 45,
     "type": "mcq",
-    "stem": "The popliteal pulse is used for which clinical assessment purpose?",
+    "stem": "A nurse notes that a pneumonia patient has 'Hyperthermia related to infection process evidenced by temperature of 38.6Â°C.' Which intervention is MOST directly targeted at this nursing diagnosis?",
     "options": [
-      "Cardiac arrest and shock assessment",
-      "Measuring blood pressure in infants",
-      "Assessing circulation to the lower leg",
-      "Cardiac auscultation pre-medication"
+      "Position in Fowler's position to improve oxygenation",
+      "Administer antipyretics as prescribed and maintain high fluid intake",
+      "Administer mucolytics to thin secretions and facilitate expectoration",
+      "Enforce respiratory isolation to prevent cross-infection"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 46,
     "type": "mcq",
-    "stem": "CASE STUDY: A nurse is about to administer digoxin 0.25 mg orally to a patient. Before administration, she assesses the apical pulse and finds it is 54 bpm. Which action is MOST appropriate?",
+    "stem": "Type III alveolar cells (Type III macrophages) function specifically to:",
     "options": [
-      "Administer the digoxin as prescribed and continue monitoring",
-      "Hold the digoxin, document the finding, and notify the physician immediately, as digoxin can further lower heart rate",
-      "Administer half the dose and reassess in 30 minutes",
-      "Reassess the pulse using the radial site before deciding"
+      "Secrete surfactant to reduce surface tension",
+      "Ingest foreign matter as an important defence mechanism",
+      "Transport gases across the alveolar-capillary membrane",
+      "Produce mucus to trap inhaled pathogens in the upper airway"
     ],
     "answer": "B"
   },
   {
     "id": 47,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q46): The physician is notified and asks about the pulse deficit. A pulse deficit is BEST described as:",
+    "stem": "CASE STUDY: A 45-year-old woman with a history of smoking presents with cough, fever of 38.9Â°C, and purulent sputum. Blood cultures are pending. A chest X-ray shows bilateral infiltrates. The nurse recognises smoking as a predisposing factor for pneumonia because:",
     "options": [
-      "Any pulse rate below 60 bpm in an adult patient",
-      "The difference between apical and radial pulse rates, indicating inadequate cardiac output reaching the periphery",
-      "The absence of a radial pulse in a patient with known atrial fibrillation",
-      "A widened pulse pressure indicating arteriosclerosis"
+      "Smoking directly introduces Streptococcus pneumoniae into the lower airways",
+      "Smoking impairs mucociliary function, reducing the ability to clear pathogens from the respiratory tract",
+      "Nicotine suppresses fever responses, delaying diagnosis",
+      "Smoking increases respiratory rate, promoting inhalation of larger pathogen loads"
     ],
     "answer": "B"
   },
   {
     "id": 48,
     "type": "mcq",
-    "stem": "The Korotkoff sounds heard during blood pressure measurement are produced by which method?",
+    "stem": "CASE STUDY (continued from Q47): The nurse plans to monitor the patient for complications of pneumonia. Which complication involves collection of pus in the pleural space?",
     "options": [
-      "The pulse oximeter detecting arterial pulsations",
-      "Blood flowing through the artery as detected by the stethoscope and sphygmomanometer",
-      "The cuff bladder vibrating against the arm during inflation",
-      "The diaphragm of the stethoscope amplifying venous sounds"
+      "Atelectasis",
+      "Empyema",
+      "Sepsis",
+      "Pneumothorax"
     ],
     "answer": "B"
   },
   {
     "id": 49,
     "type": "mcq",
-    "stem": "A nurse is assessing a 5-year-old child's apical pulse. Based on age, where is the CORRECT location of the apical pulse?",
+    "stem": "Pulmonary circulation is distinct from bronchial circulation in that pulmonary circulation:",
     "options": [
-      "Left of the midclavicular line",
-      "5th intercostal space at the midsternal line",
-      "Midclavicular line at the 5th intercostal space",
-      "Between the midsternal line and midclavicular line at the 5th intercostal space"
+      "Provides nutrients to the lung tissue while bronchial circulation handles gas exchange",
+      "Provides for gas exchange at the lungs, while bronchial circulation supplies the bronchial cells nutritional needs",
+      "Drains venous blood from the lungs into the right atrium via the pulmonary veins",
+      "Bypasses the lungs entirely to oxygenate heart tissue via coronary arteries"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 50,
     "type": "mcq",
-    "stem": "CASE STUDY: A nurse places a pulse oximeter on a patient's finger who has been shivering excessively. The SpO2 reading fluctuates between 88% and 96%. The nurse recognises that this most likely reflects:",
+    "stem": "CASE STUDY: Nurse Chika is caring for a TB patient on DOTS therapy. The patient reports tingling and numbness in the feet. The nurse recognises this as a peripheral neuropathy side effect most commonly associated with which first-line TB drug?",
     "options": [
-      "True hypoxaemia requiring immediate supplemental oxygen",
-      "Peripheral cyanosis from poor perfusion",
-      "Inaccurate readings because shivering and excessive movement at the sensor site interfere with accurate readings",
-      "Carbon monoxide poisoning creating falsely elevated saturation"
+      "Rifampicin",
+      "Ethambutol",
+      "Isoniazid",
+      "Pyrazinamide"
     ],
     "answer": "C"
   },
   {
     "id": 51,
     "type": "fitb",
-    "stem": "An excessively fast pulse rate above 100 beats per minute is called _______________, while a very slow pulse rate below 60 beats per minute is called bradycardia.",
-    "answer": "tachycardia",
+    "stem": "Tuberculosis is caused by the organism _______________ tuberculosis, which is primarily transmitted through respiratory droplets.",
+    "answer": "Mycobacterium",
     "acceptableAnswers": [
-      "tachycardia"
+      "Mycobacterium",
+      "mycobacterium"
     ]
   },
   {
     "id": 52,
     "type": "fitb",
-    "stem": "The normal adult respiratory rate is _______________ to 20 counts per minute.",
-    "answer": "12",
+    "stem": "The tuberculin skin test (Mantoux) is performed, and a positive reaction after _______________ to 6 weeks is considered diagnostic.",
+    "answer": "2",
     "acceptableAnswers": [
-      "12"
+      "2",
+      "two"
     ]
   },
   {
     "id": 53,
     "type": "fitb",
-    "stem": "CASE STUDY: Nurse Bola is preparing a patient newly started on a cardiac medication. She knows she must assess the _______________ pulse before administering any medication that affects the heart rate, and must hold the medication if the rate is outside the safe range.",
-    "answer": "apical",
+    "stem": "CASE STUDY: A patient is started on TB treatment and is enrolled in a program where a health care worker directly watches the patient take each dose of medication to prevent non-adherence. This strategy is called Directly _______________ Therapy (DOT).",
+    "answer": "Observed",
     "acceptableAnswers": [
-      "apical"
+      "Observed",
+      "observed"
     ]
   },
   {
     "id": 54,
     "type": "fitb",
-    "stem": "Hypertension is diagnosed when blood pressure measured on two different days is greater than or equal to 140 mmHg systolic AND greater than or equal to _______________ mmHg diastolic.",
-    "answer": "90",
+    "stem": "First-line anti-TB drugs include Isoniazid, Rifampicin, Ethambutol, and _______________.",
+    "answer": "Pyrazinamide",
     "acceptableAnswers": [
-      "90",
-      "90 mmHg"
+      "Pyrazinamide",
+      "pyrazinamide"
     ]
   },
   {
     "id": 55,
     "type": "fitb",
-    "stem": "Pulse pressure is the difference between the _______________ and diastolic pressures.",
-    "answer": "systolic",
+    "stem": "In multi-drug resistant TB, surgical options such as lobectomy or _______________ may be performed to cut out the infected tissue.",
+    "answer": "pneumonectomy",
     "acceptableAnswers": [
-      "systolic"
+      "pneumonectomy"
     ]
   },
   {
     "id": 56,
     "type": "fitb",
-    "stem": "CASE STUDY: A student nurse asks why a blood pressure cuff must be the correct size. The preceptor explains that if the bladder is too narrow, the reading will be erroneously _______________, and if too wide, it will be erroneously low.",
-    "answer": "high",
+    "stem": "The process by which TB spreads through blood and lymphatic circulation to distant sites is called _______________ dissemination.",
+    "answer": "haematogenous",
     "acceptableAnswers": [
-      "high",
-      "elevated"
+      "haematogenous",
+      "hematogenous"
     ]
   },
   {
     "id": 57,
     "type": "fitb",
-    "stem": "Normal arterial blood oxygen saturation (SpO2) ranges from 97% to 100%, and a SpO2 below _______________ % is considered life threatening.",
-    "answer": "70",
+    "stem": "CASE STUDY: A nurse educating a TB patient on infection control advises that all secretions must be disposed of in _______________ bags to prevent environmental contamination.",
+    "answer": "plastic",
     "acceptableAnswers": [
-      "70",
-      "70%"
+      "plastic"
     ]
   },
   {
     "id": 58,
     "type": "fitb",
-    "stem": "Orthostatic hypotension is indicated by a rise in pulse of 15 to 30 beats per minute OR a drop in blood pressure of _______________ mmHg systolic or 10 mmHg diastolic upon standing.",
-    "answer": "20",
+    "stem": "Pneumonia is an inflammatory process involving the respiratory bronchioles, alveolar space and walls, and lobes of the lungs. If not treated early, it leads to too little _______________ in the blood.",
+    "answer": "oxygen (O2)",
     "acceptableAnswers": [
-      "20",
-      "20 mmHg"
+      "oxygen",
+      "O2",
+      "oxygen (O2)"
     ]
   },
   {
     "id": 59,
     "type": "fitb",
-    "stem": "CASE STUDY: A nurse is documenting abnormal breath sounds in a post-operative patient. She hears a grating sound in the lower anterior and lateral chest areas during both inspiration and expiration that is not relieved by coughing. She documents this as a pleural friction _______________.",
-    "answer": "rub",
+    "stem": "CASE STUDY: A nursing student presents a case of a patient admitted with fever, chills, purulent sputum, and dyspnoea. The chest X-ray shows consolidation of an entire lobe. The preceptor tells the student this is classified as _______________ pneumonia based on location.",
+    "answer": "lobar",
     "acceptableAnswers": [
-      "rub",
-      "friction rub"
+      "lobar",
+      "Lobar"
     ]
   },
   {
     "id": 60,
     "type": "fitb",
-    "stem": "An elevated blood pressure of unknown cause is called primary or _______________ hypertension.",
-    "answer": "essential",
+    "stem": "The right lung contains _______________ lobes while the left lung contains two lobes.",
+    "answer": "three",
     "acceptableAnswers": [
-      "essential"
+      "three",
+      "3"
     ]
   },
   {
     "id": 61,
     "type": "fitb",
-    "stem": "Blood pressure is measured in millimetres of _______________ (mmHg).",
-    "answer": "mercury",
+    "stem": "Type II alveolar cells secrete _______________, which prevents alveolar collapse.",
+    "answer": "surfactant",
     "acceptableAnswers": [
-      "mercury"
+      "surfactant"
     ]
   },
   {
     "id": 62,
     "type": "fitb",
-    "stem": "The breathing pattern characterised by an abnormal pattern with groups of rapid respirations of equal depth and regular apnoea periods is called _______________ respiration.",
-    "answer": "Biot",
+    "stem": "TB drugs are taken for at least _______________ to nine months depending on age, health, drug resistance, and form of TB.",
+    "answer": "six",
     "acceptableAnswers": [
-      "Biot",
-      "biot"
+      "six",
+      "6"
     ]
   },
   {
     "id": 63,
     "type": "fitb",
-    "stem": "CASE STUDY: A nurse is placing a pulse oximeter on a patient with carbon monoxide poisoning. She recognises that the reading may be falsely _______________ because pulse oximeters cannot discriminate between haemoglobin saturated with carbon monoxide versus oxygen.",
-    "answer": "high",
+    "stem": "CASE STUDY: A nurse planning care for a patient with TB documents the nursing diagnosis: 'Risk for infection transmission related to the _______________ of disease.' She plans to enforce face mask use for all contacts.",
+    "answer": "nature",
     "acceptableAnswers": [
-      "high",
-      "elevated",
-      "falsely normal"
+      "nature",
+      "infectious nature"
     ]
   },
   {
     "id": 64,
     "type": "fitb",
-    "stem": "The difference or disparity between the apical and radial pulse rates is called a pulse _______________.",
-    "answer": "deficit",
+    "stem": "The chest cavity is a closed compartment whose only opening to the outside is the _______________.",
+    "answer": "trachea",
     "acceptableAnswers": [
-      "deficit"
+      "trachea"
     ]
   },
   {
     "id": 65,
     "type": "fitb",
-    "stem": "Costal (thoracic) breathing involves the external intercostal muscles and can be observed by the upward and outward movement of the chest. It is most common among _______________.",
-    "answer": "women",
+    "stem": "In the pathophysiology of TB, when the immune system is compromised, the organism reactivates and the infection contaminating surrounding tissue may spread. This leads to impaired blood supply to the affected area, causing _______________.",
+    "answer": "necrosis",
     "acceptableAnswers": [
-      "women",
-      "females"
+      "necrosis"
     ]
   },
   {
     "id": 66,
     "type": "fitb",
-    "stem": "CASE STUDY: A preceptor asks a nursing student to name the five data parameters collected when assessing the pulse. The student responds: rate, rhythm, volume, arterial wall elasticity, and presence or absence of _______________ wall equality.",
-    "answer": "bilateral",
+    "stem": "Tuberculosis is classified as a _______________ and notifiable disease because it must be reported to public health authorities.",
+    "answer": "reportable",
     "acceptableAnswers": [
-      "bilateral",
-      "bilateral wall equality"
+      "reportable",
+      "notifiable"
     ]
   },
   {
     "id": 67,
     "type": "fitb",
-    "stem": "Blood pressure rises with age, reaching a peak at the onset of puberty, and the elderly have an increased systolic blood pressure due to decreased elasticity of the _______________.",
-    "answer": "arteries",
+    "stem": "CASE STUDY: A patient with pneumonia on Fowler's position asks why the nurse insists on this positioning. The nurse explains that Fowler's position promotes respiratory function by reducing pressure on the _______________ and allowing full lung expansion.",
+    "answer": "diaphragm",
     "acceptableAnswers": [
-      "arteries",
-      "arterial walls"
+      "diaphragm"
     ]
   },
   {
     "id": 68,
     "type": "fitb",
-    "stem": "Diastolic pressure is the pressure in the arteries when the ventricles are at _______________.",
-    "answer": "rest",
+    "stem": "When blood vessels around the lungs rupture in tuberculosis, the cough may be stained with blood. This symptom is called _______________.",
+    "answer": "haemoptysis",
     "acceptableAnswers": [
-      "rest",
-      "rest (relaxation)",
-      "relaxation"
+      "haemoptysis",
+      "hemoptysis"
     ]
   },
   {
     "id": 69,
     "type": "fitb",
-    "stem": "CASE STUDY: A community nurse visits an elderly woman who reports feeling faint when she stands up quickly. To assess for orthostatic hypotension, the nurse first places her in the _______________ position, records baseline pulse and BP, then assists her to slowly stand before rechecking.",
-    "answer": "supine",
+    "stem": "CASE STUDY: A nurse assessing a patient with severe pneumonia notes a complication where pleural fluid containing pus has accumulated in the pleural space. She correctly documents this complication as _______________.",
+    "answer": "empyema",
     "acceptableAnswers": [
-      "supine",
-      "lying down",
-      "lying flat"
+      "empyema"
     ]
   },
   {
     "id": 70,
     "type": "fitb",
-    "stem": "In adults, the apical pulse is located on the left side of the chest at the 4th, 5th, or 6th intercostal space, in between the midsternal line and the _______________ line.",
-    "answer": "midclavicular",
+    "stem": "The formation of cavities in the lungs as a result of the TB infection process is called _______________.",
+    "answer": "cavitation",
     "acceptableAnswers": [
-      "midclavicular",
-      "mid-clavicular"
+      "cavitation"
     ]
   }
 ]
