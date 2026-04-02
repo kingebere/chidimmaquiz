@@ -1,697 +1,618 @@
-[
+
   {
     "id": 1,
     "type": "mcq",
-    "stem": "Tuberculosis is caused by which specific organism, and what is its primary route of transmission?",
+    "stem": "A patient admitted with severe vomiting and dehydration requires urgent antibiotic therapy. The nurse understands that oral administration is contraindicated in this case. Which route would be MOST appropriate to ensure rapid and complete drug absorption?",
     "options": [
-      "Streptococcus pneumoniae; transmitted via contaminated food and water",
-      "Mycobacterium tuberculosis; primarily transmitted through respiratory droplets",
-      "Klebsiella pneumoniae; transmitted by direct contact with infected skin lesions",
-      "Pneumocystis carinii; transmitted through blood transfusion"
+      "Sublingual route",
+      "Rectal route",
+      "Intravenous (IV) route",
+      "Intramuscular route"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 2,
     "type": "mcq",
-    "stem": "A patient with active pulmonary tuberculosis is admitted to the ward. The nurse correctly implements which isolation precaution FIRST?",
+    "stem": "A physician prescribes a medication 'b.d.' for a patient. The nurse correctly interprets this abbreviation to mean:",
     "options": [
-      "Contact precautions with gown and gloves only",
-      "Respiratory isolation to prevent spread, with all staff and visitors using face masks",
-      "Reverse isolation to protect the immunocompromised patient",
-      "Standard precautions only, as TB is not airborne once on treatment"
+      "Before meals",
+      "Twice a day",
+      "Three times a day",
+      "At bedtime"
     ],
     "answer": "B"
   },
   {
     "id": 3,
     "type": "mcq",
-    "stem": "In the pathophysiology of tuberculosis, after macrophages ingest the bacilli, the organisms that resist destruction are carried to which structure?",
+    "stem": "Drug distribution refers to the process by which an absorbed drug is transported by the blood to the reactive tissue. A nurse understands that the mere presence of a drug in the bloodstream does NOT guarantee it will reach the reactive tissue because:",
     "options": [
-      "Alveolar walls",
-      "Pleural space",
-      "Lymph nodes",
-      "Bronchioles"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": 4,
-    "type": "mcq",
-    "stem": "A chest X-ray of a patient with pulmonary tuberculosis is MOST likely to reveal which findings?",
-    "options": [
-      "Consolidation of entire lung lobe with pleural fluid",
-      "Nodular lesions, cavitations, and scar tissue",
-      "Hyperinflation with flattened diaphragm",
-      "Ground glass opacities in both lower lobes"
+      "Some drugs are destroyed by digestive enzymes before absorption is complete",
+      "Some compounds in the drug may find it difficult to dissociate from plasma protein or cross the blood-brain barrier",
+      "The rate of excretion always exceeds the rate of distribution in chronic disease",
+      "Bio-transformation occurs before distribution in the alimentary canal"
     ],
     "answer": "B"
   },
   {
+    "id": 4,
+    "type": "mcq",
+    "stem": "A patient with a diabetic foot ulcer is prescribed a topical antibiotic cream. The nurse correctly identifies this as which route of drug administration?",
+    "options": [
+      "Parenteral route",
+      "Sublingual route",
+      "Local or topical route",
+      "Inhalation route"
+    ],
+    "answer": "C"
+  },
+  {
     "id": 5,
     "type": "mcq",
-    "stem": "CASE STUDY: Mr. K., a 38-year-old man, presents with a 3-month history of productive cough, haemoptysis, night sweats, low-grade fever, and 8 kg weight loss. A tuberculin skin test is performed. Which statement about this test is CORRECT?",
+    "stem": "CASE STUDY: A nurse receives a prescription that reads: 'Amoxicillin 500 mg Cap t.i.d. p.c.' She correctly interprets this as:",
     "options": [
-      "A positive reaction confirms active TB disease and the patient must be isolated immediately",
-      "A positive reaction after 2 to 6 weeks is diagnostic of TB infection",
-      "A negative result definitively rules out TB in all patients",
-      "The test is only valid in patients under 40 years of age"
+      "Amoxicillin 500 mg capsule twice a day before meals",
+      "Amoxicillin 500 mg capsule to be taken three times a day after food",
+      "Amoxicillin 500 mg capsule four times a day at bedtime",
+      "Amoxicillin 500 mg capsule to be taken three times a day before meals"
     ],
     "answer": "B"
   },
   {
     "id": 6,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q5): The physician orders sputum smears and cultures. What is the clinical purpose of sputum smears in TB diagnosis?",
+    "stem": "CASE STUDY (continued from Q5): The nurse is about to administer a tablet. Which of the following actions is MOST consistent with the special rules for tablet administration?",
     "options": [
-      "To detect autoimmune antibodies that confirm TB reactivation",
-      "To reveal the causative organism (Mycobacterium tuberculosis)",
-      "To quantify red blood cell destruction in haemoptysis",
-      "To measure the level of drug resistance before treatment"
+      "Handle the tablets with bare hands to transfer them quickly to the patient's cup",
+      "Gently let the tablets out of the bottle into a spoon before giving to the patient without handling by hand",
+      "Return any excess tablets to the original container after the patient refuses",
+      "Allow the patient to self-administer from the labelled container at the bedside"
     ],
     "answer": "B"
   },
   {
     "id": 7,
     "type": "mcq",
-    "stem": "The medical management of tuberculosis involves simultaneous administration of three or more medications. The PRIMARY rationale for this multi-drug approach is to:",
+    "stem": "The administration of Glyceryl Trinitrate (GTN) under the tongue utilises which route of administration, and what is the PRIMARY reason this route is chosen?",
     "options": [
-      "Reduce the length of treatment from 12 months to 3 months",
-      "Increase therapeutic effect and decrease development of resistant bacteria",
-      "Prevent side effects by distributing medication load across multiple drugs",
-      "Provide coverage for both bacterial and viral pulmonary co-infections"
+      "Oral route; to allow slow absorption over 6â8 hours for sustained effect",
+      "Sublingual route; to prevent the drug from being rapidly metabolised by the liver and allow absorption into the bloodstream",
+      "Buccal route; to maximise mucosal surface area for systemic absorption",
+      "Inhalation route; to deliver the drug directly to cardiac tissue via the lungs"
     ],
     "answer": "B"
   },
   {
     "id": 8,
     "type": "mcq",
-    "stem": "Which of the following combinations represents FIRST-LINE anti-tuberculosis drugs?",
+    "stem": "A patient in anaphylactic shock requires adrenaline (epinephrine). The nurse understands that the subcutaneous route is CONTRAINDICATED in shock because:",
     "options": [
-      "Cycloserine, Para-aminosalicylic acid, Streptomycin, Capreomycin",
-      "Isoniazid, Rifampicin, Ethambutol, Pyrazinamide",
-      "Amikacin, Kanamycin, Ethionamide, Viomycin",
-      "Ciprofloxacin, Moxifloxacin, Linezolid, Bedaquiline"
+      "Subcutaneous drugs are too concentrated for emergency use",
+      "Sluggish blood circulation in shock will slow down drug absorption from subcutaneous tissue",
+      "Adrenaline causes tissue necrosis when deposited subcutaneously",
+      "The subcutaneous layer cannot hold more than 0.5 ml of fluid"
     ],
     "answer": "B"
   },
   {
     "id": 9,
     "type": "mcq",
-    "stem": "A patient with drug-resistant tuberculosis is prescribed second-line anti-TB drugs. Which drug is classified as a SECOND-LINE agent?",
+    "stem": "Which of the following statements CORRECTLY describes a disadvantage of the intravenous (IV) route of drug administration?",
     "options": [
-      "Isoniazid",
-      "Rifampicin",
-      "Pyrazinamide",
-      "Cycloserine"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": 10,
-    "type": "mcq",
-    "stem": "CASE STUDY: After 3 weeks of TB treatment, Mrs. A. tells the nurse she feels much better and wants to stop taking her medications. The nurse's MOST appropriate response is:",
-    "options": [
-      "Reassure her and allow her to reduce the dose since she is improving",
-      "Explain that it is crucial to finish the full course of therapy (6â9 months) as stopping early can lead to drug-resistant TB",
-      "Contact the physician to switch her to a shorter regimen given her good response",
-      "Document her preference and respect her autonomy as the patient"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 11,
-    "type": "mcq",
-    "stem": "CASE STUDY (continued from Q10): To ensure medication adherence, the nurse recommends a program whereby a health care worker administers medication directly to the patient. This strategy is called:",
-    "options": [
-      "Supervised medication therapy (SMT)",
-      "Directly Observed Therapy (DOT)",
-      "Active case management protocol (ACMP)",
-      "Medication-assisted treatment (MAT)"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 12,
-    "type": "mcq",
-    "stem": "Pneumonia is BEST defined as:",
-    "options": [
-      "A chronic obstructive disease of the airways causing irreversible airflow limitation",
-      "An inflammatory process involving the respiratory bronchioles, alveolar space, and walls of the lobes of the lungs",
-      "A condition in which the pleural space fills with fluid secondary to cardiac failure",
-      "Collapse of alveoli due to obstruction or external compression"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 13,
-    "type": "mcq",
-    "stem": "Which of the following organisms is classified as a BACTERIAL cause of pneumonia?",
-    "options": [
-      "Pneumocystis carinii",
-      "Influenza virus",
-      "Streptococcus pneumoniae",
-      "Haemophilus influenza virus"
+      "IV drugs are absorbed more slowly than oral drugs",
+      "IV drugs bypass the blood-brain barrier making them less effective",
+      "Once injected, the drug cannot be withdrawn, and careless handling can lead to thrombosis or thrombophlebitis",
+      "IV administration increases the risk of hepatic first-pass metabolism"
     ],
     "answer": "C"
   },
   {
-    "id": 14,
+    "id": 10,
     "type": "mcq",
-    "stem": "CASE STUDY: A 72-year-old woman with a history of stroke is admitted with fever of 39.2Â°C, productive purulent sputum, grunting, and nasal flaring. Chest X-ray shows consolidation of the right lower lobe. Which type of pneumonia (by location) does this presentation MOST likely represent?",
+    "stem": "CASE STUDY: A 68-year-old patient with Parkinson's disease is started on Levodopa. His wife asks why the drug cannot be taken by mouth like his previous medications. The nurse explains that Levodopa is used to replace Dopamine, which cannot be absorbed from the diet in Parkinson's disease. This mechanism of drug action is classified as:",
     "options": [
-      "Bronchopneumonia involving distal air ways and alveoli",
-      "Lobar pneumonia involving the entire lobe",
-      "Pleuritic pneumonia involving pleural membranes only",
-      "Atypical pneumonia from viral cause"
+      "Direct lethal action on microorganisms",
+      "Drug action through known physiological process",
+      "Replacement of a missing substance the body cannot supply",
+      "Placebo action through psychotherapy"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 11,
+    "type": "mcq",
+    "stem": "CASE STUDY (continued from Q10): The wife also asks about a drug the patient was previously given that appeared to work only because of his belief in the treatment, with no actual pharmacological effect. The nurse correctly identifies this type of drug as:",
+    "options": [
+      "An agonist drug",
+      "A synergistic drug",
+      "A placebo",
+      "An antagonist drug"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 12,
+    "type": "mcq",
+    "stem": "The combination of Aspirin and Phenacetin in pain-relieving drugs produces a combined analgesic effect equal to the sum of each drug's individual effect. This type of combined drug effect is classified as:",
+    "options": [
+      "Antagonism",
+      "Potentiation",
+      "Synergism",
+      "Addition (simple summation)"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 13,
+    "type": "mcq",
+    "stem": "A nurse is administering Glyceryl Trinitrate sublingually to a patient experiencing chest pain. The rationale for the sublingual route in this clinical situation is BEST explained by:",
+    "options": [
+      "Sublingual route ensures the drug bypasses renal excretion",
+      "The essence of the sublingual route is to prevent some drugs from being rapidly metabolised by the liver, allowing quick systemic absorption",
+      "Sublingual administration reduces the required dose by half due to direct cardiac absorption",
+      "Sublingual drugs are safer in elderly patients as they avoid gastrointestinal irritation"
     ],
     "answer": "B"
+  },
+  {
+    "id": 14,
+    "type": "mcq",
+    "stem": "A patient is prescribed penicillin along with streptomycin for a serious infection. The nurse recognises this combination as an example of which combined drug effect?",
+    "options": [
+      "Antagonism",
+      "Potentiation",
+      "Synergism",
+      "Addition"
+    ],
+    "answer": "C"
   },
   {
     "id": 15,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q14): Which predisposing factor from the patient's history MOST likely contributed to her developing pneumonia?",
+    "stem": "CASE STUDY: A ward nurse notices a bottle of mixture drug has changed colour and developed an unusual odour since it was last dispensed. Following general rules for drug administration, the CORRECT action is:",
     "options": [
-      "Her age alone, as elderly patients are universally susceptible",
-      "Post-stroke dysphagia increasing aspiration risk from foreign matter into the bronchi",
-      "Dehydration causing increased blood viscosity",
-      "Hospitalisation causing exposure to hospital-acquired organisms"
+      "Administer the drug since colour change is normal in some liquid medications",
+      "Dilute the drug with sterile water to restore its original colour before administration",
+      "Do not administer the drug; report to the Senior Nursing Officer and return it to the pharmacist",
+      "Use the drug for the current patient only and discard the remainder"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 16,
     "type": "mcq",
-    "stem": "In the pathophysiology of pneumonia, the alveoli fill with blood and exudates because of which sequence of events?",
+    "stem": "CASE STUDY (continued from Q15): While reviewing the drug administration rules, the nurse reads that once the medicine cupboard is unlocked, the contents must not be left unguided. Which rule number does this represent in the General Rules Concerning Administration of Drugs?",
     "options": [
-      "Airway constriction â air trapping â alveolar overdistension â rupture",
-      "Infection â inflammation of the airway â exudate and oedema â spread to other areas â capillary engorgement with blood â alveolar membrane breaks down",
-      "Bacterial toxin release â direct alveolar wall necrosis â haemorrhage â consolidation",
-      "Immune suppression â macrophage failure â uncontrolled bacterial proliferation â systemic sepsis"
+      "Rule 4",
+      "Rule 6",
+      "Rule 8",
+      "Rule 9"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 17,
     "type": "mcq",
-    "stem": "A nurse auscultates a patient's lungs and hears crackles bilaterally at the bases. The chest X-ray shows consolidation. A complete blood count shows elevated white blood cells. The nurse correctly recognises the elevated WBC as indicating:",
+    "stem": "Bio-transformation is the process by which a drug is broken down in the body. The higher the metabolising enzyme in the reactive tissue, the MOST direct effect this has on drug concentration is:",
     "options": [
-      "Bone marrow suppression secondary to antibiotic therapy",
-      "Bacterial infection causing leucocytosis",
-      "Allergic reaction to inhaled pathogens",
-      "Viral pneumonia characteristically elevating WBC"
+      "The drug concentration in the reactive tissue increases, producing a toxic effect",
+      "The drug will be broken down earlier, invariably reducing the level of concentration and lowering its effect",
+      "Bio-transformation is permanently blocked until the drug reaches the renal cortex",
+      "The metabolising enzyme converts the drug to a more potent form, enhancing the therapeutic effect"
     ],
     "answer": "B"
   },
   {
     "id": 18,
     "type": "mcq",
-    "stem": "The goal of management in pneumonia is BEST described as:",
+    "stem": "A patient with a history of alcohol use is admitted and requires sedation. The nurse is aware that alcohol interacts with barbiturates and tranquillisers. This interaction is an example of which drug interaction phenomenon?",
     "options": [
-      "Suppressing cough reflexes and preventing sputum production",
-      "Getting rid of the invading organism and enhancing respiration",
-      "Administering steroids to reduce lung inflammation",
-      "Providing mechanical ventilation early to prevent respiratory failure"
+      "Antagonism reducing the effect of the sedative",
+      "Potentiation â alcohol increases the effect of barbiturates, making the combination more powerful and prolonged than expected",
+      "Addition where the combined effect equals the sum of both individual drugs",
+      "Synergism where both drugs work through the same mechanism to produce identical effects"
     ],
     "answer": "B"
   },
   {
     "id": 19,
     "type": "mcq",
-    "stem": "A physician orders sputum culture and sensitivity for a patient admitted with pneumonia. What is the PRIMARY purpose of this test?",
+    "stem": "Intradermal injection is specifically used for which of the following clinical purposes?",
     "options": [
-      "To confirm the diagnosis of pneumonia through WBC analysis",
-      "To identify the causative organism and determine antibiotic sensitivity to guide treatment",
-      "To quantify the degree of alveolar damage through bacterial load",
-      "To detect the presence of acid-fast bacilli and confirm tuberculosis"
+      "Administering large-volume IV fluid replacements",
+      "Delivering drugs that require rapid onset during emergency resuscitation",
+      "Diagnostic tests like the Mantoux tuberculin test and vaccine administration",
+      "Replacing drugs that cannot be given by the intramuscular route due to large volume"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 20,
     "type": "mcq",
-    "stem": "CASE STUDY: A 55-year-old man is admitted with high fever, chills, dyspnoea, purulent sputum, and chest pain. His SpO2 is 88% on room air. The physician prescribes amoxicillin. The nurse correctly identifies amoxicillin as which class of drug?",
+    "stem": "A prescription reads 'PRN'. The nurse correctly interprets this to mean:",
     "options": [
-      "Mucolytic agent",
-      "Antipyretic",
-      "Antibiotic",
-      "Bronchodilator"
+      "Before meals",
+      "Every morning",
+      "When necessary",
+      "If necessary (a single dose)"
     ],
     "answer": "C"
   },
   {
     "id": 21,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q20): The nurse positions the patient in which position to optimise respiratory function?",
+    "stem": "CASE STUDY: A student nurse preparing an intramuscular injection is about to administer the drug without expelling all the air from the syringe. The senior nurse intervenes because air left in the syringe when injecting can cause:",
     "options": [
-      "Supine with legs elevated",
-      "Left lateral decubitus",
-      "Fowler's position",
-      "Trendelenburg position"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": 22,
-    "type": "mcq",
-    "stem": "Which mucolytic agent is listed in the notes as a pharmacological option to facilitate sputum expectoration in pneumonia management?",
-    "options": [
-      "Aminophylline",
-      "Tetracycline",
-      "Acetylcysteine",
-      "Erythromycin"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": 23,
-    "type": "mcq",
-    "stem": "The upper respiratory tract includes all of the following structures EXCEPT:",
-    "options": [
-      "Nose and sinuses",
-      "Pharynx and epiglottis",
-      "Larynx with mucus-secreting cells and cilia",
-      "Terminal bronchioles and alveoli"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": 24,
-    "type": "mcq",
-    "stem": "Type II alveolar cells serve which critical function in the respiratory system?",
-    "options": [
-      "They ingest foreign matter to provide immune defence",
-      "They secrete surfactant that prevents alveolar collapse",
-      "They transport oxygen across the alveolar membrane into the bloodstream",
-      "They produce mucus to trap inhaled particles"
+      "Subcutaneous emphysema at the injection site",
+      "Air embolism",
+      "Precipitation of the drug in the syringe",
+      "Needle-stick injury to the patient"
     ],
     "answer": "B"
   },
   {
+    "id": 22,
+    "type": "mcq",
+    "stem": "CASE STUDY (continued from Q21): After administering the injection, the nurse ensures the drug administration is immediately recorded in the drug book. The PRIMARY reason for this is:",
+    "options": [
+      "To comply with infection control standards requiring documentation of parenteral procedures",
+      "For accountability and record purposes to prevent accidental double dosing",
+      "To alert the next shift nurse to recheck the injection site for swelling",
+      "To document adverse effects that occurred during injection"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 23,
+    "type": "mcq",
+    "stem": "Excretion is the process by which a drug or its components is eliminated from the body. Which of the following routes of excretion is listed in the notes?",
+    "options": [
+      "Cerebral spinal fluid, bile, and intestinal secretions",
+      "Mammary glands, alimentary canal, liver, lungs, skin, and kidneys",
+      "Sweat glands, blood-brain barrier, and lymphatic channels",
+      "Hepatic portal circulation, renal tubules, and gallbladder only"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 24,
+    "type": "mcq",
+    "stem": "A patient with constipation is ordered an enema. The nurse correctly identifies this as which route of drug administration?",
+    "options": [
+      "Inhalation route",
+      "Sublingual route",
+      "Parenteral route",
+      "Rectal route"
+    ],
+    "answer": "D"
+  },
+  {
     "id": 25,
     "type": "mcq",
-    "stem": "CASE STUDY: A medical student asks a nurse why the pleura is clinically important. The nurse correctly explains that the pleura:",
+    "stem": "The intravenous route of drug administration is described as the MOST rapidly effective and dangerous route. It is usually reserved for which clinical situations?",
     "options": [
-      "Produces surfactant to maintain alveolar patency",
-      "Provides parietal and visceral membranes separated by fluid in the intrapleural space, allowing smooth lung movement during breathing",
-      "Regulates neurological control of respiratory rate via chemoreceptors",
-      "Prevents air from entering the mediastinum during forced expiration"
+      "Routine antibiotic therapy and vitamin supplements in healthy outpatients",
+      "Emergency administration of potent drugs and when very rapid action is required like in shock",
+      "Patients who refuse oral medications due to taste aversion",
+      "Chronic disease management where weekly dosing is preferred"
     ],
     "answer": "B"
   },
   {
     "id": 26,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q25): A patient develops a stabbing chest pain worsened by breathing and a friction rub on auscultation. The nurse correctly identifies this as:",
+    "stem": "CASE STUDY: Nurse Amaka is preparing to administer a mixture drug to a patient. She notices the bottle has not been inverted before measurement. She correctly inverts the bottle several times first because:",
     "options": [
-      "Pneumonia with cavitation",
-      "Pleuritis with inflammation of the pleural surfaces",
-      "Tension pneumothorax requiring immediate decompression",
-      "Pulmonary embolism causing pleuritic pain"
+      "Inversion warms the mixture to body temperature for comfort",
+      "Bottles of mixture must be inverted several times before measuring out, even if there is no visible sediment, to ensure uniform drug distribution",
+      "Inversion activates the drug by mixing inactive ingredients with the active compound",
+      "Inversion removes trapped air bubbles that would cause inaccurate measurement"
     ],
     "answer": "B"
   },
   {
     "id": 27,
     "type": "mcq",
-    "stem": "The right lung differs from the left lung in that it:",
+    "stem": "CASE STUDY (continued from Q26): After measuring the mixture, the patient refuses to take it and some drug remains in the measuring glass. According to the rules concerning mixture measurement, the nurse should:",
     "options": [
-      "Contains two lobes and is smaller to accommodate the heart",
-      "Contains three lobes while the left lung contains two lobes",
-      "Has a lingula and cardiac notch absent in the left lung",
-      "Receives blood only from the pulmonary artery, not the bronchial circulation"
+      "Return the excess drug back to the stock bottle for the next patient's use",
+      "Store the excess in the patient's bedside locker for administration later",
+      "Discard the excess and not return it to the stock bottle or the container",
+      "Record the excess as administered to maintain drug book accuracy"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 28,
     "type": "mcq",
-    "stem": "Neurologic control of respiration involves receptor sites in the brain that respond to chemical changes. Peripheral receptor sites specifically respond to changes in which parameter?",
+    "stem": "Which drug interaction example correctly illustrates ANTAGONISM?",
     "options": [
-      "Changes in arterial blood pressure and heart rate",
-      "CO2 levels and baroreceptor input",
-      "Serum sodium and potassium levels",
-      "Pulmonary capillary wedge pressure"
+      "Alcohol increasing the effect of barbiturates beyond what either would produce alone",
+      "Penicillin combined with streptomycin producing better bacterial kill through different mechanisms",
+      "Tetracycline combined with metallic iron, where iron destroys the effects of Tetracycline",
+      "Aspirin combined with Phenacetin producing combined analgesic effect equal to the sum of each"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 29,
     "type": "mcq",
-    "stem": "In multi-drug resistant tuberculosis (MDR-TB), when medical management fails, which surgical interventions may be instituted?",
+    "stem": "A prescription reads 'Paracetamol 1g Tab qid S.O.S.' The nurse correctly interprets this as:",
     "options": [
-      "Tracheostomy and mechanical ventilation",
-      "Lobectomy or pneumonectomy to remove infected tissue",
-      "Thoracentesis and pleural biopsy",
-      "Bronchoscopy and bronchial lavage"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 30,
-    "type": "mcq",
-    "stem": "A nurse is discharging a patient with pulmonary tuberculosis. Which education point is MOST important to prevent reactivation?",
-    "options": [
-      "Avoid crowding, improve ventilation at home, dispose of secretions in plastic bags, and avoid exposure to silicone",
-      "Wear a surgical mask at all times outdoors and avoid public transport permanently",
-      "Restrict fluid intake to reduce sputum production and night sweats",
-      "Take double the prescribed dose if symptoms return after feeling better"
+      "Paracetamol 1g tablet to be taken four times a day if necessary (as a single dose)",
+      "Paracetamol 1g tablet to be taken four times a day before meals",
+      "Paracetamol 1g tablet to be taken twice a day when necessary",
+      "Paracetamol 1g tablet to be taken every morning as a single daily dose"
     ],
     "answer": "A"
   },
   {
+    "id": 30,
+    "type": "mcq",
+    "stem": "Antacids such as Mist Magnesium Trisilicate neutralise hydrochloric acid in the stomach, thereby preventing onset of peptic ulcer. This mechanism of drug action is classified as:",
+    "options": [
+      "Direct lethal action on microorganisms",
+      "Action through known physiological process",
+      "Direct chemical action",
+      "Replacement of a missing body substance"
+    ],
+    "answer": "C"
+  },
+  {
     "id": 31,
     "type": "mcq",
-    "stem": "The diaphragm is innervated by which nerve?",
+    "stem": "The rate of absorption of a drug through the oral route is MOST significantly affected by which factor identified in the notes?",
     "options": [
-      "Vagus nerve (CN X)",
-      "Phrenic nerve (a branch of the vagus nerve)",
-      "Intercostal nerve",
-      "Accessory nerve (CN XI)"
+      "The patient's age and renal function",
+      "The route of administration and the blood supply to the area",
+      "The colour, odour, and constituency of the drug preparation",
+      "The time of day the drug is administered"
     ],
     "answer": "B"
   },
   {
     "id": 32,
     "type": "mcq",
-    "stem": "CASE STUDY: A 28-year-old HIV-positive patient is admitted with progressive dyspnoea, fever, and non-productive cough. A sputum culture reveals Pneumocystis carinii. The nurse correctly identifies this organism as which type of pathogen?",
+    "stem": "CASE STUDY: Mr. F., a 72-year-old man on warfarin for atrial fibrillation, is started on Phenylbutazone for joint pain by a new doctor covering the ward. The regular nurse reviewing his drug chart is concerned because Phenylbutazone and aspirin:",
     "options": [
-      "Gram-positive bacteria",
-      "Gram-negative bacteria",
-      "Virus",
-      "Fungus/protozoan (viral classification in text)"
+      "Both cause gastric bleeding, making the combination fatal",
+      "Increase the activity of anticoagulants, raising the risk of haemorrhage",
+      "Together cause potassium depletion requiring urgent replacement",
+      "Interact to reduce the anticoagulant effect of warfarin, increasing clot risk"
     ],
-    "answer": "D"
+    "answer": "B"
   },
   {
     "id": 33,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q32): The patient has severely impaired gas exchange. Which nursing diagnosis is MOST appropriate?",
+    "stem": "CASE STUDY (continued from Q32): The nurse is also aware that a diabetic patient on Tolbutamide should avoid taking Sulphonamides because Sulphonamides are sulphonamide derivatives that interact with Tolbutamide. What is the nature of this interaction?",
     "options": [
-      "Fluid volume deficit related to excessive diaphoresis",
-      "Impaired gas exchange related to inflammation of the alveoli causing hypoxia",
-      "Risk for infection transmission related to the nature of the disease",
-      "Impaired sleep pattern related to night sweats"
+      "Sulphonamides antagonise Tolbutamide, raising blood glucose dangerously",
+      "Sulphonamides potentiate Tolbutamide's hypoglycaemic effect by being sulphonamide derivatives, risking severe hypoglycaemia",
+      "Sulphonamides cause renal excretion of Tolbutamide, reducing its effectiveness",
+      "Sulphonamides produce addition with Tolbutamide, simply doubling its normal effect"
     ],
     "answer": "B"
   },
   {
     "id": 34,
     "type": "mcq",
-    "stem": "Haematogenous dissemination of tuberculosis occurs when infection spreads through which route?",
+    "stem": "An intrathecal injection involves administration of a drug into which anatomical space?",
     "options": [
-      "Direct contact between infected sputum and mucosal surfaces",
-      "Blood and lymphatic circulation to distant sites",
-      "Droplet nuclei inhaled directly into the systemic circulation",
-      "Gastrointestinal absorption of swallowed bacilli"
+      "Loose tissue spaces just beneath the skin",
+      "Directly into a peripheral vein",
+      "The subcrachnoid space surrounding the spinal cord",
+      "Deep muscle tissue of the gluteus maximus"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 35,
     "type": "mcq",
-    "stem": "A nurse uses bronchoscopy findings to confirm a TB diagnosis. In addition to showing inflammation and altered lung tissue, bronchoscopy can also be performed to:",
+    "stem": "A nurse reads 'O.m.' on a drug prescription. She correctly interprets this to mean:",
     "options": [
-      "Measure pulmonary artery pressure directly",
-      "Obtain sputum when the patient cannot produce an adequate sputum specimen",
-      "Visualise the pleural space and diagnose pleural effusion",
-      "Quantify the degree of atelectasis through direct alveolar inspection"
+      "Every night",
+      "Four hourly",
+      "Every morning",
+      "Once monthly"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 36,
     "type": "mcq",
-    "stem": "Acid-base regulation is one function of the respiratory system. An increase in CO2 levels causes which change in blood pH?",
+    "stem": "CASE STUDY: A patient recovering from oral surgery is prescribed Ferric Ammonium Citrate mixture. Before administering, the nurse is aware of a special rule regarding this specific preparation. She correctly:",
     "options": [
-      "Increases pH (alkalosis) by stimulating CO2 excretion",
-      "Decreases pH (acidosis) because CO2 combines with water to form carbonic acid",
-      "Has no effect on pH as the kidneys fully compensate immediately",
-      "Increases bicarbonate, restoring pH to normal within minutes"
+      "Dilutes the mixture with 50 ml of water to reduce irritation to the oral mucosa",
+      "Instructs the patient to sip it through a drinking straw to prevent staining of the teeth",
+      "Administers it immediately after brushing teeth to minimise absorption",
+      "Returns the unused portion to the pharmacy for safe disposal"
     ],
     "answer": "B"
   },
   {
     "id": 37,
     "type": "mcq",
-    "stem": "CASE STUDY: A 60-year-old COPD patient is admitted with worsening dyspnoea. Bronchoscopy is performed and reveals inflamed airways. He is prescribed aminophylline. The nurse understands aminophylline is used in pneumonia/respiratory disorders because it:",
+    "stem": "CASE STUDY (continued from Q36): Before handing over the mixture, the nurse holds the bottle label uppermost. According to the rules concerning labels, why is this important?",
     "options": [
-      "Kills the causative bacterial organism directly",
-      "Reduces fever by inhibiting prostaglandin synthesis",
-      "Maintains high fluid intake and reduces viscosity of secretions",
-      "Acts as a bronchodilator for respiratory mucociliary clearance"
+      "To ensure the expiry date is checked before each administration",
+      "To prevent the liquid from dripping onto and obscuring the label, making it unreadable",
+      "To maintain the drug's sterility by keeping the cap sealed during pouring",
+      "To verify the patient's name is clearly visible on the label"
     ],
-    "answer": "D"
+    "answer": "B"
   },
   {
     "id": 38,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q37): The nurse also administers an antipyretic to manage the patient's temperature of 39.4Â°C. Which medication would be MOST appropriate for this purpose?",
+    "stem": "Vitamin B12 injections are given to treat pernicious anaemia because Vitamin B12 cannot be absorbed from the diet in this condition. This represents which mechanism of drug action?",
     "options": [
-      "Amoxicillin",
-      "Acetylcysteine",
-      "Acetaminophen (paracetamol)",
-      "Aminoglycoside"
+      "Direct lethal action on microorganisms",
+      "Replacement of a missing substance that the body should normally supply",
+      "Direct chemical neutralisation of a harmful substance",
+      "Action through a known physiological process"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 39,
     "type": "mcq",
-    "stem": "The incubation period of Mycobacterium tuberculosis is between 1 to 3 months. However, in individuals with adequate immunity, the organism may:",
+    "stem": "The oral route of drug administration has the disadvantage of being slower in onset because:",
     "options": [
-      "Be completely eliminated within 2 weeks by macrophage activity",
-      "Remain dormant for a very long time after being encapsulated and inactivated",
-      "Immediately progress to active disease without a latent phase",
-      "Develop drug resistance within the first month without treatment"
+      "Oral drugs are always protein-bound and cannot cross the blood-brain barrier",
+      "Drug administered orally takes time for the response to be felt as it must traverse the gastrointestinal tract before absorption",
+      "Oral drugs require hepatic activation before they can exert their therapeutic effect",
+      "Gastric acid destroys all oral medications before they reach the small intestine"
     ],
     "answer": "B"
   },
   {
     "id": 40,
     "type": "mcq",
-    "stem": "A patient with pneumonia has a nursing diagnosis of 'impaired nutrition less than body requirements related to poor appetite.' The nurse plans which intervention MOST aligned with the TB and pneumonia nutrition guidelines?",
+    "stem": "CASE STUDY: A 5-year-old child is admitted with severe asthma. The physician orders Salbutamol via inhalation. The nurse correctly identifies the inhalation route as appropriate because:",
     "options": [
-      "Restrict protein intake to prevent excessive metabolic demand on the inflamed lungs",
-      "Provide a high-calorie, high-protein diet with vitamins and minerals to boost the immune system and facilitate lung tissue healing",
-      "Encourage a low-fat liquid diet to minimise digestive workload during acute illness",
-      "Provide parenteral nutrition exclusively to bypass oral intake difficulties"
+      "The inhalation route avoids first-pass liver metabolism completely for all drugs",
+      "Administration of drugs through the nose to be absorbed by the mucous membrane along the respiratory tract allows for immediate action on the airways",
+      "Inhaled drugs are only effective in children under 10 years of age",
+      "The inhalation route ensures systemic distribution without any local effect"
     ],
     "answer": "B"
   },
   {
     "id": 41,
     "type": "mcq",
-    "stem": "Negative pressure in the pleural (intrapleural) space is important because it:",
+    "stem": "CASE STUDY (continued from Q40): The child's nurse also ensures disposable syringes are used for the IV access. The PRIMARY reason disposable syringes should be used where possible is:",
     "options": [
-      "Prevents air from entering the lungs during forced expiration",
-      "Keeps the lungs expanded against the chest wall and prevents lung collapse",
-      "Regulates the flow of blood through the pulmonary circulation",
-      "Maintains the production of surfactant by type II alveolar cells"
+      "Disposable syringes produce less pain on injection due to sharper needle tips",
+      "Disposable syringes are easier to label with patient identification information",
+      "To prevent cross-infection between patients",
+      "Disposable syringes allow more accurate drug measurement"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 42,
     "type": "mcq",
-    "stem": "CASE STUDY: A student nurse asks why a TB patient admitted to the ward is placed in a room with negative pressure ventilation. The senior nurse correctly explains:",
+    "stem": "Which of the following CORRECTLY defines potentiation as a combined drug effect?",
     "options": [
-      "Negative pressure ventilation provides supplemental oxygen to the patient",
-      "Negative pressure prevents TB-contaminated air from escaping the room into the corridor, protecting other patients and staff",
-      "It reduces the atmospheric pressure in the room, killing airborne mycobacteria",
-      "It creates a humidity-controlled environment that prevents bacterial growth"
+      "The combined effect of two drugs is equal to the sum of each drug's individual effect",
+      "One drug increases or prolongs the effect of another drug, usually from different pharmacological groups, by intensifying or prolonging the effect of the active agent",
+      "Two drugs from the same pharmacological group combine to produce a lesser effect than either alone",
+      "The addition of a second drug abolishes the effect of the first drug through competitive receptor binding"
     ],
     "answer": "B"
   },
   {
     "id": 43,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q42): Family members visiting the patient ask the nurse why they must wear face masks. The nurse explains that TB is transmitted primarily through:",
+    "stem": "A nurse administering an IV injection must expel all air from the syringe and needle before administration. What potentially life-threatening complication does this prevent?",
     "options": [
-      "Direct contact with the patient's skin lesions",
-      "Contaminated food and water shared with the patient",
-      "Respiratory droplets from infected persons who cough or sneeze",
-      "Blood and body fluid contact during patient care activities"
+      "Phlebitis at the injection site",
+      "Air embolism",
+      "Drug precipitation in the bloodstream",
+      "Extravasation of the drug into surrounding tissue"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 44,
     "type": "mcq",
-    "stem": "Bronchopneumonia differs from lobar pneumonia in that bronchopneumonia:",
+    "stem": "The action of Digitalis is enhanced by Thiazide diuretics increasing potassium excretion. This drug interaction is dangerous because:",
     "options": [
-      "Is always caused by viral organisms while lobar pneumonia is always bacterial",
-      "Involves distal air ways and alveoli while lobar pneumonia involves the entire lobe",
-      "Only affects the right lung while lobar pneumonia affects both lungs simultaneously",
-      "Is less severe and never requires hospitalisation compared to lobar pneumonia"
+      "Potassium loss increases blood pressure, counteracting Digitalis's cardiac effect",
+      "Hypokalaemia caused by potassium excretion makes cardiac cells more sensitive to Digitalis toxicity",
+      "Thiazide diuretics cause Digitalis to be excreted faster, requiring higher doses",
+      "Potassium loss inhibits renal excretion of Digitalis, accumulating toxic levels"
     ],
     "answer": "B"
   },
   {
     "id": 45,
     "type": "mcq",
-    "stem": "A nurse notes that a pneumonia patient has 'Hyperthermia related to infection process evidenced by temperature of 38.6Â°C.' Which intervention is MOST directly targeted at this nursing diagnosis?",
+    "stem": "CASE STUDY: A student nurse is about to pour a mixture drug. The charge nurse instructs her to hold the bottle label uppermost and pour from the opposite side of the label. The student asks why. The charge nurse explains this is to:",
     "options": [
-      "Position in Fowler's position to improve oxygenation",
-      "Administer antipyretics as prescribed and maintain high fluid intake",
-      "Administer mucolytics to thin secretions and facilitate expectoration",
-      "Enforce respiratory isolation to prevent cross-infection"
+      "Reduce the speed of liquid flow for more accurate measurement",
+      "Prevent soiling or staining the label, which could make it unreadable for future use",
+      "Activate the drug by exposing the non-label side to air during pouring",
+      "Prevent contamination of the label's ink with the mixture drug"
     ],
     "answer": "B"
   },
   {
     "id": 46,
     "type": "mcq",
-    "stem": "Type III alveolar cells (Type III macrophages) function specifically to:",
+    "stem": "CASE STUDY (continued from Q45): After the measurement, the nurse checks the amount of drug measured against the prescription sheet before giving it to the patient. This step is specifically required by which rule of mixture drug administration?",
     "options": [
-      "Secrete surfactant to reduce surface tension",
-      "Ingest foreign matter as an important defence mechanism",
-      "Transport gases across the alveolar-capillary membrane",
-      "Produce mucus to trap inhaled pathogens in the upper airway"
+      "The amount of drug measured out must be checked again with the prescription sheet before it is given to the patient",
+      "Bottles of mixture must be inverted several times before measurement",
+      "Cupboards containing drugs must be locked immediately after use",
+      "Any mistake must be reported to the Senior Nursing Officer or Head Nurse"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 47,
     "type": "mcq",
-    "stem": "CASE STUDY: A 45-year-old woman with a history of smoking presents with cough, fever of 38.9Â°C, and purulent sputum. Blood cultures are pending. A chest X-ray shows bilateral infiltrates. The nurse recognises smoking as a predisposing factor for pneumonia because:",
+    "stem": "An irritating drug is given intramuscularly rather than subcutaneously. The PRIMARY reason irritating drugs should NOT be given subcutaneously is:",
     "options": [
-      "Smoking directly introduces Streptococcus pneumoniae into the lower airways",
-      "Smoking impairs mucociliary function, reducing the ability to clear pathogens from the respiratory tract",
-      "Nicotine suppresses fever responses, delaying diagnosis",
-      "Smoking increases respiratory rate, promoting inhalation of larger pathogen loads"
+      "The subcutaneous layer is too thin to hold more than 1 ml of irritating solution",
+      "Irritating solutions given subcutaneously can damage and slough off the tissue",
+      "Subcutaneous absorption is too rapid for irritating drugs, causing systemic toxicity",
+      "Irritating drugs require a sterile field only achievable with intramuscular technique"
     ],
     "answer": "B"
   },
   {
     "id": 48,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q47): The nurse plans to monitor the patient for complications of pneumonia. Which complication involves collection of pus in the pleural space?",
+    "stem": "A patient on the ward is prescribed a tablet that the nurse notices has melted and lost its shape in the blister pack. According to the rules for tablet administration, the nurse should:",
     "options": [
-      "Atelectasis",
-      "Empyema",
-      "Sepsis",
-      "Pneumothorax"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 49,
-    "type": "mcq",
-    "stem": "Pulmonary circulation is distinct from bronchial circulation in that pulmonary circulation:",
-    "options": [
-      "Provides nutrients to the lung tissue while bronchial circulation handles gas exchange",
-      "Provides for gas exchange at the lungs, while bronchial circulation supplies the bronchial cells nutritional needs",
-      "Drains venous blood from the lungs into the right atrium via the pulmonary veins",
-      "Bypasses the lungs entirely to oxygenate heart tissue via coronary arteries"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 50,
-    "type": "mcq",
-    "stem": "CASE STUDY: Nurse Chika is caring for a TB patient on DOTS therapy. The patient reports tingling and numbness in the feet. The nurse recognises this as a peripheral neuropathy side effect most commonly associated with which first-line TB drug?",
-    "options": [
-      "Rifampicin",
-      "Ethambutol",
-      "Isoniazid",
-      "Pyrazinamide"
+      "Administer the tablet with extra water to compensate for the loss of potency",
+      "Crush the tablet and dissolve in water before giving to the patient",
+      "Not serve the tablet but return it to the pharmacist for replacement",
+      "Halve the dose and reassess the patient's response in 30 minutes"
     ],
     "answer": "C"
   },
   {
+    "id": 49,
+    "type": "mcq",
+    "stem": "CASE STUDY: A nurse caring for a post-operative patient observes signs of adverse drug reaction after administering a prescribed injection. According to injection administration rules, her IMMEDIATE action should be:",
+    "options": [
+      "Administer an antihistamine from stock before contacting the physician",
+      "Document the reaction in the nursing notes and await physician ward rounds",
+      "Report to the Senior Nursing Officer or Doctor in charge immediately and suggest the correct antidote for the affected patient",
+      "Stop all medications and transfer the patient to intensive care"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 50,
+    "type": "mcq",
+    "stem": "CASE STUDY (continued from Q49): To protect herself from being pricked by contaminated needles, the nurse should:",
+    "options": [
+      "Recap the needle immediately after injection using a two-hand technique",
+      "Protect herself from being pricked by the needle used on the patient to prevent sensitivity or infection such as hepatitis",
+      "Wear double gloves during all injection procedures",
+      "Ask a colleague to hold the patient's arm during injection to prevent movement"
+    ],
+    "answer": "B"
+  },
+  {
     "id": 51,
     "type": "fitb",
-    "stem": "Tuberculosis is caused by the organism _______________ tuberculosis, which is primarily transmitted through respiratory droplets.",
-    "answer": "Mycobacterium",
+    "stem": "A drug interaction is a situation when one drug will increase the effects of another if taken at the same time. This simultaneous administration is called _______________.",
+    "answer": "potentiation",
     "acceptableAnswers": [
-      "Mycobacterium",
-      "mycobacterium"
+      "potentiation",
+      "Potentiation"
     ]
   },
   {
     "id": 52,
     "type": "fitb",
-    "stem": "The tuberculin skin test (Mantoux) is performed, and a positive reaction after _______________ to 6 weeks is considered diagnostic.",
-    "answer": "2",
-    "acceptableAnswers": [
-      "2",
-      "two"
-    ]
-  },
-  {
-    "id": 53,
-    "type": "fitb",
-    "stem": "CASE STUDY: A patient is started on TB treatment and is enrolled in a program where a health care worker directly watches the patient take each dose of medication to prevent non-adherence. This strategy is called Directly _______________ Therapy (DOT).",
-    "answer": "Observed",
-    "acceptableAnswers": [
-      "Observed",
-      "observed"
-    ]
-  },
-  {
-    "id": 54,
-    "type": "fitb",
-    "stem": "First-line anti-TB drugs include Isoniazid, Rifampicin, Ethambutol, and _______________.",
-    "answer": "Pyrazinamide",
-    "acceptableAnswers": [
-      "Pyrazinamide",
-      "pyrazinamide"
-    ]
-  },
-  {
-    "id": 55,
-    "type": "fitb",
-    "stem": "In multi-drug resistant TB, surgical options such as lobectomy or _______________ may be performed to cut out the infected tissue.",
-    "answer": "pneumonectomy",
-    "acceptableAnswers": [
-      "pneumonectomy"
-    ]
-  },
-  {
-    "id": 56,
-    "type": "fitb",
-    "stem": "The process by which TB spreads through blood and lymphatic circulation to distant sites is called _______________ dissemination.",
-    "answer": "haematogenous",
-    "acceptableAnswers": [
-      "haematogenous",
-      "hematogenous"
-    ]
-  },
-  {
-    "id": 57,
-    "type": "fitb",
-    "stem": "CASE STUDY: A nurse educating a TB patient on infection control advises that all secretions must be disposed of in _______________ bags to prevent environmental contamination.",
-    "answer": "plastic",
-    "acceptableAnswers": [
-      "plastic"
-    ]
-  },
-  {
-    "id": 58,
-    "type": "fitb",
-    "stem": "Pneumonia is an inflammatory process involving the respiratory bronchioles, alveolar space and walls, and lobes of the lungs. If not treated early, it leads to too little _______________ in the blood.",
-    "answer": "oxygen (O2)",
-    "acceptableAnswers": [
-      "oxygen",
-      "O2",
-      "oxygen (O2)"
-    ]
-  },
-  {
-    "id": 59,
-    "type": "fitb",
-    "stem": "CASE STUDY: A nursing student presents a case of a patient admitted with fever, chills, purulent sputum, and dyspnoea. The chest X-ray shows consolidation of an entire lobe. The preceptor tells the student this is classified as _______________ pneumonia based on location.",
-    "answer": "lobar",
-    "acceptableAnswers": [
-      "lobar",
-      "Lobar"
-    ]
-  },
-  {
-    "id": 60,
-    "type": "fitb",
-    "stem": "The right lung contains _______________ lobes while the left lung contains two lobes.",
+    "stem": "The prescription abbreviation 't.d.s.' means _______________ times a day.",
     "answer": "three",
     "acceptableAnswers": [
       "three",
@@ -699,97 +620,183 @@
     ]
   },
   {
+    "id": 53,
+    "type": "fitb",
+    "stem": "CASE STUDY: A nurse reads a prescription that states 'Paracetamol Tab O.n.' She correctly interprets 'O.n.' as meaning _______________.",
+    "answer": "every night",
+    "acceptableAnswers": [
+      "every night",
+      "at night"
+    ]
+  },
+  {
+    "id": 54,
+    "type": "fitb",
+    "stem": "The sublingual route prevents drugs from being rapidly metabolised by the _______________, ensuring direct systemic absorption.",
+    "answer": "liver",
+    "acceptableAnswers": [
+      "liver"
+    ]
+  },
+  {
+    "id": 55,
+    "type": "fitb",
+    "stem": "Intradermal injection is used in diagnostic tests like the Mantoux test and for administration of _______________.",
+    "answer": "vaccines",
+    "acceptableAnswers": [
+      "vaccines",
+      "vaccine"
+    ]
+  },
+  {
+    "id": 56,
+    "type": "fitb",
+    "stem": "The combined drug effect where two drugs produce a LESS combined effect than either drug alone, such as giving Tetracycline with metallic iron, is called _______________.",
+    "answer": "antagonism",
+    "acceptableAnswers": [
+      "antagonism",
+      "Antagonism"
+    ]
+  },
+  {
+    "id": 57,
+    "type": "fitb",
+    "stem": "CASE STUDY: A charge nurse tells a student that according to general drug administration rules, there should be no _______________ while serving drugs, and the nurse must concentrate fully on measuring and checking prescribed drugs.",
+    "answer": "conversation",
+    "acceptableAnswers": [
+      "conversation",
+      "talking",
+      "conversations"
+    ]
+  },
+  {
+    "id": 58,
+    "type": "fitb",
+    "stem": "The process by which absorbed drug is transported by the blood to the reactive tissue is called _______________.",
+    "answer": "distribution",
+    "acceptableAnswers": [
+      "distribution",
+      "drug distribution"
+    ]
+  },
+  {
+    "id": 59,
+    "type": "fitb",
+    "stem": "Not more than _______________ ml of drug should be given subcutaneously, and irritating solutions should not be given via this route.",
+    "answer": "2",
+    "acceptableAnswers": [
+      "2",
+      "2ml",
+      "two"
+    ]
+  },
+  {
+    "id": 60,
+    "type": "fitb",
+    "stem": "CASE STUDY: A nurse is transcribing a prescription that reads 'Mist Amoxicillin 5ml t.i.d. a.c.' She correctly interprets 'a.c.' as meaning _______________.",
+    "answer": "before meal",
+    "acceptableAnswers": [
+      "before meal",
+      "before meals",
+      "before food"
+    ]
+  },
+  {
     "id": 61,
     "type": "fitb",
-    "stem": "Type II alveolar cells secrete _______________, which prevents alveolar collapse.",
-    "answer": "surfactant",
+    "stem": "The inhalation route involves administration of drugs through the nose to be absorbed by the _______________ membrane along the respiratory tract for immediate action.",
+    "answer": "mucous",
     "acceptableAnswers": [
-      "surfactant"
+      "mucous",
+      "mucous membrane"
     ]
   },
   {
     "id": 62,
     "type": "fitb",
-    "stem": "TB drugs are taken for at least _______________ to nine months depending on age, health, drug resistance, and form of TB.",
-    "answer": "six",
+    "stem": "Bio-transformation is the process by which a drug is broken down in the body to a _______________ substance.",
+    "answer": "harmless",
     "acceptableAnswers": [
-      "six",
-      "6"
+      "harmless"
     ]
   },
   {
     "id": 63,
     "type": "fitb",
-    "stem": "CASE STUDY: A nurse planning care for a patient with TB documents the nursing diagnosis: 'Risk for infection transmission related to the _______________ of disease.' She plans to enforce face mask use for all contacts.",
-    "answer": "nature",
+    "stem": "CASE STUDY: During a pharmacology class, a lecturer asks students to identify the combined drug effect where the addition of a second drug increases the intensity or prolongs the duration of an effect caused by the first drug, and this is brought about when two drugs of the same group but different mechanisms of action are combined. This is called _______________.",
+    "answer": "synergism",
     "acceptableAnswers": [
-      "nature",
-      "infectious nature"
+      "synergism",
+      "Synergism"
     ]
   },
   {
     "id": 64,
     "type": "fitb",
-    "stem": "The chest cavity is a closed compartment whose only opening to the outside is the _______________.",
-    "answer": "trachea",
+    "stem": "The prescription abbreviation 'gbl' means a _______________.",
+    "answer": "drop",
     "acceptableAnswers": [
-      "trachea"
+      "drop"
     ]
   },
   {
     "id": 65,
     "type": "fitb",
-    "stem": "In the pathophysiology of TB, when the immune system is compromised, the organism reactivates and the infection contaminating surrounding tissue may spread. This leads to impaired blood supply to the affected area, causing _______________.",
-    "answer": "necrosis",
+    "stem": "Pills, capsules, or tablets should not be handled by hand but gently let out of the bottle into a _______________ before being given to the patient.",
+    "answer": "spoon",
     "acceptableAnswers": [
-      "necrosis"
+      "spoon"
     ]
   },
   {
     "id": 66,
     "type": "fitb",
-    "stem": "Tuberculosis is classified as a _______________ and notifiable disease because it must be reported to public health authorities.",
-    "answer": "reportable",
+    "stem": "CASE STUDY: A nurse is caring for a patient whose chart shows she was given an injection of sterile water in place of pethidine as part of a research study. The patient reported significant pain relief despite receiving no active drug. This type of medicine is called a _______________.",
+    "answer": "placebo",
     "acceptableAnswers": [
-      "reportable",
-      "notifiable"
+      "placebo"
     ]
   },
   {
     "id": 67,
     "type": "fitb",
-    "stem": "CASE STUDY: A patient with pneumonia on Fowler's position asks why the nurse insists on this positioning. The nurse explains that Fowler's position promotes respiratory function by reducing pressure on the _______________ and allowing full lung expansion.",
-    "answer": "diaphragm",
+    "stem": "The rectal route of drug administration uses drugs via the anus and rectum. These drugs are usually given to soften hard faeces. Examples include Enemas and _______________.",
+    "answer": "suppositories",
     "acceptableAnswers": [
-      "diaphragm"
+      "suppositories",
+      "Suppositories"
     ]
   },
   {
     "id": 68,
     "type": "fitb",
-    "stem": "When blood vessels around the lungs rupture in tuberculosis, the cough may be stained with blood. This symptom is called _______________.",
-    "answer": "haemoptysis",
+    "stem": "The prescription abbreviation 'qqh' or 'q.h' means _______________ hourly.",
+    "answer": "four",
     "acceptableAnswers": [
-      "haemoptysis",
-      "hemoptysis"
+      "four",
+      "4"
     ]
   },
   {
     "id": 69,
     "type": "fitb",
-    "stem": "CASE STUDY: A nurse assessing a patient with severe pneumonia notes a complication where pleural fluid containing pus has accumulated in the pleural space. She correctly documents this complication as _______________.",
-    "answer": "empyema",
+    "stem": "CASE STUDY: A nurse discovers she has made an error in drug administration. According to the General Rules of Drug Administration Rule 9, she must report the mistake at once to the Senior Nursing Officer or Head Nurses in charge of the Ward or the _______________ who prescribed the drug.",
+    "answer": "Doctor",
     "acceptableAnswers": [
-      "empyema"
+      "Doctor",
+      "doctor",
+      "physician"
     ]
   },
   {
     "id": 70,
     "type": "fitb",
-    "stem": "The formation of cavities in the lungs as a result of the TB infection process is called _______________.",
-    "answer": "cavitation",
+    "stem": "Absorption is the process of getting a drug into the blood stream. The greatest rate of absorption is achieved through the _______________ route.",
+    "answer": "intravenous",
     "acceptableAnswers": [
-      "cavitation"
+      "intravenous",
+      "IV",
+      "intravenous (IV)"
     ]
   }
 ]
