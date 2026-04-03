@@ -2,801 +2,799 @@
   {
     "id": 1,
     "type": "mcq",
-    "stem": "A patient admitted with severe vomiting and dehydration requires urgent antibiotic therapy. The nurse understands that oral administration is contraindicated in this case. Which route would be MOST appropriate to ensure rapid and complete drug absorption?",
+    "stem": "The nervous system develops embryologically from which specific structure, and what distinguishes this from the structure that gives rise to the peripheral ganglia?",
     "options": [
-      "Sublingual route",
-      "Rectal route",
-      "Intravenous (IV) route",
-      "Intramuscular route"
+      "The neural crest gives rise to both the CNS and peripheral ganglia equally",
+      "The neural tube gives rise to the CNS; the neural crest gives rise to peripheral ganglia — the neural tube does NOT produce the peripheral ganglia",
+      "The neural tube gives rise to all components of both the CNS and PNS without exception",
+      "The notochord gives rise to the CNS while the neural tube gives rise to the peripheral nervous system"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 2,
     "type": "mcq",
-    "stem": "A physician prescribes a medication 'b.d.' for a patient. The nurse correctly interprets this abbreviation to mean:",
+    "stem": "A nurse asks a student to identify the CORRECT statement about the cell body (soma) of a neuron. Which answer is MOST precise and complete?",
     "options": [
-      "Before meals",
-      "Twice a day",
-      "Three times a day",
-      "At bedtime"
+      "The soma contains the nucleus, integrates signals from dendrites, transmits action potentials away from the cell, and produces neurotransmitters stored in synaptic vesicles",
+      "The soma contains the nucleus housing genetic material, maintains the neuron's metabolic health, and integrates incoming signals from dendrites — but does NOT itself transmit action potentials away from the cell",
+      "The soma contains the nucleus, generates and transmits action potentials along its length, and directly releases neurotransmitters into the synapse",
+      "The soma contains the nucleus, produces myelin via Schwann cells, and is responsible for saltatory conduction between Nodes of Ranvier"
     ],
     "answer": "B"
   },
   {
     "id": 3,
     "type": "mcq",
-    "stem": "Drug distribution refers to the process by which an absorbed drug is transported by the blood to the reactive tissue. A nurse understands that the mere presence of a drug in the bloodstream does NOT guarantee it will reach the reactive tissue because:",
+    "stem": "CASE STUDY: A 54-year-old male with known schizophrenia is started on a typical antipsychotic. Three weeks later he develops rigidity, bradykinesia, and resting tremor. His wife asks if his brain disease is worsening. The nurse correctly explains that these extrapyramidal side effects are MOST directly caused by:",
     "options": [
-      "Some drugs are destroyed by digestive enzymes before absorption is complete",
-      "Some compounds in the drug may find it difficult to dissociate from plasma protein or cross the blood-brain barrier",
-      "The rate of excretion always exceeds the rate of distribution in chronic disease",
-      "Bio-transformation occurs before distribution in the alimentary canal"
+      "The antipsychotic blocking serotonin receptors, reducing mood stabilisation and unmasking Parkinsonian features",
+      "The antipsychotic blocking dopamine receptors in the nigrostriatal pathway — the same pathway where dopamine deficiency causes Parkinson's disease — producing drug-induced Parkinsonism",
+      "The antipsychotic increasing dopamine activity in the mesolimbic pathway, which suppresses motor coordination",
+      "The antipsychotic reducing norepinephrine levels in the prefrontal cortex, impairing voluntary motor control"
     ],
     "answer": "B"
   },
   {
     "id": 4,
     "type": "mcq",
-    "stem": "A patient with a diabetic foot ulcer is prescribed a topical antibiotic cream. The nurse correctly identifies this as which route of drug administration?",
+    "stem": "CASE STUDY (continued from Q3): The physician considers switching to an atypical antipsychotic. The nurse understands that atypicals are preferred over typicals because they target both dopamine AND serotonin receptors. Which neurotransmitter imbalance MOST accurately explains the positive symptoms (hallucinations, delusions) of schizophrenia?",
     "options": [
-      "Parenteral route",
-      "Sublingual route",
-      "Local or topical route",
-      "Inhalation route"
+      "Reduced serotonin in the limbic system leading to disinhibition of sensory processing",
+      "Excessive dopamine activity in the mesolimbic pathway",
+      "Reduced GABA in the prefrontal cortex causing loss of inhibitory control",
+      "Excessive glutamate activity in the temporal lobe leading to auditory pathway overstimulation"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 5,
     "type": "mcq",
-    "stem": "CASE STUDY: A nurse receives a prescription that reads: 'Amoxicillin 500 mg Cap t.i.d. p.c.' She correctly interprets this as:",
+    "stem": "Which of the following MOST precisely distinguishes the function of oligodendrocytes from Schwann cells?",
     "options": [
-      "Amoxicillin 500 mg capsule twice a day before meals",
-      "Amoxicillin 500 mg capsule to be taken three times a day after food",
-      "Amoxicillin 500 mg capsule four times a day at bedtime",
-      "Amoxicillin 500 mg capsule to be taken three times a day before meals"
+      "Oligodendrocytes produce myelin only in the PNS; Schwann cells produce myelin only in the CNS",
+      "Oligodendrocytes produce myelin in the CNS and can myelinate multiple axons simultaneously; Schwann cells produce myelin only in the PNS and myelinate one axon segment each",
+      "Oligodendrocytes produce myelin in both the CNS and PNS; Schwann cells only produce structural scaffolding without myelination",
+      "Oligodendrocytes and Schwann cells are functionally identical but found in different compartments of the same nervous system division"
     ],
     "answer": "B"
   },
   {
     "id": 6,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q5): The nurse is about to administer a tablet. Which of the following actions is MOST consistent with the special rules for tablet administration?",
+    "stem": "A patient with multiple sclerosis experiences slowed nerve conduction. Which mechanism MOST precisely explains why demyelination slows conduction velocity in this disease?",
     "options": [
-      "Handle the tablets with bare hands to transfer them quickly to the patient's cup",
-      "Gently let the tablets out of the bottle into a spoon before giving to the patient without handling by hand",
-      "Return any excess tablets to the original container after the patient refuses",
-      "Allow the patient to self-administer from the labelled container at the bedside"
+      "Demyelination causes the action potential to travel continuously along the entire axon membrane rather than jumping between Nodes of Ranvier, which is far slower than saltatory conduction",
+      "Demyelination destroys the Nodes of Ranvier, forcing the impulse to bypass the axon and travel through cerebrospinal fluid",
+      "Demyelination increases the number of synaptic vesicles, causing excessive neurotransmitter release that overwhelms postsynaptic receptors",
+      "Demyelination causes the axon terminal to retract, increasing the synaptic cleft distance the neurotransmitter must cross"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 7,
     "type": "mcq",
-    "stem": "The administration of Glyceryl Trinitrate (GTN) under the tongue utilises which route of administration, and what is the PRIMARY reason this route is chosen?",
+    "stem": "CASE STUDY: A 29-year-old nursing student is studying for her pharmacology exam. She asks her preceptor: 'SSRIs treat depression by blocking serotonin reuptake. But where exactly is this reuptake occurring?' The MOST accurate answer is:",
     "options": [
-      "Oral route; to allow slow absorption over 6â8 hours for sustained effect",
-      "Sublingual route; to prevent the drug from being rapidly metabolised by the liver and allow absorption into the bloodstream",
-      "Buccal route; to maximise mucosal surface area for systemic absorption",
-      "Inhalation route; to deliver the drug directly to cardiac tissue via the lungs"
+      "Serotonin reuptake occurs at the postsynaptic receptor, where the SSRI blocks serotonin from binding and being internalised",
+      "Reuptake occurs back into the presynaptic neuron via reuptake transporters; SSRIs block these transporters, leaving more serotonin available in the synaptic cleft",
+      "Reuptake occurs across the blood-brain barrier where serotonin is returned to the systemic circulation for recycling",
+      "Reuptake occurs in the synaptic vesicles where serotonin is repackaged after each action potential before the next release"
     ],
     "answer": "B"
   },
   {
     "id": 8,
     "type": "mcq",
-    "stem": "A patient in anaphylactic shock requires adrenaline (epinephrine). The nurse understands that the subcutaneous route is CONTRAINDICATED in shock because:",
+    "stem": "CASE STUDY (continued from Q7): The student then asks: 'What terminates neurotransmitter action at the synapse?' Which answer is MOST complete and accurate?",
     "options": [
-      "Subcutaneous drugs are too concentrated for emergency use",
-      "Sluggish blood circulation in shock will slow down drug absorption from subcutaneous tissue",
-      "Adrenaline causes tissue necrosis when deposited subcutaneously",
-      "The subcutaneous layer cannot hold more than 0.5 ml of fluid"
+      "Neurotransmitter action is terminated exclusively by enzymatic degradation within the synaptic cleft",
+      "Neurotransmitter action is terminated exclusively by reuptake into the presynaptic neuron via specific transporters",
+      "Neurotransmitter action is terminated by reuptake into the presynaptic neuron, enzymatic degradation, OR diffusion away from the synapse — all three mechanisms exist",
+      "Neurotransmitter action is terminated by binding to postsynaptic receptors, which inactivates the neurotransmitter after signal transduction"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 9,
     "type": "mcq",
-    "stem": "Which of the following statements CORRECTLY describes a disadvantage of the intravenous (IV) route of drug administration?",
+    "stem": "Norepinephrine (NE) and serotonin (5-HT) both affect mood, and both are implicated in depression. What MOST precisely differentiates their roles?",
     "options": [
-      "IV drugs are absorbed more slowly than oral drugs",
-      "IV drugs bypass the blood-brain barrier making them less effective",
-      "Once injected, the drug cannot be withdrawn, and careless handling can lead to thrombosis or thrombophlebitis",
-      "IV administration increases the risk of hepatic first-pass metabolism"
+      "Norepinephrine regulates reward and motivation while serotonin controls attention and stress response — they do not overlap",
+      "Serotonin regulates mood, sleep, and appetite with reduced levels linked to depression and anxiety; norepinephrine affects attention, stress, and mood with imbalance also causing depression and anxiety — both affect mood but via different primary regulatory domains",
+      "Serotonin is the main inhibitory neurotransmitter while norepinephrine is the main excitatory neurotransmitter; depression results from excess of both",
+      "Norepinephrine deficiency causes hallucinations and delusions; serotonin deficiency causes flat affect and cognitive blunting exclusively"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 10,
     "type": "mcq",
-    "stem": "CASE STUDY: A 68-year-old patient with Parkinson's disease is started on Levodopa. His wife asks why the drug cannot be taken by mouth like his previous medications. The nurse explains that Levodopa is used to replace Dopamine, which cannot be absorbed from the diet in Parkinson's disease. This mechanism of drug action is classified as:",
+    "stem": "A nurse educator asks students: 'What is the MOST critical functional difference between neuroglia and neurons?' Which answer BEST captures the key distinction without oversimplifying?",
     "options": [
-      "Direct lethal action on microorganisms",
-      "Drug action through known physiological process",
-      "Replacement of a missing substance the body cannot supply",
-      "Placebo action through psychotherapy"
+      "Neuroglia are smaller than neurons and therefore cannot carry electrical impulses; size is the primary determining factor",
+      "Neuroglia do not conduct electrical impulses but are essential for neuronal function by providing structural support, supplying nutrients and oxygen, removing waste, and forming the myelin sheath — they are supportive, not signal-conducting cells",
+      "Neuroglia conduct impulses only during pathological states such as seizures, not under normal physiological conditions",
+      "Neuroglia conduct impulses across the synapse while neurons conduct impulses within a single cell — they are functionally complementary signal transmitters"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 11,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q10): The wife also asks about a drug the patient was previously given that appeared to work only because of his belief in the treatment, with no actual pharmacological effect. The nurse correctly identifies this type of drug as:",
+    "stem": "Which statement MOST accurately describes the direction of impulse conduction in the three major neuron types?",
     "options": [
-      "An agonist drug",
-      "A synergistic drug",
-      "A placebo",
-      "An antagonist drug"
+      "Sensory neurons carry impulses from the brain to muscles; motor neurons carry impulses from sensory receptors to the brain; interneurons carry impulses within the PNS",
+      "Sensory neurons carry information TO the brain; motor neurons carry commands FROM the brain to effectors; interneurons connect neurons within the CNS — each type conducts in opposite directions",
+      "Sensory neurons carry commands from the CNS to peripheral organs; motor neurons receive sensory signals and relay them; interneurons decode sensory input in the PNS before CNS transmission",
+      "All three types carry impulses bidirectionally; the distinction is based on location rather than direction of conduction"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 12,
     "type": "mcq",
-    "stem": "The combination of Aspirin and Phenacetin in pain-relieving drugs produces a combined analgesic effect equal to the sum of each drug's individual effect. This type of combined drug effect is classified as:",
+    "stem": "CASE STUDY: A 67-year-old retired teacher presents with progressive memory loss, difficulty naming objects, and inability to learn new information. Her PET scan shows reduced acetylcholine activity. Her daughter asks why acetylcholine loss specifically causes memory problems rather than movement problems as seen in Parkinson's. The nurse correctly explains:",
     "options": [
-      "Antagonism",
-      "Potentiation",
-      "Synergism",
-      "Addition (simple summation)"
+      "Acetylcholine is the main inhibitory neurotransmitter; its loss disinhibits memory circuits, causing memory overload and confusion rather than movement problems",
+      "Acetylcholine is specifically involved in memory and learning; its deficiency — as seen in Alzheimer's disease — preferentially disrupts memory circuits, while Parkinson's disease involves dopamine loss in motor pathways — they affect different neurotransmitters in different brain regions",
+      "Acetylcholine and dopamine deficiency cause identical symptoms; the difference is simply that Alzheimer's progresses faster than Parkinson's disease",
+      "Acetylcholine loss impairs the blood-brain barrier, allowing toxins to preferentially damage the hippocampus — the memory centre — while sparing motor pathways"
     ],
-    "answer": "D"
+    "answer": "B"
   },
   {
     "id": 13,
     "type": "mcq",
-    "stem": "A nurse is administering Glyceryl Trinitrate sublingually to a patient experiencing chest pain. The rationale for the sublingual route in this clinical situation is BEST explained by:",
+    "stem": "CASE STUDY (continued from Q12): The physician initiates a cholinesterase inhibitor. The nurse explains that this drug improves memory by:",
     "options": [
-      "Sublingual route ensures the drug bypasses renal excretion",
-      "The essence of the sublingual route is to prevent some drugs from being rapidly metabolised by the liver, allowing quick systemic absorption",
-      "Sublingual administration reduces the required dose by half due to direct cardiac absorption",
-      "Sublingual drugs are safer in elderly patients as they avoid gastrointestinal irritation"
+      "Stimulating cholinergic receptors directly as an acetylcholine agonist, bypassing the need for presynaptic neuron function",
+      "Inhibiting the enzyme that breaks down acetylcholine in the synapse, thereby increasing the availability and duration of action of existing acetylcholine",
+      "Increasing the synthesis of acetylcholine in the presynaptic neuron by supplying choline precursors",
+      "Blocking reuptake of acetylcholine into the presynaptic neuron, similar to how SSRIs work for serotonin"
     ],
     "answer": "B"
   },
   {
     "id": 14,
     "type": "mcq",
-    "stem": "A patient is prescribed penicillin along with streptomycin for a serious infection. The nurse recognises this combination as an example of which combined drug effect?",
+    "stem": "GABA is described as the 'main inhibitory neurotransmitter.' Glutamate is described as the 'main excitatory neurotransmitter.' Which scenario MOST precisely illustrates the CLINICAL consequence of glutamate excess?",
     "options": [
-      "Antagonism",
-      "Potentiation",
-      "Synergism",
-      "Addition"
+      "Excess glutamate leads to reduced neuronal firing, resulting in sedation, respiratory depression, and ultimately coma similar to GABA overdose",
+      "Excess glutamate causes excessive neuronal excitation leading to neurotoxicity and mental disorders — such as excitotoxic neuronal death seen in stroke and certain psychiatric disorders",
+      "Excess glutamate triggers excessive serotonin release, resulting in serotonin syndrome with hyperthermia and agitation",
+      "Excess glutamate causes hyperpolarisation of postsynaptic membranes, paradoxically reducing neuronal activity and producing depressive symptoms"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 15,
     "type": "mcq",
-    "stem": "CASE STUDY: A ward nurse notices a bottle of mixture drug has changed colour and developed an unusual odour since it was last dispensed. Following general rules for drug administration, the CORRECT action is:",
+    "stem": "The autonomic nervous system (ANS) is divided into the sympathetic and parasympathetic divisions. Which statement MOST precisely identifies a key difference in their anatomical origin AND functional role?",
     "options": [
-      "Administer the drug since colour change is normal in some liquid medications",
-      "Dilute the drug with sterile water to restore its original colour before administration",
-      "Do not administer the drug; report to the Senior Nursing Officer and return it to the pharmacist",
-      "Use the drug for the current patient only and discard the remainder"
+      "The sympathetic NS originates from the craniosacral outflow and promotes rest and digest; the parasympathetic NS originates from the thoracolumbar outflow and prepares the body for fight or flight",
+      "The sympathetic NS originates from the thoracolumbar outflow and prepares the body for fight or flight; the parasympathetic NS originates from the craniosacral outflow and promotes rest and digest — they are anatomically and functionally opposite",
+      "Both divisions originate from the thoracolumbar region; the distinction is purely functional — sympathetic is excitatory and parasympathetic is inhibitory to all organ systems equally",
+      "The sympathetic NS is a subdivision of the somatic NS; the parasympathetic NS is the only true subdivision of the ANS, making them structurally unequal"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 16,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q15): While reviewing the drug administration rules, the nurse reads that once the medicine cupboard is unlocked, the contents must not be left unguided. Which rule number does this represent in the General Rules Concerning Administration of Drugs?",
+    "stem": "Which statement MOST accurately explains why the number of dendrites on a neuron is clinically significant?",
     "options": [
-      "Rule 4",
-      "Rule 6",
-      "Rule 8",
-      "Rule 9"
+      "The more dendrites a neuron has, the faster it conducts action potentials away from the cell body because more surface area is available for saltatory conduction",
+      "The more dendrites a neuron has, the more information it can receive simultaneously from other neurons or sensory receptors, increasing the neuron's integrative capacity",
+      "The more dendrites a neuron has, the more synaptic vesicles are produced, directly increasing neurotransmitter output at the axon terminals",
+      "The number of dendrites determines the length of the axon; neurons with more dendrites always have longer axons to balance input with output"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 17,
     "type": "mcq",
-    "stem": "Bio-transformation is the process by which a drug is broken down in the body. The higher the metabolising enzyme in the reactive tissue, the MOST direct effect this has on drug concentration is:",
+    "stem": "CASE STUDY: A 38-year-old patient with generalised anxiety disorder (GAD) is prescribed a benzodiazepine. Three days later she reports feeling 'too calm and unable to think.' Her nurse recognises this as over-enhancement of which neurotransmitter system?",
     "options": [
-      "The drug concentration in the reactive tissue increases, producing a toxic effect",
-      "The drug will be broken down earlier, invariably reducing the level of concentration and lowering its effect",
-      "Bio-transformation is permanently blocked until the drug reaches the renal cortex",
-      "The metabolising enzyme converts the drug to a more potent form, enhancing the therapeutic effect"
+      "Excess serotonin activity from combined SSRI and benzodiazepine use producing serotonin syndrome",
+      "Over-enhancement of GABA activity — benzodiazepines potentiate GABA, the main inhibitory neurotransmitter, causing excessive CNS sedation and cognitive blunting",
+      "Excess norepinephrine suppression causing parasympathetic dominance and generalised slowing of all autonomic functions",
+      "Excessive dopamine blockade from the benzodiazepine affecting the mesolimbic pathway and reducing motivational drive"
     ],
     "answer": "B"
   },
   {
     "id": 18,
     "type": "mcq",
-    "stem": "A patient with a history of alcohol use is admitted and requires sedation. The nurse is aware that alcohol interacts with barbiturates and tranquillisers. This interaction is an example of which drug interaction phenomenon?",
+    "stem": "CASE STUDY (continued from Q17): The physician considers switching to a non-benzodiazepine anxiolytic that targets serotonin. The nurse explains this distinction: GABA reduces anxiety by inhibiting neuronal excitability, while serotonin-targeting anxiolytics work differently. Which mechanism MOST accurately describes how reduced serotonin contributes to anxiety?",
     "options": [
-      "Antagonism reducing the effect of the sedative",
-      "Potentiation â alcohol increases the effect of barbiturates, making the combination more powerful and prolonged than expected",
-      "Addition where the combined effect equals the sum of both individual drugs",
-      "Synergism where both drugs work through the same mechanism to produce identical effects"
+      "Reduced serotonin directly activates the locus coeruleus, which releases norepinephrine, producing physiological arousal and anxiety symptoms",
+      "Reduced serotonin levels are linked to depression and anxiety because serotonin normally regulates mood, sleep, and appetite — its deficiency disrupts emotional regulation",
+      "Reduced serotonin inhibits GABA release, causing loss of inhibitory control over the limbic system, resulting in heightened fear and anxiety responses",
+      "Reduced serotonin increases dopamine in the mesolimbic pathway, which misinterprets environmental stimuli as threatening, producing anxiety"
     ],
     "answer": "B"
   },
   {
     "id": 19,
     "type": "mcq",
-    "stem": "Intradermal injection is specifically used for which of the following clinical purposes?",
+    "stem": "A patient asks a nurse: 'What is the difference between the brain and the spinal cord in terms of what they do in the CNS?' The MOST clinically accurate and complete answer is:",
     "options": [
-      "Administering large-volume IV fluid replacements",
-      "Delivering drugs that require rapid onset during emergency resuscitation",
-      "Diagnostic tests like the Mantoux tuberculin test and vaccine administration",
-      "Replacing drugs that cannot be given by the intramuscular route due to large volume"
+      "The brain and spinal cord have identical functions in the CNS; the distinction is purely anatomical — the brain sits in the cranium while the spinal cord sits in the vertebral canal",
+      "The brain and spinal cord together form the CNS, which acts as the control centre processing information and sending commands; the brain integrates higher functions while the spinal cord serves as a conduit for information between the brain and the peripheral nervous system",
+      "The brain belongs to the CNS while the spinal cord belongs to the PNS; the CNS processes information while the PNS transmits sensory data — they do not overlap",
+      "The brain controls involuntary functions exclusively; the spinal cord controls voluntary functions exclusively — they divide autonomic and somatic control respectively"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 20,
     "type": "mcq",
-    "stem": "A prescription reads 'PRN'. The nurse correctly interprets this to mean:",
+    "stem": "Dopamine has an INCREASED role in schizophrenia and a DECREASED role in Parkinson's disease. Which statement MOST precisely explains why the same neurotransmitter produces such different clinical effects?",
     "options": [
-      "Before meals",
-      "Every morning",
-      "When necessary",
-      "If necessary (a single dose)"
+      "Dopamine deficiency causes psychosis in all brain regions uniformly; it is the degree of deficiency — not the location — that determines whether schizophrenia or Parkinson's results",
+      "Increased dopamine activity in the mesolimbic pathway produces positive symptoms of schizophrenia (hallucinations, delusions); decreased dopamine in the nigrostriatal pathway produces motor symptoms of Parkinson's disease — pathway location determines the clinical outcome",
+      "Dopamine excess causes Parkinson's through oxidative damage to motor neurons; dopamine deficiency causes schizophrenia by disinhibiting GABA in the prefrontal cortex",
+      "Dopamine imbalance causes both conditions simultaneously; the diagnosis depends on which symptoms appear first — motor or psychiatric — not on the specific dopamine pathway involved"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 21,
     "type": "mcq",
-    "stem": "CASE STUDY: A student nurse preparing an intramuscular injection is about to administer the drug without expelling all the air from the syringe. The senior nurse intervenes because air left in the syringe when injecting can cause:",
+    "stem": "A nursing student confuses the roles of the somatic and autonomic nervous systems. Which statement MOST accurately and completely distinguishes them?",
     "options": [
-      "Subcutaneous emphysema at the injection site",
-      "Air embolism",
-      "Precipitation of the drug in the syringe",
-      "Needle-stick injury to the patient"
+      "The somatic NS controls both voluntary and involuntary movements; the autonomic NS controls only cardiac and smooth muscle with no skeletal muscle involvement",
+      "The somatic NS controls voluntary movements by activating skeletal muscles and transmits sensory information; the autonomic NS controls involuntary functions such as heart rate, digestion, and respiratory rate — they are functionally distinct but both are subdivisions of the PNS",
+      "The somatic NS controls all PNS functions including autonomic regulation; the autonomic NS is a subdivision of the CNS that regulates organ systems independently of the spinal cord",
+      "The somatic NS and autonomic NS have overlapping functions; the only difference is that somatic pathways have one neuron while autonomic pathways always have three neurons between CNS and effector"
     ],
     "answer": "B"
   },
   {
     "id": 22,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q21): After administering the injection, the nurse ensures the drug administration is immediately recorded in the drug book. The PRIMARY reason for this is:",
+    "stem": "CASE STUDY: A 45-year-old man is admitted after ingesting an organophosphate pesticide. He presents with bradycardia, excessive salivation, lacrimation, urination, and defaecation (SLUDGE). The nurse correctly identifies this as toxidrome caused by excess activity of which neurotransmitter?",
     "options": [
-      "To comply with infection control standards requiring documentation of parenteral procedures",
-      "For accountability and record purposes to prevent accidental double dosing",
-      "To alert the next shift nurse to recheck the injection site for swelling",
-      "To document adverse effects that occurred during injection"
+      "Excess serotonin activity blocking the fight-or-flight pathway and producing parasympathomimetic symptoms",
+      "Excess acetylcholine activity; organophosphates inhibit acetylcholinesterase, preventing ACh breakdown, causing parasympathetic overstimulation producing the SLUDGE syndrome",
+      "Excess norepinephrine activity overwhelming the sympathetic receptors and paradoxically activating parasympathetic responses through negative feedback",
+      "Excess GABA activity causing global CNS and peripheral nervous system inhibition, which mimics parasympathetic dominance"
     ],
     "answer": "B"
   },
   {
     "id": 23,
     "type": "mcq",
-    "stem": "Excretion is the process by which a drug or its components is eliminated from the body. Which of the following routes of excretion is listed in the notes?",
+    "stem": "CASE STUDY (continued from Q22): Treatment involves atropine, which is a muscarinic acetylcholine receptor antagonist. The nurse understands atropine works by:",
     "options": [
-      "Cerebral spinal fluid, bile, and intestinal secretions",
-      "Mammary glands, alimentary canal, liver, lungs, skin, and kidneys",
-      "Sweat glands, blood-brain barrier, and lymphatic channels",
-      "Hepatic portal circulation, renal tubules, and gallbladder only"
+      "Inhibiting acetylcholinesterase to prevent further acetylcholine breakdown, thereby restoring normal ACh levels in the synapse",
+      "Blocking muscarinic acetylcholine receptors on target organs, preventing excess ACh from binding and reversing parasympathetic overstimulation",
+      "Stimulating nicotinic acetylcholine receptors at the neuromuscular junction to counteract the muscular weakness caused by organophosphate poisoning",
+      "Activating the sympathetic nervous system via beta-adrenergic receptors to counteract the excessive parasympathetic activity"
     ],
     "answer": "B"
   },
   {
     "id": 24,
     "type": "mcq",
-    "stem": "A patient with constipation is ordered an enema. The nurse correctly identifies this as which route of drug administration?",
+    "stem": "In the step-by-step process of neuronal communication, at which EXACT step does the decision to send or not send an action potential occur?",
     "options": [
-      "Inhalation route",
-      "Sublingual route",
-      "Parenteral route",
-      "Rectal route"
+      "Reception — the dendrites assess signal strength and determine whether to propagate the impulse",
+      "Processing — the cell body (soma) decides whether to send the signal after integrating incoming signals from dendrites",
+      "Transmission (Chemical) — the axon terminal determines whether sufficient neurotransmitter is available before triggering release",
+      "Communication — the postsynaptic receptor determines whether the neurotransmitter binding is sufficient to generate a new action potential"
     ],
-    "answer": "D"
+    "answer": "B"
   },
   {
     "id": 25,
     "type": "mcq",
-    "stem": "The intravenous route of drug administration is described as the MOST rapidly effective and dangerous route. It is usually reserved for which clinical situations?",
+    "stem": "Which statement about neurotransmitter synthesis and storage is MOST accurate?",
     "options": [
-      "Routine antibiotic therapy and vitamin supplements in healthy outpatients",
-      "Emergency administration of potent drugs and when very rapid action is required like in shock",
-      "Patients who refuse oral medications due to taste aversion",
-      "Chronic disease management where weekly dosing is preferred"
+      "Neurotransmitters are synthesised in the postsynaptic neuron and transported backwards across the synapse to be stored in the presynaptic terminal",
+      "Neurotransmitters are synthesised in the neuron and stored in synaptic vesicles located in the axon terminals until an action potential triggers their release",
+      "Neurotransmitters are synthesised in the cell body (soma), transported to dendrites, and stored there until signals from other neurons trigger their release",
+      "Neurotransmitters are synthesised outside the neuron by glial cells and delivered to synaptic vesicles through active transport across the axon membrane"
     ],
     "answer": "B"
   },
   {
     "id": 26,
     "type": "mcq",
-    "stem": "CASE STUDY: Nurse Amaka is preparing to administer a mixture drug to a patient. She notices the bottle has not been inverted before measurement. She correctly inverts the bottle several times first because:",
+    "stem": "CASE STUDY: A psychiatric nurse is educating a group of caregivers about why psychiatric medications must target specific neurotransmitter systems rather than simply 'calming the brain.' She uses depression as an example. Which statement is the MOST accurate explanation she could give?",
     "options": [
-      "Inversion warms the mixture to body temperature for comfort",
-      "Bottles of mixture must be inverted several times before measuring out, even if there is no visible sediment, to ensure uniform drug distribution",
-      "Inversion activates the drug by mixing inactive ingredients with the active compound",
-      "Inversion removes trapped air bubbles that would cause inaccurate measurement"
+      "Depression results from global CNS hyperactivity; antidepressants calm all neurotransmitter systems simultaneously, which is why they take weeks to work",
+      "Depression may involve reduced serotonin signalling; psychiatric medications target specific neurotransmitter systems because neurons and their communication via neurotransmitters form the biological basis of mood, cognition, and behaviour — non-targeted treatment would disrupt all neural functions",
+      "Depression results from excessive dopamine in the prefrontal cortex; antidepressants reduce dopamine to restore mood balance, similar to how antipsychotics treat schizophrenia",
+      "Depression occurs when GABA over-inhibits serotonergic pathways; antidepressants block GABA receptors to release serotonin from inhibition, restoring normal mood"
     ],
     "answer": "B"
   },
   {
     "id": 27,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q26): After measuring the mixture, the patient refuses to take it and some drug remains in the measuring glass. According to the rules concerning mixture measurement, the nurse should:",
+    "stem": "The PNS functions to connect the CNS to the rest of the body. Which statement MOST precisely describes the DUAL directional role of the PNS?",
     "options": [
-      "Return the excess drug back to the stock bottle for the next patient's use",
-      "Store the excess in the patient's bedside locker for administration later",
-      "Discard the excess and not return it to the stock bottle or the container",
-      "Record the excess as administered to maintain drug book accuracy"
+      "The PNS transmits only motor commands from the CNS to muscles and glands; all sensory information is processed within the CNS without PNS involvement",
+      "The PNS transmits sensory information TO the CNS and motor commands FROM the CNS to muscles and glands — it serves both afferent (sensory) and efferent (motor) functions",
+      "The PNS transmits sensory information from the environment to the spinal cord only; the brain receives this information through a separate internal pathway not involving the PNS",
+      "The PNS controls both sensory and motor functions AND also acts as a control centre for basic reflexes independently of the CNS"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 28,
     "type": "mcq",
-    "stem": "Which drug interaction example correctly illustrates ANTAGONISM?",
+    "stem": "CASE STUDY: A nurse is assessing a 72-year-old patient on a psychiatric ward who has been prescribed haloperidol (a typical antipsychotic) for 6 months. The patient now shows repetitive, involuntary tongue movements and lip smacking. This presentation is MOST consistent with:",
     "options": [
-      "Alcohol increasing the effect of barbiturates beyond what either would produce alone",
-      "Penicillin combined with streptomycin producing better bacterial kill through different mechanisms",
-      "Tetracycline combined with metallic iron, where iron destroys the effects of Tetracycline",
-      "Aspirin combined with Phenacetin producing combined analgesic effect equal to the sum of each"
+      "Drug-induced Parkinsonism from prolonged dopamine blockade in the nigrostriatal pathway causing resting tremor and rigidity",
+      "Tardive dyskinesia from prolonged dopamine receptor blockade causing receptor supersensitivity in the nigrostriatal pathway, resulting in involuntary repetitive movements",
+      "Neuroleptic malignant syndrome from dopamine blockade causing hyperthermia, rigidity, and autonomic instability",
+      "Acute dystonia from sudden dopamine D2 receptor blockade causing sustained involuntary muscle contractions in the first 48 hours of treatment"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 29,
     "type": "mcq",
-    "stem": "A prescription reads 'Paracetamol 1g Tab qid S.O.S.' The nurse correctly interprets this as:",
+    "stem": "CASE STUDY (continued from Q28): The nurse explains to the family that understanding neurotransmitter function helps nurses monitor treatment effects. In this patient's case, which nursing observation would MOST directly reflect the nurse's understanding of the dopamine-movement pathway connection?",
     "options": [
-      "Paracetamol 1g tablet to be taken four times a day if necessary (as a single dose)",
-      "Paracetamol 1g tablet to be taken four times a day before meals",
-      "Paracetamol 1g tablet to be taken twice a day when necessary",
-      "Paracetamol 1g tablet to be taken every morning as a single daily dose"
+      "Monitoring for excessive sedation and respiratory depression as signs of GABA over-enhancement from adjunct benzodiazepine therapy",
+      "Regularly assessing for involuntary movements, gait abnormalities, rigidity, and tremor using a standardised scale such as AIMS, since dopamine pathway disruption in the nigrostriatal tract manifests as motor abnormalities",
+      "Measuring blood pressure hourly for orthostatic hypotension as dopamine blockade reduces adrenergic tone in the cardiovascular system",
+      "Assessing for insomnia and appetite changes as primary indicators of serotonin pathway disruption secondary to antipsychotic use"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 30,
     "type": "mcq",
-    "stem": "Antacids such as Mist Magnesium Trisilicate neutralise hydrochloric acid in the stomach, thereby preventing onset of peptic ulcer. This mechanism of drug action is classified as:",
+    "stem": "Which of the following MOST accurately explains the functional significance of the axon terminal (synaptic bouton) in neuronal communication?",
     "options": [
-      "Direct lethal action on microorganisms",
-      "Action through known physiological process",
-      "Direct chemical action",
-      "Replacement of a missing body substance"
+      "The axon terminal receives neurotransmitters from the postsynaptic neuron and stores them in synaptic vesicles for the next action potential",
+      "The axon terminal is the endpoint of the axon that releases neurotransmitters into the synapse to communicate with the next neuron or effector cell",
+      "The axon terminal generates the action potential through ion channel opening and is the primary site of electrical signal initiation in the neuron",
+      "The axon terminal integrates incoming signals and determines whether the neuron should fire, serving the same integrative function as the cell body"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 31,
     "type": "mcq",
-    "stem": "The rate of absorption of a drug through the oral route is MOST significantly affected by which factor identified in the notes?",
+    "stem": "A student states: 'Glial cells form the myelin sheath, therefore they must conduct electrical impulses like neurons.' The MOST accurate correction to this statement is:",
     "options": [
-      "The patient's age and renal function",
-      "The route of administration and the blood supply to the area",
-      "The colour, odour, and constituency of the drug preparation",
-      "The time of day the drug is administered"
+      "The student is correct; glial cells that form myelin do conduct impulses, but only in the direction opposite to the axon they are myelinating",
+      "The student is incorrect; glial cells do NOT conduct impulses despite forming the myelin sheath — they are supportive cells essential for function but do not participate in signal conduction",
+      "The student is partially correct; glial cells conduct impulses only when the neuron they are myelinating is depolarised, acting as signal amplifiers",
+      "The student is incorrect because myelin is not formed by glial cells — it is produced by the axon itself as a self-insulating mechanism"
     ],
     "answer": "B"
   },
   {
     "id": 32,
     "type": "mcq",
-    "stem": "CASE STUDY: Mr. F., a 72-year-old man on warfarin for atrial fibrillation, is started on Phenylbutazone for joint pain by a new doctor covering the ward. The regular nurse reviewing his drug chart is concerned because Phenylbutazone and aspirin:",
+    "stem": "CASE STUDY: During a mental health teaching session, a student nurse asks: 'If GABA is the main inhibitory neurotransmitter and its decrease causes anxiety, and if glutamate is the main excitatory neurotransmitter and its excess causes neurotoxicity — can they affect each other?' The MOST clinically accurate answer is:",
     "options": [
-      "Both cause gastric bleeding, making the combination fatal",
-      "Increase the activity of anticoagulants, raising the risk of haemorrhage",
-      "Together cause potassium depletion requiring urgent replacement",
-      "Interact to reduce the anticoagulant effect of warfarin, increasing clot risk"
+      "No, GABA and glutamate act completely independently; they bind to separate neuron populations with no functional relationship",
+      "Yes — GABA and glutamate are reciprocally balanced; GABA inhibits glutamate-mediated excitation. A decrease in GABA allows unchecked glutamate excitatory activity, which can contribute to anxiety and, in extreme excess, to excitotoxic neuronal damage",
+      "Yes — GABA and glutamate are co-released from the same synaptic vesicles; when GABA decreases, glutamate automatically also decreases in parallel",
+      "No — glutamate excess produces neurotoxicity only outside the CNS; within the CNS, GABA excess is the primary cause of excitotoxic neuronal death"
     ],
     "answer": "B"
   },
   {
     "id": 33,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q32): The nurse is also aware that a diabetic patient on Tolbutamide should avoid taking Sulphonamides because Sulphonamides are sulphonamide derivatives that interact with Tolbutamide. What is the nature of this interaction?",
+    "stem": "CASE STUDY (continued from Q32): A patient is prescribed valproate for epilepsy. The nurse knows valproate increases GABA activity. Which statement MOST accurately explains how this reduces seizure activity?",
     "options": [
-      "Sulphonamides antagonise Tolbutamide, raising blood glucose dangerously",
-      "Sulphonamides potentiate Tolbutamide's hypoglycaemic effect by being sulphonamide derivatives, risking severe hypoglycaemia",
-      "Sulphonamides cause renal excretion of Tolbutamide, reducing its effectiveness",
-      "Sulphonamides produce addition with Tolbutamide, simply doubling its normal effect"
+      "Valproate increases GABA, which excites inhibitory interneurons that release more GABA, creating a cascading inhibitory signal that arrests seizure activity",
+      "Valproate increases GABA, the main inhibitory neurotransmitter, which inhibits neuronal excitability and reduces the excessive synchronised electrical discharges that characterise seizures",
+      "Valproate increases GABA, which directly blocks sodium channels in axons, preventing action potential propagation independent of receptor binding",
+      "Valproate increases GABA by blocking acetylcholinesterase, thereby preventing ACh from competing with GABA at shared inhibitory receptors"
     ],
     "answer": "B"
   },
   {
     "id": 34,
     "type": "mcq",
-    "stem": "An intrathecal injection involves administration of a drug into which anatomical space?",
+    "stem": "Which of the following MOST accurately differentiates sensory neurons from interneurons in terms of both location and function?",
     "options": [
-      "Loose tissue spaces just beneath the skin",
-      "Directly into a peripheral vein",
-      "The subcrachnoid space surrounding the spinal cord",
-      "Deep muscle tissue of the gluteus maximus"
+      "Sensory neurons are located exclusively within the CNS and carry commands outward; interneurons are located in the PNS and relay signals between sensory and motor neurons",
+      "Sensory neurons carry information to the brain from peripheral receptors and are located in the PNS; interneurons connect neurons within the CNS and serve as the integrating link between sensory and motor pathways",
+      "Sensory neurons and interneurons are both located exclusively in the spinal cord; the only difference is that sensory neurons project to muscles while interneurons project to sensory organs",
+      "Sensory neurons connect neurons within the CNS and carry bidirectional signals; interneurons carry only afferent signals from peripheral receptors to the spinal cord"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 35,
     "type": "mcq",
-    "stem": "A nurse reads 'O.m.' on a drug prescription. She correctly interprets this to mean:",
+    "stem": "CASE STUDY: A 60-year-old woman with major depressive disorder has been on an SSRI for 4 weeks with minimal response. Her physician adds a norepinephrine-dopamine reuptake inhibitor (NDRI). The nurse explains this combination targets three monoamine systems. Which neurotransmitter profile MOST accurately represents what is now being modified?",
     "options": [
-      "Every night",
-      "Four hourly",
-      "Every morning",
-      "Once monthly"
+      "Serotonin (SSRI) + norepinephrine + dopamine (NDRI); three neurotransmitter reuptake pathways are being blocked, increasing availability of all three in the synapse",
+      "Serotonin (SSRI) + GABA + glutamate (NDRI); the combination addresses inhibitory and excitatory imbalance causing treatment-resistant depression",
+      "Acetylcholine (SSRI) + norepinephrine + dopamine (NDRI); cholinergic pathways are included because acetylcholine depletion in depression resembles Alzheimer's pathology",
+      "Serotonin (SSRI) + norepinephrine (NDRI) + GABA (NDRI); bupropion also enhances GABA to provide anxiolytic benefit alongside antidepressant effect"
     ],
-    "answer": "C"
+    "answer": "A"
   },
   {
     "id": 36,
     "type": "mcq",
-    "stem": "CASE STUDY: A patient recovering from oral surgery is prescribed Ferric Ammonium Citrate mixture. Before administering, the nurse is aware of a special rule regarding this specific preparation. She correctly:",
+    "stem": "The action potential is described as travelling DOWN the axon away from the cell body. Which statement MOST precisely explains the directional nature of action potential propagation?",
     "options": [
-      "Dilutes the mixture with 50 ml of water to reduce irritation to the oral mucosa",
-      "Instructs the patient to sip it through a drinking straw to prevent staining of the teeth",
-      "Administers it immediately after brushing teeth to minimise absorption",
-      "Returns the unused portion to the pharmacy for safe disposal"
+      "Action potentials are bidirectional in the axon; they travel both toward and away from the cell body simultaneously, with the cell body suppressing the backward signal",
+      "Action potentials travel from the axon hillock (where they are generated) in the direction AWAY from the cell body — toward the axon terminal — because the refractory period of recently depolarised membrane prevents backward propagation",
+      "Action potentials travel from the axon terminal back toward the cell body in a retrograde direction; the signal is then integrated by the soma before being sent forward again",
+      "Action potentials travel from dendrites through the cell body into the axon in a continuous uninterrupted wave; the soma does not process or alter the signal as it passes through"
     ],
     "answer": "B"
   },
   {
     "id": 37,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q36): Before handing over the mixture, the nurse holds the bottle label uppermost. According to the rules concerning labels, why is this important?",
+    "stem": "CASE STUDY: A nurse is caring for a 33-year-old with treatment-resistant depression who is started on ketamine infusion. Ketamine is an NMDA glutamate receptor antagonist. The nurse is asked why blocking glutamate — the main excitatory neurotransmitter — can relieve depression rather than worsen it. The MOST accurate explanation is:",
     "options": [
-      "To ensure the expiry date is checked before each administration",
-      "To prevent the liquid from dripping onto and obscuring the label, making it unreadable",
-      "To maintain the drug's sterility by keeping the cap sealed during pouring",
-      "To verify the patient's name is clearly visible on the label"
+      "Blocking glutamate reduces excitotoxicity in the prefrontal cortex, preventing neurotoxic damage to mood-regulating circuits and rapidly restoring synaptic plasticity",
+      "Blocking glutamate increases norepinephrine release by disinhibiting noradrenergic neurons that were suppressed by excess glutamate activity",
+      "Blocking glutamate directly increases GABA levels, which paradoxically reduces anxiety and reverses the GABA deficiency that causes treatment-resistant depression",
+      "Blocking glutamate blocks the enzyme that breaks down serotonin, effectively acting as a monoamine oxidase inhibitor with rapid antidepressant onset"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 38,
     "type": "mcq",
-    "stem": "Vitamin B12 injections are given to treat pernicious anaemia because Vitamin B12 cannot be absorbed from the diet in this condition. This represents which mechanism of drug action?",
+    "stem": "A nurse is teaching student nurses about the biological basis of psychiatric disorders. Which statement is the MOST accurate summary of the relationship between neurons, neurotransmitters, and psychiatric illness?",
     "options": [
-      "Direct lethal action on microorganisms",
-      "Replacement of a missing substance that the body should normally supply",
-      "Direct chemical neutralisation of a harmful substance",
-      "Action through a known physiological process"
+      "Psychiatric disorders are caused by structural neuron death only; neurotransmitter imbalances are secondary effects that resolve once neuronal regeneration occurs",
+      "Neurons and their communication via neurotransmitters form the biological basis of mood, cognition, and behaviour; psychiatric disorders often involve disruptions in neuronal signalling or neurotransmitter imbalances, which is why medications that target these systems can restore balance",
+      "Psychiatric disorders are caused by excessive glial cell proliferation that compresses neurons; neurotransmitter imbalances are the result of physical compression rather than molecular signalling defects",
+      "Psychiatric disorders involve exclusively structural brain abnormalities visible on imaging; neurotransmitter theories are outdated and have been replaced by neuroinflammatory models"
     ],
     "answer": "B"
   },
   {
     "id": 39,
     "type": "mcq",
-    "stem": "The oral route of drug administration has the disadvantage of being slower in onset because:",
+    "stem": "Which of the following MOST accurately describes the role of the axon in signal transmission, including what determines whether it fires?",
     "options": [
-      "Oral drugs are always protein-bound and cannot cross the blood-brain barrier",
-      "Drug administered orally takes time for the response to be felt as it must traverse the gastrointestinal tract before absorption",
-      "Oral drugs require hepatic activation before they can exert their therapeutic effect",
-      "Gastric acid destroys all oral medications before they reach the small intestine"
+      "The axon spontaneously generates action potentials at a baseline rate; incoming signals from dendrites modulate this baseline rate up or down depending on their polarity",
+      "The axon transmits electrical impulses (action potentials) away from the cell body when the signal from the soma is strong enough to reach the threshold for action potential generation at the axon hillock",
+      "The axon generates action potentials independently of the cell body's decision; it fires whenever it receives any signal from adjacent glial cells regardless of threshold",
+      "The axon transmits impulses in both directions simultaneously; the direction of net impulse flow is determined by whichever terminal — axon or dendrite — has the higher receptor density at the time of firing"
     ],
     "answer": "B"
   },
   {
     "id": 40,
     "type": "mcq",
-    "stem": "CASE STUDY: A 5-year-old child is admitted with severe asthma. The physician orders Salbutamol via inhalation. The nurse correctly identifies the inhalation route as appropriate because:",
+    "stem": "CASE STUDY: A 28-year-old nurse with insomnia is prescribed a sleep aid. She wants to understand why decreased GABA causes insomnia rather than simply 'keeping the brain awake.' The MOST accurate and clinically useful explanation is:",
     "options": [
-      "The inhalation route avoids first-pass liver metabolism completely for all drugs",
-      "Administration of drugs through the nose to be absorbed by the mucous membrane along the respiratory tract allows for immediate action on the airways",
-      "Inhaled drugs are only effective in children under 10 years of age",
-      "The inhalation route ensures systemic distribution without any local effect"
+      "GABA inhibits serotonin release; without GABA inhibition, excess serotonin directly stimulates the reticular activating system, creating hyperarousal and preventing sleep onset",
+      "GABA is the main inhibitory neurotransmitter; decreased GABA levels are linked to anxiety and insomnia because insufficient GABAergic inhibition allows excessive neuronal activity in arousal circuits — the brain cannot effectively transition into the lower activity states necessary for sleep",
+      "GABA inhibits melatonin secretion from the pineal gland; decreased GABA paradoxically increases melatonin, disrupting circadian rhythm synchronisation and causing insomnia through phase-shifting",
+      "GABA decrease causes compensatory dopamine excess in the reward pathway; elevated dopamine at night activates the motivational arousal system, preventing sleep through heightened goal-directed thinking"
     ],
     "answer": "B"
   },
   {
     "id": 41,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q40): The child's nurse also ensures disposable syringes are used for the IV access. The PRIMARY reason disposable syringes should be used where possible is:",
+    "stem": "Which statement is MOST precisely correct about what happens at the synapse after a neurotransmitter binds to its receptor?",
     "options": [
-      "Disposable syringes produce less pain on injection due to sharper needle tips",
-      "Disposable syringes are easier to label with patient identification information",
-      "To prevent cross-infection between patients",
-      "Disposable syringes allow more accurate drug measurement"
+      "After binding, the neurotransmitter permanently changes the receptor's conformation and is immediately destroyed by enzymatic action within the receptor protein itself",
+      "After binding, the neurotransmitter either excites or inhibits the postsynaptic neuron depending on receptor type; its action is then terminated by reuptake, enzymatic degradation, or diffusion away from the synapse",
+      "After binding, the neurotransmitter is always recycled back into synaptic vesicles via endocytosis of the entire receptor-neurotransmitter complex into the postsynaptic neuron",
+      "After binding, the neurotransmitter crosses the postsynaptic membrane and travels directly to the nucleus to alter gene expression before the signal is relayed to the next synapse"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 42,
     "type": "mcq",
-    "stem": "Which of the following CORRECTLY defines potentiation as a combined drug effect?",
+    "stem": "CASE STUDY: A nurse is preparing discharge education for a patient with bipolar disorder prescribed lithium and an atypical antipsychotic. The patient asks why he needs two medications. The nurse explains that the atypical antipsychotic targets dopamine and serotonin, while lithium works differently. The nurse's MOST accurate explanation of why two neurotransmitter-targeted drugs may be needed is:",
     "options": [
-      "The combined effect of two drugs is equal to the sum of each drug's individual effect",
-      "One drug increases or prolongs the effect of another drug, usually from different pharmacological groups, by intensifying or prolonging the effect of the active agent",
-      "Two drugs from the same pharmacological group combine to produce a lesser effect than either alone",
-      "The addition of a second drug abolishes the effect of the first drug through competitive receptor binding"
+      "Bipolar disorder involves only dopamine excess during mania; two drugs are used simply because the standard dose of one drug is insufficient to block all dopamine receptors",
+      "Bipolar disorder likely involves dysregulation across multiple neurotransmitter systems including dopamine, serotonin, and possibly glutamate — targeting multiple pathways simultaneously provides more comprehensive mood stabilisation than single-system targeting",
+      "Two drugs are needed because the first drug causes serotonin syndrome when used alone; the second drug is a safety measure that blocks excess serotonin produced by the first",
+      "Bipolar disorder requires one drug for the manic phase and one for the depressive phase; they must always be given together because switching drugs at phase transitions risks rapid cycling"
     ],
     "answer": "B"
   },
   {
     "id": 43,
     "type": "mcq",
-    "stem": "A nurse administering an IV injection must expel all air from the syringe and needle before administration. What potentially life-threatening complication does this prevent?",
+    "stem": "A student incorrectly states: 'The CNS and PNS have the same functions — they both process information and transmit signals.' The MOST accurate correction is:",
     "options": [
-      "Phlebitis at the injection site",
-      "Air embolism",
-      "Drug precipitation in the bloodstream",
-      "Extravasation of the drug into surrounding tissue"
+      "The student is correct; both systems process and transmit signals, but they differ only in location — CNS is central and PNS is peripheral with no functional distinction",
+      "The student is incorrect; the CNS acts as the control centre processing information and sending commands, while the PNS connects the CNS to the body by transmitting sensory information in and motor commands out — they have distinct complementary roles, not identical functions",
+      "The student is incorrect because the PNS processes ALL information independently and only sends final decisions to the CNS for archiving in memory — processing occurs in the periphery, not centrally",
+      "The student is partially correct; both process and transmit signals but the PNS only transmits autonomic signals while the CNS only handles somatic signals — emotional regulation occurs outside both in the limbic system"
     ],
     "answer": "B"
   },
   {
     "id": 44,
     "type": "mcq",
-    "stem": "The action of Digitalis is enhanced by Thiazide diuretics increasing potassium excretion. This drug interaction is dangerous because:",
+    "stem": "CASE STUDY: An ICU nurse observes a sedated patient on mechanical ventilation whose pupils are pinpoint (miosis) and who has reduced bowel sounds. The physician suspects opioid toxicity. The nurse understands this presentation because opioids mimic endogenous neurotransmitters that activate the parasympathetic response. Which explanation MOST accurately connects this to the nervous system content?",
     "options": [
-      "Potassium loss increases blood pressure, counteracting Digitalis's cardiac effect",
-      "Hypokalaemia caused by potassium excretion makes cardiac cells more sensitive to Digitalis toxicity",
-      "Thiazide diuretics cause Digitalis to be excreted faster, requiring higher doses",
-      "Potassium loss inhibits renal excretion of Digitalis, accumulating toxic levels"
+      "Opioids activate the sympathetic nervous system, increasing acetylcholine release at all autonomic ganglia, causing generalised cholinergic overstimulation including miosis and bowel hypomotility",
+      "Opioids bind to receptors that suppress CNS arousal and sympathetic activity, while increasing parasympathetic tone, causing miosis from pupillary constriction and respiratory depression from suppression of brainstem respiratory centres — the autonomic nervous system controls involuntary functions such as respiratory rate",
+      "Opioids block norepinephrine reuptake, flooding the synapse with norepinephrine, which paradoxically activates parasympathetic receptors through adrenergic cross-reactivity causing miosis",
+      "Opioids directly destroy dopaminergic neurons in the brainstem respiratory centres, causing irreversible apnoea and pupillary changes through permanent loss of neurotransmitter production"
     ],
     "answer": "B"
   },
   {
     "id": 45,
     "type": "mcq",
-    "stem": "CASE STUDY: A student nurse is about to pour a mixture drug. The charge nurse instructs her to hold the bottle label uppermost and pour from the opposite side of the label. The student asks why. The charge nurse explains this is to:",
+    "stem": "CASE STUDY (continued from Q44): The nurse administers naloxone (an opioid antagonist). The patient wakes up agitated, with dilated pupils and tachycardia. This response occurs because naloxone:",
     "options": [
-      "Reduce the speed of liquid flow for more accurate measurement",
-      "Prevent soiling or staining the label, which could make it unreadable for future use",
-      "Activate the drug by exposing the non-label side to air during pouring",
-      "Prevent contamination of the label's ink with the mixture drug"
+      "Stimulates dopamine release in the reward pathway, creating a brief euphoric state that manifests as agitation before the patient regains full orientation",
+      "Displaces opioids from their receptors, rapidly reversing CNS and respiratory depression; the resulting sympathetic rebound causes tachycardia and pupillary dilation as the autonomic system swings from parasympathetic to sympathetic dominance",
+      "Blocks GABA receptors non-selectively, causing CNS excitability as the inhibitory brake is suddenly removed — agitation results from loss of GABAergic inhibition rather than opioid reversal",
+      "Activates norepinephrine synthesis in the adrenal medulla, flooding the bloodstream with catecholamines that directly stimulate all sympathetic end organs independently of the nervous system"
     ],
     "answer": "B"
   },
   {
     "id": 46,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q45): After the measurement, the nurse checks the amount of drug measured against the prescription sheet before giving it to the patient. This step is specifically required by which rule of mixture drug administration?",
+    "stem": "Which of the following MOST accurately identifies ALL the functions of neuroglia listed in the content, without adding or omitting any?",
     "options": [
-      "The amount of drug measured out must be checked again with the prescription sheet before it is given to the patient",
-      "Bottles of mixture must be inverted several times before measurement",
-      "Cupboards containing drugs must be locked immediately after use",
-      "Any mistake must be reported to the Senior Nursing Officer or Head Nurse"
+      "Neuroglia provide structural support, conduct action potentials during high-demand states, supply nutrients and oxygen, and produce neurotransmitters for slow chemical transmission",
+      "Neuroglia provide structural support, supply nutrients and oxygen, remove waste, and form the myelin sheath for insulation — they do NOT conduct impulses",
+      "Neuroglia provide structural support, supply nutrients and oxygen, remove waste, form the myelin sheath, and also conduct slow graded potentials under pathological conditions",
+      "Neuroglia provide structural support and form the myelin sheath only; nutrient supply and waste removal are performed by the cerebrospinal fluid independently of glial cells"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 47,
     "type": "mcq",
-    "stem": "An irritating drug is given intramuscularly rather than subcutaneously. The PRIMARY reason irritating drugs should NOT be given subcutaneously is:",
+    "stem": "CASE STUDY: A nursing student is asked to explain, step by step, how a signal from pain receptors in a patient's foot reaches conscious perception in the brain. Which sequence is MOST accurate based on the content?",
     "options": [
-      "The subcutaneous layer is too thin to hold more than 1 ml of irritating solution",
-      "Irritating solutions given subcutaneously can damage and slough off the tissue",
-      "Subcutaneous absorption is too rapid for irritating drugs, causing systemic toxicity",
-      "Irritating drugs require a sterile field only achievable with intramuscular technique"
+      "Pain receptor activated → motor neuron in PNS carries signal → interneuron in CNS relays signal → sensory neuron carries command to conscious brain → perception occurs",
+      "Pain receptor activated → sensory neuron carries information TO the brain → signal is processed in the CNS → perception of pain occurs — the CNS acts as the control centre processing information",
+      "Pain receptor activated → interneuron in spinal cord generates action potential → sensory neuron carries motor command → brain sends inhibitory signal back to reduce pain before conscious perception",
+      "Pain receptor activated → glial cell conducts initial signal to spinal cord → interneuron relays to sensory neuron → motor neuron completes circuit to brain → conscious perception occurs via glial amplification"
     ],
     "answer": "B"
   },
   {
     "id": 48,
     "type": "mcq",
-    "stem": "A patient on the ward is prescribed a tablet that the nurse notices has melted and lost its shape in the blister pack. According to the rules for tablet administration, the nurse should:",
+    "stem": "CASE STUDY (continued from Q47): The student is then asked why morphine effectively reduces the conscious perception of this pain signal even though it does not affect the peripheral pain receptors. The MOST accurate explanation is:",
     "options": [
-      "Administer the tablet with extra water to compensate for the loss of potency",
-      "Crush the tablet and dissolve in water before giving to the patient",
-      "Not serve the tablet but return it to the pharmacist for replacement",
-      "Halve the dose and reassess the patient's response in 30 minutes"
+      "Morphine blocks sodium channels in peripheral sensory neurons, preventing action potential generation at the pain receptor level before the signal enters the CNS",
+      "Morphine binds to opioid receptors in the CNS — particularly in pain-modulating pathways — inhibiting neuronal signalling and reducing the brain's processing and perception of the pain signal; the receptor activation occurs centrally, not at the peripheral pain receptor",
+      "Morphine increases GABA release globally in the CNS, causing generalised inhibition that reduces consciousness and thereby eliminates all sensory perception including pain",
+      "Morphine blocks neurotransmitter synthesis in the axon terminals of sensory neurons, depleting the signal chemicals needed to relay pain information across synapses in the spinal cord"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 49,
     "type": "mcq",
-    "stem": "CASE STUDY: A nurse caring for a post-operative patient observes signs of adverse drug reaction after administering a prescribed injection. According to injection administration rules, her IMMEDIATE action should be:",
+    "stem": "Which feature MOST precisely distinguishes the axon from the dendrite in terms of structure and function?",
     "options": [
-      "Administer an antihistamine from stock before contacting the physician",
-      "Document the reaction in the nursing notes and await physician ward rounds",
-      "Report to the Senior Nursing Officer or Doctor in charge immediately and suggest the correct antidote for the affected patient",
-      "Stop all medications and transfer the patient to intensive care"
+      "Axons are branch-like extensions that receive incoming signals; dendrites are long thin fibres that carry impulses away from the cell body — they are functionally opposite to common understanding",
+      "Dendrites are branch-like extensions that receive incoming signals; the axon is a long thin fibre that transmits electrical impulses AWAY from the cell body toward other neurons, muscles, or glands",
+      "Axons and dendrites are structurally identical; the only distinction is that axons are found on motor neurons while dendrites are found on sensory neurons",
+      "Axons receive signals at their terminal boutons and transmit them to the soma; dendrites carry processed signals away from the soma to the next neuron in the circuit"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 50,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q49): To protect herself from being pricked by contaminated needles, the nurse should:",
+    "stem": "CASE STUDY: A mental health nurse observes a patient describe hearing voices commanding him to harm himself. The physician orders a dopamine antagonist. Another nurse questions whether targeting dopamine is sufficient. The MOST clinically accurate argument for WHY targeting dopamine alone may be insufficient in all cases of hallucinations is:",
     "options": [
-      "Recap the needle immediately after injection using a two-hand technique",
-      "Protect herself from being pricked by the needle used on the patient to prevent sensitivity or infection such as hepatitis",
-      "Wear double gloves during all injection procedures",
-      "Ask a colleague to hold the patient's arm during injection to prevent movement"
+      "Dopamine antagonists are always sufficient because all hallucinations arise exclusively from dopamine excess in the auditory cortex — any resistance is due to inadequate dosing",
+      "Hallucinations may involve disruptions across multiple neurotransmitter pathways including serotonin and glutamate in addition to dopamine; targeting dopamine alone may not address all contributing neurochemical dysregulations, explaining why some patients require multiple medication classes",
+      "Dopamine antagonists cause hallucinations in some patients; the second nurse correctly identifies that the drug itself may worsen symptoms through a paradoxical dopaminergic rebound",
+      "Hallucinations are caused by acetylcholine excess, not dopamine dysregulation; dopamine antagonists are used only for the delusion component, and separate anticholinergic drugs must target the auditory hallucinations"
     ],
     "answer": "B"
   },
   {
     "id": 51,
     "type": "fitb",
-    "stem": "A drug interaction is a situation when one drug will increase the effects of another if taken at the same time. This simultaneous administration is called _______________.",
-    "answer": "potentiation",
+    "stem": "Neurotransmitters are synthesised in the neuron and stored in synaptic _______________ located in the axon terminals until an action potential triggers their release.",
+    "answer": "vesicles",
     "acceptableAnswers": [
-      "potentiation",
-      "Potentiation"
+      "vesicles",
+      "synaptic vesicles"
     ]
   },
   {
     "id": 52,
     "type": "fitb",
-    "stem": "The prescription abbreviation 't.d.s.' means _______________ times a day.",
-    "answer": "three",
+    "stem": "The glial cells responsible for producing myelin in the CENTRAL nervous system are _______________, while those responsible for producing myelin in the PERIPHERAL nervous system are Schwann cells.",
+    "answer": "oligodendrocytes",
     "acceptableAnswers": [
-      "three",
-      "3"
+      "oligodendrocytes"
     ]
   },
   {
     "id": 53,
     "type": "fitb",
-    "stem": "CASE STUDY: A nurse reads a prescription that states 'Paracetamol Tab O.n.' She correctly interprets 'O.n.' as meaning _______________.",
-    "answer": "every night",
+    "stem": "CASE STUDY: A student nurse is asked to name the neurotransmitter that is the MAIN inhibitory neurotransmitter of the CNS, with decreased levels specifically linked to both anxiety AND insomnia. The correct answer is _______________.",
+    "answer": "GABA",
     "acceptableAnswers": [
-      "every night",
-      "at night"
+      "GABA",
+      "gamma-aminobutyric acid"
     ]
   },
   {
     "id": 54,
     "type": "fitb",
-    "stem": "The sublingual route prevents drugs from being rapidly metabolised by the _______________, ensuring direct systemic absorption.",
-    "answer": "liver",
+    "stem": "The type of conduction in which the action potential jumps between Nodes of Ranvier rather than travelling continuously along the entire axon is called _______________ conduction.",
+    "answer": "saltatory",
     "acceptableAnswers": [
-      "liver"
+      "saltatory"
     ]
   },
   {
     "id": 55,
     "type": "fitb",
-    "stem": "Intradermal injection is used in diagnostic tests like the Mantoux test and for administration of _______________.",
-    "answer": "vaccines",
+    "stem": "CASE STUDY: A nurse explains to a family that their relative's Alzheimer's disease is associated with a deficiency of _______________, a neurotransmitter specifically involved in memory and learning — NOT dopamine, which affects reward and movement, and NOT serotonin, which affects mood and appetite.",
+    "answer": "acetylcholine",
     "acceptableAnswers": [
-      "vaccines",
-      "vaccine"
+      "acetylcholine",
+      "ACh"
     ]
   },
   {
     "id": 56,
     "type": "fitb",
-    "stem": "The combined drug effect where two drugs produce a LESS combined effect than either drug alone, such as giving Tetracycline with metallic iron, is called _______________.",
-    "answer": "antagonism",
+    "stem": "Schizophrenia is linked to dopamine _______________ — meaning there is too much dopamine activity — which is opposite to Parkinson's disease where dopamine is deficient.",
+    "answer": "dysregulation",
     "acceptableAnswers": [
-      "antagonism",
-      "Antagonism"
+      "dysregulation",
+      "excess",
+      "overactivity",
+      "increased activity"
     ]
   },
   {
     "id": 57,
     "type": "fitb",
-    "stem": "CASE STUDY: A charge nurse tells a student that according to general drug administration rules, there should be no _______________ while serving drugs, and the nurse must concentrate fully on measuring and checking prescribed drugs.",
-    "answer": "conversation",
+    "stem": "CASE STUDY: A lecturer asks students: 'The nervous system develops from which embryonic structure?' A student correctly answers that it develops from the embryonic _______________ — NOT the neural crest, which gives rise to peripheral ganglia.",
+    "answer": "neural tube",
     "acceptableAnswers": [
-      "conversation",
-      "talking",
-      "conversations"
+      "neural tube"
     ]
   },
   {
     "id": 58,
     "type": "fitb",
-    "stem": "The process by which absorbed drug is transported by the blood to the reactive tissue is called _______________.",
-    "answer": "distribution",
+    "stem": "The main EXCITATORY neurotransmitter of the CNS is _______________, whose excess leads to neurotoxicity and mental disorders — as opposed to GABA, which is the main inhibitory neurotransmitter.",
+    "answer": "glutamate",
     "acceptableAnswers": [
-      "distribution",
-      "drug distribution"
+      "glutamate"
     ]
   },
   {
     "id": 59,
     "type": "fitb",
-    "stem": "Not more than _______________ ml of drug should be given subcutaneously, and irritating solutions should not be given via this route.",
-    "answer": "2",
+    "stem": "CASE STUDY: A nurse is quizzed during ward rounds. The consultant asks: 'After a neurotransmitter binds its postsynaptic receptor and produces its effect, what are the THREE mechanisms by which its action is terminated?' The nurse correctly answers: reuptake into the presynaptic neuron, enzymatic degradation, or _______________ away from the synapse.",
+    "answer": "diffusion",
     "acceptableAnswers": [
-      "2",
-      "2ml",
-      "two"
+      "diffusion"
     ]
   },
   {
     "id": 60,
     "type": "fitb",
-    "stem": "CASE STUDY: A nurse is transcribing a prescription that reads 'Mist Amoxicillin 5ml t.i.d. a.c.' She correctly interprets 'a.c.' as meaning _______________.",
-    "answer": "before meal",
+    "stem": "Interneurons connect neurons within the _______________ and serve as the integrating link between sensory and motor pathways — they are NOT found in the peripheral nervous system.",
+    "answer": "CNS",
     "acceptableAnswers": [
-      "before meal",
-      "before meals",
-      "before food"
+      "CNS",
+      "central nervous system"
     ]
   },
   {
     "id": 61,
     "type": "fitb",
-    "stem": "The inhalation route involves administration of drugs through the nose to be absorbed by the _______________ membrane along the respiratory tract for immediate action.",
-    "answer": "mucous",
+    "stem": "CASE STUDY: A pharmacology examiner asks: 'Serotonin regulates mood, sleep, and appetite. Its chemical abbreviation is 5-HT, which stands for 5-_______________.' The student correctly completes the name.",
+    "answer": "hydroxytryptamine",
     "acceptableAnswers": [
-      "mucous",
-      "mucous membrane"
+      "hydroxytryptamine",
+      "5-hydroxytryptamine"
     ]
   },
   {
     "id": 62,
     "type": "fitb",
-    "stem": "Bio-transformation is the process by which a drug is broken down in the body to a _______________ substance.",
-    "answer": "harmless",
+    "stem": "The cell body (soma) of a neuron contains the _______________, which houses the cell's genetic material and is responsible for maintaining the neuron's health and metabolic functions.",
+    "answer": "nucleus",
     "acceptableAnswers": [
-      "harmless"
+      "nucleus"
     ]
   },
   {
     "id": 63,
     "type": "fitb",
-    "stem": "CASE STUDY: During a pharmacology class, a lecturer asks students to identify the combined drug effect where the addition of a second drug increases the intensity or prolongs the duration of an effect caused by the first drug, and this is brought about when two drugs of the same group but different mechanisms of action are combined. This is called _______________.",
-    "answer": "synergism",
+    "stem": "CASE STUDY: A psychiatry examiner presents a vignette: 'A patient with depression has reduced serotonin and is prescribed an SSRI. The drug works by blocking the _______________ of serotonin back into the presynaptic neuron, leaving more serotonin available in the synaptic cleft.' The student must supply the correct process.",
+    "answer": "reuptake",
     "acceptableAnswers": [
-      "synergism",
-      "Synergism"
+      "reuptake",
+      "re-uptake"
     ]
   },
   {
     "id": 64,
     "type": "fitb",
-    "stem": "The prescription abbreviation 'gbl' means a _______________.",
-    "answer": "drop",
+    "stem": "The sympathetic nervous system prepares the body for fight or flight, while the _______________ nervous system promotes rest and digest functions and calms the body — they are antagonistic divisions of the autonomic nervous system.",
+    "answer": "parasympathetic",
     "acceptableAnswers": [
-      "drop"
+      "parasympathetic"
     ]
   },
   {
     "id": 65,
     "type": "fitb",
-    "stem": "Pills, capsules, or tablets should not be handled by hand but gently let out of the bottle into a _______________ before being given to the patient.",
-    "answer": "spoon",
+    "stem": "CASE STUDY: In a neuroscience clinical, a student is asked: 'Norepinephrine affects attention, stress, and mood. Its imbalance specifically causes depression and anxiety — NOT Parkinson's disease or Alzheimer's. Which two conditions, therefore, does norepinephrine imbalance cause?' The student correctly answers: _______________ and anxiety.",
+    "answer": "depression",
     "acceptableAnswers": [
-      "spoon"
+      "depression",
+      "depressive disorder",
+      "major depressive disorder"
     ]
   },
   {
     "id": 66,
     "type": "fitb",
-    "stem": "CASE STUDY: A nurse is caring for a patient whose chart shows she was given an injection of sterile water in place of pethidine as part of a research study. The patient reported significant pain relief despite receiving no active drug. This type of medicine is called a _______________.",
-    "answer": "placebo",
+    "stem": "Dendrites are branch-like extensions from the cell body that receive incoming signals. The MORE dendrites a neuron has, the MORE _______________ it can receive simultaneously, increasing its integrative capacity.",
+    "answer": "information",
     "acceptableAnswers": [
-      "placebo"
+      "information",
+      "signals",
+      "input"
     ]
   },
   {
     "id": 67,
     "type": "fitb",
-    "stem": "The rectal route of drug administration uses drugs via the anus and rectum. These drugs are usually given to soften hard faeces. Examples include Enemas and _______________.",
-    "answer": "suppositories",
+    "stem": "CASE STUDY: A nursing student is given this exam question: 'Name the THREE functional types of neurons and their specific directions of conduction.' She correctly answers: sensory neurons (carry information TO the brain), motor neurons (carry commands FROM the brain), and _______________ (connect neurons within the CNS).",
+    "answer": "interneurons",
     "acceptableAnswers": [
-      "suppositories",
-      "Suppositories"
+      "interneurons",
+      "association neurons",
+      "relay neurons"
     ]
   },
   {
     "id": 68,
     "type": "fitb",
-    "stem": "The prescription abbreviation 'qqh' or 'q.h' means _______________ hourly.",
-    "answer": "four",
+    "stem": "Psychiatric medications often target _______________ systems to restore balance — this is the scientific basis for why different drug classes are used for different psychiatric diagnoses.",
+    "answer": "neurotransmitter",
     "acceptableAnswers": [
-      "four",
-      "4"
+      "neurotransmitter",
+      "neurotransmitter systems"
     ]
   },
   {
     "id": 69,
     "type": "fitb",
-    "stem": "CASE STUDY: A nurse discovers she has made an error in drug administration. According to the General Rules of Drug Administration Rule 9, she must report the mistake at once to the Senior Nursing Officer or Head Nurses in charge of the Ward or the _______________ who prescribed the drug.",
-    "answer": "Doctor",
+    "stem": "CASE STUDY: A nurse educator tells students: 'The PNS connects the CNS to the rest of the body. It transmits _______________ information TO the CNS and motor commands FROM the CNS to muscles and glands.' Students must fill in the type of information transmitted toward the CNS.",
+    "answer": "sensory",
     "acceptableAnswers": [
-      "Doctor",
-      "doctor",
-      "physician"
+      "sensory",
+      "afferent"
     ]
   },
   {
     "id": 70,
     "type": "fitb",
-    "stem": "Absorption is the process of getting a drug into the blood stream. The greatest rate of absorption is achieved through the _______________ route.",
-    "answer": "intravenous",
+    "stem": "CASE STUDY: An examiner asks a student: 'What is the ONLY neurotransmitter listed whose INCREASE (not decrease) is associated with a psychiatric disorder?' The student must identify which neurotransmitter is elevated in schizophrenia while being deficient in Parkinson's disease. The answer is _______________.",
+    "answer": "dopamine",
     "acceptableAnswers": [
-      "intravenous",
-      "IV",
-      "intravenous (IV)"
+      "dopamine",
+      "dopamine (DA)"
     ]
   }
 ]
