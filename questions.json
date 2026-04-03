@@ -2,799 +2,794 @@
   {
     "id": 1,
     "type": "mcq",
-    "stem": "The nervous system develops embryologically from which specific structure, and what distinguishes this from the structure that gives rise to the peripheral ganglia?",
+    "stem": "The American Psychiatric Nurses Association defined psychiatric/mental health nursing as a specialty nursing practice. Which element of this definition is MOST precise and complete?",
     "options": [
-      "The neural crest gives rise to both the CNS and peripheral ganglia equally",
-      "The neural tube gives rise to the CNS; the neural crest gives rise to peripheral ganglia — the neural tube does NOT produce the peripheral ganglia",
-      "The neural tube gives rise to all components of both the CNS and PNS without exception",
-      "The notochord gives rise to the CNS while the neural tube gives rise to the peripheral nervous system"
+      "A specialty nursing practice focusing on the treatment and rehabilitation of persons with psychiatric disorders and their families in hospital settings",
+      "A specialty nursing practice focusing on the identification of mental health issues, prevention of mental health problems, and the care and treatment of persons with psychiatric disorders",
+      "A specialty nursing practice focusing on the identification of psychiatric disorders, management of behavioural symptoms, and medication administration for mental health clients",
+      "A specialty nursing practice focusing on the prevention of mental illness, management of emotional disorders, and psychosocial rehabilitation of individuals and communities"
     ],
     "answer": "B"
   },
   {
     "id": 2,
     "type": "mcq",
-    "stem": "A nurse asks a student to identify the CORRECT statement about the cell body (soma) of a neuron. Which answer is MOST precise and complete?",
+    "stem": "A nurse educator asks students to identify what MOST distinguishes psychiatric nursing from all other branches of nursing practice. Which answer is MOST accurate?",
     "options": [
-      "The soma contains the nucleus, integrates signals from dendrites, transmits action potentials away from the cell, and produces neurotransmitters stored in synaptic vesicles",
-      "The soma contains the nucleus housing genetic material, maintains the neuron's metabolic health, and integrates incoming signals from dendrites — but does NOT itself transmit action potentials away from the cell",
-      "The soma contains the nucleus, generates and transmits action potentials along its length, and directly releases neurotransmitters into the synapse",
-      "The soma contains the nucleus, produces myelin via Schwann cells, and is responsible for saltatory conduction between Nodes of Ranvier"
+      "In psychiatric nursing, the nurse relies primarily on biological science and medication management rather than therapeutic communication",
+      "In psychiatric/mental health nursing, more than any other branch of nursing, patients are cared for within the context of the nurse-patient relationship",
+      "In psychiatric nursing, the nurse's primary role is diagnosis of psychiatric disorders rather than care and rehabilitation of the client",
+      "In psychiatric nursing, patients are cared for exclusively in inpatient hospital settings, unlike other nursing branches that also operate in community settings"
     ],
     "answer": "B"
   },
   {
     "id": 3,
     "type": "mcq",
-    "stem": "CASE STUDY: A 54-year-old male with known schizophrenia is started on a typical antipsychotic. Three weeks later he develops rigidity, bradykinesia, and resting tremor. His wife asks if his brain disease is worsening. The nurse correctly explains that these extrapyramidal side effects are MOST directly caused by:",
+    "stem": "CASE STUDY: A new staff nurse on a psychiatric unit asks her preceptor: 'What is the basis of psychiatric nursing as a science and as an art?' The preceptor's MOST accurate response is:",
     "options": [
-      "The antipsychotic blocking serotonin receptors, reducing mood stabilisation and unmasking Parkinsonian features",
-      "The antipsychotic blocking dopamine receptors in the nigrostriatal pathway — the same pathway where dopamine deficiency causes Parkinson's disease — producing drug-induced Parkinsonism",
-      "The antipsychotic increasing dopamine activity in the mesolimbic pathway, which suppresses motor coordination",
-      "The antipsychotic reducing norepinephrine levels in the prefrontal cortex, impairing voluntary motor control"
+      "Psychiatric nursing is based on biological science and the therapeutic use of medication as its science, with person-centred communication as its art of expression",
+      "Psychiatric nursing is based on theories of human behaviour as its science and the therapeutic use of self as its art of expression",
+      "Psychiatric nursing is based on evidence-based practice guidelines as its science and the use of therapeutic procedures such as electroconvulsive therapy as its art",
+      "Psychiatric nursing is based on psychopathology as its science and group therapy facilitation as its art of expression"
     ],
     "answer": "B"
   },
   {
     "id": 4,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q3): The physician considers switching to an atypical antipsychotic. The nurse understands that atypicals are preferred over typicals because they target both dopamine AND serotonin receptors. Which neurotransmitter imbalance MOST accurately explains the positive symptoms (hallucinations, delusions) of schizophrenia?",
+    "stem": "CASE STUDY (continued from Q3): The preceptor further distinguishes psychiatric nursing from mental health nursing. Which statement MOST accurately separates their primary focus?",
     "options": [
-      "Reduced serotonin in the limbic system leading to disinhibition of sensory processing",
-      "Excessive dopamine activity in the mesolimbic pathway",
-      "Reduced GABA in the prefrontal cortex causing loss of inhibitory control",
-      "Excessive glutamate activity in the temporal lobe leading to auditory pathway overstimulation"
+      "Psychiatric nursing focuses on well and at-risk populations; mental health nursing focuses on the cure and rehabilitation of those with identifiable emotional disorders",
+      "Psychiatric nursing focuses on the care and rehabilitation of those with identifiable emotional disorders; mental health nursing focuses on well and at-risk populations and intervenes in crisis situations to prevent development of mental illness",
+      "Psychiatric nursing and mental health nursing have identical primary focuses; the distinction is merely semantic and refers to the same scope of nursing practice in different countries",
+      "Psychiatric nursing focuses on inpatient pharmacological management; mental health nursing focuses on outpatient counselling and psychotherapy without pharmacological intervention"
     ],
     "answer": "B"
   },
   {
     "id": 5,
     "type": "mcq",
-    "stem": "Which of the following MOST precisely distinguishes the function of oligodendrocytes from Schwann cells?",
+    "stem": "Which of Bukisa's (2010) ten principles of psychiatric nursing is MOST clearly demonstrated when a nurse accepts a patient who is responding to hallucinations by talking to invisible people, without withdrawing care?",
     "options": [
-      "Oligodendrocytes produce myelin only in the PNS; Schwann cells produce myelin only in the CNS",
-      "Oligodendrocytes produce myelin in the CNS and can myelinate multiple axons simultaneously; Schwann cells produce myelin only in the PNS and myelinate one axon segment each",
-      "Oligodendrocytes produce myelin in both the CNS and PNS; Schwann cells only produce structural scaffolding without myelination",
-      "Oligodendrocytes and Schwann cells are functionally identical but found in different compartments of the same nervous system division"
+      "Principle 5: Help the individual to set appropriate limits for themselves",
+      "Principle 2: Accept and respect the person or individual regardless of their behaviour",
+      "Principle 7: Recognize that individuals need to use their defences until other defences can be substituted",
+      "Principle 3: Limit or reject inappropriate behaviour without refusing the individual"
     ],
     "answer": "B"
   },
   {
     "id": 6,
     "type": "mcq",
-    "stem": "A patient with multiple sclerosis experiences slowed nerve conduction. Which mechanism MOST precisely explains why demyelination slows conduction velocity in this disease?",
+    "stem": "A psychiatric nurse sets a limit by telling a patient: 'You cannot hit other patients, but you are free to express your anger verbally.' Which principle from Bukisa's (2010) framework does this BEST illustrate?",
     "options": [
-      "Demyelination causes the action potential to travel continuously along the entire axon membrane rather than jumping between Nodes of Ranvier, which is far slower than saltatory conduction",
-      "Demyelination destroys the Nodes of Ranvier, forcing the impulse to bypass the axon and travel through cerebrospinal fluid",
-      "Demyelination increases the number of synaptic vesicles, causing excessive neurotransmitter release that overwhelms postsynaptic receptors",
-      "Demyelination causes the axon terminal to retract, increasing the synaptic cleft distance the neurotransmitter must cross"
+      "Principle 2: Accept and respect the person regardless of their behaviour",
+      "Principle 3: Limit or reject inappropriate behaviour without refusing the individual",
+      "Principle 4: Accept the dependent needs of the individual while supporting them toward independence",
+      "Principle 5: Help the individual to set appropriate limits for themselves"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 7,
     "type": "mcq",
-    "stem": "CASE STUDY: A 29-year-old nursing student is studying for her pharmacology exam. She asks her preceptor: 'SSRIs treat depression by blocking serotonin reuptake. But where exactly is this reuptake occurring?' The MOST accurate answer is:",
+    "stem": "CASE STUDY: A 42-year-old patient with major depressive disorder refuses to bathe for three days and becomes verbally abusive when encouraged to do so. The nurse's MOST therapeutically correct approach, consistent with the principles of psychiatric nursing, is:",
     "options": [
-      "Serotonin reuptake occurs at the postsynaptic receptor, where the SSRI blocks serotonin from binding and being internalised",
-      "Reuptake occurs back into the presynaptic neuron via reuptake transporters; SSRIs block these transporters, leaving more serotonin available in the synaptic cleft",
-      "Reuptake occurs across the blood-brain barrier where serotonin is returned to the systemic circulation for recycling",
-      "Reuptake occurs in the synaptic vesicles where serotonin is repackaged after each action potential before the next release"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 8,
-    "type": "mcq",
-    "stem": "CASE STUDY (continued from Q7): The student then asks: 'What terminates neurotransmitter action at the synapse?' Which answer is MOST complete and accurate?",
-    "options": [
-      "Neurotransmitter action is terminated exclusively by enzymatic degradation within the synaptic cleft",
-      "Neurotransmitter action is terminated exclusively by reuptake into the presynaptic neuron via specific transporters",
-      "Neurotransmitter action is terminated by reuptake into the presynaptic neuron, enzymatic degradation, OR diffusion away from the synapse — all three mechanisms exist",
-      "Neurotransmitter action is terminated by binding to postsynaptic receptors, which inactivates the neurotransmitter after signal transduction"
+      "Insist on bathing by involving other staff to hold the patient while performing hygiene care to prevent infection",
+      "Accept the patient's refusal completely and document it, recognising that all behaviour has significance even if it appears distorted or meaningless",
+      "Accept the refusal, recognise the behaviour has significance despite appearing meaningless, limit the abusive verbal behaviour without withdrawing from the patient, and move at the client's pace and ability",
+      "Withdraw from the room temporarily, label the behaviour as maladaptive, and notify the physician to adjust medication to reduce the patient's resistance to care"
     ],
     "answer": "C"
   },
   {
-    "id": 9,
+    "id": 8,
     "type": "mcq",
-    "stem": "Norepinephrine (NE) and serotonin (5-HT) both affect mood, and both are implicated in depression. What MOST precisely differentiates their roles?",
+    "stem": "CASE STUDY (continued from Q7): Three days later, the patient says: 'No nurse really cares about me. You are all paid to pretend.' Which principle from the additional principles of psychiatric nursing is MOST directly applied in the nurse's response?",
     "options": [
-      "Norepinephrine regulates reward and motivation while serotonin controls attention and stress response — they do not overlap",
-      "Serotonin regulates mood, sleep, and appetite with reduced levels linked to depression and anxiety; norepinephrine affects attention, stress, and mood with imbalance also causing depression and anxiety — both affect mood but via different primary regulatory domains",
-      "Serotonin is the main inhibitory neurotransmitter while norepinephrine is the main excitatory neurotransmitter; depression results from excess of both",
-      "Norepinephrine deficiency causes hallucinations and delusions; serotonin deficiency causes flat affect and cognitive blunting exclusively"
+      "Go to the client who needs help the most â meaning the nurse should leave and attend to more acute patients",
+      "Be honest so the client can rely on you â the nurse honestly acknowledges the patient's perception while maintaining genuine care",
+      "Make reality interesting enough that the client prefers it to his or her fantasy",
+      "Compliment, reassure, and model appropriate behaviour"
     ],
     "answer": "B"
   },
   {
+    "id": 9,
+    "type": "mcq",
+    "stem": "The scope of practice of psychiatric nurses includes several specialised areas. Which combination is MOST accurately described in the notes?",
+    "options": [
+      "Child-adolescent mental health nursing, geriatric-psychiatric nursing, forensics, and substance abuse â in addition to general psychiatric care",
+      "Child-adolescent mental health nursing, geriatric nursing, neurology, and addiction psychiatry â spanning both general and specialised domains",
+      "Adult psychiatry, geriatric nursing, neuropsychiatry, and palliative care â the four major specialty divisions of psychiatric nursing practice",
+      "Forensic nursing, substance abuse, emergency psychiatry, and general medicine â with a focus on acute and community care settings"
+    ],
+    "answer": "A"
+  },
+  {
     "id": 10,
     "type": "mcq",
-    "stem": "A nurse educator asks students: 'What is the MOST critical functional difference between neuroglia and neurons?' Which answer BEST captures the key distinction without oversimplifying?",
+    "stem": "A student nurse confuses the roles of the PMHNP and the MHNP. Which statement MOST precisely distinguishes the Advanced Practice Psychiatric/Mental-Health Nurse Practitioner (PMHNP) from the Mental Health Nurse Practitioner (MHNP)?",
     "options": [
-      "Neuroglia are smaller than neurons and therefore cannot carry electrical impulses; size is the primary determining factor",
-      "Neuroglia do not conduct electrical impulses but are essential for neuronal function by providing structural support, supplying nutrients and oxygen, removing waste, and forming the myelin sheath — they are supportive, not signal-conducting cells",
-      "Neuroglia conduct impulses only during pathological states such as seizures, not under normal physiological conditions",
-      "Neuroglia conduct impulses across the synapse while neurons conduct impulses within a single cell — they are functionally complementary signal transmitters"
+      "The PMHNP has a greater focus on psychiatric diagnosis including differential diagnosis of medical disorders with psychiatric symptoms and medication treatment; the MHNP has a similar focus but requires only a Bachelor's level preparation",
+      "The PMHNP provides a wider range of services including prescribing medications, conducting therapy, and working across primary care and emergency settings, requiring Master's or Doctoral level preparation; the MHNP works primarily in hospital settings and cannot prescribe medications",
+      "The PMHNP and MHNP have identical clinical roles; the only difference is geographic â PMHNPs practice in developed countries while MHNPs practice in developing countries",
+      "The PMHNP works exclusively with children and adolescents in community settings; the MHNP works with adults only in inpatient hospital settings"
     ],
     "answer": "B"
   },
   {
     "id": 11,
     "type": "mcq",
-    "stem": "Which statement MOST accurately describes the direction of impulse conduction in the three major neuron types?",
+    "stem": "Which statement MOST accurately reflects the view of the psychiatric patient in psychiatric mental health nursing?",
     "options": [
-      "Sensory neurons carry impulses from the brain to muscles; motor neurons carry impulses from sensory receptors to the brain; interneurons carry impulses within the PNS",
-      "Sensory neurons carry information TO the brain; motor neurons carry commands FROM the brain to effectors; interneurons connect neurons within the CNS — each type conducts in opposite directions",
-      "Sensory neurons carry commands from the CNS to peripheral organs; motor neurons receive sensory signals and relay them; interneurons decode sensory input in the PNS before CNS transmission",
-      "All three types carry impulses bidirectionally; the distinction is based on location rather than direction of conduction"
+      "The psychiatric patient is fundamentally different from other patients and must be understood primarily through the lens of their psychiatric diagnosis rather than their personhood",
+      "The psychiatric patient is no less a person than any other person; regardless of how bizarre their behaviour, it is an attempt to cope with overwhelming problems, and their personhood must be respected",
+      "The psychiatric patient is defined primarily by their level of functioning; those with higher functioning require less respect and autonomy while those with lower functioning require full advocacy",
+      "The psychiatric patient's personhood is secondary to safety management; controlling maladaptive behaviour takes precedence over respecting individuality in acute inpatient settings"
     ],
     "answer": "B"
   },
   {
     "id": 12,
     "type": "mcq",
-    "stem": "CASE STUDY: A 67-year-old retired teacher presents with progressive memory loss, difficulty naming objects, and inability to learn new information. Her PET scan shows reduced acetylcholine activity. Her daughter asks why acetylcholine loss specifically causes memory problems rather than movement problems as seen in Parkinson's. The nurse correctly explains:",
+    "stem": "Psychiatric nursing is described as an interpersonal process. What is the MOST precise meaning of this in the context of psychiatric nursing philosophy?",
     "options": [
-      "Acetylcholine is the main inhibitory neurotransmitter; its loss disinhibits memory circuits, causing memory overload and confusion rather than movement problems",
-      "Acetylcholine is specifically involved in memory and learning; its deficiency — as seen in Alzheimer's disease — preferentially disrupts memory circuits, while Parkinson's disease involves dopamine loss in motor pathways — they affect different neurotransmitters in different brain regions",
-      "Acetylcholine and dopamine deficiency cause identical symptoms; the difference is simply that Alzheimer's progresses faster than Parkinson's disease",
-      "Acetylcholine loss impairs the blood-brain barrier, allowing toxins to preferentially damage the hippocampus — the memory centre — while sparing motor pathways"
+      "Psychiatric nursing is an interpersonal process because it involves multiple staff members interacting with the patient simultaneously to provide comprehensive care",
+      "Psychiatric nursing is an interpersonal process because it promotes and maintains behaviours that contribute to integrated functioning, with the client being an individual, family, group, organisation, or community",
+      "Psychiatric nursing is an interpersonal process because nurses interview patients about their interpersonal relationships to diagnose personality disorders and social deficits",
+      "Psychiatric nursing is an interpersonal process because it relies on the therapeutic relationship as the only treatment modality, excluding biological and pharmacological interventions"
     ],
     "answer": "B"
   },
   {
     "id": 13,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q12): The physician initiates a cholinesterase inhibitor. The nurse explains that this drug improves memory by:",
+    "stem": "CASE STUDY: During ward rounds, a psychiatric nurse notices a patient with psychosis arranging chairs in a circle and refusing to sit down for medication. The nurse recalls Bukisa's Principle 1. Which action is MOST consistent with this principle?",
     "options": [
-      "Stimulating cholinergic receptors directly as an acetylcholine agonist, bypassing the need for presynaptic neuron function",
-      "Inhibiting the enzyme that breaks down acetylcholine in the synapse, thereby increasing the availability and duration of action of existing acetylcholine",
-      "Increasing the synthesis of acetylcholine in the presynaptic neuron by supplying choline precursors",
-      "Blocking reuptake of acetylcholine into the presynaptic neuron, similar to how SSRIs work for serotonin"
+      "Interrupt the behaviour immediately and redirect the patient to medication administration, explaining that all therapeutic activities are scheduled and cannot be self-initiated",
+      "Recognise that all behaviour has significance; meet the needs of the performer despite how distorted or meaningless the behaviour appears to others â engage curiously rather than dismissively",
+      "Document the behaviour as a manifestation of psychosis and notify the physician to increase antipsychotic medication dosage",
+      "Involve other patients in redirecting the patient by using peer group dynamics to address the disruptive chair-arranging behaviour"
     ],
     "answer": "B"
   },
   {
     "id": 14,
     "type": "mcq",
-    "stem": "GABA is described as the 'main inhibitory neurotransmitter.' Glutamate is described as the 'main excitatory neurotransmitter.' Which scenario MOST precisely illustrates the CLINICAL consequence of glutamate excess?",
+    "stem": "CASE STUDY (continued from Q13): The patient later tells the nurse: 'The chairs protect me.' The nurse applies Principle 7 of Bukisa's framework. Which response is MOST consistent with this principle?",
     "options": [
-      "Excess glutamate leads to reduced neuronal firing, resulting in sedation, respiratory depression, and ultimately coma similar to GABA overdose",
-      "Excess glutamate causes excessive neuronal excitation leading to neurotoxicity and mental disorders — such as excitotoxic neuronal death seen in stroke and certain psychiatric disorders",
-      "Excess glutamate triggers excessive serotonin release, resulting in serotonin syndrome with hyperthermia and agitation",
-      "Excess glutamate causes hyperpolarisation of postsynaptic membranes, paradoxically reducing neuronal activity and producing depressive symptoms"
+      "Immediately correct the irrational belief about chairs as a protection, explaining the reality that chairs are furniture with no protective function",
+      "Recognise that the patient needs this defence mechanism (the belief) until other, healthier defences can be substituted, and avoid forcibly removing the behaviour",
+      "Set a firm limit that the patient cannot use chairs as a protective measure as this reinforces delusional thinking and delays recovery",
+      "Encourage the patient to verbalise the delusion to all staff members so the care team can collectively challenge the belief using reality orientation"
     ],
     "answer": "B"
   },
   {
     "id": 15,
     "type": "mcq",
-    "stem": "The autonomic nervous system (ANS) is divided into the sympathetic and parasympathetic divisions. Which statement MOST precisely identifies a key difference in their anatomical origin AND functional role?",
+    "stem": "Comprehensive services in psychiatric nursing focus on all of the following EXCEPT which one?",
     "options": [
-      "The sympathetic NS originates from the craniosacral outflow and promotes rest and digest; the parasympathetic NS originates from the thoracolumbar outflow and prepares the body for fight or flight",
-      "The sympathetic NS originates from the thoracolumbar outflow and prepares the body for fight or flight; the parasympathetic NS originates from the craniosacral outflow and promotes rest and digest — they are anatomically and functionally opposite",
-      "Both divisions originate from the thoracolumbar region; the distinction is purely functional — sympathetic is excitatory and parasympathetic is inhibitory to all organ systems equally",
-      "The sympathetic NS is a subdivision of the somatic NS; the parasympathetic NS is the only true subdivision of the ANS, making them structurally unequal"
+      "Prevention of mental illness and health maintenance",
+      "Management of or referral of mental and physical health problems",
+      "Exclusive treatment of inpatient psychiatric disorders without community prevention activities",
+      "Diagnosis and treatment of mental disorders, and rehabilitation"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 16,
     "type": "mcq",
-    "stem": "Which statement MOST accurately explains why the number of dendrites on a neuron is clinically significant?",
+    "stem": "A psychiatric nurse practitioner (PMHNP) is working in a primary care facility. Which activity MOST distinguishes the PMHNP from a general staff psychiatric nurse?",
     "options": [
-      "The more dendrites a neuron has, the faster it conducts action potentials away from the cell body because more surface area is available for saltatory conduction",
-      "The more dendrites a neuron has, the more information it can receive simultaneously from other neurons or sensory receptors, increasing the neuron's integrative capacity",
-      "The more dendrites a neuron has, the more synaptic vesicles are produced, directly increasing neurotransmitter output at the axon terminals",
-      "The number of dendrites determines the length of the axon; neurons with more dendrites always have longer axons to balance input with output"
+      "The PMHNP performs psychosocial assessment and creates treatment plans, which general staff nurses are also licensed to do in all practice settings",
+      "The PMHNP can diagnose, conduct therapy, and prescribe medications for patients with psychiatric disorders, medical mental conditions, or substance abuse problems â roles that require Master's or Doctoral preparation",
+      "The PMHNP works exclusively in emergency psychiatric settings, unlike general psychiatric nurses who work in primary care, outpatient, and inpatient settings simultaneously",
+      "The PMHNP focuses entirely on medication management and delegates all psychosocial assessment and therapy to the MHNP and social work teams"
     ],
     "answer": "B"
   },
   {
     "id": 17,
     "type": "mcq",
-    "stem": "CASE STUDY: A 38-year-old patient with generalised anxiety disorder (GAD) is prescribed a benzodiazepine. Three days later she reports feeling 'too calm and unable to think.' Her nurse recognises this as over-enhancement of which neurotransmitter system?",
+    "stem": "CASE STUDY: A nursing student asks: 'If a psychiatric patient is maladaptive â harmful to self or others â should I still provide empathetic assistance?' The correct response, grounded in psychiatric nursing philosophy, is:",
     "options": [
-      "Excess serotonin activity from combined SSRI and benzodiazepine use producing serotonin syndrome",
-      "Over-enhancement of GABA activity — benzodiazepines potentiate GABA, the main inhibitory neurotransmitter, causing excessive CNS sedation and cognitive blunting",
-      "Excess norepinephrine suppression causing parasympathetic dominance and generalised slowing of all autonomic functions",
-      "Excessive dopamine blockade from the benzodiazepine affecting the mesolimbic pathway and reducing motivational drive"
+      "No â maladaptive behaviour indicates the patient is not yet ready for empathetic engagement; set firm limits first and provide empathy only after behavioural improvement",
+      "Yes â health care providers must understand patients' plights regardless of maladaptive behaviour and provide empathetic assistance with their needs, because maladaptive behaviour is the patient's attempt to cope with the stresses of life",
+      "Yes â empathetic assistance is provided only when the behaviour is harmful to others but not when it is harmful to self, as self-harm indicates voluntary choice",
+      "No â empathetic assistance reinforces maladaptive coping; instead, the nurse should use behavioural modification exclusively to replace maladaptive responses with adaptive ones"
     ],
     "answer": "B"
   },
   {
     "id": 18,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q17): The physician considers switching to a non-benzodiazepine anxiolytic that targets serotonin. The nurse explains this distinction: GABA reduces anxiety by inhibiting neuronal excitability, while serotonin-targeting anxiolytics work differently. Which mechanism MOST accurately describes how reduced serotonin contributes to anxiety?",
+    "stem": "CASE STUDY (continued from Q17): The student then asks about the NURSE'S role as a 'service provider' in the therapeutic encounter. Which description is MOST accurate?",
     "options": [
-      "Reduced serotonin directly activates the locus coeruleus, which releases norepinephrine, producing physiological arousal and anxiety symptoms",
-      "Reduced serotonin levels are linked to depression and anxiety because serotonin normally regulates mood, sleep, and appetite — its deficiency disrupts emotional regulation",
-      "Reduced serotonin inhibits GABA release, causing loss of inhibitory control over the limbic system, resulting in heightened fear and anxiety responses",
-      "Reduced serotonin increases dopamine in the mesolimbic pathway, which misinterprets environmental stimuli as threatening, producing anxiety"
+      "The nurse as service provider controls the therapeutic encounter by setting the agenda, determining the mutual goal, and directing the client toward predetermined therapeutic outcomes",
+      "The nurse as service provider is brought into an encounter with a client who has need; a mutual goal is set by BOTH parties in the therapeutic nurse-client relationship, and solving the problem or meeting the needs becomes the goal of the encounter",
+      "The nurse as service provider focuses exclusively on the physical health needs of the psychiatric client, leaving psychological and social needs to the psychiatrist and social worker respectively",
+      "The nurse as service provider maintains professional distance to avoid counter-transference, which means not setting mutual goals but instead implementing physician-prescribed treatment plans"
     ],
     "answer": "B"
   },
   {
     "id": 19,
     "type": "mcq",
-    "stem": "A patient asks a nurse: 'What is the difference between the brain and the spinal cord in terms of what they do in the CNS?' The MOST clinically accurate and complete answer is:",
+    "stem": "According to the Department of Health of the UK, which of the following is listed as a KEY ISSUE in meeting the needs of clients with mental health problems?",
     "options": [
-      "The brain and spinal cord have identical functions in the CNS; the distinction is purely anatomical — the brain sits in the cranium while the spinal cord sits in the vertebral canal",
-      "The brain and spinal cord together form the CNS, which acts as the control centre processing information and sending commands; the brain integrates higher functions while the spinal cord serves as a conduit for information between the brain and the peripheral nervous system",
-      "The brain belongs to the CNS while the spinal cord belongs to the PNS; the CNS processes information while the PNS transmits sensory data — they do not overlap",
-      "The brain controls involuntary functions exclusively; the spinal cord controls voluntary functions exclusively — they divide autonomic and somatic control respectively"
+      "The availability of 24-hour inpatient psychiatric beds for all clients with chronic mental illness regardless of level of acuity",
+      "The physical health needs of individuals with longstanding mental health problems, where morbidity and mortality rates for preventable diseases are grossly elevated among those with chronic mental health problems",
+      "The mandatory discharge of all psychiatric inpatients after 72 hours to prevent institutional dependence and support community reintegration",
+      "The need for all psychiatric nurses to hold advanced practice qualifications before being permitted to conduct any psychosocial assessments"
     ],
     "answer": "B"
   },
   {
     "id": 20,
     "type": "mcq",
-    "stem": "Dopamine has an INCREASED role in schizophrenia and a DECREASED role in Parkinson's disease. Which statement MOST precisely explains why the same neurotransmitter produces such different clinical effects?",
+    "stem": "Principle 6 of Bukisa's framework states nurses should 'Encourage individuals to express their feelings in an atmosphere or environment that is free from judgement.' Which clinical scenario MOST violates this principle?",
     "options": [
-      "Dopamine deficiency causes psychosis in all brain regions uniformly; it is the degree of deficiency — not the location — that determines whether schizophrenia or Parkinson's results",
-      "Increased dopamine activity in the mesolimbic pathway produces positive symptoms of schizophrenia (hallucinations, delusions); decreased dopamine in the nigrostriatal pathway produces motor symptoms of Parkinson's disease — pathway location determines the clinical outcome",
-      "Dopamine excess causes Parkinson's through oxidative damage to motor neurons; dopamine deficiency causes schizophrenia by disinhibiting GABA in the prefrontal cortex",
-      "Dopamine imbalance causes both conditions simultaneously; the diagnosis depends on which symptoms appear first — motor or psychiatric — not on the specific dopamine pathway involved"
+      "A nurse listens quietly while a patient expresses anger about their hospitalisation without interrupting or redirecting the conversation",
+      "A nurse tells a patient: 'You shouldn't feel that way â other patients have much more serious problems than you do,' when the patient expresses sadness about their diagnosis",
+      "A nurse reflects a patient's emotion back by saying: 'It sounds like you are feeling overwhelmed â tell me more about that feeling'",
+      "A nurse maintains eye contact and nods while a patient describes paranoid thoughts without challenging the content of the delusion"
     ],
     "answer": "B"
   },
   {
     "id": 21,
     "type": "mcq",
-    "stem": "A nursing student confuses the roles of the somatic and autonomic nervous systems. Which statement MOST accurately and completely distinguishes them?",
+    "stem": "Which statement MOST accurately explains why it is a 'very basic principle of psychiatric nursing' to accord respect to the individual regardless of level of functioning?",
     "options": [
-      "The somatic NS controls both voluntary and involuntary movements; the autonomic NS controls only cardiac and smooth muscle with no skeletal muscle involvement",
-      "The somatic NS controls voluntary movements by activating skeletal muscles and transmits sensory information; the autonomic NS controls involuntary functions such as heart rate, digestion, and respiratory rate — they are functionally distinct but both are subdivisions of the PNS",
-      "The somatic NS controls all PNS functions including autonomic regulation; the autonomic NS is a subdivision of the CNS that regulates organ systems independently of the spinal cord",
-      "The somatic NS and autonomic NS have overlapping functions; the only difference is that somatic pathways have one neuron while autonomic pathways always have three neurons between CNS and effector"
+      "Because the legal system mandates patient rights in all healthcare settings; respect is legally required rather than philosophically motivated",
+      "Because no matter how bizarre a patient's behaviour might be, it is an attempt to cope with overwhelming problems â the patient is no less a person than any other person, and their personhood must be respected",
+      "Because disrespecting the patient reduces therapeutic compliance, making treatment less effective â respect is therefore a pragmatic strategy rather than a philosophical principle",
+      "Because psychiatric patients who are respected show faster symptom resolution, making respect a clinical intervention measurable by discharge rates"
     ],
     "answer": "B"
   },
   {
     "id": 22,
     "type": "mcq",
-    "stem": "CASE STUDY: A 45-year-old man is admitted after ingesting an organophosphate pesticide. He presents with bradycardia, excessive salivation, lacrimation, urination, and defaecation (SLUDGE). The nurse correctly identifies this as toxidrome caused by excess activity of which neurotransmitter?",
+    "stem": "CASE STUDY: A nurse is working with a client who is out of control â screaming, throwing objects, and resisting restraint. A less experienced nurse suggests intervening heroically alone. The correct principle from the additional psychiatric nursing guidelines is:",
     "options": [
-      "Excess serotonin activity blocking the fight-or-flight pathway and producing parasympathomimetic symptoms",
-      "Excess acetylcholine activity; organophosphates inhibit acetylcholinesterase, preventing ACh breakdown, causing parasympathetic overstimulation producing the SLUDGE syndrome",
-      "Excess norepinephrine activity overwhelming the sympathetic receptors and paradoxically activating parasympathetic responses through negative feedback",
-      "Excess GABA activity causing global CNS and peripheral nervous system inhibition, which mimics parasympathetic dominance"
+      "Go to the client who needs help the most â the nurse should immediately engage the client alone to demonstrate courage and build trust",
+      "Ask for help â do not try to be a hero when dealing with a client who is out of control",
+      "Avoid highly competitive activities that are having one winner and so many losers â the nurse should frame the situation as a collaborative de-escalation",
+      "Make reality interesting enough that the client prefers it to his or her fantasy â distract the client with a preferred activity to reduce agitation"
     ],
     "answer": "B"
   },
   {
     "id": 23,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q22): Treatment involves atropine, which is a muscarinic acetylcholine receptor antagonist. The nurse understands atropine works by:",
+    "stem": "CASE STUDY (continued from Q22): After the situation is resolved, the nurse's supervisor reminds her about the guideline: 'Do not allow a situation to develop or continue in which a client becomes the focus of attention in a negative manner.' What is the MOST likely clinical reason for this guideline?",
     "options": [
-      "Inhibiting acetylcholinesterase to prevent further acetylcholine breakdown, thereby restoring normal ACh levels in the synapse",
-      "Blocking muscarinic acetylcholine receptors on target organs, preventing excess ACh from binding and reversing parasympathetic overstimulation",
-      "Stimulating nicotinic acetylcholine receptors at the neuromuscular junction to counteract the muscular weakness caused by organophosphate poisoning",
-      "Activating the sympathetic nervous system via beta-adrenergic receptors to counteract the excessive parasympathetic activity"
+      "Negative attention on one patient reduces available staff time for other patients, creating a workload imbalance in the ward",
+      "When a patient becomes the focus of negative attention, it can shame, humiliate, or stigmatise them, which violates their dignity and may reinforce maladaptive behaviour through secondary gain",
+      "Negative attention on a patient increases other patients' anxiety as they fear similar treatment, creating a therapeutic milieu disturbance",
+      "Negative attention patterns are contagious in psychiatric settings and can spread maladaptive coping strategies from one patient to the rest of the ward population"
     ],
     "answer": "B"
   },
   {
     "id": 24,
     "type": "mcq",
-    "stem": "In the step-by-step process of neuronal communication, at which EXACT step does the decision to send or not send an action potential occur?",
+    "stem": "The psychiatric patient is described as a 'bio-psychosocial being.' Which interpretation MOST precisely reflects the implications of this view for nursing care?",
     "options": [
-      "Reception — the dendrites assess signal strength and determine whether to propagate the impulse",
-      "Processing — the cell body (soma) decides whether to send the signal after integrating incoming signals from dendrites",
-      "Transmission (Chemical) — the axon terminal determines whether sufficient neurotransmitter is available before triggering release",
-      "Communication — the postsynaptic receptor determines whether the neurotransmitter binding is sufficient to generate a new action potential"
+      "The psychiatric patient has biological, psychological, and social dimensions, but nursing care should prioritise biological stabilisation before addressing psychological or social concerns",
+      "The psychiatric patient requires being seen and treated as a bio-psychosocial being â all three dimensions (biological, psychological, and social) must be addressed, and the patient must be respected as a complete person, not reduced to their diagnosis",
+      "The bio-psychosocial model means the nurse addresses psychological needs exclusively, as the psychiatrist addresses biological needs and the social worker addresses social needs",
+      "The bio-psychosocial framework is aspirational in psychiatric nursing but impractical in acute inpatient settings where biological stabilisation demands the nurse's full clinical attention"
     ],
     "answer": "B"
   },
   {
     "id": 25,
     "type": "mcq",
-    "stem": "Which statement about neurotransmitter synthesis and storage is MOST accurate?",
+    "stem": "Which statement MOST correctly identifies the KEY DIFFERENCE between how Haber & Billings (1993) defined psychiatric nursing's focus and its practical scope?",
     "options": [
-      "Neurotransmitters are synthesised in the postsynaptic neuron and transported backwards across the synapse to be stored in the presynaptic terminal",
-      "Neurotransmitters are synthesised in the neuron and stored in synaptic vesicles located in the axon terminals until an action potential triggers their release",
-      "Neurotransmitters are synthesised in the cell body (soma), transported to dendrites, and stored there until signals from other neurons trigger their release",
-      "Neurotransmitters are synthesised outside the neuron by glial cells and delivered to synaptic vesicles through active transport across the axon membrane"
+      "Haber and Billings defined psychiatric nursing as concerned only with diagnosis and treatment of mental disorders, excluding prevention and rehabilitation",
+      "Haber and Billings described comprehensive psychiatric nursing services as focusing on prevention of mental illness, health maintenance, management of or referral of mental and physical health problems, diagnosis and treatment of mental disorders, and rehabilitation",
+      "Haber and Billings defined psychiatric nursing as focusing exclusively on inpatient acute care, with community prevention and rehabilitation handled by separate specialties",
+      "Haber and Billings identified diagnosis and medication management as the two primary functions of psychiatric nursing, with prevention and rehabilitation as secondary community health functions"
     ],
     "answer": "B"
   },
   {
     "id": 26,
     "type": "mcq",
-    "stem": "CASE STUDY: A psychiatric nurse is educating a group of caregivers about why psychiatric medications must target specific neurotransmitter systems rather than simply 'calming the brain.' She uses depression as an example. Which statement is the MOST accurate explanation she could give?",
+    "stem": "CASE STUDY: A nurse has been working with a depressed patient for three weeks. During a session, the patient says: 'I think you only see me once a week because I'm your least interesting patient.' Which additional principle of psychiatric nursing MOST guides the nurse's response?",
     "options": [
-      "Depression results from global CNS hyperactivity; antidepressants calm all neurotransmitter systems simultaneously, which is why they take weeks to work",
-      "Depression may involve reduced serotonin signalling; psychiatric medications target specific neurotransmitter systems because neurons and their communication via neurotransmitters form the biological basis of mood, cognition, and behaviour — non-targeted treatment would disrupt all neural functions",
-      "Depression results from excessive dopamine in the prefrontal cortex; antidepressants reduce dopamine to restore mood balance, similar to how antipsychotics treat schizophrenia",
-      "Depression occurs when GABA over-inhibits serotonergic pathways; antidepressants block GABA receptors to release serotonin from inhibition, restoring normal mood"
+      "Make frequent contact with clients â it lets them know they are worth your time and effort",
+      "Make reality interesting enough that the client prefers it to his or her fantasy",
+      "Compliment, reassure, and model appropriate behaviour",
+      "Recognize your own feelings toward clients and deal with them"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 27,
     "type": "mcq",
-    "stem": "The PNS functions to connect the CNS to the rest of the body. Which statement MOST precisely describes the DUAL directional role of the PNS?",
+    "stem": "CASE STUDY (continued from Q26): The patient then says: 'I wish I could live in my dreams. Reality is too painful.' Which principle is the nurse MOST directly applying when she helps the patient find meaning in their daily reality?",
     "options": [
-      "The PNS transmits only motor commands from the CNS to muscles and glands; all sensory information is processed within the CNS without PNS involvement",
-      "The PNS transmits sensory information TO the CNS and motor commands FROM the CNS to muscles and glands — it serves both afferent (sensory) and efferent (motor) functions",
-      "The PNS transmits sensory information from the environment to the spinal cord only; the brain receives this information through a separate internal pathway not involving the PNS",
-      "The PNS controls both sensory and motor functions AND also acts as a control centre for basic reflexes independently of the CNS"
+      "Compliment, reassure, and model appropriate behaviour",
+      "Make reality interesting enough that the client prefers it to his or her fantasy",
+      "Nursing interventions should centre on the client as a person, not on control of symptoms",
+      "Have patience! Move at the client's pace and ability"
     ],
     "answer": "B"
   },
   {
     "id": 28,
     "type": "mcq",
-    "stem": "CASE STUDY: A nurse is assessing a 72-year-old patient on a psychiatric ward who has been prescribed haloperidol (a typical antipsychotic) for 6 months. The patient now shows repetitive, involuntary tongue movements and lip smacking. This presentation is MOST consistent with:",
+    "stem": "Which statement about the nurse-client goal-setting in the therapeutic nurse-client relationship is MOST accurate?",
     "options": [
-      "Drug-induced Parkinsonism from prolonged dopamine blockade in the nigrostriatal pathway causing resting tremor and rigidity",
-      "Tardive dyskinesia from prolonged dopamine receptor blockade causing receptor supersensitivity in the nigrostriatal pathway, resulting in involuntary repetitive movements",
-      "Neuroleptic malignant syndrome from dopamine blockade causing hyperthermia, rigidity, and autonomic instability",
-      "Acute dystonia from sudden dopamine D2 receptor blockade causing sustained involuntary muscle contractions in the first 48 hours of treatment"
+      "The therapeutic goal is set unilaterally by the nurse based on the nursing diagnosis, which the client is then informed of during the first therapeutic session",
+      "In the therapeutic nurse-client relationship, a mutual goal is set by BOTH the nurse AND the client, based on the problem/need of the patient, and solving or meeting this need becomes the goal of the encounter",
+      "The therapeutic goal is set by the treatment team in the multidisciplinary meeting without client input, as clients with psychiatric disorders lack insight into their own needs",
+      "The therapeutic goal is set by the physician based on the psychiatric diagnosis, with the nurse's role limited to implementing treatment and monitoring compliance"
     ],
     "answer": "B"
   },
   {
     "id": 29,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q28): The nurse explains to the family that understanding neurotransmitter function helps nurses monitor treatment effects. In this patient's case, which nursing observation would MOST directly reflect the nurse's understanding of the dopamine-movement pathway connection?",
+    "stem": "Principle 10 of Bukisa's framework states nurses should 'Recognize that individuals have a potential for movement toward higher levels of emotional health.' Which nursing action MOST directly reflects this principle?",
     "options": [
-      "Monitoring for excessive sedation and respiratory depression as signs of GABA over-enhancement from adjunct benzodiazepine therapy",
-      "Regularly assessing for involuntary movements, gait abnormalities, rigidity, and tremor using a standardised scale such as AIMS, since dopamine pathway disruption in the nigrostriatal tract manifests as motor abnormalities",
-      "Measuring blood pressure hourly for orthostatic hypotension as dopamine blockade reduces adrenergic tone in the cardiovascular system",
-      "Assessing for insomnia and appetite changes as primary indicators of serotonin pathway disruption secondary to antipsychotic use"
+      "Informing the patient that psychiatric disorders are lifelong conditions requiring indefinite medication to manage symptoms and prevent relapse",
+      "Encouraging the patient toward greater independence while supporting dependent needs, because all individuals have potential to move toward higher emotional health regardless of current level of functioning",
+      "Setting firm external limits on patient behaviour to protect other clients, as only structure and boundaries promote emotional growth in psychiatric settings",
+      "Referring the patient to a psychiatrist as soon as emotional regression occurs, since regression indicates the nursing-led therapeutic relationship has reached its clinical limit"
     ],
     "answer": "B"
   },
   {
     "id": 30,
     "type": "mcq",
-    "stem": "Which of the following MOST accurately explains the functional significance of the axon terminal (synaptic bouton) in neuronal communication?",
+    "stem": "CASE STUDY: A nurse develops a strong personal dislike for a patient who repeatedly insults her. She notices she is avoiding that patient's room. Which additional principle of psychiatric nursing is MOST directly violated?",
     "options": [
-      "The axon terminal receives neurotransmitters from the postsynaptic neuron and stores them in synaptic vesicles for the next action potential",
-      "The axon terminal is the endpoint of the axon that releases neurotransmitters into the synapse to communicate with the next neuron or effector cell",
-      "The axon terminal generates the action potential through ion channel opening and is the primary site of electrical signal initiation in the neuron",
-      "The axon terminal integrates incoming signals and determines whether the neuron should fire, serving the same integrative function as the cell body"
+      "Have patience! Move at the client's pace and ability",
+      "Recognize your own feelings toward clients and deal with them",
+      "Go to the client who needs help the most",
+      "Nursing interventions should centre on the client as a person, not on control of the symptoms"
     ],
     "answer": "B"
   },
   {
     "id": 31,
     "type": "mcq",
-    "stem": "A student states: 'Glial cells form the myelin sheath, therefore they must conduct electrical impulses like neurons.' The MOST accurate correction to this statement is:",
+    "stem": "CASE STUDY (continued from Q30): The nurse discusses the situation in clinical supervision and returns to resume care. She applies the principle: 'Nursing interventions should centre on the client as a person, not on control of the symptoms.' What does this mean in practice?",
     "options": [
-      "The student is correct; glial cells that form myelin do conduct impulses, but only in the direction opposite to the axon they are myelinating",
-      "The student is incorrect; glial cells do NOT conduct impulses despite forming the myelin sheath — they are supportive cells essential for function but do not participate in signal conduction",
-      "The student is partially correct; glial cells conduct impulses only when the neuron they are myelinating is depolarised, acting as signal amplifiers",
-      "The student is incorrect because myelin is not formed by glial cells — it is produced by the axon itself as a self-insulating mechanism"
+      "The nurse focuses on administering symptom-targeted medications without engaging in therapeutic communication, because symptom management is the nurse's primary clinical obligation",
+      "The nurse sees the patient as a whole person whose needs and responses matter beyond the symptoms they present; care is person-centred rather than symptom-centred, addressing the individual holistically",
+      "The nurse allows the patient to control their own symptom management and only intervenes when the patient explicitly requests nursing assistance with specific symptoms",
+      "The nurse focuses on controlling the environment rather than the patient, modifying external stimuli to reduce symptom exacerbation without directly engaging the patient"
     ],
     "answer": "B"
   },
   {
     "id": 32,
     "type": "mcq",
-    "stem": "CASE STUDY: During a mental health teaching session, a student nurse asks: 'If GABA is the main inhibitory neurotransmitter and its decrease causes anxiety, and if glutamate is the main excitatory neurotransmitter and its excess causes neurotoxicity — can they affect each other?' The MOST clinically accurate answer is:",
+    "stem": "The notes identify that the needs of the psychiatric patient range across several domains. Which list MOST accurately reflects these domains?",
     "options": [
-      "No, GABA and glutamate act completely independently; they bind to separate neuron populations with no functional relationship",
-      "Yes — GABA and glutamate are reciprocally balanced; GABA inhibits glutamate-mediated excitation. A decrease in GABA allows unchecked glutamate excitatory activity, which can contribute to anxiety and, in extreme excess, to excitotoxic neuronal damage",
-      "Yes — GABA and glutamate are co-released from the same synaptic vesicles; when GABA decreases, glutamate automatically also decreases in parallel",
-      "No — glutamate excess produces neurotoxicity only outside the CNS; within the CNS, GABA excess is the primary cause of excitotoxic neuronal death"
+      "Physical needs, emotional needs, spiritual needs, and educational needs â the four core domains of psychiatric patient need",
+      "Coping limitations, behavioural and thought problems, deficient social functioning, levels of social support, and organic problems",
+      "Cognitive deficits, medication non-compliance, housing instability, and financial dependency â the four practical domains requiring case management",
+      "Psychological distress, biological dysfunction, family conflict, and occupational impairment â the four domains of the biopsychosocial assessment model"
     ],
     "answer": "B"
   },
   {
     "id": 33,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q32): A patient is prescribed valproate for epilepsy. The nurse knows valproate increases GABA activity. Which statement MOST accurately explains how this reduces seizure activity?",
+    "stem": "CASE STUDY: A psychiatric nurse is working in a general care setting with a patient who has both schizophrenia and hypertension. She notices she has been focusing entirely on the patient's blood pressure management and neglecting the psychiatric symptoms. Which documented UK Department of Health concern does this reflect?",
     "options": [
-      "Valproate increases GABA, which excites inhibitory interneurons that release more GABA, creating a cascading inhibitory signal that arrests seizure activity",
-      "Valproate increases GABA, the main inhibitory neurotransmitter, which inhibits neuronal excitability and reduces the excessive synchronised electrical discharges that characterise seizures",
-      "Valproate increases GABA, which directly blocks sodium channels in axons, preventing action potential propagation independent of receptor binding",
-      "Valproate increases GABA by blocking acetylcholinesterase, thereby preventing ACh from competing with GABA at shared inhibitory receptors"
+      "The tendency to over-medicalise psychiatric patients by prioritising physical diagnoses over mental health diagnoses in general care settings",
+      "The tendency to neglect the physical needs of clients with severe mental or emotional problems especially in psychiatric settings â and conversely, to neglect mental health care needs of psychiatric patients in general care settings",
+      "The insufficiency of community psychiatric services to manage complex co-morbid patients who require simultaneous psychiatric and medical management",
+      "The inability of general nurses to legally prescribe psychiatric medications, resulting in treatment gaps for dually diagnosed patients in non-psychiatric settings"
     ],
     "answer": "B"
   },
   {
     "id": 34,
     "type": "mcq",
-    "stem": "Which of the following MOST accurately differentiates sensory neurons from interneurons in terms of both location and function?",
+    "stem": "CASE STUDY (continued from Q33): The nurse re-reads the principle: 'Remember to assess the physical needs of your client.' She now understands that this principle exists because:",
     "options": [
-      "Sensory neurons are located exclusively within the CNS and carry commands outward; interneurons are located in the PNS and relay signals between sensory and motor neurons",
-      "Sensory neurons carry information to the brain from peripheral receptors and are located in the PNS; interneurons connect neurons within the CNS and serve as the integrating link between sensory and motor pathways",
-      "Sensory neurons and interneurons are both located exclusively in the spinal cord; the only difference is that sensory neurons project to muscles while interneurons project to sensory organs",
-      "Sensory neurons connect neurons within the CNS and carry bidirectional signals; interneurons carry only afferent signals from peripheral receptors to the spinal cord"
+      "Physical assessment is the nurse's primary legal obligation; psychiatric symptom management is secondary and belongs to the psychiatrist",
+      "There is a documented tendency to neglect physical needs in psychiatric settings; morbidity and mortality rates for preventable diseases are grossly elevated among people with chronic mental health problems",
+      "Physical deterioration always precedes psychiatric deterioration, so addressing physical needs will automatically resolve psychiatric symptoms in most cases",
+      "Physical assessment is required only when the patient presents with somatic complaints; in the absence of somatic symptoms, psychiatric symptom management takes priority"
     ],
     "answer": "B"
   },
   {
     "id": 35,
     "type": "mcq",
-    "stem": "CASE STUDY: A 60-year-old woman with major depressive disorder has been on an SSRI for 4 weeks with minimal response. Her physician adds a norepinephrine-dopamine reuptake inhibitor (NDRI). The nurse explains this combination targets three monoamine systems. Which neurotransmitter profile MOST accurately represents what is now being modified?",
+    "stem": "Principle 9 of Bukisa's framework states: 'Recognize that individuals frequently respond to the behavioural expectations of others, family, friends, etc.' Which nursing action MOST directly applies this principle in practice?",
     "options": [
-      "Serotonin (SSRI) + norepinephrine + dopamine (NDRI); three neurotransmitter reuptake pathways are being blocked, increasing availability of all three in the synapse",
-      "Serotonin (SSRI) + GABA + glutamate (NDRI); the combination addresses inhibitory and excitatory imbalance causing treatment-resistant depression",
-      "Acetylcholine (SSRI) + norepinephrine + dopamine (NDRI); cholinergic pathways are included because acetylcholine depletion in depression resembles Alzheimer's pathology",
-      "Serotonin (SSRI) + norepinephrine (NDRI) + GABA (NDRI); bupropion also enhances GABA to provide anxiolytic benefit alongside antidepressant effect"
+      "Ignoring the family's expectations of the patient to prevent external pressure from interfering with the patient's autonomous recovery process",
+      "Including the patient's family and social context in the nursing assessment and care planning, since expectations from significant others powerfully shape patient behaviour and recovery",
+      "Setting strict boundaries between the patient and their family during hospitalisation to allow the patient to develop independent coping skills without social influence",
+      "Educating the family to avoid expressing expectations of the patient, as expectations create performance anxiety that delays psychiatric recovery"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 36,
     "type": "mcq",
-    "stem": "The action potential is described as travelling DOWN the axon away from the cell body. Which statement MOST precisely explains the directional nature of action potential propagation?",
+    "stem": "A nurse tells a patient: 'I noticed you made your bed this morning â that's a real step forward.' Which additional principle from the psychiatric nursing guidelines is she MOST directly applying?",
     "options": [
-      "Action potentials are bidirectional in the axon; they travel both toward and away from the cell body simultaneously, with the cell body suppressing the backward signal",
-      "Action potentials travel from the axon hillock (where they are generated) in the direction AWAY from the cell body — toward the axon terminal — because the refractory period of recently depolarised membrane prevents backward propagation",
-      "Action potentials travel from the axon terminal back toward the cell body in a retrograde direction; the signal is then integrated by the soma before being sent forward again",
-      "Action potentials travel from dendrites through the cell body into the axon in a continuous uninterrupted wave; the soma does not process or alter the signal as it passes through"
+      "Make reality interesting enough that the client prefers it to his or her fantasy",
+      "Compliment, reassure, and model appropriate behaviour",
+      "Suggesting, requesting, or asking works better than commanding",
+      "Allow client opportunity to set own pace in working with his/her problems"
     ],
     "answer": "B"
   },
   {
     "id": 37,
     "type": "mcq",
-    "stem": "CASE STUDY: A nurse is caring for a 33-year-old with treatment-resistant depression who is started on ketamine infusion. Ketamine is an NMDA glutamate receptor antagonist. The nurse is asked why blocking glutamate — the main excitatory neurotransmitter — can relieve depression rather than worsen it. The MOST accurate explanation is:",
+    "stem": "CASE STUDY: A psychiatric nurse discovers she is genuinely excited when a patient with antisocial personality disorder manipulates other staff, because she finds the behaviour 'fascinating.' Her supervisor identifies this as a professional concern. Which principle is MOST at risk of being violated?",
     "options": [
-      "Blocking glutamate reduces excitotoxicity in the prefrontal cortex, preventing neurotoxic damage to mood-regulating circuits and rapidly restoring synaptic plasticity",
-      "Blocking glutamate increases norepinephrine release by disinhibiting noradrenergic neurons that were suppressed by excess glutamate activity",
-      "Blocking glutamate directly increases GABA levels, which paradoxically reduces anxiety and reverses the GABA deficiency that causes treatment-resistant depression",
-      "Blocking glutamate blocks the enzyme that breaks down serotonin, effectively acting as a monoamine oxidase inhibitor with rapid antidepressant onset"
+      "Nursing interventions should centre on the client as a person, not on control of the symptoms â fascination with symptoms risks reducing the patient to a diagnostic label",
+      "Recognize your own feelings toward clients and deal with them â unexamined fascination with maladaptive behaviour can compromise therapeutic objectivity and patient care",
+      "Do not allow a situation to develop in which the client becomes the focus of attention in a negative manner â fascination could lead to using the patient as a teaching example",
+      "Avoid highly competitive activities that are having one winner and so many losers â the nurse's engagement with manipulation could create competitive dynamics on the ward"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 38,
     "type": "mcq",
-    "stem": "A nurse is teaching student nurses about the biological basis of psychiatric disorders. Which statement is the MOST accurate summary of the relationship between neurons, neurotransmitters, and psychiatric illness?",
+    "stem": "CASE STUDY (continued from Q37): After supervision, the nurse learns that 'therapeutic thinking is not thinking about or for, but WITH the client.' What does this mean for her practice?",
     "options": [
-      "Psychiatric disorders are caused by structural neuron death only; neurotransmitter imbalances are secondary effects that resolve once neuronal regeneration occurs",
-      "Neurons and their communication via neurotransmitters form the biological basis of mood, cognition, and behaviour; psychiatric disorders often involve disruptions in neuronal signalling or neurotransmitter imbalances, which is why medications that target these systems can restore balance",
-      "Psychiatric disorders are caused by excessive glial cell proliferation that compresses neurons; neurotransmitter imbalances are the result of physical compression rather than molecular signalling defects",
-      "Psychiatric disorders involve exclusively structural brain abnormalities visible on imaging; neurotransmitter theories are outdated and have been replaced by neuroinflammatory models"
+      "The nurse should avoid independent clinical thinking and only implement plans co-created with the multi-disciplinary team to ensure therapeutic consistency",
+      "Therapeutic thinking means the nurse engages collaboratively with the client's perspective â not directing the client's thinking nor thinking on their behalf, but sharing in the thought process together to reach mutual understanding",
+      "The nurse should focus her thinking on symptom observation and documentation, leaving all other cognitive work to the patient as an empowerment strategy",
+      "Therapeutic thinking requires the nurse to think about the client's past experiences rather than their current presenting problems to identify the root cause of maladaptive behaviour"
     ],
     "answer": "B"
   },
   {
     "id": 39,
     "type": "mcq",
-    "stem": "Which of the following MOST accurately describes the role of the axon in signal transmission, including what determines whether it fires?",
+    "stem": "Principle 4 of Bukisa's framework states: 'Accept the dependent needs of the individual while supporting and encouraging them toward more independence.' Which scenario MOST violates this principle?",
     "options": [
-      "The axon spontaneously generates action potentials at a baseline rate; incoming signals from dendrites modulate this baseline rate up or down depending on their polarity",
-      "The axon transmits electrical impulses (action potentials) away from the cell body when the signal from the soma is strong enough to reach the threshold for action potential generation at the axon hillock",
-      "The axon generates action potentials independently of the cell body's decision; it fires whenever it receives any signal from adjacent glial cells regardless of threshold",
-      "The axon transmits impulses in both directions simultaneously; the direction of net impulse flow is determined by whichever terminal — axon or dendrite — has the higher receptor density at the time of firing"
+      "A nurse assists a patient with activities of daily living while explicitly encouraging the patient to attempt portions of the task independently as able",
+      "A nurse refuses to assist a highly dependent patient with daily activities, insisting the patient must be fully independent by the third day of admission or face discharge",
+      "A nurse allows a patient to be dependent on nursing staff for medication reminders while working toward the long-term goal of self-medication management at discharge",
+      "A nurse acknowledges a patient's need for emotional reassurance while simultaneously introducing small challenges to build confidence in coping independently"
     ],
     "answer": "B"
   },
   {
     "id": 40,
     "type": "mcq",
-    "stem": "CASE STUDY: A 28-year-old nurse with insomnia is prescribed a sleep aid. She wants to understand why decreased GABA causes insomnia rather than simply 'keeping the brain awake.' The MOST accurate and clinically useful explanation is:",
+    "stem": "The notes describe mental health care needs that arise as a consequence of physical illness or disability. Which example from the notes MOST accurately illustrates this category?",
     "options": [
-      "GABA inhibits serotonin release; without GABA inhibition, excess serotonin directly stimulates the reticular activating system, creating hyperarousal and preventing sleep onset",
-      "GABA is the main inhibitory neurotransmitter; decreased GABA levels are linked to anxiety and insomnia because insufficient GABAergic inhibition allows excessive neuronal activity in arousal circuits — the brain cannot effectively transition into the lower activity states necessary for sleep",
-      "GABA inhibits melatonin secretion from the pineal gland; decreased GABA paradoxically increases melatonin, disrupting circadian rhythm synchronisation and causing insomnia through phase-shifting",
-      "GABA decrease causes compensatory dopamine excess in the reward pathway; elevated dopamine at night activates the motivational arousal system, preventing sleep through heightened goal-directed thinking"
+      "Post-natal depression, which arises in particular circumstances and is not necessarily associated with physical illness",
+      "Cognitive impairments and confusional states arising from illness or hospitalisation, as well as anxiety and depression as a reaction to physical health problems",
+      "Aggression and violence in the context of mental illness that poses challenges due to the service context in which they occur",
+      "The elevated morbidity and mortality rates for preventable diseases among individuals with longstanding chronic mental health problems"
     ],
     "answer": "B"
   },
   {
     "id": 41,
     "type": "mcq",
-    "stem": "Which statement is MOST precisely correct about what happens at the synapse after a neurotransmitter binds to its receptor?",
+    "stem": "CASE STUDY: A student nurse states: 'Because the patient has schizophrenia, I should think of what is best for them and make decisions on their behalf.' Which fundamental principle of psychiatric nursing does this violate?",
     "options": [
-      "After binding, the neurotransmitter permanently changes the receptor's conformation and is immediately destroyed by enzymatic action within the receptor protein itself",
-      "After binding, the neurotransmitter either excites or inhibits the postsynaptic neuron depending on receptor type; its action is then terminated by reuptake, enzymatic degradation, or diffusion away from the synapse",
-      "After binding, the neurotransmitter is always recycled back into synaptic vesicles via endocytosis of the entire receptor-neurotransmitter complex into the postsynaptic neuron",
-      "After binding, the neurotransmitter crosses the postsynaptic membrane and travels directly to the nucleus to alter gene expression before the signal is relayed to the next synapse"
+      "Principle 6: Encourage individuals to express their feelings in a judgement-free environment",
+      "Principle 4: Accept dependent needs while encouraging independence â paternalistic decision-making prevents movement toward autonomy, and the patient must be involved in their own care planning",
+      "Principle 8: Recognize how feelings affect behaviour and influence relationship â the student's assumption may be driven by unconscious discomfort with the patient's condition",
+      "Principle 2: Accept and respect the person regardless of behaviour â assuming incompetence based on diagnosis fails to respect the person's individuality"
     ],
-    "answer": "B"
+    "answer": "D"
   },
   {
     "id": 42,
     "type": "mcq",
-    "stem": "CASE STUDY: A nurse is preparing discharge education for a patient with bipolar disorder prescribed lithium and an atypical antipsychotic. The patient asks why he needs two medications. The nurse explains that the atypical antipsychotic targets dopamine and serotonin, while lithium works differently. The nurse's MOST accurate explanation of why two neurotransmitter-targeted drugs may be needed is:",
+    "stem": "CASE STUDY (continued from Q41): The supervising nurse explains: 'Being an individual connotes being unique in feelings, responses, and needs.' Which concept from the client section of the notes does this directly reflect?",
     "options": [
-      "Bipolar disorder involves only dopamine excess during mania; two drugs are used simply because the standard dose of one drug is insufficient to block all dopamine receptors",
-      "Bipolar disorder likely involves dysregulation across multiple neurotransmitter systems including dopamine, serotonin, and possibly glutamate — targeting multiple pathways simultaneously provides more comprehensive mood stabilisation than single-system targeting",
-      "Two drugs are needed because the first drug causes serotonin syndrome when used alone; the second drug is a safety measure that blocks excess serotonin produced by the first",
-      "Bipolar disorder requires one drug for the manic phase and one for the depressive phase; they must always be given together because switching drugs at phase transitions risks rapid cycling"
+      "The psychiatric patient as a social being whose needs are shaped primarily by family and community expectations",
+      "The psychiatric patient as an individual who possesses all characteristics of humanity â both general and specific â with unique feelings, responses, and needs that differentiate them from all other patients",
+      "The psychiatric patient as a bio-psychosocial being whose needs are reducible to a standard biopsychosocial formulation applicable to all patients with the same diagnosis",
+      "The psychiatric patient as a service consumer whose individuality is acknowledged but subordinated to standardised care pathways that ensure equitable service delivery"
     ],
     "answer": "B"
   },
   {
     "id": 43,
     "type": "mcq",
-    "stem": "A student incorrectly states: 'The CNS and PNS have the same functions — they both process information and transmit signals.' The MOST accurate correction is:",
+    "stem": "A nurse is asked to identify the MOST complete description of what psychiatric mental health nursing has evolved into as a unique discipline. Which answer is MOST accurate?",
     "options": [
-      "The student is correct; both systems process and transmit signals, but they differ only in location — CNS is central and PNS is peripheral with no functional distinction",
-      "The student is incorrect; the CNS acts as the control centre processing information and sending commands, while the PNS connects the CNS to the body by transmitting sensory information in and motor commands out — they have distinct complementary roles, not identical functions",
-      "The student is incorrect because the PNS processes ALL information independently and only sends final decisions to the CNS for archiving in memory — processing occurs in the periphery, not centrally",
-      "The student is partially correct; both process and transmit signals but the PNS only transmits autonomic signals while the CNS only handles somatic signals — emotional regulation occurs outside both in the limbic system"
+      "A unique discipline combining the knowledge and skills of nursing and pharmacology, with a focus on medication-assisted treatment for psychiatric disorders",
+      "A unique discipline combining the knowledge, experiences and skills of nursing and biological and social science and the art of therapeutic use of self",
+      "A unique discipline combining psychoanalytic theory, behavioural science, and clinical nursing skills, with therapeutic use of the group as its primary modality",
+      "A unique discipline combining nursing science, advanced physiology, and neuropharmacology, with specialised skills in psychiatric diagnosis and differential assessment"
     ],
     "answer": "B"
   },
   {
     "id": 44,
     "type": "mcq",
-    "stem": "CASE STUDY: An ICU nurse observes a sedated patient on mechanical ventilation whose pupils are pinpoint (miosis) and who has reduced bowel sounds. The physician suspects opioid toxicity. The nurse understands this presentation because opioids mimic endogenous neurotransmitters that activate the parasympathetic response. Which explanation MOST accurately connects this to the nervous system content?",
+    "stem": "CASE STUDY: During a busy shift, a nurse is managing five patients. One patient with borderline personality disorder is crying quietly in a corner. Another is loudly demanding attention at the nurses' station. Which principle guides the nurse on where to direct care FIRST?",
     "options": [
-      "Opioids activate the sympathetic nervous system, increasing acetylcholine release at all autonomic ganglia, causing generalised cholinergic overstimulation including miosis and bowel hypomotility",
-      "Opioids bind to receptors that suppress CNS arousal and sympathetic activity, while increasing parasympathetic tone, causing miosis from pupillary constriction and respiratory depression from suppression of brainstem respiratory centres — the autonomic nervous system controls involuntary functions such as respiratory rate",
-      "Opioids block norepinephrine reuptake, flooding the synapse with norepinephrine, which paradoxically activates parasympathetic receptors through adrenergic cross-reactivity causing miosis",
-      "Opioids directly destroy dopaminergic neurons in the brainstem respiratory centres, causing irreversible apnoea and pupillary changes through permanent loss of neurotransmitter production"
+      "Go to the patient who is loudest â vocal expression of distress indicates higher acuity and greater need for immediate intervention",
+      "Go to the client who needs help the most â the quietly crying patient in the corner may have greater unmet need than the patient making vocal demands at the station",
+      "Go to the patient at the nurses' station first, then the crying patient â proximity to the nurse determines care priority in ward settings",
+      "Go to whichever patient has the most acute psychiatric diagnosis according to the current care plan and risk assessment documentation"
     ],
     "answer": "B"
   },
   {
     "id": 45,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q44): The nurse administers naloxone (an opioid antagonist). The patient wakes up agitated, with dilated pupils and tachycardia. This response occurs because naloxone:",
+    "stem": "CASE STUDY (continued from Q44): The quiet patient discloses she was planning self-harm. The nurse wants to command her to put down the sharp object. Which principle from the additional guidelines suggests a better approach?",
     "options": [
-      "Stimulates dopamine release in the reward pathway, creating a brief euphoric state that manifests as agitation before the patient regains full orientation",
-      "Displaces opioids from their receptors, rapidly reversing CNS and respiratory depression; the resulting sympathetic rebound causes tachycardia and pupillary dilation as the autonomic system swings from parasympathetic to sympathetic dominance",
-      "Blocks GABA receptors non-selectively, causing CNS excitability as the inhibitory brake is suddenly removed — agitation results from loss of GABAergic inhibition rather than opioid reversal",
-      "Activates norepinephrine synthesis in the adrenal medulla, flooding the bloodstream with catecholamines that directly stimulate all sympathetic end organs independently of the nervous system"
+      "Be honest so the client can rely on you â honesty about the dangerousness of the object is more effective than commands",
+      "Suggesting, requesting, or asking works better than commanding â a request-based approach maintains therapeutic alliance and reduces confrontation in a crisis",
+      "Have patience! Move at the client's pace and ability â wait for the patient to spontaneously relinquish the object without any verbal intervention",
+      "Therapeutic thinking is not thinking about or for, but with the client â involve the patient in thinking through the consequences of their action collaboratively"
     ],
     "answer": "B"
   },
   {
     "id": 46,
     "type": "mcq",
-    "stem": "Which of the following MOST accurately identifies ALL the functions of neuroglia listed in the content, without adding or omitting any?",
+    "stem": "Which statement MOST accurately distinguishes what makes psychiatric nursing a 'specialised area of nursing practice'?",
     "options": [
-      "Neuroglia provide structural support, conduct action potentials during high-demand states, supply nutrients and oxygen, and produce neurotransmitters for slow chemical transmission",
-      "Neuroglia provide structural support, supply nutrients and oxygen, remove waste, and form the myelin sheath for insulation — they do NOT conduct impulses",
-      "Neuroglia provide structural support, supply nutrients and oxygen, remove waste, form the myelin sheath, and also conduct slow graded potentials under pathological conditions",
-      "Neuroglia provide structural support and form the myelin sheath only; nutrient supply and waste removal are performed by the cerebrospinal fluid independently of glial cells"
+      "It is specialised because it requires additional licensure in pharmacology and the ability to prescribe psychotropic medications independently of physician orders",
+      "It is a specialised area because it is based on theories of human behaviour as its science and the therapeutic use of self as its art of expression, distinguishing it from other nursing branches where technical skill dominates",
+      "It is specialised because psychiatric nurses work exclusively with the most severely ill patients in locked inpatient units, requiring skills unavailable to general nursing",
+      "It is specialised because psychiatric nursing integrates legal and forensic knowledge in all practice settings, requiring unique understanding of mental health legislation"
     ],
     "answer": "B"
   },
   {
     "id": 47,
     "type": "mcq",
-    "stem": "CASE STUDY: A nursing student is asked to explain, step by step, how a signal from pain receptors in a patient's foot reaches conscious perception in the brain. Which sequence is MOST accurate based on the content?",
+    "stem": "CASE STUDY: A psychiatric nurse is conducting a ward game activity. She avoids competitive games with one clear winner and multiple losers. Which principle guides this clinical decision?",
     "options": [
-      "Pain receptor activated → motor neuron in PNS carries signal → interneuron in CNS relays signal → sensory neuron carries command to conscious brain → perception occurs",
-      "Pain receptor activated → sensory neuron carries information TO the brain → signal is processed in the CNS → perception of pain occurs — the CNS acts as the control centre processing information",
-      "Pain receptor activated → interneuron in spinal cord generates action potential → sensory neuron carries motor command → brain sends inhibitory signal back to reduce pain before conscious perception",
-      "Pain receptor activated → glial cell conducts initial signal to spinal cord → interneuron relays to sensory neuron → motor neuron completes circuit to brain → conscious perception occurs via glial amplification"
+      "Principle 4: Accept dependent needs while encouraging independence â competitive games create unnecessary pressure on vulnerable patients",
+      "Avoid highly competitive activities that are having one winner and so many losers â such activities can be harmful to psychiatric patients' self-esteem and ward dynamics",
+      "Principle 6: Encourage individuals to express feelings in a judgement-free environment â competitive games stifle emotional expression",
+      "Make reality interesting enough that the client prefers it to his or her fantasy â non-competitive activities are more grounding in reality"
     ],
     "answer": "B"
   },
   {
     "id": 48,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q47): The student is then asked why morphine effectively reduces the conscious perception of this pain signal even though it does not affect the peripheral pain receptors. The MOST accurate explanation is:",
+    "stem": "CASE STUDY (continued from Q47): After the activity, a patient becomes irritable because he lost the non-competitive game. The nurse remembers: 'If client behaviour is bizarre, base your decision to intervene on whether the client is endangering self or others.' Which is MOST accurate about applying this principle here?",
     "options": [
-      "Morphine blocks sodium channels in peripheral sensory neurons, preventing action potential generation at the pain receptor level before the signal enters the CNS",
-      "Morphine binds to opioid receptors in the CNS — particularly in pain-modulating pathways — inhibiting neuronal signalling and reducing the brain's processing and perception of the pain signal; the receptor activation occurs centrally, not at the peripheral pain receptor",
-      "Morphine increases GABA release globally in the CNS, causing generalised inhibition that reduces consciousness and thereby eliminates all sensory perception including pain",
-      "Morphine blocks neurotransmitter synthesis in the axon terminals of sensory neurons, depleting the signal chemicals needed to relay pain information across synapses in the spinal cord"
+      "The nurse should intervene immediately because irritability always signals potential violence in psychiatric patients and preemptive action is clinically justified",
+      "The nurse evaluates whether the irritability poses actual danger to self or others before intervening â bizarre or irritable behaviour alone does not automatically require intervention if safety is not at risk",
+      "The nurse should remove the patient from the group activity to prevent contamination of the therapeutic milieu with negative emotional states",
+      "The nurse should document the behaviour as a psychiatric symptom and report to the physician for medication review regardless of whether the patient is endangering anyone"
     ],
     "answer": "B"
   },
   {
     "id": 49,
     "type": "mcq",
-    "stem": "Which feature MOST precisely distinguishes the axon from the dendrite in terms of structure and function?",
+    "stem": "Mental health nursing and psychiatric nursing are described as two areas that 'interact and overlap.' Which statement MOST precisely captures this interaction?",
     "options": [
-      "Axons are branch-like extensions that receive incoming signals; dendrites are long thin fibres that carry impulses away from the cell body — they are functionally opposite to common understanding",
-      "Dendrites are branch-like extensions that receive incoming signals; the axon is a long thin fibre that transmits electrical impulses AWAY from the cell body toward other neurons, muscles, or glands",
-      "Axons and dendrites are structurally identical; the only distinction is that axons are found on motor neurons while dendrites are found on sensory neurons",
-      "Axons receive signals at their terminal boutons and transmit them to the soma; dendrites carry processed signals away from the soma to the next neuron in the circuit"
+      "They interact because mental health nursing services are a subdivision of psychiatric nursing and cannot operate without psychiatric nurse oversight",
+      "They interact and overlap because psychiatric mental health nursing together offers preventive, curative, and rehabilitative services to individuals, families, groups, and communities â each contributes distinctly but they share common ground",
+      "They interact because both disciplines focus primarily on inpatient acute care settings, sharing the same patient population and clinical protocols",
+      "They overlap because they both ultimately depend on pharmacological intervention as the primary therapeutic modality, making their scope practically identical"
     ],
     "answer": "B"
   },
   {
     "id": 50,
     "type": "mcq",
-    "stem": "CASE STUDY: A mental health nurse observes a patient describe hearing voices commanding him to harm himself. The physician orders a dopamine antagonist. Another nurse questions whether targeting dopamine is sufficient. The MOST clinically accurate argument for WHY targeting dopamine alone may be insufficient in all cases of hallucinations is:",
+    "stem": "CASE STUDY: A nurse reflects on her day after a difficult shift with a patient who refused all interventions. A colleague says: 'You should have been firmer.' The nurse responds with the principle: 'Allow client opportunity to set own pace in working with his/her problems.' What does this reveal about her clinical philosophy?",
     "options": [
-      "Dopamine antagonists are always sufficient because all hallucinations arise exclusively from dopamine excess in the auditory cortex — any resistance is due to inadequate dosing",
-      "Hallucinations may involve disruptions across multiple neurotransmitter pathways including serotonin and glutamate in addition to dopamine; targeting dopamine alone may not address all contributing neurochemical dysregulations, explaining why some patients require multiple medication classes",
-      "Dopamine antagonists cause hallucinations in some patients; the second nurse correctly identifies that the drug itself may worsen symptoms through a paradoxical dopaminergic rebound",
-      "Hallucinations are caused by acetylcholine excess, not dopamine dysregulation; dopamine antagonists are used only for the delusion component, and separate anticholinergic drugs must target the auditory hallucinations"
+      "The nurse believes patients should have unlimited autonomy in all clinical situations, including when they are an imminent danger to themselves or others",
+      "The nurse understands that therapeutic progress occurs at the client's pace and ability â forcing the pace violates client autonomy and can rupture the therapeutic alliance, even when it is clinically tempting to do so",
+      "The nurse is applying avoidance as a coping strategy and rationalising inaction by citing client autonomy principles inappropriately",
+      "The nurse is demonstrating a misapplication of the principle because 'own pace' applies only to therapeutic activities, not to clinical refusals that have medical consequences"
     ],
     "answer": "B"
   },
   {
     "id": 51,
     "type": "fitb",
-    "stem": "Neurotransmitters are synthesised in the neuron and stored in synaptic _______________ located in the axon terminals until an action potential triggers their release.",
-    "answer": "vesicles",
+    "stem": "The American Psychiatric Nurses Association defined psychiatric/mental health nursing as a specialty nursing practice focusing on the identification of mental health issues, _______________ of mental health problems, and the care and treatment of persons with psychiatric disorders.",
+    "answer": "prevention",
     "acceptableAnswers": [
-      "vesicles",
-      "synaptic vesicles"
+      "prevention"
     ]
   },
   {
     "id": 52,
     "type": "fitb",
-    "stem": "The glial cells responsible for producing myelin in the CENTRAL nervous system are _______________, while those responsible for producing myelin in the PERIPHERAL nervous system are Schwann cells.",
-    "answer": "oligodendrocytes",
+    "stem": "CASE STUDY: A student is asked: 'In psychiatric/mental health nursing, more than any other branch of nursing, patients are cared for within the context of the _______________-_______________ relationship.' She must supply the specific relationship.",
+    "answer": "nurse-patient",
     "acceptableAnswers": [
-      "oligodendrocytes"
+      "nurse-patient",
+      "nurse-client",
+      "therapeutic nurse-patient",
+      "therapeutic nurse-client"
     ]
   },
   {
     "id": 53,
     "type": "fitb",
-    "stem": "CASE STUDY: A student nurse is asked to name the neurotransmitter that is the MAIN inhibitory neurotransmitter of the CNS, with decreased levels specifically linked to both anxiety AND insomnia. The correct answer is _______________.",
-    "answer": "GABA",
+    "stem": "Psychiatric nursing is described as a specialised area of nursing practice â one that is based on theories of human behaviour as its science and the '_______________ use of _______________' as its art of expression.",
+    "answer": "therapeutic use of self",
     "acceptableAnswers": [
-      "GABA",
-      "gamma-aminobutyric acid"
+      "therapeutic use of self",
+      "therapeutic, self"
     ]
   },
   {
     "id": 54,
     "type": "fitb",
-    "stem": "The type of conduction in which the action potential jumps between Nodes of Ranvier rather than travelling continuously along the entire axon is called _______________ conduction.",
-    "answer": "saltatory",
+    "stem": "Principle 1 of Bukisa's (2010) framework states: 'Recognize that all behaviour has _______________. The nurse should meet the needs of the performer despite how distorted or meaningless it appears to others.'",
+    "answer": "significance",
     "acceptableAnswers": [
-      "saltatory"
+      "significance"
     ]
   },
   {
     "id": 55,
     "type": "fitb",
-    "stem": "CASE STUDY: A nurse explains to a family that their relative's Alzheimer's disease is associated with a deficiency of _______________, a neurotransmitter specifically involved in memory and learning — NOT dopamine, which affects reward and movement, and NOT serotonin, which affects mood and appetite.",
-    "answer": "acetylcholine",
+    "stem": "CASE STUDY: An examiner asks: 'Principle 3 of Bukisa's framework states: Limit or reject inappropriate _______________ without refusing the individual.' A student must precisely fill in what is limited or rejected.",
+    "answer": "behaviour",
     "acceptableAnswers": [
-      "acetylcholine",
-      "ACh"
+      "behaviour",
+      "behavior"
     ]
   },
   {
     "id": 56,
     "type": "fitb",
-    "stem": "Schizophrenia is linked to dopamine _______________ — meaning there is too much dopamine activity — which is opposite to Parkinson's disease where dopamine is deficient.",
-    "answer": "dysregulation",
+    "stem": "The psychiatric patient is described as a _______________ being who requires being seen and treated as such â possessing all characteristics of humanity, both general and specific.",
+    "answer": "bio-psychosocial",
     "acceptableAnswers": [
-      "dysregulation",
-      "excess",
-      "overactivity",
-      "increased activity"
+      "bio-psychosocial",
+      "biopsychosocial"
     ]
   },
   {
     "id": 57,
     "type": "fitb",
-    "stem": "CASE STUDY: A lecturer asks students: 'The nervous system develops from which embryonic structure?' A student correctly answers that it develops from the embryonic _______________ — NOT the neural crest, which gives rise to peripheral ganglia.",
-    "answer": "neural tube",
+    "stem": "CASE STUDY: A ward supervisor quizzes a student: 'According to the notes, it is a very basic principle of psychiatric nursing to accord _______________ to the individual no matter the level of functioning.'",
+    "answer": "respect",
     "acceptableAnswers": [
-      "neural tube"
+      "respect"
     ]
   },
   {
     "id": 58,
     "type": "fitb",
-    "stem": "The main EXCITATORY neurotransmitter of the CNS is _______________, whose excess leads to neurotoxicity and mental disorders — as opposed to GABA, which is the main inhibitory neurotransmitter.",
-    "answer": "glutamate",
+    "stem": "In the therapeutic nurse-client relationship, a _______________ goal is set by both parties â the nurse and the client â based on the problem or need of the patient.",
+    "answer": "mutual",
     "acceptableAnswers": [
-      "glutamate"
+      "mutual"
     ]
   },
   {
     "id": 59,
     "type": "fitb",
-    "stem": "CASE STUDY: A nurse is quizzed during ward rounds. The consultant asks: 'After a neurotransmitter binds its postsynaptic receptor and produces its effect, what are the THREE mechanisms by which its action is terminated?' The nurse correctly answers: reuptake into the presynaptic neuron, enzymatic degradation, or _______________ away from the synapse.",
-    "answer": "diffusion",
+    "stem": "CASE STUDY: During a practical exam, a student is told: 'The psychiatric patient basically has problems coping with the normal stresses of life. Depending on the type and severity of ailment, their behaviour may be _______________ â harmful to self and/or others and/or disruptive.' Fill in the clinical term used.",
+    "answer": "maladaptive",
     "acceptableAnswers": [
-      "diffusion"
+      "maladaptive"
     ]
   },
   {
     "id": 60,
     "type": "fitb",
-    "stem": "Interneurons connect neurons within the _______________ and serve as the integrating link between sensory and motor pathways — they are NOT found in the peripheral nervous system.",
-    "answer": "CNS",
+    "stem": "Principle 6 of Bukisa's framework states nurses should encourage individuals to express their feelings in an atmosphere or environment that is free from _______________.",
+    "answer": "judgement",
     "acceptableAnswers": [
-      "CNS",
-      "central nervous system"
+      "judgement",
+      "judgment"
     ]
   },
   {
     "id": 61,
     "type": "fitb",
-    "stem": "CASE STUDY: A pharmacology examiner asks: 'Serotonin regulates mood, sleep, and appetite. Its chemical abbreviation is 5-HT, which stands for 5-_______________.' The student correctly completes the name.",
-    "answer": "hydroxytryptamine",
+    "stem": "CASE STUDY: A nursing examiner asks: 'What does Principle 7 of Bukisa's framework require nurses to recognise?' The correct answer is: Recognize that individuals need to use their _______________ until other defences can be substituted.",
+    "answer": "defences",
     "acceptableAnswers": [
-      "hydroxytryptamine",
-      "5-hydroxytryptamine"
+      "defences",
+      "defenses",
+      "defence mechanisms"
     ]
   },
   {
     "id": 62,
     "type": "fitb",
-    "stem": "The cell body (soma) of a neuron contains the _______________, which houses the cell's genetic material and is responsible for maintaining the neuron's health and metabolic functions.",
-    "answer": "nucleus",
+    "stem": "The notes state that psychiatric mental health nursing has evolved into a unique discipline combining the knowledge, experiences and skills of nursing and biological and _______________ science and the art of therapeutic use of self.",
+    "answer": "social",
     "acceptableAnswers": [
-      "nucleus"
+      "social"
     ]
   },
   {
     "id": 63,
     "type": "fitb",
-    "stem": "CASE STUDY: A psychiatry examiner presents a vignette: 'A patient with depression has reduced serotonin and is prescribed an SSRI. The drug works by blocking the _______________ of serotonin back into the presynaptic neuron, leaving more serotonin available in the synaptic cleft.' The student must supply the correct process.",
-    "answer": "reuptake",
+    "stem": "CASE STUDY: An exam question reads: 'The PMHNP presupposes a more advanced educational preparation at _______________ or Doctoral level.' A student must identify the minimum advanced degree required.",
+    "answer": "Master's",
     "acceptableAnswers": [
-      "reuptake",
-      "re-uptake"
+      "Master's",
+      "Masters",
+      "Master's degree"
     ]
   },
   {
     "id": 64,
     "type": "fitb",
-    "stem": "The sympathetic nervous system prepares the body for fight or flight, while the _______________ nervous system promotes rest and digest functions and calms the body — they are antagonistic divisions of the autonomic nervous system.",
-    "answer": "parasympathetic",
+    "stem": "Principle 8 of Bukisa's (2010) framework states: 'Recognize how _______________ affect behaviour and influence relationship.' The missing word refers to emotional states.",
+    "answer": "feelings",
     "acceptableAnswers": [
-      "parasympathetic"
+      "feelings",
+      "emotions"
     ]
   },
   {
     "id": 65,
     "type": "fitb",
-    "stem": "CASE STUDY: In a neuroscience clinical, a student is asked: 'Norepinephrine affects attention, stress, and mood. Its imbalance specifically causes depression and anxiety — NOT Parkinson's disease or Alzheimer's. Which two conditions, therefore, does norepinephrine imbalance cause?' The student correctly answers: _______________ and anxiety.",
-    "answer": "depression",
+    "stem": "CASE STUDY: A nurse educator asks: 'The additional principles of psychiatric nursing state that therapeutic thinking is NOT thinking about or for, but _______________ the client.' Students must supply the precise preposition that defines the collaborative nature of therapeutic thought.",
+    "answer": "with",
     "acceptableAnswers": [
-      "depression",
-      "depressive disorder",
-      "major depressive disorder"
+      "with"
     ]
   },
   {
     "id": 66,
     "type": "fitb",
-    "stem": "Dendrites are branch-like extensions from the cell body that receive incoming signals. The MORE dendrites a neuron has, the MORE _______________ it can receive simultaneously, increasing its integrative capacity.",
-    "answer": "information",
+    "stem": "According to the UK Department of Health, morbidity and mortality rates for _______________ diseases are grossly elevated amongst those people with chronic mental health problems.",
+    "answer": "preventable",
     "acceptableAnswers": [
-      "information",
-      "signals",
-      "input"
+      "preventable"
     ]
   },
   {
     "id": 67,
     "type": "fitb",
-    "stem": "CASE STUDY: A nursing student is given this exam question: 'Name the THREE functional types of neurons and their specific directions of conduction.' She correctly answers: sensory neurons (carry information TO the brain), motor neurons (carry commands FROM the brain), and _______________ (connect neurons within the CNS).",
-    "answer": "interneurons",
+    "stem": "CASE STUDY: A student is asked to complete Principle 10 of Bukisa's framework: 'Recognize that individuals have a potential for movement toward _______________ levels of emotional health.' Only one precise word completes this principle.",
+    "answer": "higher",
     "acceptableAnswers": [
-      "interneurons",
-      "association neurons",
-      "relay neurons"
+      "higher"
     ]
   },
   {
     "id": 68,
     "type": "fitb",
-    "stem": "Psychiatric medications often target _______________ systems to restore balance — this is the scientific basis for why different drug classes are used for different psychiatric diagnoses.",
-    "answer": "neurotransmitter",
+    "stem": "The additional principles of psychiatric nursing state: 'Nursing interventions should centre on the client as a _______________, not on control of the symptoms.'",
+    "answer": "person",
     "acceptableAnswers": [
-      "neurotransmitter",
-      "neurotransmitter systems"
+      "person"
     ]
   },
   {
     "id": 69,
     "type": "fitb",
-    "stem": "CASE STUDY: A nurse educator tells students: 'The PNS connects the CNS to the rest of the body. It transmits _______________ information TO the CNS and motor commands FROM the CNS to muscles and glands.' Students must fill in the type of information transmitted toward the CNS.",
-    "answer": "sensory",
+    "stem": "CASE STUDY: A vignette reads: 'A nurse is working with a client who is severely distressed. She remembers the principle: Have patience! Move at the client's _______________ and _______________.' Two words are required.",
+    "answer": "pace and ability",
     "acceptableAnswers": [
-      "sensory",
-      "afferent"
+      "pace and ability",
+      "pace, ability"
     ]
   },
   {
     "id": 70,
     "type": "fitb",
-    "stem": "CASE STUDY: An examiner asks a student: 'What is the ONLY neurotransmitter listed whose INCREASE (not decrease) is associated with a psychiatric disorder?' The student must identify which neurotransmitter is elevated in schizophrenia while being deficient in Parkinson's disease. The answer is _______________.",
-    "answer": "dopamine",
+    "stem": "The Principles of Psychiatric Nursing, according to Bukisa (2010), include Principle 5: 'Help the individual to set appropriate _______________ for themselves or set limit limits for them when they are unable to do so.'",
+    "answer": "limits",
     "acceptableAnswers": [
-      "dopamine",
-      "dopamine (DA)"
+      "limits"
     ]
   }
 ]
