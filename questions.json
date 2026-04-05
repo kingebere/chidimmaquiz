@@ -2,794 +2,788 @@
   {
     "id": 1,
     "type": "mcq",
-    "stem": "The American Psychiatric Nurses Association defined psychiatric/mental health nursing as a specialty nursing practice. Which element of this definition is MOST precise and complete?",
+    "stem": "According to Wairangi (2011), mental health nurses need knowledge of counselling and therapy techniques. Which statement MOST precisely identifies ALL the skills and knowledge domains listed — without adding or omitting any?",
     "options": [
-      "A specialty nursing practice focusing on the treatment and rehabilitation of persons with psychiatric disorders and their families in hospital settings",
-      "A specialty nursing practice focusing on the identification of mental health issues, prevention of mental health problems, and the care and treatment of persons with psychiatric disorders",
-      "A specialty nursing practice focusing on the identification of psychiatric disorders, management of behavioural symptoms, and medication administration for mental health clients",
-      "A specialty nursing practice focusing on the prevention of mental illness, management of emotional disorders, and psychosocial rehabilitation of individuals and communities"
+      "Excellent nursing skills, knowledge of psychiatric disorders, knowledge of different diseases and illnesses, knowledge of medicines and treatments, knowledge of counselling and therapy techniques, an understanding of the Mental Health Act, oral and written communication skills, and good listening skills",
+      "Excellent nursing skills, knowledge of psychiatric disorders, knowledge of diseases and illnesses, knowledge of medicines, knowledge of therapy techniques, and an understanding of the Patient Rights Act",
+      "Excellent nursing skills, knowledge of psychiatric disorders, knowledge of diseases and illnesses, knowledge of medicines and treatments, oral and written communication skills, good listening skills, and organisational and decision-making skills — excluding the Mental Health Act",
+      "Excellent nursing skills, knowledge of nursing theories, knowledge of psychiatric disorders, knowledge of therapy techniques, understanding of the Mental Health Act, good listening skills, and interpersonal communication skills"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 2,
     "type": "mcq",
-    "stem": "A nurse educator asks students to identify what MOST distinguishes psychiatric nursing from all other branches of nursing practice. Which answer is MOST accurate?",
+    "stem": "The therapeutic use of self is defined in the notes. Which statement MOST completely and precisely captures its full definition?",
     "options": [
-      "In psychiatric nursing, the nurse relies primarily on biological science and medication management rather than therapeutic communication",
-      "In psychiatric/mental health nursing, more than any other branch of nursing, patients are cared for within the context of the nurse-patient relationship",
-      "In psychiatric nursing, the nurse's primary role is diagnosis of psychiatric disorders rather than care and rehabilitation of the client",
-      "In psychiatric nursing, patients are cared for exclusively in inpatient hospital settings, unlike other nursing branches that also operate in community settings"
+      "The ability to use one's personality consciously and in full awareness to establish relatedness and to structure nursing intervention, requiring self-insight, self-understanding, and understanding of human behaviour dynamics; the ability to interpret one's own and others' behaviour; and the ability to intervene effectively in nursing situations",
+      "The ability to use one's clinical knowledge consciously and in full awareness to establish therapeutic relationships, requiring knowledge of psychiatric disorders, understanding of human behaviour dynamics, and the ability to intervene effectively through medication management",
+      "The ability to use one's personality consciously to establish relatedness, requiring self-insight and understanding of human behaviour, with a primary focus on group therapy facilitation and psychoeducation for patients and their families",
+      "The ability to use one's professional skills and knowledge consciously to structure nursing interventions, requiring self-understanding and understanding of the nurse-patient relationship dynamics within the therapeutic milieu"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 3,
     "type": "mcq",
-    "stem": "CASE STUDY: A new staff nurse on a psychiatric unit asks her preceptor: 'What is the basis of psychiatric nursing as a science and as an art?' The preceptor's MOST accurate response is:",
+    "stem": "CASE STUDY: A registered psychiatric mental health nurse (RPMN) is described as working in multiple settings. A student lists the settings but includes one that is NOT mentioned in the notes. Which setting is NOT listed as a setting where the RPMN may work?",
     "options": [
-      "Psychiatric nursing is based on biological science and the therapeutic use of medication as its science, with person-centred communication as its art of expression",
-      "Psychiatric nursing is based on theories of human behaviour as its science and the therapeutic use of self as its art of expression",
-      "Psychiatric nursing is based on evidence-based practice guidelines as its science and the use of therapeutic procedures such as electroconvulsive therapy as its art",
-      "Psychiatric nursing is based on psychopathology as its science and group therapy facilitation as its art of expression"
+      "The patient's own home and a community health care centre",
+      "A secure residential unit and a psychiatric hospital",
+      "A general hospital outpatient's department or specialist unit",
+      "An international psychiatric research institute and a forensic detention facility"
     ],
-    "answer": "B"
+    "answer": "D"
   },
   {
     "id": 4,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q3): The preceptor further distinguishes psychiatric nursing from mental health nursing. Which statement MOST accurately separates their primary focus?",
+    "stem": "CASE STUDY (continued from Q3): The RPMN is also described as working with specific patient populations. Which group is explicitly mentioned as being served by the RPMN?",
     "options": [
-      "Psychiatric nursing focuses on well and at-risk populations; mental health nursing focuses on the cure and rehabilitation of those with identifiable emotional disorders",
-      "Psychiatric nursing focuses on the care and rehabilitation of those with identifiable emotional disorders; mental health nursing focuses on well and at-risk populations and intervenes in crisis situations to prevent development of mental illness",
-      "Psychiatric nursing and mental health nursing have identical primary focuses; the distinction is merely semantic and refers to the same scope of nursing practice in different countries",
-      "Psychiatric nursing focuses on inpatient pharmacological management; mental health nursing focuses on outpatient counselling and psychotherapy without pharmacological intervention"
+      "Children with developmental or learning disabilities; adults and older people with various mental health conditions; those in general patient care settings coping with stresses associated with their general conditions",
+      "Children with psychiatric disorders only; adults with substance abuse problems exclusively; elderly patients with dementia across all inpatient settings",
+      "Children under 5 years with behavioural disorders; adults with treatment-resistant schizophrenia; elderly patients in long-term care facilities across community settings",
+      "School-aged children with learning disabilities only; working-age adults with anxiety disorders; elderly patients with Alzheimer's disease in specialised memory care units"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 5,
     "type": "mcq",
-    "stem": "Which of Bukisa's (2010) ten principles of psychiatric nursing is MOST clearly demonstrated when a nurse accepts a patient who is responding to hallucinations by talking to invisible people, without withdrawing care?",
+    "stem": "The Canadian Psychiatric Association defines psychiatrists using a specific phrase. Which definition is MOST precise and complete?",
     "options": [
-      "Principle 5: Help the individual to set appropriate limits for themselves",
-      "Principle 2: Accept and respect the person or individual regardless of their behaviour",
-      "Principle 7: Recognize that individuals need to use their defences until other defences can be substituted",
-      "Principle 3: Limit or reject inappropriate behaviour without refusing the individual"
+      "Physicians who enhance the person's quality of life by providing psychiatric assessment, treatment and rehabilitation care to people with psychiatric disorders, in order to prevent, reduce and eliminate the symptoms and subsequent disabilities resulting from mental illness or disorder",
+      "Physicians who enhance the patient's quality of care by providing diagnostic assessment, pharmacological treatment, and long-term follow-up for people with psychiatric disorders, in order to prevent relapse and promote social rehabilitation",
+      "Physicians who improve the person's quality of functioning by providing comprehensive biopsychosocial assessment, medication management, and psychotherapy to people with psychiatric disorders, in order to achieve symptom remission and occupational recovery",
+      "Physicians who maximise the person's quality of recovery by providing psychiatric evaluation, diagnosis, and evidence-based treatment for people with severe mental illness, in order to reduce hospitalisation rates and promote community reintegration"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 6,
     "type": "mcq",
-    "stem": "A psychiatric nurse sets a limit by telling a patient: 'You cannot hit other patients, but you are free to express your anger verbally.' Which principle from Bukisa's (2010) framework does this BEST illustrate?",
+    "stem": "Psychiatrists are described as one of only a few mental health professionals who can conduct physical examinations. Which additional unique capabilities of psychiatrists are mentioned in the notes?",
     "options": [
-      "Principle 2: Accept and respect the person regardless of their behaviour",
-      "Principle 3: Limit or reject inappropriate behaviour without refusing the individual",
-      "Principle 4: Accept the dependent needs of the individual while supporting them toward independence",
-      "Principle 5: Help the individual to set appropriate limits for themselves"
+      "Order and interpret laboratory tests and EEGs, order brain imaging studies such as CT or CAT, MRI, and PET scanning, and evaluate the patient for medical problems that may be the cause of the mental illness",
+      "Order and interpret laboratory tests, conduct electroconvulsive therapy (ECT), prescribe all classes of medication including controlled substances, and admit patients involuntarily to psychiatric facilities",
+      "Order laboratory tests and CT scans, provide emergency psychiatric services, prescribe psychotropic medications, and supervise other mental health professionals in the multidisciplinary team",
+      "Conduct physical examinations, order laboratory tests, perform surgical procedures on the brain, and interpret PET scans to diagnose treatment-resistant psychiatric disorders"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 7,
     "type": "mcq",
-    "stem": "CASE STUDY: A 42-year-old patient with major depressive disorder refuses to bathe for three days and becomes verbally abusive when encouraged to do so. The nurse's MOST therapeutically correct approach, consistent with the principles of psychiatric nursing, is:",
+    "stem": "CASE STUDY: A patient asks a mental health nurse: 'What is the difference between a psychiatrist and a clinical psychologist? Both treat mental illness.' The MOST accurate and complete response, based on the notes, is:",
     "options": [
-      "Insist on bathing by involving other staff to hold the patient while performing hygiene care to prevent infection",
-      "Accept the patient's refusal completely and document it, recognising that all behaviour has significance even if it appears distorted or meaningless",
-      "Accept the refusal, recognise the behaviour has significance despite appearing meaningless, limit the abusive verbal behaviour without withdrawing from the patient, and move at the client's pace and ability",
-      "Withdraw from the room temporarily, label the behaviour as maladaptive, and notify the physician to adjust medication to reduce the patient's resistance to care"
+      "Psychiatrists are physicians licensed to prescribe medications, conduct physical examinations, and order laboratory and brain imaging studies; clinical psychologists aim to reduce psychological distress and promote psychological well-being through assessment and therapy — using psychological tests, interviews, and direct observation — without prescribing medications",
+      "Psychiatrists and clinical psychologists have identical clinical roles; the only difference is that psychiatrists work in hospital settings while clinical psychologists work exclusively in community and school settings",
+      "Psychiatrists focus exclusively on biological treatment using medications; clinical psychologists focus exclusively on psychotherapy and cannot conduct any form of clinical assessment in medical settings",
+      "Psychiatrists are trained as physicians who provide long-term follow-up; clinical psychologists are trained to conduct short-term therapy only and must refer all complex cases back to the psychiatrist for ongoing management"
     ],
-    "answer": "C"
+    "answer": "A"
   },
   {
     "id": 8,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q7): Three days later, the patient says: 'No nurse really cares about me. You are all paid to pretend.' Which principle from the additional principles of psychiatric nursing is MOST directly applied in the nurse's response?",
+    "stem": "CASE STUDY (continued from Q7): The nurse also explains the role of the psychiatric social worker. Which statement MOST accurately describes the psychiatric social worker's role as stated in the notes?",
     "options": [
-      "Go to the client who needs help the most â meaning the nurse should leave and attend to more acute patients",
-      "Be honest so the client can rely on you â the nurse honestly acknowledges the patient's perception while maintaining genuine care",
-      "Make reality interesting enough that the client prefers it to his or her fantasy",
-      "Compliment, reassure, and model appropriate behaviour"
+      "Psychiatric social workers assess, treat, develop treatment plans, and provide case management and/or rights advocacy to individuals with mental health problems; they can work independently or within clinics/service agencies; they help people cope with mental health issues, provide counselling, help obtain financial and medical resources, and investigate housing and job placement options",
+      "Psychiatric social workers provide psychotherapy and medication management to individuals with mental health problems; they work exclusively within psychiatric hospitals and are responsible for coordinating inpatient and outpatient treatment planning across all disciplines",
+      "Psychiatric social workers conduct psychological assessments, provide cognitive behavioural therapy, and coordinate community mental health services; they require a doctoral degree and are licensed to prescribe psychotropic medications in most jurisdictions",
+      "Psychiatric social workers focus exclusively on case management and housing placement for homeless individuals with mental illness; they are not trained to provide therapy or counselling and must refer therapeutic needs to clinical psychologists"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 9,
     "type": "mcq",
-    "stem": "The scope of practice of psychiatric nurses includes several specialised areas. Which combination is MOST accurately described in the notes?",
+    "stem": "The notes state that a healthcare environment is therapeutic when it does ALL of the following. Which option MOST completely and accurately lists these criteria?",
     "options": [
-      "Child-adolescent mental health nursing, geriatric-psychiatric nursing, forensics, and substance abuse â in addition to general psychiatric care",
-      "Child-adolescent mental health nursing, geriatric nursing, neurology, and addiction psychiatry â spanning both general and specialised domains",
-      "Adult psychiatry, geriatric nursing, neuropsychiatry, and palliative care â the four major specialty divisions of psychiatric nursing practice",
-      "Forensic nursing, substance abuse, emergency psychiatry, and general medicine â with a focus on acute and community care settings"
+      "Supports clinical excellence in treatment of the physical body; supports the psycho-social and spiritual needs of the patient, family, and staff; and produces measurable positive effects on patients' clinical outcomes and staff effectiveness",
+      "Supports clinical excellence in treatment of the physical body; supports the psycho-social needs of the patient and family only; and produces measurable positive effects on patients' clinical outcomes only",
+      "Supports clinical excellence in treatment of the physical body; supports the psychological needs of the patient; provides safe medication administration; and produces measurable positive effects on discharge rates",
+      "Supports clinical excellence in treatment of the physical body; supports the spiritual needs of the patient and staff; enables social support; and gives a sense of control to all patients in the facility"
     ],
     "answer": "A"
   },
   {
     "id": 10,
     "type": "mcq",
-    "stem": "A student nurse confuses the roles of the PMHNP and the MHNP. Which statement MOST precisely distinguishes the Advanced Practice Psychiatric/Mental-Health Nurse Practitioner (PMHNP) from the Mental Health Nurse Practitioner (MHNP)?",
+    "stem": "Four key factors that can measurably improve patient outcomes when applied in healthcare environment design are identified in the notes. Which option MOST correctly and completely lists all four?",
     "options": [
-      "The PMHNP has a greater focus on psychiatric diagnosis including differential diagnosis of medical disorders with psychiatric symptoms and medication treatment; the MHNP has a similar focus but requires only a Bachelor's level preparation",
-      "The PMHNP provides a wider range of services including prescribing medications, conducting therapy, and working across primary care and emergency settings, requiring Master's or Doctoral level preparation; the MHNP works primarily in hospital settings and cannot prescribe medications",
-      "The PMHNP and MHNP have identical clinical roles; the only difference is geographic â PMHNPs practice in developed countries while MHNPs practice in developing countries",
-      "The PMHNP works exclusively with children and adolescents in community settings; the MHNP works with adults only in inpatient hospital settings"
+      "Reduce or eliminate environmental stressors; provide positive distractions; enable social support; give a sense of control",
+      "Reduce or eliminate environmental stressors; provide positive distractions; enable social support; promote patient recovery through activity",
+      "Reduce or eliminate environmental stressors; enable social support; give a sense of control; provide structured therapeutic programming",
+      "Eliminate environmental noise; provide positive distractions; enable family contact; give a sense of control over treatment decisions"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 11,
     "type": "mcq",
-    "stem": "Which statement MOST accurately reflects the view of the psychiatric patient in psychiatric mental health nursing?",
+    "stem": "CASE STUDY: A new nurse asks her preceptor: 'What specific roles does the psychiatric mental health nurse perform according to Kiddick (2010)?' The preceptor lists the roles. Which combination of roles is explicitly mentioned in the notes?",
     "options": [
-      "The psychiatric patient is fundamentally different from other patients and must be understood primarily through the lens of their psychiatric diagnosis rather than their personhood",
-      "The psychiatric patient is no less a person than any other person; regardless of how bizarre their behaviour, it is an attempt to cope with overwhelming problems, and their personhood must be respected",
-      "The psychiatric patient is defined primarily by their level of functioning; those with higher functioning require less respect and autonomy while those with lower functioning require full advocacy",
-      "The psychiatric patient's personhood is secondary to safety management; controlling maladaptive behaviour takes precedence over respecting individuality in acute inpatient settings"
+      "Caring for patients with acute mental distress; assessing and talking to patients about problems; building trust relationships; ensuring correct medication administration and monitoring; responding to distressed patients non-threateningly; applying de-escalation techniques; participating in group and one-to-one therapy; preparing care plans; producing care plans and risk assessments; working with families and carers; promoting a recovery-based approach",
+      "Caring for patients with acute mental distress; administering electroconvulsive therapy; building therapeutic alliances; prescribing psychotropic medications; responding to distressed patients; applying restraint techniques; facilitating group therapy; preparing care plans; producing discharge summaries; educating families; promoting a rehabilitation-based approach",
+      "Caring for patients with acute and chronic mental illness; conducting psychological assessments; building trust relationships; administering medications; responding to violent patients; applying behavioural modification techniques; leading group therapy; preparing nursing notes; producing incident reports; educating carers; promoting a compliance-based approach",
+      "Caring for patients experiencing acute mental distress; assessing patients' behaviour and psychological needs; identifying when patients are at risk of harming themselves; visiting patients in their home; ensuring legal requirements are observed; liaising with community treatment teams; and coordinating care of patients in the community"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 12,
     "type": "mcq",
-    "stem": "Psychiatric nursing is described as an interpersonal process. What is the MOST precise meaning of this in the context of psychiatric nursing philosophy?",
+    "stem": "CASE STUDY (continued from Q11): The preceptor makes an important distinction between the RPMN's hospital roles and community roles. Which role is listed as specific to COMMUNITY practice of the RPMN?",
     "options": [
-      "Psychiatric nursing is an interpersonal process because it involves multiple staff members interacting with the patient simultaneously to provide comprehensive care",
-      "Psychiatric nursing is an interpersonal process because it promotes and maintains behaviours that contribute to integrated functioning, with the client being an individual, family, group, organisation, or community",
-      "Psychiatric nursing is an interpersonal process because nurses interview patients about their interpersonal relationships to diagnose personality disorders and social deficits",
-      "Psychiatric nursing is an interpersonal process because it relies on the therapeutic relationship as the only treatment modality, excluding biological and pharmacological interventions"
+      "Visiting patients in their home to monitor progress; assessing patients' behaviour and psychological needs; identifying whether and when patients are at risk of harming themselves or others",
+      "Caring for patients experiencing acute mental distress; building relationships with patients to encourage trust; applying de-escalation techniques to help people manage emotions and behaviour",
+      "Participating in group and/or one-to-one therapy sessions; preparing and maintaining patient records; ensuring correct administration of medications",
+      "Responding to distressed patients in a non-threatening manner; preparing and participating in therapy sessions; working with patients' families and carers"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 13,
     "type": "mcq",
-    "stem": "CASE STUDY: During ward rounds, a psychiatric nurse notices a patient with psychosis arranging chairs in a circle and refusing to sit down for medication. The nurse recalls Bukisa's Principle 1. Which action is MOST consistent with this principle?",
+    "stem": "The characteristics of the physical environment in a healthcare facility affect specific outcomes. Which combination is MOST precisely listed in the notes?",
     "options": [
-      "Interrupt the behaviour immediately and redirect the patient to medication administration, explaining that all therapeutic activities are scheduled and cannot be self-initiated",
-      "Recognise that all behaviour has significance; meet the needs of the performer despite how distorted or meaningless the behaviour appears to others â engage curiously rather than dismissively",
-      "Document the behaviour as a manifestation of psychosis and notify the physician to increase antipsychotic medication dosage",
-      "Involve other patients in redirecting the patient by using peer group dynamics to address the disruptive chair-arranging behaviour"
+      "Patient outcomes, patient satisfaction, patient safety, staff efficiency, staff satisfaction, and organisational outcomes",
+      "Patient outcomes, patient safety, staff efficiency, staff satisfaction, family satisfaction, and organisational outcomes",
+      "Patient outcomes, patient satisfaction, patient safety, staff morale, staff satisfaction, and financial outcomes",
+      "Patient outcomes, patient experience, patient safety, staff efficiency, staff wellbeing, and institutional accreditation outcomes"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 14,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q13): The patient later tells the nurse: 'The chairs protect me.' The nurse applies Principle 7 of Bukisa's framework. Which response is MOST consistent with this principle?",
+    "stem": "CASE STUDY: A psychiatric hospital administrator asks a nurse consultant to justify redesigning the ward environment. The nurse cites a key statement from the notes. Which statement is she MOST likely to use?",
     "options": [
-      "Immediately correct the irrational belief about chairs as a protection, explaining the reality that chairs are furniture with no protective function",
-      "Recognise that the patient needs this defence mechanism (the belief) until other, healthier defences can be substituted, and avoid forcibly removing the behaviour",
-      "Set a firm limit that the patient cannot use chairs as a protective measure as this reinforces delusional thinking and delays recovery",
-      "Encourage the patient to verbalise the delusion to all staff members so the care team can collectively challenge the belief using reality orientation"
+      "'No environment is neutral' — the physical environment directly affects patient outcomes, patient satisfaction, patient safety, staff efficiency, staff satisfaction, and organisational outcomes; effects can be positive or negative",
+      "'All environments are therapeutic' — when healthcare facilities are designed with patient safety and staff efficiency in mind, the environment automatically supports patient recovery without additional therapeutic input",
+      "'The environment is secondary to care quality' — while environmental factors contribute to wellbeing, the skill of the nursing staff is the primary determinant of patient outcomes in psychiatric settings",
+      "'Environment shapes behaviour' — the large, complex environment of a typical hospital suppresses the immune system, making environmental redesign essential for physical rather than psychological recovery"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 15,
     "type": "mcq",
-    "stem": "Comprehensive services in psychiatric nursing focus on all of the following EXCEPT which one?",
+    "stem": "The notes state that nursing is a service initiated for a specific purpose. What purpose is MOST precisely stated?",
     "options": [
-      "Prevention of mental illness and health maintenance",
-      "Management of or referral of mental and physical health problems",
-      "Exclusive treatment of inpatient psychiatric disorders without community prevention activities",
-      "Diagnosis and treatment of mental disorders, and rehabilitation"
+      "Nursing is a service initiated for the purpose of effecting change — a nurse must be able to identify needed changes and bring about change in a purposeful, thoughtful manner",
+      "Nursing is a service initiated for the purpose of promoting healing — a nurse must be able to identify areas requiring clinical intervention and implement evidence-based treatments",
+      "Nursing is a service initiated for the purpose of supporting recovery — a nurse must be able to identify functional deficits and implement rehabilitation strategies",
+      "Nursing is a service initiated for the purpose of ensuring safety — a nurse must be able to identify risk factors and implement protective interventions"
     ],
-    "answer": "C"
+    "answer": "A"
   },
   {
     "id": 16,
     "type": "mcq",
-    "stem": "A psychiatric nurse practitioner (PMHNP) is working in a primary care facility. Which activity MOST distinguishes the PMHNP from a general staff psychiatric nurse?",
+    "stem": "The notes state that change is therapeutic under a specific condition. Which statement MOST precisely captures this?",
     "options": [
-      "The PMHNP performs psychosocial assessment and creates treatment plans, which general staff nurses are also licensed to do in all practice settings",
-      "The PMHNP can diagnose, conduct therapy, and prescribe medications for patients with psychiatric disorders, medical mental conditions, or substance abuse problems â roles that require Master's or Doctoral preparation",
-      "The PMHNP works exclusively in emergency psychiatric settings, unlike general psychiatric nurses who work in primary care, outpatient, and inpatient settings simultaneously",
-      "The PMHNP focuses entirely on medication management and delegates all psychosocial assessment and therapy to the MHNP and social work teams"
+      "Change is therapeutic when it alleviates the patient's distress",
+      "Change is therapeutic when it is evidence-based and implemented within a structured clinical framework",
+      "Change is therapeutic when it is initiated by the patient rather than imposed by the nurse",
+      "Change is therapeutic when it occurs gradually over time as part of a recovery-based approach to care"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 17,
     "type": "mcq",
-    "stem": "CASE STUDY: A nursing student asks: 'If a psychiatric patient is maladaptive â harmful to self or others â should I still provide empathetic assistance?' The correct response, grounded in psychiatric nursing philosophy, is:",
+    "stem": "CASE STUDY: A behaviour analyst is introduced to the psychiatric team. A student nurse asks what uniquely qualifies them. Which description is MOST accurate based on the notes?",
     "options": [
-      "No â maladaptive behaviour indicates the patient is not yet ready for empathetic engagement; set firm limits first and provide empathy only after behavioural improvement",
-      "Yes â health care providers must understand patients' plights regardless of maladaptive behaviour and provide empathetic assistance with their needs, because maladaptive behaviour is the patient's attempt to cope with the stresses of life",
-      "Yes â empathetic assistance is provided only when the behaviour is harmful to others but not when it is harmful to self, as self-harm indicates voluntary choice",
-      "No â empathetic assistance reinforces maladaptive coping; instead, the nurse should use behavioural modification exclusively to replace maladaptive responses with adaptive ones"
+      "Behaviour analysts are licensed to provide services for clients with substance abuse, developmental disabilities, and mental illness; they draw on applied behaviour analysis, behaviour therapy, and behaviourism; they have at least a master's in behaviour analysis or a related discipline and complete at least five core courses in applied behaviour analysis",
+      "Behaviour analysts are licensed to provide psychotherapy and pharmacological consultation for clients with developmental disabilities and substance abuse; they hold a minimum of a Bachelor's degree in psychology and complete specialised training in cognitive-behavioural therapy techniques",
+      "Behaviour analysts are licensed to diagnose and treat mental illness and developmental disabilities; they draw on psychoanalytic theory and behaviourism; they must hold a doctoral degree and complete supervised clinical hours in a licensed psychiatric facility",
+      "Behaviour analysts are licensed to provide case management and vocational rehabilitation for clients with mental illness and developmental disabilities; they apply principles of social learning theory; they hold at least a master's degree in rehabilitation counselling"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 18,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q17): The student then asks about the NURSE'S role as a 'service provider' in the therapeutic encounter. Which description is MOST accurate?",
+    "stem": "CASE STUDY (continued from Q17): A student asks how a counselling psychologist differs from a clinical psychologist. Which statement MOST accurately captures the distinction from the notes?",
     "options": [
-      "The nurse as service provider controls the therapeutic encounter by setting the agenda, determining the mutual goal, and directing the client toward predetermined therapeutic outcomes",
-      "The nurse as service provider is brought into an encounter with a client who has need; a mutual goal is set by BOTH parties in the therapeutic nurse-client relationship, and solving the problem or meeting the needs becomes the goal of the encounter",
-      "The nurse as service provider focuses exclusively on the physical health needs of the psychiatric client, leaving psychological and social needs to the psychiatrist and social worker respectively",
-      "The nurse as service provider maintains professional distance to avoid counter-transference, which means not setting mutual goals but instead implementing physician-prescribed treatment plans"
+      "Clinical psychologists tend to conduct more projective and objective assessment and are more likely to work in hospitals or private practice; counselling psychologists conduct more vocational assessment, less projective assessment, and are more likely to work in public service or university clinics — despite these differences there is considerable overlap between the two fields",
+      "Clinical psychologists focus exclusively on diagnosis and treatment of severe mental illness; counselling psychologists focus exclusively on adjustment problems and life changes and cannot treat any diagnosable psychiatric disorder",
+      "Clinical psychologists and counselling psychologists are interchangeable in practice; the only difference is that counselling psychologists complete fewer supervised clinical hours and are licensed only for private practice settings",
+      "Clinical psychologists work only in hospitals and clinics; counselling psychologists work only in schools and universities — their client populations do not overlap and their therapeutic techniques are fundamentally different"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 19,
     "type": "mcq",
-    "stem": "According to the Department of Health of the UK, which of the following is listed as a KEY ISSUE in meeting the needs of clients with mental health problems?",
+    "stem": "To intervene effectively as a therapeutic agent, the nurse must possess specific self-knowledge. Which statement from the notes MOST precisely captures what is required?",
     "options": [
-      "The availability of 24-hour inpatient psychiatric beds for all clients with chronic mental illness regardless of level of acuity",
-      "The physical health needs of individuals with longstanding mental health problems, where morbidity and mortality rates for preventable diseases are grossly elevated among those with chronic mental health problems",
-      "The mandatory discharge of all psychiatric inpatients after 72 hours to prevent institutional dependence and support community reintegration",
-      "The need for all psychiatric nurses to hold advanced practice qualifications before being permitted to conduct any psychosocial assessments"
+      "It is essential to know how one's behaviour affects others; change is therapeutic when it alleviates the patient's distress; to use oneself effectively as a change agent requires intervening effectively in the nurse-patient situation",
+      "It is essential to know how one's clinical decisions affect patient outcomes; therapeutic change requires evidence-based interventions; effective nursing requires ongoing professional development and self-reflection",
+      "It is essential to know how one's emotions affect clinical judgement; therapeutic use of self requires suppressing personal feelings to maintain professional boundaries in all nurse-patient interactions",
+      "It is essential to know how one's communication style affects patient disclosure; therapeutic use of self requires developing culturally sensitive approaches to establish trust across diverse patient populations"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 20,
     "type": "mcq",
-    "stem": "Principle 6 of Bukisa's framework states nurses should 'Encourage individuals to express their feelings in an atmosphere or environment that is free from judgement.' Which clinical scenario MOST violates this principle?",
+    "stem": "CASE STUDY: A mental health nurse is asked to justify why stress from hospitalisation can impede patient recovery. She cites a specific mechanism from the notes. Which explanation is MOST accurate?",
     "options": [
-      "A nurse listens quietly while a patient expresses anger about their hospitalisation without interrupting or redirecting the conversation",
-      "A nurse tells a patient: 'You shouldn't feel that way â other patients have much more serious problems than you do,' when the patient expresses sadness about their diagnosis",
-      "A nurse reflects a patient's emotion back by saying: 'It sounds like you are feeling overwhelmed â tell me more about that feeling'",
-      "A nurse maintains eye contact and nods while a patient describes paranoid thoughts without challenging the content of the delusion"
+      "Stress can cause a person's immune system to be suppressed and can dampen a person's emotional and spiritual resources, impeding recovery and healing",
+      "Stress from hospitalisation directly activates the hypothalamic-pituitary-adrenal axis, causing cortisol elevation that suppresses immune function and disrupts sleep architecture, impeding physical recovery",
+      "Stress in hospital settings increases sympathetic nervous system activity, causing elevated heart rate and blood pressure that interfere with the parasympathetic rest-and-digest response needed for healing",
+      "Stress from the large, complex hospital environment creates cognitive overload that reduces medication adherence and therapeutic engagement, indirectly impeding recovery through behavioural mechanisms"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 21,
     "type": "mcq",
-    "stem": "Which statement MOST accurately explains why it is a 'very basic principle of psychiatric nursing' to accord respect to the individual regardless of level of functioning?",
+    "stem": "Psychiatric social workers have educational requirements for licensing. Which requirement is MOST accurately stated in the notes?",
     "options": [
-      "Because the legal system mandates patient rights in all healthcare settings; respect is legally required rather than philosophically motivated",
-      "Because no matter how bizarre a patient's behaviour might be, it is an attempt to cope with overwhelming problems â the patient is no less a person than any other person, and their personhood must be respected",
-      "Because disrespecting the patient reduces therapeutic compliance, making treatment less effective â respect is therefore a pragmatic strategy rather than a philosophical principle",
-      "Because psychiatric patients who are respected show faster symptom resolution, making respect a clinical intervention measurable by discharge rates"
+      "State licensing boards and national certification boards require clinical social workers to have a master's or doctoral degree (MSW or DSW/PhD) from a university; the doctorate requires submission of a major original contribution to the field in order to be awarded the degree",
+      "State licensing boards require clinical social workers to have a minimum of a Bachelor's degree in social work (BSW) with specialised coursework in mental health; doctoral preparation is only required for academic or research positions",
+      "National certification boards require clinical social workers to have a master's degree (MSW) only; doctoral preparation (DSW/PhD) is optional and provides no additional clinical privileges beyond the MSW level",
+      "Licensing boards require clinical social workers to have either a master's in social work (MSW) or a doctorate in psychology (PhD) but not both; submission of original research is only required for the doctoral route"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 22,
     "type": "mcq",
-    "stem": "CASE STUDY: A nurse is working with a client who is out of control â screaming, throwing objects, and resisting restraint. A less experienced nurse suggests intervening heroically alone. The correct principle from the additional psychiatric nursing guidelines is:",
+    "stem": "CASE STUDY: A hospital administrator proposes that a psychiatrist should take on the therapeutic roles of the RPMN to save costs. A senior nurse correctly objects. Which argument MOST specifically distinguishes the RPMN's distinct role from the psychiatrist's?",
     "options": [
-      "Go to the client who needs help the most â the nurse should immediately engage the client alone to demonstrate courage and build trust",
-      "Ask for help â do not try to be a hero when dealing with a client who is out of control",
-      "Avoid highly competitive activities that are having one winner and so many losers â the nurse should frame the situation as a collaborative de-escalation",
-      "Make reality interesting enough that the client prefers it to his or her fantasy â distract the client with a preferred activity to reduce agitation"
+      "The RPMN builds relationships with patients to encourage trust; listens to and interprets their needs and concerns; applies de-escalation techniques; prepares care plans and risk assessments; promotes recovery-based care; and delivers patient-centred multidisciplinary care — functions central to nursing that are distinct from the physician's diagnostic and prescribing role",
+      "The RPMN prescribes medications and conducts physical examinations — roles that overlap with the psychiatrist — but additionally provides psychotherapy and counselling, which are outside the psychiatrist's scope of practice",
+      "The RPMN is more qualified than the psychiatrist in mental health care because nursing preparation includes both biological and psychosocial training, while psychiatric preparation focuses narrowly on biological treatment",
+      "The RPMN's role is identical to the psychiatrist's in community settings; the distinction only applies in inpatient settings where role boundaries are defined by hospital policy rather than professional scope"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 23,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q22): After the situation is resolved, the nurse's supervisor reminds her about the guideline: 'Do not allow a situation to develop or continue in which a client becomes the focus of attention in a negative manner.' What is the MOST likely clinical reason for this guideline?",
+    "stem": "CASE STUDY (continued from Q22): The administrator then asks about the multidisciplinary team. Which professionals does the RPMN liaise with, according to Kiddick (2010)?",
     "options": [
-      "Negative attention on one patient reduces available staff time for other patients, creating a workload imbalance in the ward",
-      "When a patient becomes the focus of negative attention, it can shame, humiliate, or stigmatise them, which violates their dignity and may reinforce maladaptive behaviour through secondary gain",
-      "Negative attention on a patient increases other patients' anxiety as they fear similar treatment, creating a therapeutic milieu disturbance",
-      "Negative attention patterns are contagious in psychiatric settings and can spread maladaptive coping strategies from one patient to the rest of the ward population"
+      "Psychiatrists, psychologists, occupational therapists, GPs, social workers, and other health professionals",
+      "Psychiatrists, pharmacists, occupational therapists, social workers, and physiotherapists",
+      "Psychiatrists, psychologists, nutritionists, social workers, and hospital chaplains",
+      "Psychiatrists, psychologists, clinical educators, GPs, and community health officers"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 24,
     "type": "mcq",
-    "stem": "The psychiatric patient is described as a 'bio-psychosocial being.' Which interpretation MOST precisely reflects the implications of this view for nursing care?",
+    "stem": "The UK College of Psychiatrists defines psychiatrists using two specific characteristics. Which definition is MOST precisely stated?",
     "options": [
-      "The psychiatric patient has biological, psychological, and social dimensions, but nursing care should prioritise biological stabilisation before addressing psychological or social concerns",
-      "The psychiatric patient requires being seen and treated as a bio-psychosocial being â all three dimensions (biological, psychological, and social) must be addressed, and the patient must be respected as a complete person, not reduced to their diagnosis",
-      "The bio-psychosocial model means the nurse addresses psychological needs exclusively, as the psychiatrist addresses biological needs and the social worker addresses social needs",
-      "The bio-psychosocial framework is aspirational in psychiatric nursing but impractical in acute inpatient settings where biological stabilisation demands the nurse's full clinical attention"
+      "Psychiatrists are informed and uniquely skilled in the integration of medicine, psychiatry, neuroscience, and the psychosocial sciences",
+      "Psychiatrists are informed and uniquely skilled in the integration of medicine, psychiatry, psychopharmacology, and the social sciences",
+      "Psychiatrists are informed and uniquely skilled in the integration of medicine, neuroscience, psychology, and the psychosocial sciences",
+      "Psychiatrists are informed and uniquely skilled in the integration of psychiatry, neuroscience, rehabilitation science, and the psychosocial sciences"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 25,
     "type": "mcq",
-    "stem": "Which statement MOST correctly identifies the KEY DIFFERENCE between how Haber & Billings (1993) defined psychiatric nursing's focus and its practical scope?",
+    "stem": "CASE STUDY: A counselling psychology graduate student asks a psychiatric nurse why counselling psychologists tend to work in different settings than clinical psychologists. The MOST accurate answer from the notes is:",
     "options": [
-      "Haber and Billings defined psychiatric nursing as concerned only with diagnosis and treatment of mental disorders, excluding prevention and rehabilitation",
-      "Haber and Billings described comprehensive psychiatric nursing services as focusing on prevention of mental illness, health maintenance, management of or referral of mental and physical health problems, diagnosis and treatment of mental disorders, and rehabilitation",
-      "Haber and Billings defined psychiatric nursing as focusing exclusively on inpatient acute care, with community prevention and rehabilitation handled by separate specialties",
-      "Haber and Billings identified diagnosis and medication management as the two primary functions of psychiatric nursing, with prevention and rehabilitation as secondary community health functions"
+      "Counselling psychologists are more likely to work in public service or university clinics rather than hospitals or private practice because they tend to conduct more vocational assessment and less projective or objective assessment compared to clinical psychologists",
+      "Counselling psychologists work in university clinics exclusively because they are trained primarily as researchers and educators, not as clinicians, and therefore cannot practice in hospital or private clinical settings",
+      "Counselling psychologists work in public service settings because licensing boards require all counselling psychology graduates to complete a mandatory two-year public service commitment before private practice is permitted",
+      "Counselling psychologists prefer university and school settings because their training is rooted in developmental psychology, making them most effective with student populations rather than clinical psychiatric populations"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 26,
     "type": "mcq",
-    "stem": "CASE STUDY: A nurse has been working with a depressed patient for three weeks. During a session, the patient says: 'I think you only see me once a week because I'm your least interesting patient.' Which additional principle of psychiatric nursing MOST guides the nurse's response?",
+    "stem": "The notes describe a specific challenge psychiatrists have historically faced regarding prescription authority. Which statement MOST precisely reflects the current situation?",
     "options": [
-      "Make frequent contact with clients â it lets them know they are worth your time and effort",
-      "Make reality interesting enough that the client prefers it to his or her fantasy",
-      "Compliment, reassure, and model appropriate behaviour",
-      "Recognize your own feelings toward clients and deal with them"
+      "Historically, psychiatrists have been the only mental health professional with the power to prescribe medication to treat specific types of mental illness; currently, Physician Assistants and advanced practice psychiatric nurses may also prescribe medications, including psychiatric medications",
+      "Historically, psychiatrists were the only mental health professionals who could prescribe medications; currently, clinical psychologists in all states have obtained prescription privileges and can prescribe any psychiatric medication",
+      "Historically, psychiatrists shared prescribing authority with clinical psychologists; currently, only psychiatrists retain prescribing authority as legislative changes have rescinded prescribing rights from all non-physician mental health professionals",
+      "Historically, prescription authority was shared between psychiatrists and general practitioners; currently, advanced practice psychiatric nurses have completely replaced psychiatrists as the primary prescribers of psychotropic medications"
     ],
     "answer": "A"
   },
   {
     "id": 27,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q26): The patient then says: 'I wish I could live in my dreams. Reality is too painful.' Which principle is the nurse MOST directly applying when she helps the patient find meaning in their daily reality?",
+    "stem": "CASE STUDY: A student nurse is asked to explain what 'therapeutic use of self' involves in conscious nursing intervention. She lists five elements. Which list is MOST accurate based on the notes?",
     "options": [
-      "Compliment, reassure, and model appropriate behaviour",
-      "Make reality interesting enough that the client prefers it to his or her fantasy",
-      "Nursing interventions should centre on the client as a person, not on control of symptoms",
-      "Have patience! Move at the client's pace and ability"
+      "Conscious use of one's personality, background, life skills, and knowledge to develop a connection to a person with mental illness with a view to effecting change in the patient",
+      "Conscious use of one's personality, clinical knowledge, communication skills, and empathy to establish a therapeutic relationship with a view to promoting symptom reduction in the patient",
+      "Conscious use of one's professional training, personal values, communication techniques, and therapeutic boundaries to facilitate the patient's insight into their maladaptive behaviour",
+      "Conscious use of one's nursing expertise, cultural competence, life experience, and interpersonal skills to support the patient's recovery and reintegration into their community"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 28,
     "type": "mcq",
-    "stem": "Which statement about the nurse-client goal-setting in the therapeutic nurse-client relationship is MOST accurate?",
+    "stem": "CASE STUDY (continued from Q27): The student is then asked what specific personal qualities the nurse must develop for effective therapeutic use of self. Which pair is MOST precisely stated in the notes?",
     "options": [
-      "The therapeutic goal is set unilaterally by the nurse based on the nursing diagnosis, which the client is then informed of during the first therapeutic session",
-      "In the therapeutic nurse-client relationship, a mutual goal is set by BOTH the nurse AND the client, based on the problem/need of the patient, and solving or meeting this need becomes the goal of the encounter",
-      "The therapeutic goal is set by the treatment team in the multidisciplinary meeting without client input, as clients with psychiatric disorders lack insight into their own needs",
-      "The therapeutic goal is set by the physician based on the psychiatric diagnosis, with the nurse's role limited to implementing treatment and monitoring compliance"
+      "Self-insight and self-understanding",
+      "Self-awareness and self-disclosure",
+      "Self-reflection and self-regulation",
+      "Self-monitoring and self-efficacy"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 29,
     "type": "mcq",
-    "stem": "Principle 10 of Bukisa's framework states nurses should 'Recognize that individuals have a potential for movement toward higher levels of emotional health.' Which nursing action MOST directly reflects this principle?",
+    "stem": "Patients in a healthcare facility experience specific fears. Which statement from the notes MOST accurately identifies these?",
     "options": [
-      "Informing the patient that psychiatric disorders are lifelong conditions requiring indefinite medication to manage symptoms and prevent relapse",
-      "Encouraging the patient toward greater independence while supporting dependent needs, because all individuals have potential to move toward higher emotional health regardless of current level of functioning",
-      "Setting firm external limits on patient behaviour to protect other clients, as only structure and boundaries promote emotional growth in psychiatric settings",
-      "Referring the patient to a psychiatrist as soon as emotional regression occurs, since regression indicates the nursing-led therapeutic relationship has reached its clinical limit"
+      "Patients are often fearful and uncertain about their health, their safety, and their isolation from normal social relationships",
+      "Patients are often fearful and uncertain about their diagnoses, their prognosis, and their loss of independence from daily activities",
+      "Patients are often fearful and uncertain about their treatment procedures, their medication side effects, and their loss of privacy in institutional settings",
+      "Patients are often fearful and uncertain about their financial obligations, their family burden, and their loss of social identity following psychiatric admission"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 30,
     "type": "mcq",
-    "stem": "CASE STUDY: A nurse develops a strong personal dislike for a patient who repeatedly insults her. She notices she is avoiding that patient's room. Which additional principle of psychiatric nursing is MOST directly violated?",
+    "stem": "Clinical psychology is described as a rapidly developing field. What specific additional contribution is mentioned that demonstrates this development?",
     "options": [
-      "Have patience! Move at the client's pace and ability",
-      "Recognize your own feelings toward clients and deal with them",
-      "Go to the client who needs help the most",
-      "Nursing interventions should centre on the client as a person, not on control of the symptoms"
+      "Clinical psychology is rapidly developing and adding to the evidence base through research; some clinical psychologists work as trainers, teachers, and researchers in universities",
+      "Clinical psychology is rapidly developing through the integration of neuroscience and pharmacology; some clinical psychologists now collaborate directly with psychiatrists to manage medication decisions",
+      "Clinical psychology is rapidly developing through digital therapeutics and teletherapy; some clinical psychologists work as app developers and technology consultants for mental health platforms",
+      "Clinical psychology is rapidly developing through legislation expanding prescription authority; some clinical psychologists have lobbied successfully for independent prescribing rights in several jurisdictions"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 31,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q30): The nurse discusses the situation in clinical supervision and returns to resume care. She applies the principle: 'Nursing interventions should centre on the client as a person, not on control of the symptoms.' What does this mean in practice?",
+    "stem": "CASE STUDY: A nurse is orienting a new staff member and explains the therapeutic environment concept. Which statement from the notes is the MOST critical foundational principle she must convey?",
     "options": [
-      "The nurse focuses on administering symptom-targeted medications without engaging in therapeutic communication, because symptom management is the nurse's primary clinical obligation",
-      "The nurse sees the patient as a whole person whose needs and responses matter beyond the symptoms they present; care is person-centred rather than symptom-centred, addressing the individual holistically",
-      "The nurse allows the patient to control their own symptom management and only intervenes when the patient explicitly requests nursing assistance with specific symptoms",
-      "The nurse focuses on controlling the environment rather than the patient, modifying external stimuli to reduce symptom exacerbation without directly engaging the patient"
+      "'No environment is neutral' — the physical environment affects patient outcomes, patient satisfaction, patient safety, staff efficiency, staff satisfaction, and organisational outcomes, with effects being positive or negative",
+      "'All environments can become therapeutic' — with adequate staffing ratios and evidence-based protocols, any clinical environment can achieve therapeutic status regardless of its physical design",
+      "'The therapeutic environment is staff-dependent' — the most critical determinant of therapeutic outcomes is the quality of nursing care delivered, not the physical design of the environment",
+      "'Environment is one of many factors' — while the physical environment plays a supporting role, it is the therapeutic relationship between nurse and patient that primarily determines clinical outcomes in psychiatric settings"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 32,
     "type": "mcq",
-    "stem": "The notes identify that the needs of the psychiatric patient range across several domains. Which list MOST accurately reflects these domains?",
+    "stem": "CASE STUDY (continued from Q31): The new staff member asks: 'Why does the large, complex hospital environment specifically affect psychiatric patients?' The MOST accurate answer from the notes is:",
     "options": [
-      "Physical needs, emotional needs, spiritual needs, and educational needs â the four core domains of psychiatric patient need",
-      "Coping limitations, behavioural and thought problems, deficient social functioning, levels of social support, and organic problems",
-      "Cognitive deficits, medication non-compliance, housing instability, and financial dependency â the four practical domains requiring case management",
-      "Psychological distress, biological dysfunction, family conflict, and occupational impairment â the four domains of the biopsychosocial assessment model"
+      "The large, complex environment of a typical hospital further contributes to the stressful situation patients already face from fears about their health, safety, and isolation from normal social relationships; stress can suppress the immune system and dampen emotional and spiritual resources, impeding recovery",
+      "The large, complex hospital environment disorients psychiatric patients because they have reduced cognitive capacity to navigate complex spatial environments, leading to increased anxiety and behavioural disturbance",
+      "The large, complex hospital environment exposes psychiatric patients to excessive sensory stimulation that triggers psychotic episodes in vulnerable individuals, making environmental simplification a primary treatment priority",
+      "The large, complex hospital environment creates enforced social contact between patients with different diagnoses, increasing cross-contamination of maladaptive coping strategies and reducing individual therapeutic progress"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 33,
     "type": "mcq",
-    "stem": "CASE STUDY: A psychiatric nurse is working in a general care setting with a patient who has both schizophrenia and hypertension. She notices she has been focusing entirely on the patient's blood pressure management and neglecting the psychiatric symptoms. Which documented UK Department of Health concern does this reflect?",
+    "stem": "The British Psychological Society (2011) defined clinical psychology with a specific aim. What is the MOST precise statement of this definition?",
     "options": [
-      "The tendency to over-medicalise psychiatric patients by prioritising physical diagnoses over mental health diagnoses in general care settings",
-      "The tendency to neglect the physical needs of clients with severe mental or emotional problems especially in psychiatric settings â and conversely, to neglect mental health care needs of psychiatric patients in general care settings",
-      "The insufficiency of community psychiatric services to manage complex co-morbid patients who require simultaneous psychiatric and medical management",
-      "The inability of general nurses to legally prescribe psychiatric medications, resulting in treatment gaps for dually diagnosed patients in non-psychiatric settings"
+      "Clinical psychology aims to reduce psychological distress and to enhance and promote psychological well-being; a wide range of psychological difficulties are dealt with, including anxiety, depression, relationship problems, learning disabilities, child and family problems, and serious mental illness",
+      "Clinical psychology aims to diagnose and treat psychological disorders and to enhance adaptive functioning; psychological difficulties treated include anxiety, depression, personality disorders, psychotic disorders, and substance abuse problems",
+      "Clinical psychology aims to reduce emotional suffering and to promote mental health literacy; psychological difficulties addressed include anxiety, depression, trauma, grief and loss, life transitions, and serious mental illness",
+      "Clinical psychology aims to reduce psychological distress and to promote physical health outcomes; a wide range of psychological difficulties are addressed including anxiety, depression, somatic disorders, chronic pain, and serious mental illness"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 34,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q33): The nurse re-reads the principle: 'Remember to assess the physical needs of your client.' She now understands that this principle exists because:",
+    "stem": "CASE STUDY: A psychiatric nurse is challenged by a new intern who says: 'The nurse's job is to control symptoms, not to effect change.' The nurse responds using the concept from the notes. Which response is MOST grounded in the text?",
     "options": [
-      "Physical assessment is the nurse's primary legal obligation; psychiatric symptom management is secondary and belongs to the psychiatrist",
-      "There is a documented tendency to neglect physical needs in psychiatric settings; morbidity and mortality rates for preventable diseases are grossly elevated among people with chronic mental health problems",
-      "Physical deterioration always precedes psychiatric deterioration, so addressing physical needs will automatically resolve psychiatric symptoms in most cases",
-      "Physical assessment is required only when the patient presents with somatic complaints; in the absence of somatic symptoms, psychiatric symptom management takes priority"
+      "Nursing is a service initiated for the purpose of effecting change; a nurse must identify needed changes and bring about change in a purposeful, thoughtful manner; to use oneself effectively as a change agent means intervening effectively in the nurse-patient situation, and change is therapeutic when it alleviates the patient's distress",
+      "Nursing is a service initiated for the purpose of promoting recovery; the nurse's primary role is to support the patient's natural healing process through evidence-based interventions rather than actively directing therapeutic change",
+      "Nursing is a service initiated for the purpose of ensuring safety; the nurse's primary function is risk management and prevention of harm, from which therapeutic change naturally follows as a secondary benefit",
+      "Nursing is a service initiated for the purpose of building therapeutic relationships; change occurs organically within the therapeutic alliance without the nurse needing to consciously structure or direct the change process"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 35,
     "type": "mcq",
-    "stem": "Principle 9 of Bukisa's framework states: 'Recognize that individuals frequently respond to the behavioural expectations of others, family, friends, etc.' Which nursing action MOST directly applies this principle in practice?",
+    "stem": "CASE STUDY (continued from Q34): The intern then asks whether the nurse must always initiate therapeutic change actively. The nurse explains the role of self-use in the process. Which statement from the notes is MOST relevant?",
     "options": [
-      "Ignoring the family's expectations of the patient to prevent external pressure from interfering with the patient's autonomous recovery process",
-      "Including the patient's family and social context in the nursing assessment and care planning, since expectations from significant others powerfully shape patient behaviour and recovery",
-      "Setting strict boundaries between the patient and their family during hospitalisation to allow the patient to develop independent coping skills without social influence",
-      "Educating the family to avoid expressing expectations of the patient, as expectations create performance anxiety that delays psychiatric recovery"
+      "Nursing involves conscious use of one's personality, background, life skills, and knowledge to develop a connection to a person with mental illness with a view to effecting change — the nurse consciously uses self as an instrument of change",
+      "Nursing involves passive observation of the patient's spontaneous change process, with the nurse providing a safe and supportive presence that allows change to emerge organically without direct therapeutic direction",
+      "Nursing involves applying structured evidence-based protocols that guide the patient through a predetermined change process, with the nurse's personal qualities serving only a secondary supportive function",
+      "Nursing involves collaborative goal-setting with the patient, with change defined and controlled by the patient's preferences and readiness, and the nurse's role limited to psychoeducation and resource provision"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 36,
     "type": "mcq",
-    "stem": "A nurse tells a patient: 'I noticed you made your bed this morning â that's a real step forward.' Which additional principle from the psychiatric nursing guidelines is she MOST directly applying?",
+    "stem": "Which mental health professional is described in the notes as working in prison settings to help patients deal with 'lingering issues'?",
     "options": [
-      "Make reality interesting enough that the client prefers it to his or her fantasy",
-      "Compliment, reassure, and model appropriate behaviour",
-      "Suggesting, requesting, or asking works better than commanding",
-      "Allow client opportunity to set own pace in working with his/her problems"
+      "Psychiatric social worker",
+      "Behaviour analyst",
+      "Clinical psychologist",
+      "Counselling psychologist"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 37,
     "type": "mcq",
-    "stem": "CASE STUDY: A psychiatric nurse discovers she is genuinely excited when a patient with antisocial personality disorder manipulates other staff, because she finds the behaviour 'fascinating.' Her supervisor identifies this as a professional concern. Which principle is MOST at risk of being violated?",
+    "stem": "CASE STUDY: A family member of a psychiatric inpatient asks: 'Can the nurse visiting my relative at home actually prescribe medications if needed?' The MOST accurate answer based on the notes is:",
     "options": [
-      "Nursing interventions should centre on the client as a person, not on control of the symptoms â fascination with symptoms risks reducing the patient to a diagnostic label",
-      "Recognize your own feelings toward clients and deal with them â unexamined fascination with maladaptive behaviour can compromise therapeutic objectivity and patient care",
-      "Do not allow a situation to develop in which the client becomes the focus of attention in a negative manner â fascination could lead to using the patient as a teaching example",
-      "Avoid highly competitive activities that are having one winner and so many losers â the nurse's engagement with manipulation could create competitive dynamics on the ward"
+      "Currently, Physician Assistants and advanced practice psychiatric nurses may prescribe medications including psychiatric medications — so an advanced practice psychiatric nurse could potentially prescribe; historically this was exclusively the psychiatrist's role",
+      "All registered psychiatric nurses are licensed to prescribe medications including psychiatric medications in community settings; prescription authority is not restricted to advanced practice level in community nursing",
+      "No nurse — regardless of qualification level — can prescribe psychiatric medications; this remains exclusively the psychiatrist's domain in all healthcare settings without exception",
+      "A psychiatric nurse can prescribe non-psychiatric medications such as analgesics and antibiotics in community settings, but psychiatric medication prescribing remains exclusively within the psychiatrist's scope"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 38,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q37): After supervision, the nurse learns that 'therapeutic thinking is not thinking about or for, but WITH the client.' What does this mean for her practice?",
+    "stem": "CASE STUDY (continued from Q37): The family member asks what the community RPMN specifically does during a home visit. Which activities are MOST accurately listed as community-specific roles?",
     "options": [
-      "The nurse should avoid independent clinical thinking and only implement plans co-created with the multi-disciplinary team to ensure therapeutic consistency",
-      "Therapeutic thinking means the nurse engages collaboratively with the client's perspective â not directing the client's thinking nor thinking on their behalf, but sharing in the thought process together to reach mutual understanding",
-      "The nurse should focus her thinking on symptom observation and documentation, leaving all other cognitive work to the patient as an empowerment strategy",
-      "Therapeutic thinking requires the nurse to think about the client's past experiences rather than their current presenting problems to identify the root cause of maladaptive behaviour"
+      "Visiting patients in their home to monitor progress; assessing patients' behaviour and psychological needs; identifying whether and when patients are at risk of harming themselves or others; and liaising with patients, relatives, and fellow professionals in the community treatment team",
+      "Visiting patients at home to administer medications; conducting psychiatric assessments; and prescribing adjustments to medications based on observed symptom changes in the patient's natural environment",
+      "Visiting patients at home to conduct psychotherapy sessions; monitoring medication adherence through pill counts; and documenting clinical observations for the multidisciplinary team at the next scheduled case review",
+      "Visiting patients at home to provide occupational therapy; assessing home safety risks; and coordinating with social services to arrange community support packages for patients and their family caregivers"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 39,
     "type": "mcq",
-    "stem": "Principle 4 of Bukisa's framework states: 'Accept the dependent needs of the individual while supporting and encouraging them toward more independence.' Which scenario MOST violates this principle?",
+    "stem": "Which of the following MOST completely and accurately describes the work settings of clinical psychologists as stated in the notes?",
     "options": [
-      "A nurse assists a patient with activities of daily living while explicitly encouraging the patient to attempt portions of the task independently as able",
-      "A nurse refuses to assist a highly dependent patient with daily activities, insisting the patient must be fully independent by the third day of admission or face discharge",
-      "A nurse allows a patient to be dependent on nursing staff for medication reminders while working toward the long-term goal of self-medication management at discharge",
-      "A nurse acknowledges a patient's need for emotional reassurance while simultaneously introducing small challenges to build confidence in coping independently"
+      "Health and social care settings including hospitals, health centres, community mental health teams, child and adolescent mental health services, and social services; some also work in universities as trainers, teachers, and researchers",
+      "Health and social care settings including hospitals, health centres, community mental health teams, forensic services, and substance abuse treatment centres; some work as consultants to private corporations on employee mental health programmes",
+      "Health and social care settings exclusively; clinical psychologists are not permitted to work in academic settings or engage in research activities due to ethical restrictions on dual roles in clinical practice",
+      "Health and social care settings including hospitals, outpatient clinics, and rehabilitation centres; most clinical psychologists work in the private sector with only a minority employed within national health systems"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 40,
     "type": "mcq",
-    "stem": "The notes describe mental health care needs that arise as a consequence of physical illness or disability. Which example from the notes MOST accurately illustrates this category?",
+    "stem": "CASE STUDY: A nurse manager is evaluating whether her ward qualifies as a 'therapeutic environment.' She reviews the criteria. Which statement MOST accurately reflects what is required for a healthcare environment to be therapeutic?",
     "options": [
-      "Post-natal depression, which arises in particular circumstances and is not necessarily associated with physical illness",
-      "Cognitive impairments and confusional states arising from illness or hospitalisation, as well as anxiety and depression as a reaction to physical health problems",
-      "Aggression and violence in the context of mental illness that poses challenges due to the service context in which they occur",
-      "The elevated morbidity and mortality rates for preventable diseases among individuals with longstanding chronic mental health problems"
+      "It must support clinical excellence in treatment of the physical body; support the psycho-social and spiritual needs of the patient, family, AND staff; and produce measurable positive effects on patients' clinical outcomes AND staff effectiveness — all three criteria must be met simultaneously",
+      "It must prioritise patient safety above all other considerations; clinical excellence in physical treatment is secondary to creating a safe environment, and psychosocial needs are addressed only when safety is fully ensured",
+      "It must implement evidence-based nursing interventions consistently; environmental design factors are secondary to clinical practice quality in determining whether a ward qualifies as therapeutically appropriate",
+      "It must achieve patient satisfaction scores above a threshold defined by national standards; staff satisfaction and organisational outcomes are important but are considered separately from therapeutic environment designation"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 41,
     "type": "mcq",
-    "stem": "CASE STUDY: A student nurse states: 'Because the patient has schizophrenia, I should think of what is best for them and make decisions on their behalf.' Which fundamental principle of psychiatric nursing does this violate?",
+    "stem": "CASE STUDY (continued from Q40): The ward scores well on clinical excellence but the nurse manager discovers staff morale is very low. Based on the notes, how does this affect the ward's therapeutic status?",
     "options": [
-      "Principle 6: Encourage individuals to express their feelings in a judgement-free environment",
-      "Principle 4: Accept dependent needs while encouraging independence â paternalistic decision-making prevents movement toward autonomy, and the patient must be involved in their own care planning",
-      "Principle 8: Recognize how feelings affect behaviour and influence relationship â the student's assumption may be driven by unconscious discomfort with the patient's condition",
-      "Principle 2: Accept and respect the person regardless of behaviour â assuming incompetence based on diagnosis fails to respect the person's individuality"
+      "Staff satisfaction is explicitly listed as one of the characteristics affected by the physical environment that influence whether a healthcare environment is therapeutic; low staff satisfaction therefore compromises the ward's therapeutic status even if clinical excellence is maintained",
+      "Staff morale is a human resources concern rather than a clinical concern; low staff morale does not affect the ward's therapeutic status provided clinical protocols are consistently implemented",
+      "Staff satisfaction affects only organisational outcomes such as retention and absenteeism; it has no direct bearing on patient outcomes or the ward's designation as a therapeutic environment",
+      "Staff morale is relevant to therapeutic environment designation only if it is directly observable by patients; if low morale is not expressed behaviourally in patient interactions, it does not compromise the therapeutic status of the environment"
     ],
-    "answer": "D"
+    "answer": "A"
   },
   {
     "id": 42,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q41): The supervising nurse explains: 'Being an individual connotes being unique in feelings, responses, and needs.' Which concept from the client section of the notes does this directly reflect?",
+    "stem": "A counselling psychologist and a counselling psychotherapist differ in their educational preparation. Which statement MOST accurately describes this from the notes?",
     "options": [
-      "The psychiatric patient as a social being whose needs are shaped primarily by family and community expectations",
-      "The psychiatric patient as an individual who possesses all characteristics of humanity â both general and specific â with unique feelings, responses, and needs that differentiate them from all other patients",
-      "The psychiatric patient as a bio-psychosocial being whose needs are reducible to a standard biopsychosocial formulation applicable to all patients with the same diagnosis",
-      "The psychiatric patient as a service consumer whose individuality is acknowledged but subordinated to standardised care pathways that ensure equitable service delivery"
+      "One may practice as a counselling psychologist with a PhD or EdD; as a counselling psychotherapist with a Master's degree; counselling psychology graduate programs are commonly housed in departments of education",
+      "One may practice as a counselling psychologist with a Master's degree only; as a counselling psychotherapist with a PhD or EdD; both programs are housed in departments of psychology or social science",
+      "One may practice as a counselling psychologist with a Bachelor's degree plus additional certification; as a counselling psychotherapist with a Master's degree; programs are housed in both psychology and education departments",
+      "One may practice as a counselling psychologist with a Master's or PhD; as a counselling psychotherapist with a Bachelor's degree plus supervised clinical hours; both require the same national licensing examination"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 43,
     "type": "mcq",
-    "stem": "A nurse is asked to identify the MOST complete description of what psychiatric mental health nursing has evolved into as a unique discipline. Which answer is MOST accurate?",
+    "stem": "CASE STUDY: A mental health nurse asks how a behaviour analyst qualifies to practice. Which specific credentialing pathway is mentioned in the notes?",
     "options": [
-      "A unique discipline combining the knowledge and skills of nursing and pharmacology, with a focus on medication-assisted treatment for psychiatric disorders",
-      "A unique discipline combining the knowledge, experiences and skills of nursing and biological and social science and the art of therapeutic use of self",
-      "A unique discipline combining psychoanalytic theory, behavioural science, and clinical nursing skills, with therapeutic use of the group as its primary modality",
-      "A unique discipline combining nursing science, advanced physiology, and neuropharmacology, with specialised skills in psychiatric diagnosis and differential assessment"
+      "Passing the examination offered by the behaviour analysis certification board OR the examination in clinical behaviour therapy by the World Association for Behaviour Analysis",
+      "Completing a doctoral program in applied behaviour analysis and submitting an original dissertation approved by the Association for Behaviour Analysis International",
+      "Obtaining a master's degree in behaviour analysis and completing 2000 supervised clinical hours in a licensed psychiatric facility",
+      "Passing a national licensing examination administered by the state psychology board and completing continuing education in applied behaviour analysis"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 44,
     "type": "mcq",
-    "stem": "CASE STUDY: During a busy shift, a nurse is managing five patients. One patient with borderline personality disorder is crying quietly in a corner. Another is loudly demanding attention at the nurses' station. Which principle guides the nurse on where to direct care FIRST?",
+    "stem": "CASE STUDY (continued from Q43): The nurse asks where the model licensing act for behaviour analysts can be found. The MOST accurate answer from the notes is:",
     "options": [
-      "Go to the patient who is loudest â vocal expression of distress indicates higher acuity and greater need for immediate intervention",
-      "Go to the client who needs help the most â the quietly crying patient in the corner may have greater unmet need than the patient making vocal demands at the station",
-      "Go to the patient at the nurses' station first, then the crying patient â proximity to the nurse determines care priority in ward settings",
-      "Go to whichever patient has the most acute psychiatric diagnosis according to the current care plan and risk assessment documentation"
+      "At the Association for Behaviour Analysis International's website",
+      "At the World Association for Behaviour Analysis's official registry",
+      "At the state psychology licensing board's online database",
+      "At the National Alliance for Mental Illness (NAMI) professional resources portal"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 45,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q44): The quiet patient discloses she was planning self-harm. The nurse wants to command her to put down the sharp object. Which principle from the additional guidelines suggests a better approach?",
+    "stem": "According to Wairangi (2011), which organisational skill is specifically listed as a personal requirement for mental health nurses?",
     "options": [
-      "Be honest so the client can rely on you â honesty about the dangerousness of the object is more effective than commands",
-      "Suggesting, requesting, or asking works better than commanding â a request-based approach maintains therapeutic alliance and reduces confrontation in a crisis",
-      "Have patience! Move at the client's pace and ability â wait for the patient to spontaneously relinquish the object without any verbal intervention",
-      "Therapeutic thinking is not thinking about or for, but with the client â involve the patient in thinking through the consequences of their action collaboratively"
+      "Organisational and decision-making skills",
+      "Organisational and time-management skills",
+      "Organisational and prioritisation skills",
+      "Organisational and delegation skills"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 46,
     "type": "mcq",
-    "stem": "Which statement MOST accurately distinguishes what makes psychiatric nursing a 'specialised area of nursing practice'?",
+    "stem": "CASE STUDY: A nurse is asked whether she needs to understand the Mental Health Act as a psychiatric nurse. Which statement MOST accurately reflects the notes?",
     "options": [
-      "It is specialised because it requires additional licensure in pharmacology and the ability to prescribe psychotropic medications independently of physician orders",
-      "It is a specialised area because it is based on theories of human behaviour as its science and the therapeutic use of self as its art of expression, distinguishing it from other nursing branches where technical skill dominates",
-      "It is specialised because psychiatric nurses work exclusively with the most severely ill patients in locked inpatient units, requiring skills unavailable to general nursing",
-      "It is specialised because psychiatric nursing integrates legal and forensic knowledge in all practice settings, requiring unique understanding of mental health legislation"
+      "An understanding of the Mental Health Act and other relevant legislation is explicitly listed by Wairangi (2011) as a personal requirement for mental health nurses",
+      "Understanding the Mental Health Act is important but is categorised as an administrative skill rather than a clinical skill; it is therefore not included in Wairangi's personal requirements for mental health nurses",
+      "Understanding the Mental Health Act is the responsibility of the ward manager and hospital legal team; bedside nurses are not expected to have personal knowledge of mental health legislation",
+      "Understanding the Mental Health Act is beneficial but optional for mental health nurses; the most critical personal requirements according to Wairangi are clinical nursing skills and knowledge of psychiatric disorders"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 47,
     "type": "mcq",
-    "stem": "CASE STUDY: A psychiatric nurse is conducting a ward game activity. She avoids competitive games with one clear winner and multiple losers. Which principle guides this clinical decision?",
+    "stem": "CASE STUDY (continued from Q46): The nurse is then asked which communication skills are specifically listed by Wairangi (2011). Which answer is MOST precise?",
     "options": [
-      "Principle 4: Accept dependent needs while encouraging independence â competitive games create unnecessary pressure on vulnerable patients",
-      "Avoid highly competitive activities that are having one winner and so many losers â such activities can be harmful to psychiatric patients' self-esteem and ward dynamics",
-      "Principle 6: Encourage individuals to express feelings in a judgement-free environment â competitive games stifle emotional expression",
-      "Make reality interesting enough that the client prefers it to his or her fantasy â non-competitive activities are more grounding in reality"
+      "Oral and written communication skills including good listening skills, and good listening skills are listed separately as a standalone requirement",
+      "Oral communication skills only, with good listening skills embedded within this category as a non-separate requirement",
+      "Written communication skills only, since oral communication is considered an innate ability not requiring formal development for nursing practice",
+      "Oral, written, and non-verbal communication skills, with active listening, therapeutic silence, and motivational interviewing specifically highlighted"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 48,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q47): After the activity, a patient becomes irritable because he lost the non-competitive game. The nurse remembers: 'If client behaviour is bizarre, base your decision to intervene on whether the client is endangering self or others.' Which is MOST accurate about applying this principle here?",
+    "stem": "Psychiatric social workers may investigate specific practical areas when working with patients. Which areas are mentioned in the notes?",
     "options": [
-      "The nurse should intervene immediately because irritability always signals potential violence in psychiatric patients and preemptive action is clinically justified",
-      "The nurse evaluates whether the irritability poses actual danger to self or others before intervening â bizarre or irritable behaviour alone does not automatically require intervention if safety is not at risk",
-      "The nurse should remove the patient from the group activity to prevent contamination of the therapeutic milieu with negative emotional states",
-      "The nurse should document the behaviour as a psychiatric symptom and report to the physician for medication review regardless of whether the patient is endangering anyone"
+      "Housing and job placement options for recovering patients",
+      "Housing options and educational retraining programmes for recovering patients",
+      "Job placement and financial management counselling for recovering patients",
+      "Housing, legal advocacy, and vocational rehabilitation for recovering patients"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 49,
     "type": "mcq",
-    "stem": "Mental health nursing and psychiatric nursing are described as two areas that 'interact and overlap.' Which statement MOST precisely captures this interaction?",
+    "stem": "CASE STUDY: A newly qualified RPMN asks what her specific role is in 'de-escalation.' Which statement from the notes MOST accurately captures this?",
     "options": [
-      "They interact because mental health nursing services are a subdivision of psychiatric nursing and cannot operate without psychiatric nurse oversight",
-      "They interact and overlap because psychiatric mental health nursing together offers preventive, curative, and rehabilitative services to individuals, families, groups, and communities â each contributes distinctly but they share common ground",
-      "They interact because both disciplines focus primarily on inpatient acute care settings, sharing the same patient population and clinical protocols",
-      "They overlap because they both ultimately depend on pharmacological intervention as the primary therapeutic modality, making their scope practically identical"
+      "Applying 'de-escalation' techniques to help people manage their emotions and behaviour",
+      "Applying 'de-escalation' techniques to prevent violence and reduce the need for physical restraint in acute inpatient settings",
+      "Applying 'de-escalation' techniques to reduce medication requirements by substituting psychosocial intervention for pharmacological sedation",
+      "Applying 'de-escalation' techniques to help patients develop insight into the triggers of their emotional dysregulation"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 50,
     "type": "mcq",
-    "stem": "CASE STUDY: A nurse reflects on her day after a difficult shift with a patient who refused all interventions. A colleague says: 'You should have been firmer.' The nurse responds with the principle: 'Allow client opportunity to set own pace in working with his/her problems.' What does this reveal about her clinical philosophy?",
+    "stem": "CASE STUDY (continued from Q49): The new RPMN asks how her role in therapy sessions is described in the notes. Which is the MOST accurate description?",
     "options": [
-      "The nurse believes patients should have unlimited autonomy in all clinical situations, including when they are an imminent danger to themselves or others",
-      "The nurse understands that therapeutic progress occurs at the client's pace and ability â forcing the pace violates client autonomy and can rupture the therapeutic alliance, even when it is clinically tempting to do so",
-      "The nurse is applying avoidance as a coping strategy and rationalising inaction by citing client autonomy principles inappropriately",
-      "The nurse is demonstrating a misapplication of the principle because 'own pace' applies only to therapeutic activities, not to clinical refusals that have medical consequences"
+      "Preparing and participating in group and/or one-to-one therapy sessions, both individually and with other health professionals",
+      "Leading group therapy sessions independently and conducting one-to-one cognitive behavioural therapy sessions without supervision",
+      "Observing group therapy sessions conducted by the clinical psychologist and providing post-session emotional support to individual patients",
+      "Facilitating group therapy sessions focused exclusively on medication psychoeducation and administering one-to-one motivational interviewing sessions"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 51,
     "type": "fitb",
-    "stem": "The American Psychiatric Nurses Association defined psychiatric/mental health nursing as a specialty nursing practice focusing on the identification of mental health issues, _______________ of mental health problems, and the care and treatment of persons with psychiatric disorders.",
-    "answer": "prevention",
+    "stem": "According to Wairangi (2011), mental health nurses require oral and written communication skills including good listening skills, and _______________ and decision-making skills.",
+    "answer": "organisational",
     "acceptableAnswers": [
-      "prevention"
+      "organisational",
+      "organizational"
     ]
   },
   {
     "id": 52,
     "type": "fitb",
-    "stem": "CASE STUDY: A student is asked: 'In psychiatric/mental health nursing, more than any other branch of nursing, patients are cared for within the context of the _______________-_______________ relationship.' She must supply the specific relationship.",
-    "answer": "nurse-patient",
+    "stem": "CASE STUDY: An exam asks: 'The ability to use one's personality consciously and in full awareness in an attempt to establish relatedness and to structure nursing intervention is defined as the _______________ use of self.'",
+    "answer": "therapeutic",
     "acceptableAnswers": [
-      "nurse-patient",
-      "nurse-client",
-      "therapeutic nurse-patient",
-      "therapeutic nurse-client"
+      "therapeutic"
     ]
   },
   {
     "id": 53,
     "type": "fitb",
-    "stem": "Psychiatric nursing is described as a specialised area of nursing practice â one that is based on theories of human behaviour as its science and the '_______________ use of _______________' as its art of expression.",
-    "answer": "therapeutic use of self",
+    "stem": "The notes state that a healthcare environment is designed not only to support state-of-the-art medicine, technology, patient safety, and quality patient care, but also to embrace the patient, family, and caregivers in a psycho-socially supportive _______________ environment.",
+    "answer": "therapeutic",
     "acceptableAnswers": [
-      "therapeutic use of self",
-      "therapeutic, self"
+      "therapeutic"
     ]
   },
   {
     "id": 54,
     "type": "fitb",
-    "stem": "Principle 1 of Bukisa's (2010) framework states: 'Recognize that all behaviour has _______________. The nurse should meet the needs of the performer despite how distorted or meaningless it appears to others.'",
-    "answer": "significance",
+    "stem": "CASE STUDY: A student is asked: 'The notes state that no environment is _______________. Effects of the physical environment can be positive or negative.' Only one word completes this sentence precisely.",
+    "answer": "neutral",
     "acceptableAnswers": [
-      "significance"
+      "neutral"
     ]
   },
   {
     "id": 55,
     "type": "fitb",
-    "stem": "CASE STUDY: An examiner asks: 'Principle 3 of Bukisa's framework states: Limit or reject inappropriate _______________ without refusing the individual.' A student must precisely fill in what is limited or rejected.",
-    "answer": "behaviour",
+    "stem": "The Canadian Psychiatric Association defines psychiatrists as physicians who enhance the person's quality of life by providing psychiatric assessment, treatment, and _______________ care to people with psychiatric disorders.",
+    "answer": "rehabilitation",
     "acceptableAnswers": [
-      "behaviour",
-      "behavior"
+      "rehabilitation"
     ]
   },
   {
     "id": 56,
     "type": "fitb",
-    "stem": "The psychiatric patient is described as a _______________ being who requires being seen and treated as such â possessing all characteristics of humanity, both general and specific.",
-    "answer": "bio-psychosocial",
+    "stem": "CASE STUDY: An examiner states: 'The UK College of Psychiatrists says psychiatrists are informed and uniquely skilled in the integration of medicine, psychiatry, _______________, and the psychosocial sciences.' One discipline is missing.",
+    "answer": "neuroscience",
     "acceptableAnswers": [
-      "bio-psychosocial",
-      "biopsychosocial"
+      "neuroscience"
     ]
   },
   {
     "id": 57,
     "type": "fitb",
-    "stem": "CASE STUDY: A ward supervisor quizzes a student: 'According to the notes, it is a very basic principle of psychiatric nursing to accord _______________ to the individual no matter the level of functioning.'",
-    "answer": "respect",
+    "stem": "Nursing is a service initiated for the purpose of _______________ change (Elder et al., 2009); a nurse must be able to identify needed changes and bring about change in a purposeful, thoughtful manner.",
+    "answer": "effecting",
     "acceptableAnswers": [
-      "respect"
+      "effecting",
+      "effecting change"
     ]
   },
   {
     "id": 58,
     "type": "fitb",
-    "stem": "In the therapeutic nurse-client relationship, a _______________ goal is set by both parties â the nurse and the client â based on the problem or need of the patient.",
-    "answer": "mutual",
+    "stem": "CASE STUDY: During a ward orientation, a nurse states: 'Change is therapeutic when it _______________ the patient's distress.' Students must supply the precise verb used in the notes.",
+    "answer": "alleviates",
     "acceptableAnswers": [
-      "mutual"
+      "alleviates",
+      "alleviate"
     ]
   },
   {
     "id": 59,
     "type": "fitb",
-    "stem": "CASE STUDY: During a practical exam, a student is told: 'The psychiatric patient basically has problems coping with the normal stresses of life. Depending on the type and severity of ailment, their behaviour may be _______________ â harmful to self and/or others and/or disruptive.' Fill in the clinical term used.",
-    "answer": "maladaptive",
+    "stem": "The British Psychological Society (2011) states that clinical psychology aims to reduce psychological _______________ and to enhance and promote psychological well-being.",
+    "answer": "distress",
     "acceptableAnswers": [
-      "maladaptive"
+      "distress"
     ]
   },
   {
     "id": 60,
     "type": "fitb",
-    "stem": "Principle 6 of Bukisa's framework states nurses should encourage individuals to express their feelings in an atmosphere or environment that is free from _______________.",
-    "answer": "judgement",
+    "stem": "CASE STUDY: An examiner asks: 'According to the notes, in maintaining a therapeutic milieu, the nurse _______________ the environment to encourage recovery of the patient.' Only one verb is correct.",
+    "answer": "manipulates",
     "acceptableAnswers": [
-      "judgement",
-      "judgment"
+      "manipulates"
     ]
   },
   {
     "id": 61,
     "type": "fitb",
-    "stem": "CASE STUDY: A nursing examiner asks: 'What does Principle 7 of Bukisa's framework require nurses to recognise?' The correct answer is: Recognize that individuals need to use their _______________ until other defences can be substituted.",
-    "answer": "defences",
+    "stem": "The therapeutic use of self requires self-insight, self-understanding, and understanding of the _______________ of human behaviour.",
+    "answer": "dynamics",
     "acceptableAnswers": [
-      "defences",
-      "defenses",
-      "defence mechanisms"
+      "dynamics"
     ]
   },
   {
     "id": 62,
     "type": "fitb",
-    "stem": "The notes state that psychiatric mental health nursing has evolved into a unique discipline combining the knowledge, experiences and skills of nursing and biological and _______________ science and the art of therapeutic use of self.",
-    "answer": "social",
+    "stem": "CASE STUDY: A nurse exam reads: 'According to Kiddick (2010), the psychiatric mental health nurse liaises with psychiatrists, psychologists, occupational therapists, GPs, social workers and other health professionals to plan and deliver care using a _______________ patient-centred approach.'",
+    "answer": "multidisciplinary",
     "acceptableAnswers": [
-      "social"
+      "multidisciplinary",
+      "multi-disciplinary"
     ]
   },
   {
     "id": 63,
     "type": "fitb",
-    "stem": "CASE STUDY: An exam question reads: 'The PMHNP presupposes a more advanced educational preparation at _______________ or Doctoral level.' A student must identify the minimum advanced degree required.",
-    "answer": "Master's",
+    "stem": "Psychiatric social workers are employed in many different settings, including inpatient psychiatric hospitals, outpatient mental health centres, prisons, and _______________ social service offices.",
+    "answer": "governmental",
     "acceptableAnswers": [
-      "Master's",
-      "Masters",
-      "Master's degree"
+      "governmental",
+      "government"
     ]
   },
   {
     "id": 64,
     "type": "fitb",
-    "stem": "Principle 8 of Bukisa's (2010) framework states: 'Recognize how _______________ affect behaviour and influence relationship.' The missing word refers to emotional states.",
-    "answer": "feelings",
+    "stem": "CASE STUDY: An exam vignette reads: 'The RPMN responds to distressed patients in a non-threatening manner and attempts to understand the _______________ of distress.' Students must supply the precise noun used in the notes.",
+    "answer": "source",
     "acceptableAnswers": [
-      "feelings",
-      "emotions"
+      "source"
     ]
   },
   {
     "id": 65,
     "type": "fitb",
-    "stem": "CASE STUDY: A nurse educator asks: 'The additional principles of psychiatric nursing state that therapeutic thinking is NOT thinking about or for, but _______________ the client.' Students must supply the precise preposition that defines the collaborative nature of therapeutic thought.",
-    "answer": "with",
+    "stem": "Behaviour analysts have at least a master's degree in behaviour analysis or in a mental health related discipline AND at least _______________ core courses in applied behaviour analysis.",
+    "answer": "five",
     "acceptableAnswers": [
-      "with"
+      "five",
+      "5"
     ]
   },
   {
     "id": 66,
     "type": "fitb",
-    "stem": "According to the UK Department of Health, morbidity and mortality rates for _______________ diseases are grossly elevated amongst those people with chronic mental health problems.",
-    "answer": "preventable",
+    "stem": "CASE STUDY: A student is asked: 'The notes list four key factors that can measurably improve patient outcomes in healthcare environment design. Name the third factor.' The correct answer is: enable _______________ _______________.",
+    "answer": "social support",
     "acceptableAnswers": [
-      "preventable"
+      "social support"
     ]
   },
   {
     "id": 67,
     "type": "fitb",
-    "stem": "CASE STUDY: A student is asked to complete Principle 10 of Bukisa's framework: 'Recognize that individuals have a potential for movement toward _______________ levels of emotional health.' Only one precise word completes this principle.",
-    "answer": "higher",
+    "stem": "The doctorate in social work requires submission of a _______________ original contribution to the field in order to be awarded the degree.",
+    "answer": "major",
     "acceptableAnswers": [
-      "higher"
+      "major"
     ]
   },
   {
     "id": 68,
     "type": "fitb",
-    "stem": "The additional principles of psychiatric nursing state: 'Nursing interventions should centre on the client as a _______________, not on control of the symptoms.'",
-    "answer": "person",
+    "stem": "CASE STUDY: An examiner asks: 'The specific personal requirements according to Wairangi (2011) include excellent nursing skills AND knowledge of different nursing _______________ and theories.' Students must supply the exact word used.",
+    "answer": "methods",
     "acceptableAnswers": [
-      "person"
+      "methods"
     ]
   },
   {
     "id": 69,
     "type": "fitb",
-    "stem": "CASE STUDY: A vignette reads: 'A nurse is working with a client who is severely distressed. She remembers the principle: Have patience! Move at the client's _______________ and _______________.' Two words are required.",
-    "answer": "pace and ability",
+    "stem": "Compared with clinical psychology, counselling psychology graduate programs are more commonly housed in departments of _______________.",
+    "answer": "education",
     "acceptableAnswers": [
-      "pace and ability",
-      "pace, ability"
+      "education"
     ]
   },
   {
     "id": 70,
     "type": "fitb",
-    "stem": "The Principles of Psychiatric Nursing, according to Bukisa (2010), include Principle 5: 'Help the individual to set appropriate _______________ for themselves or set limit limits for them when they are unable to do so.'",
-    "answer": "limits",
+    "stem": "CASE STUDY: A student nurse is asked: 'The RPMN works with patients to come to terms with illness in order to _______________ their life potential.' One precise verb from the notes must be supplied.",
+    "answer": "maximise",
     "acceptableAnswers": [
-      "limits"
+      "maximise",
+      "maximize"
     ]
   }
 ]
