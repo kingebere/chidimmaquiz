@@ -1501,25 +1501,54 @@
             return found;
         }
 
-        async function loadQuestions() {
-            try {
-                const res = await fetch('./questions.json', { cache: 'no-store' });
-                if (!res.ok) throw new Error('Failed to load questions.json');
+ 
+async function loadQuestions() {
+    try {
+        const res = await fetch('./questions.json', { cache: 'no-store' });
+        if (!res.ok) throw new Error('Failed to load questions.json');
 
-                const data = await res.json();
-                if (!Array.isArray(data)) throw new Error('questions.json must contain an array');
+        const rawText = await res.text();
 
-                LIVE_QUESTIONS = deepClone(data);
-                LIVE_QUIZ_META = ensureQuizArchived(LIVE_QUESTIONS, getQuizTitle(LIVE_QUESTIONS));
-                QUESTIONS = deepClone(LIVE_QUESTIONS);
-                ACTIVE_QUIZ_META = { ...LIVE_QUIZ_META };
+        let data;
+        try {
+            data = JSON.parse(rawText);
+        } catch (parseError) {
+            console.error('Question loading error:', parseError);
 
-                document.getElementById('totalQCount').textContent = QUESTIONS.length;
-            } catch (error) {
-                console.error('Question loading error:', error);
-                alert('Unable to load quiz questions. Check questions.json and make sure you are running the app through a local server.');
+            const match = /position\s+(\d+)/i.exec(parseError.message);
+            if (match) {
+                const pos = Number(match[1]);
+                const start = Math.max(0, pos - 120);
+                const end = Math.min(rawText.length, pos + 120);
+                const snippet = rawText.slice(start, end);
+
+                console.error('Problem near JSON position:', pos);
+                console.error('Nearby content:\n' + snippet);
             }
+
+            alert(
+                'questions.json is invalid.\n\n' +
+                'There is extra text, a trailing comma, or malformed JSON inside the file.\n' +
+                'Open DevTools Console to see the exact area causing the error.'
+            );
+            return;
         }
+
+        if (!Array.isArray(data)) {
+            throw new Error('questions.json must contain an array');
+        }
+
+        LIVE_QUESTIONS = deepClone(data);
+        LIVE_QUIZ_META = ensureQuizArchived(LIVE_QUESTIONS, getQuizTitle(LIVE_QUESTIONS));
+        QUESTIONS = deepClone(LIVE_QUESTIONS);
+        ACTIVE_QUIZ_META = { ...LIVE_QUIZ_META };
+
+        document.getElementById('totalQCount').textContent = QUESTIONS.length;
+    } catch (error) {
+        console.error('Question loading error:', error);
+        alert('Unable to load quiz questions. Check questions.json and make sure you are running the app through a local server.');
+    }
+}
 
         document.addEventListener('DOMContentLoaded', async () => {
             document.getElementById('timerLabel').textContent = TIMER_MINUTES;

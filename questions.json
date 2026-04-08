@@ -1,787 +1,790 @@
-
+[
   {
     "id": 1,
     "type": "mcq",
-    "stem": "Petra Donnison listed personal qualities mental health nurses must possess. A student selects an option claiming to list ALL of them precisely. Which is MOST correct without addition or omission?",
+    "stem": "A patient asks a psychiatric nurse: 'My grandmother says I am cursed and that is why I have schizophrenia.' The nurse recognises this as consistent with which theory of disease?",
     "options": [
-      "Patient; concerned for and able to build relationships with others; mature and responsible; able to work well under pressure; able to deal with people from a variety of backgrounds and cultures",
-      "Patient; compassionate; concerned for others; mature and responsible; able to work under pressure; empathetic; able to deal with diverse backgrounds",
-      "Patient; able to build relationships with others; mature; responsible; able to work under pressure; able to deal with people from diverse cultures; having good communication skills",
-      "Patient; concerned for others; mature and responsible; able to work well under pressure; able to communicate with people from diverse backgrounds"
+      "Cultural theory — the patient's family interprets illness through culturally shaped beliefs and social norms about health and disease",
+      "Supernatural theory — disease is attributed to supernatural forces such as gods, spirits, or curses rather than scientific causation",
+      "Miasma theory — the patient's community attributes illness to environmental bad air arising from organic sources in the surroundings",
+      "Psychosomatic theory — the patient's belief in the curse has created a nocebo effect causing the manifestation of psychiatric symptoms"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 2,
     "type": "mcq",
-    "stem": "Guthrie (2008) identified key qualities for nurses working with patients who need someone for a period of time. Which description is MOST precisely stated from the notes?",
+    "stem": "CASE STUDY: A 45-year-old man with schizophrenia has lived in poverty since childhood, has never completed secondary education, and lives in overcrowded housing. A nurse is completing his biopsychosocial assessment. Which theory MOST precisely explains how his social circumstances contribute to his current psychiatric condition?",
     "options": [
-      "The key qualities are to be caring, compassionate, and have the desire to reach out to someone who, for a period of time, is in need",
-      "The key qualities are to be caring, compassionate, and have the willingness to reach out to someone who, for a period of time, is experiencing distress",
-      "The key qualities are to be caring, empathetic, and have the desire to reach out to someone who, for a period of time, requires professional support",
-      "The key qualities are to be caring, compassionate, and have the commitment to reach out to someone who, for a period of time, cannot help themselves"
+      "Behavioural theory — his lifestyle choices such as substance use, poor diet, and irregular sleep have precipitated his psychiatric symptoms",
+      "Social determinants of health theory — social factors such as socioeconomic status, education, and living conditions play a crucial role in the development and progression of diseases",
+      "Environmental theory — exposure to toxins and pollutants in overcrowded housing has directly caused neurological damage leading to psychiatric symptoms",
+      "Multifactorial theory — a combination of genetic vulnerability, environmental factors, and lifestyle choices jointly explain the development of his schizophrenia"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 3,
     "type": "mcq",
-    "stem": "CASE STUDY: A student nurse is asked to recall the personal qualities of the psychiatric mental health nurse according to Burger (2010). She must identify the COMPLETE and EXACT set of traits. Which is MOST accurate?",
+    "stem": "CASE STUDY (continued from Q2): The nurse documents his diagnosis using a biopsychosocial model. What does this model MOST precisely hold?",
     "options": [
-      "Good communication skills, empathy, and a genuine attitude of caring; confidence, patience, and a sense of humour are also helpful when working with patients who have severe mental disorders",
-      "Good communication skills, empathy, and a genuine attitude of caring; confidence, patience, and a sense of compassion are also helpful when working with patients who have severe mental disorders",
-      "Good communication skills, empathy, and a genuine attitude of caring; warmth, patience, and a sense of humour are also helpful when working with patients who have severe mental disorders",
-      "Good communication skills, empathy, and a genuine attitude of caring; confidence, tolerance, and a sense of humour are also helpful when working with patients who have severe mental disorders"
+      "Health and disease are the result of purely biological dysfunction; psychological and social factors are secondary contributors that amplify but do not independently cause psychiatric disorders",
+      "Health and disease are the result of the interplay between biological, psychological, and social factors — developed as an integrative approach to understanding health in the late 20th century",
+      "Health and disease are the result of genetic predisposition modified by psychological resilience; social factors are mediating variables that moderate but do not independently cause disease",
+      "Health and disease are the result of biological and psychological factors; social factors are important for treatment planning but are not classified as causes of mental illness in the biopsychosocial model"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 4,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q3): After the session, a student argues that 'a sense of humour' seems unprofessional for psychiatric nursing. Which response MOST accurately reflects the context in the notes?",
+    "stem": "A medical student states: 'Depression is caused entirely by a chemical imbalance in the brain — it is a biological disease.' Which criticism of this view is MOST aligned with the content?",
     "options": [
-      "A sense of humour is specifically described as helpful when working with patients who have severe mental disorders â it is a recognised personal quality alongside confidence and patience, not an unprofessional trait",
-      "A sense of humour is listed as an optional trait that is only appropriate when working with mild mental health conditions, not with patients who have severe mental disorders",
-      "A sense of humour is described as important for nursing team cohesion and staff wellbeing but is not specifically mentioned as relevant to direct patient care in psychiatric settings",
-      "A sense of humour is mentioned as potentially harmful in psychiatric settings because patients with severe disorders may misinterpret humour as mockery, so it requires careful professional discretion"
+      "This reflects the biomedical model, which focuses on purely biological factors; however, it is now integrated with psychological and social factors in more holistic models of health, making the purely biological explanation incomplete",
+      "This reflects the germ theory approach, which attributes all disease to a single causative agent; however, depression has multiple causative agents across genetic, psychosocial, and environmental domains",
+      "This reflects the humoral theory, which attributes disease to internal imbalances; the modern equivalent recognises neurotransmitter imbalance as only one of many contributing factors to depression",
+      "This reflects the miasma theory applied to psychiatry, where internal toxic states cause illness; however, modern psychiatry recognises that external social and environmental factors are equally important causative agents"
     ],
     "answer": "A"
   },
   {
     "id": 5,
     "type": "mcq",
-    "stem": "Aroha Webby described physical requirements for mental health nurses. Which statement is MOST precisely and completely stated from the notes?",
+    "stem": "CASE STUDY: A nurse is educating a patient with bipolar disorder about his condition. The patient asks why he has bipolar disorder when his twin brother does not. The nurse explains this using which theory?",
     "options": [
-      "Mental health nurses need to be reasonably fit and healthy to cope with the stress and pressure of the job; they may also have to spend long periods on their feet; Burger (2010) added that it can be stressful to be surrounded by people suffering from mental illness on a regular basis; psychiatric nurses must be willing to get help for themselves if they start becoming depressed or anxious as a result of their job or other situations in life; all nurses need to manage time effectively and work hard",
-      "Mental health nurses need to be physically fit and healthy to manage the demands of shift work; they must maintain good nutrition and rest; Burger (2010) stated that psychiatric work can be emotionally exhausting; nurses must seek help if they develop burnout; all nurses need to maintain professional boundaries and manage their workload effectively",
-      "Mental health nurses need to be reasonably fit and healthy to cope with stress; they may have to stand for long periods; Burger (2010) stated that it can be distressing to work alongside severely ill patients; psychiatric nurses must recognise signs of vicarious trauma and seek clinical supervision; all nurses need to practise self-care consistently",
-      "Mental health nurses need to be physically capable to manage potentially aggressive patients; they must maintain fitness for manual handling; Burger (2010) noted that working in psychiatry can cause secondary traumatisation; nurses must use staff support services when affected; all nurses need to balance workload and self-care effectively"
+      "Genetic theory — some diseases are caused by mutations or alterations in an individual's genetic material; however, expression varies based on other factors",
+      "Epigenetic theory — environmental factors can modify gene expression without changing the DNA sequence, potentially explaining why one identical twin develops bipolar disorder while the other does not",
+      "Multifactorial theory — the disorder results from a combination of genetic, environmental, and lifestyle factors, meaning genetic predisposition alone is insufficient without additional triggers",
+      "All three theories — genetic, epigenetic, and multifactorial — are simultaneously applicable and cannot be distinguished in explaining differential expression in monozygotic twins"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 6,
     "type": "mcq",
-    "stem": "The functions of the psychiatric nurse can be organised into categories. Which set of categories is MOST accurately identified from the notes?",
+    "stem": "CASE STUDY (continued from Q5): The nurse further explains that the patient's childhood trauma may have modified how his genes are expressed without changing the actual DNA sequence. Which theory MOST specifically describes this process?",
     "options": [
-      "Physical and biological interventions; psychiatric medication; electroconvulsive therapy; physical care; psychosocial interventions; spiritual interventions",
-      "Physical and biological interventions; psychiatric medication; electroconvulsive therapy; physical care; psychosocial interventions; spiritual interventions; observation; listening; empathy; note taking",
-      "Physical care; psychiatric medication; electroconvulsive therapy; psychological interventions; spiritual care; observation and assessment",
-      "Biological interventions; medication management; electroconvulsive therapy; physical rehabilitation; psychosocial therapy; spiritual assessment"
+      "Environmental theory — harmful environmental factors such as trauma act directly on biological systems to cause neurological changes leading to psychiatric disorders",
+      "Epigenetic theory — environmental factors can modify gene expression without changing the DNA sequence, potentially leading to disease; this is a rapidly growing field offering new insights into disease prevention and treatment",
+      "Psychosomatic theory — mental and emotional states, including trauma, can contribute to physical and psychiatric disease through the mind-body connection",
+      "Genetic theory — trauma activates pre-existing genetic mutations that were dormant, causing them to express pathologically in the context of environmental stress"
     ],
     "answer": "B"
   },
   {
     "id": 7,
     "type": "mcq",
-    "stem": "CASE STUDY: A ward nurse explains the nurse's role in electroconvulsive therapy (ECT). Which statement is MOST accurately grounded in the notes?",
+    "stem": "The Miasma Theory attributed disease to a specific cause. Which statement MOST precisely describes its core concept AND its historical trajectory?",
     "options": [
-      "Psychiatric mental health nurses are involved in the administration of ECT and assist with preparation and recovery from the treatment, which involves anaesthesia; it is used in only a tiny proportion of cases and only after all other possible treatments have been exhausted; approximately 85% of clients receiving ECT have major depression, with the remainder having schizoaffective disorder, mania, or schizophrenia",
-      "Psychiatric mental health nurses administer ECT independently in most cases and monitor patients for post-ictal confusion and cardiovascular complications; ECT is used in approximately 50% of treatment-resistant cases and is indicated primarily for schizophrenia and severe depression",
-      "Psychiatric mental health nurses assist with preparation for ECT but are not involved in recovery as anaesthesiology teams take over post-procedure; ECT is used in approximately 85% of patients with severe depression and requires informed consent exclusively from the next of kin",
-      "Psychiatric mental health nurses are involved in ECT preparation and post-procedure care; ECT is used as a first-line treatment for major depression after pharmacological augmentation fails; the procedure does not involve anaesthesia in modern practice due to advances in unilateral electrode placement"
+      "Disease was caused by miasmas or bad air arising from decomposing organic matter; it was prevalent from ancient times through the 19th century and was replaced by the Germ Theory in the late 19th century",
+      "Disease was caused by miasmas or bad air arising from stagnant water bodies; it was prevalent from ancient times through the 18th century and was replaced by the Contagion Theory in the early 19th century",
+      "Disease was caused by miasmas or toxic air arising from human waste and urban overcrowding; it was prevalent from medieval times through the 19th century and was replaced by the Germ Theory in the early 20th century",
+      "Disease was caused by miasmas or bad air arising from decomposing organic matter; it was prevalent from ancient times through the 18th century and was gradually replaced by the Social Determinants Theory in the late 19th century"
     ],
     "answer": "A"
   },
   {
     "id": 8,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q7): A student asks which mental disorders are listed as primary indications for ECT. The MOST accurate answer from the notes is:",
+    "stem": "CASE STUDY: A nursing student confuses the Miasma Theory and Contagion Theory. Which statement MOST accurately distinguishes them?",
     "options": [
-      "Approximately 85% have major depression as the indication for use, with the remainder having schizoaffective disorder, mania, or schizophrenia",
-      "Approximately 85% have major depression as the indication for use, with the remainder having bipolar disorder, mania, or schizophrenia",
-      "Approximately 85% have schizoaffective disorder as the indication for use, with the remainder having major depression, mania, or schizophrenia",
-      "Approximately 85% have treatment-resistant depression as the indication for use, with the remainder having schizoaffective disorder, bipolar disorder, or psychosis"
+      "Miasma theory attributed disease to bad air from organic matter; Contagion theory attributed disease to direct contact between individuals — Contagion theory was an early precursor to Germ theory, dating back to ancient times but more formally developed during outbreaks like the Black Death",
+      "Miasma theory attributed disease to invisible living organisms in the air; Contagion theory attributed disease to physical touching of infected individuals only — they share the concept of air transmission but differ in the nature of the causative agent",
+      "Miasma theory and Contagion theory are identical theories with different names used in different geographic regions; both attributed disease to environmental contamination spreading through populations",
+      "Miasma theory attributed disease to cosmic and atmospheric changes; Contagion theory attributed disease to person-to-person spread through shared water and food — they were both eventually incorporated into the Biomedical Model"
     ],
     "answer": "A"
   },
   {
     "id": 9,
     "type": "mcq",
-    "stem": "Psychosocial interventions are described in the notes. Which statement MOST precisely captures all elements without adding or substituting terms?",
+    "stem": "Which theory of disease was developed by Louis Pasteur and Robert Koch in the mid-19th century and is described as the 'foundation of modern infectious disease understanding and treatment'?",
     "options": [
-      "Psychosocial interventions are increasingly delivered by nurses in mental health settings and include psychotherapy interventions such as cognitive behavioural therapy, family therapy, and less commonly other interventions such as milieu therapy or psychodynamic approaches; they can be applied to psychosis, depression, and anxiety; nurses work with people over a period of time and use psychological methods to teach psychological techniques for recovery and future crisis management",
-      "Psychosocial interventions are primarily delivered by clinical psychologists but increasingly delegated to nurses; they include cognitive behavioural therapy, dialectical behaviour therapy, and psychodynamic approaches; they are applied to depression, anxiety, and personality disorders; nurses use evidence-based methods to teach coping strategies",
-      "Psychosocial interventions are delivered exclusively by nurses with advanced practice qualifications; they include family therapy, group therapy, and cognitive behavioural therapy; they are indicated for psychosis and mood disorders; nurses use structured therapeutic programmes to build recovery skills",
-      "Psychosocial interventions are increasingly delivered by nurses in mental health settings and include cognitive behavioural therapy, family therapy, interpersonal therapy, and acceptance and commitment therapy; they are applied across all diagnostic categories; nurses teach psychological techniques to aid recovery"
+      "Contagion theory",
+      "Germ theory",
+      "Environmental theory",
+      "Molecular and cellular theory"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 10,
     "type": "mcq",
-    "stem": "The basis of spiritual interventions is described in the notes. Which statement MOST accurately reflects their foundation and content?",
+    "stem": "CASE STUDY: A psychiatric nurse is treating a patient with an autoimmune encephalitis that has caused psychosis. Which theory MOST directly explains the pathophysiology of this patient's psychiatric symptoms?",
     "options": [
-      "Spiritual interventions look at mental illness from the perspective of a spiritual crisis; they focus on developing a sense of meaning, purpose, and hope; they involve listening to the person's story and facilitating connection to God, a greater power, or greater whole â possibly through meditation or prayer; this may be religious or non-religious depending on the individual's spirituality",
-      "Spiritual interventions look at mental illness from the perspective of religious deficit; they focus on reintegrating the patient into their faith community; they involve scripture reading, religious counselling, and prayer with the patient; they are only applicable in religiously observant patients",
-      "Spiritual interventions look at mental illness from the perspective of existential suffering; they focus on meaning-making through philosophical inquiry; they involve guided imagery, mindfulness meditation, and narrative therapy; they are delivered exclusively by chaplains in collaboration with the nursing team",
-      "Spiritual interventions look at mental illness from the perspective of a moral crisis; they focus on restoring ethical congruence and social identity; they involve community reintegration and forgiveness work; they are particularly relevant for patients with guilt-based depression or religious obsessional disorder"
+      "Germ theory — the autoimmune process was triggered by an initial bacterial or viral infection, making the germ the primary causative agent of all subsequent psychiatric symptoms",
+      "Immunological theory — diseases result from malfunctions of the immune system, such as autoimmune diseases; the immune system is attacking the patient's own brain tissue, causing psychiatric symptoms",
+      "Molecular and cellular theory — diseases caused by abnormalities at the molecular and cellular levels, with antibodies producing cellular dysfunction in the patient's neural tissue",
+      "Multifactorial theory — the autoimmune encephalitis results from a combination of genetic susceptibility, infectious trigger, and environmental factors that together produce the psychiatric syndrome"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 11,
     "type": "mcq",
-    "stem": "CASE STUDY: A nurse explains why spiritual interventions are particularly important in the Nigerian context. Which statement MOST accurately reflects the notes?",
+    "stem": "CASE STUDY (continued from Q10): The patient's family asks why psychiatry is involved in what they consider a neurological condition. The nurse explains using which model?",
     "options": [
-      "Spiritual interventions are particularly important in Africa in general and Nigeria in particular because people interpret mental illness so much from a spiritual point of view",
-      "Spiritual interventions are particularly important in Nigeria because traditional healers are still the primary healthcare providers for psychiatric disorders in most communities",
-      "Spiritual interventions are particularly important in Nigeria because the healthcare system lacks sufficient psychiatric medication, making spiritual approaches the most accessible treatment option",
-      "Spiritual interventions are particularly important in Nigeria because cultural stigma prevents patients from engaging with conventional psychiatric treatment, necessitating a spiritual entry point"
+      "The biomedical model — which focuses on purely biological factors and views disease as a malfunction in the body; psychiatry is involved because brain malfunction produces psychiatric symptoms",
+      "The biopsychosocial model — health and disease are the result of the interplay between biological, psychological, and social factors; psychological and social dimensions of illness require psychiatric input even in neurological conditions",
+      "The psychosomatic theory — mental health involvement is required because the patient's psychological state contributed to triggering the autoimmune process through stress-mediated immune dysregulation",
+      "The multifactorial theory — psychiatric involvement is mandated because all diseases with behavioural manifestations require joint neurological and psychiatric management regardless of the primary pathophysiological mechanism"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 12,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q11): The nurse also explains that spiritual interventions emphasise a specific concept. Which concept is MOST precisely stated in the notes?",
+    "stem": "The Humoral Theory attributed disease to imbalance of four specific substances. Which set is MOST precisely correct?",
     "options": [
-      "The importance of engagement",
-      "The importance of therapeutic alliance",
-      "The importance of hope and meaning",
-      "The importance of spiritual assessment"
+      "Blood, phlegm, yellow bile, and black bile",
+      "Blood, lymph, yellow bile, and black bile",
+      "Blood, phlegm, yellow bile, and green bile",
+      "Blood, phlegm, bile, and water"
     ],
     "answer": "A"
   },
   {
     "id": 13,
     "type": "mcq",
-    "stem": "The purpose of the assessment stage in the nursing process is identified in the notes. Which statement is MOST precise?",
+    "stem": "CASE STUDY: A student nurse says: 'The Humoral Theory is completely irrelevant in modern psychiatry.' A senior nurse challenges this view. Which response MOST accurately reflects a nuanced position?",
     "options": [
-      "The purpose of the assessment stage is to identify the patient's nursing problems, which are expressed as either actual or potential",
-      "The purpose of the assessment stage is to diagnose the patient's psychiatric condition using standardised rating scales and clinical interview techniques",
-      "The purpose of the assessment stage is to identify the patient's medical and nursing problems and formulate a care plan addressing both dimensions",
-      "The purpose of the assessment stage is to collect baseline data on the patient's physical and psychological status for comparison with future assessments"
+      "The Humoral Theory is entirely irrelevant in modern psychiatry; it was phased out during the Renaissance with the rise of scientific medicine and has no contemporary clinical application whatsoever",
+      "The Humoral Theory's core concept of internal imbalance as a cause of disease has a philosophical parallel in modern neurotransmitter theories of psychiatric disorder; while the specific substances are different, the imbalance framework persists in contemporary psychiatric thought",
+      "The Humoral Theory remains partially relevant in psychiatry because blood and phlegm levels are still assessed in metabolic screening for patients on antipsychotic medications that affect lipid and glucose metabolism",
+      "The Humoral Theory is the direct historical predecessor of the biopsychosocial model; the four humors represent the biological, psychological, social, and spiritual dimensions of health that are now assessed in modern psychiatric practice"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 14,
     "type": "mcq",
-    "stem": "CASE STUDY: A nursing student is asked to define 'signs' versus 'symptoms' in nursing assessment. Which distinction is MOST precisely stated in the notes?",
+    "stem": "Which theory holds that disease risk is influenced by individual behaviours such as smoking, diet, exercise, and alcohol consumption, and was central to health promotion efforts in the 20th century?",
     "options": [
-      "Signs are things that can be observed or measured; symptoms are things that can be felt by the patient, such as nausea or vertigo",
-      "Signs are subjective patient reports such as pain; symptoms are objective findings that the nurse observes on examination",
-      "Signs are findings identified by the physician on physical examination; symptoms are findings identified by the nurse during psychosocial assessment",
-      "Signs are objective findings documented in the nursing record; symptoms are subjective findings communicated by the patient during the therapeutic interview"
+      "Social determinants of health theory",
+      "Behavioural theory",
+      "Multifactorial theory",
+      "Environmental theory"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 15,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q14): The student is then asked which assessment techniques are mentioned in the notes for psychiatric nursing. Which list is MOST complete and accurate?",
+    "stem": "CASE STUDY: A patient with alcohol-use disorder and depression asks whether his drinking caused his depression or whether his depression caused his drinking. The nurse explains this using which theory?",
     "options": [
-      "Inspection, palpation, auscultation, and percussion in addition to the vital signs of temperature, blood pressure, pulse, and respiratory rate; further examination of body systems such as cardiovascular or musculoskeletal",
-      "Inspection, palpation, and auscultation of vital signs including temperature, blood pressure, pulse, and respiratory rate; mental state examination and neurological assessment",
-      "Inspection, palpation, percussion, and auscultation of vital signs including temperature, blood pressure, and pulse rate; psychological testing and behavioural observation",
-      "Inspection, palpation, and auscultation only; vital signs are taken by healthcare assistants, not nurses; the nurse focuses on psychosocial assessment in psychiatric settings"
+      "Behavioural theory — the patient's alcohol use is a chosen behaviour that directly caused his depression through neurotoxic effects on serotonergic pathways",
+      "Multifactorial theory — most diseases result from a combination of genetic, environmental, and lifestyle factors; the relationship is bidirectional and the patient's condition cannot be reduced to a single causal pathway",
+      "Psychosomatic theory — the patient's depressive mental state created physiological changes that drove the compulsive drinking behaviour, making depression the primary cause",
+      "Genetic theory — the patient has an inherited vulnerability to both alcohol use disorder and depression through shared genetic pathways that express simultaneously rather than sequentially"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 16,
     "type": "mcq",
-    "stem": "Peplau (1952) described the role of observation in the therapeutic interaction. Which statement is MOST precisely stated from the notes?",
+    "stem": "CASE STUDY (continued from Q15): The nurse notes that the patient's depression began after his wife left him and he lost his job. She applies which theory to explain these triggers?",
     "options": [
-      "Peplau used observation as the first step in the therapeutic interaction; the nurse observes the client's behaviour and guides him or her in giving detailed descriptions of behaviour",
-      "Peplau used observation as the second step in the therapeutic interaction following rapport establishment; the nurse observes verbal and non-verbal behaviour and reflects observations back to the patient",
-      "Peplau used observation as the first step in the therapeutic interaction; the nurse observes both verbal and non-verbal cues and uses these to formulate the nursing diagnosis",
-      "Peplau used observation as a continuous process throughout the therapeutic interaction; the nurse observes behaviour at every stage and uses these observations to adjust the therapeutic approach"
+      "Cultural theory — the patient's cultural identity and social role as a breadwinner have shaped his vulnerability to depression following role loss",
+      "Social determinants of health theory — social factors such as relationship loss and unemployment play a crucial role in the development and progression of disease",
+      "Economic and political theory — disease prevalence and health outcomes are influenced by economic factors; unemployment is an economic determinant of this patient's depressive episode",
+      "Behavioural theory — the patient's withdrawal from social activities and engagement in alcohol use following these life events are the behaviours that triggered the depressive episode"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 17,
     "type": "mcq",
-    "stem": "CASE STUDY: A nurse is observing a patient with schizophrenia during a therapeutic interaction. Which type of observation is specifically emphasised in the notes for psychiatric mental health nursing?",
+    "stem": "The Evolutionary Theory of disease holds a specific concept. Which statement MOST precisely reflects this?",
     "options": [
-      "Observing the speaker's nonverbal actions as he or she communicates or behaves",
-      "Observing the speaker's verbal content exclusively for signs of thought disorder, loosening of associations, and tangentiality",
-      "Observing the patient's vital signs and physical presentation for signs of medication side effects during the therapeutic encounter",
-      "Observing the patient's interaction patterns with other patients and staff to assess social functioning and relational capacity"
+      "Disease processes can be understood in the context of human evolution and natural selection; some traits that were advantageous in early human history may predispose modern humans to certain diseases",
+      "Disease processes can be understood through the lens of natural selection; traits that reduce reproductive fitness are eliminated across generations, meaning persistent diseases must confer some evolutionary advantage",
+      "Disease processes can be understood as adaptations to changing environmental conditions; genetic mutations that cause disease in modern contexts were protective responses to ancient environmental challenges",
+      "Disease processes can be understood through evolutionary medicine as mismatches between ancestral environments and modern lifestyles; all chronic diseases result from evolutionarily maladapted responses to contemporary conditions"
     ],
     "answer": "A"
   },
   {
     "id": 18,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q17): The nurse asks her preceptor what determines whether she is truly 'actively listening.' Which elements are specifically listed in the notes as essential for active listening in psychiatric nursing?",
+    "stem": "CASE STUDY: A nurse is explaining to a medical student why the fight-or-flight stress response can be maladaptive in modern psychiatric patients. Which theory MOST directly supports this explanation?",
     "options": [
-      "The nurse must not only hear the patient but also be attending and attentive; interpersonal and communication techniques such as summarising, clarifying, reflecting, and providing eye contact are essential to understand and relate to the patient",
-      "The nurse must maintain eye contact, avoid interrupting, use open-ended questions, and reflect the patient's emotional tone back; active listening also requires the nurse to suppress personal reactions to patient disclosures",
-      "The nurse must hear, paraphrase, and reflect the patient's words; avoid closed-ended questions; and maintain a calm therapeutic posture; active listening is demonstrated primarily through verbal techniques rather than non-verbal attending",
-      "The nurse must be fully present, maintain therapeutic neutrality, avoid all personal disclosure, and use silence strategically; active listening requires the deliberate suppression of the nurse's own internal dialogue"
+      "Psychosomatic theory — mental and emotional states such as chronic stress activation directly cause physiological disease through the mind-body connection",
+      "Evolutionary theory — some traits that were advantageous in early human history, such as the fight-or-flight stress response, may predispose modern humans to certain diseases when chronically activated in non-threatening modern environments",
+      "Behavioural theory — chronic stress activation results from maladaptive behavioural choices such as poor coping strategies, sleep deprivation, and substance use in response to modern stressors",
+      "Social determinants of health theory — chronic stress reflects social inequalities such as poverty and discrimination that create persistent psychosocial pressures incompatible with mental health in modern societies"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 19,
     "type": "mcq",
-    "stem": "Listening is defined in the notes with a precise description. Which is the MOST accurate and complete statement?",
+    "stem": "Which of the following MOST accurately distinguishes the Molecular and Cellular Theory from the Germ Theory in explaining psychiatric disorders?",
     "options": [
-      "Listening involves refraining from other internal mind activities and concentrating exclusively on what the client is saying; while listening to a client's story it is almost impossible for the nurse not to make assumptions; a person's life experiences, knowledge base, values, and prejudices often colour the interpretation of a message",
-      "Listening involves refraining from internal distractions and concentrating on what the client is saying; active listening requires the nurse to suspend all personal judgements; a person's cultural background and emotional state often colour the interpretation of a message",
-      "Listening involves refraining from other internal mind activities and focusing exclusively on the client's verbal content; while listening to a client it is entirely possible for a skilled nurse to remain free from assumptions; a person's trauma history and attachment style often colour the interpretation of a message",
-      "Listening involves refraining from other mental activities and concentrating on what the client communicates; active listening is a learned skill that eliminates the tendency to make assumptions; a person's cognitive style and communication preferences often colour the interpretation of a message"
+      "Germ theory explains diseases caused by infectious microorganisms; molecular and cellular theory explains diseases caused by abnormalities at the molecular and cellular levels such as mutations, biochemical imbalances, or cellular dysfunction — both contribute to understanding psychiatric disorders but through different pathophysiological mechanisms",
+      "Germ theory and molecular and cellular theory are identical in their approach to psychiatric disorders; both focus on microbiological causation and differ only in the scale of analysis",
+      "Germ theory is not applicable to psychiatric disorders; molecular and cellular theory is the only biologically based theory relevant to psychiatric illness as all psychiatric conditions involve molecular dysfunction",
+      "Germ theory explains psychiatric disorders through microorganism-induced neuroinflammation; molecular and cellular theory explains them through genetic mutations in neural circuits — they are mutually exclusive explanatory frameworks"
     ],
     "answer": "A"
   },
   {
     "id": 20,
     "type": "mcq",
-    "stem": "In therapeutic communication, what does the nurse MOST specifically do to address the challenge of assumptions during listening?",
+    "stem": "CASE STUDY: A psychiatric nurse in Lagos is assessing a patient who has been treated by a traditional healer before presenting to the clinic. She recognises that the patient's family interprets mental illness through cultural and spiritual frameworks. Which TWO theories are MOST simultaneously applicable to this clinical situation?",
     "options": [
-      "Ask numerous specific questions to get the real story from the client's perspective, to help answer questions and clarify assumptions, and to develop empathy with the client",
-      "Use reflective listening techniques to mirror the client's exact words and thereby confirm understanding without imposing the nurse's own interpretations",
-      "Maintain therapeutic silence to allow the client to fill interpretive gaps independently, reducing the risk of the nurse's assumptions distorting the communication",
-      "Document the client's words verbatim and review them with a supervisor to identify where the nurse's assumptions may have influenced the interpretation of the message"
+      "Supernatural theory and cultural theory — supernatural theory because disease is attributed to spirits or curses; cultural theory because disease and health are shaped by cultural beliefs, practices, and social norms",
+      "Cultural theory and behavioural theory — cultural theory because the patient sought a traditional healer; behavioural theory because the decision to seek traditional healing is a health behaviour with consequences for disease progression",
+      "Supernatural theory and social determinants theory — supernatural theory because of the spiritual causation belief; social determinants theory because socioeconomic factors drive patients to traditional healers before formal healthcare",
+      "Miasma theory and cultural theory — miasma theory because rural environments with poor sanitation contribute to mental illness; cultural theory because the family's health beliefs are shaped by traditional cultural practices"
     ],
     "answer": "A"
   },
   {
     "id": 21,
     "type": "mcq",
-    "stem": "CASE STUDY: A charge nurse tells a student: 'Active listening is considered to be one of the core elements of something.' What is that 'something'?",
+    "stem": "CASE STUDY (continued from Q20): The nurse documents that the patient's community attributes mental illness to spiritual causes. She considers which additional theory explains why certain communities persistently maintain supernatural beliefs about illness despite scientific advances?",
     "options": [
-      "Understanding",
-      "Therapeutic communication",
-      "Empathy",
-      "The therapeutic relationship"
+      "Evolutionary theory — supernatural beliefs about illness may have conferred adaptive advantages in early human communities by providing social cohesion and shared explanatory frameworks for threatening events",
+      "Cultural theory — health and disease are shaped by cultural beliefs, practices, and social norms; this explains why supernatural beliefs persist in communities where they are deeply embedded in cultural identity",
+      "Behavioural theory — community members have learned through social reinforcement to attribute illness to supernatural causes; behaviour is maintained through cultural conditioning and social reward systems",
+      "Social determinants theory — communities with limited access to scientific education and healthcare maintain supernatural health beliefs as a consequence of socioeconomic disadvantage and educational inequality"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 22,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q21): The student then asks what specific research finding about active listening is mentioned in the notes. Which statement is MOST accurately stated?",
+    "stem": "Nutritional Deficiency Theory specifically links disease to which causative mechanism?",
     "options": [
-      "When psychiatric/mental health nurses gave proper attention and appeared interested, patients felt understood",
-      "When psychiatric/mental health nurses gave proper attention and appeared interested, patients felt respected and disclosed more personal information",
-      "When psychiatric/mental health nurses gave proper attention and appeared interested, patients experienced reduced anxiety and improved therapeutic engagement",
-      "When psychiatric/mental health nurses gave proper attention and appeared interested, patients achieved better medication adherence and symptom management outcomes"
+      "Deficiencies in essential nutrients such as vitamins, minerals, or proteins — recognising that diseases like scurvy (vitamin C deficiency) and rickets (vitamin D deficiency) were linked to diet in the 19th and 20th centuries",
+      "Deficiencies in essential macronutrients such as carbohydrates, fats, and proteins — recognising that caloric malnutrition is the primary nutritional driver of physical and mental illness",
+      "Deficiencies in essential trace elements such as iron, zinc, and selenium — recognising that micronutrient deficiency was the most common cause of disease in 19th-century populations",
+      "Deficiencies in essential vitamins only — recognising that vitamin deficiency diseases like scurvy, rickets, and pellagra are the nutritional causes of disease, while mineral and protein deficiencies cause separate categories of disorder"
     ],
     "answer": "A"
   },
   {
     "id": 23,
     "type": "mcq",
-    "stem": "Empathy is described as a complex concept with specific components. Which statement MOST precisely identifies ALL three components as listed?",
+    "stem": "CASE STUDY: A psychiatric nurse assesses a patient with severe depression who has been eating very little for six months. Blood tests reveal low folate and Vitamin B12. The nurse considers which TWO theories together MOST comprehensively explain the patient's psychiatric and nutritional status?",
     "options": [
-      "Empathy is a complex multi-dimensional concept that has moral, cognitive, emotive, and behavioural components",
-      "Empathy is a complex multi-dimensional concept that has cognitive, affective, and behavioural components",
-      "Empathy is a complex multi-dimensional concept that has moral, emotional, and interpersonal components",
-      "Empathy is a complex multi-dimensional concept that has cognitive, emotive, and relational components"
+      "Nutritional deficiency theory AND psychosomatic theory — nutritional deficiency theory because low folate and B12 contribute to depression; psychosomatic theory because the depression itself caused the reduced appetite leading to nutritional deficiency — the relationship is bidirectional",
+      "Behavioural theory AND nutritional deficiency theory — behavioural theory because the patient chose to restrict food intake; nutritional deficiency theory because the resulting nutrient deficits worsened the depression",
+      "Multifactorial theory AND biomedical model — multifactorial theory because depression results from multiple factors; biomedical model because it focuses on the purely biological nutritional deficit as the primary treatable target",
+      "Genetic theory AND nutritional deficiency theory — genetic theory because the patient may have an inherited predisposition to malabsorption; nutritional deficiency theory because deficient nutrients caused the depressive episode"
     ],
     "answer": "A"
   },
   {
     "id": 24,
     "type": "mcq",
-    "stem": "Clinical empathy involves three specific abilities, listed as (a), (b), and (c) in the notes. Which is the MOST accurate and complete statement?",
+    "stem": "The Psychosomatic Theory gained attention in the 20th century. Which statement MOST precisely reflects its core concept as described in the content?",
     "options": [
-      "(a) Understand the patient's situation, perspective, and feelings and their attached meanings; (b) communicate that understanding and check its accuracy; (c) act on that understanding with the patient in a helpful (therapeutic) way",
-      "(a) Understand the patient's situation, perspective, and emotions; (b) reflect that understanding back to the patient verbally; (c) act on that understanding by adapting the nursing care plan accordingly",
-      "(a) Understand the patient's situation, perspective, and feelings; (b) communicate that understanding to the multidisciplinary team; (c) act on that understanding by implementing evidence-based therapeutic interventions",
-      "(a) Understand the patient's situation, perspective, and feelings and their attached meanings; (b) validate that understanding by asking the patient to confirm its accuracy; (c) act on that understanding by adjusting medication and care based on the patient's expressed needs"
+      "Mental and emotional states can contribute to physical disease; the mind-body connection is critical in health; this theory gained attention in the 20th century with the rise of psychiatry and holistic medicine and is now widely accepted",
+      "Mental and emotional states are the PRIMARY cause of all physical disease; the body merely reflects the mind's state; this theory is the foundation of modern psychosomatic medicine and replaced the biomedical model",
+      "Mental and emotional states can cause physical symptoms in the absence of any organic pathology; psychosomatic disease is therefore distinct from physical disease and requires exclusively psychological treatment",
+      "Mental and emotional states modify the immune system's response to physical pathogens; psychosomatic theory therefore explains why some individuals develop disease after stress while others with the same exposure do not"
     ],
     "answer": "A"
   },
   {
     "id": 25,
     "type": "mcq",
-    "stem": "CASE STUDY: A mental health nursing lecturer asks students about the research status of empathy. Which statement from the notes is MOST accurate?",
+    "stem": "CASE STUDY: A nurse educator asks students which theory is 'widely accepted as a comprehensive model for treating patients holistically' — not merely 'important' or 'accepted' but 'widely accepted as comprehensive.' Which is the ONLY correct answer?",
     "options": [
-      "Research on the effect of empathy on health outcomes in primary care is lacking, but studies in mental health and in nursing suggest it plays a key role; empathy can be improved and successfully taught at schools especially if it is embedded in the students' actual experiences with patients",
-      "Research on the effect of empathy on health outcomes in primary care is extensive and consistently demonstrates that empathic nursing reduces hospital readmission rates; empathy is primarily a natural trait that cannot be meaningfully taught",
-      "Research on the effect of empathy on health outcomes in primary care is lacking, but studies in psychiatry confirm that empathic nursing significantly reduces psychotic relapse; empathy cannot be taught but can be cultivated through reflective practice",
-      "Research on the effect of empathy on health outcomes in primary care is mixed, with some studies showing benefit and others showing no effect; studies in nursing suggest empathy is beneficial but difficult to standardise across diverse patient populations"
+      "The multifactorial theory — widely accepted and used in current medical research because it accounts for genetic, environmental, and lifestyle factors simultaneously",
+      "The biopsychosocial model — widely accepted as a comprehensive model for treating patients holistically, reflecting the interplay between biological, psychological, and social factors",
+      "The social determinants of health theory — widely accepted as comprehensive in public health because it addresses root causes rather than downstream biological manifestations",
+      "The biomedical model — widely accepted as comprehensive in acute hospital settings where biological diagnosis and treatment remain the primary clinical objective"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 26,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q25): A student asks which assessment tools have been used to evaluate empathy. Which statement from the notes is MOST accurate?",
+    "stem": "CASE STUDY (continued from Q25): The educator then asks: 'Which theory was DOMINANT in Western medicine during the 20th century before being integrated with other factors?' Which precise answer is MOST accurate?",
     "options": [
-      "A variety of assessment and feedback techniques have also been used in general medicine, psychiatry, and nursing (Mercer & Reynolds, 2002)",
-      "The Jefferson Scale of Empathy has been validated across multiple clinical specialties and is the primary tool referenced for assessing empathy in psychiatric nursing practice",
-      "The Toronto Empathy Questionnaire and Interpersonal Reactivity Index are specifically cited as the validated tools used to assess empathy in psychiatric nursing students",
-      "Standardised patient encounters and video-recorded therapeutic interactions are cited as the gold-standard assessment methods for measuring empathy in nursing practice"
+      "The multifactorial theory — dominant in the 20th century as researchers identified multiple risk factors for chronic diseases",
+      "The biomedical model — dominated Western medicine during the 20th century; still fundamental but now integrated with psychological and social factors in more holistic models",
+      "The germ theory — dominant throughout the 20th century as antibiotics, vaccines, and antiviral agents were developed based on its principles",
+      "The social determinants theory — dominant in 20th-century public health discourse as evidence mounted for poverty and inequality as primary disease drivers"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 27,
     "type": "mcq",
-    "stem": "The ethical code governing psychiatrists was first set forth in a specific document and year. Which statement is MOST precisely stated in the notes?",
+    "stem": "The Genetic Theory of disease emerged with the discovery of DNA and the human genome. Which statement MOST precisely identifies its current status?",
     "options": [
-      "The psychiatric code of ethics was first set forth through the Declaration of Hawaii in 1977, expanded through a 1983 Vienna update, and in 1996 through the broader Madrid Declaration; the code was further revised in Hamburg in 1999",
-      "The psychiatric code of ethics was first set forth through the Declaration of Helsinki in 1977, expanded through a 1983 Vienna update, and in 1996 through the broader Madrid Declaration; the code was further revised in Geneva in 1999",
-      "The psychiatric code of ethics was first set forth through the Declaration of Hawaii in 1977, expanded through a 1986 Vienna update, and in 1996 through the broader Madrid Declaration; the code was further revised in Hamburg in 2002",
-      "The psychiatric code of ethics was first set forth through the Declaration of Hawaii in 1977, expanded through a 1983 Vienna update, and in 1999 through the broader Madrid Declaration; the code was further revised in Hamburg in 2003"
+      "Crucial in the development of genetic testing, gene therapy, and personalised medicine",
+      "Crucial in the development of pharmacogenomics, genetic counselling, and precision psychiatry for treatment-resistant disorders",
+      "Crucial in understanding hereditary diseases but limited in its application to complex psychiatric disorders where gene-environment interactions predominate",
+      "Crucial in the identification of disease-causing mutations but largely superseded by epigenetic theory for understanding conditions where genetic sequences remain unchanged"
     ],
     "answer": "A"
   },
   {
     "id": 28,
     "type": "mcq",
-    "stem": "CASE STUDY: A student lists the topics covered by the World Psychiatric Association ethical code. Which list is MOST accurately and completely derived from the notes?",
+    "stem": "CASE STUDY: A nurse is reviewing population health data showing that communities near industrial chemical plants have significantly higher rates of depression and anxiety. Which theory MOST directly explains this?",
     "options": [
-      "Patient assessment, up-to-date knowledge, human dignity of incapacitated patients, confidentiality, research ethics, sex selection, euthanasia, organ transplantation, torture, media relations, genetics, and ethnic or cultural discrimination",
-      "Patient assessment, informed consent, human dignity of incapacitated patients, confidentiality, research ethics, sex selection, euthanasia, organ transplantation, torture, media relations, and genetic discrimination",
-      "Patient assessment, up-to-date knowledge, human dignity of incapacitated patients, confidentiality, research ethics, sex selection, euthanasia, organ transplantation, the death penalty, media relations, genetics, and ethnic or cultural discrimination",
-      "Patient assessment, up-to-date knowledge, human dignity of incapacitated patients, confidentiality, research ethics, sex selection, euthanasia, organ transplantation, the death penalty, torture, media relations, genetics, and ethnic or cultural discrimination"
+      "Social determinants of health theory — economic and political decisions about industrial placement near low-income communities create social inequalities that drive mental health disparities",
+      "Environmental theory — diseases can result from exposure to harmful environmental factors such as toxins and pollutants; significant in understanding diseases like respiratory illnesses and other chronic conditions including psychiatric disorders",
+      "Multifactorial theory — the higher rates of depression and anxiety result from a combination of genetic susceptibility, toxic exposure, psychosocial stress, and socioeconomic disadvantage acting together",
+      "Molecular and cellular theory — industrial toxins cause biochemical imbalances at the cellular level in neural tissue, directly producing the neurological substrate for depression and anxiety"
     ],
-    "answer": "D"
+    "answer": "B"
   },
   {
     "id": 29,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q28): A student asks who first described these ethical elements in the notes. The MOST accurate attribution is:",
+    "stem": "CASE STUDY (continued from Q28): A public health advocate argues that addressing these mental health disparities requires policy change rather than individual treatment. Which theory MOST strongly supports this position?",
     "options": [
-      "The World Psychiatric Association (WPA, 2011) issued the ethical code governing psychiatrists",
-      "The American Nurses Association issued the code of ethics for psychiatric nursing and it was attributed to Gluzman (1991) and Debreu (1988)",
-      "Christina Ash, an eHow Contributor, described the code of ethics governing psychiatric nurses in the U.S.",
-      "Queens University of North Carolina identified the ethical principles that guide the activities and duties of psychiatric/mental health nurses"
+      "Behavioural theory — health behaviour change programmes targeting individuals in affected communities will be more cost-effective than industry regulation",
+      "Economic and political theory — disease prevalence and health outcomes are influenced by economic and political factors such as poverty, inequality, and access to healthcare; this is central to discussions on health disparities",
+      "Social determinants of health theory — social factors play a crucial role in disease; addressing root social causes through policy is more effective than downstream clinical interventions",
+      "Environmental theory — policy must target specific industrial toxins through regulation; the environmental pathway is the most direct and therefore the most efficient point of intervention"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 30,
     "type": "mcq",
-    "stem": "The ethical element of RESPECT in psychiatric nursing is described in the notes. Which statement MOST precisely reflects ALL its elements?",
+    "stem": "Which theory describes disease as resulting from 'an imbalance of the four humors' and was developed by ancient Greek physicians including Hippocrates and Galen?",
     "options": [
-      "In all professional relationships the nurse has respect for the inherent worth, diversity, and right of choice of all patients; upholds the elements of informed consent; recognises the uniqueness of individuals; and provides care regardless of the socioeconomic status of the client or the nature of his health problems",
-      "In all professional relationships the nurse has respect for the inherent worth and dignity of all patients; upholds the principle of autonomy; recognises the individuality of each patient; and provides care regardless of the patient's diagnosis or personal background",
-      "In all professional relationships the nurse has respect for the inherent worth, diversity, and right of self-determination of all patients; upholds the elements of confidentiality; recognises the uniqueness of individuals; and provides care regardless of the socioeconomic status or religious affiliation of the client",
-      "In all professional relationships the nurse has respect for the inherent worth, diversity, and right of choice of all patients; upholds the elements of informed consent; recognises the uniqueness of each patient; and provides care regardless of the socioeconomic status or cultural background of the client"
+      "Miasma theory",
+      "Humoral theory",
+      "Contagion theory",
+      "Supernatural theory"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 31,
     "type": "mcq",
-    "stem": "CASE STUDY: A psychiatric nurse is reviewing the ethical element of 'Health, Mental Health and Well-Being' from the notes. Which statement is MOST accurately stated?",
+    "stem": "CASE STUDY: A nurse caring for a patient from a West African cultural background observes that the patient's family has brought traditional herbal preparations. She must balance respect for cultural beliefs with evidence-based care. Which two theories MOST simultaneously inform her approach?",
     "options": [
-      "The nurse respects the physiological, psychological, and developmental needs of each individual; understands the interconnections of mental health and physical health and that they are influenced by lifestyle and perceptions; and has an obligation to preserve his own health, mental health, and well-being",
-      "The nurse respects the physical, psychological, and social needs of each individual; understands that mental health and physical health are separate domains requiring different professional approaches; and has an obligation to preserve his own physical health and wellbeing",
-      "The nurse respects the biopsychosocial needs of each individual; understands that mental health affects physical health but not the reverse; and has an obligation to seek clinical supervision to preserve his own mental health and wellbeing",
-      "The nurse respects the physiological, psychological, and spiritual needs of each individual; understands the interconnections of mental health and physical health and that they are influenced by culture and society; and has an obligation to preserve his own health through regular supervision"
+      "Cultural theory — because health practices are seen as part of cultural systems and are important in global health; AND social determinants theory — because the family's limited access to formal healthcare has driven their use of traditional medicine",
+      "Cultural theory — because disease and health are shaped by cultural beliefs, practices, and social norms; AND behavioural theory — because the use of herbal preparations is a health behaviour with potential pharmacological interactions requiring nursing assessment",
+      "Supernatural theory — because traditional medicine is rooted in supernatural causation beliefs; AND nutritional deficiency theory — because herbal preparations may affect the patient's nutritional absorption",
+      "Cultural theory — because cultural norms shape health practices; AND genetic theory — because different populations have genetically determined pharmacokinetic differences that must be assessed when evaluating traditional medicine use"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 32,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q31): The nurse then reviews 'Privacy and Confidentiality.' What is stated about the nurse's obligation?",
+    "stem": "CASE STUDY (continued from Q31): The nurse reflects on which theory MOST explains why people from different cultural backgrounds respond differently to psychiatric diagnoses and treatment.",
     "options": [
-      "Each psychiatric nurse has an obligation to protect the health, rights, and safety of the patient; the physical privacy of the patient and the confidentiality of any information he discloses are parts of this issue",
-      "Each psychiatric nurse has an obligation to protect the health, rights, and dignity of the patient; the physical privacy of the patient and the confidentiality of medical records are parts of this issue",
-      "Each psychiatric nurse has an obligation to protect the safety, rights, and autonomy of the patient; the emotional privacy of the patient and the confidentiality of any information he discloses are parts of this issue",
-      "Each psychiatric nurse has an obligation to protect the health, rights, and safety of the patient; the physical privacy of the patient, the confidentiality of information, and the security of patient data are parts of this issue"
+      "Cultural theory — health and disease are shaped by cultural beliefs, practices, and social norms; this is important in global health and understanding how culture influences health behaviours and disease outcomes",
+      "Evolutionary theory — different populations have evolved different psychological adaptive strategies that shape their responses to psychiatric diagnoses based on ancestral environmental pressures",
+      "Social determinants theory — cultural differences in response to psychiatric diagnosis reflect underlying socioeconomic inequalities in access to mental health education and services",
+      "Behavioural theory — culturally shaped health behaviours such as help-seeking patterns, medication adherence, and social support use determine differential responses to psychiatric diagnosis and treatment"
     ],
     "answer": "A"
   },
   {
     "id": 33,
     "type": "mcq",
-    "stem": "Queens University of North Carolina identified five principles that guide psychiatric/mental health nurses. Which list is MOST precisely and completely stated?",
+    "stem": "Epigenetic theory is described as 'a rapidly developing field.' Which statement MOST precisely describes its specific mechanism?",
     "options": [
-      "The right of individuals to decide their own destiny; the duty of a nurse to promote the welfare of others; the obligation to avoid harming others; treating all patients equally and fairly; speaking the truth",
-      "The right of individuals to decide their own destiny; the duty of a nurse to promote the welfare of others; the obligation to avoid harming others; treating all patients with dignity and fairness; speaking the truth honestly",
-      "The right of individuals to self-determination; the duty of a nurse to promote the welfare of others; the obligation to avoid harming others; treating all patients equally and fairly; maintaining confidentiality",
-      "The right of individuals to decide their own destiny; the duty of a nurse to promote the welfare of others; the obligation to do no harm; treating all patients equally and fairly; speaking the truth in all professional interactions"
+      "Environmental factors can modify gene expression without changing the DNA sequence, potentially leading to disease; offering new insights into disease prevention and treatment",
+      "Environmental factors can cause mutations in the DNA sequence that alter gene expression, potentially leading to disease; this distinguishes epigenetics from the genetic theory which addresses inherited mutations",
+      "Environmental factors can activate or suppress gene transcription by altering the DNA sequence in somatic cells; this explains how diseases acquired during a lifetime can be passed to offspring",
+      "Environmental factors can modify protein folding and post-translational modification without changing gene expression; this distinguishes epigenetic effects from genetic effects which directly alter mRNA transcription"
     ],
     "answer": "A"
   },
   {
     "id": 34,
     "type": "mcq",
-    "stem": "CASE STUDY: A nurse faces a patient who wants to commit suicide. The notes present this scenario. Which ethical challenge is MOST precisely identified?",
+    "stem": "CASE STUDY: A researcher presents evidence that trauma experienced by Holocaust survivors has affected the stress hormone regulation of their children. Which theory MOST specifically explains this finding?",
     "options": [
-      "The right of individuals to decide their own destiny collides with the belief that suicide is not a rational choice",
-      "The nurse's duty to protect life collides with the patient's right to refuse treatment in terminal cases",
-      "The obligation to avoid harming others collides with the patient's autonomous decision to end their own suffering",
-      "The principle of truth-telling collides with the therapeutic need to maintain hope in suicidal patients"
+      "Genetic theory — the trauma caused DNA mutations in germ cells that were passed to offspring, changing their genetic predisposition to stress dysregulation",
+      "Epigenetic theory — environmental factors such as severe trauma can modify gene expression without changing the DNA sequence, and these modifications can be transmitted to subsequent generations",
+      "Psychosomatic theory — the psychological impact of the parents' trauma created parenting patterns that psychologically shaped their children's stress regulation through learned helplessness",
+      "Multifactorial theory — the offspring's stress dysregulation results from a combination of inherited genetic vulnerability, transmitted epigenetic modifications, and environmental factors in their upbringing"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 35,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q34): The notes present specific examples of suicide scenarios. Which examples are MOST precisely listed?",
+    "stem": "CASE STUDY (continued from Q34): A psychiatric nurse uses this research to counsel a survivor of childhood abuse. Which clinical implication MOST directly flows from epigenetic theory?",
     "options": [
-      "A terminal cancer patient in tremendous agony; a 33-year-old woman with no job, money, or home",
-      "A terminal cancer patient in tremendous agony; a 45-year-old man with treatment-resistant depression and no social support",
-      "A patient in the final stages of a degenerative neurological illness; a 33-year-old woman with severe financial hardship",
-      "A terminal cancer patient with uncontrolled pain; a young adult with chronic homelessness and psychiatric comorbidity"
+      "The patient's trauma history has permanently altered her DNA, making her psychiatric condition irreversible; treatment should focus on symptom management rather than cure",
+      "The patient's trauma-induced epigenetic modifications can potentially be reversed through targeted interventions such as therapy and healthy lifestyle changes, as epigenetic theory offers new insights into disease prevention and treatment",
+      "The patient should be advised to avoid having children because epigenetic trauma transmission is inevitable and will cause psychiatric disorders in offspring regardless of the quality of her own recovery",
+      "The patient's psychiatric condition is entirely inherited from her parents' trauma responses through genetic mechanisms; treatment must focus on genetic counselling and pharmacogenomic assessment"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 36,
     "type": "mcq",
-    "stem": "What is the psychiatric profession's position on reparative therapy for homosexuality, according to the notes?",
+    "stem": "The Contagion Theory was an early precursor to Germ Theory. Which statement MOST accurately describes its specific content and historical context?",
     "options": [
-      "The Journal of Child and Adolescent Psychiatric Nursing says the psychiatric profession considers such treatments harmful to the patients and for nurses to participate, even with someone who wants the treatment, would be a serious breach of ethics",
-      "The American Psychiatric Association states that reparative therapy is ineffective but not harmful; participation by nurses is discouraged but not considered an ethical breach when the patient provides informed consent",
-      "The World Psychiatric Association considers reparative therapy experimental and permits its use only when the patient provides voluntary informed consent and the treatment is conducted by a licensed psychiatrist",
-      "The Journal of Child and Adolescent Psychiatric Nursing says the psychiatric profession considers such treatments unproven; nurses may not initiate reparative therapy but may support patients who seek it from other providers"
+      "Diseases are spread by direct contact between individuals; it was an early precursor to Germ Theory dating back to ancient times but more formally developed during outbreaks like the Black Death; it is incorporated into the Germ Theory as part of modern understanding of infectious diseases",
+      "Diseases are spread by indirect contact through contaminated environmental surfaces; it was formally developed during the Great Plague of London in the 17th century; it is now incorporated into infection control nursing practice as standard precautions",
+      "Diseases are spread by direct contact between individuals; it was formally developed in the mid-19th century by Florence Nightingale through observation of wound infections in military hospitals; it was incorporated into germ theory following Pasteur's discoveries",
+      "Diseases are spread by direct contact AND contaminated water; it was formally developed during cholera outbreaks in the 19th century by John Snow; it forms the basis of modern epidemiological tracing methods in infectious disease nursing"
     ],
     "answer": "A"
   },
   {
     "id": 37,
     "type": "mcq",
-    "stem": "CASE STUDY: A nurse is discussing patient rights with a student. Queens University states patients have specific rights regarding refusing treatment. Which statement is MOST accurately and completely stated from the notes?",
+    "stem": "CASE STUDY: A nurse is teaching community members about how HIV spreads. Which theory is she PRIMARILY applying?",
     "options": [
-      "Patients have the right to refuse medication; they also have the right to choose the least restrictive alternative treatment â for example, outpatient treatment rather than being institutionalised; this is a right even if a nurse believes more restrictive alternatives would work better",
-      "Patients have the right to refuse medication; they also have the right to choose the least invasive treatment â for example, psychotherapy rather than medication; this is a right even if the psychiatrist believes pharmacological treatment would be more effective",
-      "Patients have the right to refuse all treatment; they also have the right to choose community-based over institutional care; this right can be overridden only by a court order when the patient lacks capacity",
-      "Patients have the right to refuse medication; they also have the right to choose the least restrictive alternative treatment; this right is suspended during involuntary admission when the patient is deemed a danger to self or others"
+      "Contagion theory — diseases spread by direct contact between individuals",
+      "Germ theory — diseases are caused by microorganisms such as bacteria, viruses, and fungi; HIV is a virus that must be transmitted from one host to another",
+      "Molecular and cellular theory — HIV causes disease by infecting and destroying CD4+ T cells at the cellular level, leading to immunodeficiency",
+      "Immunological theory — HIV causes disease by malfunctioning the immune system, specifically depleting CD4+ T lymphocytes and progressively destroying immune surveillance capacity"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 38,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q37): The student asks: 'Is the patient's right to least restrictive treatment absolute even against the nurse's clinical judgement?' The MOST accurate answer from the notes is:",
+    "stem": "CASE STUDY (continued from Q37): A community member asks: 'Why do some people with HIV develop AIDS quickly while others live for decades with the same virus?' The nurse uses which theory MOST directly?",
     "options": [
-      "Yes â this is a right even if a nurse believes more restrictive alternatives would work better",
-      "No â the nurse's clinical judgement takes precedence when the patient lacks insight or poses a risk to themselves or others",
-      "Partially â the patient's preference is considered but the final decision rests with the multidisciplinary team based on evidence-based guidelines",
-      "No â the patient's right to least restrictive treatment applies only in outpatient settings; in inpatient settings the nurse's clinical judgement takes precedence"
+      "Germ theory — different strains of HIV have different levels of virulence that determine the speed of disease progression in individual hosts",
+      "Multifactorial theory — most diseases result from a combination of genetic, environmental, and lifestyle factors; HIV progression rate varies based on genetic factors such as CCR5 mutations, lifestyle factors such as nutrition and stress, and environmental factors such as access to antiretroviral treatment",
+      "Immunological theory — individual differences in baseline immune competence, autoimmune co-morbidities, and prior infectious exposures determine the rate at which HIV depletes the immune system in each person",
+      "Genetic theory — some diseases are caused by mutations or alterations in an individual's genetic material; specific genetic polymorphisms in immune genes determine whether an individual is a slow or rapid HIV progressor"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 39,
     "type": "mcq",
-    "stem": "Psychosocial interventions are described as based on a specific practice model. Which statement is MOST accurate?",
+    "stem": "Which theory holds that 'disease and health are shaped by cultural beliefs, practices, and social norms' and is 'important in global health and understanding how culture influences health behaviours and disease outcomes'?",
     "options": [
-      "Psychosocial interventions are based on evidence-based practice and therefore the techniques tend to follow set guidelines based on what has been demonstrated to be effective by nursing research",
-      "Psychosocial interventions are based on humanistic theory and therefore the techniques are individually tailored without adherence to set guidelines, emphasising the therapeutic relationship over structured protocols",
-      "Psychosocial interventions are based on cognitive theory and therefore the techniques target maladaptive thought patterns using structured cognitive protocols validated by randomised controlled trials",
-      "Psychosocial interventions are based on behavioural theory and therefore the techniques involve systematic desensitisation, exposure therapy, and operant conditioning applied within the nurse-patient relationship"
+      "Social determinants of health theory",
+      "Cultural theory",
+      "Anthropological theory",
+      "Sociological theory"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 40,
     "type": "mcq",
-    "stem": "CASE STUDY: A student challenges the nurse: 'You said psychosocial interventions are evidence-based, but hasn't that been criticised?' The nurse's MOST accurate response from the notes is:",
+    "stem": "CASE STUDY: A policy maker is designing a mental health programme for rural Nigerian communities. She wants to address the root causes of poor mental health rather than treating only presenting symptoms. Which theory provides the STRONGEST theoretical justification for this approach?",
     "options": [
-      "There has been some criticism that evidence-based practice is focused primarily on quantitative research and should reflect also a more qualitative research approach that seeks to understand the meaning of people's experience",
-      "There has been some criticism that evidence-based practice excludes cultural factors and is therefore not applicable across all patient populations, particularly in non-Western psychiatric settings",
-      "There has been some criticism that evidence-based practice in psychiatry relies too heavily on pharmaceutical industry-funded research and therefore systematically overestimates medication efficacy",
-      "There has been some criticism that evidence-based practice creates rigid protocols that prevent nurses from exercising clinical judgement and responding to the uniqueness of individual patient needs"
+      "Behavioural theory — mental health programmes should target individual health behaviours such as substance use, exercise, and stress management as the primary modifiable risk factors for mental illness",
+      "Social determinants of health theory — social factors such as socioeconomic status, education, and living conditions play a crucial role in the development and progression of diseases; addressing these root causes is central to modern public health",
+      "Economic and political theory — disease prevalence and health outcomes are influenced by economic and political factors such as poverty and inequality; the programme must engage government policy to achieve sustainable mental health improvements",
+      "Multifactorial theory — mental illness results from multiple factors; a comprehensive programme must simultaneously address genetic, environmental, social, and behavioural factors to be effective"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 41,
     "type": "mcq",
-    "stem": "Which of the following MOST accurately describes the NHfo of UK Courses and Careers Department's view on personal qualities for mental health nursing?",
+    "stem": "CASE STUDY (continued from Q40): The policy maker also wants to incorporate spiritual interventions into the programme to improve community acceptance. She justifies this using which theory?",
     "options": [
-      "To work with people who experience mental health problems requires an interest in working with people, good listening and communication skills, a compassionate nature, and a willingness to help and develop in people the skills to live their lives",
-      "To work with people who experience mental health problems requires empathy, strong professional boundaries, clinical knowledge, resilience, and the ability to de-escalate challenging behaviour",
-      "To work with people who experience mental health problems requires good listening skills, evidence-based clinical practice competencies, reflective practice skills, and ability to work effectively in multidisciplinary teams",
-      "To work with people who experience mental health problems requires compassion, cultural competence, advanced communication skills, self-awareness, and proficiency in psychosocial assessment techniques"
+      "Supernatural theory — the programme acknowledges that supernatural forces cause mental illness and therefore incorporates spiritual treatments that address these causes",
+      "Cultural theory — health and disease are shaped by cultural beliefs, practices, and social norms; incorporating spiritual interventions increases programme acceptability by respecting community health frameworks",
+      "Psychosomatic theory — spiritual interventions address the mind-body connection; spiritual wellbeing reduces psychological distress that would otherwise manifest as physical and psychiatric disease",
+      "Evolutionary theory — spiritual practices served adaptive functions in ancestral human communities; their inclusion in modern mental health programmes accesses evolutionarily preserved psychological mechanisms for resilience"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 42,
     "type": "mcq",
-    "stem": "CASE STUDY: A nurse explains to a student why 'helping someone to regain such skills and to live independently' is specifically described as rewarding in the notes. What specific skills does the text use as examples?",
+    "stem": "Molecular and Cellular Theory was developed with advances in cell biology and molecular medicine. Which diseases are MOST specifically mentioned as being central to its current application?",
     "options": [
-      "Skills others take for granted such as getting on a bus, doing the shopping, or cooking a meal",
-      "Skills others take for granted such as managing finances, using public transport, or maintaining a household",
-      "Skills others take for granted such as personal hygiene, preparing food, and managing medication independently",
-      "Skills others take for granted such as building social relationships, maintaining employment, and engaging in recreational activities"
+      "Cancer, genetic disorders, and autoimmune diseases",
+      "Cancer, infectious diseases, and metabolic disorders",
+      "Genetic disorders, neurodegenerative diseases, and inflammatory conditions",
+      "Autoimmune diseases, infectious diseases, and metabolic syndrome"
     ],
     "answer": "A"
   },
   {
     "id": 43,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q42): The student asks what sense of satisfaction specifically results from helping patients with personal care. Which statement is MOST accurately derived from the notes?",
+    "stem": "CASE STUDY: A psychiatric nurse notices that a patient with schizophrenia repeatedly engages in chain-smoking despite extensive health education about lung cancer risk. Which theory MOST directly explains why the behaviour persists despite knowledge?",
     "options": [
-      "Helping people with their personal care can similarly offer job satisfaction in knowing that you have contributed towards maintaining their quality of life by helping the patient to feel comfortable and cared for",
-      "Helping people with their personal care offers professional fulfilment in knowing that you have restored their functional independence and reduced their reliance on nursing staff",
-      "Helping people with their personal care offers personal satisfaction in knowing that you have formed a genuine therapeutic connection and supported the patient's sense of dignity",
-      "Helping people with their personal care offers clinical satisfaction in knowing that you have addressed a fundamental nursing need and contributed to the patient's physical recovery"
+      "Behavioural theory — the patient's smoking is a health behaviour but theoretical knowledge alone is insufficient to change deeply ingrained behaviours; behavioural interventions must target the reinforcement patterns maintaining smoking",
+      "Psychosomatic theory — the patient's smoking serves an emotional regulation function; the psychiatric disorder creates psychological needs that are temporarily met by the calming neurobiological effects of nicotine",
+      "Multifactorial theory — smoking persistence in schizophrenia results from genetic vulnerability to nicotine dependence, neurobiological nicotine-dopamine interactions, social reinforcement from other patients, and limited self-efficacy for behaviour change",
+      "Social determinants theory — patients with schizophrenia are disproportionately from socioeconomic backgrounds where smoking prevalence is high; social norms and peer influences within their communities maintain the behaviour despite individual health knowledge"
     ],
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 44,
     "type": "mcq",
-    "stem": "Psychiatric nurses can prescribe medication according to the notes. Which statement most accurately qualifies this?",
+    "stem": "CASE STUDY (continued from Q43): The nurse implements a smoking cessation programme. Which theory MOST directly justifies the programme's focus on providing nicotine replacement therapy alongside psychological support?",
     "options": [
-      "Nurse practitioners can prescribe medication; nurses will monitor for side effects and response to medical treatments by using assessments",
-      "All registered psychiatric nurses can prescribe medication; nurses will monitor for side effects and response to medical treatments using standardised assessment tools",
-      "Nurse practitioners can prescribe medication only under direct physician supervision; nurses will monitor for side effects using nursing observation checklists",
-      "Advanced practice psychiatric nurses and nurse practitioners can prescribe medication; basic registered nurses monitor for side effects using physiological assessment only"
+      "Multifactorial theory — addressing only one factor (psychological habit) without addressing another (biological nicotine dependence) is insufficient; effective cessation requires simultaneously targeting multiple causative factors",
+      "Biomedical model — nicotine replacement therapy addresses the biological substrate of addiction; the medical management of withdrawal is the primary clinical obligation, with psychological support as an adjunct",
+      "Biopsychosocial model — the interplay between biological dependence, psychological habit, and social triggers requires interventions at all three levels simultaneously for effective smoking cessation in this population",
+      "Behavioural theory — psychological support targets the conditioned behavioural patterns maintaining smoking; nicotine replacement therapy reduces physiological cravings that trigger the conditioned response"
     ],
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 45,
     "type": "mcq",
-    "stem": "CASE STUDY: A student asks about the nurse's role in medication education. Which statement is MOST precisely grounded in the notes?",
+    "stem": "Which theory 'gained prominence in the 20th century with increasing awareness of environmental health impacts' and is 'significant in understanding diseases like cancer, respiratory illnesses, and other chronic conditions'?",
     "options": [
-      "Nurses will also offer information on medication so that, where possible, the person in care can make an informed choice, using the best evidence available",
-      "Nurses will also provide detailed pharmacological information on medication to ensure the patient understands the mechanism of action and potential side effects before consenting to treatment",
-      "Nurses will also counsel patients on medication to promote adherence and reduce the risk of self-discontinuation in community mental health settings",
-      "Nurses will also educate patients on medication schedules and administration techniques so that patients can eventually self-manage their treatment under minimal supervision"
+      "Molecular and cellular theory",
+      "Environmental theory",
+      "Multifactorial theory",
+      "Social determinants of health theory"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 46,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q45): The student asks about the role of the nurse in psychiatric medication overall. The MOST complete answer from the notes is:",
+    "stem": "CASE STUDY: A nursing student asks: 'What is the fundamental difference between the Social Determinants of Health Theory and the Economic and Political Theory?' The MOST accurate answer is:",
     "options": [
-      "Many psychiatric mental health nurses are involved in the administration of medicines, both in oral (e.g., tablet or liquid) form or by intramuscular injection; nurse practitioners can prescribe medication; nurses will monitor for side effects and response to medical treatments by using assessments; nurses will also offer information on medication for informed choice using the best evidence available",
-      "Many psychiatric mental health nurses are involved in the administration of medicines in oral and intramuscular form; advanced practice nurses prescribe medication; nurses document medication responses and report adverse effects; nurses provide written medication education materials to patients",
-      "Many psychiatric mental health nurses administer oral and parenteral medications; all psychiatric nurses can prescribe; nurses assess medication response using structured rating scales; nurses ensure patients sign consent forms before each medication administration",
-      "Many psychiatric mental health nurses administer oral, intramuscular, and intravenous medications; nurse practitioners prescribe under physician supervision; nurses monitor therapeutic drug levels through blood sampling; nurses provide patient education on medication interactions"
+      "They are essentially identical; the Economic and Political Theory is a subcategory of the Social Determinants of Health Theory, focusing specifically on the political economy dimensions of health disparities",
+      "Social Determinants of Health Theory focuses on social factors such as socioeconomic status, education, and living conditions; Economic and Political Theory focuses specifically on economic and political factors such as poverty, inequality, and access to healthcare — the latter specifically identifies governmental and economic systems as disease determinants",
+      "Social Determinants of Health Theory focuses on community-level factors; Economic and Political Theory focuses on national and international policy-level factors — they differ in the scale of analysis rather than the nature of the determinants identified",
+      "Social Determinants of Health Theory was developed in late-20th-century public health; Economic and Political Theory emerged from earlier political economy studies — they are historically sequential rather than conceptually distinct"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 47,
     "type": "mcq",
-    "stem": "The American Nurses Association's Code of Ethics for psychiatric nurses is described in the notes. Which element about its scope is MOST accurately stated?",
+    "stem": "CASE STUDY: A nurse educator asks students: 'Which theory was incorporated into the Germ Theory as part of modern understanding of infectious diseases rather than remaining an independent framework?' Which answer is MOST precise?",
     "options": [
-      "The code sets out guidelines for acceptable behaviour for all nurses in the U.S.; however, as the therapeutic relationship between the psychiatric nurse and the client is key to successful psychiatric/mental health care, there are some elements of the code that are more strongly applicable for these nurses and not only in the U.S. but also applicable all over the world",
-      "The code sets out guidelines for acceptable behaviour exclusively for psychiatric nurses in the U.S. and has been formally adopted by nursing associations in 47 other countries as the international standard",
-      "The code sets out guidelines for acceptable behaviour for all nurses in the U.S. and is supplemented by the WPA ethical code for psychiatric practice in international settings",
-      "The code sets out guidelines for acceptable behaviour for psychiatric nurses in the U.S. only; its application in other countries is not recommended because mental health legislation varies significantly across jurisdictions"
+      "Miasma theory — it was replaced by rather than incorporated into germ theory; its core mechanism of airborne transmission was disproven rather than integrated",
+      "Contagion theory — it was an early precursor to Germ Theory and is now incorporated into the Germ Theory as part of modern understanding of infectious diseases",
+      "Humoral theory — elements of internal body chemistry imbalance were incorporated into germ theory through the concept of pathogen-induced metabolic disruption",
+      "Supernatural theory — traditional healing practices were incorporated into germ theory through the recognition that community-based transmission prevention practices predated modern bacteriology"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 48,
     "type": "mcq",
-    "stem": "CASE STUDY: A nurse is evaluating psychosocial interventions she delivered. Which assessment approach is MOST explicitly stated in the notes as the basis for these interventions?",
+    "stem": "CASE STUDY (continued from Q47): A student correctly identifies the Contagion Theory but then claims it was 'developed in the 17th century.' The educator corrects this. What is the CORRECT historical timeline?",
     "options": [
-      "A nursing assessment that includes observation or measurement of signs and symptoms, using a framework based on a nursing model",
-      "A standardised psychiatric rating scale assessment conducted at admission and reviewed weekly to track therapeutic progress",
-      "A biopsychosocial assessment formulation completed by the multidisciplinary team during the initial care planning meeting",
-      "A functional assessment of activities of daily living and social functioning conducted by the occupational therapist in collaboration with the nurse"
+      "The Contagion Theory dates back to ancient times but was more formally developed during outbreaks like the Black Death — it was not specifically developed in the 17th century",
+      "The Contagion Theory was formally developed in the 18th century by Italian physician Fracastoro through his concept of 'seeds of disease' — the Black Death was too early for formal theoretical development",
+      "The Contagion Theory was formally developed in the 19th century alongside the Germ Theory; both emerged from the same epidemiological investigations of cholera and tuberculosis",
+      "The Contagion Theory dates to the Renaissance period and was developed by physicians observing person-to-person spread of syphilis — it was subsequently extended to explain plague transmission during the Black Death"
     ],
     "answer": "A"
   },
   {
     "id": 49,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q48): A colleague challenges the nurse: 'Assessment is the first stage of the nursing process â what makes it holistic in psychiatry?' The MOST accurate response from the notes is:",
+    "stem": "CASE STUDY: A global health researcher argues that no single theory of disease is sufficient to explain the complex health challenges facing modern Africa. Which conclusion MOST accurately reflects the content of all the theories?",
     "options": [
-      "Assessment is the first stage of the nursing process in which the nurse carries out a complete and holistic nursing assessment of every patient's needs, regardless of the reason for the encounter; usually an assessment framework based on a nursing model is used",
-      "Assessment is the first stage of the nursing process in which the nurse carries out a standardised biopsychosocial evaluation of the patient's functional status, symptom burden, and social support networks",
-      "Assessment is the first stage of the nursing process in which the nurse collects subjective and objective data from all available sources including the patient, family, records, and other healthcare professionals",
-      "Assessment is the first stage of the nursing process in which the nurse uses validated screening tools, clinical interviews, and behavioural observation to identify psychiatric diagnosis and nursing care priorities"
+      "The multifactorial theory is the only adequate framework because all other theories represent partial perspectives that are subsumed within it; modern disease cannot be understood without acknowledging the combination of genetic, environmental, and lifestyle factors",
+      "These theories provide a broad and multifaceted understanding of disease, reflecting the complexity of health and the various factors that influence it; they continue to evolve as new research and discoveries shape our understanding — no single theory is sufficient in isolation",
+      "The biopsychosocial model is the only adequate comprehensive framework because it explicitly integrates all relevant determinants of health into a single structured model applicable across all disease types and clinical contexts",
+      "The social determinants of health theory is the most comprehensive framework for African contexts because structural social inequalities are the primary driver of disease burden in low-income countries"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 50,
     "type": "mcq",
-    "stem": "CASE STUDY: A student asks why physical care is a function of the psychiatric nurse. The MOST accurate explanation from the notes is:",
+    "stem": "CASE STUDY (continued from Q49): A student asks: 'If all these theories are valid, how should a psychiatric nurse decide which one to apply in a clinical situation?' The MOST clinically sophisticated answer is:",
     "options": [
-      "Along with other nurses, psychiatric mental health nurses will intervene in areas of physical care to ensure that patients have good levels of personal hygiene, nutrition, and sleep, and attend to any concomitant physical ailments",
-      "Along with other nurses, psychiatric mental health nurses will intervene in physical care to ensure that patients' basic needs are met and to prevent the complications of prolonged psychiatric hospitalisation",
-      "Along with other nurses, psychiatric mental health nurses will intervene in physical care to prevent medical complications secondary to psychiatric medications such as metabolic syndrome and cardiovascular disease",
-      "Along with other nurses, psychiatric mental health nurses will intervene in physical care because psychiatric patients frequently neglect self-care as a symptom of their mental illness, requiring nursing assistance to maintain basic hygiene"
+      "Apply the biopsychosocial model universally — it incorporates all other theories and is the most comprehensive and widely accepted model for holistic patient care",
+      "Apply the theory that best matches the presenting clinical features — use germ theory for infectious aetiologies, genetic theory for hereditary conditions, environmental theory for toxin exposures, and social determinants theory for health equity concerns",
+      "Apply multiple theories simultaneously based on the individual patient's bio-psycho-social context — the nurse's role is to identify which theoretical frameworks illuminate different dimensions of the patient's condition and integrate them in a comprehensive formulation",
+      "Apply the evidence-based guidelines from the patient's diagnosis — clinical guidelines for each psychiatric diagnosis specify which theoretical framework should inform assessment and treatment, removing the need for individual theoretical selection by the nurse"
     ],
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 51,
     "type": "fitb",
-    "stem": "According to Petra Donnison, one personal quality of mental health nurses is that they must be able to deal with people from a variety of _______________ and _______________.",
-    "answer": "backgrounds and cultures",
+    "stem": "The Miasma Theory held that diseases were caused by 'miasmas' or bad _______________ arising from decomposing organic matter.",
+    "answer": "air",
     "acceptableAnswers": [
-      "backgrounds and cultures",
-      "backgrounds, cultures"
+      "air",
+      "bad air"
     ]
   },
   {
     "id": 52,
     "type": "fitb",
-    "stem": "CASE STUDY: A student is asked: 'Burger (2010) said that good communication skills, empathy, and a genuine attitude of caring are very important traits; _______________ and a sense of humour are also helpful when working with patients who have severe mental disorders.' Two traits are missing.",
-    "answer": "confidence, patience",
+    "stem": "CASE STUDY: An examiner states: 'The Miasma Theory was replaced by the _______________ Theory in the late 19th century.' Only one precise term is correct.",
+    "answer": "Germ",
     "acceptableAnswers": [
-      "confidence and patience",
-      "confidence, patience"
+      "Germ",
+      "germ"
     ]
   },
   {
     "id": 53,
     "type": "fitb",
-    "stem": "ECT treatment is used in only a tiny proportion of cases and only after all other possible treatments have been _______________.",
-    "answer": "exhausted",
+    "stem": "The Humoral Theory was developed by ancient Greek physicians including Hippocrates and _______________; it dominated Western medicine for centuries.",
+    "answer": "Galen",
     "acceptableAnswers": [
-      "exhausted"
+      "Galen"
     ]
   },
   {
     "id": 54,
     "type": "fitb",
-    "stem": "CASE STUDY: An exam reads: 'Approximately _______________% of clients receiving ECT have major depression as the indication for use.' The precise percentage from the notes must be supplied.",
-    "answer": "85",
+    "stem": "CASE STUDY: A nurse explains that the four humors are blood, phlegm, yellow bile, and _______________ bile.",
+    "answer": "black",
     "acceptableAnswers": [
-      "85",
-      "85%"
+      "black"
     ]
   },
   {
     "id": 55,
     "type": "fitb",
-    "stem": "Active listening is considered to be one of the core elements of _______________ in psychiatric nursing.",
-    "answer": "understanding",
+    "stem": "The Germ Theory was developed in the mid-19th century by Louis _______________ and Robert Koch.",
+    "answer": "Pasteur",
     "acceptableAnswers": [
-      "understanding"
+      "Pasteur"
     ]
   },
   {
     "id": 56,
     "type": "fitb",
-    "stem": "CASE STUDY: A student is asked: 'Listening involves refraining from other internal mind activities and concentrating _______________ on what the client is saying.' One precise adverb from the notes must be supplied.",
-    "answer": "exclusively",
+    "stem": "CASE STUDY: A lecturer asks: 'Genetic theory is crucial in the development of genetic testing, gene therapy, and _______________ medicine.' One precise adjective from the content must be supplied.",
+    "answer": "personalised",
     "acceptableAnswers": [
-      "exclusively"
+      "personalised",
+      "personalized"
     ]
   },
   {
     "id": 57,
     "type": "fitb",
-    "stem": "Peplau (1952) used _______________ as the first step in the therapeutic interaction, during which the nurse observes the client's behaviour and guides him or her in giving detailed descriptions of behaviour.",
-    "answer": "observation",
+    "stem": "Epigenetic theory holds that environmental factors can modify gene expression WITHOUT changing the _______________ sequence.",
+    "answer": "DNA",
     "acceptableAnswers": [
-      "observation"
+      "DNA"
     ]
   },
   {
     "id": 58,
     "type": "fitb",
-    "stem": "CASE STUDY: A nurse educator asks: 'In psychiatric mental health nursing, observation involves observing the speaker's _______________ actions as he or she communicates or behaves.' Only one word fills this blank precisely.",
-    "answer": "nonverbal",
+    "stem": "CASE STUDY: An exam question reads: 'The _______________ model dominated Western medicine during the 20th century but is now integrated with psychological and social factors in more holistic health models.' Only one word is correct.",
+    "answer": "biomedical",
     "acceptableAnswers": [
-      "nonverbal",
-      "non-verbal"
+      "biomedical"
     ]
   },
   {
     "id": 59,
     "type": "fitb",
-    "stem": "Empathy is described as a complex _______________ concept that has moral, cognitive, emotive, and behavioural components.",
-    "answer": "multi-dimensional",
+    "stem": "The biopsychosocial model was developed as an integrative approach to understanding health and is widely accepted as a comprehensive model for treating patients _______________.",
+    "answer": "holistically",
     "acceptableAnswers": [
-      "multi-dimensional",
-      "multidimensional"
+      "holistically"
     ]
   },
   {
     "id": 60,
     "type": "fitb",
-    "stem": "CASE STUDY: An exam asks: 'Clinical empathy involves the ability to (b) communicate that understanding and _______________ its accuracy.' One precise verb from the notes must be supplied.",
-    "answer": "check",
+    "stem": "CASE STUDY: A student is asked: 'The Social Determinants of Health Theory developed as public health and _______________ sciences intersected in the late 20th century.' One field of study must be supplied.",
+    "answer": "social",
     "acceptableAnswers": [
-      "check"
+      "social"
     ]
   },
   {
     "id": 61,
     "type": "fitb",
-    "stem": "The psychiatric code of ethics was first set forth through the Declaration of _______________ in 1977.",
-    "answer": "Hawaii",
+    "stem": "The Contagion Theory is described as an early precursor to Germ Theory, dating back to ancient times but more formally developed during outbreaks like the _______________ Death.",
+    "answer": "Black",
     "acceptableAnswers": [
-      "Hawaii"
+      "Black"
     ]
   },
   {
     "id": 62,
     "type": "fitb",
-    "stem": "CASE STUDY: A student is quizzed: 'The World Psychiatric Association code was further revised in _______________ in 1999.' Only one correct city completes this sentence.",
-    "answer": "Hamburg",
+    "stem": "CASE STUDY: An examiner asks: 'Nutritional Deficiency Theory recognises that scurvy is caused by deficiency of vitamin _______________, while rickets is caused by deficiency of vitamin _______________.' Both vitamins must be correctly identified.",
+    "answer": "C and D",
     "acceptableAnswers": [
-      "Hamburg"
+      "C and D",
+      "vitamin C and vitamin D",
+      "C, D"
     ]
   },
   {
     "id": 63,
     "type": "fitb",
-    "stem": "Queens University of North Carolina lists five principles; the second is: 'The duty of a nurse to promote the _______________ of others.'",
-    "answer": "welfare",
+    "stem": "The Behavioural Theory states that disease risk is influenced by individual behaviours such as smoking, diet, exercise, and _______________ consumption.",
+    "answer": "alcohol",
     "acceptableAnswers": [
-      "welfare"
+      "alcohol"
     ]
   },
   {
     "id": 64,
     "type": "fitb",
-    "stem": "CASE STUDY: A student is asked: 'According to the notes, treatments to turn homosexuals straight are known as _______________ therapy.' The precise clinical term from the notes must be supplied.",
-    "answer": "reparative",
+    "stem": "CASE STUDY: A student nurse is asked: 'The Molecular and Cellular Theory holds that diseases are caused by abnormalities at the molecular and cellular levels, such as mutations, biochemical imbalances, or cellular _______________.' One precise noun from the content must be supplied.",
+    "answer": "dysfunction",
     "acceptableAnswers": [
-      "reparative"
+      "dysfunction"
     ]
   },
   {
     "id": 65,
     "type": "fitb",
-    "stem": "Patients have the right to choose the least _______________ alternative treatment, even if the nurse believes more restrictive alternatives would work better.",
-    "answer": "restrictive",
+    "stem": "The Immunological Theory states that diseases result from malfunctions of the immune system, such as autoimmune diseases, allergies, and _______________.",
+    "answer": "immunodeficiencies",
     "acceptableAnswers": [
-      "restrictive"
+      "immunodeficiencies",
+      "immunodeficiency"
     ]
   },
   {
     "id": 66,
     "type": "fitb",
-    "stem": "CASE STUDY: An examiner states: 'Spiritual interventions focus on developing a sense of meaning, _______________, and hope for the person in their current life experience.' One precise noun from the notes must be supplied.",
-    "answer": "purpose",
+    "stem": "CASE STUDY: An examiner states: 'The Humoral Theory was phased out during the _______________ with the rise of more scientific medical approaches.' One historical period must be precisely supplied.",
+    "answer": "Renaissance",
     "acceptableAnswers": [
-      "purpose"
+      "Renaissance"
     ]
   },
   {
     "id": 67,
     "type": "fitb",
-    "stem": "Psychosocial interventions can be applied to a broad range of problems including psychosis, _______________, and anxiety.",
-    "answer": "depression",
+    "stem": "The Evolutionary Theory holds that some traits that were _______________ in early human history may predispose modern humans to certain diseases.",
+    "answer": "advantageous",
     "acceptableAnswers": [
-      "depression"
+      "advantageous",
+      "advantageous (adaptive)"
     ]
   },
   {
     "id": 68,
     "type": "fitb",
-    "stem": "CASE STUDY: A nurse exam reads: 'There has been some criticism that evidence-based practice is focused primarily on _______________ research and should reflect also a more qualitative research approach.' One precise adjective from the notes must be supplied.",
-    "answer": "quantitative",
+    "stem": "CASE STUDY: A student asks: 'The Multifactorial Theory states that most diseases result from a combination of _______________, environmental, and lifestyle factors.' One category is missing.",
+    "answer": "genetic",
     "acceptableAnswers": [
-      "quantitative"
+      "genetic"
     ]
   },
   {
     "id": 69,
     "type": "fitb",
-    "stem": "In therapeutic communication, the nurse must ask numerous specific questions to get the real story from the client's perspective, to help answer questions and clarify _______________, and to develop empathy with the client.",
-    "answer": "assumptions",
+    "stem": "The Economic and Political Theory states that disease prevalence and health outcomes are influenced by economic and political factors such as poverty, inequality, and access to _______________.",
+    "answer": "healthcare",
     "acceptableAnswers": [
-      "assumptions"
+      "healthcare",
+      "health care"
     ]
   },
   {
     "id": 70,
     "type": "fitb",
-    "stem": "CASE STUDY: An examiner asks: 'According to the broader Madrid Declaration, the WPA ethical code covers ethnic or cultural _______________.' Only one precise noun from the notes completes this sentence.",
-    "answer": "discrimination",
+    "stem": "CASE STUDY: A global health examiner asks: 'The Psychosomatic Theory is now _______________ accepted in modern medicine, particularly in mental health and holistic healthcare.' One precise adverb from the content must be supplied — NOT 'widely accepted as comprehensive' which describes a different theory.",
+    "answer": "widely",
     "acceptableAnswers": [
-      "discrimination"
+      "widely"
     ]
   }
 ]
