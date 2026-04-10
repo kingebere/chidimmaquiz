@@ -1,790 +1,779 @@
-[
+
   {
     "id": 1,
     "type": "mcq",
-    "stem": "A patient asks a psychiatric nurse: 'My grandmother says I am cursed and that is why I have schizophrenia.' The nurse recognises this as consistent with which theory of disease?",
+    "stem": "Receptors are large protein molecules found on target cells. Which statement MOST precisely describes the density range of receptors per cell as stated in the notes?",
     "options": [
-      "Cultural theory — the patient's family interprets illness through culturally shaped beliefs and social norms about health and disease",
-      "Supernatural theory — disease is attributed to supernatural forces such as gods, spirits, or curses rather than scientific causation",
-      "Miasma theory — the patient's community attributes illness to environmental bad air arising from organic sources in the surroundings",
-      "Psychosomatic theory — the patient's belief in the curse has created a nocebo effect causing the manifestation of psychiatric symptoms"
+      "Receptors have a density of about 1,000 to 50,000 per cell",
+      "Receptors have a density of about 2,000 to 100,000 per cell",
+      "Receptors have a density of about 5,000 to 200,000 per cell",
+      "Receptors have a density of about 2,000 to 50,000 per cell"
     ],
     "answer": "B"
   },
   {
     "id": 2,
     "type": "mcq",
-    "stem": "CASE STUDY: A 45-year-old man with schizophrenia has lived in poverty since childhood, has never completed secondary education, and lives in overcrowded housing. A nurse is completing his biopsychosocial assessment. Which theory MOST precisely explains how his social circumstances contribute to his current psychiatric condition?",
+    "stem": "The binding of a hormone to its receptor is described as 'critical.' Why is this reaction critical according to the notes?",
     "options": [
-      "Behavioural theory — his lifestyle choices such as substance use, poor diet, and irregular sleep have precipitated his psychiatric symptoms",
-      "Social determinants of health theory — social factors such as socioeconomic status, education, and living conditions play a crucial role in the development and progression of diseases",
-      "Environmental theory — exposure to toxins and pollutants in overcrowded housing has directly caused neurological damage leading to psychiatric symptoms",
-      "Multifactorial theory — a combination of genetic vulnerability, environmental factors, and lifestyle choices jointly explain the development of his schizophrenia"
+      "Because it triggers the immediate release of second messengers without any conformational change occurring in the receptor structure",
+      "Because it is the initial determinant of the efficacy of hormone action and leads to hormone recognition and interaction",
+      "Because it determines the speed of hormone synthesis and release from the endocrine gland that produced it",
+      "Because it is the final step in signal transduction after which no further molecular changes are required"
     ],
     "answer": "B"
   },
   {
     "id": 3,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q2): The nurse documents his diagnosis using a biopsychosocial model. What does this model MOST precisely hold?",
+    "stem": "CASE STUDY: A pharmacology student asks why a hormone administered at very high doses fails to produce a proportional increase in biological effect. The MOST accurate explanation based on the notes is:",
     "options": [
-      "Health and disease are the result of purely biological dysfunction; psychological and social factors are secondary contributors that amplify but do not independently cause psychiatric disorders",
-      "Health and disease are the result of the interplay between biological, psychological, and social factors — developed as an integrative approach to understanding health in the late 20th century",
-      "Health and disease are the result of genetic predisposition modified by psychological resilience; social factors are mediating variables that moderate but do not independently cause disease",
-      "Health and disease are the result of biological and psychological factors; social factors are important for treatment planning but are not classified as causes of mental illness in the biopsychosocial model"
+      "Because high doses cause enzyme saturation in the second messenger pathway, blocking further signal amplification regardless of receptor occupancy",
+      "Because the numbers and efficacy of receptors is directly proportional to degree of hormone action; receptor availability â not hormone concentration â limits the ceiling of biological response",
+      "Because protein binding increases at higher hormone concentrations, trapping the excess hormone and preventing free hormone from reaching receptors",
+      "Because high hormone concentrations trigger down regulation, destroying existing receptors and reducing receptor density below the threshold needed for biological response"
     ],
     "answer": "B"
   },
   {
     "id": 4,
     "type": "mcq",
-    "stem": "A medical student states: 'Depression is caused entirely by a chemical imbalance in the brain — it is a biological disease.' Which criticism of this view is MOST aligned with the content?",
+    "stem": "CASE STUDY (continued from Q3): The student asks what happens to receptors specifically AFTER a hormone binds to them. Which statement is MOST accurately derived from the notes?",
     "options": [
-      "This reflects the biomedical model, which focuses on purely biological factors; however, it is now integrated with psychological and social factors in more holistic models of health, making the purely biological explanation incomplete",
-      "This reflects the germ theory approach, which attributes all disease to a single causative agent; however, depression has multiple causative agents across genetic, psychosocial, and environmental domains",
-      "This reflects the humoral theory, which attributes disease to internal imbalances; the modern equivalent recognises neurotransmitter imbalance as only one of many contributing factors to depression",
-      "This reflects the miasma theory applied to psychiatry, where internal toxic states cause illness; however, modern psychiatry recognises that external social and environmental factors are equally important causative agents"
+      "After binding, all receptors are immediately recycled back to the cell surface in their original conformation to prepare for the next hormone signal",
+      "After the binding, some receptors are destroyed or have their activity reduced (down regulation); in some occasions new receptors are synthesised (up regulation)",
+      "After binding, all receptors undergo conformational changes that permanently activate them, maintaining continuous hormonal signalling without further hormone binding",
+      "After binding, receptors migrate to the nucleus where they directly activate gene transcription regardless of whether the hormone is lipid-soluble or water-soluble"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 5,
     "type": "mcq",
-    "stem": "CASE STUDY: A nurse is educating a patient with bipolar disorder about his condition. The patient asks why he has bipolar disorder when his twin brother does not. The nurse explains this using which theory?",
+    "stem": "Transmembrane proteins forming cell membrane receptors are specifically described as having three portions. Which combination is MOST precisely stated?",
     "options": [
-      "Genetic theory — some diseases are caused by mutations or alterations in an individual's genetic material; however, expression varies based on other factors",
-      "Epigenetic theory — environmental factors can modify gene expression without changing the DNA sequence, potentially explaining why one identical twin develops bipolar disorder while the other does not",
-      "Multifactorial theory — the disorder results from a combination of genetic, environmental, and lifestyle factors, meaning genetic predisposition alone is insufficient without additional triggers",
-      "All three theories — genetic, epigenetic, and multifactorial — are simultaneously applicable and cannot be distinguished in explaining differential expression in monozygotic twins"
+      "Intracellular, transmembrane, and nuclear portions",
+      "Intracellular, transmembrane, and extracellular portions",
+      "Cytoplasmic, lipid bilayer, and extracellular signal-binding portions",
+      "Intracellular kinase domain, transmembrane alpha-helix, and extracellular ligand-binding domain portions"
     ],
     "answer": "B"
   },
   {
     "id": 6,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q5): The nurse further explains that the patient's childhood trauma may have modified how his genes are expressed without changing the actual DNA sequence. Which theory MOST specifically describes this process?",
+    "stem": "Hormones bind to which specific part of a transmembrane receptor protein?",
     "options": [
-      "Environmental theory — harmful environmental factors such as trauma act directly on biological systems to cause neurological changes leading to psychiatric disorders",
-      "Epigenetic theory — environmental factors can modify gene expression without changing the DNA sequence, potentially leading to disease; this is a rapidly growing field offering new insights into disease prevention and treatment",
-      "Psychosomatic theory — mental and emotional states, including trauma, can contribute to physical and psychiatric disease through the mind-body connection",
-      "Genetic theory — trauma activates pre-existing genetic mutations that were dormant, causing them to express pathologically in the context of environmental stress"
+      "The intracellular portion of the receptor on the cytoplasmic face of the cell membrane",
+      "The transmembrane portion of the receptor spanning the lipid bilayer",
+      "The extracellular portion of the receptors on the cell membrane",
+      "The nuclear localisation domain of the receptor after it dissociates from the membrane"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 7,
     "type": "mcq",
-    "stem": "The Miasma Theory attributed disease to a specific cause. Which statement MOST precisely describes its core concept AND its historical trajectory?",
+    "stem": "CASE STUDY: A nurse asks her preceptor to explain the four classes of cell membrane receptors. Which answer correctly lists ALL four classes without substitution or omission?",
     "options": [
-      "Disease was caused by miasmas or bad air arising from decomposing organic matter; it was prevalent from ancient times through the 19th century and was replaced by the Germ Theory in the late 19th century",
-      "Disease was caused by miasmas or bad air arising from stagnant water bodies; it was prevalent from ancient times through the 18th century and was replaced by the Contagion Theory in the early 19th century",
-      "Disease was caused by miasmas or toxic air arising from human waste and urban overcrowding; it was prevalent from medieval times through the 19th century and was replaced by the Germ Theory in the early 20th century",
-      "Disease was caused by miasmas or bad air arising from decomposing organic matter; it was prevalent from ancient times through the 18th century and was gradually replaced by the Social Determinants Theory in the late 19th century"
+      "Ion-channel receptors, G-protein coupled receptors (GPCRs), tyrosine kinase-linked receptors, and receptors with intrinsic tyrosine kinase enzymatic activity",
+      "Ligand-gated ion channels, G-protein coupled receptors, tyrosine kinase receptors, and nuclear hormone receptors",
+      "Ion-channel receptors, G-protein coupled receptors, serine/threonine kinase receptors, and receptors with intrinsic tyrosine kinase enzymatic activity",
+      "Ion-channel receptors, G-protein coupled receptors, cytokine receptors, and receptors with intrinsic tyrosine kinase enzymatic activity"
     ],
     "answer": "A"
   },
   {
     "id": 8,
     "type": "mcq",
-    "stem": "CASE STUDY: A nursing student confuses the Miasma Theory and Contagion Theory. Which statement MOST accurately distinguishes them?",
+    "stem": "CASE STUDY (continued from Q7): A student confuses G-protein coupled receptors with tyrosine kinase-linked receptors. What is the MOST precise distinction?",
     "options": [
-      "Miasma theory attributed disease to bad air from organic matter; Contagion theory attributed disease to direct contact between individuals — Contagion theory was an early precursor to Germ theory, dating back to ancient times but more formally developed during outbreaks like the Black Death",
-      "Miasma theory attributed disease to invisible living organisms in the air; Contagion theory attributed disease to physical touching of infected individuals only — they share the concept of air transmission but differ in the nature of the causative agent",
-      "Miasma theory and Contagion theory are identical theories with different names used in different geographic regions; both attributed disease to environmental contamination spreading through populations",
-      "Miasma theory attributed disease to cosmic and atmospheric changes; Contagion theory attributed disease to person-to-person spread through shared water and food — they were both eventually incorporated into the Biomedical Model"
+      "G-protein coupled receptors span the membrane once; tyrosine kinase-linked receptors span the membrane seven times in an alpha-helical arrangement",
+      "G-protein coupled receptors couple to intracellular G-proteins to activate second messenger cascades; tyrosine kinase-linked receptors are separate from kinase enzymes but link to them upon activation",
+      "G-protein coupled receptors directly phosphorylate tyrosine residues; tyrosine kinase-linked receptors activate adenylyl cyclase to generate cyclic AMP",
+      "G-protein coupled receptors are found only on immune cells; tyrosine kinase-linked receptors are found only on endocrine target cells"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 9,
     "type": "mcq",
-    "stem": "Which theory of disease was developed by Louis Pasteur and Robert Koch in the mid-19th century and is described as the 'foundation of modern infectious disease understanding and treatment'?",
+    "stem": "In the mechanism of hormone action via direct changes in membrane permeability, which ionic species are specifically mentioned as being affected by the conformational change in the cell membrane?",
     "options": [
-      "Contagion theory",
-      "Germ theory",
-      "Environmental theory",
-      "Molecular and cellular theory"
+      "Na+, K+, and Mg2+",
+      "Na+, K+, and Ca2+",
+      "Na+, Cl-, and Ca2+",
+      "K+, Ca2+, and Cl-"
     ],
     "answer": "B"
   },
   {
     "id": 10,
     "type": "mcq",
-    "stem": "CASE STUDY: A psychiatric nurse is treating a patient with an autoimmune encephalitis that has caused psychosis. Which theory MOST directly explains the pathophysiology of this patient's psychiatric symptoms?",
+    "stem": "Which specific neurotransmitters are listed as acting via the direct membrane permeability change mechanism?",
     "options": [
-      "Germ theory — the autoimmune process was triggered by an initial bacterial or viral infection, making the germ the primary causative agent of all subsequent psychiatric symptoms",
-      "Immunological theory — diseases result from malfunctions of the immune system, such as autoimmune diseases; the immune system is attacking the patient's own brain tissue, causing psychiatric symptoms",
-      "Molecular and cellular theory — diseases caused by abnormalities at the molecular and cellular levels, with antibodies producing cellular dysfunction in the patient's neural tissue",
-      "Multifactorial theory — the autoimmune encephalitis results from a combination of genetic susceptibility, infectious trigger, and environmental factors that together produce the psychiatric syndrome"
+      "Dopamine, serotonin, and norepinephrine",
+      "Acetylcholine, epinephrine, and norepinephrine",
+      "Acetylcholine, dopamine, and epinephrine",
+      "Norepinephrine, serotonin, and acetylcholine"
     ],
     "answer": "B"
   },
   {
     "id": 11,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q10): The patient's family asks why psychiatry is involved in what they consider a neurological condition. The nurse explains using which model?",
+    "stem": "CASE STUDY: A patient is given a drug that blocks the beta subunit of the insulin receptor intracellularly. A nurse explains the consequence. Which is MOST accurate?",
     "options": [
-      "The biomedical model — which focuses on purely biological factors and views disease as a malfunction in the body; psychiatry is involved because brain malfunction produces psychiatric symptoms",
-      "The biopsychosocial model — health and disease are the result of the interplay between biological, psychological, and social factors; psychological and social dimensions of illness require psychiatric input even in neurological conditions",
-      "The psychosomatic theory — mental health involvement is required because the patient's psychological state contributed to triggering the autoimmune process through stress-mediated immune dysregulation",
-      "The multifactorial theory — psychiatric involvement is mandated because all diseases with behavioural manifestations require joint neurological and psychiatric management regardless of the primary pathophysiological mechanism"
+      "The insulin cannot bind to the alpha subunit on the exterior of the cell membrane, preventing hormone recognition",
+      "ATP cannot bind to the intracellular beta portion, blocking auto-phosphorylation of tyrosine molecules and preventing tyrosine kinase activation",
+      "The second messenger cAMP cannot be generated, blocking the PI-3 kinase pathway but leaving the MAPK pathway intact",
+      "Down regulation of receptors is accelerated, causing a compensatory increase in insulin secretion from the pancreatic beta cells"
     ],
     "answer": "B"
   },
   {
     "id": 12,
     "type": "mcq",
-    "stem": "The Humoral Theory attributed disease to imbalance of four specific substances. Which set is MOST precisely correct?",
+    "stem": "CASE STUDY (continued from Q11): The physician explains that the drug will also affect the MAPK pathway. Which statement MOST precisely describes how the MAPK pathway is activated via the insulin receptor?",
     "options": [
-      "Blood, phlegm, yellow bile, and black bile",
-      "Blood, lymph, yellow bile, and black bile",
-      "Blood, phlegm, yellow bile, and green bile",
-      "Blood, phlegm, bile, and water"
+      "MAPK pathway proceeds via the product of the ras proto-oncogene to activate transcription factors",
+      "MAPK pathway is activated by the PI-3 kinase generating phosphatidylinositol triphosphate which recruits Akt",
+      "MAPK pathway is directly activated by cAMP generated from adenylyl cyclase following G-protein coupling",
+      "MAPK pathway proceeds via autophosphorylation of serine residues on the intracellular receptor domain"
     ],
     "answer": "A"
   },
   {
     "id": 13,
     "type": "mcq",
-    "stem": "CASE STUDY: A student nurse says: 'The Humoral Theory is completely irrelevant in modern psychiatry.' A senior nurse challenges this view. Which response MOST accurately reflects a nuanced position?",
+    "stem": "The insulin receptor (growth factor receptor) is specifically described as a tetramer. Which structural description is MOST precisely stated?",
     "options": [
-      "The Humoral Theory is entirely irrelevant in modern psychiatry; it was phased out during the Renaissance with the rise of scientific medicine and has no contemporary clinical application whatsoever",
-      "The Humoral Theory's core concept of internal imbalance as a cause of disease has a philosophical parallel in modern neurotransmitter theories of psychiatric disorder; while the specific substances are different, the imbalance framework persists in contemporary psychiatric thought",
-      "The Humoral Theory remains partially relevant in psychiatry because blood and phlegm levels are still assessed in metabolic screening for patients on antipsychotic medications that affect lipid and glucose metabolism",
-      "The Humoral Theory is the direct historical predecessor of the biopsychosocial model; the four humors represent the biological, psychological, social, and spiritual dimensions of health that are now assessed in modern psychiatric practice"
+      "2 extracellular alpha subunits and 2 intracellular beta subunits",
+      "2 extracellular alpha subunits and 2 trans/intracellular beta subunits",
+      "2 transmembrane alpha subunits and 2 intracellular beta subunits",
+      "2 extracellular alpha subunits and 2 cytoplasmic gamma subunits"
     ],
     "answer": "B"
   },
   {
     "id": 14,
     "type": "mcq",
-    "stem": "Which theory holds that disease risk is influenced by individual behaviours such as smoking, diet, exercise, and alcohol consumption, and was central to health promotion efforts in the 20th century?",
+    "stem": "Which hormones are explicitly listed as acting via the insulin receptor/growth factor receptor pathway?",
     "options": [
-      "Social determinants of health theory",
-      "Behavioural theory",
-      "Multifactorial theory",
-      "Environmental theory"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 15,
-    "type": "mcq",
-    "stem": "CASE STUDY: A patient with alcohol-use disorder and depression asks whether his drinking caused his depression or whether his depression caused his drinking. The nurse explains this using which theory?",
-    "options": [
-      "Behavioural theory — the patient's alcohol use is a chosen behaviour that directly caused his depression through neurotoxic effects on serotonergic pathways",
-      "Multifactorial theory — most diseases result from a combination of genetic, environmental, and lifestyle factors; the relationship is bidirectional and the patient's condition cannot be reduced to a single causal pathway",
-      "Psychosomatic theory — the patient's depressive mental state created physiological changes that drove the compulsive drinking behaviour, making depression the primary cause",
-      "Genetic theory — the patient has an inherited vulnerability to both alcohol use disorder and depression through shared genetic pathways that express simultaneously rather than sequentially"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 16,
-    "type": "mcq",
-    "stem": "CASE STUDY (continued from Q15): The nurse notes that the patient's depression began after his wife left him and he lost his job. She applies which theory to explain these triggers?",
-    "options": [
-      "Cultural theory — the patient's cultural identity and social role as a breadwinner have shaped his vulnerability to depression following role loss",
-      "Social determinants of health theory — social factors such as relationship loss and unemployment play a crucial role in the development and progression of disease",
-      "Economic and political theory — disease prevalence and health outcomes are influenced by economic factors; unemployment is an economic determinant of this patient's depressive episode",
-      "Behavioural theory — the patient's withdrawal from social activities and engagement in alcohol use following these life events are the behaviours that triggered the depressive episode"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 17,
-    "type": "mcq",
-    "stem": "The Evolutionary Theory of disease holds a specific concept. Which statement MOST precisely reflects this?",
-    "options": [
-      "Disease processes can be understood in the context of human evolution and natural selection; some traits that were advantageous in early human history may predispose modern humans to certain diseases",
-      "Disease processes can be understood through the lens of natural selection; traits that reduce reproductive fitness are eliminated across generations, meaning persistent diseases must confer some evolutionary advantage",
-      "Disease processes can be understood as adaptations to changing environmental conditions; genetic mutations that cause disease in modern contexts were protective responses to ancient environmental challenges",
-      "Disease processes can be understood through evolutionary medicine as mismatches between ancestral environments and modern lifestyles; all chronic diseases result from evolutionarily maladapted responses to contemporary conditions"
+      "Insulin, IGF, TGF-beta, and Atrial Natriuretic Peptide (ANP)",
+      "Insulin, IGF, EGF, and Atrial Natriuretic Peptide (ANP)",
+      "Insulin, IGF, TGF-beta, and Brain Natriuretic Peptide (BNP)",
+      "Insulin, IGF, TGF-alpha, and Atrial Natriuretic Peptide (ANP)"
     ],
     "answer": "A"
   },
   {
+    "id": 15,
+    "type": "mcq",
+    "stem": "CASE STUDY: A student is asked to trace the complete sequence from insulin binding to tyrosine kinase activation. Which sequence is MOST accurate based on the notes?",
+    "options": [
+      "Insulin binds alpha subunit â conformational change â ATP binds intracellular beta portion â auto-phosphorylation of tyrosine molecule (integral part of beta portion) â activated tyrosine kinase â phosphorylation of other intracellular enzymes",
+      "Insulin binds beta subunit â conformational change â ATP binds extracellular alpha portion â phosphorylation of serine residues â activated serine kinase â activation of second messenger cascade",
+      "Insulin binds alpha subunit â G-protein activation â cAMP generation â protein kinase A activation â phosphorylation of downstream targets",
+      "Insulin binds alpha subunit â conformational change â GTP binds intracellular beta portion â auto-phosphorylation of tyrosine molecule â activated MAPK pathway only"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 16,
+    "type": "mcq",
+    "stem": "The Phosphatidylinositol 3-kinase (PI-3) pathway is described as serving which dual function?",
+    "options": [
+      "Metabolic pathway as well as cell survival and proliferation",
+      "Metabolic pathway as well as cell differentiation and apoptosis",
+      "Anabolic pathway as well as cell survival and immune activation",
+      "Metabolic pathway as well as gene transcription and nuclear signalling"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 17,
+    "type": "mcq",
+    "stem": "CASE STUDY: A researcher studying cancer finds that a tumour cell has a constitutively active ras proto-oncogene product. Based on the notes, which signalling consequence would MOST directly result?",
+    "options": [
+      "Permanent activation of the PI-3 kinase pathway only, causing uncontrolled metabolic signalling and cell survival without affecting transcription factors",
+      "Permanent activation of the MAPK pathway and continuous activation of transcription factors, driving uncontrolled cell proliferation",
+      "Permanent activation of tyrosine kinase autophosphorylation without any downstream signalling, because ras acts upstream of the receptor",
+      "Permanent generation of cAMP through adenylyl cyclase, activating protein kinase A and driving continuous MAPK-independent transcription"
+    ],
+    "answer": "B"
+  },
+  {
     "id": 18,
     "type": "mcq",
-    "stem": "CASE STUDY: A nurse is explaining to a medical student why the fight-or-flight stress response can be maladaptive in modern psychiatric patients. Which theory MOST directly supports this explanation?",
+    "stem": "CASE STUDY (continued from Q17): The researcher asks which drug target would MOST specifically interrupt this ras-driven pathway without affecting insulin's metabolic effects via PI-3 kinase.",
     "options": [
-      "Psychosomatic theory — mental and emotional states such as chronic stress activation directly cause physiological disease through the mind-body connection",
-      "Evolutionary theory — some traits that were advantageous in early human history, such as the fight-or-flight stress response, may predispose modern humans to certain diseases when chronically activated in non-threatening modern environments",
-      "Behavioural theory — chronic stress activation results from maladaptive behavioural choices such as poor coping strategies, sleep deprivation, and substance use in response to modern stressors",
-      "Social determinants of health theory — chronic stress reflects social inequalities such as poverty and discrimination that create persistent psychosocial pressures incompatible with mental health in modern societies"
+      "A drug targeting the alpha subunit of the insulin receptor, preventing hormone binding and blocking both downstream pathways simultaneously",
+      "A drug targeting the ras-MAPK pathway downstream of the bifurcation point where PI-3 kinase and MAPK separate, leaving the PI-3 kinase-mediated metabolic pathway intact",
+      "A drug targeting ATP binding to the beta subunit, blocking tyrosine kinase autophosphorylation and shutting down both PI-3 kinase and MAPK pathways",
+      "A drug targeting tyrosine kinase phosphorylation of all intracellular substrates, which would equally inhibit both PI-3 kinase and MAPK pathways"
     ],
     "answer": "B"
   },
   {
     "id": 19,
     "type": "mcq",
-    "stem": "Which of the following MOST accurately distinguishes the Molecular and Cellular Theory from the Germ Theory in explaining psychiatric disorders?",
+    "stem": "Protein binding of hormones is described as affecting physiological activity. Which combination of effects does protein binding MOST precisely produce according to the notes?",
     "options": [
-      "Germ theory explains diseases caused by infectious microorganisms; molecular and cellular theory explains diseases caused by abnormalities at the molecular and cellular levels such as mutations, biochemical imbalances, or cellular dysfunction — both contribute to understanding psychiatric disorders but through different pathophysiological mechanisms",
-      "Germ theory and molecular and cellular theory are identical in their approach to psychiatric disorders; both focus on microbiological causation and differ only in the scale of analysis",
-      "Germ theory is not applicable to psychiatric disorders; molecular and cellular theory is the only biologically based theory relevant to psychiatric illness as all psychiatric conditions involve molecular dysfunction",
-      "Germ theory explains psychiatric disorders through microorganism-induced neuroinflammation; molecular and cellular theory explains them through genetic mutations in neural circuits — they are mutually exclusive explanatory frameworks"
+      "Protein binding facilitates easy transport in aqueous solution, provides temporary storage protecting from degradation and excretion, prolongs half-life, but reduces onset while prolonging duration of action",
+      "Protein binding facilitates rapid transport across cell membranes, provides permanent storage protecting from degradation, extends half-life, and increases both onset speed and duration of action simultaneously",
+      "Protein binding facilitates easy transport in aqueous solution, provides temporary storage protecting from degradation, prolongs half-life, and increases the onset speed while shortening the duration of action",
+      "Protein binding prevents transport to target cells, provides temporary storage in plasma, prolongs half-life, and reduces onset while also reducing the duration of action"
     ],
     "answer": "A"
   },
   {
     "id": 20,
     "type": "mcq",
-    "stem": "CASE STUDY: A psychiatric nurse in Lagos is assessing a patient who has been treated by a traditional healer before presenting to the clinic. She recognises that the patient's family interprets mental illness through cultural and spiritual frameworks. Which TWO theories are MOST simultaneously applicable to this clinical situation?",
+    "stem": "Which specific hormones are listed as examples of endocrine communication?",
     "options": [
-      "Supernatural theory and cultural theory — supernatural theory because disease is attributed to spirits or curses; cultural theory because disease and health are shaped by cultural beliefs, practices, and social norms",
-      "Cultural theory and behavioural theory — cultural theory because the patient sought a traditional healer; behavioural theory because the decision to seek traditional healing is a health behaviour with consequences for disease progression",
-      "Supernatural theory and social determinants theory — supernatural theory because of the spiritual causation belief; social determinants theory because socioeconomic factors drive patients to traditional healers before formal healthcare",
-      "Miasma theory and cultural theory — miasma theory because rural environments with poor sanitation contribute to mental illness; cultural theory because the family's health beliefs are shaped by traditional cultural practices"
+      "Thyroid and growth hormones",
+      "Pituitary and adrenal hormones",
+      "Thyroid and adrenal hormones",
+      "Growth and sex hormones"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 21,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q20): The nurse documents that the patient's community attributes mental illness to spiritual causes. She considers which additional theory explains why certain communities persistently maintain supernatural beliefs about illness despite scientific advances?",
+    "stem": "CASE STUDY: A medical student is asked to precisely distinguish autocrine communication from intracrine communication. Which distinction is MOST accurately derived from the notes?",
     "options": [
-      "Evolutionary theory — supernatural beliefs about illness may have conferred adaptive advantages in early human communities by providing social cohesion and shared explanatory frameworks for threatening events",
-      "Cultural theory — health and disease are shaped by cultural beliefs, practices, and social norms; this explains why supernatural beliefs persist in communities where they are deeply embedded in cultural identity",
-      "Behavioural theory — community members have learned through social reinforcement to attribute illness to supernatural causes; behaviour is maintained through cultural conditioning and social reward systems",
-      "Social determinants theory — communities with limited access to scientific education and healthcare maintain supernatural health beliefs as a consequence of socioeconomic disadvantage and educational inequality"
+      "Autocrine communication requires interaction with the interstitial fluid before the hormone acts on the same cell; intracrine communication occurs when contact with the interstitial fluid is NOT made, so the hormone acts within the cell that produced it",
+      "Autocrine communication occurs entirely within the cell that produced the hormone without any contact with the extracellular space; intracrine communication requires brief contact with the interstitial fluid before acting on the same cell",
+      "Autocrine communication involves the hormone acting on cells of a different type from the producing cell; intracrine communication involves the hormone acting on cells of the same type as the producing cell",
+      "Autocrine and intracrine communications are identical processes with different names used in different textbooks; both describe hormone action on the cell that produced it"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 22,
     "type": "mcq",
-    "stem": "Nutritional Deficiency Theory specifically links disease to which causative mechanism?",
+    "stem": "CASE STUDY (continued from Q21): The student is then asked which hormone types serve as typical examples of autocrine communication. Which is MOST precisely stated?",
     "options": [
-      "Deficiencies in essential nutrients such as vitamins, minerals, or proteins — recognising that diseases like scurvy (vitamin C deficiency) and rickets (vitamin D deficiency) were linked to diet in the 19th and 20th centuries",
-      "Deficiencies in essential macronutrients such as carbohydrates, fats, and proteins — recognising that caloric malnutrition is the primary nutritional driver of physical and mental illness",
-      "Deficiencies in essential trace elements such as iron, zinc, and selenium — recognising that micronutrient deficiency was the most common cause of disease in 19th-century populations",
-      "Deficiencies in essential vitamins only — recognising that vitamin deficiency diseases like scurvy, rickets, and pellagra are the nutritional causes of disease, while mineral and protein deficiencies cause separate categories of disorder"
+      "Pituitary hormones and adrenal hormones are typical examples of autocrine communication",
+      "Cytokines and growth factors are typical examples of autocrine communication",
+      "Steroid hormones and thyroid hormones are typical examples of autocrine communication",
+      "Prostaglandins and leukotrienes are typical examples of autocrine communication"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 23,
     "type": "mcq",
-    "stem": "CASE STUDY: A psychiatric nurse assesses a patient with severe depression who has been eating very little for six months. Blood tests reveal low folate and Vitamin B12. The nurse considers which TWO theories together MOST comprehensively explain the patient's psychiatric and nutritional status?",
+    "stem": "Which type of cell-to-cell communication involves nerves releasing chemical substances through axons (axoplasmic flow) to target cells, with axo-axonal and neuromuscular transmissions as examples?",
     "options": [
-      "Nutritional deficiency theory AND psychosomatic theory — nutritional deficiency theory because low folate and B12 contribute to depression; psychosomatic theory because the depression itself caused the reduced appetite leading to nutritional deficiency — the relationship is bidirectional",
-      "Behavioural theory AND nutritional deficiency theory — behavioural theory because the patient chose to restrict food intake; nutritional deficiency theory because the resulting nutrient deficits worsened the depression",
-      "Multifactorial theory AND biomedical model — multifactorial theory because depression results from multiple factors; biomedical model because it focuses on the purely biological nutritional deficit as the primary treatable target",
-      "Genetic theory AND nutritional deficiency theory — genetic theory because the patient may have an inherited predisposition to malabsorption; nutritional deficiency theory because deficient nutrients caused the depressive episode"
+      "Autocrine communication",
+      "Neuroendocrine communication",
+      "Neurocrine communication",
+      "Paracrine communication"
     ],
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 24,
     "type": "mcq",
-    "stem": "The Psychosomatic Theory gained attention in the 20th century. Which statement MOST precisely reflects its core concept as described in the content?",
+    "stem": "CASE STUDY: A nurse is reviewing the types of cell-to-cell communication. She notes that epicrine (also called juxtacrine) communication is described in the notes. Which MOST precisely describes epicrine communication?",
     "options": [
-      "Mental and emotional states can contribute to physical disease; the mind-body connection is critical in health; this theory gained attention in the 20th century with the rise of psychiatry and holistic medicine and is now widely accepted",
-      "Mental and emotional states are the PRIMARY cause of all physical disease; the body merely reflects the mind's state; this theory is the foundation of modern psychosomatic medicine and replaced the biomedical model",
-      "Mental and emotional states can cause physical symptoms in the absence of any organic pathology; psychosomatic disease is therefore distinct from physical disease and requires exclusively psychological treatment",
-      "Mental and emotional states modify the immune system's response to physical pathogens; psychosomatic theory therefore explains why some individuals develop disease after stress while others with the same exposure do not"
+      "Epicrine communication occurs when chemical substances are released into the interstitial space where their effects are exerted on surrounding cells",
+      "Epicrine communication occurs when hormones communicate via gap junctions without contacting the interstitial fluid; for example, endothelial cells of blood vessels producing nitrous oxide acting on smooth muscle",
+      "Epicrine communication occurs when chemical substances are secreted into the luminal aspects of the gut and transported to target organs through the gastrointestinal tract",
+      "Epicrine communication occurs when nerve cell bodies produce hormones transported through terminal axons to the blood and then to distant target cells"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 25,
     "type": "mcq",
-    "stem": "CASE STUDY: A nurse educator asks students which theory is 'widely accepted as a comprehensive model for treating patients holistically' — not merely 'important' or 'accepted' but 'widely accepted as comprehensive.' Which is the ONLY correct answer?",
+    "stem": "CASE STUDY (continued from Q24): A student identifies exocrine communication and asks what distinguishes it from endocrine communication. The MOST accurate answer is:",
     "options": [
-      "The multifactorial theory — widely accepted and used in current medical research because it accounts for genetic, environmental, and lifestyle factors simultaneously",
-      "The biopsychosocial model — widely accepted as a comprehensive model for treating patients holistically, reflecting the interplay between biological, psychological, and social factors",
-      "The social determinants of health theory — widely accepted as comprehensive in public health because it addresses root causes rather than downstream biological manifestations",
-      "The biomedical model — widely accepted as comprehensive in acute hospital settings where biological diagnosis and treatment remain the primary clinical objective"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 26,
-    "type": "mcq",
-    "stem": "CASE STUDY (continued from Q25): The educator then asks: 'Which theory was DOMINANT in Western medicine during the 20th century before being integrated with other factors?' Which precise answer is MOST accurate?",
-    "options": [
-      "The multifactorial theory — dominant in the 20th century as researchers identified multiple risk factors for chronic diseases",
-      "The biomedical model — dominated Western medicine during the 20th century; still fundamental but now integrated with psychological and social factors in more holistic models",
-      "The germ theory — dominant throughout the 20th century as antibiotics, vaccines, and antiviral agents were developed based on its principles",
-      "The social determinants theory — dominant in 20th-century public health discourse as evidence mounted for poverty and inequality as primary disease drivers"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 27,
-    "type": "mcq",
-    "stem": "The Genetic Theory of disease emerged with the discovery of DNA and the human genome. Which statement MOST precisely identifies its current status?",
-    "options": [
-      "Crucial in the development of genetic testing, gene therapy, and personalised medicine",
-      "Crucial in the development of pharmacogenomics, genetic counselling, and precision psychiatry for treatment-resistant disorders",
-      "Crucial in understanding hereditary diseases but limited in its application to complex psychiatric disorders where gene-environment interactions predominate",
-      "Crucial in the identification of disease-causing mutations but largely superseded by epigenetic theory for understanding conditions where genetic sequences remain unchanged"
+      "In endocrine communication, chemical substances enter the blood and travel to distal target tissues; in exocrine communication, chemical substances are secreted into ducts and transported to target organs â examples include salivary and pancreatic secretions",
+      "In endocrine communication, chemical substances are secreted into ducts; in exocrine communication, chemical substances are released into the bloodstream and transported to distant targets",
+      "Endocrine and exocrine communications are identical in mechanism but differ in the molecular weight of the chemical substances transported â endocrine hormones are large proteins while exocrine secretions are small peptides",
+      "Endocrine communication involves release directly into the interstitial space; exocrine communication involves release into the blood â both reach target cells through the extracellular fluid"
     ],
     "answer": "A"
   },
   {
+    "id": 26,
+    "type": "mcq",
+    "stem": "Solinocrine communication is described in the notes. Which statement MOST precisely defines it?",
+    "options": [
+      "Chemical substances are secreted into the luminal aspects of the gut; examples include chemical substances involved in gastro-intestinal endocrinology, genitourinary, and bronchi",
+      "Chemical substances are released through nerve axons to target cells; examples include neuromuscular transmissions and axo-axonal communication",
+      "Chemical substances are released into the blood from endocrine glands; examples include pituitary and adrenal hormones reaching distal target tissues",
+      "Chemical substances are released via gap junctions between adjacent cells; examples include endothelial-smooth muscle communication in blood vessel walls"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 27,
+    "type": "mcq",
+    "stem": "CASE STUDY: A neuroendocrinology student asks specifically about neuro-endocrine communications. Which statement is MOST precisely derived from the notes?",
+    "options": [
+      "Neuro-endocrine communications involve direct synaptic transmission from nerve terminals to target cells; examples include the sympathetic innervation of adrenal medullary cells",
+      "Neuro-endocrine communications involve hormones produced by nerve cell bodies that are transported through terminal axons to the blood; transport to distant target cells then occurs via the blood stream; posterior pituitary is an example",
+      "Neuro-endocrine communications involve the neuromuscular junction where axoplasmic flow delivers neurotransmitters directly to skeletal muscle cells as the target",
+      "Neuro-endocrine communications involve chemical substances released into the interstitial space of neural tissue, where they act on surrounding neurons and glial cells in an autocrine manner"
+    ],
+    "answer": "B"
+  },
+  {
     "id": 28,
     "type": "mcq",
-    "stem": "CASE STUDY: A nurse is reviewing population health data showing that communities near industrial chemical plants have significantly higher rates of depression and anxiety. Which theory MOST directly explains this?",
+    "stem": "CASE STUDY (continued from Q27): A student asks what makes cell-to-cell communication 'a unique feature in endocrinology.' Which description MOST precisely reflects the notes?",
     "options": [
-      "Social determinants of health theory — economic and political decisions about industrial placement near low-income communities create social inequalities that drive mental health disparities",
-      "Environmental theory — diseases can result from exposure to harmful environmental factors such as toxins and pollutants; significant in understanding diseases like respiratory illnesses and other chronic conditions including psychiatric disorders",
-      "Multifactorial theory — the higher rates of depression and anxiety result from a combination of genetic susceptibility, toxic exposure, psychosocial stress, and socioeconomic disadvantage acting together",
-      "Molecular and cellular theory — industrial toxins cause biochemical imbalances at the cellular level in neural tissue, directly producing the neurological substrate for depression and anxiety"
+      "It is unique because it only occurs in endocrine organs and cannot be found in other physiological systems",
+      "It is a process whereby information is carried by biochemical substances from one cell to the other; this information is received by receptors on the target cell, interpreted, and action is carried out in the form of biological response",
+      "It is unique because it involves electrical signals rather than chemical signals, distinguishing endocrine communication from all other forms of cellular signalling",
+      "It is unique because the biochemical substances involved are exclusively lipid-soluble and therefore can cross cell membranes without requiring surface receptors"
     ],
     "answer": "B"
   },
   {
     "id": 29,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q28): A public health advocate argues that addressing these mental health disparities requires policy change rather than individual treatment. Which theory MOST strongly supports this position?",
+    "stem": "Autoimmune antibodies against hormone receptors can have two opposing clinical effects. Which pair MOST precisely describes these two effects?",
     "options": [
-      "Behavioural theory — health behaviour change programmes targeting individuals in affected communities will be more cost-effective than industry regulation",
-      "Economic and political theory — disease prevalence and health outcomes are influenced by economic and political factors such as poverty, inequality, and access to healthcare; this is central to discussions on health disparities",
-      "Social determinants of health theory — social factors play a crucial role in disease; addressing root social causes through policy is more effective than downstream clinical interventions",
-      "Environmental theory — policy must target specific industrial toxins through regulation; the environmental pathway is the most direct and therefore the most efficient point of intervention"
+      "Block hormone action leading to biological deficiency OR accentuate hormone action causing biological hyperactivity",
+      "Block hormone synthesis leading to deficiency OR accelerate hormone degradation causing rapid receptor down regulation",
+      "Destroy receptors causing permanent biological deficiency OR create new receptor subtypes causing qualitatively altered hormone responses",
+      "Block hormone binding leading to biological deficiency OR create constitutive receptor activation causing autonomous hyperactivity independent of hormone levels"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 30,
     "type": "mcq",
-    "stem": "Which theory describes disease as resulting from 'an imbalance of the four humors' and was developed by ancient Greek physicians including Hippocrates and Galen?",
+    "stem": "CASE STUDY: A patient has Graves' disease with antibodies that mimic TSH by binding to TSH receptors. Based on the notes, how should this be classified?",
     "options": [
-      "Miasma theory",
-      "Humoral theory",
-      "Contagion theory",
-      "Supernatural theory"
+      "As a down regulation event â the antibodies are causing reduced receptor number by competing with TSH",
+      "As biological hyperactivity â autoimmune antibodies are accentuating receptor action by acting as TSH agonists at the receptor",
+      "As biological deficiency â the antibodies are blocking the hormone action of TSH by occupying its receptor site",
+      "As a protein binding event â the antibodies are acting as transport proteins that increase the bioavailability of free TSH"
     ],
     "answer": "B"
   },
   {
     "id": 31,
     "type": "mcq",
-    "stem": "CASE STUDY: A nurse caring for a patient from a West African cultural background observes that the patient's family has brought traditional herbal preparations. She must balance respect for cultural beliefs with evidence-based care. Which two theories MOST simultaneously inform her approach?",
+    "stem": "CASE STUDY (continued from Q30): A different patient has type 1 diabetes with antibodies against insulin receptors that BLOCK insulin action. Based on the notes, this represents which category?",
     "options": [
-      "Cultural theory — because health practices are seen as part of cultural systems and are important in global health; AND social determinants theory — because the family's limited access to formal healthcare has driven their use of traditional medicine",
-      "Cultural theory — because disease and health are shaped by cultural beliefs, practices, and social norms; AND behavioural theory — because the use of herbal preparations is a health behaviour with potential pharmacological interactions requiring nursing assessment",
-      "Supernatural theory — because traditional medicine is rooted in supernatural causation beliefs; AND nutritional deficiency theory — because herbal preparations may affect the patient's nutritional absorption",
-      "Cultural theory — because cultural norms shape health practices; AND genetic theory — because different populations have genetically determined pharmacokinetic differences that must be assessed when evaluating traditional medicine use"
+      "Up regulation â the immune system is synthesising new receptors to compensate for the antibody blockade",
+      "Biological deficiency â autoimmune antibodies are blocking hormone action at the receptor level, preventing insulin from mediating its biological effects",
+      "Down regulation â the blocked receptors are being destroyed and not replaced, reducing total receptor density to below therapeutic threshold",
+      "Biological hyperactivity â the antibody-receptor complex creates a constitutively active signal that amplifies insulin-like effects beyond normal physiological limits"
     ],
     "answer": "B"
   },
   {
     "id": 32,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q31): The nurse reflects on which theory MOST explains why people from different cultural backgrounds respond differently to psychiatric diagnoses and treatment.",
+    "stem": "Receptors are described as being located in specific places on target cells. Which combination of locations is MOST completely and precisely stated?",
     "options": [
-      "Cultural theory — health and disease are shaped by cultural beliefs, practices, and social norms; this is important in global health and understanding how culture influences health behaviours and disease outcomes",
-      "Evolutionary theory — different populations have evolved different psychological adaptive strategies that shape their responses to psychiatric diagnoses based on ancestral environmental pressures",
-      "Social determinants theory — cultural differences in response to psychiatric diagnosis reflect underlying socioeconomic inequalities in access to mental health education and services",
-      "Behavioural theory — culturally shaped health behaviours such as help-seeking patterns, medication adherence, and social support use determine differential responses to psychiatric diagnosis and treatment"
+      "Cell membrane, cytoplasm, and nucleus only",
+      "Cell membrane, cytoplasm, nucleus, or any other organelle of the target cell",
+      "Cell membrane, cytoplasm, endoplasmic reticulum, and nucleus",
+      "Cell membrane only, since intracellular receptors are not protein molecules"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 33,
     "type": "mcq",
-    "stem": "Epigenetic theory is described as 'a rapidly developing field.' Which statement MOST precisely describes its specific mechanism?",
+    "stem": "CASE STUDY: A nursing student states: 'Any hormone can bind to any receptor if given in high enough concentration.' Which rebuttal is MOST precisely grounded in the notes?",
     "options": [
-      "Environmental factors can modify gene expression without changing the DNA sequence, potentially leading to disease; offering new insights into disease prevention and treatment",
-      "Environmental factors can cause mutations in the DNA sequence that alter gene expression, potentially leading to disease; this distinguishes epigenetics from the genetic theory which addresses inherited mutations",
-      "Environmental factors can activate or suppress gene transcription by altering the DNA sequence in somatic cells; this explains how diseases acquired during a lifetime can be passed to offspring",
-      "Environmental factors can modify protein folding and post-translational modification without changing gene expression; this distinguishes epigenetic effects from genetic effects which directly alter mRNA transcription"
+      "This is incorrect because receptors are degraded rapidly at high hormone concentrations through down regulation, preventing non-specific binding",
+      "This is incorrect because receptors are specific for a hormone â binding is determined by receptor specificity, not hormone concentration, and is the initial determinant of the efficacy of hormone action",
+      "This is incorrect because protein binding traps all excess hormone in the plasma, ensuring that only the specific hormone matching the receptor can achieve sufficient free concentration",
+      "This is incorrect because second messenger systems are hormone-specific and would not generate any signal even if a non-specific hormone occupied the receptor"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 34,
     "type": "mcq",
-    "stem": "CASE STUDY: A researcher presents evidence that trauma experienced by Holocaust survivors has affected the stress hormone regulation of their children. Which theory MOST specifically explains this finding?",
+    "stem": "CASE STUDY (continued from Q33): The preceptor explains that receptor density is described as having a specific property affecting hormone response. Which property is MOST precisely identified?",
     "options": [
-      "Genetic theory — the trauma caused DNA mutations in germ cells that were passed to offspring, changing their genetic predisposition to stress dysregulation",
-      "Epigenetic theory — environmental factors such as severe trauma can modify gene expression without changing the DNA sequence, and these modifications can be transmitted to subsequent generations",
-      "Psychosomatic theory — the psychological impact of the parents' trauma created parenting patterns that psychologically shaped their children's stress regulation through learned helplessness",
-      "Multifactorial theory — the offspring's stress dysregulation results from a combination of inherited genetic vulnerability, transmitted epigenetic modifications, and environmental factors in their upbringing"
+      "Receptor density is inversely proportional to degree of hormone action â more receptors mean less sensitivity because each receptor receives less hormone",
+      "The numbers and efficacy of receptors is directly proportional to degree of hormone action â more receptors and higher receptor efficacy amplify the hormonal signal",
+      "Receptor density is constant regardless of hormonal stimulation â only receptor affinity changes in response to varying hormone concentrations",
+      "Receptor density determines the speed but not the magnitude of hormone action â more receptors accelerate the onset without altering the ceiling of biological effect"
     ],
     "answer": "B"
   },
   {
     "id": 35,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q34): A psychiatric nurse uses this research to counsel a survivor of childhood abuse. Which clinical implication MOST directly flows from epigenetic theory?",
+    "stem": "Paracrine communication is described in the notes. Which statement MOST precisely defines it?",
     "options": [
-      "The patient's trauma history has permanently altered her DNA, making her psychiatric condition irreversible; treatment should focus on symptom management rather than cure",
-      "The patient's trauma-induced epigenetic modifications can potentially be reversed through targeted interventions such as therapy and healthy lifestyle changes, as epigenetic theory offers new insights into disease prevention and treatment",
-      "The patient should be advised to avoid having children because epigenetic trauma transmission is inevitable and will cause psychiatric disorders in offspring regardless of the quality of her own recovery",
-      "The patient's psychiatric condition is entirely inherited from her parents' trauma responses through genetic mechanisms; treatment must focus on genetic counselling and pharmacogenomic assessment"
+      "Chemical substances are released directly to the extracellular spaces and enter the blood, transported to distal sites",
+      "Chemical substances are released into the interstitial space where their effects are exerted on surrounding cells",
+      "Chemical substances are released via gap junctions without contacting the interstitial fluid",
+      "Chemical substances are released through axons by axoplasmic flow to target cells"
     ],
     "answer": "B"
   },
   {
     "id": 36,
     "type": "mcq",
-    "stem": "The Contagion Theory was an early precursor to Germ Theory. Which statement MOST accurately describes its specific content and historical context?",
+    "stem": "CASE STUDY: A student asks what 'up regulation' means specifically in the context of hormone receptor biology. The MOST precisely stated definition from the notes is:",
     "options": [
-      "Diseases are spread by direct contact between individuals; it was an early precursor to Germ Theory dating back to ancient times but more formally developed during outbreaks like the Black Death; it is incorporated into the Germ Theory as part of modern understanding of infectious diseases",
-      "Diseases are spread by indirect contact through contaminated environmental surfaces; it was formally developed during the Great Plague of London in the 17th century; it is now incorporated into infection control nursing practice as standard precautions",
-      "Diseases are spread by direct contact between individuals; it was formally developed in the mid-19th century by Florence Nightingale through observation of wound infections in military hospitals; it was incorporated into germ theory following Pasteur's discoveries",
-      "Diseases are spread by direct contact AND contaminated water; it was formally developed during cholera outbreaks in the 19th century by John Snow; it forms the basis of modern epidemiological tracing methods in infectious disease nursing"
+      "Up regulation refers to the synthesis of new receptors when existing receptors have been destroyed or have had their activity reduced after hormone binding",
+      "Up regulation refers to an increase in free hormone concentration caused by competitive displacement from plasma protein binding sites",
+      "Up regulation refers to enhanced kinase activity when receptor density falls below the threshold needed for adequate hormone signalling",
+      "Up regulation refers to increased hormone secretion from the endocrine gland triggered by a fall in plasma hormone concentration"
     ],
     "answer": "A"
   },
   {
     "id": 37,
     "type": "mcq",
-    "stem": "CASE STUDY: A nurse is teaching community members about how HIV spreads. Which theory is she PRIMARILY applying?",
+    "stem": "CASE STUDY (continued from Q36): Down regulation and up regulation are described as 'inherent properties.' For what purpose?",
     "options": [
-      "Contagion theory — diseases spread by direct contact between individuals",
-      "Germ theory — diseases are caused by microorganisms such as bacteria, viruses, and fungi; HIV is a virus that must be transmitted from one host to another",
-      "Molecular and cellular theory — HIV causes disease by infecting and destroying CD4+ T cells at the cellular level, leading to immunodeficiency",
-      "Immunological theory — HIV causes disease by malfunctioning the immune system, specifically depleting CD4+ T lymphocytes and progressively destroying immune surveillance capacity"
+      "They are inherent properties aimed at maximising the biological effect of hormones during sustained endocrine stimulation",
+      "They are inherent properties aimed at regulation of hormone action, balancing sensitivity and responsiveness of target cells",
+      "They are inherent properties aimed at protecting target cells from toxic hormone concentrations during states of endocrine hypersecretion",
+      "They are inherent properties aimed at coordinating hormone secretion with receptor synthesis across multiple target organ systems simultaneously"
     ],
     "answer": "B"
   },
   {
     "id": 38,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q37): A community member asks: 'Why do some people with HIV develop AIDS quickly while others live for decades with the same virus?' The nurse uses which theory MOST directly?",
+    "stem": "Only the free hormone is biologically active. What specifically happens to protein-bound hormones according to the notes?",
     "options": [
-      "Germ theory — different strains of HIV have different levels of virulence that determine the speed of disease progression in individual hosts",
-      "Multifactorial theory — most diseases result from a combination of genetic, environmental, and lifestyle factors; HIV progression rate varies based on genetic factors such as CCR5 mutations, lifestyle factors such as nutrition and stress, and environmental factors such as access to antiretroviral treatment",
-      "Immunological theory — individual differences in baseline immune competence, autoimmune co-morbidities, and prior infectious exposures determine the rate at which HIV depletes the immune system in each person",
-      "Genetic theory — some diseases are caused by mutations or alterations in an individual's genetic material; specific genetic polymorphisms in immune genes determine whether an individual is a slow or rapid HIV progressor"
+      "Protein-bound hormones are immediately degraded by plasma proteases and cannot contribute to the free hormone pool",
+      "Protein-bound hormones are not readily available for expression of their biological effects â only free hormones are biologically active",
+      "Protein-bound hormones are actively transported across cell membranes to intracellular receptors but cannot bind extracellular membrane receptors",
+      "Protein-bound hormones are converted to inactive metabolites by hepatic enzymes before they can dissociate from carrier proteins"
     ],
     "answer": "B"
   },
   {
     "id": 39,
     "type": "mcq",
-    "stem": "Which theory holds that 'disease and health are shaped by cultural beliefs, practices, and social norms' and is 'important in global health and understanding how culture influences health behaviours and disease outcomes'?",
+    "stem": "CASE STUDY: A patient is started on a drug that significantly increases plasma protein binding of a hormone. What clinical consequence does the nurse MOST accurately predict based on the notes?",
     "options": [
-      "Social determinants of health theory",
-      "Cultural theory",
-      "Anthropological theory",
-      "Sociological theory"
+      "Reduced onset of action but prolonged duration of action â because greater protein binding reduces the free hormone available for immediate action but prolongs the half-life by protecting from degradation and excretion",
+      "Increased onset of action and shortened duration of action â because protein binding accelerates delivery to target tissues while shortening the circulating half-life",
+      "Neither onset nor duration changes â because the body compensates by immediately increasing hormone secretion to maintain constant free hormone concentrations",
+      "Reduced onset and reduced duration of action â because protein binding prevents both immediate action and slows the accumulation needed for sustained biological effect"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 40,
     "type": "mcq",
-    "stem": "CASE STUDY: A policy maker is designing a mental health programme for rural Nigerian communities. She wants to address the root causes of poor mental health rather than treating only presenting symptoms. Which theory provides the STRONGEST theoretical justification for this approach?",
+    "stem": "CASE STUDY (continued from Q39): The nurse explains the mechanism by which protein binding prolongs the half-life of hormones. Which mechanism is MOST precisely derived from the notes?",
     "options": [
-      "Behavioural theory — mental health programmes should target individual health behaviours such as substance use, exercise, and stress management as the primary modifiable risk factors for mental illness",
-      "Social determinants of health theory — social factors such as socioeconomic status, education, and living conditions play a crucial role in the development and progression of diseases; addressing these root causes is central to modern public health",
-      "Economic and political theory — disease prevalence and health outcomes are influenced by economic and political factors such as poverty and inequality; the programme must engage government policy to achieve sustainable mental health improvements",
-      "Multifactorial theory — mental illness results from multiple factors; a comprehensive programme must simultaneously address genetic, environmental, social, and behavioural factors to be effective"
+      "Protein binding prolongs half-life by activating the PI-3 kinase survival pathway, preventing programmed hormone degradation",
+      "Protein binding prolongs half-life by protecting the hormone from degradation and excretion while also providing temporary storage",
+      "Protein binding prolongs half-life by sequestering hormones in the bone marrow compartment, shielding them from hepatic first-pass metabolism",
+      "Protein binding prolongs half-life by converting the hormone to a more stable isoform that is resistant to enzymatic breakdown"
     ],
     "answer": "B"
   },
   {
     "id": 41,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q40): The policy maker also wants to incorporate spiritual interventions into the programme to improve community acceptance. She justifies this using which theory?",
+    "stem": "Modulation of intracellular enzymes by hormones can occur by two mechanisms. Which pair MOST precisely identifies them?",
     "options": [
-      "Supernatural theory — the programme acknowledges that supernatural forces cause mental illness and therefore incorporates spiritual treatments that address these causes",
-      "Cultural theory — health and disease are shaped by cultural beliefs, practices, and social norms; incorporating spiritual interventions increases programme acceptability by respecting community health frameworks",
-      "Psychosomatic theory — spiritual interventions address the mind-body connection; spiritual wellbeing reduces psychological distress that would otherwise manifest as physical and psychiatric disease",
-      "Evolutionary theory — spiritual practices served adaptive functions in ancestral human communities; their inclusion in modern mental health programmes accesses evolutionarily preserved psychological mechanisms for resilience"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 42,
-    "type": "mcq",
-    "stem": "Molecular and Cellular Theory was developed with advances in cell biology and molecular medicine. Which diseases are MOST specifically mentioned as being central to its current application?",
-    "options": [
-      "Cancer, genetic disorders, and autoimmune diseases",
-      "Cancer, infectious diseases, and metabolic disorders",
-      "Genetic disorders, neurodegenerative diseases, and inflammatory conditions",
-      "Autoimmune diseases, infectious diseases, and metabolic syndrome"
+      "Directly or via a second messenger",
+      "Directly or via a G-protein intermediate",
+      "Via phosphorylation or via dephosphorylation exclusively",
+      "Via receptor autophosphorylation or via receptor proteolysis"
     ],
     "answer": "A"
   },
   {
+    "id": 42,
+    "type": "mcq",
+    "stem": "CASE STUDY: A student asks what the initial trigger is for the auto-phosphorylation of the tyrosine molecule in the insulin receptor beta subunit. The MOST precise answer from the notes is:",
+    "options": [
+      "The binding of insulin to the extracellular alpha component triggers the auto-phosphorylation of the tyrosine molecule in the beta portion",
+      "ATP directly binds to the intracellular beta portion, leading to the auto-phosphorylation of the tyrosine molecule (an integral part of the beta portion) to produce activated tyrosine kinase",
+      "GTP binds to the beta subunit, activating a G-protein cascade that phosphorylates the tyrosine residue in the intracellular domain",
+      "The formation of the hormone-receptor complex on the extracellular surface directly activates the tyrosine kinase domain without any additional cofactor requirement"
+    ],
+    "answer": "B"
+  },
+  {
     "id": 43,
     "type": "mcq",
-    "stem": "CASE STUDY: A psychiatric nurse notices that a patient with schizophrenia repeatedly engages in chain-smoking despite extensive health education about lung cancer risk. Which theory MOST directly explains why the behaviour persists despite knowledge?",
+    "stem": "CASE STUDY (continued from Q42): After tyrosine kinase is activated, what is the NEXT specific step according to the notes?",
     "options": [
-      "Behavioural theory — the patient's smoking is a health behaviour but theoretical knowledge alone is insufficient to change deeply ingrained behaviours; behavioural interventions must target the reinforcement patterns maintaining smoking",
-      "Psychosomatic theory — the patient's smoking serves an emotional regulation function; the psychiatric disorder creates psychological needs that are temporarily met by the calming neurobiological effects of nicotine",
-      "Multifactorial theory — smoking persistence in schizophrenia results from genetic vulnerability to nicotine dependence, neurobiological nicotine-dopamine interactions, social reinforcement from other patients, and limited self-efficacy for behaviour change",
-      "Social determinants theory — patients with schizophrenia are disproportionately from socioeconomic backgrounds where smoking prevalence is high; social norms and peer influences within their communities maintain the behaviour despite individual health knowledge"
+      "Activated tyrosine kinase directly activates transcription factors in the nucleus via nuclear translocation",
+      "Activated kinase promotes phosphorylation of other intracellular enzymes as the next downstream step",
+      "Activated tyrosine kinase immediately activates the ras proto-oncogene to initiate MAPK cascade",
+      "Activated tyrosine kinase generates cAMP as a second messenger before phosphorylating downstream targets"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 44,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q43): The nurse implements a smoking cessation programme. Which theory MOST directly justifies the programme's focus on providing nicotine replacement therapy alongside psychological support?",
+    "stem": "Endocrine communication is specifically described in the notes. What happens to chemical substances in endocrine communication?",
     "options": [
-      "Multifactorial theory — addressing only one factor (psychological habit) without addressing another (biological nicotine dependence) is insufficient; effective cessation requires simultaneously targeting multiple causative factors",
-      "Biomedical model — nicotine replacement therapy addresses the biological substrate of addiction; the medical management of withdrawal is the primary clinical obligation, with psychological support as an adjunct",
-      "Biopsychosocial model — the interplay between biological dependence, psychological habit, and social triggers requires interventions at all three levels simultaneously for effective smoking cessation in this population",
-      "Behavioural theory — psychological support targets the conditioned behavioural patterns maintaining smoking; nicotine replacement therapy reduces physiological cravings that trigger the conditioned response"
+      "They are released into the interstitial space where they act on surrounding cells without entering the bloodstream",
+      "They are released directly to the extracellular spaces and enter the blood from where they are transported to the distal sites (target tissues)",
+      "They are released via gap junctions to adjacent cells without entering the extracellular fluid",
+      "They are secreted into ducts and transported directly to target organs through ductal channels"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 45,
     "type": "mcq",
-    "stem": "Which theory 'gained prominence in the 20th century with increasing awareness of environmental health impacts' and is 'significant in understanding diseases like cancer, respiratory illnesses, and other chronic conditions'?",
+    "stem": "CASE STUDY: A nurse is explaining to a medical student why the formation of the hormone-receptor complex on the cell membrane causes changes in ionic conductance. Which mechanism MOST precisely explains this from the notes?",
     "options": [
-      "Molecular and cellular theory",
-      "Environmental theory",
-      "Multifactorial theory",
-      "Social determinants of health theory"
+      "The hormone-receptor complex generates a second messenger that diffuses to ion channels and opens them directly through allosteric activation",
+      "The formation of the hormone-receptor complex initiates a conformational change on the cell membrane, leading to the opening or closing of ionic channels for Na+, K+, and Ca2+, with the influx or efflux of these ions initiating physiological response",
+      "The hormone-receptor complex activates adenylyl cyclase which generates cAMP that directly phosphorylates voltage-gated ion channels to change their conductance",
+      "The hormone-receptor complex activates G-proteins which dissociate and directly open ligand-gated ion channels through physical interaction with the channel gate"
     ],
     "answer": "B"
   },
   {
     "id": 46,
     "type": "mcq",
-    "stem": "CASE STUDY: A nursing student asks: 'What is the fundamental difference between the Social Determinants of Health Theory and the Economic and Political Theory?' The MOST accurate answer is:",
+    "stem": "CASE STUDY (continued from Q45): A student asks what the TWO major downstream pathways are after tyrosine kinase activation by the insulin receptor. Which answer is MOST complete and precisely stated?",
     "options": [
-      "They are essentially identical; the Economic and Political Theory is a subcategory of the Social Determinants of Health Theory, focusing specifically on the political economy dimensions of health disparities",
-      "Social Determinants of Health Theory focuses on social factors such as socioeconomic status, education, and living conditions; Economic and Political Theory focuses specifically on economic and political factors such as poverty, inequality, and access to healthcare — the latter specifically identifies governmental and economic systems as disease determinants",
-      "Social Determinants of Health Theory focuses on community-level factors; Economic and Political Theory focuses on national and international policy-level factors — they differ in the scale of analysis rather than the nature of the determinants identified",
-      "Social Determinants of Health Theory was developed in late-20th-century public health; Economic and Political Theory emerged from earlier political economy studies — they are historically sequential rather than conceptually distinct"
+      "The adenylyl cyclase pathway (generating cAMP) and the phospholipase C pathway (generating IP3 and DAG)",
+      "The Phosphatidylinositol 3-kinase (PI-3) pathway for metabolic and cell survival/proliferation effects AND the Mitogen-activated protein kinase (MAPK) pathway proceeding via the product of ras proto-oncogene to activate transcription factors",
+      "The MAP kinase pathway only and the protein kinase A pathway only â both proceed independently downstream of tyrosine kinase activation",
+      "The PI-3 kinase pathway for immune cell activation and the MAPK pathway for endocrine hormone synthesis"
     ],
     "answer": "B"
   },
   {
     "id": 47,
     "type": "mcq",
-    "stem": "CASE STUDY: A nurse educator asks students: 'Which theory was incorporated into the Germ Theory as part of modern understanding of infectious diseases rather than remaining an independent framework?' Which answer is MOST precise?",
+    "stem": "Cell-to-cell communication is described as a unique feature in endocrinology. Which statement MOST precisely describes the molecular nature of the signal involved?",
     "options": [
-      "Miasma theory — it was replaced by rather than incorporated into germ theory; its core mechanism of airborne transmission was disproven rather than integrated",
-      "Contagion theory — it was an early precursor to Germ Theory and is now incorporated into the Germ Theory as part of modern understanding of infectious diseases",
-      "Humoral theory — elements of internal body chemistry imbalance were incorporated into germ theory through the concept of pathogen-induced metabolic disruption",
-      "Supernatural theory — traditional healing practices were incorporated into germ theory through the recognition that community-based transmission prevention practices predated modern bacteriology"
+      "The signal is carried by electrical impulses transmitted between gap junctions connecting adjacent cells in all types of cell-to-cell communication",
+      "The signal is carried by biochemical substances from one cell to the other; this information is received by receptors on the target cell, interpreted, and action is carried out in the form of biological response",
+      "The signal is carried by membrane-bound molecules that require direct cell-to-cell contact in all forms of cellular communication described in endocrinology",
+      "The signal is carried exclusively by peptide hormones that cannot cross cell membranes and therefore must interact with surface receptors in all forms of communication"
     ],
     "answer": "B"
   },
   {
     "id": 48,
-    "type": "mcq",
-    "stem": "CASE STUDY (continued from Q47): A student correctly identifies the Contagion Theory but then claims it was 'developed in the 17th century.' The educator corrects this. What is the CORRECT historical timeline?",
-    "options": [
-      "The Contagion Theory dates back to ancient times but was more formally developed during outbreaks like the Black Death — it was not specifically developed in the 17th century",
-      "The Contagion Theory was formally developed in the 18th century by Italian physician Fracastoro through his concept of 'seeds of disease' — the Black Death was too early for formal theoretical development",
-      "The Contagion Theory was formally developed in the 19th century alongside the Germ Theory; both emerged from the same epidemiological investigations of cholera and tuberculosis",
-      "The Contagion Theory dates to the Renaissance period and was developed by physicians observing person-to-person spread of syphilis — it was subsequently extended to explain plague transmission during the Black Death"
-    ],
-    "answer": "A"
+    "type": "fitb",
+    "stem": "Receptors are large protein molecules with a density of about _______________ to 100,000 per cell.",
+    "answer": "2,000",
+    "acceptableAnswers": [
+      "2,000",
+      "2000"
+    ]
   },
   {
     "id": 49,
-    "type": "mcq",
-    "stem": "CASE STUDY: A global health researcher argues that no single theory of disease is sufficient to explain the complex health challenges facing modern Africa. Which conclusion MOST accurately reflects the content of all the theories?",
-    "options": [
-      "The multifactorial theory is the only adequate framework because all other theories represent partial perspectives that are subsumed within it; modern disease cannot be understood without acknowledging the combination of genetic, environmental, and lifestyle factors",
-      "These theories provide a broad and multifaceted understanding of disease, reflecting the complexity of health and the various factors that influence it; they continue to evolve as new research and discoveries shape our understanding — no single theory is sufficient in isolation",
-      "The biopsychosocial model is the only adequate comprehensive framework because it explicitly integrates all relevant determinants of health into a single structured model applicable across all disease types and clinical contexts",
-      "The social determinants of health theory is the most comprehensive framework for African contexts because structural social inequalities are the primary driver of disease burden in low-income countries"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "CASE STUDY: An examiner asks: 'The binding of a hormone to its receptor is the initial _______________ of the efficacy of hormone action.' One precise noun from the notes must be supplied.",
+    "answer": "determinant",
+    "acceptableAnswers": [
+      "determinant"
+    ]
   },
   {
     "id": 50,
-    "type": "mcq",
-    "stem": "CASE STUDY (continued from Q49): A student asks: 'If all these theories are valid, how should a psychiatric nurse decide which one to apply in a clinical situation?' The MOST clinically sophisticated answer is:",
-    "options": [
-      "Apply the biopsychosocial model universally — it incorporates all other theories and is the most comprehensive and widely accepted model for holistic patient care",
-      "Apply the theory that best matches the presenting clinical features — use germ theory for infectious aetiologies, genetic theory for hereditary conditions, environmental theory for toxin exposures, and social determinants theory for health equity concerns",
-      "Apply multiple theories simultaneously based on the individual patient's bio-psycho-social context — the nurse's role is to identify which theoretical frameworks illuminate different dimensions of the patient's condition and integrate them in a comprehensive formulation",
-      "Apply the evidence-based guidelines from the patient's diagnosis — clinical guidelines for each psychiatric diagnosis specify which theoretical framework should inform assessment and treatment, removing the need for individual theoretical selection by the nurse"
-    ],
-    "answer": "C"
+    "type": "fitb",
+    "stem": "Hormones bind to the _______________ portion of the receptors on the cell membrane to form the hormone-receptor complex.",
+    "answer": "extracellular",
+    "acceptableAnswers": [
+      "extracellular"
+    ]
   },
   {
     "id": 51,
     "type": "fitb",
-    "stem": "The Miasma Theory held that diseases were caused by 'miasmas' or bad _______________ arising from decomposing organic matter.",
-    "answer": "air",
+    "stem": "CASE STUDY: A student is asked: 'The four classes of cell membrane receptors are ion-channel receptors, G-protein coupled receptors (GPCRs), tyrosine kinase-linked receptors, and receptors with intrinsic _______________ kinase enzymatic activity.' One precise term is missing.",
+    "answer": "tyrosine",
     "acceptableAnswers": [
-      "air",
-      "bad air"
+      "tyrosine"
     ]
   },
   {
     "id": 52,
     "type": "fitb",
-    "stem": "CASE STUDY: An examiner states: 'The Miasma Theory was replaced by the _______________ Theory in the late 19th century.' Only one precise term is correct.",
-    "answer": "Germ",
+    "stem": "The insulin receptor (growth factor receptor) is a tetramer consisting of 2 extracellular _______________ subunits and 2 trans/intracellular beta subunits.",
+    "answer": "alpha",
     "acceptableAnswers": [
-      "Germ",
-      "germ"
+      "alpha",
+      "Î±"
     ]
   },
   {
     "id": 53,
     "type": "fitb",
-    "stem": "The Humoral Theory was developed by ancient Greek physicians including Hippocrates and _______________; it dominated Western medicine for centuries.",
-    "answer": "Galen",
+    "stem": "CASE STUDY: An examiner states: 'ATP binds to the intracellular beta portion leading to the auto-phosphorylation of _______________ molecule (an integral part of the beta portion) to produce activated tyrosine kinase.' One precise molecule must be supplied.",
+    "answer": "tyrosine",
     "acceptableAnswers": [
-      "Galen"
+      "tyrosine",
+      "tyrosine molecule"
     ]
   },
   {
     "id": 54,
     "type": "fitb",
-    "stem": "CASE STUDY: A nurse explains that the four humors are blood, phlegm, yellow bile, and _______________ bile.",
-    "answer": "black",
+    "stem": "The PI-3 kinase pathway serves as a _______________ pathway as well as for cell survival and proliferation.",
+    "answer": "metabolic",
     "acceptableAnswers": [
-      "black"
+      "metabolic"
     ]
   },
   {
     "id": 55,
     "type": "fitb",
-    "stem": "The Germ Theory was developed in the mid-19th century by Louis _______________ and Robert Koch.",
-    "answer": "Pasteur",
+    "stem": "CASE STUDY: A student is told: 'The MAPK pathway proceeds via the product of _______________ proto-oncogene to activate transcription factors.' One precise gene name must be supplied.",
+    "answer": "ras",
     "acceptableAnswers": [
-      "Pasteur"
+      "ras"
     ]
   },
   {
     "id": 56,
     "type": "fitb",
-    "stem": "CASE STUDY: A lecturer asks: 'Genetic theory is crucial in the development of genetic testing, gene therapy, and _______________ medicine.' One precise adjective from the content must be supplied.",
-    "answer": "personalised",
+    "stem": "Greater protein binding reduces the _______________ but prolongs the duration of hormone action.",
+    "answer": "onset",
     "acceptableAnswers": [
-      "personalised",
-      "personalized"
+      "onset"
     ]
   },
   {
     "id": 57,
     "type": "fitb",
-    "stem": "Epigenetic theory holds that environmental factors can modify gene expression WITHOUT changing the _______________ sequence.",
-    "answer": "DNA",
+    "stem": "CASE STUDY: An examiner asks: 'Autoimmune antibodies can either block hormone action leading to biological _______________ OR accentuate hormone action causing biological hyperactivity.' One clinical term must be supplied.",
+    "answer": "deficiency",
     "acceptableAnswers": [
-      "DNA"
+      "deficiency"
     ]
   },
   {
     "id": 58,
     "type": "fitb",
-    "stem": "CASE STUDY: An exam question reads: 'The _______________ model dominated Western medicine during the 20th century but is now integrated with psychological and social factors in more holistic health models.' Only one word is correct.",
-    "answer": "biomedical",
+    "stem": "Hormones (mainly _______________ soluble) are bound to plasma proteins for transport in the aqueous solution of body fluids.",
+    "answer": "lipid",
     "acceptableAnswers": [
-      "biomedical"
+      "lipid"
     ]
   },
   {
     "id": 59,
     "type": "fitb",
-    "stem": "The biopsychosocial model was developed as an integrative approach to understanding health and is widely accepted as a comprehensive model for treating patients _______________.",
-    "answer": "holistically",
+    "stem": "CASE STUDY: A nurse explains: 'Protein binding provides a means of _______________ storage, which protects the hormone from degradation and excretion and thus prolongs half-life.' One precise adjective from the notes must be supplied.",
+    "answer": "temporary",
     "acceptableAnswers": [
-      "holistically"
+      "temporary"
     ]
   },
   {
     "id": 60,
     "type": "fitb",
-    "stem": "CASE STUDY: A student is asked: 'The Social Determinants of Health Theory developed as public health and _______________ sciences intersected in the late 20th century.' One field of study must be supplied.",
-    "answer": "social",
+    "stem": "Receptors whose number increases in response to stimuli are said to undergo _______________ regulation, while those whose number decreases are said to undergo down regulation.",
+    "answer": "up",
     "acceptableAnswers": [
-      "social"
+      "up",
+      "up regulation",
+      "upregulation"
     ]
   },
   {
     "id": 61,
     "type": "fitb",
-    "stem": "The Contagion Theory is described as an early precursor to Germ Theory, dating back to ancient times but more formally developed during outbreaks like the _______________ Death.",
-    "answer": "Black",
+    "stem": "CASE STUDY: An examiner states: 'In endocrine communication, chemical substances are released directly to the extracellular spaces and enter the blood from where they are transported to the _______________ sites (target tissues).' One precise adjective must be supplied.",
+    "answer": "distal",
     "acceptableAnswers": [
-      "Black"
+      "distal"
     ]
   },
   {
     "id": 62,
     "type": "fitb",
-    "stem": "CASE STUDY: An examiner asks: 'Nutritional Deficiency Theory recognises that scurvy is caused by deficiency of vitamin _______________, while rickets is caused by deficiency of vitamin _______________.' Both vitamins must be correctly identified.",
-    "answer": "C and D",
+    "stem": "Epicrine communication, also called _______________ communication, occurs when hormones communicate via gap junctions without contacting the interstitial fluid.",
+    "answer": "juxtacrine",
     "acceptableAnswers": [
-      "C and D",
-      "vitamin C and vitamin D",
-      "C, D"
+      "juxtacrine"
     ]
   },
   {
     "id": 63,
     "type": "fitb",
-    "stem": "The Behavioural Theory states that disease risk is influenced by individual behaviours such as smoking, diet, exercise, and _______________ consumption.",
-    "answer": "alcohol",
+    "stem": "CASE STUDY: An examiner asks: 'Autocrine communication involves interaction of the hormone with the very cell that produces it. When contact with the interstitial fluid is NOT made, it is termed _______________ communication.' One precise term must be supplied.",
+    "answer": "intracrine",
     "acceptableAnswers": [
-      "alcohol"
+      "intracrine"
     ]
   },
   {
     "id": 64,
     "type": "fitb",
-    "stem": "CASE STUDY: A student nurse is asked: 'The Molecular and Cellular Theory holds that diseases are caused by abnormalities at the molecular and cellular levels, such as mutations, biochemical imbalances, or cellular _______________.' One precise noun from the content must be supplied.",
-    "answer": "dysfunction",
+    "stem": "Neurocrine communication involves nerves producing chemical substances released through _______________ flow via axons to target cells.",
+    "answer": "axoplasmic",
     "acceptableAnswers": [
-      "dysfunction"
+      "axoplasmic"
     ]
   },
   {
     "id": 65,
     "type": "fitb",
-    "stem": "The Immunological Theory states that diseases result from malfunctions of the immune system, such as autoimmune diseases, allergies, and _______________.",
-    "answer": "immunodeficiencies",
+    "stem": "CASE STUDY: A student is asked: 'In exocrine communication, chemical substances are secreted into _______________ and transported to their target organs.' One precise anatomical structure must be supplied.",
+    "answer": "ducts",
     "acceptableAnswers": [
-      "immunodeficiencies",
-      "immunodeficiency"
+      "ducts"
     ]
   },
   {
     "id": 66,
     "type": "fitb",
-    "stem": "CASE STUDY: An examiner states: 'The Humoral Theory was phased out during the _______________ with the rise of more scientific medical approaches.' One historical period must be precisely supplied.",
-    "answer": "Renaissance",
+    "stem": "Solinocrine communication involves chemical substances secreted into the _______________ aspects of the gut, like chemical substances involved in gastro-intestinal endocrinology.",
+    "answer": "luminal",
     "acceptableAnswers": [
-      "Renaissance"
+      "luminal"
     ]
   },
   {
     "id": 67,
     "type": "fitb",
-    "stem": "The Evolutionary Theory holds that some traits that were _______________ in early human history may predispose modern humans to certain diseases.",
-    "answer": "advantageous",
+    "stem": "CASE STUDY: An exam question reads: 'In neuro-endocrine communications, hormones produced by _______________ cell bodies are transported through terminal axons to the blood; transport to distant target cells then occurs via the blood stream.' One cell type must be supplied.",
+    "answer": "nerve",
     "acceptableAnswers": [
-      "advantageous",
-      "advantageous (adaptive)"
+      "nerve",
+      "nerve cell"
     ]
   },
   {
     "id": 68,
     "type": "fitb",
-    "stem": "CASE STUDY: A student asks: 'The Multifactorial Theory states that most diseases result from a combination of _______________, environmental, and lifestyle factors.' One category is missing.",
-    "answer": "genetic",
+    "stem": "The formation of a hormone-receptor complex initiates a conformational change on the cell membrane leading to the opening or closing of ionic channels for Na+, K+, and Ca2+; the influx or efflux of these ions initiates _______________ response.",
+    "answer": "physiological",
     "acceptableAnswers": [
-      "genetic"
+      "physiological"
     ]
   },
   {
     "id": 69,
     "type": "fitb",
-    "stem": "The Economic and Political Theory states that disease prevalence and health outcomes are influenced by economic and political factors such as poverty, inequality, and access to _______________.",
-    "answer": "healthcare",
+    "stem": "CASE STUDY: An examiner asks: 'Activated tyrosine kinase promotes _______________ of other intracellular enzymes, initiating downstream signalling.' One biochemical process from the notes must be supplied.",
+    "answer": "phosphorylation",
     "acceptableAnswers": [
-      "healthcare",
-      "health care"
+      "phosphorylation"
     ]
   },
   {
     "id": 70,
     "type": "fitb",
-    "stem": "CASE STUDY: A global health examiner asks: 'The Psychosomatic Theory is now _______________ accepted in modern medicine, particularly in mental health and holistic healthcare.' One precise adverb from the content must be supplied — NOT 'widely accepted as comprehensive' which describes a different theory.",
-    "answer": "widely",
+    "stem": "In paracrine communication, chemical substances are released into the _______________ space where their effects are exerted on surrounding cells.",
+    "answer": "interstitial",
     "acceptableAnswers": [
-      "widely"
+      "interstitial"
     ]
   }
 ]
