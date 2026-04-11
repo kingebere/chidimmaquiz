@@ -2,778 +2,785 @@
   {
     "id": 1,
     "type": "mcq",
-    "stem": "Receptors are large protein molecules found on target cells. Which statement MOST precisely describes the density range of receptors per cell as stated in the notes?",
+    "stem": "Intracellular receptors are located in specific compartments of the cell. Which statement MOST precisely identifies where intracellular receptors are found?",
     "options": [
-      "Receptors have a density of about 1,000 to 50,000 per cell",
-      "Receptors have a density of about 2,000 to 100,000 per cell",
-      "Receptors have a density of about 5,000 to 200,000 per cell",
-      "Receptors have a density of about 2,000 to 50,000 per cell"
+      "Intracellular receptors are located either in the mitochondria or nucleus of target cells",
+      "Intracellular receptors are located either in the cytosol or nucleus of target cells",
+      "Intracellular receptors are located either in the cytosol or endoplasmic reticulum of target cells",
+      "Intracellular receptors are located either in the cytoplasm or cell membrane of target cells"
     ],
     "answer": "B"
   },
   {
     "id": 2,
     "type": "mcq",
-    "stem": "The binding of a hormone to its receptor is described as 'critical.' Why is this reaction critical according to the notes?",
+    "stem": "Which of the following MOST precisely identifies where the receptors for oestrogens and thyroid hormones are located, compared to glucocorticoid receptors?",
     "options": [
-      "Because it triggers the immediate release of second messengers without any conformational change occurring in the receptor structure",
-      "Because it is the initial determinant of the efficacy of hormone action and leads to hormone recognition and interaction",
-      "Because it determines the speed of hormone synthesis and release from the endocrine gland that produced it",
-      "Because it is the final step in signal transduction after which no further molecular changes are required"
+      "Receptors for oestrogens and thyroid hormones are in the cytoplasm; receptors for glucocorticoids are in the nucleus",
+      "Receptors for oestrogens and thyroid hormones are in the nucleus; receptors for glucocorticoids are in the cytoplasm",
+      "Receptors for oestrogens and thyroid hormones are in the nucleus; receptors for glucocorticoids are in the endoplasmic reticulum",
+      "Receptors for oestrogens and thyroid hormones are in the cytosol; receptors for glucocorticoids are in the mitochondria"
     ],
     "answer": "B"
   },
   {
     "id": 3,
     "type": "mcq",
-    "stem": "CASE STUDY: A pharmacology student asks why a hormone administered at very high doses fails to produce a proportional increase in biological effect. The MOST accurate explanation based on the notes is:",
+    "stem": "CASE STUDY: A student asks how many nuclear receptors the human genome contains and which ligands they mediate. Which answer is MOST precisely derived from the notes?",
     "options": [
-      "Because high doses cause enzyme saturation in the second messenger pathway, blocking further signal amplification regardless of receptor occupancy",
-      "Because the numbers and efficacy of receptors is directly proportional to degree of hormone action; receptor availability â not hormone concentration â limits the ceiling of biological response",
-      "Because protein binding increases at higher hormone concentrations, trapping the excess hormone and preventing free hormone from reaching receptors",
-      "Because high hormone concentrations trigger down regulation, destroying existing receptors and reducing receptor density below the threshold needed for biological response"
+      "The human genome contains about 40 nuclear receptors that mediate the action of steroid hormones, T3, eicosanoids, activated vitamin D, retinoid fatty acids, and bile acids",
+      "The human genome contains about 48 nuclear receptors that mediate the action of steroid hormones, T4, eicosanoids, activated vitamin D, retinoid fatty acids, bile acids, and xenobiotics",
+      "The human genome contains about 48 nuclear receptors that mediate the action of steroid hormones, T3, eicosanoids, activated vitamin C, retinoid fatty acids, bile acids, and xenobiotics",
+      "The human genome contains about 52 nuclear receptors that mediate the action of steroid hormones, T4, eicosanoids, activated vitamin D, retinoid fatty acids, and bile acids"
     ],
     "answer": "B"
   },
   {
     "id": 4,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q3): The student asks what happens to receptors specifically AFTER a hormone binds to them. Which statement is MOST accurately derived from the notes?",
+    "stem": "CASE STUDY (continued from Q3): A student asks why binding to a specific domain on the intracellular receptor causes a delay in hormone action. Which answer is MOST accurate?",
     "options": [
-      "After binding, all receptors are immediately recycled back to the cell surface in their original conformation to prepare for the next hormone signal",
-      "After the binding, some receptors are destroyed or have their activity reduced (down regulation); in some occasions new receptors are synthesised (up regulation)",
-      "After binding, all receptors undergo conformational changes that permanently activate them, maintaining continuous hormonal signalling without further hormone binding",
-      "After binding, receptors migrate to the nucleus where they directly activate gene transcription regardless of whether the hormone is lipid-soluble or water-soluble"
+      "Because binding triggers conformational changes, activating genomic and proteomic processes that require time to occur â making onset of action slower than membrane receptor mechanisms",
+      "Because the hormone must first be converted to an active metabolite by hepatic enzymes before it can bind to the intracellular receptor domain",
+      "Because the hormone-receptor complex must be transported back through the nuclear pore via active transport, which is a rate-limiting energy-dependent step",
+      "Because proteomic activation requires simultaneous co-factor binding that is dependent on the availability of multiple intracellular signalling molecules"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 5,
     "type": "mcq",
-    "stem": "Transmembrane proteins forming cell membrane receptors are specifically described as having three portions. Which combination is MOST precisely stated?",
+    "stem": "A steroid hormone diffuses through the cell membrane and binds to a receptor in the cytoplasm. What happens NEXT according to the notes?",
     "options": [
-      "Intracellular, transmembrane, and nuclear portions",
-      "Intracellular, transmembrane, and extracellular portions",
-      "Cytoplasmic, lipid bilayer, and extracellular signal-binding portions",
-      "Intracellular kinase domain, transmembrane alpha-helix, and extracellular ligand-binding domain portions"
+      "The hormone-receptor complex remains in the cytoplasm and activates protein kinase C to phosphorylate cytoplasmic enzymes",
+      "The hormone-receptor complex diffuses into the nucleus where it stimulates transcription of messenger RNA",
+      "The hormone directly activates adenylyl cyclase in the cytoplasm to generate cAMP as a second messenger",
+      "The hormone-receptor complex binds to the endoplasmic reticulum membrane to initiate protein synthesis directly"
     ],
     "answer": "B"
   },
   {
     "id": 6,
     "type": "mcq",
-    "stem": "Hormones bind to which specific part of a transmembrane receptor protein?",
+    "stem": "When a hormone-receptor complex binds to receptors in the cytoplasm, what is the COMPLETE sequence of events according to the notes?",
     "options": [
-      "The intracellular portion of the receptor on the cytoplasmic face of the cell membrane",
-      "The transmembrane portion of the receptor spanning the lipid bilayer",
-      "The extracellular portion of the receptors on the cell membrane",
-      "The nuclear localisation domain of the receptor after it dissociates from the membrane"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": 7,
-    "type": "mcq",
-    "stem": "CASE STUDY: A nurse asks her preceptor to explain the four classes of cell membrane receptors. Which answer correctly lists ALL four classes without substitution or omission?",
-    "options": [
-      "Ion-channel receptors, G-protein coupled receptors (GPCRs), tyrosine kinase-linked receptors, and receptors with intrinsic tyrosine kinase enzymatic activity",
-      "Ligand-gated ion channels, G-protein coupled receptors, tyrosine kinase receptors, and nuclear hormone receptors",
-      "Ion-channel receptors, G-protein coupled receptors, serine/threonine kinase receptors, and receptors with intrinsic tyrosine kinase enzymatic activity",
-      "Ion-channel receptors, G-protein coupled receptors, cytokine receptors, and receptors with intrinsic tyrosine kinase enzymatic activity"
+      "Hormone binds cytoplasmic receptor â complex diffuses into nucleus â stimulates mRNA transcription â mRNA diffuses back to cytoplasm â protein synthesis â proteins function as enzymes, transport proteins, and structural proteins to modulate cell function",
+      "Hormone binds cytoplasmic receptor â complex binds chromatin â activates DNA replication â new proteins synthesised directly in the nucleus â proteins translocate to cytoplasm",
+      "Hormone binds cytoplasmic receptor â receptor phosphorylation â complex activates adenylyl cyclase â cAMP generated â protein kinase A activated â cell function modulated",
+      "Hormone binds cytoplasmic receptor â G-protein activation â second messenger cascade â transcription factor phosphorylation â gene expression changes"
     ],
     "answer": "A"
   },
   {
+    "id": 7,
+    "type": "mcq",
+    "stem": "CASE STUDY: A patient is prescribed a synthetic glucocorticoid. A nurse explains that because glucocorticoid receptors are located in the cytoplasm, the drug acts by a specific mechanism. What is the CORRECT mechanism based on the notes?",
+    "options": [
+      "The drug binds to glucocorticoid receptors on the cell membrane, activating G-protein cascades that generate cAMP to mediate its effects",
+      "The drug binds to cytoplasmic receptors, and the hormone-receptor complex enters the nucleus to stimulate mRNA transcription, producing proteins that modulate cell function",
+      "The drug binds to nuclear receptors, activating JAK kinases that phosphorylate STAT proteins, which then alter gene expression",
+      "The drug binds to cytoplasmic receptors that directly phosphorylate tyrosine residues, activating the MAPK pathway"
+    ],
+    "answer": "B"
+  },
+  {
     "id": 8,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q7): A student confuses G-protein coupled receptors with tyrosine kinase-linked receptors. What is the MOST precise distinction?",
+    "stem": "CASE STUDY (continued from Q7): The nurse explains that the mRNA produced from nuclear transcription then performs a specific function. What does the mRNA do NEXT?",
     "options": [
-      "G-protein coupled receptors span the membrane once; tyrosine kinase-linked receptors span the membrane seven times in an alpha-helical arrangement",
-      "G-protein coupled receptors couple to intracellular G-proteins to activate second messenger cascades; tyrosine kinase-linked receptors are separate from kinase enzymes but link to them upon activation",
-      "G-protein coupled receptors directly phosphorylate tyrosine residues; tyrosine kinase-linked receptors activate adenylyl cyclase to generate cyclic AMP",
-      "G-protein coupled receptors are found only on immune cells; tyrosine kinase-linked receptors are found only on endocrine target cells"
+      "The mRNA remains in the nucleus to activate additional chromatin binding sites and amplify transcription",
+      "The mRNA diffuses back into the cytoplasm to stimulate protein synthesis",
+      "The mRNA is immediately translated in the nucleus without diffusing to the cytoplasm",
+      "The mRNA binds to the hormone-receptor complex to form a ternary complex that regulates further receptor activity"
     ],
     "answer": "B"
   },
   {
     "id": 9,
     "type": "mcq",
-    "stem": "In the mechanism of hormone action via direct changes in membrane permeability, which ionic species are specifically mentioned as being affected by the conformational change in the cell membrane?",
+    "stem": "Second messengers (SMs) are described in the notes. Which statement MOST completely and precisely describes their function?",
     "options": [
-      "Na+, K+, and Mg2+",
-      "Na+, K+, and Ca2+",
-      "Na+, Cl-, and Ca2+",
-      "K+, Ca2+, and Cl-"
+      "Second messengers are substances that relay information from the hormone-receptor complex to the target site within the cell; they are critically important in signal transduction and may amplify or augment the amplitude of information",
+      "Second messengers are substances that relay information from the first messenger to the extracellular space; they initiate physiological responses by activating surface receptors on adjacent cells",
+      "Second messengers are substances that directly activate gene transcription in the nucleus by binding to chromatin sites; they replace the need for hormone-receptor complex nuclear translocation",
+      "Second messengers are substances that relay information from the nucleus to the cell membrane; they are important in signal termination and reduce the amplitude of hormonal information over time"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 10,
     "type": "mcq",
-    "stem": "Which specific neurotransmitters are listed as acting via the direct membrane permeability change mechanism?",
+    "stem": "In the cyclic AMP mechanism, receptors span the membrane a specific number of times. How many times do these receptors span the membrane?",
     "options": [
-      "Dopamine, serotonin, and norepinephrine",
-      "Acetylcholine, epinephrine, and norepinephrine",
-      "Acetylcholine, dopamine, and epinephrine",
-      "Norepinephrine, serotonin, and acetylcholine"
+      "Five times",
+      "Seven times",
+      "Nine times",
+      "Three times"
     ],
     "answer": "B"
   },
   {
     "id": 11,
     "type": "mcq",
-    "stem": "CASE STUDY: A patient is given a drug that blocks the beta subunit of the insulin receptor intracellularly. A nurse explains the consequence. Which is MOST accurate?",
+    "stem": "CASE STUDY: A pharmacology student asks what happens immediately after the hormone-receptor complex forms in the cyclic AMP mechanism. Which sequence is MOST precise?",
     "options": [
-      "The insulin cannot bind to the alpha subunit on the exterior of the cell membrane, preventing hormone recognition",
-      "ATP cannot bind to the intracellular beta portion, blocking auto-phosphorylation of tyrosine molecules and preventing tyrosine kinase activation",
-      "The second messenger cAMP cannot be generated, blocking the PI-3 kinase pathway but leaving the MAPK pathway intact",
-      "Down regulation of receptors is accelerated, causing a compensatory increase in insulin secretion from the pancreatic beta cells"
+      "The complex directly activates protein kinase A without requiring G-protein intermediate activation",
+      "The complex causes a conformational change on the receptor, exposing the active component of the G-protein, which then stimulates adenylyl cyclase to convert ATP to cAMP",
+      "The complex activates phospholipase-C which hydrolyses PIP2 to IP3 and DAG, generating calcium as a second messenger",
+      "The complex activates the JAK tyrosine kinases which phosphorylate STAT proteins to activate gene transcription"
     ],
     "answer": "B"
   },
   {
     "id": 12,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q11): The physician explains that the drug will also affect the MAPK pathway. Which statement MOST precisely describes how the MAPK pathway is activated via the insulin receptor?",
+    "stem": "CASE STUDY (continued from Q11): The student asks precisely what adenylyl cyclase converts. Which answer is MOST precisely stated?",
     "options": [
-      "MAPK pathway proceeds via the product of the ras proto-oncogene to activate transcription factors",
-      "MAPK pathway is activated by the PI-3 kinase generating phosphatidylinositol triphosphate which recruits Akt",
-      "MAPK pathway is directly activated by cAMP generated from adenylyl cyclase following G-protein coupling",
-      "MAPK pathway proceeds via autophosphorylation of serine residues on the intracellular receptor domain"
-    ],
-    "answer": "A"
-  },
-  {
-    "id": 13,
-    "type": "mcq",
-    "stem": "The insulin receptor (growth factor receptor) is specifically described as a tetramer. Which structural description is MOST precisely stated?",
-    "options": [
-      "2 extracellular alpha subunits and 2 intracellular beta subunits",
-      "2 extracellular alpha subunits and 2 trans/intracellular beta subunits",
-      "2 transmembrane alpha subunits and 2 intracellular beta subunits",
-      "2 extracellular alpha subunits and 2 cytoplasmic gamma subunits"
+      "Adenylyl cyclase converts GTP to cyclic guanosine monophosphate (cGMP) or ATP to cyclic adenosine monophosphate (cAMP)",
+      "Adenylyl cyclase converts ATP to cyclic adenosine monophosphate (cAMP) or GTP to cGMP",
+      "Adenylyl cyclase converts ADP to cyclic adenosine monophosphate (cAMP) or GDP to cyclic guanosine monophosphate (cGMP)",
+      "Adenylyl cyclase converts ATP to adenosine diphosphate (ADP) which activates protein kinase A directly"
     ],
     "answer": "B"
   },
   {
-    "id": 14,
+    "id": 13,
     "type": "mcq",
-    "stem": "Which hormones are explicitly listed as acting via the insulin receptor/growth factor receptor pathway?",
+    "stem": "In the phospholipids second messenger mechanism, the hormone-receptor complex activates G-protein which then activates phospholipase-C. What does phospholipase-C catalyse?",
     "options": [
-      "Insulin, IGF, TGF-beta, and Atrial Natriuretic Peptide (ANP)",
-      "Insulin, IGF, EGF, and Atrial Natriuretic Peptide (ANP)",
-      "Insulin, IGF, TGF-beta, and Brain Natriuretic Peptide (BNP)",
-      "Insulin, IGF, TGF-alpha, and Atrial Natriuretic Peptide (ANP)"
+      "Hydrolysis of phosphatidyl inositol 4,5 diphosphate (PIP2) to inositol triphosphate (IP3) and diacyl glycerol (DAG)",
+      "Hydrolysis of phosphatidyl inositol 4,5 diphosphate (PIP2) to inositol bisphosphate (IP2) and diacyl glycerol (DAG)",
+      "Hydrolysis of phosphatidyl inositol 3,4 diphosphate (PIP2) to inositol triphosphate (IP3) and diacyl glycerol (DAG)",
+      "Hydrolysis of phosphatidyl choline to inositol triphosphate (IP3) and arachidonic acid"
     ],
     "answer": "A"
   },
   {
+    "id": 14,
+    "type": "mcq",
+    "stem": "CASE STUDY: A student is tracing the phospholipids second messenger pathway. She asks what IP3 does after it is generated. Which answer is MOST accurate?",
+    "options": [
+      "IP3 directly activates protein kinase-C which then phosphorylates multiple intracellular enzymes",
+      "IP3 mobilises calcium from the endoplasmic reticulum and mitochondria, and calcium on its own has a second messenger effect",
+      "IP3 translocates to the nucleus where it activates transcription of calcium-binding protein genes",
+      "IP3 binds to calmodulin directly, changing its shape and initiating multiple effects inside the cell"
+    ],
+    "answer": "B"
+  },
+  {
     "id": 15,
     "type": "mcq",
-    "stem": "CASE STUDY: A student is asked to trace the complete sequence from insulin binding to tyrosine kinase activation. Which sequence is MOST accurate based on the notes?",
+    "stem": "CASE STUDY (continued from Q14): The student then asks about the fate of DAG in the phospholipids pathway. Which is MOST correct?",
     "options": [
-      "Insulin binds alpha subunit â conformational change â ATP binds intracellular beta portion â auto-phosphorylation of tyrosine molecule (integral part of beta portion) â activated tyrosine kinase â phosphorylation of other intracellular enzymes",
-      "Insulin binds beta subunit â conformational change â ATP binds extracellular alpha portion â phosphorylation of serine residues â activated serine kinase â activation of second messenger cascade",
-      "Insulin binds alpha subunit â G-protein activation â cAMP generation â protein kinase A activation â phosphorylation of downstream targets",
-      "Insulin binds alpha subunit â conformational change â GTP binds intracellular beta portion â auto-phosphorylation of tyrosine molecule â activated MAPK pathway only"
+      "DAG activates protein kinase-C leading to phosphorylation of enzymes; its lipid portion (arachidonic acid) is also hydrolysed to prostaglandins and other local hormones",
+      "DAG activates adenylyl cyclase to generate cAMP as a parallel second messenger alongside IP3",
+      "DAG directly mobilises calcium from the mitochondria and endoplasmic reticulum similar to IP3",
+      "DAG is converted to inositol triphosphate (IP3) by the action of phospholipase-D in a secondary hydrolysis reaction"
     ],
     "answer": "A"
   },
   {
     "id": 16,
     "type": "mcq",
-    "stem": "The Phosphatidylinositol 3-kinase (PI-3) pathway is described as serving which dual function?",
+    "stem": "In the calcium-calmodulin mechanism, the hormone-receptor complex changes membrane permeability in two specific ways. Which combination is MOST precisely stated?",
     "options": [
-      "Metabolic pathway as well as cell survival and proliferation",
-      "Metabolic pathway as well as cell differentiation and apoptosis",
-      "Anabolic pathway as well as cell survival and immune activation",
-      "Metabolic pathway as well as gene transcription and nuclear signalling"
+      "By changing the membrane potential or by enhancing the opening of calcium channels",
+      "By changing the membrane potential or by stimulating calcium pumps to import extracellular calcium",
+      "By enhancing the opening of sodium channels or by activating the calcium-ATPase pump",
+      "By changing membrane fluidity or by enhancing the opening of potassium and calcium channels"
     ],
     "answer": "A"
   },
   {
     "id": 17,
     "type": "mcq",
-    "stem": "CASE STUDY: A researcher studying cancer finds that a tumour cell has a constitutively active ras proto-oncogene product. Based on the notes, which signalling consequence would MOST directly result?",
+    "stem": "CASE STUDY: After calcium enters cells in the calcium-calmodulin mechanism, what is the NEXT specific molecular event?",
     "options": [
-      "Permanent activation of the PI-3 kinase pathway only, causing uncontrolled metabolic signalling and cell survival without affecting transcription factors",
-      "Permanent activation of the MAPK pathway and continuous activation of transcription factors, driving uncontrolled cell proliferation",
-      "Permanent activation of tyrosine kinase autophosphorylation without any downstream signalling, because ras acts upstream of the receptor",
-      "Permanent generation of cAMP through adenylyl cyclase, activating protein kinase A and driving continuous MAPK-independent transcription"
+      "Calcium directly activates protein kinase-C without requiring any intermediate protein binding",
+      "Calcium binds to a protein called calmodulin which changes its shape and initiates multiple effects inside the cells",
+      "Calcium activates adenylyl cyclase which generates cAMP as a parallel second messenger",
+      "Calcium binds directly to chromatin sites in the nucleus to alter gene transcription"
     ],
     "answer": "B"
   },
   {
     "id": 18,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q17): The researcher asks which drug target would MOST specifically interrupt this ras-driven pathway without affecting insulin's metabolic effects via PI-3 kinase.",
+    "stem": "CASE STUDY (continued from Q17): The student asks which hormones specifically act through the calcium-calmodulin mechanism as stated in the notes.",
     "options": [
-      "A drug targeting the alpha subunit of the insulin receptor, preventing hormone binding and blocking both downstream pathways simultaneously",
-      "A drug targeting the ras-MAPK pathway downstream of the bifurcation point where PI-3 kinase and MAPK separate, leaving the PI-3 kinase-mediated metabolic pathway intact",
-      "A drug targeting ATP binding to the beta subunit, blocking tyrosine kinase autophosphorylation and shutting down both PI-3 kinase and MAPK pathways",
-      "A drug targeting tyrosine kinase phosphorylation of all intracellular substrates, which would equally inhibit both PI-3 kinase and MAPK pathways"
+      "Insulin, glucagon, and anterior pituitary hormones act via the calcium-calmodulin mechanism",
+      "Angiotensin II, alpha adrenergic catecholamines, and vasopressin act via this mechanism and are unique in stimulating smooth muscle",
+      "Oestrogens, glucocorticoids, and thyroid hormones act via the calcium-calmodulin mechanism",
+      "Hypothalamic releasing hormones and parathyroid hormone act via the calcium-calmodulin mechanism"
     ],
     "answer": "B"
   },
   {
     "id": 19,
     "type": "mcq",
-    "stem": "Protein binding of hormones is described as affecting physiological activity. Which combination of effects does protein binding MOST precisely produce according to the notes?",
+    "stem": "Some effects of the calcium-calmodulin mechanism include activation and deactivation of specific intracellular molecules. Which are specifically mentioned?",
     "options": [
-      "Protein binding facilitates easy transport in aqueous solution, provides temporary storage protecting from degradation and excretion, prolongs half-life, but reduces onset while prolonging duration of action",
-      "Protein binding facilitates rapid transport across cell membranes, provides permanent storage protecting from degradation, extends half-life, and increases both onset speed and duration of action simultaneously",
-      "Protein binding facilitates easy transport in aqueous solution, provides temporary storage protecting from degradation, prolongs half-life, and increases the onset speed while shortening the duration of action",
-      "Protein binding prevents transport to target cells, provides temporary storage in plasma, prolongs half-life, and reduces onset while also reducing the duration of action"
+      "Activation and deactivation of phospholipases",
+      "Activation and deactivation of protein kinases",
+      "Activation and deactivation of adenylyl cyclase",
+      "Activation and deactivation of guanylyl cyclase"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 20,
     "type": "mcq",
-    "stem": "Which specific hormones are listed as examples of endocrine communication?",
+    "stem": "CASE STUDY: A clinical pharmacology student is studying vasopressin. Based on the notes, which signalling mechanism does vasopressin use, and what unique feature is associated with it?",
     "options": [
-      "Thyroid and growth hormones",
-      "Pituitary and adrenal hormones",
-      "Thyroid and adrenal hormones",
-      "Growth and sex hormones"
+      "Vasopressin acts via the cyclic AMP mechanism spanning the membrane seven times; it is unique in activating protein kinase A beyond the levels achievable by other hormones",
+      "Vasopressin acts via the calcium-calmodulin mechanism; this mechanism is unique in stimulating smooth muscle",
+      "Vasopressin acts via the JAK-STAT pathway; it is unique in phosphorylating STAT proteins that translocate to the nucleus to alter gene expression",
+      "Vasopressin acts via the phospholipids second messenger mechanism; it is unique in generating both IP3 and DAG simultaneously at higher concentrations than other hormones"
     ],
     "answer": "B"
   },
   {
     "id": 21,
     "type": "mcq",
-    "stem": "CASE STUDY: A medical student is asked to precisely distinguish autocrine communication from intracrine communication. Which distinction is MOST accurately derived from the notes?",
+    "stem": "The JAK-STAT signalling pathway is initiated via cytokine receptors. Which structural feature of these receptors is MOST precisely stated?",
     "options": [
-      "Autocrine communication requires interaction with the interstitial fluid before the hormone acts on the same cell; intracrine communication occurs when contact with the interstitial fluid is NOT made, so the hormone acts within the cell that produced it",
-      "Autocrine communication occurs entirely within the cell that produced the hormone without any contact with the extracellular space; intracrine communication requires brief contact with the interstitial fluid before acting on the same cell",
-      "Autocrine communication involves the hormone acting on cells of a different type from the producing cell; intracrine communication involves the hormone acting on cells of the same type as the producing cell",
-      "Autocrine and intracrine communications are identical processes with different names used in different textbooks; both describe hormone action on the cell that produced it"
+      "Cytokine receptors are single transmembrane proteins with the amino end outside and carboxyl end inside the cells",
+      "Cytokine receptors are double transmembrane proteins with the carboxyl end outside and amino end inside the cells",
+      "Cytokine receptors are seven-transmembrane proteins with the amino end outside coupled to G-proteins on the inner surface",
+      "Cytokine receptors are single transmembrane proteins with the carboxyl end outside and amino end inside the cells"
     ],
     "answer": "A"
   },
   {
     "id": 22,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q21): The student is then asked which hormone types serve as typical examples of autocrine communication. Which is MOST precisely stated?",
+    "stem": "CASE STUDY: A nurse is explaining the JAK-STAT pathway to a student. She describes the complete sequence from receptor activation to gene expression. Which sequence is MOST accurate?",
     "options": [
-      "Pituitary hormones and adrenal hormones are typical examples of autocrine communication",
-      "Cytokines and growth factors are typical examples of autocrine communication",
-      "Steroid hormones and thyroid hormones are typical examples of autocrine communication",
-      "Prostaglandins and leukotrienes are typical examples of autocrine communication"
+      "Cytokine binds receptor â G-protein activation â adenylyl cyclase â cAMP â protein kinase A â transcription factor phosphorylation â gene expression",
+      "Cytokine binds receptor â receptor activates cytoplasmic JAK tyrosine kinases â JAKs phosphorylate STAT proteins â activated STAT proteins translocate to nucleus â alter gene expression by transcription of mRNA",
+      "Cytokine binds receptor â receptor autophosphorylates tyrosine residues â activated MAPK cascade â ras proto-oncogene product activated â transcription factor activation",
+      "Cytokine binds receptor â receptor activates phospholipase-C â IP3 and DAG generated â calcium mobilised â calmodulin activated â gene expression altered"
     ],
     "answer": "B"
   },
   {
     "id": 23,
     "type": "mcq",
-    "stem": "Which type of cell-to-cell communication involves nerves releasing chemical substances through axons (axoplasmic flow) to target cells, with axo-axonal and neuromuscular transmissions as examples?",
+    "stem": "CASE STUDY (continued from Q22): A student confuses JAK kinases with receptor tyrosine kinases. What is the key structural distinction?",
     "options": [
-      "Autocrine communication",
-      "Neuroendocrine communication",
-      "Neurocrine communication",
-      "Paracrine communication"
+      "JAK kinases are intrinsic to the receptor structure as the cytoplasmic catalytic domain; receptor tyrosine kinases are separate cytoplasmic proteins that associate with the receptor",
+      "JAK kinases are separate cytoplasmic tyrosine kinases that are activated by cytokine receptors; receptor tyrosine kinases have intrinsic tyrosine kinase activity as part of the receptor molecule itself",
+      "JAK kinases phosphorylate serine and threonine residues on STAT proteins; receptor tyrosine kinases phosphorylate only tyrosine residues on downstream substrates",
+      "JAK kinases only work in immune cells; receptor tyrosine kinases function exclusively in endocrine target cells and cannot be found in haematopoietic tissue"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 24,
     "type": "mcq",
-    "stem": "CASE STUDY: A nurse is reviewing the types of cell-to-cell communication. She notes that epicrine (also called juxtacrine) communication is described in the notes. Which MOST precisely describes epicrine communication?",
+    "stem": "What happens to activated STAT proteins in the JAK-STAT pathway?",
     "options": [
-      "Epicrine communication occurs when chemical substances are released into the interstitial space where their effects are exerted on surrounding cells",
-      "Epicrine communication occurs when hormones communicate via gap junctions without contacting the interstitial fluid; for example, endothelial cells of blood vessels producing nitrous oxide acting on smooth muscle",
-      "Epicrine communication occurs when chemical substances are secreted into the luminal aspects of the gut and transported to target organs through the gastrointestinal tract",
-      "Epicrine communication occurs when nerve cell bodies produce hormones transported through terminal axons to the blood and then to distant target cells"
+      "Activated STAT proteins remain in the cytoplasm and directly activate protein kinase C to phosphorylate downstream enzymes",
+      "Activated STAT proteins translocate into the nucleus to alter gene expression by the transcription of mRNA",
+      "Activated STAT proteins bind to the plasma membrane and recruit additional JAK kinases to amplify the signal",
+      "Activated STAT proteins are exported from the cell to act as cytokines on neighbouring cells"
     ],
     "answer": "B"
   },
   {
     "id": 25,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q24): A student identifies exocrine communication and asks what distinguishes it from endocrine communication. The MOST accurate answer is:",
+    "stem": "CASE STUDY: A researcher studying growth hormone resistance finds a mutation in the JAK2 kinase. Based on the notes, which step in the JAK-STAT pathway would be MOST directly disrupted?",
     "options": [
-      "In endocrine communication, chemical substances enter the blood and travel to distal target tissues; in exocrine communication, chemical substances are secreted into ducts and transported to target organs â examples include salivary and pancreatic secretions",
-      "In endocrine communication, chemical substances are secreted into ducts; in exocrine communication, chemical substances are released into the bloodstream and transported to distant targets",
-      "Endocrine and exocrine communications are identical in mechanism but differ in the molecular weight of the chemical substances transported â endocrine hormones are large proteins while exocrine secretions are small peptides",
-      "Endocrine communication involves release directly into the interstitial space; exocrine communication involves release into the blood â both reach target cells through the extracellular fluid"
+      "The cytokine/growth hormone receptor would fail to span the membrane, preventing hormone binding to the extracellular domain",
+      "The cytoplasmic Janus tyrosine kinases (JAKs) would fail to be activated, preventing phosphorylation of STAT proteins and blocking all downstream gene expression changes",
+      "The activated STAT proteins would fail to dimerize, preventing nuclear translocation even though JAK activation proceeds normally",
+      "Adenylyl cyclase would fail to convert ATP to cAMP, blocking the parallel second messenger cascade that supports JAK-STAT signalling"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 26,
     "type": "mcq",
-    "stem": "Solinocrine communication is described in the notes. Which statement MOST precisely defines it?",
+    "stem": "CASE STUDY (continued from Q25): The researcher asks what growth hormone receptor shares in terms of structural classification with cytokine receptors. Which MOST precisely reflects the notes?",
     "options": [
-      "Chemical substances are secreted into the luminal aspects of the gut; examples include chemical substances involved in gastro-intestinal endocrinology, genitourinary, and bronchi",
-      "Chemical substances are released through nerve axons to target cells; examples include neuromuscular transmissions and axo-axonal communication",
-      "Chemical substances are released into the blood from endocrine glands; examples include pituitary and adrenal hormones reaching distal target tissues",
-      "Chemical substances are released via gap junctions between adjacent cells; examples include endothelial-smooth muscle communication in blood vessel walls"
+      "Both are G-protein coupled receptors that span the membrane seven times with amino termini on the extracellular surface",
+      "Both are single transmembrane proteins that activate cytoplasmic JAK kinases; this is the basis of cytokine receptor/growth hormone receptor signalling via the JAK-STAT pathway",
+      "Both are receptor tyrosine kinases with intrinsic kinase activity in their intracellular domains that auto-phosphorylate upon ligand binding",
+      "Both are nuclear receptors that bind directly to chromatin after their ligands diffuse across the cell membrane"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 27,
     "type": "mcq",
-    "stem": "CASE STUDY: A neuroendocrinology student asks specifically about neuro-endocrine communications. Which statement is MOST precisely derived from the notes?",
+    "stem": "In the cyclic AMP mechanism, a cascade of reactions is initiated by the second messenger (SM). What does this cascade ultimately activate?",
     "options": [
-      "Neuro-endocrine communications involve direct synaptic transmission from nerve terminals to target cells; examples include the sympathetic innervation of adrenal medullary cells",
-      "Neuro-endocrine communications involve hormones produced by nerve cell bodies that are transported through terminal axons to the blood; transport to distant target cells then occurs via the blood stream; posterior pituitary is an example",
-      "Neuro-endocrine communications involve the neuromuscular junction where axoplasmic flow delivers neurotransmitters directly to skeletal muscle cells as the target",
-      "Neuro-endocrine communications involve chemical substances released into the interstitial space of neural tissue, where they act on surrounding neurons and glial cells in an autocrine manner"
+      "Phospholipase-C and phospholipase-D",
+      "Protein kinases and phosphatases",
+      "Adenylyl cyclase and guanylyl cyclase",
+      "Calmodulin and calcium-dependent kinases"
     ],
     "answer": "B"
   },
   {
     "id": 28,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q27): A student asks what makes cell-to-cell communication 'a unique feature in endocrinology.' Which description MOST precisely reflects the notes?",
+    "stem": "CASE STUDY: A student lists hormones that act via the cyclic AMP second messenger mechanism. Which list is MOST accurately derived from the notes?",
     "options": [
-      "It is unique because it only occurs in endocrine organs and cannot be found in other physiological systems",
-      "It is a process whereby information is carried by biochemical substances from one cell to the other; this information is received by receptors on the target cell, interpreted, and action is carried out in the form of biological response",
-      "It is unique because it involves electrical signals rather than chemical signals, distinguishing endocrine communication from all other forms of cellular signalling",
-      "It is unique because the biochemical substances involved are exclusively lipid-soluble and therefore can cross cell membranes without requiring surface receptors"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 29,
-    "type": "mcq",
-    "stem": "Autoimmune antibodies against hormone receptors can have two opposing clinical effects. Which pair MOST precisely describes these two effects?",
-    "options": [
-      "Block hormone action leading to biological deficiency OR accentuate hormone action causing biological hyperactivity",
-      "Block hormone synthesis leading to deficiency OR accelerate hormone degradation causing rapid receptor down regulation",
-      "Destroy receptors causing permanent biological deficiency OR create new receptor subtypes causing qualitatively altered hormone responses",
-      "Block hormone binding leading to biological deficiency OR create constitutive receptor activation causing autonomous hyperactivity independent of hormone levels"
+      "Most anterior pituitary hormones, hypothalamic releasing hormones, parathyroid hormone, calcitonin, glucagon, secretin, and angiotensin II",
+      "Oestrogens, glucocorticoids, thyroid hormones, steroid hormones, and retinoids â all acting via intracellular nuclear receptors",
+      "Angiotensin II, alpha adrenergic catecholamines, vasopressin, and aldosterone â all acting via the smooth muscle calcium pathway",
+      "Cytokines, growth hormone, prolactin, and erythropoietin â all acting via JAK-STAT pathway exclusively"
     ],
     "answer": "A"
   },
   {
+    "id": 29,
+    "type": "mcq",
+    "stem": "CASE STUDY (continued from Q28): A student confuses the role of arachidonic acid in the phospholipids pathway. Which statement MOST accurately describes arachidonic acid's role?",
+    "options": [
+      "Arachidonic acid is the protein portion of DAG that directly activates protein kinase-C as a co-factor",
+      "Arachidonic acid is the lipid portion of DAG that is hydrolysed to several prostaglandins and other local hormones with various actions in the body",
+      "Arachidonic acid is a precursor to calmodulin that enables calcium binding to initiate multiple intracellular effects",
+      "Arachidonic acid is converted to inositol triphosphate (IP3) by phospholipase-A2, forming a parallel second messenger to DAG"
+    ],
+    "answer": "B"
+  },
+  {
     "id": 30,
     "type": "mcq",
-    "stem": "CASE STUDY: A patient has Graves' disease with antibodies that mimic TSH by binding to TSH receptors. Based on the notes, how should this be classified?",
+    "stem": "What is the specific function of proteins synthesised as a result of nuclear receptor activation?",
     "options": [
-      "As a down regulation event â the antibodies are causing reduced receptor number by competing with TSH",
-      "As biological hyperactivity â autoimmune antibodies are accentuating receptor action by acting as TSH agonists at the receptor",
-      "As biological deficiency â the antibodies are blocking the hormone action of TSH by occupying its receptor site",
-      "As a protein binding event â the antibodies are acting as transport proteins that increase the bioavailability of free TSH"
+      "The synthesised proteins function exclusively as transcription factors that amplify further gene expression without serving other cellular roles",
+      "The synthesised proteins function as enzymes, transport proteins, and structural proteins which modulate cell function",
+      "The synthesised proteins function as receptor proteins that are inserted into the cell membrane to increase sensitivity to subsequent hormone exposure",
+      "The synthesised proteins function exclusively as second messengers that diffuse to neighbouring cells to propagate the hormonal signal"
     ],
     "answer": "B"
   },
   {
     "id": 31,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q30): A different patient has type 1 diabetes with antibodies against insulin receptors that BLOCK insulin action. Based on the notes, this represents which category?",
+    "stem": "CASE STUDY: A nurse educator asks students to distinguish between binding to cytoplasmic receptors (pathway i) versus binding to nuclear receptors (pathway ii). Which answer MOST precisely captures the distinction from the notes?",
     "options": [
-      "Up regulation â the immune system is synthesising new receptors to compensate for the antibody blockade",
-      "Biological deficiency â autoimmune antibodies are blocking hormone action at the receptor level, preventing insulin from mediating its biological effects",
-      "Down regulation â the blocked receptors are being destroyed and not replaced, reducing total receptor density to below therapeutic threshold",
-      "Biological hyperactivity â the antibody-receptor complex creates a constitutively active signal that amplifies insulin-like effects beyond normal physiological limits"
+      "In cytoplasmic receptor binding, the hormone-receptor complex diffuses into the nucleus to stimulate mRNA transcription; in nuclear receptor binding, the hormone diffuses directly into the nucleus and binds to receptors already located there, directly stimulating mRNA transcription",
+      "In cytoplasmic receptor binding, the hormone stays in the cytoplasm and activates second messengers; in nuclear receptor binding, the hormone enters the nucleus and activates G-proteins",
+      "In cytoplasmic receptor binding, the hormone activates protein kinase C; in nuclear receptor binding, the hormone activates protein kinase A through cAMP generation",
+      "In cytoplasmic receptor binding, the hormone generates IP3 and DAG; in nuclear receptor binding, the hormone generates cAMP and cGMP"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 32,
     "type": "mcq",
-    "stem": "Receptors are described as being located in specific places on target cells. Which combination of locations is MOST completely and precisely stated?",
+    "stem": "CASE STUDY (continued from Q31): A student asks why steroid hormone effects are slow in onset compared to epinephrine effects. Which answer is MOST correctly grounded in the notes?",
     "options": [
-      "Cell membrane, cytoplasm, and nucleus only",
-      "Cell membrane, cytoplasm, nucleus, or any other organelle of the target cell",
-      "Cell membrane, cytoplasm, endoplasmic reticulum, and nucleus",
-      "Cell membrane only, since intracellular receptors are not protein molecules"
+      "Because steroid hormones have lower plasma concentrations than catecholamines, requiring more time to reach target cells and bind sufficient receptors",
+      "Because binding to a specific domain causes conformational changes and activation of genomic and proteomic processes that require time to produce their effects â unlike membrane receptor mechanisms",
+      "Because steroid hormones are protein-bound in plasma, reducing their free fraction and slowing delivery to intracellular receptors compared to free catecholamines",
+      "Because steroid hormones must first be converted from inactive prohormones by intracellular enzymes, and this enzymatic conversion is rate-limiting"
     ],
     "answer": "B"
   },
   {
     "id": 33,
     "type": "mcq",
-    "stem": "CASE STUDY: A nursing student states: 'Any hormone can bind to any receptor if given in high enough concentration.' Which rebuttal is MOST precisely grounded in the notes?",
+    "stem": "The hormone-receptor complex formed in the nucleus binds to specific sites on chromatin. What is the consequence of this binding?",
     "options": [
-      "This is incorrect because receptors are degraded rapidly at high hormone concentrations through down regulation, preventing non-specific binding",
-      "This is incorrect because receptors are specific for a hormone â binding is determined by receptor specificity, not hormone concentration, and is the initial determinant of the efficacy of hormone action",
-      "This is incorrect because protein binding traps all excess hormone in the plasma, ensuring that only the specific hormone matching the receptor can achieve sufficient free concentration",
-      "This is incorrect because second messenger systems are hormone-specific and would not generate any signal even if a non-specific hormone occupied the receptor"
+      "It triggers DNA replication to produce new copies of the gene for amplified expression",
+      "It activates mRNA transcription",
+      "It activates protein kinase A to phosphorylate nuclear proteins",
+      "It stimulates ribosomal RNA synthesis exclusively without affecting mRNA"
     ],
     "answer": "B"
   },
   {
     "id": 34,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q33): The preceptor explains that receptor density is described as having a specific property affecting hormone response. Which property is MOST precisely identified?",
+    "stem": "CASE STUDY: A patient with Cushing's syndrome has chronically elevated cortisol. A nurse explains that cortisol acts via cytoplasmic receptors. Which downstream consequence MOST directly results from prolonged cortisol-receptor complex nuclear activity?",
     "options": [
-      "Receptor density is inversely proportional to degree of hormone action â more receptors mean less sensitivity because each receptor receives less hormone",
-      "The numbers and efficacy of receptors is directly proportional to degree of hormone action â more receptors and higher receptor efficacy amplify the hormonal signal",
-      "Receptor density is constant regardless of hormonal stimulation â only receptor affinity changes in response to varying hormone concentrations",
-      "Receptor density determines the speed but not the magnitude of hormone action â more receptors accelerate the onset without altering the ceiling of biological effect"
+      "Prolonged activation of adenylyl cyclase, generating excess cAMP that continuously stimulates protein kinase A in all target tissues",
+      "Sustained stimulation of mRNA transcription, producing excess enzymes, transport proteins, and structural proteins that modulate cell function â causing the metabolic effects of hypercortisolism",
+      "Sustained activation of JAK kinases and STAT proteins, generating excess transcription factors that amplify inflammatory gene expression",
+      "Prolonged generation of IP3 and DAG, continuously mobilising calcium from the endoplasmic reticulum and activating protein kinase-C"
     ],
     "answer": "B"
   },
   {
     "id": 35,
     "type": "mcq",
-    "stem": "Paracrine communication is described in the notes. Which statement MOST precisely defines it?",
+    "stem": "CASE STUDY (continued from Q34): The nurse explains that the proteins produced by sustained cortisol-induced gene transcription function in three specific categories. Which is MOST precisely stated?",
     "options": [
-      "Chemical substances are released directly to the extracellular spaces and enter the blood, transported to distal sites",
-      "Chemical substances are released into the interstitial space where their effects are exerted on surrounding cells",
-      "Chemical substances are released via gap junctions without contacting the interstitial fluid",
-      "Chemical substances are released through axons by axoplasmic flow to target cells"
+      "As enzymes, transport proteins, and structural proteins which modulate cell function",
+      "As transcription factors, second messengers, and receptor proteins which amplify and sustain the cortisol signal",
+      "As kinases, phosphatases, and calmodulin-binding proteins which regulate calcium-dependent pathways",
+      "As growth factors, cytokines, and prostaglandins which mediate the metabolic and immune effects of cortisol"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 36,
     "type": "mcq",
-    "stem": "CASE STUDY: A student asks what 'up regulation' means specifically in the context of hormone receptor biology. The MOST precisely stated definition from the notes is:",
+    "stem": "Which of the following MOST accurately describes indirect modulation of intracellular enzymes by hormones?",
     "options": [
-      "Up regulation refers to the synthesis of new receptors when existing receptors have been destroyed or have had their activity reduced after hormone binding",
-      "Up regulation refers to an increase in free hormone concentration caused by competitive displacement from plasma protein binding sites",
-      "Up regulation refers to enhanced kinase activity when receptor density falls below the threshold needed for adequate hormone signalling",
-      "Up regulation refers to increased hormone secretion from the endocrine gland triggered by a fall in plasma hormone concentration"
+      "Indirect modulation occurs through the synthesis of second messengers that relay information from the hormone-receptor complex to the target site within the cell",
+      "Indirect modulation occurs through the direct binding of the hormone to intracellular enzyme active sites, altering their catalytic activity",
+      "Indirect modulation occurs when the hormone diffuses across the cell membrane and directly activates nuclear transcription without receptor binding",
+      "Indirect modulation occurs when the hormone activates G-proteins that directly phosphorylate cytoplasmic enzymes without intermediate second messenger generation"
     ],
     "answer": "A"
   },
   {
     "id": 37,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q36): Down regulation and up regulation are described as 'inherent properties.' For what purpose?",
+    "stem": "CASE STUDY: A student incorrectly states that second messengers decrease the amplitude of hormonal signals. The correct response based on the notes is:",
     "options": [
-      "They are inherent properties aimed at maximising the biological effect of hormones during sustained endocrine stimulation",
-      "They are inherent properties aimed at regulation of hormone action, balancing sensitivity and responsiveness of target cells",
-      "They are inherent properties aimed at protecting target cells from toxic hormone concentrations during states of endocrine hypersecretion",
-      "They are inherent properties aimed at coordinating hormone secretion with receptor synthesis across multiple target organ systems simultaneously"
+      "Second messengers do decrease amplitude in some signalling contexts as part of negative feedback regulation of hormonal pathways",
+      "Second messengers may indeed amplify or augment the amplitude of information â not decrease it â making them critical amplifiers in signal transduction",
+      "Second messengers maintain but never alter amplitude; their role is exclusively to maintain steady-state signal intensity without any amplification",
+      "Second messengers have no effect on signal amplitude; they only determine the speed of signal transmission from the hormone-receptor complex to the effector"
     ],
     "answer": "B"
   },
   {
     "id": 38,
     "type": "mcq",
-    "stem": "Only the free hormone is biologically active. What specifically happens to protein-bound hormones according to the notes?",
+    "stem": "CASE STUDY (continued from Q37): The student asks what specific category of substances second messengers belong to. The MOST precise description from the notes is:",
     "options": [
-      "Protein-bound hormones are immediately degraded by plasma proteases and cannot contribute to the free hormone pool",
-      "Protein-bound hormones are not readily available for expression of their biological effects â only free hormones are biologically active",
-      "Protein-bound hormones are actively transported across cell membranes to intracellular receptors but cannot bind extracellular membrane receptors",
-      "Protein-bound hormones are converted to inactive metabolites by hepatic enzymes before they can dissociate from carrier proteins"
+      "Second messengers are lipid-soluble hormones that can diffuse across cell membranes to reach intracellular receptors",
+      "Second messengers are substances that relay information from the hormone-receptor complex to the target site within the cell",
+      "Second messengers are protein kinases that directly phosphorylate target enzymes when activated by the hormone-receptor complex",
+      "Second messengers are nuclear transcription factors that are activated by the hormone-receptor complex to alter gene expression"
     ],
     "answer": "B"
   },
   {
     "id": 39,
     "type": "mcq",
-    "stem": "CASE STUDY: A patient is started on a drug that significantly increases plasma protein binding of a hormone. What clinical consequence does the nurse MOST accurately predict based on the notes?",
+    "stem": "The notes describe hormones that act via the phospholipids second messenger mechanism. Which specific product of arachidonic acid hydrolysis has actions described in the notes?",
     "options": [
-      "Reduced onset of action but prolonged duration of action â because greater protein binding reduces the free hormone available for immediate action but prolongs the half-life by protecting from degradation and excretion",
-      "Increased onset of action and shortened duration of action â because protein binding accelerates delivery to target tissues while shortening the circulating half-life",
-      "Neither onset nor duration changes â because the body compensates by immediately increasing hormone secretion to maintain constant free hormone concentrations",
-      "Reduced onset and reduced duration of action â because protein binding prevents both immediate action and slows the accumulation needed for sustained biological effect"
+      "Leukotrienes and thromboxanes with actions in the clotting cascade",
+      "Prostaglandins and other local hormones with various actions in the body",
+      "Prostacyclin and cytokines with actions in the immune system",
+      "Eicosanoids and retinoids with actions on nuclear receptor activation"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 40,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q39): The nurse explains the mechanism by which protein binding prolongs the half-life of hormones. Which mechanism is MOST precisely derived from the notes?",
+    "stem": "CASE STUDY: A patient is prescribed a drug that blocks phospholipase-C. Based on the notes, which signalling consequences would MOST directly result?",
     "options": [
-      "Protein binding prolongs half-life by activating the PI-3 kinase survival pathway, preventing programmed hormone degradation",
-      "Protein binding prolongs half-life by protecting the hormone from degradation and excretion while also providing temporary storage",
-      "Protein binding prolongs half-life by sequestering hormones in the bone marrow compartment, shielding them from hepatic first-pass metabolism",
-      "Protein binding prolongs half-life by converting the hormone to a more stable isoform that is resistant to enzymatic breakdown"
+      "Adenylyl cyclase activation would be blocked, preventing cAMP generation and eliminating G-protein coupled receptor signalling entirely",
+      "PIP2 would not be hydrolysed to IP3 and DAG; calcium would not be mobilised from the endoplasmic reticulum and mitochondria; protein kinase-C would not be activated; and prostaglandin synthesis from arachidonic acid would be impaired",
+      "JAK kinase activation would be blocked, preventing STAT phosphorylation and abolishing cytokine-mediated gene expression changes",
+      "Calmodulin would be unable to bind calcium, preventing all calcium-dependent protein kinase activation and smooth muscle stimulation"
     ],
     "answer": "B"
   },
   {
     "id": 41,
     "type": "mcq",
-    "stem": "Modulation of intracellular enzymes by hormones can occur by two mechanisms. Which pair MOST precisely identifies them?",
+    "stem": "CASE STUDY (continued from Q40): A student asks which compartments specifically provide the calcium mobilised by IP3. The MOST precise answer from the notes is:",
     "options": [
-      "Directly or via a second messenger",
-      "Directly or via a G-protein intermediate",
-      "Via phosphorylation or via dephosphorylation exclusively",
-      "Via receptor autophosphorylation or via receptor proteolysis"
+      "Calcium is mobilised from the nucleus and cytoplasmic vesicles by IP3",
+      "Calcium is mobilised from the endoplasmic reticulum and mitochondria by IP3",
+      "Calcium is mobilised exclusively from the extracellular space through calcium channels opened by IP3",
+      "Calcium is mobilised from the Golgi apparatus and plasma membrane by IP3"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 42,
     "type": "mcq",
-    "stem": "CASE STUDY: A student asks what the initial trigger is for the auto-phosphorylation of the tyrosine molecule in the insulin receptor beta subunit. The MOST precise answer from the notes is:",
+    "stem": "When hormones bind directly to receptors in the nucleus (pathway ii), what is the IMMEDIATE result?",
     "options": [
-      "The binding of insulin to the extracellular alpha component triggers the auto-phosphorylation of the tyrosine molecule in the beta portion",
-      "ATP directly binds to the intracellular beta portion, leading to the auto-phosphorylation of the tyrosine molecule (an integral part of the beta portion) to produce activated tyrosine kinase",
-      "GTP binds to the beta subunit, activating a G-protein cascade that phosphorylates the tyrosine residue in the intracellular domain",
-      "The formation of the hormone-receptor complex on the extracellular surface directly activates the tyrosine kinase domain without any additional cofactor requirement"
+      "The hormone directly stimulates protein kinase A in the nucleus, which phosphorylates chromatin-associated proteins to activate gene transcription",
+      "The hormone directly stimulates the transcription of mRNA, which leads to the formation of many intracellular proteins",
+      "The hormone activates guanylyl cyclase in the nucleus to generate cGMP, which activates protein kinase G",
+      "The hormone recruits JAK kinases to the nuclear membrane to phosphorylate STAT proteins already located in the nucleus"
     ],
     "answer": "B"
   },
   {
     "id": 43,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q42): After tyrosine kinase is activated, what is the NEXT specific step according to the notes?",
+    "stem": "CASE STUDY: A nurse compares the cyclic AMP mechanism with the phospholipids second messenger mechanism. Which is the KEY difference in how G-protein activation leads to different second messengers?",
     "options": [
-      "Activated tyrosine kinase directly activates transcription factors in the nucleus via nuclear translocation",
-      "Activated kinase promotes phosphorylation of other intracellular enzymes as the next downstream step",
-      "Activated tyrosine kinase immediately activates the ras proto-oncogene to initiate MAPK cascade",
-      "Activated tyrosine kinase generates cAMP as a second messenger before phosphorylating downstream targets"
+      "In cAMP mechanism, G-protein activates adenylyl cyclase to convert ATP to cAMP; in phospholipids mechanism, G-protein activates phospholipase-C to hydrolyse PIP2 to IP3 and DAG â different G-protein subtypes couple to different effector enzymes",
+      "In cAMP mechanism, G-protein activates phospholipase-C; in phospholipids mechanism, G-protein activates adenylyl cyclase â the same effector but generating different products depending on substrate availability",
+      "In cAMP mechanism, G-protein is not required and the receptor directly activates adenylyl cyclase; in phospholipids mechanism, G-protein is required to activate phospholipase-C",
+      "In cAMP mechanism, the receptor spans the membrane three times; in phospholipids mechanism, the receptor is a single transmembrane protein â the membrane-spanning number determines which second messenger is generated"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 44,
     "type": "mcq",
-    "stem": "Endocrine communication is specifically described in the notes. What happens to chemical substances in endocrine communication?",
+    "stem": "CASE STUDY (continued from Q43): The nurse asks whether the calcium generated in the phospholipids mechanism can itself act as a second messenger independent of calmodulin. What does the text state?",
     "options": [
-      "They are released into the interstitial space where they act on surrounding cells without entering the bloodstream",
-      "They are released directly to the extracellular spaces and enter the blood from where they are transported to the distal sites (target tissues)",
-      "They are released via gap junctions to adjacent cells without entering the extracellular fluid",
-      "They are secreted into ducts and transported directly to target organs through ductal channels"
+      "No â calcium must always bind calmodulin before it can exert any intracellular effect; it has no independent second messenger activity",
+      "Yes â calcium on its own has a second messenger effect in addition to its effects mediated through calmodulin binding",
+      "Yes â but only in smooth muscle cells where calcium independently activates myosin light chain kinase without calmodulin",
+      "No â calcium acts exclusively through DAG-activated protein kinase-C, not as an independent second messenger"
     ],
     "answer": "B"
   },
   {
     "id": 45,
     "type": "mcq",
-    "stem": "CASE STUDY: A nurse is explaining to a medical student why the formation of the hormone-receptor complex on the cell membrane causes changes in ionic conductance. Which mechanism MOST precisely explains this from the notes?",
+    "stem": "A student asks what unique characteristic is specifically mentioned about the calcium-calmodulin mechanism in relation to the effect of vasopressin, angiotensin II, and alpha adrenergic catecholamines. Which is MOST precisely stated?",
     "options": [
-      "The hormone-receptor complex generates a second messenger that diffuses to ion channels and opens them directly through allosteric activation",
-      "The formation of the hormone-receptor complex initiates a conformational change on the cell membrane, leading to the opening or closing of ionic channels for Na+, K+, and Ca2+, with the influx or efflux of these ions initiating physiological response",
-      "The hormone-receptor complex activates adenylyl cyclase which generates cAMP that directly phosphorylates voltage-gated ion channels to change their conductance",
-      "The hormone-receptor complex activates G-proteins which dissociate and directly open ligand-gated ion channels through physical interaction with the channel gate"
+      "This mechanism is unique in stimulating cardiac muscle and is the only second messenger pathway with direct cardiac inotropic effects",
+      "This mechanism is unique in stimulating smooth muscle",
+      "This mechanism is unique in stimulating both smooth muscle and skeletal muscle simultaneously",
+      "This mechanism is unique in stimulating glandular secretion in exocrine and endocrine organs"
     ],
     "answer": "B"
   },
   {
     "id": 46,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q45): A student asks what the TWO major downstream pathways are after tyrosine kinase activation by the insulin receptor. Which answer is MOST complete and precisely stated?",
+    "stem": "CASE STUDY: A pharmacology student asks why thyroid hormone receptors are located in the nucleus while glucocorticoid receptors are in the cytoplasm. Which MOST accurately reflects the notes on this distinction?",
     "options": [
-      "The adenylyl cyclase pathway (generating cAMP) and the phospholipase C pathway (generating IP3 and DAG)",
-      "The Phosphatidylinositol 3-kinase (PI-3) pathway for metabolic and cell survival/proliferation effects AND the Mitogen-activated protein kinase (MAPK) pathway proceeding via the product of ras proto-oncogene to activate transcription factors",
-      "The MAP kinase pathway only and the protein kinase A pathway only â both proceed independently downstream of tyrosine kinase activation",
-      "The PI-3 kinase pathway for immune cell activation and the MAPK pathway for endocrine hormone synthesis"
+      "The notes confirm that receptors for oestrogens and thyroid hormones are in the nucleus and receptors for glucocorticoids are in the cytoplasm; the exact location of the rest is still a subject for further research",
+      "The notes confirm that all steroid hormone receptors are in the nucleus while all peptide hormone receptors are in the cytoplasm â the distinction reflects chemical class",
+      "The notes confirm that thyroid hormone receptors are in the cytoplasm while glucocorticoid receptors are in the nucleus â the locations are opposite to commonly stated information",
+      "The notes confirm that thyroid hormone receptors are in the nucleus and glucocorticoid receptors are on the cell membrane â glucocorticoids act via membrane receptors and cAMP second messengers"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 47,
     "type": "mcq",
-    "stem": "Cell-to-cell communication is described as a unique feature in endocrinology. Which statement MOST precisely describes the molecular nature of the signal involved?",
+    "stem": "CASE STUDY (continued from Q46): A student asks what steroid hormone must do FIRST before it can reach its intracellular receptor. What is MOST precisely described in the diagram sequence?",
     "options": [
-      "The signal is carried by electrical impulses transmitted between gap junctions connecting adjacent cells in all types of cell-to-cell communication",
-      "The signal is carried by biochemical substances from one cell to the other; this information is received by receptors on the target cell, interpreted, and action is carried out in the form of biological response",
-      "The signal is carried by membrane-bound molecules that require direct cell-to-cell contact in all forms of cellular communication described in endocrinology",
-      "The signal is carried exclusively by peptide hormones that cannot cross cell membranes and therefore must interact with surface receptors in all forms of communication"
+      "The steroid hormone must be converted to an active form by cytoplasmic enzymes before it can diffuse across the cell membrane",
+      "The steroid hormone must first diffuse through the cell membrane before it can bind to an intracellular receptor",
+      "The steroid hormone must bind to a cell surface receptor first, which then internalises the hormone by receptor-mediated endocytosis",
+      "The steroid hormone must be transported across the cell membrane by a specific ATP-dependent transporter protein"
     ],
     "answer": "B"
   },
   {
     "id": 48,
     "type": "fitb",
-    "stem": "Receptors are large protein molecules with a density of about _______________ to 100,000 per cell.",
-    "answer": "2,000",
+    "stem": "Intracellular receptors are located either in the _______________ or nucleus of target cells.",
+    "answer": "cytosol",
     "acceptableAnswers": [
-      "2,000",
-      "2000"
+      "cytosol",
+      "cytoplasm"
     ]
   },
   {
     "id": 49,
     "type": "fitb",
-    "stem": "CASE STUDY: An examiner asks: 'The binding of a hormone to its receptor is the initial _______________ of the efficacy of hormone action.' One precise noun from the notes must be supplied.",
-    "answer": "determinant",
+    "stem": "CASE STUDY: An examiner states: 'The receptors for oestrogens and thyroid hormones are located in the _______________.' One precise compartment from the notes must be supplied.",
+    "answer": "nucleus",
     "acceptableAnswers": [
-      "determinant"
+      "nucleus"
     ]
   },
   {
     "id": 50,
     "type": "fitb",
-    "stem": "Hormones bind to the _______________ portion of the receptors on the cell membrane to form the hormone-receptor complex.",
-    "answer": "extracellular",
+    "stem": "The human genome contains about _______________ nuclear receptors that mediate the action of steroid hormones, T4, eicosanoids, activated vitamin D, retinoid fatty acids, bile acids, and xenobiotics.",
+    "answer": "48",
     "acceptableAnswers": [
-      "extracellular"
+      "48"
     ]
   },
   {
     "id": 51,
     "type": "fitb",
-    "stem": "CASE STUDY: A student is asked: 'The four classes of cell membrane receptors are ion-channel receptors, G-protein coupled receptors (GPCRs), tyrosine kinase-linked receptors, and receptors with intrinsic _______________ kinase enzymatic activity.' One precise term is missing.",
-    "answer": "tyrosine",
+    "stem": "CASE STUDY: An exam question reads: 'In the cyclic AMP mechanism, the receptors for this action span the membrane _______________ times and are coupled to G-proteins located on the inside of the cell.' One precise number must be supplied.",
+    "answer": "seven",
     "acceptableAnswers": [
-      "tyrosine"
+      "seven",
+      "7"
     ]
   },
   {
     "id": 52,
     "type": "fitb",
-    "stem": "The insulin receptor (growth factor receptor) is a tetramer consisting of 2 extracellular _______________ subunits and 2 trans/intracellular beta subunits.",
-    "answer": "alpha",
+    "stem": "Adenylyl cyclase converts ATP to _______________ or GTP to cGMP.",
+    "answer": "cyclic adenosine monophosphate (cAMP)",
     "acceptableAnswers": [
-      "alpha",
-      "Î±"
+      "cAMP",
+      "cyclic AMP",
+      "cyclic adenosine monophosphate"
     ]
   },
   {
     "id": 53,
     "type": "fitb",
-    "stem": "CASE STUDY: An examiner states: 'ATP binds to the intracellular beta portion leading to the auto-phosphorylation of _______________ molecule (an integral part of the beta portion) to produce activated tyrosine kinase.' One precise molecule must be supplied.",
-    "answer": "tyrosine",
+    "stem": "CASE STUDY: A student is asked: 'Phospholipase-C catalyses the hydrolysis of phosphatidyl inositol 4,5 diphosphate (PIP2) to inositol triphosphate (IP3) and _______________.' One precise product must be supplied.",
+    "answer": "diacyl glycerol (DAG)",
     "acceptableAnswers": [
-      "tyrosine",
-      "tyrosine molecule"
+      "DAG",
+      "diacyl glycerol",
+      "diacylglycerol"
     ]
   },
   {
     "id": 54,
     "type": "fitb",
-    "stem": "The PI-3 kinase pathway serves as a _______________ pathway as well as for cell survival and proliferation.",
-    "answer": "metabolic",
+    "stem": "IP3 mobilises calcium from the endoplasmic reticulum and _______________.",
+    "answer": "mitochondria",
     "acceptableAnswers": [
-      "metabolic"
+      "mitochondria"
     ]
   },
   {
     "id": 55,
     "type": "fitb",
-    "stem": "CASE STUDY: A student is told: 'The MAPK pathway proceeds via the product of _______________ proto-oncogene to activate transcription factors.' One precise gene name must be supplied.",
-    "answer": "ras",
+    "stem": "CASE STUDY: An examiner asks: 'The DAG activates protein kinase-_______________ leading to phosphorylation of enzymes.' One letter from the notes must be supplied.",
+    "answer": "C",
     "acceptableAnswers": [
-      "ras"
+      "C"
     ]
   },
   {
     "id": 56,
     "type": "fitb",
-    "stem": "Greater protein binding reduces the _______________ but prolongs the duration of hormone action.",
-    "answer": "onset",
+    "stem": "In the calcium-calmodulin mechanism, calcium enters the cells and binds to a protein called _______________ which changes its shape and initiates multiple effects inside the cells.",
+    "answer": "calmodulin",
     "acceptableAnswers": [
-      "onset"
+      "calmodulin"
     ]
   },
   {
     "id": 57,
     "type": "fitb",
-    "stem": "CASE STUDY: An examiner asks: 'Autoimmune antibodies can either block hormone action leading to biological _______________ OR accentuate hormone action causing biological hyperactivity.' One clinical term must be supplied.",
-    "answer": "deficiency",
+    "stem": "CASE STUDY: An examiner states: 'Second messengers are substances that relay information from the hormone-receptor complex to the target site within the cell; they are critically important in signal transduction and may indeed _______________ or augment the amplitude of information.' One precise verb must be supplied.",
+    "answer": "amplify",
     "acceptableAnswers": [
-      "deficiency"
+      "amplify"
     ]
   },
   {
     "id": 58,
     "type": "fitb",
-    "stem": "Hormones (mainly _______________ soluble) are bound to plasma proteins for transport in the aqueous solution of body fluids.",
+    "stem": "In the JAK-STAT pathway, cytokine receptors are single transmembrane proteins with the amino end _______________ and carboxyl end inside the cells.",
+    "answer": "outside",
+    "acceptableAnswers": [
+      "outside"
+    ]
+  },
+  {
+    "id": 59,
+    "type": "fitb",
+    "stem": "CASE STUDY: An exam asks: 'JAKs in turn phosphorylate the signal transducer and activator of transcription (_______________)  proteins.' The full abbreviation from the notes must be supplied.",
+    "answer": "STAT",
+    "acceptableAnswers": [
+      "STAT"
+    ]
+  },
+  {
+    "id": 60,
+    "type": "fitb",
+    "stem": "Activated STAT proteins translocate into the _______________ to alter gene expression by the transcription of mRNA.",
+    "answer": "nucleus",
+    "acceptableAnswers": [
+      "nucleus"
+    ]
+  },
+  {
+    "id": 61,
+    "type": "fitb",
+    "stem": "CASE STUDY: A student is asked: 'Arachidonic acid, which is the _______________ portion of DAG, is also hydrolysed to several prostaglandins and other local hormones.' One precise word must be supplied.",
     "answer": "lipid",
     "acceptableAnswers": [
       "lipid"
     ]
   },
   {
-    "id": 59,
-    "type": "fitb",
-    "stem": "CASE STUDY: A nurse explains: 'Protein binding provides a means of _______________ storage, which protects the hormone from degradation and excretion and thus prolongs half-life.' One precise adjective from the notes must be supplied.",
-    "answer": "temporary",
-    "acceptableAnswers": [
-      "temporary"
-    ]
-  },
-  {
-    "id": 60,
-    "type": "fitb",
-    "stem": "Receptors whose number increases in response to stimuli are said to undergo _______________ regulation, while those whose number decreases are said to undergo down regulation.",
-    "answer": "up",
-    "acceptableAnswers": [
-      "up",
-      "up regulation",
-      "upregulation"
-    ]
-  },
-  {
-    "id": 61,
-    "type": "fitb",
-    "stem": "CASE STUDY: An examiner states: 'In endocrine communication, chemical substances are released directly to the extracellular spaces and enter the blood from where they are transported to the _______________ sites (target tissues).' One precise adjective must be supplied.",
-    "answer": "distal",
-    "acceptableAnswers": [
-      "distal"
-    ]
-  },
-  {
     "id": 62,
     "type": "fitb",
-    "stem": "Epicrine communication, also called _______________ communication, occurs when hormones communicate via gap junctions without contacting the interstitial fluid.",
-    "answer": "juxtacrine",
+    "stem": "Binding of a steroid hormone to a specific domain in the receptor causes conformational changes and activation of _______________ and proteomic processes.",
+    "answer": "genomic",
     "acceptableAnswers": [
-      "juxtacrine"
+      "genomic"
     ]
   },
   {
     "id": 63,
     "type": "fitb",
-    "stem": "CASE STUDY: An examiner asks: 'Autocrine communication involves interaction of the hormone with the very cell that produces it. When contact with the interstitial fluid is NOT made, it is termed _______________ communication.' One precise term must be supplied.",
-    "answer": "intracrine",
+    "stem": "CASE STUDY: An examiner asks: 'In binding to receptors on the cytoplasm (pathway i), the hormone-receptor complex diffuses into the nucleus where it stimulates transcription of _______________.' One precise molecule must be supplied.",
+    "answer": "messenger RNA",
     "acceptableAnswers": [
-      "intracrine"
+      "messenger RNA",
+      "mRNA"
     ]
   },
   {
     "id": 64,
     "type": "fitb",
-    "stem": "Neurocrine communication involves nerves producing chemical substances released through _______________ flow via axons to target cells.",
-    "answer": "axoplasmic",
+    "stem": "The mRNA produced from nuclear transcription diffuses back into the _______________ to stimulate protein synthesis.",
+    "answer": "cytoplasm",
     "acceptableAnswers": [
-      "axoplasmic"
+      "cytoplasm",
+      "cytosol"
     ]
   },
   {
     "id": 65,
     "type": "fitb",
-    "stem": "CASE STUDY: A student is asked: 'In exocrine communication, chemical substances are secreted into _______________ and transported to their target organs.' One precise anatomical structure must be supplied.",
-    "answer": "ducts",
+    "stem": "CASE STUDY: An examiner states: 'The calcium-calmodulin mechanism is unique in stimulating _______________ muscle.' One tissue type from the notes must be supplied.",
+    "answer": "smooth",
     "acceptableAnswers": [
-      "ducts"
+      "smooth"
     ]
   },
   {
     "id": 66,
     "type": "fitb",
-    "stem": "Solinocrine communication involves chemical substances secreted into the _______________ aspects of the gut, like chemical substances involved in gastro-intestinal endocrinology.",
-    "answer": "luminal",
+    "stem": "In the cyclic AMP mechanism, the activated G-proteins stimulate adenyl cyclase which converts ATP to cAMP; a cascade of reactions is then initiated by the second messenger leading to the activation of protein kinases and _______________.",
+    "answer": "phosphatases",
     "acceptableAnswers": [
-      "luminal"
+      "phosphatases"
     ]
   },
   {
     "id": 67,
     "type": "fitb",
-    "stem": "CASE STUDY: An exam question reads: 'In neuro-endocrine communications, hormones produced by _______________ cell bodies are transported through terminal axons to the blood; transport to distant target cells then occurs via the blood stream.' One cell type must be supplied.",
-    "answer": "nerve",
+    "stem": "CASE STUDY: An exam reads: 'The JAK-STAT pathway is initiated via the _______________ receptors.' One precise receptor class must be supplied.",
+    "answer": "cytokine",
     "acceptableAnswers": [
-      "nerve",
-      "nerve cell"
+      "cytokine"
     ]
   },
   {
     "id": 68,
     "type": "fitb",
-    "stem": "The formation of a hormone-receptor complex initiates a conformational change on the cell membrane leading to the opening or closing of ionic channels for Na+, K+, and Ca2+; the influx or efflux of these ions initiates _______________ response.",
-    "answer": "physiological",
+    "stem": "Binding to a specific domain in the intracellular receptor causes conformational changes; due to the time taken for these reactions to occur, the onset of action of these hormones is _______________.",
+    "answer": "slow",
     "acceptableAnswers": [
-      "physiological"
+      "slow",
+      "delayed",
+      "slower"
     ]
   },
   {
     "id": 69,
     "type": "fitb",
-    "stem": "CASE STUDY: An examiner asks: 'Activated tyrosine kinase promotes _______________ of other intracellular enzymes, initiating downstream signalling.' One biochemical process from the notes must be supplied.",
-    "answer": "phosphorylation",
+    "stem": "CASE STUDY: A student is asked: 'In the phospholipids second messenger mechanism, the hormone-receptor complex activates G-protein which in turn stimulates _______________.' One precise enzyme must be supplied.",
+    "answer": "phospholipase-C",
     "acceptableAnswers": [
-      "phosphorylation"
+      "phospholipase-C",
+      "phospholipase C"
     ]
   },
   {
     "id": 70,
     "type": "fitb",
-    "stem": "In paracrine communication, chemical substances are released into the _______________ space where their effects are exerted on surrounding cells.",
-    "answer": "interstitial",
+    "stem": "The JAK-STAT pathway is initiated via cytokine receptors; JAKs activate cytoplasmic _______________ tyrosine kinases as the first intracellular enzymatic step.",
+    "answer": "Janus",
     "acceptableAnswers": [
-      "interstitial"
+      "Janus",
+      "Janus kinases",
+      "JAK"
     ]
   }
 ]
