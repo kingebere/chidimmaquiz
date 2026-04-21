@@ -2,787 +2,784 @@
   {
     "id": 1,
     "type": "mcq",
-    "stem": "The anterior pituitary produces five major hormones, each from a specific cell type. Which matching is MOST precisely and completely correct?",
+    "stem": "Human growth hormone (HGH) has a precise molecular structure. Which description is MOST completely and correctly stated?",
     "options": [
-      "GH produced by somatotropes; TSH produced by thyrotropes; ACTH produced by corticotropes; FSH and LH produced by gonadotropes; prolactin produced by lactotropes",
-      "GH produced by somatotropes; TSH produced by thyrotropes; ACTH produced by corticotropes; FSH and LH produced by gonadotropes; prolactin produced by lactotrophs",
-      "GH produced by somatotropes; TSH produced by gonadotropes; ACTH produced by corticotropes; FSH and LH produced by thyrotropes; prolactin produced by lactotrophs",
-      "GH produced by somatotropes; TSH produced by thyrotropes; ACTH produced by gonadotropes; FSH and LH produced by corticotropes; prolactin produced by lactotrophs"
+      "HGH is a 191-amino acid single-chain polypeptide containing two disulphide bridges; it is secreted by acidophils called somatotropes, the most abundant cells of the pituitary",
+      "HGH is a 192-amino acid single-chain polypeptide containing two disulphide bridges; it is secreted by acidophils called somatotropes, the most abundant cells of the pituitary",
+      "HGH is a 191-amino acid single-chain polypeptide containing three disulphide bridges; it is secreted by acidophils called somatotropes, the most abundant cells of the pituitary",
+      "HGH is a 191-amino acid double-chain polypeptide containing two disulphide bridges; it is secreted by basophils called somatotropes, the most abundant cells of the pituitary"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 2,
     "type": "mcq",
-    "stem": "In the histological classification of anterior pituitary cells, cells are classified based on two specific staining characteristics. Which classification is MOST precisely stated?",
+    "stem": "The normal human growth hormone is coded by a specific gene located at a specific chromosomal position. Which is MOST precisely stated?",
     "options": [
-      "Chromophobes and chromophils; chromophils are further divided into acidophils and basophils; hormone-secreting cells are chromophils; chromophobes are poorly staining non-secretory cells",
-      "Acidophils and basophils only; there is no chromophobe classification in the current histological system of pituitary cells",
-      "Chromophobes and chromophils only; chromophils are not further subdivided because all chromophils stain identically",
-      "Eosinophils and basophils; chromophobes are a third minor category of non-staining cells with no secretory function"
+      "Coded by the hGH-N gene located on the long arm (q22-24 region) of chromosome 17; this variant accounts for 75% of all growth hormones",
+      "Coded by the hGH-N gene located on the short arm (p22-24 region) of chromosome 17; this variant accounts for 75% of all growth hormones",
+      "Coded by the hGH-N gene located on the long arm (q22-24 region) of chromosome 7; this variant accounts for 75% of all growth hormones",
+      "Coded by the hGH-N gene located on the long arm (q22-24 region) of chromosome 17; this variant accounts for 80% of all growth hormones"
     ],
     "answer": "A"
   },
   {
     "id": 3,
     "type": "mcq",
-    "stem": "CASE STUDY: A student asks which anterior pituitary cell type is the most abundant, accounting for about half of the anterior pituitary cells in preparation. Which is MOST precisely correct?",
+    "stem": "CASE STUDY: A student asks about another variant form of GH that appears during pregnancy. Which is MOST precisely stated?",
     "options": [
-      "Somatotropes, which produce growth hormone and are enormous cells making up about half of the anterior pituitary cells",
-      "Corticotropes, which produce ACTH and are the largest cells comprising approximately half of all anterior pituitary secretory cells",
-      "Lactotrophs, which produce prolactin and double in size during pregnancy making them the most numerous anterior pituitary cell type",
-      "Gonadotropes, which produce FSH and LH and are the most numerous cells because two hormones must be produced simultaneously"
+      "Another variant form of GH is produced by the placenta, which appears appreciably in the blood during pregnancy",
+      "Another variant form of GH is produced by the liver, which appears appreciably in the blood during pregnancy",
+      "Another variant form of GH is produced by the decidua, which appears appreciably in the blood during pregnancy",
+      "Another variant form of GH is produced by the fetal pituitary, which appears appreciably in the blood during pregnancy"
     ],
     "answer": "A"
   },
   {
     "id": 4,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q3): The student then asks about the staining characteristics of somatotropes. Which is MOST precisely correct?",
+    "stem": "CASE STUDY (continued from Q3): The student asks about species specificity of GH. Which statement is MOST precisely derived from the notes?",
     "options": [
-      "Somatotropes are acidophilic cells; they secrete growth hormone; they are enormous cells that comprise about half of the anterior pituitary cells",
-      "Somatotropes are basophilic cells; they secrete growth hormone; they are enormous cells that comprise about half of the anterior pituitary cells",
-      "Somatotropes are chromophobic cells; they secrete growth hormone; they are enormous cells that comprise about half of the anterior pituitary cells",
-      "Somatotropes are eosinophilic cells but classified as basophils; they secrete growth hormone; they make up about a quarter of the anterior pituitary cells"
+      "There are considerable variations in the structure of GH from species to species; thus GH from one species may not be active when administered to another species",
+      "There are minimal variations in the structure of GH from species to species; thus GH from one species is generally active when administered to another species",
+      "There are no meaningful variations in the structure of GH from species to species; only immunological cross-reactivity varies across species",
+      "There are considerable variations in the function of GH across species; however, the molecular structure of GH is universally conserved"
     ],
     "answer": "A"
   },
   {
     "id": 5,
     "type": "mcq",
-    "stem": "Lactotrophs have a specific change during pregnancy. Which statement MOST precisely describes this?",
+    "stem": "GH secretion and metabolism involves a specific initial production step. Which is MOST precisely stated?",
     "options": [
-      "Lactotrophs are acidophils that secrete prolactin; they double in size during pregnancy, making them the most numerous cells at that time",
-      "Lactotrophs are basophils that secrete prolactin; they double in number during pregnancy, making them the most numerous cells at that time",
-      "Lactotrophs are acidophils that secrete prolactin; they double in size during pregnancy, making them the second most numerous cells at that time",
-      "Lactotrophs are basophils that secrete prolactin; they increase by 30% in size during pregnancy due to oestrogen stimulation"
+      "GH is produced as a prohormone in the ribosomes and undergoes post-translational modification to make the active hormone; it is stored in secretory vesicles and released by exocytosis",
+      "GH is produced as a pre-prohormone in the rough endoplasmic reticulum and undergoes co-translational cleavage to make the active hormone; it is stored in secretory vesicles",
+      "GH is produced directly as an active hormone in the ribosomes without any post-translational modification; it is immediately secreted without storage in vesicles",
+      "GH is produced as a prohormone in the smooth endoplasmic reticulum and undergoes post-translational modification; it is stored in the Golgi apparatus"
     ],
     "answer": "A"
   },
   {
     "id": 6,
     "type": "mcq",
-    "stem": "CASE STUDY: A student lists the basophilic anterior pituitary cells. Which combination is MOST precisely correct?",
+    "stem": "GH has a specific half-life and daily output. Which values are MOST precisely stated?",
     "options": [
-      "Corticotropes, gonadotropes, and thyrotropes are all basophilic cells",
-      "Corticotropes, somatotropes, and thyrotropes are basophilic cells",
-      "Gonadotropes, lactotrophs, and thyrotropes are basophilic cells",
-      "Corticotropes, gonadotropes, and lactotrophs are basophilic cells"
+      "GH has a 6-20 minute half-life and a daily output of 0.18-0.98 mg/day in adults",
+      "GH has a 6-20 minute half-life and a daily output of 1.8-9.8 mg/day in adults",
+      "GH has a 20-60 minute half-life and a daily output of 0.18-0.98 mg/day in adults",
+      "GH has a 6-20 minute half-life and a daily output of 0.018-0.098 mg/day in adults"
     ],
     "answer": "A"
   },
   {
     "id": 7,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q6): A student asks about gonadotropes specifically. Which statement is MOST precisely correct?",
+    "stem": "CASE STUDY: A student traces the baseline GH level in adults and children. Which statement is MOST precisely derived from the notes?",
     "options": [
-      "Gonadotropes are basophilic cells that produce FSH and luteinising hormone (LH); they constitute 10-15% of the anterior pituitary cells",
-      "Gonadotropes are acidophilic cells that produce FSH and LH; they constitute 10-15% of the anterior pituitary cells",
-      "Gonadotropes are basophilic cells that produce FSH and LH; they constitute 5-10% of the anterior pituitary cells",
-      "Gonadotropes are chromophobic cells that produce FSH and LH; they constitute 10-15% of the anterior pituitary cells"
+      "The baseline level is less than 5ng/ml in adults and 5ng/ml in children; indeed values are higher in early neonatal periods, fall during childhood, rise again at puberty, and fall during ageing",
+      "The baseline level is less than 5ng/ml in adults and greater than 5ng/ml in children; values are lower in early neonatal periods, rise during childhood, reach a peak at puberty, and fall during ageing",
+      "The baseline level is less than 1ng/ml in adults and less than 5ng/ml in children; values are constant throughout early neonatal periods and childhood then rise sharply at puberty",
+      "The baseline level is greater than 5ng/ml in adults and less than 5ng/ml in children; values are higher in adults because GH promotes tissue maintenance rather than growth"
     ],
     "answer": "A"
   },
   {
     "id": 8,
     "type": "mcq",
-    "stem": "Thyrotropes represent a specific percentage of the anterior pituitary. Which is MOST precisely stated?",
+    "stem": "CASE STUDY (continued from Q7): After secretion, GH is bound to plasma proteins. What percentage is loosely bound?",
     "options": [
-      "Thyrotropes represent less than 10% of the anterior pituitary cells; they are basophilic in staining characteristics; they secrete thyroid-stimulating hormones (TSH)",
-      "Thyrotropes represent less than 10% of the anterior pituitary cells; they are acidophilic in staining characteristics; they secrete thyroid-stimulating hormones (TSH)",
-      "Thyrotropes represent 10-15% of the anterior pituitary cells; they are basophilic in staining characteristics; they secrete thyroid-stimulating hormones (TSH)",
-      "Thyrotropes represent less than 10% of the anterior pituitary cells; they are chromophobic in staining characteristics; they secrete thyroid-stimulating hormones (TSH)"
+      "About 50% is loosely bound to plasma proteins (GH-binding protein); secretion occurs in a pulsatile manner and it is rapidly metabolised in the liver and excreted",
+      "About 25% is loosely bound to plasma proteins (GH-binding protein); secretion occurs in a pulsatile manner and it is rapidly metabolised in the kidney and excreted",
+      "About 75% is loosely bound to plasma proteins (GH-binding protein); secretion occurs in a pulsatile manner and it is rapidly metabolised in the liver and excreted",
+      "About 50% is tightly bound to plasma proteins (GH-binding protein); secretion occurs in a continuous manner and it is metabolised in the liver"
     ],
     "answer": "A"
   },
   {
     "id": 9,
     "type": "mcq",
-    "stem": "The 'Others' category of anterior pituitary cells is mentioned. Which statement MOST precisely describes them?",
+    "stem": "GH acts primarily by binding to receptors on the cell surface. The receptor belongs to a specific superfamily. Which is MOST precisely correct?",
     "options": [
-      "More recently, specialised cells called folliculostellate cells have been identified; they produce cytokine IL-6; they exhibit autocrine or paracrine actions; they consist of supporting cells (pituicytes)",
-      "More recently, specialised cells called folliculostellate cells have been identified; they produce cytokine IL-12; they exhibit endocrine actions; they consist of supporting cells (pituicytes)",
-      "More recently, specialised cells called folliculostellate cells have been identified; they produce cytokine IL-6; they exhibit autocrine or paracrine actions; they consist of sustentacular cells (Sertoli-like cells)",
-      "More recently, specialised cells called parastellate cells have been identified; they produce cytokine IL-6; they exhibit paracrine actions only; they consist of supporting cells (pituicytes)"
+      "The GH receptor is a 620-amino acid homodimer and a member of the cytokine receptor superfamily; like insulin, it activates many different intracellular enzyme cascades and enables the JAKs-STAT pathway",
+      "The GH receptor is a 620-amino acid heterodimer and a member of the cytokine receptor superfamily; like insulin, it activates many different intracellular enzyme cascades",
+      "The GH receptor is a 420-amino acid homodimer and a member of the tyrosine kinase receptor superfamily; like insulin, it activates many different intracellular enzyme cascades",
+      "The GH receptor is a 620-amino acid homodimer and a member of the G-protein coupled receptor superfamily; unlike insulin, it activates second messenger cascades only"
     ],
     "answer": "A"
   },
   {
     "id": 10,
     "type": "mcq",
-    "stem": "CASE STUDY: A nurse is asked about the blood supply to the anterior pituitary. Which description is MOST completely and precisely correct?",
+    "stem": "CASE STUDY: A student traces the GH signalling cascade from receptor binding. Which sequence is MOST precisely correct?",
     "options": [
-      "Blood supply to the anterior pituitary comes from the superior, middle, and inferior hypophyseal arteries â all branches of the internal carotid artery; the superior hypophyseal artery forms a primary capillary network in the median eminence; this network recombines to create a long portal vein draining down the pituitary stalk to the adenohypophysis; a breakup generates a secondary capillary network; hormones are transported via the hypothalami-hypophyseal portal system",
-      "Blood supply to the anterior pituitary comes from the superior and inferior hypophyseal arteries only â branches of the external carotid artery; the superior hypophyseal artery forms a primary network in the median eminence; this creates a short portal vein draining to the adenohypophysis; a breakup generates a secondary capillary network",
-      "Blood supply to the anterior pituitary comes from the superior hypophyseal artery only â a branch of the internal carotid artery; it forms a primary capillary network in the anterior pituitary directly without a portal system",
-      "Blood supply to the anterior pituitary comes from the superior, middle, and inferior hypophyseal arteries â all branches of the vertebral artery; the superior hypophyseal artery forms a primary capillary network at the infundibular process"
+      "GH binds receptor â activates JAKS-2 (member of Janus family of cytoplasmic tyrosine kinases) â STAT means signal transducers and activators of transcription â binding of GH to receptors leads to dimerisation of receptors â activating Janus kinases â phosphorylates STAT proteins â transcription with subsequent translation of proteins necessary for GH action; also acts through MAP kinase pathways for chondrogenesis",
+      "GH binds receptor â activates G-protein â generates cAMP â activates protein kinase A â phosphorylates target enzymes â transcription of growth-related genes",
+      "GH binds receptor â autophosphorylates tyrosine residues on the receptor â activates PI-3 kinase â generates PIP3 â activates Akt â phosphorylates STAT proteins",
+      "GH binds receptor â activates JAKS-2 â phosphorylates tyrosine on the receptor â activates PLC â generates IP3 and DAG â activates protein kinase C"
     ],
     "answer": "A"
   },
   {
     "id": 11,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q10): Which organ is described as the MOST vascularised of all mammalian tissues?",
+    "stem": "CASE STUDY (continued from Q10): STAT is an acronym. What does STAT stand for?",
     "options": [
-      "The anterior pituitary is the most vascularised of all mammalian tissues",
-      "The median eminence is the most vascularised of all mammalian tissues",
-      "The hypothalamus is the most vascularised of all mammalian tissues",
-      "The neurohypophysis is the most vascularised of all mammalian tissues"
+      "Signal transducers and activators of transcription",
+      "Signal transference and amplifiers of translation",
+      "Steroid transcription and activators of translation",
+      "Signal transducers and amplifiers of transcription"
     ],
     "answer": "A"
   },
   {
     "id": 12,
     "type": "mcq",
-    "stem": "The hypothalami-hypophyseal portal system serves a specific purpose. Which description is MOST precisely stated?",
+    "stem": "GH is also known by an alternative name. What is this name?",
     "options": [
-      "The portal system ensures that significant amounts of neurohormones are transported from the median eminence to their target cells in the anterior pituitary, while insignificant amounts reach the peripheral circulation",
-      "The portal system ensures that all neurohormones produced in the hypothalamus reach equal concentrations in both the anterior pituitary and the peripheral circulation",
-      "The portal system ensures that neurohormones bypass the anterior pituitary and are delivered directly to the target organs such as the thyroid and adrenal glands",
-      "The portal system ensures that significant amounts of neurohormones are delivered to the peripheral circulation, while insignificant amounts reach the anterior pituitary target cells"
+      "GH is also called somatotropic hormone",
+      "GH is also called somatostatin",
+      "GH is also called somatomedins",
+      "GH is also called somatocrinin"
     ],
     "answer": "A"
   },
   {
     "id": 13,
     "type": "mcq",
-    "stem": "CASE STUDY: The inferior and middle hypophyseal arteries supply a specific region of the pituitary. Which is MOST precisely stated?",
+    "stem": "CASE STUDY: A student describes the effect of GH on bone and cartilage. Which statement is MOST completely and precisely correct?",
     "options": [
-      "The inferior and middle hypophyseal arteries supply the neurohypophysis and some direct branches come from the superior hypophyseal arteries",
-      "The inferior and middle hypophyseal arteries supply the adenohypophysis and some direct branches come from the superior hypophyseal arteries",
-      "The inferior and middle hypophyseal arteries supply only the posterior pituitary, while the anterior pituitary receives exclusive supply from the superior hypophyseal artery",
-      "The inferior and middle hypophyseal arteries supply the median eminence and some direct branches come from the superior hypophyseal arteries"
+      "GH increases deposition of proteins by chondrogenic and osteogenic cells; stimulates new bone formation and converts chondrocytes into osteogenic cells; long bones grow in length in the epiphyseal cartilage with elongation of the shaft, pushing epiphyses further apart; epiphyseal cartilage is used progressively until fusion occurs between shaft and epiphyses; after this, growth in length stops but osteoblastic activity continues to thicken the jaw and skull bones; osteoclasts institute remodelling; epiphyses close at specific ages forming the basis for using X-rays to determine age",
+      "GH increases deposition of proteins by osteogenic cells only; stimulates osteoclasts to resorb bone and lay down new osteoid; long bones grow at the metaphysis rather than the epiphysis; fusion occurs at the epiphyseal plates; after fusion, growth continues through periosteal deposition exclusively",
+      "GH stimulates cartilage proliferation exclusively without affecting bone formation; it promotes chondrocyte hypertrophy but does not convert chondrocytes into osteogenic cells",
+      "GH increases deposition of proteins by chondrogenic cells; long bones grow by periosteal apposition rather than epiphyseal growth; osteoclasts remodel bone after epiphyseal fusion occurs"
     ],
     "answer": "A"
   },
   {
     "id": 14,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q13): The student asks how the final drainage of the pituitary portal system occurs. What is MOST precisely stated?",
+    "stem": "CASE STUDY (continued from Q13): GH has specific effects on protein metabolism. Which is MOST precisely correct?",
     "options": [
-      "A breakup occurs to generate a secondary capillary network that finally drains as the hypophyseal vein from where hormones are transported to other parts of the body",
-      "A breakup occurs to generate a secondary capillary network that finally drains as the portal vein from where hormones are transported to other parts of the body",
-      "A breakup occurs to generate a tertiary capillary network that finally drains as the hypophyseal vein from where hormones are transported to other parts of the body",
-      "A breakup occurs to generate a secondary venous sinus that finally drains as the jugular vein from where hormones are transported to other parts of the body"
+      "GH increases amino acid transport into cells, stimulates protein synthesis, and inhibits protein catabolism; it is an anabolic protein hormone and produces a positive nitrogen balance",
+      "GH decreases amino acid transport into cells but stimulates protein synthesis and inhibits protein catabolism; it produces a positive nitrogen balance",
+      "GH increases amino acid transport into cells but inhibits protein synthesis while stimulating protein catabolism; it produces a negative nitrogen balance",
+      "GH increases amino acid transport into cells, stimulates protein synthesis, and stimulates protein catabolism equally; it has no net effect on nitrogen balance"
     ],
     "answer": "A"
   },
   {
     "id": 15,
     "type": "mcq",
-    "stem": "The posterior pituitary consists of specific cell types and structures. Which statement is MOST precisely correct?",
+    "stem": "GH stimulates lipolysis through a specific mechanism and the resulting free fatty acids have a specific fate. Which is MOST precisely stated?",
     "options": [
-      "The posterior pituitary consists of the neural stalk (infundibular stem) and pars nervosa (infundibular process); it consists of numerous blood vessels, non-myelinated nerve fibres of supraoptic (SON) and paraventricular (PVN) nuclei cells, mast cells, and supporting cells (pituicytes)",
-      "The posterior pituitary consists of the neural stalk (infundibular stem) and pars nervosa (infundibular process); it consists of myelinated nerve fibres of SON and PVN cells, blood vessels, mast cells, and supporting cells (pituicytes)",
-      "The posterior pituitary consists of pars tuberalis and pars nervosa; it consists of numerous blood vessels, non-myelinated nerve fibres of SON and PVN cells, mast cells, and supporting cells (pituicytes)",
-      "The posterior pituitary consists of the neural stalk and pars intermedia; it consists of numerous blood vessels, non-myelinated nerve fibres of SON and PVN cells, mast cells, and supporting cells (pituicytes)"
+      "GH stimulates lipolysis by mobilising fat from adipose tissue; the released free fatty acids (FFAs) are utilised for energy production; the resultant effect is a tendency towards ketogenesis; it provides an alternative energy source during fasting, hypoglycaemia, and stressful situations, conserving protein for growth and development",
+      "GH stimulates lipolysis by mobilising fat from the liver; the released FFAs are utilised for energy production; the resultant effect is a tendency towards gluconeogenesis; it conserves protein",
+      "GH stimulates lipogenesis by mobilising fat from adipose tissue; the released FFAs are stored as triglycerides; the resultant effect is a tendency toward obesity; it increases protein catabolism",
+      "GH stimulates lipolysis by mobilising fat from adipose tissue; the released FFAs inhibit glucose oxidation; the resultant effect is a tendency towards hypoglycaemia; it promotes protein catabolism"
     ],
     "answer": "A"
   },
   {
     "id": 16,
     "type": "mcq",
-    "stem": "CASE STUDY: A student asks about the description of the posterior lobe of the pituitary. Which is MOST precisely stated?",
+    "stem": "CASE STUDY: A nurse explains GH's effects on carbohydrate metabolism. Which is MOST completely correct?",
     "options": [
-      "The posterior lobe of the pituitary is more like an extension of the ventral hypothalamus; the axons of the magnocellular cells of SON and PVN terminate primarily in the posterior pituitary lobe where secretory granules containing antidiuretic hormone (ADH) and oxytocin are in close proximity with adjacent capillaries",
-      "The posterior lobe of the pituitary is more like an extension of the dorsal hypothalamus; the axons of the magnocellular cells of SON and PVN terminate in the anterior pituitary lobe where secretory granules containing ADH and oxytocin are stored",
-      "The posterior lobe of the pituitary is more like an extension of the ventral hypothalamus; the axons of the parvocellular cells of SON and PVN terminate in the posterior pituitary lobe where secretory granules containing ADH and oxytocin are stored",
-      "The posterior lobe of the pituitary is more like an extension of the dorsal thalamus; the axons of the magnocellular cells terminate in the median eminence where ADH and oxytocin are released into the portal system"
+      "GH reduces peripheral utilisation of glucose and decreases glucose uptake by muscle; enhances hepatic glucose output; during fasting GH inhibits glycogenolysis in skeletal and cardiac muscles (glycostatic effect); increases blood sugar; secondarily stimulates B cells of the pancreas to produce insulin; continuous sustained stimulation may burn out beta cells leading to diabetes mellitus (diabetogenic effect)",
+      "GH increases peripheral utilisation of glucose and increases glucose uptake by muscle; decreases hepatic glucose output; stimulates glycogenolysis in skeletal and cardiac muscles; decreases blood sugar; suppresses B cells of the pancreas",
+      "GH reduces peripheral utilisation of glucose and decreases glucose uptake by muscle; decreases hepatic glucose output; during fasting GH promotes glycogenolysis in skeletal muscles; decreases blood sugar; stimulates B cells to produce glucagon",
+      "GH reduces peripheral glucose utilisation; increases gluconeogenesis in the liver; inhibits insulin secretion directly; produces hyperglycaemia through direct suppression of peripheral glucose uptake"
     ],
     "answer": "A"
   },
   {
     "id": 17,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q16): How are secretions from the posterior pituitary lobe released?",
+    "stem": "CASE STUDY (continued from Q16): In electrolyte metabolism, GH increases absorption of which two minerals from the gastrointestinal and renal systems?",
     "options": [
-      "Secretions occur when nerve impulses originate from the cells in the hypothalamus; the relationship between the pituitary and hypothalamus is called the hypothalamic-hypophyseal nervous tract",
-      "Secretions occur when hormones from the anterior pituitary diffuse backward through the portal system to stimulate posterior pituitary cells",
-      "Secretions occur when hypothalamic releasing hormones from the median eminence travel down the portal vein to the posterior pituitary",
-      "Secretions occur when systemic blood concentrations of ADH and oxytocin fall below threshold, triggering autoregulatory release from the posterior pituitary"
+      "Calcium and phosphorous",
+      "Calcium and sodium",
+      "Phosphorous and potassium",
+      "Sodium and calcium"
     ],
     "answer": "A"
   },
   {
     "id": 18,
     "type": "mcq",
-    "stem": "The embryological origin of the anterior pituitary is specifically described. Which is MOST precisely correct?",
+    "stem": "GH reduces the excretion of two specific ions, conserving them for incorporation into growing cells. Which pair is MOST precisely stated?",
     "options": [
-      "The anterior pituitary develops from ectoderm, arising from the pharyngeal epithelium, from an upward growth called Rathke's pouch, which migrates to contact the neurohypophysis",
-      "The anterior pituitary develops from endoderm, arising from the pharyngeal epithelium, from an upward growth called Rathke's pouch, which migrates to contact the neurohypophysis",
-      "The anterior pituitary develops from ectoderm, arising from the oral epithelium, from a downward growth called Rathke's pouch, which migrates to contact the neurohypophysis",
-      "The anterior pituitary develops from mesoderm, arising from the pharyngeal epithelium, from an upward growth called Rathke's pouch, which migrates to contact the neurohypophysis"
+      "Sodium (Na+) and potassium (K+)",
+      "Sodium (Na+) and chloride (Cl-)",
+      "Calcium (Ca2+) and phosphate (PO4-)",
+      "Potassium (K+) and calcium (Ca2+)"
     ],
     "answer": "A"
   },
   {
     "id": 19,
     "type": "mcq",
-    "stem": "CASE STUDY: During embryological development, a portion of Rathke's pouch tends to decline. What happens to this portion in humans versus other species?",
+    "stem": "CASE STUDY: A patient develops diabetes mellitus after years of acromegaly. Based on the notes, which mechanism explains this?",
     "options": [
-      "A portion of the upward growth tends to decline to form the intermediate lobe; in some species this lobe remains intact; in humans it tends to degenerate; it is believed to be incorporated into the anterior portion and develops the capacity to produce POMC and hypothalamus develops ACTH",
-      "A portion of the upward growth tends to decline to form the posterior lobe; in some species this lobe remains intact; in humans it tends to degenerate; it is incorporated into the posterior pituitary",
-      "A portion of the upward growth tends to decline to form the intermediate lobe; in all species this lobe remains intact; in humans it enlarges progressively throughout adult life",
-      "A portion of the upward growth tends to decline to form the pars tuberalis; in humans this structure is rudimentary; it is believed to develop capacity for prolactin production"
+      "Continuous and sustained stimulation of B cells by GH-induced hyperglycaemia may burn out the beta cells, leading to diabetes mellitus â this is the diabetogenic effect of GH",
+      "GH directly destroys pancreatic beta cells through an immune mechanism, reducing insulin production",
+      "GH causes direct inhibition of insulin gene transcription, progressively reducing insulin synthesis over years",
+      "GH promotes glucagon secretion which competitively inhibits insulin binding to its receptors, producing functional insulin resistance"
     ],
     "answer": "A"
   },
   {
     "id": 20,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q19): The intermediate lobe produces specific molecules when incorporated into the anterior portion. What does it develop the capacity to produce?",
+    "stem": "CASE STUDY (continued from Q19): The physician explains that GH acts directly on tissues with specific effects. Which direct actions of GH are MOST precisely listed?",
     "options": [
-      "Proopiomelanocortin (POMC) and the hypothalamus develops adrenocorticotropic hormone (ACTH)",
-      "Proopiomelanocortin (POMC) and the anterior pituitary develops adrenocorticotropic hormone (ACTH)",
-      "Proopiomelanocortin (POMC) and the pituitary stalk develops adrenocorticotropic hormone (ACTH)",
-      "Pro-opioid-melanocortin (POMC) and the hypothalamus develops anti-corticotropic hormone (ACTH)"
+      "GH is believed to act directly to stimulate lipolysis, protein synthesis, epiphyseal growth, decreased insulin sensitivity, and sodium retention",
+      "GH is believed to act directly to stimulate lipolysis, protein synthesis, epiphyseal growth, increased insulin sensitivity, and potassium retention",
+      "GH is believed to act directly to stimulate lipogenesis, protein synthesis, epiphyseal growth, decreased insulin sensitivity, and sodium retention",
+      "GH is believed to act directly to stimulate lipolysis, protein catabolism, epiphyseal growth, decreased insulin sensitivity, and sodium excretion"
     ],
     "answer": "A"
   },
   {
     "id": 21,
     "type": "mcq",
-    "stem": "The posterior pituitary has a different embryological origin than the anterior pituitary. Which is MOST precisely stated?",
+    "stem": "Somatomedins are polypeptides that belong to a large molecular family. Which description is MOST precisely correct?",
     "options": [
-      "The posterior pituitary and hypothalamus develop as a downward diverticulum from the neuroepithelium of the base of the brain, in the floor of the third ventricle",
-      "The posterior pituitary and hypothalamus develop as a downward diverticulum from the neuroepithelium of the base of the brain, in the roof of the fourth ventricle",
-      "The posterior pituitary and hypothalamus develop as an upward diverticulum from the neuroepithelium of the base of the brain, in the floor of the third ventricle",
-      "The posterior pituitary and hypothalamus develop as a downward diverticulum from the neuroepithelium of the base of the brain, in the lateral wall of the third ventricle"
+      "Somatomedins are polypeptides belonging to a large family of growth factors; they are secreted mainly by the liver and to a small extent by other tissues like the kidneys and muscles; in humans only two have been identified to have physiological importance â IGF-1 (somatomedin C) the more abundant, and IGF-2 (the less abundant)",
+      "Somatomedins are glycoproteins belonging to a large family of growth factors; they are secreted mainly by the liver and to a small extent by the kidneys; in humans only three have been identified to have physiological importance including IGF-1, IGF-2, and IGF-3",
+      "Somatomedins are polypeptides belonging to a large family of growth factors; they are secreted exclusively by the liver; in humans only one has been identified to have physiological importance â IGF-1 (somatomedin C)",
+      "Somatomedins are polypeptides belonging to a small family of growth factors; they are secreted mainly by the kidneys and to a small extent by the liver; in humans only two have been identified â IGF-1 (somatomedin A) and IGF-2"
     ],
     "answer": "A"
   },
   {
     "id": 22,
     "type": "mcq",
-    "stem": "CASE STUDY: A nurse educator asks students about the staining characteristics of corticotropes. Which answer is MOST precisely correct?",
+    "stem": "CASE STUDY: A student asks specifically about IGF-1 and its relationship to GH control. Which is MOST precisely stated?",
     "options": [
-      "Corticotropes are basophilic cells; they produce ACTH and other related peptides; they are also basophilic other pituitary cells; they comprise approximately 15-20% of anterior pituitary cells",
-      "Corticotropes are acidophilic cells; they produce ACTH and other related peptides; they comprise approximately 15-20% of anterior pituitary cells",
-      "Corticotropes are chromophobic cells; they produce ACTH and other related peptides; they comprise approximately 15-20% of anterior pituitary cells",
-      "Corticotropes are basophilic cells; they produce ACTH only; they are the smallest cells in the anterior pituitary; they comprise approximately 5% of anterior pituitary cells"
+      "IGF-1 is NOT under the control of GH in utero; however, GH begins to influence its production immediately postpartum, with plasma levels rising through childhood, reaching a zenith at puberty, and gradually falling with old age",
+      "IGF-1 IS under the control of GH both in utero and postpartum; plasma levels rise through childhood, reaching a zenith at puberty, and gradually falling with old age",
+      "IGF-1 is NOT under the control of GH in utero; plasma levels remain constant throughout life because IGF-1 is constitutively produced by the liver",
+      "IGF-1 is under the control of GH only during puberty; before puberty and after puberty, IGF-1 is produced independently of GH"
     ],
     "answer": "A"
   },
   {
     "id": 23,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q22): The nurse asks students what POMC is and from which cells it is produced. Which answer is MOST accurate?",
+    "stem": "CASE STUDY (continued from Q22): What is the specific role of IGF-2?",
     "options": [
-      "POMC (proopiomelanocortin) is a precursor molecule produced from corticotropes and from cells of the intermediate lobe incorporated into the anterior portion; it gives rise to ACTH among other peptides",
-      "POMC (proopiomelanocortin) is produced exclusively from the posterior pituitary magnocellular cells; it is the precursor for ADH and oxytocin",
-      "POMC (proopiomelanocortin) is a precursor molecule produced exclusively from gonadotropes; it gives rise to FSH, LH, and related glycoprotein hormones",
-      "POMC (proopiomelanocortin) is produced from the intermediate lobe only; once the intermediate lobe degenerates in humans, POMC production ceases completely"
+      "IGF-2 likely has a responsibility in utero of assisting foetal growth; plasma levels are constant throughout postnatal life",
+      "IGF-2 is responsible for postnatal linear growth and IGF-1 is responsible for foetal growth â they have opposite developmental roles",
+      "IGF-2 is the more abundant of the two IGFs and has a responsibility postpartum for promoting linear bone growth",
+      "IGF-2 has no established role in utero and functions exclusively as a mitogen in postnatal life"
     ],
     "answer": "A"
   },
   {
     "id": 24,
     "type": "mcq",
-    "stem": "The anterior pituitary is described as the most vascularised tissue. Which specific vessels provide its blood supply?",
+    "stem": "Somatomedins bind to plasma proteins in a specific manner. Which statement is MOST precisely correct?",
     "options": [
-      "Superior, middle, and inferior hypophyseal arteries â all branches of the internal carotid artery",
-      "Superior and inferior hypophyseal arteries â branches of the external carotid artery",
-      "Superior, middle, and inferior hypophyseal arteries â branches of the vertebral artery",
-      "Superior hypophyseal artery only â a direct branch of the internal carotid artery"
+      "Most somatomedins are tightly bound to plasma proteins, more significantly to IGF binding protein 3; this ensures a prolongation of the half-life to about 20 hours, in contrast to GH which is loosely bound to proteins with a short half-life",
+      "Most somatomedins are loosely bound to plasma proteins, specifically to IGF binding protein 3; this ensures a short half-life of about 2 hours, in contrast to GH which is tightly bound with a long half-life",
+      "Most somatomedins are tightly bound to plasma proteins, more significantly to IGF binding protein 1; this ensures a prolongation of the half-life to about 20 hours",
+      "Most somatomedins are tightly bound to plasma proteins, more significantly to IGF binding protein 3; this ensures a prolongation of the half-life to about 2 hours, in contrast to GH which has a half-life of 20 hours"
     ],
     "answer": "A"
   },
   {
     "id": 25,
     "type": "mcq",
-    "stem": "CASE STUDY: A clinical student describes the step-by-step blood flow through the hypothalami-hypophyseal portal system. Which sequence is MOST precisely correct?",
+    "stem": "CASE STUDY: A student asks why the biological importance of somatomedins is more prolonged than GH. Which is MOST precisely derived from the notes?",
     "options": [
-      "Superior hypophyseal artery â primary capillary network in median eminence â long portal vein draining down pituitary stalk â adenohypophysis â secondary capillary network â hypophyseal vein â systemic circulation",
-      "Superior hypophyseal artery â primary capillary network in anterior pituitary â long portal vein ascending to median eminence â secondary capillary network â hypophyseal vein",
-      "Inferior hypophyseal artery â primary capillary network in median eminence â long portal vein â posterior pituitary â secondary capillary network â hypophyseal vein",
-      "Superior hypophyseal artery â primary capillary network in median eminence â short portal vein â adenohypophysis â secondary capillary network â portal vein"
+      "Because somatomedins are tightly bound to plasma proteins with a half-life of about 20 hours, while GH is loosely bound with a short half-life; the physiological importance therefore is that the biological activity of somatomedins is more prolonged than GH",
+      "Because somatomedins are produced continuously without pulsatile secretion, while GH is secreted in pulses with intervening low levels",
+      "Because somatomedins are smaller molecules that diffuse more readily into tissues, prolonging their tissue exposure compared to larger GH molecules",
+      "Because somatomedins are sequestered in the extracellular matrix and released slowly, prolonging their biological availability compared to freely circulating GH"
     ],
     "answer": "A"
   },
   {
     "id": 26,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q25): A student incorrectly states: 'Significant amounts of neurohormones reach the peripheral circulation.' The correct statement from the notes is:",
+    "stem": "Somatomedins are hydrophilic. What does this mean for their mechanism of action?",
     "options": [
-      "The portal system ensures significant amounts of neurohormones reach target cells in the anterior pituitary while insignificant amounts reach the peripheral circulation",
-      "The portal system ensures equal amounts of neurohormones reach both the anterior pituitary and the peripheral circulation",
-      "The portal system ensures all neurohormones bypass the anterior pituitary and are delivered directly to the peripheral circulation",
-      "The portal system ensures significant amounts of neurohormones reach the peripheral circulation while insignificant amounts reach the anterior pituitary"
+      "Because somatomedins are hydrophilic, they attach to cell membrane receptors in their target cells; the receptors resemble insulin receptors; the ligand-receptor complex leads to autophosphorylation and modification of intracellular enzymes",
+      "Because somatomedins are hydrophilic, they diffuse directly across cell membranes to bind intracellular receptors similar to steroid hormones",
+      "Because somatomedins are hydrophilic, they activate G-protein coupled receptors to generate cAMP as a second messenger",
+      "Because somatomedins are hydrophilic, they cannot bind to receptors and instead act through ligand-independent receptor activation"
     ],
     "answer": "A"
   },
   {
     "id": 27,
     "type": "mcq",
-    "stem": "The anterior pituitary hormone to be discussed in detail in the noted chapter is:",
+    "stem": "CASE STUDY: The interaction between GH and somatomedins is described. Which statement is MOST precisely correct?",
     "options": [
-      "Growth hormone (GH), while TSH, ACTH, FSH, LH, and prolactin will be discussed in other sections as they affect control of their respective target hormones",
-      "TSH, while growth hormone, ACTH, FSH, LH, and prolactin will be discussed in other sections",
-      "ACTH, while growth hormone, TSH, FSH, LH, and prolactin will be discussed in other sections",
-      "Prolactin, while growth hormone, TSH, ACTH, FSH, and LH will be discussed in other sections"
+      "The interaction is variable; it is generally believed that GH stimulates the liver to produce somatomedins which act on bone, cartilage, and other tissues; recent evidence shows GH stimulates hepatic synthesis of IGF-1 which stimulates epiphyseal growth and possesses insulin-like activity; it enhances protein synthesis and inhibits lipolysis",
+      "The interaction is direct; GH acts entirely through somatomedins with no direct tissue effects of its own; somatomedins mediate 100% of GH's anabolic effects",
+      "The interaction is simple; GH directly stimulates all tissues without involving somatomedins; somatomedins are produced constitutively independent of GH and serve as tissue growth factors",
+      "The interaction is well established; GH acts only on the liver to produce IGF-1; IGF-1 mediates all metabolic effects of GH; GH itself has no direct biological actions on peripheral tissues"
     ],
     "answer": "A"
   },
   {
     "id": 28,
     "type": "mcq",
-    "stem": "CASE STUDY: A histology student asks what staining method is used to classify anterior pituitary cells. Which is MOST precisely derived from the notes?",
+    "stem": "CASE STUDY (continued from Q27): IGF-1 stimulated by GH from the liver specifically possesses what activity?",
     "options": [
-      "Cells are classified into two main types by the basis of their staining properties with acidic and basic dyes; chromophobes and chromophils; chromophils are acidophils and basophils; identification uses immunocytochemistry, specific immunostaining techniques, and electron microscopy",
-      "Cells are classified into three main types by haematoxylin and eosin staining alone; identification uses only light microscopy",
-      "Cells are classified by periodic acid-Schiff (PAS) staining only; acidophils are PAS-positive while basophils are PAS-negative",
-      "Cells are classified by their granule content using transmission electron microscopy only; no light microscopy classification exists"
+      "IGF-1 stimulates epiphyseal growth and possesses insulin-like activity; it enhances protein synthesis and inhibits lipolysis",
+      "IGF-1 stimulates epiphyseal growth and possesses anti-insulin activity; it inhibits protein synthesis and promotes lipolysis",
+      "IGF-1 stimulates epiphyseal growth and possesses glucagon-like activity; it promotes glycogenolysis and inhibits protein synthesis",
+      "IGF-1 stimulates epiphyseal growth and possesses purely anabolic activity without any insulin-like metabolic effects"
     ],
     "answer": "A"
   },
   {
     "id": 29,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q28): A student states: 'Chromophobes are hormone-secreting cells.' The most accurate correction is:",
+    "stem": "GH stimulates erythropoiesis. Which ions does GH conserve to support growing cells and tissues?",
     "options": [
-      "Chromophobes are poorly staining cells in the anterior pituitary; hormone-secreting cells are chromophils (acidophils and basophils), not chromophobes",
-      "Chromophobes are the only hormone-secreting cells; chromophils are supporting cells that do not secrete hormones",
-      "Chromophobes and chromophils are both hormone-secreting cells; the distinction is based on staining intensity only",
-      "Chromophobes secrete only chromogranin; chromophils secrete all anterior pituitary hormones"
+      "GH reduces excretion of sodium (Na+) and potassium (K+); conservation makes them available for incorporation into growing cells and tissues",
+      "GH reduces excretion of calcium (Ca2+) and phosphate (PO4-); conservation makes them available for incorporation into growing cells and tissues",
+      "GH reduces excretion of sodium (Na+) and chloride (Cl-); conservation makes them available for incorporation into growing cells and tissues",
+      "GH reduces excretion of potassium (K+) and calcium (Ca2+); conservation makes them available for incorporation into growing cells and tissues"
     ],
     "answer": "A"
   },
   {
     "id": 30,
     "type": "mcq",
-    "stem": "The folliculostellate cells in the anterior pituitary produce a specific interleukin. Which is MOST precisely stated?",
+    "stem": "CASE STUDY: A nurse is explaining why the glycostatic effect of GH is paradoxical. Which explanation is MOST grounded in the notes?",
     "options": [
-      "Folliculostellate cells produce cytokine IL-6",
-      "Folliculostellate cells produce cytokine IL-1",
-      "Folliculostellate cells produce cytokine IL-12",
-      "Folliculostellate cells produce cytokine IL-2"
+      "During fasting, GH inhibits glycogenolysis in skeletal and cardiac muscles â the glycostatic effect â which paradoxically tends to increase blood sugar because muscle glucose uptake is simultaneously reduced, creating a net hyperglycaemia",
+      "During fasting, GH promotes glycogenolysis in skeletal muscles â releasing glucose â which paradoxically decreases blood sugar because the released glucose is immediately oxidised by muscle",
+      "During fasting, GH stimulates glycogen synthesis in cardiac muscle â the glycostatic effect â which paradoxically depletes liver glycogen reserves and produces hypoglycaemia",
+      "During fasting, GH inhibits hepatic glycogen breakdown â the glycostatic effect â which directly reduces blood glucose levels and prevents hyperglycaemia"
     ],
     "answer": "A"
   },
   {
     "id": 31,
     "type": "mcq",
-    "stem": "CASE STUDY: A nurse asks about the nerve fibre characteristics within the posterior pituitary. Which is MOST precisely stated?",
+    "stem": "CASE STUDY (continued from Q30): The student asks what specific cells in the epiphysis GH acts on for bone growth. Which is MOST precisely correct?",
     "options": [
-      "The posterior pituitary consists of non-myelinated nerve fibres from supraoptic (SON) and paraventricular (PVN) nuclei cells",
-      "The posterior pituitary consists of myelinated nerve fibres from supraoptic (SON) and paraventricular (PVN) nuclei cells",
-      "The posterior pituitary consists of non-myelinated nerve fibres from only the paraventricular nuclei cells",
-      "The posterior pituitary consists of non-myelinated nerve fibres from hypothalamic parvocellular neurosecretory cells"
+      "GH acts on chondrogenic cells in the epiphyseal cartilage; it increases deposition of proteins by chondrogenic and osteogenic cells; it stimulates new bone formation and converts chondrocytes into osteogenic cells",
+      "GH acts exclusively on osteoblasts in the periosteum; chondrocytes are not directly stimulated by GH",
+      "GH acts on osteoclasts in the epiphyseal cartilage; it promotes bone resorption and remodelling without directly stimulating bone formation",
+      "GH acts on fibroblasts in the epiphyseal growth plate; fibroblasts are converted to chondrocytes which then produce cartilage matrix"
     ],
     "answer": "A"
   },
   {
     "id": 32,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q31): The student asks what ADH is also called. Which is MOST precisely stated from standard endocrinology nomenclature consistent with the notes?",
+    "stem": "GH acts via the MAP kinase pathway for a specific process. What is this process?",
     "options": [
-      "ADH is also called antidiuretic hormone and vasopressin; it is stored in secretory granules in the posterior pituitary lobe",
-      "ADH is also called antidiuretic hormone and aldosterone; it is stored in secretory granules in the posterior pituitary lobe",
-      "ADH is also called antidiuretic hormone and atrial natriuretic peptide; it is produced in the posterior pituitary",
-      "ADH is also called antidiuretic hormone only; there is no second name mentioned for ADH in standard endocrinology"
+      "GH acts through the mitogen-activated protein (MAP) kinase pathway for chondrogenesis",
+      "GH acts through the mitogen-activated protein (MAP) kinase pathway for lipolysis",
+      "GH acts through the mitogen-activated protein (MAP) kinase pathway for protein synthesis",
+      "GH acts through the mitogen-activated protein (MAP) kinase pathway for erythropoiesis"
     ],
     "answer": "A"
   },
   {
     "id": 33,
     "type": "mcq",
-    "stem": "The Rathke's pouch is a specific embryological structure. What is it and what does it do?",
+    "stem": "CASE STUDY: A student confuses the role of osteoblasts and osteoclasts in GH-mediated bone remodelling. Which is MOST precisely correct from the notes?",
     "options": [
-      "Rathke's pouch is the upward growth of pharyngeal epithelium that migrates to contact the neurohypophysis during development of the anterior pituitary",
-      "Rathke's pouch is the downward growth of neuroepithelium that migrates to contact the pharyngeal ectoderm during development of the posterior pituitary",
-      "Rathke's pouch is the lateral growth of oral endoderm that migrates upward to fuse with the descending diverticulum from the floor of the third ventricle",
-      "Rathke's pouch is the upward growth of mesodermal tissue that migrates to contact the neuroepithelium during pituitary gland organogenesis"
+      "After growth in length stops following epiphyseal fusion, osteoblastic activity continues to thicken the jaw and skull bones (deposition of new bones on the surface of old ones); osteoclasts then institute remodelling",
+      "After growth in length stops following epiphyseal fusion, osteoclastic activity thickens the jaw and skull bones; osteoblasts then institute remodelling to smooth the surface",
+      "After growth in length stops, both osteoblasts and osteoclasts simultaneously deposit and resorb bone in equal amounts, maintaining bone mass without net change",
+      "After growth in length stops, only osteoclasts are active; osteoblasts are dormant until a fracture signal activates them for repair"
     ],
     "answer": "A"
   },
   {
     "id": 34,
     "type": "mcq",
-    "stem": "CASE STUDY: A radiologist describes a pituitary MRI showing an enlarged pituitary in a pregnant patient. The nurse explains this is physiological. The cells responsible for this enlargement are:",
+    "stem": "CASE STUDY (continued from Q33): Epiphyses close at specific ages. Why is this clinically significant?",
     "options": [
-      "Lactotrophs which double in size during pregnancy, making them the most numerous cells at that time",
-      "Somatotropes which double in number during pregnancy due to increased GH demand",
-      "Gonadotropes which increase in number during pregnancy due to rising FSH and LH requirements",
-      "Corticotropes which double in size during pregnancy due to increased cortisol demand"
+      "Various epiphyses close at specific ages in average persons, which forms the basis for using X-rays to determine the age of individuals",
+      "Various epiphyses close at specific ages, which forms the basis for diagnosing GH deficiency by measuring bone density",
+      "Various epiphyses close at specific ages, which forms the basis for prescribing GH replacement therapy only before puberty",
+      "Various epiphyses close at specific ages, which forms the basis for monitoring GH therapy response by measuring growth velocity"
     ],
     "answer": "A"
   },
   {
     "id": 35,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q34): The radiologist then asks which anterior pituitary cells are acidophilic. Which is the COMPLETE and correct list?",
+    "stem": "GH stimulates cellular multiplication. What specific effect does it have at the cellular level?",
     "options": [
-      "Somatotropes and lactotrophs are acidophilic cells",
-      "Somatotropes and corticotropes are acidophilic cells",
-      "Somatotropes, lactotrophs, and thyrotropes are acidophilic cells",
-      "Only somatotropes are acidophilic; lactotrophs are basophilic"
+      "GH stimulates the growth of almost all tissues of the body that can grow; at the cellular level it enhances mitosis and increases the size of cells",
+      "GH stimulates the growth of only bone and cartilage; at the cellular level it enhances protein synthesis without affecting cell division",
+      "GH stimulates the growth of almost all tissues of the body; at the cellular level it inhibits apoptosis and increases the size of cells without affecting mitosis",
+      "GH stimulates the growth of muscle and bone only; at the cellular level it enhances hypertrophy but not hyperplasia"
     ],
     "answer": "A"
   },
   {
     "id": 36,
     "type": "mcq",
-    "stem": "The relationship between the hypothalamus and posterior pituitary through axonal projections is named. What is this relationship called?",
+    "stem": "CASE STUDY: A student lists the evidence showing controversy about GH vs IGF-1 physiological activity. Which is MOST precisely stated?",
     "options": [
-      "The hypothalamic-hypophyseal nervous tract",
-      "The hypothalamic-hypophyseal portal system",
-      "The infundibular-hypophyseal nervous tract",
-      "The hypothalamic-neurohypophyseal portal tract"
+      "There was controversy about whether the physiological activity was peculiar to GH or IGF-1; however, recent evidence shows GH stimulates hepatic synthesis of IGF-1, which stimulates epiphyseal growth and possesses insulin-like activity",
+      "There was no controversy; it has always been established that GH acts exclusively through IGF-1 as its sole mediator",
+      "There was controversy resolved in favour of IGF-1; GH itself has no direct physiological actions and all effects are mediated through IGF-1",
+      "There was controversy resolved in favour of GH; IGF-1 has no independent physiological actions beyond serving as a marker of GH activity"
     ],
     "answer": "A"
   },
   {
     "id": 37,
     "type": "mcq",
-    "stem": "CASE STUDY: A student asks about the specialised vascular relationship between the hypothalamus and the anterior pituitary. What is this system specifically called?",
+    "stem": "CASE STUDY (continued from Q36): The somatomedin receptor resembles a specific other receptor, leading to a specific signalling consequence. Which is MOST correctly stated?",
     "options": [
-      "The hypothalami-hypophyseal portal system",
-      "The hypothalamic-hypophyseal nervous tract",
-      "The hypothalami-anterior pituitary portal system",
-      "The infundibulo-hypophyseal portal system"
+      "The somatomedin receptors resemble insulin receptors; therefore, the ligand-receptor complex leads to autophosphorylation and modification of intracellular enzymes",
+      "The somatomedin receptors resemble GH receptors; therefore, the ligand-receptor complex activates JAK-STAT pathways",
+      "The somatomedin receptors resemble glucagon receptors; therefore, the ligand-receptor complex generates cAMP via G-protein activation",
+      "The somatomedin receptors resemble steroid hormone receptors; therefore, the ligand-receptor complex translocates to the nucleus to activate gene transcription directly"
     ],
     "answer": "A"
   },
   {
     "id": 38,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q37): A student confuses the blood supply of the neurohypophysis with that of the adenohypophysis. Which statement correctly identifies what supplies the neurohypophysis?",
+    "stem": "The GH receptor activates JAK-S2. What is JAK-S2 classified as?",
     "options": [
-      "The inferior and middle hypophyseal arteries supply the neurohypophysis, with some direct branches from the superior hypophyseal arteries",
-      "The superior hypophyseal artery exclusively supplies the neurohypophysis via the portal system",
-      "The inferior hypophyseal artery exclusively supplies the neurohypophysis with no contribution from superior branches",
-      "The middle cerebral artery supplies the neurohypophysis via perforating branches through the sella turcica"
+      "JAKS-2 is a member of the Janus family of cytoplasmic tyrosine kinases",
+      "JAKS-2 is a member of the Janus family of nuclear serine kinases",
+      "JAKS-2 is a member of the MAP kinase family of cytoplasmic tyrosine kinases",
+      "JAKS-2 is a member of the src family of membrane-bound tyrosine kinases"
     ],
     "answer": "A"
   },
   {
     "id": 39,
     "type": "mcq",
-    "stem": "The immunocytochemistry technique is used in addition to standard staining for pituitary cell identification. Why is this additional technique needed?",
+    "stem": "CASE STUDY: A patient with Laron syndrome has high GH but very low IGF-1. Based on the notes, which mechanism is MOST directly impaired?",
     "options": [
-      "Because the specificity of hormone secretion requires more than morphological staining to identify the specific hormones produced by each cell type; immunocytochemistry uses specific immunostaining and electron microscopy for this purpose",
-      "Because chromophobes cannot be identified by standard staining and require immunostaining exclusively for detection and quantification",
-      "Because electron microscopy is the only method that can distinguish between acidophils and basophils reliably",
-      "Because PAS staining is insufficient for identifying basophilic cells and immunostaining is required for all basophil subtypes"
+      "GH cannot stimulate the liver to produce somatomedins because GH receptors in the liver are defective; therefore, hepatic IGF-1 synthesis is absent despite high GH levels",
+      "GH receptors are absent in the pituitary, so GH production is unregulated and liver IGF-1 production is secondarily suppressed",
+      "GH is structurally abnormal and binds liver receptors but cannot activate the JAK-STAT pathway needed for IGF-1 gene transcription",
+      "IGF-1 is degraded rapidly by elevated IGF binding protein-3 that is paradoxically increased by excess GH signalling"
     ],
     "answer": "A"
   },
   {
     "id": 40,
     "type": "mcq",
-    "stem": "CASE STUDY: A student asks what portion of the pituitary some people may sometimes regard as the most superior part of the neurohypophysis. Which is MOST precisely stated?",
+    "stem": "CASE STUDY (continued from Q39): The clinician notes this patient has tall parents and should have normal stature, but is short. The binding of GH to its receptor leads to a specific molecular event. What is this?",
     "options": [
-      "Some people may sometimes regard part of the median eminence where the neural stalk attaches as the most superior part of the neurohypophysis",
-      "Some people may sometimes regard the pars tuberalis where the neural stalk attaches as the most superior part of the neurohypophysis",
-      "Some people may sometimes regard the pars intermedia where the neural stalk attaches as the most superior part of the neurohypophysis",
-      "Some people may sometimes regard the infundibular process where the neural stalk attaches as the most superior part of the neurohypophysis"
+      "Binding of GH to its receptors leads to dimerisation of the receptors, activating Janus kinases, which in turn phosphorylates STAT proteins",
+      "Binding of GH to its receptors leads to autophosphorylation of tyrosine residues on the receptor itself, directly activating MAP kinase",
+      "Binding of GH to its receptors leads to G-protein activation, which generates cAMP as a second messenger to activate protein kinase A",
+      "Binding of GH to its receptors leads to receptor internalisation, which carries the signal to the nucleus for direct gene activation"
     ],
     "answer": "A"
   },
   {
     "id": 41,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q40): The student then asks about Rathke's pouch specifically. In which direction does it grow and what does it migrate toward?",
+    "stem": "The chromosome location of the hGH-N gene is described precisely. Which gene arm and band is MOST correct?",
     "options": [
-      "Rathke's pouch is an upward growth of pharyngeal epithelium that migrates to contact the neurohypophysis",
-      "Rathke's pouch is a downward growth of neuroepithelium that migrates to contact the pharyngeal epithelium",
-      "Rathke's pouch is an upward growth of oral endoderm that migrates to contact the floor of the third ventricle",
-      "Rathke's pouch is a lateral growth of branchial arch mesoderm that migrates to form the anterior pituitary stroma"
+      "Long arm (q22-24 region) of chromosome 17",
+      "Short arm (p22-24 region) of chromosome 17",
+      "Long arm (q22-24 region) of chromosome 7",
+      "Long arm (q22-24 region) of chromosome 11"
     ],
     "answer": "A"
   },
   {
     "id": 42,
     "type": "mcq",
-    "stem": "Corticotropes produce ACTH and other related peptides. What additional feature is noted about their staining in relation to other anterior pituitary basophilic cells?",
+    "stem": "CASE STUDY: A student asks what the specific IGF binding protein that prolongs somatomedin half-life is called. Which is MOST precisely stated?",
     "options": [
-      "Corticotropes are basophilic; they produce ACTH and other related peptides; they are also basophilic other pituitary cells that produce peptides",
-      "Corticotropes are basophilic; they produce ACTH only; no other related peptides are produced by this cell type",
-      "Corticotropes are acidophilic, unlike other ACTH-producing cells which are basophilic; this makes them unique among anterior pituitary cell types",
-      "Corticotropes are chromophobic, unlike gonadotropes and thyrotropes which are both basophilic; this staining difference reflects their different embryological origin"
+      "IGF binding protein 3 (IGFBP-3) is the most significant plasma binding protein for somatomedins",
+      "IGF binding protein 1 (IGFBP-1) is the most significant plasma binding protein for somatomedins",
+      "IGF binding protein 5 (IGFBP-5) is the most significant plasma binding protein for somatomedins",
+      "IGF binding protein 2 (IGFBP-2) is the most significant plasma binding protein for somatomedins"
     ],
     "answer": "A"
   },
   {
     "id": 43,
     "type": "mcq",
-    "stem": "CASE STUDY: A patient develops panhypopituitarism. The nurse identifies that one specific pituitary cell type is probably the least affected given its high abundance. Which cell type?",
+    "stem": "CASE STUDY (continued from Q42): The student asks specifically how long the somatomedin half-life is due to binding protein protection. Which is MOST precisely correct?",
     "options": [
-      "Somatotropes, because they comprise about half of the anterior pituitary cells and are the most numerous cell type",
-      "Thyrotropes, because they are less than 10% of cells and their small number makes them resistant to generalised damage",
-      "Lactotrophs, because they double in size during pregnancy making them the largest and most resilient cells",
-      "Gonadotropes, because FSH and LH production occurs in the same cell making them functionally redundant"
+      "About 20 hours, in contrast to GH which is loosely bound to proteins with a short half-life",
+      "About 2 hours, in contrast to GH which is loosely bound to proteins with a short half-life",
+      "About 20 days, in contrast to GH which has a half-life of hours",
+      "About 20 minutes, which is the same half-life as GH"
     ],
     "answer": "A"
   },
   {
     "id": 44,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q43): A student asks which cell type constitutes 10-15% of the anterior pituitary. The MOST precise answer is:",
+    "stem": "The hGH-N gene variant accounts for what percentage of all growth hormones?",
     "options": [
-      "Gonadotropes constitute 10-15% of the anterior pituitary cells",
-      "Thyrotropes constitute 10-15% of the anterior pituitary cells",
-      "Corticotropes constitute 10-15% of the anterior pituitary cells",
-      "Lactotrophs constitute 10-15% of the anterior pituitary cells"
+      "75% of all growth hormones",
+      "80% of all growth hormones",
+      "50% of all growth hormones",
+      "90% of all growth hormones"
     ],
     "answer": "A"
   },
   {
     "id": 45,
     "type": "mcq",
-    "stem": "The posterior pituitary specifically stores two hormones in secretory granules. Which pair is MOST precisely stated?",
+    "stem": "CASE STUDY: A student asks about GH secretion pattern. Which is MOST precisely stated?",
     "options": [
-      "Antidiuretic hormone (ADH) and oxytocin are stored in secretory granules in the posterior pituitary lobe",
-      "Antidiuretic hormone (ADH) and prolactin are stored in secretory granules in the posterior pituitary lobe",
-      "Antidiuretic hormone (ADH) and growth hormone are stored in secretory granules in the posterior pituitary lobe",
-      "Antidiuretic hormone (ADH) and corticotropin are stored in secretory granules in the posterior pituitary lobe"
+      "Secretion occurs in a pulsatile manner; it is rapidly metabolised in the liver and excreted",
+      "Secretion occurs in a continuous tonic manner; it is rapidly metabolised in the kidney and excreted",
+      "Secretion occurs in a circadian pattern with a single daily peak; it is metabolised in the liver",
+      "Secretion occurs episodically with secretory bursts only during sleep; it is metabolised in the kidney"
     ],
     "answer": "A"
   },
   {
     "id": 46,
     "type": "mcq",
-    "stem": "CASE STUDY: A nurse is asked what specific type of cells the 'pituicytes' are in the posterior pituitary. Which is MOST precisely stated?",
+    "stem": "CASE STUDY (continued from Q45): A student confuses the IGF-1 and IGF-2 relationship with GH. Which statement MOST precisely distinguishes their GH control?",
     "options": [
-      "Pituicytes are the supporting cells of the posterior pituitary (neurohypophysis)",
-      "Pituicytes are the hormone-secreting magnocellular neurons of the posterior pituitary",
-      "Pituicytes are the chromophobic non-secretory cells of the anterior pituitary",
-      "Pituicytes are the folliculostellate cells of the anterior pituitary that produce IL-6"
+      "IGF-1 is NOT under GH control in utero but comes under GH control immediately postpartum; IGF-2 likely assists foetal growth in utero with plasma levels constant throughout postnatal life",
+      "Both IGF-1 and IGF-2 are under GH control in utero and postpartum; only their respective tissue targets differ",
+      "IGF-1 is under GH control both in utero and postpartum; IGF-2 has no relationship with GH at any stage of life",
+      "IGF-2 is under GH control in utero but not postpartum; IGF-1 comes under GH control only at puberty"
     ],
     "answer": "A"
   },
   {
     "id": 47,
     "type": "mcq",
-    "stem": "The anterior pituitary develops from which embryological germ layer?",
+    "stem": "GH stimulates erythropoiesis as one of its physiological actions. This is listed as action number:",
     "options": [
-      "Ectoderm â arising from the pharyngeal epithelium as Rathke's pouch",
-      "Endoderm â arising from the pharyngeal epithelium as Rathke's pouch",
-      "Mesoderm â arising from the pharyngeal mesenchyme as Rathke's pouch",
-      "Neuroectoderm â arising from the floor of the third ventricle as Rathke's pouch"
+      "iv. GH stimulates erythropoiesis â listed as the fourth physiological action after cellular multiplication, bone and cartilage effects, and metabolic actions",
+      "i. GH stimulates erythropoiesis â listed as the first physiological action",
+      "ii. GH stimulates erythropoiesis â listed as the second physiological action after cellular multiplication",
+      "v. GH stimulates erythropoiesis â listed as the fifth physiological action"
     ],
     "answer": "A"
   },
   {
     "id": 48,
     "type": "fitb",
-    "stem": "GH is produced by somatotropes; TSH is produced by thyrotropes; ACTH is produced by corticotropes; FSH and LH are produced by gonadotropes; prolactin is produced by _______________.",
-    "answer": "lactotrophs",
+    "stem": "Human growth hormone (HGH) is a _______________ amino acid single-chain polypeptide containing two disulphide bridges.",
+    "answer": "191",
     "acceptableAnswers": [
-      "lactotrophs",
-      "lactotropes"
+      "191"
     ]
   },
   {
     "id": 49,
     "type": "fitb",
-    "stem": "CASE STUDY: An examiner asks: 'Somatotropes are _______________ cells that produce growth hormone and are enormous, comprising about half of the anterior pituitary cells.' One staining characteristic must be supplied.",
-    "answer": "acidophilic",
+    "stem": "CASE STUDY: An examiner asks: 'The hGH-N gene is located on the long arm (q22-24 region) of chromosome _______________.' One number must be supplied.",
+    "answer": "17",
     "acceptableAnswers": [
-      "acidophilic",
-      "acidophils"
+      "17",
+      "seventeen"
     ]
   },
   {
     "id": 50,
     "type": "fitb",
-    "stem": "Lactotrophs are acidophils that secrete prolactin; they _______________ in size during pregnancy, making them the most numerous cells at that time.",
-    "answer": "double",
+    "stem": "The hGH-N gene variant accounts for _______________% of all growth hormones.",
+    "answer": "75",
     "acceptableAnswers": [
-      "double"
+      "75",
+      "seventy-five"
     ]
   },
   {
     "id": 51,
     "type": "fitb",
-    "stem": "CASE STUDY: An exam asks: 'Thyrotropes represent less than _______________% of the anterior pituitary cells and are basophilic in staining characteristics.' One precise percentage must be supplied.",
-    "answer": "10",
+    "stem": "CASE STUDY: An exam states: 'GH has a _______________ to 20 minute half-life and a daily output of 0.18-0.98 mg/day in adults.' One number must be supplied.",
+    "answer": "6",
     "acceptableAnswers": [
-      "10",
-      "ten"
+      "6",
+      "six"
     ]
   },
   {
     "id": 52,
     "type": "fitb",
-    "stem": "The anterior pituitary is the most _______________ of all mammalian tissues.",
-    "answer": "vascularised",
+    "stem": "About _______________% of GH is loosely bound to plasma proteins (GH-binding protein); it is secreted in a pulsatile manner and rapidly metabolised in the liver.",
+    "answer": "50",
     "acceptableAnswers": [
-      "vascularised",
-      "vascularized"
+      "50",
+      "fifty"
     ]
   },
   {
     "id": 53,
     "type": "fitb",
-    "stem": "CASE STUDY: An examiner states: 'The superior hypophyseal artery forms a primary capillary network in the _______________ eminence.' One precise anatomical structure must be supplied.",
-    "answer": "median",
+    "stem": "CASE STUDY: An examiner asks: 'The GH receptor is a 620-amino acid _______________ and a member of the cytokine receptor superfamily.' One structural term must be supplied.",
+    "answer": "homodimer",
     "acceptableAnswers": [
-      "median"
+      "homodimer"
     ]
   },
   {
     "id": 54,
     "type": "fitb",
-    "stem": "The specialised vascular relationship between the hypothalamus and the anterior pituitary is called the hypothalami-_______________ portal system.",
-    "answer": "hypophyseal",
+    "stem": "STAT stands for signal transducers and _______________ of transcription.",
+    "answer": "activators",
     "acceptableAnswers": [
-      "hypophyseal"
+      "activators"
     ]
   },
   {
     "id": 55,
     "type": "fitb",
-    "stem": "CASE STUDY: An exam asks: 'A breakup occurs to generate a secondary capillary network that finally drains as the _______________ vein.' One precise vessel name must be supplied.",
-    "answer": "hypophyseal",
+    "stem": "CASE STUDY: An exam asks: 'GH acts through the mitogen-activated protein (MAP) kinase pathway for _______________.' One precise biological process must be supplied.",
+    "answer": "chondrogenesis",
     "acceptableAnswers": [
-      "hypophyseal"
+      "chondrogenesis"
     ]
   },
   {
     "id": 56,
     "type": "fitb",
-    "stem": "The portal system ensures that significant amounts of neurohormones are transported from the median eminence to their target cells in the anterior pituitary, while _______________ amounts reach the peripheral circulation.",
-    "answer": "insignificant",
+    "stem": "In protein metabolism, GH increases amino acid transport into cells, stimulates protein synthesis, and inhibits protein catabolism; thus it is an _______________ protein hormone.",
+    "answer": "anabolic",
     "acceptableAnswers": [
-      "insignificant"
+      "anabolic"
     ]
   },
   {
     "id": 57,
     "type": "fitb",
-    "stem": "CASE STUDY: A student is asked: 'The anterior pituitary develops from ectoderm, arising from the pharyngeal epithelium, from an upward growth called _______________'s pouch.' One proper name must be supplied.",
-    "answer": "Rathke",
+    "stem": "CASE STUDY: An examiner states: 'During fasting, GH inhibits glycogenolysis in skeletal and cardiac muscles; this is called the _______________ effect.' One precise term must be supplied.",
+    "answer": "glycostatic",
     "acceptableAnswers": [
-      "Rathke",
-      "Rathke's"
+      "glycostatic"
     ]
   },
   {
     "id": 58,
     "type": "fitb",
-    "stem": "The posterior pituitary and hypothalamus develop as a downward diverticulum from the neuroepithelium of the base of the brain, in the floor of the _______________ ventricle.",
-    "answer": "third",
+    "stem": "Continuous and sustained stimulation of B cells of the pancreas by GH may burn out the beta cells, leading to diabetes mellitus; this is called the _______________ effect.",
+    "answer": "diabetogenic",
     "acceptableAnswers": [
-      "third",
-      "3rd"
+      "diabetogenic"
     ]
   },
   {
     "id": 59,
     "type": "fitb",
-    "stem": "CASE STUDY: An examiner asks: 'The intermediate lobe is incorporated into the anterior portion and develops the capacity to produce _______________ (POMC).' The full name of this molecule must be supplied.",
-    "answer": "proopiomelanocortin",
+    "stem": "CASE STUDY: An examiner asks: 'In electrolyte metabolism, GH increases absorption of calcium and _______________ from the gastrointestinal and renal systems.' One mineral must be supplied.",
+    "answer": "phosphorous",
     "acceptableAnswers": [
-      "proopiomelanocortin",
-      "pro-opiomelanocortin",
-      "POMC"
+      "phosphorous",
+      "phosphorus"
     ]
   },
   {
     "id": 60,
     "type": "fitb",
-    "stem": "The posterior pituitary consists of non-myelinated nerve fibres of supraoptic (SON) and paraventricular (PVN) nuclei cells, numerous blood vessels, mast cells, and supporting cells called _______________.",
-    "answer": "pituicytes",
+    "stem": "Somatomedins are polypeptides and belong to a large family of growth factors; they are secreted mainly by the _______________ and to a small extent by other tissues like the kidneys and muscles.",
+    "answer": "liver",
     "acceptableAnswers": [
-      "pituicytes"
+      "liver"
     ]
   },
   {
     "id": 61,
     "type": "fitb",
-    "stem": "CASE STUDY: An exam states: 'The relationship between the pituitary and hypothalamus via axonal projections carrying ADH and oxytocin is called the hypothalamic-_______________ nervous tract.' One precise term must be supplied.",
-    "answer": "hypophyseal",
+    "stem": "CASE STUDY: A student is asked: 'IGF-1 is NOT under the control of GH _______________.' One precise Latin term must be supplied.",
+    "answer": "in utero",
     "acceptableAnswers": [
-      "hypophyseal"
+      "in utero",
+      "inutero"
     ]
   },
   {
     "id": 62,
     "type": "fitb",
-    "stem": "Folliculostellate cells are specialised cells that produce cytokine _______________-6 and exhibit autocrine or paracrine actions.",
-    "answer": "IL",
+    "stem": "IGF-1 plasma levels rise through childhood, reaching a _______________ at puberty, and gradually falling with old age.",
+    "answer": "zenith",
     "acceptableAnswers": [
-      "IL",
-      "interleukin",
-      "IL-6"
+      "zenith",
+      "peak",
+      "maximum"
     ]
   },
   {
     "id": 63,
     "type": "fitb",
-    "stem": "CASE STUDY: An examiner asks: 'Gonadotropes are _______________ cells that produce FSH and luteinising hormone, constituting 10-15% of the anterior pituitary cells.' One staining characteristic must be supplied.",
-    "answer": "basophilic",
+    "stem": "CASE STUDY: An examiner asks: 'Most somatomedins are tightly bound to plasma proteins, more significantly to IGF binding protein _______________.' One number must be supplied.",
+    "answer": "3",
     "acceptableAnswers": [
-      "basophilic",
-      "basophils"
+      "3",
+      "three"
     ]
   },
   {
     "id": 64,
     "type": "fitb",
-    "stem": "The histological classification of anterior pituitary cells identifies chromophobes and chromophils; chromophils are further divided into _______________ and basophils.",
-    "answer": "acidophils",
+    "stem": "IGF binding protein 3 ensures a prolongation of the somatomedin half-life to about _______________ hours, in contrast to GH which is loosely bound with a short half-life.",
+    "answer": "20",
     "acceptableAnswers": [
-      "acidophils",
-      "acidophilic cells"
+      "20",
+      "twenty"
     ]
   },
   {
     "id": 65,
     "type": "fitb",
-    "stem": "CASE STUDY: An examiner states: 'The superior hypophyseal artery is a branch of the _______________ carotid artery.' One precise adjective must be supplied.",
-    "answer": "internal",
+    "stem": "CASE STUDY: An exam states: 'Because somatomedins are _______________, they attach to cell membrane receptors in their target cells.' One precise solubility characteristic must be supplied.",
+    "answer": "hydrophilic",
     "acceptableAnswers": [
-      "internal"
+      "hydrophilic"
     ]
   },
   {
     "id": 66,
     "type": "fitb",
-    "stem": "The posterior pituitary is more like an extension of the _______________ hypothalamus.",
-    "answer": "ventral",
+    "stem": "The somatomedin receptors resemble _______________ receptors; therefore, the ligand-receptor complex leads to autophosphorylation and modification of intracellular enzymes.",
+    "answer": "insulin",
     "acceptableAnswers": [
-      "ventral"
+      "insulin"
     ]
   },
   {
     "id": 67,
     "type": "fitb",
-    "stem": "CASE STUDY: A student is asked: 'In some species, the intermediate lobe remains intact; in humans, it tends to _______________.' One precise verb from the notes must be supplied.",
-    "answer": "degenerate",
+    "stem": "CASE STUDY: An examiner asks: 'In humans, only two somatomedins have been identified to have physiological importance: IGF-1 (somatomedin _______________) and IGF-2.' One letter must be supplied.",
+    "answer": "C",
     "acceptableAnswers": [
-      "degenerate"
+      "C"
     ]
   },
   {
     "id": 68,
     "type": "fitb",
-    "stem": "Secretory granules in the posterior pituitary lobe containing ADH and oxytocin are in close proximity with adjacent _______________ when nerve impulses cause secretion.",
-    "answer": "capillaries",
+    "stem": "GH stimulates lipolysis by mobilising fat from adipose tissue; the released free fatty acids are utilised for energy production; the resultant effect is a tendency towards _______________.",
+    "answer": "ketogenesis",
     "acceptableAnswers": [
-      "capillaries"
+      "ketogenesis"
     ]
   },
   {
     "id": 69,
     "type": "fitb",
-    "stem": "CASE STUDY: An examiner asks: 'The anterior pituitary hormone discussed in detail in the chapter is _______________ hormone.' One precise hormone name must be supplied.",
-    "answer": "growth",
+    "stem": "CASE STUDY: An examiner states: 'GH is produced as a _______________ in the ribosomes and undergoes post-translational modification to make the active hormone.' One precise biochemical term must be supplied.",
+    "answer": "prohormone",
     "acceptableAnswers": [
-      "growth",
-      "GH",
-      "growth hormone"
+      "prohormone"
     ]
   },
   {
     "id": 70,
     "type": "fitb",
-    "stem": "The inferior and middle hypophyseal arteries supply the _______________, and some direct branches come from the superior hypophyseal arteries.",
-    "answer": "neurohypophysis",
+    "stem": "GH reduces the renal excretion of sodium (Na+) and _______________ ions; the conservation of these ions makes them readily available for incorporation into growing cells and tissues.",
+    "answer": "potassium (K+)",
     "acceptableAnswers": [
-      "neurohypophysis",
-      "posterior pituitary"
+      "potassium",
+      "K+",
+      "potassium (K+)"
     ]
   }
 ]
