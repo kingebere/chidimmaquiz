@@ -2,693 +2,681 @@
   {
     "id": 1,
     "type": "mcq",
-    "stem": "Human growth hormone (HGH) has a precise molecular structure. Which description is MOST completely and correctly stated?",
+    "stem": "Several factors affect GH secretion. What is the final common pathway through which most stimuli exert their effects on GH secretion?",
     "options": [
-      "HGH is a 191-amino acid single-chain polypeptide containing two disulphide bridges; it is secreted by acidophils called somatotropes, the most abundant cells of the pituitary",
-      "HGH is a 192-amino acid single-chain polypeptide containing two disulphide bridges; it is secreted by acidophils called somatotropes, the most abundant cells of the pituitary",
-      "HGH is a 191-amino acid single-chain polypeptide containing three disulphide bridges; it is secreted by acidophils called somatotropes, the most abundant cells of the pituitary",
-      "HGH is a 191-amino acid double-chain polypeptide containing two disulphide bridges; it is secreted by basophils called somatotropes, the most abundant cells of the pituitary"
+      "Through an increase in GHRH levels and a decrease in somatostatin (GHIH) levels",
+      "Through a decrease in GHRH levels and an increase in somatostatin (GHIH) levels",
+      "Through a simultaneous increase in both GHRH levels and somatostatin (GHIH) levels",
+      "Through direct stimulation of somatotropes by peripheral hormones without involving GHRH or somatostatin"
     ],
     "answer": "A"
   },
   {
     "id": 2,
     "type": "mcq",
-    "stem": "The normal human growth hormone is coded by a specific gene located at a specific chromosomal position. Which is MOST precisely stated?",
+    "stem": "GHRH and GHIH have distinct molecular sizes. Which description is MOST precisely correct?",
     "options": [
-      "Coded by the hGH-N gene located on the long arm (q22-24 region) of chromosome 17; this variant accounts for 75% of all growth hormones",
-      "Coded by the hGH-N gene located on the short arm (p22-24 region) of chromosome 17; this variant accounts for 75% of all growth hormones",
-      "Coded by the hGH-N gene located on the long arm (q22-24 region) of chromosome 7; this variant accounts for 75% of all growth hormones",
-      "Coded by the hGH-N gene located on the long arm (q22-24 region) of chromosome 17; this variant accounts for 80% of all growth hormones"
+      "GHRH is a 44 amino acid polypeptide, while GHIH has a variant of 14 amino acids and 28 amino acid polypeptides",
+      "GHRH is a 28 amino acid polypeptide, while GHIH has a variant of 14 amino acids and 44 amino acid polypeptides",
+      "GHRH is a 44 amino acid polypeptide, while GHIH has a variant of 10 amino acids and 28 amino acid polypeptides",
+      "GHRH is a 44 amino acid polypeptide, while GHIH has a variant of 14 amino acids and 22 amino acid polypeptides"
     ],
     "answer": "A"
   },
   {
     "id": 3,
     "type": "mcq",
-    "stem": "CASE STUDY: A student asks about another variant form of GH that appears during pregnancy. Which is MOST precisely stated?",
+    "stem": "CASE STUDY: A student asks where the cells that produce GHRH are located and how GHRH stimulates GH release. Which is MOST precisely correct?",
     "options": [
-      "Another variant form of GH is produced by the placenta, which appears appreciably in the blood during pregnancy",
-      "Another variant form of GH is produced by the liver, which appears appreciably in the blood during pregnancy",
-      "Another variant form of GH is produced by the decidua, which appears appreciably in the blood during pregnancy",
-      "Another variant form of GH is produced by the fetal pituitary, which appears appreciably in the blood during pregnancy"
+      "GHRH-producing cells are in the ventromedial nucleus of the hypothalamus; GHRH attaches to receptors on somatotrope cell membranes leading to an increase in CAMP, Ca2+, and phosphatidyl inositol; this stimulates GH release from secretory vesicles by exocytosis immediately and later stimulates transcription and synthesis of new GH",
+      "GHRH-producing cells are in the paraventricular nucleus of the hypothalamus; GHRH attaches to receptors on somatotrope cell membranes leading to activation of G-proteins and generation of IP3 and DAG; this stimulates GH release from secretory vesicles",
+      "GHRH-producing cells are in the arcuate nucleus of the hypothalamus; GHRH attaches to receptors on somatotrope cell membranes leading to JAK-STAT activation; this stimulates GH gene transcription but not immediate release",
+      "GHRH-producing cells are in the ventromedial nucleus of the hypothalamus; GHRH attaches to receptors on somatotrope cell membranes leading to a decrease in CAMP; this stimulates exocytosis of GH from secretory vesicles"
     ],
     "answer": "A"
   },
   {
     "id": 4,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q3): The student asks about species specificity of GH. Which statement is MOST precisely derived from the notes?",
+    "stem": "CASE STUDY (continued from Q3): GH release occurs in a specific pattern. What triggers this pattern?",
     "options": [
-      "There are considerable variations in the structure of GH from species to species; thus GH from one species may not be active when administered to another species",
-      "There are minimal variations in the structure of GH from species to species; thus GH from one species is generally active when administered to another species",
-      "There are no meaningful variations in the structure of GH from species to species; only immunological cross-reactivity varies across species",
-      "There are considerable variations in the function of GH across species; however, the molecular structure of GH is universally conserved"
+      "GH release occurs in pulses triggered by the intermittent discharge of GHRH",
+      "GH release occurs in a continuous tonic pattern determined by the basal level of GHRH",
+      "GH release occurs in a circadian pattern triggered by a single daily surge of GHRH at night",
+      "GH release occurs in pulses triggered by the pulsatile secretion of somatostatin"
     ],
     "answer": "A"
   },
   {
     "id": 5,
     "type": "mcq",
-    "stem": "GH secretion and metabolism involves a specific initial production step. Which is MOST precisely stated?",
+    "stem": "Ghrelin is described as a GH secretagogue. Which characteristics are MOST precisely stated?",
     "options": [
-      "GH is produced as a prohormone in the ribosomes and undergoes post-translational modification to make the active hormone; it is stored in secretory vesicles and released by exocytosis",
-      "GH is produced as a pre-prohormone in the rough endoplasmic reticulum and undergoes co-translational cleavage to make the active hormone; it is stored in secretory vesicles",
-      "GH is produced directly as an active hormone in the ribosomes without any post-translational modification; it is immediately secreted without storage in vesicles",
-      "GH is produced as a prohormone in the smooth endoplasmic reticulum and undergoes post-translational modification; it is stored in the Golgi apparatus"
+      "Ghrelin is a 28-amino acid GH secretagogue peptide whose leading production site is the stomach; it is also produced in the hypothalamus and has GH-stimulating activity",
+      "Ghrelin is a 44-amino acid GH secretagogue peptide whose leading production site is the hypothalamus; it is also produced in the stomach and has GH-stimulating activity",
+      "Ghrelin is a 28-amino acid GH secretagogue peptide whose leading production site is the pancreas; it is also produced in the stomach and has GH-stimulating activity",
+      "Ghrelin is a 14-amino acid GH secretagogue peptide whose leading production site is the stomach; it is also produced in the intestine and has GH-stimulating activity"
     ],
     "answer": "A"
   },
   {
     "id": 6,
     "type": "mcq",
-    "stem": "GH has a specific half-life and daily output. Which values are MOST precisely stated?",
+    "stem": "GHIH inhibits GH production by affecting specific second messengers. Which is MOST precisely stated?",
     "options": [
-      "GH has a 6-20 minute half-life and a daily output of 0.18-0.98 mg/day in adults",
-      "GH has a 6-20 minute half-life and a daily output of 1.8-9.8 mg/day in adults",
-      "GH has a 20-60 minute half-life and a daily output of 0.18-0.98 mg/day in adults",
-      "GH has a 6-20 minute half-life and a daily output of 0.018-0.098 mg/day in adults"
+      "GHIH inhibits GH production by reducing CAMP and phosphatidylinositol's second messenger phosphatidyl inositol",
+      "GHIH inhibits GH production by reducing CAMP and increasing somatostatin levels further through positive feedback",
+      "GHIH inhibits GH production by increasing CAMP and reducing phosphatidyl inositol levels",
+      "GHIH inhibits GH production by blocking GHRH receptors on somatotrope cell membranes without affecting second messengers"
     ],
     "answer": "A"
   },
   {
     "id": 7,
     "type": "mcq",
-    "stem": "CASE STUDY: A student traces the baseline GH level in adults and children. Which statement is MOST precisely derived from the notes?",
+    "stem": "CASE STUDY: A nurse lists physiological factors that STIMULATE GH secretion. Which combination is MOST precisely complete?",
     "options": [
-      "The baseline level is less than 5ng/ml in adults and 5ng/ml in children; indeed values are higher in early neonatal periods, fall during childhood, rise again at puberty, and fall during ageing",
-      "The baseline level is less than 5ng/ml in adults and greater than 5ng/ml in children; values are lower in early neonatal periods, rise during childhood, reach a peak at puberty, and fall during ageing",
-      "The baseline level is less than 1ng/ml in adults and less than 5ng/ml in children; values are constant throughout early neonatal periods and childhood then rise sharply at puberty",
-      "The baseline level is greater than 5ng/ml in adults and less than 5ng/ml in children; values are higher in adults because GH promotes tissue maintenance rather than growth"
+      "Nutritional factors (reduced blood sugar, reduced FFA, starvation, fasting, infusion of amino acids especially arginine); stress-induced factors (trauma, emotions, excitement, exercise); sleep â deep sleep Stages II and IV exhibiting circadian rhythm",
+      "Nutritional factors (elevated blood sugar, elevated FFA, starvation, fasting); stress-induced factors (trauma, emotions, excitement, exercise); sleep â REM sleep exhibiting circadian rhythm",
+      "Nutritional factors (reduced blood sugar, reduced FFA, starvation, fasting, infusion of amino acids especially leucine); stress-induced factors (trauma, emotions, excitement, exercise); sleep â deep sleep Stages III and IV",
+      "Nutritional factors (reduced blood sugar, reduced FFA, starvation, fasting, infusion of amino acids especially arginine); stress-induced factors (trauma, emotions, excitement, infection); sleep â deep sleep Stages II and IV"
     ],
     "answer": "A"
   },
   {
     "id": 8,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q7): After secretion, GH is bound to plasma proteins. What percentage is loosely bound?",
+    "stem": "CASE STUDY (continued from Q7): The nurse then lists physiological factors that DECREASE GH secretion. Which combination is MOST precisely stated?",
     "options": [
-      "About 50% is loosely bound to plasma proteins (GH-binding protein); secretion occurs in a pulsatile manner and it is rapidly metabolised in the liver and excreted",
-      "About 25% is loosely bound to plasma proteins (GH-binding protein); secretion occurs in a pulsatile manner and it is rapidly metabolised in the kidney and excreted",
-      "About 75% is loosely bound to plasma proteins (GH-binding protein); secretion occurs in a pulsatile manner and it is rapidly metabolised in the liver and excreted",
-      "About 50% is tightly bound to plasma proteins (GH-binding protein); secretion occurs in a continuous manner and it is metabolised in the liver"
+      "Postprandial elevation of blood sugar; elevated free fatty acids; ageing; rapid eye movement (REM, light sleep) sleep",
+      "Postprandial elevation of blood sugar; reduced free fatty acids; ageing; deep sleep stages II and IV",
+      "Postprandial elevation of blood sugar; elevated free fatty acids; puberty; rapid eye movement sleep",
+      "Fasting; elevated free fatty acids; ageing; rapid eye movement sleep"
     ],
     "answer": "A"
   },
   {
     "id": 9,
     "type": "mcq",
-    "stem": "GH acts primarily by binding to receptors on the cell surface. The receptor belongs to a specific superfamily. Which is MOST precisely correct?",
+    "stem": "Pharmacological factors that STIMULATE GH secretion are listed. Which hormonal combination is MOST precisely correct?",
     "options": [
-      "The GH receptor is a 620-amino acid homodimer and a member of the cytokine receptor superfamily; like insulin, it activates many different intracellular enzyme cascades and enables the JAKs-STAT pathway",
-      "The GH receptor is a 620-amino acid heterodimer and a member of the cytokine receptor superfamily; like insulin, it activates many different intracellular enzyme cascades",
-      "The GH receptor is a 420-amino acid homodimer and a member of the tyrosine kinase receptor superfamily; like insulin, it activates many different intracellular enzyme cascades",
-      "The GH receptor is a 620-amino acid homodimer and a member of the G-protein coupled receptor superfamily; unlike insulin, it activates second messenger cascades only"
+      "GHRH, ACTH, glucagon, testosterone, and oestrogen",
+      "GHRH, TSH, glucagon, testosterone, and progesterone",
+      "GHRH, ACTH, insulin, testosterone, and oestrogen",
+      "GHRH, ACTH, glucagon, cortisol, and oestrogen"
     ],
     "answer": "A"
   },
   {
     "id": 10,
     "type": "mcq",
-    "stem": "CASE STUDY: A student traces the GH signalling cascade from receptor binding. Which sequence is MOST precisely correct?",
+    "stem": "CASE STUDY: A student is asked to identify the adrenergic drug class and the specific drug that STIMULATES GH secretion. Which is MOST precise?",
     "options": [
-      "GH binds receptor â activates JAKS-2 (member of Janus family of cytoplasmic tyrosine kinases) â STAT means signal transducers and activators of transcription â binding of GH to receptors leads to dimerisation of receptors â activating Janus kinases â phosphorylates STAT proteins â transcription with subsequent translation of proteins necessary for GH action; also acts through MAP kinase pathways for chondrogenesis",
-      "GH binds receptor â activates G-protein â generates cAMP â activates protein kinase A â phosphorylates target enzymes â transcription of growth-related genes",
-      "GH binds receptor â autophosphorylates tyrosine residues on the receptor â activates PI-3 kinase â generates PIP3 â activates Akt â phosphorylates STAT proteins",
-      "GH binds receptor â activates JAKS-2 â phosphorylates tyrosine on the receptor â activates PLC â generates IP3 and DAG â activates protein kinase C"
+      "Alpha adrenergic agonist (clonidine) stimulates GH secretion; beta-adrenergic antagonist (propranolol) stimulates GH secretion",
+      "Alpha adrenergic antagonist (phentolamine) stimulates GH secretion; beta-adrenergic agonist (isopreterenol) stimulates GH secretion",
+      "Beta adrenergic agonist (clonidine) stimulates GH secretion; alpha-adrenergic antagonist (propranolol) stimulates GH secretion",
+      "Alpha adrenergic agonist (epinephrine) stimulates GH secretion; beta-adrenergic antagonist (atenolol) stimulates GH secretion"
     ],
     "answer": "A"
   },
   {
     "id": 11,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q10): STAT is an acronym. What does STAT stand for?",
+    "stem": "CASE STUDY (continued from Q10): The student identifies which drugs INHIBIT GH secretion. Which combination is MOST precisely correct?",
     "options": [
-      "Signal transducers and activators of transcription",
-      "Signal transference and amplifiers of translation",
-      "Steroid transcription and activators of translation",
-      "Signal transducers and amplifiers of transcription"
+      "Hormones: somatostatin, GH, progesterone, glucocorticoids; alpha adrenergic antagonist (phentolamine); beta-adrenergic agonist (isopreterenol); serotonin agonist; dopamine antagonist",
+      "Hormones: somatostatin, GH, oestrogen, glucocorticoids; alpha adrenergic antagonist (phentolamine); beta-adrenergic agonist (isopreterenol); serotonin agonist; dopamine antagonist",
+      "Hormones: somatostatin, GH, progesterone, mineralocorticoids; alpha adrenergic antagonist (phentolamine); beta-adrenergic agonist (isopreterenol); serotonin agonist; dopamine antagonist",
+      "Hormones: somatostatin, GH, testosterone, glucocorticoids; alpha adrenergic antagonist (phentolamine); beta-adrenergic agonist (isopreterenol); serotonin agonist; dopamine antagonist"
     ],
     "answer": "A"
   },
   {
     "id": 12,
     "type": "mcq",
-    "stem": "GH is also known by an alternative name. What is this name?",
+    "stem": "Pathological factors that STIMULATE GH secretion include which combination?",
     "options": [
-      "GH is also called somatotropic hormone",
-      "GH is also called somatostatin",
-      "GH is also called somatomedins",
-      "GH is also called somatocrinin"
+      "Protein-energy malnutrition; anorexia nervosa; chronic renal failure",
+      "Protein-energy malnutrition; anorexia nervosa; acromegaly",
+      "Protein-energy malnutrition; obesity; chronic renal failure",
+      "Protein-energy malnutrition; anorexia nervosa; thyroid dysfunction"
     ],
     "answer": "A"
   },
   {
     "id": 13,
     "type": "mcq",
-    "stem": "CASE STUDY: A student describes the effect of GH on bone and cartilage. Which statement is MOST completely and precisely correct?",
+    "stem": "CASE STUDY: A nurse asks about pathological factors that DECREASE GH secretion. Which is MOST precisely correct?",
     "options": [
-      "GH increases deposition of proteins by chondrogenic and osteogenic cells; stimulates new bone formation and converts chondrocytes into osteogenic cells; long bones grow in length in the epiphyseal cartilage with elongation of the shaft, pushing epiphyses further apart; epiphyseal cartilage is used progressively until fusion occurs between shaft and epiphyses; after this, growth in length stops but osteoblastic activity continues to thicken the jaw and skull bones; osteoclasts institute remodelling; epiphyses close at specific ages forming the basis for using X-rays to determine age",
-      "GH increases deposition of proteins by osteogenic cells only; stimulates osteoclasts to resorb bone and lay down new osteoid; long bones grow at the metaphysis rather than the epiphysis; fusion occurs at the epiphyseal plates; after fusion, growth continues through periosteal deposition exclusively",
-      "GH stimulates cartilage proliferation exclusively without affecting bone formation; it promotes chondrocyte hypertrophy but does not convert chondrocytes into osteogenic cells",
-      "GH increases deposition of proteins by chondrogenic cells; long bones grow by periosteal apposition rather than epiphyseal growth; osteoclasts remodel bone after epiphyseal fusion occurs"
+      "Obesity; thyroid dysfunction; acromegaly",
+      "Obesity; anorexia nervosa; acromegaly",
+      "Obesity; thyroid dysfunction; Laron syndrome",
+      "Protein-energy malnutrition; thyroid dysfunction; acromegaly"
     ],
     "answer": "A"
   },
   {
     "id": 14,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q13): GH has specific effects on protein metabolism. Which is MOST precisely correct?",
+    "stem": "CASE STUDY (continued from Q13): The nurse explains the GH feedback regulation loop. Which is MOST precisely described?",
     "options": [
-      "GH increases amino acid transport into cells, stimulates protein synthesis, and inhibits protein catabolism; it is an anabolic protein hormone and produces a positive nitrogen balance",
-      "GH decreases amino acid transport into cells but stimulates protein synthesis and inhibits protein catabolism; it produces a positive nitrogen balance",
-      "GH increases amino acid transport into cells but inhibits protein synthesis while stimulating protein catabolism; it produces a negative nitrogen balance",
-      "GH increases amino acid transport into cells, stimulates protein synthesis, and stimulates protein catabolism equally; it has no net effect on nitrogen balance"
+      "GH increases circulating IGF-1; IGF-1 acts on the pituitary through a long-loop mechanism to inhibit GH secretion; simultaneously it acts on the hypothalamus via a more extended loop feedback mechanism to stimulate the production of somatostatin",
+      "GH increases circulating IGF-1; IGF-1 acts on the hypothalamus through a long-loop mechanism to stimulate GH secretion; simultaneously it acts on the pituitary via a short-loop mechanism to inhibit GHRH release",
+      "GH increases circulating somatostatin; somatostatin acts on the pituitary through a long-loop mechanism to inhibit GH secretion; simultaneously GH acts on the hypothalamus to stimulate GHRH release",
+      "GH directly inhibits its own secretion at the somatotrope level through an ultra-short loop mechanism without involving IGF-1 or hypothalamic feedback"
     ],
     "answer": "A"
   },
   {
     "id": 15,
     "type": "mcq",
-    "stem": "GH stimulates lipolysis through a specific mechanism and the resulting free fatty acids have a specific fate. Which is MOST precisely stated?",
+    "stem": "Causes of pituitary insufficiency are listed. Which set is MOST completely and correctly derived from the notes?",
     "options": [
-      "GH stimulates lipolysis by mobilising fat from adipose tissue; the released free fatty acids (FFAs) are utilised for energy production; the resultant effect is a tendency towards ketogenesis; it provides an alternative energy source during fasting, hypoglycaemia, and stressful situations, conserving protein for growth and development",
-      "GH stimulates lipolysis by mobilising fat from the liver; the released FFAs are utilised for energy production; the resultant effect is a tendency towards gluconeogenesis; it conserves protein",
-      "GH stimulates lipogenesis by mobilising fat from adipose tissue; the released FFAs are stored as triglycerides; the resultant effect is a tendency toward obesity; it increases protein catabolism",
-      "GH stimulates lipolysis by mobilising fat from adipose tissue; the released FFAs inhibit glucose oxidation; the resultant effect is a tendency towards hypoglycaemia; it promotes protein catabolism"
+      "Empty sella syndrome; Levi-Lorain syndromes; hypothalamic failure affecting GHRH; congenital tumours and cysts involving the Sella tursica; GH receptor insensitivity; tuberculous meningitis; encephalitis; chromophobe adenoma; Sheehan's syndrome; irradiation",
+      "Empty sella syndrome; Levi-Lorain syndromes; hypothalamic failure affecting GHRH; congenital tumours and cysts involving the Sella tursica; GH receptor insensitivity; bacterial meningitis; encephalitis; chromophobe adenoma; Sheehan's syndrome; irradiation",
+      "Empty sella syndrome; Levi-Lorain syndromes; hypothalamic failure affecting CRH; congenital tumours and cysts involving the Sella tursica; GH receptor insensitivity; tuberculous meningitis; encephalitis; chromophobe adenoma; Sheehan's syndrome; irradiation",
+      "Empty sella syndrome; Levi-Lorain syndromes; hypothalamic failure affecting GHRH; congenital tumours and cysts involving the Sella tursica; GH receptor insensitivity; tuberculous meningitis; meningococcal meningitis; chromophobe adenoma; Sheehan's syndrome; irradiation"
     ],
     "answer": "A"
   },
   {
     "id": 16,
     "type": "mcq",
-    "stem": "CASE STUDY: A nurse explains GH's effects on carbohydrate metabolism. Which is MOST completely correct?",
+    "stem": "CASE STUDY: A post-partum woman develops panhypopituitarism after massive haemorrhage at delivery. Which cause of pituitary insufficiency is MOST likely?",
     "options": [
-      "GH reduces peripheral utilisation of glucose and decreases glucose uptake by muscle; enhances hepatic glucose output; during fasting GH inhibits glycogenolysis in skeletal and cardiac muscles (glycostatic effect); increases blood sugar; secondarily stimulates B cells of the pancreas to produce insulin; continuous sustained stimulation may burn out beta cells leading to diabetes mellitus (diabetogenic effect)",
-      "GH increases peripheral utilisation of glucose and increases glucose uptake by muscle; decreases hepatic glucose output; stimulates glycogenolysis in skeletal and cardiac muscles; decreases blood sugar; suppresses B cells of the pancreas",
-      "GH reduces peripheral utilisation of glucose and decreases glucose uptake by muscle; decreases hepatic glucose output; during fasting GH promotes glycogenolysis in skeletal muscles; decreases blood sugar; stimulates B cells to produce glucagon",
-      "GH reduces peripheral glucose utilisation; increases gluconeogenesis in the liver; inhibits insulin secretion directly; produces hyperglycaemia through direct suppression of peripheral glucose uptake"
+      "Sheehan's syndrome â pituitary necrosis due to postpartum haemorrhage causing ischaemia of the pituitary",
+      "Empty sella syndrome â subarachnoid space invades the sella after delivery due to hormonal changes",
+      "Chromophobe adenoma â a non-secreting pituitary tumour that enlarges during pregnancy due to oestrogen stimulation",
+      "Levi-Lorain syndrome â a congenital cause of pituitary insufficiency triggered by the stress of childbirth"
     ],
     "answer": "A"
   },
   {
     "id": 17,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q16): In electrolyte metabolism, GH increases absorption of which two minerals from the gastrointestinal and renal systems?",
+    "stem": "CASE STUDY (continued from Q16): A child with GH receptor insensitivity (Laron syndrome) is identified. Which clinical consequence is MOST directly predicted?",
     "options": [
-      "Calcium and phosphorous",
-      "Calcium and sodium",
-      "Phosphorous and potassium",
-      "Sodium and calcium"
+      "GH cannot act on its target tissues despite normal or elevated GH levels; somatomedins (IGF-1) are not produced; the result is short stature despite normal or high GH levels",
+      "GH cannot be produced by somatotropes; IGF-1 levels are low because the liver lacks GH stimulation; the result is short stature with low GH levels",
+      "GHRH cannot stimulate somatotropes; GH levels are very low; IGF-1 levels are very low; the result is growth failure with absent pulsatile GH secretion",
+      "GH receptor insensitivity leads to excessive GH accumulation causing paradoxical overstimulation of IGF-1 through alternative pathways"
     ],
     "answer": "A"
   },
   {
     "id": 18,
     "type": "mcq",
-    "stem": "GH reduces the excretion of two specific ions, conserving them for incorporation into growing cells. Which pair is MOST precisely stated?",
+    "stem": "The physiology of growth explains that in intrauterine life, the hormonal factor responsible for foetal growth is believed to be a specific substance. Which is MOST precisely stated?",
     "options": [
-      "Sodium (Na+) and potassium (K+)",
-      "Sodium (Na+) and chloride (Cl-)",
-      "Calcium (Ca2+) and phosphate (PO4-)",
-      "Potassium (K+) and calcium (Ca2+)"
+      "The hormonal factor responsible for foetal growth is believed to be foetal IGF-2, which is stimulated by human placental lactogen from the placenta",
+      "The hormonal factor responsible for foetal growth is believed to be foetal IGF-1, which is stimulated by maternal GH crossing the placenta",
+      "The hormonal factor responsible for foetal growth is believed to be foetal GH, which is secreted by the fetal pituitary from early gestation",
+      "The hormonal factor responsible for foetal growth is believed to be foetal IGF-2, which is stimulated by foetal insulin from the pancreas"
     ],
     "answer": "A"
   },
   {
     "id": 19,
     "type": "mcq",
-    "stem": "CASE STUDY: A patient develops diabetes mellitus after years of acromegaly. Based on the notes, which mechanism explains this?",
+    "stem": "CASE STUDY: A student asks about the pattern of postnatal growth. Which statement is MOST precisely stated?",
     "options": [
-      "Continuous and sustained stimulation of B cells by GH-induced hyperglycaemia may burn out the beta cells, leading to diabetes mellitus â this is the diabetogenic effect of GH",
-      "GH directly destroys pancreatic beta cells through an immune mechanism, reducing insulin production",
-      "GH causes direct inhibition of insulin gene transcription, progressively reducing insulin synthesis over years",
-      "GH promotes glucagon secretion which competitively inhibits insulin binding to its receptors, producing functional insulin resistance"
+      "During the first year of postnatal life the rate of growth is rapid though less than in utero and is called the primary growth spurt; growth continues at a reduced rate until late puberty when a secondary growth spurt occurs",
+      "During the first year of postnatal life the rate of growth is rapid and greater than in utero and is called the primary growth spurt; growth continues at a reduced rate until early puberty",
+      "During the first year of postnatal life the rate of growth is slower than in utero and is called the secondary growth spurt; growth continues at an increased rate until late puberty when a tertiary growth spurt occurs",
+      "During the first year of postnatal life the rate of growth is rapid equal to that in utero and is called the primary growth spurt; growth continues at an increased rate throughout childhood"
     ],
     "answer": "A"
   },
   {
     "id": 20,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q19): The physician explains that GH acts directly on tissues with specific effects. Which direct actions of GH are MOST precisely listed?",
+    "stem": "CASE STUDY (continued from Q19): The secondary growth spurt at puberty is stimulated by a complex interaction of hormones. Which combination is MOST precisely listed?",
     "options": [
-      "GH is believed to act directly to stimulate lipolysis, protein synthesis, epiphyseal growth, decreased insulin sensitivity, and sodium retention",
-      "GH is believed to act directly to stimulate lipolysis, protein synthesis, epiphyseal growth, increased insulin sensitivity, and potassium retention",
-      "GH is believed to act directly to stimulate lipogenesis, protein synthesis, epiphyseal growth, decreased insulin sensitivity, and sodium retention",
-      "GH is believed to act directly to stimulate lipolysis, protein catabolism, epiphyseal growth, decreased insulin sensitivity, and sodium excretion"
+      "Androgens with a profound protein anabolic effect; sex steroids bring about protein anabolism, increase GH response to arginine, and increase IGF-1 production; oestrogens have growth-stimulating ability but with a tendency to induce early epiphyseal closure; insulin enhances growth-stimulating ability",
+      "Oestrogens with a profound protein anabolic effect; sex steroids bring about protein catabolism; androgens increase GH response to arginine and increase IGF-1 production; insulin inhibits growth-stimulating ability",
+      "Androgens with a profound protein anabolic effect; sex steroids bring about protein anabolism, increase GH response to arginine, and increase IGF-2 production; oestrogens induce early epiphyseal closure; insulin enhances growth-stimulating ability",
+      "Androgens with a profound protein anabolic effect; sex steroids bring about protein anabolism and decrease GH response to arginine; oestrogens increase IGF-1 production; insulin enhances growth-stimulating ability"
     ],
     "answer": "A"
   },
   {
     "id": 21,
     "type": "mcq",
-    "stem": "Somatomedins are polypeptides that belong to a large molecular family. Which description is MOST precisely correct?",
+    "stem": "Thyroid hormones have a specific role in growth. Which is MOST precisely stated?",
     "options": [
-      "Somatomedins are polypeptides belonging to a large family of growth factors; they are secreted mainly by the liver and to a small extent by other tissues like the kidneys and muscles; in humans only two have been identified to have physiological importance â IGF-1 (somatomedin C) the more abundant, and IGF-2 (the less abundant)",
-      "Somatomedins are glycoproteins belonging to a large family of growth factors; they are secreted mainly by the liver and to a small extent by the kidneys; in humans only three have been identified to have physiological importance including IGF-1, IGF-2, and IGF-3",
-      "Somatomedins are polypeptides belonging to a large family of growth factors; they are secreted exclusively by the liver; in humans only one has been identified to have physiological importance â IGF-1 (somatomedin C)",
-      "Somatomedins are polypeptides belonging to a small family of growth factors; they are secreted mainly by the kidneys and to a small extent by the liver; in humans only two have been identified â IGF-1 (somatomedin A) and IGF-2"
+      "Thyroid hormones have permissive action on GH; appear to be necessary for the normal rate of GH secretion; and improve cartilage ossification and growth of teeth",
+      "Thyroid hormones directly stimulate GH secretion; are the most important hormones for the primary growth spurt; and promote epiphyseal closure at puberty",
+      "Thyroid hormones antagonise GH action; suppress IGF-1 production; and have no effect on cartilage ossification",
+      "Thyroid hormones have an inhibitory effect on GH secretion; appear to be necessary for the control of the secondary growth spurt only"
     ],
     "answer": "A"
   },
   {
     "id": 22,
     "type": "mcq",
-    "stem": "CASE STUDY: A student asks specifically about IGF-1 and its relationship to GH control. Which is MOST precisely stated?",
+    "stem": "CASE STUDY: A student asks about the effect of adrenal cortical hormones on growth. Which is MOST precisely stated?",
     "options": [
-      "IGF-1 is NOT under the control of GH in utero; however, GH begins to influence its production immediately postpartum, with plasma levels rising through childhood, reaching a zenith at puberty, and gradually falling with old age",
-      "IGF-1 IS under the control of GH both in utero and postpartum; plasma levels rise through childhood, reaching a zenith at puberty, and gradually falling with old age",
-      "IGF-1 is NOT under the control of GH in utero; plasma levels remain constant throughout life because IGF-1 is constitutively produced by the liver",
-      "IGF-1 is under the control of GH only during puberty; before puberty and after puberty, IGF-1 is produced independently of GH"
+      "Adrenal cortical hormones other than androgens exert a permissive action on growth; but glucocorticoids inhibit growth; after the secondary growth spurt, cessation of growth occurs and this has been linked to oestrogen-induced epiphyseal closure",
+      "All adrenal cortical hormones including glucocorticoids exert a permissive action on growth; none of them inhibit growth",
+      "Adrenal cortical androgens are the only adrenal hormones that affect growth; glucocorticoids have no effect on growth velocity",
+      "Adrenal cortical hormones other than androgens directly stimulate GH secretion; glucocorticoids inhibit growth only when administered pharmacologically"
     ],
     "answer": "A"
   },
   {
     "id": 23,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q22): What is the specific role of IGF-2?",
+    "stem": "CASE STUDY (continued from Q22): The secondary growth spurt appears at different times in girls compared to boys. What is the clinical consequence?",
     "options": [
-      "IGF-2 likely has a responsibility in utero of assisting foetal growth; plasma levels are constant throughout postnatal life",
-      "IGF-2 is responsible for postnatal linear growth and IGF-1 is responsible for foetal growth â they have opposite developmental roles",
-      "IGF-2 is the more abundant of the two IGFs and has a responsibility postpartum for promoting linear bone growth",
-      "IGF-2 has no established role in utero and functions exclusively as a mitogen in postnatal life"
+      "The secondary growth spurt appears earlier in girls than boys; the consequence is early closure of epiphysis making girls shorter than their male counterparts of the same age, genetic, and socioeconomic background",
+      "The secondary growth spurt appears later in girls than boys; the consequence is delayed epiphyseal closure making girls taller than their male counterparts",
+      "The secondary growth spurt appears at the same time in girls and boys; the difference in adult height is due solely to differences in oestrogen levels",
+      "The secondary growth spurt appears earlier in girls than boys; the consequence is prolonged epiphyseal growth making girls taller than their male counterparts transiently"
     ],
     "answer": "A"
   },
   {
     "id": 24,
     "type": "mcq",
-    "stem": "Somatomedins bind to plasma proteins in a specific manner. Which statement is MOST precisely correct?",
+    "stem": "Children exhibit a unique growth catch-up phenomenon. Which statement is MOST precisely stated?",
     "options": [
-      "Most somatomedins are tightly bound to plasma proteins, more significantly to IGF binding protein 3; this ensures a prolongation of the half-life to about 20 hours, in contrast to GH which is loosely bound to proteins with a short half-life",
-      "Most somatomedins are loosely bound to plasma proteins, specifically to IGF binding protein 3; this ensures a short half-life of about 2 hours, in contrast to GH which is tightly bound with a long half-life",
-      "Most somatomedins are tightly bound to plasma proteins, more significantly to IGF binding protein 1; this ensures a prolongation of the half-life to about 20 hours",
-      "Most somatomedins are tightly bound to plasma proteins, more significantly to IGF binding protein 3; this ensures a prolongation of the half-life to about 2 hours, in contrast to GH which has a half-life of 20 hours"
+      "Children exhibit a period of growth to catch up after illness or starvation; the growth rate during this period is greater than normal; the mechanism is unknown; nutritional factors may play a prominent role",
+      "Children exhibit a period of growth to catch up after illness or starvation; the growth rate during this period is equal to normal; the mechanism involves GH hypersecretion",
+      "Children exhibit a period of growth to catch up after illness only; starvation does not trigger catch-up growth because nutrient deficiency prevents IGF-1 production",
+      "Children exhibit a period of growth to catch up after illness or starvation; the growth rate during this period is slightly below normal; the mechanism involves thyroid hormone upregulation"
     ],
     "answer": "A"
   },
   {
     "id": 25,
     "type": "mcq",
-    "stem": "CASE STUDY: A student asks why the biological importance of somatomedins is more prolonged than GH. Which is MOST precisely derived from the notes?",
+    "stem": "Local growth factors are polypeptides that stimulate growth of various cells. They can be divided into three groups. Which combination of all three groups is MOST precisely correct?",
     "options": [
-      "Because somatomedins are tightly bound to plasma proteins with a half-life of about 20 hours, while GH is loosely bound with a short half-life; the physiological importance therefore is that the biological activity of somatomedins is more prolonged than GH",
-      "Because somatomedins are produced continuously without pulsatile secretion, while GH is secreted in pulses with intervening low levels",
-      "Because somatomedins are smaller molecules that diffuse more readily into tissues, prolonging their tissue exposure compared to larger GH molecules",
-      "Because somatomedins are sequestered in the extracellular matrix and released slowly, prolonging their biological availability compared to freely circulating GH"
+      "Agents that promote multiplication and development of various cell types (IGF, EGF, FGF, NGF, PDGF, angiogenic growth factor); cytokines (hormone-like molecules from lymphocytes, macrophages, and other cell types acting in paracrine manner); colony stimulating factors (regulate proliferation and maturation of red and white blood cells)",
+      "Agents that promote multiplication and development (IGF, EGF, FGF, NGF, PDGF, angiogenic growth factor); cytokines (from lymphocytes and macrophages acting in endocrine manner); colony stimulating factors (regulate only white blood cell proliferation)",
+      "Agents that promote multiplication (IGF, EGF, FGF, NGF, PDGF); cytokines (from lymphocytes and macrophages acting in paracrine manner); colony stimulating factors (regulate only red blood cell maturation)",
+      "Agents that promote multiplication of cell types (IGF, EGF, FGF, NGF, PDGF, angiogenic growth factor); autocrine factors; colony stimulating factors (regulate proliferation and maturation of red and white blood cells)"
     ],
     "answer": "A"
   },
   {
     "id": 26,
     "type": "mcq",
-    "stem": "Somatomedins are hydrophilic. What does this mean for their mechanism of action?",
+    "stem": "CASE STUDY: A student asks how agents that promote cell multiplication primarily signal. Which is MOST precisely stated?",
     "options": [
-      "Because somatomedins are hydrophilic, they attach to cell membrane receptors in their target cells; the receptors resemble insulin receptors; the ligand-receptor complex leads to autophosphorylation and modification of intracellular enzymes",
-      "Because somatomedins are hydrophilic, they diffuse directly across cell membranes to bind intracellular receptors similar to steroid hormones",
-      "Because somatomedins are hydrophilic, they activate G-protein coupled receptors to generate cAMP as a second messenger",
-      "Because somatomedins are hydrophilic, they cannot bind to receptors and instead act through ligand-independent receptor activation"
+      "Most of these agents act via enzyme-linked cell membrane receptors (receptor tyrosine kinases, RTKs) which are activated via autophosphorylation; insulin and macrophage colony-stimulating factors act through this mechanism",
+      "Most of these agents act via G-protein coupled receptors which generate cAMP as the primary second messenger; insulin acts through this mechanism",
+      "Most of these agents act via ion-channel receptors that change membrane permeability; insulin and IGF act through this mechanism",
+      "Most of these agents act via nuclear receptors that directly activate gene transcription; growth factors diffuse across membranes to bind intracellular receptors"
     ],
     "answer": "A"
   },
   {
     "id": 27,
     "type": "mcq",
-    "stem": "CASE STUDY: The interaction between GH and somatomedins is described. Which statement is MOST precisely correct?",
+    "stem": "CASE STUDY (continued from Q26): Cytokines are described as a specific category of growth-regulating molecules. Which description is MOST precisely correct?",
     "options": [
-      "The interaction is variable; it is generally believed that GH stimulates the liver to produce somatomedins which act on bone, cartilage, and other tissues; recent evidence shows GH stimulates hepatic synthesis of IGF-1 which stimulates epiphyseal growth and possesses insulin-like activity; it enhances protein synthesis and inhibits lipolysis",
-      "The interaction is direct; GH acts entirely through somatomedins with no direct tissue effects of its own; somatomedins mediate 100% of GH's anabolic effects",
-      "The interaction is simple; GH directly stimulates all tissues without involving somatomedins; somatomedins are produced constitutively independent of GH and serve as tissue growth factors",
-      "The interaction is well established; GH acts only on the liver to produce IGF-1; IGF-1 mediates all metabolic effects of GH; GH itself has no direct biological actions on peripheral tissues"
+      "Cytokines are hormone-like molecules produced by lymphocytes, macrophages, and other cell types; they act in a paracrine manner; examples include interleukins and interferons; cell signalling is via the stimulation of transmembrane cytokine receptors leading to the stimulation of JAK-STAT pathways",
+      "Cytokines are hormone-like molecules produced exclusively by lymphocytes; they act in an endocrine manner; examples include interleukins and growth hormone; cell signalling is via G-protein coupled receptors",
+      "Cytokines are protein molecules produced by the liver; they act in an endocrine manner; examples include interleukins and complement proteins; cell signalling is via nuclear receptors",
+      "Cytokines are hormone-like molecules produced by lymphocytes and pituitary cells; they act in an autocrine manner exclusively; examples include interferons and ACTH; cell signalling is via RTK autophosphorylation"
     ],
     "answer": "A"
   },
   {
     "id": 28,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q27): IGF-1 stimulated by GH from the liver specifically possesses what activity?",
+    "stem": "Which hormones act via the JAK-STAT pathway according to the cytokine pathway notes?",
     "options": [
-      "IGF-1 stimulates epiphyseal growth and possesses insulin-like activity; it enhances protein synthesis and inhibits lipolysis",
-      "IGF-1 stimulates epiphyseal growth and possesses anti-insulin activity; it inhibits protein synthesis and promotes lipolysis",
-      "IGF-1 stimulates epiphyseal growth and possesses glucagon-like activity; it promotes glycogenolysis and inhibits protein synthesis",
-      "IGF-1 stimulates epiphyseal growth and possesses purely anabolic activity without any insulin-like metabolic effects"
+      "Prolactin, erythropoietin, thrombopoietin, and granulocyte colony-stimulating factors act via this mechanism",
+      "Prolactin, erythropoietin, insulin, and granulocyte colony-stimulating factors act via this mechanism",
+      "Prolactin, ACTH, thrombopoietin, and granulocyte colony-stimulating factors act via this mechanism",
+      "Prolactin, erythropoietin, thrombopoietin, and IGF-1 act via this mechanism"
     ],
     "answer": "A"
   },
   {
     "id": 29,
     "type": "mcq",
-    "stem": "GH stimulates erythropoiesis. Which ions does GH conserve to support growing cells and tissues?",
+    "stem": "Colony stimulating factors (CSFs) regulate specific cells. Which is MOST precisely stated?",
     "options": [
-      "GH reduces excretion of sodium (Na+) and potassium (K+); conservation makes them available for incorporation into growing cells and tissues",
-      "GH reduces excretion of calcium (Ca2+) and phosphate (PO4-); conservation makes them available for incorporation into growing cells and tissues",
-      "GH reduces excretion of sodium (Na+) and chloride (Cl-); conservation makes them available for incorporation into growing cells and tissues",
-      "GH reduces excretion of potassium (K+) and calcium (Ca2+); conservation makes them available for incorporation into growing cells and tissues"
+      "Colony stimulating factors regulate the proliferation and maturation of red and white blood cells; an example is granulocyte monocytes colony-stimulating factor (GM-CSF); signal transduction is via RTK and/or cytokine receptors",
+      "Colony stimulating factors regulate only white blood cell proliferation; an example is granulocyte colony-stimulating factor (G-CSF); signal transduction is via G-protein coupled receptors exclusively",
+      "Colony stimulating factors regulate the proliferation and maturation of platelets only; an example is thrombopoietin; signal transduction is via JAK-STAT pathways",
+      "Colony stimulating factors regulate the differentiation of stem cells into all blood cell types; an example is erythropoietin; signal transduction is via nuclear receptors"
     ],
     "answer": "A"
   },
   {
     "id": 30,
     "type": "mcq",
-    "stem": "CASE STUDY: A nurse is explaining why the glycostatic effect of GH is paradoxical. Which explanation is MOST grounded in the notes?",
+    "stem": "CASE STUDY: A student is asked what the 'most important extrinsic factor' for optimal growth is. Which is MOST precisely stated?",
     "options": [
-      "During fasting, GH inhibits glycogenolysis in skeletal and cardiac muscles â the glycostatic effect â which paradoxically tends to increase blood sugar because muscle glucose uptake is simultaneously reduced, creating a net hyperglycaemia",
-      "During fasting, GH promotes glycogenolysis in skeletal muscles â releasing glucose â which paradoxically decreases blood sugar because the released glucose is immediately oxidised by muscle",
-      "During fasting, GH stimulates glycogen synthesis in cardiac muscle â the glycostatic effect â which paradoxically depletes liver glycogen reserves and produces hypoglycaemia",
-      "During fasting, GH inhibits hepatic glycogen breakdown â the glycostatic effect â which directly reduces blood glucose levels and prevents hyperglycaemia"
+      "Nutrition is the most important extrinsic factor; adequate protein, calories, and micronutrients are needed if optimal growth must be achieved",
+      "Hormones are the most important extrinsic factor; GH, thyroid hormones, and sex steroids are required if optimal growth must be achieved",
+      "Genetic factors are the most important extrinsic factor; parental height determines the growth potential that must be supported for optimal achievement",
+      "Sleep is the most important extrinsic factor; deep sleep stages II and IV are required because GH is secreted primarily during this time"
     ],
     "answer": "A"
   },
   {
     "id": 31,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q30): The student asks what specific cells in the epiphysis GH acts on for bone growth. Which is MOST precisely correct?",
+    "stem": "CASE STUDY (continued from Q30): The student asks about agents that promote cell multiplication. Which specific growth factors are MOST completely listed?",
     "options": [
-      "GH acts on chondrogenic cells in the epiphyseal cartilage; it increases deposition of proteins by chondrogenic and osteogenic cells; it stimulates new bone formation and converts chondrocytes into osteogenic cells",
-      "GH acts exclusively on osteoblasts in the periosteum; chondrocytes are not directly stimulated by GH",
-      "GH acts on osteoclasts in the epiphyseal cartilage; it promotes bone resorption and remodelling without directly stimulating bone formation",
-      "GH acts on fibroblasts in the epiphyseal growth plate; fibroblasts are converted to chondrocytes which then produce cartilage matrix"
+      "IGF, epidermal growth factor, fibroblast growth factor, nerve growth factor, platelet-derived growth factor, and angiogenic growth factor",
+      "IGF, epidermal growth factor, fibroblast growth factor, nerve growth factor, platelet-derived growth factor, and transforming growth factor",
+      "IGF, epidermal growth factor, fibroblast growth factor, nerve growth factor, vascular endothelial growth factor, and angiogenic growth factor",
+      "IGF, epidermal growth factor, fibroblast growth factor, nerve growth factor, platelet-derived growth factor, and colony-stimulating growth factor"
     ],
     "answer": "A"
   },
   {
     "id": 32,
     "type": "mcq",
-    "stem": "GH acts via the MAP kinase pathway for a specific process. What is this process?",
+    "stem": "Dopamine agonist is listed as a pharmacological stimulator of GH secretion. Which drug is implied by this classification?",
     "options": [
-      "GH acts through the mitogen-activated protein (MAP) kinase pathway for chondrogenesis",
-      "GH acts through the mitogen-activated protein (MAP) kinase pathway for lipolysis",
-      "GH acts through the mitogen-activated protein (MAP) kinase pathway for protein synthesis",
-      "GH acts through the mitogen-activated protein (MAP) kinase pathway for erythropoiesis"
+      "Dopamine agonist stimulates GH secretion; this is a pharmacological factor listed alongside clonidine and propranolol",
+      "Dopamine antagonist stimulates GH secretion; this is listed as a pharmacological factor that promotes GH release",
+      "Serotonin agonist stimulates GH secretion; dopamine agonist inhibits GH secretion by promoting somatostatin release",
+      "Dopamine agonist inhibits GH secretion; this is why dopamine antagonists are used to stimulate GH release in testing"
     ],
     "answer": "A"
   },
   {
     "id": 33,
     "type": "mcq",
-    "stem": "CASE STUDY: A student confuses the role of osteoblasts and osteoclasts in GH-mediated bone remodelling. Which is MOST precisely correct from the notes?",
+    "stem": "CASE STUDY: A pharmacology student asks which serotonergic drug promotes GH secretion. Based on the notes, the answer is:",
     "options": [
-      "After growth in length stops following epiphyseal fusion, osteoblastic activity continues to thicken the jaw and skull bones (deposition of new bones on the surface of old ones); osteoclasts then institute remodelling",
-      "After growth in length stops following epiphyseal fusion, osteoclastic activity thickens the jaw and skull bones; osteoblasts then institute remodelling to smooth the surface",
-      "After growth in length stops, both osteoblasts and osteoclasts simultaneously deposit and resorb bone in equal amounts, maintaining bone mass without net change",
-      "After growth in length stops, only osteoclasts are active; osteoblasts are dormant until a fracture signal activates them for repair"
+      "Serotonin precursors stimulate GH secretion",
+      "Serotonin agonists inhibit GH secretion",
+      "Serotonin antagonists stimulate GH secretion",
+      "Serotonin reuptake inhibitors stimulate GH secretion via increased synaptic serotonin"
     ],
     "answer": "A"
   },
   {
     "id": 34,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q33): Epiphyses close at specific ages. Why is this clinically significant?",
+    "stem": "CASE STUDY (continued from Q33): The pharmacology student then asks which beta-adrenergic drug INHIBITS GH secretion. Which is MOST precisely stated?",
     "options": [
-      "Various epiphyses close at specific ages in average persons, which forms the basis for using X-rays to determine the age of individuals",
-      "Various epiphyses close at specific ages, which forms the basis for diagnosing GH deficiency by measuring bone density",
-      "Various epiphyses close at specific ages, which forms the basis for prescribing GH replacement therapy only before puberty",
-      "Various epiphyses close at specific ages, which forms the basis for monitoring GH therapy response by measuring growth velocity"
+      "Beta-adrenergic agonist (isopreterenol) inhibits GH secretion",
+      "Beta-adrenergic antagonist (propranolol) inhibits GH secretion",
+      "Beta-adrenergic agonist (salbutamol) inhibits GH secretion",
+      "Beta-adrenergic antagonist (atenolol) inhibits GH secretion"
     ],
     "answer": "A"
   },
   {
     "id": 35,
     "type": "mcq",
-    "stem": "GH stimulates cellular multiplication. What specific effect does it have at the cellular level?",
+    "stem": "The most important control of GH secretion is probably mediated through which hypothalamic hormone?",
     "options": [
-      "GH stimulates the growth of almost all tissues of the body that can grow; at the cellular level it enhances mitosis and increases the size of cells",
-      "GH stimulates the growth of only bone and cartilage; at the cellular level it enhances protein synthesis without affecting cell division",
-      "GH stimulates the growth of almost all tissues of the body; at the cellular level it inhibits apoptosis and increases the size of cells without affecting mitosis",
-      "GH stimulates the growth of muscle and bone only; at the cellular level it enhances hypertrophy but not hyperplasia"
+      "Most of the control of GH secretion is probably mediated through GHRH",
+      "Most of the control of GH secretion is probably mediated through somatostatin (GHIH)",
+      "Most of the control of GH secretion is probably mediated through ghrelin",
+      "Most of the control of GH secretion is probably mediated through dopamine"
     ],
     "answer": "A"
   },
   {
     "id": 36,
     "type": "mcq",
-    "stem": "CASE STUDY: A student lists the evidence showing controversy about GH vs IGF-1 physiological activity. Which is MOST precisely stated?",
+    "stem": "CASE STUDY: A student asks what second messengers are generated when GHRH binds to somatotrope cell membranes. Which combination is MOST precisely stated?",
     "options": [
-      "There was controversy about whether the physiological activity was peculiar to GH or IGF-1; however, recent evidence shows GH stimulates hepatic synthesis of IGF-1, which stimulates epiphyseal growth and possesses insulin-like activity",
-      "There was no controversy; it has always been established that GH acts exclusively through IGF-1 as its sole mediator",
-      "There was controversy resolved in favour of IGF-1; GH itself has no direct physiological actions and all effects are mediated through IGF-1",
-      "There was controversy resolved in favour of GH; IGF-1 has no independent physiological actions beyond serving as a marker of GH activity"
+      "GHRH leads to an increase in CAMP, Ca2+, and phosphatidyl inositol",
+      "GHRH leads to an increase in CAMP and Ca2+ only; phosphatidyl inositol is not involved",
+      "GHRH leads to a decrease in CAMP and an increase in Ca2+ and phosphatidyl inositol",
+      "GHRH leads to an increase in IP3 and DAG via phospholipase-C without CAMP involvement"
     ],
     "answer": "A"
   },
   {
     "id": 37,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q36): The somatomedin receptor resembles a specific other receptor, leading to a specific signalling consequence. Which is MOST correctly stated?",
+    "stem": "CASE STUDY (continued from Q36): Immediately after GHRH stimulation of somatotropes, what is the IMMEDIATE response versus the LATER response?",
     "options": [
-      "The somatomedin receptors resemble insulin receptors; therefore, the ligand-receptor complex leads to autophosphorylation and modification of intracellular enzymes",
-      "The somatomedin receptors resemble GH receptors; therefore, the ligand-receptor complex activates JAK-STAT pathways",
-      "The somatomedin receptors resemble glucagon receptors; therefore, the ligand-receptor complex generates cAMP via G-protein activation",
-      "The somatomedin receptors resemble steroid hormone receptors; therefore, the ligand-receptor complex translocates to the nucleus to activate gene transcription directly"
+      "Immediate response: GH release from secretory vesicles by exocytosis; later response: stimulates transcription and synthesis of new GH",
+      "Immediate response: transcription and synthesis of new GH; later response: GH release from secretory vesicles by exocytosis",
+      "Immediate response: activation of JAK-STAT pathway; later response: GH release from secretory vesicles without new synthesis",
+      "Immediate response and later response are identical; GHRH stimulates continuous exocytosis without any transcriptional component"
     ],
     "answer": "A"
   },
   {
     "id": 38,
     "type": "mcq",
-    "stem": "The GH receptor activates JAK-S2. What is JAK-S2 classified as?",
+    "stem": "Which specific sleep stages stimulate GH secretion and what rhythm does this exhibit?",
     "options": [
-      "JAKS-2 is a member of the Janus family of cytoplasmic tyrosine kinases",
-      "JAKS-2 is a member of the Janus family of nuclear serine kinases",
-      "JAKS-2 is a member of the MAP kinase family of cytoplasmic tyrosine kinases",
-      "JAKS-2 is a member of the src family of membrane-bound tyrosine kinases"
+      "Deep sleep Stages II and IV stimulate GH secretion and exhibit circadian rhythm",
+      "REM sleep (light sleep) stimulates GH secretion and exhibits ultradian rhythm",
+      "Deep sleep Stages III and IV stimulate GH secretion and exhibit circadian rhythm",
+      "Deep sleep Stages I and II stimulate GH secretion and exhibit circadian rhythm"
     ],
     "answer": "A"
   },
   {
     "id": 39,
     "type": "mcq",
-    "stem": "CASE STUDY: A patient with Laron syndrome has high GH but very low IGF-1. Based on the notes, which mechanism is MOST directly impaired?",
+    "stem": "CASE STUDY: A nurse is asked about the nutritional amino acid that specifically stimulates GH secretion. Which is MOST precisely stated?",
     "options": [
-      "GH cannot stimulate the liver to produce somatomedins because GH receptors in the liver are defective; therefore, hepatic IGF-1 synthesis is absent despite high GH levels",
-      "GH receptors are absent in the pituitary, so GH production is unregulated and liver IGF-1 production is secondarily suppressed",
-      "GH is structurally abnormal and binds liver receptors but cannot activate the JAK-STAT pathway needed for IGF-1 gene transcription",
-      "IGF-1 is degraded rapidly by elevated IGF binding protein-3 that is paradoxically increased by excess GH signalling"
+      "Infusion of amino acids especially arginine stimulates GH secretion",
+      "Infusion of amino acids especially leucine stimulates GH secretion",
+      "Infusion of amino acids especially glutamine stimulates GH secretion",
+      "Infusion of amino acids especially tryptophan stimulates GH secretion"
     ],
     "answer": "A"
   },
   {
     "id": 40,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q39): The clinician notes this patient has tall parents and should have normal stature, but is short. The binding of GH to its receptor leads to a specific molecular event. What is this?",
+    "stem": "CASE STUDY (continued from Q39): The nurse explains that during fasting, GH secretion changes. Based on the notes, which change occurs?",
     "options": [
-      "Binding of GH to its receptors leads to dimerisation of the receptors, activating Janus kinases, which in turn phosphorylates STAT proteins",
-      "Binding of GH to its receptors leads to autophosphorylation of tyrosine residues on the receptor itself, directly activating MAP kinase",
-      "Binding of GH to its receptors leads to G-protein activation, which generates cAMP as a second messenger to activate protein kinase A",
-      "Binding of GH to its receptors leads to receptor internalisation, which carries the signal to the nucleus for direct gene activation"
+      "Fasting stimulates GH secretion because it represents a nutritional factor with reduced blood sugar and reduced free fatty acids",
+      "Fasting inhibits GH secretion because low nutrient levels reduce the substrate available for new GH synthesis",
+      "Fasting has no effect on GH secretion because GH is regulated exclusively by hypothalamic GHRH and somatostatin",
+      "Fasting initially stimulates then inhibits GH secretion through a biphasic nutritional feedback mechanism"
     ],
     "answer": "A"
   },
   {
     "id": 41,
     "type": "mcq",
-    "stem": "The chromosome location of the hGH-N gene is described precisely. Which gene arm and band is MOST correct?",
+    "stem": "The Sella turcica is mentioned in the context of pituitary insufficiency. Which conditions specifically involve the Sella turcica?",
     "options": [
-      "Long arm (q22-24 region) of chromosome 17",
-      "Short arm (p22-24 region) of chromosome 17",
-      "Long arm (q22-24 region) of chromosome 7",
-      "Long arm (q22-24 region) of chromosome 11"
+      "Congenital tumours and cysts involving the Sella tursica are a cause of pituitary insufficiency",
+      "Chromophobe adenoma involving the Sella tursica is the only pituitary mass causing insufficiency",
+      "Empty sella syndrome involves the Sella tursica being completely destroyed",
+      "Sheehan's syndrome involves haemorrhage specifically into the Sella tursica"
     ],
     "answer": "A"
   },
   {
     "id": 42,
     "type": "mcq",
-    "stem": "CASE STUDY: A student asks what the specific IGF binding protein that prolongs somatomedin half-life is called. Which is MOST precisely stated?",
+    "stem": "CASE STUDY: An examiner asks which specific amino acid that is the most important for GH secretion testing. Based on the notes this is:",
     "options": [
-      "IGF binding protein 3 (IGFBP-3) is the most significant plasma binding protein for somatomedins",
-      "IGF binding protein 1 (IGFBP-1) is the most significant plasma binding protein for somatomedins",
-      "IGF binding protein 5 (IGFBP-5) is the most significant plasma binding protein for somatomedins",
-      "IGF binding protein 2 (IGFBP-2) is the most significant plasma binding protein for somatomedins"
+      "Arginine is the specifically mentioned amino acid whose infusion stimulates GH secretion",
+      "Leucine is the specifically mentioned amino acid whose infusion stimulates GH secretion",
+      "Tryptophan is the specifically mentioned amino acid whose infusion stimulates GH secretion",
+      "Glutamine is the specifically mentioned amino acid whose infusion stimulates GH secretion"
     ],
     "answer": "A"
   },
   {
     "id": 43,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q42): The student asks specifically how long the somatomedin half-life is due to binding protein protection. Which is MOST precisely correct?",
+    "stem": "CASE STUDY (continued from Q42): A student asks about alpha adrenergic antagonist drugs that INHIBIT GH secretion. Which drug is specifically named?",
     "options": [
-      "About 20 hours, in contrast to GH which is loosely bound to proteins with a short half-life",
-      "About 2 hours, in contrast to GH which is loosely bound to proteins with a short half-life",
-      "About 20 days, in contrast to GH which has a half-life of hours",
-      "About 20 minutes, which is the same half-life as GH"
+      "Phentolamine is the alpha adrenergic antagonist that inhibits GH secretion",
+      "Prazosin is the alpha adrenergic antagonist that inhibits GH secretion",
+      "Phenoxybenzamine is the alpha adrenergic antagonist that inhibits GH secretion",
+      "Terazosin is the alpha adrenergic antagonist that inhibits GH secretion"
     ],
     "answer": "A"
   },
   {
     "id": 44,
     "type": "mcq",
-    "stem": "The hGH-N gene variant accounts for what percentage of all growth hormones?",
+    "stem": "GHRH attaches to somatotrope receptors and the cell signalling leads to GH release in a specific way. What is the specific release mechanism?",
     "options": [
-      "75% of all growth hormones",
-      "80% of all growth hormones",
-      "50% of all growth hormones",
-      "90% of all growth hormones"
+      "GH is released from secretory vesicles by exocytosis",
+      "GH is released from secretory vesicles by endocytosis",
+      "GH is released from the endoplasmic reticulum by active transport",
+      "GH is released from the Golgi apparatus by constitutive secretion"
     ],
     "answer": "A"
   },
   {
     "id": 45,
     "type": "mcq",
-    "stem": "CASE STUDY: A student asks about GH secretion pattern. Which is MOST precisely stated?",
+    "stem": "CASE STUDY: A student is asked to identify the complete list of stress-induced factors that stimulate GH secretion. Which is MOST precisely stated?",
     "options": [
-      "Secretion occurs in a pulsatile manner; it is rapidly metabolised in the liver and excreted",
-      "Secretion occurs in a continuous tonic manner; it is rapidly metabolised in the kidney and excreted",
-      "Secretion occurs in a circadian pattern with a single daily peak; it is metabolised in the liver",
-      "Secretion occurs episodically with secretory bursts only during sleep; it is metabolised in the kidney"
+      "Trauma, emotions, excitement, exercise",
+      "Trauma, emotions, excitement, infection",
+      "Trauma, fear, excitement, exercise",
+      "Trauma, emotions, anxiety, exercise"
     ],
     "answer": "A"
   },
   {
     "id": 46,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q45): A student confuses the IGF-1 and IGF-2 relationship with GH. Which statement MOST precisely distinguishes their GH control?",
+    "stem": "CASE STUDY (continued from Q45): The secondary growth spurt is stimulated by the complex interaction of hormones. After this spurt, what causes growth to cease?",
     "options": [
-      "IGF-1 is NOT under GH control in utero but comes under GH control immediately postpartum; IGF-2 likely assists foetal growth in utero with plasma levels constant throughout postnatal life",
-      "Both IGF-1 and IGF-2 are under GH control in utero and postpartum; only their respective tissue targets differ",
-      "IGF-1 is under GH control both in utero and postpartum; IGF-2 has no relationship with GH at any stage of life",
-      "IGF-2 is under GH control in utero but not postpartum; IGF-1 comes under GH control only at puberty"
+      "Cessation of growth after the secondary growth spurt has been linked to oestrogen-induced epiphyseal closure",
+      "Cessation of growth after the secondary growth spurt has been linked to androgen-induced epiphyseal closure",
+      "Cessation of growth after the secondary growth spurt has been linked to GH-induced epiphyseal closure",
+      "Cessation of growth after the secondary growth spurt has been linked to thyroid hormone-induced epiphyseal closure"
     ],
     "answer": "A"
   },
   {
     "id": 47,
     "type": "mcq",
-    "stem": "GH stimulates erythropoiesis as one of its physiological actions. This is listed as action number:",
+    "stem": "The process of growth is multifarious. What three broad categories of factors influence it?",
     "options": [
-      "iv. GH stimulates erythropoiesis â listed as the fourth physiological action after cellular multiplication, bone and cartilage effects, and metabolic actions",
-      "i. GH stimulates erythropoiesis â listed as the first physiological action",
-      "ii. GH stimulates erythropoiesis â listed as the second physiological action after cellular multiplication",
-      "v. GH stimulates erythropoiesis â listed as the fifth physiological action"
+      "Hormones, genetic factors, and nutrition",
+      "Hormones, environmental factors, and nutrition",
+      "Genetic factors, environmental factors, and nutrition",
+      "Hormones, genetic factors, and sleep"
     ],
     "answer": "A"
   },
   {
     "id": 48,
     "type": "fitb",
-    "stem": "Human growth hormone (HGH) is a _______________ amino acid single-chain polypeptide containing two disulphide bridges.",
-    "answer": "191",
+    "stem": "The final common pathway through which most factors affect GH secretion is through an increase in GHRH levels and a decrease in _______________ levels.",
+    "answer": "somatostatin (GHIH)",
     "acceptableAnswers": [
-      "191"
+      "somatostatin",
+      "GHIH",
+      "somatostatin (GHIH)"
     ]
   },
   {
     "id": 49,
     "type": "fitb",
-    "stem": "CASE STUDY: An examiner asks: 'The hGH-N gene is located on the long arm (q22-24 region) of chromosome _______________.' One number must be supplied.",
-    "answer": "17",
+    "stem": "CASE STUDY: An examiner asks: 'GHRH is a _______________ amino acid polypeptide.' One number must be supplied.",
+    "answer": "44",
     "acceptableAnswers": [
-      "17",
-      "seventeen"
+      "44",
+      "forty-four"
     ]
   },
   {
     "id": 50,
     "type": "fitb",
-    "stem": "The hGH-N gene variant accounts for _______________% of all growth hormones.",
-    "answer": "75",
+    "stem": "GHIH has a variant of _______________ amino acids and 28 amino acid polypeptides.",
+    "answer": "14",
     "acceptableAnswers": [
-      "75",
-      "seventy-five"
+      "14",
+      "fourteen"
     ]
   },
   {
     "id": 51,
     "type": "fitb",
-    "stem": "CASE STUDY: An exam states: 'GH has a _______________ to 20 minute half-life and a daily output of 0.18-0.98 mg/day in adults.' One number must be supplied.",
-    "answer": "6",
+    "stem": "CASE STUDY: An examiner asks: 'GHRH-producing cells are found in the _______________ nucleus of the hypothalamus.' One precise anatomical term must be supplied.",
+    "answer": "ventromedial",
     "acceptableAnswers": [
-      "6",
-      "six"
+      "ventromedial"
     ]
   },
   {
     "id": 52,
     "type": "fitb",
-    "stem": "About _______________% of GH is loosely bound to plasma proteins (GH-binding protein); it is secreted in a pulsatile manner and rapidly metabolised in the liver.",
-    "answer": "50",
+    "stem": "Ghrelin is a _______________ amino acid GH secretagogue peptide whose leading production site is the stomach.",
+    "answer": "28",
     "acceptableAnswers": [
-      "50",
-      "fifty"
+      "28",
+      "twenty-eight"
     ]
   },
   {
     "id": 53,
     "type": "fitb",
-    "stem": "CASE STUDY: An examiner asks: 'The GH receptor is a 620-amino acid _______________ and a member of the cytokine receptor superfamily.' One structural term must be supplied.",
-    "answer": "homodimer",
+    "stem": "CASE STUDY: An exam states: 'GHIH inhibits GH production by reducing _______________ and phosphatidylinositol second messengers.' One second messenger must be supplied.",
+    "answer": "CAMP",
     "acceptableAnswers": [
-      "homodimer"
+      "CAMP",
+      "cAMP",
+      "cyclic AMP",
+      "cyclic adenosine monophosphate"
     ]
   },
   {
     "id": 54,
     "type": "fitb",
-    "stem": "STAT stands for signal transducers and _______________ of transcription.",
-    "answer": "activators",
+    "stem": "Among physiological factors that decrease GH secretion, sleep type specifically listed is _______________ eye movement (light sleep) sleep.",
+    "answer": "rapid",
     "acceptableAnswers": [
-      "activators"
+      "rapid",
+      "REM"
     ]
   },
   {
     "id": 55,
     "type": "fitb",
-    "stem": "CASE STUDY: An exam asks: 'GH acts through the mitogen-activated protein (MAP) kinase pathway for _______________.' One precise biological process must be supplied.",
-    "answer": "chondrogenesis",
+    "stem": "CASE STUDY: An examiner asks: 'Among pharmacological stimulators of GH secretion, the alpha adrenergic agonist listed is _______________.' One drug name must be supplied.",
+    "answer": "clonidine",
     "acceptableAnswers": [
-      "chondrogenesis"
+      "clonidine"
     ]
   },
   {
     "id": 56,
     "type": "fitb",
-    "stem": "In protein metabolism, GH increases amino acid transport into cells, stimulates protein synthesis, and inhibits protein catabolism; thus it is an _______________ protein hormone.",
-    "answer": "anabolic",
+    "stem": "Among pharmacological inhibitors of GH secretion, the alpha adrenergic antagonist listed is _______________ and the beta-adrenergic agonist is isopreterenol.",
+    "answer": "phentolamine",
     "acceptableAnswers": [
-      "anabolic"
+      "phentolamine"
     ]
   },
   {
     "id": 57,
     "type": "fitb",
-    "stem": "CASE STUDY: An examiner states: 'During fasting, GH inhibits glycogenolysis in skeletal and cardiac muscles; this is called the _______________ effect.' One precise term must be supplied.",
-    "answer": "glycostatic",
+    "stem": "CASE STUDY: An exam asks: 'Among pathological factors that stimulate GH secretion, chronic _______________ failure is listed alongside protein-energy malnutrition and anorexia nervosa.' One organ must be supplied.",
+    "answer": "renal",
     "acceptableAnswers": [
-      "glycostatic"
+      "renal",
+      "kidney"
     ]
   },
   {
     "id": 58,
     "type": "fitb",
-    "stem": "Continuous and sustained stimulation of B cells of the pancreas by GH may burn out the beta cells, leading to diabetes mellitus; this is called the _______________ effect.",
-    "answer": "diabetogenic",
+    "stem": "The foetal hormone responsible for foetal growth is believed to be foetal _______________ which is stimulated by human placental lactogen from the placenta.",
+    "answer": "IGF-2",
     "acceptableAnswers": [
-      "diabetogenic"
+      "IGF-2",
+      "insulin-like growth factor 2"
     ]
   },
   {
     "id": 59,
     "type": "fitb",
-    "stem": "CASE STUDY: An examiner asks: 'In electrolyte metabolism, GH increases absorption of calcium and _______________ from the gastrointestinal and renal systems.' One mineral must be supplied.",
-    "answer": "phosphorous",
-    "acceptableAnswers": [
-      "phosphorous",
-      "phosphorus"
-    ]
-  },
-  {
-    "id": 60,
-    "type": "fitb",
-    "stem": "Somatomedins are polypeptides and belong to a large family of growth factors; they are secreted mainly by the _______________ and to a small extent by other tissues like the kidneys and muscles.",
-    "answer": "liver",
-    "acceptableAnswers": [
-      "liver"
-    ]
-  },
-  {
-    "id": 61,
-    "type": "fitb",
-    "stem": "CASE STUDY: A student is asked: 'IGF-1 is NOT under the control of GH _______________.' One precise Latin term must be supplied.",
+    "stem": "CASE STUDY: An examiner states: 'The rate of growth during the first year of postnatal life is rapid though less than _______________ and is called the primary growth spurt.' Two words must be supplied.",
     "answer": "in utero",
     "acceptableAnswers": [
       "in utero",
@@ -696,90 +684,107 @@
     ]
   },
   {
+    "id": 60,
+    "type": "fitb",
+    "stem": "Oestrogens have the growth-stimulating ability but with a tendency to induce early _______________ closure.",
+    "answer": "epiphyseal",
+    "acceptableAnswers": [
+      "epiphyseal",
+      "epiphysis"
+    ]
+  },
+  {
+    "id": 61,
+    "type": "fitb",
+    "stem": "CASE STUDY: An exam asks: 'Thyroid hormones have _______________ action on GH â they appear to be necessary for the normal rate of GH secretion.' One precise term must be supplied.",
+    "answer": "permissive",
+    "acceptableAnswers": [
+      "permissive"
+    ]
+  },
+  {
     "id": 62,
     "type": "fitb",
-    "stem": "IGF-1 plasma levels rise through childhood, reaching a _______________ at puberty, and gradually falling with old age.",
-    "answer": "zenith",
+    "stem": "Adrenal cortical hormones other than androgens exert a permissive action on growth; but _______________ inhibit growth.",
+    "answer": "glucocorticoids",
     "acceptableAnswers": [
-      "zenith",
-      "peak",
-      "maximum"
+      "glucocorticoids"
     ]
   },
   {
     "id": 63,
     "type": "fitb",
-    "stem": "CASE STUDY: An examiner asks: 'Most somatomedins are tightly bound to plasma proteins, more significantly to IGF binding protein _______________.' One number must be supplied.",
-    "answer": "3",
+    "stem": "CASE STUDY: An exam states: 'The secondary growth spurt appears earlier in girls than boys; the consequence is early closure of epiphysis, a situation that makes girls _______________ than their male counterparts of the same age.' One adjective must be supplied.",
+    "answer": "shorter",
     "acceptableAnswers": [
-      "3",
-      "three"
+      "shorter"
     ]
   },
   {
     "id": 64,
     "type": "fitb",
-    "stem": "IGF binding protein 3 ensures a prolongation of the somatomedin half-life to about _______________ hours, in contrast to GH which is loosely bound with a short half-life.",
-    "answer": "20",
+    "stem": "Children are peculiar in that they exhibit a period of growth to catch up after illness or starvation; during this period the growth rate is _______________ than normal.",
+    "answer": "greater",
     "acceptableAnswers": [
-      "20",
-      "twenty"
+      "greater",
+      "higher",
+      "faster"
     ]
   },
   {
     "id": 65,
     "type": "fitb",
-    "stem": "CASE STUDY: An exam states: 'Because somatomedins are _______________, they attach to cell membrane receptors in their target cells.' One precise solubility characteristic must be supplied.",
-    "answer": "hydrophilic",
+    "stem": "CASE STUDY: An examiner asks: 'Most agents that promote cell multiplication act via enzyme-linked cell membrane receptors called receptor _______________ kinases (RTKs) which are activated via autophosphorylation.' One word must be supplied.",
+    "answer": "tyrosine",
     "acceptableAnswers": [
-      "hydrophilic"
+      "tyrosine"
     ]
   },
   {
     "id": 66,
     "type": "fitb",
-    "stem": "The somatomedin receptors resemble _______________ receptors; therefore, the ligand-receptor complex leads to autophosphorylation and modification of intracellular enzymes.",
-    "answer": "insulin",
+    "stem": "Cytokines are hormone-like molecules produced by lymphocytes, macrophages, and other cell types; they act in a _______________ manner.",
+    "answer": "paracrine",
     "acceptableAnswers": [
-      "insulin"
+      "paracrine"
     ]
   },
   {
     "id": 67,
     "type": "fitb",
-    "stem": "CASE STUDY: An examiner asks: 'In humans, only two somatomedins have been identified to have physiological importance: IGF-1 (somatomedin _______________) and IGF-2.' One letter must be supplied.",
-    "answer": "C",
+    "stem": "CASE STUDY: An exam asks: 'Colony stimulating factors regulate the proliferation and maturation of red and _______________ blood cells.' One cell type must be supplied.",
+    "answer": "white",
     "acceptableAnswers": [
-      "C"
+      "white"
     ]
   },
   {
     "id": 68,
     "type": "fitb",
-    "stem": "GH stimulates lipolysis by mobilising fat from adipose tissue; the released free fatty acids are utilised for energy production; the resultant effect is a tendency towards _______________.",
-    "answer": "ketogenesis",
+    "stem": "GH increases circulating IGF-1; IGF-1 acts on the pituitary through a _______________ loop mechanism to inhibit GH secretion.",
+    "answer": "long",
     "acceptableAnswers": [
-      "ketogenesis"
+      "long",
+      "long-loop"
     ]
   },
   {
     "id": 69,
     "type": "fitb",
-    "stem": "CASE STUDY: An examiner states: 'GH is produced as a _______________ in the ribosomes and undergoes post-translational modification to make the active hormone.' One precise biochemical term must be supplied.",
-    "answer": "prohormone",
+    "stem": "CASE STUDY: An examiner states: 'Causes of pituitary insufficiency include _______________ syndrome, which involves pituitary necrosis caused by postpartum haemorrhage.' One eponymous name must be supplied.",
+    "answer": "Sheehan's",
     "acceptableAnswers": [
-      "prohormone"
+      "Sheehan's",
+      "Sheehan"
     ]
   },
   {
     "id": 70,
     "type": "fitb",
-    "stem": "GH reduces the renal excretion of sodium (Na+) and _______________ ions; the conservation of these ions makes them readily available for incorporation into growing cells and tissues.",
-    "answer": "potassium (K+)",
+    "stem": "Sex steroids bring about protein anabolism, increase GH response to _______________, and increase IGF-1 production during the secondary growth spurt.",
+    "answer": "arginine",
     "acceptableAnswers": [
-      "potassium",
-      "K+",
-      "potassium (K+)"
+      "arginine"
     ]
   }
 ]
