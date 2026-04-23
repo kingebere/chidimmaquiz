@@ -2,789 +2,769 @@
   {
     "id": 1,
     "type": "mcq",
-    "stem": "Several factors affect GH secretion. What is the final common pathway through which most stimuli exert their effects on GH secretion?",
+    "stem": "A 35-year-old male presents with progressive enlargement of his hands and feet, coarsening of facial features, and a deep, husky voice over the past 3 years. His fasting blood glucose is 8.9 mmol/L. Which of the following best explains the timing and mechanism of his current condition?",
     "options": [
-      "Through an increase in GHRH levels and a decrease in somatostatin (GHIH) levels",
-      "Through a decrease in GHRH levels and an increase in somatostatin (GHIH) levels",
-      "Through a simultaneous increase in both GHRH levels and somatostatin (GHIH) levels",
-      "Through direct stimulation of somatotropes by peripheral hormones without involving GHRH or somatostatin"
+      "Excess GH secretion before epiphyseal closure causing elongation of long bones",
+      "Excess GH secretion after epiphyseal closure causing bone deformation rather than elongation",
+      "Excess prolactin secretion after epiphyseal closure stimulating cartilaginous overgrowth"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 2,
     "type": "mcq",
-    "stem": "GHRH and GHIH have distinct molecular sizes. Which description is MOST precisely correct?",
+    "stem": "A child is brought to the clinic with a pot-bellied appearance, unusual eating habits, and growth failure despite adequate dietary intake. The child was recently removed from a neglectful home environment, and growth resumed shortly after. The most likely diagnosis is:",
     "options": [
-      "GHRH is a 44 amino acid polypeptide, while GHIH has a variant of 14 amino acids and 28 amino acid polypeptides",
-      "GHRH is a 28 amino acid polypeptide, while GHIH has a variant of 14 amino acids and 44 amino acid polypeptides",
-      "GHRH is a 44 amino acid polypeptide, while GHIH has a variant of 10 amino acids and 28 amino acid polypeptides",
-      "GHRH is a 44 amino acid polypeptide, while GHIH has a variant of 14 amino acids and 22 amino acid polypeptides"
+      "Laron dwarfism, due to GH receptor insensitivity",
+      "Environmental (psychosocial) dwarfism, due to anomalous GHRH and GHIH secretion under stress",
+      "Constitutional dwarfism, due to familial tendency toward delayed pubertal growth spurt"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 3,
     "type": "mcq",
-    "stem": "CASE STUDY: A student asks where the cells that produce GHRH are located and how GHRH stimulates GH release. Which is MOST precisely correct?",
+    "stem": "In a patient with Laron Dwarfism, which of the following laboratory findings is most expected?",
     "options": [
-      "GHRH-producing cells are in the ventromedial nucleus of the hypothalamus; GHRH attaches to receptors on somatotrope cell membranes leading to an increase in CAMP, Ca2+, and phosphatidyl inositol; this stimulates GH release from secretory vesicles by exocytosis immediately and later stimulates transcription and synthesis of new GH",
-      "GHRH-producing cells are in the paraventricular nucleus of the hypothalamus; GHRH attaches to receptors on somatotrope cell membranes leading to activation of G-proteins and generation of IP3 and DAG; this stimulates GH release from secretory vesicles",
-      "GHRH-producing cells are in the arcuate nucleus of the hypothalamus; GHRH attaches to receptors on somatotrope cell membranes leading to JAK-STAT activation; this stimulates GH gene transcription but not immediate release",
-      "GHRH-producing cells are in the ventromedial nucleus of the hypothalamus; GHRH attaches to receptors on somatotrope cell membranes leading to a decrease in CAMP; this stimulates exocytosis of GH from secretory vesicles"
+      "Low plasma GH with low IGF-1 and low IGF-binding protein",
+      "Normal or elevated plasma GH with reduced IGF-1 due to GH receptor unresponsiveness",
+      "Elevated plasma GH with elevated IGF-1 and normal GH receptor sensitivity"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 4,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q3): GH release occurs in a specific pattern. What triggers this pattern?",
+    "stem": "A 28-year-old woman presents with secondary amenorrhea, galactorrhea, and infertility. Her MRI reveals a pituitary microadenoma. Which hormone is most likely being overproduced, and what is the first-line treatment?",
     "options": [
-      "GH release occurs in pulses triggered by the intermittent discharge of GHRH",
-      "GH release occurs in a continuous tonic pattern determined by the basal level of GHRH",
-      "GH release occurs in a circadian pattern triggered by a single daily surge of GHRH at night",
-      "GH release occurs in pulses triggered by the pulsatile secretion of somatostatin"
+      "Growth hormone; surgical resection via transsphenoidal approach",
+      "Prolactin; initiation of dopamine agonist therapy",
+      "FSH; GnRH analogue suppression therapy"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 5,
     "type": "mcq",
-    "stem": "Ghrelin is described as a GH secretagogue. Which characteristics are MOST precisely stated?",
+    "stem": "A female child presents with rapid growth and early breast development at age 7. Her bone age is significantly advanced. Although she is currently tall for her age, the nurse anticipates which long-term outcome?",
     "options": [
-      "Ghrelin is a 28-amino acid GH secretagogue peptide whose leading production site is the stomach; it is also produced in the hypothalamus and has GH-stimulating activity",
-      "Ghrelin is a 44-amino acid GH secretagogue peptide whose leading production site is the hypothalamus; it is also produced in the stomach and has GH-stimulating activity",
-      "Ghrelin is a 28-amino acid GH secretagogue peptide whose leading production site is the pancreas; it is also produced in the stomach and has GH-stimulating activity",
-      "Ghrelin is a 14-amino acid GH secretagogue peptide whose leading production site is the stomach; it is also produced in the intestine and has GH-stimulating activity"
+      "She will continue to be tall into adulthood due to sustained estrogen-driven growth",
+      "She will likely be short in adult life due to oestrogen-induced early epiphyseal closure",
+      "She will attain normal adult height because GH secretion remains unchanged"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 6,
     "type": "mcq",
-    "stem": "GHIH inhibits GH production by affecting specific second messengers. Which is MOST precisely stated?",
+    "stem": "Which of the following correctly differentiates Gigantism from Acromegaly in terms of pathophysiology?",
     "options": [
-      "GHIH inhibits GH production by reducing CAMP and phosphatidylinositol's second messenger phosphatidyl inositol",
-      "GHIH inhibits GH production by reducing CAMP and increasing somatostatin levels further through positive feedback",
-      "GHIH inhibits GH production by increasing CAMP and reducing phosphatidyl inositol levels",
-      "GHIH inhibits GH production by blocking GHRH receptors on somatotrope cell membranes without affecting second messengers"
+      "Gigantism results from GH excess after epiphyseal closure; Acromegaly results from GH excess before closure",
+      "Gigantism results from GH excess before epiphyseal closure causing generalised growth; Acromegaly from GH excess after closure causing bone deformation",
+      "Gigantism is caused by GHRH-secreting tumours; Acromegaly is caused by prolactin-secreting adenomas"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 7,
     "type": "mcq",
-    "stem": "CASE STUDY: A nurse lists physiological factors that STIMULATE GH secretion. Which combination is MOST precisely complete?",
+    "stem": "A 10-year-old boy is noted to have a normal birth length but an above-average growth rate. Karyotype analysis reveals 47,XYY. Which statement BEST describes his expected clinical course?",
     "options": [
-      "Nutritional factors (reduced blood sugar, reduced FFA, starvation, fasting, infusion of amino acids especially arginine); stress-induced factors (trauma, emotions, excitement, exercise); sleep â deep sleep Stages II and IV exhibiting circadian rhythm",
-      "Nutritional factors (elevated blood sugar, elevated FFA, starvation, fasting); stress-induced factors (trauma, emotions, excitement, exercise); sleep â REM sleep exhibiting circadian rhythm",
-      "Nutritional factors (reduced blood sugar, reduced FFA, starvation, fasting, infusion of amino acids especially leucine); stress-induced factors (trauma, emotions, excitement, exercise); sleep â deep sleep Stages III and IV",
-      "Nutritional factors (reduced blood sugar, reduced FFA, starvation, fasting, infusion of amino acids especially arginine); stress-induced factors (trauma, emotions, excitement, infection); sleep â deep sleep Stages II and IV"
+      "He will be significantly shorter than peers due to premature epiphyseal fusion",
+      "Birth length is normal but the growth rate is higher than normal, resulting in tall stature",
+      "He will develop Klinefelter-like hypogonadism with reduced testosterone"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 8,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q7): The nurse then lists physiological factors that DECREASE GH secretion. Which combination is MOST precisely stated?",
+    "stem": "A patient with Klinefelter's Syndrome (47,XXY) is seen in clinic. The nurse correctly identifies which of the following as a CONSISTENT finding in ALL patients with this syndrome?",
     "options": [
-      "Postprandial elevation of blood sugar; elevated free fatty acids; ageing; rapid eye movement (REM, light sleep) sleep",
-      "Postprandial elevation of blood sugar; reduced free fatty acids; ageing; deep sleep stages II and IV",
-      "Postprandial elevation of blood sugar; elevated free fatty acids; puberty; rapid eye movement sleep",
-      "Fasting; elevated free fatty acids; ageing; rapid eye movement sleep"
+      "Taller than average height compared to male peers",
+      "Hypogonadism and infertility due to the extra X chromosome",
+      "Cognitive impairment severe enough to require institutional care"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 9,
     "type": "mcq",
-    "stem": "Pharmacological factors that STIMULATE GH secretion are listed. Which hormonal combination is MOST precisely correct?",
+    "stem": "A patient presents with short stature, rhizomelic shortening of limbs, and normal trunk length. Genetic testing confirms an autosomal dominant mutation in the fibroblast growth factor receptor gene. What is the most appropriate intervention?",
     "options": [
-      "GHRH, ACTH, glucagon, testosterone, and oestrogen",
-      "GHRH, TSH, glucagon, testosterone, and progesterone",
-      "GHRH, ACTH, insulin, testosterone, and oestrogen",
-      "GHRH, ACTH, glucagon, cortisol, and oestrogen"
+      "GnRH analogue to delay bone age and maximise final height",
+      "Administration of human growth hormone as treatment",
+      "Thyroid hormone replacement to correct the underlying metabolic defect"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 10,
     "type": "mcq",
-    "stem": "CASE STUDY: A student is asked to identify the adrenergic drug class and the specific drug that STIMULATES GH secretion. Which is MOST precise?",
+    "stem": "In Constitutional (Familial) Dwarfism, which of the following statements is MOST accurate?",
     "options": [
-      "Alpha adrenergic agonist (clonidine) stimulates GH secretion; beta-adrenergic antagonist (propranolol) stimulates GH secretion",
-      "Alpha adrenergic antagonist (phentolamine) stimulates GH secretion; beta-adrenergic agonist (isopreterenol) stimulates GH secretion",
-      "Beta adrenergic agonist (clonidine) stimulates GH secretion; alpha-adrenergic antagonist (propranolol) stimulates GH secretion",
-      "Alpha adrenergic agonist (epinephrine) stimulates GH secretion; beta-adrenergic antagonist (atenolol) stimulates GH secretion"
+      "There is an identified organic aetiology affecting GH secretion from the anterior pituitary",
+      "Parents are usually short, there is normal birth history, and no organic or psychologic disease is identified",
+      "Children fail to grow at a normal rate when young but undergo a normal pubertal growth spurt"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 11,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q10): The student identifies which drugs INHIBIT GH secretion. Which combination is MOST precisely correct?",
+    "stem": "A postpartum woman develops failure of lactation and amenorrhea following a complicated delivery complicated by massive haemorrhage. Subsequent workup reveals panhypopituitarism. Which condition best explains her presentation?",
     "options": [
-      "Hormones: somatostatin, GH, progesterone, glucocorticoids; alpha adrenergic antagonist (phentolamine); beta-adrenergic agonist (isopreterenol); serotonin agonist; dopamine antagonist",
-      "Hormones: somatostatin, GH, oestrogen, glucocorticoids; alpha adrenergic antagonist (phentolamine); beta-adrenergic agonist (isopreterenol); serotonin agonist; dopamine antagonist",
-      "Hormones: somatostatin, GH, progesterone, mineralocorticoids; alpha adrenergic antagonist (phentolamine); beta-adrenergic agonist (isopreterenol); serotonin agonist; dopamine antagonist",
-      "Hormones: somatostatin, GH, testosterone, glucocorticoids; alpha adrenergic antagonist (phentolamine); beta-adrenergic agonist (isopreterenol); serotonin agonist; dopamine antagonist"
+      "Acromegaly following GH hypersecretion during the peripartum period",
+      "Sheehan's Syndrome caused by pituitary necrosis from excessive postpartum bleeding",
+      "Prolactin-secreting macroadenoma compressing normal pituitary tissue"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 12,
     "type": "mcq",
-    "stem": "Pathological factors that STIMULATE GH secretion include which combination?",
+    "stem": "A child with hypothyroidism presents with short stature, mental retardation, pot belly, and macroglossia. Which diagnosis is most consistent with this presentation?",
     "options": [
-      "Protein-energy malnutrition; anorexia nervosa; chronic renal failure",
-      "Protein-energy malnutrition; anorexia nervosa; acromegaly",
-      "Protein-energy malnutrition; obesity; chronic renal failure",
-      "Protein-energy malnutrition; anorexia nervosa; thyroid dysfunction"
+      "Achondroplasia, due to fibroblast growth factor receptor mutation",
+      "Cretinism, due to postnatal hypothyroidism impairing skeletal and CNS development",
+      "Laron dwarfism, due to peripheral GH insensitivity"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 13,
     "type": "mcq",
-    "stem": "CASE STUDY: A nurse asks about pathological factors that DECREASE GH secretion. Which is MOST precisely correct?",
+    "stem": "In panhypopituitarism, which set of hormones is MOST consistently affected, leading to adrenal, gonadal, and thyroid insufficiency?",
     "options": [
-      "Obesity; thyroid dysfunction; acromegaly",
-      "Obesity; anorexia nervosa; acromegaly",
-      "Obesity; thyroid dysfunction; Laron syndrome",
-      "Protein-energy malnutrition; thyroid dysfunction; acromegaly"
+      "GH, ADH, oxytocin, and MSH",
+      "ACTH, TSH, FSH, LH, GH, and prolactin",
+      "Aldosterone, cortisol, T3, T4, and insulin"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 14,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q13): The nurse explains the GH feedback regulation loop. Which is MOST precisely described?",
+    "stem": "Which clinical feature of Acromegaly would the nurse expect to find in BOTH male and female patients, unlike features that differ by sex?",
     "options": [
-      "GH increases circulating IGF-1; IGF-1 acts on the pituitary through a long-loop mechanism to inhibit GH secretion; simultaneously it acts on the hypothalamus via a more extended loop feedback mechanism to stimulate the production of somatostatin",
-      "GH increases circulating IGF-1; IGF-1 acts on the hypothalamus through a long-loop mechanism to stimulate GH secretion; simultaneously it acts on the pituitary via a short-loop mechanism to inhibit GHRH release",
-      "GH increases circulating somatostatin; somatostatin acts on the pituitary through a long-loop mechanism to inhibit GH secretion; simultaneously GH acts on the hypothalamus to stimulate GHRH release",
-      "GH directly inhibits its own secretion at the somatotrope level through an ultra-short loop mechanism without involving IGF-1 or hypothalamic feedback"
+      "Menstrual abnormalities and galactorrhea due to elevated prolactin",
+      "Enlargement of hands and feet, coarse facial structures, and prognathism",
+      "Erectile dysfunction and decreased libido from gonadotropin suppression"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 15,
     "type": "mcq",
-    "stem": "Causes of pituitary insufficiency are listed. Which set is MOST completely and correctly derived from the notes?",
+    "stem": "A patient with Acromegaly develops progressive dyspnea. Which of the following complications is MOST responsible?",
     "options": [
-      "Empty sella syndrome; Levi-Lorain syndromes; hypothalamic failure affecting GHRH; congenital tumours and cysts involving the Sella tursica; GH receptor insensitivity; tuberculous meningitis; encephalitis; chromophobe adenoma; Sheehan's syndrome; irradiation",
-      "Empty sella syndrome; Levi-Lorain syndromes; hypothalamic failure affecting GHRH; congenital tumours and cysts involving the Sella tursica; GH receptor insensitivity; bacterial meningitis; encephalitis; chromophobe adenoma; Sheehan's syndrome; irradiation",
-      "Empty sella syndrome; Levi-Lorain syndromes; hypothalamic failure affecting CRH; congenital tumours and cysts involving the Sella tursica; GH receptor insensitivity; tuberculous meningitis; encephalitis; chromophobe adenoma; Sheehan's syndrome; irradiation",
-      "Empty sella syndrome; Levi-Lorain syndromes; hypothalamic failure affecting GHRH; congenital tumours and cysts involving the Sella tursica; GH receptor insensitivity; tuberculous meningitis; meningococcal meningitis; chromophobe adenoma; Sheehan's syndrome; irradiation"
+      "Pulmonary hypertension from elevated IGF-1 stimulating vascular smooth muscle",
+      "Heart failure from excessive soft tissue and organ enlargement including the heart",
+      "Pleural effusion from decreased oncotic pressure due to protein catabolism"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 16,
     "type": "mcq",
-    "stem": "CASE STUDY: A post-partum woman develops panhypopituitarism after massive haemorrhage at delivery. Which cause of pituitary insufficiency is MOST likely?",
+    "stem": "Turner's Syndrome is an example of which category of short stature?",
     "options": [
-      "Sheehan's syndrome â pituitary necrosis due to postpartum haemorrhage causing ischaemia of the pituitary",
-      "Empty sella syndrome â subarachnoid space invades the sella after delivery due to hormonal changes",
-      "Chromophobe adenoma â a non-secreting pituitary tumour that enlarges during pregnancy due to oestrogen stimulation",
-      "Levi-Lorain syndrome â a congenital cause of pituitary insufficiency triggered by the stress of childbirth"
+      "Short stature associated with GH deficiency â Laron Dwarfism subtype",
+      "Short stature not associated with GH deficiency â Gonadal Dysgenesis subtype",
+      "Short stature associated with GH deficiency â Environmental dwarfism subtype"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 17,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q16): A child with GH receptor insensitivity (Laron syndrome) is identified. Which clinical consequence is MOST directly predicted?",
+    "stem": "A child presents with rapid growth, prominent forehead, coarse facial features, hypertelorism, and mental retardation. Pituitary hormone levels are reported as normal. Which syndrome does this describe?",
     "options": [
-      "GH cannot act on its target tissues despite normal or elevated GH levels; somatomedins (IGF-1) are not produced; the result is short stature despite normal or high GH levels",
-      "GH cannot be produced by somatotropes; IGF-1 levels are low because the liver lacks GH stimulation; the result is short stature with low GH levels",
-      "GHRH cannot stimulate somatotropes; GH levels are very low; IGF-1 levels are very low; the result is growth failure with absent pulsatile GH secretion",
-      "GH receptor insensitivity leads to excessive GH accumulation causing paradoxical overstimulation of IGF-1 through alternative pathways"
+      "Marfan syndrome â autosomal dominant with cardiac and ophthalmic features",
+      "Sotos syndrome (cerebral gigantism) â occurring in childhood with normal pituitary hormones",
+      "Pituitary Gigantism â from GH-secreting tumour in childhood"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 18,
     "type": "mcq",
-    "stem": "The physiology of growth explains that in intrauterine life, the hormonal factor responsible for foetal growth is believed to be a specific substance. Which is MOST precisely stated?",
+    "stem": "In Marfan syndrome, which finding most distinguishes it from Pituitary Gigantism?",
     "options": [
-      "The hormonal factor responsible for foetal growth is believed to be foetal IGF-2, which is stimulated by human placental lactogen from the placenta",
-      "The hormonal factor responsible for foetal growth is believed to be foetal IGF-1, which is stimulated by maternal GH crossing the placenta",
-      "The hormonal factor responsible for foetal growth is believed to be foetal GH, which is secreted by the fetal pituitary from early gestation",
-      "The hormonal factor responsible for foetal growth is believed to be foetal IGF-2, which is stimulated by foetal insulin from the pancreas"
+      "Arm span exceeds height, with normal pituitary hormones and autosomal dominant inheritance",
+      "Arm span is shorter than height with elevated GH and IGF-1 levels",
+      "Patients present with intellectual disability and central nervous system involvement"
     ],
     "answer": "A"
   },
   {
     "id": 19,
     "type": "mcq",
-    "stem": "CASE STUDY: A student asks about the pattern of postnatal growth. Which statement is MOST precisely stated?",
+    "stem": "Cushing's Syndrome in childhood causes short stature through which mechanism?",
     "options": [
-      "During the first year of postnatal life the rate of growth is rapid though less than in utero and is called the primary growth spurt; growth continues at a reduced rate until late puberty when a secondary growth spurt occurs",
-      "During the first year of postnatal life the rate of growth is rapid and greater than in utero and is called the primary growth spurt; growth continues at a reduced rate until early puberty",
-      "During the first year of postnatal life the rate of growth is slower than in utero and is called the secondary growth spurt; growth continues at an increased rate until late puberty when a tertiary growth spurt occurs",
-      "During the first year of postnatal life the rate of growth is rapid equal to that in utero and is called the primary growth spurt; growth continues at an increased rate throughout childhood"
+      "GH receptor downregulation from chronically elevated prolactin levels",
+      "Glucocorticoid-induced inhibition of skeletal growth, inhibiting growth before onset of obesity",
+      "Premature epiphyseal closure from elevated sex hormone levels in adrenal excess"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 20,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q19): The secondary growth spurt at puberty is stimulated by a complex interaction of hormones. Which combination is MOST precisely listed?",
+    "stem": "Which of the following features in a patient with acromegaly suggests laryngeal involvement?",
     "options": [
-      "Androgens with a profound protein anabolic effect; sex steroids bring about protein anabolism, increase GH response to arginine, and increase IGF-1 production; oestrogens have growth-stimulating ability but with a tendency to induce early epiphyseal closure; insulin enhances growth-stimulating ability",
-      "Oestrogens with a profound protein anabolic effect; sex steroids bring about protein catabolism; androgens increase GH response to arginine and increase IGF-1 production; insulin inhibits growth-stimulating ability",
-      "Androgens with a profound protein anabolic effect; sex steroids bring about protein anabolism, increase GH response to arginine, and increase IGF-2 production; oestrogens induce early epiphyseal closure; insulin enhances growth-stimulating ability",
-      "Androgens with a profound protein anabolic effect; sex steroids bring about protein anabolism and decrease GH response to arginine; oestrogens increase IGF-1 production; insulin enhances growth-stimulating ability"
+      "Macroglossia and tonsillar hypertrophy narrowing the pharyngeal airway",
+      "Thickening of laryngeal cartilage resulting in a deep, husky voice",
+      "Oedema of the vocal cords from increased fluid retention due to aldosterone hypersecretion"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 21,
     "type": "mcq",
-    "stem": "Thyroid hormones have a specific role in growth. Which is MOST precisely stated?",
+    "stem": "A pituitary tumour exerts pressure on the optic chiasm. Which visual disturbance is the nurse MOST likely to anticipate documenting?",
     "options": [
-      "Thyroid hormones have permissive action on GH; appear to be necessary for the normal rate of GH secretion; and improve cartilage ossification and growth of teeth",
-      "Thyroid hormones directly stimulate GH secretion; are the most important hormones for the primary growth spurt; and promote epiphyseal closure at puberty",
-      "Thyroid hormones antagonise GH action; suppress IGF-1 production; and have no effect on cartilage ossification",
-      "Thyroid hormones have an inhibitory effect on GH secretion; appear to be necessary for the control of the secondary growth spurt only"
+      "Unilateral monocular blindness from direct optic nerve compression",
+      "Visual disturbances due to pressure effects on the sella turcica region affecting the optic chiasm",
+      "Periorbital oedema and exophthalmos from orbital fat infiltration"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 22,
     "type": "mcq",
-    "stem": "CASE STUDY: A student asks about the effect of adrenal cortical hormones on growth. Which is MOST precisely stated?",
+    "stem": "Which of the following accurately defines Tall Stature from an endocrinological perspective?",
     "options": [
-      "Adrenal cortical hormones other than androgens exert a permissive action on growth; but glucocorticoids inhibit growth; after the secondary growth spurt, cessation of growth occurs and this has been linked to oestrogen-induced epiphyseal closure",
-      "All adrenal cortical hormones including glucocorticoids exert a permissive action on growth; none of them inhibit growth",
-      "Adrenal cortical androgens are the only adrenal hormones that affect growth; glucocorticoids have no effect on growth velocity",
-      "Adrenal cortical hormones other than androgens directly stimulate GH secretion; glucocorticoids inhibit growth only when administered pharmacologically"
+      "Height more than 1 standard deviation above the mean for age and sex on population charts",
+      "Standing height more than 2 standard deviations above the mean or above the 2.5 percentile for sex among people with the same genetic and socioeconomic background",
+      "Height velocity exceeding the 97th percentile for two consecutive six-month measurements"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 23,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q22): The secondary growth spurt appears at different times in girls compared to boys. What is the clinical consequence?",
+    "stem": "A nurse is teaching a student about rickets. Which of the following BEST explains its association with short stature?",
     "options": [
-      "The secondary growth spurt appears earlier in girls than boys; the consequence is early closure of epiphysis making girls shorter than their male counterparts of the same age, genetic, and socioeconomic background",
-      "The secondary growth spurt appears later in girls than boys; the consequence is delayed epiphyseal closure making girls taller than their male counterparts",
-      "The secondary growth spurt appears at the same time in girls and boys; the difference in adult height is due solely to differences in oestrogen levels",
-      "The secondary growth spurt appears earlier in girls than boys; the consequence is prolonged epiphyseal growth making girls taller than their male counterparts transiently"
+      "Deficiency of parathyroid hormone leads to hypocalcaemia, reducing osteoblast activity",
+      "Abnormalities in vitamin D metabolism lead to skeletal malformation associated with stunted growth",
+      "Excess fluoride intake during bone development suppresses chondrocyte proliferation"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 24,
     "type": "mcq",
-    "stem": "Children exhibit a unique growth catch-up phenomenon. Which statement is MOST precisely stated?",
+    "stem": "In gonadal dysgenesis, the inability to attain potential growth is due to which specific hormonal deficiency?",
     "options": [
-      "Children exhibit a period of growth to catch up after illness or starvation; the growth rate during this period is greater than normal; the mechanism is unknown; nutritional factors may play a prominent role",
-      "Children exhibit a period of growth to catch up after illness or starvation; the growth rate during this period is equal to normal; the mechanism involves GH hypersecretion",
-      "Children exhibit a period of growth to catch up after illness only; starvation does not trigger catch-up growth because nutrient deficiency prevents IGF-1 production",
-      "Children exhibit a period of growth to catch up after illness or starvation; the growth rate during this period is slightly below normal; the mechanism involves thyroid hormone upregulation"
+      "Deficiency of growth hormone leading to reduced IGF-1 mediated bone growth",
+      "Deficiency of oestrogens resulting in failure to achieve growth potential",
+      "Deficiency of FSH and LH leading to inadequate gonadotropin-driven bone maturation"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 25,
     "type": "mcq",
-    "stem": "Local growth factors are polypeptides that stimulate growth of various cells. They can be divided into three groups. Which combination of all three groups is MOST precisely correct?",
+    "stem": "A 45-year-old male with known acromegaly reports increasing difficulty maintaining an erection. What is the most likely mechanism?",
     "options": [
-      "Agents that promote multiplication and development of various cell types (IGF, EGF, FGF, NGF, PDGF, angiogenic growth factor); cytokines (hormone-like molecules from lymphocytes, macrophages, and other cell types acting in paracrine manner); colony stimulating factors (regulate proliferation and maturation of red and white blood cells)",
-      "Agents that promote multiplication and development (IGF, EGF, FGF, NGF, PDGF, angiogenic growth factor); cytokines (from lymphocytes and macrophages acting in endocrine manner); colony stimulating factors (regulate only white blood cell proliferation)",
-      "Agents that promote multiplication (IGF, EGF, FGF, NGF, PDGF); cytokines (from lymphocytes and macrophages acting in paracrine manner); colony stimulating factors (regulate only red blood cell maturation)",
-      "Agents that promote multiplication of cell types (IGF, EGF, FGF, NGF, PDGF, angiogenic growth factor); autocrine factors; colony stimulating factors (regulate proliferation and maturation of red and white blood cells)"
+      "Elevated GH directly suppresses testosterone synthesis in Leydig cells",
+      "Approximately 30% of men with acromegaly may develop erectile dysfunction",
+      "Hyperprolactinaemia from co-existing pituitary stalk compression reduces LH pulsatility"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 26,
     "type": "mcq",
-    "stem": "CASE STUDY: A student asks how agents that promote cell multiplication primarily signal. Which is MOST precisely stated?",
+    "stem": "Which of the following statements about Environmental Dwarfism is TRUE regarding GH levels?",
     "options": [
-      "Most of these agents act via enzyme-linked cell membrane receptors (receptor tyrosine kinases, RTKs) which are activated via autophosphorylation; insulin and macrophage colony-stimulating factors act through this mechanism",
-      "Most of these agents act via G-protein coupled receptors which generate cAMP as the primary second messenger; insulin acts through this mechanism",
-      "Most of these agents act via ion-channel receptors that change membrane permeability; insulin and IGF act through this mechanism",
-      "Most of these agents act via nuclear receptors that directly activate gene transcription; growth factors diffuse across membranes to bind intracellular receptors"
+      "GH levels are permanently suppressed due to destruction of somatotroph cells from chronic stress",
+      "Children with psychogenic dwarfism have extremely low GH levels that revert to normal when removed from the stress-filled environment",
+      "GH levels are elevated in environmental dwarfism because cortisol stimulates somatotroph secretion"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 27,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q26): Cytokines are described as a specific category of growth-regulating molecules. Which description is MOST precisely correct?",
+    "stem": "A woman with acromegaly has her serum prolactin checked and it is elevated. What is the MOST likely explanation for this finding?",
     "options": [
-      "Cytokines are hormone-like molecules produced by lymphocytes, macrophages, and other cell types; they act in a paracrine manner; examples include interleukins and interferons; cell signalling is via the stimulation of transmembrane cytokine receptors leading to the stimulation of JAK-STAT pathways",
-      "Cytokines are hormone-like molecules produced exclusively by lymphocytes; they act in an endocrine manner; examples include interleukins and growth hormone; cell signalling is via G-protein coupled receptors",
-      "Cytokines are protein molecules produced by the liver; they act in an endocrine manner; examples include interleukins and complement proteins; cell signalling is via nuclear receptors",
-      "Cytokines are hormone-like molecules produced by lymphocytes and pituitary cells; they act in an autocrine manner exclusively; examples include interferons and ACTH; cell signalling is via RTK autophosphorylation"
+      "GH directly stimulates lactotroph cells to produce prolactin as a co-secretory effect",
+      "Hyperprolactinaemia in acromegaly results from increased prolactin secretion, which about 4% of women with acromegaly develop galactorrhea from",
+      "The pituitary tumour co-secretes both GH and prolactin, or compresses the pituitary stalk reducing dopaminergic inhibition"
     ],
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 28,
     "type": "mcq",
-    "stem": "Which hormones act via the JAK-STAT pathway according to the cytokine pathway notes?",
+    "stem": "The Pygmies of Congo have been studied for short stature. Which of the following BEST describes their endocrine profile?",
     "options": [
-      "Prolactin, erythropoietin, thrombopoietin, and granulocyte colony-stimulating factors act via this mechanism",
-      "Prolactin, erythropoietin, insulin, and granulocyte colony-stimulating factors act via this mechanism",
-      "Prolactin, ACTH, thrombopoietin, and granulocyte colony-stimulating factors act via this mechanism",
-      "Prolactin, erythropoietin, thrombopoietin, and IGF-1 act via this mechanism"
+      "Low plasma GH with absent IGF-1 secondary to somatotroph aplasia",
+      "Normal GH levels but IGF-1 fails to rise at puberty; aetiopathogenesis remains unclear",
+      "Elevated GH with elevated IGF-1 but reduced GH receptor expression in target tissues"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 29,
     "type": "mcq",
-    "stem": "Colony stimulating factors (CSFs) regulate specific cells. Which is MOST precisely stated?",
+    "stem": "Treatment of acromegaly by surgical removal of a pituitary tumour is complicated. Which additional treatment modality is cited as helping to ameliorate hyperprolactinaemia associated with pituitary tumours?",
     "options": [
-      "Colony stimulating factors regulate the proliferation and maturation of red and white blood cells; an example is granulocyte monocytes colony-stimulating factor (GM-CSF); signal transduction is via RTK and/or cytokine receptors",
-      "Colony stimulating factors regulate only white blood cell proliferation; an example is granulocyte colony-stimulating factor (G-CSF); signal transduction is via G-protein coupled receptors exclusively",
-      "Colony stimulating factors regulate the proliferation and maturation of platelets only; an example is thrombopoietin; signal transduction is via JAK-STAT pathways",
-      "Colony stimulating factors regulate the differentiation of stem cells into all blood cell types; an example is erythropoietin; signal transduction is via nuclear receptors"
+      "Administration of somatostatin analogues to suppress GH secretion",
+      "Administration of dopamine agonists such as bromocriptine, cabergoline, and pergolide",
+      "Radiotherapy targeting the anterior pituitary to ablate somatotroph cells"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 30,
     "type": "mcq",
-    "stem": "CASE STUDY: A student is asked what the 'most important extrinsic factor' for optimal growth is. Which is MOST precisely stated?",
+    "stem": "Precocious puberty causes short adult stature through which SPECIFIC mechanism?",
     "options": [
-      "Nutrition is the most important extrinsic factor; adequate protein, calories, and micronutrients are needed if optimal growth must be achieved",
-      "Hormones are the most important extrinsic factor; GH, thyroid hormones, and sex steroids are required if optimal growth must be achieved",
-      "Genetic factors are the most important extrinsic factor; parental height determines the growth potential that must be supported for optimal achievement",
-      "Sleep is the most important extrinsic factor; deep sleep stages II and IV are required because GH is secreted primarily during this time"
+      "GH secretion is suppressed by early estrogen feedback, reducing longitudinal bone growth",
+      "Early oestrogen-induced epiphyseal closure leads to short stature in adult life despite initial tall stature",
+      "Elevated androgens directly inhibit chondrocyte proliferation in the growth plate"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 31,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q30): The student asks about agents that promote cell multiplication. Which specific growth factors are MOST completely listed?",
+    "stem": "CASE SCENARIO: A 14-year-old male is referred for evaluation of tall stature. He is noted to be significantly taller than both parents. His arm span exceeds his height. Examination reveals long, slender fingers, mild pectus excavatum, and lens subluxation on ophthalmologic exam. Pituitary hormone levels are within normal limits. Which of the following is the MOST likely diagnosis?",
     "options": [
-      "IGF, epidermal growth factor, fibroblast growth factor, nerve growth factor, platelet-derived growth factor, and angiogenic growth factor",
-      "IGF, epidermal growth factor, fibroblast growth factor, nerve growth factor, platelet-derived growth factor, and transforming growth factor",
-      "IGF, epidermal growth factor, fibroblast growth factor, nerve growth factor, vascular endothelial growth factor, and angiogenic growth factor",
-      "IGF, epidermal growth factor, fibroblast growth factor, nerve growth factor, platelet-derived growth factor, and colony-stimulating growth factor"
+      "Sotos syndrome â cerebral gigantism with normal pituitary function occurring in childhood",
+      "Marfan syndrome â autosomal dominant disorder with long limbs, arm span exceeding height, and ophthalmic and cardiac findings",
+      "Pituitary Gigantism â GH excess before epiphyseal closure with long arms and generalised organomegaly"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 32,
     "type": "mcq",
-    "stem": "Dopamine agonist is listed as a pharmacological stimulator of GH secretion. Which drug is implied by this classification?",
+    "stem": "CASE SCENARIO (continued): In the patient from Question 31, the nurse prioritises which assessment as the MOST urgent concern given his condition?",
     "options": [
-      "Dopamine agonist stimulates GH secretion; this is a pharmacological factor listed alongside clonidine and propranolol",
-      "Dopamine antagonist stimulates GH secretion; this is listed as a pharmacological factor that promotes GH release",
-      "Serotonin agonist stimulates GH secretion; dopamine agonist inhibits GH secretion by promoting somatostatin release",
-      "Dopamine agonist inhibits GH secretion; this is why dopamine antagonists are used to stimulate GH release in testing"
+      "Assessment for diabetes mellitus due to elevated IGF-1 levels",
+      "Cardiac auscultation and echocardiography for associated cardiac valvular abnormalities",
+      "Thyroid function tests to rule out concurrent hyperthyroidism contributing to tall stature"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 33,
     "type": "mcq",
-    "stem": "CASE STUDY: A pharmacology student asks which serotonergic drug promotes GH secretion. Based on the notes, the answer is:",
+    "stem": "CASE SCENARIO: A 6-year-old girl is brought to the paediatric endocrinology clinic. Her mother reports she has not grown as tall as her peers. The girl was born at term with normal birth weight. Her parents are both of short stature. She currently grows at a normal rate for her age but has not yet entered puberty, while many peers have begun showing early signs. There is no organic disease. Which diagnosis fits BEST?",
     "options": [
-      "Serotonin precursors stimulate GH secretion",
-      "Serotonin agonists inhibit GH secretion",
-      "Serotonin antagonists stimulate GH secretion",
-      "Serotonin reuptake inhibitors stimulate GH secretion via increased synaptic serotonin"
+      "Cretinism â postnatal hypothyroidism causing skeletal and CNS growth impairment",
+      "Constitutional (Familial) Dwarfism â familial tendency, normal growth rate, delayed puberty, no organic disease",
+      "Environmental Dwarfism â psychosocial stress suppressing GHRH with normal appearance at home"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 34,
     "type": "mcq",
-    "stem": "CASE STUDY (continued from Q33): The pharmacology student then asks which beta-adrenergic drug INHIBITS GH secretion. Which is MOST precisely stated?",
+    "stem": "CASE SCENARIO: A 40-year-old woman presents with amenorrhea, galactorrhea, coarsening of her features, progressive enlargement of her jaw and feet, and hypertension. GH levels are markedly elevated. What co-existing condition is MOST likely given her galactorrhea and amenorrhea in the context of a pituitary tumour?",
     "options": [
-      "Beta-adrenergic agonist (isopreterenol) inhibits GH secretion",
-      "Beta-adrenergic antagonist (propranolol) inhibits GH secretion",
-      "Beta-adrenergic agonist (salbutamol) inhibits GH secretion",
-      "Beta-adrenergic antagonist (atenolol) inhibits GH secretion"
+      "Concurrent TSH-secreting macroadenoma causing hypothyroid-related galactorrhea",
+      "Co-secretion of prolactin alongside GH from the pituitary tumour, or stalk compression reducing dopamine inhibition",
+      "Gonadotropin deficiency alone causing anovulation and secondary galactorrhea via oestrogen withdrawal"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 35,
     "type": "mcq",
-    "stem": "The most important control of GH secretion is probably mediated through which hypothalamic hormone?",
+    "stem": "CASE SCENARIO: A nurse reviews a patient who was in a severe motor vehicle accident complicated by significant intracranial bleeding. Six weeks later, the patient complains of cold intolerance, fatigue, loss of libido, and is noted to have fasting hypoglycaemia. Which condition is most consistent with this post-traumatic presentation?",
     "options": [
-      "Most of the control of GH secretion is probably mediated through GHRH",
-      "Most of the control of GH secretion is probably mediated through somatostatin (GHIH)",
-      "Most of the control of GH secretion is probably mediated through ghrelin",
-      "Most of the control of GH secretion is probably mediated through dopamine"
+      "Cushing's syndrome from stress-induced hypercortisolism following traumatic brain injury",
+      "Panhypopituitarism â generalised pituitary insufficiency causing adrenal, thyroid, and gonadal failure with fasting hypoglycaemia",
+      "Diabetes insipidus from posterior pituitary involvement causing hyperglycaemia and polyuria"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 36,
     "type": "mcq",
-    "stem": "CASE STUDY: A student asks what second messengers are generated when GHRH binds to somatotrope cell membranes. Which combination is MOST precisely stated?",
+    "stem": "CASE SCENARIO: A 3-year-old child in foster care is brought for evaluation of growth failure. He is pot-bellied, has an unusual pattern of drinking fluids (excessive water from non-food sources), and is notably short. After 2 months in a nurturing environment, his GH levels and growth velocity normalise. The GHIH and GHRH abnormality previously present is now resolved. What was the PRIMARY mechanism of his growth failure?",
     "options": [
-      "GHRH leads to an increase in CAMP, Ca2+, and phosphatidyl inositol",
-      "GHRH leads to an increase in CAMP and Ca2+ only; phosphatidyl inositol is not involved",
-      "GHRH leads to a decrease in CAMP and an increase in Ca2+ and phosphatidyl inositol",
-      "GHRH leads to an increase in IP3 and DAG via phospholipase-C without CAMP involvement"
+      "GH receptor insensitivity from chronic malnutrition reducing hepatic IGF-1 production",
+      "Anomalous secretion of GHRH and GHIH under stress, or unresponsiveness to these hormones, reversible upon removal from stress",
+      "Hypothyroidism from chronic iodine deficiency in an unstable household environment"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 37,
-    "type": "mcq",
-    "stem": "CASE STUDY (continued from Q36): Immediately after GHRH stimulation of somatotropes, what is the IMMEDIATE response versus the LATER response?",
-    "options": [
-      "Immediate response: GH release from secretory vesicles by exocytosis; later response: stimulates transcription and synthesis of new GH",
-      "Immediate response: transcription and synthesis of new GH; later response: GH release from secretory vesicles by exocytosis",
-      "Immediate response: activation of JAK-STAT pathway; later response: GH release from secretory vesicles without new synthesis",
-      "Immediate response and later response are identical; GHRH stimulates continuous exocytosis without any transcriptional component"
-    ],
-    "answer": "A"
+    "type": "fitb",
+    "stem": "In XYY Syndrome, birth length is ____________ but the growth rate is ____________ than normal.",
+    "answer": "normal; higher",
+    "acceptableAnswers": [
+      "normal; higher",
+      "normal; greater",
+      "normal; faster"
+    ]
   },
   {
     "id": 38,
-    "type": "mcq",
-    "stem": "Which specific sleep stages stimulate GH secretion and what rhythm does this exhibit?",
-    "options": [
-      "Deep sleep Stages II and IV stimulate GH secretion and exhibit circadian rhythm",
-      "REM sleep (light sleep) stimulates GH secretion and exhibits ultradian rhythm",
-      "Deep sleep Stages III and IV stimulate GH secretion and exhibit circadian rhythm",
-      "Deep sleep Stages I and II stimulate GH secretion and exhibit circadian rhythm"
-    ],
-    "answer": "A"
+    "type": "fitb",
+    "stem": "In Klinefelter's Syndrome (47,XXY), patients may be ____________ than their mates, however this is ____________ a constant feature.",
+    "answer": "taller; not",
+    "acceptableAnswers": [
+      "taller; not",
+      "taller than average; not"
+    ]
   },
   {
     "id": 39,
-    "type": "mcq",
-    "stem": "CASE STUDY: A nurse is asked about the nutritional amino acid that specifically stimulates GH secretion. Which is MOST precisely stated?",
-    "options": [
-      "Infusion of amino acids especially arginine stimulates GH secretion",
-      "Infusion of amino acids especially leucine stimulates GH secretion",
-      "Infusion of amino acids especially glutamine stimulates GH secretion",
-      "Infusion of amino acids especially tryptophan stimulates GH secretion"
-    ],
-    "answer": "A"
+    "type": "fitb",
+    "stem": "Acromegaly typically occurs between ____________ and ____________ years of age, and its clinical manifestation occurs slowly, making it ____________ late.",
+    "answer": "30; 50; recognised",
+    "acceptableAnswers": [
+      "30; 50; recognised",
+      "30 and 50; diagnosed",
+      "30; 50; detected"
+    ]
   },
   {
     "id": 40,
-    "type": "mcq",
-    "stem": "CASE STUDY (continued from Q39): The nurse explains that during fasting, GH secretion changes. Based on the notes, which change occurs?",
-    "options": [
-      "Fasting stimulates GH secretion because it represents a nutritional factor with reduced blood sugar and reduced free fatty acids",
-      "Fasting inhibits GH secretion because low nutrient levels reduce the substrate available for new GH synthesis",
-      "Fasting has no effect on GH secretion because GH is regulated exclusively by hypothalamic GHRH and somatostatin",
-      "Fasting initially stimulates then inhibits GH secretion through a biphasic nutritional feedback mechanism"
-    ],
-    "answer": "A"
+    "type": "fitb",
+    "stem": "In Acromegaly, the cartilage in the larynx may ____________, resulting in a ____________ and husky voice.",
+    "answer": "thicken; deep",
+    "acceptableAnswers": [
+      "thicken; deep",
+      "thicken; low",
+      "become thick; deep"
+    ]
   },
   {
     "id": 41,
-    "type": "mcq",
-    "stem": "The Sella turcica is mentioned in the context of pituitary insufficiency. Which conditions specifically involve the Sella turcica?",
-    "options": [
-      "Congenital tumours and cysts involving the Sella tursica are a cause of pituitary insufficiency",
-      "Chromophobe adenoma involving the Sella tursica is the only pituitary mass causing insufficiency",
-      "Empty sella syndrome involves the Sella tursica being completely destroyed",
-      "Sheehan's syndrome involves haemorrhage specifically into the Sella tursica"
-    ],
-    "answer": "A"
+    "type": "fitb",
+    "stem": "Pituitary necrosis occurring due to excessive bleeding after birth is known as ____________ Syndrome.",
+    "answer": "Sheehan's",
+    "acceptableAnswers": [
+      "Sheehan's",
+      "Sheehan",
+      "Sheehan syndrome"
+    ]
   },
   {
     "id": 42,
-    "type": "mcq",
-    "stem": "CASE STUDY: An examiner asks which specific amino acid that is the most important for GH secretion testing. Based on the notes this is:",
-    "options": [
-      "Arginine is the specifically mentioned amino acid whose infusion stimulates GH secretion",
-      "Leucine is the specifically mentioned amino acid whose infusion stimulates GH secretion",
-      "Tryptophan is the specifically mentioned amino acid whose infusion stimulates GH secretion",
-      "Glutamine is the specifically mentioned amino acid whose infusion stimulates GH secretion"
-    ],
-    "answer": "A"
+    "type": "fitb",
+    "stem": "Achondroplasia is an autosomal ____________ disorder characterised by short ____________ and normal trunks, caused by a mutation in the gene encoding ____________ growth factor receptor.",
+    "answer": "dominant; limbs; fibroblast",
+    "acceptableAnswers": [
+      "dominant; limbs; fibroblast",
+      "dominant; limbs; fibroblast growth factor"
+    ]
   },
   {
     "id": 43,
-    "type": "mcq",
-    "stem": "CASE STUDY (continued from Q42): A student asks about alpha adrenergic antagonist drugs that INHIBIT GH secretion. Which drug is specifically named?",
-    "options": [
-      "Phentolamine is the alpha adrenergic antagonist that inhibits GH secretion",
-      "Prazosin is the alpha adrenergic antagonist that inhibits GH secretion",
-      "Phenoxybenzamine is the alpha adrenergic antagonist that inhibits GH secretion",
-      "Terazosin is the alpha adrenergic antagonist that inhibits GH secretion"
-    ],
-    "answer": "A"
+    "type": "fitb",
+    "stem": "In panhypopituitarism, fasting hypoglycaemia is explained by the absence of ____________, ____________, and ____________ hormones.",
+    "answer": "GH; steroids; thyroid",
+    "acceptableAnswers": [
+      "GH; steroids; thyroid",
+      "growth hormone; glucocorticoids; thyroid hormones",
+      "GH; cortisol; T3/T4"
+    ]
   },
   {
     "id": 44,
-    "type": "mcq",
-    "stem": "GHRH attaches to somatotrope receptors and the cell signalling leads to GH release in a specific way. What is the specific release mechanism?",
-    "options": [
-      "GH is released from secretory vesicles by exocytosis",
-      "GH is released from secretory vesicles by endocytosis",
-      "GH is released from the endoplasmic reticulum by active transport",
-      "GH is released from the Golgi apparatus by constitutive secretion"
-    ],
-    "answer": "A"
+    "type": "fitb",
+    "stem": "Gigantism results from over-secretion of GH in ____________, causing ____________ and uniform growth associated with long arms and legs and excessive height.",
+    "answer": "childhood; generalised",
+    "acceptableAnswers": [
+      "childhood; generalised",
+      "childhood; generalized",
+      "childhood; diffuse"
+    ]
   },
   {
     "id": 45,
-    "type": "mcq",
-    "stem": "CASE STUDY: A student is asked to identify the complete list of stress-induced factors that stimulate GH secretion. Which is MOST precisely stated?",
-    "options": [
-      "Trauma, emotions, excitement, exercise",
-      "Trauma, emotions, excitement, infection",
-      "Trauma, fear, excitement, exercise",
-      "Trauma, emotions, anxiety, exercise"
-    ],
-    "answer": "A"
+    "type": "fitb",
+    "stem": "In Environmental Dwarfism, children have extremely low levels of ____________ hormone that revert to ____________ when removed from the stress-filled environment.",
+    "answer": "growth; normal",
+    "acceptableAnswers": [
+      "growth; normal",
+      "GH; normal",
+      "growth hormone; normal"
+    ]
   },
   {
     "id": 46,
-    "type": "mcq",
-    "stem": "CASE STUDY (continued from Q45): The secondary growth spurt is stimulated by the complex interaction of hormones. After this spurt, what causes growth to cease?",
-    "options": [
-      "Cessation of growth after the secondary growth spurt has been linked to oestrogen-induced epiphyseal closure",
-      "Cessation of growth after the secondary growth spurt has been linked to androgen-induced epiphyseal closure",
-      "Cessation of growth after the secondary growth spurt has been linked to GH-induced epiphyseal closure",
-      "Cessation of growth after the secondary growth spurt has been linked to thyroid hormone-induced epiphyseal closure"
-    ],
-    "answer": "A"
+    "type": "fitb",
+    "stem": "Turner's Syndrome is associated with the ____________ karyotype and presents with sexual ____________.",
+    "answer": "45 XO; infantilism",
+    "acceptableAnswers": [
+      "45 XO; infantilism",
+      "45,XO; infantilism",
+      "45X; sexual infantilism"
+    ]
   },
   {
     "id": 47,
-    "type": "mcq",
-    "stem": "The process of growth is multifarious. What three broad categories of factors influence it?",
-    "options": [
-      "Hormones, genetic factors, and nutrition",
-      "Hormones, environmental factors, and nutrition",
-      "Genetic factors, environmental factors, and nutrition",
-      "Hormones, genetic factors, and sleep"
-    ],
-    "answer": "A"
+    "type": "fitb",
+    "stem": "Prolactin-secreting micro or macroadenomas produce excess prolactin leading to galactorrhoea, ____________, infertility in females, and erectile dysfunction in males. Treatment is initiated with ____________ agonists.",
+    "answer": "amenorrhoea; dopamine",
+    "acceptableAnswers": [
+      "amenorrhoea; dopamine",
+      "amenorrhea; dopamine",
+      "amenorrhea; dopaminergic"
+    ]
   },
   {
     "id": 48,
     "type": "fitb",
-    "stem": "The final common pathway through which most factors affect GH secretion is through an increase in GHRH levels and a decrease in _______________ levels.",
-    "answer": "somatostatin (GHIH)",
+    "stem": "In Marfan syndrome, the arm span ____________ the height, and pituitary hormones are ____________.",
+    "answer": "exceeds; normal",
     "acceptableAnswers": [
-      "somatostatin",
-      "GHIH",
-      "somatostatin (GHIH)"
+      "exceeds; normal",
+      "is greater than; normal",
+      "exceeds; within normal limits"
     ]
   },
   {
     "id": 49,
     "type": "fitb",
-    "stem": "CASE STUDY: An examiner asks: 'GHRH is a _______________ amino acid polypeptide.' One number must be supplied.",
-    "answer": "44",
+    "stem": "In Constitutional Tall Stature, the condition is usually ____________, and there are no adverse consequences of ____________ and development.",
+    "answer": "familial; birth",
     "acceptableAnswers": [
-      "44",
-      "forty-four"
+      "familial; birth",
+      "hereditary; birth",
+      "familial; birth and development"
     ]
   },
   {
     "id": 50,
     "type": "fitb",
-    "stem": "GHIH has a variant of _______________ amino acids and 28 amino acid polypeptides.",
-    "answer": "14",
+    "stem": "Cretinism causes short stature due to ____________, and affected children are mentally retarded with pot bellies and ____________.",
+    "answer": "hypothyroidism; macroglossia",
     "acceptableAnswers": [
-      "14",
-      "fourteen"
+      "hypothyroidism; macroglossia",
+      "postnatal hypothyroidism; macroglossia",
+      "hypothyroidism; enlarged tongue"
     ]
   },
   {
     "id": 51,
-    "type": "fitb",
-    "stem": "CASE STUDY: An examiner asks: 'GHRH-producing cells are found in the _______________ nucleus of the hypothalamus.' One precise anatomical term must be supplied.",
-    "answer": "ventromedial",
-    "acceptableAnswers": [
-      "ventromedial"
-    ]
+    "type": "mcq",
+    "stem": "A nurse caring for a patient with a known pituitary macroadenoma should monitor for which neurological complication arising from tumour expansion beyond the sella turcica?",
+    "options": [
+      "Anosmia from compression of the olfactory bulb running anterior to the pituitary",
+      "Headaches from pressure on the sella turcica, and impaired gonadotropin secretion from hypothalamic compression",
+      "Sensorineural hearing loss from compression of CN VIII within the temporal bone"
+    ],
+    "answer": "B"
   },
   {
     "id": 52,
-    "type": "fitb",
-    "stem": "Ghrelin is a _______________ amino acid GH secretagogue peptide whose leading production site is the stomach.",
-    "answer": "28",
-    "acceptableAnswers": [
-      "28",
-      "twenty-eight"
-    ]
+    "type": "mcq",
+    "stem": "Which of the following conditions represents a cause of short stature that is NOT directly related to GH deficiency or insensitivity?",
+    "options": [
+      "Laron Dwarfism â unresponsive GH receptors despite normal or elevated GH",
+      "Precocious Puberty â oestrogen-induced early epiphyseal closure resulting in adult short stature",
+      "Environmental Dwarfism â anomalous GHIH secretion suppressing GH production under stress"
+    ],
+    "answer": "B"
   },
   {
     "id": 53,
-    "type": "fitb",
-    "stem": "CASE STUDY: An exam states: 'GHIH inhibits GH production by reducing _______________ and phosphatidylinositol second messengers.' One second messenger must be supplied.",
-    "answer": "CAMP",
-    "acceptableAnswers": [
-      "CAMP",
-      "cAMP",
-      "cyclic AMP",
-      "cyclic adenosine monophosphate"
-    ]
+    "type": "mcq",
+    "stem": "In the management of acromegaly, which class of drugs is mentioned as potentially ameliorating the situation of hyperprolactinaemia alongside surgical and radiotherapy options?",
+    "options": [
+      "Somatostatin analogues such as octreotide reducing GH pulsatility",
+      "Dopamine agonists such as bromocriptine, cabergoline, and pergolide",
+      "GnRH analogues reducing gonadotropin stimulation of the pituitary"
+    ],
+    "answer": "B"
   },
   {
     "id": 54,
-    "type": "fitb",
-    "stem": "Among physiological factors that decrease GH secretion, sleep type specifically listed is _______________ eye movement (light sleep) sleep.",
-    "answer": "rapid",
-    "acceptableAnswers": [
-      "rapid",
-      "REM"
-    ]
+    "type": "mcq",
+    "stem": "Which of the following disorders is MOST likely to be confused with Pituitary Gigantism, yet is distinguished by the fact that pituitary hormones remain entirely normal?",
+    "options": [
+      "Marfan Syndrome â autosomal dominant with long limbs and cardiac anomalies",
+      "Sotos Syndrome (Cerebral Gigantism) â childhood rapid growth with normal pituitary hormones",
+      "Constitutional Tall Stature â familial tendency with no endocrine abnormality"
+    ],
+    "answer": "B"
   },
   {
     "id": 55,
-    "type": "fitb",
-    "stem": "CASE STUDY: An examiner asks: 'Among pharmacological stimulators of GH secretion, the alpha adrenergic agonist listed is _______________.' One drug name must be supplied.",
-    "answer": "clonidine",
-    "acceptableAnswers": [
-      "clonidine"
-    ]
+    "type": "mcq",
+    "stem": "A patient with a GH-secreting pituitary adenoma is found to have colon polyps on colonoscopy. What is the pathophysiological link between GH excess and colorectal pathology?",
+    "options": [
+      "GH directly induces mucosal dysplasia through upregulation of proto-oncogenes in colonic epithelium",
+      "Acromegaly is associated with increased likelihood of developing certain tumours, particularly affecting the large intestine",
+      "IGF-1 suppresses apoptosis in intestinal mucosal cells, directly causing polyp formation in the sigmoid colon"
+    ],
+    "answer": "B"
   },
   {
     "id": 56,
-    "type": "fitb",
-    "stem": "Among pharmacological inhibitors of GH secretion, the alpha adrenergic antagonist listed is _______________ and the beta-adrenergic agonist is isopreterenol.",
-    "answer": "phentolamine",
-    "acceptableAnswers": [
-      "phentolamine"
-    ]
+    "type": "mcq",
+    "stem": "Which of the following BEST describes why patients with Constitutional Dwarfism are initially mistaken for having pathological short stature?",
+    "options": [
+      "Their GH levels are intermittently low, mimicking GH deficiency on provocative testing",
+      "They grow at a normal rate when young but lag and do not start pubertal development and growth spurt until after most peers",
+      "Their bone age is significantly advanced compared to chronological age, suggesting premature epiphyseal closure"
+    ],
+    "answer": "B"
   },
   {
     "id": 57,
-    "type": "fitb",
-    "stem": "CASE STUDY: An exam asks: 'Among pathological factors that stimulate GH secretion, chronic _______________ failure is listed alongside protein-energy malnutrition and anorexia nervosa.' One organ must be supplied.",
-    "answer": "renal",
-    "acceptableAnswers": [
-      "renal",
-      "kidney"
-    ]
+    "type": "mcq",
+    "stem": "A 32-year-old woman with acromegaly develops impaired fasting glucose. Which mechanism BEST explains this metabolic complication?",
+    "options": [
+      "GH excess stimulates pancreatic beta cell apoptosis causing absolute insulin deficiency",
+      "GH has anti-insulin effects; its chronic excess increases the likelihood of developing diabetes mellitus",
+      "IGF-1 hyperstimulates gluconeogenesis in the liver independently of cortisol or insulin levels"
+    ],
+    "answer": "B"
   },
   {
     "id": 58,
-    "type": "fitb",
-    "stem": "The foetal hormone responsible for foetal growth is believed to be foetal _______________ which is stimulated by human placental lactogen from the placenta.",
-    "answer": "IGF-2",
-    "acceptableAnswers": [
-      "IGF-2",
-      "insulin-like growth factor 2"
-    ]
+    "type": "mcq",
+    "stem": "In Sheehan's Syndrome, which of the following statements is MOST accurate regarding the posterior pituitary?",
+    "options": [
+      "The posterior pituitary is always affected, leading to permanent diabetes insipidus in all cases",
+      "Complete posterior pituitary necrosis rarely occurs; panhypopituitarism usually involves the anterior pituitary",
+      "Posterior pituitary necrosis is the primary event, explaining the amenorrhea and lactation failure"
+    ],
+    "answer": "B"
   },
   {
     "id": 59,
-    "type": "fitb",
-    "stem": "CASE STUDY: An examiner states: 'The rate of growth during the first year of postnatal life is rapid though less than _______________ and is called the primary growth spurt.' Two words must be supplied.",
-    "answer": "in utero",
-    "acceptableAnswers": [
-      "in utero",
-      "inutero"
-    ]
+    "type": "mcq",
+    "stem": "A child is brought in with short stature and is found to have vitamin D-resistant rickets. Which mechanism underpins the growth failure in this condition?",
+    "options": [
+      "Vitamin D deficiency reduces GH receptor expression in hepatocytes, lowering IGF-1 synthesis",
+      "Abnormalities in vitamin D metabolism lead to all forms of skeletal malformation associated with stunted growth",
+      "Secondary hyperparathyroidism from vitamin D deficiency increases bone resorption, causing cortical thinning"
+    ],
+    "answer": "B"
   },
   {
     "id": 60,
-    "type": "fitb",
-    "stem": "Oestrogens have the growth-stimulating ability but with a tendency to induce early _______________ closure.",
-    "answer": "epiphyseal",
-    "acceptableAnswers": [
-      "epiphyseal",
-      "epiphysis"
-    ]
+    "type": "mcq",
+    "stem": "Which statement MOST accurately describes the relationship between height velocity and bone age in a child with Sexual Precocity?",
+    "options": [
+      "Height velocity is reduced as elevated oestrogens suppress GH pulsatility during the early years",
+      "Height velocity is initially increased as early gonadal hormones stimulate skeletal growth, but bone age advances rapidly, eventually causing short adult stature",
+      "Height velocity is normal but bone age is delayed, leading to a prolonged growth window and tall adult stature"
+    ],
+    "answer": "B"
   },
   {
     "id": 61,
-    "type": "fitb",
-    "stem": "CASE STUDY: An exam asks: 'Thyroid hormones have _______________ action on GH â they appear to be necessary for the normal rate of GH secretion.' One precise term must be supplied.",
-    "answer": "permissive",
-    "acceptableAnswers": [
-      "permissive"
-    ]
+    "type": "mcq",
+    "stem": "A patient with generalised pituitary insufficiency demonstrates a tendency towards fasting hypoglycaemia. The nurse understands this occurs because hypopituitarism results in absence of which hormones that normally counter low blood glucose?",
+    "options": [
+      "ADH and oxytocin, which normally stimulate hepatic gluconeogenesis via V1 receptors",
+      "GH, steroids (glucocorticoids), and thyroid hormones â absence of which results in impaired counter-regulation",
+      "Glucagon and adrenaline, which are both regulated by anterior pituitary tropic hormones"
+    ],
+    "answer": "B"
   },
   {
     "id": 62,
-    "type": "fitb",
-    "stem": "Adrenal cortical hormones other than androgens exert a permissive action on growth; but _______________ inhibit growth.",
-    "answer": "glucocorticoids",
-    "acceptableAnswers": [
-      "glucocorticoids"
-    ]
+    "type": "mcq",
+    "stem": "CASE SCENARIO: A 55-year-old woman presents with headache, visual field changes, hypertension, and a jaw that her dentist notes has become progressively larger. Her wedding ring no longer fits. She was diagnosed with Acromegaly 2 years ago but defaulted from follow-up. Which assessment finding would MOST concern the nurse at this visit?",
+    "options": [
+      "Peripheral oedema suggesting hypoalbuminemia from hepatic involvement",
+      "Signs of heart failure from organomegaly and hypertension, given acromegaly's association with cardiac enlargement and heart failure",
+      "Signs of hypocalcaemia from GH-induced suppression of parathyroid function"
+    ],
+    "answer": "B"
   },
   {
     "id": 63,
-    "type": "fitb",
-    "stem": "CASE STUDY: An exam states: 'The secondary growth spurt appears earlier in girls than boys; the consequence is early closure of epiphysis, a situation that makes girls _______________ than their male counterparts of the same age.' One adjective must be supplied.",
-    "answer": "shorter",
-    "acceptableAnswers": [
-      "shorter"
-    ]
+    "type": "mcq",
+    "stem": "CASE SCENARIO: A newborn female is noted to have widely spaced nipples, a webbed neck, and low-set ears. On chromosome analysis, the result is 45,XO. At puberty, the patient remains short and shows no signs of secondary sexual development. Which endocrine mechanism best explains her short stature and sexual infantilism?",
+    "options": [
+      "GH deficiency from pituitary aplasia secondary to chromosomal aberration",
+      "Gonadal dysgenesis resulting in oestrogen deficiency, which prevents epiphyseal contribution to growth and pubertal development",
+      "GH receptor mutation co-inherited with the chromosomal deletion causing dual growth failure"
+    ],
+    "answer": "B"
   },
   {
     "id": 64,
-    "type": "fitb",
-    "stem": "Children are peculiar in that they exhibit a period of growth to catch up after illness or starvation; during this period the growth rate is _______________ than normal.",
-    "answer": "greater",
-    "acceptableAnswers": [
-      "greater",
-      "higher",
-      "faster"
-    ]
+    "type": "mcq",
+    "stem": "CASE SCENARIO: A child presenting with short stature undergoes overnight GH stimulation testing. His GH levels are elevated, yet IGF-1 is markedly low. His parents are both of average height and the child has no dysmorphic features. Which diagnosis should the nurse anticipate?",
+    "options": [
+      "Constitutional dwarfism with a delayed but intact GH-IGF-1 axis",
+      "Laron Dwarfism â where GH receptors are unresponsive, resulting in high GH but low IGF-1",
+      "Cretinism where hypothyroidism reduces hepatic IGF-1 synthesis despite normal GH signalling"
+    ],
+    "answer": "B"
   },
   {
     "id": 65,
-    "type": "fitb",
-    "stem": "CASE STUDY: An examiner asks: 'Most agents that promote cell multiplication act via enzyme-linked cell membrane receptors called receptor _______________ kinases (RTKs) which are activated via autophosphorylation.' One word must be supplied.",
-    "answer": "tyrosine",
-    "acceptableAnswers": [
-      "tyrosine"
-    ]
+    "type": "mcq",
+    "stem": "CASE SCENARIO: A 17-year-old boy has been followed for McCune-Albright Syndrome. He developed precocious puberty at age 4. Now at 17, his height is at the 10th percentile despite being at the 95th percentile at age 6. The nurse attributes this paradox to:",
+    "options": [
+      "Adrenal androgen excess directly suppressing GH secretion after age 10",
+      "Oestrogen-induced early epiphyseal closure, which paradoxically leads to short adult stature despite initial tall stature",
+      "Autonomous pituitary GH hypersecretion causing acromegalic changes that shorten vertebral height"
+    ],
+    "answer": "B"
   },
   {
     "id": 66,
     "type": "fitb",
-    "stem": "Cytokines are hormone-like molecules produced by lymphocytes, macrophages, and other cell types; they act in a _______________ manner.",
-    "answer": "paracrine",
+    "stem": "CASE SCENARIO (Fill-in): A 38-year-old woman presents to clinic with increasingly large shoe size, jaw enlargement, and a new diagnosis of sleep apnoea. Her GH level is elevated. The condition occurring between 30 and 50 years where bones become ____________ rather than ____________ due to excess GH after epiphyseal closure is called ____________.",
+    "answer": "deformed; elongated; Acromegaly",
     "acceptableAnswers": [
-      "paracrine"
+      "deformed; elongated; Acromegaly",
+      "deformed; lengthened; Acromegaly",
+      "deformed; elongated; acromegaly"
     ]
   },
   {
     "id": 67,
     "type": "fitb",
-    "stem": "CASE STUDY: An exam asks: 'Colony stimulating factors regulate the proliferation and maturation of red and _______________ blood cells.' One cell type must be supplied.",
-    "answer": "white",
+    "stem": "CASE SCENARIO (Fill-in): A postpartum woman who experienced massive obstetric haemorrhage now presents with failure of lactation and amenorrhea. This condition is caused by pituitary ____________ due to excessive ____________ and is known as ____________ Syndrome.",
+    "answer": "necrosis; bleeding; Sheehan's",
     "acceptableAnswers": [
-      "white"
+      "necrosis; bleeding; Sheehan's",
+      "necrosis; haemorrhage; Sheehan's",
+      "necrosis; blood loss; Sheehan's"
     ]
   },
   {
     "id": 68,
     "type": "fitb",
-    "stem": "GH increases circulating IGF-1; IGF-1 acts on the pituitary through a _______________ loop mechanism to inhibit GH secretion.",
-    "answer": "long",
+    "stem": "CASE SCENARIO (Fill-in): A nurse assesses a child with short stature who grew normally in earlier years but has not yet entered puberty while peers have. Both parents are short. This presentation, with the ____________ of an organic or psychological disorder, is classified as Constitutional (____________) Dwarfism.",
+    "answer": "absence; familial",
     "acceptableAnswers": [
-      "long",
-      "long-loop"
+      "absence; familial",
+      "lack; familial",
+      "absence; familial/idiopathic"
     ]
   },
   {
     "id": 69,
     "type": "fitb",
-    "stem": "CASE STUDY: An examiner states: 'Causes of pituitary insufficiency include _______________ syndrome, which involves pituitary necrosis caused by postpartum haemorrhage.' One eponymous name must be supplied.",
-    "answer": "Sheehan's",
+    "stem": "CASE SCENARIO (Fill-in): A child removed from an abusive home shows pot-belly and growth failure. His GH levels are extremely low due to anomalous secretion of ____________ and GHIH. Upon placement in a safe home, these levels revert to ____________, confirming the diagnosis of ____________ dwarfism.",
+    "answer": "GHRH; normal; environmental (psychosocial)",
     "acceptableAnswers": [
-      "Sheehan's",
-      "Sheehan"
+      "GHRH; normal; environmental",
+      "GHRH; normal; psychosocial",
+      "GHRH; normal; environmental (psychosocial)"
     ]
   },
   {
     "id": 70,
     "type": "fitb",
-    "stem": "Sex steroids bring about protein anabolism, increase GH response to _______________, and increase IGF-1 production during the secondary growth spurt.",
-    "answer": "arginine",
+    "stem": "CASE SCENARIO (Fill-in): A 14-year-old boy is noted to have long limbs, an arm span that ____________ his height, long fingers, and lens dislocation. His pituitary hormones are normal. He is diagnosed with ____________ syndrome, which is an autosomal ____________ disorder with associated ____________ valvular and ophthalmic abnormalities.",
+    "answer": "exceeds; Marfan; dominant; cardiac",
     "acceptableAnswers": [
-      "arginine"
+      "exceeds; Marfan; dominant; cardiac",
+      "exceeds; Marfan's; dominant; cardiac",
+      "exceeds; Marfan; dominant; heart/cardiac"
     ]
   }
 ]
