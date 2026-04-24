@@ -2,769 +2,761 @@
   {
     "id": 1,
     "type": "mcq",
-    "stem": "A 35-year-old male presents with progressive enlargement of his hands and feet, coarsening of facial features, and a deep, husky voice over the past 3 years. His fasting blood glucose is 8.9 mmol/L. Which of the following best explains the timing and mechanism of his current condition?",
+    "stem": "ADH (Arginine Vasopressin) is produced primarily by which nuclei of the hypothalamus, and in what proportion?",
     "options": [
-      "Excess GH secretion before epiphyseal closure causing elongation of long bones",
-      "Excess GH secretion after epiphyseal closure causing bone deformation rather than elongation",
-      "Excess prolactin secretion after epiphyseal closure stimulating cartilaginous overgrowth"
+      "Supraoptic nuclei (80%) and paraventricular nuclei (20%)",
+      "Paraventricular nuclei (80%) and supraoptic nuclei (20%)",
+      "Supraoptic nuclei (60%) and paraventricular nuclei (40%)"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 2,
     "type": "mcq",
-    "stem": "A child is brought to the clinic with a pot-bellied appearance, unusual eating habits, and growth failure despite adequate dietary intake. The child was recently removed from a neglectful home environment, and growth resumed shortly after. The most likely diagnosis is:",
+    "stem": "Oxytocin is produced mainly by which nuclei of the hypothalamus, and in what proportion?",
     "options": [
-      "Laron dwarfism, due to GH receptor insensitivity",
-      "Environmental (psychosocial) dwarfism, due to anomalous GHRH and GHIH secretion under stress",
-      "Constitutional dwarfism, due to familial tendency toward delayed pubertal growth spurt"
+      "Supraoptic nuclei (80%) and paraventricular nuclei (20%)",
+      "Paraventricular nuclei (80%) and supraoptic nuclei (20%)",
+      "Arcuate nuclei (70%) and paraventricular nuclei (30%)"
     ],
     "answer": "B"
   },
   {
     "id": 3,
     "type": "mcq",
-    "stem": "In a patient with Laron Dwarfism, which of the following laboratory findings is most expected?",
+    "stem": "The secretory granules of the posterior pituitary that are transported via axoplasmic flow and contain active hormones are specifically called:",
     "options": [
-      "Low plasma GH with low IGF-1 and low IGF-binding protein",
-      "Normal or elevated plasma GH with reduced IGF-1 due to GH receptor unresponsiveness",
-      "Elevated plasma GH with elevated IGF-1 and normal GH receptor sensitivity"
+      "Lamellar bodies â packaging units formed in the smooth endoplasmic reticulum",
+      "Herring bodies â storage granules in the nerve endings containing active hormones",
+      "Nissl bodies â ribosomal clusters found in the axon terminals of pituicytes"
     ],
     "answer": "B"
   },
   {
     "id": 4,
     "type": "mcq",
-    "stem": "A 28-year-old woman presents with secondary amenorrhea, galactorrhea, and infertility. Her MRI reveals a pituitary microadenoma. Which hormone is most likely being overproduced, and what is the first-line treatment?",
+    "stem": "Both oxytocin and ADH are nano-peptides with a disulphide bond at one end. What is the precursor binding molecule synthesised in ribosomes to which these hormones are initially bound?",
     "options": [
-      "Growth hormone; surgical resection via transsphenoidal approach",
-      "Prolactin; initiation of dopamine agonist therapy",
-      "FSH; GnRH analogue suppression therapy"
+      "Pre-pro-pressophysin (neurophysin I) for ADH and pre-pro-oxyphysin (neurophysin II) for oxytocin",
+      "Pre-pro-pressophysin (neurophysin II) for ADH and pre-pro-oxyphysin (neurophysin I) for oxytocin",
+      "Pro-neurophysin I for both oxytocin and ADH as a shared precursor molecule"
     ],
     "answer": "B"
   },
   {
     "id": 5,
     "type": "mcq",
-    "stem": "A female child presents with rapid growth and early breast development at age 7. Her bone age is significantly advanced. Although she is currently tall for her age, the nurse anticipates which long-term outcome?",
+    "stem": "AVP acts on the V2 receptors located in the collecting duct and distal tubule. Which intracellular cascade is activated, leading to aquaporin-2 insertion?",
     "options": [
-      "She will continue to be tall into adulthood due to sustained estrogen-driven growth",
-      "She will likely be short in adult life due to oestrogen-induced early epiphyseal closure",
-      "She will attain normal adult height because GH secretion remains unchanged"
+      "V2 receptor activation increases intracellular cAMP via protein kinase A, phosphorylating cytoplasmic aquaporins and mobilising them to the luminal membrane",
+      "V2 receptor activation increases intracellular calcium via IP3, triggering exocytosis of aquaporin-2 vesicles to the basolateral membrane",
+      "V2 receptor activation reduces intracellular cGMP, allowing passive insertion of aquaporin-3 channels into the apical collecting duct membrane"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 6,
     "type": "mcq",
-    "stem": "Which of the following correctly differentiates Gigantism from Acromegaly in terms of pathophysiology?",
+    "stem": "The V1A receptor of AVP is primarily concerned with which physiological effect?",
     "options": [
-      "Gigantism results from GH excess after epiphyseal closure; Acromegaly results from GH excess before closure",
-      "Gigantism results from GH excess before epiphyseal closure causing generalised growth; Acromegaly from GH excess after closure causing bone deformation",
-      "Gigantism is caused by GHRH-secreting tumours; Acromegaly is caused by prolactin-secreting adenomas"
+      "Fluid reabsorption from the collecting duct via aquaporin-2 mobilisation",
+      "Vasoconstrictor effect through the second messenger mechanism of increasing intracellular calcium",
+      "ACTH secretion from the anterior pituitary via the second messenger cAMP pathway"
     ],
     "answer": "B"
   },
   {
     "id": 7,
     "type": "mcq",
-    "stem": "A 10-year-old boy is noted to have a normal birth length but an above-average growth rate. Karyotype analysis reveals 47,XYY. Which statement BEST describes his expected clinical course?",
+    "stem": "The V1B receptor of AVP is specifically involved in which action, distinguishing it from V1A and V2 receptor functions?",
     "options": [
-      "He will be significantly shorter than peers due to premature epiphyseal fusion",
-      "Birth length is normal but the growth rate is higher than normal, resulting in tall stature",
-      "He will develop Klinefelter-like hypogonadism with reduced testosterone"
+      "Water reabsorption from the medullary collecting duct through aquaporin-2 channels",
+      "Mediating ACTH secretion from the anterior pituitary",
+      "Vasoconstriction of peripheral arterioles through increased intracellular calcium"
     ],
     "answer": "B"
   },
   {
     "id": 8,
     "type": "mcq",
-    "stem": "A patient with Klinefelter's Syndrome (47,XXY) is seen in clinic. The nurse correctly identifies which of the following as a CONSISTENT finding in ALL patients with this syndrome?",
+    "stem": "Plasma osmolarity is described as a 'very sensitive' stimulus for ADH release. What percentage change in plasma osmolarity is sufficient to stimulate osmoreceptor cells in the anterior hypothalamus?",
     "options": [
-      "Taller than average height compared to male peers",
-      "Hypogonadism and infertility due to the extra X chromosome",
-      "Cognitive impairment severe enough to require institutional care"
+      "Only 1% change in plasma osmolarity is sufficient to trigger osmoreceptor firing and ADH release",
+      "Only a 2% change in plasma osmolarity is sufficient to respond via stimulation of osmoreceptors",
+      "A minimum 5% change in plasma osmolarity is needed before osmoreceptor cells initiate ADH secretion"
     ],
     "answer": "B"
   },
   {
     "id": 9,
     "type": "mcq",
-    "stem": "A patient presents with short stature, rhizomelic shortening of limbs, and normal trunk length. Genetic testing confirms an autosomal dominant mutation in the fibroblast growth factor receptor gene. What is the most appropriate intervention?",
+    "stem": "An increase in ECF volume detected by high-pressure arterial baroreceptors in the carotid sinus and aortic arch results in which sequence of events regarding ADH?",
     "options": [
-      "GnRH analogue to delay bone age and maximise final height",
-      "Administration of human growth hormone as treatment",
-      "Thyroid hormone replacement to correct the underlying metabolic defect"
+      "Afferent impulses carried via glossopharyngeal and vagus nerves to the medulla decrease ADH production via SON and PVN",
+      "Afferent impulses carried via glossopharyngeal and vagus nerves to the medulla increase ADH production via SON and PVN",
+      "Afferent impulses carried via sympathetic fibres directly suppress pituicyte secretion in the posterior pituitary"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 10,
     "type": "mcq",
-    "stem": "In Constitutional (Familial) Dwarfism, which of the following statements is MOST accurate?",
+    "stem": "Low-pressure volume receptors in the walls of the atria and pulmonary veins stimulate ADH secretion under which specific condition?",
     "options": [
-      "There is an identified organic aetiology affecting GH secretion from the anterior pituitary",
-      "Parents are usually short, there is normal birth history, and no organic or psychologic disease is identified",
-      "Children fail to grow at a normal rate when young but undergo a normal pubertal growth spurt"
+      "When ECF volume increases, stretching the atrial walls and triggering ADH to prevent further volume expansion",
+      "When there is a reduction in ECF volume, such as bleeding, diarrhoea, or vomiting, stimulating ADH secretion",
+      "When plasma oncotic pressure rises, indicating relative dehydration, triggering ADH to preserve plasma volume"
     ],
     "answer": "B"
   },
   {
     "id": 11,
     "type": "mcq",
-    "stem": "A postpartum woman develops failure of lactation and amenorrhea following a complicated delivery complicated by massive haemorrhage. Subsequent workup reveals panhypopituitarism. Which condition best explains her presentation?",
+    "stem": "A patient receives a large infusion of hypotonic fluid postoperatively, diluting the ECF. What is the expected effect on ADH secretion according to the synergistic action of plasma osmolarity and ECF volume?",
     "options": [
-      "Acromegaly following GH hypersecretion during the peripartum period",
-      "Sheehan's Syndrome caused by pituitary necrosis from excessive postpartum bleeding",
-      "Prolactin-secreting macroadenoma compressing normal pituitary tissue"
+      "ADH secretion increases because ECF volume is now reduced and osmostats signal dehydration",
+      "ADH production is inhibited because dilution of ECF reduces osmolarity, and consequent ADH inhibition reduces water reabsorption from kidneys",
+      "ADH secretion remains unchanged because plasma osmolarity and ECF volume changes cancel each other out"
     ],
     "answer": "B"
   },
   {
     "id": 12,
     "type": "mcq",
-    "stem": "A child with hypothyroidism presents with short stature, mental retardation, pot belly, and macroglossia. Which diagnosis is most consistent with this presentation?",
+    "stem": "Alcohol decreases ADH secretion through which specific mechanism?",
     "options": [
-      "Achondroplasia, due to fibroblast growth factor receptor mutation",
-      "Cretinism, due to postnatal hypothyroidism impairing skeletal and CNS development",
-      "Laron dwarfism, due to peripheral GH insensitivity"
+      "Alcohol directly damages osmoreceptor cells in the SON, permanently impairing ADH response to osmolarity changes",
+      "Alcohol inhibits ADH secretion by blocking calcium-induced exocytosis from nerve endings in the posterior pituitary",
+      "Alcohol stimulates dopamine release in the hypothalamus, which acts on D2 receptors to suppress ADH gene transcription"
     ],
     "answer": "B"
   },
   {
     "id": 13,
     "type": "mcq",
-    "stem": "In panhypopituitarism, which set of hormones is MOST consistently affected, leading to adrenal, gonadal, and thyroid insufficiency?",
+    "stem": "In SIADH, increased ADH production leads to which sequence of electrolyte and volume changes?",
     "options": [
-      "GH, ADH, oxytocin, and MSH",
-      "ACTH, TSH, FSH, LH, GH, and prolactin",
-      "Aldosterone, cortisol, T3, T4, and insulin"
+      "Increased water reabsorption â increased ECF volume â reduced Na+ concentration â decreased osmolarity â inhibition of aldosterone â additional Na+ loss â urine volume reduces",
+      "Increased water reabsorption â decreased ECF volume â reduced Na+ concentration â increased osmolarity â stimulation of aldosterone â Na+ retention â urine volume increases",
+      "Increased water reabsorption â unchanged ECF volume â reduced Na+ concentration â increased ADH â osmolarity maintained via compensatory mechanisms"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 14,
     "type": "mcq",
-    "stem": "Which clinical feature of Acromegaly would the nurse expect to find in BOTH male and female patients, unlike features that differ by sex?",
+    "stem": "A patient with SIADH is being managed. The nurse correctly identifies which drug as an antibiotic that reduces the renal response to ADH and has been used successfully in SIADH management?",
     "options": [
-      "Menstrual abnormalities and galactorrhea due to elevated prolactin",
-      "Enlargement of hands and feet, coarse facial structures, and prognathism",
-      "Erectile dysfunction and decreased libido from gonadotropin suppression"
+      "Chlorpropamide â a sulphonylurea that potentiates ADH action at the collecting duct V2 receptor",
+      "Demeclocycline â an antibiotic that reduces the renal response to ADH",
+      "Bromocriptine â a dopamine agonist that suppresses ADH release from the posterior pituitary"
     ],
     "answer": "B"
   },
   {
     "id": 15,
     "type": "mcq",
-    "stem": "A patient with Acromegaly develops progressive dyspnea. Which of the following complications is MOST responsible?",
+    "stem": "Which of the following is listed as a METABOLIC DISORDER cause of SIADH?",
     "options": [
-      "Pulmonary hypertension from elevated IGF-1 stimulating vascular smooth muscle",
-      "Heart failure from excessive soft tissue and organ enlargement including the heart",
-      "Pleural effusion from decreased oncotic pressure due to protein catabolism"
+      "Lung cancer and tuberculosis causing ectopic ADH secretion from pulmonary neoplastic cells",
+      "Porphyria and alcohol withdrawal",
+      "Cerebral tumours and meningitis causing increased intracranial pressure stimulating ADH release"
     ],
     "answer": "B"
   },
   {
     "id": 16,
     "type": "mcq",
-    "stem": "Turner's Syndrome is an example of which category of short stature?",
+    "stem": "In Diabetes Insipidus (DI), the absence of ADH makes it impossible for which specific structures to reabsorb water?",
     "options": [
-      "Short stature associated with GH deficiency â Laron Dwarfism subtype",
-      "Short stature not associated with GH deficiency â Gonadal Dysgenesis subtype",
-      "Short stature associated with GH deficiency â Environmental dwarfism subtype"
+      "The proximal convoluted tubule and loop of Henle, resulting in loss of the osmotic gradient",
+      "The distal convoluted tubule and collecting duct, resulting in excretion of large amounts of dilute urine",
+      "The glomerulus and Bowman's capsule, reducing the filtration threshold for water molecules"
     ],
     "answer": "B"
   },
   {
     "id": 17,
     "type": "mcq",
-    "stem": "A child presents with rapid growth, prominent forehead, coarse facial features, hypertelorism, and mental retardation. Pituitary hormone levels are reported as normal. Which syndrome does this describe?",
+    "stem": "The treatment of Diabetes Insipidus specifically uses desmopressin, described in the text as a synthetic peptide with which property?",
     "options": [
-      "Marfan syndrome â autosomal dominant with cardiac and ophthalmic features",
-      "Sotos syndrome (cerebral gigantism) â occurring in childhood with normal pituitary hormones",
-      "Pituitary Gigantism â from GH-secreting tumour in childhood"
+      "A synthetic peptide that acts similarly to aldosterone but with longer half-life and renal specificity",
+      "A synthetic peptide that has an action similar to that of ADH, used as replacement therapy",
+      "A synthetic peptide that stimulates endogenous ADH production via V1B receptor agonism"
     ],
     "answer": "B"
   },
   {
     "id": 18,
     "type": "mcq",
-    "stem": "In Marfan syndrome, which finding most distinguishes it from Pituitary Gigantism?",
+    "stem": "During dehydration, which condition triggers SECONDARY stimulation of thirst alongside ADH release?",
     "options": [
-      "Arm span exceeds height, with normal pituitary hormones and autosomal dominant inheritance",
-      "Arm span is shorter than height with elevated GH and IGF-1 levels",
-      "Patients present with intellectual disability and central nervous system involvement"
-    ],
-    "answer": "A"
-  },
-  {
-    "id": 19,
-    "type": "mcq",
-    "stem": "Cushing's Syndrome in childhood causes short stature through which mechanism?",
-    "options": [
-      "GH receptor downregulation from chronically elevated prolactin levels",
-      "Glucocorticoid-induced inhibition of skeletal growth, inhibiting growth before onset of obesity",
-      "Premature epiphyseal closure from elevated sex hormone levels in adrenal excess"
+      "Reduced plasma oncotic pressure detected by hepatic osmoreceptors activating the thirst centre",
+      "Receptors respond to thirst being secondarily stimulated, leading to intake of excess water â a condition called polydipsia",
+      "Increased angiotensin II detected by circumventricular organs directly suppresses ADH and activates thirst centres"
     ],
     "answer": "B"
   },
   {
+    "id": 19,
+    "type": "mcq",
+    "stem": "AVP can stimulate glycogenolysis through which minor effect, and where does this occur?",
+    "options": [
+      "AVP stimulates glycogenolysis in the liver via V1A receptors; clinical significance is not well understood",
+      "AVP stimulates glycogenolysis in skeletal muscle via V2 receptors, contributing to post-exercise glucose availability",
+      "AVP stimulates glycogenolysis in the kidney via V1B receptors, providing local energy during antidiuresis"
+    ],
+    "answer": "A"
+  },
+  {
     "id": 20,
     "type": "mcq",
-    "stem": "Which of the following features in a patient with acromegaly suggests laryngeal involvement?",
+    "stem": "AVP acts on the brain (area postrema) through which minor effect?",
     "options": [
-      "Macroglossia and tonsillar hypertrophy narrowing the pharyngeal airway",
-      "Thickening of laryngeal cartilage resulting in a deep, husky voice",
-      "Oedema of the vocal cords from increased fluid retention due to aldosterone hypersecretion"
+      "AVP decreases cardiac output via V1A receptors in the brainstem, reducing baroreceptor firing",
+      "AVP acts on the brain (area postrema) to decrease cardiac output as a minor cardiovascular effect",
+      "AVP stimulates the area postrema to trigger the vomiting reflex, explaining nausea in states of dehydration"
     ],
     "answer": "B"
   },
   {
     "id": 21,
     "type": "mcq",
-    "stem": "A pituitary tumour exerts pressure on the optic chiasm. Which visual disturbance is the nurse MOST likely to anticipate documenting?",
+    "stem": "Which of the following factors INCREASES AVP secretion?",
     "options": [
-      "Unilateral monocular blindness from direct optic nerve compression",
-      "Visual disturbances due to pressure effects on the sella turcica region affecting the optic chiasm",
-      "Periorbital oedema and exophthalmos from orbital fat infiltration"
+      "Alcohol consumption, which potentiates osmoreceptor sensitivity via endorphin release",
+      "Angiotensin II and sympathetic stimulation alongside pain, nausea, vomiting, and surgical stress",
+      "Excessive ingestion of hypotonic fluid, which dilutes ECF and triggers compensatory AVP release"
     ],
     "answer": "B"
   },
   {
     "id": 22,
     "type": "mcq",
-    "stem": "Which of the following accurately defines Tall Stature from an endocrinological perspective?",
+    "stem": "AVP is a 9-amino acid peptide with a short half-life. What is the approximate half-life of ADH, and where is it inactivated?",
     "options": [
-      "Height more than 1 standard deviation above the mean for age and sex on population charts",
-      "Standing height more than 2 standard deviations above the mean or above the 2.5 percentile for sex among people with the same genetic and socioeconomic background",
-      "Height velocity exceeding the 97th percentile for two consecutive six-month measurements"
+      "Half-life is approximately 45-60 minutes; inactivated primarily by renal tubular enzymes",
+      "Half-life is approximately 10-20 minutes; rapidly inactivated in the liver and kidneys and excreted through the kidneys",
+      "Half-life is approximately 2-4 hours; inactivated by serum vasopressinase enzymes during pregnancy"
     ],
     "answer": "B"
   },
   {
     "id": 23,
     "type": "mcq",
-    "stem": "A nurse is teaching a student about rickets. Which of the following BEST explains its association with short stature?",
+    "stem": "Aquaporin-2 is described as the classical AVP-responsive water channel. Which receptor subtype mediates its insertion into the luminal cell membrane?",
     "options": [
-      "Deficiency of parathyroid hormone leads to hypocalcaemia, reducing osteoblast activity",
-      "Abnormalities in vitamin D metabolism lead to skeletal malformation associated with stunted growth",
-      "Excess fluoride intake during bone development suppresses chondrocyte proliferation"
+      "V1A receptors increasing intracellular calcium, which triggers vesicular fusion with the apical membrane",
+      "V2 receptors increasing intracellular cAMP, leading to phosphorylation and mobilisation of aquaporin-2 to the luminal membrane",
+      "V1B receptors activating protein kinase C, which traffics aquaporin-2 to the basolateral membrane"
     ],
     "answer": "B"
   },
   {
     "id": 24,
     "type": "mcq",
-    "stem": "In gonadal dysgenesis, the inability to attain potential growth is due to which specific hormonal deficiency?",
+    "stem": "AVP can also stimulate reabsorption of urea from the medullary collecting duct. What is the functional significance of this action?",
     "options": [
-      "Deficiency of growth hormone leading to reduced IGF-1 mediated bone growth",
-      "Deficiency of oestrogens resulting in failure to achieve growth potential",
-      "Deficiency of FSH and LH leading to inadequate gonadotropin-driven bone maturation"
+      "Urea reabsorption raises plasma BUN, which provides a sensitive marker for AVP activity in clinical testing",
+      "AVP can stimulate the reabsorption of urea from the medullary collecting duct into the medullary interstitium, essential in the regulation of ECF osmolality",
+      "Urea reabsorption reduces tubular fluid osmolality, preventing excessive ADH stimulation during concentrated urine production"
     ],
     "answer": "B"
   },
   {
     "id": 25,
     "type": "mcq",
-    "stem": "A 45-year-old male with known acromegaly reports increasing difficulty maintaining an erection. What is the most likely mechanism?",
+    "stem": "The supporting cells of the posterior pituitary nerve endings are called:",
     "options": [
-      "Elevated GH directly suppresses testosterone synthesis in Leydig cells",
-      "Approximately 30% of men with acromegaly may develop erectile dysfunction",
-      "Hyperprolactinaemia from co-existing pituitary stalk compression reduces LH pulsatility"
+      "Astrocytes â modified glial cells providing structural support to unmyelinated axon terminals",
+      "Pituicytes â supporting cells alongside which unmyelinated axons blindly terminate in the posterior pituitary",
+      "Tanycytes â ependymal cells lining the floor of the third ventricle adjacent to the neurohypophysis"
     ],
     "answer": "B"
   },
   {
     "id": 26,
     "type": "mcq",
-    "stem": "Which of the following statements about Environmental Dwarfism is TRUE regarding GH levels?",
+    "stem": "Oxytocin-induced uterine contraction is ENHANCED by oestrogen and INHIBITED by which hormone?",
     "options": [
-      "GH levels are permanently suppressed due to destruction of somatotroph cells from chronic stress",
-      "Children with psychogenic dwarfism have extremely low GH levels that revert to normal when removed from the stress-filled environment",
-      "GH levels are elevated in environmental dwarfism because cortisol stimulates somatotroph secretion"
+      "Cortisol â which blocks myometrial oxytocin receptor expression during the stress response",
+      "Progesterone â which decreases the number of oxytocin receptors as pregnancy progresses",
+      "Relaxin â which antagonises oxytocin at the myometrial receptor level throughout gestation"
     ],
     "answer": "B"
   },
   {
     "id": 27,
     "type": "mcq",
-    "stem": "A woman with acromegaly has her serum prolactin checked and it is elevated. What is the MOST likely explanation for this finding?",
+    "stem": "The role of oxytocin in the initiation of normal labour is described as 'still obscure' because:",
     "options": [
-      "GH directly stimulates lactotroph cells to produce prolactin as a co-secretory effect",
-      "Hyperprolactinaemia in acromegaly results from increased prolactin secretion, which about 4% of women with acromegaly develop galactorrhea from",
-      "The pituitary tumour co-secretes both GH and prolactin, or compresses the pituitary stalk reducing dopaminergic inhibition"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": 28,
-    "type": "mcq",
-    "stem": "The Pygmies of Congo have been studied for short stature. Which of the following BEST describes their endocrine profile?",
-    "options": [
-      "Low plasma GH with absent IGF-1 secondary to somatotroph aplasia",
-      "Normal GH levels but IGF-1 fails to rise at puberty; aetiopathogenesis remains unclear",
-      "Elevated GH with elevated IGF-1 but reduced GH receptor expression in target tissues"
+      "Plasma oxytocin levels are undetectable during normal labour, suggesting alternative contractile mechanisms",
+      "The plasma level before the onset of labour is normal, yet impulses sent to the posterior pituitary during cervical dilation and head descent induce oxytocin release",
+      "Oxytocin receptors are absent in the uterus before 37 weeks gestation, making premature labour oxytocin-independent"
     ],
     "answer": "B"
   },
   {
+    "id": 28,
+    "type": "mcq",
+    "stem": "The milk ejection reflex is described as a neuroendocrine reflex. Which pathway carries the afferent impulses from the nipple to the brain?",
+    "options": [
+      "Somatic afferent touch pathways to the PVN and SON, leading to oxytocin release and milk ejection",
+      "Autonomic afferent pathways to the arcuate nucleus, triggering dopamine suppression and prolactin-mediated ejection",
+      "Visceral afferent fibres via the vagus nerve to the solitary nucleus, activating the posterior pituitary directly"
+    ],
+    "answer": "A"
+  },
+  {
     "id": 29,
     "type": "mcq",
-    "stem": "Treatment of acromegaly by surgical removal of a pituitary tumour is complicated. Which additional treatment modality is cited as helping to ameliorate hyperprolactinaemia associated with pituitary tumours?",
+    "stem": "Alcohol may suppress lactation. According to the text, which mechanism explains why encouraging mothers in the early puerperium to take alcohol may be counterproductive?",
     "options": [
-      "Administration of somatostatin analogues to suppress GH secretion",
-      "Administration of dopamine agonists such as bromocriptine, cabergoline, and pergolide",
-      "Radiotherapy targeting the anterior pituitary to ablate somatotroph cells"
+      "Alcohol suppresses prolactin secretion from the anterior pituitary, reducing milk production regardless of suckling stimulus",
+      "Emotional changes caused by alcohol may suppress the milk ejection reflex, and alcohol may counterproductively suppress lactation",
+      "Alcohol induces myoepithelial cell relaxation via GABA-mediated smooth muscle inhibition, preventing milk ejection"
     ],
     "answer": "B"
   },
   {
     "id": 30,
     "type": "mcq",
-    "stem": "Precocious puberty causes short adult stature through which SPECIFIC mechanism?",
+    "stem": "Oxytocin is involved in luteolysis. What does this mean in terms of corpus luteum physiology?",
     "options": [
-      "GH secretion is suppressed by early estrogen feedback, reducing longitudinal bone growth",
-      "Early oestrogen-induced epiphyseal closure leads to short stature in adult life despite initial tall stature",
-      "Elevated androgens directly inhibit chondrocyte proliferation in the growth plate"
+      "Oxytocin stimulates the corpus luteum to produce progesterone, prolonging the luteal phase",
+      "Oxytocin appears to be involved in luteolysis, meaning degeneration of the corpus luteum",
+      "Oxytocin triggers LH surge from the anterior pituitary, causing corpus luteum rescue in early pregnancy"
     ],
     "answer": "B"
   },
   {
     "id": 31,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A 14-year-old male is referred for evaluation of tall stature. He is noted to be significantly taller than both parents. His arm span exceeds his height. Examination reveals long, slender fingers, mild pectus excavatum, and lens subluxation on ophthalmologic exam. Pituitary hormone levels are within normal limits. Which of the following is the MOST likely diagnosis?",
+    "stem": "Oxytocin acts on the non-pregnant uterus and the vas deferens. What is its specific action on the vas deferens?",
     "options": [
-      "Sotos syndrome â cerebral gigantism with normal pituitary function occurring in childhood",
-      "Marfan syndrome â autosomal dominant disorder with long limbs, arm span exceeding height, and ophthalmic and cardiac findings",
-      "Pituitary Gigantism â GH excess before epiphyseal closure with long arms and generalised organomegaly"
+      "Oxytocin relaxes the smooth muscle of the vas deferens, facilitating sperm capacitation",
+      "Oxytocin acts on the non-pregnant uterus to facilitate sperm transport and increases the contraction of the smooth muscle of the vas deferens, propelling sperm towards the urethra",
+      "Oxytocin stimulates Sertoli cells via paracrine signalling to increase sperm motility within the epididymis"
     ],
     "answer": "B"
   },
   {
     "id": 32,
     "type": "mcq",
-    "stem": "CASE SCENARIO (continued): In the patient from Question 31, the nurse prioritises which assessment as the MOST urgent concern given his condition?",
+    "stem": "The final cleavage of active hormones in the posterior pituitary occurs during:",
     "options": [
-      "Assessment for diabetes mellitus due to elevated IGF-1 levels",
-      "Cardiac auscultation and echocardiography for associated cardiac valvular abnormalities",
-      "Thyroid function tests to rule out concurrent hyperthyroidism contributing to tall stature"
+      "Post-translational modification in the endoplasmic reticulum before packaging into Golgi vesicles",
+      "Axoplasmic flow â meaning the storage granules in the nerve endings already contain active hormones by the time they arrive",
+      "Calcium-dependent exocytosis at the nerve terminal membrane just before hormone release into the bloodstream"
     ],
     "answer": "B"
   },
   {
     "id": 33,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A 6-year-old girl is brought to the paediatric endocrinology clinic. Her mother reports she has not grown as tall as her peers. The girl was born at term with normal birth weight. Her parents are both of short stature. She currently grows at a normal rate for her age but has not yet entered puberty, while many peers have begun showing early signs. There is no organic disease. Which diagnosis fits BEST?",
+    "stem": "In pregnancy, an osmostat resetting occurs regarding AVP. What does this mean clinically?",
     "options": [
-      "Cretinism â postnatal hypothyroidism causing skeletal and CNS growth impairment",
-      "Constitutional (Familial) Dwarfism â familial tendency, normal growth rate, delayed puberty, no organic disease",
-      "Environmental Dwarfism â psychosocial stress suppressing GHRH with normal appearance at home"
+      "The plasma osmolarity threshold for AVP release is raised during pregnancy to prevent excessive fluid retention",
+      "Plasma volume increases during pregnancy and an osmostat resetting occurs; AVP senses this new volume as normal and adjusts secretion accordingly to restore ECF homeostasis",
+      "The V2 receptor sensitivity is downregulated during pregnancy to prevent excessive aquaporin-2 insertion and hyponatraemia"
     ],
     "answer": "B"
   },
   {
     "id": 34,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A 40-year-old woman presents with amenorrhea, galactorrhea, coarsening of her features, progressive enlargement of her jaw and feet, and hypertension. GH levels are markedly elevated. What co-existing condition is MOST likely given her galactorrhea and amenorrhea in the context of a pituitary tumour?",
+    "stem": "CASE SCENARIO: A 52-year-old man with small cell lung cancer is admitted with confusion and nausea. Serum Na+ is 118 mmol/L. Urine osmolality is high and urine Na+ is elevated. BP is normal and there is no peripheral oedema. What is the MOST likely diagnosis?",
     "options": [
-      "Concurrent TSH-secreting macroadenoma causing hypothyroid-related galactorrhea",
-      "Co-secretion of prolactin alongside GH from the pituitary tumour, or stalk compression reducing dopamine inhibition",
-      "Gonadotropin deficiency alone causing anovulation and secondary galactorrhea via oestrogen withdrawal"
+      "Diabetes Insipidus â ADH deficiency causing dilutional hyponatraemia from excessive free water loss",
+      "SIADH â ectopic ADH production from lung cancer causing water retention, hyponatraemia, and inappropriately concentrated urine",
+      "Addison's disease â aldosterone deficiency causing Na+ wasting, hyponatraemia, and volume contraction with hypotension"
     ],
     "answer": "B"
   },
   {
     "id": 35,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A nurse reviews a patient who was in a severe motor vehicle accident complicated by significant intracranial bleeding. Six weeks later, the patient complains of cold intolerance, fatigue, loss of libido, and is noted to have fasting hypoglycaemia. Which condition is most consistent with this post-traumatic presentation?",
+    "stem": "CASE SCENARIO (continued from Q34): The patient in Q34 is started on fluid restriction and the tumour is resected. Which additional pharmacological agent may be used to reduce the renal response to ADH in persistent cases?",
     "options": [
-      "Cushing's syndrome from stress-induced hypercortisolism following traumatic brain injury",
-      "Panhypopituitarism â generalised pituitary insufficiency causing adrenal, thyroid, and gonadal failure with fasting hypoglycaemia",
-      "Diabetes insipidus from posterior pituitary involvement causing hyperglycaemia and polyuria"
+      "Desmopressin â a synthetic ADH analogue that competes at V2 receptors and reduces free water reabsorption",
+      "Demeclocycline â an antibiotic that reduces the renal tubular response to ADH",
+      "Chlorpropamide â a sulphonylurea that potentiates ADH action and increases urine osmolality"
     ],
     "answer": "B"
   },
   {
     "id": 36,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A 3-year-old child in foster care is brought for evaluation of growth failure. He is pot-bellied, has an unusual pattern of drinking fluids (excessive water from non-food sources), and is notably short. After 2 months in a nurturing environment, his GH levels and growth velocity normalise. The GHIH and GHRH abnormality previously present is now resolved. What was the PRIMARY mechanism of his growth failure?",
+    "stem": "CASE SCENARIO: A 28-year-old woman following a head injury develops polyuria, producing 12 litres of dilute urine per day. She complains of intense thirst. Serum osmolality is high and urine osmolality is low. Which diagnosis is MOST consistent?",
     "options": [
-      "GH receptor insensitivity from chronic malnutrition reducing hepatic IGF-1 production",
-      "Anomalous secretion of GHRH and GHIH under stress, or unresponsiveness to these hormones, reversible upon removal from stress",
-      "Hypothyroidism from chronic iodine deficiency in an unstable household environment"
+      "SIADH â head injury triggering excessive ADH production, diluting the urine and increasing water intake",
+      "Diabetes Insipidus â ADH deficiency from head injury preventing distal tubule and collecting duct water reabsorption, causing large amounts of dilute urine",
+      "Psychogenic polydipsia â compulsive water intake suppressing ADH and producing secondary dilute polyuria"
     ],
     "answer": "B"
   },
   {
     "id": 37,
-    "type": "fitb",
-    "stem": "In XYY Syndrome, birth length is ____________ but the growth rate is ____________ than normal.",
-    "answer": "normal; higher",
-    "acceptableAnswers": [
-      "normal; higher",
-      "normal; greater",
-      "normal; faster"
-    ]
+    "type": "mcq",
+    "stem": "CASE SCENARIO: A breastfeeding mother notices her milk flows rapidly when she hears her baby cry even before the baby latches. The nurse explains this is due to which reflex pathway?",
+    "options": [
+      "Emotional stimuli triggering hypothalamic prolactin-releasing hormone, which causes milk ejection from alveoli",
+      "Emotional stimuli activating oxytocin release via hypothalamic pathways, causing contraction of myoepithelial cells and milk ejection",
+      "Emotional stimuli activating sympathetic nerves supplying mammary alveoli, causing smooth muscle contraction and ejection"
+    ],
+    "answer": "B"
   },
   {
     "id": 38,
-    "type": "fitb",
-    "stem": "In Klinefelter's Syndrome (47,XXY), patients may be ____________ than their mates, however this is ____________ a constant feature.",
-    "answer": "taller; not",
-    "acceptableAnswers": [
-      "taller; not",
-      "taller than average; not"
-    ]
+    "type": "mcq",
+    "stem": "CASE SCENARIO: A postoperative patient was given excessive IV hypotonic saline over 24 hours. She now has serum Na+ of 122 mmol/L and is confused. Which physiological mechanism explains her hyponatraemia?",
+    "options": [
+      "Excessive ingestion of hypotonic fluid dilutes the ECF and reduces osmolarity; consequently ADH production is inhibited â but in iatrogenic overload, the body cannot excrete water fast enough",
+      "Surgical stress increases angiotensin II and sympathetic stimulation, elevating ADH and reducing renal water excretion despite low osmolality",
+      "Pain from surgery activates V1B receptors, increasing ACTH and cortisol, which suppress the renal tubular Na+ transport mechanisms"
+    ],
+    "answer": "B"
   },
   {
     "id": 39,
-    "type": "fitb",
-    "stem": "Acromegaly typically occurs between ____________ and ____________ years of age, and its clinical manifestation occurs slowly, making it ____________ late.",
-    "answer": "30; 50; recognised",
-    "acceptableAnswers": [
-      "30; 50; recognised",
-      "30 and 50; diagnosed",
-      "30; 50; detected"
-    ]
+    "type": "mcq",
+    "stem": "CASE SCENARIO: During labour, a multigravida at 39 weeks develops prolonged uterine contractions following oxytocin augmentation. The nurse knows that progesterone's role is to:",
+    "options": [
+      "Enhance uterine contractility by upregulating oxytocin receptor expression in late gestation",
+      "Inhibit uterine contraction by affecting the number of oxytocin receptors as pregnancy progresses",
+      "Suppress oxytocin secretion from the maternal posterior pituitary during the second stage of labour"
+    ],
+    "answer": "B"
   },
   {
     "id": 40,
-    "type": "fitb",
-    "stem": "In Acromegaly, the cartilage in the larynx may ____________, resulting in a ____________ and husky voice.",
-    "answer": "thicken; deep",
-    "acceptableAnswers": [
-      "thicken; deep",
-      "thicken; low",
-      "become thick; deep"
-    ]
+    "type": "mcq",
+    "stem": "CASE SCENARIO: A male patient undergoing workup for infertility is found to have poor sperm motility in the ejaculate. The nurse understands that oxytocin's role in male reproductive physiology includes:",
+    "options": [
+      "Stimulating Leydig cell testosterone synthesis via LH-independent oxytocin receptor activation",
+      "Increasing contraction of the smooth muscle of the vas deferens to propel sperm towards the urethra",
+      "Activating acrosome reaction in spermatozoa through calcium influx mediated by oxytocin receptors"
+    ],
+    "answer": "B"
   },
   {
     "id": 41,
     "type": "fitb",
-    "stem": "Pituitary necrosis occurring due to excessive bleeding after birth is known as ____________ Syndrome.",
-    "answer": "Sheehan's",
+    "stem": "ADH is produced by the SON paired supraoptic nuclei (approximately ____________%) and the paired paraventricular nuclei (____________%).",
+    "answer": "80; 20",
     "acceptableAnswers": [
-      "Sheehan's",
-      "Sheehan",
-      "Sheehan syndrome"
+      "80; 20",
+      "eighty; twenty"
     ]
   },
   {
     "id": 42,
     "type": "fitb",
-    "stem": "Achondroplasia is an autosomal ____________ disorder characterised by short ____________ and normal trunks, caused by a mutation in the gene encoding ____________ growth factor receptor.",
-    "answer": "dominant; limbs; fibroblast",
+    "stem": "The secretory granules transported via axoplasmic flow in the posterior pituitary are called ____________ bodies, and the supporting cells alongside which unmyelinated axons terminate are called ____________.",
+    "answer": "Herring; pituicytes",
     "acceptableAnswers": [
-      "dominant; limbs; fibroblast",
-      "dominant; limbs; fibroblast growth factor"
+      "Herring; pituicytes",
+      "herring; pituicytes"
     ]
   },
   {
     "id": 43,
     "type": "fitb",
-    "stem": "In panhypopituitarism, fasting hypoglycaemia is explained by the absence of ____________, ____________, and ____________ hormones.",
-    "answer": "GH; steroids; thyroid",
+    "stem": "AVP acts via V2 receptors to increase intracellular ____________ and subsequently activate protein kinases that phosphorylate cytoplasmic ____________, mobilising them to the cell membrane's luminal side.",
+    "answer": "cAMP; aquaporins",
     "acceptableAnswers": [
-      "GH; steroids; thyroid",
-      "growth hormone; glucocorticoids; thyroid hormones",
-      "GH; cortisol; T3/T4"
+      "cAMP; aquaporins",
+      "cyclic AMP; aquaporins",
+      "cAMP; aquaporin-2"
     ]
   },
   {
     "id": 44,
     "type": "fitb",
-    "stem": "Gigantism results from over-secretion of GH in ____________, causing ____________ and uniform growth associated with long arms and legs and excessive height.",
-    "answer": "childhood; generalised",
+    "stem": "The V1A receptor of AVP is mainly concerned with the ____________ effect of AVP, while the V1B receptor may act to increase ____________ secretion from the anterior pituitary.",
+    "answer": "vasoconstrictor; ACTH",
     "acceptableAnswers": [
-      "childhood; generalised",
-      "childhood; generalized",
-      "childhood; diffuse"
+      "vasoconstrictor; ACTH",
+      "vasopressor; ACTH",
+      "vasoconstrictor; adrenocorticotrophic hormone"
     ]
   },
   {
     "id": 45,
     "type": "fitb",
-    "stem": "In Environmental Dwarfism, children have extremely low levels of ____________ hormone that revert to ____________ when removed from the stress-filled environment.",
-    "answer": "growth; normal",
+    "stem": "Plasma osmolarity is a very sensitive stimulus that responds with only ____________% change, leading to stimulation of osmoreceptors located in the ____________ hypothalamus.",
+    "answer": "1-2; anterior",
     "acceptableAnswers": [
-      "growth; normal",
-      "GH; normal",
-      "growth hormone; normal"
+      "1-2; anterior",
+      "1 to 2; anterior",
+      "1â2; anterior"
     ]
   },
   {
     "id": 46,
     "type": "fitb",
-    "stem": "Turner's Syndrome is associated with the ____________ karyotype and presents with sexual ____________.",
-    "answer": "45 XO; infantilism",
+    "stem": "In SIADH, the high volume of ECF inhibits ____________ production, leading to additional ____________ loss and consequent urine volume increase.",
+    "answer": "aldosterone; salt",
     "acceptableAnswers": [
-      "45 XO; infantilism",
-      "45,XO; infantilism",
-      "45X; sexual infantilism"
+      "aldosterone; salt",
+      "aldosterone; sodium",
+      "aldosterone; Na+"
     ]
   },
   {
     "id": 47,
     "type": "fitb",
-    "stem": "Prolactin-secreting micro or macroadenomas produce excess prolactin leading to galactorrhoea, ____________, infertility in females, and erectile dysfunction in males. Treatment is initiated with ____________ agonists.",
-    "answer": "amenorrhoea; dopamine",
+    "stem": "In Diabetes Insipidus, the daily urine output varies from ____________ to ____________ litres, and the treatment uses a synthetic peptide called ____________, which has an action similar to ADH.",
+    "answer": "5; 15; desmopressin",
     "acceptableAnswers": [
-      "amenorrhoea; dopamine",
-      "amenorrhea; dopamine",
-      "amenorrhea; dopaminergic"
+      "5; 15; desmopressin",
+      "5; 15; DDAVP"
     ]
   },
   {
     "id": 48,
     "type": "fitb",
-    "stem": "In Marfan syndrome, the arm span ____________ the height, and pituitary hormones are ____________.",
-    "answer": "exceeds; normal",
+    "stem": "Alcohol inhibits ADH secretion by blocking ____________-induced exocytosis, and this may be one possible mechanism of ____________-induced diuresis.",
+    "answer": "calcium; alcohol",
     "acceptableAnswers": [
-      "exceeds; normal",
-      "is greater than; normal",
-      "exceeds; within normal limits"
+      "calcium; alcohol",
+      "calcium-induced; alcohol",
+      "calcium; alcoholic"
     ]
   },
   {
     "id": 49,
     "type": "fitb",
-    "stem": "In Constitutional Tall Stature, the condition is usually ____________, and there are no adverse consequences of ____________ and development.",
-    "answer": "familial; birth",
+    "stem": "Oxytocin-induced uterine contraction is enhanced by ____________ and inhibited by ____________, by affecting the number of oxytocin receptors as pregnancy progresses.",
+    "answer": "oestrogen; progesterone",
     "acceptableAnswers": [
-      "familial; birth",
-      "hereditary; birth",
-      "familial; birth and development"
+      "oestrogen; progesterone",
+      "estrogen; progesterone",
+      "oestrogens; progesterone"
     ]
   },
   {
     "id": 50,
     "type": "fitb",
-    "stem": "Cretinism causes short stature due to ____________, and affected children are mentally retarded with pot bellies and ____________.",
-    "answer": "hypothyroidism; macroglossia",
+    "stem": "The milk ejection reflex is a ____________ reflex; afferent impulses travel via somatic afferent touch pathways to the ____________ and SON, leading to oxytocin release.",
+    "answer": "neuroendocrine; PVN",
     "acceptableAnswers": [
-      "hypothyroidism; macroglossia",
-      "postnatal hypothyroidism; macroglossia",
-      "hypothyroidism; enlarged tongue"
+      "neuroendocrine; PVN",
+      "neuroendocrine; paraventricular nuclei"
     ]
   },
   {
     "id": 51,
-    "type": "mcq",
-    "stem": "A nurse caring for a patient with a known pituitary macroadenoma should monitor for which neurological complication arising from tumour expansion beyond the sella turcica?",
-    "options": [
-      "Anosmia from compression of the olfactory bulb running anterior to the pituitary",
-      "Headaches from pressure on the sella turcica, and impaired gonadotropin secretion from hypothalamic compression",
-      "Sensorineural hearing loss from compression of CN VIII within the temporal bone"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "Oxytocin is used therapeutically to ____________ labour, prevent excessive ____________ after delivery, and sometimes to induce ____________.",
+    "answer": "augment; bleeding; abortion",
+    "acceptableAnswers": [
+      "augment; bleeding; abortion",
+      "induce/augment; bleeding; abortion"
+    ]
   },
   {
     "id": 52,
-    "type": "mcq",
-    "stem": "Which of the following conditions represents a cause of short stature that is NOT directly related to GH deficiency or insensitivity?",
-    "options": [
-      "Laron Dwarfism â unresponsive GH receptors despite normal or elevated GH",
-      "Precocious Puberty â oestrogen-induced early epiphyseal closure resulting in adult short stature",
-      "Environmental Dwarfism â anomalous GHIH secretion suppressing GH production under stress"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "ADH has a half-life of approximately ____________ minutes and is rapidly inactivated in the ____________ and kidneys.",
+    "answer": "10-20; liver",
+    "acceptableAnswers": [
+      "10-20; liver",
+      "10 to 20; liver",
+      "10â20; liver"
+    ]
   },
   {
     "id": 53,
-    "type": "mcq",
-    "stem": "In the management of acromegaly, which class of drugs is mentioned as potentially ameliorating the situation of hyperprolactinaemia alongside surgical and radiotherapy options?",
-    "options": [
-      "Somatostatin analogues such as octreotide reducing GH pulsatility",
-      "Dopamine agonists such as bromocriptine, cabergoline, and pergolide",
-      "GnRH analogues reducing gonadotropin stimulation of the pituitary"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "The classical AVP-responsive water channel is ____________-2. AVP acts on the distal tubule and collecting duct via ____________ receptors to increase water absorption.",
+    "answer": "aquaporin; V2",
+    "acceptableAnswers": [
+      "aquaporin; V2",
+      "AQP; V2"
+    ]
   },
   {
     "id": 54,
-    "type": "mcq",
-    "stem": "Which of the following disorders is MOST likely to be confused with Pituitary Gigantism, yet is distinguished by the fact that pituitary hormones remain entirely normal?",
-    "options": [
-      "Marfan Syndrome â autosomal dominant with long limbs and cardiac anomalies",
-      "Sotos Syndrome (Cerebral Gigantism) â childhood rapid growth with normal pituitary hormones",
-      "Constitutional Tall Stature â familial tendency with no endocrine abnormality"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "In SIADH, management includes fluid ____________, removal of the ____________ if present, and the antibiotic ____________ which reduces the renal response to ADH.",
+    "answer": "restriction; tumour; demeclocycline",
+    "acceptableAnswers": [
+      "restriction; tumour; demeclocycline",
+      "restriction; tumor; demeclocycline"
+    ]
   },
   {
     "id": 55,
-    "type": "mcq",
-    "stem": "A patient with a GH-secreting pituitary adenoma is found to have colon polyps on colonoscopy. What is the pathophysiological link between GH excess and colorectal pathology?",
-    "options": [
-      "GH directly induces mucosal dysplasia through upregulation of proto-oncogenes in colonic epithelium",
-      "Acromegaly is associated with increased likelihood of developing certain tumours, particularly affecting the large intestine",
-      "IGF-1 suppresses apoptosis in intestinal mucosal cells, directly causing polyp formation in the sigmoid colon"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "Oxytocin appears to be involved in ____________ (degeneration of the corpus luteum), and also acts on the non-pregnant uterus to facilitate ____________ transport.",
+    "answer": "luteolysis; sperm",
+    "acceptableAnswers": [
+      "luteolysis; sperm",
+      "luteal regression; sperm"
+    ]
   },
   {
     "id": 56,
-    "type": "mcq",
-    "stem": "Which of the following BEST describes why patients with Constitutional Dwarfism are initially mistaken for having pathological short stature?",
-    "options": [
-      "Their GH levels are intermittently low, mimicking GH deficiency on provocative testing",
-      "They grow at a normal rate when young but lag and do not start pubertal development and growth spurt until after most peers",
-      "Their bone age is significantly advanced compared to chronological age, suggesting premature epiphyseal closure"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "The precursor molecules of posterior pituitary hormones are synthesised in ____________, bound to specific neurophysins to form pre-pro-pressophysin (neurophysin ____________) for ADH and pre-pro-oxyphysin (neurophysin ____________) for oxytocin.",
+    "answer": "ribosomes; II; I",
+    "acceptableAnswers": [
+      "ribosomes; II; I",
+      "ribosomes; 2; 1"
+    ]
   },
   {
     "id": 57,
     "type": "mcq",
-    "stem": "A 32-year-old woman with acromegaly develops impaired fasting glucose. Which mechanism BEST explains this metabolic complication?",
+    "stem": "Which of the following pairs of stimuli act SYNERGISTICALLY to invoke the appropriate ADH response in most cases of dehydration?",
     "options": [
-      "GH excess stimulates pancreatic beta cell apoptosis causing absolute insulin deficiency",
-      "GH has anti-insulin effects; its chronic excess increases the likelihood of developing diabetes mellitus",
-      "IGF-1 hyperstimulates gluconeogenesis in the liver independently of cortisol or insulin levels"
+      "Angiotensin II and cortisol â together triggering hypothalamic osmoreceptors and baroreceptors simultaneously",
+      "Plasma osmolarity and ECF volume â acting synergistically because in dehydration, more water is lost than solute, causing hypovolaemia to co-occur with hyperosmolar ECF",
+      "Aldosterone and renin â together signalling both renal sodium retention and hypothalamic ADH secretion"
     ],
     "answer": "B"
   },
   {
     "id": 58,
     "type": "mcq",
-    "stem": "In Sheehan's Syndrome, which of the following statements is MOST accurate regarding the posterior pituitary?",
+    "stem": "The posterior pituitary acts as a storage tank. This means that hormone synthesis occurs in which structure, and merely storage occurs in the neurohypophysis?",
     "options": [
-      "The posterior pituitary is always affected, leading to permanent diabetes insipidus in all cases",
-      "Complete posterior pituitary necrosis rarely occurs; panhypopituitarism usually involves the anterior pituitary",
-      "Posterior pituitary necrosis is the primary event, explaining the amenorrhea and lactation failure"
+      "Synthesis occurs in the anterior pituitary adenohypophysis and is transferred via portal blood to the posterior pituitary",
+      "Synthesis occurs in the cell bodies of magnocellular neurons in the supraoptic and paraventricular nuclei of the hypothalamus",
+      "Synthesis occurs in pituicytes of the posterior pituitary and is transported retrogradely to the hypothalamus for storage"
     ],
     "answer": "B"
   },
   {
     "id": 59,
     "type": "mcq",
-    "stem": "A child is brought in with short stature and is found to have vitamin D-resistant rickets. Which mechanism underpins the growth failure in this condition?",
+    "stem": "Which of the following is specifically described as a CHRONIC LUNG DISORDER cause of SIADH?",
     "options": [
-      "Vitamin D deficiency reduces GH receptor expression in hepatocytes, lowering IGF-1 synthesis",
-      "Abnormalities in vitamin D metabolism lead to all forms of skeletal malformation associated with stunted growth",
-      "Secondary hyperparathyroidism from vitamin D deficiency increases bone resorption, causing cortical thinning"
+      "Pulmonary oedema from heart failure increasing atrial natriuretic peptide and suppressing ADH",
+      "Lung cancer, pneumonia, tuberculosis, and lung abscess",
+      "Pulmonary embolism reducing venous return and triggering low-pressure baroreceptor-mediated ADH release"
     ],
     "answer": "B"
   },
   {
     "id": 60,
     "type": "mcq",
-    "stem": "Which statement MOST accurately describes the relationship between height velocity and bone age in a child with Sexual Precocity?",
+    "stem": "A nurse is educating a breastfeeding mother about factors that may suppress milk ejection. Which of the following is cited in the text as potentially suppressive?",
     "options": [
-      "Height velocity is reduced as elevated oestrogens suppress GH pulsatility during the early years",
-      "Height velocity is initially increased as early gonadal hormones stimulate skeletal growth, but bone age advances rapidly, eventually causing short adult stature",
-      "Height velocity is normal but bone age is delayed, leading to a prolonged growth window and tall adult stature"
+      "Emotional changes such as anxiety and the intake of alcohol, which may suppress lactation in the early puerperium",
+      "Excessive fluid intake reducing plasma oxytocin concentration through dilution",
+      "Progesterone supplementation suppressing myoepithelial oxytocin receptor sensitivity in the postpartum period"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 61,
     "type": "mcq",
-    "stem": "A patient with generalised pituitary insufficiency demonstrates a tendency towards fasting hypoglycaemia. The nurse understands this occurs because hypopituitarism results in absence of which hormones that normally counter low blood glucose?",
+    "stem": "The action of AVP on the brain at the area postrema results in decreased cardiac output. This is classified under which category of AVP effects?",
     "options": [
-      "ADH and oxytocin, which normally stimulate hepatic gluconeogenesis via V1 receptors",
-      "GH, steroids (glucocorticoids), and thyroid hormones â absence of which results in impaired counter-regulation",
-      "Glucagon and adrenaline, which are both regulated by anterior pituitary tropic hormones"
+      "Major physiological effects â ranking alongside renal water reabsorption as primary cardiovascular control",
+      "Minor effects of AVP â alongside glycogenolysis and ACTH secretion, whose clinical significance is not always well understood",
+      "Secondary effects â occurring only when AVP is secreted in supraphysiological concentrations during critical illness"
     ],
     "answer": "B"
   },
   {
     "id": 62,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A 55-year-old woman presents with headache, visual field changes, hypertension, and a jaw that her dentist notes has become progressively larger. Her wedding ring no longer fits. She was diagnosed with Acromegaly 2 years ago but defaulted from follow-up. Which assessment finding would MOST concern the nurse at this visit?",
+    "stem": "CASE SCENARIO: A 19-year-old woman with anorexia nervosa is admitted with severe vomiting and diarrhoea over 5 days. She is hypotensive with a HR of 118 bpm. Which receptors are activated to stimulate ADH secretion in this clinical context?",
     "options": [
-      "Peripheral oedema suggesting hypoalbuminemia from hepatic involvement",
-      "Signs of heart failure from organomegaly and hypertension, given acromegaly's association with cardiac enlargement and heart failure",
-      "Signs of hypocalcaemia from GH-induced suppression of parathyroid function"
+      "High-pressure arterial baroreceptors in the carotid sinus detecting reduced cardiac output and increasing ADH via vagus nerve",
+      "Low-pressure volume receptors in the atria and pulmonary veins detecting reduced ECF volume from bleeding, diarrhoea, and vomiting, stimulating ADH secretion",
+      "Osmoreceptors in the posterior hypothalamus detecting hypernatraemia and directly triggering posterior pituitary ADH release"
     ],
     "answer": "B"
   },
   {
     "id": 63,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A newborn female is noted to have widely spaced nipples, a webbed neck, and low-set ears. On chromosome analysis, the result is 45,XO. At puberty, the patient remains short and shows no signs of secondary sexual development. Which endocrine mechanism best explains her short stature and sexual infantilism?",
+    "stem": "CASE SCENARIO: A nurse observes that a patient undergoing abdominal surgery under general anaesthesia is given IV fluids but produces minimal urine postoperatively despite adequate hydration. Which intraoperative factors most likely explain elevated ADH contributing to this oliguria?",
     "options": [
-      "GH deficiency from pituitary aplasia secondary to chromosomal aberration",
-      "Gonadal dysgenesis resulting in oestrogen deficiency, which prevents epiphyseal contribution to growth and pubertal development",
-      "GH receptor mutation co-inherited with the chromosomal deletion causing dual growth failure"
+      "Hypothermia from the operating theatre reducing renal blood flow and glomerular filtration rate independently of ADH",
+      "Pain, nausea, surgical stress, and anaesthetic agents â all of which increase vasopressin secretion, reducing urine output",
+      "Positive pressure ventilation reducing venous return, triggering RAAS activation and aldosterone-mediated sodium retention"
     ],
     "answer": "B"
   },
   {
     "id": 64,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A child presenting with short stature undergoes overnight GH stimulation testing. His GH levels are elevated, yet IGF-1 is markedly low. His parents are both of average height and the child has no dysmorphic features. Which diagnosis should the nurse anticipate?",
+    "stem": "CASE SCENARIO: A woman at 36 weeks gestation is admitted with preterm labour. The obstetric team considers tocolysis. The nurse understands that the myometrial sensitivity to oxytocin at this gestational age is LOWER than at term because:",
     "options": [
-      "Constitutional dwarfism with a delayed but intact GH-IGF-1 axis",
-      "Laron Dwarfism â where GH receptors are unresponsive, resulting in high GH but low IGF-1",
-      "Cretinism where hypothyroidism reduces hepatic IGF-1 synthesis despite normal GH signalling"
+      "Foetal oxytocin production has not yet peaked at 36 weeks, reducing maternal plasma oxytocin levels",
+      "Progesterone at 36 weeks is still relatively high, inhibiting uterine contraction by reducing the number of oxytocin receptors",
+      "Oestrogen levels are insufficient at 36 weeks to upregulate myometrial oxytocin receptor expression to term levels"
     ],
     "answer": "B"
   },
   {
     "id": 65,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A 17-year-old boy has been followed for McCune-Albright Syndrome. He developed precocious puberty at age 4. Now at 17, his height is at the 10th percentile despite being at the 95th percentile at age 6. The nurse attributes this paradox to:",
+    "stem": "CASE SCENARIO: A patient with porphyria develops hyponatraemia, concentrated urine, and confusion. Which diagnosis does the nurse suspect, and what is listed as its cause in this context?",
     "options": [
-      "Adrenal androgen excess directly suppressing GH secretion after age 10",
-      "Oestrogen-induced early epiphyseal closure, which paradoxically leads to short adult stature despite initial tall stature",
-      "Autonomous pituitary GH hypersecretion causing acromegalic changes that shorten vertebral height"
+      "Diabetes Insipidus â porphyria causing direct destruction of ADH-producing neurons in the SON",
+      "SIADH â porphyria listed under metabolic disorders as a cause of inappropriate ADH hypersecretion",
+      "Cerebral salt wasting â porphyria-induced autonomic dysfunction causing renal Na+ wasting with volume depletion"
     ],
     "answer": "B"
   },
   {
     "id": 66,
     "type": "fitb",
-    "stem": "CASE SCENARIO (Fill-in): A 38-year-old woman presents to clinic with increasingly large shoe size, jaw enlargement, and a new diagnosis of sleep apnoea. Her GH level is elevated. The condition occurring between 30 and 50 years where bones become ____________ rather than ____________ due to excess GH after epiphyseal closure is called ____________.",
-    "answer": "deformed; elongated; Acromegaly",
+    "stem": "CASE SCENARIO (Fill-in): A patient with meningitis develops hyponatraemia and concentrated urine. This occurs due to SIADH, caused by brain disorders including ____________, which stimulate ____________ production of ADH leading to water retention.",
+    "answer": "cerebral tumours/meningitis/encephalitis; excessive",
     "acceptableAnswers": [
-      "deformed; elongated; Acromegaly",
-      "deformed; lengthened; Acromegaly",
-      "deformed; elongated; acromegaly"
+      "cerebral tumours/meningitis/encephalitis; excessive",
+      "meningitis; excessive",
+      "brain disorders including meningitis and encephalitis; excessive"
     ]
   },
   {
     "id": 67,
     "type": "fitb",
-    "stem": "CASE SCENARIO (Fill-in): A postpartum woman who experienced massive obstetric haemorrhage now presents with failure of lactation and amenorrhea. This condition is caused by pituitary ____________ due to excessive ____________ and is known as ____________ Syndrome.",
-    "answer": "necrosis; bleeding; Sheehan's",
+    "stem": "CASE SCENARIO (Fill-in): A patient post-head injury produces 14 litres of dilute urine daily. This is because the absence of ____________ makes it impossible for the ____________ convoluted tubule and the collecting duct to reabsorb water, a condition called Diabetes ____________.",
+    "answer": "ADH; distal; Insipidus",
     "acceptableAnswers": [
-      "necrosis; bleeding; Sheehan's",
-      "necrosis; haemorrhage; Sheehan's",
-      "necrosis; blood loss; Sheehan's"
+      "ADH; distal; Insipidus",
+      "antidiuretic hormone; distal; Insipidus",
+      "ADH; distal; insipidus"
     ]
   },
   {
     "id": 68,
     "type": "fitb",
-    "stem": "CASE SCENARIO (Fill-in): A nurse assesses a child with short stature who grew normally in earlier years but has not yet entered puberty while peers have. Both parents are short. This presentation, with the ____________ of an organic or psychological disorder, is classified as Constitutional (____________) Dwarfism.",
-    "answer": "absence; familial",
+    "stem": "CASE SCENARIO (Fill-in): A breastfeeding mother notices milk letdown when she hears her baby cry. This is because emotional stimuli activate ____________ release from the ____________ pituitary, causing contraction of ____________ cells of the breast.",
+    "answer": "oxytocin; posterior; myoepithelial",
     "acceptableAnswers": [
-      "absence; familial",
-      "lack; familial",
-      "absence; familial/idiopathic"
+      "oxytocin; posterior; myoepithelial",
+      "oxytocin; posterior pituitary; myoepithelial"
     ]
   },
   {
     "id": 69,
     "type": "fitb",
-    "stem": "CASE SCENARIO (Fill-in): A child removed from an abusive home shows pot-belly and growth failure. His GH levels are extremely low due to anomalous secretion of ____________ and GHIH. Upon placement in a safe home, these levels revert to ____________, confirming the diagnosis of ____________ dwarfism.",
-    "answer": "GHRH; normal; environmental (psychosocial)",
+    "stem": "CASE SCENARIO (Fill-in): A labouring woman's oxytocin infusion is increased after slow progress. The nurse knows oxytocin enhances uterine contraction through a second messenger mechanism that activates the phospholipid's second messenger, increasing intracellular ____________. This contraction is enhanced by ____________ and inhibited by ____________.",
+    "answer": "calcium; oestrogen; progesterone",
     "acceptableAnswers": [
-      "GHRH; normal; environmental",
-      "GHRH; normal; psychosocial",
-      "GHRH; normal; environmental (psychosocial)"
+      "calcium; oestrogen; progesterone",
+      "calcium; estrogen; progesterone",
+      "intracellular calcium; oestrogen; progesterone"
     ]
   },
   {
     "id": 70,
     "type": "fitb",
-    "stem": "CASE SCENARIO (Fill-in): A 14-year-old boy is noted to have long limbs, an arm span that ____________ his height, long fingers, and lens dislocation. His pituitary hormones are normal. He is diagnosed with ____________ syndrome, which is an autosomal ____________ disorder with associated ____________ valvular and ophthalmic abnormalities.",
-    "answer": "exceeds; Marfan; dominant; cardiac",
+    "stem": "CASE SCENARIO (Fill-in): A patient develops hyponatraemia with serum Na+ of 120 mmol/L after taking an antipsychotic. The drug is suspected to have caused SIADH. In SIADH, increased ADH leads to reduced ____________ concentration, decreased ____________, and ultimately the high ECF volume inhibits ____________ production causing additional salt loss.",
+    "answer": "Na+; osmolarity; aldosterone",
     "acceptableAnswers": [
-      "exceeds; Marfan; dominant; cardiac",
-      "exceeds; Marfan's; dominant; cardiac",
-      "exceeds; Marfan; dominant; heart/cardiac"
+      "Na+; osmolarity; aldosterone",
+      "sodium; osmolarity; aldosterone",
+      "sodium concentration; osmolality; aldosterone"
     ]
   }
 ]
