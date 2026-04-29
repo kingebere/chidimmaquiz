@@ -2,761 +2,748 @@
   {
     "id": 1,
     "type": "mcq",
-    "stem": "ADH (Arginine Vasopressin) is produced primarily by which nuclei of the hypothalamus, and in what proportion?",
+    "stem": "Philip Pinel is historically credited with unchaining mentally ill patients. Who specifically assisted him in his reforms by classifying patients according to their degree of mental disturbance?",
     "options": [
-      "Supraoptic nuclei (80%) and paraventricular nuclei (20%)",
-      "Paraventricular nuclei (80%) and supraoptic nuclei (20%)",
-      "Supraoptic nuclei (60%) and paraventricular nuclei (40%)"
+      "Benjamin Rush, who also played a vital role in the early hospital as a physician reformer",
+      "Jean Baptiste Pussin, who played a vital role in the early hospital as Nursing Superintendent",
+      "Dorothea Dix, who campaigned for the registration of state funds to build mental hospitals"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 2,
     "type": "mcq",
-    "stem": "Oxytocin is produced mainly by which nuclei of the hypothalamus, and in what proportion?",
+    "stem": "Benjamin Rush is referred to as the 'Father of American Psychiatry.' Which of the following BEST describes his specific theoretical contribution to the understanding of mental illness?",
     "options": [
-      "Supraoptic nuclei (80%) and paraventricular nuclei (20%)",
-      "Paraventricular nuclei (80%) and supraoptic nuclei (20%)",
-      "Arcuate nuclei (70%) and paraventricular nuclei (30%)"
+      "He believed mental illness was a disease of the mind and not a 'passion of demon,' and classified mental illnesses into groups based on their social and environmental causes",
+      "He identified mental illness as being caused by disruption of the blood circulation and treated them with devices that increase blood supply to the brain, writing the first psychiatric textbooks in the United States in 1812",
+      "He established 32 state asylums and fought for the unchaining of the mentally ill, campaigning in 1775 for the state to build a separate mental ward"
     ],
     "answer": "B"
   },
   {
     "id": 3,
     "type": "mcq",
-    "stem": "The secretory granules of the posterior pituitary that are transported via axoplasmic flow and contain active hormones are specifically called:",
+    "stem": "Florence Nightingale (1820-1910) made specific contributions to psychiatric nursing reform. Which of the following MOST accurately reflects her contribution as described in the text?",
     "options": [
-      "Lamellar bodies â packaging units formed in the smooth endoplasmic reticulum",
-      "Herring bodies â storage granules in the nerve endings containing active hormones",
-      "Nissl bodies â ribosomal clusters found in the axon terminals of pituicytes"
+      "She opened 32 states Asylums and led the crusade for the unchaining of mentally ill patients in America and Europe",
+      "She fought for humane treatment of the mentally ill, encouraged Linda Richard to open Boston College in 1882, and encouraged proper patient care including better food, light, ventilation, and use of drugs to chemically restrain violent patients",
+      "She published the first psychiatric textbooks in the United States and campaigned in 1775 for building a separate mental ward for patients"
     ],
     "answer": "B"
   },
   {
     "id": 4,
     "type": "mcq",
-    "stem": "Both oxytocin and ADH are nano-peptides with a disulphide bond at one end. What is the precursor binding molecule synthesised in ribosomes to which these hormones are initially bound?",
+    "stem": "Dorothea Dix (1802-1887) is known for a specific legislative achievement in 1865. What was this achievement?",
     "options": [
-      "Pre-pro-pressophysin (neurophysin I) for ADH and pre-pro-oxyphysin (neurophysin II) for oxytocin",
-      "Pre-pro-pressophysin (neurophysin II) for ADH and pre-pro-oxyphysin (neurophysin I) for oxytocin",
-      "Pro-neurophysin I for both oxytocin and ADH as a shared precursor molecule"
+      "She campaigned in 1865 for the registration of a state fund to build and support mental hospitals, resulting in 62 public hospitals built exclusively for the care of the mentally ill in the USA",
+      "She founded the first school of psychiatric nursing in 1865 and registered 32 asylums under federal protection for the humane treatment of the mentally ill",
+      "She fought for the passage of the Mental Health Act in 1865, which mandated that all public hospitals allocate 20% of their beds to psychiatric patients"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 5,
     "type": "mcq",
-    "stem": "AVP acts on the V2 receptors located in the collecting duct and distal tubule. Which intracellular cascade is activated, leading to aquaporin-2 insertion?",
+    "stem": "Professor Thomas Adeoye Lambo was the most eminent African Psychiatrist of his generation. Which of the following specifically describes his PIONEERING clinical discovery?",
     "options": [
-      "V2 receptor activation increases intracellular cAMP via protein kinase A, phosphorylating cytoplasmic aquaporins and mobilising them to the luminal membrane",
-      "V2 receptor activation increases intracellular calcium via IP3, triggering exocytosis of aquaporin-2 vesicles to the basolateral membrane",
-      "V2 receptor activation reduces intracellular cGMP, allowing passive insertion of aquaporin-3 channels into the apical collecting duct membrane"
+      "He discovered that schizophrenic patients recover quickly, do not lack chronicity, and have good prognosis attributed to favourable social and environmental factors inherent in the African community",
+      "He established the first psychiatric hospital in Eastern Nigeria immediately after the civil war and campaigned for the training of community psychiatric nurses",
+      "He was the first to discover that affective psychoses and psycho-neurosis were more prevalent than schizophrenia among African patients in WHO pilot studies"
     ],
     "answer": "A"
   },
   {
     "id": 6,
     "type": "mcq",
-    "stem": "The V1A receptor of AVP is primarily concerned with which physiological effect?",
+    "stem": "Dr. G.E.A. Izuora made specific contributions to psychiatric nursing in Nigeria. Which of the following is MOST accurately attributed to him?",
     "options": [
-      "Fluid reabsorption from the collecting duct via aquaporin-2 mobilisation",
-      "Vasoconstrictor effect through the second messenger mechanism of increasing intracellular calcium",
-      "ACTH secretion from the anterior pituitary via the second messenger cAMP pathway"
+      "He was the first indigenous principal of school of psychiatric nursing Aro and contributed to the development of psychiatric nursing training in Nigeria",
+      "He was the first psychiatrist in Eastern Nigeria after the civil war, helped establish the psychiatric hospital in Enugu, established the psychiatric school of Nursing in Enugu in 1972, and campaigned for the training of doctors in psychiatry",
+      "He was born in Abeokuta, Ogun State and was formerly Assistant Director General of the World Health Organization (WHO)"
     ],
     "answer": "B"
   },
   {
     "id": 7,
     "type": "mcq",
-    "stem": "The V1B receptor of AVP is specifically involved in which action, distinguishing it from V1A and V2 receptor functions?",
+    "stem": "Mr. D.A. Babayode is notable in Nigerian psychiatric nursing history for which SPECIFIC distinction?",
     "options": [
-      "Water reabsorption from the medullary collecting duct through aquaporin-2 channels",
-      "Mediating ACTH secretion from the anterior pituitary",
-      "Vasoconstriction of peripheral arterioles through increased intracellular calcium"
+      "He was the first psychiatrist in Eastern Nigeria and died in 1984 after campaigning for community psychiatric nurses",
+      "He was the first indigenous principal of school of psychiatric nursing Aro and hails from Ipetimode in Osun State, contributing to the development of psychiatric nursing training in Nigeria",
+      "He was the most eminent African Psychiatrist confirmed by WHO after a pilot study in schizophrenia and was born in Abeokuta"
     ],
     "answer": "B"
   },
   {
     "id": 8,
     "type": "mcq",
-    "stem": "Plasma osmolarity is described as a 'very sensitive' stimulus for ADH release. What percentage change in plasma osmolarity is sufficient to stimulate osmoreceptor cells in the anterior hypothalamus?",
+    "stem": "During the Demonological Period, the treatment of mentally ill patients was placed in whose hands, and what measures were taken when treatment brought no improvement?",
     "options": [
-      "Only 1% change in plasma osmolarity is sufficient to trigger osmoreceptor firing and ADH release",
-      "Only a 2% change in plasma osmolarity is sufficient to respond via stimulation of osmoreceptors",
-      "A minimum 5% change in plasma osmolarity is needed before osmoreceptor cells initiate ADH secretion"
+      "Treatment was administered by physicians who used bleeding, purging, and mechanical restraints; when these failed, the patient was transferred to asylums",
+      "Treatment was in the hands of the priest who had the power to perform exorcism; if treatment brought no improvement, extreme measures were taken including punishing by flogging, burning, and even stoning them to death",
+      "Treatment was administered by temple physicians who recommended occupational therapy, music, and wine; failure led to institutionalisation in dedicated Greek and Roman temples"
     ],
     "answer": "B"
   },
   {
     "id": 9,
     "type": "mcq",
-    "stem": "An increase in ECF volume detected by high-pressure arterial baroreceptors in the carotid sinus and aortic arch results in which sequence of events regarding ADH?",
+    "stem": "Hippocrates (460-377 BC) made a foundational contribution to understanding mental disorders. Which statement BEST reflects his view that distinguished him from the Demonological era?",
     "options": [
-      "Afferent impulses carried via glossopharyngeal and vagus nerves to the medulla decrease ADH production via SON and PVN",
-      "Afferent impulses carried via glossopharyngeal and vagus nerves to the medulla increase ADH production via SON and PVN",
-      "Afferent impulses carried via sympathetic fibres directly suppress pituicyte secretion in the posterior pituitary"
+      "Hippocrates agreed that mental illness was caused by evil spirits but argued that physicians rather than priests should perform the exorcism",
+      "Hippocrates rejected the idea of demonology and maintained that mental disorders were the result of a disturbance in the balance of body fluid and brain",
+      "Hippocrates introduced the concept of the unconscious mind and argued that mental illness was caused by fear of the future or past"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 10,
     "type": "mcq",
-    "stem": "Low-pressure volume receptors in the walls of the atria and pulmonary veins stimulate ADH secretion under which specific condition?",
+    "stem": "Asclepiades (124 BC) is described as a pioneer in humane treatment. Which TWO specific observations did he make that guided his treatment approach?",
     "options": [
-      "When ECF volume increases, stretching the atrial walls and triggering ADH to prevent further volume expansion",
-      "When there is a reduction in ECF volume, such as bleeding, diarrhoea, or vomiting, stimulating ADH secretion",
-      "When plasma oncotic pressure rises, indicating relative dehydration, triggering ADH to preserve plasma volume"
+      "He observed that frenzy patients have hallucinations while maniacs have delusions; he recommended occupational therapy, music, and wine and discouraged keeping patients in the dark",
+      "He observed that frenzy patients have delusions while maniacs have hallucinations; he recommended light therapy and physical exercise and discouraged the use of mechanical restraints",
+      "He observed that manic patients respond to bleeding and purging while frenzy patients respond to isolation; he recommended separating them for individualised treatment"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 11,
     "type": "mcq",
-    "stem": "A patient receives a large infusion of hypotonic fluid postoperatively, diluting the ECF. What is the expected effect on ADH secretion according to the synergistic action of plasma osmolarity and ECF volume?",
+    "stem": "During the Political Period, how were mentally ill patients used by the public, and what characterised their treatment in institutions?",
     "options": [
-      "ADH secretion increases because ECF volume is now reduced and osmostats signal dehydration",
-      "ADH production is inhibited because dilution of ECF reduces osmolarity, and consequent ADH inhibition reduces water reabsorption from kidneys",
-      "ADH secretion remains unchanged because plasma osmolarity and ECF volume changes cancel each other out"
+      "The mentally ill were chained in asylums and displayed to the public for entertainment like animals in a zoo; treatment was very crude including flogging, bleeding, and cold baths",
+      "The mentally ill were placed in workhouses and used as cheap labour; they were branded as criminals and treated by early magistrates through the court system",
+      "The mentally ill were isolated in church-run monasteries and treated with prayer and fasting; those who failed to recover were publicly executed"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 12,
     "type": "mcq",
-    "stem": "Alcohol decreases ADH secretion through which specific mechanism?",
+    "stem": "Linda Richard's MOST significant contribution to psychiatric nursing history in America was:",
     "options": [
-      "Alcohol directly damages osmoreceptor cells in the SON, permanently impairing ADH response to osmolarity changes",
-      "Alcohol inhibits ADH secretion by blocking calcium-induced exocytosis from nerve endings in the posterior pituitary",
-      "Alcohol stimulates dopamine release in the hypothalamus, which acts on D2 receptors to suppress ADH gene transcription"
+      "She was the first American psychiatric nurse who graduated in 1873, developed better nursing care in psychiatric hospitals, and fought for the state to build and support mental hospitals",
+      "She opened Boston College in 1882 and was trained as the first Psychiatric Nurse in the 1840s, and she is known as the 'mother of psychiatric nursing'",
+      "She opened Boston College in 1882 where progressive nursing was taught and is credited as the first Psychiatric Nurse in the 1840s"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 13,
     "type": "mcq",
-    "stem": "In SIADH, increased ADH production leads to which sequence of electrolyte and volume changes?",
+    "stem": "The Humanitarian Period is marked by which pivotal event involving Philip Pinel and the first Parish Physician?",
     "options": [
-      "Increased water reabsorption â increased ECF volume â reduced Na+ concentration â decreased osmolarity â inhibition of aldosterone â additional Na+ loss â urine volume reduces",
-      "Increased water reabsorption â decreased ECF volume â reduced Na+ concentration â increased osmolarity â stimulation of aldosterone â Na+ retention â urine volume increases",
-      "Increased water reabsorption â unchanged ECF volume â reduced Na+ concentration â increased ADH â osmolarity maintained via compensatory mechanisms"
+      "Philip Pinel was the first parish physician to order the release from chain of lunatics in Bicetre Hospital in France, and he was the first to treat insanity not as a crime but also with kindness",
+      "Philip Pinel was the first physician to introduce the concept of moral treatment and built the first dedicated institution for the mentally ill in Paris in 1791",
+      "Philip Pinel collaborated with Jean Baptiste Pussin to establish the first school of psychiatric nursing in France, marking the beginning of the humanitarian era"
     ],
     "answer": "A"
   },
   {
     "id": 14,
     "type": "mcq",
-    "stem": "A patient with SIADH is being managed. The nurse correctly identifies which drug as an antibiotic that reduces the renal response to ADH and has been used successfully in SIADH management?",
+    "stem": "Sigmund Freud's contribution during the Scientific Period fundamentally changed the understanding of mental illness. Which of the following MOST accurately describes his contribution?",
     "options": [
-      "Chlorpropamide â a sulphonylurea that potentiates ADH action at the collecting duct V2 receptor",
-      "Demeclocycline â an antibiotic that reduces the renal response to ADH",
-      "Bromocriptine â a dopamine agonist that suppresses ADH release from the posterior pituitary"
+      "Freud believed mental illness was a malfunction of the unconscious mind unknown to the patient; his work led to understanding mental illness as a modifiable abnormal behaviour",
+      "Freud introduced insulin coma therapy in 1930 and electroconvulsive therapy as successful biological treatments for mental illness in the early 20th century",
+      "Freud developed the first tranquillising drug named largactil (chlorpromazine) in the 1950s and laid the foundation for psychopharmacology in psychiatric treatment"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 15,
     "type": "mcq",
-    "stem": "Which of the following is listed as a METABOLIC DISORDER cause of SIADH?",
+    "stem": "Psychiatric Nursing is defined in the text as a branch of nursing concerned with the prevention, care, and cure of mental disorders. Which THREE specific functions does Psychiatric Nursing perform for nurses?",
     "options": [
-      "Lung cancer and tuberculosis causing ectopic ADH secretion from pulmonary neoplastic cells",
-      "Porphyria and alcohol withdrawal",
-      "Cerebral tumours and meningitis causing increased intracranial pressure stimulating ADH release"
+      "It makes a nurse aware of what she is doing psychologically to a patient; it educates her on how to observe her patient; it equips her with appropriate techniques to meet the patient's psychological needs and manage the nurse-patient relationship",
+      "It trains the nurse to diagnose mental illness; it provides pharmacological knowledge for psychiatric medication; it develops her ability to perform psychotherapy independently",
+      "It teaches the nurse demonological theories of mental illness; it prepares her to manage physical restraint; it ensures she can classify mental illness according to the ICD-10 criteria"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 16,
     "type": "mcq",
-    "stem": "In Diabetes Insipidus (DI), the absence of ADH makes it impossible for which specific structures to reabsorb water?",
+    "stem": "Thomas Adeoye Lambo O.D.E. was born on March 29th, 1923. He was formerly the Assistant Director General of which international body, and his findings on schizophrenia were confirmed by that same body?",
     "options": [
-      "The proximal convoluted tubule and loop of Henle, resulting in loss of the osmotic gradient",
-      "The distal convoluted tubule and collecting duct, resulting in excretion of large amounts of dilute urine",
-      "The glomerulus and Bowman's capsule, reducing the filtration threshold for water molecules"
+      "He was formerly Assistant Director General of UNICEF, and his findings were confirmed by the United Nations Commission on Human Rights after a pilot study",
+      "He was formerly Assistant Director General of the World Health Organization (WHO), and his findings on schizophrenic patients' recovery and prognosis were confirmed by WHO after a pilot study in schizophrenia",
+      "He was formerly Assistant Director General of the African Union Health Commission, and his findings were confirmed by WHO after a multinational African psychiatric survey"
     ],
     "answer": "B"
   },
   {
     "id": 17,
     "type": "mcq",
-    "stem": "The treatment of Diabetes Insipidus specifically uses desmopressin, described in the text as a synthetic peptide with which property?",
+    "stem": "The text states that the history of psychiatric nursing is as old as the human race. In early Christian times, what was mental illness considered to be?",
     "options": [
-      "A synthetic peptide that acts similarly to aldosterone but with longer half-life and renal specificity",
-      "A synthetic peptide that has an action similar to that of ADH, used as replacement therapy",
-      "A synthetic peptide that stimulates endogenous ADH production via V1B receptor agonism"
+      "Mental illness was considered a physical disease caused by disturbance in body fluids as described by Hippocrates and adopted by Christian physicians",
+      "Mental illness was considered to be the result of possession by demons or evil spirits, as reflected in biblical examples including Nebuchadnezzar and Saul",
+      "Mental illness was considered a divine punishment for personal sin, and treatment involved prayer and priestly intercession in dedicated religious institutions"
     ],
     "answer": "B"
   },
   {
     "id": 18,
     "type": "mcq",
-    "stem": "During dehydration, which condition triggers SECONDARY stimulation of thirst alongside ADH release?",
+    "stem": "During the Political Period, the Bethlem Royal Hospital (Bedlam) in London is referenced. Which statement correctly describes its role during this era?",
     "options": [
-      "Reduced plasma oncotic pressure detected by hepatic osmoreceptors activating the thirst centre",
-      "Receptors respond to thirst being secondarily stimulated, leading to intake of excess water â a condition called polydipsia",
-      "Increased angiotensin II detected by circumventricular organs directly suppresses ADH and activates thirst centres"
+      "Bethlem Hospital was among the 403 institutions built during Edward II's reign, admitting patients who were treated humanely with occupational therapy",
+      "Men and women were admitted to Bethlem Hospital in London where treatment was very crude; visitors were allowed to see the inmates â similar to viewing zoo animals",
+      "Bethlem Hospital was the first institution to adopt non-restraint treatment under the influence of Pinel's humanitarian reforms during the 15th century"
     ],
     "answer": "B"
   },
   {
     "id": 19,
     "type": "mcq",
-    "stem": "AVP can stimulate glycogenolysis through which minor effect, and where does this occur?",
+    "stem": "Chlorpromazine (Largactil) was introduced in the 1950s as the first tranquillising drug. What specific property distinguished it from earlier pharmacological agents such as bromide and barbiturates?",
     "options": [
-      "AVP stimulates glycogenolysis in the liver via V1A receptors; clinical significance is not well understood",
-      "AVP stimulates glycogenolysis in skeletal muscle via V2 receptors, contributing to post-exercise glucose availability",
-      "AVP stimulates glycogenolysis in the kidney via V1B receptors, providing local energy during antidiuresis"
+      "Chlorpromazine induced deep sedation similar to barbiturates but with the added property of reversing psychotic symptoms through dopamine receptor blockade",
+      "Chlorpromazine was the first tranquillising drug that could calm the patient without making him unconscious, unlike earlier sedatives and stimulants",
+      "Chlorpromazine replaced insulin coma therapy as the preferred biological treatment for schizophrenia due to its lower mortality rate and ease of administration"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 20,
     "type": "mcq",
-    "stem": "AVP acts on the brain (area postrema) through which minor effect?",
+    "stem": "The Scientific Period introduced insulin coma therapy. When was it first used, and what did it involve?",
     "options": [
-      "AVP decreases cardiac output via V1A receptors in the brainstem, reducing baroreceptor firing",
-      "AVP acts on the brain (area postrema) to decrease cardiac output as a minor cardiovascular effect",
-      "AVP stimulates the area postrema to trigger the vomiting reflex, explaining nausea in states of dehydration"
+      "Insulin coma therapy was first used in the early 1920s; large amounts of insulin were given to patients to produce ketoacidosis and a prolonged hypoglycaemic state",
+      "Insulin coma therapy was first used in the early 1930s; large amounts of insulin were given to patients to produce unconsciousness as a treatment for mental illness",
+      "Insulin coma therapy was first used in the late 1940s; small amounts of insulin were given to produce controlled hypoglycaemia, stimulating appetite and cognitive recovery"
     ],
     "answer": "B"
   },
   {
     "id": 21,
     "type": "mcq",
-    "stem": "Which of the following factors INCREASES AVP secretion?",
+    "stem": "Benjamin Rush campaigned in 1775 for which specific institutional change in the management of the mentally ill?",
     "options": [
-      "Alcohol consumption, which potentiates osmoreceptor sensitivity via endorphin release",
-      "Angiotensin II and sympathetic stimulation alongside pain, nausea, vomiting, and surgical stress",
-      "Excessive ingestion of hypotonic fluid, which dilutes ECF and triggers compensatory AVP release"
+      "He campaigned in 1775 for the state to build a separate mental ward where patients could be kept in more humane conditions",
+      "He campaigned in 1775 for the passage of a federal law requiring all public hospitals to accept mentally ill patients in dedicated wings",
+      "He campaigned in 1775 for the establishment of the first school of psychiatric nursing in the United States attached to public general hospitals"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 22,
     "type": "mcq",
-    "stem": "AVP is a 9-amino acid peptide with a short half-life. What is the approximate half-life of ADH, and where is it inactivated?",
+    "stem": "The concept of health used to introduce Psychiatric Nursing in the text defines health as:",
     "options": [
-      "Half-life is approximately 45-60 minutes; inactivated primarily by renal tubular enzymes",
-      "Half-life is approximately 10-20 minutes; rapidly inactivated in the liver and kidneys and excreted through the kidneys",
-      "Half-life is approximately 2-4 hours; inactivated by serum vasopressinase enzymes during pregnancy"
+      "The complete absence of disease, infirmity, and mental disturbance as determined by clinical examination and psychological testing",
+      "Not merely the absence of disease but a sense of physical, psychological, and social well-being; physical and mental health care are two sides of a coin and both are interdependent",
+      "A state of psychological balance in which an individual has full insight into their mental condition and can maintain productive social and occupational functioning"
     ],
     "answer": "B"
   },
   {
     "id": 23,
     "type": "mcq",
-    "stem": "Aquaporin-2 is described as the classical AVP-responsive water channel. Which receptor subtype mediates its insertion into the luminal cell membrane?",
+    "stem": "Rufus (110 AD) made a brief but specific recommendation for the mentally ill. What was it?",
     "options": [
-      "V1A receptors increasing intracellular calcium, which triggers vesicular fusion with the apical membrane",
-      "V2 receptors increasing intracellular cAMP, leading to phosphorylation and mobilisation of aquaporin-2 to the luminal membrane",
-      "V1B receptors activating protein kinase C, which traffics aquaporin-2 to the basolateral membrane"
+      "Rufus recommended the use of occupational therapy and music to promote sleep and discourage violent thought patterns",
+      "Rufus recommended the use of occupational and recreational therapy to distract the thoughts of mentally ill patients",
+      "Rufus recommended the use of wine, gentle stimulation, and social activities to redirect disturbed thoughts toward productive engagement"
     ],
     "answer": "B"
   },
   {
     "id": 24,
     "type": "mcq",
-    "stem": "AVP can also stimulate reabsorption of urea from the medullary collecting duct. What is the functional significance of this action?",
+    "stem": "Linda Richard is described as the 'mother of psychiatric nursing.' She is known for which professional accomplishment in Illinois?",
     "options": [
-      "Urea reabsorption raises plasma BUN, which provides a sensitive marker for AVP activity in clinical testing",
-      "AVP can stimulate the reabsorption of urea from the medullary collecting duct into the medullary interstitium, essential in the regulation of ECF osmolality",
-      "Urea reabsorption reduces tubular fluid osmolality, preventing excessive ADH stimulation during concentrated urine production"
+      "She opened Boston City College in Illinois with the help of Florence Nightingale, where she organised nursing services and developed better nursing care in psychiatric hospitals",
+      "She founded the first state mental hospital in Illinois with the help of Dorothea Dix, training psychiatric nurses to work with forensic patients",
+      "She established psychiatric nursing as an independent profession in Illinois by lobbying for a separate nursing licensure examination for psychiatric nurses"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 25,
     "type": "mcq",
-    "stem": "The supporting cells of the posterior pituitary nerve endings are called:",
+    "stem": "In the Humanitarian Period, what was the significance of the concept of 'non-restraint treatment' introduced in the same hospital as Pinel?",
     "options": [
-      "Astrocytes â modified glial cells providing structural support to unmyelinated axon terminals",
-      "Pituicytes â supporting cells alongside which unmyelinated axons blindly terminate in the posterior pituitary",
-      "Tanycytes â ependymal cells lining the floor of the third ventricle adjacent to the neurohypophysis"
+      "Non-restraint treatment meant that mechanical restraints were replaced by chemical sedation using opium and bromide, a new era of more humane biological psychiatry",
+      "Non-restraint treatment began a new era of scientific and humane treatment; nursing superintendents in the same hospital as Pinel spread non-restraint principles to Germany and America",
+      "Non-restraint treatment was proposed by Dorothea Dix after visiting European asylums, and it replaced the punitive measures used during the Political Period"
     ],
     "answer": "B"
   },
   {
     "id": 26,
     "type": "mcq",
-    "stem": "Oxytocin-induced uterine contraction is ENHANCED by oestrogen and INHIBITED by which hormone?",
+    "stem": "Pavlov's influence during the Scientific Period contributed to understanding that mental illness was related to environmental factors. How is his contribution described in this context?",
     "options": [
-      "Cortisol â which blocks myometrial oxytocin receptor expression during the stress response",
-      "Progesterone â which decreases the number of oxytocin receptors as pregnancy progresses",
-      "Relaxin â which antagonises oxytocin at the myometrial receptor level throughout gestation"
+      "Pavlov's work on conditioned reflexes laid the basis for understanding that attitude spread to patients from nursing superintendents through locked and padded seclusion wards",
+      "Pavlov's work and followers laid the basis for understanding that mental illness was associated with environmental factors; his attitude that mental illness spread to patients was noted from nursing superintendents of the 19th century",
+      "Pavlov's work established that behavioural conditioning could cure mental illness if applied consistently in structured hospital environments with reward and punishment"
     ],
     "answer": "B"
   },
   {
     "id": 27,
     "type": "mcq",
-    "stem": "The role of oxytocin in the initiation of normal labour is described as 'still obscure' because:",
+    "stem": "The text describes Electroconvulsive Therapy (ECT) as being introduced by which two individuals, and it is still used today for which reason?",
     "options": [
-      "Plasma oxytocin levels are undetectable during normal labour, suggesting alternative contractile mechanisms",
-      "The plasma level before the onset of labour is normal, yet impulses sent to the posterior pituitary during cervical dilation and head descent induce oxytocin release",
-      "Oxytocin receptors are absent in the uterus before 37 weeks gestation, making premature labour oxytocin-independent"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 28,
-    "type": "mcq",
-    "stem": "The milk ejection reflex is described as a neuroendocrine reflex. Which pathway carries the afferent impulses from the nipple to the brain?",
-    "options": [
-      "Somatic afferent touch pathways to the PVN and SON, leading to oxytocin release and milk ejection",
-      "Autonomic afferent pathways to the arcuate nucleus, triggering dopamine suppression and prolactin-mediated ejection",
-      "Visceral afferent fibres via the vagus nerve to the solitary nucleus, activating the posterior pituitary directly"
+      "ECT was introduced by Carletti and Bini in 1938 to treat mental illness and is still used today because it is a very successful treatment",
+      "ECT was introduced by Sigmund Freud and Bleuler in the early 1940s and is still used today as a first-line treatment for treatment-resistant schizophrenia",
+      "ECT was introduced by Benjamin Rush and Philip Pinel as a humane alternative to insulin coma therapy and is still used today in cases of acute mania"
     ],
     "answer": "A"
   },
   {
-    "id": 29,
+    "id": 28,
     "type": "mcq",
-    "stem": "Alcohol may suppress lactation. According to the text, which mechanism explains why encouraging mothers in the early puerperium to take alcohol may be counterproductive?",
+    "stem": "During the Demonological Period, mental illness was attributed to which SPECIFIC causes, and the treatment was therefore placed under whose authority?",
     "options": [
-      "Alcohol suppresses prolactin secretion from the anterior pituitary, reducing milk production regardless of suckling stimulus",
-      "Emotional changes caused by alcohol may suppress the milk ejection reflex, and alcohol may counterproductively suppress lactation",
-      "Alcohol induces myoepithelial cell relaxation via GABA-mediated smooth muscle inhibition, preventing milk ejection"
+      "Mental illness was attributed to disturbance in body fluids and brain chemistry; treatment was given by physicians who used herbs and exercise",
+      "Mental illness was attributed to evil spirits or demons possessing the individual, associated with witchcraft, adultery, taboo, and offences against gods; treatment was in the hands of the priest",
+      "Mental illness was attributed to social deprivation and moral failure; treatment was administered by community elders through communal rituals and reconciliation ceremonies"
     ],
     "answer": "B"
   },
   {
+    "id": 29,
+    "type": "mcq",
+    "stem": "Hippocrates recommended several treatment modalities for mentally ill patients. Which of the following correctly identifies methods he SUGGESTED alongside those he deemed LESS DESIRABLE?",
+    "options": [
+      "He suggested pleasant surroundings, exercise, proper diet, massage, and soothing baths; he considered bleeding, purging, and mechanical restraints less desirable",
+      "He suggested music therapy, wine, and occupational therapy; he considered isolation, flogging, and exorcism less desirable",
+      "He suggested prayer, fasting, and temple dedication; he considered the use of drugs and physical restraints less desirable"
+    ],
+    "answer": "A"
+  },
+  {
     "id": 30,
     "type": "mcq",
-    "stem": "Oxytocin is involved in luteolysis. What does this mean in terms of corpus luteum physiology?",
+    "stem": "CASE SCENARIO: A student nurse asks her lecturer why mentally ill patients in ancient times were flogged, burned, and stoned. The lecturer correctly explains that this was because:",
     "options": [
-      "Oxytocin stimulates the corpus luteum to produce progesterone, prolonging the luteal phase",
-      "Oxytocin appears to be involved in luteolysis, meaning degeneration of the corpus luteum",
-      "Oxytocin triggers LH surge from the anterior pituitary, causing corpus luteum rescue in early pregnancy"
+      "During the Political Period, institutions were poorly funded and staff used punishment as the only available management tool due to lack of training",
+      "During the Demonological Period, mental illness was ascribed to demonic possession; if the exorcism performed by the priest brought no improvement, extreme measures were taken to drive out the evil spirit",
+      "During the Humanitarian Period, non-restraint treatment had not yet been implemented, so physical punishment remained the standard of care"
     ],
     "answer": "B"
   },
   {
     "id": 31,
     "type": "mcq",
-    "stem": "Oxytocin acts on the non-pregnant uterus and the vas deferens. What is its specific action on the vas deferens?",
+    "stem": "CASE SCENARIO: A nurse is evaluating care in a psychiatric facility that uses isolation rooms, chains, and no therapeutic activities. This most closely resembles which historical period of psychiatric care?",
     "options": [
-      "Oxytocin relaxes the smooth muscle of the vas deferens, facilitating sperm capacitation",
-      "Oxytocin acts on the non-pregnant uterus to facilitate sperm transport and increases the contraction of the smooth muscle of the vas deferens, propelling sperm towards the urethra",
-      "Oxytocin stimulates Sertoli cells via paracrine signalling to increase sperm motility within the epididymis"
+      "The Humanitarian Period â where non-restraint was partially implemented but seclusion rooms were still standard practice",
+      "The Political Period â where the mentally ill were admitted to crude institutions, given very crude treatment, and displayed like animals in a zoo",
+      "The Scientific Period â where insulin coma therapy was used alongside padded seclusion rooms in standard psychiatric hospitals"
     ],
     "answer": "B"
   },
   {
     "id": 32,
     "type": "mcq",
-    "stem": "The final cleavage of active hormones in the posterior pituitary occurs during:",
+    "stem": "CASE SCENARIO: A psychiatric nurse advocates for a patient's right to proper food, fresh air, and natural light in a Nigerian psychiatric hospital. Her advocacy most closely mirrors the principles of which historical reformer?",
     "options": [
-      "Post-translational modification in the endoplasmic reticulum before packaging into Golgi vesicles",
-      "Axoplasmic flow â meaning the storage granules in the nerve endings already contain active hormones by the time they arrive",
-      "Calcium-dependent exocytosis at the nerve terminal membrane just before hormone release into the bloodstream"
+      "Benjamin Rush â who campaigned for blood circulation devices and mental hygiene as the basis of patient treatment",
+      "Florence Nightingale â who encouraged proper patient care including better food, light, and ventilation and also used drugs to chemically restrain violent and aggressive patients",
+      "Philip Pinel â who unchained mentally ill patients and classified them according to their degree of mental disturbance"
     ],
     "answer": "B"
   },
   {
     "id": 33,
     "type": "mcq",
-    "stem": "In pregnancy, an osmostat resetting occurs regarding AVP. What does this mean clinically?",
+    "stem": "CASE SCENARIO: A community mental health team in Anambra State is conducting outreach for psychiatric patients in remote villages. The pioneer who established this kind of community psychiatric initiative in this region was:",
     "options": [
-      "The plasma osmolarity threshold for AVP release is raised during pregnancy to prevent excessive fluid retention",
-      "Plasma volume increases during pregnancy and an osmostat resetting occurs; AVP senses this new volume as normal and adjusts secretion accordingly to restore ECF homeostasis",
-      "The V2 receptor sensitivity is downregulated during pregnancy to prevent excessive aquaporin-2 insertion and hyponatraemia"
+      "Professor Thomas Adeoye Lambo, who was born in Abeokuta, Ogun State and confirmed the good prognosis of schizophrenia in African communities",
+      "Dr. G.E.A. Izuora, who established the psychiatric school of Nursing in Enugu in 1972 and campaigned for community psychiatric nurses in various parts of Anambra State",
+      "Mr. D.A. Babayode, who was the first indigenous principal of psychiatric nursing Aro and contributed to the development of psychiatric nursing training in Osun State"
     ],
     "answer": "B"
   },
   {
     "id": 34,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A 52-year-old man with small cell lung cancer is admitted with confusion and nausea. Serum Na+ is 118 mmol/L. Urine osmolality is high and urine Na+ is elevated. BP is normal and there is no peripheral oedema. What is the MOST likely diagnosis?",
+    "stem": "CASE SCENARIO: A patient with schizophrenia in a rural Nigerian setting is noted to recover quickly and maintain good functioning within the family unit. A nurse cites Thomas Lambo's research. What was Lambo's specific finding that explains this?",
     "options": [
-      "Diabetes Insipidus â ADH deficiency causing dilutional hyponatraemia from excessive free water loss",
-      "SIADH â ectopic ADH production from lung cancer causing water retention, hyponatraemia, and inappropriately concentrated urine",
-      "Addison's disease â aldosterone deficiency causing Na+ wasting, hyponatraemia, and volume contraction with hypotension"
+      "Lambo found that African schizophrenic patients have a genetically distinct form of schizophrenia that is more treatment-responsive to traditional anti-psychotics",
+      "Lambo found that schizophrenic patients recover quickly, do not lack chronicity, and have good prognosis attributed to favourable social and environmental factors inherent in the African community, confirmed by WHO",
+      "Lambo found that affective psychoses and psycho-neurosis were more prevalent than schizophrenia in African communities, making schizophrenia easier to manage by exclusion"
     ],
     "answer": "B"
   },
   {
     "id": 35,
     "type": "mcq",
-    "stem": "CASE SCENARIO (continued from Q34): The patient in Q34 is started on fluid restriction and the tumour is resected. Which additional pharmacological agent may be used to reduce the renal response to ADH in persistent cases?",
+    "stem": "CASE SCENARIO: A nursing educator is teaching about the Scientific Period. She asks: 'Which physician's work laid the foundation for understanding that attitudes of nursing staff spread to patients and affected their mental health outcomes?' The correct answer is:",
     "options": [
-      "Desmopressin â a synthetic ADH analogue that competes at V2 receptors and reduces free water reabsorption",
-      "Demeclocycline â an antibiotic that reduces the renal tubular response to ADH",
-      "Chlorpropamide â a sulphonylurea that potentiates ADH action and increases urine osmolality"
+      "Sigmund Freud â whose work on the unconscious mind showed that nursing attitudes affect the transference relationship with patients",
+      "Pavlov and his followers â who laid the basis for understanding that mental illness was associated with environmental factors, and nursing superintendents' attitudes spread to patients",
+      "Asclepiades â who observed that institutional environment affected patient outcomes and recommended occupational therapy to counter negative staff attitudes"
     ],
     "answer": "B"
   },
   {
     "id": 36,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A 28-year-old woman following a head injury develops polyuria, producing 12 litres of dilute urine per day. She complains of intense thirst. Serum osmolality is high and urine osmolality is low. Which diagnosis is MOST consistent?",
+    "stem": "CASE SCENARIO: A student nurse reads that in the 15th century, mentally ill people were depicted on 'Ship of Fools' paintings. This is consistent with which period of psychiatric history and what practice?",
     "options": [
-      "SIADH â head injury triggering excessive ADH production, diluting the urine and increasing water intake",
-      "Diabetes Insipidus â ADH deficiency from head injury preventing distal tubule and collecting duct water reabsorption, causing large amounts of dilute urine",
-      "Psychogenic polydipsia â compulsive water intake suppressing ADH and producing secondary dilute polyuria"
+      "This is consistent with the Demonological Period â where the mentally ill were used as subjects of religious art depicting demonic possession",
+      "This is consistent with the Political Period â where the mentally ill roamed the country side like animals and were eventually admitted to institutions where they were displayed for public entertainment",
+      "This is consistent with the Humanitarian Period â where Pinel first documented the dehumanising treatment of the mentally ill in artistic representations before advocating for reform"
     ],
     "answer": "B"
   },
   {
     "id": 37,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A breastfeeding mother notices her milk flows rapidly when she hears her baby cry even before the baby latches. The nurse explains this is due to which reflex pathway?",
+    "stem": "CASE SCENARIO: A nurse is explaining the role of drugs discovered in the early 1950s in transforming psychiatric care. She correctly states that before chlorpromazine, which agents were already in use, and what was their major limitation?",
     "options": [
-      "Emotional stimuli triggering hypothalamic prolactin-releasing hormone, which causes milk ejection from alveoli",
-      "Emotional stimuli activating oxytocin release via hypothalamic pathways, causing contraction of myoepithelial cells and milk ejection",
-      "Emotional stimuli activating sympathetic nerves supplying mammary alveoli, causing smooth muscle contraction and ejection"
+      "Before chlorpromazine, opiates and cannabis were used but caused dependency and lacked specific anti-psychotic properties relevant to schizophrenia management",
+      "Before chlorpromazine, bromide, chloral hydrate, and barbiturates were discovered in the early 1950s and had the effect of calming patients, but tranquillising drugs came later",
+      "Before chlorpromazine, insulin coma therapy and ECT were the only pharmacological options, and they caused permanent sedation incompatible with therapeutic nurse-patient relationships"
     ],
     "answer": "B"
   },
   {
     "id": 38,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A postoperative patient was given excessive IV hypotonic saline over 24 hours. She now has serum Na+ of 122 mmol/L and is confused. Which physiological mechanism explains her hyponatraemia?",
+    "stem": "CASE SCENARIO: A psychiatric nursing student is asked to identify who organised the first nursing services and educational programs in state mental hospitals in Illinois. The correct answer is:",
     "options": [
-      "Excessive ingestion of hypotonic fluid dilutes the ECF and reduces osmolarity; consequently ADH production is inhibited â but in iatrogenic overload, the body cannot excrete water fast enough",
-      "Surgical stress increases angiotensin II and sympathetic stimulation, elevating ADH and reducing renal water excretion despite low osmolality",
-      "Pain from surgery activates V1B receptors, increasing ACTH and cortisol, which suppress the renal tubular Na+ transport mechanisms"
+      "Florence Nightingale, who directly supervised nursing in Illinois as part of her international mental health reform campaign",
+      "Linda Richard, who graduated from the New England Hospital for Women and Children in Boston in 1873 and later organised nursing services in state mental hospitals in Illinois with the help of Florence Nightingale",
+      "Dorothea Dix, who opened state asylums and staffed them with trained nursing personnel recruited from Boston College as part of her 1865 campaign"
     ],
     "answer": "B"
   },
   {
     "id": 39,
-    "type": "mcq",
-    "stem": "CASE SCENARIO: During labour, a multigravida at 39 weeks develops prolonged uterine contractions following oxytocin augmentation. The nurse knows that progesterone's role is to:",
-    "options": [
-      "Enhance uterine contractility by upregulating oxytocin receptor expression in late gestation",
-      "Inhibit uterine contraction by affecting the number of oxytocin receptors as pregnancy progresses",
-      "Suppress oxytocin secretion from the maternal posterior pituitary during the second stage of labour"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "Philip Pinel was assisted in his reforms by ____________, who played a vital role in the early hospital as ____________ and classified patients according to their degree of mental disturbance.",
+    "answer": "Jean Baptiste Pussin; Nursing Superintendent",
+    "acceptableAnswers": [
+      "Jean Baptiste Pussin; Nursing Superintendent",
+      "Jean BaptistePussin; Nursing Superintendent",
+      "Pussin; Nursing Superintendent"
+    ]
   },
   {
     "id": 40,
-    "type": "mcq",
-    "stem": "CASE SCENARIO: A male patient undergoing workup for infertility is found to have poor sperm motility in the ejaculate. The nurse understands that oxytocin's role in male reproductive physiology includes:",
-    "options": [
-      "Stimulating Leydig cell testosterone synthesis via LH-independent oxytocin receptor activation",
-      "Increasing contraction of the smooth muscle of the vas deferens to propel sperm towards the urethra",
-      "Activating acrosome reaction in spermatozoa through calcium influx mediated by oxytocin receptors"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "Benjamin Rush called himself the 'Father of ____________ Psychiatry.' He published the first psychiatric textbooks in the United States in ____________ and wrote that mental illness is a disease of the ____________.",
+    "answer": "American; 1812; mind",
+    "acceptableAnswers": [
+      "American; 1812; mind",
+      "American; 1812; mind and not passion of demon"
+    ]
   },
   {
     "id": 41,
     "type": "fitb",
-    "stem": "ADH is produced by the SON paired supraoptic nuclei (approximately ____________%) and the paired paraventricular nuclei (____________%).",
-    "answer": "80; 20",
+    "stem": "Dorothea Dix opened ____________ states Asylums to care for mentally ill patients and fought for the registration of state fund to build and support mental hospitals. By her campaign in 1865, there were ____________ public hospitals built exclusively for the care of the mentally ill in the USA.",
+    "answer": "32; 62",
     "acceptableAnswers": [
-      "80; 20",
-      "eighty; twenty"
+      "32; 62",
+      "thirty-two; sixty-two"
     ]
   },
   {
     "id": 42,
     "type": "fitb",
-    "stem": "The secretory granules transported via axoplasmic flow in the posterior pituitary are called ____________ bodies, and the supporting cells alongside which unmyelinated axons terminate are called ____________.",
-    "answer": "Herring; pituicytes",
+    "stem": "Thomas Adeoye Lambo was born on March ____________, 1923, in ____________, Ogun State. He was formerly ____________ Director General of the World Health Organization.",
+    "answer": "29th; Abeokuta; Assistant",
     "acceptableAnswers": [
-      "Herring; pituicytes",
-      "herring; pituicytes"
+      "29th; Abeokuta; Assistant",
+      "29; Abeokuta; Assistant"
     ]
   },
   {
     "id": 43,
     "type": "fitb",
-    "stem": "AVP acts via V2 receptors to increase intracellular ____________ and subsequently activate protein kinases that phosphorylate cytoplasmic ____________, mobilising them to the cell membrane's luminal side.",
-    "answer": "cAMP; aquaporins",
+    "stem": "Dr. G.E.A. Izuora was the first psychiatrist in ____________ Nigeria, immediately after the civil war. He helped establish the psychiatric school of Nursing in ____________ in ____________.",
+    "answer": "Eastern; Enugu; 1972",
     "acceptableAnswers": [
-      "cAMP; aquaporins",
-      "cyclic AMP; aquaporins",
-      "cAMP; aquaporin-2"
+      "Eastern; Enugu; 1972"
     ]
   },
   {
     "id": 44,
     "type": "fitb",
-    "stem": "The V1A receptor of AVP is mainly concerned with the ____________ effect of AVP, while the V1B receptor may act to increase ____________ secretion from the anterior pituitary.",
-    "answer": "vasoconstrictor; ACTH",
+    "stem": "Mr. D.A. Babayode was the first ____________ principal of school of psychiatric nursing Aro. He hails from ____________ in ____________ state.",
+    "answer": "indigenous; Ipetimode; Osun",
     "acceptableAnswers": [
-      "vasoconstrictor; ACTH",
-      "vasopressor; ACTH",
-      "vasoconstrictor; adrenocorticotrophic hormone"
+      "indigenous; Ipetimode; Osun",
+      "indigenous; Ipetimode; Osun State"
     ]
   },
   {
     "id": 45,
     "type": "fitb",
-    "stem": "Plasma osmolarity is a very sensitive stimulus that responds with only ____________% change, leading to stimulation of osmoreceptors located in the ____________ hypothalamus.",
-    "answer": "1-2; anterior",
+    "stem": "Hippocrates (460-377 BC) rejected the idea of ____________ and maintained that mental disorders were the result of a disturbance in the balance of ____________ and ____________.",
+    "answer": "demonology; body fluid; brain",
     "acceptableAnswers": [
-      "1-2; anterior",
-      "1 to 2; anterior",
-      "1â2; anterior"
+      "demonology; body fluid; brain",
+      "demonology; body fluids; brain"
     ]
   },
   {
     "id": 46,
     "type": "fitb",
-    "stem": "In SIADH, the high volume of ECF inhibits ____________ production, leading to additional ____________ loss and consequent urine volume increase.",
-    "answer": "aldosterone; salt",
+    "stem": "Asclepiades (124 BC) observed that while ____________ patients have hallucinations, ____________ patients have delusions. He recommended ____________ therapy and discouraged the idea of keeping patients in the dark.",
+    "answer": "frenzy; maniacal; occupational",
     "acceptableAnswers": [
-      "aldosterone; salt",
-      "aldosterone; sodium",
-      "aldosterone; Na+"
+      "frenzy; maniacal; occupational",
+      "frenzied; maniac; occupational"
     ]
   },
   {
     "id": 47,
     "type": "fitb",
-    "stem": "In Diabetes Insipidus, the daily urine output varies from ____________ to ____________ litres, and the treatment uses a synthetic peptide called ____________, which has an action similar to ADH.",
-    "answer": "5; 15; desmopressin",
+    "stem": "The ____________ Period is the earliest period in psychiatric history, found in biblical legends, where mental illness was ascribed to evil spirits or demons and treatment was in the hands of the ____________.",
+    "answer": "Demonological; priest",
     "acceptableAnswers": [
-      "5; 15; desmopressin",
-      "5; 15; DDAVP"
+      "Demonological; priest",
+      "Demonological period; priest"
     ]
   },
   {
     "id": 48,
     "type": "fitb",
-    "stem": "Alcohol inhibits ADH secretion by blocking ____________-induced exocytosis, and this may be one possible mechanism of ____________-induced diuresis.",
-    "answer": "calcium; alcohol",
+    "stem": "Philip Pinel was the first parish physician to order the release from ____________ of lunatics in ____________ Hospital in France. He was the first to treat insanity not as a ____________ but also with kindness.",
+    "answer": "chain; Bicetre; crime",
     "acceptableAnswers": [
-      "calcium; alcohol",
-      "calcium-induced; alcohol",
-      "calcium; alcoholic"
+      "chain; Bicetre; crime",
+      "chains; Bicetre; crime"
     ]
   },
   {
     "id": 49,
     "type": "fitb",
-    "stem": "Oxytocin-induced uterine contraction is enhanced by ____________ and inhibited by ____________, by affecting the number of oxytocin receptors as pregnancy progresses.",
-    "answer": "oestrogen; progesterone",
+    "stem": "Sigmund Freud believed that mental illness was a malfunction of the ____________ mind unknown to the patient. His work led to the understanding of mental illness as a ____________ behaviour.",
+    "answer": "unconscious; abnormal",
     "acceptableAnswers": [
-      "oestrogen; progesterone",
-      "estrogen; progesterone",
-      "oestrogens; progesterone"
+      "unconscious; abnormal",
+      "unconscious; modifiable abnormal"
     ]
   },
   {
     "id": 50,
     "type": "fitb",
-    "stem": "The milk ejection reflex is a ____________ reflex; afferent impulses travel via somatic afferent touch pathways to the ____________ and SON, leading to oxytocin release.",
-    "answer": "neuroendocrine; PVN",
+    "stem": "Electroconvulsive therapy (ECT) was introduced by ____________ and ____________ in ____________ to treat mental illness and is still used today.",
+    "answer": "Carletti; Bini; 1938",
     "acceptableAnswers": [
-      "neuroendocrine; PVN",
-      "neuroendocrine; paraventricular nuclei"
+      "Carletti; Bini; 1938",
+      "Cerletti; Bini; 1938"
     ]
   },
   {
     "id": 51,
     "type": "fitb",
-    "stem": "Oxytocin is used therapeutically to ____________ labour, prevent excessive ____________ after delivery, and sometimes to induce ____________.",
-    "answer": "augment; bleeding; abortion",
+    "stem": "The first tranquillising drug named ____________ (chlorpromazine) was able to calm the patient without making him ____________, unlike earlier barbiturates and sedatives.",
+    "answer": "largactil; unconscious",
     "acceptableAnswers": [
-      "augment; bleeding; abortion",
-      "induce/augment; bleeding; abortion"
+      "largactil; unconscious",
+      "Largactil; unconscious"
     ]
   },
   {
     "id": 52,
     "type": "fitb",
-    "stem": "ADH has a half-life of approximately ____________ minutes and is rapidly inactivated in the ____________ and kidneys.",
-    "answer": "10-20; liver",
+    "stem": "Linda Richard graduated from the ____________ Hospital for women and children in ____________ in 1873. She is known as the 'mother of ____________ nursing standard.'",
+    "answer": "New England; Boston; psychiatric",
     "acceptableAnswers": [
-      "10-20; liver",
-      "10 to 20; liver",
-      "10â20; liver"
+      "New England; Boston; psychiatric"
     ]
   },
   {
     "id": 53,
     "type": "fitb",
-    "stem": "The classical AVP-responsive water channel is ____________-2. AVP acts on the distal tubule and collecting duct via ____________ receptors to increase water absorption.",
-    "answer": "aquaporin; V2",
+    "stem": "During the Political Period, in the 16th century, visitors were allowed to see the inmates in the ____________ house as a form of ____________ for the public, similar to visiting a zoo.",
+    "answer": "insane; entertainment",
     "acceptableAnswers": [
-      "aquaporin; V2",
-      "AQP; V2"
+      "insane; entertainment",
+      "lunatic; entertainment"
     ]
   },
   {
     "id": 54,
     "type": "fitb",
-    "stem": "In SIADH, management includes fluid ____________, removal of the ____________ if present, and the antibiotic ____________ which reduces the renal response to ADH.",
-    "answer": "restriction; tumour; demeclocycline",
+    "stem": "Nightingale was trained as the first ____________ Nurse in the ____________, where progressive nursing was taught including better food, light, ventilation, and the use of drugs to chemically ____________ violent and aggressive patients.",
+    "answer": "Psychiatric; 1840s; restrain",
     "acceptableAnswers": [
-      "restriction; tumour; demeclocycline",
-      "restriction; tumor; demeclocycline"
+      "Psychiatric; 1840s; restrain",
+      "psychiatric; 1840s; restrain"
     ]
   },
   {
     "id": 55,
     "type": "fitb",
-    "stem": "Oxytocin appears to be involved in ____________ (degeneration of the corpus luteum), and also acts on the non-pregnant uterus to facilitate ____________ transport.",
-    "answer": "luteolysis; sperm",
+    "stem": "The history of psychiatric nursing can be considered in four separate periods: (a) ____________ period, (b) ____________ period, (c) ____________ period, and (d) ____________ period.",
+    "answer": "Demonological; Political; Humanitarian; Scientific",
     "acceptableAnswers": [
-      "luteolysis; sperm",
-      "luteal regression; sperm"
+      "Demonological; Political; Humanitarian; Scientific",
+      "demonological; political; humanitarian; scientific"
     ]
   },
   {
     "id": 56,
     "type": "fitb",
-    "stem": "The precursor molecules of posterior pituitary hormones are synthesised in ____________, bound to specific neurophysins to form pre-pro-pressophysin (neurophysin ____________) for ADH and pre-pro-oxyphysin (neurophysin ____________) for oxytocin.",
-    "answer": "ribosomes; II; I",
+    "stem": "Lambo discovered that schizophrenic patients recover ____________, do not lack ____________, and have ____________ prognosis, which he attributed to the favourable social and environmental factors inherent in the community.",
+    "answer": "quickly; chronicity; good",
     "acceptableAnswers": [
-      "ribosomes; II; I",
-      "ribosomes; 2; 1"
+      "quickly; chronicity; good",
+      "quickly; chronicity; a good"
     ]
   },
   {
     "id": 57,
     "type": "mcq",
-    "stem": "Which of the following pairs of stimuli act SYNERGISTICALLY to invoke the appropriate ADH response in most cases of dehydration?",
+    "stem": "Which of the following BEST explains why Hippocrates is considered a turning point in psychiatric history despite recommending some methods still considered harsh today?",
     "options": [
-      "Angiotensin II and cortisol â together triggering hypothalamic osmoreceptors and baroreceptors simultaneously",
-      "Plasma osmolarity and ECF volume â acting synergistically because in dehydration, more water is lost than solute, causing hypovolaemia to co-occur with hyperosmolar ECF",
-      "Aldosterone and renin â together signalling both renal sodium retention and hypothalamic ADH secretion"
+      "Hippocrates eliminated the role of religion in mental illness treatment by introducing pharmacological herbs and dietary management",
+      "Hippocrates was the first to reject demonology and attribute mental illness to natural causes â a disturbance in body fluid and brain â representing the first scientifically-oriented explanation",
+      "Hippocrates introduced the concept of the unconscious mind, later developed by Freud, establishing a continuum of scientific psychiatric understanding from ancient Greece to the 20th century"
     ],
     "answer": "B"
   },
   {
     "id": 58,
     "type": "mcq",
-    "stem": "The posterior pituitary acts as a storage tank. This means that hormone synthesis occurs in which structure, and merely storage occurs in the neurohypophysis?",
+    "stem": "Benjamin Rush treated mental illness with devices that increase blood supply to the brain. What was the underlying theory that led him to prescribe this intervention?",
     "options": [
-      "Synthesis occurs in the anterior pituitary adenohypophysis and is transferred via portal blood to the posterior pituitary",
-      "Synthesis occurs in the cell bodies of magnocellular neurons in the supraoptic and paraventricular nuclei of the hypothalamus",
-      "Synthesis occurs in pituicytes of the posterior pituitary and is transported retrogradely to the hypothalamus for storage"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 59,
-    "type": "mcq",
-    "stem": "Which of the following is specifically described as a CHRONIC LUNG DISORDER cause of SIADH?",
-    "options": [
-      "Pulmonary oedema from heart failure increasing atrial natriuretic peptide and suppressing ADH",
-      "Lung cancer, pneumonia, tuberculosis, and lung abscess",
-      "Pulmonary embolism reducing venous return and triggering low-pressure baroreceptor-mediated ADH release"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 60,
-    "type": "mcq",
-    "stem": "A nurse is educating a breastfeeding mother about factors that may suppress milk ejection. Which of the following is cited in the text as potentially suppressive?",
-    "options": [
-      "Emotional changes such as anxiety and the intake of alcohol, which may suppress lactation in the early puerperium",
-      "Excessive fluid intake reducing plasma oxytocin concentration through dilution",
-      "Progesterone supplementation suppressing myoepithelial oxytocin receptor sensitivity in the postpartum period"
+      "He believed mental illness was caused by disruption of blood circulation and treated it by disruption of the blood circulation and treating them with devices to increase blood supply to the brain",
+      "He believed mental illness was caused by excessive blood supply to the brain and prescribed bloodletting to reduce cerebral congestion",
+      "He believed mental illness was caused by ventricular obstruction and used hydrostatic devices to equalise intracranial pressure"
     ],
     "answer": "A"
   },
   {
-    "id": 61,
+    "id": 59,
     "type": "mcq",
-    "stem": "The action of AVP on the brain at the area postrema results in decreased cardiac output. This is classified under which category of AVP effects?",
+    "stem": "Which of the following pairs correctly matches the pioneer with their PRIMARY professional identity and their MAIN contribution?",
     "options": [
-      "Major physiological effects â ranking alongside renal water reabsorption as primary cardiovascular control",
-      "Minor effects of AVP â alongside glycogenolysis and ACTH secretion, whose clinical significance is not always well understood",
-      "Secondary effects â occurring only when AVP is secreted in supraphysiological concentrations during critical illness"
+      "Philip Pinel â Physician; unchained mentally ill patients and classified them by degree of mental disturbance with the help of Nursing Superintendent Jean Baptiste Pussin",
+      "Linda Richard â Physician; graduated in 1873 and opened the first state mental hospital in Illinois to provide care for the mentally ill",
+      "Dorothea Dix â Nursing Pioneer; trained as the first Psychiatric Nurse in the 1840s and encouraged occupational therapy in American asylums"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 60,
+    "type": "mcq",
+    "stem": "Orobasius (AD 320) added recommendations to those of Asclepiades, Celsius, and Rufus Adioo. Based on the text, what was the nature of this group's overall approach to the mentally ill during this period?",
+    "options": [
+      "These physicians recommended chaining patients in temple precincts and using religious rituals to contain violent behaviour",
+      "These physicians were among those who cared for many of the mentally ill with great kindness by physicians in temples dedicated to Greek and Roman Gods",
+      "These physicians advocated for public institutionalisation of the mentally ill in municipal buildings funded by local Greek and Roman governments"
     ],
     "answer": "B"
   },
   {
+    "id": 61,
+    "type": "mcq",
+    "stem": "Linda Richard's contributions are described as including 'licensing of nurses' and 'development of interpersonal relationship between nurses and their patients.' These contributions place her in which specific role in psychiatric nursing's professional development?",
+    "options": [
+      "She is known as the 'mother of psychiatric nursing standard,' influencing and emphasising the advancement of professional education and practice in psychiatric nursing",
+      "She is known as the first American Psychiatric Nurse who fought for states to build and support mental hospitals and to prepare staff to provide human treatment",
+      "She is known as the first Psychiatric Nurse in the 1840s who opened Boston City College in Illinois with Florence Nightingale's help"
+    ],
+    "answer": "A"
+  },
+  {
     "id": 62,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A 19-year-old woman with anorexia nervosa is admitted with severe vomiting and diarrhoea over 5 days. She is hypotensive with a HR of 118 bpm. Which receptors are activated to stimulate ADH secretion in this clinical context?",
+    "stem": "CASE SCENARIO: A nursing student presents a seminar on the 'Political Period' of psychiatric care. Which of the following statements would be CORRECT to include in her presentation?",
     "options": [
-      "High-pressure arterial baroreceptors in the carotid sinus detecting reduced cardiac output and increasing ADH via vagus nerve",
-      "Low-pressure volume receptors in the atria and pulmonary veins detecting reduced ECF volume from bleeding, diarrhoea, and vomiting, stimulating ADH secretion",
-      "Osmoreceptors in the posterior hypothalamus detecting hypernatraemia and directly triggering posterior pituitary ADH release"
+      "During the Political Period, the mentally ill were placed under the care of the Church and treated by monks with prayer, herbal medicine, and communal support",
+      "During the Political Period, mental institutions had about 403 workhouses built during the reign of Edward II; the mentally ill were displayed for entertainment like animals in a zoo and treatment was very crude",
+      "During the Political Period, Philip Pinel ordered the release of chains in Bicetre Hospital, beginning a new era of scientific and humane psychiatric treatment in Europe"
     ],
     "answer": "B"
   },
   {
     "id": 63,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A nurse observes that a patient undergoing abdominal surgery under general anaesthesia is given IV fluids but produces minimal urine postoperatively despite adequate hydration. Which intraoperative factors most likely explain elevated ADH contributing to this oliguria?",
+    "stem": "CASE SCENARIO: A nurse educator asks her students: 'Which Nigerian psychiatrist's work was confirmed by the WHO in a pilot study on schizophrenia, and what exactly did he discover?' The CORRECT response is:",
     "options": [
-      "Hypothermia from the operating theatre reducing renal blood flow and glomerular filtration rate independently of ADH",
-      "Pain, nausea, surgical stress, and anaesthetic agents â all of which increase vasopressin secretion, reducing urine output",
-      "Positive pressure ventilation reducing venous return, triggering RAAS activation and aldosterone-mediated sodium retention"
+      "Dr. G.E.A. Izuora; he discovered that schizophrenia responds poorly to treatment in Eastern Nigeria but well to community rehabilitation",
+      "Professor Thomas Adeoye Lambo; he discovered that schizophrenic patients recover quickly, do not lack chronicity, and have good prognosis attributed to favourable social and environmental community factors â confirmed by WHO",
+      "Mr. D.A. Babayode; he discovered that indigenous treatment methods for schizophrenia in Osun State produced outcomes comparable to hospital-based treatment"
     ],
     "answer": "B"
   },
   {
     "id": 64,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A woman at 36 weeks gestation is admitted with preterm labour. The obstetric team considers tocolysis. The nurse understands that the myometrial sensitivity to oxytocin at this gestational age is LOWER than at term because:",
+    "stem": "CASE SCENARIO: A nursing preceptor is supervising a student who is rough with a psychiatric patient and dismisses the importance of food and hygiene. The preceptor invokes the principles of which historical figure?",
     "options": [
-      "Foetal oxytocin production has not yet peaked at 36 weeks, reducing maternal plasma oxytocin levels",
-      "Progesterone at 36 weeks is still relatively high, inhibiting uterine contraction by reducing the number of oxytocin receptors",
-      "Oestrogen levels are insufficient at 36 weeks to upregulate myometrial oxytocin receptor expression to term levels"
+      "Dorothea Dix â who fought to improve the treatment of mentally ill patients in America and Europe and led the crusade for the unchaining of mentally ill patients",
+      "Florence Nightingale â who encouraged proper patient care including better food, light, and ventilation and also recommended the use of drugs to chemically restrain violent and aggressive patients",
+      "Benjamin Rush â who campaigned for humane conditions and published the first psychiatric textbooks in the United States in 1812"
     ],
     "answer": "B"
   },
   {
     "id": 65,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A patient with porphyria develops hyponatraemia, concentrated urine, and confusion. Which diagnosis does the nurse suspect, and what is listed as its cause in this context?",
+    "stem": "CASE SCENARIO: A psychiatric nurse in the 19th century notices that her patients deteriorate when placed in locked, padded seclusion rooms and that the nurses' negative attitudes seem to be 'contagious.' Which scientific figure's work would MOST directly explain this observation?",
     "options": [
-      "Diabetes Insipidus â porphyria causing direct destruction of ADH-producing neurons in the SON",
-      "SIADH â porphyria listed under metabolic disorders as a cause of inappropriate ADH hypersecretion",
-      "Cerebral salt wasting â porphyria-induced autonomic dysfunction causing renal Na+ wasting with volume depletion"
+      "Sigmund Freud â who described how the unconscious mind of the nurse influenced the patient through counter-transference in the therapeutic relationship",
+      "Pavlov and his followers â who laid the basis for understanding that mental illness was associated with environmental factors, and that attitudes spread from nursing superintendents to patients",
+      "Carletti and Bini â who introduced electroconvulsive therapy as a humane alternative to the restrictive seclusion practices of 19th century asylums"
     ],
     "answer": "B"
   },
   {
     "id": 66,
     "type": "fitb",
-    "stem": "CASE SCENARIO (Fill-in): A patient with meningitis develops hyponatraemia and concentrated urine. This occurs due to SIADH, caused by brain disorders including ____________, which stimulate ____________ production of ADH leading to water retention.",
-    "answer": "cerebral tumours/meningitis/encephalitis; excessive",
+    "stem": "CASE SCENARIO (Fill-in): A student describes a period in psychiatric history where mentally ill patients were beaten, flogged, burned, and stoned when exorcism failed. This describes the ____________ Period, where mental illness was attributed to evil ____________ or demons, and treatment was administered by the ____________.",
+    "answer": "Demonological; spirits; priest",
     "acceptableAnswers": [
-      "cerebral tumours/meningitis/encephalitis; excessive",
-      "meningitis; excessive",
-      "brain disorders including meningitis and encephalitis; excessive"
+      "Demonological; spirits; priest",
+      "demonological; spirits; priest"
     ]
   },
   {
     "id": 67,
     "type": "fitb",
-    "stem": "CASE SCENARIO (Fill-in): A patient post-head injury produces 14 litres of dilute urine daily. This is because the absence of ____________ makes it impossible for the ____________ convoluted tubule and the collecting duct to reabsorb water, a condition called Diabetes ____________.",
-    "answer": "ADH; distal; Insipidus",
+    "stem": "CASE SCENARIO (Fill-in): A historian notes that between the 15th and 18th centuries, mentally ill patients were admitted to institutions with 403 workhouses. Their treatment was very ____________, and visitors were allowed to view them like ____________ in a zoo. Men and women were admitted to ____________ Hospital in London.",
+    "answer": "crude; animals; Bethlem",
     "acceptableAnswers": [
-      "ADH; distal; Insipidus",
-      "antidiuretic hormone; distal; Insipidus",
-      "ADH; distal; insipidus"
+      "crude; animals; Bethlem",
+      "crude; animals; Bethlem Royal Hospital",
+      "crude; animals; Bedlam"
     ]
   },
   {
     "id": 68,
     "type": "fitb",
-    "stem": "CASE SCENARIO (Fill-in): A breastfeeding mother notices milk letdown when she hears her baby cry. This is because emotional stimuli activate ____________ release from the ____________ pituitary, causing contraction of ____________ cells of the breast.",
-    "answer": "oxytocin; posterior; myoepithelial",
+    "stem": "CASE SCENARIO (Fill-in): A nurse explains that the first tranquillising drug â ____________ (chlorpromazine) â was different from earlier drugs like bromide, chloral hydrate, and ____________ because it could calm the patient without making him ____________.",
+    "answer": "largactil; barbiturates; unconscious",
     "acceptableAnswers": [
-      "oxytocin; posterior; myoepithelial",
-      "oxytocin; posterior pituitary; myoepithelial"
+      "largactil; barbiturates; unconscious",
+      "Largactil; barbiturates; unconscious"
     ]
   },
   {
     "id": 69,
     "type": "fitb",
-    "stem": "CASE SCENARIO (Fill-in): A labouring woman's oxytocin infusion is increased after slow progress. The nurse knows oxytocin enhances uterine contraction through a second messenger mechanism that activates the phospholipid's second messenger, increasing intracellular ____________. This contraction is enhanced by ____________ and inhibited by ____________.",
-    "answer": "calcium; oestrogen; progesterone",
+    "stem": "CASE SCENARIO (Fill-in): A Nigerian nurse describes a prominent psychiatrist born on March 29th, 1923, in Abeokuta, who was formerly ____________ Director General of the WHO. He found that schizophrenic patients had ____________ prognosis and recovered quickly, and this was confirmed by the WHO after a ____________ study in schizophrenia.",
+    "answer": "Assistant; good; pilot",
     "acceptableAnswers": [
-      "calcium; oestrogen; progesterone",
-      "calcium; estrogen; progesterone",
-      "intracellular calcium; oestrogen; progesterone"
+      "Assistant; good; pilot",
+      "Assistant Director General; good; pilot"
     ]
   },
   {
     "id": 70,
     "type": "fitb",
-    "stem": "CASE SCENARIO (Fill-in): A patient develops hyponatraemia with serum Na+ of 120 mmol/L after taking an antipsychotic. The drug is suspected to have caused SIADH. In SIADH, increased ADH leads to reduced ____________ concentration, decreased ____________, and ultimately the high ECF volume inhibits ____________ production causing additional salt loss.",
-    "answer": "Na+; osmolarity; aldosterone",
+    "stem": "CASE SCENARIO (Fill-in): A student is asked to name the reformer who opened ____________ states Asylums, fought for the improvement of the treatment of the mentally ill in America and ____________, and led the crusade for the unchaining of mentally ill patients in the USA. The answer is ____________ Dix.",
+    "answer": "32; Europe; Dorothea",
     "acceptableAnswers": [
-      "Na+; osmolarity; aldosterone",
-      "sodium; osmolarity; aldosterone",
-      "sodium concentration; osmolality; aldosterone"
+      "32; Europe; Dorothea",
+      "thirty-two; Europe; Dorothea"
     ]
   }
 ]
