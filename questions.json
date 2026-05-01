@@ -2,671 +2,719 @@
   {
     "id": 1,
     "type": "mcq",
-    "stem": "Psychiatry is defined as a branch of medicine that deals with the study, prevention, diagnosis, treatment, and rehabilitation of the mentally ill. Which statement MOST accurately defines Psychiatric Nursing in contrast to Psychiatry?",
+    "stem": "The actual cause of mental illness is often not known (idiopathic). The occurrence of mental illness depends on two main factors. Which pair CORRECTLY identifies these two factors?",
     "options": [
-      "A specialised field of nursing practice known as mental health nursing that helps individuals with a mental health disorder to recover, improve, and enhance the care of individuals with a mental health disorder",
-      "A specialised branch of medicine that focuses on the pharmacological management of mental disorders in collaboration with the psychiatrist",
-      "A branch of general nursing practice concerned with the administration of psychotropic medications and the physical care of inpatients with mental illness"
+      "Predisposing factors and precipitating factors",
+      "Hereditary factors and constitutional factors",
+      "Biological factors and socio-cultural factors"
     ],
     "answer": "A"
   },
   {
     "id": 2,
     "type": "mcq",
-    "stem": "In Child Psychiatry, two important factors are identified as dominant in influencing psychiatric presentations in children. Which pair is CORRECTLY identified?",
+    "stem": "Predisposing factors in mental illness are also referred to as essential factors. How are they MOST accurately described in relation to the individual?",
     "options": [
-      "The genetic composition of the child and the neurochemical environment of the developing brain, which shape cognitive and emotional responses",
-      "The influence of the environment and the plasticity of the child's mind, meaning the mind of the child is not fixed and can adjust to certain situations in the environment",
-      "The socioeconomic status of the family and the quality of early childhood education, which determine the child's adaptive capacity"
+      "Factors that trigger an attack and can be physical or psychological in nature, bringing about the disorder directly",
+      "Factors that may increase one's risk of developing a mental illness, making the individual susceptible (likely or liable) to specific mental disorders — regarded as influencing factors",
+      "Factors that are confined to a demonstrable physical disorder arising in or from outside the body and leading to disturbances of its function"
     ],
     "answer": "B"
   },
   {
     "id": 3,
     "type": "mcq",
-    "stem": "Adolescent Psychiatry is a subspecialty of psychiatry. Which of the following MOST precisely describes the scope and age range it covers?",
+    "stem": "Precipitating factors are described in the text as contributory factors. Which of the following MOST accurately distinguishes precipitating from predisposing factors?",
     "options": [
-      "It deals with the prevention and treatment of mental and emotional disorders affecting adolescence, defined as the period between puberty and young adulthood, including difficulties at school and relationships with siblings, teachers, and others",
-      "It deals with the diagnosis and treatment of psychiatric disorders from birth through early childhood up to the onset of puberty, with a focus on neurodevelopmental conditions",
-      "It deals with the prevention and treatment of mental disorders in individuals from age 10 to 18 years, with primary focus on substance use disorders and early-onset psychosis"
+      "Precipitating factors are the factors that trigger an attack and bring about the disorder; they can be physical or psychological, while predisposing factors increase susceptibility without directly causing the disorder",
+      "Precipitating factors increase an individual's long-term susceptibility to mental illness, while predisposing factors are the immediate triggers that bring about the acute episode",
+      "Precipitating factors refer only to biological causes such as infections and chemical poisons, while predisposing factors include psychological and socio-cultural influences"
     ],
     "answer": "A"
   },
   {
     "id": 4,
     "type": "mcq",
-    "stem": "Geriatric Psychiatry deals with the prevention and treatment of mental and emotional disorders affecting the elderly. What specific age is traditionally accepted as the cut-off point between adult and geriatric psychiatry?",
+    "stem": "Hereditary factors describe a process by which an illness or disorder is inherited from parents. Which statement MOST accurately describes the mechanism?",
     "options": [
-      "The age of 60 is traditionally accepted as the cut-off point between adult and geriatric psychiatric practice",
-      "The age of 65 is traditionally accepted as the cut-off point between adult and geriatric psychiatric practice",
-      "The age of 70 is traditionally accepted as the cut-off point between adult and geriatric psychiatric practice"
+      "The factors are transmitted through the genes of our individuals, present in chromosomes of the cells which decide the physical and mental makeup of an individual, and may be dominant or recessive",
+      "The factors are transmitted through environmental exposure during critical developmental periods that alter gene expression in the offspring's cerebral cortex",
+      "The factors are transmitted through shared household environments and family behavioural patterns rather than through chromosomal inheritance"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 5,
     "type": "mcq",
-    "stem": "Forensic Psychiatry includes all aspects of psychiatry that remain in close and significant contact with which external domain?",
+    "stem": "Constitutional factors in mental illness refer to aspects of physique, personality, and intelligence. Which of the following BEST describes what 'constitutional' means in this context?",
     "options": [
-      "The law, legislation, or jurisprudence â covering all psychiatric practice that interfaces with the legal and criminal justice system",
-      "Public health policy and government legislation â covering psychiatric practice that interfaces with state mental health funding and planning",
-      "Medical ethics and human rights law â covering psychiatric practice that interfaces with patient advocacy and civil commitment proceedings"
+      "Aspects that were more or less rigidly fixed in early childhood or even before birth, such as prematurity of the child, damage to the developing foetus, birth injury, failure of development, and early environmental experience",
+      "Aspects that develop gradually through adolescence in response to psychosocial stressors, peer relationships, and educational performance, and are modifiable through early intervention",
+      "Aspects that are entirely determined by genetic inheritance and cannot be modified by any environmental, therapeutic, or pharmacological intervention once established"
     ],
     "answer": "A"
   },
   {
     "id": 6,
     "type": "mcq",
-    "stem": "Community Psychiatry has developed in response to a specific realisation. Which of the following BEST captures this realisation?",
+    "stem": "Biological factors in mental illness involve abnormal functioning of nerve cell circuits or pathways. Which chemicals are specifically named as the neurotransmitters communicating within these brain circuits?",
     "options": [
-      "Most of the environment expended in the past as treatment for the mentally ill individuals can be better provided within their own community",
-      "Most of the expenditure in the past as treatment for the mentally ill individuals was wasted on institutional care that could be replaced by community-based treatment",
-      "Most of the mentally ill individuals in the community prefer treatment at home rather than in hospital, necessitating outreach services"
+      "Dopamine, serotonin, and adrenalin (and other biological chemicals) called neurotransmitters",
+      "Acetylcholine, GABA, and glutamate — the primary inhibitory and excitatory neurotransmitters in the central nervous system",
+      "Cortisol, norepinephrine, and oxytocin — the stress hormones that dysregulate mood and cognition in psychiatric disorders"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 7,
     "type": "mcq",
-    "stem": "Trans-cultural Psychiatry is defined in the text as which of the following?",
+    "stem": "Regarding the genetic (hereditary) biological factor in mental illness, which statement is MOST accurately supported by the text?",
     "options": [
-      "The study of mental disorders across diverse cultural backgrounds, as an extension of cultural psychiatry",
-      "The study of how cultural practices directly cause mental illness and how cultural beliefs should guide psychiatric treatment",
-      "The branch of psychiatry that studies the influence of migration and displacement on the development of psychiatric disorders"
+      "Mental illness sometimes runs in families; people who have a family member with mental illness are likely to develop mental illness; susceptibility is passed on through genes; experts believe mental illness is linked to abnormalities in many genes rather than just one or a few",
+      "Mental illness is entirely genetic in aetiology; having a first-degree relative with schizophrenia guarantees that the individual will develop the same disorder",
+      "Mental illness is passed on genetically only when both parents carry the recessive gene mutation, following a simple Mendelian inheritance pattern"
     ],
     "answer": "A"
   },
   {
     "id": 8,
     "type": "mcq",
-    "stem": "Social Psychiatry is MOST accurately defined as:",
+    "stem": "PANDAS is mentioned as an example of infection-linked mental illness. What does PANDAS stand for and what is its specific psychiatric association?",
     "options": [
-      "A branch of study and research with important clinical applications concerned with the etiology, diagnosis, treatment, and prevention of mental disorder",
-      "A branch of psychiatry concerned primarily with the social determinants of mental illness and the design of population-level mental health interventions",
-      "A branch of community medicine that applies epidemiological methods to assess the burden of mental disorders in defined populations"
+      "Paediatric Autoimmune Neuropsychiatric Disorder Associated with Streptococcus bacteria, linked to the development of obsessive compulsive disorder and other mental illnesses in children",
+      "Paediatric Autoimmune Neurological Disease Associated with Staphylococcus, linked to the development of anxiety disorders and tic disorders in adolescents",
+      "Paediatric Acquired Neuropsychiatric Disorder After Streptococcal infection, linked to the development of schizophrenia spectrum disorders in school-aged children"
     ],
     "answer": "A"
   },
   {
     "id": 9,
     "type": "mcq",
-    "stem": "A Psychiatric Interview is described as involving structured or unstructured conversation between a psychiatrist and the patient. Which SPECIFIC purpose distinguishes it from other assessment tools?",
+    "stem": "Prenatal damage is described as a biological factor in mental illness. Which specific examples are given to illustrate how prenatal damage can contribute to psychiatric conditions?",
     "options": [
-      "It gathers information about mental health symptoms, history, and psychosocial factors to establish rapport, understand the patient's concerns, and formulate a diagnosis",
-      "It administers standardised psychometric instruments to quantify the severity of psychiatric symptoms and monitor response to treatment over time",
-      "It evaluates cognitive, emotional, and behavioural functioning by observing appearance, mood, affect, thought processes, speech, perception, and insight"
+      "Disruption of early foetal brain development or trauma at birth such as loss of oxygen to the brain may be a factor in development of conditions such as autism spectrum disorders",
+      "Maternal malnutrition during the first trimester and foetal alcohol exposure during the second trimester are the primary prenatal causes of childhood psychiatric disorders",
+      "Maternal infection during pregnancy and chromosomal abnormalities detected on amniocentesis are the main prenatal contributors to neurodevelopmental psychiatric conditions"
     ],
     "answer": "A"
   },
   {
     "id": 10,
     "type": "mcq",
-    "stem": "The Mental Status Examination (MSE) assesses which domains of functioning? Which option MOST completely and accurately describes what the MSE evaluates?",
+    "stem": "Long-term substance abuse has been specifically linked to which psychiatric outcomes in the text?",
     "options": [
-      "It assesses cognitive, emotional, and behavioural functioning by observing appearance, mood, affect, thought processes, speech, perception, and insight to identify abnormal findings and formulate a diagnosis",
-      "It assesses intelligence, personality traits, cognitive abilities, and specific mental health symptoms using standardised measures such as intelligence tests and personality inventories",
-      "It assesses the patient's physiological parameters, neurological reflexes, and medication compliance to rule out organic causes of psychiatric symptoms"
+      "Anxiety, depression, and paranoia",
+      "Schizophrenia, bipolar disorder, and obsessive compulsive disorder",
+      "Dementia, delirium, and confabulation in chronic users"
     ],
     "answer": "A"
   },
   {
     "id": 11,
     "type": "mcq",
-    "stem": "Psychological Testing uses standardised measures to assess aspects of an individual's psychological functioning. Which of the following are CORRECTLY identified as examples of psychological tests?",
+    "stem": "Physical causes of mental illness are described as organic causes confined to a demonstrable physical disorder. Which infections are SPECIFICALLY listed as physical causes that can trigger mental illness in predisposed individuals?",
     "options": [
-      "Intelligence tests, personality inventories, cognitive assessments, and specific symptom-based questionnaires",
-      "Electroencephalograms, sleep studies, polysomnography, and brain wave assessments",
-      "Blood counts, urinalysis, genetic markers, and hormonal assay panels"
+      "Malaria, chicken pox, small pox, eclampsia, uraemia, jaundice, meningitis, and encephalitis — through infiltration of brain cells by micro-organisms and their toxins which irritate the brain cells",
+      "Tuberculosis, HIV/AIDS, hepatitis B, typhoid fever, and COVID-19 — through systemic inflammatory response affecting the blood-brain barrier and causing neuroinflammation",
+      "Influenza, malaria, meningitis, and COVID-19 — through cytokine storm affecting the hypothalamic-pituitary axis and disrupting neurochemical balance"
     ],
     "answer": "A"
   },
   {
     "id": 12,
     "type": "mcq",
-    "stem": "Neuropsychological Assessments evaluate specific cognitive functions. Which of the following correctly identifies what neuropsychological tests are conducted to evaluate?",
+    "stem": "Chemical poisons are listed as physical causes of mental illness. Which specific examples are cited in the text as chemical poisons that may contact the brain substance?",
     "options": [
-      "They evaluate specific cognitive functions such as attention, memory, language, and executive functioning to assess the impact of brain injuries or neurodegenerative diseases",
-      "They evaluate specific physiological parameters such as heart rate, pupillary reflexes, and respiratory patterns to assess autonomic nervous system involvement in psychiatric conditions",
-      "They evaluate the biochemical basis of cognitive decline by measuring neurotransmitter receptor interaction and metabolic disorders in the prefrontal cortex"
+      "Drug poisoning, carbon monoxide poisoning, and other chemical poisons that may be ingested or in one way or another get in contact with the brain substance",
+      "Lead poisoning, mercury poisoning, and arsenic toxicity — all heavy metals that accumulate in the basal ganglia and disrupt dopaminergic transmission",
+      "Organophosphate poisoning, cyanide toxicity, and alcohol-induced thiamine deficiency — all impairing mitochondrial energy production in neurons"
     ],
     "answer": "A"
   },
   {
     "id": 13,
     "type": "mcq",
-    "stem": "Sleep Studies (Polysomnography) are conducted to evaluate various physiological parameters. Which of the following MOST accurately describes what sleep studies assess?",
+    "stem": "Intoxicants are described as a physical cause of mental illness. Which examples are given in the text, and how are they characterised?",
     "options": [
-      "They assess various physiological parameters and breathing patterns during sleep, monitor brain waves, eye movements, muscle activity, and are used to identify sleep disorders and guide treatment planning",
-      "They assess the patient's circadian rhythm by measuring melatonin levels in 24-hour urine collections and correlating them with sleep diary reports",
-      "They assess daytime cognitive performance, executive function, and memory consolidation as indirect markers of sleep quality and REM cycle disruption"
+      "Intoxicants may be in the form of tablets, liquids, powders, or in a very crude state such as flowers or yeast; they may be taken in by ingestion or smoking and often cause addiction — e.g. alcohol, opium, and amphetamines",
+      "Intoxicants include prescribed medications such as benzodiazepines and barbiturates taken above therapeutic doses, causing CNS depression and addiction",
+      "Intoxicants refer exclusively to illicit substances such as cannabis, cocaine, and heroin, which directly stimulate dopamine release in the mesolimbic pathway"
     ],
     "answer": "A"
   },
   {
     "id": 14,
     "type": "mcq",
-    "stem": "Functional Assessments provide information on the impact of mental health on a person's daily functioning. Which domains are SPECIFICALLY included in functional assessments?",
+    "stem": "Endocrine factors are described as physical causes of mental illness. Which specific examples illustrate how endocrine disorders cause mental disequilibrium?",
     "options": [
-      "They assess social, occupational, and self-care functioning, providing information on abilities and impairments in daily life activities, which can include assessing the impact of mental health on daily functioning",
-      "They assess neurological reflexes, motor coordination, and sensory processing to quantify the physical manifestations of psychiatric conditions affecting daily life",
-      "They assess the individual's response to pharmacological treatment by monitoring symptom severity scores and quality of life measures across defined time intervals"
+      "Hyperthyroidism may give rise to anxiety states while myxoedema (hypothyroidism) may give rise to a state of depression in the adult",
+      "Cushing's syndrome causes depression through hypercortisolism while Addison's disease causes psychosis through aldosterone deficiency",
+      "Diabetes mellitus causes dementia through chronic hyperglycaemia while hypoglycaemia causes acute confusional states through brain glucose deprivation"
     ],
     "answer": "A"
   },
   {
     "id": 15,
     "type": "mcq",
-    "stem": "Neuroimaging uses techniques such as MRI and CT scanning. Which SPECIFIC role do these investigations play in psychiatric assessment?",
+    "stem": "Nutritional factors are listed as physical causes of mental illness. Which specific deficiencies and their associated conditions are mentioned in the text?",
     "options": [
-      "They examine the structure and functioning of the brain and can identify structural abnormalities, tumours, or neurological conditions that may be contributing to the individual's mental health symptoms",
-      "They identify biochemical imbalances in neurotransmitter systems and receptor densities that correlate directly with the severity of psychiatric symptoms",
-      "They confirm the diagnosis of psychiatric disorders by detecting characteristic lesions that are pathognomonic for specific conditions such as schizophrenia or bipolar disorder"
+      "Vitamin B and protein deficiencies may produce confessional states and may give rise to pellagra, beriberi, or Korsakoff's syndrome, which may occur as a sequel to chronic alcoholism",
+      "Vitamin D and calcium deficiencies may produce depressive states and are commonly associated with seasonal affective disorder in populations with limited sunlight exposure",
+      "Folate and iron deficiencies may produce confusional states and are most commonly associated with postpartum psychiatric disorders in malnourished mothers"
     ],
     "answer": "A"
   },
   {
     "id": 16,
     "type": "mcq",
-    "stem": "MRI (Magnetic Resonance Imaging) uses strong magnetic fields and radio waves to produce detailed images. Which statement MOST precisely distinguishes MRI from CT scanning?",
+    "stem": "Circulatory factors are listed as physical causes of mental illness. Which circulatory abnormality is specifically mentioned as causing mental or physical retardation in children?",
     "options": [
-      "MRI is a non-invasive imaging technique that uses strong magnetic fields and radio waves to produce high-resolution images of organs, tissues, and structures within the body",
-      "MRI is a diagnostic imaging procedure that combines X-rays and computer technology to create cross-sectional images of the body, providing detailed images of bones, organs, blood vessels, and soft tissues",
-      "MRI is a non-invasive test that measures and records the electrical activity of the brain using electrodes placed on the scalp, capturing the brain's electrical impulses"
+      "Rhesus incompatibility causes mental or physical retardation in children, while diminished blood supply to the brain occurring in arteriosclerosis or heart diseases can lead to mental disorder",
+      "Cardiac arrhythmias reduce cerebral perfusion pressure and cause progressive mental deterioration, while thrombotic strokes cause localised psychiatric deficits",
+      "Hypertension causes vascular dementia through repeated microinfarcts, while cardiac failure causes confusional states through chronic cerebral hypoxia"
     ],
     "answer": "A"
   },
   {
     "id": 17,
     "type": "mcq",
-    "stem": "MRI is used to diagnose and evaluate a wide range of conditions. Which of the following is CORRECTLY listed as a condition for which MRI provides diagnostic information?",
+    "stem": "Trauma is described in the text as one of the common organic problems. Which statement MOST accurately describes how traumatic brain damage can lead to mental illness?",
     "options": [
-      "Brain and spinal cord disorders, joint and musculoskeletal problems, tumours, infections, cardiovascular diseases, and other abnormalities in various body systems",
-      "Epilepsy, sleep disorders, brain tumours, encephalopathies, and evaluation of altered mental status or seizures primarily",
-      "Metabolic disorders, neurotransmitter receptor interaction, cerebral blood circulation, and disorders of oxygen deprivation primarily"
+      "Traumatic brain damage may result in a variety of mental syndromes depending on the location and severity of the injury, and personality of the individual; they may result in acute psychoses or convulsive seizures",
+      "Traumatic brain damage always results in permanent psychiatric disability proportional to the area of brain tissue destroyed, regardless of the individual's premorbid personality",
+      "Traumatic brain damage primarily causes depression and anxiety disorders through disruption of the prefrontal-limbic connections without affecting psychosis susceptibility"
     ],
     "answer": "A"
   },
   {
     "id": 18,
     "type": "mcq",
-    "stem": "CT (Computed Tomography) scanning provides cross-sectional images of the body. Which of the following MOST accurately describes how CT scan works mechanically?",
+    "stem": "Psychological factors that contribute to mental illness include severe psychological trauma. Which specific examples of psychological trauma are listed in the text?",
     "options": [
-      "CT scan is a diagnostic imaging procedure that combines X-rays and computer technology to create cross-sectional images of the body, providing detailed images of bones, organs, blood vessels, and soft tissues",
-      "CT scan uses strong magnetic fields and radio waves to produce high-resolution images of organs, tissues, and structures within the body without using ionising radiation",
-      "CT scan measures specific brain functioning such as glucose metabolism and oxygen utilisation by patient receiving an intravenous injection of radioactive substance"
+      "Severe psychological trauma during childhood such as emotional, physical, or sexual abuse; loss of a close person at the early stage of life such as parents or a guardian; being neglected during childhood",
+      "Work-related stress, academic failure, and financial loss in adulthood; these are the primary psychological traumas that predispose individuals to major psychiatric disorders",
+      "Witnessing community violence, natural disasters, and war — post-traumatic stimuli that directly trigger PTSD and major depressive disorder in genetically susceptible individuals"
     ],
     "answer": "A"
   },
   {
     "id": 19,
     "type": "mcq",
-    "stem": "CT scans are commonly used to diagnose and monitor which conditions? Which option is MOST consistent with the text's indications for CT scanning?",
+    "stem": "Environmental factors described as stressors that trigger mental illness in susceptible individuals include which of the following list as stated in the text?",
     "options": [
-      "Trauma injuries, cancers, infections, organ diseases, blood clots, and abnormalities in the brain, chest, abdomen, pelvis, and other body areas",
-      "Metabolic disorders, neurotransmitter receptor interaction, cerebral blood circulation, and disorders of oxygen deprivation",
-      "Epilepsy, sleep disorders, brain tumours, encephalopathies, and evaluation of altered mental status or seizures"
+      "Death or divorce, dysfunctional family life, feelings of inadequacy or low self-esteem, anxiety, anger or loneliness, changing jobs or school, social or cultural expectations, and substance abuse by the person or the person's parents",
+      "Noise pollution, overcrowding, poor urban planning, and lack of recreational facilities — environmental stressors that trigger psychiatric disorders through chronic cortisol elevation",
+      "Workplace bullying, academic pressure, social media exposure, and cyberbullying — modern environmental stressors that trigger anxiety and depression in adolescents"
     ],
     "answer": "A"
   },
   {
     "id": 20,
     "type": "mcq",
-    "stem": "The EEG (Electroencephalogram) is a non-invasive test. Which of the following MOST accurately describes what an EEG measures and how it works?",
+    "stem": "Socio-cultural factors include social norms and expectations. How do rigid gender roles specifically contribute to mental illness according to the text?",
     "options": [
-      "EEG measures and records the electrical activity of the brain using electrodes placed on the scalp; it captures the brain's electrical impulses and generates a graph called an electroencephalogram",
-      "EEG measures specific brain functioning such as glucose metabolism and oxygen utilisation using an intravenous injection of radioactive substance visualised by surrounding detectors",
-      "EEG measures and records the magnetic fields produced by electrical currents in the brain using superconducting sensors positioned around the head"
+      "Rigid gender roles and expectations can contribute to depression and anxiety by creating pressure and stress",
+      "Rigid gender roles cause schizophrenia by suppressing authentic self-expression and triggering dopaminergic dysregulation in gender non-conforming individuals",
+      "Rigid gender roles cause bipolar disorder by cycling between periods of role conformity and rebellion, creating the mood cycling characteristic of the disorder"
     ],
     "answer": "A"
   },
   {
     "id": 21,
     "type": "mcq",
-    "stem": "EEG is primarily used in the diagnosis and management of which conditions? Which option MOST accurately reflects the text's listed indications for EEG?",
+    "stem": "Discrimination and marginalisation are listed as socio-cultural factors. Which specific bases of discrimination are mentioned in the text?",
     "options": [
-      "Epilepsy, sleep disorders, brain tumours, encephalopathies, and evaluation of altered mental status or seizures",
-      "Trauma injuries, cancers, infections, organ diseases, blood clots, and abnormalities in the brain",
-      "Metabolic disorders, neurotransmitter receptor interaction, cerebral blood circulation, and disorders of oxygen deprivation"
+      "Race, ethnicity, gender, sexual orientation, and religion — which can create chronic stress, trauma, and social isolation leading to development of mental health issues such as depression and anxiety",
+      "Educational level, occupational status, physical disability, and age — which create cumulative disadvantage and predict mental health outcomes across the life course",
+      "Immigration status, language proficiency, and cultural practices — which marginalise minority communities and trigger collective trauma responses"
     ],
     "answer": "A"
   },
   {
     "id": 22,
     "type": "mcq",
-    "stem": "Positron Emission Tomography (PET) measures specific brain functioning. Which of the following MOST accurately describes how PET imaging is performed?",
+    "stem": "Political instability is described as a political factor contributing to mental illness. Which specific mental health outcomes are linked to political instability in the text?",
     "options": [
-      "PET measures specific brain functioning such as glucose metabolism and oxygen utilisation; it is done by the patient receiving an intravenous injection of radioactive substance, and the head is surrounded by detectors that relay data to a computer to interpret the signal and produce the image",
-      "PET uses strong magnetic fields and radio waves to produce high-resolution images of metabolically active brain regions without the use of ionising radiation or radioactive tracers",
-      "PET measures and records the electrical activity of metabolically active brain regions using electrodes placed on the scalp during cognitive activation tasks"
+      "Trauma, displacement, and loss — leading to depression, anxiety, post-traumatic stress disorder (PTSD), and other mental health problems",
+      "Paranoia, antisocial personality disorder, and schizophrenia — directly caused by the chronic unpredictability of living under politically unstable governments",
+      "Substance use disorders and conduct disorders — arising from broken social institutions and the absence of rule of law in politically unstable regions"
     ],
     "answer": "A"
   },
   {
     "id": 23,
     "type": "mcq",
-    "stem": "PET scanning is indicated for which specific conditions? Which option MOST accurately reflects the text's indications?",
+    "stem": "Government policies are listed as a political factor in mental illness. How specifically do austerity policies contribute to mental health problems?",
     "options": [
-      "Metabolic disorders, neurotransmitter receptor interaction, cerebral blood circulation, and disorders of oxygen deprivation",
-      "Epilepsy, sleep disorders, brain tumours, encephalopathies, and evaluation of altered mental status or seizures",
-      "Trauma injuries, cancers, infections, organ diseases, blood clots, and abnormalities in the brain, chest, abdomen, and pelvis"
+      "Policies that increase poverty or inequality, such as austerity measures, can lead to stress and social isolation, increasing the risk of mental health problems",
+      "Policies that increase taxation and reduce social welfare directly deplete serotonin levels in low-income populations, triggering major depressive episodes",
+      "Policies that restrict access to mental health services in rural areas create a treatment gap, causing untreated psychiatric disorders to worsen progressively"
     ],
     "answer": "A"
   },
   {
     "id": 24,
     "type": "mcq",
-    "stem": "Genetic Testing in psychiatry is conducted to identify specific genetic variations or mutations. Which of the following MOST accurately describes what psychiatric genetic testing can provide?",
+    "stem": "Personal Experience is listed as a political factor in the text. How is it specifically defined?",
     "options": [
-      "Insight into potential risk factors, treatment response, or inheritance patterns within families for certain psychiatric disorders",
-      "Definitive diagnosis of psychiatric disorders by identifying pathognomonic gene mutations that confirm the presence of conditions such as schizophrenia or bipolar disorder",
-      "Predictive information about the exact age of onset and severity of psychiatric conditions based on the number of gene copies identified in chromosomal analysis"
+      "Childhood experiences resulting in emotional maladjustment in later life — such as parental friction, separation, over-protection of the child, rejection of the child, or erratic nature of parents",
+      "Adult life experiences of failure, loss, or rejection that accumulate over time and trigger late-onset psychiatric disorders in previously well-functioning individuals",
+      "Workplace experiences of harassment, discrimination, and professional failure that create cumulative psychological injury predisposing to burnout and depression"
     ],
     "answer": "A"
   },
   {
     "id": 25,
     "type": "mcq",
-    "stem": "Laboratory Tests in psychiatric assessment include blood tests, urine tests, and genetic markers. What is the PRIMARY purpose of performing these laboratory investigations in psychiatric settings?",
+    "stem": "Disturbances of behaviour are listed as one of the clinical manifestations of mental illness. Motor behaviour in psychiatric conditions comprises which TWO main components?",
     "options": [
-      "To assess physiological factors that can influence mental health, identifying potential underlying medical conditions, nutrient deficiencies, hormonal imbalances, or substance use",
-      "To confirm the biochemical basis of psychiatric diagnoses by measuring neurotransmitter levels in serum samples collected during acute psychiatric episodes",
-      "To screen for medication toxicity and therapeutic drug levels to ensure psychotropic medications are maintained within safe and effective ranges"
+      "Bodily movement and stream of talk",
+      "Psychomotor retardation and automatic obedience",
+      "Impulsiveness and negativism only"
     ],
     "answer": "A"
   },
   {
     "id": 26,
     "type": "mcq",
-    "stem": "Urinalysis examines the physical, chemical, and microscopic properties of urine. What specific substances does urinalysis detect and measure?",
+    "stem": "Verbigeration is listed as a type of movement disturbance in psychiatric illness. Which definition MOST accurately describes verbigeration?",
     "options": [
-      "Proteins, glucose, blood cells, bacteria, and other components detected by analysing a urine sample",
-      "Neurotransmitter metabolites, cortisol breakdown products, thyroid hormones, and psychotropic drug metabolites specific to psychiatric monitoring",
-      "Electrolytes, plasma osmolality, creatinine clearance, and glomerular filtration rate as indicators of renal contribution to psychiatric symptoms"
+      "Monotonous repetition of phrases",
+      "Monotonous repetition of actions characteristic of catatonic schizophrenia",
+      "Repetition of phrases or words heard in the environment — an imitation behaviour"
     ],
     "answer": "A"
   },
   {
     "id": 27,
     "type": "mcq",
-    "stem": "Urinalysis is used in psychiatric assessment for which specific indications? Which option MOST accurately reflects the text's listed uses?",
+    "stem": "Negativism is a behavioural manifestation in psychiatry. Which of the following MOST accurately describes negativism?",
     "options": [
-      "To assess kidney function, detect urinary tract infections, screen for certain medical conditions such as diabetes, liver disease, or kidney disorders, monitor medication or drug use, and evaluate overall health",
-      "To detect neurotransmitter metabolites that indicate dopamine and serotonin dysregulation contributing to the patient's psychiatric symptoms",
-      "To screen specifically for illicit substance use, alcohol metabolites, and psychotropic drug levels as part of forensic psychiatric evaluation"
+      "Consists in the patient doing the exact opposite of what is asked of him, e.g. shutting the eyes when told to open them",
+      "The patient actively opposes or resists anything he is asked to do or being done for him, such as in schizophrenic patients",
+      "A sudden outburst of activity at times due to hallucination, seen in manic or schizophrenic patients"
     ],
     "answer": "A"
   },
   {
     "id": 28,
     "type": "mcq",
-    "stem": "A Full Blood Count (FBC) is performed as a laboratory test in psychiatric assessment. What role does it serve, based on the context of laboratory investigations in psychiatry?",
+    "stem": "Restiveness is listed as a behavioural manifestation. How does it differ from negativism as described in the text?",
     "options": [
-      "It is performed as part of a screening test to identify various medical conditions including anaemia and infections, and is used in the evaluation of patients as part of overall clinical presentation assessment",
-      "It is performed to measure the concentration of psychotropic medications in plasma and identify toxic levels before initiating psychiatric treatment",
-      "It is performed to quantify serotonin and dopamine levels in platelets as a peripheral marker of central monoamine neurotransmitter activity"
+      "Restiveness is when the patient actively opposes or resists anything he is asked to do or being done for him, while negativism involves doing the exact opposite of what is asked",
+      "Restiveness is a monotonous repetition of purposeless acts, while negativism involves doing the exact opposite of commands",
+      "Restiveness is a slowing down of bodily movement combined with slowing of thought, while negativism is an outburst of sudden activity"
     ],
     "answer": "A"
   },
   {
     "id": 29,
     "type": "mcq",
-    "stem": "Which of the following BEST explains why specific investigations may vary depending on the individual patient's symptoms and medical history in psychiatric settings?",
+    "stem": "Psychomotor retardation is described as a specific behavioural manifestation. Which statement MOST accurately defines it?",
     "options": [
-      "These investigations play crucial roles in diagnosing, monitoring, and managing a wide range of medical conditions; the specific indications vary depending on the symptoms, medical history, and suspected or known conditions of the individual patient",
-      "These investigations are ordered exclusively by psychiatrists based on DSM-5 diagnostic criteria, and the choice of investigation is determined by the specific psychiatric diagnosis rather than individual patient factors",
-      "These investigations are standardised for all psychiatric admissions and do not vary between patients because all mental disorders share the same physiological underpinnings requiring the same baseline workup"
+      "Slowing down of bodily movement combined with slowing of thought",
+      "Complete suppression of speech, thought, and action — more common in schizophrenic states than in depressive ones",
+      "Maintenance of uncomfortable postures for long periods of time in psychiatric patients"
     ],
     "answer": "A"
   },
   {
     "id": 30,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A 67-year-old retired teacher is referred to a psychiatric clinic with progressive memory loss, personality changes, and disorientation. The psychiatrist orders neuroimaging. Which investigation would provide the MOST detailed high-resolution images of brain tissue to evaluate for neurodegenerative changes?",
+    "stem": "Stupor is distinguished from Psychomotor Retardation in the text. Which definition MOST precisely describes Stupor?",
     "options": [
-      "MRI â using strong magnetic fields and radio waves to produce high-resolution images of organs, tissues, and brain structures, ideal for evaluating brain and spinal cord disorders",
-      "EEG â measuring and recording the electrical activity of the brain using electrodes placed on the scalp to capture the brain's electrical impulses and identify abnormal patterns",
-      "PET scan â measuring specific brain functioning such as glucose metabolism using an intravenous radioactive substance to visualise areas of abnormal metabolic activity"
+      "Complete suppression of speech, thought, and action — more common in schizophrenic states than in depressive ones",
+      "Slowing down of bodily movement combined with slowing of thought — seen in both depressive and schizophrenic patients",
+      "A curious wax-like rigidity of the muscles characteristic of catatonic schizophrenic patients"
     ],
     "answer": "A"
   },
   {
     "id": 31,
     "type": "mcq",
-    "stem": "CASE SCENARIO (continued from Q30): The neuroimaging reveals a space-occupying lesion. The psychiatrist now needs to assess whether the patient has epileptic activity contributing to his altered mental status. Which investigation is MOST appropriate?",
+    "stem": "Waxy Flexibility is described in the text as a specific motor abnormality. Which definition BEST describes it?",
     "options": [
-      "CT scan â combining X-rays and computer technology to create cross-sectional images of the body including blood clots and bone abnormalities",
-      "EEG â primarily used in the diagnosis and management of epilepsy, sleep disorders, brain tumours, encephalopathies, and evaluation of altered mental status or seizures",
-      "PET scan â measuring neurotransmitter receptor interaction and cerebral blood circulation to identify areas of abnormal neuronal activity"
+      "A curious wax-like rigidity of the muscles in schizophrenic patients",
+      "Maintenance of uncomfortable postures for long periods of time in psychiatric patients",
+      "The slowing down of bodily movement combined with slowing of thought in depressive states"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 32,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A 22-year-old university student presents with auditory hallucinations, social withdrawal, and declining academic performance over 6 months. After clinical assessment, the psychiatrist orders laboratory tests. Which of the following BEST justifies this decision?",
+    "stem": "Confabulation is listed as a behavioural manifestation. Which description MOST accurately defines confabulation as it appears in the text?",
     "options": [
-      "Laboratory tests including blood tests, urine tests, or genetic markers may be performed to assess physiological factors that can influence mental health, identifying underlying medical conditions, nutrient deficiencies, hormonal imbalances, or substance use",
-      "Laboratory tests are primarily ordered to confirm the biochemical diagnosis of schizophrenia by measuring dopamine metabolite levels in the cerebrospinal fluid",
-      "Laboratory tests are ordered exclusively to monitor psychotropic medication levels before initiating antipsychotic therapy to establish safe baseline pharmacokinetic parameters"
+      "The patient has a gross defect in his memory and fills the gaps with a purely imaginary event",
+      "The patient invents entirely new words that are meaningless and unrecognisable, filling conversations with neologistic content",
+      "The patient's thinking is slow and characterised by trivial and unnecessary details before the central point is reached"
     ],
     "answer": "A"
   },
   {
     "id": 33,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A 45-year-old man with known alcohol use disorder presents for psychiatric assessment. His urine sample is sent for urinalysis. Which findings from the urinalysis are MOST relevant in this context?",
+    "stem": "Circumstantiality is described as a specific disturbance of stream of thought. Which statement MOST accurately defines circumstantiality?",
     "options": [
-      "Urinalysis can detect proteins, glucose, blood cells, bacteria, and other components; in this patient it is relevant to monitor medication or drug use and screen for liver disease indicated by protein or glucose abnormalities",
-      "Urinalysis can detect neurotransmitter metabolites of dopamine and serotonin that confirm the degree of alcohol-induced neurochemical disruption",
-      "Urinalysis can confirm the diagnosis of alcohol use disorder by identifying characteristic ethanol crystalline structures visible on microscopic examination"
+      "The thinking process is slow; the speech is characterised by trivial and unnecessary details before the central point is reached — common in schizophrenia",
+      "The patient has a gross defect in memory and fills in gaps with imaginary events as a coping mechanism",
+      "The sequence of the talk or speech is broken into fragments, making it impossible to follow the patient's train of thought"
     ],
     "answer": "A"
   },
   {
     "id": 34,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A child is brought to a child psychiatry clinic by his mother who reports that he is destructive at home and failing in school. The psychiatrist notes that the child's father is also impulsive and aggressive. Which TWO factors identified in child psychiatry are MOST relevant to consider?",
+    "stem": "Flight of Ideas is described as a disturbance of stream of talk. Which statement MOST precisely defines it and distinguishes it from incoherence?",
     "options": [
-      "The influence of the environment â including the father's aggressive behaviour modelling â and the plasticity of the child's mind, which means the mind is not fixed and can adjust to certain situations",
-      "The child's genetic predisposition from the father and the neurochemical imbalance identified through laboratory testing of dopamine and norepinephrine levels",
-      "The socioeconomic status of the family and the child's position as a firstborn, which create performance pressure and externalising behaviour patterns"
+      "Patients think fast; their associations are superficial and often guided by rhymes and distracted by changing objects in the environment (distractibility); these disturbances of thoughts and stream of talk constitute flight of ideas",
+      "The sequence of the talk or speech is broken into fragments, making it impossible to follow — unlike incoherence which features intact but rapidly shifting ideas",
+      "Patients experience sudden stoppage of speech or thought that breaks off discussion — different from incoherence which involves fragmented but continuous speech"
     ],
     "answer": "A"
   },
   {
     "id": 35,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A nurse working in a community mental health setting is visiting patients in their homes instead of a hospital setting. This nurse's role is MOST consistent with which field of psychiatry?",
+    "stem": "Neologism is listed as a disturbance of stream of talk. Which definition MOST accurately describes neologism?",
     "options": [
-      "Community Psychiatry â which has developed to the realisation that most of the environment expended in the past as treatment for the mentally ill individuals can be better provided in their own community",
-      "Social Psychiatry â which is a branch of study and research with important clinical applications concerned with the etiology, diagnosis, treatment, and prevention of mental disorder",
-      "Trans-cultural Psychiatry â which is an extension of cultural psychiatry studying mental disorders across diverse cultural backgrounds"
+      "The invention of new words usually meaningless, seen in schizophrenia",
+      "The sudden stoppage of speech occurring in schizophrenia where the patient breaks or stops discussion",
+      "A severe form of fragmentation of speech in which seemingly unrelated words are strung together with no apparent meaning or logical coherency"
     ],
     "answer": "A"
   },
   {
     "id": 36,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A 70-year-old woman with depression is referred to a geriatric psychiatrist. A student nurse asks why she is not managed in the general adult psychiatry unit. The MOST accurate explanation is:",
+    "stem": "Word Salad is described as a severe form of speech disturbance. Which statement MOST accurately defines Word Salad and distinguishes it from Neologism?",
     "options": [
-      "The age of 65 is traditionally accepted as the cut-off point between adult and geriatric psychiatric practice; geriatric psychiatry provides specialised prevention and treatment of mental and emotional disorders affecting the elderly",
-      "The age of 70 is traditionally accepted as the cut-off point between adult and geriatric psychiatric practice; patients above 70 must be managed exclusively by geriatric specialists",
-      "The age of 60 is traditionally accepted as the cut-off point between adult and geriatric psychiatric practice; patients above 60 have fundamentally different neurochemical profiles requiring specialised management"
+      "A severe form of fragmentation of speech in which seemingly unrelated words are strung together resulting in disconnected words with no apparent meaning or logical coherency, common in schizophrenia",
+      "The invention of new words usually meaningless — different from Word Salad which involves real but disconnected words strung together",
+      "Monotonous repetition of phrases with no apparent communicative intent — a more severe form of the verbal stereotypy seen in catatonic schizophrenia"
     ],
     "answer": "A"
   },
   {
     "id": 37,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A court orders a psychiatric evaluation of a suspect charged with murder who claims he did not know what he was doing. This evaluation falls under which field of psychiatry?",
+    "stem": "Elation is described as an emotional reaction. Which definition distinguishes Elation from Euphoria as described in the text?",
     "options": [
-      "Forensic Psychiatry â which includes all aspects of psychiatry that remain in close and significant contact with the law, legislation, or jurisprudence",
-      "Social Psychiatry â which is concerned with important clinical applications including the etiology, diagnosis, treatment, and prevention of mental disorder",
-      "Community Psychiatry â which has developed to provide mental health treatment for mentally ill individuals who come into contact with community systems including law enforcement"
+      "Elation is excessive joy which is not in keeping with the patient's actual circumstances, seen as an example in manic patients; Euphoria is a generalised feeling of well-being seen in manic and some alcoholic patients",
+      "Elation is a generalised feeling of well-being seen in manic and alcoholic patients; Euphoria is excessive joy not in keeping with the patient's circumstances, seen in schizophrenia",
+      "Elation involves laughter and euphoric mood appropriate to circumstances, while Euphoria involves inappropriate or incongruent happiness regardless of life events"
     ],
     "answer": "A"
   },
   {
     "id": 38,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A psychiatric nurse is conducting an initial assessment and asks a patient about the onset, duration, and nature of his symptoms while building a therapeutic relationship. Which investigation type is the nurse performing?",
+    "stem": "Incongruity of affect is described in the text using a specific clinical example. Which example BEST illustrates incongruity of affect?",
     "options": [
-      "A Psychiatric Interview â involving structured or unstructured conversation to gather information about mental health symptoms, history, and psychosocial factors to establish rapport and formulate a diagnosis",
-      "A Mental Status Examination â assessing cognitive, emotional, and behavioural functioning by observing appearance, mood, affect, thought processes, speech, perception, and insight",
-      "A Psychological Test â using standardised measures to assess aspects of psychological functioning including intelligence, personality traits, and cognitive abilities"
+      "A patient with schizophrenia laughs when told that his father is dead — responding with joyful emotion to horrible experiences in a jocular manner",
+      "A patient with mania laughs excessively and euphoria is excessive joy not in keeping with actual circumstances",
+      "A schizophrenic patient feels indifferent to joyful or sorrowful stimuli and manifests little emotional reaction to either stimulus"
     ],
     "answer": "A"
   },
   {
     "id": 39,
     "type": "mcq",
-    "stem": "CASE SCENARIO: During a ward round, a psychiatric nurse observes a patient's grooming, spontaneity of speech, coherence of thought, and orientation to time, place, and person. She documents her findings. Which investigation is being performed?",
+    "stem": "Flattening of Affect is described as an emotional manifestation. Which statement MOST accurately defines it and identifies the patient population in which it is most manifested?",
     "options": [
-      "The Mental Status Examination â assessing cognitive, emotional, and behavioural functioning by observing appearance, mood, affect, thought processes, speech, perception, and insight to identify abnormal findings",
-      "The Psychiatric Interview â involving structured or unstructured conversation between the psychiatrist and the patient to gather information and formulate a diagnosis",
-      "A Neuropsychological Assessment â evaluating specific cognitive functions such as attention, memory, language, and executive functioning to assess the impact of brain injuries"
+      "Patient manifests little emotional reaction to either joyful or sorrowful stimuli — the patient feels indifferent to the situation; this is manifested by the schizophrenic patient",
+      "Patient responds with excessive and uncontrollable laughter to joyful stimuli and uncontrollable crying to sorrowful stimuli — seen in patients with pseudobulbar affect",
+      "Patient's emotional responses are appropriate in kind but reduced in intensity — a partial flattening seen in patients on antipsychotic medications"
     ],
     "answer": "A"
   },
   {
     "id": 40,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A patient with a recent traumatic brain injury undergoes testing to determine his memory span, language comprehension, and problem-solving ability. Which investigation is MOST appropriate for this purpose?",
+    "stem": "Delusions are defined in the text. Which definition MOST precisely and completely defines a delusion, distinguishing it from an illusion or hallucination?",
     "options": [
-      "Neuropsychological Assessment â evaluating specific cognitive functions such as attention, memory, language, and executive functioning to assess the impact of brain injuries or neurodegenerative diseases",
-      "Mental Status Examination â assessing cognitive, emotional, and behavioural functioning by observing appearance, mood, affect, thought processes, speech, and perception",
-      "Psychological Testing â using standardised measures to assess intelligence, personality traits, cognitive abilities, and specific mental health symptoms"
+      "False beliefs which are not true to fact, cannot be corrected by an appeal to reason or logic, and are not in keeping with the individual's environment and education",
+      "False sensory perceptions without an external stimulus — the patient perceives something that is not actually present in the environment",
+      "False perception with misinterpretation of external stimuli — a real external object is perceived but interpreted incorrectly"
     ],
     "answer": "A"
   },
   {
     "id": 41,
-    "type": "fitb",
-    "stem": "Psychiatry is a branch of medicine that deals with the study, prevention, ____________, treatment, and rehabilitation of the mentally ill.",
-    "answer": "diagnosis",
-    "acceptableAnswers": ["diagnosis", "diagnoses"]
+    "type": "mcq",
+    "stem": "Delusion of Grandeur is described in the text. In which psychiatric conditions does it occur MOST commonly, and what is its specific clinical content?",
+    "options": [
+      "The patient states he has untold wealth, influence, or power or is an outstanding, famous, or notorious person or historic or religious figure; occurs most commonly in mania, also in states of excitement and general paralysis",
+      "The patient states he has no money despite the fact that he could be a millionaire before illness; occurs most commonly in depression with nihilistic features",
+      "The patient is convinced there is something wrong with his body in the absence of physical disease, complaining of cancer, tumours, or inability to swallow; occurs most in involutional depression"
+    ],
+    "answer": "A"
   },
   {
     "id": 42,
-    "type": "fitb",
-    "stem": "Psychiatric nursing is also known as ____________ health nursing and is a specialised field of nursing practice that helps individuals with a mental health disorder to ____________ and improve.",
-    "answer": "mental; recover",
-    "acceptableAnswers": ["mental; recover", "mental health; recover"]
+    "type": "mcq",
+    "stem": "Nihilistic Delusion is described in the text. What is its specific content and in which psychiatric condition is it most commonly found?",
+    "options": [
+      "Patient says that there is no world, he does not exist, and that his body is dead; this type of delusion is present in patient with involutional type of depression",
+      "Patient believes he has untold wealth or is a religious figure of historic importance; this occurs most commonly in mania and general paralysis",
+      "Patient feels suspicious of others and believes the food is poisoned; this is common in schizophrenia where delusions of persecution arise as a result of hallucinations"
+    ],
+    "answer": "A"
   },
   {
     "id": 43,
-    "type": "fitb",
-    "stem": "In Child Psychiatry, the plasticity of the child's mind means the mind of the child is ____________ and can ____________ to certain situations in the environment.",
-    "answer": "not fixed; adjust",
-    "acceptableAnswers": ["not fixed; adjust", "not fixed; adapt"]
+    "type": "mcq",
+    "stem": "Delusion of Persecution is distinguished from Paranoid Delusion in the text. Which statement MOST accurately describes the relationship between these two types of delusion?",
+    "options": [
+      "Paranoid delusions involve feeling suspicious of others; delusions of persecution are common in schizophrenia and often arise as a result of hallucinations — e.g. the patient may state the food is poisoned and refuse to eat",
+      "Paranoid delusions involve believing others are plotting harm through an organised conspiracy; delusions of persecution involve feeling watched or monitored without a specific persecutor",
+      "Paranoid delusions are fixed false beliefs about a specific individual planning harm; delusions of persecution are generalised suspicions with no identified persecutor"
+    ],
+    "answer": "A"
   },
   {
     "id": 44,
-    "type": "fitb",
-    "stem": "Adolescent Psychiatry deals with prevention and treatment of mental and emotional disorders affecting adolescence, defined as the period between ____________ and ____________.",
-    "answer": "puberty; young adulthood",
-    "acceptableAnswers": ["puberty; young adulthood", "puberty; adulthood"]
+    "type": "mcq",
+    "stem": "Ideas of Reference are described in the text. Which definition MOST accurately describes this phenomenon?",
+    "options": [
+      "Consist in the patient thinking that something in his surroundings is intended to have a meaning for him when no such meaning is intended — e.g. an article in a newspaper refers to him",
+      "Consist in the patient believing another person is thinking through his mind — false belief that external thoughts are being inserted into his consciousness",
+      "Consist in the patient believing certain objects or persons have control over his or her behaviours"
+    ],
+    "answer": "A"
   },
   {
     "id": 45,
-    "type": "fitb",
-    "stem": "In Geriatric Psychiatry, the age of ____________ is traditionally accepted as the cut-off point between adult and geriatric psychiatric practice.",
-    "answer": "65",
-    "acceptableAnswers": ["65", "sixty-five"]
+    "type": "mcq",
+    "stem": "Somatic Delusion is defined in the text. Which statement MOST accurately describes it?",
+    "options": [
+      "The individual has a false idea about the functioning of his or her body",
+      "The individual is convinced there is something wrong with his body in the absence of physical disease, complaining of cancer, inability to swallow, or tumours — manifested with involutional depression",
+      "The individual believes his body does not exist or is dead, a manifestation present in patients with involutional type of depression"
+    ],
+    "answer": "A"
   },
   {
     "id": 46,
-    "type": "fitb",
-    "stem": "Forensic Psychiatry includes all aspects of psychiatry that remain in close and significant contact with the ____________, legislation, or ____________.",
-    "answer": "law; jurisprudence",
-    "acceptableAnswers": ["law; jurisprudence", "law; jurisprudence including"]
+    "type": "mcq",
+    "stem": "Hallucinations are defined as false sensory perceptions without an external stimulus. Which example from the text BEST illustrates a hallucination?",
+    "options": [
+      "A patient may claim to see a lion when no lion is actually present — experiencing a visual hallucination without any real external stimulus",
+      "A patient misinterprets a shadow on the wall as a lion — experiencing a false perception with misinterpretation of a real external stimulus",
+      "A patient believes a lion is following him everywhere based on delusional thinking without any actual sensory experience of seeing the animal"
+    ],
+    "answer": "A"
   },
   {
     "id": 47,
-    "type": "fitb",
-    "stem": "Trans-cultural Psychiatry is an extension of ____________ psychiatry and is the study of mental disorders across ____________ cultural background.",
-    "answer": "cultural; diverse",
-    "acceptableAnswers": ["cultural; diverse", "cultural psychiatry; diverse"]
+    "type": "mcq",
+    "stem": "Psychosis and Neurosis are compared in the text. Which feature MOST clearly distinguishes psychosis from neurosis in terms of reality testing?",
+    "options": [
+      "In psychosis, reality testing is impaired — individuals may struggle to distinguish between reality and their own thoughts or perceptions; in neurosis, reality testing is intact — individuals maintain a clear understanding of reality",
+      "In psychosis, reality testing is intact but insight is absent; in neurosis, reality testing is impaired but insight is preserved, making neurosis more distressing to the patient",
+      "In psychosis, reality testing is partially preserved in early stages but deteriorates progressively; in neurosis, reality testing is completely absent due to the overwhelming nature of anxiety"
+    ],
+    "answer": "A"
   },
   {
     "id": 48,
-    "type": "fitb",
-    "stem": "Social Psychiatry is a branch of study and research with important clinical applications concerned with the etiology, ____________, treatment, and ____________ of mental disorder.",
-    "answer": "diagnosis; prevention",
-    "acceptableAnswers": ["diagnosis; prevention"]
+    "type": "mcq",
+    "stem": "In the comparison of Psychosis versus Neurosis, what are the treatment approaches contrasted for each condition?",
+    "options": [
+      "Psychosis often requires medication and psychotherapy, sometimes hospitalization; Neurosis is treated with psychotherapy, medication in some cases, or self-help techniques",
+      "Psychosis is treated exclusively with antipsychotic medication and ECT; Neurosis is treated exclusively with cognitive behavioural therapy without the use of any pharmacological agents",
+      "Psychosis requires long-term institutionalisation and pharmacotherapy; Neurosis requires short-term outpatient psychotherapy without any need for pharmacological intervention"
+    ],
+    "answer": "A"
   },
   {
     "id": 49,
-    "type": "fitb",
-    "stem": "A Psychiatric Interview involves ____________ or ____________ conversation between a psychiatrist and the patient to gather information about their mental health symptoms, history, and psychosocial factors.",
-    "answer": "structured; unstructured",
-    "acceptableAnswers": ["structured; unstructured", "structured or unstructured"]
+    "type": "mcq",
+    "stem": "CASE SCENARIO: A 30-year-old man insists the food at the hospital is poisoned and refuses to eat. He reports hearing voices telling him not to eat. Which type of delusion is he most likely experiencing, and which clinical feature of psychosis explains how this delusion arose?",
+    "options": [
+      "Delusion of persecution — common in schizophrenia, which often arises as a result of hallucinations (auditory hallucinations telling him the food is poisoned)",
+      "Hypochondriacal delusion — the patient is convinced something is wrong with his body in the absence of physical disease, here manifested as contamination fear",
+      "Delusion of reference — the patient believes the hospital food specifically refers to and targets him based on a misinterpretation of environmental cues"
+    ],
+    "answer": "A"
   },
   {
     "id": 50,
-    "type": "fitb",
-    "stem": "The Mental Status Examination assesses the individual's ____________, emotional, and ____________ functioning by observing appearance, mood, affect, thought processes, speech, perception, and insight.",
-    "answer": "cognitive; behavioural",
-    "acceptableAnswers": ["cognitive; behavioural", "cognitive; behavioral"]
+    "type": "mcq",
+    "stem": "CASE SCENARIO: A 55-year-old woman with chronic depression repeatedly tells the nurse she has no money and cannot afford her medication — despite documented evidence that she is wealthy. Which type of delusion does this represent?",
+    "options": [
+      "Delusion of Poverty — the patient states she has no money despite the fact that she could be a millionaire before illness",
+      "Nihilistic Delusion — the patient says she does not exist and that her body is dead, present in involutional type of depression",
+      "Somatic Delusion — the individual has a false idea about the functioning of her body, misinterpreting her physical sensations as signs of poverty"
+    ],
+    "answer": "A"
   },
   {
     "id": 51,
-    "type": "fitb",
-    "stem": "Psychological tests are ____________ measures used to assess various aspects of an individual's psychological functioning, including intelligence, ____________ traits, cognitive abilities, and specific mental health symptoms.",
-    "answer": "standardised; personality",
-    "acceptableAnswers": ["standardised; personality", "standardized; personality"]
+    "type": "mcq",
+    "stem": "CASE SCENARIO: A 28-year-old man in the psychiatric ward suddenly shuts his eyes tightly when the nurse instructs him to open them. When asked to sit, he stands. Which behavioural manifestation does this BEST represent?",
+    "options": [
+      "Negativism — consisting in the patient doing the exact opposite of what is asked of him",
+      "Restiveness — the patient actively opposes or resists anything he is asked to do or being done for him",
+      "Automatic obedience — the patient automatically repeats actions commanded without resistance"
+    ],
+    "answer": "A"
   },
   {
     "id": 52,
-    "type": "fitb",
-    "stem": "Neuropsychological Assessments evaluate specific cognitive functions such as attention, ____________, language, and ____________ functioning to assess the impact of brain injuries or neurodegenerative diseases.",
-    "answer": "memory; executive",
-    "acceptableAnswers": ["memory; executive"]
+    "type": "mcq",
+    "stem": "CASE SCENARIO: A psychiatric nurse observes a patient who has been holding her arm raised at an uncomfortable angle for over two hours without changing position. Which behavioural manifestation BEST describes this?",
+    "options": [
+      "Catalepsy — maintenance of uncomfortable postures for long periods",
+      "Waxy Flexibility — a curious wax-like rigidity of the muscles in schizophrenic patients",
+      "Stupor — complete suppression of speech, thought, and action more common in schizophrenic states"
+    ],
+    "answer": "A"
   },
   {
     "id": 53,
-    "type": "fitb",
-    "stem": "Sleep Studies, also known as ____________, assess various physiological parameters and ____________ patterns during sleep and are used to identify sleep disorders and guide treatment planning.",
-    "answer": "polysomnography; breathing",
-    "acceptableAnswers": ["polysomnography; breathing", "Polysomnography; breathing"]
+    "type": "mcq",
+    "stem": "CASE SCENARIO: An elderly man with chronic alcoholism cannot remember what he had for breakfast and spontaneously describes attending a party at State House last week — an event that never occurred. Which behavioural manifestation BEST describes this?",
+    "options": [
+      "Confabulation — the patient has a gross defect in his memory and fills the gaps with a purely imaginary event",
+      "Circumstantiality — the thinking process is slow and characterised by trivial and unnecessary details before reaching the central point",
+      "Neologism — the invention of new meaningless words used to fill conversational gaps, common in schizophrenia"
+    ],
+    "answer": "A"
   },
   {
     "id": 54,
-    "type": "fitb",
-    "stem": "Functional Assessments provide information on the impact of mental health on the individual's ____________, occupational, and ____________ functioning.",
-    "answer": "social; self-care",
-    "acceptableAnswers": ["social; self-care", "social; self care"]
+    "type": "mcq",
+    "stem": "CASE SCENARIO: A manic patient speaks so rapidly that the nurse notices she rhymes words and shifts topic every time she sees a new object in the room. The nurse correctly identifies this as:",
+    "options": [
+      "Flight of Ideas — patients think fast; associations are superficial and often guided by rhymes and distracted by changing objects in the environment (distractibility)",
+      "Circumstantiality — thinking is slow, characterised by trivial details before the central point is reached",
+      "Word Salad — seemingly unrelated words strung together with no apparent meaning or logical coherency"
+    ],
+    "answer": "A"
   },
   {
     "id": 55,
-    "type": "fitb",
-    "stem": "MRI is a non-invasive imaging technique that uses strong ____________ fields and ____________ waves to produce high-resolution images of organs, tissues, and structures within the body.",
-    "answer": "magnetic; radio",
-    "acceptableAnswers": ["magnetic; radio"]
+    "type": "mcq",
+    "stem": "CASE SCENARIO: A 25-year-old woman is brought in by her mother who reports that the daughter believes a recent newspaper article about a robbery was specifically about her and sent to warn her. Which type of delusion does this represent?",
+    "options": [
+      "Ideas of Reference — the patient thinks something in her surroundings is intended to have meaning for her when no such meaning is intended",
+      "Delusion of Persecution — the patient feels suspicious of others and believes events around her are directed at her by a persecutor",
+      "Delusion of Control — the individual believes certain objects or persons have control over his or her behaviours"
+    ],
+    "answer": "A"
   },
   {
     "id": 56,
-    "type": "fitb",
-    "stem": "CT scan is a diagnostic imaging procedure that combines ____________ and computer technology to create ____________-sectional images of the body.",
-    "answer": "X-rays; cross",
-    "acceptableAnswers": ["X-rays; cross", "x-rays; cross", "X rays; cross"]
+    "type": "mcq",
+    "stem": "CASE SCENARIO: A woman from a rural community refuses psychiatric treatment because members of her community believe mental illness is a sign of spiritual weakness and a curse. Which socio-cultural factor is MOST directly responsible for this barrier?",
+    "options": [
+      "Cultural beliefs and values — in some cultures mental health problems may be stigmatised or seen as a sign of weakness, preventing individuals from seeking treatment",
+      "Social and economic factors — poverty and unemployment create barriers to accessing formal mental health services in rural communities",
+      "Migration and acculturation — the stress of adjusting to cultural expectations different from urban norms leads to depression and avoidance of treatment"
+    ],
+    "answer": "A"
   },
   {
     "id": 57,
-    "type": "fitb",
-    "stem": "EEG measures and records the ____________ activity of the brain using electrodes placed on the ____________. It captures the brain's electrical impulses and generates a graph called an ____________.",
-    "answer": "electrical; scalp; electroencephalogram",
-    "acceptableAnswers": ["electrical; scalp; electroencephalogram"]
+    "type": "mcq",
+    "stem": "CASE SCENARIO: A child of 8 years is brought to the psychiatric clinic with behavioural problems. History reveals the father is abusive, the parents separated when the child was 3, and the mother is overprotective. Which category of factors in the aetiology of mental illness does this history MOST directly represent?",
+    "options": [
+      "Personal Experience — childhood experiences resulting in emotional maladjustment in later life including parental friction, separation, over-protection of the child, and rejection",
+      "Hereditary factors — the mental illness is inherited through genes from the father who has an abusive personality",
+      "Environmental factors — the dysfunctional family life and substance abuse by parents are the primary triggers identified in this case"
+    ],
+    "answer": "A"
   },
   {
     "id": 58,
     "type": "fitb",
-    "stem": "EEG is primarily used in the diagnosis and management of conditions such as ____________, sleep disorders, brain tumours, encephalopathies, and evaluation of altered mental status or ____________.",
-    "answer": "epilepsy; seizures",
-    "acceptableAnswers": ["epilepsy; seizures"]
+    "stem": "The occurrence of mental illness depends on two main factors: ____________ factors and ____________ factors.",
+    "answer": "predisposing; precipitating",
+    "acceptableAnswers": ["predisposing; precipitating"]
   },
   {
     "id": 59,
     "type": "fitb",
-    "stem": "PET scan measures specific brain functioning such as glucose ____________ and oxygen ____________. It is done by the patient receiving an intravenous injection of ____________ substance.",
-    "answer": "metabolism; utilization; radioactive",
-    "acceptableAnswers": ["metabolism; utilization; radioactive", "metabolism; utilisation; radioactive"]
+    "stem": "Predisposing factors are also referred to as ____________ factors and are regarded as making the individual ____________ (likely or liable) to specific mental disorders.",
+    "answer": "essential; susceptible",
+    "acceptableAnswers": ["essential; susceptible"]
   },
   {
     "id": 60,
     "type": "fitb",
-    "stem": "PET scan indications include metabolic disorders, neurotransmitter ____________ interaction, cerebral blood ____________, and disorders of oxygen ____________.",
-    "answer": "receptor; circulation; deprivation",
-    "acceptableAnswers": ["receptor; circulation; deprivation"]
+    "stem": "Hereditary factors are transmitted through the ____________ of our individuals, present in ____________ of the cells which decide the physical and mental makeup of an individual. They may be ____________ or recessive.",
+    "answer": "genes; chromosomes; dominant",
+    "acceptableAnswers": ["genes; chromosomes; dominant"]
   },
   {
     "id": 61,
     "type": "fitb",
-    "stem": "Genetic Testing may be conducted to identify specific genetic ____________ or mutations associated with certain psychiatric disorders, providing insight into potential risk factors, treatment ____________, or inheritance patterns within families.",
-    "answer": "variations; response",
-    "acceptableAnswers": ["variations; response"]
+    "stem": "Biological factors involve abnormal functioning of nerve cell circuits that communicate through chemicals called ____________. The specific neurotransmitters named in the text are ____________, serotonin, and ____________.",
+    "answer": "neurotransmitters; dopamine; adrenalin",
+    "acceptableAnswers": ["neurotransmitters; dopamine; adrenalin", "neurotransmitters; dopamine; adrenaline"]
   },
   {
     "id": 62,
     "type": "fitb",
-    "stem": "Urinalysis examines the ____________, chemical, and ____________ properties of urine, involving analysing a urine sample to detect substances such as proteins, glucose, blood cells, and ____________.",
-    "answer": "physical; microscopic; bacteria",
-    "acceptableAnswers": ["physical; microscopic; bacteria"]
+    "stem": "PANDAS stands for Paediatric ____________ Neuropsychiatric Disorder Associated with ____________ bacteria, linked to the development of ____________ compulsive disorder in children.",
+    "answer": "Autoimmune; Streptococcus; obsessive",
+    "acceptableAnswers": ["Autoimmune; Streptococcus; obsessive", "autoimmune; streptococcus; obsessive"]
   },
   {
     "id": 63,
     "type": "fitb",
-    "stem": "CASE SCENARIO (Fill-in): A 19-year-old student with no prior psychiatric history presents with first-episode psychosis. The team orders a ____________ count as a laboratory investigation to screen for medical conditions including ____________ and infections that may be contributing to his mental health symptoms.",
-    "answer": "full blood; anaemia",
-    "acceptableAnswers": ["full blood; anaemia", "full blood; anemia", "FBC; anaemia"]
+    "stem": "Hyperthyroidism may give rise to ____________ states while myxoedema may give rise to a state of ____________ in the adult.",
+    "answer": "anxiety; depression",
+    "acceptableAnswers": ["anxiety; depression"]
   },
   {
     "id": 64,
     "type": "fitb",
-    "stem": "CASE SCENARIO (Fill-in): A nurse explains to a student that neuroimaging techniques such as ____________ and ____________ are used to examine the structure and functioning of the brain and can identify structural abnormalities, tumours, or neurological conditions contributing to the individual's mental health symptoms.",
-    "answer": "MRI; CT",
-    "acceptableAnswers": ["MRI; CT", "MRI; CT scan", "Magnetic Resonance Imaging; Computed Tomography"]
+    "stem": "Vitamin B and protein deficiencies may produce ____________ states and may give rise to pellagra, beriberi, or ____________ syndrome, which may occur as a sequel to chronic alcoholism.",
+    "answer": "confessional; Korsakoff's",
+    "acceptableAnswers": ["confessional; Korsakoff's", "confessional; Korsakoffs"]
   },
   {
     "id": 65,
     "type": "fitb",
-    "stem": "CASE SCENARIO (Fill-in): A 68-year-old man presents to the psychiatric clinic with confusion and memory loss. The psychiatrist orders a PET scan. This is appropriate because PET scan indications include ____________ disorders and disorders of ____________ deprivation which may explain his cognitive decline.",
-    "answer": "metabolic; oxygen",
-    "acceptableAnswers": ["metabolic; oxygen"]
+    "stem": "Rhesus incompatibility can cause mental or physical ____________ in children, while diminished blood supply to the brain occurring in arteriosclerosis or heart diseases can lead to mental ____________.",
+    "answer": "retardation; disorder",
+    "acceptableAnswers": ["retardation; disorder"]
   },
   {
     "id": 66,
-    "type": "mcq",
-    "stem": "CASE SCENARIO: A 16-year-old girl is brought to a psychiatric clinic by her parents after she began refusing to go to school, became withdrawn, and stopped eating. Her relationship with her teachers and siblings has deteriorated. Which psychiatric subspecialty would PRIMARILY manage her condition?",
-    "options": [
-      "Adolescent Psychiatry â dealing with prevention and treatment of mental and emotional disorders affecting the period between puberty and young adulthood, including difficulties at school and the relationship of sisters, brothers, teachers, and others",
-      "Child Psychiatry â dealing with the diagnosis and management of psychiatric disorders in children, where environmental influence and mind plasticity are the two most important dominant factors",
-      "Social Psychiatry â dealing with the etiology, diagnosis, treatment, and prevention of mental disorder with important clinical applications"
-    ],
-    "answer": "A"
+    "type": "fitb",
+    "stem": "Stupor means complete suppression of ____________, thought, and action. It is more common in ____________ states than in depressive ones.",
+    "answer": "speech; schizophrenic",
+    "acceptableAnswers": ["speech; schizophrenic", "speech; schizophrenic states"]
   },
   {
     "id": 67,
-    "type": "mcq",
-    "stem": "CASE SCENARIO: A researcher is studying how mental illness is expressed differently among the Yoruba, Igbo, and Hausa ethnic groups in Nigeria and comparing this to findings from European populations. This study falls under which psychiatric subspecialty?",
-    "options": [
-      "Trans-cultural Psychiatry â an extension of cultural psychiatry that is the study of mental disorders across diverse cultural backgrounds",
-      "Social Psychiatry â a branch of study and research with important clinical applications concerned with the etiology, diagnosis, treatment, and prevention of mental disorder",
-      "Community Psychiatry â developed to the realisation that most of the environment expended as treatment for the mentally ill can be provided in their own community"
-    ],
-    "answer": "A"
+    "type": "fitb",
+    "stem": "Confabulation occurs when the patient has a gross defect in his ____________ and fills the gaps with a purely ____________ event.",
+    "answer": "memory; imaginary",
+    "acceptableAnswers": ["memory; imaginary"]
   },
   {
     "id": 68,
-    "type": "mcq",
-    "stem": "CASE SCENARIO: A psychiatric nurse is assessing a patient who complains of excessive daytime sleepiness, snoring, and difficulty concentrating. To evaluate the patient's physiological parameters and breathing patterns during sleep, which investigation is MOST appropriate?",
-    "options": [
-      "Sleep Studies (Polysomnography) â assessing physiological parameters and breathing patterns, monitoring brain waves, eye movements, and muscle activity to identify sleep disorders and guide treatment planning",
-      "EEG â measuring and recording the electrical activity of the brain using electrodes placed on the scalp, primarily used in epilepsy, sleep disorders, and evaluation of altered mental status",
-      "Neuropsychological Assessment â evaluating specific cognitive functions such as attention, memory, language, and executive functioning to assess the impact of the sleep problem on daily cognition"
-    ],
-    "answer": "A"
+    "type": "fitb",
+    "stem": "Delusions are false ____________ which are not true to fact, cannot be corrected by an appeal to ____________ or logic, and are not in keeping with the individual's environment and ____________.",
+    "answer": "beliefs; reason; education",
+    "acceptableAnswers": ["beliefs; reason; education"]
   },
   {
     "id": 69,
-    "type": "mcq",
-    "stem": "CASE SCENARIO: A patient with a family history of early-onset Alzheimer's disease requests a test that can identify whether he carries genetic variations associated with his risk for developing psychiatric or neurodegenerative conditions. Which investigation would the psychiatrist order?",
-    "options": [
-      "Genetic Testing â conducted to identify specific genetic variations or mutations associated with certain psychiatric disorders, providing insight into potential risk factors, treatment response, or inheritance patterns within families",
-      "PET scan â measuring specific brain functioning such as glucose metabolism and oxygen utilisation to identify areas of abnormal activity that may indicate early neurodegeneration",
-      "MRI â producing high-resolution images of brain tissue to identify structural atrophy or abnormalities consistent with early Alzheimer's disease pathology"
-    ],
-    "answer": "A"
+    "type": "fitb",
+    "stem": "Nihilistic delusion is characterised by the patient saying that there is no ____________, he does not ____________, and that his body is ____________. This type of delusion is present in the involutional type of depression.",
+    "answer": "world; exist; dead",
+    "acceptableAnswers": ["world; exist; dead"]
   },
   {
     "id": 70,
-    "type": "mcq",
-    "stem": "CASE SCENARIO: A psychiatric team is planning discharge for a patient with schizophrenia. They need to assess her ability to cook, manage finances, and maintain personal hygiene independently. Which investigation type guides this assessment?",
-    "options": [
-      "Functional Assessment â providing information on the impact of mental health on daily functioning, assessing social, occupational, and self-care abilities and impairments in daily life activities",
-      "Mental Status Examination â assessing cognitive, emotional, and behavioural functioning by observing appearance, mood, affect, thought processes, speech, perception, and insight",
-      "Neuropsychological Assessment â evaluating specific cognitive functions such as attention, memory, language, and executive functioning to predict daily living capacity"
-    ],
-    "answer": "A"
+    "type": "fitb",
+    "stem": "CASE SCENARIO (Fill-in): A 22-year-old student hears voices (____________ hallucination) telling him that the food in the canteen is poisoned. He develops a ____________ of persecution and refuses to eat. This is a common presentation in ____________.",
+    "answer": "auditory; delusion; schizophrenia",
+    "acceptableAnswers": ["auditory; delusion; schizophrenia"]
   }
 ]
