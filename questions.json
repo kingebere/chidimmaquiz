@@ -1,720 +1,688 @@
-[
-  {
+
+  [{
     "id": 1,
     "type": "mcq",
-    "stem": "The actual cause of mental illness is often not known (idiopathic). The occurrence of mental illness depends on two main factors. Which pair CORRECTLY identifies these two factors?",
+    "stem": "Substance abuse is characterized by the inability to control or stop substance use despite the negative consequences it causes. The DSM-5, published by which organization, provides the diagnostic criteria for substance use disorders?",
     "options": [
-      "Predisposing factors and precipitating factors",
-      "Hereditary factors and constitutional factors",
-      "Biological factors and socio-cultural factors"
+      "The American Psychiatric Association, which publishes the Diagnostic and Statistical Manual of Mental Disorders (DSM-5)",
+      "The World Health Organization, which publishes the International Classification of Diseases (ICD-11)",
+      "The American Psychological Association, which publishes the Diagnostic and Statistical Manual of Mental Disorders (DSM-5)"
     ],
     "answer": "A"
   },
   {
     "id": 2,
     "type": "mcq",
-    "stem": "Predisposing factors in mental illness are also referred to as essential factors. How are they MOST accurately described in relation to the individual?",
+    "stem": "According to DSM-5, to establish a diagnosis of substance use disorder, an individual must meet at least how many criteria within a 12-month period?",
     "options": [
-      "Factors that trigger an attack and can be physical or psychological in nature, bringing about the disorder directly",
-      "Factors that may increase one's risk of developing a mental illness, making the individual susceptible (likely or liable) to specific mental disorders — regarded as influencing factors",
-      "Factors that are confined to a demonstrable physical disorder arising in or from outside the body and leading to disturbances of its function"
+      "At least two or more of the 11 outlined criteria within a 12-month period",
+      "At least three or more of the 11 outlined criteria within a 12-month period",
+      "At least four or more of the 11 outlined criteria within a 12-month period"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 3,
     "type": "mcq",
-    "stem": "Precipitating factors are described in the text as contributory factors. Which of the following MOST accurately distinguishes precipitating from predisposing factors?",
+    "stem": "The severity of substance use disorder is determined by the number of DSM-5 criteria met. Which classification is CORRECT?",
     "options": [
-      "Precipitating factors are the factors that trigger an attack and bring about the disorder; they can be physical or psychological, while predisposing factors increase susceptibility without directly causing the disorder",
-      "Precipitating factors increase an individual's long-term susceptibility to mental illness, while predisposing factors are the immediate triggers that bring about the acute episode",
-      "Precipitating factors refer only to biological causes such as infections and chemical poisons, while predisposing factors include psychological and socio-cultural influences"
+      "Mild: 2-3 criteria; Moderate: 4-5 criteria; Severe: 6 or more criteria",
+      "Mild: 1-2 criteria; Moderate: 3-4 criteria; Severe: 5 or more criteria",
+      "Mild: 2-3 criteria; Moderate: 4-6 criteria; Severe: 7 or more criteria"
     ],
     "answer": "A"
   },
   {
     "id": 4,
     "type": "mcq",
-    "stem": "Hereditary factors describe a process by which an illness or disorder is inherited from parents. Which statement MOST accurately describes the mechanism?",
+    "stem": "The FIRST of the four main DSM-5 criteria for establishing a diagnosis of substance dependence is Impaired Control. Which statement MOST accurately describes this criterion?",
     "options": [
-      "The factors are transmitted through the genes of our individuals, present in chromosomes of the cells which decide the physical and mental makeup of an individual, and may be dominant or recessive",
-      "The factors are transmitted through environmental exposure during critical developmental periods that alter gene expression in the offspring's cerebral cortex",
-      "The factors are transmitted through shared household environments and family behavioural patterns rather than through chromosomal inheritance"
+      "The individual demonstrates difficulty in controlling their substance use â manifested by unsuccessful attempts to cut down or control substance use, persistent desire or unsuccessful efforts to quit, and spending significant time obtaining, using, or recovering from substance use",
+      "The individual continues to use the substance despite persistent social or interpersonal problems caused or worsened by its effects, and gives up important social, occupational, or recreational activities",
+      "The individual experiences tolerance, needing increased amounts to achieve the desired effect, or experiencing diminished effects with continued use of the same amount"
     ],
     "answer": "A"
   },
   {
     "id": 5,
     "type": "mcq",
-    "stem": "Constitutional factors in mental illness refer to aspects of physique, personality, and intelligence. Which of the following BEST describes what 'constitutional' means in this context?",
+    "stem": "Tolerance is one of the DSM-5 criteria for substance use disorder. Which of the following MOST accurately defines tolerance as described in the text?",
     "options": [
-      "Aspects that were more or less rigidly fixed in early childhood or even before birth, such as prematurity of the child, damage to the developing foetus, birth injury, failure of development, and early environmental experience",
-      "Aspects that develop gradually through adolescence in response to psychosocial stressors, peer relationships, and educational performance, and are modifiable through early intervention",
-      "Aspects that are entirely determined by genetic inheritance and cannot be modified by any environmental, therapeutic, or pharmacological intervention once established"
+      "Needing increased amounts of the substance to achieve the desired effect, or experiencing diminished effects with continued use of the same amount",
+      "The presence of withdrawal syndrome or using the substance to relieve or avoid withdrawal symptoms",
+      "Taking the substance in larger amounts or over a longer period than intended despite awareness of harm"
     ],
     "answer": "A"
   },
   {
     "id": 6,
     "type": "mcq",
-    "stem": "Biological factors in mental illness involve abnormal functioning of nerve cell circuits or pathways. Which chemicals are specifically named as the neurotransmitters communicating within these brain circuits?",
+    "stem": "Withdrawal as a DSM-5 criterion for substance use disorder is characterized by which of the following?",
     "options": [
-      "Dopamine, serotonin, and adrenalin (and other biological chemicals) called neurotransmitters",
-      "Acetylcholine, GABA, and glutamate — the primary inhibitory and excitatory neurotransmitters in the central nervous system",
-      "Cortisol, norepinephrine, and oxytocin — the stress hormones that dysregulate mood and cognition in psychiatric disorders"
+      "The presence of a withdrawal syndrome or using the substance to relieve or avoid withdrawal symptoms",
+      "Needing increased amounts of the substance to achieve the desired effect or experiencing diminished effects with continued use",
+      "Continued use of the substance despite being aware of its physical or psychological harm to the individual"
     ],
     "answer": "A"
   },
   {
     "id": 7,
     "type": "mcq",
-    "stem": "Regarding the genetic (hereditary) biological factor in mental illness, which statement is MOST accurately supported by the text?",
+    "stem": "In the process of becoming drug dependent, the stage where the body develops tolerance and the individual uses more of the substance more frequently to experience the same level of intoxication is called:",
     "options": [
-      "Mental illness sometimes runs in families; people who have a family member with mental illness are likely to develop mental illness; susceptibility is passed on through genes; experts believe mental illness is linked to abnormalities in many genes rather than just one or a few",
-      "Mental illness is entirely genetic in aetiology; having a first-degree relative with schizophrenia guarantees that the individual will develop the same disorder",
-      "Mental illness is passed on genetically only when both parents carry the recessive gene mutation, following a simple Mendelian inheritance pattern"
+      "Increased tolerance â where with regular use the body develops tolerance requiring larger amounts of the substance to achieve desired effects",
+      "Psychological and physical dependence â where dependence begins to develop as the individual becomes psychologically and physically reliant on the substance",
+      "Regular use â where continued use of the substance leads to regular use as the individual begins to incorporate it into their routine"
     ],
     "answer": "A"
   },
   {
     "id": 8,
     "type": "mcq",
-    "stem": "PANDAS is mentioned as an example of infection-linked mental illness. What does PANDAS stand for and what is its specific psychiatric association?",
+    "stem": "Psychological dependence is distinguished from physical dependence in the text. Which pair CORRECTLY contrasts these two types of dependence?",
     "options": [
-      "Paediatric Autoimmune Neuropsychiatric Disorder Associated with Streptococcus bacteria, linked to the development of obsessive compulsive disorder and other mental illnesses in children",
-      "Paediatric Autoimmune Neurological Disease Associated with Staphylococcus, linked to the development of anxiety disorders and tic disorders in adolescents",
-      "Paediatric Acquired Neuropsychiatric Disorder After Streptococcal infection, linked to the development of schizophrenia spectrum disorders in school-aged children"
+      "Psychological dependence involves intense craving and desire for the drug; physical dependence is marked by the occurrence of withdrawal symptoms when the substance is reduced or discontinued",
+      "Psychological dependence involves withdrawal symptoms when the substance is reduced; physical dependence is marked by intense craving and desire for the drug",
+      "Psychological dependence involves needing increased amounts for the same effect; physical dependence involves continued use despite social and occupational consequences"
     ],
     "answer": "A"
   },
   {
     "id": 9,
     "type": "mcq",
-    "stem": "Prenatal damage is described as a biological factor in mental illness. Which specific examples are given to illustrate how prenatal damage can contribute to psychiatric conditions?",
+    "stem": "Phase I of alcohol dependence is called the Pre-Alcoholic Phase. Which of the following MOST accurately describes what characterises this phase?",
     "options": [
-      "Disruption of early foetal brain development or trauma at birth such as loss of oxygen to the brain may be a factor in development of conditions such as autism spectrum disorders",
-      "Maternal malnutrition during the first trimester and foetal alcohol exposure during the second trimester are the primary prenatal causes of childhood psychiatric disorders",
-      "Maternal infection during pregnancy and chromosomal abnormalities detected on amniocentesis are the main prenatal contributors to neurodevelopmental psychiatric conditions"
+      "They may start to rely on alcohol as a coping mechanism for stress or emotional issues; it is characterized by the use of alcohol to relieve everyday stress and tensions of life; as this continues daily, tolerance develops and the amount required to achieve the desired effect increases",
+      "This begins with blackouts â brief periods of amnesia that occur during or immediately following a period of taking the alcohol; alcohol is no longer a source of pleasure or relief but rather a drug required by the individual",
+      "Individuals become physically and psychologically dependent on alcohol; they experience intense cravings and may prioritise alcohol over other aspects of their lives; loss of control is described as the inability to choose whether or not to drink"
     ],
     "answer": "A"
   },
   {
     "id": 10,
     "type": "mcq",
-    "stem": "Long-term substance abuse has been specifically linked to which psychiatric outcomes in the text?",
+    "stem": "Phase II of alcohol dependence is called the Early Alcohol Phase. Which feature specifically distinguishes Phase II from Phase I?",
     "options": [
-      "Anxiety, depression, and paranoia",
-      "Schizophrenia, bipolar disorder, and obsessive compulsive disorder",
-      "Dementia, delirium, and confabulation in chronic users"
+      "Phase II begins with blackouts â brief periods of amnesia during or immediately following a period of taking alcohol; alcohol is no longer a source of pleasure or relief but rather a drug required by the individual",
+      "Phase II is characterized by individuals becoming physically and psychologically dependent on alcohol, experiencing intense cravings and prioritising alcohol over all other aspects of life",
+      "Phase II is characterized by the individual starting to drink secretly, feeling guilty, becoming defensive about drinking, with rapid gulping of drinks producing further blackouts and excessive use of denial and rationalization"
     ],
     "answer": "A"
   },
   {
     "id": 11,
     "type": "mcq",
-    "stem": "Physical causes of mental illness are described as organic causes confined to a demonstrable physical disorder. Which infections are SPECIFICALLY listed as physical causes that can trigger mental illness in predisposed individuals?",
+    "stem": "Phase III of alcohol dependence is known as the Crucial Phase. Which statement MOST accurately describes the defining feature of this phase that is described as loss of control?",
     "options": [
-      "Malaria, chicken pox, small pox, eclampsia, uraemia, jaundice, meningitis, and encephalitis — through infiltration of brain cells by micro-organisms and their toxins which irritate the brain cells",
-      "Tuberculosis, HIV/AIDS, hepatitis B, typhoid fever, and COVID-19 — through systemic inflammatory response affecting the blood-brain barrier and causing neuroinflammation",
-      "Influenza, malaria, meningitis, and COVID-19 — through cytokine storm affecting the hypothalamic-pituitary axis and disrupting neurochemical balance"
+      "Loss of control is described as the inability to choose whether or not to drink; there is binge drinking lasting from a few hours to several weeks; drinking is the total focus; the individual risks losing everything including job, marriage, family, friends, and self-respect",
+      "Loss of control is described as the onset of blackouts and amnesia immediately following alcohol consumption; the individual starts drinking secretly and uses denial and rationalization excessively",
+      "Loss of control is described as severe physical and psychological consequences including liver damage, cardiovascular problems, neurological impairments, and mental health disorders in the end stage"
     ],
     "answer": "A"
   },
   {
     "id": 12,
     "type": "mcq",
-    "stem": "Chemical poisons are listed as physical causes of mental illness. Which specific examples are cited in the text as chemical poisons that may contact the brain substance?",
+    "stem": "Phase IV of alcohol dependence is the Chronic Phase. Which consequences specifically characterise this end-stage phase?",
     "options": [
-      "Drug poisoning, carbon monoxide poisoning, and other chemical poisons that may be ingested or in one way or another get in contact with the brain substance",
-      "Lead poisoning, mercury poisoning, and arsenic toxicity — all heavy metals that accumulate in the basal ganglia and disrupt dopaminergic transmission",
-      "Organophosphate poisoning, cyanide toxicity, and alcohol-induced thiamine deficiency — all impairing mitochondrial energy production in neurons"
+      "Severe physical and psychological consequences; health significantly deteriorates leading to liver damage (cirrhosis), cardiovascular problems, neurological impairments, and mental health disorders; profound disruptions in relationships, employment, and overall functioning",
+      "Intense cravings and inability to choose whether or not to drink; binge drinking lasting hours to weeks; loss of job, marriage, family, friends, and self-respect; withdrawal symptoms on attempting to quit",
+      "Blackouts and brief periods of amnesia during drinking; alcohol becomes a drug required rather than a source of pleasure; individual begins drinking secretly and feels guilty about consumption"
     ],
     "answer": "A"
   },
   {
     "id": 13,
     "type": "mcq",
-    "stem": "Intoxicants are described as a physical cause of mental illness. Which examples are given in the text, and how are they characterised?",
+    "stem": "According to the text, what is the street name for Heroin in Nigeria?",
     "options": [
-      "Intoxicants may be in the form of tablets, liquids, powders, or in a very crude state such as flowers or yeast; they may be taken in by ingestion or smoking and often cause addiction — e.g. alcohol, opium, and amphetamines",
-      "Intoxicants include prescribed medications such as benzodiazepines and barbiturates taken above therapeutic doses, causing CNS depression and addiction",
-      "Intoxicants refer exclusively to illicit substances such as cannabis, cocaine, and heroin, which directly stimulate dopamine release in the mesolimbic pathway"
+      "Smack, junk, H, dope, horse, Brown Sugar",
+      "Meth, ice, crystal, speed, crank, mkpuru-mmiri",
+      "Coke, blow, snow, crack, rock"
     ],
     "answer": "A"
   },
   {
     "id": 14,
     "type": "mcq",
-    "stem": "Endocrine factors are described as physical causes of mental illness. Which specific examples illustrate how endocrine disorders cause mental disequilibrium?",
+    "stem": "The street names for Cannabis listed in the text include which of the following groups?",
     "options": [
-      "Hyperthyroidism may give rise to anxiety states while myxoedema (hypothyroidism) may give rise to a state of depression in the adult",
-      "Cushing's syndrome causes depression through hypercortisolism while Addison's disease causes psychosis through aldosterone deficiency",
-      "Diabetes mellitus causes dementia through chronic hyperglycaemia while hypoglycaemia causes acute confusional states through brain glucose deprivation"
+      "Marijuana, Weed, pot, grass, ganja, India herm: Igbo, Kush, Skunk, Loud, Mary Jane",
+      "Smack, junk, H, dope, horse, Brown Sugar",
+      "Spice, K2, synthetic marijuana, fake weed, herbal incense"
     ],
     "answer": "A"
   },
   {
     "id": 15,
     "type": "mcq",
-    "stem": "Nutritional factors are listed as physical causes of mental illness. Which specific deficiencies and their associated conditions are mentioned in the text?",
+    "stem": "Methamphetamine has a specific Nigerian street name listed in the text. Which of the following CORRECTLY identifies its street names?",
     "options": [
-      "Vitamin B and protein deficiencies may produce confessional states and may give rise to pellagra, beriberi, or Korsakoff's syndrome, which may occur as a sequel to chronic alcoholism",
-      "Vitamin D and calcium deficiencies may produce depressive states and are commonly associated with seasonal affective disorder in populations with limited sunlight exposure",
-      "Folate and iron deficiencies may produce confusional states and are most commonly associated with postpartum psychiatric disorders in malnourished mothers"
+      "Meth, ice, crystal, speed, crank, mkpuru-mmiri",
+      "Coke, blow, snow, crack, rock",
+      "Smack, junk, H, dope, horse, Brown Sugar"
     ],
     "answer": "A"
   },
   {
     "id": 16,
     "type": "mcq",
-    "stem": "Circulatory factors are listed as physical causes of mental illness. Which circulatory abnormality is specifically mentioned as causing mental or physical retardation in children?",
+    "stem": "Ketamine is listed as a substance of abuse. Which street names are SPECIFICALLY associated with Ketamine in the text?",
     "options": [
-      "Rhesus incompatibility causes mental or physical retardation in children, while diminished blood supply to the brain occurring in arteriosclerosis or heart diseases can lead to mental disorder",
-      "Cardiac arrhythmias reduce cerebral perfusion pressure and cause progressive mental deterioration, while thrombotic strokes cause localised psychiatric deficits",
-      "Hypertension causes vascular dementia through repeated microinfarcts, while cardiac failure causes confusional states through chronic cerebral hypoxia"
+      "Special K, vitamin K, cat Valium, horse tranquilizer",
+      "Shrooms, magic mushrooms, caps, zoomers",
+      "Benzos, tranks, downers, sleeping pills, candy"
     ],
     "answer": "A"
   },
   {
     "id": 17,
     "type": "mcq",
-    "stem": "Trauma is described in the text as one of the common organic problems. Which statement MOST accurately describes how traumatic brain damage can lead to mental illness?",
+    "stem": "Psilocybin mushrooms are listed as a substance of abuse. Which street names are SPECIFICALLY associated with them in the text?",
     "options": [
-      "Traumatic brain damage may result in a variety of mental syndromes depending on the location and severity of the injury, and personality of the individual; they may result in acute psychoses or convulsive seizures",
-      "Traumatic brain damage always results in permanent psychiatric disability proportional to the area of brain tissue destroyed, regardless of the individual's premorbid personality",
-      "Traumatic brain damage primarily causes depression and anxiety disorders through disruption of the prefrontal-limbic connections without affecting psychosis susceptibility"
+      "Shrooms, magic mushrooms, caps, zoomers",
+      "Special K, vitamin K, cat Valium, horse tranquilizer",
+      "Spice, K2, synthetic marijuana, fake weed, herbal incense"
     ],
     "answer": "A"
   },
   {
     "id": 18,
     "type": "mcq",
-    "stem": "Psychological factors that contribute to mental illness include severe psychological trauma. Which specific examples of psychological trauma are listed in the text?",
+    "stem": "Inhalants are listed as substances of abuse. Which street names are associated with Inhalants in the text?",
     "options": [
-      "Severe psychological trauma during childhood such as emotional, physical, or sexual abuse; loss of a close person at the early stage of life such as parents or a guardian; being neglected during childhood",
-      "Work-related stress, academic failure, and financial loss in adulthood; these are the primary psychological traumas that predispose individuals to major psychiatric disorders",
-      "Witnessing community violence, natural disasters, and war — post-traumatic stimuli that directly trigger PTSD and major depressive disorder in genetically susceptible individuals"
+      "Whippets, poppers, rush, huff, laughing gas",
+      "Shrooms, magic mushrooms, caps, zoomers",
+      "Glue, petrol, High on gas, sniff, solvent"
     ],
     "answer": "A"
   },
   {
     "id": 19,
     "type": "mcq",
-    "stem": "Environmental factors described as stressors that trigger mental illness in susceptible individuals include which of the following list as stated in the text?",
+    "stem": "Alcohol street names in Nigeria include which of the following as listed in the text?",
     "options": [
-      "Death or divorce, dysfunctional family life, feelings of inadequacy or low self-esteem, anxiety, anger or loneliness, changing jobs or school, social or cultural expectations, and substance abuse by the person or the person's parents",
-      "Noise pollution, overcrowding, poor urban planning, and lack of recreational facilities — environmental stressors that trigger psychiatric disorders through chronic cortisol elevation",
-      "Workplace bullying, academic pressure, social media exposure, and cyberbullying — modern environmental stressors that trigger anxiety and depression in adolescents"
+      "Booze, brew, hooch, juice, sauce, Paraga, OG, Kai Kai, Alomo, Sepe",
+      "Marijuana, Weed, pot, grass, ganja, India herm: Igbo, Kush, Skunk, Loud, Mary Jane",
+      "Meth, ice, crystal, speed, crank, mkpuru-mmiri"
     ],
     "answer": "A"
   },
   {
     "id": 20,
     "type": "mcq",
-    "stem": "Socio-cultural factors include social norms and expectations. How do rigid gender roles specifically contribute to mental illness according to the text?",
+    "stem": "Co-occurring mental health disorders are described as a factor contributing to the development of substance abuse. Which mental health conditions are SPECIFICALLY listed as examples in the text?",
     "options": [
-      "Rigid gender roles and expectations can contribute to depression and anxiety by creating pressure and stress",
-      "Rigid gender roles cause schizophrenia by suppressing authentic self-expression and triggering dopaminergic dysregulation in gender non-conforming individuals",
-      "Rigid gender roles cause bipolar disorder by cycling between periods of role conformity and rebellion, creating the mood cycling characteristic of the disorder"
+      "Depression, anxiety, post-traumatic stress disorder (PTSD), or attention-deficit/hyperactivity disorder (ADHD) â individuals may turn to substances as a way to self-medicate or cope with their emotional struggles",
+      "Schizophrenia, bipolar disorder, and obsessive compulsive disorder â conditions in which substances are used to suppress hallucinations and intrusive thoughts",
+      "Borderline personality disorder, antisocial personality disorder, and major depressive disorder â conditions that share neurobiological pathways with substance use disorders"
     ],
     "answer": "A"
   },
   {
     "id": 21,
     "type": "mcq",
-    "stem": "Discrimination and marginalisation are listed as socio-cultural factors. Which specific bases of discrimination are mentioned in the text?",
+    "stem": "Detoxification is listed as a component of substance abuse management. Which statement MOST accurately describes what detoxification involves?",
     "options": [
-      "Race, ethnicity, gender, sexual orientation, and religion — which can create chronic stress, trauma, and social isolation leading to development of mental health issues such as depression and anxiety",
-      "Educational level, occupational status, physical disability, and age — which create cumulative disadvantage and predict mental health outcomes across the life course",
-      "Immigration status, language proficiency, and cultural practices — which marginalise minority communities and trigger collective trauma responses"
+      "For individuals with severe substance dependence, medical detoxification may be necessary to safely manage withdrawal symptoms; it is typically conducted under medical supervision to ensure the individual's safety and comfort during withdrawal",
+      "Detoxification involves the administration of behavioural therapies including cognitive-behavioural therapy and motivational interviewing to manage withdrawal symptoms without pharmacological intervention",
+      "Detoxification is conducted in outpatient settings for all levels of substance dependence and involves the use of support groups and peer counselling to assist individuals through the withdrawal process"
     ],
     "answer": "A"
   },
   {
     "id": 22,
     "type": "mcq",
-    "stem": "Political instability is described as a political factor contributing to mental illness. Which specific mental health outcomes are linked to political instability in the text?",
+    "stem": "Behavioural therapies for substance abuse management are described in the text. Which of the following CORRECTLY identifies the specific therapies named?",
     "options": [
-      "Trauma, displacement, and loss — leading to depression, anxiety, post-traumatic stress disorder (PTSD), and other mental health problems",
-      "Paranoia, antisocial personality disorder, and schizophrenia — directly caused by the chronic unpredictability of living under politically unstable governments",
-      "Substance use disorders and conduct disorders — arising from broken social institutions and the absence of rule of law in politically unstable regions"
+      "Cognitive-behavioural therapy (CBT), motivational interviewing (MI), and contingency management â helping individuals understand underlying factors, develop coping skills, modify unhealthy thought patterns, and make positive behavioural changes",
+      "Dialectical behaviour therapy (DBT), psychodynamic therapy, and interpersonal therapy â helping individuals explore unresolved conflicts and emotional dysregulation contributing to substance use",
+      "Family systems therapy, acceptance and commitment therapy (ACT), and narrative therapy â helping individuals reconstruct their personal narratives to separate identity from substance use patterns"
     ],
     "answer": "A"
   },
   {
     "id": 23,
     "type": "mcq",
-    "stem": "Government policies are listed as a political factor in mental illness. How specifically do austerity policies contribute to mental health problems?",
+    "stem": "Medication-Assisted Treatment (MAT) is described in the text. Which medications are SPECIFICALLY named for opioid dependence and alcohol dependence respectively?",
     "options": [
-      "Policies that increase poverty or inequality, such as austerity measures, can lead to stress and social isolation, increasing the risk of mental health problems",
-      "Policies that increase taxation and reduce social welfare directly deplete serotonin levels in low-income populations, triggering major depressive episodes",
-      "Policies that restrict access to mental health services in rural areas create a treatment gap, causing untreated psychiatric disorders to worsen progressively"
+      "Opioids: methadone, buprenorphine; Alcohol: naltrexone, acamprosate â MAT is often combined with counseling and behavioural therapies for optimal outcomes",
+      "Opioids: naltrexone, acamprosate; Alcohol: methadone, buprenorphine â MAT is used independently of psychotherapy for best pharmacological outcomes",
+      "Opioids: diazepam, haloperidol; Alcohol: chlorpromazine, paraldehyde â chemical restraint agents repurposed for managing substance withdrawal symptoms"
     ],
     "answer": "A"
   },
   {
     "id": 24,
     "type": "mcq",
-    "stem": "Personal Experience is listed as a political factor in the text. How is it specifically defined?",
+    "stem": "Support groups are listed as a management strategy for substance abuse. Which specific support groups are named in the text?",
     "options": [
-      "Childhood experiences resulting in emotional maladjustment in later life — such as parental friction, separation, over-protection of the child, rejection of the child, or erratic nature of parents",
-      "Adult life experiences of failure, loss, or rejection that accumulate over time and trigger late-onset psychiatric disorders in previously well-functioning individuals",
-      "Workplace experiences of harassment, discrimination, and professional failure that create cumulative psychological injury predisposing to burnout and depression"
+      "Alcoholics Anonymous (AA) and Narcotics Anonymous (NA) â providing peer support, encouragement, and guidance from others who have experienced similar struggles",
+      "Substance Abusers Anonymous (SAA) and Recovering Addicts Network (RAN) â providing community-based peer support for all substances",
+      "Dual Recovery Anonymous (DRA) and Cocaine Anonymous (CA) â providing dual diagnosis-specific peer support for substance and mental health comorbidity"
     ],
     "answer": "A"
   },
   {
     "id": 25,
     "type": "mcq",
-    "stem": "Disturbances of behaviour are listed as one of the clinical manifestations of mental illness. Motor behaviour in psychiatric conditions comprises which TWO main components?",
+    "stem": "Dual Diagnosis Treatment is described as a management strategy for substance abuse. Which statement MOST accurately describes what it involves?",
     "options": [
-      "Bodily movement and stream of talk",
-      "Psychomotor retardation and automatic obedience",
-      "Impulsiveness and negativism only"
+      "Many individuals with substance abuse disorders also have co-occurring mental health disorders; integrated treatment that addresses both the substance abuse and mental health conditions is crucial for successful recovery, involving collaboration between addiction specialists and mental health professionals",
+      "Dual Diagnosis Treatment involves the simultaneous prescription of two different medications â one for the substance use disorder and one for the co-occurring mental health condition â without the need for psychotherapy",
+      "Dual Diagnosis Treatment is reserved for individuals with severe substance use disorder (6 or more DSM-5 criteria) who also meet criteria for a psychotic disorder such as schizophrenia or bipolar disorder"
     ],
     "answer": "A"
   },
   {
     "id": 26,
     "type": "mcq",
-    "stem": "Verbigeration is listed as a type of movement disturbance in psychiatric illness. Which definition MOST accurately describes verbigeration?",
+    "stem": "Restraint is defined in the text. Which definition MOST accurately describes what restraint is?",
     "options": [
-      "Monotonous repetition of phrases",
-      "Monotonous repetition of actions characteristic of catatonic schizophrenia",
-      "Repetition of phrases or words heard in the environment — an imitation behaviour"
+      "The use of appliances and chemical agent to impede the movement of the body of a restless and aggressive patient in order to prevent harming self and others, thereby providing temporal external control for a patient who cannot provide their own internal control",
+      "The use of padded rooms and seclusion to confine a patient who is unable to leave, with walls padded and kept free of items that could cause injury to promote comfort and safety",
+      "The use of hypnotic drugs and tranquilizers to sedate and calm an aggressive patient, thereby preventing injury to self and others through chemical means"
     ],
     "answer": "A"
   },
   {
     "id": 27,
     "type": "mcq",
-    "stem": "Negativism is a behavioural manifestation in psychiatry. Which of the following MOST accurately describes negativism?",
+    "stem": "Physical Restraint is distinguished from Chemical Restraint and Seclusion in the text. Which definition MOST precisely describes physical restraint?",
     "options": [
-      "Consists in the patient doing the exact opposite of what is asked of him, e.g. shutting the eyes when told to open them",
-      "The patient actively opposes or resists anything he is asked to do or being done for him, such as in schizophrenic patients",
-      "A sudden outburst of activity at times due to hallucination, seen in manic or schizophrenic patients"
+      "Devices, instruments, or appliances used to limit specific parts of the patient's body such as arms or legs, thus impeding the movement of a violent, aggressive, or restless patient â e.g. leather belt or vest may be used to stop the patient from getting out of bed",
+      "The use of hypnotic drugs and tranquilizers to sedate and calm an aggressive patient, thereby preventing injury to self and others",
+      "A type of restraint where a patient is confined in a room by himself and is unable to leave; the room is locked, walls are padded, and kept free of items that could cause injury"
     ],
     "answer": "A"
   },
   {
     "id": 28,
     "type": "mcq",
-    "stem": "Restiveness is listed as a behavioural manifestation. How does it differ from negativism as described in the text?",
+    "stem": "Seclusion is described in the text as a type of restraint. Which statement MOST accurately defines seclusion?",
     "options": [
-      "Restiveness is when the patient actively opposes or resists anything he is asked to do or being done for him, while negativism involves doing the exact opposite of what is asked",
-      "Restiveness is a monotonous repetition of purposeless acts, while negativism involves doing the exact opposite of commands",
-      "Restiveness is a slowing down of bodily movement combined with slowing of thought, while negativism is an outburst of sudden activity"
+      "A type of restraint in which a patient is confirmed in a room by himself and he is unable to leave the room; the room is locked, the walls are padded and kept free of items that could cause injury, and arranged with minimal items to promote the patient's comfort and safety",
+      "Devices, instruments, or appliances used to limit specific parts of the patient's body to impede movement of a violent, aggressive, or restless patient",
+      "The use of appliances and chemical agents to impede the movement of a restless and aggressive patient to prevent harming self and others"
     ],
     "answer": "A"
   },
   {
     "id": 29,
     "type": "mcq",
-    "stem": "Psychomotor retardation is described as a specific behavioural manifestation. Which statement MOST accurately defines it?",
+    "stem": "Which of the following are listed as ADVANTAGES of Restraint in the text?",
     "options": [
-      "Slowing down of bodily movement combined with slowing of thought",
-      "Complete suppression of speech, thought, and action — more common in schizophrenic states than in depressive ones",
-      "Maintenance of uncomfortable postures for long periods of time in psychiatric patients"
+      "It prevents patient from inflicting injury to self; prevents inflicting injury to others and damage to properties; enhances close physical observation and assessment of patient; prevents distraction in routine nursing management of other patients; chemical restraints produce therapeutic effect on the patient due to the tranquilizing properties; prevents aimless wandering and prevents suicide",
+      "It prevents patient from inflicting injury to self; prevents legal implications of uncontrolled aggressive behaviour; provides opportunity for the patient to reflect on behaviour; reduces the need for emergency medication administration",
+      "It prevents patient from inflicting injury to self; prevents patient from eloping from the ward; ensures medication compliance; reduces nursing workload; allows for uninterrupted therapeutic activities with other patients"
     ],
     "answer": "A"
   },
   {
     "id": 30,
     "type": "mcq",
-    "stem": "Stupor is distinguished from Psychomotor Retardation in the text. Which definition MOST precisely describes Stupor?",
+    "stem": "Which of the following are listed as DISADVANTAGES of Restraint in the text?",
     "options": [
-      "Complete suppression of speech, thought, and action — more common in schizophrenic states than in depressive ones",
-      "Slowing down of bodily movement combined with slowing of thought — seen in both depressive and schizophrenic patients",
-      "A curious wax-like rigidity of the muscles characteristic of catatonic schizophrenic patients"
+      "High risk of injury such as physical restraints being too tight causing skin injury or necrosis due to blockage of blood flow; extensive injury and trauma from struggling; physical restraint is humanly debasing; negative psychological effect on the patient; chemical restraint of sedatives and narcoleptics can produce toxic effects",
+      "High risk of injury from falling out of bed; increased agitation when restrained; risk of respiratory depression from chemical agents; risk of developing pressure sores from immobility; negative effect on nurse-patient therapeutic relationship",
+      "High risk of fracture from mechanical restraint devices; increased risk of aspiration pneumonia in chemically restrained patients; legal liability for the institution; patient rights violations; prolonged hospitalisation"
     ],
     "answer": "A"
   },
   {
     "id": 31,
     "type": "mcq",
-    "stem": "Waxy Flexibility is described in the text as a specific motor abnormality. Which definition BEST describes it?",
+    "stem": "The nurse's responsibilities to a patient on PHYSICAL restraint include a requirement about the number of persons needed for restraint. What does the text specify?",
     "options": [
-      "A curious wax-like rigidity of the muscles in schizophrenic patients",
-      "Maintenance of uncomfortable postures for long periods of time in psychiatric patients",
-      "The slowing down of bodily movement combined with slowing of thought in depressive states"
+      "Preferable 5 or a minimum of 4 persons should be used to restrain the patient",
+      "Preferable 4 or a minimum of 3 persons should be used to restrain the patient",
+      "Preferable 6 or a minimum of 5 persons should be used to restrain the patient"
     ],
     "answer": "A"
   },
   {
     "id": 32,
     "type": "mcq",
-    "stem": "Confabulation is listed as a behavioural manifestation. Which description MOST accurately defines confabulation as it appears in the text?",
+    "stem": "Regarding the proper positioning of a physically restrained patient, which of the following is stated in the text?",
     "options": [
-      "The patient has a gross defect in his memory and fills the gaps with a purely imaginary event",
-      "The patient invents entirely new words that are meaningless and unrecognisable, filling conversations with neologistic content",
-      "The patient's thinking is slow and characterised by trivial and unnecessary details before the central point is reached"
+      "Patient should be restrained with legs spread and one arm restrained to one side and the other arm restrained over the head",
+      "Patient should be restrained with both arms at the sides of the body and legs together to maintain neutral anatomical alignment",
+      "Patient should be restrained in a semi-recumbent position with head elevated at 30 degrees to prevent aspiration"
     ],
     "answer": "A"
   },
   {
     "id": 33,
     "type": "mcq",
-    "stem": "Circumstantiality is described as a specific disturbance of stream of thought. Which statement MOST accurately defines circumstantiality?",
+    "stem": "The text specifies where pressure should NEVER be applied during physical restraint. Which body areas are specifically prohibited?",
     "options": [
-      "The thinking process is slow; the speech is characterised by trivial and unnecessary details before the central point is reached — common in schizophrenia",
-      "The patient has a gross defect in memory and fills in gaps with imaginary events as a coping mechanism",
-      "The sequence of the talk or speech is broken into fragments, making it impossible to follow the patient's train of thought"
+      "Pressure should never be applied to the neck, chest, or abdomen as this can severely limit respiration or cause injury to vulnerable areas of the body; bony prominences should be padded to maintain good body alignment",
+      "Pressure should never be applied to the head, face, or genitals as these are the most vulnerable areas; all restraint devices should be cushioned with foam padding",
+      "Pressure should never be applied to the wrists, ankles, or knees as these joints are vulnerable to fracture; restraint should focus on the trunk and proximal limbs only"
     ],
     "answer": "A"
   },
   {
     "id": 34,
     "type": "mcq",
-    "stem": "Flight of Ideas is described as a disturbance of stream of talk. Which statement MOST precisely defines it and distinguishes it from incoherence?",
+    "stem": "Regarding restraint at major joints when arms or legs are held, what does the text specify?",
     "options": [
-      "Patients think fast; their associations are superficial and often guided by rhymes and distracted by changing objects in the environment (distractibility); these disturbances of thoughts and stream of talk constitute flight of ideas",
-      "The sequence of the talk or speech is broken into fragments, making it impossible to follow — unlike incoherence which features intact but rapidly shifting ideas",
-      "Patients experience sudden stoppage of speech or thought that breaks off discussion — different from incoherence which involves fragmented but continuous speech"
+      "If arms or legs are held, this should be close to major joints to avoid the risk of fracture; restrain should be placed so that intravenous fluid can be given when necessary",
+      "If arms or legs are held, this should be as far from major joints as possible to prevent dislocation; padding should be applied at all contact points with the restraint device",
+      "If arms or legs are held, restraint devices should be applied between major joints at the mid-shaft of long bones to distribute pressure evenly and minimise neurovascular compromise"
     ],
     "answer": "A"
   },
   {
     "id": 35,
     "type": "mcq",
-    "stem": "Neologism is listed as a disturbance of stream of talk. Which definition MOST accurately describes neologism?",
+    "stem": "The ethical consideration of restraint specifies time limits. In an emergency, restraint or seclusion may be initiated without a physician's order, but the physician must be notified within what timeframe?",
     "options": [
-      "The invention of new words usually meaningless, seen in schizophrenia",
-      "The sudden stoppage of speech occurring in schizophrenia where the patient breaks or stops discussion",
-      "A severe form of fragmentation of speech in which seemingly unrelated words are strung together with no apparent meaning or logical coherency"
+      "As soon as possible but not longer than one hour after the initiation of restraint or seclusion",
+      "As soon as possible but not longer than two hours after the initiation of restraint or seclusion",
+      "As soon as possible but not longer than thirty minutes after the initiation of restraint or seclusion"
     ],
     "answer": "A"
   },
   {
     "id": 36,
     "type": "mcq",
-    "stem": "Word Salad is described as a severe form of speech disturbance. Which statement MOST accurately defines Word Salad and distinguishes it from Neologism?",
+    "stem": "The ethical consideration of restraint states that the patient's restraint must be observed and assessed over what interval, and with regard to which specific parameters?",
     "options": [
-      "A severe form of fragmentation of speech in which seemingly unrelated words are strung together resulting in disconnected words with no apparent meaning or logical coherency, common in schizophrenia",
-      "The invention of new words usually meaningless — different from Word Salad which involves real but disconnected words strung together",
-      "Monotonous repetition of phrases with no apparent communicative intent — a more severe form of the verbal stereotypy seen in catatonic schizophrenia"
+      "Observed and assessed over 10-15 minutes with regards to psychological condition; circulation, respiration, nutrition, hydration, and elimination; such assessment should be documented in the patient's record chart or folder",
+      "Observed and assessed over 30-minute intervals with regards to vital signs, level of consciousness, skin integrity, and patient's behavioural response to restraint",
+      "Observed and assessed hourly with regards to the patient's physical and psychological condition; all observations must be countersigned by the physician within 24 hours"
     ],
     "answer": "A"
   },
   {
     "id": 37,
     "type": "mcq",
-    "stem": "Elation is described as an emotional reaction. Which definition distinguishes Elation from Euphoria as described in the text?",
+    "stem": "The nurse's responsibilities during CHEMICAL restraint include which of the following listed in the text?",
     "options": [
-      "Elation is excessive joy which is not in keeping with the patient's actual circumstances, seen as an example in manic patients; Euphoria is a generalised feeling of well-being seen in manic and some alcoholic patients",
-      "Elation is a generalised feeling of well-being seen in manic and alcoholic patients; Euphoria is excessive joy not in keeping with the patient's circumstances, seen in schizophrenia",
-      "Elation involves laughter and euphoric mood appropriate to circumstances, while Euphoria involves inappropriate or incongruent happiness regardless of life events"
+      "Assess and ensure prescribed drugs are administered and monitored; assess level of consciousness; monitor side effects of drugs used; observe vital signs to ensure they are within normal range; ensure emergency drugs and equipment are readily available in case of adverse effect; carry out full medical and neurological assessment and institute appropriate treatment",
+      "Administer prescribed drugs only when the patient is physically restrained; monitor the patient's consciousness hourly; document the specific drug and dose used; notify the physician if the patient develops respiratory depression",
+      "Ensure prescribed drugs are given orally rather than parenterally where possible; monitor the patient's gait and coordination; document the time of drug administration and the patient's behavioural response"
     ],
     "answer": "A"
   },
   {
     "id": 38,
     "type": "mcq",
-    "stem": "Incongruity of affect is described in the text using a specific clinical example. Which example BEST illustrates incongruity of affect?",
+    "stem": "Which of the following drugs are listed as CHEMICAL RESTRAINT agents in the text?",
     "options": [
-      "A patient with schizophrenia laughs when told that his father is dead — responding with joyful emotion to horrible experiences in a jocular manner",
-      "A patient with mania laughs excessively and euphoria is excessive joy not in keeping with actual circumstances",
-      "A schizophrenic patient feels indifferent to joyful or sorrowful stimuli and manifests little emotional reaction to either stimulus"
+      "Diazepam, Chlorpromazine, Paraldehyde, Haloperidol (used in conjunction with other tranquilizers), most benzodiazepines, hypnotics, and several psychotropic medications",
+      "Methadone, Buprenorphine, Naltrexone, Acamprosate, and Diazepam used in combination for chemical restraint and addiction management",
+      "Haloperidol, Risperidone, Olanzapine, Clozapine, and Quetiapine â second-generation antipsychotics used as the primary chemical restraint agents"
     ],
     "answer": "A"
   },
   {
     "id": 39,
     "type": "mcq",
-    "stem": "Flattening of Affect is described as an emotional manifestation. Which statement MOST accurately defines it and identifies the patient population in which it is most manifested?",
+    "stem": "The text warns about a specific risk with sedatives like benzodiazepine or barbiturates used as chemical restraint. What is this risk?",
     "options": [
-      "Patient manifests little emotional reaction to either joyful or sorrowful stimuli — the patient feels indifferent to the situation; this is manifested by the schizophrenic patient",
-      "Patient responds with excessive and uncontrollable laughter to joyful stimuli and uncontrollable crying to sorrowful stimuli — seen in patients with pseudobulbar affect",
-      "Patient's emotional responses are appropriate in kind but reduced in intensity — a partial flattening seen in patients on antipsychotic medications"
+      "Sedatives like benzodiazepine or barbiturates can cause apnoea especially in patients who have taken other drugs; there is also the possibility of legal implication in cases of injury on the patient",
+      "Sedatives like benzodiazepine or barbiturates can cause paradoxical agitation in some patients, making the aggressive behaviour worse rather than calming the patient",
+      "Sedatives like benzodiazepine or barbiturates can cause excessive sedation leading to aspiration pneumonia, especially in patients who have not been adequately assessed for gag reflex"
     ],
     "answer": "A"
   },
   {
     "id": 40,
     "type": "mcq",
-    "stem": "Delusions are defined in the text. Which definition MOST precisely and completely defines a delusion, distinguishing it from an illusion or hallucination?",
+    "stem": "The leather restraint is specifically mentioned as the safest type of restraint. Which statement from the text CORRECTLY describes this?",
     "options": [
-      "False beliefs which are not true to fact, cannot be corrected by an appeal to reason or logic, and are not in keeping with the individual's environment and education",
-      "False sensory perceptions without an external stimulus — the patient perceives something that is not actually present in the environment",
-      "False perception with misinterpretation of external stimuli — a real external object is perceived but interpreted incorrectly"
+      "Leather restraints are the safest type of restraint to be used",
+      "Leather restraints are preferred over fabric restraints because they allow for better monitoring of skin integrity",
+      "Leather restraints are the most humane form of physical restraint and should always be applied by at least three staff members"
     ],
     "answer": "A"
   },
   {
     "id": 41,
     "type": "mcq",
-    "stem": "Delusion of Grandeur is described in the text. In which psychiatric conditions does it occur MOST commonly, and what is its specific clinical content?",
+    "stem": "CASE SCENARIO: A 24-year-old man is admitted to the psychiatric ward with violent, aggressive behaviour. The nurse prepares to apply physical restraint. Which action by the nurse is MOST consistent with the nurse's responsibilities for physical restraint?",
     "options": [
-      "The patient states he has untold wealth, influence, or power or is an outstanding, famous, or notorious person or historic or religious figure; occurs most commonly in mania, also in states of excitement and general paralysis",
-      "The patient states he has no money despite the fact that he could be a millionaire before illness; occurs most commonly in depression with nihilistic features",
-      "The patient is convinced there is something wrong with his body in the absence of physical disease, complaining of cancer, tumours, or inability to swallow; occurs most in involutional depression"
+      "Ensure that a minimum of 4 persons (preferable 5) are available; use leather restraints as the safest type; explain to the patient the reasons for restraint and that his cooperation is needed; pad bony prominences; restrain with legs spread and one arm to one side and the other arm over the head",
+      "Ensure that a minimum of 3 persons are available; apply padded restraints to wrists and ankles simultaneously; apply pressure to the chest to prevent the patient from rising; document the restraint after it is applied",
+      "Ensure that a minimum of 2 persons are available; apply restraints without explanation to prevent the patient from resisting; apply pressure near the neck to prevent head-butting; check restraints every hour"
     ],
     "answer": "A"
   },
   {
     "id": 42,
     "type": "mcq",
-    "stem": "Nihilistic Delusion is described in the text. What is its specific content and in which psychiatric condition is it most commonly found?",
+    "stem": "CASE SCENARIO: A 35-year-old woman with alcohol use disorder is admitted in Phase III (Crucial Phase). Which presentation is MOST consistent with Phase III as described in the text?",
     "options": [
-      "Patient says that there is no world, he does not exist, and that his body is dead; this type of delusion is present in patient with involutional type of depression",
-      "Patient believes he has untold wealth or is a religious figure of historic importance; this occurs most commonly in mania and general paralysis",
-      "Patient feels suspicious of others and believes the food is poisoned; this is common in schizophrenia where delusions of persecution arise as a result of hallucinations"
+      "She is unable to choose whether or not to drink; she has been on a binge lasting several weeks; drinking is her total focus; she has lost her job, marriage, and self-respect; she experiences withdrawal symptoms when she tries to stop",
+      "She starts drinking secretly and feels guilty; she gulps drinks rapidly and has blackouts; she uses excessive denial and rationalisation; she is preoccupied with maintaining her supply",
+      "She experiences severe physical deterioration with liver cirrhosis, cardiovascular problems, and neurological impairments; her life is profoundly disrupted in relationships, employment, and overall functioning"
     ],
     "answer": "A"
   },
   {
     "id": 43,
     "type": "mcq",
-    "stem": "Delusion of Persecution is distinguished from Paranoid Delusion in the text. Which statement MOST accurately describes the relationship between these two types of delusion?",
+    "stem": "CASE SCENARIO: A patient is placed in a padded room with the door locked after displaying extreme aggression that could not be managed with less restrictive measures. Which type of restraint is being used?",
     "options": [
-      "Paranoid delusions involve feeling suspicious of others; delusions of persecution are common in schizophrenia and often arise as a result of hallucinations — e.g. the patient may state the food is poisoned and refuse to eat",
-      "Paranoid delusions involve believing others are plotting harm through an organised conspiracy; delusions of persecution involve feeling watched or monitored without a specific persecutor",
-      "Paranoid delusions are fixed false beliefs about a specific individual planning harm; delusions of persecution are generalised suspicions with no identified persecutor"
+      "Seclusion (environmental restraint) â a type of restraint in which a patient is confirmed in a room by himself, unable to leave, with walls padded and kept free of items that could cause injury",
+      "Physical restraint â using devices and appliances to limit specific parts of the patient's body such as arms or legs to impede movement",
+      "Chemical restraint â involving hypnotic drugs and tranquilizers to sedate and calm an aggressive patient thereby preventing injury to self and others"
     ],
     "answer": "A"
   },
   {
     "id": 44,
     "type": "mcq",
-    "stem": "Ideas of Reference are described in the text. Which definition MOST accurately describes this phenomenon?",
+    "stem": "CASE SCENARIO: A nurse discovers a patient on physical restraint has developed a reddened area at the wrist where the restraint is applied. The skin is intact but the area is cool and discoloured. Which nursing responsibility was MOST likely neglected?",
     "options": [
-      "Consist in the patient thinking that something in his surroundings is intended to have a meaning for him when no such meaning is intended — e.g. an article in a newspaper refers to him",
-      "Consist in the patient believing another person is thinking through his mind — false belief that external thoughts are being inserted into his consciousness",
-      "Consist in the patient believing certain objects or persons have control over his or her behaviours"
+      "Observation of vital signs and monitoring the patient's skin for injury or blood flow problems under the restraints; restraint should be checked periodically for safety",
+      "Ensuring the patient's physical comfort was monitored closely and that the restraint was placed close to major joints to avoid fracture risk",
+      "Documenting the reason for the restraint and the patient's response to treatment while on restraint in the patient's case file"
     ],
     "answer": "A"
   },
   {
     "id": 45,
     "type": "mcq",
-    "stem": "Somatic Delusion is defined in the text. Which statement MOST accurately describes it?",
+    "stem": "CASE SCENARIO: A recovering alcoholic patient in Phase IV presents with jaundice, confusion, and tremors. The nurse notes the patient has liver damage and neurological impairments. Which phase of alcohol dependence does this MOST accurately represent?",
     "options": [
-      "The individual has a false idea about the functioning of his or her body",
-      "The individual is convinced there is something wrong with his body in the absence of physical disease, complaining of cancer, inability to swallow, or tumours — manifested with involutional depression",
-      "The individual believes his body does not exist or is dead, a manifestation present in patients with involutional type of depression"
+      "Phase IV: The Chronic Phase â where individuals experience severe physical and psychological consequences; health significantly deteriorates leading to liver damage (cirrhosis), cardiovascular problems, neurological impairments, and mental health disorders",
+      "Phase III: The Crucial Phase â where individuals experience intense cravings, binge drinking, loss of control, and withdrawal symptoms when attempting to quit",
+      "Phase II: The Early Alcohol Phase â where blackouts begin and alcohol is no longer a source of pleasure but a drug required by the individual"
     ],
     "answer": "A"
   },
   {
     "id": 46,
     "type": "mcq",
-    "stem": "Hallucinations are defined as false sensory perceptions without an external stimulus. Which example from the text BEST illustrates a hallucination?",
+    "stem": "CASE SCENARIO: A 19-year-old student confesses to using a substance that his friends call 'mkpuru-mmiri.' The nurse recognises this as the Nigerian street name for which substance?",
     "options": [
-      "A patient may claim to see a lion when no lion is actually present — experiencing a visual hallucination without any real external stimulus",
-      "A patient misinterprets a shadow on the wall as a lion — experiencing a false perception with misinterpretation of a real external stimulus",
-      "A patient believes a lion is following him everywhere based on delusional thinking without any actual sensory experience of seeing the animal"
+      "Methamphetamine â with street names Meth, ice, crystal, speed, crank, mkpuru-mmiri",
+      "Heroin â with street names Smack, junk, H, dope, horse, Brown Sugar",
+      "Cannabis â with street names Marijuana, Weed, pot, grass, ganja, India herm: Igbo, Kush, Skunk, Loud, Mary Jane"
     ],
     "answer": "A"
   },
   {
     "id": 47,
     "type": "mcq",
-    "stem": "Psychosis and Neurosis are compared in the text. Which feature MOST clearly distinguishes psychosis from neurosis in terms of reality testing?",
+    "stem": "CASE SCENARIO: A nurse is reviewing the management plan of a patient with both alcohol use disorder and major depressive disorder. Which management strategy is MOST appropriate for this clinical situation?",
     "options": [
-      "In psychosis, reality testing is impaired — individuals may struggle to distinguish between reality and their own thoughts or perceptions; in neurosis, reality testing is intact — individuals maintain a clear understanding of reality",
-      "In psychosis, reality testing is intact but insight is absent; in neurosis, reality testing is impaired but insight is preserved, making neurosis more distressing to the patient",
-      "In psychosis, reality testing is partially preserved in early stages but deteriorates progressively; in neurosis, reality testing is completely absent due to the overwhelming nature of anxiety"
+      "Dual diagnosis treatment â integrated treatment that addresses both the substance abuse and mental health conditions simultaneously, involving collaboration between addiction specialists and mental health professionals",
+      "Detoxification followed by medication-assisted treatment with naltrexone and acamprosate for the alcohol use disorder only, deferring treatment of the depression until sobriety is established",
+      "Behavioural therapies only â cognitive-behavioural therapy and motivational interviewing without pharmacological intervention, as medications may interact with the patient's residual alcohol"
     ],
     "answer": "A"
   },
   {
     "id": 48,
     "type": "mcq",
-    "stem": "In the comparison of Psychosis versus Neurosis, what are the treatment approaches contrasted for each condition?",
+    "stem": "CASE SCENARIO: A nurse is called to handle a violent patient and administers haloperidol as ordered. After 30 minutes, the patient develops respiratory distress. Which nursing responsibility for chemical restraint was MOST critical to prevent this outcome?",
     "options": [
-      "Psychosis often requires medication and psychotherapy, sometimes hospitalization; Neurosis is treated with psychotherapy, medication in some cases, or self-help techniques",
-      "Psychosis is treated exclusively with antipsychotic medication and ECT; Neurosis is treated exclusively with cognitive behavioural therapy without the use of any pharmacological agents",
-      "Psychosis requires long-term institutionalisation and pharmacotherapy; Neurosis requires short-term outpatient psychotherapy without any need for pharmacological intervention"
+      "Observation of vital signs to ensure they are within normal range; ensuring emergency drugs and equipment are readily available in case of any adverse effect; noting that sedatives can cause apnoea especially in patients who have taken other drugs",
+      "Documenting the name and dose of the chemical restraint used before administration; ensuring a physician's order was obtained within one hour of initiating chemical restraint",
+      "Assessing the patient's level of consciousness before administering the drug; ensuring the patient was physically restrained before any chemical agent was given"
     ],
     "answer": "A"
   },
   {
     "id": 49,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A 30-year-old man insists the food at the hospital is poisoned and refuses to eat. He reports hearing voices telling him not to eat. Which type of delusion is he most likely experiencing, and which clinical feature of psychosis explains how this delusion arose?",
+    "stem": "CASE SCENARIO: A nurse is counselling a patient in recovery about relapse prevention. According to the text, which of the following MOST accurately describes the relapse prevention strategy?",
     "options": [
-      "Delusion of persecution — common in schizophrenia, which often arises as a result of hallucinations (auditory hallucinations telling him the food is poisoned)",
-      "Hypochondriacal delusion — the patient is convinced something is wrong with his body in the absence of physical disease, here manifested as contamination fear",
-      "Delusion of reference — the patient believes the hospital food specifically refers to and targets him based on a misinterpretation of environmental cues"
+      "Developing relapse prevention strategies, identifying triggers and high-risk situations, learning healthy coping mechanisms for maintaining long-term sobriety, and continuing support through counselling, support groups, and aftercare programs",
+      "Abstaining completely from all social situations where substances may be present; attending daily Alcoholics Anonymous meetings and reporting any cravings to the nurse immediately",
+      "Using medication-assisted treatment as the sole relapse prevention strategy; methadone or buprenorphine completely eliminates the risk of relapse without the need for additional psychosocial support"
     ],
     "answer": "A"
   },
   {
     "id": 50,
-    "type": "mcq",
-    "stem": "CASE SCENARIO: A 55-year-old woman with chronic depression repeatedly tells the nurse she has no money and cannot afford her medication — despite documented evidence that she is wealthy. Which type of delusion does this represent?",
-    "options": [
-      "Delusion of Poverty — the patient states she has no money despite the fact that she could be a millionaire before illness",
-      "Nihilistic Delusion — the patient says she does not exist and that her body is dead, present in involutional type of depression",
-      "Somatic Delusion — the individual has a false idea about the functioning of her body, misinterpreting her physical sensations as signs of poverty"
-    ],
-    "answer": "A"
+    "type": "fitb",
+    "stem": "Substance abuse is characterized by the inability to ____________ or stop substance use despite the ____________ consequences it causes.",
+    "answer": "control; negative",
+    "acceptableAnswers": ["control; negative"]
   },
   {
     "id": 51,
-    "type": "mcq",
-    "stem": "CASE SCENARIO: A 28-year-old man in the psychiatric ward suddenly shuts his eyes tightly when the nurse instructs him to open them. When asked to sit, he stands. Which behavioural manifestation does this BEST represent?",
-    "options": [
-      "Negativism — consisting in the patient doing the exact opposite of what is asked of him",
-      "Restiveness — the patient actively opposes or resists anything he is asked to do or being done for him",
-      "Automatic obedience — the patient automatically repeats actions commanded without resistance"
-    ],
-    "answer": "A"
+    "type": "fitb",
+    "stem": "To establish a diagnosis of substance use disorder, the DSM-5 requires the individual to meet at least ____________ or more of the ____________ outlined criteria within a ____________-month period.",
+    "answer": "two; 11; 12",
+    "acceptableAnswers": ["two; 11; 12", "2; 11; 12"]
   },
   {
     "id": 52,
-    "type": "mcq",
-    "stem": "CASE SCENARIO: A psychiatric nurse observes a patient who has been holding her arm raised at an uncomfortable angle for over two hours without changing position. Which behavioural manifestation BEST describes this?",
-    "options": [
-      "Catalepsy — maintenance of uncomfortable postures for long periods",
-      "Waxy Flexibility — a curious wax-like rigidity of the muscles in schizophrenic patients",
-      "Stupor — complete suppression of speech, thought, and action more common in schizophrenic states"
-    ],
-    "answer": "A"
+    "type": "fitb",
+    "stem": "The severity of substance use disorder is classified as: Mild if ____________ criteria are met; Moderate if ____________ criteria are met; Severe if ____________ or more criteria are met.",
+    "answer": "2-3; 4-5; 6",
+    "acceptableAnswers": ["2-3; 4-5; 6", "2 to 3; 4 to 5; 6"]
   },
   {
     "id": 53,
-    "type": "mcq",
-    "stem": "CASE SCENARIO: An elderly man with chronic alcoholism cannot remember what he had for breakfast and spontaneously describes attending a party at State House last week — an event that never occurred. Which behavioural manifestation BEST describes this?",
-    "options": [
-      "Confabulation — the patient has a gross defect in his memory and fills the gaps with a purely imaginary event",
-      "Circumstantiality — the thinking process is slow and characterised by trivial and unnecessary details before reaching the central point",
-      "Neologism — the invention of new meaningless words used to fill conversational gaps, common in schizophrenia"
-    ],
-    "answer": "A"
+    "type": "fitb",
+    "stem": "Psychological dependence involves intense ____________ and desire for the drug, while physical dependence is marked by the occurrence of ____________ symptoms when the substance is reduced or discontinued.",
+    "answer": "craving; withdrawal",
+    "acceptableAnswers": ["craving; withdrawal", "cravings; withdrawal"]
   },
   {
     "id": 54,
-    "type": "mcq",
-    "stem": "CASE SCENARIO: A manic patient speaks so rapidly that the nurse notices she rhymes words and shifts topic every time she sees a new object in the room. The nurse correctly identifies this as:",
-    "options": [
-      "Flight of Ideas — patients think fast; associations are superficial and often guided by rhymes and distracted by changing objects in the environment (distractibility)",
-      "Circumstantiality — thinking is slow, characterised by trivial details before the central point is reached",
-      "Word Salad — seemingly unrelated words strung together with no apparent meaning or logical coherency"
-    ],
-    "answer": "A"
+    "type": "fitb",
+    "stem": "Phase I of alcohol dependence is called the ____________ Phase. It is characterized by the use of alcohol to relieve everyday ____________ and tensions of life, during which ____________ develops and the amount required to achieve the desired effect increases.",
+    "answer": "Pre Alcoholic; stress; tolerance",
+    "acceptableAnswers": ["Pre Alcoholic; stress; tolerance", "Pre-Alcoholic; stress; tolerance"]
   },
   {
     "id": 55,
-    "type": "mcq",
-    "stem": "CASE SCENARIO: A 25-year-old woman is brought in by her mother who reports that the daughter believes a recent newspaper article about a robbery was specifically about her and sent to warn her. Which type of delusion does this represent?",
-    "options": [
-      "Ideas of Reference — the patient thinks something in her surroundings is intended to have meaning for her when no such meaning is intended",
-      "Delusion of Persecution — the patient feels suspicious of others and believes events around her are directed at her by a persecutor",
-      "Delusion of Control — the individual believes certain objects or persons have control over his or her behaviours"
-    ],
-    "answer": "A"
+    "type": "fitb",
+    "stem": "Phase II of alcohol dependence begins with ____________ â brief periods of ____________ that occur during or immediately following a period of taking the alcohol. Now the alcohol is no longer a source of ____________ or relief for the individual.",
+    "answer": "blackouts; amnesia; pleasure",
+    "acceptableAnswers": ["blackouts; amnesia; pleasure"]
   },
   {
     "id": 56,
-    "type": "mcq",
-    "stem": "CASE SCENARIO: A woman from a rural community refuses psychiatric treatment because members of her community believe mental illness is a sign of spiritual weakness and a curse. Which socio-cultural factor is MOST directly responsible for this barrier?",
-    "options": [
-      "Cultural beliefs and values — in some cultures mental health problems may be stigmatised or seen as a sign of weakness, preventing individuals from seeking treatment",
-      "Social and economic factors — poverty and unemployment create barriers to accessing formal mental health services in rural communities",
-      "Migration and acculturation — the stress of adjusting to cultural expectations different from urban norms leads to depression and avoidance of treatment"
-    ],
-    "answer": "A"
+    "type": "fitb",
+    "stem": "Phase III of alcohol dependence is known as the ____________ Phase. Loss of control is described as the inability to ____________ whether or not to drink. There is ____________ drinking lasting from a few hours to several weeks.",
+    "answer": "Crucial; choose; binge",
+    "acceptableAnswers": ["Crucial; choose; binge"]
   },
   {
     "id": 57,
-    "type": "mcq",
-    "stem": "CASE SCENARIO: A child of 8 years is brought to the psychiatric clinic with behavioural problems. History reveals the father is abusive, the parents separated when the child was 3, and the mother is overprotective. Which category of factors in the aetiology of mental illness does this history MOST directly represent?",
-    "options": [
-      "Personal Experience — childhood experiences resulting in emotional maladjustment in later life including parental friction, separation, over-protection of the child, and rejection",
-      "Hereditary factors — the mental illness is inherited through genes from the father who has an abusive personality",
-      "Environmental factors — the dysfunctional family life and substance abuse by parents are the primary triggers identified in this case"
-    ],
-    "answer": "A"
+    "type": "fitb",
+    "stem": "Phase IV of alcohol dependence is known as the ____________ Phase, characterised by liver damage (____________), cardiovascular problems, neurological impairments, and mental health disorders.",
+    "answer": "Chronic; cirrhosis",
+    "acceptableAnswers": ["Chronic; cirrhosis"]
   },
   {
     "id": 58,
     "type": "fitb",
-    "stem": "The occurrence of mental illness depends on two main factors: ____________ factors and ____________ factors.",
-    "answer": "predisposing; precipitating",
-    "acceptableAnswers": ["predisposing; precipitating"]
+    "stem": "Restraint is defined as the use of ____________ and chemical agent to impede the movement of the body of a restless and aggressive patient in order to prevent harming ____________ and others, thereby providing ____________ external control.",
+    "answer": "appliances; self; temporal",
+    "acceptableAnswers": ["appliances; self; temporal", "appliances; themselves; temporal"]
   },
   {
     "id": 59,
     "type": "fitb",
-    "stem": "Predisposing factors are also referred to as ____________ factors and are regarded as making the individual ____________ (likely or liable) to specific mental disorders.",
-    "answer": "essential; susceptible",
-    "acceptableAnswers": ["essential; susceptible"]
+    "stem": "The three types of restraint are: (1) ____________ restraint (mechanical restraint), (2) ____________ restraint, and (3) ____________ (environmental restraint).",
+    "answer": "Physical; Chemical; Seclusion",
+    "acceptableAnswers": ["Physical; Chemical; Seclusion", "physical; chemical; seclusion"]
   },
   {
     "id": 60,
     "type": "fitb",
-    "stem": "Hereditary factors are transmitted through the ____________ of our individuals, present in ____________ of the cells which decide the physical and mental makeup of an individual. They may be ____________ or recessive.",
-    "answer": "genes; chromosomes; dominant",
-    "acceptableAnswers": ["genes; chromosomes; dominant"]
+    "stem": "For physical restraint, it is preferable to use ____________ persons or a minimum of ____________ persons to restrain the patient. ____________ restraints are the safest type of restraint to be used.",
+    "answer": "5; 4; Leather",
+    "acceptableAnswers": ["5; 4; Leather", "5; 4; leather"]
   },
   {
     "id": 61,
     "type": "fitb",
-    "stem": "Biological factors involve abnormal functioning of nerve cell circuits that communicate through chemicals called ____________. The specific neurotransmitters named in the text are ____________, serotonin, and ____________.",
-    "answer": "neurotransmitters; dopamine; adrenalin",
-    "acceptableAnswers": ["neurotransmitters; dopamine; adrenalin", "neurotransmitters; dopamine; adrenaline"]
+    "stem": "Pressure should never be applied to the ____________, ____________, or abdomen as this can severely limit ____________ or cause injury to vulnerable areas of the body.",
+    "answer": "neck; chest; respiration",
+    "acceptableAnswers": ["neck; chest; respiration", "neck; chest; breathing"]
   },
   {
     "id": 62,
     "type": "fitb",
-    "stem": "PANDAS stands for Paediatric ____________ Neuropsychiatric Disorder Associated with ____________ bacteria, linked to the development of ____________ compulsive disorder in children.",
-    "answer": "Autoimmune; Streptococcus; obsessive",
-    "acceptableAnswers": ["Autoimmune; Streptococcus; obsessive", "autoimmune; streptococcus; obsessive"]
+    "stem": "Sedatives like ____________ or barbiturates can cause ____________ especially in patients who have taken other drugs; there is also a possibility of ____________ implication in cases of injury on the patient.",
+    "answer": "benzodiazepine; apnoea; legal",
+    "acceptableAnswers": ["benzodiazepine; apnoea; legal", "benzodiazepines; apnoea; legal"]
   },
   {
     "id": 63,
     "type": "fitb",
-    "stem": "Hyperthyroidism may give rise to ____________ states while myxoedema may give rise to a state of ____________ in the adult.",
-    "answer": "anxiety; depression",
-    "acceptableAnswers": ["anxiety; depression"]
+    "stem": "In ethical consideration of restraint, the physician must be notified as soon as possible but not longer than ____________ hour after the initiation of restraint or seclusion. The patient's restraint must be observed and assessed over ____________ minutes.",
+    "answer": "one; 10-15",
+    "acceptableAnswers": ["one; 10-15", "1; 10-15", "one; 10 to 15"]
   },
   {
     "id": 64,
     "type": "fitb",
-    "stem": "Vitamin B and protein deficiencies may produce ____________ states and may give rise to pellagra, beriberi, or ____________ syndrome, which may occur as a sequel to chronic alcoholism.",
-    "answer": "confessional; Korsakoff's",
-    "acceptableAnswers": ["confessional; Korsakoff's", "confessional; Korsakoffs"]
+    "stem": "Chemical restraint agents listed in the text include: ____________, Chlorpromazine, ____________, Haloperidol, most benzodiazepines, hypnotics, and several ____________ medications.",
+    "answer": "Diazepam; Paraldehyde; psychotropic",
+    "acceptableAnswers": ["Diazepam; Paraldehyde; psychotropic", "diazepam; paraldehyde; psychotropic"]
   },
   {
     "id": 65,
     "type": "fitb",
-    "stem": "Rhesus incompatibility can cause mental or physical ____________ in children, while diminished blood supply to the brain occurring in arteriosclerosis or heart diseases can lead to mental ____________.",
-    "answer": "retardation; disorder",
-    "acceptableAnswers": ["retardation; disorder"]
+    "stem": "Medication-Assisted Treatment (MAT) for opioid dependence includes ____________ and buprenorphine; for alcohol dependence it includes ____________ and acamprosate. MAT is often combined with ____________ and behavioural therapies for optimal outcomes.",
+    "answer": "methadone; naltrexone; counseling",
+    "acceptableAnswers": ["methadone; naltrexone; counseling", "methadone; naltrexone; counselling"]
   },
   {
     "id": 66,
     "type": "fitb",
-    "stem": "Stupor means complete suppression of ____________, thought, and action. It is more common in ____________ states than in depressive ones.",
-    "answer": "speech; schizophrenic",
-    "acceptableAnswers": ["speech; schizophrenic", "speech; schizophrenic states"]
+    "stem": "CASE SCENARIO (Fill-in): A patient on chemical restraint develops shallow breathing 20 minutes after receiving haloperidol and diazepam. The nurse recalls that sedatives can cause ____________ especially in patients who have taken other drugs. The nurse should immediately ensure that ____________ drugs and equipment are readily available and carry out a full ____________ and neurological assessment.",
+    "answer": "apnoea; emergency; medical",
+    "acceptableAnswers": ["apnoea; emergency; medical", "apnea; emergency; medical"]
   },
   {
     "id": 67,
     "type": "fitb",
-    "stem": "Confabulation occurs when the patient has a gross defect in his ____________ and fills the gaps with a purely ____________ event.",
-    "answer": "memory; imaginary",
-    "acceptableAnswers": ["memory; imaginary"]
+    "stem": "CASE SCENARIO (Fill-in): A 40-year-old woman in Phase III of alcohol dependence is admitted. The nurse documents that she has experienced loss of ____________, describing it as the inability to choose whether or not to ____________. She has lost her job and marriage. The nurse identifies this as consistent with the ____________ Phase.",
+    "answer": "control; drink; Crucial",
+    "acceptableAnswers": ["control; drink; Crucial", "control; drink; crucial"]
   },
   {
     "id": 68,
     "type": "fitb",
-    "stem": "Delusions are false ____________ which are not true to fact, cannot be corrected by an appeal to ____________ or logic, and are not in keeping with the individual's environment and ____________.",
-    "answer": "beliefs; reason; education",
-    "acceptableAnswers": ["beliefs; reason; education"]
+    "stem": "CASE SCENARIO (Fill-in): A 28-year-old man uses a substance his friends call 'mkpuru-mmiri.' The nurse identifies this as the Nigerian street name for ____________. This substance is classified under the category of ____________ in the DSM-5, and long-term use has been linked to ____________, depression, and paranoia.",
+    "answer": "methamphetamine; stimulants; anxiety",
+    "acceptableAnswers": ["methamphetamine; stimulants; anxiety", "Methamphetamine; stimulants; anxiety"]
   },
   {
     "id": 69,
     "type": "fitb",
-    "stem": "Nihilistic delusion is characterised by the patient saying that there is no ____________, he does not ____________, and that his body is ____________. This type of delusion is present in the involutional type of depression.",
-    "answer": "world; exist; dead",
-    "acceptableAnswers": ["world; exist; dead"]
+    "stem": "CASE SCENARIO (Fill-in): A physically restrained patient develops a cool, discoloured area at the wrist. The nurse identifies this as due to ____________ of blood flow. The nurse should check that the restraint is not too ____________ and should observe the patient's skin for ____________ under the restraints.",
+    "answer": "blockage; tight; injury",
+    "acceptableAnswers": ["blockage; tight; injury"]
   },
   {
     "id": 70,
     "type": "fitb",
-    "stem": "CASE SCENARIO (Fill-in): A 22-year-old student hears voices (____________ hallucination) telling him that the food in the canteen is poisoned. He develops a ____________ of persecution and refuses to eat. This is a common presentation in ____________.",
-    "answer": "auditory; delusion; schizophrenia",
-    "acceptableAnswers": ["auditory; delusion; schizophrenia"]
+    "stem": "CASE SCENARIO (Fill-in): A psychiatric nurse is managing a patient with both substance use disorder and PTSD. She coordinates with the addiction specialist and mental health team, providing integrated treatment â this is called ____________ diagnosis treatment. The management addresses the ____________, psychological, and ____________ aspects of addiction comprehensively.",
+    "answer": "dual; physical; social",
+    "acceptableAnswers": ["dual; physical; social"]
   }
 ]
