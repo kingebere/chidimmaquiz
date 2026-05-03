@@ -2,687 +2,679 @@
   [{
     "id": 1,
     "type": "mcq",
-    "stem": "Substance abuse is characterized by the inability to control or stop substance use despite the negative consequences it causes. The DSM-5, published by which organization, provides the diagnostic criteria for substance use disorders?",
+    "stem": "Bipolar I Disorder is diagnosed when an individual experiences at least one manic episode. A manic episode is defined as a distinct period of abnormally elevated, expansive, or irritable mood that lasts for at least how long OR requires hospitalization?",
     "options": [
-      "The American Psychiatric Association, which publishes the Diagnostic and Statistical Manual of Mental Disorders (DSM-5)",
-      "The World Health Organization, which publishes the International Classification of Diseases (ICD-11)",
-      "The American Psychological Association, which publishes the Diagnostic and Statistical Manual of Mental Disorders (DSM-5)"
+      "At least one week or requires hospitalization",
+      "At least four consecutive days or requires hospitalization",
+      "At least two weeks or requires hospitalization"
     ],
     "answer": "A"
   },
   {
     "id": 2,
     "type": "mcq",
-    "stem": "According to DSM-5, to establish a diagnosis of substance use disorder, an individual must meet at least how many criteria within a 12-month period?",
+    "stem": "Bipolar II Disorder is distinguished from Bipolar I by the nature of its manic episodes. Which statement MOST accurately describes what distinguishes a hypomanic episode from a full manic episode in Bipolar II?",
     "options": [
-      "At least two or more of the 11 outlined criteria within a 12-month period",
-      "At least three or more of the 11 outlined criteria within a 12-month period",
-      "At least four or more of the 11 outlined criteria within a 12-month period"
+      "A hypomanic episode lasts at least four consecutive days, is associated with noticeable changes in functioning, is less severe than full mania, and does not typically require hospitalization — individuals with Bipolar II have never experienced a full manic episode",
+      "A hypomanic episode lasts at least one week, requires hospitalization, and is characterized by inflated self-esteem, decreased need for sleep, and engagement in risky behaviours — the same as Bipolar I but with depressive episodes in between",
+      "A hypomanic episode lasts at least one week, does not require hospitalization, and involves symptoms that are identical to a full manic episode but occur only in the context of substance use"
     ],
     "answer": "A"
   },
   {
     "id": 3,
     "type": "mcq",
-    "stem": "The severity of substance use disorder is determined by the number of DSM-5 criteria met. Which classification is CORRECT?",
+    "stem": "Cyclothymic Disorder is described in the text as a milder form of bipolar disorder. Which statement MOST accurately describes what Cyclothymic Disorder involves?",
     "options": [
-      "Mild: 2-3 criteria; Moderate: 4-5 criteria; Severe: 6 or more criteria",
-      "Mild: 1-2 criteria; Moderate: 3-4 criteria; Severe: 5 or more criteria",
-      "Mild: 2-3 criteria; Moderate: 4-6 criteria; Severe: 7 or more criteria"
+      "Characterized by chronic mood instability with numerous periods of depressive symptoms and hypomanic symptoms over a period of at least two years, without meeting full criteria for a major depressive episode, hypomanic episode, or manic episode",
+      "Characterized by at least one full manic episode and multiple major depressive episodes over two years, with intervening periods of normal mood lasting less than two months",
+      "Characterized by hypomanic episodes only lasting at least four days, without any depressive symptoms, occurring in a cyclical pattern over at least one year"
     ],
     "answer": "A"
   },
   {
     "id": 4,
     "type": "mcq",
-    "stem": "The FIRST of the four main DSM-5 criteria for establishing a diagnosis of substance dependence is Impaired Control. Which statement MOST accurately describes this criterion?",
+    "stem": "Mania is described as primary or secondary in nature. Which statement MOST accurately distinguishes Primary from Secondary mania?",
     "options": [
-      "The individual demonstrates difficulty in controlling their substance use â manifested by unsuccessful attempts to cut down or control substance use, persistent desire or unsuccessful efforts to quit, and spending significant time obtaining, using, or recovering from substance use",
-      "The individual continues to use the substance despite persistent social or interpersonal problems caused or worsened by its effects, and gives up important social, occupational, or recreational activities",
-      "The individual experiences tolerance, needing increased amounts to achieve the desired effect, or experiencing diminished effects with continued use of the same amount"
+      "Primary mania is an affective disorder (mood disorder); secondary mania occurs secondary to a variety of organic disorders such as drug intake, infection, neoplasm, epilepsy, or metabolic disturbances",
+      "Primary mania is caused by organic disorders such as drug intake and infection; secondary mania is a pure affective disorder with no identifiable organic aetiology",
+      "Primary mania requires hospitalization while secondary mania can be managed in outpatient settings; the distinction is based on severity rather than aetiology"
     ],
     "answer": "A"
   },
   {
     "id": 5,
     "type": "mcq",
-    "stem": "Tolerance is one of the DSM-5 criteria for substance use disorder. Which of the following MOST accurately defines tolerance as described in the text?",
+    "stem": "The biochemical cause of mania specifically involves which neurotransmitters and what change in their levels?",
     "options": [
-      "Needing increased amounts of the substance to achieve the desired effect, or experiencing diminished effects with continued use of the same amount",
-      "The presence of withdrawal syndrome or using the substance to relieve or avoid withdrawal symptoms",
-      "Taking the substance in larger amounts or over a longer period than intended despite awareness of harm"
+      "An increase in the production of biogenic amines — specifically norepinephrine and serotonin in the brain — as a biochemical factor",
+      "A decrease in the production of biogenic amines — specifically dopamine and acetylcholine — leading to disinhibition of mood regulation centres",
+      "An imbalance in sodium and chloride ions across neuronal membranes leading to excessive firing of neurons in the limbic system"
     ],
     "answer": "A"
   },
   {
     "id": 6,
     "type": "mcq",
-    "stem": "Withdrawal as a DSM-5 criterion for substance use disorder is characterized by which of the following?",
+    "stem": "An increase in salt content above normal in the body is listed as a cause of mania. What specific electrolyte is named and what is the consequence?",
     "options": [
-      "The presence of a withdrawal syndrome or using the substance to relieve or avoid withdrawal symptoms",
-      "Needing increased amounts of the substance to achieve the desired effect or experiencing diminished effects with continued use",
-      "Continued use of the substance despite being aware of its physical or psychological harm to the individual"
+      "Sodium (Na) may lead to excessive activity of neurons in the brain",
+      "Potassium (K) may lead to excessive depolarisation of neuronal cell membranes causing manic excitement",
+      "Calcium (Ca) may lead to excessive neurotransmitter release from presynaptic terminals causing disinhibited mood"
     ],
     "answer": "A"
   },
   {
     "id": 7,
     "type": "mcq",
-    "stem": "In the process of becoming drug dependent, the stage where the body develops tolerance and the individual uses more of the substance more frequently to experience the same level of intoxication is called:",
+    "stem": "Hypomania is distinguished from Manic Excitement in the text. Which pair CORRECTLY contrasts the two forms of mania?",
     "options": [
-      "Increased tolerance â where with regular use the body develops tolerance requiring larger amounts of the substance to achieve desired effects",
-      "Psychological and physical dependence â where dependence begins to develop as the individual becomes psychologically and physically reliant on the substance",
-      "Regular use â where continued use of the substance leads to regular use as the individual begins to incorporate it into their routine"
+      "Hypomania: the patient is euphoric, elated, dressing colourfully, cracking jokes, talking excessively and over active; Manic excitement: the patient is very irritable, excited, violent, and is a nuisance to the public",
+      "Hypomania: the patient is very irritable, excited, violent and is a nuisance to the public; Manic excitement: the patient is euphoric, elated, dressing colourfully, cracking jokes, and talking excessively",
+      "Hypomania: the patient has inflated self-esteem and decreased need for sleep without disturbing others; Manic excitement: the patient requires hospitalization due to extreme grandiosity and flight of ideas"
     ],
     "answer": "A"
   },
   {
     "id": 8,
     "type": "mcq",
-    "stem": "Psychological dependence is distinguished from physical dependence in the text. Which pair CORRECTLY contrasts these two types of dependence?",
+    "stem": "Flight of Ideas is listed as a clinical manifestation of mania. Which statement MOST accurately describes this symptom as it appears in a manic patient?",
     "options": [
-      "Psychological dependence involves intense craving and desire for the drug; physical dependence is marked by the occurrence of withdrawal symptoms when the substance is reduced or discontinued",
-      "Psychological dependence involves withdrawal symptoms when the substance is reduced; physical dependence is marked by intense craving and desire for the drug",
-      "Psychological dependence involves needing increased amounts for the same effect; physical dependence involves continued use despite social and occupational consequences"
+      "A subjective experience where thoughts are racing — the patient's associations move rapidly from one idea to another",
+      "The patient becomes easily distracted by multiple, unimportant, or irrelevant external stimuli, shifting attention constantly",
+      "The patient invents new meaningless words and stringing unrelated ideas together with no apparent logical connection"
     ],
     "answer": "A"
   },
   {
     "id": 9,
     "type": "mcq",
-    "stem": "Phase I of alcohol dependence is called the Pre-Alcoholic Phase. Which of the following MOST accurately describes what characterises this phase?",
+    "stem": "Regarding drug therapy for Mania, which of the following schedules is CORRECTLY stated in the text for Largactil?",
     "options": [
-      "They may start to rely on alcohol as a coping mechanism for stress or emotional issues; it is characterized by the use of alcohol to relieve everyday stress and tensions of life; as this continues daily, tolerance develops and the amount required to achieve the desired effect increases",
-      "This begins with blackouts â brief periods of amnesia that occur during or immediately following a period of taking the alcohol; alcohol is no longer a source of pleasure or relief but rather a drug required by the individual",
-      "Individuals become physically and psychologically dependent on alcohol; they experience intense cravings and may prioritise alcohol over other aspects of their lives; loss of control is described as the inability to choose whether or not to drink"
+      "Largactil 100mg three times daily; Haloperidol 5m twice a day; IM Haloperidol 5-10mg 2 hourly till patient is sedated or maximum of 5mg and change to tablet Haloperidol 1.5-long three times a day",
+      "Largactil 50-100mg stat then tablets 100-200mg three times daily; IM Chlorpromazine 50-100mg to start followed by tablet Chlorpromazine 100-200mg three times a day to be reduced gradually",
+      "Largactil 50-100mg stat then tablets 100-200mg three times daily; IM Haloperidol 5-10mg 2 hourly till patient is sedated or maximum of 5mg and change to tablet Haloperidol 1.5-long three times a day"
     ],
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 10,
     "type": "mcq",
-    "stem": "Phase II of alcohol dependence is called the Early Alcohol Phase. Which feature specifically distinguishes Phase II from Phase I?",
+    "stem": "Lithium carbonate (mood stabilizer) is specifically mentioned in the text for which patient population?",
     "options": [
-      "Phase II begins with blackouts â brief periods of amnesia during or immediately following a period of taking alcohol; alcohol is no longer a source of pleasure or relief but rather a drug required by the individual",
-      "Phase II is characterized by individuals becoming physically and psychologically dependent on alcohol, experiencing intense cravings and prioritising alcohol over all other aspects of life",
-      "Phase II is characterized by the individual starting to drink secretly, feeling guilty, becoming defensive about drinking, with rapid gulping of drinks producing further blackouts and excessive use of denial and rationalization"
+      "Used for patients who suffer frequent relapses of mania",
+      "Used for all first-episode manic patients as first-line mood stabilising treatment",
+      "Used exclusively for patients who have failed two trials of antipsychotic medication"
     ],
     "answer": "A"
   },
   {
     "id": 11,
     "type": "mcq",
-    "stem": "Phase III of alcohol dependence is known as the Crucial Phase. Which statement MOST accurately describes the defining feature of this phase that is described as loss of control?",
+    "stem": "In the management of a manic patient, the nurse is instructed regarding the ward environment. Which statement MOST accurately reflects the text's instruction?",
     "options": [
-      "Loss of control is described as the inability to choose whether or not to drink; there is binge drinking lasting from a few hours to several weeks; drinking is the total focus; the individual risks losing everything including job, marriage, family, friends, and self-respect",
-      "Loss of control is described as the onset of blackouts and amnesia immediately following alcohol consumption; the individual starts drinking secretly and uses denial and rationalization excessively",
-      "Loss of control is described as severe physical and psychological consequences including liver damage, cardiovascular problems, neurological impairments, and mental health disorders in the end stage"
+      "The ward must be quiet and pleasant; factors that irritate the patient like excessive noise, bright colours etc are to be avoided; separate rooms may be ideal with simple furnishing; fluctuation of mood states must be watched; active games, ward occupation and creative work will channelise his energy",
+      "The ward should have stimulating activities including music and social interaction to distract the patient from grandiose ideation; the nurse should encourage group activities and peer interaction to reduce social isolation",
+      "The ward should be brightly lit with multiple stimulating activities to reduce the patient's agitation; the nurse should engage the patient in competitive games to redirect excess energy"
     ],
     "answer": "A"
   },
   {
     "id": 12,
     "type": "mcq",
-    "stem": "Phase IV of alcohol dependence is the Chronic Phase. Which consequences specifically characterise this end-stage phase?",
+    "stem": "Depression is defined in the text as an affective disorder. Which of the following MOST completely and accurately defines depression as stated?",
     "options": [
-      "Severe physical and psychological consequences; health significantly deteriorates leading to liver damage (cirrhosis), cardiovascular problems, neurological impairments, and mental health disorders; profound disruptions in relationships, employment, and overall functioning",
-      "Intense cravings and inability to choose whether or not to drink; binge drinking lasting hours to weeks; loss of job, marriage, family, friends, and self-respect; withdrawal symptoms on attempting to quit",
-      "Blackouts and brief periods of amnesia during drinking; alcohol becomes a drug required rather than a source of pleasure; individual begins drinking secretly and feels guilty about consumption"
+      "An affective disorder characterized by extreme feeling of sadness, withdrawal, excessive psychomotor retardation and suicidal thought; OR an affective disorder with retardation of mental, physical and social activities characterized by loss of interest, lack of energy and pessimism",
+      "An affective disorder characterized by persistent low mood, anhedonia, and cognitive impairment lasting at least two weeks, without any psychomotor changes or suicidal ideation",
+      "An affective disorder characterized by extreme feeling of sadness and suicidal thought only, caused by biochemical imbalance in monoamine neurotransmitters in the prefrontal cortex"
     ],
     "answer": "A"
   },
   {
     "id": 13,
     "type": "mcq",
-    "stem": "According to the text, what is the street name for Heroin in Nigeria?",
+    "stem": "Endogenous Depression (Major Depression) is defined by the presence of a depressed mood or pleasure plus 4 or more of seven symptoms. Which of the following is NOT one of the seven symptoms listed for Endogenous Depression?",
     "options": [
-      "Smack, junk, H, dope, horse, Brown Sugar",
-      "Meth, ice, crystal, speed, crank, mkpuru-mmiri",
-      "Coke, blow, snow, crack, rock"
+      "Disorganized speech and thought insertion — symptoms of psychotic features that may accompany severe major depressive episodes",
+      "Loss of interest and pleasure; loss of worthlessness of guilt; loss of energy and fatigue; impaired concentration; thought of suicide; loss or increase of appetite and weight; insomnia or excessive sleep and retardation or agitation",
+      "Thought of suicide; loss or increase of appetite; retardation or agitation"
     ],
     "answer": "A"
   },
   {
     "id": 14,
     "type": "mcq",
-    "stem": "The street names for Cannabis listed in the text include which of the following groups?",
+    "stem": "Reactive/Neurotic/Dysthymic disorder requires depressed mood for most of the day for at least how long, plus presence of at least how many of six symptoms?",
     "options": [
-      "Marijuana, Weed, pot, grass, ganja, India herm: Igbo, Kush, Skunk, Loud, Mary Jane",
-      "Smack, junk, H, dope, horse, Brown Sugar",
-      "Spice, K2, synthetic marijuana, fake weed, herbal incense"
+      "Depressed mood for most of the day for at least two years; presence of at least two of the following six symptoms",
+      "Depressed mood for most of the day for at least one year; presence of at least three of the following six symptoms",
+      "Depressed mood for most of the day for at least six months; presence of at least four of the following six symptoms"
     ],
     "answer": "A"
   },
   {
     "id": 15,
     "type": "mcq",
-    "stem": "Methamphetamine has a specific Nigerian street name listed in the text. Which of the following CORRECTLY identifies its street names?",
+    "stem": "Involutional/Melancholia Depression occurs at which stage of life and is caused by which hormonal event? Which statement is MOST accurate?",
     "options": [
-      "Meth, ice, crystal, speed, crank, mkpuru-mmiri",
-      "Coke, blow, snow, crack, rock",
-      "Smack, junk, H, dope, horse, Brown Sugar"
+      "Occurs in the middle age and later third of life; caused by hormonal changes in the body during the menopausal stage in predisposed women; characterized by agitation, complaints of body or mental suffering, restlessness, hypochondriacal ideas and delusion of guilt and unworthiness",
+      "Occurs in early adulthood between 18-35 years of age; caused by biochemical imbalances in monoamine neurotransmitters; characterized by psychomotor retardation, suicidal ideation, and hypersomnia",
+      "Occurs in adolescence between 12-18 years of age; caused by pubertal hormonal changes affecting the limbic system; characterized by irritability, school refusal, and somatic complaints"
     ],
     "answer": "A"
   },
   {
     "id": 16,
     "type": "mcq",
-    "stem": "Ketamine is listed as a substance of abuse. Which street names are SPECIFICALLY associated with Ketamine in the text?",
+    "stem": "Senile Depression occurs from 70 years and above. Which specific features distinguish it from other types of depression according to the text?",
     "options": [
-      "Special K, vitamin K, cat Valium, horse tranquilizer",
-      "Shrooms, magic mushrooms, caps, zoomers",
-      "Benzos, tranks, downers, sleeping pills, candy"
+      "The risk of suicides is much increased and it may be irreversible; signs/symptoms include degeneration of intellectual power, concentration and memory; there is also loss of appetite, loss of weight and hallucinations",
+      "The risk of suicide is lower than in other forms of depression because patients lack the energy to act on suicidal ideation; it may be reversible with antidepressant therapy within 4-6 weeks",
+      "The risk of suicide is equivalent to that of endogenous depression; it is always reversible with ECT; characterised primarily by delusions of persecution and auditory hallucinations"
     ],
     "answer": "A"
   },
   {
     "id": 17,
     "type": "mcq",
-    "stem": "Psilocybin mushrooms are listed as a substance of abuse. Which street names are SPECIFICALLY associated with them in the text?",
+    "stem": "Major Depressive Disorder (MDD) as classified by DSM-5 requires symptoms to be present for at least how long?",
     "options": [
-      "Shrooms, magic mushrooms, caps, zoomers",
-      "Special K, vitamin K, cat Valium, horse tranquilizer",
-      "Spice, K2, synthetic marijuana, fake weed, herbal incense"
+      "Symptoms must be present for at least two weeks",
+      "Symptoms must be present for at least one month",
+      "Symptoms must be present for at least two years"
     ],
     "answer": "A"
   },
   {
     "id": 18,
     "type": "mcq",
-    "stem": "Inhalants are listed as substances of abuse. Which street names are associated with Inhalants in the text?",
+    "stem": "Persistent Depressive Disorder (PDD), formerly known as dysthymia, is described in the text. Which statement MOST accurately characterises PDD compared to MDD?",
     "options": [
-      "Whippets, poppers, rush, huff, laughing gas",
-      "Shrooms, magic mushrooms, caps, zoomers",
-      "Glue, petrol, High on gas, sniff, solvent"
+      "PDD is a chronic form of depression that lasts for at least two years; individuals with PDD may experience symptoms similar to MDD but at a milder intensity; symptoms may persist for long periods with brief periods of improvement",
+      "PDD is a more severe form of depression than MDD requiring hospitalization; it lasts for at least six months and is characterized by psychotic features such as hallucinations and delusions",
+      "PDD is characterised by depressive episodes alternating with hypomanic episodes over at least two years, meeting criteria for Cyclothymic Disorder on the bipolar spectrum"
     ],
     "answer": "A"
   },
   {
     "id": 19,
     "type": "mcq",
-    "stem": "Alcohol street names in Nigeria include which of the following as listed in the text?",
+    "stem": "Disruptive Mood Dysregulation Disorder (DMDD) is described in the text. Which population is it specifically diagnosed in and what are its characteristic features?",
     "options": [
-      "Booze, brew, hooch, juice, sauce, Paraga, OG, Kai Kai, Alomo, Sepe",
-      "Marijuana, Weed, pot, grass, ganja, India herm: Igbo, Kush, Skunk, Loud, Mary Jane",
-      "Meth, ice, crystal, speed, crank, mkpuru-mmiri"
+      "Typically diagnosed in children and adolescents; characterized by severe and recurrent temper outbursts inconsistent with the child's developmental level; accompanied by persistent irritability between the outbursts",
+      "Typically diagnosed in adults between 18-35 years; characterized by rapid mood cycling between depression and hypomania within the same day; accompanied by impulsive behaviour and self-harm",
+      "Typically diagnosed in elderly patients above 65 years; characterized by recurrent episodes of tearfulness and emotional lability; accompanied by cognitive impairment and functional decline"
     ],
     "answer": "A"
   },
   {
     "id": 20,
     "type": "mcq",
-    "stem": "Co-occurring mental health disorders are described as a factor contributing to the development of substance abuse. Which mental health conditions are SPECIFICALLY listed as examples in the text?",
+    "stem": "Premenstrual Dysphoric Disorder (PMDD) is described in the text. Which statement MOST accurately characterises when it occurs and what it involves?",
     "options": [
-      "Depression, anxiety, post-traumatic stress disorder (PTSD), or attention-deficit/hyperactivity disorder (ADHD) â individuals may turn to substances as a way to self-medicate or cope with their emotional struggles",
-      "Schizophrenia, bipolar disorder, and obsessive compulsive disorder â conditions in which substances are used to suppress hallucinations and intrusive thoughts",
-      "Borderline personality disorder, antisocial personality disorder, and major depressive disorder â conditions that share neurobiological pathways with substance use disorders"
+      "A type of depression that occurs in women during the premenstrual phase of their menstrual cycle; involves symptoms such as mood swings, irritability, depression, anxiety, and physical discomfort that significantly disrupt daily functioning",
+      "A type of depression that occurs in women immediately after delivery; characterized by severe mood swings, crying, and inability to bond with the baby, lasting up to one year postpartum",
+      "A type of depression that occurs in women during the menopausal transition; characterized by hypochondriacal ideas, delusions of guilt, and excessive complaints of body or mental suffering"
     ],
     "answer": "A"
   },
   {
     "id": 21,
     "type": "mcq",
-    "stem": "Detoxification is listed as a component of substance abuse management. Which statement MOST accurately describes what detoxification involves?",
+    "stem": "ECT is listed in the text as used in the management of depression. For which specific depressive presentation is ECT described as preferable?",
     "options": [
-      "For individuals with severe substance dependence, medical detoxification may be necessary to safely manage withdrawal symptoms; it is typically conducted under medical supervision to ensure the individual's safety and comfort during withdrawal",
-      "Detoxification involves the administration of behavioural therapies including cognitive-behavioural therapy and motivational interviewing to manage withdrawal symptoms without pharmacological intervention",
-      "Detoxification is conducted in outpatient settings for all levels of substance dependence and involves the use of support groups and peer counselling to assist individuals through the withdrawal process"
+      "ECT is preferable for depression with suicidal tendency",
+      "ECT is preferable for depression that has not responded to two trials of antidepressant medication",
+      "ECT is preferable for depression associated with psychotic features such as hallucinations and delusions"
     ],
     "answer": "A"
   },
   {
     "id": 22,
     "type": "mcq",
-    "stem": "Behavioural therapies for substance abuse management are described in the text. Which of the following CORRECTLY identifies the specific therapies named?",
+    "stem": "The nursing care for a depressed patient includes specific precautions to prevent suicide. Which of the following is listed in the text as a precaution to prevent suicide?",
     "options": [
-      "Cognitive-behavioural therapy (CBT), motivational interviewing (MI), and contingency management â helping individuals understand underlying factors, develop coping skills, modify unhealthy thought patterns, and make positive behavioural changes",
-      "Dialectical behaviour therapy (DBT), psychodynamic therapy, and interpersonal therapy â helping individuals explore unresolved conflicts and emotional dysregulation contributing to substance use",
-      "Family systems therapy, acceptance and commitment therapy (ACT), and narrative therapy â helping individuals reconstruct their personal narratives to separate identity from substance use patterns"
+      "Open suicidal caution card; remove harmful objects from patient vicinity; ensure patient swallows drugs instantly so as not to board them; naked electric wires in the ward must be repaired; medical cupboard must be locked always; monitor patient when taking bath; observe patient closely",
+      "Place the patient in an open ward without access to sharp objects; monitor the patient every 15 minutes; administer antidepressants at bedtime to reduce daytime sedation; encourage family visits daily",
+      "Restrict the patient to the ward; assign a one-to-one nursing companion at all times; confiscate all personal belongings on admission; place the patient in a seclusion room for safety"
     ],
     "answer": "A"
   },
   {
     "id": 23,
     "type": "mcq",
-    "stem": "Medication-Assisted Treatment (MAT) is described in the text. Which medications are SPECIFICALLY named for opioid dependence and alcohol dependence respectively?",
+    "stem": "Anorexia Nervosa is defined in the text. Which definition MOST completely and accurately describes it as stated in both ICD-11 and DSM-5?",
     "options": [
-      "Opioids: methadone, buprenorphine; Alcohol: naltrexone, acamprosate â MAT is often combined with counseling and behavioural therapies for optimal outcomes",
-      "Opioids: naltrexone, acamprosate; Alcohol: methadone, buprenorphine â MAT is used independently of psychotherapy for best pharmacological outcomes",
-      "Opioids: diazepam, haloperidol; Alcohol: chlorpromazine, paraldehyde â chemical restraint agents repurposed for managing substance withdrawal symptoms"
+      "A persistent restriction of energy intake leading to a significantly low body weight in the context of age, sex, developmental trajectory, and physical health; characterized by an intense fear of gaining weight or becoming fat or persistent behaviour that interferes with weight gain, even at a significantly low weight",
+      "A disorder characterized by recurrent episodes of binge eating in which an individual eats an unusually large amount of food in a discrete period of time and experiences a sense of lack of control over eating during the episode",
+      "A clinical syndrome characterized by extreme overeating followed by self-induced vomiting and abuse of laxatives and diuretics; occurs predominantly in females and begins in adolescence or early adult life"
     ],
     "answer": "A"
   },
   {
     "id": 24,
     "type": "mcq",
-    "stem": "Support groups are listed as a management strategy for substance abuse. Which specific support groups are named in the text?",
+    "stem": "The Restricting Type of Anorexia Nervosa is distinguished from the Binge-Eating/Purging Type. Which statement MOST accurately describes the Restricting Type?",
     "options": [
-      "Alcoholics Anonymous (AA) and Narcotics Anonymous (NA) â providing peer support, encouragement, and guidance from others who have experienced similar struggles",
-      "Substance Abusers Anonymous (SAA) and Recovering Addicts Network (RAN) â providing community-based peer support for all substances",
-      "Dual Recovery Anonymous (DRA) and Cocaine Anonymous (CA) â providing dual diagnosis-specific peer support for substance and mental health comorbidity"
+      "During the current episode, weight loss is achieved by restricting calories following drastic diets, fasting, and excessive exercise; the person has not regularly engaged in binge-eating or purging behaviour such as self-induced vomiting or misuse of laxatives, diuretics, or enemas",
+      "During the current episode, the patient engages in binge eating, consuming large amounts of food in a short period of time, and attempts to compensate for calories consumed by purging through vomiting, using laxatives or diuretics, or excessive exercise",
+      "During the current episode, the person uses inappropriate compensatory behaviours other than purging to control their weight such as fasting or excessive exercise — the non-purging compensatory strategy"
     ],
     "answer": "A"
   },
   {
     "id": 25,
     "type": "mcq",
-    "stem": "Dual Diagnosis Treatment is described as a management strategy for substance abuse. Which statement MOST accurately describes what it involves?",
+    "stem": "Perfectionism is listed as a cause of Anorexia Nervosa. How does it contribute to the development of eating disorders according to the text?",
     "options": [
-      "Many individuals with substance abuse disorders also have co-occurring mental health disorders; integrated treatment that addresses both the substance abuse and mental health conditions is crucial for successful recovery, involving collaboration between addiction specialists and mental health professionals",
-      "Dual Diagnosis Treatment involves the simultaneous prescription of two different medications â one for the substance use disorder and one for the co-occurring mental health condition â without the need for psychotherapy",
-      "Dual Diagnosis Treatment is reserved for individuals with severe substance use disorder (6 or more DSM-5 criteria) who also meet criteria for a psychotic disorder such as schizophrenia or bipolar disorder"
+      "People with perfectionistic tendencies may be more prone to developing eating disorders as they strive for an unattainable ideal of perfection, including their body shape and weight",
+      "People with perfectionistic tendencies may develop eating disorders because they set unrealistic academic and professional goals, leaving no time for adequate nutrition",
+      "People with perfectionistic tendencies are more prone to developing Bulimia Nervosa specifically, because perfectionism drives the binge-purge cycle as a compensation for dietary failures"
     ],
     "answer": "A"
   },
   {
     "id": 26,
     "type": "mcq",
-    "stem": "Restraint is defined in the text. Which definition MOST accurately describes what restraint is?",
+    "stem": "Signs and Symptoms of Anorexia Nervosa include which finding regarding the patient's preoccupation with food despite refusing to eat?",
     "options": [
-      "The use of appliances and chemical agent to impede the movement of the body of a restless and aggressive patient in order to prevent harming self and others, thereby providing temporal external control for a patient who cannot provide their own internal control",
-      "The use of padded rooms and seclusion to confine a patient who is unable to leave, with walls padded and kept free of items that could cause injury to promote comfort and safety",
-      "The use of hypnotic drugs and tranquilizers to sedate and calm an aggressive patient, thereby preventing injury to self and others through chemical means"
+      "Preoccupation with food: the patient thinks and talks about food at great length, prepares enormous amounts of food for friends and family members but refuses to eat",
+      "Preoccupation with food: the patient binges on large amounts of food in secret and then purges immediately afterward through self-induced vomiting",
+      "Preoccupation with food: the patient counts calories obsessively and reads nutrition labels on all food products but maintains a slightly underweight BMI"
     ],
     "answer": "A"
   },
   {
     "id": 27,
     "type": "mcq",
-    "stem": "Physical Restraint is distinguished from Chemical Restraint and Seclusion in the text. Which definition MOST precisely describes physical restraint?",
+    "stem": "Which of the following physical consequences of Anorexia Nervosa is CORRECTLY identified in the text?",
     "options": [
-      "Devices, instruments, or appliances used to limit specific parts of the patient's body such as arms or legs, thus impeding the movement of a violent, aggressive, or restless patient â e.g. leather belt or vest may be used to stop the patient from getting out of bed",
-      "The use of hypnotic drugs and tranquilizers to sedate and calm an aggressive patient, thereby preventing injury to self and others",
-      "A type of restraint where a patient is confined in a room by himself and is unable to leave; the room is locked, walls are padded, and kept free of items that could cause injury"
+      "Amenorrhea in females who have reached puberty; dry skin, brittle nails, and hair loss; low blood pressure, slow heart rate, and electrolyte imbalances; hypothermia, bradycardia, hypotension, and anaemia",
+      "Erosion of tooth enamel due to gastric acid in the vomitus; dehydration and electrolyte imbalance due to excessive vomiting and laxative abuse; body image disturbance",
+      "Marked weight loss; enlargement of parotid glands; calluses on knuckles (Russell's sign) from self-induced vomiting; metabolic alkalosis from purging"
     ],
     "answer": "A"
   },
   {
     "id": 28,
     "type": "mcq",
-    "stem": "Seclusion is described in the text as a type of restraint. Which statement MOST accurately defines seclusion?",
+    "stem": "Bulimia Nervosa is described in the text as an eating disorder. Which definition MOST accurately describes it as per the DSM-5?",
     "options": [
-      "A type of restraint in which a patient is confirmed in a room by himself and he is unable to leave the room; the room is locked, the walls are padded and kept free of items that could cause injury, and arranged with minimal items to promote the patient's comfort and safety",
-      "Devices, instruments, or appliances used to limit specific parts of the patient's body to impede movement of a violent, aggressive, or restless patient",
-      "The use of appliances and chemical agents to impede the movement of a restless and aggressive patient to prevent harming self and others"
+      "A disorder characterized by recurrent episodes of binge eating in which an individual eats an unusually large amount of food in a discrete period of time and experiences a sense of lack of control over eating during the episode",
+      "A disorder characterized by a persistent restriction of energy intake leading to a significantly low body weight, with an intense fear of gaining weight and gross distortion of body image",
+      "A disorder characterized by extreme overeating without any compensatory purging behaviour, with the patient experiencing persistent preoccupation with body image and weight"
     ],
     "answer": "A"
   },
   {
     "id": 29,
     "type": "mcq",
-    "stem": "Which of the following are listed as ADVANTAGES of Restraint in the text?",
+    "stem": "The Purging Type of Bulimia Nervosa is distinguished from the Non-Purging Type. Which pair CORRECTLY contrasts these two types?",
     "options": [
-      "It prevents patient from inflicting injury to self; prevents inflicting injury to others and damage to properties; enhances close physical observation and assessment of patient; prevents distraction in routine nursing management of other patients; chemical restraints produce therapeutic effect on the patient due to the tranquilizing properties; prevents aimless wandering and prevents suicide",
-      "It prevents patient from inflicting injury to self; prevents legal implications of uncontrolled aggressive behaviour; provides opportunity for the patient to reflect on behaviour; reduces the need for emergency medication administration",
-      "It prevents patient from inflicting injury to self; prevents patient from eloping from the ward; ensures medication compliance; reduces nursing workload; allows for uninterrupted therapeutic activities with other patients"
+      "Purging type: engaged in self-induced vomiting or misuse of laxatives, diuretics, or enemas; Non-purging type: during the current episode, the person uses inappropriate compensatory behaviours other than purging to control their weight such as fasting or excessive exercise",
+      "Purging type: uses fasting and excessive exercise to compensate for binge eating; Non-purging type: uses self-induced vomiting or laxatives to compensate for binge eating episodes",
+      "Purging type: restricts caloric intake between episodes of binge eating; Non-purging type: engages in binge eating without any compensatory behaviour whatsoever"
     ],
     "answer": "A"
   },
   {
     "id": 30,
     "type": "mcq",
-    "stem": "Which of the following are listed as DISADVANTAGES of Restraint in the text?",
+    "stem": "The Social-Cultural factor listed as a cause of Bulimia Nervosa is described in the text as which of the following?",
     "options": [
-      "High risk of injury such as physical restraints being too tight causing skin injury or necrosis due to blockage of blood flow; extensive injury and trauma from struggling; physical restraint is humanly debasing; negative psychological effect on the patient; chemical restraint of sedatives and narcoleptics can produce toxic effects",
-      "High risk of injury from falling out of bed; increased agitation when restrained; risk of respiratory depression from chemical agents; risk of developing pressure sores from immobility; negative effect on nurse-patient therapeutic relationship",
-      "High risk of fracture from mechanical restraint devices; increased risk of aspiration pneumonia in chemically restrained patients; legal liability for the institution; patient rights violations; prolonged hospitalisation"
+      "Exposure to values and beliefs about thinness — 'the thinner you look, the more beautiful you look' — and marital conflict",
+      "Peer pressure to conform to certain body standards promoted by media and fashion industries, leading to extreme calorie restriction",
+      "Cultural practices related to food restriction during religious observances, creating cycles of fasting and compensatory binge eating"
     ],
     "answer": "A"
   },
   {
     "id": 31,
     "type": "mcq",
-    "stem": "The nurse's responsibilities to a patient on PHYSICAL restraint include a requirement about the number of persons needed for restraint. What does the text specify?",
+    "stem": "The Psychoanalytic Factor listed as a cause of Bulimia Nervosa is described in the text as:",
     "options": [
-      "Preferable 5 or a minimum of 4 persons should be used to restrain the patient",
-      "Preferable 4 or a minimum of 3 persons should be used to restrain the patient",
-      "Preferable 6 or a minimum of 5 persons should be used to restrain the patient"
+      "Fixation in an earlier development level",
+      "Retarded ego development leading to immature coping mechanisms",
+      "Unresolved dependence needs creating dependency on food as an emotional regulator"
     ],
     "answer": "A"
   },
   {
     "id": 32,
     "type": "mcq",
-    "stem": "Regarding the proper positioning of a physically restrained patient, which of the following is stated in the text?",
+    "stem": "Which sign or symptom of Bulimia Nervosa MOST specifically relates to what happens after a binge episode begins, as stated in the text?",
     "options": [
-      "Patient should be restrained with legs spread and one arm restrained to one side and the other arm restrained over the head",
-      "Patient should be restrained with both arms at the sides of the body and legs together to maintain neutral anatomical alignment",
-      "Patient should be restrained in a semi-recumbent position with head elevated at 30 degrees to prevent aspiration"
+      "After the binge has begun, there is often a feeling of loss of control or inability to stop eating; eating binges may be viewed as pleasurable but are followed by intense self-criticism and depressed mood",
+      "After the binge has begun, the patient immediately induces vomiting to prevent caloric absorption; the purging brings temporary relief followed by shame and renewed restriction",
+      "After the binge has begun, the patient experiences euphoria followed by anxiety; the anxiety drives the compensatory exercise that characterises the non-purging type"
     ],
     "answer": "A"
   },
   {
     "id": 33,
     "type": "mcq",
-    "stem": "The text specifies where pressure should NEVER be applied during physical restraint. Which body areas are specifically prohibited?",
+    "stem": "The physical complication unique to Bulimia Nervosa (not Anorexia) related to repeated vomiting is which of the following as stated in the text?",
     "options": [
-      "Pressure should never be applied to the neck, chest, or abdomen as this can severely limit respiration or cause injury to vulnerable areas of the body; bony prominences should be padded to maintain good body alignment",
-      "Pressure should never be applied to the head, face, or genitals as these are the most vulnerable areas; all restraint devices should be cushioned with foam padding",
-      "Pressure should never be applied to the wrists, ankles, or knees as these joints are vulnerable to fracture; restraint should focus on the trunk and proximal limbs only"
+      "Erosion of tooth enamel due to gastric acid in the vomitus; dehydration and electrolyte imbalance due to excessive vomiting and laxative or diuretic abuse",
+      "Amenorrhea due to extreme calorie restriction reducing oestrogen production; dry skin, brittle nails, and hair loss from nutritional deficiencies",
+      "Marked weight loss leading to significantly low body weight; bradycardia and hypotension from cardiac muscle wasting"
     ],
     "answer": "A"
   },
   {
     "id": 34,
     "type": "mcq",
-    "stem": "Regarding restraint at major joints when arms or legs are held, what does the text specify?",
+    "stem": "The nursing management of eating disorders involves a multidisciplinary approach. The primary goal of treatment is to help individuals achieve which outcome?",
     "options": [
-      "If arms or legs are held, this should be close to major joints to avoid the risk of fracture; restrain should be placed so that intravenous fluid can be given when necessary",
-      "If arms or legs are held, this should be as far from major joints as possible to prevent dislocation; padding should be applied at all contact points with the restraint device",
-      "If arms or legs are held, restraint devices should be applied between major joints at the mid-shaft of long bones to distribute pressure evenly and minimise neurovascular compromise"
+      "Recover from the eating disorder and achieve and maintain a healthy weight and eating patterns",
+      "Achieve a BMI within the normal range as the sole indicator of treatment success, regardless of eating behaviour",
+      "Achieve complete remission of all psychiatric symptoms including depression and anxiety before addressing the eating behaviour"
     ],
     "answer": "A"
   },
   {
     "id": 35,
     "type": "mcq",
-    "stem": "The ethical consideration of restraint specifies time limits. In an emergency, restraint or seclusion may be initiated without a physician's order, but the physician must be notified within what timeframe?",
+    "stem": "Medical Stabilization is listed as a management strategy for eating disorders. For which patient group is it specifically indicated, and what may it involve?",
     "options": [
-      "As soon as possible but not longer than one hour after the initiation of restraint or seclusion",
-      "As soon as possible but not longer than two hours after the initiation of restraint or seclusion",
-      "As soon as possible but not longer than thirty minutes after the initiation of restraint or seclusion"
+      "For individuals with severe eating disorders, medical stabilization may be necessary to address immediate health risks; may involve hospitalization or intensive medical monitoring to manage complications such as electrolyte imbalances, heart abnormalities, or organ damage",
+      "For all individuals with eating disorders regardless of severity, medical stabilization involves weekly outpatient monitoring of weight, electrolytes, and vital signs",
+      "For individuals with Bulimia Nervosa only, medical stabilization involves administration of antiemetics and proton pump inhibitors to prevent further erosion of tooth enamel"
     ],
     "answer": "A"
   },
   {
     "id": 36,
     "type": "mcq",
-    "stem": "The ethical consideration of restraint states that the patient's restraint must be observed and assessed over what interval, and with regard to which specific parameters?",
+    "stem": "CASE SCENARIO: A 17-year-old girl is brought to the psychiatric clinic by her mother. She weighs 35kg (BMI 14), refuses to eat despite preparing elaborate meals for the family, says she 'feels fat,' and has not menstruated in 8 months. She exercises for 3 hours daily. Which diagnosis is MOST consistent?",
     "options": [
-      "Observed and assessed over 10-15 minutes with regards to psychological condition; circulation, respiration, nutrition, hydration, and elimination; such assessment should be documented in the patient's record chart or folder",
-      "Observed and assessed over 30-minute intervals with regards to vital signs, level of consciousness, skin integrity, and patient's behavioural response to restraint",
-      "Observed and assessed hourly with regards to the patient's physical and psychological condition; all observations must be countersigned by the physician within 24 hours"
+      "Anorexia Nervosa — Restricting Type: characterized by persistent restriction of energy intake, intense fear of gaining weight, gross distortion of body image, amenorrhea, and excessive exercise without binge-purge behaviour",
+      "Bulimia Nervosa — Non-purging Type: characterized by binge eating with compensatory excessive exercise, body image disturbance, and menstrual irregularities",
+      "Anorexia Nervosa — Binge-Eating/Purging Type: characterized by recurrent episodes of binge eating and purging through excessive exercise, despite being significantly underweight"
     ],
     "answer": "A"
   },
   {
     "id": 37,
     "type": "mcq",
-    "stem": "The nurse's responsibilities during CHEMICAL restraint include which of the following listed in the text?",
+    "stem": "CASE SCENARIO (continued from Q36): The patient is admitted. The nurse plans her care. Which nursing action is MOST immediately critical based on the text's management principles?",
     "options": [
-      "Assess and ensure prescribed drugs are administered and monitored; assess level of consciousness; monitor side effects of drugs used; observe vital signs to ensure they are within normal range; ensure emergency drugs and equipment are readily available in case of adverse effect; carry out full medical and neurological assessment and institute appropriate treatment",
-      "Administer prescribed drugs only when the patient is physically restrained; monitor the patient's consciousness hourly; document the specific drug and dose used; notify the physician if the patient develops respiratory depression",
-      "Ensure prescribed drugs are given orally rather than parenterally where possible; monitor the patient's gait and coordination; document the time of drug administration and the patient's behavioural response"
+      "Assess the patient; establish nurse/patient relationship; monitor and record eating behaviours; consider medical stabilization for electrolyte imbalances, heart abnormalities, or organ damage given her severe low weight",
+      "Administer antidepressants immediately as depression is the underlying cause of food restriction; encourage the patient to join a group therapy session on the first day of admission",
+      "Restrict the patient's access to the exercise room; weigh her daily in the presence of her mother; discourage her from preparing meals for the family as this reinforces her food preoccupation"
     ],
     "answer": "A"
   },
   {
     "id": 38,
     "type": "mcq",
-    "stem": "Which of the following drugs are listed as CHEMICAL RESTRAINT agents in the text?",
+    "stem": "CASE SCENARIO: A 35-year-old woman presents with a three-week history of profound sadness, early morning waking, weight loss, inability to concentrate, and thoughts of suicide. She states 'life is not worth living.' Which type of depression is MOST consistent with her presentation?",
     "options": [
-      "Diazepam, Chlorpromazine, Paraldehyde, Haloperidol (used in conjunction with other tranquilizers), most benzodiazepines, hypnotics, and several psychotropic medications",
-      "Methadone, Buprenorphine, Naltrexone, Acamprosate, and Diazepam used in combination for chemical restraint and addiction management",
-      "Haloperidol, Risperidone, Olanzapine, Clozapine, and Quetiapine â second-generation antipsychotics used as the primary chemical restraint agents"
+      "Endogenous Depression (Major Depressive Disorder) — characterized by persistent feeling of sadness, hopelessness, and loss of interest or pleasure; symptoms including insomnia (early morning waking), weight loss, impaired concentration, and suicidal tendency are present",
+      "Reactive/Neurotic/Dysthymic Disorder — characterized by depressed mood for most of the day for at least two years with at least two of six symptoms; less severe than endogenous depression",
+      "Involutional/Melancholia — occurring in middle age during the menopausal stage in predisposed women; characterized by agitation, hypochondriacal ideas, and delusions of guilt"
     ],
     "answer": "A"
   },
   {
     "id": 39,
     "type": "mcq",
-    "stem": "The text warns about a specific risk with sedatives like benzodiazepine or barbiturates used as chemical restraint. What is this risk?",
+    "stem": "CASE SCENARIO: A 28-year-old man is admitted following an episode of extreme irritability, violence, and being a nuisance in the community. He has been found spending all his money, sleeping only 2 hours a night, and is dressing in bright, mismatched clothing. He is described by his family as 'acting like a different person.' Which form of mania does this presentation MOST represent?",
     "options": [
-      "Sedatives like benzodiazepine or barbiturates can cause apnoea especially in patients who have taken other drugs; there is also the possibility of legal implication in cases of injury on the patient",
-      "Sedatives like benzodiazepine or barbiturates can cause paradoxical agitation in some patients, making the aggressive behaviour worse rather than calming the patient",
-      "Sedatives like benzodiazepine or barbiturates can cause excessive sedation leading to aspiration pneumonia, especially in patients who have not been adequately assessed for gag reflex"
+      "Manic Excitement — the patient is very irritable, excited, violent, and is a nuisance to the public",
+      "Hypomania — the patient is euphoric, elated, dressing colourfully, cracking jokes, talking excessively and over active",
+      "Bipolar II Disorder — the patient is experiencing a hypomanic episode that does not require hospitalization"
     ],
     "answer": "A"
   },
   {
     "id": 40,
     "type": "mcq",
-    "stem": "The leather restraint is specifically mentioned as the safest type of restraint. Which statement from the text CORRECTLY describes this?",
+    "stem": "CASE SCENARIO: A 22-year-old woman with Bulimia Nervosa is admitted. The nurse notes erosion of her tooth enamel and calluses on her knuckles. She admits to eating very large amounts of food rapidly and then vomiting. She feels ashamed after each episode. Which type of Bulimia Nervosa does this represent?",
     "options": [
-      "Leather restraints are the safest type of restraint to be used",
-      "Leather restraints are preferred over fabric restraints because they allow for better monitoring of skin integrity",
-      "Leather restraints are the most humane form of physical restraint and should always be applied by at least three staff members"
+      "Purging Type — the patient is engaged in self-induced vomiting or misuse of laxatives, diuretics, or enemas as a compensatory behaviour",
+      "Non-purging Type — the patient uses compensatory behaviours other than purging such as fasting or excessive exercise to control weight",
+      "Restricting Type — the patient restricts caloric intake between episodes of binge eating without engaging in any purging behaviour"
     ],
     "answer": "A"
   },
   {
     "id": 41,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A 24-year-old man is admitted to the psychiatric ward with violent, aggressive behaviour. The nurse prepares to apply physical restraint. Which action by the nurse is MOST consistent with the nurse's responsibilities for physical restraint?",
+    "stem": "CASE SCENARIO: A nurse is reviewing a manic patient's drug therapy. The patient has been started on IM Chlorpromazine 50-100mg. According to the text, what should this be followed by?",
     "options": [
-      "Ensure that a minimum of 4 persons (preferable 5) are available; use leather restraints as the safest type; explain to the patient the reasons for restraint and that his cooperation is needed; pad bony prominences; restrain with legs spread and one arm to one side and the other arm over the head",
-      "Ensure that a minimum of 3 persons are available; apply padded restraints to wrists and ankles simultaneously; apply pressure to the chest to prevent the patient from rising; document the restraint after it is applied",
-      "Ensure that a minimum of 2 persons are available; apply restraints without explanation to prevent the patient from resisting; apply pressure near the neck to prevent head-butting; check restraints every hour"
+      "Tablet Chlorpromazine 100-200mg three times a day, to be reduced gradually",
+      "Tablet Haloperidol 1.5-long three times a day as the standard step-down from IM Chlorpromazine",
+      "Tablet Largactil 50-100mg stat, then tablets 100-200mg three times daily"
     ],
     "answer": "A"
   },
   {
     "id": 42,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A 35-year-old woman with alcohol use disorder is admitted in Phase III (Crucial Phase). Which presentation is MOST consistent with Phase III as described in the text?",
+    "stem": "CASE SCENARIO: A 45-year-old woman with no prior psychiatric history presents with a 3-year history of depressed mood for most of the day, decreased sleep, low energy, low self-esteem, and poor concentration. She denies suicidal ideation and has never had a major depressive episode. Which DSM-5 diagnosis is MOST consistent?",
     "options": [
-      "She is unable to choose whether or not to drink; she has been on a binge lasting several weeks; drinking is her total focus; she has lost her job, marriage, and self-respect; she experiences withdrawal symptoms when she tries to stop",
-      "She starts drinking secretly and feels guilty; she gulps drinks rapidly and has blackouts; she uses excessive denial and rationalisation; she is preoccupied with maintaining her supply",
-      "She experiences severe physical deterioration with liver cirrhosis, cardiovascular problems, and neurological impairments; her life is profoundly disrupted in relationships, employment, and overall functioning"
+      "Persistent Depressive Disorder (PDD) — formerly dysthymia; a chronic form of depression lasting at least two years with milder symptoms than MDD and brief periods of improvement",
+      "Major Depressive Disorder (MDD) — characterized by persistent sadness, hopelessness, and loss of interest with symptoms present for at least two weeks",
+      "Cyclothymic Disorder — characterized by chronic mood instability with numerous periods of depressive and hypomanic symptoms over at least two years"
     ],
     "answer": "A"
   },
   {
     "id": 43,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A patient is placed in a padded room with the door locked after displaying extreme aggression that could not be managed with less restrictive measures. Which type of restraint is being used?",
+    "stem": "CASE SCENARIO: A nurse is monitoring a depressed patient at meal time. The patient says he is not hungry and has not eaten in two days. Which nursing action is MOST consistent with the management of depression described in the text?",
     "options": [
-      "Seclusion (environmental restraint) â a type of restraint in which a patient is confirmed in a room by himself, unable to leave, with walls padded and kept free of items that could cause injury",
-      "Physical restraint â using devices and appliances to limit specific parts of the patient's body such as arms or legs to impede movement",
-      "Chemical restraint â involving hypnotic drugs and tranquilizers to sedate and calm an aggressive patient thereby preventing injury to self and others"
+      "Encourage stimulating activities around the patient; give nourishing diet especially fluid diet; give drug therapy as prescribed; encourage the patient to take care of personal hygiene",
+      "Force feed the patient using nasogastric tube to prevent further weight loss; document the caloric intake and report any refusal to the physician immediately",
+      "Allow the patient to skip meals if he is not hungry as forced feeding may worsen his depression; focus instead on addressing suicidal ideation as the priority"
     ],
     "answer": "A"
   },
   {
     "id": 44,
-    "type": "mcq",
-    "stem": "CASE SCENARIO: A nurse discovers a patient on physical restraint has developed a reddened area at the wrist where the restraint is applied. The skin is intact but the area is cool and discoloured. Which nursing responsibility was MOST likely neglected?",
-    "options": [
-      "Observation of vital signs and monitoring the patient's skin for injury or blood flow problems under the restraints; restraint should be checked periodically for safety",
-      "Ensuring the patient's physical comfort was monitored closely and that the restraint was placed close to major joints to avoid fracture risk",
-      "Documenting the reason for the restraint and the patient's response to treatment while on restraint in the patient's case file"
-    ],
-    "answer": "A"
+    "type": "fitb",
+    "stem": "Bipolar I Disorder is diagnosed when an individual experiences at least one manic episode lasting at least ____________ week(s) or requires ____________.",
+    "answer": "one; hospitalization",
+    "acceptableAnswers": ["one; hospitalization", "1; hospitalization"]
   },
   {
     "id": 45,
-    "type": "mcq",
-    "stem": "CASE SCENARIO: A recovering alcoholic patient in Phase IV presents with jaundice, confusion, and tremors. The nurse notes the patient has liver damage and neurological impairments. Which phase of alcohol dependence does this MOST accurately represent?",
-    "options": [
-      "Phase IV: The Chronic Phase â where individuals experience severe physical and psychological consequences; health significantly deteriorates leading to liver damage (cirrhosis), cardiovascular problems, neurological impairments, and mental health disorders",
-      "Phase III: The Crucial Phase â where individuals experience intense cravings, binge drinking, loss of control, and withdrawal symptoms when attempting to quit",
-      "Phase II: The Early Alcohol Phase â where blackouts begin and alcohol is no longer a source of pleasure but a drug required by the individual"
-    ],
-    "answer": "A"
+    "type": "fitb",
+    "stem": "Bipolar II Disorder requires both major depressive episodes and hypomanic episodes. A hypomanic episode lasts at least ____________ consecutive days and does not typically require ____________. Individuals with Bipolar II have never experienced a full ____________ episode.",
+    "answer": "four; hospitalization; manic",
+    "acceptableAnswers": ["four; hospitalization; manic", "4; hospitalization; manic"]
   },
   {
     "id": 46,
-    "type": "mcq",
-    "stem": "CASE SCENARIO: A 19-year-old student confesses to using a substance that his friends call 'mkpuru-mmiri.' The nurse recognises this as the Nigerian street name for which substance?",
-    "options": [
-      "Methamphetamine â with street names Meth, ice, crystal, speed, crank, mkpuru-mmiri",
-      "Heroin â with street names Smack, junk, H, dope, horse, Brown Sugar",
-      "Cannabis â with street names Marijuana, Weed, pot, grass, ganja, India herm: Igbo, Kush, Skunk, Loud, Mary Jane"
-    ],
-    "answer": "A"
+    "type": "fitb",
+    "stem": "Cyclothymic Disorder is characterized by chronic mood instability with depressive and hypomanic symptoms over a period of at least ____________ years, without meeting full criteria for a ____________ episode, hypomanic episode, or manic episode.",
+    "answer": "two; major depressive",
+    "acceptableAnswers": ["two; major depressive", "2; major depressive"]
   },
   {
     "id": 47,
-    "type": "mcq",
-    "stem": "CASE SCENARIO: A nurse is reviewing the management plan of a patient with both alcohol use disorder and major depressive disorder. Which management strategy is MOST appropriate for this clinical situation?",
-    "options": [
-      "Dual diagnosis treatment â integrated treatment that addresses both the substance abuse and mental health conditions simultaneously, involving collaboration between addiction specialists and mental health professionals",
-      "Detoxification followed by medication-assisted treatment with naltrexone and acamprosate for the alcohol use disorder only, deferring treatment of the depression until sobriety is established",
-      "Behavioural therapies only â cognitive-behavioural therapy and motivational interviewing without pharmacological intervention, as medications may interact with the patient's residual alcohol"
-    ],
-    "answer": "A"
+    "type": "fitb",
+    "stem": "Primary mania is an ____________ disorder (mood disorder). Secondary mania occurs secondary to a variety of ____________ disorders such as drug intake, infection, neoplasm, epilepsy, or metabolic disturbances.",
+    "answer": "affective; organic",
+    "acceptableAnswers": ["affective; organic"]
   },
   {
     "id": 48,
-    "type": "mcq",
-    "stem": "CASE SCENARIO: A nurse is called to handle a violent patient and administers haloperidol as ordered. After 30 minutes, the patient develops respiratory distress. Which nursing responsibility for chemical restraint was MOST critical to prevent this outcome?",
-    "options": [
-      "Observation of vital signs to ensure they are within normal range; ensuring emergency drugs and equipment are readily available in case of any adverse effect; noting that sedatives can cause apnoea especially in patients who have taken other drugs",
-      "Documenting the name and dose of the chemical restraint used before administration; ensuring a physician's order was obtained within one hour of initiating chemical restraint",
-      "Assessing the patient's level of consciousness before administering the drug; ensuring the patient was physically restrained before any chemical agent was given"
-    ],
-    "answer": "A"
+    "type": "fitb",
+    "stem": "Hypomania is a form of mania where the patient is ____________, elated, dressing ____________, cracking jokes, and talking excessively and over-active.",
+    "answer": "euphoric; colourfully",
+    "acceptableAnswers": ["euphoric; colourfully", "euphoric; colorfully"]
   },
   {
     "id": 49,
-    "type": "mcq",
-    "stem": "CASE SCENARIO: A nurse is counselling a patient in recovery about relapse prevention. According to the text, which of the following MOST accurately describes the relapse prevention strategy?",
-    "options": [
-      "Developing relapse prevention strategies, identifying triggers and high-risk situations, learning healthy coping mechanisms for maintaining long-term sobriety, and continuing support through counselling, support groups, and aftercare programs",
-      "Abstaining completely from all social situations where substances may be present; attending daily Alcoholics Anonymous meetings and reporting any cravings to the nurse immediately",
-      "Using medication-assisted treatment as the sole relapse prevention strategy; methadone or buprenorphine completely eliminates the risk of relapse without the need for additional psychosocial support"
-    ],
-    "answer": "A"
+    "type": "fitb",
+    "stem": "Lithium ____________ (mood stabilizer) is used for patients who suffer ____________ relapses of mania.",
+    "answer": "carbonate; frequent",
+    "acceptableAnswers": ["carbonate; frequent"]
   },
   {
     "id": 50,
     "type": "fitb",
-    "stem": "Substance abuse is characterized by the inability to ____________ or stop substance use despite the ____________ consequences it causes.",
-    "answer": "control; negative",
-    "acceptableAnswers": ["control; negative"]
+    "stem": "Depression is defined as an affective disorder characterized by extreme feeling of ____________, withdrawal, excessive psychomotor ____________ and suicidal thought.",
+    "answer": "sadness; retardation",
+    "acceptableAnswers": ["sadness; retardation"]
   },
   {
     "id": 51,
     "type": "fitb",
-    "stem": "To establish a diagnosis of substance use disorder, the DSM-5 requires the individual to meet at least ____________ or more of the ____________ outlined criteria within a ____________-month period.",
-    "answer": "two; 11; 12",
-    "acceptableAnswers": ["two; 11; 12", "2; 11; 12"]
+    "stem": "Endogenous Depression requires a depressed mood or pleasure plus ____________ or more of seven symptoms including loss of interest and pleasure, loss of worthlessness of guilt, loss of energy and fatigue, impaired concentration, thought of suicide, loss or increase of appetite, and ____________ or excessive sleep.",
+    "answer": "4; insomnia",
+    "acceptableAnswers": ["4; insomnia", "four; insomnia"]
   },
   {
     "id": 52,
     "type": "fitb",
-    "stem": "The severity of substance use disorder is classified as: Mild if ____________ criteria are met; Moderate if ____________ criteria are met; Severe if ____________ or more criteria are met.",
-    "answer": "2-3; 4-5; 6",
-    "acceptableAnswers": ["2-3; 4-5; 6", "2 to 3; 4 to 5; 6"]
+    "stem": "Reactive/Neurotic/Dysthymic disorder requires depressed mood for most of the day for at least ____________ years, plus the presence of at least ____________ of six symptoms.",
+    "answer": "two; two",
+    "acceptableAnswers": ["two; two", "2; 2"]
   },
   {
     "id": 53,
     "type": "fitb",
-    "stem": "Psychological dependence involves intense ____________ and desire for the drug, while physical dependence is marked by the occurrence of ____________ symptoms when the substance is reduced or discontinued.",
-    "answer": "craving; withdrawal",
-    "acceptableAnswers": ["craving; withdrawal", "cravings; withdrawal"]
+    "stem": "Involutional/Melancholia occurs in the middle age and later third of life; it is caused by ____________ changes during the ____________ stage in predisposed women. It is characterized by agitation, hypochondriacal ideas, and delusion of ____________ and unworthiness.",
+    "answer": "hormonal; menopausal; guilt",
+    "acceptableAnswers": ["hormonal; menopausal; guilt"]
   },
   {
     "id": 54,
     "type": "fitb",
-    "stem": "Phase I of alcohol dependence is called the ____________ Phase. It is characterized by the use of alcohol to relieve everyday ____________ and tensions of life, during which ____________ develops and the amount required to achieve the desired effect increases.",
-    "answer": "Pre Alcoholic; stress; tolerance",
-    "acceptableAnswers": ["Pre Alcoholic; stress; tolerance", "Pre-Alcoholic; stress; tolerance"]
+    "stem": "Senile Depression occurs from ____________ years and above. The risk of suicides is ____________ increased and it may be ____________.",
+    "answer": "70; much; irreversible",
+    "acceptableAnswers": ["70; much; irreversible"]
   },
   {
     "id": 55,
     "type": "fitb",
-    "stem": "Phase II of alcohol dependence begins with ____________ â brief periods of ____________ that occur during or immediately following a period of taking the alcohol. Now the alcohol is no longer a source of ____________ or relief for the individual.",
-    "answer": "blackouts; amnesia; pleasure",
-    "acceptableAnswers": ["blackouts; amnesia; pleasure"]
+    "stem": "ECT is preferable for depression with ____________ tendency. Drug therapy for depression includes anti-depressant drugs such as trypitizol ____________-____________ per day.",
+    "answer": "suicidal; 50; 30",
+    "acceptableAnswers": ["suicidal; 50; 30", "suicidal; 30; 50"]
   },
   {
     "id": 56,
     "type": "fitb",
-    "stem": "Phase III of alcohol dependence is known as the ____________ Phase. Loss of control is described as the inability to ____________ whether or not to drink. There is ____________ drinking lasting from a few hours to several weeks.",
-    "answer": "Crucial; choose; binge",
-    "acceptableAnswers": ["Crucial; choose; binge"]
+    "stem": "Anorexia Nervosa is defined as a persistent ____________ of energy intake leading to a significantly low body weight; characterized by an intense ____________ of gaining weight or becoming fat or persistent behaviour that interferes with ____________ gain.",
+    "answer": "restriction; fear; weight",
+    "acceptableAnswers": ["restriction; fear; weight"]
   },
   {
     "id": 57,
     "type": "fitb",
-    "stem": "Phase IV of alcohol dependence is known as the ____________ Phase, characterised by liver damage (____________), cardiovascular problems, neurological impairments, and mental health disorders.",
-    "answer": "Chronic; cirrhosis",
-    "acceptableAnswers": ["Chronic; cirrhosis"]
+    "stem": "In Anorexia Nervosa — Restricting Type, weight loss is achieved by restricting calories following drastic diets, ____________, and excessive exercise; the person has NOT regularly engaged in ____________-eating or ____________ behaviour.",
+    "answer": "fasting; binge; purging",
+    "acceptableAnswers": ["fasting; binge; purging"]
   },
   {
     "id": 58,
     "type": "fitb",
-    "stem": "Restraint is defined as the use of ____________ and chemical agent to impede the movement of the body of a restless and aggressive patient in order to prevent harming ____________ and others, thereby providing ____________ external control.",
-    "answer": "appliances; self; temporal",
-    "acceptableAnswers": ["appliances; self; temporal", "appliances; themselves; temporal"]
+    "stem": "Bulimia Nervosa is described as the ____________-and-____________ syndrome, characterized by extreme overeating followed by self-induced vomiting and abuse of laxatives and diuretics. It occurs predominantly in ____________ and begins in adolescence or early adult life.",
+    "answer": "binge; purge; females",
+    "acceptableAnswers": ["binge; purge; females"]
   },
   {
     "id": 59,
     "type": "fitb",
-    "stem": "The three types of restraint are: (1) ____________ restraint (mechanical restraint), (2) ____________ restraint, and (3) ____________ (environmental restraint).",
-    "answer": "Physical; Chemical; Seclusion",
-    "acceptableAnswers": ["Physical; Chemical; Seclusion", "physical; chemical; seclusion"]
+    "stem": "In Bulimia Nervosa — Non-purging Type, during the current episode the person uses inappropriate ____________ behaviours OTHER than purging to control their weight, such as ____________ or excessive exercise.",
+    "answer": "compensatory; fasting",
+    "acceptableAnswers": ["compensatory; fasting"]
   },
   {
     "id": 60,
     "type": "fitb",
-    "stem": "For physical restraint, it is preferable to use ____________ persons or a minimum of ____________ persons to restrain the patient. ____________ restraints are the safest type of restraint to be used.",
-    "answer": "5; 4; Leather",
-    "acceptableAnswers": ["5; 4; Leather", "5; 4; leather"]
+    "stem": "The psychoanalytic factor for Bulimia Nervosa is ____________ in an earlier development level, while the behavioural factor is unresolved ____________ needs.",
+    "answer": "fixation; dependence",
+    "acceptableAnswers": ["fixation; dependence"]
   },
   {
     "id": 61,
     "type": "fitb",
-    "stem": "Pressure should never be applied to the ____________, ____________, or abdomen as this can severely limit ____________ or cause injury to vulnerable areas of the body.",
-    "answer": "neck; chest; respiration",
-    "acceptableAnswers": ["neck; chest; respiration", "neck; chest; breathing"]
+    "stem": "A physical complication specific to repeated purging in Bulimia Nervosa is erosion of ____________ enamel due to ____________ acid in the vomitus.",
+    "answer": "tooth; gastric",
+    "acceptableAnswers": ["tooth; gastric"]
   },
   {
     "id": 62,
     "type": "fitb",
-    "stem": "Sedatives like ____________ or barbiturates can cause ____________ especially in patients who have taken other drugs; there is also a possibility of ____________ implication in cases of injury on the patient.",
-    "answer": "benzodiazepine; apnoea; legal",
-    "acceptableAnswers": ["benzodiazepine; apnoea; legal", "benzodiazepines; apnoea; legal"]
+    "stem": "In the nursing management of a manic patient, two manic patients should ____________ be nursed side by side. The nurse should use a ____________ sound tone and ____________ should be more effective than arguments.",
+    "answer": "not; low; persuasion",
+    "acceptableAnswers": ["not; low; persuasion", "not; low; suggestions and persuasions"]
   },
   {
     "id": 63,
     "type": "fitb",
-    "stem": "In ethical consideration of restraint, the physician must be notified as soon as possible but not longer than ____________ hour after the initiation of restraint or seclusion. The patient's restraint must be observed and assessed over ____________ minutes.",
-    "answer": "one; 10-15",
-    "acceptableAnswers": ["one; 10-15", "1; 10-15", "one; 10 to 15"]
+    "stem": "In preventing suicide in a depressed patient, the nurse must open a ____________ caution card, remove ____________ objects from the patient's vicinity, ensure the patient ____________ drugs instantly so as not to board them.",
+    "answer": "suicidal; harmful; swallows",
+    "acceptableAnswers": ["suicidal; harmful; swallows"]
   },
   {
     "id": 64,
     "type": "fitb",
-    "stem": "Chemical restraint agents listed in the text include: ____________, Chlorpromazine, ____________, Haloperidol, most benzodiazepines, hypnotics, and several ____________ medications.",
-    "answer": "Diazepam; Paraldehyde; psychotropic",
-    "acceptableAnswers": ["Diazepam; Paraldehyde; psychotropic", "diazepam; paraldehyde; psychotropic"]
+    "stem": "CASE SCENARIO (Fill-in): A 16-year-old girl refuses to eat despite preparing large meals for others, says she 'feels fat,' weighs only 34kg, and has not menstruated for 7 months. This is consistent with ____________ Nervosa — ____________ Type, characterised by persistent restriction of energy intake and an intense fear of gaining ____________.",
+    "answer": "Anorexia; Restricting; weight",
+    "acceptableAnswers": ["Anorexia; Restricting; weight"]
   },
   {
     "id": 65,
     "type": "fitb",
-    "stem": "Medication-Assisted Treatment (MAT) for opioid dependence includes ____________ and buprenorphine; for alcohol dependence it includes ____________ and acamprosate. MAT is often combined with ____________ and behavioural therapies for optimal outcomes.",
-    "answer": "methadone; naltrexone; counseling",
-    "acceptableAnswers": ["methadone; naltrexone; counseling", "methadone; naltrexone; counselling"]
+    "stem": "CASE SCENARIO (Fill-in): A 25-year-old woman with Bulimia Nervosa feels a loss of ____________ during binge episodes and intense ____________ and depressed mood afterward. She is engaged in ____________-induced vomiting, classifying her as the Purging Type.",
+    "answer": "control; self-criticism; self",
+    "acceptableAnswers": ["control; self-criticism; self", "control; shame; self"]
   },
   {
     "id": 66,
     "type": "fitb",
-    "stem": "CASE SCENARIO (Fill-in): A patient on chemical restraint develops shallow breathing 20 minutes after receiving haloperidol and diazepam. The nurse recalls that sedatives can cause ____________ especially in patients who have taken other drugs. The nurse should immediately ensure that ____________ drugs and equipment are readily available and carry out a full ____________ and neurological assessment.",
-    "answer": "apnoea; emergency; medical",
-    "acceptableAnswers": ["apnoea; emergency; medical", "apnea; emergency; medical"]
+    "stem": "CASE SCENARIO (Fill-in): A 38-year-old man with Bipolar I is admitted during a manic episode. He has not slept for 5 days and is violent. The nurse prepares drug therapy including IM ____________ 5-10mg 2 hourly until patient is sedated or maximum of 5mg, then changes to tablet ____________ 1.5-long three times a day.",
+    "answer": "Haloperidol; Haloperidol",
+    "acceptableAnswers": ["Haloperidol; Haloperidol", "haloperidol; haloperidol"]
   },
   {
     "id": 67,
-    "type": "fitb",
-    "stem": "CASE SCENARIO (Fill-in): A 40-year-old woman in Phase III of alcohol dependence is admitted. The nurse documents that she has experienced loss of ____________, describing it as the inability to choose whether or not to ____________. She has lost her job and marriage. The nurse identifies this as consistent with the ____________ Phase.",
-    "answer": "control; drink; Crucial",
-    "acceptableAnswers": ["control; drink; Crucial", "control; drink; crucial"]
+    "type": "mcq",
+    "stem": "CASE SCENARIO: A nurse is teaching a student about ECT use in a manic patient. The student asks when ECT is used for mania. The nurse correctly states:",
+    "options": [
+      "ECT is also used in manic excitement when patients are very irritable, excited, and violent and it is a nuisance to the public",
+      "ECT is used only for treatment-resistant depression and is never indicated for mania under any circumstances",
+      "ECT is used for mania only when Lithium carbonate has failed after three adequate trials at therapeutic blood levels"
+    ],
+    "answer": "A"
   },
   {
     "id": 68,
-    "type": "fitb",
-    "stem": "CASE SCENARIO (Fill-in): A 28-year-old man uses a substance his friends call 'mkpuru-mmiri.' The nurse identifies this as the Nigerian street name for ____________. This substance is classified under the category of ____________ in the DSM-5, and long-term use has been linked to ____________, depression, and paranoia.",
-    "answer": "methamphetamine; stimulants; anxiety",
-    "acceptableAnswers": ["methamphetamine; stimulants; anxiety", "Methamphetamine; stimulants; anxiety"]
+    "type": "mcq",
+    "stem": "CASE SCENARIO: A 14-year-old boy has severe temper outbursts three times a week that are inconsistent with his developmental level. Between outbursts, he is persistently irritable. His parents report this has been ongoing for over one year. Which DSM-5 diagnosis does the nurse anticipate?",
+    "options": [
+      "Disruptive Mood Dysregulation Disorder (DMDD) — typically diagnosed in children and adolescents; characterized by severe and recurrent temper outbursts inconsistent with developmental level; accompanied by persistent irritability between outbursts",
+      "Bipolar I Disorder — characterized by at least one manic episode lasting at least one week; the irritability and explosive outbursts represent manic episodes in a paediatric presentation",
+      "Cyclothymic Disorder — characterized by chronic mood instability with hypomanic and depressive symptoms over at least two years; the outbursts represent hypomanic episodes"
+    ],
+    "answer": "A"
   },
   {
     "id": 69,
-    "type": "fitb",
-    "stem": "CASE SCENARIO (Fill-in): A physically restrained patient develops a cool, discoloured area at the wrist. The nurse identifies this as due to ____________ of blood flow. The nurse should check that the restraint is not too ____________ and should observe the patient's skin for ____________ under the restraints.",
-    "answer": "blockage; tight; injury",
-    "acceptableAnswers": ["blockage; tight; injury"]
+    "type": "mcq",
+    "stem": "CASE SCENARIO: A nurse notes that a patient with depression has been hiding her medications under her tongue instead of swallowing them. Which specific nursing precaution does the text identify to address this?",
+    "options": [
+      "Ensure that the patient swallows her drugs instantly so as not to board them — this is specifically listed as a precaution to prevent suicide in depressed patients",
+      "Crush all medications and dissolve them in a small amount of water before administration to prevent the patient from hiding tablets under the tongue",
+      "Administer all medications via intramuscular route for depressed patients to ensure compliance and prevent accumulation of tablets for a potential overdose"
+    ],
+    "answer": "A"
   },
   {
     "id": 70,
-    "type": "fitb",
-    "stem": "CASE SCENARIO (Fill-in): A psychiatric nurse is managing a patient with both substance use disorder and PTSD. She coordinates with the addiction specialist and mental health team, providing integrated treatment â this is called ____________ diagnosis treatment. The management addresses the ____________, psychological, and ____________ aspects of addiction comprehensively.",
-    "answer": "dual; physical; social",
-    "acceptableAnswers": ["dual; physical; social"]
+    "type": "mcq",
+    "stem": "CASE SCENARIO: A patient with Anorexia Nervosa tells the nurse she needs to exercise for 2 hours after eating 'even a small snack' because she feels guilty about the calories. The nurse recognises this as consistent with which type of Anorexia Nervosa and which specific feature?",
+    "options": [
+      "Anorexia Nervosa — Binge-Eating/Purging Type: the patient engages in excessive exercise as a compensatory purging mechanism after consuming food, consistent with compensatory behaviour following eating",
+      "Anorexia Nervosa — Restricting Type: weight loss achieved by restricting calories, fasting, and excessive exercise; the person has not regularly engaged in binge-eating or purging behaviour",
+      "Bulimia Nervosa — Non-purging Type: the patient uses excessive exercise as an inappropriate compensatory behaviour other than purging to control weight"
+    ],
+    "answer": "B"
   }
 ]
