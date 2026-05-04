@@ -1,680 +1,684 @@
-
-  [{
+[
+  {
     "id": 1,
     "type": "mcq",
-    "stem": "Bipolar I Disorder is diagnosed when an individual experiences at least one manic episode. A manic episode is defined as a distinct period of abnormally elevated, expansive, or irritable mood that lasts for at least how long OR requires hospitalization?",
+    "stem": "The term 'positive symptoms' in schizophrenia describes symptoms that are additional or excess experiences not typically present in healthy individuals. Which of the following lists ONLY positive symptoms of schizophrenia?",
     "options": [
-      "At least one week or requires hospitalization",
-      "At least four consecutive days or requires hospitalization",
-      "At least two weeks or requires hospitalization"
+      "Hallucination, Delusion, Thought disorders, and Illusion",
+      "Avolition, Alogia, Anhedonia, and Blunt affect",
+      "Associations loosening, Mannerism, Disorganized speech, and Echopraxia"
     ],
     "answer": "A"
   },
   {
     "id": 2,
     "type": "mcq",
-    "stem": "Bipolar II Disorder is distinguished from Bipolar I by the nature of its manic episodes. Which statement MOST accurately describes what distinguishes a hypomanic episode from a full manic episode in Bipolar II?",
+    "stem": "The term 'negative symptoms' in schizophrenia describes a specific category of symptoms involving reduction or absence of normal functions. Which of the following lists ONLY negative symptoms of schizophrenia?",
     "options": [
-      "A hypomanic episode lasts at least four consecutive days, is associated with noticeable changes in functioning, is less severe than full mania, and does not typically require hospitalization — individuals with Bipolar II have never experienced a full manic episode",
-      "A hypomanic episode lasts at least one week, requires hospitalization, and is characterized by inflated self-esteem, decreased need for sleep, and engagement in risky behaviours — the same as Bipolar I but with depressive episodes in between",
-      "A hypomanic episode lasts at least one week, does not require hospitalization, and involves symptoms that are identical to a full manic episode but occur only in the context of substance use"
+      "Avolition, Alogia, Blunt/Flattened Affect, Anhedonia, Apathy, and Inattention",
+      "Hallucination, Delusion, Thought disorders, and Illusion",
+      "Associations loosening, Mannerism, Disorganized speech, Echopraxia, Stereotyping, and Catatonic stupor"
     ],
     "answer": "A"
   },
   {
     "id": 3,
     "type": "mcq",
-    "stem": "Cyclothymic Disorder is described in the text as a milder form of bipolar disorder. Which statement MOST accurately describes what Cyclothymic Disorder involves?",
+    "stem": "Disorganized symptoms of schizophrenia are described as a third category. Which of the following lists ONLY disorganized symptoms as numbered in the text?",
     "options": [
-      "Characterized by chronic mood instability with numerous periods of depressive symptoms and hypomanic symptoms over a period of at least two years, without meeting full criteria for a major depressive episode, hypomanic episode, or manic episode",
-      "Characterized by at least one full manic episode and multiple major depressive episodes over two years, with intervening periods of normal mood lasting less than two months",
-      "Characterized by hypomanic episodes only lasting at least four days, without any depressive symptoms, occurring in a cyclical pattern over at least one year"
+      "Associations loosening/derailment, Mannerism, Disorganized speech, Echopraxia, Stereotyping, Negativism, and Catatonic stupor and excitement",
+      "Avolition, Alogia, Blunt affect, Anhedonia, Apathy, and Inattention",
+      "Hallucination, Delusion, Thought disorders, Illusion, Insomnia, and Lack of insight"
     ],
     "answer": "A"
   },
   {
     "id": 4,
     "type": "mcq",
-    "stem": "Mania is described as primary or secondary in nature. Which statement MOST accurately distinguishes Primary from Secondary mania?",
+    "stem": "Eugene Bleuler maintained the 4 A's as distinctive and fundamental features of schizophrenia. Which combination CORRECTLY identifies ALL four of Bleuler's A's?",
     "options": [
-      "Primary mania is an affective disorder (mood disorder); secondary mania occurs secondary to a variety of organic disorders such as drug intake, infection, neoplasm, epilepsy, or metabolic disturbances",
-      "Primary mania is caused by organic disorders such as drug intake and infection; secondary mania is a pure affective disorder with no identifiable organic aetiology",
-      "Primary mania requires hospitalization while secondary mania can be managed in outpatient settings; the distinction is based on severity rather than aetiology"
+      "Affect, Autism, Ambivalence, and Association loosening",
+      "Affect, Apathy, Avolition, and Alogia",
+      "Affect, Autism, Anhedonia, and Ambivalence"
     ],
     "answer": "A"
   },
   {
     "id": 5,
     "type": "mcq",
-    "stem": "The biochemical cause of mania specifically involves which neurotransmitters and what change in their levels?",
+    "stem": "Bleuler's 'Autism' as a feature of schizophrenia refers specifically to which of the following?",
     "options": [
-      "An increase in the production of biogenic amines — specifically norepinephrine and serotonin in the brain — as a biochemical factor",
-      "A decrease in the production of biogenic amines — specifically dopamine and acetylcholine — leading to disinhibition of mood regulation centres",
-      "An imbalance in sodium and chloride ions across neuronal membranes leading to excessive firing of neurons in the limbic system"
+      "Socially withdrawn, preferring to live in a world of fantasy rather than interacting with the social world â the intent of autism by Eugene was to catch the behavioural and social impediment of schizophrenia",
+      "The existence of contradictory emotional feelings towards an object, commonly of love and hate toward the same object or person â there is conflict and ambiguities",
+      "Inappropriate or flattened affect that is incongruent to the circumstances â a major core part of schizophrenia where there is lack of normal range of emotion"
     ],
     "answer": "A"
   },
   {
     "id": 6,
     "type": "mcq",
-    "stem": "An increase in salt content above normal in the body is listed as a cause of mania. What specific electrolyte is named and what is the consequence?",
+    "stem": "Bleuler's 'Ambivalence' as a feature of schizophrenia is defined in the text as which of the following?",
     "options": [
-      "Sodium (Na) may lead to excessive activity of neurons in the brain",
-      "Potassium (K) may lead to excessive depolarisation of neuronal cell membranes causing manic excitement",
-      "Calcium (Ca) may lead to excessive neurotransmitter release from presynaptic terminals causing disinhibited mood"
+      "The existence of contradictory emotional feelings towards an object, commonly of love and hate toward the same object or person; conflicting attitude and emotion towards others and self; conflict and ambiguities regarding what one desires for self and for others; lack of motivation and depersonalization",
+      "Socially withdrawn, preferring to live in a world of fantasy rather than interacting with the social world â catching the behavioural and social impediment of schizophrenia",
+      "Inappropriate or flattened affect incongruent to circumstances; lack of normal range of emotion; maintaining a flat appearance without smiling, frowning, or making any emotional expression"
     ],
     "answer": "A"
   },
   {
     "id": 7,
     "type": "mcq",
-    "stem": "Hypomania is distinguished from Manic Excitement in the text. Which pair CORRECTLY contrasts the two forms of mania?",
+    "stem": "DÃ©jÃ  vu and Jamais vu are listed as symptoms of schizophrenia. Which pair CORRECTLY contrasts their definitions?",
     "options": [
-      "Hypomania: the patient is euphoric, elated, dressing colourfully, cracking jokes, talking excessively and over active; Manic excitement: the patient is very irritable, excited, violent, and is a nuisance to the public",
-      "Hypomania: the patient is very irritable, excited, violent and is a nuisance to the public; Manic excitement: the patient is euphoric, elated, dressing colourfully, cracking jokes, and talking excessively",
-      "Hypomania: the patient has inflated self-esteem and decreased need for sleep without disturbing others; Manic excitement: the patient requires hospitalization due to extreme grandiosity and flight of ideas"
+      "DÃ©jÃ  vu: when a person feels undue familiarity to an event or person; Jamais vu: a feeling that a familiar situation is strange",
+      "DÃ©jÃ  vu: a feeling that a familiar situation is strange; Jamais vu: when a person feels undue familiarity to an event or person",
+      "DÃ©jÃ  vu: the invention of new meaningless words; Jamais vu: monotonous repetition of phrases"
     ],
     "answer": "A"
   },
   {
     "id": 8,
     "type": "mcq",
-    "stem": "Flight of Ideas is listed as a clinical manifestation of mania. Which statement MOST accurately describes this symptom as it appears in a manic patient?",
+    "stem": "Paranoid Type schizophrenia is described in the text. Which statement MOST accurately characterises this subtype?",
     "options": [
-      "A subjective experience where thoughts are racing — the patient's associations move rapidly from one idea to another",
-      "The patient becomes easily distracted by multiple, unimportant, or irrelevant external stimuli, shifting attention constantly",
-      "The patient invents new meaningless words and stringing unrelated ideas together with no apparent logical connection"
+      "Characterized by prominent delusions and auditory hallucinations; individuals had persecutory or grandiose delusions, believing that others were plotting against them or that they possessed special powers or abilities",
+      "Characterized by disorganized speech, behaviour, and affect; individuals exhibited incoherent or illogical speech, inappropriate emotional responses, and disorganized or bizarre behaviour",
+      "Characterized by disturbances in motor behaviour; individuals may display extreme immobility or rigidity (catatonic stupor) or excessive and purposeless motor activity (catatonic excitement)"
     ],
     "answer": "A"
   },
   {
     "id": 9,
     "type": "mcq",
-    "stem": "Regarding drug therapy for Mania, which of the following schedules is CORRECTLY stated in the text for Largactil?",
+    "stem": "Simple Schizophrenia is described in the text as occurring at which developmental stage, and what are its hallmark features?",
     "options": [
-      "Largactil 100mg three times daily; Haloperidol 5m twice a day; IM Haloperidol 5-10mg 2 hourly till patient is sedated or maximum of 5mg and change to tablet Haloperidol 1.5-long three times a day",
-      "Largactil 50-100mg stat then tablets 100-200mg three times daily; IM Chlorpromazine 50-100mg to start followed by tablet Chlorpromazine 100-200mg three times a day to be reduced gradually",
-      "Largactil 50-100mg stat then tablets 100-200mg three times daily; IM Haloperidol 5-10mg 2 hourly till patient is sedated or maximum of 5mg and change to tablet Haloperidol 1.5-long three times a day"
+      "Shows a progressive or insidious mental deterioration occurring at the time of puberty with increased apathy, lack of initiative, while there is gradual change in the individual's personality, inability to meet the demands of society, and decline in total performance",
+      "Involves disturbances in motor behaviour with extreme immobility or rigidity (catatonic stupor) or excessive and purposeless motor activity (catatonic excitement), along with mutism, echolalia, and echopraxia",
+      "Characterized by persistent mild or attenuated symptoms indicating a period of partial or incomplete remission with lingering negative symptoms or attenuated positive symptoms"
     ],
-    "answer": "C"
+    "answer": "A"
   },
   {
     "id": 10,
     "type": "mcq",
-    "stem": "Lithium carbonate (mood stabilizer) is specifically mentioned in the text for which patient population?",
+    "stem": "Schizoaffective Schizophrenia is described as manifesting with features of two different conditions. Which two conditions are combined in schizoaffective schizophrenia?",
     "options": [
-      "Used for patients who suffer frequent relapses of mania",
-      "Used for all first-episode manic patients as first-line mood stabilising treatment",
-      "Used exclusively for patients who have failed two trials of antipsychotic medication"
+      "Schizophrenia and affective/mood disorder (depression and mania)",
+      "Schizophrenia and obsessive-compulsive disorder",
+      "Schizophrenia and anxiety disorder"
     ],
     "answer": "A"
   },
   {
     "id": 11,
     "type": "mcq",
-    "stem": "In the management of a manic patient, the nurse is instructed regarding the ward environment. Which statement MOST accurately reflects the text's instruction?",
+    "stem": "Catatonic Schizophrenia involves disturbances in motor behaviour. Which term in the text specifically describes the state where the patient assumes a strange and bizarre posture for a long time?",
     "options": [
-      "The ward must be quiet and pleasant; factors that irritate the patient like excessive noise, bright colours etc are to be avoided; separate rooms may be ideal with simple furnishing; fluctuation of mood states must be watched; active games, ward occupation and creative work will channelise his energy",
-      "The ward should have stimulating activities including music and social interaction to distract the patient from grandiose ideation; the nurse should encourage group activities and peer interaction to reduce social isolation",
-      "The ward should be brightly lit with multiple stimulating activities to reduce the patient's agitation; the nurse should engage the patient in competitive games to redirect excess energy"
+      "Catatonic stupor â where the patient assumes a strange and bizarre posture for a long time, also called Waxy flexibility",
+      "Catatonic excitement â excessive and purposeless motor activity",
+      "Echopraxia â imitating others' movements automatically in catatonic schizophrenia"
     ],
     "answer": "A"
   },
   {
     "id": 12,
     "type": "mcq",
-    "stem": "Depression is defined in the text as an affective disorder. Which of the following MOST completely and accurately defines depression as stated?",
+    "stem": "The Residual Type of schizophrenia is distinguished from the Undifferentiated Type. Which pair CORRECTLY contrasts these two subtypes?",
     "options": [
-      "An affective disorder characterized by extreme feeling of sadness, withdrawal, excessive psychomotor retardation and suicidal thought; OR an affective disorder with retardation of mental, physical and social activities characterized by loss of interest, lack of energy and pessimism",
-      "An affective disorder characterized by persistent low mood, anhedonia, and cognitive impairment lasting at least two weeks, without any psychomotor changes or suicidal ideation",
-      "An affective disorder characterized by extreme feeling of sadness and suicidal thought only, caused by biochemical imbalance in monoamine neurotransmitters in the prefrontal cortex"
+      "Residual Type: person had at least one episode of schizophrenia but currently only displays mild or attenuated symptoms â a period of partial or incomplete remission with lingering negative symptoms; Undifferentiated Type: person exhibits symptoms of schizophrenia but does not fit into any specific subtype",
+      "Residual Type: person exhibits symptoms of schizophrenia but does not fit into any specific subtype; Undifferentiated Type: person had at least one episode of schizophrenia but currently only displays mild or attenuated symptoms",
+      "Residual Type: characterized by disorganized speech and bizarre behaviour with no identifiable subtype features; Undifferentiated Type: person has had a period of partial or incomplete remission"
     ],
     "answer": "A"
   },
   {
     "id": 13,
     "type": "mcq",
-    "stem": "Endogenous Depression (Major Depression) is defined by the presence of a depressed mood or pleasure plus 4 or more of seven symptoms. Which of the following is NOT one of the seven symptoms listed for Endogenous Depression?",
+    "stem": "According to DSM-5 Characteristic Symptoms, a diagnosis of schizophrenia requires the presence of two or more of five specific symptoms. Which option lists ALL five characteristic symptoms?",
     "options": [
-      "Disorganized speech and thought insertion — symptoms of psychotic features that may accompany severe major depressive episodes",
-      "Loss of interest and pleasure; loss of worthlessness of guilt; loss of energy and fatigue; impaired concentration; thought of suicide; loss or increase of appetite and weight; insomnia or excessive sleep and retardation or agitation",
-      "Thought of suicide; loss or increase of appetite; retardation or agitation"
+      "Delusions, Hallucinations, Disorganized speech, Grossly disorganized or catatonic behaviour, and Negative symptoms (e.g., diminished emotional expression, avolition)",
+      "Delusions, Hallucinations, Disorganized speech, Blunt affect, and Alogia",
+      "Hallucinations, Delusions, Thought disorders, Illusion, and Catatonic stupor"
     ],
     "answer": "A"
   },
   {
     "id": 14,
     "type": "mcq",
-    "stem": "Reactive/Neurotic/Dysthymic disorder requires depressed mood for most of the day for at least how long, plus presence of at least how many of six symptoms?",
+    "stem": "The DSM-5 Duration criterion for schizophrenia specifies that continuous signs of illness must be present for at least how long, and the active phase must last at least how long?",
     "options": [
-      "Depressed mood for most of the day for at least two years; presence of at least two of the following six symptoms",
-      "Depressed mood for most of the day for at least one year; presence of at least three of the following six symptoms",
-      "Depressed mood for most of the day for at least six months; presence of at least four of the following six symptoms"
+      "Continuous signs for at least six months, including at least one month of active-phase symptoms (or less if successfully treated) and may include periods of prodromal or residual symptoms",
+      "Continuous signs for at least three months, including at least two weeks of active-phase symptoms and may include periods of prodromal or residual symptoms",
+      "Continuous signs for at least twelve months, including at least six months of active-phase symptoms and may include periods of prodromal or residual symptoms"
     ],
     "answer": "A"
   },
   {
     "id": 15,
     "type": "mcq",
-    "stem": "Involutional/Melancholia Depression occurs at which stage of life and is caused by which hormonal event? Which statement is MOST accurate?",
+    "stem": "Good Prognostic Factors for schizophrenia are listed in the text. Which of the following is listed as a GOOD prognostic factor?",
     "options": [
-      "Occurs in the middle age and later third of life; caused by hormonal changes in the body during the menopausal stage in predisposed women; characterized by agitation, complaints of body or mental suffering, restlessness, hypochondriacal ideas and delusion of guilt and unworthiness",
-      "Occurs in early adulthood between 18-35 years of age; caused by biochemical imbalances in monoamine neurotransmitters; characterized by psychomotor retardation, suicidal ideation, and hypersomnia",
-      "Occurs in adolescence between 12-18 years of age; caused by pubertal hormonal changes affecting the limbic system; characterized by irritability, school refusal, and somatic complaints"
+      "Late onset, female sex, married marital status, short duration, family history of mood disorder, paranoid and catatonic subtype, good premorbid personality, predominance of positive symptoms, and good social support",
+      "Insidious/early onset, male sex, single/divorced/widowed status, long duration, family history of schizophrenia, predominance of negative symptoms, and poor social support",
+      "Absence of precipitating factor, poor premorbid personality, predominance of negative symptoms, and simple and undifferentiated subtype"
     ],
     "answer": "A"
   },
   {
     "id": 16,
     "type": "mcq",
-    "stem": "Senile Depression occurs from 70 years and above. Which specific features distinguish it from other types of depression according to the text?",
+    "stem": "Poor Prognostic Factors for schizophrenia are listed in the text. Which of the following is listed as a POOR prognostic factor?",
     "options": [
-      "The risk of suicides is much increased and it may be irreversible; signs/symptoms include degeneration of intellectual power, concentration and memory; there is also loss of appetite, loss of weight and hallucinations",
-      "The risk of suicide is lower than in other forms of depression because patients lack the energy to act on suicidal ideation; it may be reversible with antidepressant therapy within 4-6 weeks",
-      "The risk of suicide is equivalent to that of endogenous depression; it is always reversible with ECT; characterised primarily by delusions of persecution and auditory hallucinations"
+      "Insidious/early onset, male sex, single/divorced/widowed marital status, long duration, family history of schizophrenia especially simple and undifferentiated subtype, absence of precipitating factor, poor premorbid personality, predominance of negative symptoms, and poor social support",
+      "Late onset, female sex, married status, short duration, family history of mood disorder, paranoid and catatonic subtype, good premorbid personality, and good social support",
+      "Paranoid subtype, good social support, late onset, predominance of positive symptoms, and good premorbid personality"
     ],
     "answer": "A"
   },
   {
     "id": 17,
     "type": "mcq",
-    "stem": "Major Depressive Disorder (MDD) as classified by DSM-5 requires symptoms to be present for at least how long?",
+    "stem": "Typical antipsychotic drugs used in the management of schizophrenia are named in the text. Which group CORRECTLY lists ONLY typical antipsychotics as mentioned?",
     "options": [
-      "Symptoms must be present for at least two weeks",
-      "Symptoms must be present for at least one month",
-      "Symptoms must be present for at least two years"
+      "Chlorpromazine, Haloperidol, Thioridazine, and Trifluoperazine",
+      "Risperidone, Clozapine, and Olanzepine",
+      "Chlorpromazine, Haloperidol, Risperidone, and Clozapine"
     ],
     "answer": "A"
   },
   {
     "id": 18,
     "type": "mcq",
-    "stem": "Persistent Depressive Disorder (PDD), formerly known as dysthymia, is described in the text. Which statement MOST accurately characterises PDD compared to MDD?",
+    "stem": "Atypical antipsychotic drugs used in schizophrenia management are named in the text. Which group CORRECTLY lists ONLY atypical antipsychotics as mentioned?",
     "options": [
-      "PDD is a chronic form of depression that lasts for at least two years; individuals with PDD may experience symptoms similar to MDD but at a milder intensity; symptoms may persist for long periods with brief periods of improvement",
-      "PDD is a more severe form of depression than MDD requiring hospitalization; it lasts for at least six months and is characterized by psychotic features such as hallucinations and delusions",
-      "PDD is characterised by depressive episodes alternating with hypomanic episodes over at least two years, meeting criteria for Cyclothymic Disorder on the bipolar spectrum"
+      "Risperidone, Clozapine, and Olanzepine",
+      "Chlorpromazine, Haloperidol, Thioridazine, and Trifluoperazine",
+      "Haloperidol, Risperidone, and Chlorpromazine"
     ],
     "answer": "A"
   },
   {
     "id": 19,
     "type": "mcq",
-    "stem": "Disruptive Mood Dysregulation Disorder (DMDD) is described in the text. Which population is it specifically diagnosed in and what are its characteristic features?",
+    "stem": "Social Skills Training is listed as a management strategy for schizophrenia. Which specific behaviours does it address?",
     "options": [
-      "Typically diagnosed in children and adolescents; characterized by severe and recurrent temper outbursts inconsistent with the child's developmental level; accompanied by persistent irritability between the outbursts",
-      "Typically diagnosed in adults between 18-35 years; characterized by rapid mood cycling between depression and hypomania within the same day; accompanied by impulsive behaviour and self-harm",
-      "Typically diagnosed in elderly patients above 65 years; characterized by recurrent episodes of tearfulness and emotional lability; accompanied by cognitive impairment and functional decline"
+      "Helps to address behaviours such as poor eye contact, odd facial expression, and lack of spontaneity in social situations through role play and homework assignments",
+      "Helps to reduce the frequency of bizarre, disturbing, and deviant behaviour through applied behaviour analysis and contingency management",
+      "Promotes social interaction, sense of cohesiveness, identification, and insight among multiple patients in a group setting"
     ],
     "answer": "A"
   },
   {
     "id": 20,
     "type": "mcq",
-    "stem": "Premenstrual Dysphoric Disorder (PMDD) is described in the text. Which statement MOST accurately characterises when it occurs and what it involves?",
+    "stem": "Behavioural Therapy, Group Therapy, and Family Therapy are all listed as management strategies for schizophrenia. Which pair CORRECTLY distinguishes the purposes of Behavioural Therapy versus Family Therapy?",
     "options": [
-      "A type of depression that occurs in women during the premenstrual phase of their menstrual cycle; involves symptoms such as mood swings, irritability, depression, anxiety, and physical discomfort that significantly disrupt daily functioning",
-      "A type of depression that occurs in women immediately after delivery; characterized by severe mood swings, crying, and inability to bond with the baby, lasting up to one year postpartum",
-      "A type of depression that occurs in women during the menopausal transition; characterized by hypochondriacal ideas, delusions of guilt, and excessive complaints of body or mental suffering"
+      "Behavioural Therapy: to reduce the frequency of bizarre, disturbing, and deviant behaviour; Family Therapy: to educate the family about schizophrenia, reduce tension, involve the family, and prevent relapse",
+      "Behavioural Therapy: to educate the family about schizophrenia and prevent relapse; Family Therapy: to reduce the frequency of bizarre, disturbing, and deviant behaviour",
+      "Behavioural Therapy: to promote social interaction, sense of cohesiveness, identification, and insight; Family Therapy: to address poor eye contact and odd facial expression through role play"
     ],
     "answer": "A"
   },
   {
     "id": 21,
     "type": "mcq",
-    "stem": "ECT is listed in the text as used in the management of depression. For which specific depressive presentation is ECT described as preferable?",
+    "stem": "Rehabilitation is listed as a management strategy for schizophrenia. The text identifies several activities under Rehabilitation. Which of the following is CORRECTLY listed?",
     "options": [
-      "ECT is preferable for depression with suicidal tendency",
-      "ECT is preferable for depression that has not responded to two trials of antidepressant medication",
-      "ECT is preferable for depression associated with psychotic features such as hallucinations and delusions"
+      "To reduce residual effects of mental illness on the patient; activities to develop work habits, training new vocation, retraining in a previous skill, vocational guidance, and independent job placement",
+      "To promote social interaction, sense of cohesiveness, identification, and insight among multiple patients in a therapeutic setting",
+      "To make the patient independent and useful to self and the society through occupational activities"
     ],
     "answer": "A"
   },
   {
     "id": 22,
     "type": "mcq",
-    "stem": "The nursing care for a depressed patient includes specific precautions to prevent suicide. Which of the following is listed in the text as a precaution to prevent suicide?",
+    "stem": "PTSD is defined in the text as a mental health condition that can develop in individuals who have experienced or witnessed a traumatic event. The traumatic event must be one that involves which specific elements?",
     "options": [
-      "Open suicidal caution card; remove harmful objects from patient vicinity; ensure patient swallows drugs instantly so as not to board them; naked electric wires in the ward must be repaired; medical cupboard must be locked always; monitor patient when taking bath; observe patient closely",
-      "Place the patient in an open ward without access to sharp objects; monitor the patient every 15 minutes; administer antidepressants at bedtime to reduce daytime sedation; encourage family visits daily",
-      "Restrict the patient to the ward; assign a one-to-one nursing companion at all times; confiscate all personal belongings on admission; place the patient in a seclusion room for safety"
+      "Actual or threatened death, serious injury, or sexual violence â which triggers a range of distressing symptoms that may persist for months or even years after the event",
+      "Any emotionally distressing experience such as relationship breakdown, job loss, or academic failure that significantly impacts the individual's daily functioning",
+      "Any experience that causes persistent guilt, shame, or regret, regardless of whether physical harm was involved or threatened"
     ],
     "answer": "A"
   },
   {
     "id": 23,
     "type": "mcq",
-    "stem": "Anorexia Nervosa is defined in the text. Which definition MOST completely and accurately describes it as stated in both ICD-11 and DSM-5?",
+    "stem": "PTSD symptoms are categorised into four main clusters. Which option CORRECTLY identifies ALL FOUR symptom clusters?",
     "options": [
-      "A persistent restriction of energy intake leading to a significantly low body weight in the context of age, sex, developmental trajectory, and physical health; characterized by an intense fear of gaining weight or becoming fat or persistent behaviour that interferes with weight gain, even at a significantly low weight",
-      "A disorder characterized by recurrent episodes of binge eating in which an individual eats an unusually large amount of food in a discrete period of time and experiences a sense of lack of control over eating during the episode",
-      "A clinical syndrome characterized by extreme overeating followed by self-induced vomiting and abuse of laxatives and diuretics; occurs predominantly in females and begins in adolescence or early adult life"
+      "Re-experiencing symptoms, Avoidance symptoms, Hyperarousal symptoms, and Cognitive and mood symptoms",
+      "Re-experiencing symptoms, Avoidance symptoms, Hyperarousal symptoms, and Dissociative symptoms",
+      "Intrusive memories, Emotional numbing, Hypervigilance, and Social withdrawal"
     ],
     "answer": "A"
   },
   {
     "id": 24,
     "type": "mcq",
-    "stem": "The Restricting Type of Anorexia Nervosa is distinguished from the Binge-Eating/Purging Type. Which statement MOST accurately describes the Restricting Type?",
+    "stem": "Hyperarousal symptoms of PTSD are described in the text. Which of the following MOST accurately describes this cluster?",
     "options": [
-      "During the current episode, weight loss is achieved by restricting calories following drastic diets, fasting, and excessive exercise; the person has not regularly engaged in binge-eating or purging behaviour such as self-induced vomiting or misuse of laxatives, diuretics, or enemas",
-      "During the current episode, the patient engages in binge eating, consuming large amounts of food in a short period of time, and attempts to compensate for calories consumed by purging through vomiting, using laxatives or diuretics, or excessive exercise",
-      "During the current episode, the person uses inappropriate compensatory behaviours other than purging to control their weight such as fasting or excessive exercise — the non-purging compensatory strategy"
+      "Includes symptoms such as hypervigilance, exaggerated startle response, difficulty concentrating, irritability, and sleep disturbances; individuals may be constantly on edge and have an increased sensitivity to potential threats",
+      "Includes intrusive memories, flashbacks, and nightmares related to the traumatic event; these experiences are distressing and cause intense emotional and physical reactions",
+      "Includes persistent feelings of guilt, shame, anger, or emotional numbness; the individual develops negative thoughts or beliefs about themselves, others, or the world"
     ],
     "answer": "A"
   },
   {
     "id": 25,
     "type": "mcq",
-    "stem": "Perfectionism is listed as a cause of Anorexia Nervosa. How does it contribute to the development of eating disorders according to the text?",
+    "stem": "The psychotherapy approaches specifically named in the text for PTSD management include which of the following?",
     "options": [
-      "People with perfectionistic tendencies may be more prone to developing eating disorders as they strive for an unattainable ideal of perfection, including their body shape and weight",
-      "People with perfectionistic tendencies may develop eating disorders because they set unrealistic academic and professional goals, leaving no time for adequate nutrition",
-      "People with perfectionistic tendencies are more prone to developing Bulimia Nervosa specifically, because perfectionism drives the binge-purge cycle as a compensation for dietary failures"
+      "Cognitive Behavioural Therapy (CBT), Eye Movement Desensitization and Reprocessing (EMDR), and Prolonged Exposure Therapy (PE)",
+      "Cognitive Behavioural Therapy (CBT), Motivational Interviewing (MI), and Contingency Management",
+      "Psychodynamic therapy, Dialectical Behaviour Therapy (DBT), and Acceptance and Commitment Therapy (ACT)"
     ],
     "answer": "A"
   },
   {
     "id": 26,
     "type": "mcq",
-    "stem": "Signs and Symptoms of Anorexia Nervosa include which finding regarding the patient's preoccupation with food despite refusing to eat?",
+    "stem": "Medications named in the text for managing PTSD symptoms, particularly when associated anxiety or depressive symptoms are present, include which of the following?",
     "options": [
-      "Preoccupation with food: the patient thinks and talks about food at great length, prepares enormous amounts of food for friends and family members but refuses to eat",
-      "Preoccupation with food: the patient binges on large amounts of food in secret and then purges immediately afterward through self-induced vomiting",
-      "Preoccupation with food: the patient counts calories obsessively and reads nutrition labels on all food products but maintains a slightly underweight BMI"
+      "Selective Serotonin Reuptake Inhibitors (SSRIs) and Serotonin-Norepinephrine Reuptake Inhibitors (SNRIs)",
+      "Typical antipsychotics such as Chlorpromazine and Haloperidol",
+      "Benzodiazepines and mood stabilizers such as Lithium carbonate"
     ],
     "answer": "A"
   },
   {
     "id": 27,
     "type": "mcq",
-    "stem": "Which of the following physical consequences of Anorexia Nervosa is CORRECTLY identified in the text?",
+    "stem": "Dementia is defined in the text. Which statement MOST accurately reflects the definition of dementia?",
     "options": [
-      "Amenorrhea in females who have reached puberty; dry skin, brittle nails, and hair loss; low blood pressure, slow heart rate, and electrolyte imbalances; hypothermia, bradycardia, hypotension, and anaemia",
-      "Erosion of tooth enamel due to gastric acid in the vomitus; dehydration and electrolyte imbalance due to excessive vomiting and laxative abuse; body image disturbance",
-      "Marked weight loss; enlargement of parotid glands; calluses on knuckles (Russell's sign) from self-induced vomiting; metabolic alkalosis from purging"
+      "A syndrome characterized by a progressive and persistent decline in cognitive abilities including memory, thinking, reasoning, and problem-solving skills; it is not a specific disease but rather a term used to describe a group of symptoms associated with a loss of cognitive function",
+      "A specific disease characterized by the accumulation of abnormal protein plaques (beta-amyloid) and tangles (tau) in the brain, leading to progressive loss of brain cells and cognitive decline",
+      "A psychiatric disorder characterized by acute onset of confusion, disorientation, and cognitive impairment, typically reversible with treatment of the underlying medical cause"
     ],
     "answer": "A"
   },
   {
     "id": 28,
     "type": "mcq",
-    "stem": "Bulimia Nervosa is described in the text as an eating disorder. Which definition MOST accurately describes it as per the DSM-5?",
+    "stem": "Alzheimer's disease is described as the most common form of dementia. Which of the following MOST accurately describes its pathological mechanism?",
     "options": [
-      "A disorder characterized by recurrent episodes of binge eating in which an individual eats an unusually large amount of food in a discrete period of time and experiences a sense of lack of control over eating during the episode",
-      "A disorder characterized by a persistent restriction of energy intake leading to a significantly low body weight, with an intense fear of gaining weight and gross distortion of body image",
-      "A disorder characterized by extreme overeating without any compensatory purging behaviour, with the patient experiencing persistent preoccupation with body image and weight"
+      "Characterized by the accumulation of abnormal protein plaques (beta-amyloid) and tangles (tau) in the brain, leading to progressive loss of brain cells and cognitive decline",
+      "Occurs when there is damage to the blood vessels in the brain leading to reduced blood flow and oxygen supply; can result from stroke, small vessel disease, or other vascular disorders",
+      "Characterized by the presence of abnormal protein deposits called Lewy bodies in the brain; individuals may experience cognitive fluctuations, visual hallucinations, and Parkinson's-like symptoms"
     ],
     "answer": "A"
   },
   {
     "id": 29,
     "type": "mcq",
-    "stem": "The Purging Type of Bulimia Nervosa is distinguished from the Non-Purging Type. Which pair CORRECTLY contrasts these two types?",
+    "stem": "Lewy Body Dementia (LBD) is described in the text. Which constellation of features MOST specifically characterises LBD?",
     "options": [
-      "Purging type: engaged in self-induced vomiting or misuse of laxatives, diuretics, or enemas; Non-purging type: during the current episode, the person uses inappropriate compensatory behaviours other than purging to control their weight such as fasting or excessive exercise",
-      "Purging type: uses fasting and excessive exercise to compensate for binge eating; Non-purging type: uses self-induced vomiting or laxatives to compensate for binge eating episodes",
-      "Purging type: restricts caloric intake between episodes of binge eating; Non-purging type: engages in binge eating without any compensatory behaviour whatsoever"
+      "Presence of abnormal protein deposits called Lewy bodies; individuals experience cognitive fluctuations, visual hallucinations, Parkinson's-like symptoms such as tremors and stiffness, and fluctuations in alertness and attention",
+      "Damage to blood vessels in the brain leading to reduced blood flow and oxygen supply; can result from stroke, small vessel disease, or other vascular disorders",
+      "Primarily affects the frontal and temporal lobes; causes changes in behaviour, personality, language difficulties, and problems with executive functioning"
     ],
     "answer": "A"
   },
   {
     "id": 30,
     "type": "mcq",
-    "stem": "The Social-Cultural factor listed as a cause of Bulimia Nervosa is described in the text as which of the following?",
+    "stem": "Frontotemporal Dementia (FTD) is described in the text. Which statement MOST accurately describes FTD?",
     "options": [
-      "Exposure to values and beliefs about thinness — 'the thinner you look, the more beautiful you look' — and marital conflict",
-      "Peer pressure to conform to certain body standards promoted by media and fashion industries, leading to extreme calorie restriction",
-      "Cultural practices related to food restriction during religious observances, creating cycles of fasting and compensatory binge eating"
+      "A group of dementias that primarily affect the frontal and temporal lobes of the brain; can cause changes in behaviour, personality, language difficulties, and problems with executive functioning",
+      "A dementia characterized by the presence of abnormal protein deposits called Lewy bodies; individuals experience cognitive fluctuations, visual hallucinations, and Parkinson's-like symptoms",
+      "The most common form of dementia accounting for a significant majority of cases; characterized by accumulation of beta-amyloid plaques and tau tangles leading to progressive cognitive decline"
     ],
     "answer": "A"
   },
   {
     "id": 31,
     "type": "mcq",
-    "stem": "The Psychoanalytic Factor listed as a cause of Bulimia Nervosa is described in the text as:",
+    "stem": "Parkinson's Disease Dementia (PDD) is described in the text. Which statement MOST accurately describes PDD?",
     "options": [
-      "Fixation in an earlier development level",
-      "Retarded ego development leading to immature coping mechanisms",
-      "Unresolved dependence needs creating dependency on food as an emotional regulator"
+      "Parkinson's disease is a movement disorder that can progress to include cognitive impairment and dementia; people with PDD often experience motor symptoms such as tremors, rigidity, and bradykinesia in addition to cognitive decline",
+      "PDD primarily affects the frontal and temporal lobes causing changes in behaviour, personality, language difficulties, and problems with executive functioning before motor symptoms appear",
+      "PDD is characterized by visual hallucinations and cognitive fluctuations as the primary features, with motor symptoms developing late in the disease course"
     ],
     "answer": "A"
   },
   {
     "id": 32,
     "type": "mcq",
-    "stem": "Which sign or symptom of Bulimia Nervosa MOST specifically relates to what happens after a binge episode begins, as stated in the text?",
+    "stem": "Vascular Dementia is described in the text. Which statement MOST accurately describes its mechanism and causes?",
     "options": [
-      "After the binge has begun, there is often a feeling of loss of control or inability to stop eating; eating binges may be viewed as pleasurable but are followed by intense self-criticism and depressed mood",
-      "After the binge has begun, the patient immediately induces vomiting to prevent caloric absorption; the purging brings temporary relief followed by shame and renewed restriction",
-      "After the binge has begun, the patient experiences euphoria followed by anxiety; the anxiety drives the compensatory exercise that characterises the non-purging type"
+      "Occurs when there is damage to the blood vessels in the brain leading to reduced blood flow and oxygen supply; can result from stroke, small vessel disease, or other vascular disorders",
+      "Characterized by the accumulation of abnormal protein plaques (beta-amyloid) and tangles (tau) in the brain, leading to progressive loss of brain cells and cognitive decline",
+      "Characterized by the presence of Lewy bodies; individuals experience cognitive fluctuations, visual hallucinations, and Parkinson's-like symptoms"
     ],
     "answer": "A"
   },
   {
     "id": 33,
     "type": "mcq",
-    "stem": "The physical complication unique to Bulimia Nervosa (not Anorexia) related to repeated vomiting is which of the following as stated in the text?",
+    "stem": "Association loosening in schizophrenia is described in the text. What does the cognitive underpinning of association loosening lead to?",
     "options": [
-      "Erosion of tooth enamel due to gastric acid in the vomitus; dehydration and electrolyte imbalance due to excessive vomiting and laxative or diuretic abuse",
-      "Amenorrhea due to extreme calorie restriction reducing oestrogen production; dry skin, brittle nails, and hair loss from nutritional deficiencies",
-      "Marked weight loss leading to significantly low body weight; bradycardia and hypotension from cardiac muscle wasting"
+      "The disorganization/loosening of thought association leads to word salad, flight of ideas, and thought disorder",
+      "The disorganization of association leads to confabulation where the patient fills memory gaps with imaginary events",
+      "The loosening of thought association leads to circumstantiality where the patient uses excessive trivial details before reaching the central point"
     ],
     "answer": "A"
   },
   {
     "id": 34,
     "type": "mcq",
-    "stem": "The nursing management of eating disorders involves a multidisciplinary approach. The primary goal of treatment is to help individuals achieve which outcome?",
+    "stem": "CASE SCENARIO: A 26-year-old man is admitted with a 7-month history of believing that his neighbours are monitoring his home with hidden cameras and that the government has implanted a device in his brain to control his thoughts. He hears voices confirming his suspicions. He has never had a full manic episode. Which subtype of schizophrenia (pre-DSM-5) does this presentation MOST suggest?",
     "options": [
-      "Recover from the eating disorder and achieve and maintain a healthy weight and eating patterns",
-      "Achieve a BMI within the normal range as the sole indicator of treatment success, regardless of eating behaviour",
-      "Achieve complete remission of all psychiatric symptoms including depression and anxiety before addressing the eating behaviour"
+      "Paranoid Type â characterized by prominent delusions and auditory hallucinations; individuals had persecutory or grandiose delusions, believing others were plotting against them or that they possessed special powers",
+      "Catatonic Type â involving disturbances in motor behaviour including extreme immobility or rigidity and excessive purposeless motor activity",
+      "Undifferentiated Type â symptoms of schizophrenia that do not fit into any specific subtype but are significant enough to meet the criteria for a diagnosis of schizophrenia"
     ],
     "answer": "A"
   },
   {
     "id": 35,
     "type": "mcq",
-    "stem": "Medical Stabilization is listed as a management strategy for eating disorders. For which patient group is it specifically indicated, and what may it involve?",
+    "stem": "CASE SCENARIO: A psychiatric nurse is assessing a patient with schizophrenia. During the interview, the patient maintains a fixed, rigid posture with one arm raised for 45 minutes and does not speak. Which clinical feature is MOST evident?",
     "options": [
-      "For individuals with severe eating disorders, medical stabilization may be necessary to address immediate health risks; may involve hospitalization or intensive medical monitoring to manage complications such as electrolyte imbalances, heart abnormalities, or organ damage",
-      "For all individuals with eating disorders regardless of severity, medical stabilization involves weekly outpatient monitoring of weight, electrolytes, and vital signs",
-      "For individuals with Bulimia Nervosa only, medical stabilization involves administration of antiemetics and proton pump inhibitors to prevent further erosion of tooth enamel"
+      "Catatonic stupor â extreme immobility or rigidity (waxy flexibility) where the patient assumes a strange and bizarre posture for a long time",
+      "Catatonic excitement â excessive and purposeless motor activity characteristic of catatonic schizophrenia",
+      "Psychomotor retardation â slowing down of bodily movement combined with slowing of thought, more common in depressive states"
     ],
     "answer": "A"
   },
   {
     "id": 36,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A 17-year-old girl is brought to the psychiatric clinic by her mother. She weighs 35kg (BMI 14), refuses to eat despite preparing elaborate meals for the family, says she 'feels fat,' and has not menstruated in 8 months. She exercises for 3 hours daily. Which diagnosis is MOST consistent?",
+    "stem": "CASE SCENARIO: A 35-year-old female veteran returns from a conflict zone where she witnessed multiple deaths. She now has nightmares every night, avoids watching the news or anything that reminds her of the war, is constantly scanning her environment for threats, and believes she is permanently damaged. Which cluster of PTSD symptoms does her belief that she is 'permanently damaged' MOST represent?",
     "options": [
-      "Anorexia Nervosa — Restricting Type: characterized by persistent restriction of energy intake, intense fear of gaining weight, gross distortion of body image, amenorrhea, and excessive exercise without binge-purge behaviour",
-      "Bulimia Nervosa — Non-purging Type: characterized by binge eating with compensatory excessive exercise, body image disturbance, and menstrual irregularities",
-      "Anorexia Nervosa — Binge-Eating/Purging Type: characterized by recurrent episodes of binge eating and purging through excessive exercise, despite being significantly underweight"
+      "Cognitive and mood symptoms â PTSD can affect a person's thinking patterns and emotions; she may develop negative thoughts or beliefs about herself, others, or the world; persistent feelings of guilt, shame, anger, or emotional numbness",
+      "Hyperarousal symptoms â including hypervigilance, exaggerated startle response, difficulty concentrating, irritability, and sleep disturbances; she is constantly on edge",
+      "Avoidance symptoms â actively avoiding places, people, activities, or situations that remind her of the traumatic event"
     ],
     "answer": "A"
   },
   {
     "id": 37,
     "type": "mcq",
-    "stem": "CASE SCENARIO (continued from Q36): The patient is admitted. The nurse plans her care. Which nursing action is MOST immediately critical based on the text's management principles?",
+    "stem": "CASE SCENARIO: A 75-year-old man is brought to clinic by his wife. She reports he has been having vivid visual hallucinations of small animals, his alertness fluctuates significantly throughout the day, and he has developed a shuffling gait and tremors. His cognitive decline began after the motor symptoms. Which type of dementia is MOST consistent?",
     "options": [
-      "Assess the patient; establish nurse/patient relationship; monitor and record eating behaviours; consider medical stabilization for electrolyte imbalances, heart abnormalities, or organ damage given her severe low weight",
-      "Administer antidepressants immediately as depression is the underlying cause of food restriction; encourage the patient to join a group therapy session on the first day of admission",
-      "Restrict the patient's access to the exercise room; weigh her daily in the presence of her mother; discourage her from preparing meals for the family as this reinforces her food preoccupation"
+      "Lewy Body Dementia (LBD) â characterized by Lewy bodies; individuals experience cognitive fluctuations, visual hallucinations, Parkinson's-like symptoms such as tremors and stiffness, and fluctuations in alertness and attention",
+      "Alzheimer's Disease â characterized by accumulation of beta-amyloid plaques and tau tangles leading to progressive loss of brain cells and cognitive decline",
+      "Frontotemporal Dementia (FTD) â primarily affecting the frontal and temporal lobes causing changes in behaviour, personality, language difficulties, and problems with executive functioning"
     ],
     "answer": "A"
   },
   {
     "id": 38,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A 35-year-old woman presents with a three-week history of profound sadness, early morning waking, weight loss, inability to concentrate, and thoughts of suicide. She states 'life is not worth living.' Which type of depression is MOST consistent with her presentation?",
+    "stem": "CASE SCENARIO: A nurse caring for a patient with schizophrenia notices she consistently avoids eye contact, rarely initiates conversation, and has an odd facial expression that makes social interaction very difficult. Which management strategy is MOST specifically indicated for this presentation?",
     "options": [
-      "Endogenous Depression (Major Depressive Disorder) — characterized by persistent feeling of sadness, hopelessness, and loss of interest or pleasure; symptoms including insomnia (early morning waking), weight loss, impaired concentration, and suicidal tendency are present",
-      "Reactive/Neurotic/Dysthymic Disorder — characterized by depressed mood for most of the day for at least two years with at least two of six symptoms; less severe than endogenous depression",
-      "Involutional/Melancholia — occurring in middle age during the menopausal stage in predisposed women; characterized by agitation, hypochondriacal ideas, and delusions of guilt"
+      "Social Skills Training â helps to address behaviours such as poor eye contact, odd facial expression, and lack of spontaneity in social situations through role play and homework assignments",
+      "Behavioural Therapy â to reduce the frequency of bizarre, disturbing, and deviant behaviour",
+      "Group Therapy â promotes social interaction, sense of cohesiveness, identification, and insight"
     ],
     "answer": "A"
   },
   {
     "id": 39,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A 28-year-old man is admitted following an episode of extreme irritability, violence, and being a nuisance in the community. He has been found spending all his money, sleeping only 2 hours a night, and is dressing in bright, mismatched clothing. He is described by his family as 'acting like a different person.' Which form of mania does this presentation MOST represent?",
+    "stem": "CASE SCENARIO: A 68-year-old man with recently diagnosed schizophrenia for the first time in his life, who is married, had been a well-functioning professional, and whose family history includes only mood disorders â has which prognostic profile?",
     "options": [
-      "Manic Excitement — the patient is very irritable, excited, violent, and is a nuisance to the public",
-      "Hypomania — the patient is euphoric, elated, dressing colourfully, cracking jokes, talking excessively and over active",
-      "Bipolar II Disorder — the patient is experiencing a hypomanic episode that does not require hospitalization"
+      "Good prognosis â late onset, male sex (less favourable but offset by other factors), married marital status, good premorbid personality, and family history of mood disorder rather than schizophrenia are all good prognostic factors",
+      "Poor prognosis â male sex, family history of schizophrenia, and long duration are poor prognostic factors that override the other favourable features",
+      "Poor prognosis â late onset in males is associated with worse outcomes because the presentation is atypical and often misdiagnosed, delaying appropriate treatment"
     ],
     "answer": "A"
   },
   {
     "id": 40,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A 22-year-old woman with Bulimia Nervosa is admitted. The nurse notes erosion of her tooth enamel and calluses on her knuckles. She admits to eating very large amounts of food rapidly and then vomiting. She feels ashamed after each episode. Which type of Bulimia Nervosa does this represent?",
+    "stem": "CASE SCENARIO: A patient with schizophrenia is being discharged. The nurse provides advice on discharge. Which of the following is specifically stated in the text as discharge advice?",
     "options": [
-      "Purging Type — the patient is engaged in self-induced vomiting or misuse of laxatives, diuretics, or enemas as a compensatory behaviour",
-      "Non-purging Type — the patient uses compensatory behaviours other than purging such as fasting or excessive exercise to control weight",
-      "Restricting Type — the patient restricts caloric intake between episodes of binge eating without engaging in any purging behaviour"
+      "Patient is encouraged to take his prescribed medication; keep to his hospital appointment; avoid stress situations; ensure adequate rest and sleep; avoid the use of psychoactive substances such as cannabis",
+      "Patient is encouraged to avoid all social interactions for six months to prevent relapse; attend weekly psychiatric outpatient appointments; store all medications in a locked cabinet",
+      "Patient is encouraged to immediately resume all previous occupational roles; join a gym to channel energy; reduce all prescribed medications gradually over three months"
     ],
     "answer": "A"
   },
   {
     "id": 41,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A nurse is reviewing a manic patient's drug therapy. The patient has been started on IM Chlorpromazine 50-100mg. According to the text, what should this be followed by?",
+    "stem": "CASE SCENARIO: A 55-year-old woman develops symptoms of PTSD after a serious motor vehicle accident. The nurse understands that in addition to direct trauma, individual susceptibility factors also influence PTSD development. Which factors are specifically named in the text?",
     "options": [
-      "Tablet Chlorpromazine 100-200mg three times a day, to be reduced gradually",
-      "Tablet Haloperidol 1.5-long three times a day as the standard step-down from IM Chlorpromazine",
-      "Tablet Largactil 50-100mg stat, then tablets 100-200mg three times daily"
+      "Pre-existing mental health conditions such as anxiety or depression can make a person more vulnerable; genetic factors and history of childhood trauma or abuse may also contribute",
+      "Age at time of trauma, gender, educational level, and socioeconomic status are the primary individual susceptibility factors for PTSD development",
+      "The severity of the traumatic event and the number of previous traumatic exposures are the only individual susceptibility factors that predict PTSD development"
     ],
     "answer": "A"
   },
   {
     "id": 42,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A 45-year-old woman with no prior psychiatric history presents with a 3-year history of depressed mood for most of the day, decreased sleep, low energy, low self-esteem, and poor concentration. She denies suicidal ideation and has never had a major depressive episode. Which DSM-5 diagnosis is MOST consistent?",
+    "stem": "CASE SCENARIO: A 70-year-old man develops rapid personality changes, starts using profane language, shows poor judgment, and has difficulty finding words. His memory is relatively spared. Which type of dementia is MOST consistent with this presentation?",
     "options": [
-      "Persistent Depressive Disorder (PDD) — formerly dysthymia; a chronic form of depression lasting at least two years with milder symptoms than MDD and brief periods of improvement",
-      "Major Depressive Disorder (MDD) — characterized by persistent sadness, hopelessness, and loss of interest with symptoms present for at least two weeks",
-      "Cyclothymic Disorder — characterized by chronic mood instability with numerous periods of depressive and hypomanic symptoms over at least two years"
+      "Frontotemporal Dementia (FTD) â a group of dementias that primarily affect the frontal and temporal lobes, causing changes in behaviour, personality, language difficulties, and problems with executive functioning",
+      "Alzheimer's Disease â characterized by beta-amyloid plaques and tau tangles causing progressive loss of brain cells including areas controlling memory first",
+      "Vascular Dementia â occurs due to damage to blood vessels in the brain from stroke or small vessel disease, typically causing stepwise cognitive decline"
     ],
     "answer": "A"
   },
   {
     "id": 43,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A nurse is monitoring a depressed patient at meal time. The patient says he is not hungry and has not eaten in two days. Which nursing action is MOST consistent with the management of depression described in the text?",
+    "stem": "CASE SCENARIO: A patient with schizophrenia tells a nurse, 'When I read the newspaper, every article is about me and contains hidden messages for me.' The nurse correctly identifies this as which symptom?",
     "options": [
-      "Encourage stimulating activities around the patient; give nourishing diet especially fluid diet; give drug therapy as prescribed; encourage the patient to take care of personal hygiene",
-      "Force feed the patient using nasogastric tube to prevent further weight loss; document the caloric intake and report any refusal to the physician immediately",
-      "Allow the patient to skip meals if he is not hungry as forced feeding may worsen his depression; focus instead on addressing suicidal ideation as the priority"
+      "Ideas of Reference â the patient thinks something in his surroundings is intended to have meaning for him when no such meaning is intended",
+      "Delusion of Grandeur â the patient states he has untold wealth or is a famous person of historic importance",
+      "DÃ©jÃ  vu â when a person feels undue familiarity to an event or person that is actually new to them"
     ],
     "answer": "A"
   },
   {
     "id": 44,
     "type": "fitb",
-    "stem": "Bipolar I Disorder is diagnosed when an individual experiences at least one manic episode lasting at least ____________ week(s) or requires ____________.",
-    "answer": "one; hospitalization",
-    "acceptableAnswers": ["one; hospitalization", "1; hospitalization"]
+    "stem": "Positive symptoms of schizophrenia are additional or excess experiences. The four positive symptoms listed are: ____________, ____________, thought disorders, and ____________.",
+    "answer": "Hallucination; Delusion; Illusion",
+    "acceptableAnswers": ["Hallucination; Delusion; Illusion", "hallucination; delusion; illusion"]
   },
   {
     "id": 45,
     "type": "fitb",
-    "stem": "Bipolar II Disorder requires both major depressive episodes and hypomanic episodes. A hypomanic episode lasts at least ____________ consecutive days and does not typically require ____________. Individuals with Bipolar II have never experienced a full ____________ episode.",
-    "answer": "four; hospitalization; manic",
-    "acceptableAnswers": ["four; hospitalization; manic", "4; hospitalization; manic"]
+    "stem": "Negative symptoms of schizophrenia involve reduction or absence of normal functions. The six negative symptoms listed are: Avolition, ____________, Blunt/Flattened Affect, ____________, Apathy, and ____________.",
+    "answer": "Alogia; Anhedonia; Inattention",
+    "acceptableAnswers": ["Alogia; Anhedonia; Inattention", "alogia; anhedonia; inattention"]
   },
   {
     "id": 46,
     "type": "fitb",
-    "stem": "Cyclothymic Disorder is characterized by chronic mood instability with depressive and hypomanic symptoms over a period of at least ____________ years, without meeting full criteria for a ____________ episode, hypomanic episode, or manic episode.",
-    "answer": "two; major depressive",
-    "acceptableAnswers": ["two; major depressive", "2; major depressive"]
+    "stem": "Eugene Bleuler maintained the 4 A's as distinctive and fundamental features of schizophrenia. They are: ____________, Autism, ____________, and Association loosening.",
+    "answer": "Affect; Ambivalence",
+    "acceptableAnswers": ["Affect; Ambivalence", "affect; ambivalence"]
   },
   {
     "id": 47,
     "type": "fitb",
-    "stem": "Primary mania is an ____________ disorder (mood disorder). Secondary mania occurs secondary to a variety of ____________ disorders such as drug intake, infection, neoplasm, epilepsy, or metabolic disturbances.",
-    "answer": "affective; organic",
-    "acceptableAnswers": ["affective; organic"]
+    "stem": "Bleuler's 'Autism' in schizophrenia means the patient is socially ____________, preferring to live in a world of ____________ rather than interact with the social world.",
+    "answer": "withdrawn; fantasy",
+    "acceptableAnswers": ["withdrawn; fantasy"]
   },
   {
     "id": 48,
     "type": "fitb",
-    "stem": "Hypomania is a form of mania where the patient is ____________, elated, dressing ____________, cracking jokes, and talking excessively and over-active.",
-    "answer": "euphoric; colourfully",
-    "acceptableAnswers": ["euphoric; colourfully", "euphoric; colorfully"]
+    "stem": "DÃ©jÃ  vu is when a person feels undue ____________ to an event or person, while Jamais vu is a feeling that a ____________ situation is ____________.",
+    "answer": "familiarity; familiar; strange",
+    "acceptableAnswers": ["familiarity; familiar; strange"]
   },
   {
     "id": 49,
     "type": "fitb",
-    "stem": "Lithium ____________ (mood stabilizer) is used for patients who suffer ____________ relapses of mania.",
-    "answer": "carbonate; frequent",
-    "acceptableAnswers": ["carbonate; frequent"]
+    "stem": "Catatonic schizophrenia involves disturbances in motor behaviour. The state where the patient assumes a strange posture for a long time is called catatonic ____________, also called ____________ flexibility.",
+    "answer": "stupor; Waxy",
+    "acceptableAnswers": ["stupor; Waxy", "stupor; waxy"]
   },
   {
     "id": 50,
     "type": "fitb",
-    "stem": "Depression is defined as an affective disorder characterized by extreme feeling of ____________, withdrawal, excessive psychomotor ____________ and suicidal thought.",
-    "answer": "sadness; retardation",
-    "acceptableAnswers": ["sadness; retardation"]
+    "stem": "The DSM-5 Duration criterion for schizophrenia requires continuous signs of illness for at least ____________ months, including at least ____________ month of active-phase symptoms.",
+    "answer": "six; one",
+    "acceptableAnswers": ["six; one", "6; 1"]
   },
   {
     "id": 51,
     "type": "fitb",
-    "stem": "Endogenous Depression requires a depressed mood or pleasure plus ____________ or more of seven symptoms including loss of interest and pleasure, loss of worthlessness of guilt, loss of energy and fatigue, impaired concentration, thought of suicide, loss or increase of appetite, and ____________ or excessive sleep.",
-    "answer": "4; insomnia",
-    "acceptableAnswers": ["4; insomnia", "four; insomnia"]
+    "stem": "Good prognostic factors of schizophrenia include: ____________ onset, female sex, ____________ marital status, short duration, family history of ____________ disorder.",
+    "answer": "late; married; mood",
+    "acceptableAnswers": ["late; married; mood"]
   },
   {
     "id": 52,
     "type": "fitb",
-    "stem": "Reactive/Neurotic/Dysthymic disorder requires depressed mood for most of the day for at least ____________ years, plus the presence of at least ____________ of six symptoms.",
-    "answer": "two; two",
-    "acceptableAnswers": ["two; two", "2; 2"]
+    "stem": "Poor prognostic factors of schizophrenia include: insidious/____________ onset, ____________ sex, single/divorced/widowed status, long duration, and predominance of ____________ symptoms.",
+    "answer": "early; male; negative",
+    "acceptableAnswers": ["early; male; negative"]
   },
   {
     "id": 53,
     "type": "fitb",
-    "stem": "Involutional/Melancholia occurs in the middle age and later third of life; it is caused by ____________ changes during the ____________ stage in predisposed women. It is characterized by agitation, hypochondriacal ideas, and delusion of ____________ and unworthiness.",
-    "answer": "hormonal; menopausal; guilt",
-    "acceptableAnswers": ["hormonal; menopausal; guilt"]
+    "stem": "Typical antipsychotic drugs for schizophrenia include ____________, Haloperidol, ____________, and Trifluoperazine. Atypical antipsychotics include Risperidone, ____________, and Olanzepine.",
+    "answer": "Chlorpromazine; Thioridazine; Clozapine",
+    "acceptableAnswers": ["Chlorpromazine; Thioridazine; Clozapine", "chlorpromazine; thioridazine; clozapine"]
   },
   {
     "id": 54,
     "type": "fitb",
-    "stem": "Senile Depression occurs from ____________ years and above. The risk of suicides is ____________ increased and it may be ____________.",
-    "answer": "70; much; irreversible",
-    "acceptableAnswers": ["70; much; irreversible"]
+    "stem": "Social Skills Training helps to address behaviours such as poor ____________ contact, odd facial ____________, and lack of ____________ in social situations through role play and homework assignments.",
+    "answer": "eye; expression; spontaneity",
+    "acceptableAnswers": ["eye; expression; spontaneity"]
   },
   {
     "id": 55,
     "type": "fitb",
-    "stem": "ECT is preferable for depression with ____________ tendency. Drug therapy for depression includes anti-depressant drugs such as trypitizol ____________-____________ per day.",
-    "answer": "suicidal; 50; 30",
-    "acceptableAnswers": ["suicidal; 50; 30", "suicidal; 30; 50"]
+    "stem": "PTSD is characterized by a range of symptoms that can be categorized into four main clusters: ____________-experiencing symptoms, ____________ symptoms, Hyperarousal symptoms, and Cognitive and ____________ symptoms.",
+    "answer": "Re; Avoidance; mood",
+    "acceptableAnswers": ["Re; Avoidance; mood", "re-experiencing; avoidance; mood"]
   },
   {
     "id": 56,
     "type": "fitb",
-    "stem": "Anorexia Nervosa is defined as a persistent ____________ of energy intake leading to a significantly low body weight; characterized by an intense ____________ of gaining weight or becoming fat or persistent behaviour that interferes with ____________ gain.",
-    "answer": "restriction; fear; weight",
-    "acceptableAnswers": ["restriction; fear; weight"]
+    "stem": "The three psychotherapy approaches named in the text for PTSD treatment are: Cognitive ____________ Therapy (CBT), Eye Movement ____________ and Reprocessing (EMDR), and ____________ Exposure Therapy (PE).",
+    "answer": "Behavioural; Desensitization; Prolonged",
+    "acceptableAnswers": ["Behavioural; Desensitization; Prolonged", "behavioral; desensitization; prolonged"]
   },
   {
     "id": 57,
     "type": "fitb",
-    "stem": "In Anorexia Nervosa — Restricting Type, weight loss is achieved by restricting calories following drastic diets, ____________, and excessive exercise; the person has NOT regularly engaged in ____________-eating or ____________ behaviour.",
-    "answer": "fasting; binge; purging",
-    "acceptableAnswers": ["fasting; binge; purging"]
+    "stem": "Medications for PTSD named in the text are Selective Serotonin ____________ Inhibitors (SSRIs) and Serotonin-____________ Reuptake Inhibitors (SNRIs), prescribed particularly when associated ____________ or depressive symptoms are present.",
+    "answer": "Reuptake; Norepinephrine; anxiety",
+    "acceptableAnswers": ["Reuptake; Norepinephrine; anxiety", "reuptake; norepinephrine; anxiety"]
   },
   {
     "id": 58,
     "type": "fitb",
-    "stem": "Bulimia Nervosa is described as the ____________-and-____________ syndrome, characterized by extreme overeating followed by self-induced vomiting and abuse of laxatives and diuretics. It occurs predominantly in ____________ and begins in adolescence or early adult life.",
-    "answer": "binge; purge; females",
-    "acceptableAnswers": ["binge; purge; females"]
+    "stem": "Dementia is a syndrome characterized by a ____________ and persistent decline in cognitive abilities; it is not a specific ____________ but rather a term used to describe a group of symptoms associated with a loss of ____________ function.",
+    "answer": "progressive; disease; cognitive",
+    "acceptableAnswers": ["progressive; disease; cognitive"]
   },
   {
     "id": 59,
     "type": "fitb",
-    "stem": "In Bulimia Nervosa — Non-purging Type, during the current episode the person uses inappropriate ____________ behaviours OTHER than purging to control their weight, such as ____________ or excessive exercise.",
-    "answer": "compensatory; fasting",
-    "acceptableAnswers": ["compensatory; fasting"]
+    "stem": "Alzheimer's disease is characterized by the accumulation of abnormal protein ____________ (beta-amyloid) and ____________ (tau) in the brain, leading to progressive loss of brain ____________ and cognitive decline.",
+    "answer": "plaques; tangles; cells",
+    "acceptableAnswers": ["plaques; tangles; cells"]
   },
   {
     "id": 60,
     "type": "fitb",
-    "stem": "The psychoanalytic factor for Bulimia Nervosa is ____________ in an earlier development level, while the behavioural factor is unresolved ____________ needs.",
-    "answer": "fixation; dependence",
-    "acceptableAnswers": ["fixation; dependence"]
+    "stem": "Lewy Body Dementia is characterized by the presence of abnormal protein deposits called ____________ bodies; individuals may experience cognitive ____________, visual ____________, and Parkinson's-like symptoms such as tremors and stiffness.",
+    "answer": "Lewy; fluctuations; hallucinations",
+    "acceptableAnswers": ["Lewy; fluctuations; hallucinations", "lewy; fluctuations; hallucinations"]
   },
   {
     "id": 61,
     "type": "fitb",
-    "stem": "A physical complication specific to repeated purging in Bulimia Nervosa is erosion of ____________ enamel due to ____________ acid in the vomitus.",
-    "answer": "tooth; gastric",
-    "acceptableAnswers": ["tooth; gastric"]
+    "stem": "Frontotemporal Dementia primarily affects the ____________ and ____________ lobes of the brain; it can cause changes in behaviour, ____________, language difficulties, and problems with executive functioning.",
+    "answer": "frontal; temporal; personality",
+    "acceptableAnswers": ["frontal; temporal; personality"]
   },
   {
     "id": 62,
     "type": "fitb",
-    "stem": "In the nursing management of a manic patient, two manic patients should ____________ be nursed side by side. The nurse should use a ____________ sound tone and ____________ should be more effective than arguments.",
-    "answer": "not; low; persuasion",
-    "acceptableAnswers": ["not; low; persuasion", "not; low; suggestions and persuasions"]
+    "stem": "Paranoid Type schizophrenia is characterized by prominent ____________ and auditory ____________; individuals had ____________ or grandiose delusions.",
+    "answer": "delusions; hallucinations; persecutory",
+    "acceptableAnswers": ["delusions; hallucinations; persecutory"]
   },
   {
     "id": 63,
     "type": "fitb",
-    "stem": "In preventing suicide in a depressed patient, the nurse must open a ____________ caution card, remove ____________ objects from the patient's vicinity, ensure the patient ____________ drugs instantly so as not to board them.",
-    "answer": "suicidal; harmful; swallows",
-    "acceptableAnswers": ["suicidal; harmful; swallows"]
+    "stem": "CASE SCENARIO (Fill-in): A patient maintains a rigid, raised-arm posture for 90 minutes in the psychiatric ward. The nurse identifies this as catatonic ____________, also called ____________ flexibility, characteristic of ____________ schizophrenia.",
+    "answer": "stupor; Waxy; Catatonic",
+    "acceptableAnswers": ["stupor; Waxy; Catatonic", "stupor; waxy; catatonic"]
   },
   {
     "id": 64,
     "type": "fitb",
-    "stem": "CASE SCENARIO (Fill-in): A 16-year-old girl refuses to eat despite preparing large meals for others, says she 'feels fat,' weighs only 34kg, and has not menstruated for 7 months. This is consistent with ____________ Nervosa — ____________ Type, characterised by persistent restriction of energy intake and an intense fear of gaining ____________.",
-    "answer": "Anorexia; Restricting; weight",
-    "acceptableAnswers": ["Anorexia; Restricting; weight"]
+    "stem": "CASE SCENARIO (Fill-in): A 70-year-old woman with schizophrenia is being assessed for prognosis. She has a family history of bipolar disorder, was previously well-functioning, and is married. The nurse identifies her prognosis as ____________ based on the presence of family history of ____________ disorder, good ____________ personality, and married status.",
+    "answer": "good; mood; premorbid",
+    "acceptableAnswers": ["good; mood; premorbid"]
   },
   {
     "id": 65,
     "type": "fitb",
-    "stem": "CASE SCENARIO (Fill-in): A 25-year-old woman with Bulimia Nervosa feels a loss of ____________ during binge episodes and intense ____________ and depressed mood afterward. She is engaged in ____________-induced vomiting, classifying her as the Purging Type.",
-    "answer": "control; self-criticism; self",
-    "acceptableAnswers": ["control; self-criticism; self", "control; shame; self"]
+    "stem": "CASE SCENARIO (Fill-in): A 68-year-old man with dementia develops visual hallucinations of small animals, his alertness varies greatly during the day, and he has developed a tremor and shuffling gait. The nurse identifies this as ____________ Body Dementia (LBD), characterized by cognitive ____________ and ____________-like symptoms.",
+    "answer": "Lewy; fluctuations; Parkinson's",
+    "acceptableAnswers": ["Lewy; fluctuations; Parkinson's", "lewy; fluctuations; parkinson's"]
   },
   {
     "id": 66,
-    "type": "fitb",
-    "stem": "CASE SCENARIO (Fill-in): A 38-year-old man with Bipolar I is admitted during a manic episode. He has not slept for 5 days and is violent. The nurse prepares drug therapy including IM ____________ 5-10mg 2 hourly until patient is sedated or maximum of 5mg, then changes to tablet ____________ 1.5-long three times a day.",
-    "answer": "Haloperidol; Haloperidol",
-    "acceptableAnswers": ["Haloperidol; Haloperidol", "haloperidol; haloperidol"]
+    "type": "mcq",
+    "stem": "CASE SCENARIO: A patient with schizophrenia repeats every word and phrase the nurse says to him during the assessment. The nurse correctly identifies this as:",
+    "options": [
+      "Echolalia â repeating others' words, listed as a symptom of catatonic schizophrenia alongside mutism, echopraxia, and waxy flexibility",
+      "Echopraxia â imitating others' movements automatically in catatonic schizophrenia",
+      "Verbigeration â monotonous repetition of one's own phrases, a stream of talk disturbance"
+    ],
+    "answer": "A"
   },
   {
     "id": 67,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A nurse is teaching a student about ECT use in a manic patient. The student asks when ECT is used for mania. The nurse correctly states:",
+    "stem": "CASE SCENARIO: A PTSD patient tells the nurse he cannot go near the market where his accident occurred, avoids watching road traffic shows, and changes the subject whenever anyone talks about cars. Which PTSD symptom cluster is MOST dominant in his presentation?",
     "options": [
-      "ECT is also used in manic excitement when patients are very irritable, excited, and violent and it is a nuisance to the public",
-      "ECT is used only for treatment-resistant depression and is never indicated for mania under any circumstances",
-      "ECT is used for mania only when Lithium carbonate has failed after three adequate trials at therapeutic blood levels"
+      "Avoidance symptoms â the patient actively avoids places, people, activities, or situations that remind him of the traumatic event and tries to avoid discussing or thinking about it",
+      "Re-experiencing symptoms â the patient has intrusive memories, flashbacks, and nightmares related to the traumatic event",
+      "Hyperarousal symptoms â the patient is constantly on edge, has an exaggerated startle response, difficulty concentrating, irritability, and sleep disturbances"
     ],
     "answer": "A"
   },
   {
     "id": 68,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A 14-year-old boy has severe temper outbursts three times a week that are inconsistent with his developmental level. Between outbursts, he is persistently irritable. His parents report this has been ongoing for over one year. Which DSM-5 diagnosis does the nurse anticipate?",
+    "stem": "CASE SCENARIO: A patient recently diagnosed with schizophrenia has the following profile: male, 18 years old, insidious onset, single, family history of schizophrenia in his father, and his presentation is predominantly negative symptoms. Which prognostic classification is MOST accurate?",
     "options": [
-      "Disruptive Mood Dysregulation Disorder (DMDD) — typically diagnosed in children and adolescents; characterized by severe and recurrent temper outbursts inconsistent with developmental level; accompanied by persistent irritability between outbursts",
-      "Bipolar I Disorder — characterized by at least one manic episode lasting at least one week; the irritability and explosive outbursts represent manic episodes in a paediatric presentation",
-      "Cyclothymic Disorder — characterized by chronic mood instability with hypomanic and depressive symptoms over at least two years; the outbursts represent hypomanic episodes"
+      "Poor prognosis â early/insidious onset, male sex, single marital status, family history of schizophrenia (especially simple and undifferentiated subtype), and predominance of negative symptoms are all poor prognostic factors",
+      "Good prognosis â young age at onset means longer time for treatment to work; single status allows full focus on recovery without domestic responsibilities",
+      "Intermediate prognosis â the young age and early treatment initiation offset the negative prognostic indicators of male sex and predominance of negative symptoms"
     ],
     "answer": "A"
   },
   {
     "id": 69,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A nurse notes that a patient with depression has been hiding her medications under her tongue instead of swallowing them. Which specific nursing precaution does the text identify to address this?",
+    "stem": "CASE SCENARIO: A newly admitted schizophrenia patient refuses to shower, has matted hair, and smells of urine. The family reports he has been like this for months. Which nursing management action is MOST directly indicated?",
     "options": [
-      "Ensure that the patient swallows her drugs instantly so as not to board them — this is specifically listed as a precaution to prevent suicide in depressed patients",
-      "Crush all medications and dissolve them in a small amount of water before administration to prevent the patient from hiding tablets under the tongue",
-      "Administer all medications via intramuscular route for depressed patients to ensure compliance and prevent accumulation of tablets for a potential overdose"
+      "Physical care â ensure maintenance of personal hygiene as part of the nursing management of schizophrenia",
+      "Psychological care â reassure the patient and his relative and involve them in his care to address the behavioural deterioration",
+      "Social Skills Training â help to address the patient's lack of spontaneity and poor self-care through role play and homework assignments"
     ],
     "answer": "A"
   },
   {
     "id": 70,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A patient with Anorexia Nervosa tells the nurse she needs to exercise for 2 hours after eating 'even a small snack' because she feels guilty about the calories. The nurse recognises this as consistent with which type of Anorexia Nervosa and which specific feature?",
+    "stem": "CASE SCENARIO: A 72-year-old woman with a 3-year history of progressive memory loss is found to have beta-amyloid plaques and tau tangles on brain imaging. Her family notes she initially forgot recent events, then names, and now cannot recognise them. Which dementia type is MOST consistent?",
     "options": [
-      "Anorexia Nervosa — Binge-Eating/Purging Type: the patient engages in excessive exercise as a compensatory purging mechanism after consuming food, consistent with compensatory behaviour following eating",
-      "Anorexia Nervosa — Restricting Type: weight loss achieved by restricting calories, fasting, and excessive exercise; the person has not regularly engaged in binge-eating or purging behaviour",
-      "Bulimia Nervosa — Non-purging Type: the patient uses excessive exercise as an inappropriate compensatory behaviour other than purging to control weight"
+      "Alzheimer's disease â the most common form of dementia, characterized by accumulation of abnormal protein plaques (beta-amyloid) and tangles (tau) in the brain, leading to progressive loss of brain cells and cognitive decline",
+      "Vascular Dementia â occurring when there is damage to the blood vessels leading to reduced blood flow and oxygen supply from stroke, small vessel disease, or other vascular disorders",
+      "Lewy Body Dementia â characterized by Lewy bodies in the brain with cognitive fluctuations, visual hallucinations, and Parkinson's-like symptoms"
     ],
-    "answer": "B"
+    "answer": "A"
   }
 ]
