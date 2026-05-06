@@ -1,683 +1,683 @@
 [
   {
-    "id": 1, 
+    "id": 1,
     "type": "mcq",
-    "stem": "The term 'positive symptoms' in schizophrenia describes symptoms that are additional or excess experiences not typically present in healthy individuals. Which of the following lists ONLY positive symptoms of schizophrenia?",
+    "stem": "Anxiety disorder was recognized as a separate entity by psychiatrists and psychologists until the 19th and 20th centuries. Who FIRST described Anxiety Syndrome in a soldier during the civil war, and what was the condition referred to as?",
     "options": [
-      "Hallucination, Delusion, Thought disorders, and Illusion",
-      "Avolition, Alogia, Anhedonia, and Blunt affect",
-      "Associations loosening, Mannerism, Disorganized speech, and Echopraxia"
+      "Da Costa first described Anxiety Syndrome in a soldier during the civil war; shortly thereafter the condition was referred to as cardiac neurosis, irritable heart, or neurocirculatory asthenia — Da Costa's syndrome",
+      "Freud first described Anxiety Syndrome in a soldier during the civil war; shortly thereafter the condition was referred to as anxiety neurosis in 1895",
+      "Da Costa first introduced the term anxiety neurosis in 1895; shortly thereafter Freud renamed it cardiac neurosis and neurocirculatory asthenia"
     ],
-    "answer": "A" 
+    "answer": "A"
   },
   {
-    "id": 2, 
+    "id": 2,
     "type": "mcq",
-    "stem": "The term 'negative symptoms' in schizophrenia describes a specific category of symptoms involving reduction or absence of normal functions. Which of the following lists ONLY negative symptoms of schizophrenia?",
+    "stem": "Normal anxiety is described in the text as an adaptive response. Which statement MOST accurately contrasts Normal anxiety from Morbid anxiety?",
     "options": [
-      "Avolition, Alogia, Blunt/Flattened Affect, Anhedonia, Apathy, and Inattention",
-      "Hallucination, Delusion, Thought disorders, and Illusion",
-      "Associations loosening, Mannerism, Disorganized speech, Echopraxia, Stereotyping, and Catatonic stupor"
+      "Normal anxiety involves normal alertness and protection arising from a threat; it serves a useful purpose, resolves without treatment, and is experienced by everyone; Morbid anxiety is a maladaptive and abnormal response, not experienced by everyone, serves no purpose, and does not resolve without treatment",
+      "Normal anxiety is a maladaptive response arising from unconscious conflicts; it is pathological and the commonest symptom of mental illness; Morbid anxiety is an adaptive response that resolves without treatment",
+      "Normal anxiety arises from internal unacceptable desires or thought; it is pathological and requires treatment; Morbid anxiety is an adaptive motivational force that resolves without treatment"
     ],
     "answer": "A"
   },
   {
     "id": 3,
     "type": "mcq",
-    "stem": "Disorganized symptoms of schizophrenia are described as a third category. Which of the following lists ONLY disorganized symptoms as numbered in the text?",
+    "stem": "Mild Anxiety State is described in the text. Which statement MOST accurately characterises Mild Anxiety?",
     "options": [
-      "Associations loosening/derailment, Mannerism, Disorganized speech, Echopraxia, Stereotyping, Negativism, and Catatonic stupor and excitement",
-      "Avolition, Alogia, Blunt affect, Anhedonia, Apathy, and Inattention",
-      "Hallucination, Delusion, Thought disorders, Illusion, Insomnia, and Lack of insight"
+      "Associated with tension in day-to-day living; sharpens the senses; increases motivation for productivity; increases the perceptual field; results in heightened awareness of the environment; learning is enhanced and the individual functions at his/her optimal level",
+      "As the level of anxiety increases, the extent of the perceptual field diminishes; the moderately anxious individual is less alert to events occurring in the environment",
+      "The perceptual field is so greatly diminished that the individual concentrates on one particular detail only; attention span is highly diminished; difficulty completing even simple tasks; physical symptoms include headache, palpitation, and insomnia"
     ],
     "answer": "A"
   },
   {
     "id": 4,
     "type": "mcq",
-    "stem": "Eugene Bleuler maintained the 4 A's as distinctive and fundamental features of schizophrenia. Which combination CORRECTLY identifies ALL four of Bleuler's A's?",
+    "stem": "Panic State is described in the text as the most intense state of anxiety. Which statement MOST accurately describes the Panic State?",
     "options": [
-      "Affect, Autism, Ambivalence, and Association loosening",
-      "Affect, Apathy, Avolition, and Alogia",
-      "Affect, Autism, Anhedonia, and Ambivalence"
+      "The individual is unable to focus on even one detail in the environment; misperceptions are common; loss of contact with reality may occur; the individual may experience hallucination and delusion; behaviour may be characterized by wild and desperate actions or extreme withdrawal; panic disorder is associated with terror and the individual may be convinced they have a life-threatening illness or are going crazy",
+      "The perceptual field is so greatly diminished that the individual concentrates on one detail only; attention span is highly diminished; difficulty completing even simple tasks; physical symptoms include headache, palpitation, and insomnia",
+      "The level of anxiety increases and the extent of perceptual field diminishes; the individual is less alert to events occurring in the environment; this level impairs daily functioning"
     ],
     "answer": "A"
   },
   {
     "id": 5,
     "type": "mcq",
-    "stem": "Bleuler's 'Autism' as a feature of schizophrenia refers specifically to which of the following?",
+    "stem": "Generalised Anxiety Disorder (GAD) patients worry excessively about life circumstances. Which specific domains of worry are named in the text?",
     "options": [
-      "Socially withdrawn, preferring to live in a world of fantasy rather than interacting with the social world â the intent of autism by Eugene was to catch the behavioural and social impediment of schizophrenia",
-      "The existence of contradictory emotional feelings towards an object, commonly of love and hate toward the same object or person â there is conflict and ambiguities",
-      "Inappropriate or flattened affect that is incongruent to the circumstances â a major core part of schizophrenia where there is lack of normal range of emotion"
+      "Health, finances, social acceptance, job performance, and marital adjustment — this worry is central to GAD",
+      "Past traumatic events, future catastrophes, and current interpersonal conflicts — these ruminations are central to GAD",
+      "Physical symptoms such as palpitations, tremulousness, and tachycardia — these somatic concerns are central to GAD"
     ],
     "answer": "A"
   },
   {
     "id": 6,
     "type": "mcq",
-    "stem": "Bleuler's 'Ambivalence' as a feature of schizophrenia is defined in the text as which of the following?",
+    "stem": "The Neurophysiological Theory of anxiety disorder states that anxiety occurs due to which mechanism?",
     "options": [
-      "The existence of contradictory emotional feelings towards an object, commonly of love and hate toward the same object or person; conflicting attitude and emotion towards others and self; conflict and ambiguities regarding what one desires for self and for others; lack of motivation and depersonalization",
-      "Socially withdrawn, preferring to live in a world of fantasy rather than interacting with the social world â catching the behavioural and social impediment of schizophrenia",
-      "Inappropriate or flattened affect incongruent to circumstances; lack of normal range of emotion; maintaining a flat appearance without smiling, frowning, or making any emotional expression"
+      "Excessively responsive autonomic nervous system and destruction of neurotransmitters such as GABA and non-epinephrine",
+      "Unconscious conflicts repressed or impulses threatening the conscious mind",
+      "Transfer of genes from parents to offspring involving neurochemical abnormalities in norepinephrine"
     ],
     "answer": "A"
   },
   {
     "id": 7,
     "type": "mcq",
-    "stem": "DÃ©jÃ  vu and Jamais vu are listed as symptoms of schizophrenia. Which pair CORRECTLY contrasts their definitions?",
+    "stem": "The Psychoanalytic Theory of anxiety disorder states that anxiety occurs as which mechanism?",
     "options": [
-      "DÃ©jÃ  vu: when a person feels undue familiarity to an event or person; Jamais vu: a feeling that a familiar situation is strange",
-      "DÃ©jÃ  vu: a feeling that a familiar situation is strange; Jamais vu: when a person feels undue familiarity to an event or person",
-      "DÃ©jÃ  vu: the invention of new meaningless words; Jamais vu: monotonous repetition of phrases"
+      "A result of unconscious conflicts repressed or impulses threatening the conscious mind",
+      "Due to excessively responsive autonomic nervous system and destruction of neurotransmitters such as GABA",
+      "In response to certain internal or external stimuli or learned behaviour"
     ],
     "answer": "A"
   },
   {
     "id": 8,
     "type": "mcq",
-    "stem": "Paranoid Type schizophrenia is described in the text. Which statement MOST accurately characterises this subtype?",
+    "stem": "The Behavioural Theory of anxiety disorder differs from the Psychoanalytic Theory. Which statement MOST accurately describes the Behavioural Theory?",
     "options": [
-      "Characterized by prominent delusions and auditory hallucinations; individuals had persecutory or grandiose delusions, believing that others were plotting against them or that they possessed special powers or abilities",
-      "Characterized by disorganized speech, behaviour, and affect; individuals exhibited incoherent or illogical speech, inappropriate emotional responses, and disorganized or bizarre behaviour",
-      "Characterized by disturbances in motor behaviour; individuals may display extreme immobility or rigidity (catatonic stupor) or excessive and purposeless motor activity (catatonic excitement)"
+      "Anxiety occurs in response to certain internal or external stimuli or learned behaviour",
+      "Anxiety occurs as a result of unconscious conflicts repressed or impulses threatening the conscious mind",
+      "Anxiety occurs as a result of certain environmental stress like rape or disasters"
     ],
     "answer": "A"
   },
   {
     "id": 9,
     "type": "mcq",
-    "stem": "Simple Schizophrenia is described in the text as occurring at which developmental stage, and what are its hallmark features?",
+    "stem": "Management of Anxiety Disorder includes Admission. What specific characteristic of the admission environment is stated in the text?",
     "options": [
-      "Shows a progressive or insidious mental deterioration occurring at the time of puberty with increased apathy, lack of initiative, while there is gradual change in the individual's personality, inability to meet the demands of society, and decline in total performance",
-      "Involves disturbances in motor behaviour with extreme immobility or rigidity (catatonic stupor) or excessive and purposeless motor activity (catatonic excitement), along with mutism, echolalia, and echopraxia",
-      "Characterized by persistent mild or attenuated symptoms indicating a period of partial or incomplete remission with lingering negative symptoms or attenuated positive symptoms"
+      "Admit in a less stimulating therapeutic environment",
+      "Admit in a structured ward environment with multiple group activities to distract from anxiety",
+      "Admit in a brightly lit environment with regular supervision and monitoring of vital signs"
     ],
     "answer": "A"
   },
   {
     "id": 10,
     "type": "mcq",
-    "stem": "Schizoaffective Schizophrenia is described as manifesting with features of two different conditions. Which two conditions are combined in schizoaffective schizophrenia?",
+    "stem": "OCD is defined in the text as a mental disorder. Which definition MOST completely and accurately describes OCD?",
     "options": [
-      "Schizophrenia and affective/mood disorder (depression and mania)",
-      "Schizophrenia and obsessive-compulsive disorder",
-      "Schizophrenia and anxiety disorder"
+      "A mental disorder in which a person has certain thought repeatedly (called obsession) or feels the need to perform certain routines repeatedly (called compulsions) to an extent which generates distress or impairs general functioning; the person is unable to control thoughts or actions for more than a short period; common compulsions include hand washing, counting, checking; these activities take more than an hour a day; most adults realize the behaviours do not make sense",
+      "A personality disorder characterized by a preoccupation with orderliness, perfectionism, and control; characterized by rigidity, inflexibility, perfectionism, control seeking, and difficulty delegating; caused by personality traits and early life experiences",
+      "A mental health condition characterized by intrusive thoughts, compulsions, anxiety, distress, and avoidance; caused by neurobiological factors, genetics, and environmental influences; treated with CBT and SSRIs"
     ],
     "answer": "A"
   },
   {
     "id": 11,
     "type": "mcq",
-    "stem": "Catatonic Schizophrenia involves disturbances in motor behaviour. Which term in the text specifically describes the state where the patient assumes a strange and bizarre posture for a long time?",
+    "stem": "Obsession Doubts is listed as a type of OCD. Which description MOST accurately defines it?",
     "options": [
-      "Catatonic stupor â where the patient assumes a strange and bizarre posture for a long time, also called Waxy flexibility",
-      "Catatonic excitement â excessive and purposeless motor activity",
-      "Echopraxia â imitating others' movements automatically in catatonic schizophrenia"
+      "The individual is not convinced that certain acts had been carried out — e.g. continuous checking of a door which is locked already; a situation where an individual fails to ascertain a completed task — e.g. did I unplug the cooker, did I lock the door; the patient continues checking and rechecking despite having done so",
+      "This refers to a chain of thoughts which repetitively intrude into consciousness interfering with the normal train of thought; a continuous thought of abstract ideas like region philosophy or the world coming to an end",
+      "This refers to compulsive repetitive stereotyped acts of doing things like washing, dressing, arranging objects"
     ],
     "answer": "A"
   },
   {
     "id": 12,
     "type": "mcq",
-    "stem": "The Residual Type of schizophrenia is distinguished from the Undifferentiated Type. Which pair CORRECTLY contrasts these two subtypes?",
+    "stem": "Obsessional Thought/Rumination is listed as a type of OCD. Which description MOST accurately defines it?",
     "options": [
-      "Residual Type: person had at least one episode of schizophrenia but currently only displays mild or attenuated symptoms â a period of partial or incomplete remission with lingering negative symptoms; Undifferentiated Type: person exhibits symptoms of schizophrenia but does not fit into any specific subtype",
-      "Residual Type: person exhibits symptoms of schizophrenia but does not fit into any specific subtype; Undifferentiated Type: person had at least one episode of schizophrenia but currently only displays mild or attenuated symptoms",
-      "Residual Type: characterized by disorganized speech and bizarre behaviour with no identifiable subtype features; Undifferentiated Type: person has had a period of partial or incomplete remission"
+      "A chain of thoughts which repetitively intrude into consciousness interfering with the normal train of thought; a continuous thought of abstract ideas like region philosophy or the world coming to an end; the thought appears to be endless",
+      "The individual is not convinced that certain acts had been carried out — continues checking and rechecking in spite of making sure of having done so",
+      "A compulsive repetitive stereotyped act of doing things like washing, dressing, and arranging objects"
     ],
     "answer": "A"
   },
   {
     "id": 13,
     "type": "mcq",
-    "stem": "According to DSM-5 Characteristic Symptoms, a diagnosis of schizophrenia requires the presence of two or more of five specific symptoms. Which option lists ALL five characteristic symptoms?",
+    "stem": "Checking OCD is described in the text. Which statement MOST accurately characterises it?",
     "options": [
-      "Delusions, Hallucinations, Disorganized speech, Grossly disorganized or catatonic behaviour, and Negative symptoms (e.g., diminished emotional expression, avolition)",
-      "Delusions, Hallucinations, Disorganized speech, Blunt affect, and Alogia",
-      "Hallucinations, Delusions, Thought disorders, Illusion, and Catatonic stupor"
+      "People with Checking OCD avoid certain objects or places or repetitive cleaning rituals; they have persistent doubts and fears about potential harm or danger; they may repeatedly check locks, appliances, or other items to ensure they are secure, often to an excessive and time-consuming extent",
+      "Characterized by a need for things to be in perfect order or balanced; individuals spend significant time arranging objects, aligning items, or performing repetitive rituals to achieve a sense of symmetry and orderliness",
+      "Involves extreme difficulty in discarding or parting with possessions, leading to clutter and significant distress; the accumulation of items significantly impacts living spaces and interferes with daily functioning"
     ],
     "answer": "A"
   },
   {
     "id": 14,
     "type": "mcq",
-    "stem": "The DSM-5 Duration criterion for schizophrenia specifies that continuous signs of illness must be present for at least how long, and the active phase must last at least how long?",
+    "stem": "Purely Obsessional OCD (Pure-O) is described in the text. Which statement MOST accurately characterises Pure-O?",
     "options": [
-      "Continuous signs for at least six months, including at least one month of active-phase symptoms (or less if successfully treated) and may include periods of prodromal or residual symptoms",
-      "Continuous signs for at least three months, including at least two weeks of active-phase symptoms and may include periods of prodromal or residual symptoms",
-      "Continuous signs for at least twelve months, including at least six months of active-phase symptoms and may include periods of prodromal or residual symptoms"
+      "A term used to describe OCD without obvious or visible compulsions; individuals experience distressing intrusive thoughts or mental images but may not engage in outwardly visible rituals; they often have internal mental rituals such as excessive analysing or seeking reassurance",
+      "Intrusive thoughts are distressing, unwanted, and repetitive thoughts or mental images that often involve themes of harm, violence, or taboo subjects; these thoughts typically cause significant distress and lead individuals to engage in mental or behavioural rituals to neutralise the anxiety",
+      "A type of OCD where the person is obsessed with a feared object such as claustrophobia or fear of an enclosed place; they may engage in compulsive behaviours such as excessive handwashing to avoid contamination"
     ],
     "answer": "A"
   },
   {
     "id": 15,
     "type": "mcq",
-    "stem": "Good Prognostic Factors for schizophrenia are listed in the text. Which of the following is listed as a GOOD prognostic factor?",
+    "stem": "The key difference between OCD and OCPD as stated in the text is:",
     "options": [
-      "Late onset, female sex, married marital status, short duration, family history of mood disorder, paranoid and catatonic subtype, good premorbid personality, predominance of positive symptoms, and good social support",
-      "Insidious/early onset, male sex, single/divorced/widowed status, long duration, family history of schizophrenia, predominance of negative symptoms, and poor social support",
-      "Absence of precipitating factor, poor premorbid personality, predominance of negative symptoms, and simple and undifferentiated subtype"
+      "OCD involves intrusive thoughts and compulsions while OCPD is characterized by rigid personality traits",
+      "OCD is caused by personality traits and early life experiences while OCPD is caused by neurobiological factors and genetics",
+      "OCD is treated with psychotherapy and antidepressants while OCPD is treated with CBT and SSRIs"
     ],
     "answer": "A"
   },
   {
     "id": 16,
     "type": "mcq",
-    "stem": "Poor Prognostic Factors for schizophrenia are listed in the text. Which of the following is listed as a POOR prognostic factor?",
+    "stem": "Medication for OCD includes antidepressants. Which specific medications are named in the text as working common ones?",
     "options": [
-      "Insidious/early onset, male sex, single/divorced/widowed marital status, long duration, family history of schizophrenia especially simple and undifferentiated subtype, absence of precipitating factor, poor premorbid personality, predominance of negative symptoms, and poor social support",
-      "Late onset, female sex, married status, short duration, family history of mood disorder, paranoid and catatonic subtype, good premorbid personality, and good social support",
-      "Paranoid subtype, good social support, late onset, predominance of positive symptoms, and good premorbid personality"
+      "Citapram (celexa), escitalopram (lexapro), fluoxetine (prozac), fluroxa mine, paroxetine (paxil), and sertraline (zoloft)",
+      "Haloperidol, chlorpromazine, risperidone, and clozapine used as antipsychotics for OCD",
+      "Diazepam, nitrazepam, amitriptyline, and clomipramine used as first-line medication for OCD"
     ],
     "answer": "A"
   },
   {
     "id": 17,
     "type": "mcq",
-    "stem": "Typical antipsychotic drugs used in the management of schizophrenia are named in the text. Which group CORRECTLY lists ONLY typical antipsychotics as mentioned?",
+    "stem": "Flooding (Implosive Therapy) for phobia management is described in the text. Which definition MOST accurately describes it?",
     "options": [
-      "Chlorpromazine, Haloperidol, Thioridazine, and Trifluoperazine",
-      "Risperidone, Clozapine, and Olanzepine",
-      "Chlorpromazine, Haloperidol, Risperidone, and Clozapine"
+      "Immediate confrontation with the phobic object until the patient is used to it; sudden exposure of the patient to the phobic situation until he or she is no more fearful",
+      "Gradually introducing the patient to the phobic object; it helps decrease or eliminates behaviour by introducing a more adaptive behaviour that is incompatible with the unacceptable behaviour such as engaging in relaxation exercise to manage anxiety",
+      "A technique for assisting the patient to overcome their fear of a phobic stimulus; the patient is exposed gradually to the situation or feared object; it is systematic with a hierarchy of anxiety-producing events through which the individual progresses during therapy"
     ],
     "answer": "A"
   },
   {
     "id": 18,
     "type": "mcq",
-    "stem": "Atypical antipsychotic drugs used in schizophrenia management are named in the text. Which group CORRECTLY lists ONLY atypical antipsychotics as mentioned?",
+    "stem": "Systematic Desensitization is described as a behavioural therapy technique for phobia. Which statement MOST accurately defines it?",
     "options": [
-      "Risperidone, Clozapine, and Olanzepine",
-      "Chlorpromazine, Haloperidol, Thioridazine, and Trifluoperazine",
-      "Haloperidol, Risperidone, and Chlorpromazine"
+      "A technique for assisting the patient to overcome their fear of a phobic stimulus; the patient is exposed gradually to the situation or feared object; it is systematic in that there is a hierarchy of anxiety-producing events through which the individual progresses during therapy",
+      "Immediate confrontation with the phobic object until the patient is used to it; sudden exposure of the patient to the phobic situation until he or she is no more fearful",
+      "Gradually introducing the patient to the phobic object by introducing a more adaptive behaviour incompatible with the unacceptable behaviour through relaxation exercise"
     ],
     "answer": "A"
   },
   {
     "id": 19,
     "type": "mcq",
-    "stem": "Social Skills Training is listed as a management strategy for schizophrenia. Which specific behaviours does it address?",
+    "stem": "Reciprocal Inhibition is described as a behavioural therapy for phobia. Which definition MOST accurately describes it?",
     "options": [
-      "Helps to address behaviours such as poor eye contact, odd facial expression, and lack of spontaneity in social situations through role play and homework assignments",
-      "Helps to reduce the frequency of bizarre, disturbing, and deviant behaviour through applied behaviour analysis and contingency management",
-      "Promotes social interaction, sense of cohesiveness, identification, and insight among multiple patients in a group setting"
+      "Gradually introduces patient to the phobic object; helps decrease or eliminate behaviour by introducing a more adaptive behaviour that is incompatible with the unacceptable behaviour — such as engaging in relaxation exercise to manage anxiety in the presence of the phobic stimulus; relaxation and anxiety are incompatible",
+      "Immediate confrontation with the phobic object until he is used to it; sudden exposure of the patient to the phobic situation until he or she is no more fearful",
+      "The patient is exposed gradually to the situation or feared object; it is systematic with a hierarchy of anxiety-producing events through which the individual progresses"
     ],
     "answer": "A"
   },
   {
     "id": 20,
     "type": "mcq",
-    "stem": "Behavioural Therapy, Group Therapy, and Family Therapy are all listed as management strategies for schizophrenia. Which pair CORRECTLY distinguishes the purposes of Behavioural Therapy versus Family Therapy?",
+    "stem": "A phobia is defined in the text. Which definition MOST precisely defines a phobia?",
     "options": [
-      "Behavioural Therapy: to reduce the frequency of bizarre, disturbing, and deviant behaviour; Family Therapy: to educate the family about schizophrenia, reduce tension, involve the family, and prevent relapse",
-      "Behavioural Therapy: to educate the family about schizophrenia and prevent relapse; Family Therapy: to reduce the frequency of bizarre, disturbing, and deviant behaviour",
-      "Behavioural Therapy: to promote social interaction, sense of cohesiveness, identification, and insight; Family Therapy: to address poor eye contact and odd facial expression through role play"
+      "A persistent, irrational fear attached to an object or situation that objectively does not pose a significant danger; fear caused by the presence or anticipation of a specific object or situation exposed to which almost invariably provokes an immediately anxiety response or panic attack even though the subject recognized that the fear is excessive or unreasonable",
+      "A mental disorder in which a person has certain thoughts repeatedly or feels the need to perform certain routines repeatedly to an extent which generates distress or impairs general functioning",
+      "A condition where an individual has an excessive preoccupation with having a serious illness despite little or no physical symptoms; they often misinterpret normal body sensations as indicators of severe illness"
     ],
     "answer": "A"
   },
   {
     "id": 21,
     "type": "mcq",
-    "stem": "Rehabilitation is listed as a management strategy for schizophrenia. The text identifies several activities under Rehabilitation. Which of the following is CORRECTLY listed?",
+    "stem": "DSM-5-TR identifies five types of specific phobias. Which option CORRECTLY lists all five types?",
     "options": [
-      "To reduce residual effects of mental illness on the patient; activities to develop work habits, training new vocation, retraining in a previous skill, vocational guidance, and independent job placement",
-      "To promote social interaction, sense of cohesiveness, identification, and insight among multiple patients in a therapeutic setting",
-      "To make the patient independent and useful to self and the society through occupational activities"
+      "Animal Phobias, Natural Environment Phobias, Blood/Injection/Injury Phobias, Situational Phobias, and Other Phobias",
+      "Animal Phobias, Social Phobias, Contamination Phobias, Situational Phobias, and Separation Phobias",
+      "Animal Phobias, Natural Environment Phobias, Checking Phobias, Symmetry Phobias, and Intrusive Thought Phobias"
     ],
     "answer": "A"
   },
   {
     "id": 22,
     "type": "mcq",
-    "stem": "PTSD is defined in the text as a mental health condition that can develop in individuals who have experienced or witnessed a traumatic event. The traumatic event must be one that involves which specific elements?",
+    "stem": "A specific phobia requires the feared object to be avoided for at least how long, among other criteria?",
     "options": [
-      "Actual or threatened death, serious injury, or sexual violence â which triggers a range of distressing symptoms that may persist for months or even years after the event",
-      "Any emotionally distressing experience such as relationship breakdown, job loss, or academic failure that significantly impacts the individual's daily functioning",
-      "Any experience that causes persistent guilt, shame, or regret, regardless of whether physical harm was involved or threatened"
+      "The object or condition that the person is fearful of is avoided for at least six months",
+      "The object or condition that the person is fearful of is avoided for at least three months",
+      "The object or condition that the person is fearful of is avoided for at least twelve months"
     ],
     "answer": "A"
   },
   {
     "id": 23,
     "type": "mcq",
-    "stem": "PTSD symptoms are categorised into four main clusters. Which option CORRECTLY identifies ALL FOUR symptom clusters?",
+    "stem": "Which of the following correctly matches a phobia name with its corresponding fear from the text's table?",
     "options": [
-      "Re-experiencing symptoms, Avoidance symptoms, Hyperarousal symptoms, and Cognitive and mood symptoms",
-      "Re-experiencing symptoms, Avoidance symptoms, Hyperarousal symptoms, and Dissociative symptoms",
-      "Intrusive memories, Emotional numbing, Hypervigilance, and Social withdrawal"
+      "Gamophobia: Fear of Marriage; Necrophobia: Fear of Dead Body; Pyrophobia: Fear of Fire; Thanatophobia: Fear of Death",
+      "Gamophobia: Fear of Marriage; Necrophobia: Fear of Hospitals; Pyrophobia: Fear of Dead Body; Thanatophobia: Fear of Fire",
+      "Gamophobia: Fear of Death; Necrophobia: Fear of Marriage; Pyrophobia: Fear of Fire; Thanatophobia: Fear of Dead Body"
     ],
     "answer": "A"
   },
   {
     "id": 24,
     "type": "mcq",
-    "stem": "Hyperarousal symptoms of PTSD are described in the text. Which of the following MOST accurately describes this cluster?",
+    "stem": "Which of the following correctly matches Tocophobia with its alternative names and its fear?",
     "options": [
-      "Includes symptoms such as hypervigilance, exaggerated startle response, difficulty concentrating, irritability, and sleep disturbances; individuals may be constantly on edge and have an increased sensitivity to potential threats",
-      "Includes intrusive memories, flashbacks, and nightmares related to the traumatic event; these experiences are distressing and cause intense emotional and physical reactions",
-      "Includes persistent feelings of guilt, shame, anger, or emotional numbness; the individual develops negative thoughts or beliefs about themselves, others, or the world"
+      "Tocophobia is called Lockiophobia, Maieusiophobia, or Parturiphobia — it is the fear of Child Birth",
+      "Tocophobia is called Iatriphobia or Nosocomephobia — it is the fear of Hospitals or Doctors",
+      "Tocophobia is called Taphophobia or Triskaidekaphobia — it is the fear of Being Buried Alive or The Number 13"
     ],
     "answer": "A"
   },
   {
     "id": 25,
     "type": "mcq",
-    "stem": "The psychotherapy approaches specifically named in the text for PTSD management include which of the following?",
+    "stem": "Thought Stoppage and Relaxational Exercise is listed as a specific management of phobia. Which description MOST accurately defines it?",
     "options": [
-      "Cognitive Behavioural Therapy (CBT), Eye Movement Desensitization and Reprocessing (EMDR), and Prolonged Exposure Therapy (PE)",
-      "Cognitive Behavioural Therapy (CBT), Motivational Interviewing (MI), and Contingency Management",
-      "Psychodynamic therapy, Dialectical Behaviour Therapy (DBT), and Acceptance and Commitment Therapy (ACT)"
+      "Practiced when the patient is experiencing the thought; the patient commands within himself by saying STOP, followed by relaxation exercise to calm him/her",
+      "The therapist gradually exposes the patient to the feared stimulus through a hierarchy of anxiety-producing events, using relaxation at each step before progressing",
+      "The patient is immediately confronted with the phobic object until he/she is used to it; sudden exposure to the phobic situation until no longer fearful"
     ],
     "answer": "A"
   },
   {
     "id": 26,
     "type": "mcq",
-    "stem": "Medications named in the text for managing PTSD symptoms, particularly when associated anxiety or depressive symptoms are present, include which of the following?",
+    "stem": "Hypochondriasis, also known as Illness Anxiety Disorder (IAD), is defined in the text. Which definition MOST accurately describes it?",
     "options": [
-      "Selective Serotonin Reuptake Inhibitors (SSRIs) and Serotonin-Norepinephrine Reuptake Inhibitors (SNRIs)",
-      "Typical antipsychotics such as Chlorpromazine and Haloperidol",
-      "Benzodiazepines and mood stabilizers such as Lithium carbonate"
+      "A condition where an individual has an excessive preoccupation with having a serious illness despite little or no physical symptoms; they often misinterpret normal body sensations as indicators of severe illness",
+      "A mental health condition characterised by intrusive thoughts, compulsions, anxiety, distress, and avoidance",
+      "A syndrome characterized by persistent physical and mental fatigue, often accompanied by headaches, irritability, and a general sense of exhaustion"
     ],
     "answer": "A"
   },
   {
     "id": 27,
     "type": "mcq",
-    "stem": "Dementia is defined in the text. Which statement MOST accurately reflects the definition of dementia?",
+    "stem": "Therapeutic Communication in the management of Hypochondriasis requires the nurse to do which of the following?",
     "options": [
-      "A syndrome characterized by a progressive and persistent decline in cognitive abilities including memory, thinking, reasoning, and problem-solving skills; it is not a specific disease but rather a term used to describe a group of symptoms associated with a loss of cognitive function",
-      "A specific disease characterized by the accumulation of abnormal protein plaques (beta-amyloid) and tangles (tau) in the brain, leading to progressive loss of brain cells and cognitive decline",
-      "A psychiatric disorder characterized by acute onset of confusion, disorientation, and cognitive impairment, typically reversible with treatment of the underlying medical cause"
+      "Establish a trusting nurse-patient relationship by listening empathetically to the patient's health concerns without reinforcing their fears; avoid dismissing symptoms but provide reassurance based on factual medical evidence",
+      "Confront the patient directly about the irrational nature of their health concerns to help them develop insight into their hypochondriacal thinking pattern",
+      "Encourage the patient to seek multiple specialist opinions to rule out every physical cause before attributing their symptoms to anxiety"
     ],
     "answer": "A"
   },
   {
     "id": 28,
     "type": "mcq",
-    "stem": "Alzheimer's disease is described as the most common form of dementia. Which of the following MOST accurately describes its pathological mechanism?",
+    "stem": "Encourage Normal Functioning is listed as a management strategy for Hypochondriasis. Which statement from the text MOST accurately describes this strategy?",
     "options": [
-      "Characterized by the accumulation of abnormal protein plaques (beta-amyloid) and tangles (tau) in the brain, leading to progressive loss of brain cells and cognitive decline",
-      "Occurs when there is damage to the blood vessels in the brain leading to reduced blood flow and oxygen supply; can result from stroke, small vessel disease, or other vascular disorders",
-      "Characterized by the presence of abnormal protein deposits called Lewy bodies in the brain; individuals may experience cognitive fluctuations, visual hallucinations, and Parkinson's-like symptoms"
+      "Promote the patient's participation in daily activities even when they report feeling unwell; avoid excessive medical testing or reinforcement of their illness concerns; focus on wellness rather than disease",
+      "Encourage the patient to keep a symptom diary and report any new physical sensations immediately for prompt medical evaluation",
+      "Promote the patient's regular attendance at medical appointments to reassure them that their symptoms are being taken seriously by healthcare professionals"
     ],
     "answer": "A"
   },
   {
     "id": 29,
     "type": "mcq",
-    "stem": "Lewy Body Dementia (LBD) is described in the text. Which constellation of features MOST specifically characterises LBD?",
+    "stem": "Neurasthenia is described in the text. Which definition MOST accurately describes Neurasthenia?",
     "options": [
-      "Presence of abnormal protein deposits called Lewy bodies; individuals experience cognitive fluctuations, visual hallucinations, Parkinson's-like symptoms such as tremors and stiffness, and fluctuations in alertness and attention",
-      "Damage to blood vessels in the brain leading to reduced blood flow and oxygen supply; can result from stroke, small vessel disease, or other vascular disorders",
-      "Primarily affects the frontal and temporal lobes; causes changes in behaviour, personality, language difficulties, and problems with executive functioning"
+      "A condition characterized by persistent physical and mental fatigue, often accompanied by headaches, irritability, and a general sense of exhaustion; it is not commonly diagnosed in modern medicine but is considered a somatic symptom disorder in some regions",
+      "A condition where an individual has an excessive preoccupation with having a serious illness despite little or no physical symptoms; they often misinterpret normal body sensations as indicators of severe illness",
+      "A mental disorder characterized by persistent irrational fear attached to an object or situation that does not pose a significant danger, provoking an immediate anxiety response"
     ],
     "answer": "A"
   },
   {
     "id": 30,
     "type": "mcq",
-    "stem": "Frontotemporal Dementia (FTD) is described in the text. Which statement MOST accurately describes FTD?",
+    "stem": "Energy Conservation is listed as a nursing management strategy for Neurasthenia. Which of the following CORRECTLY describes this strategy?",
     "options": [
-      "A group of dementias that primarily affect the frontal and temporal lobes of the brain; can cause changes in behaviour, personality, language difficulties, and problems with executive functioning",
-      "A dementia characterized by the presence of abnormal protein deposits called Lewy bodies; individuals experience cognitive fluctuations, visual hallucinations, and Parkinson's-like symptoms",
-      "The most common form of dementia accounting for a significant majority of cases; characterized by accumulation of beta-amyloid plaques and tau tangles leading to progressive cognitive decline"
+      "Help the patient organize daily activities to conserve energy; rest and lifestyle modification — encouraging rest, relaxation, and balancing work and leisure; educate on the importance of rest periods and the balance between activity and rest",
+      "Help the patient maintain a regular schedule of physical exercise to build stamina and overcome fatigue through progressive conditioning",
+      "Help the patient identify triggers of fatigue and avoid all physical activity until symptoms fully resolve"
     ],
     "answer": "A"
   },
   {
     "id": 31,
     "type": "mcq",
-    "stem": "Parkinson's Disease Dementia (PDD) is described in the text. Which statement MOST accurately describes PDD?",
+    "stem": "Puerperal Psychosis, also known as postnatal or postpartum psychosis, is described as requiring immediate medical attention. Which statement MOST accurately characterizes it?",
     "options": [
-      "Parkinson's disease is a movement disorder that can progress to include cognitive impairment and dementia; people with PDD often experience motor symptoms such as tremors, rigidity, and bradykinesia in addition to cognitive decline",
-      "PDD primarily affects the frontal and temporal lobes causing changes in behaviour, personality, language difficulties, and problems with executive functioning before motor symptoms appear",
-      "PDD is characterized by visual hallucinations and cognitive fluctuations as the primary features, with motor symptoms developing late in the disease course"
+      "A severe psychiatric disorder occurring in some women shortly after giving birth; characterized by a rapid onset of symptoms such as hallucinations, delusions, confusion, mood swings, and disorganized behaviour; considered a psychiatric emergency",
+      "A common and relatively mild condition experienced by many women in the days and weeks following childbirth; characterized by a temporary period of mood swings, emotional sensitivity, and mild depressive symptoms that typically resolve on their own without treatment",
+      "A mood disorder characterized by persistent feelings of sadness, anxiety, and despair that occur within the first year after childbirth, distinct from baby blues by its intensity and duration"
     ],
     "answer": "A"
   },
   {
     "id": 32,
     "type": "mcq",
-    "stem": "Vascular Dementia is described in the text. Which statement MOST accurately describes its mechanism and causes?",
+    "stem": "Baby Blues are described in the text and distinguished from Postpartum Depression. Which statement MOST accurately contrasts Baby Blues from Postpartum Depression?",
     "options": [
-      "Occurs when there is damage to the blood vessels in the brain leading to reduced blood flow and oxygen supply; can result from stroke, small vessel disease, or other vascular disorders",
-      "Characterized by the accumulation of abnormal protein plaques (beta-amyloid) and tangles (tau) in the brain, leading to progressive loss of brain cells and cognitive decline",
-      "Characterized by the presence of Lewy bodies; individuals experience cognitive fluctuations, visual hallucinations, and Parkinson's-like symptoms"
+      "Baby blues are a mild and self-limiting condition considered a normal experience following childbirth; they are distinct from postpartum depression which involves more intense and persistent symptoms that significantly impact a woman's daily functioning and require medical intervention",
+      "Baby blues are a severe psychiatric emergency requiring immediate medical attention; postpartum depression is a mild, self-limiting condition that resolves without treatment within days of delivery",
+      "Baby blues are identical to postpartum depression but occur only in the first 48 hours after delivery; postpartum depression begins after the first week and lasts longer"
     ],
     "answer": "A"
   },
   {
     "id": 33,
     "type": "mcq",
-    "stem": "Association loosening in schizophrenia is described in the text. What does the cognitive underpinning of association loosening lead to?",
+    "stem": "The Bipolar Type of Puerperal Psychosis is characterized by which specific symptoms?",
     "options": [
-      "The disorganization/loosening of thought association leads to word salad, flight of ideas, and thought disorder",
-      "The disorganization of association leads to confabulation where the patient fills memory gaps with imaginary events",
-      "The loosening of thought association leads to circumstantiality where the patient uses excessive trivial details before reaching the central point"
+      "Symptoms of mania including elevated mood, irritability, grandiosity, decreased need for sleep, rapid speech, and increased energy levels; women with this type may also experience depressive symptoms",
+      "Persistent feelings of sadness, anxiety, and despair occurring within the first year after childbirth; symptoms are similar to those of depression but specifically manifest during the postpartum period",
+      "Hallucinations, delusions, disorganized thinking, and behavioural disturbances similar to those of schizophrenia; women with this type may have a pre-existing vulnerability to schizophrenia"
     ],
     "answer": "A"
   },
   {
     "id": 34,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A 26-year-old man is admitted with a 7-month history of believing that his neighbours are monitoring his home with hidden cameras and that the government has implanted a device in his brain to control his thoughts. He hears voices confirming his suspicions. He has never had a full manic episode. Which subtype of schizophrenia (pre-DSM-5) does this presentation MOST suggest?",
+    "stem": "The Schizophrenia Type of Puerperal Psychosis is described in the text. Which statement MOST accurately characterises it?",
     "options": [
-      "Paranoid Type â characterized by prominent delusions and auditory hallucinations; individuals had persecutory or grandiose delusions, believing others were plotting against them or that they possessed special powers",
-      "Catatonic Type â involving disturbances in motor behaviour including extreme immobility or rigidity and excessive purposeless motor activity",
-      "Undifferentiated Type â symptoms of schizophrenia that do not fit into any specific subtype but are significant enough to meet the criteria for a diagnosis of schizophrenia"
+      "Characterized by symptoms similar to those of schizophrenia including hallucinations, delusions, disorganized thinking, and behavioural disturbances; women with this type may have a pre-existing vulnerability to schizophrenia or experience their first psychotic episode during the postpartum period",
+      "Characterized by symptoms of mania including elevated mood, irritability, grandiosity, decreased need for sleep, rapid speech, and increased energy levels",
+      "Characterized by persistent feelings of sadness, emptiness, or hopelessness; loss of interest or pleasure in activities; changes in appetite or weight occurring in the first year after childbirth"
     ],
     "answer": "A"
   },
   {
     "id": 35,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A psychiatric nurse is assessing a patient with schizophrenia. During the interview, the patient maintains a fixed, rigid posture with one arm raised for 45 minutes and does not speak. Which clinical feature is MOST evident?",
+    "stem": "Baby Blues prevalence is stated in the text. What percentage of women experience some degree of mood disturbance after childbirth?",
     "options": [
-      "Catatonic stupor â extreme immobility or rigidity (waxy flexibility) where the patient assumes a strange and bizarre posture for a long time",
-      "Catatonic excitement â excessive and purposeless motor activity characteristic of catatonic schizophrenia",
-      "Psychomotor retardation â slowing down of bodily movement combined with slowing of thought, more common in depressive states"
+      "Up to 80% of women experience some degree of mood disturbance after childbirth",
+      "Up to 60% of women experience some degree of mood disturbance after childbirth",
+      "Up to 50% of women experience some degree of mood disturbance after childbirth"
     ],
     "answer": "A"
   },
   {
     "id": 36,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A 35-year-old female veteran returns from a conflict zone where she witnessed multiple deaths. She now has nightmares every night, avoids watching the news or anything that reminds her of the war, is constantly scanning her environment for threats, and believes she is permanently damaged. Which cluster of PTSD symptoms does her belief that she is 'permanently damaged' MOST represent?",
+    "stem": "Treatment for Postpartum Depression involves which combination as stated in the text?",
     "options": [
-      "Cognitive and mood symptoms â PTSD can affect a person's thinking patterns and emotions; she may develop negative thoughts or beliefs about herself, others, or the world; persistent feelings of guilt, shame, anger, or emotional numbness",
-      "Hyperarousal symptoms â including hypervigilance, exaggerated startle response, difficulty concentrating, irritability, and sleep disturbances; she is constantly on edge",
-      "Avoidance symptoms â actively avoiding places, people, activities, or situations that remind her of the traumatic event"
+      "A combination of therapy, support, and in some cases medication; psychotherapy such as cognitive-behavioural therapy (CBT) or interpersonal therapy (IPT) can help individuals explore their emotions, challenge negative thought patterns, and develop coping strategies; in more severe cases antidepressant medication may be prescribed",
+      "Electroconvulsive therapy (ECT) as the first-line treatment; antipsychotic medications for psychotic features; lithium carbonate for mood stabilisation in bipolar-type presentations",
+      "Immediate separation from the newborn to reduce stress on the mother; inpatient admission for all cases; antidepressants are contraindicated during breastfeeding"
     ],
     "answer": "A"
   },
   {
     "id": 37,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A 75-year-old man is brought to clinic by his wife. She reports he has been having vivid visual hallucinations of small animals, his alertness fluctuates significantly throughout the day, and he has developed a shuffling gait and tremors. His cognitive decline began after the motor symptoms. Which type of dementia is MOST consistent?",
+    "stem": "CASE SCENARIO: A 32-year-old woman who delivered 5 days ago is tearful, confused, believing she can hear God telling her to harm her baby, and exhibiting disorganized behaviour. She has not slept in 3 days. Which condition is MOST consistent?",
     "options": [
-      "Lewy Body Dementia (LBD) â characterized by Lewy bodies; individuals experience cognitive fluctuations, visual hallucinations, Parkinson's-like symptoms such as tremors and stiffness, and fluctuations in alertness and attention",
-      "Alzheimer's Disease â characterized by accumulation of beta-amyloid plaques and tau tangles leading to progressive loss of brain cells and cognitive decline",
-      "Frontotemporal Dementia (FTD) â primarily affecting the frontal and temporal lobes causing changes in behaviour, personality, language difficulties, and problems with executive functioning"
+      "Puerperal Psychosis — a severe psychiatric disorder with rapid onset of hallucinations, delusions, confusion, and disorganized behaviour; a psychiatric emergency requiring immediate medical attention",
+      "Baby Blues — a mild and self-limiting condition characterized by temporary mood swings, emotional sensitivity, and mild depressive symptoms that typically resolve without treatment",
+      "Postpartum Depression — a mood disorder characterized by persistent sadness, anxiety, and despair occurring within the first year after childbirth"
     ],
     "answer": "A"
   },
   {
     "id": 38,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A nurse caring for a patient with schizophrenia notices she consistently avoids eye contact, rarely initiates conversation, and has an odd facial expression that makes social interaction very difficult. Which management strategy is MOST specifically indicated for this presentation?",
+    "stem": "CASE SCENARIO: A woman 10 days post-delivery is tearful at random times, irritable, has mood swings, and feels sad but is bonding with her baby and functioning at home. Her symptoms began on day 2 after delivery. She is not psychotic and has no suicidal ideation. Which condition is MOST consistent?",
     "options": [
-      "Social Skills Training â helps to address behaviours such as poor eye contact, odd facial expression, and lack of spontaneity in social situations through role play and homework assignments",
-      "Behavioural Therapy â to reduce the frequency of bizarre, disturbing, and deviant behaviour",
-      "Group Therapy â promotes social interaction, sense of cohesiveness, identification, and insight"
+      "Baby Blues — a common and relatively mild condition characterized by temporary mood swings, emotional sensitivity, and mild depressive symptoms following childbirth; considered a normal experience rather than mental illness; symptoms are not severe and do not need treatment",
+      "Postpartum Depression — a mood disorder with persistent feelings of sadness, emptiness, or hopelessness; loss of interest in activities; changes in appetite and sleep that significantly impact daily functioning",
+      "Puerperal Psychosis — a severe psychiatric emergency characterized by rapid onset hallucinations, delusions, confusion, and disorganized behaviour requiring immediate medical attention"
     ],
     "answer": "A"
   },
   {
     "id": 39,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A 68-year-old man with recently diagnosed schizophrenia for the first time in his life, who is married, had been a well-functioning professional, and whose family history includes only mood disorders â has which prognostic profile?",
+    "stem": "CASE SCENARIO: A 28-year-old man washes his hands over 40 times daily, spending more than 3 hours on this ritual. He knows this is irrational but cannot stop. He is distressed by his behaviour. Which type of OCD does this MOST represent?",
     "options": [
-      "Good prognosis â late onset, male sex (less favourable but offset by other factors), married marital status, good premorbid personality, and family history of mood disorder rather than schizophrenia are all good prognostic factors",
-      "Poor prognosis â male sex, family history of schizophrenia, and long duration are poor prognostic factors that override the other favourable features",
-      "Poor prognosis â late onset in males is associated with worse outcomes because the presentation is atypical and often misdiagnosed, delaying appropriate treatment"
+      "Contamination OCD — involves excessive fear of contamination or germs; individuals may engage in compulsive behaviours such as excessive handwashing to avoid contamination",
+      "Checking OCD — people avoid certain objects or places and repeatedly check locks, appliances, or other items to ensure safety",
+      "Symmetry and Ordering OCD — characterized by a need for things to be in perfect order or balanced; individuals spend significant time arranging objects"
     ],
     "answer": "A"
   },
   {
     "id": 40,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A patient with schizophrenia is being discharged. The nurse provides advice on discharge. Which of the following is specifically stated in the text as discharge advice?",
+    "stem": "CASE SCENARIO: A patient is being treated for phobia using a technique where she is immediately placed in a room full of spiders (her feared object) until her fear response extinguishes. Which therapy is being used?",
     "options": [
-      "Patient is encouraged to take his prescribed medication; keep to his hospital appointment; avoid stress situations; ensure adequate rest and sleep; avoid the use of psychoactive substances such as cannabis",
-      "Patient is encouraged to avoid all social interactions for six months to prevent relapse; attend weekly psychiatric outpatient appointments; store all medications in a locked cabinet",
-      "Patient is encouraged to immediately resume all previous occupational roles; join a gym to channel energy; reduce all prescribed medications gradually over three months"
+      "Flooding (Implosive Therapy) — immediate confrontation with the phobic object until the patient is used to it; sudden exposure of the patient to the phobic situation until he or she is no more fearful",
+      "Systematic Desensitization — the patient is exposed gradually to the feared object through a hierarchy of anxiety-producing events",
+      "Reciprocal Inhibition — gradually introducing the patient to the phobic object by introducing a more adaptive behaviour incompatible with the anxiety response"
     ],
     "answer": "A"
   },
   {
     "id": 41,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A 55-year-old woman develops symptoms of PTSD after a serious motor vehicle accident. The nurse understands that in addition to direct trauma, individual susceptibility factors also influence PTSD development. Which factors are specifically named in the text?",
+    "stem": "CASE SCENARIO: A 50-year-old man believes he has cancer despite multiple negative investigations. He constantly checks medical websites, visits his doctor weekly for reassurance, and avoids physical activity fearing it will worsen his supposed illness. Which diagnosis is MOST consistent?",
     "options": [
-      "Pre-existing mental health conditions such as anxiety or depression can make a person more vulnerable; genetic factors and history of childhood trauma or abuse may also contribute",
-      "Age at time of trauma, gender, educational level, and socioeconomic status are the primary individual susceptibility factors for PTSD development",
-      "The severity of the traumatic event and the number of previous traumatic exposures are the only individual susceptibility factors that predict PTSD development"
+      "Hypochondriasis (Illness Anxiety Disorder) — excessive preoccupation with having a serious illness despite little or no physical symptoms; misinterprets normal body sensations as indicators of severe illness; avoidance of situations for fear of worsening the supposed illness; constant checking of medical information",
+      "OCD — a mental disorder where the person has certain thoughts repeatedly and performs routines repeatedly; the checking behaviour and medical preoccupation represent obsessions and compulsions",
+      "Generalised Anxiety Disorder — the patient worries excessively about health, finances, social acceptance, and job performance; this chronic worry is central to GAD"
     ],
     "answer": "A"
   },
   {
     "id": 42,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A 70-year-old man develops rapid personality changes, starts using profane language, shows poor judgment, and has difficulty finding words. His memory is relatively spared. Which type of dementia is MOST consistent with this presentation?",
+    "stem": "CASE SCENARIO: A nurse is managing a patient with Neurasthenia. The patient complains of persistent fatigue that does not improve with rest. The nurse teaches sleep hygiene. According to the text, sleep hygiene for Neurasthenia involves which strategies?",
     "options": [
-      "Frontotemporal Dementia (FTD) â a group of dementias that primarily affect the frontal and temporal lobes, causing changes in behaviour, personality, language difficulties, and problems with executive functioning",
-      "Alzheimer's Disease â characterized by beta-amyloid plaques and tau tangles causing progressive loss of brain cells including areas controlling memory first",
-      "Vascular Dementia â occurs due to damage to blood vessels in the brain from stroke or small vessel disease, typically causing stepwise cognitive decline"
+      "Assisting in developing a sleep routine by recommending strategies such as maintaining a regular sleep schedule, avoiding stimulants before bedtime, and creating a comfortable sleep environment",
+      "Prescribing antidepressants and anxiolytics for underlying mental health issues contributing to insomnia and fatigue in Neurasthenia",
+      "Encouraging daytime naps of up to 4 hours to compensate for disrupted night sleep and prevent further exhaustion"
     ],
     "answer": "A"
   },
   {
     "id": 43,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A patient with schizophrenia tells a nurse, 'When I read the newspaper, every article is about me and contains hidden messages for me.' The nurse correctly identifies this as which symptom?",
+    "stem": "CASE SCENARIO: A 35-year-old woman with anxiety disorder is being managed. The nurse establishes a therapeutic relationship and is about to implement the psychological care component. Which action is MOST consistent with the text's management?",
     "options": [
-      "Ideas of Reference â the patient thinks something in his surroundings is intended to have meaning for him when no such meaning is intended",
-      "Delusion of Grandeur â the patient states he has untold wealth or is a famous person of historic importance",
-      "DÃ©jÃ  vu â when a person feels undue familiarity to an event or person that is actually new to them"
+      "Reassure the patient to allay anxiety and give psychological support; establish a good channel of communication but avoid probing",
+      "Encourage the patient to confront the source of her anxiety directly to develop insight and overcome avoidance behaviour",
+      "Administer prescribed anxiolytics immediately to reduce acute distress before engaging in any psychotherapeutic intervention"
     ],
     "answer": "A"
   },
   {
     "id": 44,
     "type": "fitb",
-    "stem": "Positive symptoms of schizophrenia are additional or excess experiences. The four positive symptoms listed are: ____________, ____________, thought disorders, and ____________.",
-    "answer": "Hallucination; Delusion; Illusion",
-    "acceptableAnswers": ["Hallucination; Delusion; Illusion", "hallucination; delusion; illusion"]
+    "stem": "Anxiety disorder was first described as a separate entity by psychiatrists and psychologists until the ____________ and ____________ centuries. Da Costa first described it as cardiac neurosis, irritable heart, or ____________ asthenia.",
+    "answer": "19th; 20th; neurocirculatory",
+    "acceptableAnswers": ["19th; 20th; neurocirculatory", "19; 20; neurocirculatory"]
   },
   {
     "id": 45,
     "type": "fitb",
-    "stem": "Negative symptoms of schizophrenia involve reduction or absence of normal functions. The six negative symptoms listed are: Avolition, ____________, Blunt/Flattened Affect, ____________, Apathy, and ____________.",
-    "answer": "Alogia; Anhedonia; Inattention",
-    "acceptableAnswers": ["Alogia; Anhedonia; Inattention", "alogia; anhedonia; inattention"]
+    "stem": "Normal anxiety is an ____________ response that serves a useful purpose, resolves ____________ treatment, and is experienced by everyone. Morbid anxiety is a ____________ response that does not resolve without treatment.",
+    "answer": "adaptive; without; maladaptive",
+    "acceptableAnswers": ["adaptive; without; maladaptive"]
   },
   {
     "id": 46,
     "type": "fitb",
-    "stem": "Eugene Bleuler maintained the 4 A's as distinctive and fundamental features of schizophrenia. They are: ____________, Autism, ____________, and Association loosening.",
-    "answer": "Affect; Ambivalence",
-    "acceptableAnswers": ["Affect; Ambivalence", "affect; ambivalence"]
+    "stem": "In Mild Anxiety, the individual's learning is ____________ and the individual is able to function at his or her ____________ level. In Severe Anxiety, the perceptual field is so greatly ____________ that the individual concentrates on one particular detail only.",
+    "answer": "enhanced; optimal; diminished",
+    "acceptableAnswers": ["enhanced; optimal; diminished"]
   },
   {
     "id": 47,
     "type": "fitb",
-    "stem": "Bleuler's 'Autism' in schizophrenia means the patient is socially ____________, preferring to live in a world of ____________ rather than interact with the social world.",
-    "answer": "withdrawn; fantasy",
-    "acceptableAnswers": ["withdrawn; fantasy"]
+    "stem": "In Panic State, the individual is unable to focus on even ____________ detail in the environment; ____________ are common; the individual may experience ____________ and delusion.",
+    "answer": "one; misperceptions; hallucination",
+    "acceptableAnswers": ["one; misperceptions; hallucination"]
   },
   {
     "id": 48,
     "type": "fitb",
-    "stem": "DÃ©jÃ  vu is when a person feels undue ____________ to an event or person, while Jamais vu is a feeling that a ____________ situation is ____________.",
-    "answer": "familiarity; familiar; strange",
-    "acceptableAnswers": ["familiarity; familiar; strange"]
+    "stem": "OCD is associated with tics, ____________ disorder, and an increased risk of ____________. OCD activities take more than ____________ hour a day and most adults realize the behaviours do not make sense.",
+    "answer": "anxiety; suicide; an",
+    "acceptableAnswers": ["anxiety; suicide; an", "anxiety; suicide; 1"]
   },
   {
     "id": 49,
     "type": "fitb",
-    "stem": "Catatonic schizophrenia involves disturbances in motor behaviour. The state where the patient assumes a strange posture for a long time is called catatonic ____________, also called ____________ flexibility.",
-    "answer": "stupor; Waxy",
-    "acceptableAnswers": ["stupor; Waxy", "stupor; waxy"]
+    "stem": "Obsession Doubts: the individual is not convinced that certain acts had been carried out — e.g. continuous checking of the door which is ____________ already; a situation whereby an individual fails to ascertain that a particular completed task has really been ____________.",
+    "answer": "locked; accomplished",
+    "acceptableAnswers": ["locked; accomplished"]
   },
   {
     "id": 50,
     "type": "fitb",
-    "stem": "The DSM-5 Duration criterion for schizophrenia requires continuous signs of illness for at least ____________ months, including at least ____________ month of active-phase symptoms.",
-    "answer": "six; one",
-    "acceptableAnswers": ["six; one", "6; 1"]
+    "stem": "The key difference between OCD and OCPD is that OCD involves intrusive ____________ and ____________, while OCPD is characterised by rigid ____________ traits.",
+    "answer": "thoughts; compulsions; personality",
+    "acceptableAnswers": ["thoughts; compulsions; personality"]
   },
   {
     "id": 51,
     "type": "fitb",
-    "stem": "Good prognostic factors of schizophrenia include: ____________ onset, female sex, ____________ marital status, short duration, family history of ____________ disorder.",
-    "answer": "late; married; mood",
-    "acceptableAnswers": ["late; married; mood"]
+    "stem": "Metacognitive therapy for OCD involves encouraging the ____________ behaviours as to alter the relationship ones ____________ about them.",
+    "answer": "ritual; thought",
+    "acceptableAnswers": ["ritual; thought", "ritual; thought about"]
   },
   {
     "id": 52,
     "type": "fitb",
-    "stem": "Poor prognostic factors of schizophrenia include: insidious/____________ onset, ____________ sex, single/divorced/widowed status, long duration, and predominance of ____________ symptoms.",
-    "answer": "early; male; negative",
-    "acceptableAnswers": ["early; male; negative"]
+    "stem": "A phobia is a persistent, ____________ fear attached to an object or situation that does not pose a significant danger; the fear is ____________ or unreasonable and almost invariably provokes an immediately ____________ response or panic attack.",
+    "answer": "irrational; excessive; anxiety",
+    "acceptableAnswers": ["irrational; excessive; anxiety"]
   },
   {
     "id": 53,
     "type": "fitb",
-    "stem": "Typical antipsychotic drugs for schizophrenia include ____________, Haloperidol, ____________, and Trifluoperazine. Atypical antipsychotics include Risperidone, ____________, and Olanzepine.",
-    "answer": "Chlorpromazine; Thioridazine; Clozapine",
-    "acceptableAnswers": ["Chlorpromazine; Thioridazine; Clozapine", "chlorpromazine; thioridazine; clozapine"]
+    "stem": "Systematic desensitization is a technique for assisting the patient to overcome their fear of a phobic stimulus; the patient is exposed ____________ to the situation or feared object through a ____________ of anxiety-producing events.",
+    "answer": "gradually; hierarchy",
+    "acceptableAnswers": ["gradually; hierarchy"]
   },
   {
     "id": 54,
     "type": "fitb",
-    "stem": "Social Skills Training helps to address behaviours such as poor ____________ contact, odd facial ____________, and lack of ____________ in social situations through role play and homework assignments.",
-    "answer": "eye; expression; spontaneity",
-    "acceptableAnswers": ["eye; expression; spontaneity"]
+    "stem": "Flooding (Implosive Therapy) involves ____________ confrontation with the phobic object until the patient is used to it; that is ____________ exposure of the patient to the phobic situation until he or she is no more ____________.",
+    "answer": "immediate; sudden; fearful",
+    "acceptableAnswers": ["immediate; sudden; fearful"]
   },
   {
     "id": 55,
     "type": "fitb",
-    "stem": "PTSD is characterized by a range of symptoms that can be categorized into four main clusters: ____________-experiencing symptoms, ____________ symptoms, Hyperarousal symptoms, and Cognitive and ____________ symptoms.",
-    "answer": "Re; Avoidance; mood",
-    "acceptableAnswers": ["Re; Avoidance; mood", "re-experiencing; avoidance; mood"]
+    "stem": "DSM-5-TR identifies ____________ types of specific phobias. The object or condition that the person is fearful of is avoided for at least ____________ months.",
+    "answer": "five; six",
+    "acceptableAnswers": ["five; six", "5; 6"]
   },
   {
     "id": 56,
     "type": "fitb",
-    "stem": "The three psychotherapy approaches named in the text for PTSD treatment are: Cognitive ____________ Therapy (CBT), Eye Movement ____________ and Reprocessing (EMDR), and ____________ Exposure Therapy (PE).",
-    "answer": "Behavioural; Desensitization; Prolonged",
-    "acceptableAnswers": ["Behavioural; Desensitization; Prolonged", "behavioral; desensitization; prolonged"]
+    "stem": "Tocophobia is also called ____________, Maieusiophobia, or ____________ — it is the fear of ____________.",
+    "answer": "Lockiophobia; Parturiphobia; child birth",
+    "acceptableAnswers": ["Lockiophobia; Parturiphobia; child birth", "lockiophobia; parturiphobia; childbirth"]
   },
   {
     "id": 57,
     "type": "fitb",
-    "stem": "Medications for PTSD named in the text are Selective Serotonin ____________ Inhibitors (SSRIs) and Serotonin-____________ Reuptake Inhibitors (SNRIs), prescribed particularly when associated ____________ or depressive symptoms are present.",
-    "answer": "Reuptake; Norepinephrine; anxiety",
-    "acceptableAnswers": ["Reuptake; Norepinephrine; anxiety", "reuptake; norepinephrine; anxiety"]
+    "stem": "Hypochondriasis is also known as Illness ____________ Disorder (IAD); individuals often ____________ normal body sensations as indicators of severe illness.",
+    "answer": "Anxiety; misinterpret",
+    "acceptableAnswers": ["Anxiety; misinterpret", "anxiety; misinterpret"]
   },
   {
     "id": 58,
     "type": "fitb",
-    "stem": "Dementia is a syndrome characterized by a ____________ and persistent decline in cognitive abilities; it is not a specific ____________ but rather a term used to describe a group of symptoms associated with a loss of ____________ function.",
-    "answer": "progressive; disease; cognitive",
-    "acceptableAnswers": ["progressive; disease; cognitive"]
+    "stem": "Neurasthenia is characterized by persistent physical and mental ____________, often accompanied by headaches, ____________, and a general sense of ____________.",
+    "answer": "fatigue; irritability; exhaustion",
+    "acceptableAnswers": ["fatigue; irritability; exhaustion"]
   },
   {
     "id": 59,
     "type": "fitb",
-    "stem": "Alzheimer's disease is characterized by the accumulation of abnormal protein ____________ (beta-amyloid) and ____________ (tau) in the brain, leading to progressive loss of brain ____________ and cognitive decline.",
-    "answer": "plaques; tangles; cells",
-    "acceptableAnswers": ["plaques; tangles; cells"]
+    "stem": "Puerperal Psychosis is also known as ____________ psychosis or postnatal psychosis; it is characterized by a ____________ onset of symptoms and is considered a psychiatric ____________ requiring immediate medical attention.",
+    "answer": "postpartum; rapid; emergency",
+    "acceptableAnswers": ["postpartum; rapid; emergency"]
   },
   {
     "id": 60,
     "type": "fitb",
-    "stem": "Lewy Body Dementia is characterized by the presence of abnormal protein deposits called ____________ bodies; individuals may experience cognitive ____________, visual ____________, and Parkinson's-like symptoms such as tremors and stiffness.",
-    "answer": "Lewy; fluctuations; hallucinations",
-    "acceptableAnswers": ["Lewy; fluctuations; hallucinations", "lewy; fluctuations; hallucinations"]
+    "stem": "Baby blues are considered a ____________ and self-limiting condition; up to ____________% of women experience some degree of mood disturbance after childbirth; symptoms are ____________ severe and do not need treatment.",
+    "answer": "mild; 80; not",
+    "acceptableAnswers": ["mild; 80; not"]
   },
   {
     "id": 61,
     "type": "fitb",
-    "stem": "Frontotemporal Dementia primarily affects the ____________ and ____________ lobes of the brain; it can cause changes in behaviour, ____________, language difficulties, and problems with executive functioning.",
-    "answer": "frontal; temporal; personality",
-    "acceptableAnswers": ["frontal; temporal; personality"]
+    "stem": "The Bipolar Type of Puerperal Psychosis is characterized by symptoms of ____________ including elevated mood, irritability, grandiosity, decreased need for ____________, rapid speech, and increased ____________ levels.",
+    "answer": "mania; sleep; energy",
+    "acceptableAnswers": ["mania; sleep; energy"]
   },
   {
     "id": 62,
     "type": "fitb",
-    "stem": "Paranoid Type schizophrenia is characterized by prominent ____________ and auditory ____________; individuals had ____________ or grandiose delusions.",
-    "answer": "delusions; hallucinations; persecutory",
-    "acceptableAnswers": ["delusions; hallucinations; persecutory"]
+    "stem": "Treatment for Postpartum Depression involves psychotherapy such as Cognitive-____________ Therapy (CBT) or ____________ Therapy (IPT), which helps individuals explore their emotions, challenge negative thought ____________, and develop coping strategies.",
+    "answer": "Behavioural; Interpersonal; patterns",
+    "acceptableAnswers": ["Behavioural; Interpersonal; patterns", "behavioral; interpersonal; patterns"]
   },
   {
     "id": 63,
     "type": "fitb",
-    "stem": "CASE SCENARIO (Fill-in): A patient maintains a rigid, raised-arm posture for 90 minutes in the psychiatric ward. The nurse identifies this as catatonic ____________, also called ____________ flexibility, characteristic of ____________ schizophrenia.",
-    "answer": "stupor; Waxy; Catatonic",
-    "acceptableAnswers": ["stupor; Waxy; Catatonic", "stupor; waxy; catatonic"]
+    "stem": "CASE SCENARIO (Fill-in): A 30-year-old woman delivered 4 days ago and is now experiencing hallucinations and disorganized behaviour. The nurse identifies this as ____________ Psychosis — a psychiatric ____________ requiring ____________ medical attention.",
+    "answer": "Puerperal; emergency; immediate",
+    "acceptableAnswers": ["Puerperal; emergency; immediate", "puerperal; emergency; immediate"]
   },
   {
     "id": 64,
     "type": "fitb",
-    "stem": "CASE SCENARIO (Fill-in): A 70-year-old woman with schizophrenia is being assessed for prognosis. She has a family history of bipolar disorder, was previously well-functioning, and is married. The nurse identifies her prognosis as ____________ based on the presence of family history of ____________ disorder, good ____________ personality, and married status.",
-    "answer": "good; mood; premorbid",
-    "acceptableAnswers": ["good; mood; premorbid"]
+    "stem": "CASE SCENARIO (Fill-in): A patient is placed immediately in a room full of spiders (his feared object) by the therapist. The nurse identifies this as ____________ (Implosive Therapy) — involving ____________ confrontation with the phobic object until the patient is used to it.",
+    "answer": "Flooding; immediate",
+    "acceptableAnswers": ["Flooding; immediate", "flooding; immediate"]
   },
   {
     "id": 65,
     "type": "fitb",
-    "stem": "CASE SCENARIO (Fill-in): A 68-year-old man with dementia develops visual hallucinations of small animals, his alertness varies greatly during the day, and he has developed a tremor and shuffling gait. The nurse identifies this as ____________ Body Dementia (LBD), characterized by cognitive ____________ and ____________-like symptoms.",
-    "answer": "Lewy; fluctuations; Parkinson's",
-    "acceptableAnswers": ["Lewy; fluctuations; Parkinson's", "lewy; fluctuations; parkinson's"]
+    "stem": "CASE SCENARIO (Fill-in): A 45-year-old man repeatedly checks his door lock despite having just locked it, believing it may be open. The nurse identifies this as Obsession ____________ — a type of OCD where the individual is not convinced that certain ____________ had been carried out, continuing to ____________ and recheck despite having done so.",
+    "answer": "Doubts; acts; check",
+    "acceptableAnswers": ["Doubts; acts; check", "doubts; acts; check"]
   },
   {
     "id": 66,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A patient with schizophrenia repeats every word and phrase the nurse says to him during the assessment. The nurse correctly identifies this as:",
+    "stem": "CASE SCENARIO: A nurse is treating a patient with anxiety disorder using medication. The text names specific medications for phobia treatment. Which of the following is CORRECTLY listed as a medication used for phobia management?",
     "options": [
-      "Echolalia â repeating others' words, listed as a symptom of catatonic schizophrenia alongside mutism, echopraxia, and waxy flexibility",
-      "Echopraxia â imitating others' movements automatically in catatonic schizophrenia",
-      "Verbigeration â monotonous repetition of one's own phrases, a stream of talk disturbance"
+      "Anxiolytics/minor tranquilizers such as diazepam to reduce anxiety; antidepressants such as amitriptyline and clomipramine",
+      "Typical antipsychotics such as chlorpromazine and haloperidol as first-line pharmacological treatment for phobia",
+      "Mood stabilizers such as lithium carbonate and carbamazepine to prevent recurrent phobic episodes"
     ],
     "answer": "A"
   },
   {
     "id": 67,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A PTSD patient tells the nurse he cannot go near the market where his accident occurred, avoids watching road traffic shows, and changes the subject whenever anyone talks about cars. Which PTSD symptom cluster is MOST dominant in his presentation?",
+    "stem": "CASE SCENARIO: A nurse is educating a patient with Hypochondriasis about managing her anxiety. The nurse correctly explains that patient education in Hypochondriasis involves:",
     "options": [
-      "Avoidance symptoms â the patient actively avoids places, people, activities, or situations that remind him of the traumatic event and tries to avoid discussing or thinking about it",
-      "Re-experiencing symptoms â the patient has intrusive memories, flashbacks, and nightmares related to the traumatic event",
-      "Hyperarousal symptoms â the patient is constantly on edge, has an exaggerated startle response, difficulty concentrating, irritability, and sleep disturbances"
+      "Educating the patient about the nature of hypochondriasis, explaining how anxiety can manifest as physical symptoms; teaching the patient how to differentiate between common body sensations and signs of illness",
+      "Educating the patient to seek immediate medical attention whenever new physical symptoms arise to rule out serious pathology",
+      "Educating the patient to avoid reading medical journals and websites entirely to prevent triggering health anxiety episodes"
     ],
     "answer": "A"
   },
   {
     "id": 68,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A patient recently diagnosed with schizophrenia has the following profile: male, 18 years old, insidious onset, single, family history of schizophrenia in his father, and his presentation is predominantly negative symptoms. Which prognostic classification is MOST accurate?",
+    "stem": "CASE SCENARIO: A patient with OCD has intrusive thoughts about harming others but does not act on them. He has no visible compulsions but performs excessive mental reassurance rituals internally. Which type of OCD does this represent?",
     "options": [
-      "Poor prognosis â early/insidious onset, male sex, single marital status, family history of schizophrenia (especially simple and undifferentiated subtype), and predominance of negative symptoms are all poor prognostic factors",
-      "Good prognosis â young age at onset means longer time for treatment to work; single status allows full focus on recovery without domestic responsibilities",
-      "Intermediate prognosis â the young age and early treatment initiation offset the negative prognostic indicators of male sex and predominance of negative symptoms"
+      "Purely Obsessional OCD (Pure-O) — describes OCD without obvious or visible compulsions; individuals experience distressing intrusive thoughts or mental images but may not engage in outwardly visible rituals; they have internal mental rituals such as excessive analysing or seeking reassurance",
+      "Intrusive Thoughts OCD — intrusive thoughts are distressing, unwanted, and repetitive thoughts involving themes of harm, violence, or taboo subjects; the thoughts cause significant distress and lead individuals to engage in mental or behavioural rituals",
+      "Obsessional Thought/Rumination — a chain of thoughts which repetitively intrude into consciousness interfering with the normal train of thought; a continuous thought of abstract ideas"
     ],
     "answer": "A"
   },
   {
     "id": 69,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A newly admitted schizophrenia patient refuses to shower, has matted hair, and smells of urine. The family reports he has been like this for months. Which nursing management action is MOST directly indicated?",
+    "stem": "CASE SCENARIO: A nurse on a neurasthenia ward teaches a patient a relaxation method during a session. According to the text, which relaxation techniques are specifically named for Neurasthenia management?",
     "options": [
-      "Physical care â ensure maintenance of personal hygiene as part of the nursing management of schizophrenia",
-      "Psychological care â reassure the patient and his relative and involve them in his care to address the behavioural deterioration",
-      "Social Skills Training â help to address the patient's lack of spontaneity and poor self-care through role play and homework assignments"
+      "Deep breathing exercises, progressive muscle relaxation, or meditation to reduce stress and anxiety; encourage hobbies or activities that reduce tension",
+      "Eye Movement Desensitization and Reprocessing (EMDR) and Prolonged Exposure Therapy (PE) to process traumatic memories contributing to fatigue",
+      "Systematic desensitization and flooding to expose the patient to feared situations until the fatigue response is extinguished"
     ],
     "answer": "A"
   },
   {
     "id": 70,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A 72-year-old woman with a 3-year history of progressive memory loss is found to have beta-amyloid plaques and tau tangles on brain imaging. Her family notes she initially forgot recent events, then names, and now cannot recognise them. Which dementia type is MOST consistent?",
+    "stem": "CASE SCENARIO: A nurse is reviewing a postpartum woman who had Puerperal Psychosis and is now in recovery. She is being prepared for discharge. The nurse advises her to watch out for side effects of drugs, exercise regularly, avoid psychoactive substances, and encourage social support. These discharge instructions are MOST consistent with which condition's management plan in the text?",
     "options": [
-      "Alzheimer's disease â the most common form of dementia, characterized by accumulation of abnormal protein plaques (beta-amyloid) and tangles (tau) in the brain, leading to progressive loss of brain cells and cognitive decline",
-      "Vascular Dementia â occurring when there is damage to the blood vessels leading to reduced blood flow and oxygen supply from stroke, small vessel disease, or other vascular disorders",
-      "Lewy Body Dementia â characterized by Lewy bodies in the brain with cognitive fluctuations, visual hallucinations, and Parkinson's-like symptoms"
+      "These discharge instructions mirror those given for psychiatric patients generally in the text — watch for side effects, exercise regularly as it helps release brain chemicals that reduce stress and improve mood, avoid psychoactive substances, and encourage social support system",
+      "These discharge instructions are unique to Puerperal Psychosis only; they differ significantly from the discharge plan used for anxiety, OCD, or phobia patients",
+      "These discharge instructions are primarily applicable to patients with Neurasthenia since the emphasis on exercise, social support, and avoiding substances aligns specifically with Neurasthenia management"
     ],
     "answer": "A"
   }
