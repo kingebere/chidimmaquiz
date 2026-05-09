@@ -1437,7 +1437,11 @@
     </div>
 
     <script>
-        const TIMER_MINUTES = 50;
+// AFTER
+// ─── EASY CONFIG — edit these two lines whenever you need to switch ───
+const MAX_QUESTIONS = 100;   // number of questions to pull from questions.json
+const TIMER_MINUTES = 71;    // minutes for the quiz  (e.g. 71 for 100 questions)
+// ─────────────────────────────────────────────────────────────────────
         const QUIZ_ARCHIVES_KEY = 'quiz_archives_v1';
         const QUIZ_ATTEMPTS_KEY = 'quiz_attempts_v1';
 
@@ -1538,7 +1542,7 @@ async function loadQuestions() {
             throw new Error('questions.json must contain an array');
         }
 
-        LIVE_QUESTIONS = deepClone(data);
+        LIVE_QUESTIONS = deepClone(data.slice(0, MAX_QUESTIONS));
         LIVE_QUIZ_META = ensureQuizArchived(LIVE_QUESTIONS, getQuizTitle(LIVE_QUESTIONS));
         QUESTIONS = deepClone(LIVE_QUESTIONS);
         ACTIVE_QUIZ_META = { ...LIVE_QUIZ_META };
