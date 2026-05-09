@@ -1,684 +1,1157 @@
-[
-  {
+
+  [{
     "id": 1,
     "type": "mcq",
-    "stem": "Anxiety disorder was recognized as a separate entity by psychiatrists and psychologists until the 19th and 20th centuries. Who FIRST described Anxiety Syndrome in a soldier during the civil war, and what was the condition referred to as?",
+    "stem": "Which statement MOST accurately describes the primary aim of Dialectical Behaviour Therapy (DBT)?",
     "options": [
-      "Da Costa first described Anxiety Syndrome in a soldier during the civil war; shortly thereafter the condition was referred to as cardiac neurosis, irritable heart, or neurocirculatory asthenia — Da Costa's syndrome",
-      "Freud first described Anxiety Syndrome in a soldier during the civil war; shortly thereafter the condition was referred to as anxiety neurosis in 1895",
-      "Da Costa first introduced the term anxiety neurosis in 1895; shortly thereafter Freud renamed it cardiac neurosis and neurocirculatory asthenia"
+      "To reconstruct unconscious conflicts by exploring early childhood trauma through free association and dream interpretation",
+      "To provide skills for emotion regulation, improve relationships, and reduce self-destructive behaviour in people with borderline personality disorder",
+      "To strengthen intrinsic motivation and resolve ambivalence toward behaviour change using reflective listening and open-ended questioning",
+      "To modify dysfunctional thought patterns by gradually exposing the client to anxiety-provoking stimuli until habituation occurs"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 2,
     "type": "mcq",
-    "stem": "Normal anxiety is described in the text as an adaptive response. Which statement MOST accurately contrasts Normal anxiety from Morbid anxiety?",
+    "stem": "Motivational Interviewing was co-developed by William R. Miller and which other individual?",
     "options": [
-      "Normal anxiety involves normal alertness and protection arising from a threat; it serves a useful purpose, resolves without treatment, and is experienced by everyone; Morbid anxiety is a maladaptive and abnormal response, not experienced by everyone, serves no purpose, and does not resolve without treatment",
-      "Normal anxiety is a maladaptive response arising from unconscious conflicts; it is pathological and the commonest symptom of mental illness; Morbid anxiety is an adaptive response that resolves without treatment",
-      "Normal anxiety arises from internal unacceptable desires or thought; it is pathological and requires treatment; Morbid anxiety is an adaptive motivational force that resolves without treatment"
+      "Carl Rogers",
+      "Aaron T. Beck",
+      "Stephen Rollnick",
+      "Albert Ellis"
     ],
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 3,
     "type": "mcq",
-    "stem": "Mild Anxiety State is described in the text. Which statement MOST accurately characterises Mild Anxiety?",
+    "stem": "The Gottman Method of couples therapy is described in this handbook as an evidence-based form of couples therapy developed in which decade?",
     "options": [
-      "Associated with tension in day-to-day living; sharpens the senses; increases motivation for productivity; increases the perceptual field; results in heightened awareness of the environment; learning is enhanced and the individual functions at his/her optimal level",
-      "As the level of anxiety increases, the extent of the perceptual field diminishes; the moderately anxious individual is less alert to events occurring in the environment",
-      "The perceptual field is so greatly diminished that the individual concentrates on one particular detail only; attention span is highly diminished; difficulty completing even simple tasks; physical symptoms include headache, palpitation, and insomnia"
+      "1970s",
+      "1980s",
+      "1990s",
+      "2000s"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 4,
     "type": "mcq",
-    "stem": "Panic State is described in the text as the most intense state of anxiety. Which statement MOST accurately describes the Panic State?",
+    "stem": "Milieu is a French word that literally translates to which of the following?",
     "options": [
-      "The individual is unable to focus on even one detail in the environment; misperceptions are common; loss of contact with reality may occur; the individual may experience hallucination and delusion; behaviour may be characterized by wild and desperate actions or extreme withdrawal; panic disorder is associated with terror and the individual may be convinced they have a life-threatening illness or are going crazy",
-      "The perceptual field is so greatly diminished that the individual concentrates on one detail only; attention span is highly diminished; difficulty completing even simple tasks; physical symptoms include headache, palpitation, and insomnia",
-      "The level of anxiety increases and the extent of perceptual field diminishes; the individual is less alert to events occurring in the environment; this level impairs daily functioning"
+      "Environment",
+      "Healing",
+      "Middle",
+      "Community"
     ],
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 5,
     "type": "mcq",
-    "stem": "Generalised Anxiety Disorder (GAD) patients worry excessively about life circumstances. Which specific domains of worry are named in the text?",
+    "stem": "Cognitive Behavioural Therapy (CBT) is BEST characterised as a therapy that is:",
     "options": [
-      "Health, finances, social acceptance, job performance, and marital adjustment — this worry is central to GAD",
-      "Past traumatic events, future catastrophes, and current interpersonal conflicts — these ruminations are central to GAD",
-      "Physical symptoms such as palpitations, tremulousness, and tachycardia — these somatic concerns are central to GAD"
+      "Long-term, insight-oriented, focusing on unconscious processes, past experiences, and resolving repressed emotions through catharsis",
+      "Short-term, goal-oriented, focusing on the link between cognition and behaviour by gradually changing the way a person thinks",
+      "Non-directive, client-centred, emphasising self-actualisation, personal growth, and encouraging individuals to explore their feelings",
+      "Directive and emotion-focused, targeting the resolution of ambivalence toward a specific goal by eliciting and exploring personal motivation"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 6,
     "type": "mcq",
-    "stem": "The Neurophysiological Theory of anxiety disorder states that anxiety occurs due to which mechanism?",
+    "stem": "According to this handbook, Psychodynamic Psychotherapy often takes how long to obtain enduring benefits?",
     "options": [
-      "Excessively responsive autonomic nervous system and destruction of neurotransmitters such as GABA and non-epinephrine",
-      "Unconscious conflicts repressed or impulses threatening the conscious mind",
-      "Transfer of genes from parents to offspring involving neurochemical abnormalities in norepinephrine"
+      "Six months or longer",
+      "Three to six months",
+      "A year or longer",
+      "Two years minimum"
     ],
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 7,
     "type": "mcq",
-    "stem": "The Psychoanalytic Theory of anxiety disorder states that anxiety occurs as which mechanism?",
+    "stem": "Individual psychotherapy sessions typically last for which duration?",
     "options": [
-      "A result of unconscious conflicts repressed or impulses threatening the conscious mind",
-      "Due to excessively responsive autonomic nervous system and destruction of neurotransmitters such as GABA",
-      "In response to certain internal or external stimuli or learned behaviour"
+      "30 to 45 minutes",
+      "45 to 60 minutes",
+      "60 to 90 minutes",
+      "20 to 45 minutes"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 8,
     "type": "mcq",
-    "stem": "The Behavioural Theory of anxiety disorder differs from the Psychoanalytic Theory. Which statement MOST accurately describes the Behavioural Theory?",
+    "stem": "Which of the following is NOT listed as a goal of Group Therapy in this handbook?",
     "options": [
-      "Anxiety occurs in response to certain internal or external stimuli or learned behaviour",
-      "Anxiety occurs as a result of unconscious conflicts repressed or impulses threatening the conscious mind",
-      "Anxiety occurs as a result of certain environmental stress like rape or disasters"
+      "Help individuals identify maladaptive behaviour",
+      "Offer a supportive environment",
+      "Help with emotional difficulties through feedback",
+      "Resolve unconscious conflicts through psychoanalytic free association"
     ],
-    "answer": "A"
+    "answer": "D"
   },
   {
     "id": 9,
     "type": "mcq",
-    "stem": "Management of Anxiety Disorder includes Admission. What specific characteristic of the admission environment is stated in the text?",
+    "stem": "Family therapy approaches to counselling primarily stem from which theoretical framework?",
     "options": [
-      "Admit in a less stimulating therapeutic environment",
-      "Admit in a structured ward environment with multiple group activities to distract from anxiety",
-      "Admit in a brightly lit environment with regular supervision and monitoring of vital signs"
+      "Psychoanalytic theory",
+      "Cognitive behavioural theory",
+      "Family system theory",
+      "Interpersonal theory"
     ],
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 10,
     "type": "mcq",
-    "stem": "OCD is defined in the text as a mental disorder. Which definition MOST completely and accurately describes OCD?",
+    "stem": "Recreational therapy can take place in all of the following settings EXCEPT:",
     "options": [
-      "A mental disorder in which a person has certain thought repeatedly (called obsession) or feels the need to perform certain routines repeatedly (called compulsions) to an extent which generates distress or impairs general functioning; the person is unable to control thoughts or actions for more than a short period; common compulsions include hand washing, counting, checking; these activities take more than an hour a day; most adults realize the behaviours do not make sense",
-      "A personality disorder characterized by a preoccupation with orderliness, perfectionism, and control; characterized by rigidity, inflexibility, perfectionism, control seeking, and difficulty delegating; caused by personality traits and early life experiences",
-      "A mental health condition characterized by intrusive thoughts, compulsions, anxiety, distress, and avoidance; caused by neurobiological factors, genetics, and environmental influences; treated with CBT and SSRIs"
+      "Correctional facilities",
+      "Inpatient mental health facilities",
+      "Skilled nursing facilities",
+      "Private solo psychotherapy practices"
     ],
-    "answer": "A"
+    "answer": "D"
   },
   {
     "id": 11,
     "type": "mcq",
-    "stem": "Obsession Doubts is listed as a type of OCD. Which description MOST accurately defines it?",
+    "stem": "During a Mental Status Examination, the nurse assesses thought possession. According to this handbook, thought possession has to do with thought insertion, withdrawal, and:",
     "options": [
-      "The individual is not convinced that certain acts had been carried out — e.g. continuous checking of a door which is locked already; a situation where an individual fails to ascertain a completed task — e.g. did I unplug the cooker, did I lock the door; the patient continues checking and rechecking despite having done so",
-      "This refers to a chain of thoughts which repetitively intrude into consciousness interfering with the normal train of thought; a continuous thought of abstract ideas like region philosophy or the world coming to an end",
-      "This refers to compulsive repetitive stereotyped acts of doing things like washing, dressing, arranging objects"
+      "Thought blocking",
+      "Thought broadcast",
+      "Thought content",
+      "Thought stream"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 12,
     "type": "mcq",
-    "stem": "Obsessional Thought/Rumination is listed as a type of OCD. Which description MOST accurately defines it?",
+    "stem": "For a diagnosis of Personality Disorder to be established, the disorder must affect at least how many areas of functioning?",
     "options": [
-      "A chain of thoughts which repetitively intrude into consciousness interfering with the normal train of thought; a continuous thought of abstract ideas like region philosophy or the world coming to an end; the thought appears to be endless",
-      "The individual is not convinced that certain acts had been carried out — continues checking and rechecking in spite of making sure of having done so",
-      "A compulsive repetitive stereotyped act of doing things like washing, dressing, and arranging objects"
+      "One area",
+      "Two areas",
+      "Three areas",
+      "Four areas"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 13,
     "type": "mcq",
-    "stem": "Checking OCD is described in the text. Which statement MOST accurately characterises it?",
+    "stem": "According to this handbook, OCD affects approximately what percentage of people at some point in their lives, while rates during any given year are about 1â2%?",
     "options": [
-      "People with Checking OCD avoid certain objects or places or repetitive cleaning rituals; they have persistent doubts and fears about potential harm or danger; they may repeatedly check locks, appliances, or other items to ensure they are secure, often to an excessive and time-consuming extent",
-      "Characterized by a need for things to be in perfect order or balanced; individuals spend significant time arranging objects, aligning items, or performing repetitive rituals to achieve a sense of symmetry and orderliness",
-      "Involves extreme difficulty in discarding or parting with possessions, leading to clutter and significant distress; the accumulation of items significantly impacts living spaces and interferes with daily functioning"
+      "1â2%",
+      "3â5%",
+      "2â3%",
+      "5â7%"
     ],
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 14,
     "type": "mcq",
-    "stem": "Purely Obsessional OCD (Pure-O) is described in the text. Which statement MOST accurately characterises Pure-O?",
+    "stem": "The first electrical induction of seizure for psychiatric treatment was performed by Italian psychiatrist Lucio Bini and which neurologist?",
     "options": [
-      "A term used to describe OCD without obvious or visible compulsions; individuals experience distressing intrusive thoughts or mental images but may not engage in outwardly visible rituals; they often have internal mental rituals such as excessive analysing or seeking reassurance",
-      "Intrusive thoughts are distressing, unwanted, and repetitive thoughts or mental images that often involve themes of harm, violence, or taboo subjects; these thoughts typically cause significant distress and lead individuals to engage in mental or behavioural rituals to neutralise the anxiety",
-      "A type of OCD where the person is obsessed with a feared object such as claustrophobia or fear of an enclosed place; they may engage in compulsive behaviours such as excessive handwashing to avoid contamination"
+      "Manfred Joshua Sakel",
+      "Ladislas von Meduna",
+      "Egas Moniz",
+      "Ugo Cerletti"
     ],
-    "answer": "A"
+    "answer": "D"
   },
   {
     "id": 15,
     "type": "mcq",
-    "stem": "The key difference between OCD and OCPD as stated in the text is:",
+    "stem": "Insulin Shock Therapy was introduced by Manfred Joshua Sakel in which year?",
     "options": [
-      "OCD involves intrusive thoughts and compulsions while OCPD is characterized by rigid personality traits",
-      "OCD is caused by personality traits and early life experiences while OCPD is caused by neurobiological factors and genetics",
-      "OCD is treated with psychotherapy and antidepressants while OCPD is treated with CBT and SSRIs"
+      "1929",
+      "1933",
+      "1936",
+      "1938"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 16,
     "type": "mcq",
-    "stem": "Medication for OCD includes antidepressants. Which specific medications are named in the text as working common ones?",
+    "stem": "In collaboration with almeida Lina, Egas Moniz performed the first series of how many psychosurgery operations in 1936?",
     "options": [
-      "Citapram (celexa), escitalopram (lexapro), fluoxetine (prozac), fluroxa mine, paroxetine (paxil), and sertraline (zoloft)",
-      "Haloperidol, chlorpromazine, risperidone, and clozapine used as antipsychotics for OCD",
-      "Diazepam, nitrazepam, amitriptyline, and clomipramine used as first-line medication for OCD"
+      "10",
+      "15",
+      "20",
+      "25"
     ],
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 17,
     "type": "mcq",
-    "stem": "Flooding (Implosive Therapy) for phobia management is described in the text. Which definition MOST accurately describes it?",
+    "stem": "According to Freud's psychosexual stages, during which stage do children become aware of their genitals, and Freud identified the Oedipus complex in boys and unconscious desires for the same-sex parent in girls?",
     "options": [
-      "Immediate confrontation with the phobic object until the patient is used to it; sudden exposure of the patient to the phobic situation until he or she is no more fearful",
-      "Gradually introducing the patient to the phobic object; it helps decrease or eliminates behaviour by introducing a more adaptive behaviour that is incompatible with the unacceptable behaviour such as engaging in relaxation exercise to manage anxiety",
-      "A technique for assisting the patient to overcome their fear of a phobic stimulus; the patient is exposed gradually to the situation or feared object; it is systematic with a hierarchy of anxiety-producing events through which the individual progresses during therapy"
+      "Oral stage",
+      "Anal stage",
+      "Phallic stage",
+      "Latency stage"
     ],
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 18,
     "type": "mcq",
-    "stem": "Systematic Desensitization is described as a behavioural therapy technique for phobia. Which statement MOST accurately defines it?",
+    "stem": "In Erikson's Psychosocial Theory, the virtue associated with the 'Trust vs. Mistrust' stage (0â1 year) is:",
     "options": [
-      "A technique for assisting the patient to overcome their fear of a phobic stimulus; the patient is exposed gradually to the situation or feared object; it is systematic in that there is a hierarchy of anxiety-producing events through which the individual progresses during therapy",
-      "Immediate confrontation with the phobic object until the patient is used to it; sudden exposure of the patient to the phobic situation until he or she is no more fearful",
-      "Gradually introducing the patient to the phobic object by introducing a more adaptive behaviour incompatible with the unacceptable behaviour through relaxation exercise"
+      "Will",
+      "Purpose",
+      "Hope",
+      "Fidelity"
     ],
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 19,
     "type": "mcq",
-    "stem": "Reciprocal Inhibition is described as a behavioural therapy for phobia. Which definition MOST accurately describes it?",
+    "stem": "Town Parole in psychiatry is usually granted for which specific purpose?",
     "options": [
-      "Gradually introduces patient to the phobic object; helps decrease or eliminate behaviour by introducing a more adaptive behaviour that is incompatible with the unacceptable behaviour — such as engaging in relaxation exercise to manage anxiety in the presence of the phobic stimulus; relaxation and anxiety are incompatible",
-      "Immediate confrontation with the phobic object until he is used to it; sudden exposure of the patient to the phobic situation until he or she is no more fearful",
-      "The patient is exposed gradually to the situation or feared object; it is systematic with a hierarchy of anxiety-producing events through which the individual progresses"
+      "To allow the patient to reintegrate into the broader community permanently without facility oversight",
+      "For therapeutic purposes, enabling patients to gradually reintegrate into community life while remaining close to the facility",
+      "To allow extended travel outside the immediate town or city to interact with more challenging environments",
+      "To provide patients with weekend passes to spend time with family from Friday to Monday"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 20,
     "type": "mcq",
-    "stem": "A phobia is defined in the text. Which definition MOST precisely defines a phobia?",
+    "stem": "MHPSS is an acronym that stands for:",
     "options": [
-      "A persistent, irrational fear attached to an object or situation that objectively does not pose a significant danger; fear caused by the presence or anticipation of a specific object or situation exposed to which almost invariably provokes an immediately anxiety response or panic attack even though the subject recognized that the fear is excessive or unreasonable",
-      "A mental disorder in which a person has certain thoughts repeatedly or feels the need to perform certain routines repeatedly to an extent which generates distress or impairs general functioning",
-      "A condition where an individual has an excessive preoccupation with having a serious illness despite little or no physical symptoms; they often misinterpret normal body sensations as indicators of severe illness"
+      "Mental Health and Psychosocial Support",
+      "Mental Health and Psychological Social Services",
+      "Mental Healthcare and Psychosocial Stabilisation System",
+      "Mental Health Psychosocial and Social Support"
     ],
     "answer": "A"
   },
   {
     "id": 21,
     "type": "mcq",
-    "stem": "DSM-5-TR identifies five types of specific phobias. Which option CORRECTLY lists all five types?",
+    "stem": "Cluster A personality disorders are BEST characterised by which of the following features?",
     "options": [
-      "Animal Phobias, Natural Environment Phobias, Blood/Injection/Injury Phobias, Situational Phobias, and Other Phobias",
-      "Animal Phobias, Social Phobias, Contamination Phobias, Situational Phobias, and Separation Phobias",
-      "Animal Phobias, Natural Environment Phobias, Checking Phobias, Symmetry Phobias, and Intrusive Thought Phobias"
+      "Dramatic, overly emotional, or unpredictable thinking or behaviour",
+      "Anxious, fearful thinking or behaviour that is pervasive and ego-dystonic",
+      "Odd, eccentric thinking or behaviour",
+      "Impulsive, self-destructive thinking with unstable interpersonal relationships"
     ],
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 22,
     "type": "mcq",
-    "stem": "A specific phobia requires the feared object to be avoided for at least how long, among other criteria?",
+    "stem": "A person with Schizoid Personality Disorder MOST typically exhibits which pattern of behaviour?",
     "options": [
-      "The object or condition that the person is fearful of is avoided for at least six months",
-      "The object or condition that the person is fearful of is avoided for at least three months",
-      "The object or condition that the person is fearful of is avoided for at least twelve months"
+      "Pervasive distrust and suspicion, believing others intend to harm or deceive them",
+      "Distorted thinking, eccentric speech, magical ideation, and excessive social anxiety in close relationships",
+      "Detachment from social relationships, little emotional expression, preference to be alone, and indifference to praise or criticism",
+      "Intense fear of abandonment, unstable and intense interpersonal relationships, and identity disturbance"
     ],
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 23,
     "type": "mcq",
-    "stem": "Which of the following correctly matches a phobia name with its corresponding fear from the text's table?",
+    "stem": "Which of the following personality disorders is classified under Cluster B in the DSM classification?",
     "options": [
-      "Gamophobia: Fear of Marriage; Necrophobia: Fear of Dead Body; Pyrophobia: Fear of Fire; Thanatophobia: Fear of Death",
-      "Gamophobia: Fear of Marriage; Necrophobia: Fear of Hospitals; Pyrophobia: Fear of Dead Body; Thanatophobia: Fear of Fire",
-      "Gamophobia: Fear of Death; Necrophobia: Fear of Marriage; Pyrophobia: Fear of Fire; Thanatophobia: Fear of Dead Body"
+      "Paranoid personality disorder",
+      "Avoidant personality disorder",
+      "Dependent personality disorder",
+      "Histrionic personality disorder"
     ],
-    "answer": "A"
+    "answer": "D"
   },
   {
     "id": 24,
     "type": "mcq",
-    "stem": "Which of the following correctly matches Tocophobia with its alternative names and its fear?",
+    "stem": "Borderline Personality Disorder is BEST characterised by which of the following patterns?",
     "options": [
-      "Tocophobia is called Lockiophobia, Maieusiophobia, or Parturiphobia — it is the fear of Child Birth",
-      "Tocophobia is called Iatriphobia or Nosocomephobia — it is the fear of Hospitals or Doctors",
-      "Tocophobia is called Taphophobia or Triskaidekaphobia — it is the fear of Being Buried Alive or The Number 13"
+      "Pervasive pattern of excessive orderliness, perfectionism, and need for control that is ego-syntonic",
+      "Pattern of instability in personal relationships, intense emotions, poor self-image, and impulsivity with repeated suicide attempts",
+      "Pervasive disregard for and violation of the rights of others with persistent lying and lack of remorse",
+      "Pattern of excessive emotional response and constant attention-seeking behaviour with rapidly shifting shallow emotions"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 25,
     "type": "mcq",
-    "stem": "Thought Stoppage and Relaxational Exercise is listed as a specific management of phobia. Which description MOST accurately defines it?",
+    "stem": "Which clinical feature is characteristic of Obsessive-Compulsive Personality Disorder (OCPD) but is NOT characteristic of Obsessive-Compulsive Disorder (OCD)?",
     "options": [
-      "Practiced when the patient is experiencing the thought; the patient commands within himself by saying STOP, followed by relaxation exercise to calm him/her",
-      "The therapist gradually exposes the patient to the feared stimulus through a hierarchy of anxiety-producing events, using relaxation at each step before progressing",
-      "The patient is immediately confronted with the phobic object until he/she is used to it; sudden exposure to the phobic situation until no longer fearful"
+      "Recurrent intrusive thoughts that are ego-dystonic and generate significant anxiety",
+      "Repetitive behaviours performed as rituals to neutralise obsessional anxiety",
+      "Pervasive preoccupation with orderliness, perfectionism, and control as an ego-syntonic trait consistent with the person's sense of self",
+      "Persistent doubts leading to repeated checking of locks, appliances, and other items to ensure safety"
     ],
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 26,
     "type": "mcq",
-    "stem": "Hypochondriasis, also known as Illness Anxiety Disorder (IAD), is defined in the text. Which definition MOST accurately describes it?",
+    "stem": "According to this handbook, OCD usually starts before which age?",
     "options": [
-      "A condition where an individual has an excessive preoccupation with having a serious illness despite little or no physical symptoms; they often misinterpret normal body sensations as indicators of severe illness",
-      "A mental health condition characterised by intrusive thoughts, compulsions, anxiety, distress, and avoidance",
-      "A syndrome characterized by persistent physical and mental fatigue, often accompanied by headaches, irritability, and a general sense of exhaustion"
+      "25 years",
+      "30 years",
+      "35 years",
+      "40 years"
     ],
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 27,
     "type": "mcq",
-    "stem": "Therapeutic Communication in the management of Hypochondriasis requires the nurse to do which of the following?",
+    "stem": "In the treatment of OCD, which specific form of CBT involves deliberately placing the individual in an anxiety-provoking situation while actively preventing the compulsive response?",
     "options": [
-      "Establish a trusting nurse-patient relationship by listening empathetically to the patient's health concerns without reinforcing their fears; avoid dismissing symptoms but provide reassurance based on factual medical evidence",
-      "Confront the patient directly about the irrational nature of their health concerns to help them develop insight into their hypochondriacal thinking pattern",
-      "Encourage the patient to seek multiple specialist opinions to rule out every physical cause before attributing their symptoms to anxiety"
+      "Systematic desensitisation",
+      "Exposure and response prevention",
+      "Cognitive restructuring",
+      "Metacognitive therapy"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 28,
     "type": "mcq",
-    "stem": "Encourage Normal Functioning is listed as a management strategy for Hypochondriasis. Which statement from the text MOST accurately describes this strategy?",
+    "stem": "Which of the following antipsychotic medications is specifically listed in this handbook as used for OCD treatment to alter the relationship between obsessive thoughts and compulsive behaviours?",
     "options": [
-      "Promote the patient's participation in daily activities even when they report feeling unwell; avoid excessive medical testing or reinforcement of their illness concerns; focus on wellness rather than disease",
-      "Encourage the patient to keep a symptom diary and report any new physical sensations immediately for prompt medical evaluation",
-      "Promote the patient's regular attendance at medical appointments to reassure them that their symptoms are being taken seriously by healthcare professionals"
+      "Risperidone (Risperdal)",
+      "Aripiprazole (Abilify)",
+      "Olanzapine (Zyprexa)",
+      "Haloperidol (Haldol)"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 29,
     "type": "mcq",
-    "stem": "Neurasthenia is described in the text. Which definition MOST accurately describes Neurasthenia?",
+    "stem": "Which of the following is NOT listed as a contraindication for Electroconvulsive Therapy (ECT) in this handbook?",
     "options": [
-      "A condition characterized by persistent physical and mental fatigue, often accompanied by headaches, irritability, and a general sense of exhaustion; it is not commonly diagnosed in modern medicine but is considered a somatic symptom disorder in some regions",
-      "A condition where an individual has an excessive preoccupation with having a serious illness despite little or no physical symptoms; they often misinterpret normal body sensations as indicators of severe illness",
-      "A mental disorder characterized by persistent irrational fear attached to an object or situation that does not pose a significant danger, provoking an immediate anxiety response"
+      "All respiratory diseases such as Asthma and COPD",
+      "Fracture",
+      "High risk pregnancy or eclampsia",
+      "Active peptic ulcer disease"
     ],
-    "answer": "A"
+    "answer": "D"
   },
   {
     "id": 30,
     "type": "mcq",
-    "stem": "Energy Conservation is listed as a nursing management strategy for Neurasthenia. Which of the following CORRECTLY describes this strategy?",
+    "stem": "Prefrontal Leucotomy is a psychosurgical procedure also known by which alternative name?",
     "options": [
-      "Help the patient organize daily activities to conserve energy; rest and lifestyle modification — encouraging rest, relaxation, and balancing work and leisure; educate on the importance of rest periods and the balance between activity and rest",
-      "Help the patient maintain a regular schedule of physical exercise to build stamina and overcome fatigue through progressive conditioning",
-      "Help the patient identify triggers of fatigue and avoid all physical activity until symptoms fully resolve"
+      "Transorbital lobotomy",
+      "Prefrontal lobotomy or lobotomy",
+      "Thalamotomy",
+      "Subcaudate tractotomy"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 31,
     "type": "mcq",
-    "stem": "Puerperal Psychosis, also known as postnatal or postpartum psychosis, is described as requiring immediate medical attention. Which statement MOST accurately characterizes it?",
+    "stem": "A nurse is preparing a patient for ECT. The prescribed premedication of atropine must be administered how many minutes before the procedure?",
     "options": [
-      "A severe psychiatric disorder occurring in some women shortly after giving birth; characterized by a rapid onset of symptoms such as hallucinations, delusions, confusion, mood swings, and disorganized behaviour; considered a psychiatric emergency",
-      "A common and relatively mild condition experienced by many women in the days and weeks following childbirth; characterized by a temporary period of mood swings, emotional sensitivity, and mild depressive symptoms that typically resolve on their own without treatment",
-      "A mood disorder characterized by persistent feelings of sadness, anxiety, and despair that occur within the first year after childbirth, distinct from baby blues by its intensity and duration"
+      "10â15 minutes before the procedure",
+      "30â45 minutes before the procedure",
+      "20â30 minutes before the procedure",
+      "45â60 minutes before the procedure"
     ],
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 32,
     "type": "mcq",
-    "stem": "Baby Blues are described in the text and distinguished from Postpartum Depression. Which statement MOST accurately contrasts Baby Blues from Postpartum Depression?",
+    "stem": "During Modified ECT, the anaesthetist administers a short-acting muscle relaxant. Which agent is listed in this handbook for this purpose?",
     "options": [
-      "Baby blues are a mild and self-limiting condition considered a normal experience following childbirth; they are distinct from postpartum depression which involves more intense and persistent symptoms that significantly impact a woman's daily functioning and require medical intervention",
-      "Baby blues are a severe psychiatric emergency requiring immediate medical attention; postpartum depression is a mild, self-limiting condition that resolves without treatment within days of delivery",
-      "Baby blues are identical to postpartum depression but occur only in the first 48 hours after delivery; postpartum depression begins after the first week and lasts longer"
+      "Pancuronium (Pavulon)",
+      "Vecuronium (Norcuron)",
+      "Succinylcholine (secoline)",
+      "Rocuronium (Zemuron)"
     ],
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 33,
     "type": "mcq",
-    "stem": "The Bipolar Type of Puerperal Psychosis is characterized by which specific symptoms?",
+    "stem": "Immediately after ECT, the nurse should convey the patient to the recovery room and position them in which specific position?",
     "options": [
-      "Symptoms of mania including elevated mood, irritability, grandiosity, decreased need for sleep, rapid speech, and increased energy levels; women with this type may also experience depressive symptoms",
-      "Persistent feelings of sadness, anxiety, and despair occurring within the first year after childbirth; symptoms are similar to those of depression but specifically manifest during the postpartum period",
-      "Hallucinations, delusions, disorganized thinking, and behavioural disturbances similar to those of schizophrenia; women with this type may have a pre-existing vulnerability to schizophrenia"
+      "Supine with head elevated at 30 degrees to reduce intracranial pressure",
+      "Prone position to facilitate drainage of oral secretions",
+      "Left lateral position",
+      "High Fowler's position to optimise lung expansion"
     ],
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 34,
     "type": "mcq",
-    "stem": "The Schizophrenia Type of Puerperal Psychosis is described in the text. Which statement MOST accurately characterises it?",
+    "stem": "Which of the following is listed as a CONTRAINDICATION for Insulin Shock Therapy but does NOT appear among the listed contraindications for ECT in this handbook?",
     "options": [
-      "Characterized by symptoms similar to those of schizophrenia including hallucinations, delusions, disorganized thinking, and behavioural disturbances; women with this type may have a pre-existing vulnerability to schizophrenia or experience their first psychotic episode during the postpartum period",
-      "Characterized by symptoms of mania including elevated mood, irritability, grandiosity, decreased need for sleep, rapid speech, and increased energy levels",
-      "Characterized by persistent feelings of sadness, emptiness, or hopelessness; loss of interest or pleasure in activities; changes in appetite or weight occurring in the first year after childbirth"
+      "Epilepsy",
+      "Diabetic mellitus",
+      "Fracture",
+      "Cardiac disease"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 35,
     "type": "mcq",
-    "stem": "Baby Blues prevalence is stated in the text. What percentage of women experience some degree of mood disturbance after childbirth?",
+    "stem": "Thalamotomy is a psychosurgical procedure involving the insertion of an electric needle into which brain structure?",
     "options": [
-      "Up to 80% of women experience some degree of mood disturbance after childbirth",
-      "Up to 60% of women experience some degree of mood disturbance after childbirth",
-      "Up to 50% of women experience some degree of mood disturbance after childbirth"
+      "Hypothalamus",
+      "Hippocampus",
+      "Thalamus",
+      "Basal ganglia"
     ],
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 36,
     "type": "mcq",
-    "stem": "Treatment for Postpartum Depression involves which combination as stated in the text?",
+    "stem": "According to Freud, the Latency Stage is characterised by dormancy of sexual feelings. This stage begins at which age and extends to what point?",
     "options": [
-      "A combination of therapy, support, and in some cases medication; psychotherapy such as cognitive-behavioural therapy (CBT) or interpersonal therapy (IPT) can help individuals explore their emotions, challenge negative thought patterns, and develop coping strategies; in more severe cases antidepressant medication may be prescribed",
-      "Electroconvulsive therapy (ECT) as the first-line treatment; antipsychotic medications for psychotic features; lithium carbonate for mood stabilisation in bipolar-type presentations",
-      "Immediate separation from the newborn to reduce stress on the mother; inpatient admission for all cases; antidepressants are contraindicated during breastfeeding"
+      "3â6 years, continuing until puberty",
+      "6 years, continuing until puberty",
+      "1â3 years, continuing until puberty",
+      "3 years, continuing until 8 years of age"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 37,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A 32-year-old woman who delivered 5 days ago is tearful, confused, believing she can hear God telling her to harm her baby, and exhibiting disorganized behaviour. She has not slept in 3 days. Which condition is MOST consistent?",
+    "stem": "In Erikson's model, the 'Industry vs. Inferiority' stage occurs at which age range and is associated with which virtue?",
     "options": [
-      "Puerperal Psychosis — a severe psychiatric disorder with rapid onset of hallucinations, delusions, confusion, and disorganized behaviour; a psychiatric emergency requiring immediate medical attention",
-      "Baby Blues — a mild and self-limiting condition characterized by temporary mood swings, emotional sensitivity, and mild depressive symptoms that typically resolve without treatment",
-      "Postpartum Depression — a mood disorder characterized by persistent sadness, anxiety, and despair occurring within the first year after childbirth"
+      "3â6 years; Virtue: Purpose",
+      "6â12 years; Virtue: Competence",
+      "12â18 years; Virtue: Fidelity",
+      "6â12 years; Virtue: Will"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 38,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A woman 10 days post-delivery is tearful at random times, irritable, has mood swings, and feels sad but is bonding with her baby and functioning at home. Her symptoms began on day 2 after delivery. She is not psychotic and has no suicidal ideation. Which condition is MOST consistent?",
+    "stem": "According to this handbook, fixation in Freud's Oral Stage due to weaning too early or too late can lead to all of the following EXCEPT:",
     "options": [
-      "Baby Blues — a common and relatively mild condition characterized by temporary mood swings, emotional sensitivity, and mild depressive symptoms following childbirth; considered a normal experience rather than mental illness; symptoms are not severe and do not need treatment",
-      "Postpartum Depression — a mood disorder with persistent feelings of sadness, emptiness, or hopelessness; loss of interest in activities; changes in appetite and sleep that significantly impact daily functioning",
-      "Puerperal Psychosis — a severe psychiatric emergency characterized by rapid onset hallucinations, delusions, confusion, and disorganized behaviour requiring immediate medical attention"
+      "Dependency",
+      "Passivity",
+      "Excessive focus on oral activities like smoking or nail-biting",
+      "Orderliness, rigidity, and excessive need for control"
     ],
-    "answer": "A"
+    "answer": "D"
   },
   {
     "id": 39,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A 28-year-old man washes his hands over 40 times daily, spending more than 3 hours on this ritual. He knows this is irrational but cannot stop. He is distressed by his behaviour. Which type of OCD does this MOST represent?",
+    "stem": "The Intervention Pyramid for MHPSS identifies which level as the BASE of the pyramid, forming the foundation for all other mental health interventions?",
     "options": [
-      "Contamination OCD — involves excessive fear of contamination or germs; individuals may engage in compulsive behaviours such as excessive handwashing to avoid contamination",
-      "Checking OCD — people avoid certain objects or places and repeatedly check locks, appliances, or other items to ensure safety",
-      "Symmetry and Ordering OCD — characterized by a need for things to be in perfect order or balanced; individuals spend significant time arranging objects"
+      "Focused, non-specialised supports such as psychosocial support groups",
+      "Specialised services including psychiatrists and psychologists",
+      "Basic services and security including water, healthcare, and safety",
+      "Community and family support networks providing emotional support"
     ],
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 40,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A patient is being treated for phobia using a technique where she is immediately placed in a room full of spiders (her feared object) until her fear response extinguishes. Which therapy is being used?",
+    "stem": "The Village-Setting model of community mental health care was introduced by which renowned Nigerian psychiatrist?",
     "options": [
-      "Flooding (Implosive Therapy) — immediate confrontation with the phobic object until the patient is used to it; sudden exposure of the patient to the phobic situation until he or she is no more fearful",
-      "Systematic Desensitization — the patient is exposed gradually to the feared object through a hierarchy of anxiety-producing events",
-      "Reciprocal Inhibition — gradually introducing the patient to the phobic object by introducing a more adaptive behaviour incompatible with the anxiety response"
+      "Professor Thomas Adeoye Lambo",
+      "Professor Chukwuemeka Nwosu",
+      "Professor Okonkwo Adebayo",
+      "Professor Emeka Nweze"
     ],
     "answer": "A"
   },
   {
     "id": 41,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A 50-year-old man believes he has cancer despite multiple negative investigations. He constantly checks medical websites, visits his doctor weekly for reassurance, and avoids physical activity fearing it will worsen his supposed illness. Which diagnosis is MOST consistent?",
+    "stem": "Which of the following is listed as an INDICATION for Insulin Shock Therapy in this handbook?",
     "options": [
-      "Hypochondriasis (Illness Anxiety Disorder) — excessive preoccupation with having a serious illness despite little or no physical symptoms; misinterprets normal body sensations as indicators of severe illness; avoidance of situations for fear of worsening the supposed illness; constant checking of medical information",
-      "OCD — a mental disorder where the person has certain thoughts repeatedly and performs routines repeatedly; the checking behaviour and medical preoccupation represent obsessions and compulsions",
-      "Generalised Anxiety Disorder — the patient worries excessively about health, finances, social acceptance, and job performance; this chronic worry is central to GAD"
+      "Bipolar affective disorder",
+      "Bulimia nervosa",
+      "Acute confusional state",
+      "Major depressive episode with psychotic features"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 42,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A nurse is managing a patient with Neurasthenia. The patient complains of persistent fatigue that does not improve with rest. The nurse teaches sleep hygiene. According to the text, sleep hygiene for Neurasthenia involves which strategies?",
+    "stem": "In the Mental Status Examination, INSIGHT is MOST accurately defined as:",
     "options": [
-      "Assisting in developing a sleep routine by recommending strategies such as maintaining a regular sleep schedule, avoiding stimulants before bedtime, and creating a comfortable sleep environment",
-      "Prescribing antidepressants and anxiolytics for underlying mental health issues contributing to insomnia and fatigue in Neurasthenia",
-      "Encouraging daytime naps of up to 4 hours to compensate for disrupted night sleep and prevent further exhaustion"
+      "The patient's ability to understand the origin and nature of their problem and what can be done to overcome them",
+      "The patient's orientation to time, place, and person as assessed through direct questioning",
+      "The appropriateness of the patient's emotional response to the ideas being expressed and current life situation",
+      "The logical progression and coherence of the patient's thought processes during the interview"
     ],
     "answer": "A"
   },
   {
     "id": 43,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A 35-year-old woman with anxiety disorder is being managed. The nurse establishes a therapeutic relationship and is about to implement the psychological care component. Which action is MOST consistent with the text's management?",
+    "stem": "During a Mental Status Examination, JUDGEMENT is best assessed by presenting the patient with which type of question?",
     "options": [
-      "Reassure the patient to allay anxiety and give psychological support; establish a good channel of communication but avoid probing",
-      "Encourage the patient to confront the source of her anxiety directly to develop insight and overcome avoidance behaviour",
-      "Administer prescribed anxiolytics immediately to reduce acute distress before engaging in any psychotherapeutic intervention"
+      "What is today's date and who is the current head of state?",
+      "Can you count backwards from 100 by sevens?",
+      "What would you do if you smelled smoke in a crowded theatre?",
+      "Can you repeat the names of these three objects after five minutes?"
     ],
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 44,
-    "type": "fitb",
-    "stem": "Anxiety disorder was first described as a separate entity by psychiatrists and psychologists until the ____________ and ____________ centuries. Da Costa first described it as cardiac neurosis, irritable heart, or ____________ asthenia.",
-    "answer": "19th; 20th; neurocirculatory",
-    "acceptableAnswers": ["19th; 20th; neurocirculatory", "19; 20; neurocirculatory"]
+    "type": "mcq",
+    "stem": "According to this handbook, an IQ score below 70 is described as:",
+    "options": [
+      "Below average intelligence",
+      "Learning disability",
+      "Borderline intellectual functioning",
+      "Mild cognitive impairment"
+    ],
+    "answer": "B"
   },
   {
     "id": 45,
-    "type": "fitb",
-    "stem": "Normal anxiety is an ____________ response that serves a useful purpose, resolves ____________ treatment, and is experienced by everyone. Morbid anxiety is a ____________ response that does not resolve without treatment.",
-    "answer": "adaptive; without; maladaptive",
-    "acceptableAnswers": ["adaptive; without; maladaptive"]
+    "type": "mcq",
+    "stem": "The Rorschach Inkblot Test, a projective personality test in which perceptions are believed to be related to the subject's personality problems, was developed by:",
+    "options": [
+      "Henry Murray",
+      "Sigmund Freud",
+      "Hermann Rorschach",
+      "Carl Jung"
+    ],
+    "answer": "C"
   },
   {
     "id": 46,
-    "type": "fitb",
-    "stem": "In Mild Anxiety, the individual's learning is ____________ and the individual is able to function at his or her ____________ level. In Severe Anxiety, the perceptual field is so greatly ____________ that the individual concentrates on one particular detail only.",
-    "answer": "enhanced; optimal; diminished",
-    "acceptableAnswers": ["enhanced; optimal; diminished"]
+    "type": "mcq",
+    "stem": "The Thematic Apperception Test (TAT), which consists of a series of ambiguous pictures the participant is asked to describe, was developed by:",
+    "options": [
+      "Alfred Binet",
+      "Henry Murray",
+      "David Wechsler",
+      "Hermann Rorschach"
+    ],
+    "answer": "B"
   },
   {
     "id": 47,
-    "type": "fitb",
-    "stem": "In Panic State, the individual is unable to focus on even ____________ detail in the environment; ____________ are common; the individual may experience ____________ and delusion.",
-    "answer": "one; misperceptions; hallucination",
-    "acceptableAnswers": ["one; misperceptions; hallucination"]
+    "type": "mcq",
+    "stem": "The Minnesota Multiphasic Personality Inventory (MMPI) is an example of which category of personality test?",
+    "options": [
+      "Projective test",
+      "Neuropsychological test",
+      "Self-report inventory",
+      "Behavioural observation scale"
+    ],
+    "answer": "C"
   },
   {
     "id": 48,
-    "type": "fitb",
-    "stem": "OCD is associated with tics, ____________ disorder, and an increased risk of ____________. OCD activities take more than ____________ hour a day and most adults realize the behaviours do not make sense.",
-    "answer": "anxiety; suicide; an",
-    "acceptableAnswers": ["anxiety; suicide; an", "anxiety; suicide; 1"]
+    "type": "mcq",
+    "stem": "Neuropsychological tests are focused on determining cognitive strengths and deficits and can take up to how many days to administer?",
+    "options": [
+      "1 day",
+      "2 days",
+      "3 days",
+      "4 days"
+    ],
+    "answer": "B"
   },
   {
     "id": 49,
-    "type": "fitb",
-    "stem": "Obsession Doubts: the individual is not convinced that certain acts had been carried out — e.g. continuous checking of the door which is ____________ already; a situation whereby an individual fails to ascertain that a particular completed task has really been ____________.",
-    "answer": "locked; accomplished",
-    "acceptableAnswers": ["locked; accomplished"]
+    "type": "mcq",
+    "stem": "A nurse documents that a patient's AFFECT is 'incongruent.' This MOST accurately means that the patient's emotional expression is:",
+    "options": [
+      "Restricted in range but still appropriate to the patient's current life situation and expressed ideas",
+      "Labile, rapidly shifting between extreme states of elation and distress in an unpredictable pattern",
+      "Not appropriate to the ideas being expressed or to the client's life situation",
+      "Flat, with minimal observable outward emotional expression regardless of circumstances"
+    ],
+    "answer": "C"
   },
   {
     "id": 50,
-    "type": "fitb",
-    "stem": "The key difference between OCD and OCPD is that OCD involves intrusive ____________ and ____________, while OCPD is characterised by rigid ____________ traits.",
-    "answer": "thoughts; compulsions; personality",
-    "acceptableAnswers": ["thoughts; compulsions; personality"]
+    "type": "mcq",
+    "stem": "During the Mental Status Examination, the nurse distinguishes between MOOD and AFFECT. Which statement MOST accurately describes MOOD as opposed to AFFECT?",
+    "options": [
+      "Mood refers to emotions attached to specific objects or ideas such as anger, joy, or sadness; it centres on whether the response is appropriate to the situation",
+      "Mood refers to the prevailing emotions displayed during the interview that can be expansive, depressed, elevated, elated, lowered, explosive, irritable, or calm",
+      "Mood is assessed by observing the patient's range, appropriateness, and stability of emotional expression in response to questions",
+      "Mood refers specifically to the lability of the emotional response observed during the mental status examination"
+    ],
+    "answer": "B"
   },
   {
     "id": 51,
-    "type": "fitb",
-    "stem": "Metacognitive therapy for OCD involves encouraging the ____________ behaviours as to alter the relationship ones ____________ about them.",
-    "answer": "ritual; thought",
-    "acceptableAnswers": ["ritual; thought", "ritual; thought about"]
+    "type": "mcq",
+    "stem": "According to this handbook, which term describes a thought form disorder in which the patient departs from a topic with no return, as opposed to merely being vague and beating around the bush?",
+    "options": [
+      "Looseness of association (irrelevancy)",
+      "Circumstantial thinking",
+      "Tangential thinking",
+      "Flight of ideas"
+    ],
+    "answer": "C"
   },
   {
     "id": 52,
-    "type": "fitb",
-    "stem": "A phobia is a persistent, ____________ fear attached to an object or situation that does not pose a significant danger; the fear is ____________ or unreasonable and almost invariably provokes an immediately ____________ response or panic attack.",
-    "answer": "irrational; excessive; anxiety",
-    "acceptableAnswers": ["irrational; excessive; anxiety"]
+    "type": "mcq",
+    "stem": "Which of the following is listed as a CONTRAINDICATION for Psychosurgery in this handbook?",
+    "options": [
+      "Chronic severe anxiety",
+      "Severe obsessive compulsive disorder (OCD)",
+      "Brain tumour",
+      "Treatment-resistant unremitting depression"
+    ],
+    "answer": "C"
   },
   {
     "id": 53,
-    "type": "fitb",
-    "stem": "Systematic desensitization is a technique for assisting the patient to overcome their fear of a phobic stimulus; the patient is exposed ____________ to the situation or feared object through a ____________ of anxiety-producing events.",
-    "answer": "gradually; hierarchy",
-    "acceptableAnswers": ["gradually; hierarchy"]
+    "type": "mcq",
+    "stem": "Anterior Capsulotomy, one of the most frequently used psychosurgical procedures, was developed in which country?",
+    "options": [
+      "Canada",
+      "United Kingdom",
+      "Sweden",
+      "United States"
+    ],
+    "answer": "C"
   },
   {
     "id": 54,
-    "type": "fitb",
-    "stem": "Flooding (Implosive Therapy) involves ____________ confrontation with the phobic object until the patient is used to it; that is ____________ exposure of the patient to the phobic situation until he or she is no more ____________.",
-    "answer": "immediate; sudden; fearful",
-    "acceptableAnswers": ["immediate; sudden; fearful"]
+    "type": "mcq",
+    "stem": "During Insulin Shock Therapy, a test dose is first given on day one to detect hypersensitivity. On the second day, how many units of insulin are administered in the morning?",
+    "options": [
+      "10 units",
+      "15 units",
+      "20 units",
+      "25 units"
+    ],
+    "answer": "C"
   },
   {
     "id": 55,
-    "type": "fitb",
-    "stem": "DSM-5-TR identifies ____________ types of specific phobias. The object or condition that the person is fearful of is avoided for at least ____________ months.",
-    "answer": "five; six",
-    "acceptableAnswers": ["five; six", "5; 6"]
+    "type": "mcq",
+    "stem": "During Modified Insulin Therapy, a patient begins exhibiting signs of hypoglycaemia at 11 AM. What is the MOST appropriate nursing intervention as described in this handbook?",
+    "options": [
+      "Administer intravenous dextrose 50% immediately and call the physician",
+      "Give the patient a high carbohydrate drink such as sweet tea and allow them to rest on the bed for half an hour",
+      "Place the patient in Trendelenburg position and monitor vital signs every 5 minutes",
+      "Administer prescribed insulin antagonist and notify the attending psychiatrist urgently"
+    ],
+    "answer": "B"
   },
   {
     "id": 56,
-    "type": "fitb",
-    "stem": "Tocophobia is also called ____________, Maieusiophobia, or ____________ — it is the fear of ____________.",
-    "answer": "Lockiophobia; Parturiphobia; child birth",
-    "acceptableAnswers": ["Lockiophobia; Parturiphobia; child birth", "lockiophobia; parturiphobia; childbirth"]
+    "type": "mcq",
+    "stem": "Which Somatic Therapy approach utilises methods such as dance, yoga, or gentle stretching to facilitate emotional release and improve body awareness?",
+    "options": [
+      "Body Awareness techniques",
+      "Touch Techniques such as therapeutic massage",
+      "Breath Work including breath control exercises",
+      "Movement Therapies"
+    ],
+    "answer": "D"
   },
   {
     "id": 57,
-    "type": "fitb",
-    "stem": "Hypochondriasis is also known as Illness ____________ Disorder (IAD); individuals often ____________ normal body sensations as indicators of severe illness.",
-    "answer": "Anxiety; misinterpret",
-    "acceptableAnswers": ["Anxiety; misinterpret", "anxiety; misinterpret"]
+    "type": "mcq",
+    "stem": "According to this handbook, which of the following is listed as a type of Group Therapy?",
+    "options": [
+      "Dialectical enhancement groups",
+      "Psycho-educational/Guidance groups",
+      "Motivational enhancement groups",
+      "Behavioural activation groups"
+    ],
+    "answer": "B"
   },
   {
     "id": 58,
-    "type": "fitb",
-    "stem": "Neurasthenia is characterized by persistent physical and mental ____________, often accompanied by headaches, ____________, and a general sense of ____________.",
-    "answer": "fatigue; irritability; exhaustion",
-    "acceptableAnswers": ["fatigue; irritability; exhaustion"]
+    "type": "mcq",
+    "stem": "Walter Freeman and James Watts modified the Egas Moniz operation and devised the standard frontal leucotomy procedure in which year?",
+    "options": [
+      "1933",
+      "1936",
+      "1937",
+      "1940"
+    ],
+    "answer": "C"
   },
   {
     "id": 59,
-    "type": "fitb",
-    "stem": "Puerperal Psychosis is also known as ____________ psychosis or postnatal psychosis; it is characterized by a ____________ onset of symptoms and is considered a psychiatric ____________ requiring immediate medical attention.",
-    "answer": "postpartum; rapid; emergency",
-    "acceptableAnswers": ["postpartum; rapid; emergency"]
+    "type": "mcq",
+    "stem": "According to this handbook, impaired INSIGHT during the Mental Status Examination is MOST strongly associated with patients suffering from:",
+    "options": [
+      "Severe treatment-resistant depression",
+      "Psychosis or schizophrenia",
+      "Borderline personality disorder",
+      "Severe obsessive-compulsive disorder"
+    ],
+    "answer": "B"
   },
   {
     "id": 60,
-    "type": "fitb",
-    "stem": "Baby blues are considered a ____________ and self-limiting condition; up to ____________% of women experience some degree of mood disturbance after childbirth; symptoms are ____________ severe and do not need treatment.",
-    "answer": "mild; 80; not",
-    "acceptableAnswers": ["mild; 80; not"]
+    "type": "mcq",
+    "stem": "CASE STUDY: A 28-year-old woman is admitted with recurrent, distressing thoughts about being contaminated by germs. She spends approximately 3 hours daily washing her hands until they bleed. She states she knows the behaviour is excessive but cannot stop. Which type of OCD does this patient MOST likely exhibit?",
+    "options": [
+      "Symmetry and Ordering OCD",
+      "Obsessional thought and rumination",
+      "Contamination OCD",
+      "Checking OCD"
+    ],
+    "answer": "C"
   },
   {
     "id": 61,
-    "type": "fitb",
-    "stem": "The Bipolar Type of Puerperal Psychosis is characterized by symptoms of ____________ including elevated mood, irritability, grandiosity, decreased need for ____________, rapid speech, and increased ____________ levels.",
-    "answer": "mania; sleep; energy",
-    "acceptableAnswers": ["mania; sleep; energy"]
+    "type": "mcq",
+    "stem": "CASE STUDY: A nurse is preparing a 45-year-old male with treatment-resistant depression for his first ECT session. He asks why he must remain nil per oral from midnight. What is the BEST nursing explanation?",
+    "options": [
+      "To prevent hypoglycaemia during the procedure since baseline glucose must be maintained at a set level",
+      "To reduce the risk of aspiration during the induced seizure when laryngeal and swallowing reflexes may be suppressed",
+      "To improve the electrical conductance across the scalp electrodes during the seizure induction",
+      "To reduce production of cerebrospinal fluid and minimise intracranial pressure during the convulsion"
+    ],
+    "answer": "B"
   },
   {
     "id": 62,
-    "type": "fitb",
-    "stem": "Treatment for Postpartum Depression involves psychotherapy such as Cognitive-____________ Therapy (CBT) or ____________ Therapy (IPT), which helps individuals explore their emotions, challenge negative thought ____________, and develop coping strategies.",
-    "answer": "Behavioural; Interpersonal; patterns",
-    "acceptableAnswers": ["Behavioural; Interpersonal; patterns", "behavioral; interpersonal; patterns"]
+    "type": "mcq",
+    "stem": "CASE STUDY: After ECT electrode placement, the nurse observes the patient's induced seizure lasting significantly longer than expected. Which immediate complication should the nurse document and report?",
+    "options": [
+      "Aspiration pneumonia from secretion accumulation",
+      "Status epilepticus",
+      "Hypertensive crisis from autonomic stimulation",
+      "Malignant hyperthermia from anaesthetic agents"
+    ],
+    "answer": "B"
   },
   {
     "id": 63,
-    "type": "fitb",
-    "stem": "CASE SCENARIO (Fill-in): A 30-year-old woman delivered 4 days ago and is now experiencing hallucinations and disorganized behaviour. The nurse identifies this as ____________ Psychosis — a psychiatric ____________ requiring ____________ medical attention.",
-    "answer": "Puerperal; emergency; immediate",
-    "acceptableAnswers": ["Puerperal; emergency; immediate", "puerperal; emergency; immediate"]
+    "type": "mcq",
+    "stem": "CASE STUDY: A 35-year-old man presents with pervasive distrust, believing his neighbours are conspiring to harm him, and harbours persistent unfounded suspicion that his wife is unfaithful. He has no hallucinations, delusions of reference, or magical thinking. Which Cluster A personality disorder BEST fits this presentation?",
+    "options": [
+      "Schizotypal personality disorder",
+      "Schizoid personality disorder",
+      "Paranoid personality disorder",
+      "Antisocial personality disorder"
+    ],
+    "answer": "C"
   },
   {
     "id": 64,
-    "type": "fitb",
-    "stem": "CASE SCENARIO (Fill-in): A patient is placed immediately in a room full of spiders (his feared object) by the therapist. The nurse identifies this as ____________ (Implosive Therapy) — involving ____________ confrontation with the phobic object until the patient is used to it.",
-    "answer": "Flooding; immediate",
-    "acceptableAnswers": ["Flooding; immediate", "flooding; immediate"]
+    "type": "mcq",
+    "stem": "CASE STUDY: A patient in a psychotherapy group begins sharing deeply personal trauma. Several group members become uncomfortably silent and one begins to cry. The MOST appropriate group therapy intervention at this moment is:",
+    "options": [
+      "Dismiss the group session early to allow members to individually process their emotional reactions",
+      "Offer supportive feedback to the sharing member and facilitate a group discussion to help members work through the emotional difficulty",
+      "Redirect the conversation to a structured cognitive restructuring exercise to contain the emotional dysregulation",
+      "Transfer the patient to individual psychodynamic therapy where personal disclosures can be explored more safely"
+    ],
+    "answer": "B"
   },
   {
     "id": 65,
-    "type": "fitb",
-    "stem": "CASE SCENARIO (Fill-in): A 45-year-old man repeatedly checks his door lock despite having just locked it, believing it may be open. The nurse identifies this as Obsession ____________ — a type of OCD where the individual is not convinced that certain ____________ had been carried out, continuing to ____________ and recheck despite having done so.",
-    "answer": "Doubts; acts; check",
-    "acceptableAnswers": ["Doubts; acts; check", "doubts; acts; check"]
+    "type": "mcq",
+    "stem": "CASE STUDY: Nurse Amaka conducts a home visit for a recently discharged psychiatric patient. She observes poor hygiene, empty medication bottles, empty refrigerator, and social withdrawal. Which aspect of follow-up home care nursing is MOST directly being performed?",
+    "options": [
+      "Reintegration program coordination for community re-entry",
+      "Referral for immediate specialised inpatient re-admission",
+      "Comprehensive assessment of mental status, physical environment, medication adherence, and living conditions",
+      "Community mobilisation and collective resilience building in the patient's neighbourhood"
+    ],
+    "answer": "C"
   },
   {
     "id": 66,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A nurse is treating a patient with anxiety disorder using medication. The text names specific medications for phobia treatment. Which of the following is CORRECTLY listed as a medication used for phobia management?",
+    "stem": "CASE STUDY: A psychologist reports that an adult patient is fixated in Freud's Anal Stage. This fixation is MOST likely to result in which adult personality characteristic according to this handbook?",
     "options": [
-      "Anxiolytics/minor tranquilizers such as diazepam to reduce anxiety; antidepressants such as amitriptyline and clomipramine",
-      "Typical antipsychotics such as chlorpromazine and haloperidol as first-line pharmacological treatment for phobia",
-      "Mood stabilizers such as lithium carbonate and carbamazepine to prevent recurrent phobic episodes"
+      "Excessive dependency, passivity, and oral activities such as smoking or overeating",
+      "Anal-retentive traits such as orderliness, rigidity, and stubbornness, or anal-expulsive traits such as messiness and lack of control",
+      "Intense same-sex parental rivalry, sexual identity confusion, and difficulty forming adult gender roles",
+      "Social withdrawal, emotional detachment, and inability to form meaningful intimate relationships in adulthood"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 67,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A nurse is educating a patient with Hypochondriasis about managing her anxiety. The nurse correctly explains that patient education in Hypochondriasis involves:",
+    "stem": "CASE STUDY: A 19-year-old university student presents feeling confused about her career choices, values, and sense of identity. She describes role confusion and an inability to commit to long-term goals. According to Erikson's psychosocial theory, she is MOST likely experiencing a crisis in which stage?",
     "options": [
-      "Educating the patient about the nature of hypochondriasis, explaining how anxiety can manifest as physical symptoms; teaching the patient how to differentiate between common body sensations and signs of illness",
-      "Educating the patient to seek immediate medical attention whenever new physical symptoms arise to rule out serious pathology",
-      "Educating the patient to avoid reading medical journals and websites entirely to prevent triggering health anxiety episodes"
+      "Intimacy vs. Isolation",
+      "Industry vs. Inferiority",
+      "Identity vs. Role Confusion",
+      "Initiative vs. Guilt"
     ],
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 68,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A patient with OCD has intrusive thoughts about harming others but does not act on them. He has no visible compulsions but performs excessive mental reassurance rituals internally. Which type of OCD does this represent?",
+    "stem": "CASE STUDY: A family presents to a mental health clinic following a contentious divorce. The parents report inability to communicate without conflict, inconsistent parenting between households, marital problems, and escalating sibling conflicts. Which therapeutic modality is MOST appropriate?",
     "options": [
-      "Purely Obsessional OCD (Pure-O) — describes OCD without obvious or visible compulsions; individuals experience distressing intrusive thoughts or mental images but may not engage in outwardly visible rituals; they have internal mental rituals such as excessive analysing or seeking reassurance",
-      "Intrusive Thoughts OCD — intrusive thoughts are distressing, unwanted, and repetitive thoughts involving themes of harm, violence, or taboo subjects; the thoughts cause significant distress and lead individuals to engage in mental or behavioural rituals",
-      "Obsessional Thought/Rumination — a chain of thoughts which repetitively intrude into consciousness interfering with the normal train of thought; a continuous thought of abstract ideas"
+      "Dialectical Behaviour Therapy targeting emotional dysregulation",
+      "Milieu Therapy using the therapeutic environment",
+      "Family Therapy addressing psychological, behavioural, and emotional issues stemming from family system problems",
+      "Psychodynamic Psychotherapy exploring unconscious conflicts and past experiences"
     ],
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 69,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A nurse on a neurasthenia ward teaches a patient a relaxation method during a session. According to the text, which relaxation techniques are specifically named for Neurasthenia management?",
+    "stem": "CASE STUDY: Following a major flood disaster, a psychiatric nurse is deployed to a temporary shelter where survivors display acute psychological distress, grief, and disorientation. The nurse provides Psychological First Aid, community support activities, and mental health psychoeducation sessions. Which framework BEST guides this approach?",
     "options": [
-      "Deep breathing exercises, progressive muscle relaxation, or meditation to reduce stress and anxiety; encourage hobbies or activities that reduce tension",
-      "Eye Movement Desensitization and Reprocessing (EMDR) and Prolonged Exposure Therapy (PE) to process traumatic memories contributing to fatigue",
-      "Systematic desensitization and flooding to expose the patient to feared situations until the fatigue response is extinguished"
+      "Community-Based Rehabilitation (CBR) promoting independence and social reintegration",
+      "Mental Health and Psychosocial Support (MHPSS) to protect and promote well-being in crisis situations",
+      "Milieu Therapy structuring the immediate environment to effect behavioural change",
+      "Occupational Therapy using structured activities to improve cognitive functioning"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 70,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A nurse is reviewing a postpartum woman who had Puerperal Psychosis and is now in recovery. She is being prepared for discharge. The nurse advises her to watch out for side effects of drugs, exercise regularly, avoid psychoactive substances, and encourage social support. These discharge instructions are MOST consistent with which condition's management plan in the text?",
+    "stem": "Avoidant Personality Disorder, categorised under Cluster C, is MOST characterised by which of the following?",
     "options": [
-      "These discharge instructions mirror those given for psychiatric patients generally in the text — watch for side effects, exercise regularly as it helps release brain chemicals that reduce stress and improve mood, avoid psychoactive substances, and encourage social support system",
-      "These discharge instructions are unique to Puerperal Psychosis only; they differ significantly from the discharge plan used for anxiety, OCD, or phobia patients",
-      "These discharge instructions are primarily applicable to patients with Neurasthenia since the emphasis on exercise, social support, and avoiding substances aligns specifically with Neurasthenia management"
+      "Excessive and dramatic emotional response with constant attention-seeking and shallow, rapidly shifting emotions",
+      "Submissive and clingy behaviour, excessive dependence on others, and a profound fear of being left alone",
+      "Extreme shyness, feelings of inadequacy, and hypersensitivity to criticism or rejection leading to social inhibition",
+      "Odd beliefs, magical thinking, eccentric appearance, and excessive social anxiety in close personal relationships"
     ],
-    "answer": "A"
+    "answer": "C"
+  },
+  {
+    "id": 71,
+    "type": "fitb",
+    "stem": "Dialectical Behaviour Therapy (DBT) teaches patients how to label emotions, handle angry feelings, develop awareness of their feelings, and give into _____________ tendencies without giving into self-harm.",
+    "answer": "impulsive",
+    "acceptableAnswers": [
+      "impulsive",
+      "their impulsive"
+    ]
+  },
+  {
+    "id": 72,
+    "type": "fitb",
+    "stem": "Motivational Interviewing is a collaborative, goal-oriented style of communication with particular attention to the _____________ of change.",
+    "answer": "language",
+    "acceptableAnswers": [
+      "language"
+    ]
+  },
+  {
+    "id": 73,
+    "type": "fitb",
+    "stem": "The Gottman Method strives to assist couples in achieving a deeper sense of understanding, awareness, empathy, and _____________ within relationships that ultimately leads to heightened intimacy.",
+    "answer": "connectedness",
+    "acceptableAnswers": [
+      "connectedness",
+      "connection"
+    ]
+  },
+  {
+    "id": 74,
+    "type": "fitb",
+    "stem": "In the context of milieu therapy, the word 'Milieu' is a French word meaning _____________.",
+    "answer": "middle",
+    "acceptableAnswers": [
+      "middle"
+    ]
+  },
+  {
+    "id": 75,
+    "type": "fitb",
+    "stem": "Cognitive Behavioural Therapy (CBT) aims at helping people change thought patterns that cause unhealthy behaviour by gradually changing the way the person thinks. It is based on the interconnectedness of thoughts, beliefs, feelings, and _____________.",
+    "answer": "behaviour",
+    "acceptableAnswers": [
+      "behaviour",
+      "behavior",
+      "behaviours",
+      "behaviors"
+    ]
+  },
+  {
+    "id": 76,
+    "type": "fitb",
+    "stem": "Psychodynamic Psychotherapy is popular among depressed patients. It often takes _____________ or longer to obtain enduring benefits.",
+    "answer": "a year",
+    "acceptableAnswers": [
+      "a year",
+      "one year",
+      "1 year"
+    ]
+  },
+  {
+    "id": 77,
+    "type": "fitb",
+    "stem": "Individual therapy is a form of therapy in which the client is treated on a _____________ basis with the therapist, building a rapport and working together to solve the client's issues.",
+    "answer": "one-on-one",
+    "acceptableAnswers": [
+      "one-on-one",
+      "one to one",
+      "1-on-1",
+      "one on one"
+    ]
+  },
+  {
+    "id": 78,
+    "type": "fitb",
+    "stem": "The Gottman Method of couples therapy was developed by Dr. John Gotmann and Dr. Julie Schwartz Gottman in the _____________ and is described as an evidence-based form of couples therapy.",
+    "answer": "1980s",
+    "acceptableAnswers": [
+      "1980s",
+      "1980's",
+      "nineteen eighties"
+    ]
+  },
+  {
+    "id": 79,
+    "type": "fitb",
+    "stem": "Activity therapy is often referred to as recreational therapy or _____________ therapy and utilises various activities to improve physical, emotional, social, and cognitive functioning.",
+    "answer": "occupational",
+    "acceptableAnswers": [
+      "occupational"
+    ]
+  },
+  {
+    "id": 80,
+    "type": "fitb",
+    "stem": "Somatic therapy is a form of body-centred therapy that focuses on the connection between the _____________ and body, aiming to release physical tension and trauma stored in the body.",
+    "answer": "mind",
+    "acceptableAnswers": [
+      "mind"
+    ]
+  },
+  {
+    "id": 81,
+    "type": "fitb",
+    "stem": "The systematic appraisal of the appearance, behaviour, mental functioning, and overall demeanour of a person's psychological functioning at a given point in time is abbreviated as _____________.",
+    "answer": "MSE",
+    "acceptableAnswers": [
+      "MSE",
+      "Mental Status Examination",
+      "Mental Status Exam"
+    ]
+  },
+  {
+    "id": 82,
+    "type": "fitb",
+    "stem": "In intellectual assessment, an obtained IQ score over 100 means _____________ intelligence, while extreme intelligence is scored at 130 or above.",
+    "answer": "high",
+    "acceptableAnswers": [
+      "high",
+      "above average",
+      "high intelligence"
+    ]
+  },
+  {
+    "id": 83,
+    "type": "fitb",
+    "stem": "Neuropsychological tests, which take up to _____________ days to administer, are focused on determining the cognitive strengths and deficits of the person.",
+    "answer": "2",
+    "acceptableAnswers": [
+      "2",
+      "two"
+    ]
+  },
+  {
+    "id": 84,
+    "type": "fitb",
+    "stem": "ECT is an abbreviation for _____________ Therapy, which was historically developed to treat symptoms of schizophrenia and catatonia.",
+    "answer": "Electroconvulsive",
+    "acceptableAnswers": [
+      "Electroconvulsive",
+      "electroconvulsive"
+    ]
+  },
+  {
+    "id": 85,
+    "type": "fitb",
+    "stem": "Insulin Shock Therapy was introduced in 1933 by _____________ Joshua Sakel, who first tested his treatment on addicts and neurotics.",
+    "answer": "Manfred",
+    "acceptableAnswers": [
+      "Manfred"
+    ]
+  },
+  {
+    "id": 86,
+    "type": "fitb",
+    "stem": "In collaboration with Almeida Lima, Egas Moniz performed the first series of 20 psychosurgery operations in _____________.",
+    "answer": "1936",
+    "acceptableAnswers": [
+      "1936"
+    ]
+  },
+  {
+    "id": 87,
+    "type": "fitb",
+    "stem": "Sigmund Freud proposed _____________ psychosexual stages of personality development, beginning with the Oral Stage at birth and ending with the Genital Stage at puberty.",
+    "answer": "five",
+    "acceptableAnswers": [
+      "five",
+      "5"
+    ]
+  },
+  {
+    "id": 88,
+    "type": "fitb",
+    "stem": "Erik Erikson expanded on Freud's theory by emphasising the role of social interactions. His psychosocial theory comprises _____________ stages, each defined by a central conflict that must be resolved for healthy personality development.",
+    "answer": "eight",
+    "acceptableAnswers": [
+      "eight",
+      "8"
+    ]
+  },
+  {
+    "id": 89,
+    "type": "fitb",
+    "stem": "In Erikson's psychosocial theory, the virtue associated with the 'Generativity vs. Stagnation' stage occurring between 40â65 years is _____________.",
+    "answer": "Care",
+    "acceptableAnswers": [
+      "Care",
+      "care"
+    ]
+  },
+  {
+    "id": 90,
+    "type": "fitb",
+    "stem": "Mental Health and Psychosocial Support (MHPSS) interventions aim to promote mental health and _____________ in individuals and communities affected by crisis situations such as natural disasters or conflicts.",
+    "answer": "resilience",
+    "acceptableAnswers": [
+      "resilience",
+      "psychological resilience"
+    ]
+  },
+  {
+    "id": 91,
+    "type": "fitb",
+    "stem": "One of the listed signs and symptoms of Paranoid Personality Disorder is unjustified, recurrent suspicion that the spouse or sexual partner is _____________.",
+    "answer": "unfaithful",
+    "acceptableAnswers": [
+      "unfaithful",
+      "being unfaithful",
+      "cheating"
+    ]
+  },
+  {
+    "id": 92,
+    "type": "fitb",
+    "stem": "This handbook states that OCD is associated with tics, anxiety disorder, and an increased risk of _____________ .",
+    "answer": "suicide",
+    "acceptableAnswers": [
+      "suicide",
+      "suicidal ideation",
+      "suicidal behaviour",
+      "suicidal behavior"
+    ]
+  },
+  {
+    "id": 93,
+    "type": "fitb",
+    "stem": "In pre-ECT nursing care, prescribed premedication of atropine must be given _____________ minutes before the procedure.",
+    "answer": "20-30",
+    "acceptableAnswers": [
+      "20-30",
+      "20 to 30",
+      "twenty to thirty",
+      "20â30"
+    ]
+  },
+  {
+    "id": 94,
+    "type": "fitb",
+    "stem": "Insulin Shock Therapy was used in the 1930s and 1940s for the treatment of schizophrenia but was later replaced by _____________ in the later 1950s and 1960s.",
+    "answer": "neuroleptics (thorazine)",
+    "acceptableAnswers": [
+      "neuroleptics",
+      "thorazine",
+      "neuroleptics (thorazine)",
+      "chlorpromazine"
+    ]
+  },
+  {
+    "id": 95,
+    "type": "fitb",
+    "stem": "In Modified ECT, the anaesthetist administers anaesthesia using short-acting barbiturate. Newer medications now used include _____________ sodium as an anaesthetic agent for this procedure.",
+    "answer": "thiopental",
+    "acceptableAnswers": [
+      "thiopental",
+      "Thiopental",
+      "thiopentone"
+    ]
+  },
+  {
+    "id": 96,
+    "type": "fitb",
+    "stem": "According to Freud, the Genital Stage marks the reawakening of sexual impulses and begins at _____________, continuing into adulthood with the focus on mature sexual relationships.",
+    "answer": "puberty",
+    "acceptableAnswers": [
+      "puberty",
+      "the onset of puberty"
+    ]
+  },
+  {
+    "id": 97,
+    "type": "fitb",
+    "stem": "Mental hygiene as a public-health perspective within psychiatry was influential from 1910 until about _____________.",
+    "answer": "1960",
+    "acceptableAnswers": [
+      "1960",
+      "the 1960s",
+      "around 1960"
+    ]
+  },
+  {
+    "id": 98,
+    "type": "fitb",
+    "stem": "In Erikson's 'Autonomy vs. Shame and Doubt' stage, toddlers strive to develop independence by learning to walk, talk, and control bodily functions such as _____________ training.",
+    "answer": "toilet",
+    "acceptableAnswers": [
+      "toilet",
+      "bowel",
+      "bladder and bowel"
+    ]
+  },
+  {
+    "id": 99,
+    "type": "fitb",
+    "stem": "According to this handbook, OCD affects males at _____________ stage than females, meaning the condition presents earlier in males.",
+    "answer": "an earlier",
+    "acceptableAnswers": [
+      "an earlier",
+      "earlier",
+      "a younger",
+      "an earlier age"
+    ]
+  },
+  {
+    "id": 100,
+    "type": "fitb",
+    "stem": "The Beck Depression Inventory is listed in this handbook as an example of a _____________ inventory, which refers to a structured set of written questions formatted consistently to ask respondents to evaluate themselves in a yes/no, true/false, or rating scale format.",
+    "answer": "self-report",
+    "acceptableAnswers": [
+      "self-report",
+      "self report",
+      "self-reporting"
+    ]
   }
 ]
