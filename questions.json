@@ -2,1124 +2,1113 @@
   {
     "id": 1,
     "type": "mcq",
-    "stem": "The adolescent period represents the phase of mental maturation and transition from childhood to adulthood. Which age range MOST accurately defines this period as it overlaps with the pubertal period?",
+    "stem": "Menopause is formally defined as a retrospective diagnosis. Which criterion PRECISELY establishes this diagnosis?",
     "options": [
-      "8 to 18 years",
-      "10 to 19 years",
-      "9 to 19 years",
-      "10 to 18 years"
+      "Absence of menstruation for 6 consecutive months with elevated FSH levels confirmed on two separate occasions",
+      "Absence of menstruation for 12 consecutive months representing the last menstrual period",
+      "Absence of menstruation for 24 consecutive months in the absence of other pathological causes",
+      "Cessation of menstruation for 6 months accompanied by confirmed bilateral ovarian failure on ultrasound"
     ],
     "answer": "B"
   },
   {
     "id": 2,
     "type": "mcq",
-    "stem": "In intrauterine life, GnRH secretion is initiated at a precise gestational week, ultimately culminating in the appearance of FSH and LH. At which specific week does this GnRH secretion begin?",
+    "stem": "The age range within which natural menopause is MOST expected to occur in females is:",
     "options": [
-      "2nd week of intrauterine life",
-      "4th week of intrauterine life",
-      "6th week of intrauterine life",
-      "8th week of intrauterine life"
+      "40 to 50 years",
+      "42 to 52 years",
+      "45 to 55 years",
+      "48 to 58 years"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 3,
     "type": "mcq",
-    "stem": "Following the initiation of GnRH secretion in intrauterine life, FSH and LH subsequently appear within which gestational window?",
+    "stem": "With advancing age at menopause, ovarian follicles begin to atrophy and ovarian oestradiol levels fall to very low values. This decline removes negative feedback inhibition from which two structures, resulting in gross elevation of gonadotropins?",
     "options": [
-      "8 to 10 weeks of gestation",
-      "10 to 12 weeks of gestation",
-      "12 to 14 weeks of gestation",
-      "14 to 16 weeks of gestation"
+      "Anterior pituitary and adrenal cortex",
+      "Hypothalamus and anterior pituitary",
+      "Hypothalamus and posterior pituitary",
+      "Pineal gland and hypothalamus"
     ],
     "answer": "B"
   },
   {
     "id": 4,
     "type": "mcq",
-    "stem": "Although FSH and LH appear by 10â12 weeks in intrauterine life, their peak concentration in the fetus occurs at which gestational age?",
+    "stem": "Following the cessation of ovarian follicular function at menopause, the predominant circulating oestrogen shifts. Which oestrogen is predominant in the post-menopausal state, and what is its PRIMARY source?",
     "options": [
-      "16 weeks (early second trimester)",
-      "18 weeks (mid-second trimester)",
-      "20 weeks (mid-gestation)",
-      "22 weeks (late second trimester)"
+      "Oestradiol, produced predominantly by the adrenal medulla via direct secretion",
+      "Oestrone, produced by adrenal and ovarian stromal cells via peripheral aromatization of androgens",
+      "Oestriol, produced primarily by hepatic conversion of oestradiol in a first-pass effect",
+      "Oestradiol, produced by the corpus luteum persisting from the final ovarian cycle"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 5,
     "type": "mcq",
-    "stem": "Immediately after birth, FSH activity rises as the neonate is removed from the high estrogen intrauterine environment. For how long does this post-birth FSH rise persist before becoming quiescent?",
+    "stem": "The term 'climacteric' has a specific and distinct meaning from the term 'menopause.' Which definition MOST precisely captures the climacteric?",
     "options": [
-      "3 to 6 months",
-      "6 to 18 months",
-      "12 to 24 months",
-      "18 to 30 months"
+      "The single calendar date of the last menstrual period confirmed after 12 months of amenorrhea",
+      "The period of waning ovarian function that encompasses both the menopause and the post-menopausal phase",
+      "The 12-month transitional period immediately preceding the last menstrual period only",
+      "The period of complete gonadal inactivity commencing exactly 5 years after the last menstrual period"
     ],
     "answer": "B"
   },
   {
     "id": 6,
     "type": "mcq",
-    "stem": "During pre-puberty childhood, FSH pulses are almost completely undetectable. At which age do these pulses begin gradually rising in both amplitude and duration?",
+    "stem": "Menstrual changes at the climacteric follow a predictable initial pattern before permanent cessation occurs. Which statement MOST accurately describes the earliest menstrual pattern change?",
     "options": [
-      "6 to 7 years",
-      "7 to 8 years",
-      "8 to 9 years",
-      "9 to 10 years"
+      "Menstruation immediately and abruptly ceases without any preceding change in cycle regularity",
+      "Menstruation becomes scanty and infrequent before abruptly stopping",
+      "Menstruation initially becomes irregular and heavy before eventually stopping permanently",
+      "Menstruation transitions to a regular lighter flow lasting 2 to 3 days before final cessation"
     ],
     "answer": "C"
   },
   {
     "id": 7,
     "type": "mcq",
-    "stem": "A school nurse is educating a group of parents about normal male pubertal development. She correctly identifies which finding as the VERY FIRST physical sign that puberty has begun in a male?",
+    "stem": "Which of the following psychological symptoms is specifically listed among the changes occurring at menopause as a direct result of hormonal alteration?",
     "options": [
-      "Appearance of pubic hair (pubarche)",
-      "Enlargement of the testis",
-      "Initiation of the pubertal growth spurt",
-      "Onset of voice deepening"
+      "Euphoria, hypersomnia, and reduced appetite",
+      "Depression, insomnia, irritability, nervousness, and headaches",
+      "Psychosis, visual hallucinations, and profound memory impairment",
+      "Anxiety disorder, panic attacks, and obsessive-compulsive traits"
     ],
     "answer": "B"
   },
   {
     "id": 8,
     "type": "mcq",
-    "stem": "Sperm production commences in males at a specific age, after which the first remarkable clinical event of male puberty occurs. At approximately what age does sperm production begin?",
+    "stem": "Menopausal vasomotor changes produce a characteristic and well-recognized symptom. Which vasomotor symptom is SPECIFICALLY mentioned in this clinical context?",
     "options": [
-      "11 years of age",
-      "12 years of age",
-      "13 years of age",
-      "14 years of age"
+      "Excessive perspiration during sleep (night sweats) without accompanying skin temperature changes",
+      "Hot flushes",
+      "Episodic palpitations with concurrent systolic hypertension lasting more than 30 minutes",
+      "Raynaud's phenomenon causing digital colour changes on exposure to temperature variation"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 9,
     "type": "mcq",
-    "stem": "In girls, gonadotropins stimulate ovarian growth (gonadarche), after which the first phenotypic manifestation of puberty appears. What is this first external sign?",
+    "stem": "Physical changes at menopause include genital atrophy resulting from collagen loss. The clinical symptom MOST directly caused by this genital atrophy in post-menopausal women is:",
     "options": [
-      "Onset of pubic hair growth (pubarche)",
-      "Initiation of the pubertal growth spurt",
-      "Breast development (thelarche)",
-      "First menstrual period (menarche)"
+      "Urge urinary incontinence due to detrusor muscle hyperactivity",
+      "Dyspareunia due to the atrophic changes affecting the vaginal epithelium and lubrication",
+      "Pelvic organ prolapse due to levator ani muscle atrophy and fascial weakness",
+      "Endometrial hyperplasia due to unopposed estrogen stimulation of the atrophic endometrium"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 10,
     "type": "mcq",
-    "stem": "The average age at menarche in the developed world is a frequently tested value in reproductive physiology. Which figure is MOST accurate?",
+    "stem": "The metabolic consequences of menopause increase the risk of coronary artery disease through a specific lipid profile change. Which lipid alteration is CHARACTERISTIC of this menopausal metabolic shift?",
     "options": [
-      "11.6 years",
-      "12.0 years",
-      "12.6 years",
-      "13.0 years"
+      "High HDL and low LDL resulting in paradoxically increased atherosclerotic risk",
+      "High LDL and low HDL resulting in an atherogenic lipid profile",
+      "High triglycerides with proportionally low LDL and normal HDL levels",
+      "Uniformly elevated total cholesterol with no change in HDL to LDL ratio"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 11,
     "type": "mcq",
-    "stem": "The pubertal growth spurt begins earlier in females than in males. By precisely how many years does the female growth spurt precede the male growth spurt?",
+    "stem": "Premature menopause is defined by which specific criterion regarding the age of menstruation cessation?",
     "options": [
-      "1 year",
-      "2 years",
-      "3 years",
-      "4 years"
+      "Cessation of menstruation before 45 years of age",
+      "Cessation of menstruation before 40 years of age",
+      "Cessation of menstruation before 35 years of age",
+      "Cessation of menstruation before 42 years of age"
     ],
     "answer": "B"
   },
   {
     "id": 12,
     "type": "mcq",
-    "stem": "Using the Tanner staging system, Stage II of female breast development (thelarche) is MOST accurately described as:",
+    "stem": "Although the testicular function gradually declines with age in males, the male equivalent of the female menopause does NOT occur. Which statement MOST accurately explains why the male lacks a complete equivalent of menopause?",
     "options": [
-      "Flat prepubertal breast tissue with no palpable change",
-      "A firm, possibly tender lump developing directly beneath the areola",
-      "A lump that has softened and extends visibly beyond the areola boundaries",
-      "Elevation of the areola above the breast contour forming a secondary mound"
+      "Male testosterone levels decline at the same absolute rate as female oestradiol but the threshold for infertility is never reached",
+      "The function of the testis declines slowly with age but the ability to produce spermatozoa persists and may never completely cease",
+      "The hypothalamic-pituitary axis in the male undergoes compensatory upregulation preventing the gonadotropin elevation seen in females",
+      "Male sex hormone production is sustained by adrenal compensation once testicular function begins to decline at approximately age 50"
     ],
     "answer": "B"
   },
   {
     "id": 13,
     "type": "mcq",
-    "stem": "In the five-stage Tanner system for breast development, which stage corresponds to the complete maturation of the adult breast where the primary and secondary mounds fully fuse?",
+    "stem": "Hormone replacement therapy (HRT) is primarily indicated when target hormone levels are low or absent. During which specific age range of a woman's reproductive life is HRT most commonly indicated according to the content of this curriculum?",
     "options": [
-      "Stage II",
-      "Stage III",
-      "Stage IV",
-      "Stage V"
+      "Ages 13 to 44 years",
+      "Ages 15 to 44 years",
+      "Ages 18 to 44 years",
+      "Ages 20 to 44 years"
     ],
-    "answer": "D"
+    "answer": "B"
   },
   {
     "id": 14,
     "type": "mcq",
-    "stem": "The development of axillary hair during puberty, referred to as adrenarche, is primarily driven by secretion from which endocrine source?",
+    "stem": "Among the following estrogen formulations specifically listed as constituting post-menopausal replacement therapy, which combination is MOST complete?",
     "options": [
-      "Estrogen from the ovarian follicles",
-      "Progesterone from the developing corpus luteum",
-      "Adrenal androgens from the adrenal cortex",
-      "Gonadal testosterone from the interstitial cells"
+      "17 beta-estradiol, synthetic ethinyl estradiol, and estriol only",
+      "17 beta-estradiol, conjugated equine estrogens, esterified estrogens, and estriol",
+      "Conjugated equine estrogens, estriol, and diethylstilboestrol only",
+      "17 beta-estradiol, esterified estrogens, and medroxyprogesterone acetate"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 15,
     "type": "mcq",
-    "stem": "In the Tanner staging system for pubic hair (pubarche), which stage is specifically characterized by hair that completely fills the mons pubis?",
+    "stem": "Non-oral routes of HRT estrogen delivery are specifically mentioned. Which non-oral delivery systems are named in this curriculum?",
     "options": [
-      "Stage II",
-      "Stage III",
-      "Stage IV",
-      "Stage V"
+      "Subcutaneous implants, nasal sprays, and transdermal creams exclusively",
+      "Matrix patches, reservoir patches, gel, and intravaginal administration",
+      "Sublingual tablets, vaginal rings, and intrauterine systems only",
+      "Intramuscular injections, suppositories, and transdermal aerosols"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 16,
     "type": "mcq",
-    "stem": "Estrogen-induced breast enlargement (gynecomastia) may occur in some males during puberty. Without any intervention, what is the EXPECTED natural course of this phenomenon?",
+    "stem": "Naturally occurring progestogens are used in HRT formulations. Which specific naturally occurring progestogen compounds are named in this curriculum?",
     "options": [
-      "It persists permanently into adulthood and requires surgical correction",
-      "It resolves spontaneously as rising testosterone production progressively predominates over estrogen",
-      "It progressively intensifies as further pubertal estrogen surges occur",
-      "It indicates irreversible pathological gynecomastia requiring endocrinological management"
+      "Medroxyprogesterone acetate (MPA) and norethisterone acetate",
+      "Progesterone P4 and 17-alpha OH progesterone",
+      "Dydrogesterone and micronised progesterone only",
+      "Levonorgestrel and norgestimate as naturally derived compounds"
     ],
     "answer": "B"
   },
   {
     "id": 17,
     "type": "mcq",
-    "stem": "Because the growth spurt occurs 2 years earlier in girls, epiphyseal closure in females precedes that in males. What is the PRINCIPAL skeletal consequence of this sex difference?",
+    "stem": "HRT regimens are given in a manner that best approximates normal physiology. In what specific manner are the components administered?",
     "options": [
-      "Girls attain a greater final adult height due to earlier hormonal stimulation",
-      "Boys are generally taller because their growth, though slower, lasts longer before epiphyseal closure",
-      "Both sexes achieve statistically equal final heights through compensatory mechanisms",
-      "Girls develop proportionally longer limbs relative to trunk length than boys"
+      "Simultaneously as a fixed daily combination dose to ensure constant hormonal levels",
+      "Sequentially to mimic the natural cycle",
+      "Cyclically with a monthly hormone-free interval to allow endometrial shedding",
+      "Continuously without interruption to prevent any withdrawal bleeding permanently"
     ],
     "answer": "B"
   },
   {
     "id": 18,
     "type": "mcq",
-    "stem": "Pre-pubertal removal of the testis (castration) produces a specific and well-documented effect on skeletal growth. Which outcome MOST accurately describes this effect?",
+    "stem": "A 52-year-old post-menopausal woman requests HRT. Her clinician reviews her history for absolute contraindications. Which finding would constitute an ABSOLUTE contraindication to HRT?",
     "options": [
-      "Accelerated epiphyseal closure causing premature cessation of bone growth",
-      "Delayed epiphyseal closure permitting continuous bone length growth",
-      "No significant effect on the timing of epiphyseal closure",
-      "Premature epiphyseal closure leading to short stature"
+      "A history of migraine headaches without aura managed with triptans",
+      "Personal history of breast cancer treated 8 years ago",
+      "Active coronary artery disease (CAD)",
+      "Atypical ductal hyperplasia of the breast diagnosed on biopsy 3 years ago"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 19,
     "type": "mcq",
-    "stem": "Klinefelter's syndrome presents with small poorly-functioning testes, infertility, and gynaecomastia. Which chromosomal complement is diagnostic of this condition?",
+    "stem": "For HRT, undiagnosed vaginal bleeding is listed as an absolute contraindication. Which statement BEST explains the clinical rationale for this absolute contraindication?",
     "options": [
-      "45XO",
-      "47XYY",
-      "47XXY",
-      "46XY with microdeletion"
+      "HRT estrogen will exacerbate the bleeding by promoting endometrial hyperplasia before the underlying cause is identified",
+      "The bleeding may originate from a source such as endometrial malignancy that could be masked or stimulated by exogenous hormones before diagnosis",
+      "Progesterone in the HRT regimen will suppress ovulation and aggravate any corpus luteum deficiency causing the bleeding",
+      "HRT will cause immediate coagulation pathway disruption, converting light spotting into life-threatening haemorrhage"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 20,
     "type": "mcq",
-    "stem": "Turner's syndrome (45XO) presents with a characteristic clinical constellation. Which of the following features is NOT associated with Turner's syndrome?",
+    "stem": "Well-differentiated and early endometrial cancer is listed as an absolute contraindication to HRT with a notable exception. What is this exception?",
     "options": [
-      "Non-functioning streak ovaries",
-      "Short stature",
-      "Tall stature with gynaecomastia",
-      "Webbed neck"
+      "Once the patient has been cancer-free for 2 years, HRT is no longer absolutely contraindicated",
+      "Once treatment for the malignancy is complete, it is no longer an absolute contraindication; progestins alone may relieve symptoms if estrogen cannot be tolerated",
+      "Once the patient demonstrates a high progesterone-to-estrogen ratio, HRT may be cautiously resumed",
+      "Once the histological grade has been re-classified as benign on repeat sampling, HRT may be initiated"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 21,
     "type": "mcq",
-    "stem": "Among the following chromosomal abnormalities, which karyotype is considered incompatible with life?",
+    "stem": "CASE STUDY: A 55-year-old woman presents with hot flushes, insomnia, irritability, and a new-onset aching pain during intercourse over the past 8 months. Her last menstrual period was 14 months ago. She has a BMI of 24 and no prior medical history. She asks for treatment. Before initiating HRT, the nurse checks for absolute contraindications. Which finding in her history, if present, would MOST definitively preclude HRT?",
     "options": [
-      "47XXX",
-      "47XXY",
-      "45YO",
-      "45XO"
+      "Her mother having had breast cancer at age 72 years",
+      "A diagnosis of uterine fibroids 6 years ago that were managed conservatively",
+      "A current DVT in the right popliteal vein diagnosed 3 weeks ago",
+      "A history of cholecystitis that was surgically resolved 4 years ago"
     ],
     "answer": "C"
   },
   {
     "id": 22,
     "type": "mcq",
-    "stem": "The condition referred to as 'super females' in chromosomal sex abnormality classification corresponds to which karyotype?",
+    "stem": "CASE STUDY: The same 55-year-old woman from Q21 denies all absolute contraindications. Her assessment identifies only migraine headaches and a personal history of ovarian cancer. The nurse correctly categorises these findings under which classification in relation to HRT?",
     "options": [
-      "47XXY",
-      "47XYY",
-      "47XXX",
-      "48XXXX"
+      "Absolute contraindications mandating permanent exclusion from HRT",
+      "Relative contraindications that require careful risk-benefit assessment before initiating HRT",
+      "Incidental findings with no bearing whatsoever on the safety of initiating HRT",
+      "Indications that favour the use of progestins alone in place of combined HRT"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 23,
     "type": "mcq",
-    "stem": "The sex-determining region of the Y chromosome (SRY gene), critical for initiating testicular determination, is located on which specific region of the Y chromosome?",
+    "stem": "CASE STUDY: The 55-year-old woman from Q21 is initiated on HRT. After 3 weeks she calls the clinic reporting breast tenderness and ankle swelling. The nurse identifies these as recognized side effects of HRT. Which mechanism MOST directly explains the ankle swelling reported?",
     "options": [
-      "Long arm (q arm) of the Y chromosome",
-      "Short arm (p arm) of the Y chromosome",
-      "Centromeric region of the Y chromosome",
-      "Telomeric region of the Y chromosome"
+      "Progesterone-mediated arterial vasodilation reducing venous return from the lower extremities",
+      "Fluid retention secondary to the sodium and water-retaining effects of the hormonal components of HRT",
+      "Allergic vasculitis triggered by the synthetic excipients contained in the oral HRT formulation",
+      "Venous thrombosis formation in the deep veins of the calf as an early HRT complication"
     ],
     "answer": "B"
   },
   {
     "id": 24,
     "type": "mcq",
-    "stem": "The SRY gene located on the Y chromosome encodes which critical protein that is directly responsible for testicular determination in the male embryo?",
+    "stem": "CASE STUDY: A 49-year-old woman being evaluated for HRT has a history of atypical ductal hyperplasia of the breast confirmed on biopsy. The nurse is preparing her pre-HRT counselling. Under which specific contraindication category does atypical ductal hyperplasia of the breast fall?",
     "options": [
-      "MÃ¼llerian inhibiting substance (MIS)",
-      "Androgen-binding protein (ABP)",
-      "Testis-determining factor (TDF)",
-      "Sex hormone-binding globulin (SHBG)"
+      "It is an absolute contraindication identical in strength to active endometrial cancer",
+      "It is a relative contraindication requiring careful clinical consideration before initiating HRT",
+      "It is not a contraindication because it is a pre-malignant rather than a malignant lesion",
+      "It is a relative contraindication only if accompanied by a concurrent personal history of estrogen-receptor positive breast cancer"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 25,
     "type": "mcq",
-    "stem": "In female somatic cells, only one X chromosome remains transcriptionally active. The other X chromosome condenses near the nuclear membrane to form which specific structure?",
+    "stem": "CASE STUDY: A 46-year-old woman with a history of active gallbladder cholangitis and cholecystitis requests HRT for severe menopausal symptoms. The nurse correctly classifies her gallbladder disease under which category of HRT contraindication?",
     "options": [
-      "A nucleolus organizer body",
-      "A Barr body (sex chromatin body)",
-      "A centromere fusion body",
-      "A heterochromatin knot"
+      "Absolute contraindication â active gallbladder disease is listed among absolute contraindications to HRT",
+      "Relative contraindication â active gallbladder disease including cholangitis and cholecystitis is listed as a relative contraindication",
+      "Not a contraindication â gallbladder disease has no established interaction with HRT hormone components",
+      "Absolute contraindication only if bilirubin levels are greater than twice the upper limit of normal"
     ],
     "answer": "B"
   },
   {
     "id": 26,
     "type": "mcq",
-    "stem": "The inactive X chromosome in females can also appear as a nuclear drumstick appendage attached to the nucleus of polymorphonuclear leukocytes (PMNL). In what percentage of PMNL is this nuclear drumstick detectable?",
+    "stem": "CASE STUDY: A male patient aged 16 years was castrated before the onset of puberty due to a medical emergency involving testicular torsion with bilateral infarction. During a follow-up consultation at age 22, which physical profile is MOST expected?",
     "options": [
-      "1 to 5% of PMNL",
-      "5 to 10% of PMNL",
-      "1 to 15% of PMNL",
-      "10 to 20% of PMNL"
+      "Deep voice, fully developed muscular build, and normal-sized genitals consistent with complete pubertal development",
+      "High-pitched voice, non-muscular build, small genitals, and possibly taller than average stature",
+      "High-pitched voice, muscular build from growth hormone compensation, and normal-sized genitals",
+      "Normal voice pitch, small genitals, and short stature due to early epiphyseal closure from preserved adrenal androgens"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 27,
     "type": "mcq",
-    "stem": "Somatic (body) cells undergo which type of cell division for replication, in contrast to germ cells which replicate by meiosis?",
+    "stem": "CASE STUDY: The patient from Q26 who was castrated before puberty is taller than average for his age group. The nurse explains the mechanism of this height advantage. Which physiological explanation is MOST accurate?",
     "options": [
-      "Amitosis",
-      "Binary fission",
-      "Mitosis",
-      "Endomitosis"
+      "Absence of testosterone prevents the pre-pubertal growth hormone surge, causing continuous compensatory growth hormone secretion throughout adolescence",
+      "Reduction in sex hormone production reduces oestrogen (derived via aromatization of testosterone), which delays or prevents early epiphyseal closure permitting continued bone length growth",
+      "Absence of testicular androgens triggers hypothalamic upregulation of IGF-1, which is the sole determinant of the increased height",
+      "Loss of negative feedback from testosterone leads to gross elevation of LH, which independently stimulates long bone growth plates via a direct receptor mechanism"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 28,
     "type": "mcq",
-    "stem": "After meiotic division is completed in the female, how many germ cells are produced, and what is their chromosomal content?",
+    "stem": "CASE STUDY: The same pre-pubertal castration patient (Q26) asks whether pubic hair ever develops after castration before puberty. Which response is clinically MOST accurate based on the curriculum?",
     "options": [
-      "Four germ cells, each containing 23X chromosomes",
-      "Two germ cells, each containing 23X chromosomes",
-      "One germ cell (ovum) containing 23X chromosomes",
-      "One germ cell (ovum) containing either 23X or 23Y"
+      "Pubic hair will never develop under any circumstances as all androgenic stimulus has been permanently removed",
+      "Pubic hair may develop (driven by adrenal androgens) but libido will be reduced or absent entirely",
+      "Pubic hair will develop fully because growth hormone independently drives adrenarche regardless of testicular status",
+      "Pubic hair and libido will develop normally because peripheral tissues convert adrenal cortisol to active androgens"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 29,
     "type": "mcq",
-    "stem": "Following meiotic division in the male, four spermatozoa are produced. What is the CORRECT chromosomal breakdown of these four germ cells?",
+    "stem": "When castration occurs AFTER the onset of puberty, which effect on libido is MOST expected compared to pre-pubertal castration?",
     "options": [
-      "All four carry 23X chromosomes",
-      "2 carry 23X chromosomes and 2 carry 23Y chromosomes",
-      "1 carries 23X and 3 carry 23Y chromosomes",
-      "3 carry 23X and 1 carries 23Y chromosomes"
+      "Libido is completely unaffected because the hypothalamic set-point for sexual drive was established during puberty",
+      "Castration after the onset of puberty will typically substantially reduce or completely eliminate libido",
+      "Libido increases after post-pubertal castration due to a rebound in LH-driven adrenal androgen production",
+      "Libido is transiently reduced for 6 to 12 months before normalizing as adrenal androgens compensate fully"
     ],
     "answer": "B"
   },
   {
     "id": 30,
     "type": "mcq",
-    "stem": "From a genetic standpoint, the capacity to produce a male offspring is determined solely by which single factor?",
+    "stem": "Castration at any age renders the individual permanently sterile. Which mechanism MOST precisely explains the basis of post-castration sterility?",
     "options": [
-      "The chromosomal composition of the maternal ovum",
-      "The genetic composition of the paternal germ cell selected at the moment of fertilization",
-      "Equal chromosomal contributions from both the mother and father",
-      "The hormonal environment of the uterus at the time of implantation"
+      "Castrated individuals become sterile because the pituitary ceases to produce FSH without gonadal negative feedback",
+      "Castrated individuals cannot produce eggs or sperm as the gonads, which are the sole sites of gametogenesis, have been removed",
+      "Castration abolishes ejaculation reflexes at the spinal cord level, preventing gamete transport even if germ cells survived",
+      "The vas deferens fibroses after castration, creating mechanical obstruction regardless of residual spermatogenic tissue"
     ],
     "answer": "B"
   },
   {
     "id": 31,
     "type": "mcq",
-    "stem": "In the complete absence of functional testicular tissue, the MÃ¼llerian ducts (paramesonephric ducts) will develop into which specific structures?",
+    "stem": "Sex hormones are thought to prime the action of growth hormone before puberty, enhancing the secondary growth spurt. Where in the pubertal timeline does this secondary growth spurt typically appear?",
     "options": [
-      "Epididymis, vas deferens, and seminal vesicles",
-      "Fallopian tubes, uterus, and upper one-third of the vagina",
-      "Fallopian tubes, uterus, and lower one-third of the vagina",
-      "Ovaries, fallopian tubes, and uterus"
+      "At the precise midpoint of the pubertal timeline when gonadotropin levels peak",
+      "Just before the onset of puberty",
+      "Concurrently with the first appearance of secondary sexual characteristics",
+      "After the completion of all secondary sexual characteristics including genital maturation"
     ],
     "answer": "B"
   },
   {
     "id": 32,
     "type": "mcq",
-    "stem": "In the presence of functional testicular tissue, which specific testicular cells are responsible for synthesizing and secreting MÃ¼llerian inhibiting substance (MIS)?",
+    "stem": "The curriculum states that sudden castration at the point just before pubertal onset produces a specific skeletal effect that is distinct from the effect of castration done well before puberty. What is this distinct effect?",
     "options": [
-      "Leydig (interstitial) cells of the testis",
-      "Sertoli (sustentacular) cells of the testis",
-      "Spermatogonial (stem) cells of the testis",
-      "Peritubular myoid cells of the testis"
+      "It will accelerate general skeletal growth beyond the normal pubertal growth spurt amplitude",
+      "It will not affect general skeletal growth but will inhibit early epiphyseal closure",
+      "It will immediately halt all longitudinal bone growth by depriving growth plates of androgen co-stimulation",
+      "It will produce equivalent height outcomes to pre-pubertal castration because epiphyseal closure has not yet begun"
     ],
     "answer": "B"
   },
   {
     "id": 33,
     "type": "mcq",
-    "stem": "MÃ¼llerian inhibiting substance produced by Sertoli cells stimulates the degeneration of the MÃ¼llerian duct while simultaneously promoting development of which duct system into male internal genitalia?",
+    "stem": "Precocious puberty is said to occur when secondary sexual characteristics develop before a defined age threshold. What age range defines precocious puberty?",
     "options": [
-      "Paramesonephric duct",
-      "Pronephric duct",
-      "Wolffian duct (mesonephric duct)",
-      "Metanephric duct"
+      "Before 6 to 8 years",
+      "Before 7 to 9 years",
+      "Before 8 to 10 years",
+      "Before 9 to 11 years"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 34,
     "type": "mcq",
-    "stem": "During embryological development of the reproductive system, internal genitalia differentiation begins from the 8th week. Between which gestational weeks can separate internal genitalia be distinctly identified?",
+    "stem": "Among the causes of precocious puberty, which aetiology accounts for the MAJORITY of cases in the gonadotropin-dependent category?",
     "options": [
-      "4 to 6 weeks of gestation",
-      "6 to 8 weeks of gestation",
-      "8 to 9 weeks of gestation",
-      "10 to 12 weeks of gestation"
+      "Hypothalamic hamartoma producing pulsatile GnRH",
+      "Idiopathic (unknown cause) in the majority of cases",
+      "Langerhans cell histiocytosis involving the hypothalamus",
+      "Tumour in the hypothalamo-pituitary axis"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 35,
     "type": "mcq",
-    "stem": "Following internal genitalia differentiation, separate external genitalia can be identified at which gestational age?",
+    "stem": "Among the causes of gonadotropin-dependent precocious puberty, a specific hypothalamic lesion can independently produce pulsatile GnRH release, triggering the HPO axis prematurely. This lesion is:",
     "options": [
-      "8 to 9 weeks of gestation",
-      "10 to 12 weeks of gestation",
-      "12 to 14 weeks of gestation",
-      "6 to 8 weeks of gestation"
+      "Craniopharyngioma located in the suprasellar region",
+      "Hypothalamic hamartoma",
+      "Langerhans cell histiocytosis of the hypothalamic neurons",
+      "Pinealoma causing local hypothalamic compression"
     ],
     "answer": "B"
   },
   {
     "id": 36,
     "type": "mcq",
-    "stem": "Female pseudo-hermaphrodites possess 46XX chromosomal composition but develop virilized external genitalia. During which precise gestational window must androgen exposure occur to produce this virilization?",
+    "stem": "Gonadotropin-independent precocious puberty can result from fetal or postnatal exogenous hormonal exposure. Which exogenous hormone source is specifically named as a cause in this curriculum?",
     "options": [
-      "4th to 8th weeks of gestation",
-      "8th to 13th weeks of gestation",
-      "13th to 18th weeks of gestation",
-      "18th to 24th weeks of gestation"
+      "Maternal use of thyroid replacement therapy during pregnancy",
+      "Exposure to oestrogens or androgens from therapeutic administration or tumour-producing hormones",
+      "Exogenous growth hormone therapy administered in early infancy",
+      "Maternal use of progestin-only contraception during the first trimester"
     ],
     "answer": "B"
   },
   {
     "id": 37,
     "type": "mcq",
-    "stem": "In male pseudo-hermaphroditism, testicular malfunction leads to the non-production of two critical substances. Which combination of substances is absent, resulting in abnormal genital development?",
+    "stem": "McCune-Albright syndrome is specifically listed among the causes of precocious puberty. Under which pathophysiological category of precocious puberty does this syndrome fall?",
     "options": [
-      "FSH and LH exclusively",
-      "Testosterone and estrogen",
-      "MÃ¼llerian inhibiting substance and testosterone",
-      "Estrogen and progesterone"
+      "Gonadotropin-dependent (central) precocious puberty via hypothalamic activation",
+      "Gonadotropin-independent precocious puberty via autonomous peripheral gonadal activity",
+      "Eugonadotrophic delayed puberty with paradoxical early virilization",
+      "Hypergonadotropic hypogonadism with intermittent autonomous steroid secretion"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 38,
     "type": "mcq",
-    "stem": "True hermaphrodites are distinguished from all pseudo-hermaphrodites by which unique characteristic?",
+    "stem": "The three therapeutic goals of treating precocious puberty in a girl-child are specifically stated in this curriculum. Which combination CORRECTLY identifies all three goals?",
     "options": [
-      "They possess only ovarian tissue despite a male external phenotype",
-      "They possess both ovarian and testicular tissue, producing male and female hormones in nearly equal amounts",
-      "They possess only testicular tissue despite a female external phenotype",
-      "They have a 46XX karyotype with exclusively androgenic phenotypic manifestations"
+      "Induce normal puberty at an appropriate age, prevent early fertility, and maximize adult bone mineral density",
+      "Protect the girl-child from sexual abuse, suppress premature activation of the HPO axis, and prevent short stature",
+      "Normalize gonadotropin levels, prevent early menarche, and promote a normal body image",
+      "Prevent epiphyseal closure, induce regression of secondary sexual characteristics, and normalize adrenal androgen levels"
     ],
     "answer": "B"
   },
   {
     "id": 39,
     "type": "mcq",
-    "stem": "Pubic hair distribution in females during puberty follows a distinct triangular pattern. How does the orientation of this triangle differ from the male pattern?",
+    "stem": "Management of precocious puberty requires specific investigations. According to the curriculum, which imaging modalities and laboratory assessments are CRITICAL in the diagnostic workup?",
     "options": [
-      "In females, the base of the pubic hair triangle faces downward (inverted triangle)",
-      "In females, the base of the pubic hair triangle faces upward",
-      "In females, hair distributes predominantly lateral toward the thighs",
-      "In females, the pubic hair forms no triangular pattern"
+      "DEXA scan for bone age, thyroid function tests, and fasting insulin levels",
+      "X-rays, ultrasound, CT, and MRI as well as reproductive hormonal assays",
+      "Karyotyping, adrenal vein sampling, and laparoscopy for gonadal biopsy",
+      "EEG, skull X-ray, and 24-hour urinary catecholamine assay"
     ],
     "answer": "B"
   },
   {
     "id": 40,
     "type": "mcq",
-    "stem": "Under the influence of estrogen during female puberty, body shape undergoes characteristic changes. Which combination MOST accurately describes these changes?",
+    "stem": "Delayed puberty is defined by two specific clinical scenarios. Which combination CORRECTLY captures BOTH diagnostic criteria for delayed puberty?",
     "options": [
-      "Shoulders broaden, hips narrow, thighs diverge, and arms converge",
-      "Shoulders narrow, hips broaden, thighs become convergent, and arms become divergent (wide carrying angle)",
-      "Shoulders narrow, hips narrow, thighs diverge, and arms assume a neutral position",
-      "Shoulders broaden, hips broaden, thighs converge, and arms converge"
+      "Secondary sexual characteristics absent at 18 years in males OR menarche absent at 16 years in females",
+      "Secondary sexual characteristics absent at 20 years in males and menarche absent at 17 years in females, OR failure of mensuration five years after commencement of puberty",
+      "No breast development at 14 years in females OR no testicular enlargement at 14 years in males",
+      "Secondary sexual characteristics absent at 16 years in males and menarche absent at 15 years in females"
     ],
     "answer": "B"
   },
   {
     "id": 41,
     "type": "mcq",
-    "stem": "Unlike males, in whom the larynx enlarges significantly during puberty causing voice deepening, which statement BEST describes what happens to the female larynx during puberty?",
+    "stem": "Delayed puberty caused by hypergonadotropic hypogonadism is characterised by which specific gonadotropin pattern and its most common underlying aetiology?",
     "options": [
-      "It enlarges moderately, producing a slight but perceptible lowering of voice pitch",
-      "It remains prepubertal in size, maintaining a characteristically high-pitched voice",
-      "It undergoes functional regression leading to a softer, breathier vocal quality",
-      "It enlarges at the same rate as in males but estrogen counteracts the pitch change"
+      "Low FSH and LH due to hypothalamic GnRH deficiency from a tumour or congenital cause",
+      "High FSH and LH due to primary ovarian failure (idiopathic, genetic, traumatic, iatrogenic, chemical, or radiation destruction)",
+      "Normal FSH and LH with end-organ (gonadal) resistance to circulating gonadotropins",
+      "Pulsatile FSH with tonic LH elevation due to autonomous adrenal androgen overproduction"
     ],
     "answer": "B"
   },
   {
     "id": 42,
     "type": "mcq",
-    "stem": "According to reproductive physiology classification, sex can be systematically divided into how many distinct categories?",
+    "stem": "Hypogonadotropic hypogonadism as a cause of delayed puberty is distinguished from hypergonadotropic hypogonadism by which gonadotropin pattern, and which syndrome involves HP axis destruction causing this pattern?",
     "options": [
-      "5 categories",
-      "6 categories",
-      "7 categories",
-      "8 categories"
+      "High FSH/LH; Kallmann's syndrome and craniopharyngioma",
+      "Low FSH/LH; Kallmann's syndrome and craniopharyngioma as HP axis-destroying conditions",
+      "Low FSH/LH; McCune-Albright syndrome and congenital adrenal hyperplasia",
+      "Normal FSH/LH; isolated GnRH deficiency in Prader-Willi syndrome and constitutional delay"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 43,
     "type": "mcq",
-    "stem": "In the seven-category classification of sex, 'genetic sex' is defined by which molecular criterion that distinguishes males from females?",
+    "stem": "Eugonadotrophic delayed puberty represents a third category of delayed puberty where gonadotropin levels are normal. Which specific anatomical obstructive conditions are named as causes in this category?",
     "options": [
-      "Presence of the Y chromosome versus the X chromosome in somatic cells",
-      "Presence of testes versus ovaries as the gonadal structure",
-      "Activity of the SRY gene being present in the male and absent in the female",
-      "Presence of spermatozoa versus ova as the gametic product"
+      "Bicornuate uterus, cervical stenosis, and endometrial adhesions (Asherman's syndrome)",
+      "Imperforate hymen, transverse vaginal septum, and androgen insensitivity",
+      "Ovarian agenesis, fallopian tube aplasia, and mÃ¼llerian agenesis",
+      "Polycystic ovarian syndrome, hypothyroidism, and hyperprolactinaemia"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 44,
     "type": "mcq",
-    "stem": "The classification known as 'sex of rearing' is MOST accurately described by which of the following statements?",
+    "stem": "Masters and Johnson conducted their pioneering research on human sexual response by direct observation of subjects. How many women and how many men participated in the initial phase of their studies from 1957 to 1965?",
     "options": [
-      "It is determined exclusively by the chromosomal karyotype established at conception",
-      "It depends primarily on the phenotypic sex direction and may be decided by parents early in childhood, then later potentially re-evaluated by the individual",
-      "It invariably corresponds with the individual's gonadal sex",
-      "It is exclusively determined by the hormonal profile that emerges after puberty"
+      "300 women and 250 men",
+      "382 women and 312 men",
+      "400 women and 350 men",
+      "350 women and 300 men"
     ],
     "answer": "B"
   },
   {
     "id": 45,
     "type": "mcq",
-    "stem": "The female state in genetic sex differentiation is described as a 'neuter state.' Which statement MOST accurately explains the basis for this designation?",
+    "stem": "The research by Masters and Johnson from 1957 to 1965 conservatively estimated the total number of complete cycles of sexual response directly observed. What was this conservative estimate?",
     "options": [
-      "Females lack any functional sex chromosomes in their somatic cells",
-      "Ovarian development occurs automatically in the absence of the Y chromosome, although a normal X chromosome remains vital for further female genitalia development",
-      "Female germ cells are non-functional without external hormonal stimulation from puberty onwards",
-      "The female gonad produces no sex hormones without constant gonadotropin stimulation throughout life"
+      "5,000 complete cycles",
+      "8,000 complete cycles",
+      "10,000 complete cycles",
+      "12,000 complete cycles"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 46,
     "type": "mcq",
-    "stem": "Although the female developmental pathway proceeds automatically without a Y chromosome, which chromosome remains absolutely vital for the complete development of female genitalia?",
+    "stem": "Masters and Johnson authored two landmark books based on their sexual response research. What were the publication years of 'Human Sexual Response' and 'Human Sexual Inadequacy' respectively?",
     "options": [
-      "Any autosomal chromosome from pairs 1 to 22",
-      "A structurally normal X chromosome",
-      "The condensed (inactive) X chromosome (Barr body)",
-      "A structural fragment of the Y chromosome"
+      "1963 and 1968",
+      "1964 and 1970",
+      "1966 and 1970",
+      "1965 and 1972"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 47,
     "type": "mcq",
-    "stem": "Under the influence of estrogen during female puberty, the vaginal mucosa undergoes which specific histological transformation?",
+    "stem": "Vulvo-vaginitis in children can result from multiple causes. Which combination of causes is MOST comprehensively listed in this curriculum?",
     "options": [
-      "Development of atrophied thin squamous epithelium poorly adapted for lubrication",
-      "Development of glycogen-rich epithelium providing an optimal vaginal environment",
-      "Development of keratinized stratified squamous epithelium similar to skin",
-      "Predominance of columnar secretory epithelium replacing squamous tissue"
+      "Candida overgrowth, antibiotic use, synthetic underwear, and chlorinated pool water exposure",
+      "Low oestrogen, poor urinating and defecating, menstrual and social hygiene issues, foreign body insertion, trauma, and sexually transmitted diseases including sexual abuse",
+      "Group B streptococcal colonisation, viral infections, and lichen sclerosus in pre-pubertal children",
+      "Pinworm infestation, bubble bath irritants, nappy rash, and urinary tract contamination"
     ],
     "answer": "B"
   },
   {
     "id": 48,
     "type": "mcq",
-    "stem": "The term 'gonadarche' refers specifically to which physiological event during female puberty?",
+    "stem": "A child presenting with vulvo-vaginitis should be examined in which specific physical positions to allow adequate assessment?",
     "options": [
-      "The appearance of the first firm lump beneath the areola indicating breast development onset",
-      "The onset of the first menstrual period as the uterus achieves functional maturity",
-      "The stimulation of ovarian growth in size by circulating gonadotropins",
-      "The adrenal androgen-driven development of pubic and axillary hair"
+      "Lithotomy position and left lateral (Sims) position",
+      "Knee-chest position and dorsal recumbent position",
+      "Knee-chest or frog-leg position",
+      "Standing squat position and left lateral decubitus position"
     ],
     "answer": "C"
   },
   {
     "id": 49,
     "type": "mcq",
-    "stem": "A nursing student lists the clinical features of Klinefelter's syndrome for a viva examination. Which of the following features is NOT characteristic of Klinefelter's syndrome?",
+    "stem": "When examining a child with vulvo-vaginitis, what specific diagnostic action should the examining clinician always perform at the time of examination to maximize diagnostic yield?",
     "options": [
-      "Small poorly-functioning testes",
-      "Infertility due to impaired spermatogenesis",
-      "Short stature compared to the general population",
-      "Gynaecomastia due to relatively elevated estrogen levels"
+      "Perform a colposcopy with acetic acid application to identify subclinical mucosal changes",
+      "Take a swab for culture and sensitivity",
+      "Perform a Papanicolaou smear to screen for viral cytopathic changes",
+      "Collect a mid-stream urine sample and blood for full septic workup simultaneously"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 50,
     "type": "mcq",
-    "stem": "Puberty is formally defined as a developmental period characterized by maturation of which specific gonadal functions to a threshold level that enables a particular biological capability?",
+    "stem": "The primary reason why pre-pubertal girls are particularly predisposed to vulvo-vaginitis compared to post-pubertal females is MOST directly attributed to which physiological factor?",
     "options": [
-      "Complete development of secondary sexual characteristics with simultaneous growth spurt cessation",
-      "Development of endocrine and gametogenic functions to a point where reproduction becomes possible",
-      "Completion of the growth spurt with fusion of all epiphyseal growth plates",
-      "Achievement of full psychological and emotional maturity in conjunction with physical development"
+      "Absence of protective labial fat pads allowing direct environmental exposure of the vaginal introitus",
+      "Low oestrogen levels resulting in thin atrophic vaginal epithelium with absent glycogen-rich protective mucosal environment",
+      "Immature immune system incapable of producing secretory IgA for vaginal mucosal defence",
+      "Alkaline vaginal pH due to absent lactobacilli that only colonise the vagina after oestrogen-driven menarche"
     ],
     "answer": "B"
   },
   {
     "id": 51,
-    "type": "mcq",
-    "stem": "CASE STUDY: A 14-year-old boy is brought to the outpatient clinic by his mother who is concerned about bilateral breast tissue she noticed 3 months ago. He began puberty approximately 12 months ago. Examination confirms Tanner stage III pubic hair, enlarging testes bilaterally, and palpable bilateral breast tissue. The attending nurse explains that this breast development is MOST likely attributable to:",
-    "options": [
-      "Excess testosterone production causing enhanced peripheral aromatization to estrogen",
-      "Estrogen-induced breast enlargement occurring as a normal transient variant during male puberty",
-      "Subclinical hypothyroidism causing gynecomastia unrelated to pubertal hormonal changes",
-      "A prolactin-secreting pituitary microadenoma requiring urgent imaging"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "Menopause is defined as a retrospective diagnosis made after waiting for ___ year/years without a period, representing the last menstrual period.",
+    "answer": "one",
+    "acceptableAnswers": ["one", "1", "one year", "1 year"]
   },
   {
     "id": 52,
-    "type": "mcq",
-    "stem": "CASE STUDY: The mother of the same 14-year-old boy with pubertal gynaecomastia is anxious. She asks the nurse what will happen to the breast tissue if no treatment is given. Which statement MOST accurately reflects the expected natural history?",
-    "options": [
-      "The breast tissue will enlarge permanently and require surgical mastectomy in adulthood",
-      "The breast tissue will spontaneously recede as testosterone production progressively predominates over estrogen",
-      "The condition will worsen with further pubertal development and requires anti-estrogen therapy immediately",
-      "The finding is pathological at this Tanner stage and mandates immediate endocrinological referral regardless of progression"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "Natural menopause occurs between the ages of ___ and ___ years in females.",
+    "answer": "45 / 55",
+    "acceptableAnswers": ["45 / 55", "45-55", "forty-five / fifty-five", "45 to 55"]
   },
   {
     "id": 53,
-    "type": "mcq",
-    "stem": "CASE STUDY: The mother of the 14-year-old boy asks: 'What was the very first sign that my son entered puberty before any of these changes I see now?' The nurse correctly responds that the first physical sign of puberty in males is:",
-    "options": [
-      "Appearance of fine pubic hair at the base of the penis",
-      "Enlargement of the testis, which is the very first physical sign",
-      "Initiation of the pubertal growth spurt with rapid height increase",
-      "Onset of voice cracking indicating laryngeal enlargement"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "Although the function of the testis tends to decline slowly with advancing age, there is no male menopause similar to that obtained in the female because the ability to produce ___ persists and may never completely cease.",
+    "answer": "spermatozoa",
+    "acceptableAnswers": ["spermatozoa", "sperm", "spermatozoa/sperm", "sperms"]
   },
   {
     "id": 54,
-    "type": "mcq",
-    "stem": "CASE STUDY: A 16-year-old girl presents with primary amenorrhea. On examination she has short stature, a broad shield-like chest with widely spaced nipples, a low posterior hairline, and webbed neck. Chromosomal analysis confirms a 45XO karyotype. This presentation is MOST consistent with which condition?",
-    "options": [
-      "Klinefelter's syndrome presenting atypically in a phenotypic female",
-      "Super female syndrome (47XXX) with growth hormone deficiency",
-      "Turner's syndrome",
-      "Female pseudo-hermaphroditism with 46XX karyotype"
-    ],
-    "answer": "C"
+    "type": "fitb",
+    "stem": "With advancing age, ovarian follicles begin to atrophy and ovarian hormones (specifically ___) continue to decline to very low levels, causing loss of feedback inhibition on the hypothalamus and pituitary, with eventual gross elevation of ___.",
+    "answer": "oestradiol / gonadotropins",
+    "acceptableAnswers": [
+      "oestradiol / gonadotropins",
+      "estradiol / gonadotropins",
+      "oestradiol / FSH and LH",
+      "estradiol / FSH and LH"
+    ]
   },
   {
     "id": 55,
-    "type": "mcq",
-    "stem": "CASE STUDY: For the same 16-year-old girl with confirmed Turner's syndrome (45XO), what is the EXPECTED status of her ovaries?",
-    "options": [
-      "Functioning ovaries that produce estrogen but with structural uterine abnormalities preventing menstruation",
-      "Non-functioning streak ovaries incapable of steroidogenesis or oogenesis",
-      "Absent uterus with paradoxically functioning estrogen-producing ovaries",
-      "Hypoplastic ovaries with partial follicular function and irregular menstruation"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "The predominant oestrogen in the post-menopausal state is ___, which is a product of adrenal and stromal cells of the ovary via peripheral ___ of androgens.",
+    "answer": "oestrone / aromatization",
+    "acceptableAnswers": [
+      "oestrone / aromatization",
+      "estrone / aromatization",
+      "oestrone / aromatisation",
+      "estrone / aromatisation"
+    ]
   },
   {
     "id": 56,
-    "type": "mcq",
-    "stem": "CASE STUDY: Beyond primary reproductive features, the nurse caring for the patient with Turner's syndrome (45XO) prioritizes screening for which organ system abnormalities specifically noted in this condition?",
-    "options": [
-      "Hepatic and pulmonary abnormalities",
-      "Neurological and gastrointestinal abnormalities",
-      "Cardiac and renal abnormalities",
-      "Hematological and dermatological abnormalities"
-    ],
-    "answer": "C"
+    "type": "fitb",
+    "stem": "The term ___ refers to the period of waning of ovarian function that includes both the menopause and the post-menopausal period.",
+    "answer": "climacteric",
+    "acceptableAnswers": ["climacteric", "Climacteric", "the climacteric"]
   },
   {
     "id": 57,
-    "type": "mcq",
-    "stem": "CASE STUDY: A 13-year-old girl from a rural community in a low-resource setting presents with no breast development. Her mother reports that she herself started menstruating at 16 years of age. The nurse explains that the average age of pubertal onset in girls is:",
-    "options": [
-      "8 to 9 years of age",
-      "10 to 11 years of age",
-      "11 to 12 years of age",
-      "12 to 13 years of age"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "Premature menopause is defined as the cessation of menstruation before the age of ___ years.",
+    "answer": "40",
+    "acceptableAnswers": ["40", "forty", "40 years", "forty years"]
   },
   {
     "id": 58,
-    "type": "mcq",
-    "stem": "CASE STUDY: The same nurse explains to the family that menarche in resource-limited environments typically occurs later than the developed world average of 12.6 years. By approximately how many years is menarche delayed in such environments?",
-    "options": [
-      "Approximately 1 year later",
-      "Approximately 2 years later",
-      "Approximately 3 years later",
-      "Approximately 4 years later"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "Menopausal physical changes due to collagen loss result in genital atrophy, which causes ___ (painful intercourse), and osteoporosis which predisposes to ___.",
+    "answer": "dyspareunia / fractures",
+    "acceptableAnswers": [
+      "dyspareunia / fractures",
+      "dyspareunia / bone fractures",
+      "painful intercourse / fractures",
+      "dyspareunia / fracture"
+    ]
   },
   {
     "id": 59,
-    "type": "mcq",
-    "stem": "CASE STUDY: During health education for the family of the girl with delayed puberty, the nurse mentions that certain genetic disorders are associated with delayed puberty. Which genetic disorder specifically mentioned in standard reproductive physiology teaching causes delayed puberty?",
-    "options": [
-      "Thalassemia major",
-      "Glucose-6-phosphate dehydrogenase (G6PD) deficiency",
-      "Sickle cell disease",
-      "Hereditary spherocytosis"
-    ],
-    "answer": "C"
+    "type": "fitb",
+    "stem": "The menopausal metabolic changes that increase coronary artery disease risk are characterized by a lipid profile of ___ LDL and ___ HDL.",
+    "answer": "high / low",
+    "acceptableAnswers": ["high / low", "elevated / reduced", "high LDL / low HDL", "increased / decreased"]
   },
   {
     "id": 60,
-    "type": "mcq",
-    "stem": "CASE STUDY: A newborn is delivered with ambiguous external genitalia. Urgent chromosomal analysis reveals a 46XX karyotype. The neonatologist suspects that the virilized appearance resulted from significant androgen exposure during a critical embryological window. This presentation is MOST consistent with:",
-    "options": [
-      "True hermaphroditism with equal ovarian and testicular tissue present",
-      "Male pseudo-hermaphroditism secondary to testicular Leydig cell hyperplasia",
-      "Female pseudo-hermaphroditism with virilization of external genitalia",
-      "Klinefelter's syndrome variant presenting in a chromosomally female individual"
-    ],
-    "answer": "C"
+    "type": "fitb",
+    "stem": "Menopausal symptoms including hot flushes, genital atrophy, osteoporosis, and psychological changes can be reversed by hormone replacement therapy using ___ and ___.",
+    "answer": "estrogen / progestogens",
+    "acceptableAnswers": [
+      "estrogen / progestogens",
+      "oestrogen / progestogens",
+      "estrogens / progestogens",
+      "oestrogen / progesterone"
+    ]
   },
   {
     "id": 61,
-    "type": "mcq",
-    "stem": "CASE STUDY: For the 46XX newborn with ambiguous external genitalia, during which precise gestational window must androgen exposure have occurred to produce external genital virilization?",
-    "options": [
-      "4th to 8th weeks of gestation",
-      "8th to 13th weeks of gestation",
-      "13th to 18th weeks of gestation",
-      "18th to 24th weeks of gestation"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "HRT is used when target hormones are low or absent during the reproductive age of the woman, which is defined in this curriculum as ages ___ to ___ years.",
+    "answer": "15 / 44",
+    "acceptableAnswers": ["15 / 44", "15-44", "fifteen to forty-four", "15 to 44 years"]
   },
   {
     "id": 62,
-    "type": "mcq",
-    "stem": "CASE STUDY: Despite virilized external genitalia in the 46XX pseudo-hermaphrodite, what would the internal reproductive organs MOST likely consist of?",
-    "options": [
-      "Vas deferens, seminal vesicles, and prostate gland (Wolffian duct derivatives)",
-      "Fallopian tubes, uterus, and upper one-third of the vagina (MÃ¼llerian duct derivatives)",
-      "Absent MÃ¼llerian structures due to androgen-induced regression",
-      "Both MÃ¼llerian and Wolffian duct derivatives in nearly equal proportion"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "The specific estrogen formulations that constitute postmenopausal HRT include 17 beta-estradiol, conjugated equine estrogens, esterified estrogens, and ___.",
+    "answer": "estriol",
+    "acceptableAnswers": ["estriol", "oestriol", "Estriol", "Oestriol"]
   },
   {
     "id": 63,
-    "type": "mcq",
-    "stem": "CASE STUDY: A researcher studying meiotic division reports that after meiosis in the male, four spermatozoa are produced. What is the PRECISE chromosomal composition of these four germ cells?",
-    "options": [
-      "All four carry 23X chromosomes only",
-      "One carries 23X and three carry 23Y chromosomes",
-      "Two carry 23X chromosomes and two carry 23Y chromosomes",
-      "Three carry 23X and one carries 23Y chromosomes"
-    ],
-    "answer": "C"
+    "type": "fitb",
+    "stem": "The two naturally occurring progestogens named in this curriculum for use in HRT formulations are Progesterone ___ and 17-___ OH progesterone.",
+    "answer": "P4 / alpha",
+    "acceptableAnswers": ["P4 / alpha", "P4 / -alpha", "P4 / alpha (17-alpha OH progesterone)"]
   },
   {
     "id": 64,
-    "type": "mcq",
-    "stem": "CASE STUDY: The same researcher notes an important asymmetry between male and female gametic contributions. Regardless of which sperm fertilizes the ovum, the female will always contribute which chromosome to every single offspring?",
-    "options": [
-      "The Y chromosome derived from a pre-meiotic precursor cell",
-      "Either the X or the Y chromosome depending on random meiotic segregation",
-      "The X chromosome exclusively in every offspring",
-      "Both X and Y chromosomes in equal proportions across all offspring"
-    ],
-    "answer": "C"
+    "type": "fitb",
+    "stem": "In HRT, the progestogen and estrogen components are given ___ to mimic the natural cycle, rather than being administered simultaneously as a fixed combination.",
+    "answer": "sequentially",
+    "acceptableAnswers": ["sequentially", "in sequence", "sequentially (in sequence)"]
   },
   {
     "id": 65,
-    "type": "mcq",
-    "stem": "CASE STUDY: In the researcher's experiment, a spermatozoon carrying 23Y chromosomes successfully fertilizes an ovum. Which sex chromosome complement will the resulting zygote carry?",
-    "options": [
-      "46XX â resulting in a genotypic and phenotypic female",
-      "46XY â resulting in a genotypic male",
-      "47XXY â resulting in Klinefelter's syndrome",
-      "45XO â resulting in Turner's syndrome"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "The six absolute contraindications to HRT include: undiagnosed vaginal bleeding, severe liver disease, pregnancy, coronary artery disease, well-differentiated and early endometrial cancer, and recent ___ or ___.",
+    "answer": "DVT / stroke",
+    "acceptableAnswers": [
+      "DVT / stroke",
+      "deep vein thrombosis / stroke",
+      "DVT or stroke",
+      "stroke / DVT",
+      "deep venous thrombosis / stroke"
+    ]
   },
   {
     "id": 66,
     "type": "fitb",
-    "stem": "The adolescent period, which represents the transition from childhood to adulthood and is a period of mental maturation, spans from ___ to 19 years of age, overlapping considerably with the pubertal period.",
-    "answer": "10",
-    "acceptableAnswers": ["10", "ten", "age 10", "10 years"]
+    "stem": "Under the relative contraindications to HRT, the two cancer-related histories listed are personal history of ___ cancer and personal history of ___ cancer.",
+    "answer": "breast / ovarian",
+    "acceptableAnswers": [
+      "breast / ovarian",
+      "ovarian / breast",
+      "breast cancer / ovarian cancer"
+    ]
   },
   {
     "id": 67,
     "type": "fitb",
-    "stem": "After sperm production begins in males at approximately 13 years of age, the first remarkable pubertal event that follows is ___.",
-    "answer": "ejaculation",
-    "acceptableAnswers": ["ejaculation", "first ejaculation", "spermarche/ejaculation", "ejaculation (spermarche)"]
+    "stem": "Active gallbladder disease is a ___ contraindication to HRT, and specifically includes the conditions ___ and ___.",
+    "answer": "relative / cholangitis / cholecystitis",
+    "acceptableAnswers": [
+      "relative / cholangitis / cholecystitis",
+      "relative contraindication / cholangitis / cholecystitis",
+      "relative / cholecystitis / cholangitis"
+    ]
   },
   {
     "id": 68,
     "type": "fitb",
-    "stem": "The growth spurt in puberty occurs ___ years earlier in girls than in boys; in boys, the rate of growth is slower but lasts longer, making boys generally ___ than girls in final adult height.",
-    "answer": "2 / taller",
-    "acceptableAnswers": ["2 / taller", "two / taller", "2 years / taller", "2 / taller in stature"]
+    "stem": "Among the common side effects of HRT, swelling of the hands, feet, or lower legs occurs due to ___, while changes in the breast include tenderness, ___, or discharge.",
+    "answer": "fluid retention / enlargement",
+    "acceptableAnswers": [
+      "fluid retention / enlargement",
+      "fluid retention / breast enlargement",
+      "oedema/fluid retention / enlargement"
+    ]
   },
   {
     "id": 69,
     "type": "fitb",
-    "stem": "The specific term for the process by which circulating gonadotropins stimulate the ovaries to grow in size during female puberty is ___.",
-    "answer": "gonadarche",
-    "acceptableAnswers": ["gonadarche", "Gonadarche"]
+    "stem": "A person castrated before the onset of puberty retains a ___ voice and a non-muscular build, and may be ___ than average because reduced oestrogen (from aromatization of testosterone) hinders early closure of epiphyses.",
+    "answer": "high / taller",
+    "acceptableAnswers": ["high / taller", "high-pitched / taller", "high pitched / taller than average"]
   },
   {
     "id": 70,
     "type": "fitb",
-    "stem": "During female puberty, body shape is altered by estrogen such that the shoulders become ___ while the hips become ___, and the thighs become convergent while the arms become divergent (wide carrying angle).",
-    "answer": "narrow / broad",
-    "acceptableAnswers": ["narrow / broad", "narrower / broader", "narrow / wide", "narrower / wider"]
+    "stem": "After castration before puberty, pubic hair ___ develop, but libido is reduced to ___ at all.",
+    "answer": "may / none",
+    "acceptableAnswers": [
+      "may / none",
+      "may still / none",
+      "may / nothing/none"
+    ]
   },
   {
     "id": 71,
     "type": "fitb",
-    "stem": "In the Tanner staging of pubic hair (pubarche), following the stage of no hair (Stage I, before puberty), the next stage (Stage ___) is characterized by the presence of labial hairs only.",
-    "answer": "II",
-    "acceptableAnswers": ["II", "2", "two", "stage 2", "stage II"]
+    "stem": "Castration performed after the onset of puberty typically ___ libido substantially or ___ it in total, and renders the individual automatically ___.",
+    "answer": "reduces / eliminates / sterile",
+    "acceptableAnswers": [
+      "reduces / eliminates / sterile",
+      "reduces / eliminate / sterile",
+      "reduces libido / eliminates / sterile"
+    ]
   },
   {
     "id": 72,
     "type": "fitb",
-    "stem": "Puberty is formally defined as a period when the ___ and ___ functions of the gonads have developed to a point where ___ is possible.",
-    "answer": "endocrine / gametogenic / reproduction",
-    "acceptableAnswers": [
-      "endocrine / gametogenic / reproduction",
-      "endocrine / gametogenic / reproductive function",
-      "hormonal / gametogenic / reproduction"
-    ]
+    "stem": "Precocious puberty is said to occur when secondary sexual characteristics appear before ___ to ___ years of age.",
+    "answer": "7 / 9",
+    "acceptableAnswers": ["7 / 9", "7-9", "seven to nine", "7 to 9 years"]
   },
   {
     "id": 73,
     "type": "fitb",
-    "stem": "Klinefelter's syndrome, which presents with small poorly-functioning testes, infertility, gynaecomastia, taller stature, and smaller muscle mass, carries the chromosomal complement ___.",
-    "answer": "47XXY",
-    "acceptableAnswers": ["47XXY", "47, XXY", "karyotype 47XXY", "47 XXY"]
+    "stem": "In the majority of cases, the cause of gonadotropin-dependent precocious puberty is ___, while a specific hypothalamic lesion called ___ hamartoma may produce pulsatile GnRH and trigger premature puberty.",
+    "answer": "idiopathic / hypothalamic",
+    "acceptableAnswers": [
+      "idiopathic / hypothalamic",
+      "unknown / hypothalamic",
+      "idiopathic (unknown) / hypothalamic hamartoma"
+    ]
   },
   {
     "id": 74,
     "type": "fitb",
-    "stem": "Turner's syndrome has the chromosomal karyotype ___, and its hallmark gonadal manifestation is the presence of ___ ovaries (streak gonads).",
-    "answer": "45XO / non-functioning",
+    "stem": "Gonadotropin-independent precocious puberty can result from exogenous fetal or postnatal exposure to ___ or androgens, from therapeutic administration or ___ producing hormones.",
+    "answer": "oestrogens / tumour",
     "acceptableAnswers": [
-      "45XO / non-functioning",
-      "45, XO / non-functioning",
-      "45XO / streak",
-      "45XO / non-functional"
+      "oestrogens / tumour",
+      "estrogens / tumour",
+      "oestrogens / tumor",
+      "estrogens / tumor"
     ]
   },
   {
     "id": 75,
     "type": "fitb",
-    "stem": "The sex-determining region located on the short arm of the Y chromosome encodes a critical protein known as the testis-determining factor, abbreviated as ___.",
-    "answer": "TDF",
-    "acceptableAnswers": ["TDF", "testis-determining factor", "Testis Determining Factor", "testis determining factor"]
+    "stem": "The three goals of treating precocious puberty are: to protect the girl-child from ___, to suppress premature activation of the ___ axis, and to prevent ___ stature.",
+    "answer": "sexual abuse / HPO / short",
+    "acceptableAnswers": [
+      "sexual abuse / HPO / short",
+      "sexual abuse / hypothalamic-pituitary-ovarian / short",
+      "sexual abuse / HPO axis / short stature"
+    ]
   },
   {
     "id": 76,
     "type": "fitb",
-    "stem": "In female somatic cells, the inactive X chromosome condenses near the nuclear membrane to form a ___ body (sex chromatin), and in 1 to 15% of PMNL it appears as a nuclear ___.",
-    "answer": "Barr / drumstick",
+    "stem": "Delayed puberty is defined as secondary sexual characteristics in males occurring after ___ years or menarche in females occurring after ___ years, OR failure of mensuration ___ years after commencement of puberty.",
+    "answer": "20 / 17 / five",
     "acceptableAnswers": [
-      "Barr / drumstick",
-      "sex chromatin / drumstick",
-      "barr / nuclear drumstick",
-      "Barr / nuclear drumstick"
+      "20 / 17 / five",
+      "20 / 17 / 5",
+      "20 years / 17 years / 5 years",
+      "twenty / seventeen / five"
     ]
   },
   {
     "id": 77,
     "type": "fitb",
-    "stem": "Unlike somatic cells which are diploid, germ cells are ___, meaning they contain only ___ chromosomes â exactly half the number found in somatic cells.",
-    "answer": "haploid / 23",
-    "acceptableAnswers": [
-      "haploid / 23",
-      "haploid / twenty-three",
-      "haploid cells / 23 chromosomes"
-    ]
+    "stem": "Hypergonadotropic hypogonadism as a cause of delayed puberty is characterised by ___ FSH/LH levels due to primary ovarian failure, whereas hypogonadotropic hypogonadism is characterised by ___ FSH/LH levels.",
+    "answer": "high / low",
+    "acceptableAnswers": ["high / low", "elevated / low", "high FSH/LH / low FSH/LH", "high / reduced"]
   },
   {
     "id": 78,
     "type": "fitb",
-    "stem": "In the absence of functional testis, the MÃ¼llerian ducts â also called ___ ducts â will develop into the fallopian ___, the uterus, and the upper one-third of the ___.",
-    "answer": "paramesonephric / tubes / vagina",
+    "stem": "The two specific hypothalamo-pituitary axis-destroying conditions named in this curriculum that cause hypogonadotropic hypogonadism and thus delayed puberty are ___ syndrome and ___.",
+    "answer": "Kallmann's / craniopharyngioma",
     "acceptableAnswers": [
-      "paramesonephric / tubes / vagina",
-      "paramesonephric / fallopian tubes / vagina",
-      "paramesonephric duct / tubes / vagina"
+      "Kallmann's / craniopharyngioma",
+      "Kallmanns syndrome / craniopharyngioma",
+      "Kallmann syndrome / craniopharyngioma"
     ]
   },
   {
     "id": 79,
     "type": "fitb",
-    "stem": "When functional testicular tissue is present in the developing embryo, Sertoli cells produce a substance called ___, which causes the MÃ¼llerian duct to degenerate while the Wolffian duct develops into male internal genitalia.",
-    "answer": "MÃ¼llerian inhibiting substance",
+    "stem": "Eugonadotrophic delayed puberty occurs when gonadotropins are normal but physical obstruction prevents menstruation. Two anatomical causes listed in this category are imperforate ___ and transverse vaginal ___.",
+    "answer": "hymen / septum",
     "acceptableAnswers": [
-      "MÃ¼llerian inhibiting substance",
-      "Mullerian inhibiting substance",
-      "MIS",
-      "anti-MÃ¼llerian hormone",
-      "AMH",
-      "anti-Mullerian hormone"
+      "hymen / septum",
+      "hymen / vaginal septum",
+      "imperforate hymen / transverse vaginal septum"
     ]
   },
   {
     "id": 80,
     "type": "fitb",
-    "stem": "Female pseudo-hermaphrodites possess ___ chromosomal composition (genetic female), but androgen exposure during the critical gestational window of the 8th to 13th weeks leads to ___ of the external genitalia.",
-    "answer": "XX / virilization",
+    "stem": "Masters and Johnson studied human sexual response from ___ until 1965, based on direct observation of ___ women and ___ men.",
+    "answer": "1957 / 382 / 312",
     "acceptableAnswers": [
-      "XX / virilization",
-      "46XX / virilization",
-      "XX / masculinization",
-      "46XX / masculinization",
-      "XX / virilisation"
+      "1957 / 382 / 312",
+      "nineteen fifty-seven / three hundred and eighty-two / three hundred and twelve"
     ]
   },
   {
     "id": 81,
     "type": "fitb",
-    "stem": "The condition in which an individual persistently identifies with a gender identity that is inconsistent or not culturally associated with their biologically assigned sex is classified as ___.",
-    "answer": "transsexualism",
+    "stem": "Masters and Johnson published two classic texts on human sexuality: ___ published in 1966 and ___ published in 1970.",
+    "answer": "Human Sexual Response / Human Sexual Inadequacy",
     "acceptableAnswers": [
-      "transsexualism",
-      "Transsexualism",
-      "gender dysphoria",
-      "transgenderism"
+      "Human Sexual Response / Human Sexual Inadequacy",
+      "Human Sexual Response / Human Sexual Inadequacy (1970)"
     ]
   },
   {
     "id": 82,
     "type": "fitb",
-    "stem": "Sex relates specifically to the ___ characteristics that make a person male or female, while gender refers to the ___ associated with members of that biological sex.",
-    "answer": "biological/physical / behaviors",
-    "acceptableAnswers": [
-      "biological / behaviors",
-      "physical / behaviors",
-      "biological/physical / behavioral patterns",
-      "biological / behaviours",
-      "physical / behavioural patterns"
-    ]
+    "stem": "Both of the classic texts by Masters and Johnson became best-sellers and were translated into more than ___ languages.",
+    "answer": "thirty",
+    "acceptableAnswers": ["thirty", "30", "thirty languages", "30 languages"]
   },
   {
     "id": 83,
     "type": "fitb",
-    "stem": "The onset of the first pubic hair in females marks the pubertal event called ___, which is subsequently followed by the growth of axillary hair driven by adrenal androgens in a process called ___.",
-    "answer": "pubarche / adrenarche",
+    "stem": "Vulvo-vaginitis in children may present with discharge, ___, pruritis, urinary symptoms, abnormal odour, or ___ of the vulva.",
+    "answer": "irritation / erythema",
     "acceptableAnswers": [
-      "pubarche / adrenarche",
-      "pubarche/adrenarche",
-      "pubic hair stage / adrenarche"
+      "irritation / erythema",
+      "irritation / redness",
+      "irritation / erythema (redness)"
     ]
   },
   {
     "id": 84,
     "type": "fitb",
-    "stem": "In intrauterine life, GnRH secretion begins by the ___ week; this leads to FSH and LH appearing by 10â12 weeks with the peak occurring at ___ weeks of gestation; however, despite this hormonal activity, fetal FSH levels are suppressed by the high ___ environment.",
-    "answer": "4th / 20 / estrogen",
+    "stem": "The primary reason pre-pubertal girls are more susceptible to vulvo-vaginitis is ___ oestrogen levels, which results in thin vaginal epithelium lacking the protective ___ rich mucosa seen after puberty.",
+    "answer": "low / glycogen",
     "acceptableAnswers": [
-      "4th / 20 / estrogen",
-      "4 / 20 / estrogen",
-      "fourth / twenty / estrogen",
-      "4th / 20 / oestrogen",
-      "fourth / 20 / estrogen"
+      "low / glycogen",
+      "low estrogen / glycogen",
+      "low oestrogen / glycogen",
+      "reduced / glycogen"
     ]
   },
   {
     "id": 85,
     "type": "fitb",
-    "stem": "Human chromosomes can be studied in detail by growing cells in tissue culture, arresting mitosis at metaphase using the drug ___, staining with nuclear dyes, and examining the karyotype under the electron microscope.",
-    "answer": "colchicine",
-    "acceptableAnswers": ["colchicine", "Colchicine"]
+    "stem": "Adolescent problems in gynaecology listed in this curriculum include oligomenorrhoea (DUB), menorrhagia, acute and chronic pelvic pain, ___ syndrome, and unwanted pregnancy.",
+    "answer": "premenstrual",
+    "acceptableAnswers": ["premenstrual", "pre-menstrual", "PMS", "premenstrual syndrome"]
   },
   {
     "id": 86,
-    "type": "fitb",
-    "stem": "As FSH pulse frequency increases during pre-puberty childhood, the ratio of plasma ___ to FSH rises, with characteristic ___ peaks of LH appearing at early and mid-puberty, ultimately stimulating sex hormone production.",
-    "answer": "LH / nocturnal",
-    "acceptableAnswers": [
-      "LH / nocturnal",
-      "luteinizing hormone / nocturnal",
-      "LH / nighttime",
-      "LH / nocturnal (sleep-related)"
-    ]
+    "type": "mcq",
+    "stem": "CASE STUDY: A 7-year-old girl is brought to the clinic by her mother who noticed breast budding 2 weeks ago. The child also has axillary hair. There is no family history of early puberty. Serum LH and FSH levels are significantly elevated. Which category of precocious puberty does this presentation MOST likely represent?",
+    "options": [
+      "Gonadotropin-independent precocious puberty caused by an autonomous ovarian cyst",
+      "Gonadotropin-dependent (central) precocious puberty with premature activation of the HPO axis",
+      "McCune-Albright syndrome causing gonadotropin-independent autonomous sex steroid production",
+      "Exogenous oestrogen exposure from a tumour-producing hormone in the adrenal gland"
+    ],
+    "answer": "B"
   },
   {
     "id": 87,
-    "type": "fitb",
-    "stem": "The precise factors that initiate the hormonal changes at puberty remain unclear, but they may be associated with increases in fat and bone mass, as evidenced by increasing blood levels of ___.",
-    "answer": "leptin",
-    "acceptableAnswers": ["leptin", "Leptin", "leptin levels"]
+    "type": "mcq",
+    "stem": "CASE STUDY: The same 7-year-old girl with elevated gonadotropins is found on MRI to have a lesion in the hypothalamus producing pulsatile GnRH. This lesion is MOST likely:",
+    "options": [
+      "A craniopharyngioma arising from Rathke's pouch remnants in the suprasellar region",
+      "A hypothalamic hamartoma",
+      "A Langerhans cell histiocytosis deposit within the hypothalamic nuclei",
+      "A pilocytic astrocytoma of the optic chiasm with secondary hypothalamic compression"
+    ],
+    "answer": "B"
   },
   {
     "id": 88,
-    "type": "fitb",
-    "stem": "In the classification of sex into seven categories, ___ sex is defined by chromosomal composition (XX versus XY), ___ sex is defined by the type of gonad present (testis versus ovary), and ___ sex is defined by the type of gamete produced (spermatozoa versus ova).",
-    "answer": "chromosomal / gonadal / gametic",
-    "acceptableAnswers": [
-      "chromosomal / gonadal / gametic",
-      "Chromosomal / Gonadal / Gametic"
-    ]
+    "type": "mcq",
+    "stem": "CASE STUDY: The parents of the 7-year-old with central precocious puberty ask what the long-term consequence of untreated precocious puberty would be on her height. The nurse explains the mechanism correctly as:",
+    "options": [
+      "She will be significantly taller than average because early hormonal activation stimulates additional growth hormone pulses throughout puberty",
+      "She will ultimately be shorter than average because early sex hormone-driven epiphyseal closure will prematurely terminate her longitudinal bone growth",
+      "Her final adult height will be entirely unaffected because epiphyseal plates are not sensitive to sex hormones until after the normal pubertal age",
+      "She will have variable height outcomes depending solely on her genetic potential as measured by parental heights"
+    ],
+    "answer": "B"
   },
   {
     "id": 89,
-    "type": "fitb",
-    "stem": "Among the secondary sexual effects of estrogen on the skin during female puberty, estrogen makes the skin ___ and ___, in contrast to the testosterone-mediated skin effects seen in males.",
-    "answer": "smooth / soft",
-    "acceptableAnswers": ["smooth / soft", "soft / smooth"]
+    "type": "mcq",
+    "stem": "CASE STUDY: A 19-year-old female presents with primary amenorrhoea. She has no breast development and no pubic hair. Hormonal investigations reveal very high FSH and LH with very low oestradiol. The nurse correctly classifies this as which type of hypogonadism?",
+    "options": [
+      "Hypogonadotropic hypogonadism with a central HPO axis defect causing low FSH and LH",
+      "Hypergonadotropic hypogonadism due to primary ovarian failure with no response to elevated gonadotropins",
+      "Eugonadotrophic hypogonadism with anatomical outflow obstruction at the level of the vagina",
+      "Hypogonadotropic hypogonadism secondary to excessive exercise and nutritional deficiency reducing hypothalamic GnRH"
+    ],
+    "answer": "B"
   },
   {
     "id": 90,
-    "type": "fitb",
-    "stem": "On average, male pubertal development begins at ___ years of age and is typically completed between 16 and 18 years, which is approximately 2 years later than the female pubertal onset.",
-    "answer": "12 to 13",
-    "acceptableAnswers": [
-      "12 to 13",
-      "12â13",
-      "twelve to thirteen",
-      "12-13 years",
-      "12 or 13"
-    ]
+    "type": "mcq",
+    "stem": "CASE STUDY: For the same 19-year-old with hypergonadotropic hypogonadism (Q89), which specific aetiologies should FIRST be considered in the differential diagnosis based on the curriculum?",
+    "options": [
+      "Kallmann's syndrome, constitutional delay, and hypothalamic hamartoma",
+      "Idiopathic, genetic, traumatic, iatrogenic, chemical, and radiation-related ovarian destruction",
+      "McCune-Albright syndrome, polycystic ovary syndrome, and hyperprolactinaemia",
+      "Craniopharyngioma, imperforate hymen, and androgen insensitivity syndrome"
+    ],
+    "answer": "B"
   },
   {
     "id": 91,
-    "type": "fitb",
-    "stem": "Male pseudo-hermaphrodites have ___ genetic composition and possess a testis; however, testicular malfunction leads to non-production of both MÃ¼llerian inhibiting substance and ___, resulting in the development of ___ genitalia (either abnormal male or female internal and external structures).",
-    "answer": "XY / testosterone / abnormal",
-    "acceptableAnswers": [
-      "XY / testosterone / abnormal",
-      "46XY / testosterone / abnormal male",
-      "XY / testosterone / female internal and external",
-      "XY / testosterone / abnormal male (or female)"
-    ]
+    "type": "mcq",
+    "stem": "CASE STUDY: A 17-year-old girl presents with cyclic lower abdominal pain that began 14 months ago. She has normal secondary sexual characteristics. Examination reveals a bulging bluish membrane at the vaginal introitus with no visible vaginal opening. Gonadotropins are within the normal range. This presentation is MOST consistent with which cause of delayed puberty?",
+    "options": [
+      "Hypergonadotropic hypogonadism with primary streak gonadal failure causing outflow obstruction",
+      "Eugonadotrophic delayed puberty secondary to imperforate hymen causing cryptomenorrhoea",
+      "Hypogonadotropic hypogonadism secondary to craniopharyngioma causing anatomical outflow obstruction",
+      "Turner's syndrome with a functional but obstructed reproductive tract"
+    ],
+    "answer": "B"
   },
   {
     "id": 92,
-    "type": "fitb",
-    "stem": "The human body contains two major types of cells: somatic (body) cells which are diploid, and highly specialized ___ cells found exclusively in the testes and ovaries, which are haploid.",
-    "answer": "germ",
-    "acceptableAnswers": ["germ", "Germ", "germinal", "germ cells"]
+    "type": "mcq",
+    "stem": "CASE STUDY: A 50-year-old menopausal woman on HRT for 6 months reports persistent irregular vaginal bleeding. Which absolute contraindication to HRT does this symptom POTENTIALLY represent, warranting immediate clinical investigation?",
+    "options": [
+      "History of uterine fibroids classified as a relative contraindication that may now be exacerbated",
+      "Undiagnosed vaginal bleeding, which is an absolute contraindication if the cause has not been established",
+      "Venous thrombosis indicated by bleeding from thrombocytopenia as a HRT complication",
+      "Atypical ductal hyperplasia of the breast causing hormonal alteration of the uterine lining"
+    ],
+    "answer": "B"
   },
   {
     "id": 93,
-    "type": "fitb",
-    "stem": "Each somatic cell contains a diploid number of ___ chromosomes, arranged in ___ homologous pairs â one chromosome from each parent â with 44 autosomes and 2 sex chromosomes.",
-    "answer": "46 / 23",
-    "acceptableAnswers": [
-      "46 / 23",
-      "forty-six / twenty-three",
-      "46 chromosomes / 23 pairs"
-    ]
+    "type": "mcq",
+    "stem": "CASE STUDY: A 52-year-old woman on oral HRT wishes to switch to a non-oral route due to gastrointestinal side effects including nausea and bloating. Which non-oral alternatives are available according to the curriculum?",
+    "options": [
+      "Intrauterine levonorgestrel device, vaginal ring, and nasal estrogen spray",
+      "Matrix and reservoir patches, gel, and intravaginal administration",
+      "Subcutaneous estradiol implant, rectal suppositories, and dermal aerosol spray",
+      "Intramuscular depot injection, sublingual troches, and buccal mucosal absorption tablets"
+    ],
+    "answer": "B"
   },
   {
     "id": 94,
-    "type": "fitb",
-    "stem": "Of the 46 chromosomes present in somatic cells, 44 of them are called ___, arranged in 22 homologous pairs, while the remaining pair constitutes the sex chromosomes.",
-    "answer": "autosomes",
-    "acceptableAnswers": ["autosomes", "Autosomes", "autosomal chromosomes", "autosomal pairs"]
+    "type": "mcq",
+    "stem": "CASE STUDY: A 9-year-old girl presents with cafÃ©-au-lait spots on the skin, polyostotic fibrous dysplasia confirmed on X-ray, and breast development. Serum LH and FSH levels are LOW despite evident pubertal changes. Which condition does this triad MOST represent?",
+    "options": [
+      "Gonadotropin-dependent central precocious puberty from a hypothalamic hamartoma",
+      "Gonadotropin-independent precocious puberty consistent with McCune-Albright syndrome",
+      "Langerhans cell histiocytosis involving the skin, bone, and hypothalamic-pituitary axis",
+      "Constitutional precocious puberty with an incidental cafÃ©-au-lait macule from neurofibromatosis"
+    ],
+    "answer": "B"
   },
   {
     "id": 95,
-    "type": "fitb",
-    "stem": "Maleness is determined by the XY chromosomes. Located on the short arm of the Y chromosome is the ___ gene which encodes the testis-determining factor; the hormonal effect on genitalia is further mediated via the ___ chromosome which carries the androgen receptor gene; and because the female always contributes only the ___ chromosome, sex determination depends entirely on the paternal gamete.",
-    "answer": "SRY / X / X",
-    "acceptableAnswers": [
-      "SRY / X / X",
-      "SRY gene / X chromosome / X chromosome",
-      "SRY / X chromosome / X"
-    ]
+    "type": "mcq",
+    "stem": "CASE STUDY: A 6-year-old girl is brought to the paediatric gynaecology clinic with persistent vaginal discharge, vulvar erythema, and pruritis for 3 weeks. Her mother reports she was found putting a small toy in her underwear area. The MOST complete list of conditions that should be systematically excluded includes:",
+    "options": [
+      "Candidal vaginitis only, as this is the most common cause in this age group",
+      "Poor hygiene, foreign body, sexually transmitted infection, and sexual abuse",
+      "Streptococcal vulvovaginitis and urinary tract infection as the two most likely concurrent diagnoses",
+      "Lichen sclerosus, pinworm infestation, and lactobacillus overgrowth from probiotic use"
+    ],
+    "answer": "B"
   },
   {
     "id": 96,
-    "type": "fitb",
-    "stem": "The very first phenotypic manifestation of puberty in girls is breast development, and the specific term used for the onset of breast development in Tanner staging is ___.",
-    "answer": "thelarche",
-    "acceptableAnswers": ["thelarche", "Thelarche", "the thelarche"]
+    "type": "mcq",
+    "stem": "CASE STUDY: For the same 6-year-old girl with vulvo-vaginitis (Q95), the nurse prepares for examination. Which examination positions are specifically recommended in the curriculum for this scenario?",
+    "options": [
+      "Lithotomy position under general anaesthesia and left lateral Sims position",
+      "Knee-chest or frog-leg position",
+      "Supine with the legs extended flat on the examination table with a chaperone present",
+      "Dorsal recumbent with hip flexion of 90 degrees and a trained paediatric gynaecologist"
+    ],
+    "answer": "B"
   },
   {
     "id": 97,
-    "type": "fitb",
-    "stem": "A hallmark of male puberty is the occurrence of frequent ___ erections as well as daytime erections, which may be embarrassing and are often associated with ___.",
-    "answer": "nocturnal / wet dreams",
-    "acceptableAnswers": [
-      "nocturnal / wet dreams",
-      "nocturnal erections / wet dreams",
-      "nighttime / wet dreams",
-      "nocturnal / nocturnal emissions"
-    ]
+    "type": "mcq",
+    "stem": "CASE STUDY: A 48-year-old woman with a history of multiple uterine fibroids and migraine headaches seeks HRT for menopausal symptoms. The nurse correctly informs her that both uterine fibroids and migraines are classified as which category of contraindication to HRT?",
+    "options": [
+      "Absolute contraindications that permanently exclude her from all forms of HRT",
+      "Relative contraindications that do not automatically exclude HRT but require careful individual risk-benefit assessment",
+      "Minor adverse drug reactions that require dose adjustment but are not true contraindications",
+      "Absolute contraindications for oral HRT only, with non-oral routes remaining entirely safe"
+    ],
+    "answer": "B"
   },
   {
     "id": 98,
-    "type": "fitb",
-    "stem": "Under the influence of estrogen during female puberty, the epithelium lining the vaginal mucosa develops a ___ rich composition that is critical for normal vaginal flora and function.",
-    "answer": "glycogen",
-    "acceptableAnswers": ["glycogen", "Glycogen", "glycogen-rich"]
+    "type": "mcq",
+    "stem": "CASE STUDY: A male patient who underwent orchidectomy at age 25 for testicular cancer now requests counselling regarding reproductive consequences. The nurse correctly advises that following castration after pubertal onset:",
+    "options": [
+      "His libido will be completely unaffected because the hypothalamic testosterone set-point was established before the orchidectomy",
+      "His libido will typically be substantially reduced or eliminated in total and he is now permanently sterile",
+      "His libido will be maintained for at least 5 years because sufficient testosterone is stored in peripheral adipose tissue",
+      "He will remain fertile because spermatogenesis can be maintained by elevated LH levels stimulating any residual testicular tissue"
+    ],
+    "answer": "B"
   },
   {
     "id": 99,
-    "type": "fitb",
-    "stem": "After meiotic division in the male, ___ germ cells (spermatozoa) are produced in total: ___ of these carry 23X chromosomes and ___ carry 23Y chromosomes.",
-    "answer": "4 / 2 / 2",
-    "acceptableAnswers": [
-      "4 / 2 / 2",
-      "four / two / two",
-      "4 spermatozoa / 2 / 2",
-      "four spermatozoa / two / two"
-    ]
+    "type": "mcq",
+    "stem": "CASE STUDY: A researcher studying the history of human sexual physiology asks which specific pioneer researchers recorded the first laboratory data on the anatomy and physiology of human sexual response through direct observation between 1957 and 1965. The correct answer is:",
+    "options": [
+      "Sigmund Freud and Carl Jung, who established the psychoanalytic framework for sexual response cycles",
+      "Masters and Johnson",
+      "Kinsey and Pomeroy, whose survey-based research first quantified human sexual behaviour",
+      "Havelock Ellis and Richard von Krafft-Ebing, whose clinical observations preceded laboratory research"
+    ],
+    "answer": "B"
   },
   {
     "id": 100,
-    "type": "fitb",
-    "stem": "During puberty, psychosocial development includes phenomena such as shyness, ___ inclinations that develop as part of normal sexual maturation, and an increasing desire for ___ and independence from parental authority.",
-    "answer": "heterosexual / freedom",
-    "acceptableAnswers": [
-      "heterosexual / freedom",
-      "heterosexual inclinations / freedom",
-      "sexual / freedom",
-      "heterosexual / freedom and independence"
-    ]
+    "type": "mcq",
+    "stem": "CASE STUDY: A nurse reviews a 45-year-old woman's notes prior to initiating HRT. The notes record: recent DVT 4 weeks ago, personal history of breast cancer treated 3 years ago, active cholangitis, migraine headaches, and a history of uterine fibroids. The nurse correctly identifies that the SINGLE finding which constitutes an ABSOLUTE contraindication mandating that HRT must NOT be initiated at this time is:",
+    "options": [
+      "Personal history of breast cancer treated 3 years ago â a relative contraindication only",
+      "Recent DVT diagnosed 4 weeks ago â an absolute contraindication",
+      "Active cholangitis â classified as a relative rather than absolute contraindication",
+      "History of uterine fibroids â classified as a relative contraindication"
+    ],
+    "answer": "B"
   }
 ]
