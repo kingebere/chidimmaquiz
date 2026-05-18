@@ -2,1113 +2,1158 @@
   {
     "id": 1,
     "type": "mcq",
-    "stem": "Menopause is formally defined as a retrospective diagnosis. Which criterion PRECISELY establishes this diagnosis?",
+    "stem": "Spermatogenesis is defined as the process of developing spermatozoa from primitive germ cells. In the fetus, this process is actively inhibited by which specific factor?",
     "options": [
-      "Absence of menstruation for 6 consecutive months with elevated FSH levels confirmed on two separate occasions",
-      "Absence of menstruation for 12 consecutive months representing the last menstrual period",
-      "Absence of menstruation for 24 consecutive months in the absence of other pathological causes",
-      "Cessation of menstruation for 6 months accompanied by confirmed bilateral ovarian failure on ultrasound"
+      "The testosterone-inhibiting factor secreted by the fetal adrenal cortex",
+      "The meiosis-inhibiting factor present in the fetal testicular environment",
+      "The Müllerian inhibiting substance produced by fetal Sertoli cells",
+      "The high intrauterine oestrogen environment suppressing GnRH secretion"
     ],
     "answer": "B"
   },
   {
     "id": 2,
     "type": "mcq",
-    "stem": "The age range within which natural menopause is MOST expected to occur in females is:",
+    "stem": "Spermatogenesis begins at a specific age and continues with decreasing output throughout life. At which precise age range does it commence?",
     "options": [
-      "40 to 50 years",
-      "42 to 52 years",
-      "45 to 55 years",
-      "48 to 58 years"
+      "9 to 11 years of age",
+      "10 to 12 years of age",
+      "11 to 13 years of age",
+      "13 to 15 years of age"
     ],
     "answer": "C"
   },
   {
     "id": 3,
     "type": "mcq",
-    "stem": "With advancing age at menopause, ovarian follicles begin to atrophy and ovarian oestradiol levels fall to very low values. This decline removes negative feedback inhibition from which two structures, resulting in gross elevation of gonadotropins?",
+    "stem": "Spermatogenesis occurs in a specific anatomical location within the testis and can be divided into three distinct phases. In which specific testicular structure does it occur?",
     "options": [
-      "Anterior pituitary and adrenal cortex",
-      "Hypothalamus and anterior pituitary",
-      "Hypothalamus and posterior pituitary",
-      "Pineal gland and hypothalamus"
+      "The interstitial spaces between the Leydig cells and the basement membrane",
+      "The seminiferous tubules of the testicular lobules",
+      "The epididymis where final maturation of spermatozoa is completed",
+      "The rete testes where sperm are collected before entering the efferent ductules"
     ],
     "answer": "B"
   },
   {
     "id": 4,
     "type": "mcq",
-    "stem": "Following the cessation of ovarian follicular function at menopause, the predominant circulating oestrogen shifts. Which oestrogen is predominant in the post-menopausal state, and what is its PRIMARY source?",
+    "stem": "The daily output of spermatozoa in a healthy adult male is within which range?",
     "options": [
-      "Oestradiol, produced predominantly by the adrenal medulla via direct secretion",
-      "Oestrone, produced by adrenal and ovarian stromal cells via peripheral aromatization of androgens",
-      "Oestriol, produced primarily by hepatic conversion of oestradiol in a first-pass effect",
-      "Oestradiol, produced by the corpus luteum persisting from the final ovarian cycle"
+      "50 to 100 million spermatozoa daily",
+      "100 to 200 million spermatozoa daily",
+      "200 to 400 million spermatozoa daily",
+      "300 to 500 million spermatozoa daily"
     ],
     "answer": "B"
   },
   {
     "id": 5,
     "type": "mcq",
-    "stem": "The term 'climacteric' has a specific and distinct meaning from the term 'menopause.' Which definition MOST precisely captures the climacteric?",
+    "stem": "The first phase of spermatogenesis involves mitotic division of primordial germ cells to produce spermatogonia. This phase is specifically referred to by which alternative name?",
     "options": [
-      "The single calendar date of the last menstrual period confirmed after 12 months of amenorrhea",
-      "The period of waning ovarian function that encompasses both the menopause and the post-menopausal phase",
-      "The 12-month transitional period immediately preceding the last menstrual period only",
-      "The period of complete gonadal inactivity commencing exactly 5 years after the last menstrual period"
+      "Spermiogenesis",
+      "Spermatocytogenesis",
+      "Spermiopoiesis",
+      "Spermatidiogenesis"
     ],
     "answer": "B"
   },
   {
     "id": 6,
     "type": "mcq",
-    "stem": "Menstrual changes at the climacteric follow a predictable initial pattern before permanent cessation occurs. Which statement MOST accurately describes the earliest menstrual pattern change?",
+    "stem": "During spermatocytogenesis, primordial germ cells divide mitotically to produce spermatogonia of type A or type B. The type A spermatogonia serve which SPECIFIC functional role?",
     "options": [
-      "Menstruation immediately and abruptly ceases without any preceding change in cycle regularity",
-      "Menstruation becomes scanty and infrequent before abruptly stopping",
-      "Menstruation initially becomes irregular and heavy before eventually stopping permanently",
-      "Menstruation transitions to a regular lighter flow lasting 2 to 3 days before final cessation"
+      "They immediately undergo meiotic division to produce primary spermatocytes",
+      "They act as a reservoir for spermatogonia, resembling the original cell",
+      "They differentiate directly into secondary spermatocytes without further mitotic division",
+      "They migrate to the rete testis to await hormonal activation at puberty"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 7,
     "type": "mcq",
-    "stem": "Which of the following psychological symptoms is specifically listed among the changes occurring at menopause as a direct result of hormonal alteration?",
+    "stem": "The type B spermatogonia undergo a specific type of further division, distinct from type A. What happens to type B spermatogonia, and what do they produce?",
     "options": [
-      "Euphoria, hypersomnia, and reduced appetite",
-      "Depression, insomnia, irritability, nervousness, and headaches",
-      "Psychosis, visual hallucinations, and profound memory impairment",
-      "Anxiety disorder, panic attacks, and obsessive-compulsive traits"
+      "They undergo meiotic division directly to produce haploid secondary spermatocytes",
+      "They undergo further mitotic division leading to the production of primary spermatocytes",
+      "They differentiate without division into spermatids by direct cytoplasmic condensation",
+      "They fuse with type A spermatogonia to form primary spermatocytes by cell fusion"
     ],
     "answer": "B"
   },
   {
     "id": 8,
     "type": "mcq",
-    "stem": "Menopausal vasomotor changes produce a characteristic and well-recognized symptom. Which vasomotor symptom is SPECIFICALLY mentioned in this clinical context?",
+    "stem": "During spermiogenesis, spermatids become embedded in Sertoli cells for differentiation into mature spermatozoa. Which structural changes are involved in this transformation?",
     "options": [
-      "Excessive perspiration during sleep (night sweats) without accompanying skin temperature changes",
-      "Hot flushes",
-      "Episodic palpitations with concurrent systolic hypertension lasting more than 30 minutes",
-      "Raynaud's phenomenon causing digital colour changes on exposure to temperature variation"
+      "Nuclear expansion, increase of cytoplasm, loss of the acrosome, and formation of the midpiece",
+      "Nuclear condensation, shrinkage of cytoplasm, development of the head, acrosome, middle piece, and tail",
+      "Nuclear fragmentation, cytoplasmic budding, and formation of a bipolar flagellum",
+      "Nuclear duplication, cytoplasmic fusion, and loss of the plasma membrane"
     ],
     "answer": "B"
   },
   {
     "id": 9,
     "type": "mcq",
-    "stem": "Physical changes at menopause include genital atrophy resulting from collagen loss. The clinical symptom MOST directly caused by this genital atrophy in post-menopausal women is:",
+    "stem": "After spermiogenesis is complete, one primary spermatocyte (1°) ultimately gives rise to how many haploid mature spermatozoa?",
     "options": [
-      "Urge urinary incontinence due to detrusor muscle hyperactivity",
-      "Dyspareunia due to the atrophic changes affecting the vaginal epithelium and lubrication",
-      "Pelvic organ prolapse due to levator ani muscle atrophy and fascial weakness",
-      "Endometrial hyperplasia due to unopposed estrogen stimulation of the atrophic endometrium"
+      "1 haploid mature spermatozoon",
+      "2 haploid mature spermatozoa",
+      "4 haploid mature spermatozoa",
+      "8 haploid mature spermatozoa"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 10,
     "type": "mcq",
-    "stem": "The metabolic consequences of menopause increase the risk of coronary artery disease through a specific lipid profile change. Which lipid alteration is CHARACTERISTIC of this menopausal metabolic shift?",
+    "stem": "After spermiogenesis, mature spermatozoa enter the lumen of the seminiferous tubules and are propelled to a specific structure. Where are they propelled following tubular entry?",
     "options": [
-      "High HDL and low LDL resulting in paradoxically increased atherosclerotic risk",
-      "High LDL and low HDL resulting in an atherogenic lipid profile",
-      "High triglycerides with proportionally low LDL and normal HDL levels",
-      "Uniformly elevated total cholesterol with no change in HDL to LDL ratio"
+      "They are propelled directly to the epididymis for immediate storage",
+      "They are propelled to the vas deferens",
+      "They are propelled to the rete testes for collection",
+      "They are propelled to the ejaculatory duct for expulsion"
     ],
     "answer": "B"
   },
   {
     "id": 11,
     "type": "mcq",
-    "stem": "Premature menopause is defined by which specific criterion regarding the age of menstruation cessation?",
+    "stem": "Spermatogenesis is a time-consuming process. Approximately how many days does the complete process take from primordial germ cell to mature spermatozoon?",
     "options": [
-      "Cessation of menstruation before 45 years of age",
-      "Cessation of menstruation before 40 years of age",
-      "Cessation of menstruation before 35 years of age",
-      "Cessation of menstruation before 42 years of age"
+      "30 to 40 days",
+      "45 to 55 days",
+      "60 to 70 days",
+      "75 to 90 days"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 12,
     "type": "mcq",
-    "stem": "Although the testicular function gradually declines with age in males, the male equivalent of the female menopause does NOT occur. Which statement MOST accurately explains why the male lacks a complete equivalent of menopause?",
+    "stem": "Seminiferous tubules converge toward the apex of the testicular lobules to form straight tubules that pass into a specific structure. What is this structure, and what emerges from it?",
     "options": [
-      "Male testosterone levels decline at the same absolute rate as female oestradiol but the threshold for infertility is never reached",
-      "The function of the testis declines slowly with age but the ability to produce spermatozoa persists and may never completely cease",
-      "The hypothalamic-pituitary axis in the male undergoes compensatory upregulation preventing the gonadotropin elevation seen in females",
-      "Male sex hormone production is sustained by adrenal compensation once testicular function begins to decline at approximately age 50"
+      "The mediastinum testes forming the rete testes, from which 7 to 15 efferent ductules emerge",
+      "The tunica albuginea forming septa, from which 3 to 5 efferent ductules emerge",
+      "The epididymis head, from which 5 to 10 vasa efferentia emerge",
+      "The rete testes, from which a single vas deferens emerges directly"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 13,
     "type": "mcq",
-    "stem": "Hormone replacement therapy (HRT) is primarily indicated when target hormone levels are low or absent. During which specific age range of a woman's reproductive life is HRT most commonly indicated according to the content of this curriculum?",
+    "stem": "From the head of the epididymis, the duct continues through the body and tail. What structure is ultimately formed and what is its clinical alternative name?",
     "options": [
-      "Ages 13 to 44 years",
-      "Ages 15 to 44 years",
-      "Ages 18 to 44 years",
-      "Ages 20 to 44 years"
+      "The seminal vesicle duct, also called the ejaculatory duct",
+      "The ductus deferens, also called the vas deferens",
+      "The prostatic urethra, also called the urogenital duct",
+      "The bulbourethral duct, also called Cowper's duct"
     ],
     "answer": "B"
   },
   {
     "id": 14,
     "type": "mcq",
-    "stem": "Among the following estrogen formulations specifically listed as constituting post-menopausal replacement therapy, which combination is MOST complete?",
+    "stem": "The vas deferens joins the ducts of which glands to form the ejaculatory duct, and into which structure does the ejaculatory duct empty?",
     "options": [
-      "17 beta-estradiol, synthetic ethinyl estradiol, and estriol only",
-      "17 beta-estradiol, conjugated equine estrogens, esterified estrogens, and estriol",
-      "Conjugated equine estrogens, estriol, and diethylstilboestrol only",
-      "17 beta-estradiol, esterified estrogens, and medroxyprogesterone acetate"
+      "The bulbourethral glands; emptying into the membranous urethra",
+      "The prostate and seminal vesicle; emptying into the prostatic urethra",
+      "The seminal vesicles only; emptying into the bulbous urethra",
+      "The prostate and bulbourethral glands; emptying into the penile urethra"
     ],
     "answer": "B"
   },
   {
     "id": 15,
     "type": "mcq",
-    "stem": "Non-oral routes of HRT estrogen delivery are specifically mentioned. Which non-oral delivery systems are named in this curriculum?",
+    "stem": "Each lobule of the testis contains coiled seminiferous tubules of specific dimensions. What are the correct measurements?",
     "options": [
-      "Subcutaneous implants, nasal sprays, and transdermal creams exclusively",
-      "Matrix patches, reservoir patches, gel, and intravaginal administration",
-      "Sublingual tablets, vaginal rings, and intrauterine systems only",
-      "Intramuscular injections, suppositories, and transdermal aerosols"
+      "20 to 40 cm long and 100 to 150 µm in diameter",
+      "30 to 70 cm long and 150 to 300 µm in diameter",
+      "50 to 80 cm long and 300 to 500 µm in diameter",
+      "10 to 30 cm long and 50 to 100 µm in diameter"
     ],
     "answer": "B"
   },
   {
     "id": 16,
     "type": "mcq",
-    "stem": "Naturally occurring progestogens are used in HRT formulations. Which specific naturally occurring progestogen compounds are named in this curriculum?",
+    "stem": "Each testis contains approximately how many seminiferous tubules in total?",
     "options": [
-      "Medroxyprogesterone acetate (MPA) and norethisterone acetate",
-      "Progesterone P4 and 17-alpha OH progesterone",
-      "Dydrogesterone and micronised progesterone only",
-      "Levonorgestrel and norgestimate as naturally derived compounds"
+      "Approximately 500 seminiferous tubules",
+      "Approximately 700 seminiferous tubules",
+      "Approximately 900 seminiferous tubules",
+      "Approximately 1200 seminiferous tubules"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 17,
     "type": "mcq",
-    "stem": "HRT regimens are given in a manner that best approximates normal physiology. In what specific manner are the components administered?",
+    "stem": "A cross-section of the seminiferous tubule reveals three distinct layers from the outermost to the innermost. Which sequence is CORRECT?",
     "options": [
-      "Simultaneously as a fixed daily combination dose to ensure constant hormonal levels",
-      "Sequentially to mimic the natural cycle",
-      "Cyclically with a monthly hormone-free interval to allow endometrial shedding",
-      "Continuously without interruption to prevent any withdrawal bleeding permanently"
+      "Basement membrane, connective tissue, and germinal epithelium",
+      "Outermost connective tissue, basement membrane, and complex stratified epithelium (germinal epithelium)",
+      "Germinal epithelium, basement membrane, and outer tunica propria",
+      "Sertoli cell layer, myoid cell layer, and outer fibrovascular tissue"
     ],
     "answer": "B"
   },
   {
     "id": 18,
     "type": "mcq",
-    "stem": "A 52-year-old post-menopausal woman requests HRT. Her clinician reviews her history for absolute contraindications. Which finding would constitute an ABSOLUTE contraindication to HRT?",
+    "stem": "The complex stratified germinal epithelium of the seminiferous tubule contains two cell populations. Which combination CORRECTLY identifies both components?",
     "options": [
-      "A history of migraine headaches without aura managed with triptans",
-      "Personal history of breast cancer treated 8 years ago",
-      "Active coronary artery disease (CAD)",
-      "Atypical ductal hyperplasia of the breast diagnosed on biopsy 3 years ago"
+      "4 to 8 layers of sperm-forming cells at various degrees of maturation, and singular sustentacular Sertoli cells extending from basement membrane to lumen",
+      "2 to 4 layers of spermatogonia and a single layer of Leydig interstitial cells",
+      "Multiple layers of Sertoli cells and a single basal layer of primary spermatocytes",
+      "6 to 10 layers of Leydig cells and scattered Sertoli cells throughout the epithelium"
     ],
-    "answer": "C"
+    "answer": "A"
   },
   {
     "id": 19,
     "type": "mcq",
-    "stem": "For HRT, undiagnosed vaginal bleeding is listed as an absolute contraindication. Which statement BEST explains the clinical rationale for this absolute contraindication?",
+    "stem": "The interstitial (Leydig) cells are located in a specific position in relation to the seminiferous tubule structure. Where precisely are they found?",
     "options": [
-      "HRT estrogen will exacerbate the bleeding by promoting endometrial hyperplasia before the underlying cause is identified",
-      "The bleeding may originate from a source such as endometrial malignancy that could be masked or stimulated by exogenous hormones before diagnosis",
-      "Progesterone in the HRT regimen will suppress ovulation and aggravate any corpus luteum deficiency causing the bleeding",
-      "HRT will cause immediate coagulation pathway disruption, converting light spotting into life-threatening haemorrhage"
+      "Within the lumen of the seminiferous tubules, adjacent to mature spermatids",
+      "At the periphery of the basement membrane",
+      "Within the germinal epithelium between layers of spermatogonia",
+      "Embedded in the tight junction complexes of adjacent Sertoli cells"
     ],
     "answer": "B"
   },
   {
     "id": 20,
     "type": "mcq",
-    "stem": "Well-differentiated and early endometrial cancer is listed as an absolute contraindication to HRT with a notable exception. What is this exception?",
+    "stem": "Sertoli cells are joined to adjacent Sertoli cells at which specific location, forming the structural basis of the blood-testis barrier?",
     "options": [
-      "Once the patient has been cancer-free for 2 years, HRT is no longer absolutely contraindicated",
-      "Once treatment for the malignancy is complete, it is no longer an absolute contraindication; progestins alone may relieve symptoms if estrogen cannot be tolerated",
-      "Once the patient demonstrates a high progesterone-to-estrogen ratio, HRT may be cautiously resumed",
-      "Once the histological grade has been re-classified as benign on repeat sampling, HRT may be initiated"
+      "At their apical surfaces near the tubular lumen by gap junctions",
+      "At about the mid-portion of their lateral walls by tight junctions",
+      "At their basal surfaces on the basement membrane by hemidesmosomes",
+      "Throughout their entire lateral surface by adherens junctions"
     ],
     "answer": "B"
   },
   {
     "id": 21,
     "type": "mcq",
-    "stem": "CASE STUDY: A 55-year-old woman presents with hot flushes, insomnia, irritability, and a new-onset aching pain during intercourse over the past 8 months. Her last menstrual period was 14 months ago. She has a BMI of 24 and no prior medical history. She asks for treatment. Before initiating HRT, the nurse checks for absolute contraindications. Which finding in her history, if present, would MOST definitively preclude HRT?",
+    "stem": "Sertoli cells are described as large pyramidal-shaped cells with exceptional resilience. Which combination of adverse conditions can Sertoli cells specifically withstand?",
     "options": [
-      "Her mother having had breast cancer at age 72 years",
-      "A diagnosis of uterine fibroids 6 years ago that were managed conservatively",
-      "A current DVT in the right popliteal vein diagnosed 3 weeks ago",
-      "A history of cholecystitis that was surgically resolved 4 years ago"
+      "Hypoxia, hypothermia, osmotic stress, and viral infection",
+      "Adverse temperature, ionizing radiation, chemical assault, malnutrition, and infections",
+      "Hormonal deprivation, mechanical trauma, ischaemia, and viral cytotoxicity",
+      "Heavy metal toxicity, pharmacological suppression, autoimmune attack, and thermal stress"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 22,
     "type": "mcq",
-    "stem": "CASE STUDY: The same 55-year-old woman from Q21 denies all absolute contraindications. Her assessment identifies only migraine headaches and a personal history of ovarian cancer. The nurse correctly categorises these findings under which classification in relation to HRT?",
+    "stem": "Among the endocrine functions of Sertoli cells, which three substances are specifically listed as produced by these cells in this curriculum?",
     "options": [
-      "Absolute contraindications mandating permanent exclusion from HRT",
-      "Relative contraindications that require careful risk-benefit assessment before initiating HRT",
-      "Incidental findings with no bearing whatsoever on the safety of initiating HRT",
-      "Indications that favour the use of progestins alone in place of combined HRT"
+      "Testosterone, inhibin, and androgen binding protein",
+      "Müllerian inhibitory factor (MIF), inhibin, and estrogen",
+      "MIF, activin, and androgen binding protein",
+      "Inhibin, activin, and testosterone"
     ],
     "answer": "B"
   },
   {
     "id": 23,
     "type": "mcq",
-    "stem": "CASE STUDY: The 55-year-old woman from Q21 is initiated on HRT. After 3 weeks she calls the clinic reporting breast tenderness and ankle swelling. The nurse identifies these as recognized side effects of HRT. Which mechanism MOST directly explains the ankle swelling reported?",
+    "stem": "The exocrine function of Sertoli cells involves secretion of seminal fluids with a specific ionic composition. Which ionic description is CORRECT?",
     "options": [
-      "Progesterone-mediated arterial vasodilation reducing venous return from the lower extremities",
-      "Fluid retention secondary to the sodium and water-retaining effects of the hormonal components of HRT",
-      "Allergic vasculitis triggered by the synthetic excipients contained in the oral HRT formulation",
-      "Venous thrombosis formation in the deep veins of the calf as an early HRT complication"
+      "Rich in Na+ and Cl-, but low in K+ and HCO3-",
+      "Rich in K+ and HCO3-, but low in Na+ and Cl-",
+      "Rich in Ca2+ and Mg2+, but low in K+ and HCO3-",
+      "Rich in Na+ and HCO3-, but low in K+ and Cl-"
     ],
     "answer": "B"
   },
   {
     "id": 24,
     "type": "mcq",
-    "stem": "CASE STUDY: A 49-year-old woman being evaluated for HRT has a history of atypical ductal hyperplasia of the breast confirmed on biopsy. The nurse is preparing her pre-HRT counselling. Under which specific contraindication category does atypical ductal hyperplasia of the breast fall?",
+    "stem": "Beyond their endocrine and exocrine roles, Sertoli cells synthesize two additional critical products. Which combination correctly identifies these?",
     "options": [
-      "It is an absolute contraindication identical in strength to active endometrial cancer",
-      "It is a relative contraindication requiring careful clinical consideration before initiating HRT",
-      "It is not a contraindication because it is a pre-malignant rather than a malignant lesion",
-      "It is a relative contraindication only if accompanied by a concurrent personal history of estrogen-receptor positive breast cancer"
+      "Testosterone and the H-Y antigen (histocompatibility antigen Y)",
+      "Androgen binding protein and the H-Y antigen (histocompatibility antigen Y)",
+      "Androgen binding protein and inhibin exclusively",
+      "The H-Y antigen and MIF exclusively"
     ],
     "answer": "B"
   },
   {
     "id": 25,
     "type": "mcq",
-    "stem": "CASE STUDY: A 46-year-old woman with a history of active gallbladder cholangitis and cholecystitis requests HRT for severe menopausal symptoms. The nurse correctly classifies her gallbladder disease under which category of HRT contraindication?",
+    "stem": "The blood-testis barrier is formed by the tight junctions of Sertoli cells. This barrier serves THREE distinct functions. Which combination MOST completely describes all three functions?",
     "options": [
-      "Absolute contraindication â active gallbladder disease is listed among absolute contraindications to HRT",
-      "Relative contraindication â active gallbladder disease including cholangitis and cholecystitis is listed as a relative contraindication",
-      "Not a contraindication â gallbladder disease has no established interaction with HRT hormone components",
-      "Absolute contraindication only if bilirubin levels are greater than twice the upper limit of normal"
+      "Prevents autoimmune destruction of spermatozoa, filters nutrients to germ cells, and produces androgen binding protein",
+      "Prevents noxious blood chemicals from reaching the tubular lumen, prevents mature sperm from entering the bloodstream to cause immune reactions, and ensures high local testosterone concentration",
+      "Separates spermatogonia from primary spermatocytes, maintains tubular fluid pH, and concentrates estradiol",
+      "Prevents lymphocyte entry into the tubule, maintains testicular thermoregulation, and concentrates inhibin"
     ],
     "answer": "B"
   },
   {
     "id": 26,
     "type": "mcq",
-    "stem": "CASE STUDY: A male patient aged 16 years was castrated before the onset of puberty due to a medical emergency involving testicular torsion with bilateral infarction. During a follow-up consultation at age 22, which physical profile is MOST expected?",
+    "stem": "Androgen binding protein (ABP) is produced by Sertoli cells and binds specifically to three androgenic compounds. Which combination is CORRECT?",
     "options": [
-      "Deep voice, fully developed muscular build, and normal-sized genitals consistent with complete pubertal development",
-      "High-pitched voice, non-muscular build, small genitals, and possibly taller than average stature",
-      "High-pitched voice, muscular build from growth hormone compensation, and normal-sized genitals",
-      "Normal voice pitch, small genitals, and short stature due to early epiphyseal closure from preserved adrenal androgens"
+      "Testosterone, progesterone, and DHT",
+      "Testosterone, oestradiol, and DHT",
+      "DHT, inhibin, and androgen receptor protein",
+      "Testosterone, DHEA, and oestradiol"
     ],
     "answer": "B"
   },
   {
     "id": 27,
     "type": "mcq",
-    "stem": "CASE STUDY: The patient from Q26 who was castrated before puberty is taller than average for his age group. The nurse explains the mechanism of this height advantage. Which physiological explanation is MOST accurate?",
+    "stem": "Early in spermatogenesis, FSH stimulates Sertoli cells to function maximally. However, LH has a different target cell and a different primary product. LH stimulates which cells to produce which compound that controls the later stages of spermatogenesis?",
     "options": [
-      "Absence of testosterone prevents the pre-pubertal growth hormone surge, causing continuous compensatory growth hormone secretion throughout adolescence",
-      "Reduction in sex hormone production reduces oestrogen (derived via aromatization of testosterone), which delays or prevents early epiphyseal closure permitting continued bone length growth",
-      "Absence of testicular androgens triggers hypothalamic upregulation of IGF-1, which is the sole determinant of the increased height",
-      "Loss of negative feedback from testosterone leads to gross elevation of LH, which independently stimulates long bone growth plates via a direct receptor mechanism"
+      "LH stimulates Sertoli cells to produce inhibin which controls the later stages",
+      "LH stimulates Leydig cells to produce testosterone which controls the later stages",
+      "LH stimulates peritubular myoid cells to produce androgen binding protein",
+      "LH stimulates primary spermatocytes to produce activin controlling meiotic division"
     ],
     "answer": "B"
   },
   {
     "id": 28,
     "type": "mcq",
-    "stem": "CASE STUDY: The same pre-pubertal castration patient (Q26) asks whether pubic hair ever develops after castration before puberty. Which response is clinically MOST accurate based on the curriculum?",
+    "stem": "The hormones produced by Sertoli cells are specifically listed. Which complete combination constitutes the hormonal products of Sertoli cells according to this curriculum?",
     "options": [
-      "Pubic hair will never develop under any circumstances as all androgenic stimulus has been permanently removed",
-      "Pubic hair may develop (driven by adrenal androgens) but libido will be reduced or absent entirely",
-      "Pubic hair will develop fully because growth hormone independently drives adrenarche regardless of testicular status",
-      "Pubic hair and libido will develop normally because peripheral tissues convert adrenal cortisol to active androgens"
+      "Testosterone, DHT, androgen binding protein, and inhibin",
+      "Oestradiol, stromal growth factor, insulin-like growth factor, inhibin, and activin",
+      "MIF, inhibin, activin, and testosterone exclusively",
+      "Inhibin, oestradiol, and androgen binding protein only"
     ],
     "answer": "B"
   },
   {
     "id": 29,
     "type": "mcq",
-    "stem": "When castration occurs AFTER the onset of puberty, which effect on libido is MOST expected compared to pre-pubertal castration?",
+    "stem": "Growth hormone (GH) stimulates spermatogenesis, while oestrogens exert a negative effect. What is the specific mechanism by which oestrogens negatively inhibit spermatogenesis?",
     "options": [
-      "Libido is completely unaffected because the hypothalamic set-point for sexual drive was established during puberty",
-      "Castration after the onset of puberty will typically substantially reduce or completely eliminate libido",
-      "Libido increases after post-pubertal castration due to a rebound in LH-driven adrenal androgen production",
-      "Libido is transiently reduced for 6 to 12 months before normalizing as adrenal androgens compensate fully"
+      "Oestrogens directly suppress FSH secretion from the anterior pituitary via negative feedback",
+      "Oestrogens negatively inhibit GnRH and the conversion of testosterone to DHT",
+      "Oestrogens block androgen receptors on Sertoli cells preventing testosterone from acting",
+      "Oestrogens stimulate inhibin secretion which then suppresses FSH and spermatogenesis"
     ],
     "answer": "B"
   },
   {
     "id": 30,
     "type": "mcq",
-    "stem": "Castration at any age renders the individual permanently sterile. Which mechanism MOST precisely explains the basis of post-castration sterility?",
+    "stem": "Body temperature is a critical factor controlling spermatogenesis. The scrotal temperature is maintained specifically below core body temperature. By how many degrees below body temperature is the scrotal temperature maintained?",
     "options": [
-      "Castrated individuals become sterile because the pituitary ceases to produce FSH without gonadal negative feedback",
-      "Castrated individuals cannot produce eggs or sperm as the gonads, which are the sole sites of gametogenesis, have been removed",
-      "Castration abolishes ejaculation reflexes at the spinal cord level, preventing gamete transport even if germ cells survived",
-      "The vas deferens fibroses after castration, creating mechanical obstruction regardless of residual spermatogenic tissue"
+      "1 degree below body temperature",
+      "2 degrees below body temperature",
+      "3 degrees below body temperature",
+      "4 degrees below body temperature"
     ],
     "answer": "B"
   },
   {
     "id": 31,
     "type": "mcq",
-    "stem": "Sex hormones are thought to prime the action of growth hormone before puberty, enhancing the secondary growth spurt. Where in the pubertal timeline does this secondary growth spurt typically appear?",
+    "stem": "Several conditions that encourage high scrotal temperature are listed as causes of reduced spermatogenesis. Which specific clinical condition involving undescended testes is named in this curriculum?",
     "options": [
-      "At the precise midpoint of the pubertal timeline when gonadotropin levels peak",
-      "Just before the onset of puberty",
-      "Concurrently with the first appearance of secondary sexual characteristics",
-      "After the completion of all secondary sexual characteristics including genital maturation"
+      "Orchitis (testicular inflammation)",
+      "Varicocele (dilated pampiniform plexus)",
+      "Cryptorchidism",
+      "Testicular torsion"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 32,
     "type": "mcq",
-    "stem": "The curriculum states that sudden castration at the point just before pubertal onset produces a specific skeletal effect that is distinct from the effect of castration done well before puberty. What is this distinct effect?",
+    "stem": "Spermatozoa can be preserved for years at extremely low temperatures for use in sperm banking. In the presence of glycerol, at what precise temperature can spermatozoa be stored?",
     "options": [
-      "It will accelerate general skeletal growth beyond the normal pubertal growth spurt amplitude",
-      "It will not affect general skeletal growth but will inhibit early epiphyseal closure",
-      "It will immediately halt all longitudinal bone growth by depriving growth plates of androgen co-stimulation",
-      "It will produce equivalent height outcomes to pre-pubertal castration because epiphyseal closure has not yet begun"
+      "-196 degrees Celsius (liquid nitrogen temperature)",
+      "-269 degrees Celsius",
+      "-80 degrees Celsius (dry ice temperature)",
+      "-40 degrees Celsius (ultra-low freezer temperature)"
     ],
     "answer": "B"
   },
   {
     "id": 33,
     "type": "mcq",
-    "stem": "Precocious puberty is said to occur when secondary sexual characteristics develop before a defined age threshold. What age range defines precocious puberty?",
+    "stem": "The phagocytic function of Sertoli cells is specifically directed at which material during spermatogenesis?",
     "options": [
-      "Before 6 to 8 years",
-      "Before 7 to 9 years",
-      "Before 8 to 10 years",
-      "Before 9 to 11 years"
+      "Dead spermatozoa that have failed the blood-testis barrier checkpoint",
+      "Cytoplasmic fragments detached from transforming spermatozoa during spermiogenesis",
+      "Residual bodies shed from primary spermatocytes following the first meiotic division",
+      "Damaged Leydig cells that have undergone apoptosis adjacent to the basement membrane"
     ],
     "answer": "B"
   },
   {
     "id": 34,
     "type": "mcq",
-    "stem": "Among the causes of precocious puberty, which aetiology accounts for the MAJORITY of cases in the gonadotropin-dependent category?",
+    "stem": "Masters and Johnson described four sequential stages of the human sexual response cycle. Which sequence is CORRECT in the order they occur?",
     "options": [
-      "Hypothalamic hamartoma producing pulsatile GnRH",
-      "Idiopathic (unknown cause) in the majority of cases",
-      "Langerhans cell histiocytosis involving the hypothalamus",
-      "Tumour in the hypothalamo-pituitary axis"
+      "Arousal, plateau, resolution, and orgasm",
+      "Excitement, plateau, orgasm, and resolution",
+      "Excitement, orgasm, plateau, and resolution",
+      "Plateau, excitement, orgasm, and resolution"
     ],
     "answer": "B"
   },
   {
     "id": 35,
     "type": "mcq",
-    "stem": "Among the causes of gonadotropin-dependent precocious puberty, a specific hypothalamic lesion can independently produce pulsatile GnRH release, triggering the HPO axis prematurely. This lesion is:",
+    "stem": "The excitement phase is described as the FIRST stage of the human sexual response cycle. In males, excitement involves which primary physical response?",
     "options": [
-      "Craniopharyngioma located in the suprasellar region",
-      "Hypothalamic hamartoma",
-      "Langerhans cell histiocytosis of the hypothalamic neurons",
-      "Pinealoma causing local hypothalamic compression"
+      "Emission of pre-ejaculatory fluid from the seminal vesicles",
+      "Penile erection",
+      "Scrotal tightening with perineal muscle contraction",
+      "Retraction of the testes towards the perineum"
     ],
     "answer": "B"
   },
   {
     "id": 36,
     "type": "mcq",
-    "stem": "Gonadotropin-independent precocious puberty can result from fetal or postnatal exogenous hormonal exposure. Which exogenous hormone source is specifically named as a cause in this curriculum?",
+    "stem": "Female excitement specifically involves enlargement of which combination of structures?",
     "options": [
-      "Maternal use of thyroid replacement therapy during pregnancy",
-      "Exposure to oestrogens or androgens from therapeutic administration or tumour-producing hormones",
-      "Exogenous growth hormone therapy administered in early infancy",
-      "Maternal use of progestin-only contraception during the first trimester"
+      "Uterus, ovaries, and external labia minora only",
+      "Breast, nipples, areola, clitoris, and proximal vagina",
+      "Clitoris, labia majora, uterus, and vaginal fornices",
+      "Nipples, areola, labia minora, and distal vagina"
     ],
     "answer": "B"
   },
   {
     "id": 37,
     "type": "mcq",
-    "stem": "McCune-Albright syndrome is specifically listed among the causes of precocious puberty. Under which pathophysiological category of precocious puberty does this syndrome fall?",
+    "stem": "During female excitement, vaso-congestion of the skin produces a specific cutaneous phenomenon. What is this phenomenon called?",
     "options": [
-      "Gonadotropin-dependent (central) precocious puberty via hypothalamic activation",
-      "Gonadotropin-independent precocious puberty via autonomous peripheral gonadal activity",
-      "Eugonadotrophic delayed puberty with paradoxical early virilization",
-      "Hypergonadotropic hypogonadism with intermittent autonomous steroid secretion"
+      "Cutaneous hyperaemia causing warm erythematous patches on the dorsal trunk",
+      "Sex flush",
+      "Sympathetic vasoconstriction causing pallor of the peripheral skin",
+      "Piloerection of the truncal skin due to autonomic nervous system activation"
     ],
     "answer": "B"
   },
   {
     "id": 38,
     "type": "mcq",
-    "stem": "The three therapeutic goals of treating precocious puberty in a girl-child are specifically stated in this curriculum. Which combination CORRECTLY identifies all three goals?",
+    "stem": "Vaginal lubrication during the excitement phase in females involves secretion from which specific structures?",
     "options": [
-      "Induce normal puberty at an appropriate age, prevent early fertility, and maximize adult bone mineral density",
-      "Protect the girl-child from sexual abuse, suppress premature activation of the HPO axis, and prevent short stature",
-      "Normalize gonadotropin levels, prevent early menarche, and promote a normal body image",
-      "Prevent epiphyseal closure, induce regression of secondary sexual characteristics, and normalize adrenal androgen levels"
+      "Skene's glands located at the urethral meatus",
+      "Bartholin's glands and the venous plexus in the vagina",
+      "Cervical glands secreting mucus that tracks down to the vaginal vault",
+      "The vaginal epithelium alone through transudation of plasma across the mucosa"
     ],
     "answer": "B"
   },
   {
     "id": 39,
     "type": "mcq",
-    "stem": "Management of precocious puberty requires specific investigations. According to the curriculum, which imaging modalities and laboratory assessments are CRITICAL in the diagnostic workup?",
+    "stem": "In males, the plateau phase is specifically defined as the interval between which two events?",
     "options": [
-      "DEXA scan for bone age, thyroid function tests, and fasting insulin levels",
-      "X-rays, ultrasound, CT, and MRI as well as reproductive hormonal assays",
-      "Karyotyping, adrenal vein sampling, and laparoscopy for gonadal biopsy",
-      "EEG, skull X-ray, and 24-hour urinary catecholamine assay"
+      "The interval between the first psychic stimulation and the achievement of full penile erection",
+      "The interval between erection and ejaculation",
+      "The interval between ejaculation and the next possible excitatory stimulus",
+      "The interval between testicular elevation and contraction of the pelvic floor musculature"
     ],
     "answer": "B"
   },
   {
     "id": 40,
     "type": "mcq",
-    "stem": "Delayed puberty is defined by two specific clinical scenarios. Which combination CORRECTLY captures BOTH diagnostic criteria for delayed puberty?",
+    "stem": "During the plateau phase in males, emission occurs from several structures. Which complete list of structures from which emission occurs is named in this curriculum?",
     "options": [
-      "Secondary sexual characteristics absent at 18 years in males OR menarche absent at 16 years in females",
-      "Secondary sexual characteristics absent at 20 years in males and menarche absent at 17 years in females, OR failure of mensuration five years after commencement of puberty",
-      "No breast development at 14 years in females OR no testicular enlargement at 14 years in males",
-      "Secondary sexual characteristics absent at 16 years in males and menarche absent at 15 years in females"
+      "Prostate, seminal vesicles, and bulbourethral glands only",
+      "Testicles, epididymis, vas deferens, prostate, seminal vesicles, urethral and bulbourethral glands",
+      "Leydig cells, Sertoli cells, prostate, and seminal vesicles",
+      "Seminal vesicles, prostate, and Cowper's glands exclusively"
     ],
     "answer": "B"
   },
   {
     "id": 41,
     "type": "mcq",
-    "stem": "Delayed puberty caused by hypergonadotropic hypogonadism is characterised by which specific gonadotropin pattern and its most common underlying aetiology?",
+    "stem": "During the male plateau phase, which specific anatomical mechanism prevents retrograde ejaculation into the bladder?",
     "options": [
-      "Low FSH and LH due to hypothalamic GnRH deficiency from a tumour or congenital cause",
-      "High FSH and LH due to primary ovarian failure (idiopathic, genetic, traumatic, iatrogenic, chemical, or radiation destruction)",
-      "Normal FSH and LH with end-organ (gonadal) resistance to circulating gonadotropins",
-      "Pulsatile FSH with tonic LH elevation due to autonomous adrenal androgen overproduction"
+      "Contraction of the detrusor muscle of the bladder creating anterograde pressure",
+      "Contraction of the urethral sphincter",
+      "Closure of the vesicoureteral junction by trigonal muscle activation",
+      "Compression of the proximal urethra by congested periurethral venous sinuses"
     ],
     "answer": "B"
   },
   {
     "id": 42,
     "type": "mcq",
-    "stem": "Hypogonadotropic hypogonadism as a cause of delayed puberty is distinguished from hypergonadotropic hypogonadism by which gonadotropin pattern, and which syndrome involves HP axis destruction causing this pattern?",
+    "stem": "During the female plateau phase, engorgement and lubrication continue until the introital opening is reduced by a specific proportion to create the 'orgasmic platform.' By how much is the introital opening reduced?",
     "options": [
-      "High FSH/LH; Kallmann's syndrome and craniopharyngioma",
-      "Low FSH/LH; Kallmann's syndrome and craniopharyngioma as HP axis-destroying conditions",
-      "Low FSH/LH; McCune-Albright syndrome and congenital adrenal hyperplasia",
-      "Normal FSH/LH; isolated GnRH deficiency in Prader-Willi syndrome and constitutional delay"
+      "By 25% of its resting diameter",
+      "By 40% of its resting diameter",
+      "By 50% of its resting diameter",
+      "By 75% of its resting diameter"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 43,
     "type": "mcq",
-    "stem": "Eugonadotrophic delayed puberty represents a third category of delayed puberty where gonadotropin levels are normal. Which specific anatomical obstructive conditions are named as causes in this category?",
+    "stem": "At orgasm in the male, sympathetic stimulation of the vas, prostate, and seminal vesicles leads to emission of semen into the internal urethra. The subsequent ejaculation of semen to the exterior is achieved by contraction of which muscles?",
     "options": [
-      "Bicornuate uterus, cervical stenosis, and endometrial adhesions (Asherman's syndrome)",
-      "Imperforate hymen, transverse vaginal septum, and androgen insensitivity",
-      "Ovarian agenesis, fallopian tube aplasia, and mÃ¼llerian agenesis",
-      "Polycystic ovarian syndrome, hypothyroidism, and hyperprolactinaemia"
+      "Contraction of the detrusor muscle with simultaneous relaxation of the urethral sphincter",
+      "Contraction of the cavernous muscles aided by the pelvic floor and body trunk muscles",
+      "Contraction of the cremaster and dartos muscles creating expulsive pressure",
+      "Contraction of the pubococcygeus alone without involvement of accessory trunk muscles"
     ],
     "answer": "B"
   },
   {
     "id": 44,
     "type": "mcq",
-    "stem": "Masters and Johnson conducted their pioneering research on human sexual response by direct observation of subjects. How many women and how many men participated in the initial phase of their studies from 1957 to 1965?",
+    "stem": "During male orgasm, the first and second convulsive contractions hold a special significance compared to subsequent contractions. Which statement MOST accurately describes this difference?",
     "options": [
-      "300 women and 250 men",
-      "382 women and 312 men",
-      "400 women and 350 men",
-      "350 women and 300 men"
+      "The first and second contractions produce the least intense sensation but the greatest semen volume, reversing for subsequent contractions",
+      "The first and second contractions are usually the most intense in sensation and produce the greatest quantity of semen; thereafter each contraction is associated with diminishing volume and milder pleasure",
+      "All contractions are physiologically equivalent in both semen volume and sensation intensity",
+      "The first contraction produces a wave of pain followed by the second contraction producing the peak of pleasure, after which volume diminishes"
     ],
     "answer": "B"
   },
   {
     "id": 45,
     "type": "mcq",
-    "stem": "The research by Masters and Johnson from 1957 to 1965 conservatively estimated the total number of complete cycles of sexual response directly observed. What was this conservative estimate?",
+    "stem": "Female orgasm involves pleasurable contraction of pelvic organs and musculature, accompanied by systemic sympathetic discharge changes. Which cardiovascular and respiratory changes are listed as accompanying orgasm?",
     "options": [
-      "5,000 complete cycles",
-      "8,000 complete cycles",
-      "10,000 complete cycles",
-      "12,000 complete cycles"
+      "Bradycardia, hypoventilation, and systemic hypotension with peripheral vasodilation",
+      "Hyperventilation, tachycardia, and hypertension as effects of sympathetic discharge",
+      "Bradycardia, deep regular breathing, and transient systolic hypotension",
+      "Hyperventilation with paradoxical bradycardia and maintained normotension"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 46,
     "type": "mcq",
-    "stem": "Masters and Johnson authored two landmark books based on their sexual response research. What were the publication years of 'Human Sexual Response' and 'Human Sexual Inadequacy' respectively?",
+    "stem": "Unlike males, females do not have a prominent refractory period, which confers upon them a specific physiological advantage. What is this advantage?",
     "options": [
-      "1963 and 1968",
-      "1964 and 1970",
-      "1966 and 1970",
-      "1965 and 1972"
+      "Females experience a longer plateau phase providing enhanced preparatory lubrication",
+      "Females can experience multiple orgasms in one sexual act",
+      "Females have a faster resolution phase returning to baseline more rapidly than males",
+      "Females maintain higher sensitivity in the clitoris throughout repeated sexual stimulation"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 47,
     "type": "mcq",
-    "stem": "Vulvo-vaginitis in children can result from multiple causes. Which combination of causes is MOST comprehensively listed in this curriculum?",
+    "stem": "The refractory period in males is the interval between ejaculation and the next possible excitement. Which two factors determine its duration?",
     "options": [
-      "Candida overgrowth, antibiotic use, synthetic underwear, and chlorinated pool water exposure",
-      "Low oestrogen, poor urinating and defecating, menstrual and social hygiene issues, foreign body insertion, trauma, and sexually transmitted diseases including sexual abuse",
-      "Group B streptococcal colonisation, viral infections, and lichen sclerosus in pre-pubertal children",
-      "Pinworm infestation, bubble bath irritants, nappy rash, and urinary tract contamination"
+      "Testosterone level and the number of previous ejaculations in the preceding 24 hours",
+      "Age and psychological state of the patient",
+      "The volume of semen ejaculated and the total duration of the plateau phase",
+      "Sympathetic nervous system tone and adrenal cortisol level at the time of ejaculation"
     ],
     "answer": "B"
   },
   {
     "id": 48,
     "type": "mcq",
-    "stem": "A child presenting with vulvo-vaginitis should be examined in which specific physical positions to allow adequate assessment?",
+    "stem": "The resolution phase is defined as the interval between which two physiological landmarks?",
     "options": [
-      "Lithotomy position and left lateral (Sims) position",
-      "Knee-chest position and dorsal recumbent position",
-      "Knee-chest or frog-leg position",
-      "Standing squat position and left lateral decubitus position"
+      "The interval between the last orgasmic contraction and the complete regression of genital engorgement",
+      "The interval between ejaculation and return to the normal physiological baseline",
+      "The interval between the end of the plateau phase and the beginning of the next possible excitement",
+      "The interval between the first orgasmic contraction and complete penile detumescence"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 49,
     "type": "mcq",
-    "stem": "When examining a child with vulvo-vaginitis, what specific diagnostic action should the examining clinician always perform at the time of examination to maximize diagnostic yield?",
+    "stem": "The term specifically described as the OPPOSITE of erection in the physiology of human sexual response is:",
     "options": [
-      "Perform a colposcopy with acetic acid application to identify subclinical mucosal changes",
-      "Take a swab for culture and sensitivity",
-      "Perform a Papanicolaou smear to screen for viral cytopathic changes",
-      "Collect a mid-stream urine sample and blood for full septic workup simultaneously"
+      "Flaccidity — the resting state of the non-erect penis",
+      "Detumescence",
+      "Resolution — the return of all genital structures to their resting dimensions",
+      "Defervescence — the cooling of the scrotal tissues following penile blood flow reduction"
     ],
     "answer": "B"
   },
   {
     "id": 50,
     "type": "mcq",
-    "stem": "The primary reason why pre-pubertal girls are particularly predisposed to vulvo-vaginitis compared to post-pubertal females is MOST directly attributed to which physiological factor?",
+    "stem": "The cerebral cortex can suppress erection even in the presence of adequate mechanical stimulation. Through which neural pathway does the cerebral cortex initiate erection in the absence of mechanical stimulation?",
     "options": [
-      "Absence of protective labial fat pads allowing direct environmental exposure of the vaginal introitus",
-      "Low oestrogen levels resulting in thin atrophic vaginal epithelium with absent glycogen-rich protective mucosal environment",
-      "Immature immune system incapable of producing secretory IgA for vaginal mucosal defence",
-      "Alkaline vaginal pH due to absent lactobacilli that only colonise the vagina after oestrogen-driven menarche"
+      "Through pudendal nerve afferents that relay to the sacral parasympathetic outflow",
+      "Through erectile centers in the lumbar and sacral regions of the spinal cord, in response to visual, auditory, olfactory, imagined, or tactile stimuli",
+      "Through the thoracolumbar sympathetic chain that relaxes corporal smooth muscle",
+      "Through the anterior hypothalamus which releases oxytocin directly causing corporal vasodilation"
     ],
     "answer": "B"
   },
   {
     "id": 51,
-    "type": "fitb",
-    "stem": "Menopause is defined as a retrospective diagnosis made after waiting for ___ year/years without a period, representing the last menstrual period.",
-    "answer": "one",
-    "acceptableAnswers": ["one", "1", "one year", "1 year"]
+    "type": "mcq",
+    "stem": "The most important receptors mediating the mechanical component of erection in males are located on which structure?",
+    "options": [
+      "The penile shaft skin and scrotal raphe",
+      "The glans penis",
+      "The frenulum and prepuce of the coronal sulcus",
+      "The perineal and perianal skin overlying the ischiocavernosus muscles"
+    ],
+    "answer": "B"
   },
   {
     "id": 52,
-    "type": "fitb",
-    "stem": "Natural menopause occurs between the ages of ___ and ___ years in females.",
-    "answer": "45 / 55",
-    "acceptableAnswers": ["45 / 55", "45-55", "forty-five / fifty-five", "45 to 55"]
+    "type": "mcq",
+    "stem": "During erection, efferent parasympathetic impulses are sent to the penis causing vasodilatation. Which two corpora are specifically involved in the smooth muscle dilatation that leads to engorgement?",
+    "options": [
+      "Corpus spongiosum and corpus cavernosum urethra",
+      "Corpora spongiosa and cavernosa",
+      "Corpora cavernosa only, as the spongiosum remains contracted to maintain urethral patency",
+      "The dorsal venous sinus and the corporal lacunar spaces"
+    ],
+    "answer": "B"
   },
   {
     "id": 53,
-    "type": "fitb",
-    "stem": "Although the function of the testis tends to decline slowly with advancing age, there is no male menopause similar to that obtained in the female because the ability to produce ___ persists and may never completely cease.",
-    "answer": "spermatozoa",
-    "acceptableAnswers": ["spermatozoa", "sperm", "spermatozoa/sperm", "sperms"]
+    "type": "mcq",
+    "stem": "Nitric oxide (NO) plays a central role in penile erection. Which enzyme, found specifically in the nervi erigenti, is responsible for synthesizing NO?",
+    "options": [
+      "Phosphodiesterase type 5 enzyme",
+      "Nitric oxide synthase",
+      "Guanyl cyclase (soluble form)",
+      "Adenylyl cyclase producing cAMP"
+    ],
+    "answer": "B"
   },
   {
     "id": 54,
-    "type": "fitb",
-    "stem": "With advancing age, ovarian follicles begin to atrophy and ovarian hormones (specifically ___) continue to decline to very low levels, causing loss of feedback inhibition on the hypothalamus and pituitary, with eventual gross elevation of ___.",
-    "answer": "oestradiol / gonadotropins",
-    "acceptableAnswers": [
-      "oestradiol / gonadotropins",
-      "estradiol / gonadotropins",
-      "oestradiol / FSH and LH",
-      "estradiol / FSH and LH"
-    ]
+    "type": "mcq",
+    "stem": "In the molecular pathway of erection, NO activates guanyl cyclase which in turn activates GTP to form a specific compound. What is this compound, and what is its primary effect on the corpora?",
+    "options": [
+      "cAMP; acts as a vasodilator causing smooth muscle relaxation and engorgement",
+      "CGMP; acts as a powerful vasodilator leading to engorgement and erection",
+      "GMP; acts as a vasoconstrictor that redirects blood from sinusoids into arterioles",
+      "IP3; directly opens calcium channels in corporal smooth muscle cells"
+    ],
+    "answer": "B"
   },
   {
     "id": 55,
-    "type": "fitb",
-    "stem": "The predominant oestrogen in the post-menopausal state is ___, which is a product of adrenal and stromal cells of the ovary via peripheral ___ of androgens.",
-    "answer": "oestrone / aromatization",
-    "acceptableAnswers": [
-      "oestrone / aromatization",
-      "estrone / aromatization",
-      "oestrone / aromatisation",
-      "estrone / aromatisation"
-    ]
+    "type": "mcq",
+    "stem": "Sildenafil (Viagra) is described as a potent aphrodisiac. What is its precise molecular mechanism of action in facilitating erection?",
+    "options": [
+      "It directly stimulates nitric oxide synthase in the nervi erigenti to produce more NO",
+      "It prevents the inactivation of CGMP by inhibiting the phosphodiesterase enzyme",
+      "It activates guanyl cyclase independently of NO, bypassing the nitric oxide pathway",
+      "It blocks sympathetic vasoconstriction of the cavernous arteries by antagonizing alpha-1 receptors"
+    ],
+    "answer": "B"
   },
   {
     "id": 56,
-    "type": "fitb",
-    "stem": "The term ___ refers to the period of waning of ovarian function that includes both the menopause and the post-menopausal period.",
-    "answer": "climacteric",
-    "acceptableAnswers": ["climacteric", "Climacteric", "the climacteric"]
+    "type": "mcq",
+    "stem": "Hypoactive Sexual Desire Disorder (HSDD) is classified as a sexual dysfunction. How is it specifically characterized?",
+    "options": [
+      "The inability to achieve adequate physical arousal (lubrication/engorgement) despite intact sexual desire",
+      "A lack or absence of sexual fantasies and desire for sexual activity for some period of time",
+      "The inability to achieve orgasm despite normal desire and arousal phases",
+      "Persistent genital arousal disorder occurring independently of any sexual desire"
+    ],
+    "answer": "B"
   },
   {
     "id": 57,
-    "type": "fitb",
-    "stem": "Premature menopause is defined as the cessation of menstruation before the age of ___ years.",
-    "answer": "40",
-    "acceptableAnswers": ["40", "forty", "40 years", "forty years"]
+    "type": "mcq",
+    "stem": "Impotence is defined as the inability to achieve adequate and strong erection. Which statement MOST accurately describes the aetiology of impotence?",
+    "options": [
+      "The aetiology is predominantly organic in most cases, with psychological causes being rare",
+      "Most of the time the aetiology is psychological but some medical conditions have been implicated",
+      "The aetiology is equally distributed between psychological and organic causes in all age groups",
+      "The aetiology is exclusively organic in patients over 50 years of age and exclusively psychological in younger men"
+    ],
+    "answer": "B"
   },
   {
     "id": 58,
-    "type": "fitb",
-    "stem": "Menopausal physical changes due to collagen loss result in genital atrophy, which causes ___ (painful intercourse), and osteoporosis which predisposes to ___.",
-    "answer": "dyspareunia / fractures",
-    "acceptableAnswers": [
-      "dyspareunia / fractures",
-      "dyspareunia / bone fractures",
-      "painful intercourse / fractures",
-      "dyspareunia / fracture"
-    ]
+    "type": "mcq",
+    "stem": "The inability of the penis to relax after erection is given a specific clinical term. What is this condition called?",
+    "options": [
+      "Detumescence failure",
+      "Priapism",
+      "Persistent genital arousal disorder",
+      "Corporal fibrosis with secondary erectile dysfunction"
+    ],
+    "answer": "B"
   },
   {
     "id": 59,
-    "type": "fitb",
-    "stem": "The menopausal metabolic changes that increase coronary artery disease risk are characterized by a lipid profile of ___ LDL and ___ HDL.",
-    "answer": "high / low",
-    "acceptableAnswers": ["high / low", "elevated / reduced", "high LDL / low HDL", "increased / decreased"]
+    "type": "mcq",
+    "stem": "Premature ejaculation is defined with a precise temporal criterion in relation to a specific event. When precisely does premature ejaculation occur?",
+    "options": [
+      "Before or within 1 minute of vaginal penetration",
+      "Before or just after penetration",
+      "Before completing 10 thrusts following penetration",
+      "Within 2 minutes of beginning the plateau phase"
+    ],
+    "answer": "B"
   },
   {
     "id": 60,
-    "type": "fitb",
-    "stem": "Menopausal symptoms including hot flushes, genital atrophy, osteoporosis, and psychological changes can be reversed by hormone replacement therapy using ___ and ___.",
-    "answer": "estrogen / progestogens",
-    "acceptableAnswers": [
-      "estrogen / progestogens",
-      "oestrogen / progestogens",
-      "estrogens / progestogens",
-      "oestrogen / progesterone"
-    ]
+    "type": "mcq",
+    "stem": "The hypoactive female sexual dysfunction disorder assessment uses a specific scoring tool evaluating six parameters. Which combination CORRECTLY lists all six parameters assessed?",
+    "options": [
+      "Desire, Arousal, Orgasm, Satisfaction, Frequency, and Duration",
+      "Desire, Arousal, Lubrication, Orgasm, Satisfaction, and Pain",
+      "Desire, Lubrication, Orgasm, Resolution, Satisfaction, and Frequency",
+      "Arousal, Lubrication, Orgasm, Pain, Satisfaction, and Refractory period"
+    ],
+    "answer": "B"
   },
   {
     "id": 61,
-    "type": "fitb",
-    "stem": "HRT is used when target hormones are low or absent during the reproductive age of the woman, which is defined in this curriculum as ages ___ to ___ years.",
-    "answer": "15 / 44",
-    "acceptableAnswers": ["15 / 44", "15-44", "fifteen to forty-four", "15 to 44 years"]
+    "type": "mcq",
+    "stem": "Female frigidity is described in the context of human sexual dysfunction classification. How is it specifically categorized?",
+    "options": [
+      "It is a moderate form of hyposexuality representing a midpoint on the sexual dysfunction spectrum",
+      "It is an extreme example of hyposexuality",
+      "It is a form of hypersexuality caused by paradoxical suppression of the pleasure response",
+      "It is synonymous with vaginismus, representing the same condition described by different terminology"
+    ],
+    "answer": "B"
   },
   {
     "id": 62,
-    "type": "fitb",
-    "stem": "The specific estrogen formulations that constitute postmenopausal HRT include 17 beta-estradiol, conjugated equine estrogens, esterified estrogens, and ___.",
-    "answer": "estriol",
-    "acceptableAnswers": ["estriol", "oestriol", "Estriol", "Oestriol"]
+    "type": "mcq",
+    "stem": "Vaginismus is described as resulting from the reflex contraction of a specific muscle. Which muscle's reflex contraction is responsible for vaginismus?",
+    "options": [
+      "The bulbospongiosus muscle surrounding the vaginal introitus",
+      "The pubococcygeus muscle",
+      "The iliococcygeus component of the levator ani muscle",
+      "The superficial transverse perineal muscle"
+    ],
+    "answer": "B"
   },
   {
     "id": 63,
-    "type": "fitb",
-    "stem": "The two naturally occurring progestogens named in this curriculum for use in HRT formulations are Progesterone ___ and 17-___ OH progesterone.",
-    "answer": "P4 / alpha",
-    "acceptableAnswers": ["P4 / alpha", "P4 / -alpha", "P4 / alpha (17-alpha OH progesterone)"]
+    "type": "mcq",
+    "stem": "CASE STUDY: A 35-year-old man presents to a fertility clinic. His semen analysis shows azoospermia. Testicular biopsy reveals normal Leydig cells but absent spermatogonia in the seminiferous tubules. His FSH is markedly elevated. Which mechanism MOST likely explains his infertility?",
+    "options": [
+      "Deficient LH secretion causing insufficient testosterone to drive the later stages of spermatogenesis",
+      "Primary testicular failure with absence of germinal epithelium, causing high FSH due to absent inhibin feedback",
+      "Excess estrogen causing inhibition of GnRH and the conversion of testosterone to DHT",
+      "Blood-testis barrier disruption causing autoimmune spermatozoa destruction before release"
+    ],
+    "answer": "B"
   },
   {
     "id": 64,
-    "type": "fitb",
-    "stem": "In HRT, the progestogen and estrogen components are given ___ to mimic the natural cycle, rather than being administered simultaneously as a fixed combination.",
-    "answer": "sequentially",
-    "acceptableAnswers": ["sequentially", "in sequence", "sequentially (in sequence)"]
+    "type": "mcq",
+    "stem": "CASE STUDY: The same 35-year-old from Q63 asks why he has normal secondary sexual characteristics despite azoospermia. The nurse explains this is because:",
+    "options": [
+      "FSH maintains secondary sexual characteristics independently of testosterone in males",
+      "Leydig cells are intact and continue to produce testosterone normally, which is responsible for maintaining secondary sexual characteristics separately from spermatogenesis",
+      "Adrenal androgens fully compensate for any deficiency in testicular testosterone production",
+      "Sertoli cells produce sufficient oestradiol which cross-reacts with androgen receptors to maintain secondary sexual characteristics"
+    ],
+    "answer": "B"
   },
   {
     "id": 65,
-    "type": "fitb",
-    "stem": "The six absolute contraindications to HRT include: undiagnosed vaginal bleeding, severe liver disease, pregnancy, coronary artery disease, well-differentiated and early endometrial cancer, and recent ___ or ___.",
-    "answer": "DVT / stroke",
-    "acceptableAnswers": [
-      "DVT / stroke",
-      "deep vein thrombosis / stroke",
-      "DVT or stroke",
-      "stroke / DVT",
-      "deep venous thrombosis / stroke"
-    ]
+    "type": "mcq",
+    "stem": "CASE STUDY: A 28-year-old man who works as a long-distance lorry driver presents with infertility after 2 years of trying to conceive. Semen analysis shows oligospermia. Physical examination is unremarkable. Which aetiological factor MOST directly explains his oligospermia based on the curriculum?",
+    "options": [
+      "Psychological stress from long working hours suppressing LH pulsatility and thus testosterone production",
+      "Prolonged sitting in a warm cab environment leading to elevated scrotal temperature, which reduces spermatogenesis",
+      "Nutritional deficiency from irregular meals causing Sertoli cell dysfunction and reduced inhibin secretion",
+      "Vibration-induced testicular trauma causing blood-testis barrier disruption and autoimmune oligospermia"
+    ],
+    "answer": "B"
   },
   {
     "id": 66,
-    "type": "fitb",
-    "stem": "Under the relative contraindications to HRT, the two cancer-related histories listed are personal history of ___ cancer and personal history of ___ cancer.",
-    "answer": "breast / ovarian",
-    "acceptableAnswers": [
-      "breast / ovarian",
-      "ovarian / breast",
-      "breast cancer / ovarian cancer"
-    ]
+    "type": "mcq",
+    "stem": "CASE STUDY: A 42-year-old man is diagnosed with cryptorchidism that was never surgically corrected. He presents with infertility. The nurse explains that the undescended testis is associated with reduced spermatogenesis because:",
+    "options": [
+      "Cryptorchidism prevents FSH from reaching the testis because the blood supply is insufficient at the inguinal location",
+      "The intra-abdominal temperature exceeds the optimal scrotal temperature by approximately 2 degrees, impairing spermatogenesis",
+      "The absence of gubernacular attachment prevents the testicular rotation needed for seminiferous tubule alignment",
+      "Cryptorchidism causes direct mechanical compression of the rete testis by the inguinal ligament"
+    ],
+    "answer": "B"
   },
   {
     "id": 67,
-    "type": "fitb",
-    "stem": "Active gallbladder disease is a ___ contraindication to HRT, and specifically includes the conditions ___ and ___.",
-    "answer": "relative / cholangitis / cholecystitis",
-    "acceptableAnswers": [
-      "relative / cholangitis / cholecystitis",
-      "relative contraindication / cholangitis / cholecystitis",
-      "relative / cholecystitis / cholangitis"
-    ]
+    "type": "mcq",
+    "stem": "CASE STUDY: A 55-year-old man presents with a sustained, painful erection lasting 6 hours without sexual stimulation. He has known sickle cell disease. The nurse correctly identifies this condition as:",
+    "options": [
+      "Hypersexuality secondary to elevated testosterone from sickle cell anaemia-related polycythaemia",
+      "Priapism, the inability of the penis to relax after erection, which is a known complication of sickle cell disease",
+      "Impotence paradox, where chronic erectile dysfunction produces intermittent uncontrolled erections",
+      "Persistent genital arousal disorder secondary to priapism-mediated nerve sensitization"
+    ],
+    "answer": "B"
   },
   {
     "id": 68,
-    "type": "fitb",
-    "stem": "Among the common side effects of HRT, swelling of the hands, feet, or lower legs occurs due to ___, while changes in the breast include tenderness, ___, or discharge.",
-    "answer": "fluid retention / enlargement",
-    "acceptableAnswers": [
-      "fluid retention / enlargement",
-      "fluid retention / breast enlargement",
-      "oedema/fluid retention / enlargement"
-    ]
+    "type": "mcq",
+    "stem": "CASE STUDY: For the same patient from Q67 with sickle cell disease and priapism, which statement MOST accurately explains the pathophysiological link between sickle cell disease and this condition?",
+    "options": [
+      "Sickle cell disease causes elevated testosterone, which overstimulates the NO-CGMP pathway",
+      "Sickle cell disease is among the medical conditions implicated in abnormal sexual response physiology, as sickled erythrocytes obstruct corporal venous drainage preventing detumescence",
+      "Sickle cell anaemia elevates FSH levels which directly stimulate corporal smooth muscle",
+      "Sickle cell disease causes hyperviscosity which prevents phosphodiesterase from inactivating CGMP"
+    ],
+    "answer": "B"
   },
   {
     "id": 69,
-    "type": "fitb",
-    "stem": "A person castrated before the onset of puberty retains a ___ voice and a non-muscular build, and may be ___ than average because reduced oestrogen (from aromatization of testosterone) hinders early closure of epiphyses.",
-    "answer": "high / taller",
-    "acceptableAnswers": ["high / taller", "high-pitched / taller", "high pitched / taller than average"]
+    "type": "mcq",
+    "stem": "CASE STUDY: A couple undergoes fertility counselling. The male partner wishes to understand sperm banking before chemotherapy. The nurse correctly advises that spermatozoa stored in the presence of glycerol at -269°C can be revived after storage by which process?",
+    "options": [
+      "By rapid rewarming to 37°C using sterile saline wash",
+      "By thawing",
+      "By centrifugation at physiological temperature to re-activate mitochondrial function",
+      "By exposure to FSH and testosterone in culture medium before thawing"
+    ],
+    "answer": "B"
   },
   {
     "id": 70,
-    "type": "fitb",
-    "stem": "After castration before puberty, pubic hair ___ develop, but libido is reduced to ___ at all.",
-    "answer": "may / none",
-    "acceptableAnswers": [
-      "may / none",
-      "may still / none",
-      "may / nothing/none"
-    ]
+    "type": "mcq",
+    "stem": "CASE STUDY: A 30-year-old woman presents with an inability to allow vaginal penetration despite normal desire and arousal. Physical examination is normal. The nurse correctly identifies this as vaginismus and explains that it results from reflex contraction of the pubococcygeus muscle. What is the MOST appropriate initial nursing management approach?",
+    "options": [
+      "Immediate referral for surgical hymenotomy under local anaesthesia",
+      "Assessment, education, and referral for psychosexual therapy including progressive pelvic floor relaxation exercises",
+      "Prescription of systemic muscle relaxants to prevent reflex pubococcygeus contraction during penetration",
+      "Administration of topical anaesthetic gel to eliminate the afferent reflex arc at the vaginal introitus"
+    ],
+    "answer": "B"
   },
   {
     "id": 71,
     "type": "fitb",
-    "stem": "Castration performed after the onset of puberty typically ___ libido substantially or ___ it in total, and renders the individual automatically ___.",
-    "answer": "reduces / eliminates / sterile",
+    "stem": "Spermatogenesis is inhibited in the fetus by the ___ factor, and begins at puberty at ___ to ___ years of age.",
+    "answer": "meiosis-inhibiting / 11 / 13",
     "acceptableAnswers": [
-      "reduces / eliminates / sterile",
-      "reduces / eliminate / sterile",
-      "reduces libido / eliminates / sterile"
+      "meiosis-inhibiting / 11 / 13",
+      "meiosis inhibiting factor / 11 / 13",
+      "meiosis-inhibiting factor / 11 to 13"
     ]
   },
   {
     "id": 72,
     "type": "fitb",
-    "stem": "Precocious puberty is said to occur when secondary sexual characteristics appear before ___ to ___ years of age.",
-    "answer": "7 / 9",
-    "acceptableAnswers": ["7 / 9", "7-9", "seven to nine", "7 to 9 years"]
+    "stem": "Spermatogenesis occurs in the ___ tubules and can basically be divided into ___ phases.",
+    "answer": "seminiferous / three",
+    "acceptableAnswers": [
+      "seminiferous / three",
+      "seminiferous / 3",
+      "seminiferous tubules / three phases"
+    ]
   },
   {
     "id": 73,
     "type": "fitb",
-    "stem": "In the majority of cases, the cause of gonadotropin-dependent precocious puberty is ___, while a specific hypothalamic lesion called ___ hamartoma may produce pulsatile GnRH and trigger premature puberty.",
-    "answer": "idiopathic / hypothalamic",
+    "stem": "About ___ to ___ million spermatozoa can be produced daily, and the complete process of spermatogenesis takes approximately ___ to ___ days.",
+    "answer": "100 / 200 / 60 / 70",
     "acceptableAnswers": [
-      "idiopathic / hypothalamic",
-      "unknown / hypothalamic",
-      "idiopathic (unknown) / hypothalamic hamartoma"
+      "100 / 200 / 60 / 70",
+      "100-200 million / 60-70 days"
     ]
   },
   {
     "id": 74,
     "type": "fitb",
-    "stem": "Gonadotropin-independent precocious puberty can result from exogenous fetal or postnatal exposure to ___ or androgens, from therapeutic administration or ___ producing hormones.",
-    "answer": "oestrogens / tumour",
+    "stem": "The mitotic phase of spermatogenesis, also called ___, produces spermatogonia type A which serves as a ___ for spermatogonia, and type B which undergoes further mitotic division to produce ___ spermatocytes.",
+    "answer": "spermatocytogenesis / reservoir / primary",
     "acceptableAnswers": [
-      "oestrogens / tumour",
-      "estrogens / tumour",
-      "oestrogens / tumor",
-      "estrogens / tumor"
+      "spermatocytogenesis / reservoir / primary",
+      "spermatocytogenesis / cellular reservoir / primary spermatocytes"
     ]
   },
   {
     "id": 75,
     "type": "fitb",
-    "stem": "The three goals of treating precocious puberty are: to protect the girl-child from ___, to suppress premature activation of the ___ axis, and to prevent ___ stature.",
-    "answer": "sexual abuse / HPO / short",
+    "stem": "During spermiogenesis, spermatids become embedded in ___ cells and undergo nuclear ___, shrinkage of cytoplasm, and development of the head, acrosome, middle piece, and tail.",
+    "answer": "Sertoli / condensation",
     "acceptableAnswers": [
-      "sexual abuse / HPO / short",
-      "sexual abuse / hypothalamic-pituitary-ovarian / short",
-      "sexual abuse / HPO axis / short stature"
+      "Sertoli / condensation",
+      "Sertoli cells / condensation",
+      "Sertoli / nuclear condensation"
     ]
   },
   {
     "id": 76,
     "type": "fitb",
-    "stem": "Delayed puberty is defined as secondary sexual characteristics in males occurring after ___ years or menarche in females occurring after ___ years, OR failure of mensuration ___ years after commencement of puberty.",
-    "answer": "20 / 17 / five",
+    "stem": "One primary spermatocyte ultimately gives rise to ___ haploid mature spermatozoa, which enter the lumen of the seminiferous tubules and are propelled to the ___.",
+    "answer": "4 / vas",
     "acceptableAnswers": [
-      "20 / 17 / five",
-      "20 / 17 / 5",
-      "20 years / 17 years / 5 years",
-      "twenty / seventeen / five"
+      "4 / vas",
+      "four / vas",
+      "4 / vas deferens",
+      "four / vas deferens"
     ]
   },
   {
     "id": 77,
     "type": "fitb",
-    "stem": "Hypergonadotropic hypogonadism as a cause of delayed puberty is characterised by ___ FSH/LH levels due to primary ovarian failure, whereas hypogonadotropic hypogonadism is characterised by ___ FSH/LH levels.",
-    "answer": "high / low",
-    "acceptableAnswers": ["high / low", "elevated / low", "high FSH/LH / low FSH/LH", "high / reduced"]
+    "stem": "Each testis contains approximately ___ seminiferous tubules, each lobule containing coiled tubes that are ___ to ___ cm long and ___ to ___ µm in diameter.",
+    "answer": "900 / 30 / 70 / 150 / 300",
+    "acceptableAnswers": [
+      "900 / 30 / 70 / 150 / 300",
+      "900 tubules / 30-70 cm / 150-300 µm"
+    ]
   },
   {
     "id": 78,
     "type": "fitb",
-    "stem": "The two specific hypothalamo-pituitary axis-destroying conditions named in this curriculum that cause hypogonadotropic hypogonadism and thus delayed puberty are ___ syndrome and ___.",
-    "answer": "Kallmann's / craniopharyngioma",
+    "stem": "From the rete testes, ___ to ___ efferent ductules emerge to form the head of the epididymis, which continues to the body, tail, and finally forms the ___ (vas deferens).",
+    "answer": "7 / 15 / ductus deferens",
     "acceptableAnswers": [
-      "Kallmann's / craniopharyngioma",
-      "Kallmanns syndrome / craniopharyngioma",
-      "Kallmann syndrome / craniopharyngioma"
+      "7 / 15 / ductus deferens",
+      "7-15 / ductus deferens",
+      "7 / 15 / vas deferens"
     ]
   },
   {
     "id": 79,
     "type": "fitb",
-    "stem": "Eugonadotrophic delayed puberty occurs when gonadotropins are normal but physical obstruction prevents menstruation. Two anatomical causes listed in this category are imperforate ___ and transverse vaginal ___.",
-    "answer": "hymen / septum",
+    "stem": "The vas deferens is joined by ducts of the ___ and ___ to form the ejaculatory duct, which empties into the ___ urethra.",
+    "answer": "prostate / seminal vesicle / prostatic",
     "acceptableAnswers": [
-      "hymen / septum",
-      "hymen / vaginal septum",
-      "imperforate hymen / transverse vaginal septum"
+      "prostate / seminal vesicle / prostatic",
+      "seminal vesicle / prostate / prostatic",
+      "prostate gland / seminal vesicles / prostatic urethra"
     ]
   },
   {
     "id": 80,
     "type": "fitb",
-    "stem": "Masters and Johnson studied human sexual response from ___ until 1965, based on direct observation of ___ women and ___ men.",
-    "answer": "1957 / 382 / 312",
+    "stem": "A cross-section of the seminiferous tubule contains three layers: outermost ___ tissue, a ___ membrane, and complex stratified ___ epithelium.",
+    "answer": "connective / basement / germinal",
     "acceptableAnswers": [
-      "1957 / 382 / 312",
-      "nineteen fifty-seven / three hundred and eighty-two / three hundred and twelve"
+      "connective / basement / germinal",
+      "connective tissue / basement membrane / germinal epithelium"
     ]
   },
   {
     "id": 81,
     "type": "fitb",
-    "stem": "Masters and Johnson published two classic texts on human sexuality: ___ published in 1966 and ___ published in 1970.",
-    "answer": "Human Sexual Response / Human Sexual Inadequacy",
+    "stem": "Sertoli cells' endocrine functions include the production of Müllerian inhibitory factor, ___, and ___; while their exocrine function involves secreting seminal fluids rich in K+ and HCO3- but low in Na+ and Cl-.",
+    "answer": "inhibin / estrogen",
     "acceptableAnswers": [
-      "Human Sexual Response / Human Sexual Inadequacy",
-      "Human Sexual Response / Human Sexual Inadequacy (1970)"
+      "inhibin / estrogen",
+      "inhibin / oestrogen",
+      "estrogen / inhibin"
     ]
   },
   {
     "id": 82,
     "type": "fitb",
-    "stem": "Both of the classic texts by Masters and Johnson became best-sellers and were translated into more than ___ languages.",
-    "answer": "thirty",
-    "acceptableAnswers": ["thirty", "30", "thirty languages", "30 languages"]
+    "stem": "The blood-testis barrier is formed by the ___ junctions of Sertoli cells; it prevents noxious chemicals from reaching the tubular lumen, prevents mature sperm from entering the bloodstream to cause ___ reactions, and ensures high local ___ concentration.",
+    "answer": "tight / immune / testosterone",
+    "acceptableAnswers": [
+      "tight / immune / testosterone",
+      "tight junctions / immune / testosterone",
+      "tight / immunological / testosterone"
+    ]
   },
   {
     "id": 83,
     "type": "fitb",
-    "stem": "Vulvo-vaginitis in children may present with discharge, ___, pruritis, urinary symptoms, abnormal odour, or ___ of the vulva.",
-    "answer": "irritation / erythema",
+    "stem": "Androgen binding protein produced by Sertoli cells binds avidly to ___, ___, and DHT; this concentrates these products in the testis for important ___ and paracrine action.",
+    "answer": "testosterone / oestradiol / autocrine",
     "acceptableAnswers": [
-      "irritation / erythema",
-      "irritation / redness",
-      "irritation / erythema (redness)"
+      "testosterone / oestradiol / autocrine",
+      "testosterone / estradiol / autocrine"
     ]
   },
   {
     "id": 84,
     "type": "fitb",
-    "stem": "The primary reason pre-pubertal girls are more susceptible to vulvo-vaginitis is ___ oestrogen levels, which results in thin vaginal epithelium lacking the protective ___ rich mucosa seen after puberty.",
-    "answer": "low / glycogen",
+    "stem": "Spermatozoa can be stored in the presence of ___ at -269°C and revived after storage by ___. This is the basis for the development of ___ during artificial reproductive techniques.",
+    "answer": "glycerol / thawing / sperm bank",
     "acceptableAnswers": [
-      "low / glycogen",
-      "low estrogen / glycogen",
-      "low oestrogen / glycogen",
-      "reduced / glycogen"
+      "glycerol / thawing / sperm bank",
+      "glycerol / thawing / a sperm bank",
+      "glycerol / thawing / sperm banking"
     ]
   },
   {
     "id": 85,
     "type": "fitb",
-    "stem": "Adolescent problems in gynaecology listed in this curriculum include oligomenorrhoea (DUB), menorrhagia, acute and chronic pelvic pain, ___ syndrome, and unwanted pregnancy.",
-    "answer": "premenstrual",
-    "acceptableAnswers": ["premenstrual", "pre-menstrual", "PMS", "premenstrual syndrome"]
+    "stem": "The scrotal temperature is ___ degrees below body temperature. Any condition that encourages high temperature — such as constant wearing of tight nylon pants, long-distance lorry driving, and ___ — leads to reduced spermatogenesis.",
+    "answer": "2 / cryptorchidism",
+    "acceptableAnswers": [
+      "2 / cryptorchidism",
+      "two / cryptorchidism",
+      "2 degrees / cryptorchidism"
+    ]
   },
   {
     "id": 86,
-    "type": "mcq",
-    "stem": "CASE STUDY: A 7-year-old girl is brought to the clinic by her mother who noticed breast budding 2 weeks ago. The child also has axillary hair. There is no family history of early puberty. Serum LH and FSH levels are significantly elevated. Which category of precocious puberty does this presentation MOST likely represent?",
-    "options": [
-      "Gonadotropin-independent precocious puberty caused by an autonomous ovarian cyst",
-      "Gonadotropin-dependent (central) precocious puberty with premature activation of the HPO axis",
-      "McCune-Albright syndrome causing gonadotropin-independent autonomous sex steroid production",
-      "Exogenous oestrogen exposure from a tumour-producing hormone in the adrenal gland"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "Masters and Johnson described ___ stages of the human sexual response cycle: excitement, ___, orgasm, and resolution.",
+    "answer": "four / plateau",
+    "acceptableAnswers": ["four / plateau", "4 / plateau", "four stages / plateau"]
   },
   {
     "id": 87,
-    "type": "mcq",
-    "stem": "CASE STUDY: The same 7-year-old girl with elevated gonadotropins is found on MRI to have a lesion in the hypothalamus producing pulsatile GnRH. This lesion is MOST likely:",
-    "options": [
-      "A craniopharyngioma arising from Rathke's pouch remnants in the suprasellar region",
-      "A hypothalamic hamartoma",
-      "A Langerhans cell histiocytosis deposit within the hypothalamic nuclei",
-      "A pilocytic astrocytoma of the optic chiasm with secondary hypothalamic compression"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "The refractory period in males is the interval between ___ and the next possible ___, is variable, depends on age and psychological state, and may last from a few ___ to several hours.",
+    "answer": "ejaculation / excitement / minutes",
+    "acceptableAnswers": [
+      "ejaculation / excitement / minutes",
+      "ejaculation / excitation / minutes"
+    ]
   },
   {
     "id": 88,
-    "type": "mcq",
-    "stem": "CASE STUDY: The parents of the 7-year-old with central precocious puberty ask what the long-term consequence of untreated precocious puberty would be on her height. The nurse explains the mechanism correctly as:",
-    "options": [
-      "She will be significantly taller than average because early hormonal activation stimulates additional growth hormone pulses throughout puberty",
-      "She will ultimately be shorter than average because early sex hormone-driven epiphyseal closure will prematurely terminate her longitudinal bone growth",
-      "Her final adult height will be entirely unaffected because epiphyseal plates are not sensitive to sex hormones until after the normal pubertal age",
-      "She will have variable height outcomes depending solely on her genetic potential as measured by parental heights"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "During the plateau phase in females, engorgement and lubrication continue to the extent that the introital opening is reduced by ___ to enable firm grip of the penis, creating the so-called ___ platform.",
+    "answer": "50% / orgasmic",
+    "acceptableAnswers": [
+      "50% / orgasmic",
+      "50 percent / orgasmic",
+      "fifty percent / orgasmic"
+    ]
   },
   {
     "id": 89,
-    "type": "mcq",
-    "stem": "CASE STUDY: A 19-year-old female presents with primary amenorrhoea. She has no breast development and no pubic hair. Hormonal investigations reveal very high FSH and LH with very low oestradiol. The nurse correctly classifies this as which type of hypogonadism?",
-    "options": [
-      "Hypogonadotropic hypogonadism with a central HPO axis defect causing low FSH and LH",
-      "Hypergonadotropic hypogonadism due to primary ovarian failure with no response to elevated gonadotropins",
-      "Eugonadotrophic hypogonadism with anatomical outflow obstruction at the level of the vagina",
-      "Hypogonadotropic hypogonadism secondary to excessive exercise and nutritional deficiency reducing hypothalamic GnRH"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "At male orgasm, ___ stimulation of the vas, prostate, and seminal vesicles leads to emission of semen into the internal urethra, and contraction of the ___ muscles aided by the pelvic floor and body trunk muscles leads to ejaculation to the exterior.",
+    "answer": "sympathetic / cavernous",
+    "acceptableAnswers": [
+      "sympathetic / cavernous",
+      "sympathetic nervous / cavernous"
+    ]
   },
   {
     "id": 90,
-    "type": "mcq",
-    "stem": "CASE STUDY: For the same 19-year-old with hypergonadotropic hypogonadism (Q89), which specific aetiologies should FIRST be considered in the differential diagnosis based on the curriculum?",
-    "options": [
-      "Kallmann's syndrome, constitutional delay, and hypothalamic hamartoma",
-      "Idiopathic, genetic, traumatic, iatrogenic, chemical, and radiation-related ovarian destruction",
-      "McCune-Albright syndrome, polycystic ovary syndrome, and hyperprolactinaemia",
-      "Craniopharyngioma, imperforate hymen, and androgen insensitivity syndrome"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "During male orgasm, the first and second convulsions are usually the most ___ in sensation and produce the ___ quantity of semen; thereafter, each contraction is associated with a diminishing volume and a ___ wave of pleasure.",
+    "answer": "intense / greatest / milder",
+    "acceptableAnswers": [
+      "intense / greatest / milder",
+      "intense / greatest amount / milder",
+      "intense / largest / milder"
+    ]
   },
   {
     "id": 91,
-    "type": "mcq",
-    "stem": "CASE STUDY: A 17-year-old girl presents with cyclic lower abdominal pain that began 14 months ago. She has normal secondary sexual characteristics. Examination reveals a bulging bluish membrane at the vaginal introitus with no visible vaginal opening. Gonadotropins are within the normal range. This presentation is MOST consistent with which cause of delayed puberty?",
-    "options": [
-      "Hypergonadotropic hypogonadism with primary streak gonadal failure causing outflow obstruction",
-      "Eugonadotrophic delayed puberty secondary to imperforate hymen causing cryptomenorrhoea",
-      "Hypogonadotropic hypogonadism secondary to craniopharyngioma causing anatomical outflow obstruction",
-      "Turner's syndrome with a functional but obstructed reproductive tract"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "Erection is initiated when efferent ___ impulses are sent to the penis, causing vasodilatation and dilatation of smooth muscles of the corpora spongiosa and ___, leading to increased blood flow, engorgement, and erection.",
+    "answer": "parasympathetic / cavernosa",
+    "acceptableAnswers": [
+      "parasympathetic / cavernosa",
+      "parasympathetic nerve / cavernosa",
+      "parasympathetic / corpora cavernosa"
+    ]
   },
   {
     "id": 92,
-    "type": "mcq",
-    "stem": "CASE STUDY: A 50-year-old menopausal woman on HRT for 6 months reports persistent irregular vaginal bleeding. Which absolute contraindication to HRT does this symptom POTENTIALLY represent, warranting immediate clinical investigation?",
-    "options": [
-      "History of uterine fibroids classified as a relative contraindication that may now be exacerbated",
-      "Undiagnosed vaginal bleeding, which is an absolute contraindication if the cause has not been established",
-      "Venous thrombosis indicated by bleeding from thrombocytopenia as a HRT complication",
-      "Atypical ductal hyperplasia of the breast causing hormonal alteration of the uterine lining"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "In the molecular pathway of erection, NO activates ___ cyclase which activates GTP to form ___. This compound is a powerful vasodilator that leads to engorgement and erection.",
+    "answer": "guanyl / CGMP",
+    "acceptableAnswers": [
+      "guanyl / CGMP",
+      "guanylyl / CGMP",
+      "guanyl cyclase / cyclic GMP",
+      "guanyl / cyclic guanosine monophosphate"
+    ]
   },
   {
     "id": 93,
-    "type": "mcq",
-    "stem": "CASE STUDY: A 52-year-old woman on oral HRT wishes to switch to a non-oral route due to gastrointestinal side effects including nausea and bloating. Which non-oral alternatives are available according to the curriculum?",
-    "options": [
-      "Intrauterine levonorgestrel device, vaginal ring, and nasal estrogen spray",
-      "Matrix and reservoir patches, gel, and intravaginal administration",
-      "Subcutaneous estradiol implant, rectal suppositories, and dermal aerosol spray",
-      "Intramuscular depot injection, sublingual troches, and buccal mucosal absorption tablets"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "Sildenafil (Viagra) is a potent aphrodisiac that acts by preventing the inactivation of CGMP. It achieves this by inhibiting the ___ enzyme.",
+    "answer": "phosphodiesterase",
+    "acceptableAnswers": [
+      "phosphodiesterase",
+      "PDE5",
+      "phosphodiesterase type 5",
+      "phosphodiesterase enzyme"
+    ]
   },
   {
     "id": 94,
-    "type": "mcq",
-    "stem": "CASE STUDY: A 9-year-old girl presents with cafÃ©-au-lait spots on the skin, polyostotic fibrous dysplasia confirmed on X-ray, and breast development. Serum LH and FSH levels are LOW despite evident pubertal changes. Which condition does this triad MOST represent?",
-    "options": [
-      "Gonadotropin-dependent central precocious puberty from a hypothalamic hamartoma",
-      "Gonadotropin-independent precocious puberty consistent with McCune-Albright syndrome",
-      "Langerhans cell histiocytosis involving the skin, bone, and hypothalamic-pituitary axis",
-      "Constitutional precocious puberty with an incidental cafÃ©-au-lait macule from neurofibromatosis"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "Hypoactive sexual desire disorder (HSDD) is characterized as a lack or absence of ___ and desire for sexual activity; it is classified as a sexual ___ and two types basically exist.",
+    "answer": "sexual fantasies / dysfunction",
+    "acceptableAnswers": [
+      "sexual fantasies / dysfunction",
+      "fantasies / dysfunction",
+      "sexual fantasies and desire / dysfunction"
+    ]
   },
   {
     "id": 95,
-    "type": "mcq",
-    "stem": "CASE STUDY: A 6-year-old girl is brought to the paediatric gynaecology clinic with persistent vaginal discharge, vulvar erythema, and pruritis for 3 weeks. Her mother reports she was found putting a small toy in her underwear area. The MOST complete list of conditions that should be systematically excluded includes:",
-    "options": [
-      "Candidal vaginitis only, as this is the most common cause in this age group",
-      "Poor hygiene, foreign body, sexually transmitted infection, and sexual abuse",
-      "Streptococcal vulvovaginitis and urinary tract infection as the two most likely concurrent diagnoses",
-      "Lichen sclerosus, pinworm infestation, and lactobacillus overgrowth from probiotic use"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "The inability to achieve adequate and strong erection is called ___; the inability of the penis to ___ after erection is called priapism.",
+    "answer": "impotence / relax",
+    "acceptableAnswers": [
+      "impotence / relax",
+      "impotence / relax (detumescence)",
+      "erectile dysfunction/impotence / relax"
+    ]
   },
   {
     "id": 96,
-    "type": "mcq",
-    "stem": "CASE STUDY: For the same 6-year-old girl with vulvo-vaginitis (Q95), the nurse prepares for examination. Which examination positions are specifically recommended in the curriculum for this scenario?",
-    "options": [
-      "Lithotomy position under general anaesthesia and left lateral Sims position",
-      "Knee-chest or frog-leg position",
-      "Supine with the legs extended flat on the examination table with a chaperone present",
-      "Dorsal recumbent with hip flexion of 90 degrees and a trained paediatric gynaecologist"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "Female frigidity is an extreme example of ___, while female ___ is the opposite extreme on the same spectrum of female sexual response disorders.",
+    "answer": "hyposexuality / hypersexuality",
+    "acceptableAnswers": [
+      "hyposexuality / hypersexuality",
+      "hyposexuality / hypersexuality (nymphomania)"
+    ]
   },
   {
     "id": 97,
-    "type": "mcq",
-    "stem": "CASE STUDY: A 48-year-old woman with a history of multiple uterine fibroids and migraine headaches seeks HRT for menopausal symptoms. The nurse correctly informs her that both uterine fibroids and migraines are classified as which category of contraindication to HRT?",
-    "options": [
-      "Absolute contraindications that permanently exclude her from all forms of HRT",
-      "Relative contraindications that do not automatically exclude HRT but require careful individual risk-benefit assessment",
-      "Minor adverse drug reactions that require dose adjustment but are not true contraindications",
-      "Absolute contraindications for oral HRT only, with non-oral routes remaining entirely safe"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "Vaginismus results from a reflex contraction of the ___ muscle; premature ejaculation is defined as ejaculation occurring ___ or just after ___ .",
+    "answer": "pubococcygeus / before / penetration",
+    "acceptableAnswers": [
+      "pubococcygeus / before / penetration",
+      "pubococcygeus muscle / before / penetration"
+    ]
   },
   {
     "id": 98,
-    "type": "mcq",
-    "stem": "CASE STUDY: A male patient who underwent orchidectomy at age 25 for testicular cancer now requests counselling regarding reproductive consequences. The nurse correctly advises that following castration after pubertal onset:",
-    "options": [
-      "His libido will be completely unaffected because the hypothalamic testosterone set-point was established before the orchidectomy",
-      "His libido will typically be substantially reduced or eliminated in total and he is now permanently sterile",
-      "His libido will be maintained for at least 5 years because sufficient testosterone is stored in peripheral adipose tissue",
-      "He will remain fertile because spermatogenesis can be maintained by elevated LH levels stimulating any residual testicular tissue"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "Congenital absence of the testis or inflammation of the testis, called ___, reduces spermatogenesis; oestrogens negatively inhibit ___ and the conversion of ___ to DHT.",
+    "answer": "orchitis / GnRH / testosterone",
+    "acceptableAnswers": [
+      "orchitis / GnRH / testosterone",
+      "orchitis / GnRH secretion / testosterone"
+    ]
   },
   {
     "id": 99,
-    "type": "mcq",
-    "stem": "CASE STUDY: A researcher studying the history of human sexual physiology asks which specific pioneer researchers recorded the first laboratory data on the anatomy and physiology of human sexual response through direct observation between 1957 and 1965. The correct answer is:",
-    "options": [
-      "Sigmund Freud and Carl Jung, who established the psychoanalytic framework for sexual response cycles",
-      "Masters and Johnson",
-      "Kinsey and Pomeroy, whose survey-based research first quantified human sexual behaviour",
-      "Havelock Ellis and Richard von Krafft-Ebing, whose clinical observations preceded laboratory research"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "Early in spermatogenesis, ___ stimulates Sertoli cells to function maximally, while ___ stimulates Leydig cells to produce testosterone, which controls the later stages of spermatogenesis and also produces ___ growth factor.",
+    "answer": "FSH / LH / epidermal",
+    "acceptableAnswers": [
+      "FSH / LH / epidermal",
+      "FSH / LH / epidermal (EGF)"
+    ]
   },
   {
     "id": 100,
-    "type": "mcq",
-    "stem": "CASE STUDY: A nurse reviews a 45-year-old woman's notes prior to initiating HRT. The notes record: recent DVT 4 weeks ago, personal history of breast cancer treated 3 years ago, active cholangitis, migraine headaches, and a history of uterine fibroids. The nurse correctly identifies that the SINGLE finding which constitutes an ABSOLUTE contraindication mandating that HRT must NOT be initiated at this time is:",
-    "options": [
-      "Personal history of breast cancer treated 3 years ago â a relative contraindication only",
-      "Recent DVT diagnosed 4 weeks ago â an absolute contraindication",
-      "Active cholangitis â classified as a relative rather than absolute contraindication",
-      "History of uterine fibroids â classified as a relative contraindication"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "The hypoactive female sexual dysfunction disorder (FSAD) assesses and scores six parameters: ___, Arousal, ___, Orgasm, ___, and Pain.",
+    "answer": "Desire / Lubrication / Satisfaction",
+    "acceptableAnswers": [
+      "Desire / Lubrication / Satisfaction",
+      "desire / lubrication / satisfaction"
+    ]
   }
 ]
