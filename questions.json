@@ -2,1158 +2,1157 @@
   {
     "id": 1,
     "type": "mcq",
-    "stem": "Spermatogenesis is defined as the process of developing spermatozoa from primitive germ cells. In the fetus, this process is actively inhibited by which specific factor?",
+    "stem": "Testosterone is classified as a C19 steroid hormone. Under the stimulation of which specific pituitary hormone is it produced by the Leydig cells?",
     "options": [
-      "The testosterone-inhibiting factor secreted by the fetal adrenal cortex",
-      "The meiosis-inhibiting factor present in the fetal testicular environment",
-      "The Müllerian inhibiting substance produced by fetal Sertoli cells",
-      "The high intrauterine oestrogen environment suppressing GnRH secretion"
+      "Follicle-stimulating hormone (FSH) acting directly on the Leydig interstitial cells",
+      "Luteinizing hormone (LH) acting directly on the Leydig interstitial cells",
+      "Adrenocorticotropic hormone (ACTH) stimulating Leydig cells via a common receptor",
+      "Prolactin acting synergistically with FSH on Leydig cell testosterone synthesis"
     ],
     "answer": "B"
   },
   {
     "id": 2,
     "type": "mcq",
-    "stem": "Spermatogenesis begins at a specific age and continues with decreasing output throughout life. At which precise age range does it commence?",
+    "stem": "Of the total circulating testosterone in the plasma, 98% is bound to plasma proteins. Which two proteins carry this bound fraction, and in what proportions?",
     "options": [
-      "9 to 11 years of age",
-      "10 to 12 years of age",
-      "11 to 13 years of age",
-      "13 to 15 years of age"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": 3,
-    "type": "mcq",
-    "stem": "Spermatogenesis occurs in a specific anatomical location within the testis and can be divided into three distinct phases. In which specific testicular structure does it occur?",
-    "options": [
-      "The interstitial spaces between the Leydig cells and the basement membrane",
-      "The seminiferous tubules of the testicular lobules",
-      "The epididymis where final maturation of spermatozoa is completed",
-      "The rete testes where sperm are collected before entering the efferent ductules"
+      "Sex hormone binding globulin (SHBG) binds 75% and albumin binds 23%",
+      "Sex hormone binding globulin (SHBG) binds 65% and albumin binds 33%",
+      "Albumin binds 65% and sex hormone binding globulin (SHBG) binds 33%",
+      "Corticosteroid binding globulin (CBG) binds 65% and albumin binds 33%"
     ],
     "answer": "B"
   },
   {
+    "id": 3,
+    "type": "mcq",
+    "stem": "The plasma testosterone level in adult males falls within a specific reference range. Which value is CORRECT for adult males?",
+    "options": [
+      "5.2 to 28.5 nmol/L in adult males",
+      "8.4 to 29.0 nmol/L in adult males",
+      "10.4 to 34.7 nmol/L in adult males",
+      "12.0 to 38.2 nmol/L in adult males"
+    ],
+    "answer": "C"
+  },
+  {
     "id": 4,
     "type": "mcq",
-    "stem": "The daily output of spermatozoa in a healthy adult male is within which range?",
+    "stem": "The normal plasma testosterone level in adult females differs substantially from males. Which range is CORRECT for adult females?",
     "options": [
-      "50 to 100 million spermatozoa daily",
-      "100 to 200 million spermatozoa daily",
-      "200 to 400 million spermatozoa daily",
-      "300 to 500 million spermatozoa daily"
+      "0.52 to 1.80 nmol/L",
+      "1.04 to 2.43 nmol/L",
+      "2.10 to 4.50 nmol/L",
+      "0.20 to 0.95 nmol/L"
     ],
     "answer": "B"
   },
   {
     "id": 5,
     "type": "mcq",
-    "stem": "The first phase of spermatogenesis involves mitotic division of primordial germ cells to produce spermatogonia. This phase is specifically referred to by which alternative name?",
+    "stem": "Testosterone levels in the male follow a pattern of change over the lifespan. Which statement MOST accurately describes this pattern?",
     "options": [
-      "Spermiogenesis",
-      "Spermatocytogenesis",
-      "Spermiopoiesis",
-      "Spermatidiogenesis"
+      "Levels rise continuously from puberty and peak at age 40 before abruptly declining",
+      "Levels remain stable throughout adult life and only decline after 70 years of age",
+      "Levels decline towards the late decade of life",
+      "Levels peak at puberty then immediately begin a steady linear decline from age 20 onwards"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 6,
     "type": "mcq",
-    "stem": "During spermatocytogenesis, primordial germ cells divide mitotically to produce spermatogonia of type A or type B. The type A spermatogonia serve which SPECIFIC functional role?",
+    "stem": "A specific proportion of male oestrogen is produced by the aromatase activity of Sertoli cells, while the remainder comes from a different source. What percentage is produced by Sertoli cell aromatase, and what is the source of the remainder?",
     "options": [
-      "They immediately undergo meiotic division to produce primary spermatocytes",
-      "They act as a reservoir for spermatogonia, resembling the original cell",
-      "They differentiate directly into secondary spermatocytes without further mitotic division",
-      "They migrate to the rete testis to await hormonal activation at puberty"
+      "15% from Sertoli cell aromatase; 85% from adrenal cortex aromatization of precursors",
+      "25% from Sertoli cell aromatase; 75% from extra-gonadal aromatization",
+      "40% from Sertoli cell aromatase; 60% from direct ovarian secretion in the male",
+      "50% from Sertoli cell aromatase; 50% from hepatic conversion of testosterone"
     ],
     "answer": "B"
   },
   {
     "id": 7,
     "type": "mcq",
-    "stem": "The type B spermatogonia undergo a specific type of further division, distinct from type A. What happens to type B spermatogonia, and what do they produce?",
+    "stem": "Testosterone is oxidized in the liver to produce 17-ketosteroids. Which THREE specific 17-ketosteroid compounds are named as the products of this hepatic oxidation?",
     "options": [
-      "They undergo meiotic division directly to produce haploid secondary spermatocytes",
-      "They undergo further mitotic division leading to the production of primary spermatocytes",
-      "They differentiate without division into spermatids by direct cytoplasmic condensation",
-      "They fuse with type A spermatogonia to form primary spermatocytes by cell fusion"
+      "Androsterone, dehydroepiandrosterone (DHEA), and androstenedione",
+      "Androsterone, epiandrosterone, and etiocholanolone",
+      "Etiocholanolone, androstenedione, and dehydroepiandrosterone",
+      "Androsterone, testosterone glucuronide, and androstenediol"
     ],
     "answer": "B"
   },
   {
     "id": 8,
     "type": "mcq",
-    "stem": "During spermiogenesis, spermatids become embedded in Sertoli cells for differentiation into mature spermatozoa. Which structural changes are involved in this transformation?",
+    "stem": "After hepatic oxidation to 17-ketosteroids, these compounds are conjugated with specific molecules before excretion. With which two conjugating agents are they combined, and through which routes are they excreted?",
     "options": [
-      "Nuclear expansion, increase of cytoplasm, loss of the acrosome, and formation of the midpiece",
-      "Nuclear condensation, shrinkage of cytoplasm, development of the head, acrosome, middle piece, and tail",
-      "Nuclear fragmentation, cytoplasmic budding, and formation of a bipolar flagellum",
-      "Nuclear duplication, cytoplasmic fusion, and loss of the plasma membrane"
+      "Conjugated with glucuronides only; excreted exclusively in urine",
+      "Conjugated with sulphates and glucuronides; excreted in urine or bile",
+      "Conjugated with sulphates only; excreted exclusively in bile",
+      "Conjugated with amino acids and sulphates; excreted in urine and sweat"
     ],
     "answer": "B"
   },
   {
     "id": 9,
     "type": "mcq",
-    "stem": "After spermiogenesis is complete, one primary spermatocyte (1°) ultimately gives rise to how many haploid mature spermatozoa?",
+    "stem": "The mechanism of action of testosterone begins with binding to a specific receptor type. To which receptor does testosterone bind, and what is the IMMEDIATE downstream consequence of receptor binding?",
     "options": [
-      "1 haploid mature spermatozoon",
-      "2 haploid mature spermatozoa",
-      "4 haploid mature spermatozoa",
-      "8 haploid mature spermatozoa"
+      "It binds to a cell membrane G-protein coupled receptor; the receptor-hormone complex activates adenylyl cyclase to produce cAMP",
+      "It binds to an intracellular nuclear receptor; the testosterone-receptor complex then stimulates protein synthesis",
+      "It binds to a cytoplasmic receptor; the complex is transported to the nucleus where it activates RNA polymerase II",
+      "It binds to a mitochondrial receptor; the complex enhances oxidative phosphorylation driving protein anabolism"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 10,
     "type": "mcq",
-    "stem": "After spermiogenesis, mature spermatozoa enter the lumen of the seminiferous tubules and are propelled to a specific structure. Where are they propelled following tubular entry?",
+    "stem": "Testosterone's action on the prostate, hair distribution, acne formation, and external genitalia requires conversion to a more potent androgen. What is this androgen and through which enzymatic process is it produced?",
     "options": [
-      "They are propelled directly to the epididymis for immediate storage",
-      "They are propelled to the vas deferens",
-      "They are propelled to the rete testes for collection",
-      "They are propelled to the ejaculatory duct for expulsion"
+      "Androstenedione, produced by 3-beta hydroxysteroid dehydrogenase activity",
+      "Dihydrotestosterone (DHT), produced by 5-alpha reductase activity",
+      "Dehydroepiandrosterone (DHEA), produced by 17-alpha hydroxylase activity",
+      "Estradiol, produced by aromatase (cytochrome P450 19A1) activity"
     ],
     "answer": "B"
   },
   {
     "id": 11,
     "type": "mcq",
-    "stem": "Spermatogenesis is a time-consuming process. Approximately how many days does the complete process take from primordial germ cell to mature spermatozoon?",
+    "stem": "Among the three male sex hormones produced by the testis, which is identified as the MOST important, and what additional structure also produces these androgens in small amounts?",
     "options": [
-      "30 to 40 days",
-      "45 to 55 days",
-      "60 to 70 days",
-      "75 to 90 days"
+      "DHEA is most important; the adrenal medulla also produces small amounts",
+      "Testosterone is most important; the zona reticularis of the adrenal gland also produces these androgens in small amounts",
+      "Androstenedione is most important; the zona fasciculata of the adrenal gland also produces small amounts",
+      "DHT is most important; the zona glomerulosa of the adrenal gland also produces small amounts"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 12,
     "type": "mcq",
-    "stem": "Seminiferous tubules converge toward the apex of the testicular lobules to form straight tubules that pass into a specific structure. What is this structure, and what emerges from it?",
+    "stem": "During fetal life, testosterone exerts critical effects on sex differentiation. Which two specific actions in the fetus are attributed to testosterone?",
     "options": [
-      "The mediastinum testes forming the rete testes, from which 7 to 15 efferent ductules emerge",
-      "The tunica albuginea forming septa, from which 3 to 5 efferent ductules emerge",
-      "The epididymis head, from which 5 to 10 vasa efferentia emerge",
-      "The rete testes, from which a single vas deferens emerges directly"
+      "It stimulates differentiation of the MÃ¼llerian duct to female internal genitalia AND promotes descent of the testis",
+      "It stimulates differentiation of the Wolffian duct to male internal genitalia AND produces MIF that aids degeneration of the female reproductive tract",
+      "It stimulates differentiation of both Wolffian and MÃ¼llerian ducts AND promotes early epiphyseal closure",
+      "It stimulates primordial germ cell differentiation AND promotes Sertoli cell proliferation in the fetus"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 13,
     "type": "mcq",
-    "stem": "From the head of the epididymis, the duct continues through the body and tail. What structure is ultimately formed and what is its clinical alternative name?",
+    "stem": "During fetal life, testosterone is also responsible for which additional structural development necessary for male anatomy?",
     "options": [
-      "The seminal vesicle duct, also called the ejaculatory duct",
-      "The ductus deferens, also called the vas deferens",
-      "The prostatic urethra, also called the urogenital duct",
-      "The bulbourethral duct, also called Cowper's duct"
+      "Formation of the prostate gland from the urogenital sinus exclusively",
+      "Descent of the testis from the abdomen to the scrotum",
+      "Formation of the bulbourethral (Cowper's) glands from the cloacal membrane",
+      "Fusion of the labioscrotal folds to form the scrotal raphe"
     ],
     "answer": "B"
   },
   {
     "id": 14,
     "type": "mcq",
-    "stem": "The vas deferens joins the ducts of which glands to form the ejaculatory duct, and into which structure does the ejaculatory duct empty?",
+    "stem": "At puberty, testosterone causes enlargement of the penis, scrotum, and other sex organs. In addition, it produces specific effects on the pubic hair distribution pattern in males. How is the male pubic hair pattern described?",
     "options": [
-      "The bulbourethral glands; emptying into the membranous urethra",
-      "The prostate and seminal vesicle; emptying into the prostatic urethra",
-      "The seminal vesicles only; emptying into the bulbous urethra",
-      "The prostate and bulbourethral glands; emptying into the penile urethra"
+      "A triangular distribution with the base facing upward toward the umbilicus",
+      "A diamond-shaped distribution with the apex extending up to the linea alba, plus baldness and receding temporal hairline",
+      "A circular distribution confined entirely to the mons pubis and perineum",
+      "A vertical distribution with hair extending only along the median perineal raphe"
     ],
     "answer": "B"
   },
   {
     "id": 15,
     "type": "mcq",
-    "stem": "Each lobule of the testis contains coiled seminiferous tubules of specific dimensions. What are the correct measurements?",
+    "stem": "Testosterone's effect on the pelvic bone during the secondary sexual development of the adult male produces a specific anatomical change. Which statement MOST accurately describes this effect?",
     "options": [
-      "20 to 40 cm long and 100 to 150 µm in diameter",
-      "30 to 70 cm long and 150 to 300 µm in diameter",
-      "50 to 80 cm long and 300 to 500 µm in diameter",
-      "10 to 30 cm long and 50 to 100 µm in diameter"
+      "Testosterone widens the pelvic outlet creating a broad, shallow pelvis favoring upright locomotion",
+      "Testosterone leads to broadening of shoulders, and on the pelvic bone specifically narrows the outlet forming a tunnel-like shape",
+      "Testosterone has no significant effect on the pelvic bone architecture beyond general bone mineral density enhancement",
+      "Testosterone causes bilateral acetabular enlargement creating a wider carrying angle for the lower limbs"
     ],
     "answer": "B"
   },
   {
     "id": 16,
     "type": "mcq",
-    "stem": "Each testis contains approximately how many seminiferous tubules in total?",
+    "stem": "Testosterone increases basal metabolic rate by a specific percentage. What is this percentage increase?",
     "options": [
-      "Approximately 500 seminiferous tubules",
-      "Approximately 700 seminiferous tubules",
-      "Approximately 900 seminiferous tubules",
-      "Approximately 1200 seminiferous tubules"
+      "By 5% above baseline",
+      "By 10% above baseline",
+      "By 15% above baseline",
+      "By 20% above baseline"
     ],
     "answer": "C"
   },
   {
     "id": 17,
     "type": "mcq",
-    "stem": "A cross-section of the seminiferous tubule reveals three distinct layers from the outermost to the innermost. Which sequence is CORRECT?",
+    "stem": "Testosterone increases red blood cell (RBC) production by a specific percentage range. Which range is CORRECT?",
     "options": [
-      "Basement membrane, connective tissue, and germinal epithelium",
-      "Outermost connective tissue, basement membrane, and complex stratified epithelium (germinal epithelium)",
-      "Germinal epithelium, basement membrane, and outer tunica propria",
-      "Sertoli cell layer, myoid cell layer, and outer fibrovascular tissue"
+      "By 5 to 10% above baseline",
+      "By 10 to 15% above baseline",
+      "By 15 to 20% above baseline",
+      "By 20 to 25% above baseline"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 18,
     "type": "mcq",
-    "stem": "The complex stratified germinal epithelium of the seminiferous tubule contains two cell populations. Which combination CORRECTLY identifies both components?",
+    "stem": "The metabolic effects of testosterone on lipid metabolism produce a specific pattern that has clinical implications for cardiovascular disease in males. Which lipid change is CORRECT?",
     "options": [
-      "4 to 8 layers of sperm-forming cells at various degrees of maturation, and singular sustentacular Sertoli cells extending from basement membrane to lumen",
-      "2 to 4 layers of spermatogonia and a single layer of Leydig interstitial cells",
-      "Multiple layers of Sertoli cells and a single basal layer of primary spermatocytes",
-      "6 to 10 layers of Leydig cells and scattered Sertoli cells throughout the epithelium"
+      "Testosterone increases HDL and decreases LDL, making men relatively protected against atherosclerosis",
+      "Testosterone increases LDL and VLDL but decreases HDL, making men more prone to atherosclerosis",
+      "Testosterone raises total cholesterol uniformly without altering the HDL to LDL ratio",
+      "Testosterone lowers total cholesterol but selectively increases VLDL making men prone to hypertriglyceridemia"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 19,
     "type": "mcq",
-    "stem": "The interstitial (Leydig) cells are located in a specific position in relation to the seminiferous tubule structure. Where precisely are they found?",
+    "stem": "GnRH is a peptide hormone that initiates the hypothalamic-pituitary-testicular axis. What is the precise structural description of GnRH as stated in this curriculum?",
     "options": [
-      "Within the lumen of the seminiferous tubules, adjacent to mature spermatids",
-      "At the periphery of the basement membrane",
-      "Within the germinal epithelium between layers of spermatogonia",
-      "Embedded in the tight junction complexes of adjacent Sertoli cells"
+      "A 5-amino acid peptide secreted tonically by neurons in the supraoptic nucleus",
+      "A 10-amino acid peptide secreted in pulses by neurons in the arcuate nucleus into the median eminence",
+      "A 14-amino acid peptide secreted in pulses by neurons in the paraventricular nucleus",
+      "A 10-amino acid steroid conjugate secreted continuously by hypothalamic glial cells"
     ],
     "answer": "B"
   },
   {
     "id": 20,
     "type": "mcq",
-    "stem": "Sertoli cells are joined to adjacent Sertoli cells at which specific location, forming the structural basis of the blood-testis barrier?",
+    "stem": "After GnRH is secreted into the median eminence, it is transported to the anterior pituitary via a specific vascular pathway. Through which system is it transported, and which second messenger mechanism do FSH and LH use on their target cells?",
     "options": [
-      "At their apical surfaces near the tubular lumen by gap junctions",
-      "At about the mid-portion of their lateral walls by tight junctions",
-      "At their basal surfaces on the basement membrane by hemidesmosomes",
-      "Throughout their entire lateral surface by adherens junctions"
+      "Transported via systemic circulation; FSH/LH act via the cAMP 2nd messenger mechanism",
+      "Transported via the hypothalamohypophyseal portal system; FSH/LH act via the cAMP 2nd messenger mechanism",
+      "Transported via direct neural fibers to the anterior pituitary; FSH/LH act via IP3/calcium 2nd messenger",
+      "Transported via the posterior pituitary stalk; FSH/LH act via the phospholipids 2nd messenger exclusively"
     ],
     "answer": "B"
   },
   {
     "id": 21,
     "type": "mcq",
-    "stem": "Sertoli cells are described as large pyramidal-shaped cells with exceptional resilience. Which combination of adverse conditions can Sertoli cells specifically withstand?",
+    "stem": "FSH stimulates Sertoli cells to produce a glycoprotein that feeds back to the anterior pituitary to specifically decrease FSH production. What is this glycoprotein?",
     "options": [
-      "Hypoxia, hypothermia, osmotic stress, and viral infection",
-      "Adverse temperature, ionizing radiation, chemical assault, malnutrition, and infections",
-      "Hormonal deprivation, mechanical trauma, ischaemia, and viral cytotoxicity",
-      "Heavy metal toxicity, pharmacological suppression, autoimmune attack, and thermal stress"
+      "Activin â a glycoprotein that selectively inhibits pituitary FSH secretion",
+      "Inhibin â a glycoprotein that selectively feeds back on the anterior pituitary to decrease FSH",
+      "Androgen binding protein â which transports testosterone to the pituitary to suppress FSH",
+      "Sex hormone binding globulin (SHBG) â which reduces free testosterone available for FSH suppression"
     ],
     "answer": "B"
   },
   {
     "id": 22,
     "type": "mcq",
-    "stem": "Among the endocrine functions of Sertoli cells, which three substances are specifically listed as produced by these cells in this curriculum?",
+    "stem": "The Sertoli cells produce Sex Hormone Binding Globulin (SHBG). Testosterone also has an important local action on the Sertoli cells. What is this local action?",
     "options": [
-      "Testosterone, inhibin, and androgen binding protein",
-      "Müllerian inhibitory factor (MIF), inhibin, and estrogen",
-      "MIF, activin, and androgen binding protein",
-      "Inhibin, activin, and testosterone"
+      "Testosterone stimulates Sertoli cells to produce MIF and suppress Leydig cell function via paracrine inhibition",
+      "Testosterone acts locally on the Sertoli cells to aid spermatogenesis",
+      "Testosterone stimulates Sertoli cells to increase inhibin production for FSH suppression",
+      "Testosterone locally stimulates Sertoli cells to release mature spermatozoa into the tubular lumen"
     ],
     "answer": "B"
   },
   {
     "id": 23,
     "type": "mcq",
-    "stem": "The exocrine function of Sertoli cells involves secretion of seminal fluids with a specific ionic composition. Which ionic description is CORRECT?",
+    "stem": "The semen consists of spermatozoa and secretions from multiple glands in specific proportions. Which combination of percentages is CORRECT for spermatozoa, seminal vesicle secretions, and prostatic secretions respectively?",
     "options": [
-      "Rich in Na+ and Cl-, but low in K+ and HCO3-",
-      "Rich in K+ and HCO3-, but low in Na+ and Cl-",
-      "Rich in Ca2+ and Mg2+, but low in K+ and HCO3-",
-      "Rich in Na+ and HCO3-, but low in K+ and Cl-"
+      "Spermatozoa 5%, seminal vesicle 65%, prostate 30%",
+      "Spermatozoa 10%, seminal vesicle 60%, prostate 30%",
+      "Spermatozoa 15%, seminal vesicle 55%, prostate 30%",
+      "Spermatozoa 10%, seminal vesicle 55%, prostate 35%"
     ],
     "answer": "B"
   },
   {
     "id": 24,
     "type": "mcq",
-    "stem": "Beyond their endocrine and exocrine roles, Sertoli cells synthesize two additional critical products. Which combination correctly identifies these?",
+    "stem": "Secretions from the bulbourethral (Cowper's) glands and urethral glands constitute a specific small proportion of the total semen volume. What proportion do they constitute?",
     "options": [
-      "Testosterone and the H-Y antigen (histocompatibility antigen Y)",
-      "Androgen binding protein and the H-Y antigen (histocompatibility antigen Y)",
-      "Androgen binding protein and inhibin exclusively",
-      "The H-Y antigen and MIF exclusively"
+      "Less than 2%",
+      "Less than 7%",
+      "Approximately 10%",
+      "Approximately 15%"
     ],
     "answer": "B"
   },
   {
     "id": 25,
     "type": "mcq",
-    "stem": "The blood-testis barrier is formed by the tight junctions of Sertoli cells. This barrier serves THREE distinct functions. Which combination MOST completely describes all three functions?",
+    "stem": "Immediately after ejaculation, semen is watery and then quickly congeals. After what precise time interval does the semen then undergo SECONDARY liquefaction?",
     "options": [
-      "Prevents autoimmune destruction of spermatozoa, filters nutrients to germ cells, and produces androgen binding protein",
-      "Prevents noxious blood chemicals from reaching the tubular lumen, prevents mature sperm from entering the bloodstream to cause immune reactions, and ensures high local testosterone concentration",
-      "Separates spermatogonia from primary spermatocytes, maintains tubular fluid pH, and concentrates estradiol",
-      "Prevents lymphocyte entry into the tubule, maintains testicular thermoregulation, and concentrates inhibin"
+      "After 10 minutes it undergoes secondary liquefaction",
+      "After 20 minutes it undergoes secondary liquefaction",
+      "After 30 minutes it undergoes secondary liquefaction",
+      "After 60 minutes it undergoes secondary liquefaction"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 26,
     "type": "mcq",
-    "stem": "Androgen binding protein (ABP) is produced by Sertoli cells and binds specifically to three androgenic compounds. Which combination is CORRECT?",
+    "stem": "Spermatozoa obtain their nutrition through a specific metabolic pathway. Which pathway and specific substrate are used?",
     "options": [
-      "Testosterone, progesterone, and DHT",
-      "Testosterone, oestradiol, and DHT",
-      "DHT, inhibin, and androgen receptor protein",
-      "Testosterone, DHEA, and oestradiol"
+      "Aerobic metabolism of glucose to ATP via the Krebs cycle",
+      "Anaerobic metabolism of fructose to pyruvate",
+      "Aerobic metabolism of glutamine via the pentose phosphate pathway",
+      "Anaerobic glycolysis of glucose to lactate for energy production"
     ],
     "answer": "B"
   },
   {
     "id": 27,
     "type": "mcq",
-    "stem": "Early in spermatogenesis, FSH stimulates Sertoli cells to function maximally. However, LH has a different target cell and a different primary product. LH stimulates which cells to produce which compound that controls the later stages of spermatogenesis?",
+    "stem": "The WHO 2010 lower reference value for semen volume differs from the 1999 reference. What is the WHO 2010 lower reference range for semen volume?",
     "options": [
-      "LH stimulates Sertoli cells to produce inhibin which controls the later stages",
-      "LH stimulates Leydig cells to produce testosterone which controls the later stages",
-      "LH stimulates peritubular myoid cells to produce androgen binding protein",
-      "LH stimulates primary spermatocytes to produce activin controlling meiotic division"
+      "1.0 to 5.5 ml",
+      "1.5 to 6.0 ml",
+      "1.6 to 6.8 ml",
+      "2.0 to 6.0 ml"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 28,
     "type": "mcq",
-    "stem": "The hormones produced by Sertoli cells are specifically listed. Which complete combination constitutes the hormonal products of Sertoli cells according to this curriculum?",
+    "stem": "According to the WHO 2010 lower reference values, the minimum semen concentration for normal fertility is stated. What is this minimum concentration?",
     "options": [
-      "Testosterone, DHT, androgen binding protein, and inhibin",
-      "Oestradiol, stromal growth factor, insulin-like growth factor, inhibin, and activin",
-      "MIF, inhibin, activin, and testosterone exclusively",
-      "Inhibin, oestradiol, and androgen binding protein only"
+      "At least 10 x 10â¶ cells/ml",
+      "At least 15 x 10â¶ cells/ml",
+      "At least 20 x 10â¶ cells/ml",
+      "At least 25 x 10â¶ cells/ml"
     ],
     "answer": "B"
   },
   {
     "id": 29,
     "type": "mcq",
-    "stem": "Growth hormone (GH) stimulates spermatogenesis, while oestrogens exert a negative effect. What is the specific mechanism by which oestrogens negatively inhibit spermatogenesis?",
+    "stem": "According to the WHO 2010 lower reference values, what is the minimum percentage of progressively motile spermatozoa required for normal semen?",
     "options": [
-      "Oestrogens directly suppress FSH secretion from the anterior pituitary via negative feedback",
-      "Oestrogens negatively inhibit GnRH and the conversion of testosterone to DHT",
-      "Oestrogens block androgen receptors on Sertoli cells preventing testosterone from acting",
-      "Oestrogens stimulate inhibin secretion which then suppresses FSH and spermatogenesis"
+      "More than 25% progressively motile",
+      "More than 32% progressively motile",
+      "More than 40% progressively motile",
+      "More than 50% progressively motile"
     ],
     "answer": "B"
   },
   {
     "id": 30,
     "type": "mcq",
-    "stem": "Body temperature is a critical factor controlling spermatogenesis. The scrotal temperature is maintained specifically below core body temperature. By how many degrees below body temperature is the scrotal temperature maintained?",
+    "stem": "The WHO 2010 lower reference for sperm morphology differs from the 1999 standard. What percentage of normal sperm forms is required according to WHO 2010?",
     "options": [
-      "1 degree below body temperature",
-      "2 degrees below body temperature",
-      "3 degrees below body temperature",
-      "4 degrees below body temperature"
+      "More than 2% normal forms",
+      "More than 4% normal forms",
+      "More than 7% normal forms",
+      "More than 14% normal forms"
     ],
     "answer": "B"
   },
   {
     "id": 31,
     "type": "mcq",
-    "stem": "Several conditions that encourage high scrotal temperature are listed as causes of reduced spermatogenesis. Which specific clinical condition involving undescended testes is named in this curriculum?",
+    "stem": "The WHO 2010 reference for white blood cell count in semen specifies an upper limit. What is this upper limit?",
     "options": [
-      "Orchitis (testicular inflammation)",
-      "Varicocele (dilated pampiniform plexus)",
-      "Cryptorchidism",
-      "Testicular torsion"
+      "Less than 0.5 x 10â¶ WBC/ml",
+      "Less than 1 x 10â¶ WBC/ml",
+      "Less than 2 x 10â¶ WBC/ml",
+      "Less than 5 x 10â¶ WBC/ml"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 32,
     "type": "mcq",
-    "stem": "Spermatozoa can be preserved for years at extremely low temperatures for use in sperm banking. In the presence of glycerol, at what precise temperature can spermatozoa be stored?",
+    "stem": "A key comparison between WHO 1999 and WHO 2010 semen parameters involves the minimum sperm concentration threshold. How did this threshold change between 1999 and 2010?",
     "options": [
-      "-196 degrees Celsius (liquid nitrogen temperature)",
-      "-269 degrees Celsius",
-      "-80 degrees Celsius (dry ice temperature)",
-      "-40 degrees Celsius (ultra-low freezer temperature)"
+      "Decreased from 25 million/ml (1999) to 20 million/ml (2010)",
+      "Decreased from 20 million/ml (1999) to 15 million/ml (2010)",
+      "Decreased from 15 million/ml (1999) to 10 million/ml (2010)",
+      "Increased from 15 million/ml (1999) to 20 million/ml (2010)"
     ],
     "answer": "B"
   },
   {
     "id": 33,
     "type": "mcq",
-    "stem": "The phagocytic function of Sertoli cells is specifically directed at which material during spermatogenesis?",
+    "stem": "The semen analysis requires a standardized pre-collection abstinence period and a specific time constraint for examination after collection. What are these two requirements?",
     "options": [
-      "Dead spermatozoa that have failed the blood-testis barrier checkpoint",
-      "Cytoplasmic fragments detached from transforming spermatozoa during spermiogenesis",
-      "Residual bodies shed from primary spermatocytes following the first meiotic division",
-      "Damaged Leydig cells that have undergone apoptosis adjacent to the basement membrane"
+      "3 days abstinence; examination within 1 hour of collection",
+      "5 days abstinence; examination within 2 hours of collection",
+      "7 days abstinence; examination within 4 hours of collection",
+      "2 days abstinence; examination within 30 minutes of collection"
     ],
     "answer": "B"
   },
   {
     "id": 34,
     "type": "mcq",
-    "stem": "Masters and Johnson described four sequential stages of the human sexual response cycle. Which sequence is CORRECT in the order they occur?",
+    "stem": "The clinical term used when an ejaculate contains ZERO spermatozoa is:",
     "options": [
-      "Arousal, plateau, resolution, and orgasm",
-      "Excitement, plateau, orgasm, and resolution",
-      "Excitement, orgasm, plateau, and resolution",
-      "Plateau, excitement, orgasm, and resolution"
+      "Aspermia â the complete absence of any ejaculate",
+      "Oligospermia â inadequate sperm count below 15,000,000/ml",
+      "Azoospermia â ejaculate containing no spermatozoa",
+      "Necrospermia â ejaculate containing only dead spermatozoa"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 35,
     "type": "mcq",
-    "stem": "The excitement phase is described as the FIRST stage of the human sexual response cycle. In males, excitement involves which primary physical response?",
+    "stem": "Oligospermia is defined by a specific numerical threshold. Which sperm count constitutes oligospermia?",
     "options": [
-      "Emission of pre-ejaculatory fluid from the seminal vesicles",
-      "Penile erection",
-      "Scrotal tightening with perineal muscle contraction",
-      "Retraction of the testes towards the perineum"
+      "Less than 5,000,000 spermatozoa per ml",
+      "Less than 10,000,000 spermatozoa per ml",
+      "Less than 15,000,000 spermatozoa per ml",
+      "Less than 20,000,000 spermatozoa per ml"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 36,
     "type": "mcq",
-    "stem": "Female excitement specifically involves enlargement of which combination of structures?",
+    "stem": "Aspermia is a condition that is distinct from azoospermia. What precisely does aspermia describe?",
     "options": [
-      "Uterus, ovaries, and external labia minora only",
-      "Breast, nipples, areola, clitoris, and proximal vagina",
-      "Clitoris, labia majora, uterus, and vaginal fornices",
-      "Nipples, areola, labia minora, and distal vagina"
+      "An ejaculate that contains no living spermatozoa (all spermatozoa are dead)",
+      "A situation in which there is no ejaculate at all",
+      "An ejaculate that contains fewer than 5 million spermatozoa per millilitre",
+      "A condition of retrograde ejaculation where semen enters the bladder"
     ],
     "answer": "B"
   },
   {
     "id": 37,
     "type": "mcq",
-    "stem": "During female excitement, vaso-congestion of the skin produces a specific cutaneous phenomenon. What is this phenomenon called?",
+    "stem": "Normal semen has specific physical properties. Which combination correctly states the specific gravity and reaction (pH) of normal semen?",
     "options": [
-      "Cutaneous hyperaemia causing warm erythematous patches on the dorsal trunk",
-      "Sex flush",
-      "Sympathetic vasoconstriction causing pallor of the peripheral skin",
-      "Piloerection of the truncal skin due to autonomic nervous system activation"
+      "Specific gravity of 1.015; reaction acidic (pH less than 7.0)",
+      "Specific gravity of 1.028; reaction alkaline (pH greater than 7.2)",
+      "Specific gravity of 1.035; reaction neutral (pH 7.0 to 7.2)",
+      "Specific gravity of 1.020; reaction alkaline (pH greater than 7.4)"
     ],
     "answer": "B"
   },
   {
     "id": 38,
     "type": "mcq",
-    "stem": "Vaginal lubrication during the excitement phase in females involves secretion from which specific structures?",
+    "stem": "Secretions from the seminal vesicle have a specific physical appearance and are rich in particular substances. Which description is MOST complete?",
     "options": [
-      "Skene's glands located at the urethral meatus",
-      "Bartholin's glands and the venous plexus in the vagina",
-      "Cervical glands secreting mucus that tracks down to the vaginal vault",
-      "The vaginal epithelium alone through transudation of plasma across the mucosa"
+      "Thin, colourless, and acidic; rich in zinc, citrate, and acid phosphatase",
+      "Viscid, alkaline, and yellow; rich in vitamin C, fructose, and high K+",
+      "Viscid, acidic, and white; rich in fructose, phospholipids, and spermine",
+      "Clear, alkaline, and watery; rich in prostaglandins and cholesterol"
     ],
     "answer": "B"
   },
   {
     "id": 39,
     "type": "mcq",
-    "stem": "In males, the plateau phase is specifically defined as the interval between which two events?",
+    "stem": "Beyond vitamin C, fructose, and high potassium, the seminal vesicle secretion contains additional specific substances. Which combination is listed in this curriculum?",
     "options": [
-      "The interval between the first psychic stimulation and the achievement of full penile erection",
-      "The interval between erection and ejaculation",
-      "The interval between ejaculation and the next possible excitatory stimulus",
-      "The interval between testicular elevation and contraction of the pelvic floor musculature"
+      "Sodium, calcium, zinc, and acid phosphatase",
+      "Phosphoryl choline, fibrinogen, citric acid, pepsinogen, and prostaglandin",
+      "Spermine, fibrinolysin, and cholesterol",
+      "Hyaluronidase, HCO3-, and spermidine"
     ],
     "answer": "B"
   },
   {
     "id": 40,
     "type": "mcq",
-    "stem": "During the plateau phase in males, emission occurs from several structures. Which complete list of structures from which emission occurs is named in this curriculum?",
+    "stem": "The seminal vesicle secretion confers a specific physical property to the semen. What property does it provide?",
     "options": [
-      "Prostate, seminal vesicles, and bulbourethral glands only",
-      "Testicles, epididymis, vas deferens, prostate, seminal vesicles, urethral and bulbourethral glands",
-      "Leydig cells, Sertoli cells, prostate, and seminal vesicles",
-      "Seminal vesicles, prostate, and Cowper's glands exclusively"
+      "The acidic buffering capacity that protects spermatozoa from the alkaline vaginal environment",
+      "Mucus consistency to the semen",
+      "The principal energy substrate (fructose) that fuels sperm motility after deposition",
+      "The milky appearance that is characteristic of normal freshly ejaculated semen"
     ],
     "answer": "B"
   },
   {
     "id": 41,
     "type": "mcq",
-    "stem": "During the male plateau phase, which specific anatomical mechanism prevents retrograde ejaculation into the bladder?",
+    "stem": "Prostatic secretions have a distinctive physical appearance and a unique property when elevated in the bloodstream. Which statement MOST accurately describes prostatic secretions?",
     "options": [
-      "Contraction of the detrusor muscle of the bladder creating anterograde pressure",
-      "Contraction of the urethral sphincter",
-      "Closure of the vesicoureteral junction by trigonal muscle activation",
-      "Compression of the proximal urethra by congested periurethral venous sinuses"
+      "They are viscid, yellow, and rich in fructose; fibrinogen in the secretion contributes to initial semen coagulation",
+      "They are thin, colourless, and confer a peculiar odour; acid phosphatase appears in abnormally high levels in blood with malignant conditions of the prostate",
+      "They are thin, colourless, and rich in zinc; alkaline phosphatase is the clinical marker elevated in prostatic malignancy",
+      "They are viscid, alkaline, and contain primarily prostaglandins and vitamin C"
     ],
     "answer": "B"
   },
   {
     "id": 42,
     "type": "mcq",
-    "stem": "During the female plateau phase, engorgement and lubrication continue until the introital opening is reduced by a specific proportion to create the 'orgasmic platform.' By how much is the introital opening reduced?",
+    "stem": "The prostatic secretion contains a comprehensive list of specific biochemical components. Which combination is CORRECTLY and MOST completely stated?",
     "options": [
-      "By 25% of its resting diameter",
-      "By 40% of its resting diameter",
-      "By 50% of its resting diameter",
-      "By 75% of its resting diameter"
+      "Na, Ca, Zn, citrate, cholesterol, phospholipids, acid phosphatase, spermine, fibrinolysin, clotting enzymes, proteolytic enzymes",
+      "K, Mg, Zn, fructose, fibrinogen, vitamin C, pepsinogen, prostaglandin, citric acid",
+      "Na, K, HCO3-, spermine, acid phosphatase, and phosphoryl choline only",
+      "Ca, Zn, spermine, and alkaline phosphatase exclusively"
     ],
-    "answer": "C"
+    "answer": "A"
   },
   {
     "id": 43,
     "type": "mcq",
-    "stem": "At orgasm in the male, sympathetic stimulation of the vas, prostate, and seminal vesicles leads to emission of semen into the internal urethra. The subsequent ejaculation of semen to the exterior is achieved by contraction of which muscles?",
+    "stem": "Prostatic secretions confer a specific visual property to the overall semen. What appearance does the prostatic secretion give to semen?",
     "options": [
-      "Contraction of the detrusor muscle with simultaneous relaxation of the urethral sphincter",
-      "Contraction of the cavernous muscles aided by the pelvic floor and body trunk muscles",
-      "Contraction of the cremaster and dartos muscles creating expulsive pressure",
-      "Contraction of the pubococcygeus alone without involvement of accessory trunk muscles"
+      "A yellow viscous appearance from the prostaglandin content",
+      "A milky appearance to the semen",
+      "A watery clear appearance that dilutes the viscous seminal vesicle contribution",
+      "A faint greenish tinge due to the zinc and cholesterol content"
     ],
     "answer": "B"
   },
   {
     "id": 44,
     "type": "mcq",
-    "stem": "During male orgasm, the first and second convulsive contractions hold a special significance compared to subsequent contractions. Which statement MOST accurately describes this difference?",
+    "stem": "A specific part of the spermatozoon is responsible for its penetrating power, a different part stores energy abundantly, and a third part maintains the propelling ability. Which assignment is CORRECT?",
     "options": [
-      "The first and second contractions produce the least intense sensation but the greatest semen volume, reversing for subsequent contractions",
-      "The first and second contractions are usually the most intense in sensation and produce the greatest quantity of semen; thereafter each contraction is associated with diminishing volume and milder pleasure",
-      "All contractions are physiologically equivalent in both semen volume and sensation intensity",
-      "The first contraction produces a wave of pain followed by the second contraction producing the peak of pleasure, after which volume diminishes"
+      "Head: energy store; middle piece: penetrating power; tail: propulsion",
+      "Head: penetrating power; middle piece: abundant energy store; tail: propelling ability",
+      "Head: propelling ability; middle piece: penetrating enzymes; tail: energy store",
+      "Head: acrosomal enzymes for penetration; tail: energy store from mitochondria; middle piece: propulsion"
     ],
     "answer": "B"
   },
   {
     "id": 45,
     "type": "mcq",
-    "stem": "Female orgasm involves pleasurable contraction of pelvic organs and musculature, accompanied by systemic sympathetic discharge changes. Which cardiovascular and respiratory changes are listed as accompanying orgasm?",
+    "stem": "During sperm maturation and transport, two critical processes occur. What are these two processes named in this curriculum?",
     "options": [
-      "Bradycardia, hypoventilation, and systemic hypotension with peripheral vasodilation",
-      "Hyperventilation, tachycardia, and hypertension as effects of sympathetic discharge",
-      "Bradycardia, deep regular breathing, and transient systolic hypotension",
-      "Hyperventilation with paradoxical bradycardia and maintained normotension"
+      "Liquefaction and capacitation",
+      "Capacitation and acrosomal reaction",
+      "Acrosomal reaction and zona pellucida dissolution",
+      "Capacitation and corona radiata dispersal"
     ],
     "answer": "B"
   },
   {
     "id": 46,
     "type": "mcq",
-    "stem": "Unlike males, females do not have a prominent refractory period, which confers upon them a specific physiological advantage. What is this advantage?",
+    "stem": "Capacitation is not fully understood. What is currently believed to be the mechanism by which capacitation occurs in the female genital tract?",
     "options": [
-      "Females experience a longer plateau phase providing enhanced preparatory lubrication",
-      "Females can experience multiple orgasms in one sexual act",
-      "Females have a faster resolution phase returning to baseline more rapidly than males",
-      "Females maintain higher sensitivity in the clitoris throughout repeated sexual stimulation"
+      "The acidic vaginal environment activates acrosomal hyaluronidase by lowering pH around the spermatozoon",
+      "Uterine and fallopian tube fluids wash away the various inhibitory factors that can suppress sperm activity",
+      "Progesterone secreted by cumulus cells directly triggers the acrosomal membrane to fuse with the plasma membrane",
+      "Capacitation is caused by the hyperosmotic cervical mucus that triggers calcium influx into the spermatozoon"
     ],
     "answer": "B"
   },
   {
     "id": 47,
     "type": "mcq",
-    "stem": "The refractory period in males is the interval between ejaculation and the next possible excitement. Which two factors determine its duration?",
+    "stem": "The acrosomal reaction involves the release of specific enzymes necessary for penetration of the ovum's protective layers. Which enzyme is specifically named, and which two structures must be penetrated?",
     "options": [
-      "Testosterone level and the number of previous ejaculations in the preceding 24 hours",
-      "Age and psychological state of the patient",
-      "The volume of semen ejaculated and the total duration of the plateau phase",
-      "Sympathetic nervous system tone and adrenal cortisol level at the time of ejaculation"
+      "Neuraminidase and proteolytic enzymes; penetrate the zona reaction and plasma membrane",
+      "Hyaluronidase and proteolytic enzymes; penetrate the corona radiata and zona pellucida",
+      "Acrosin and phospholipase; penetrate the cumulus oophorus and plasma membrane",
+      "Hyaluronidase and collagenase; penetrate the zona pellucida and oolemma"
     ],
     "answer": "B"
   },
   {
     "id": 48,
     "type": "mcq",
-    "stem": "The resolution phase is defined as the interval between which two physiological landmarks?",
+    "stem": "Sperm is stored in the epididymis and vas deferens for at least a specific period. During storage, sperm acquire one characteristic but lack another. What does sperm acquire and what does it still lack during storage?",
     "options": [
-      "The interval between the last orgasmic contraction and the complete regression of genital engorgement",
-      "The interval between ejaculation and return to the normal physiological baseline",
-      "The interval between the end of the plateau phase and the beginning of the next possible excitement",
-      "The interval between the first orgasmic contraction and complete penile detumescence"
+      "Sperm acquires morphological maturity but lacks flagellar formation",
+      "Sperm acquires motility characteristics but has no full potential for fertilization",
+      "Sperm acquires full fertilization potential but lacks progressive motility",
+      "Sperm acquires nuclear condensation but lacks the acrosome needed for penetration"
     ],
     "answer": "B"
   },
   {
     "id": 49,
     "type": "mcq",
-    "stem": "The term specifically described as the OPPOSITE of erection in the physiology of human sexual response is:",
+    "stem": "Once deposited in the female genital tract and after developing full motility, sperm swim up at a specific speed and reach the fallopian tubes within a defined time. What is the swimming speed and the time to reach the tubes?",
     "options": [
-      "Flaccidity — the resting state of the non-erect penis",
-      "Detumescence",
-      "Resolution — the return of all genital structures to their resting dimensions",
-      "Defervescence — the cooling of the scrotal tissues following penile blood flow reduction"
+      "1 mm/min; reaching tubes within 15 to 30 minutes",
+      "3 mm/min; reaching tubes within 30 to 60 minutes",
+      "5 mm/min; reaching tubes within 10 to 20 minutes",
+      "2 mm/min; reaching tubes within 60 to 90 minutes"
     ],
     "answer": "B"
   },
   {
     "id": 50,
     "type": "mcq",
-    "stem": "The cerebral cortex can suppress erection even in the presence of adequate mechanical stimulation. Through which neural pathway does the cerebral cortex initiate erection in the absence of mechanical stimulation?",
+    "stem": "Three specific mechanisms aid the movement of sperm through the epididymis during transport. Which combination is CORRECT?",
     "options": [
-      "Through pudendal nerve afferents that relay to the sacral parasympathetic outflow",
-      "Through erectile centers in the lumbar and sacral regions of the spinal cord, in response to visual, auditory, olfactory, imagined, or tactile stimuli",
-      "Through the thoracolumbar sympathetic chain that relaxes corporal smooth muscle",
-      "Through the anterior hypothalamus which releases oxytocin directly causing corporal vasodilation"
+      "Sperm flagellar activity, uterine contractile waves, and ciliary action of the cervical epithelium",
+      "Pressure of Sertoli fluids, peristaltic movements, and ciliary action of ductular cells",
+      "Testosterone-driven vas deferens contractions, Sertoli fluid pressure, and periductal myoid cells",
+      "Gravity-assisted descent, ciliary activity, and osmotic pressure from the rete testis fluid"
     ],
     "answer": "B"
   },
   {
     "id": 51,
     "type": "mcq",
-    "stem": "The most important receptors mediating the mechanical component of erection in males are located on which structure?",
+    "stem": "Castration specifically performed as part of cancer treatment is done to treat which malignancy, and what is the clinical objective of this intervention?",
     "options": [
-      "The penile shaft skin and scrotal raphe",
-      "The glans penis",
-      "The frenulum and prepuce of the coronal sulcus",
-      "The perineal and perianal skin overlying the ischiocavernosus muscles"
+      "Done as part of treatment for testicular cancer to prevent metastatic spread via lymphatics",
+      "Done as part of treatment for cancer of the prostate to reduce prostatic stimulation",
+      "Done as part of treatment for bladder cancer to eliminate androgen-driven urothelial proliferation",
+      "Done as part of treatment for adrenal cancer to remove the source of excess androgen production"
     ],
     "answer": "B"
   },
   {
     "id": 52,
     "type": "mcq",
-    "stem": "During erection, efferent parasympathetic impulses are sent to the penis causing vasodilatation. Which two corpora are specifically involved in the smooth muscle dilatation that leads to engorgement?",
+    "stem": "Castration performed before puberty results in a characteristic body habitus. What is the specific term used to describe the tall, eunuchoid body proportions resulting from late epiphyseal closure after pre-pubertal castration?",
     "options": [
-      "Corpus spongiosum and corpus cavernosum urethra",
-      "Corpora spongiosa and cavernosa",
-      "Corpora cavernosa only, as the spongiosum remains contracted to maintain urethral patency",
-      "The dorsal venous sinus and the corporal lacunar spaces"
+      "Klinefelter habitus",
+      "Eunuchoid habitus",
+      "Marfanoid habitus",
+      "Acromegaloid habitus"
     ],
     "answer": "B"
   },
   {
     "id": 53,
     "type": "mcq",
-    "stem": "Nitric oxide (NO) plays a central role in penile erection. Which enzyme, found specifically in the nervi erigenti, is responsible for synthesizing NO?",
+    "stem": "Precocious puberty in males is defined as secondary sexual characteristics occurring before a specific age. What is this age?",
     "options": [
-      "Phosphodiesterase type 5 enzyme",
-      "Nitric oxide synthase",
-      "Guanyl cyclase (soluble form)",
-      "Adenylyl cyclase producing cAMP"
+      "Before 7 years of age",
+      "Before 8 years of age",
+      "Before 9 years of age",
+      "Before 10 years of age"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 54,
     "type": "mcq",
-    "stem": "In the molecular pathway of erection, NO activates guanyl cyclase which in turn activates GTP to form a specific compound. What is this compound, and what is its primary effect on the corpora?",
+    "stem": "Delayed puberty in males is defined by failure of testicular development at a specific age. At what age is testicular development EXPECTED to have occurred, and failure at this age constitutes delayed puberty?",
     "options": [
-      "cAMP; acts as a vasodilator causing smooth muscle relaxation and engorgement",
-      "CGMP; acts as a powerful vasodilator leading to engorgement and erection",
-      "GMP; acts as a vasoconstrictor that redirects blood from sinusoids into arterioles",
-      "IP3; directly opens calcium channels in corporal smooth muscle cells"
+      "Failure to occur at 16 years of age",
+      "Failure to occur at 18 years of age",
+      "Failure to occur at 20 years of age",
+      "Failure to occur at 22 years of age"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 55,
     "type": "mcq",
-    "stem": "Sildenafil (Viagra) is described as a potent aphrodisiac. What is its precise molecular mechanism of action in facilitating erection?",
+    "stem": "Male hypogonadism occurring when testes of a male fetus are non-functional during fetal life is classified into two distinct subtypes. What determines whether it is hypergonadotropic or hypogonadotropic?",
     "options": [
-      "It directly stimulates nitric oxide synthase in the nervi erigenti to produce more NO",
-      "It prevents the inactivation of CGMP by inhibiting the phosphodiesterase enzyme",
-      "It activates guanyl cyclase independently of NO, bypassing the nitric oxide pathway",
-      "It blocks sympathetic vasoconstriction of the cavernous arteries by antagonizing alpha-1 receptors"
+      "It is hypergonadotropic when due to hypothalamic or pituitary failure, and hypogonadotropic when due to testicular failure",
+      "It is hypergonadotropic when due to testicular failure, and hypogonadotropic when due to hypothalamic or pituitary failure",
+      "Both types have identical gonadotropin patterns; they are distinguished only by testosterone levels",
+      "It is hypergonadotropic when LH alone is elevated, and hypogonadotropic when only FSH is elevated"
     ],
     "answer": "B"
   },
   {
     "id": 56,
     "type": "mcq",
-    "stem": "Hypoactive Sexual Desire Disorder (HSDD) is classified as a sexual dysfunction. How is it specifically characterized?",
+    "stem": "Testicular hypergonadism occurs when testicular tumors produce excessive androgens. Which combination of effects results from this excessive androgen production?",
     "options": [
-      "The inability to achieve adequate physical arousal (lubrication/engorgement) despite intact sexual desire",
-      "A lack or absence of sexual fantasies and desire for sexual activity for some period of time",
-      "The inability to achieve orgasm despite normal desire and arousal phases",
-      "Persistent genital arousal disorder occurring independently of any sexual desire"
+      "Excessive muscular and hair growth, and potential precocious puberty if it occurs early",
+      "Excessive bone density with early epiphyseal fusion, and suppression of gonadotropins causing infertility",
+      "Gynaecomastia, testicular atrophy from FSH suppression, and azoospermia",
+      "Short stature from early epiphyseal closure, polycythaemia, and aggressive cardiovascular disease"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 57,
     "type": "mcq",
-    "stem": "Impotence is defined as the inability to achieve adequate and strong erection. Which statement MOST accurately describes the aetiology of impotence?",
+    "stem": "CASE STUDY: A 38-year-old man presents to a fertility clinic. Semen analysis shows: volume 1.8 ml, concentration 13 x 10â¶ cells/ml, progressive motility 28%, morphology 3% normal forms. Based on WHO 2010 lower reference values, which parameter FIRST defines this semen sample as abnormal?",
     "options": [
-      "The aetiology is predominantly organic in most cases, with psychological causes being rare",
-      "Most of the time the aetiology is psychological but some medical conditions have been implicated",
-      "The aetiology is equally distributed between psychological and organic causes in all age groups",
-      "The aetiology is exclusively organic in patients over 50 years of age and exclusively psychological in younger men"
+      "Morphology at 3% â below the WHO 2010 threshold of more than 4% normal forms",
+      "Concentration at 13 x 10â¶ cells/ml â below the WHO 2010 minimum of 15 x 10â¶ cells/ml",
+      "Progressive motility at 28% â below the WHO 2010 minimum of 32% progressively motile",
+      "Volume at 1.8 ml â below the WHO 2010 minimum lower reference of 1.6 ml but technically within the 1.6-6.8 ml range"
     ],
     "answer": "B"
   },
   {
     "id": 58,
     "type": "mcq",
-    "stem": "The inability of the penis to relax after erection is given a specific clinical term. What is this condition called?",
+    "stem": "CASE STUDY: For the same 38-year-old man (Q57), the concentration of 13 x 10â¶ cells/ml means he meets the clinical definition of which sperm parameter abnormality?",
     "options": [
-      "Detumescence failure",
-      "Priapism",
-      "Persistent genital arousal disorder",
-      "Corporal fibrosis with secondary erectile dysfunction"
+      "Azoospermia â as his count falls below 15 million/ml making the ejaculate functionally equivalent to no sperm",
+      "Oligospermia â as his concentration is below the threshold of 15,000,000 per ml",
+      "Aspermia â as his low count means the sample has insufficient volume to contain adequate sperm numbers",
+      "Necrospermia â as his low motility combined with low count suggests primarily dead spermatozoa"
     ],
     "answer": "B"
   },
   {
     "id": 59,
     "type": "mcq",
-    "stem": "Premature ejaculation is defined with a precise temporal criterion in relation to a specific event. When precisely does premature ejaculation occur?",
+    "stem": "CASE STUDY: A 42-year-old man is referred for semen analysis after a year of infertility. The laboratory reports no ejaculate was produced despite orgasm. The nurse correctly documents this as which condition?",
     "options": [
-      "Before or within 1 minute of vaginal penetration",
-      "Before or just after penetration",
-      "Before completing 10 thrusts following penetration",
-      "Within 2 minutes of beginning the plateau phase"
+      "Azoospermia â complete absence of spermatozoa from the ejaculate",
+      "Aspermia â complete absence of any ejaculate",
+      "Retrograde ejaculation â ejaculate was present but diverted into the bladder during orgasm",
+      "Oligospermia â inadequate sperm count due to failure of ejaculation mechanism"
     ],
     "answer": "B"
   },
   {
     "id": 60,
     "type": "mcq",
-    "stem": "The hypoactive female sexual dysfunction disorder assessment uses a specific scoring tool evaluating six parameters. Which combination CORRECTLY lists all six parameters assessed?",
+    "stem": "CASE STUDY: A clinical biochemist explains why the acid phosphatase in prostatic secretion is clinically significant. A 65-year-old man presents with abnormally high blood levels of acid phosphatase. What is the MOST likely implication of this finding based on the curriculum?",
     "options": [
-      "Desire, Arousal, Orgasm, Satisfaction, Frequency, and Duration",
-      "Desire, Arousal, Lubrication, Orgasm, Satisfaction, and Pain",
-      "Desire, Lubrication, Orgasm, Resolution, Satisfaction, and Frequency",
-      "Arousal, Lubrication, Orgasm, Pain, Satisfaction, and Refractory period"
+      "It indicates Sertoli cell dysfunction with impaired inhibin production causing compensatory FSH elevation",
+      "It suggests a malignant condition of the prostate, as acid phosphatase appears in abnormally high blood levels in prostatic malignancy",
+      "It indicates excessive androgenic stimulation causing hypertrophy of the prostate without malignancy",
+      "It indicates primary testicular failure causing compensatory adrenal androgen production"
     ],
     "answer": "B"
   },
   {
     "id": 61,
     "type": "mcq",
-    "stem": "Female frigidity is described in the context of human sexual dysfunction classification. How is it specifically categorized?",
+    "stem": "CASE STUDY: A 29-year-old male patient with known orchitis following a mumps infection presents with infertility. The nurse explains the link between orchitis and infertility. Which mechanism MOST directly explains how orchitis impairs fertility?",
     "options": [
-      "It is a moderate form of hyposexuality representing a midpoint on the sexual dysfunction spectrum",
-      "It is an extreme example of hyposexuality",
-      "It is a form of hypersexuality caused by paradoxical suppression of the pleasure response",
-      "It is synonymous with vaginismus, representing the same condition described by different terminology"
+      "Orchitis causes autoimmune destruction of Leydig cells, eliminating testosterone production needed for secondary sexual characteristics",
+      "Orchitis (testicular inflammation) reduces spermatogenesis by damaging the seminiferous epithelium",
+      "Orchitis disrupts the hypothalamic-pituitary-testicular axis by releasing inflammatory cytokines that inhibit GnRH pulses",
+      "Orchitis causes fibrous obliteration of the vas deferens preventing transport of otherwise normal spermatozoa"
     ],
     "answer": "B"
   },
   {
     "id": 62,
     "type": "mcq",
-    "stem": "Vaginismus is described as resulting from the reflex contraction of a specific muscle. Which muscle's reflex contraction is responsible for vaginismus?",
+    "stem": "CASE STUDY: A 55-year-old man with known prostate cancer is offered castration (orchidectomy) as part of his management. His wife asks the nurse how removing the testes will help treat prostate cancer. The nurse correctly explains that:",
     "options": [
-      "The bulbospongiosus muscle surrounding the vaginal introitus",
-      "The pubococcygeus muscle",
-      "The iliococcygeus component of the levator ani muscle",
-      "The superficial transverse perineal muscle"
+      "The testes produce FSH which directly stimulates prostate cancer cell proliferation; orchidectomy removes this stimulatory hormone",
+      "The testes produce testosterone under LH stimulation; removing the testes eliminates testosterone, thus reducing prostatic stimulation that drives cancer growth",
+      "The testes produce oestrogen that paradoxically promotes prostate cancer; removing this oestrogen source causes cancer regression",
+      "The testes produce DHT that stimulates Wolffian duct derivatives including the prostate; orchidectomy eliminates this growth signal"
     ],
     "answer": "B"
   },
   {
     "id": 63,
     "type": "mcq",
-    "stem": "CASE STUDY: A 35-year-old man presents to a fertility clinic. His semen analysis shows azoospermia. Testicular biopsy reveals normal Leydig cells but absent spermatogonia in the seminiferous tubules. His FSH is markedly elevated. Which mechanism MOST likely explains his infertility?",
+    "stem": "CASE STUDY: A couple presents with infertility. The male partner's semen analysis is submitted. Prior to collection, the laboratory recommends a specific preparation period. Which recommendation is standard per the curriculum?",
     "options": [
-      "Deficient LH secretion causing insufficient testosterone to drive the later stages of spermatogenesis",
-      "Primary testicular failure with absence of germinal epithelium, causing high FSH due to absent inhibin feedback",
-      "Excess estrogen causing inhibition of GnRH and the conversion of testosterone to DHT",
-      "Blood-testis barrier disruption causing autoimmune spermatozoa destruction before release"
+      "3 days abstinence with collection by masturbation and examination within 1 hour",
+      "5 days abstinence with collection by masturbation and examination within 2 hours",
+      "7 days abstinence with collection by masturbation and examination within 4 hours",
+      "2 days abstinence with collection during intercourse using a special condom"
     ],
     "answer": "B"
   },
   {
     "id": 64,
     "type": "mcq",
-    "stem": "CASE STUDY: The same 35-year-old from Q63 asks why he has normal secondary sexual characteristics despite azoospermia. The nurse explains this is because:",
+    "stem": "CASE STUDY: A nurse educator explains testosterone's effect on erythropoiesis to a group of nursing students. A student asks why men have higher haemoglobin levels than women. The nurse correctly answers that testosterone increases RBC production by which specific percentage above baseline?",
     "options": [
-      "FSH maintains secondary sexual characteristics independently of testosterone in males",
-      "Leydig cells are intact and continue to produce testosterone normally, which is responsible for maintaining secondary sexual characteristics separately from spermatogenesis",
-      "Adrenal androgens fully compensate for any deficiency in testicular testosterone production",
-      "Sertoli cells produce sufficient oestradiol which cross-reacts with androgen receptors to maintain secondary sexual characteristics"
+      "5 to 10%",
+      "10 to 15%",
+      "15 to 20%",
+      "20 to 25%"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 65,
     "type": "mcq",
-    "stem": "CASE STUDY: A 28-year-old man who works as a long-distance lorry driver presents with infertility after 2 years of trying to conceive. Semen analysis shows oligospermia. Physical examination is unremarkable. Which aetiological factor MOST directly explains his oligospermia based on the curriculum?",
+    "stem": "CASE STUDY: A 32-year-old man is found to have bilateral undescended testes (cryptorchidism) that were never corrected. He now has azoospermia but normal testosterone levels and normal secondary sexual characteristics. The nurse explains why his testosterone is normal despite azoospermia. Which explanation is MOST correct?",
     "options": [
-      "Psychological stress from long working hours suppressing LH pulsatility and thus testosterone production",
-      "Prolonged sitting in a warm cab environment leading to elevated scrotal temperature, which reduces spermatogenesis",
-      "Nutritional deficiency from irregular meals causing Sertoli cell dysfunction and reduced inhibin secretion",
-      "Vibration-induced testicular trauma causing blood-testis barrier disruption and autoimmune oligospermia"
+      "Leydig cells do not require optimal scrotal temperature for testosterone synthesis; only spermatogenesis is temperature-sensitive, so testosterone production is preserved despite cryptorchidism",
+      "Adrenal androgens fully compensate for the absent testicular testosterone in cryptorchidism",
+      "The elevated intra-abdominal temperature in cryptorchidism selectively damages Sertoli cells but not Leydig cells",
+      "Leydig cells are stimulated by FSH rather than LH, and FSH pulses are temperature-independent"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 66,
     "type": "mcq",
-    "stem": "CASE STUDY: A 42-year-old man is diagnosed with cryptorchidism that was never surgically corrected. He presents with infertility. The nurse explains that the undescended testis is associated with reduced spermatogenesis because:",
+    "stem": "CASE STUDY: A 12-year-old boy presents with advanced secondary sexual characteristics including deep voice, adult pubic hair pattern, and penile enlargement. Investigation reveals markedly elevated testosterone from a testicular Leydig cell tumor. This presentation is MOST consistent with which abnormality of the male reproductive system?",
     "options": [
-      "Cryptorchidism prevents FSH from reaching the testis because the blood supply is insufficient at the inguinal location",
-      "The intra-abdominal temperature exceeds the optimal scrotal temperature by approximately 2 degrees, impairing spermatogenesis",
-      "The absence of gubernacular attachment prevents the testicular rotation needed for seminiferous tubule alignment",
-      "Cryptorchidism causes direct mechanical compression of the rete testis by the inguinal ligament"
+      "Hypogonadotropic hypogonadism causing paradoxical activation of testosterone receptors",
+      "Hypergonadism from a testicular tumor producing excessive androgens, leading to precocious puberty",
+      "Precocious puberty from gonadotropin-dependent central activation of the HPO axis",
+      "Constitutional precocious puberty with incidental Leydig cell hyperplasia"
     ],
     "answer": "B"
   },
   {
     "id": 67,
     "type": "mcq",
-    "stem": "CASE STUDY: A 55-year-old man presents with a sustained, painful erection lasting 6 hours without sexual stimulation. He has known sickle cell disease. The nurse correctly identifies this condition as:",
+    "stem": "CASE STUDY: A 24-year-old male athlete is being counselled about the risks of anabolic steroid use. The nurse explains the cardiovascular risk using testosterone's metabolic effects. Which statement MOST accurately explains this risk?",
     "options": [
-      "Hypersexuality secondary to elevated testosterone from sickle cell anaemia-related polycythaemia",
-      "Priapism, the inability of the penis to relax after erection, which is a known complication of sickle cell disease",
-      "Impotence paradox, where chronic erectile dysfunction produces intermittent uncontrolled erections",
-      "Persistent genital arousal disorder secondary to priapism-mediated nerve sensitization"
+      "Anabolic steroids increase HDL and reduce LDL, paradoxically worsening endothelial function through reverse cholesterol transport",
+      "Anabolic steroids (androgens) increase LDL and VLDL while decreasing HDL, making users more prone to atherosclerosis",
+      "Anabolic steroids increase total cholesterol uniformly without altering the HDL/LDL ratio, only modestly increasing cardiovascular risk",
+      "Anabolic steroids primarily cause hypertension through sodium and water retention without significant lipid profile changes"
     ],
     "answer": "B"
   },
   {
     "id": 68,
     "type": "mcq",
-    "stem": "CASE STUDY: For the same patient from Q67 with sickle cell disease and priapism, which statement MOST accurately explains the pathophysiological link between sickle cell disease and this condition?",
+    "stem": "CASE STUDY: A researcher studying sperm capacitation in vitro notes that sperm placed directly in culture medium without uterine fluid fail to fertilize the ova. After adding fallopian tube fluid, fertilization succeeds. What is the MOST likely explanation based on the curriculum?",
     "options": [
-      "Sickle cell disease causes elevated testosterone, which overstimulates the NO-CGMP pathway",
-      "Sickle cell disease is among the medical conditions implicated in abnormal sexual response physiology, as sickled erythrocytes obstruct corporal venous drainage preventing detumescence",
-      "Sickle cell anaemia elevates FSH levels which directly stimulate corporal smooth muscle",
-      "Sickle cell disease causes hyperviscosity which prevents phosphodiesterase from inactivating CGMP"
+      "Fallopian tube fluid provides the fructose substrate that activates anaerobic metabolism in capacitated sperm",
+      "Uterine and fallopian tube fluids wash away inhibitory factors that suppress sperm activity, enabling capacitation",
+      "Fallopian tube fluid activates the acrosomal hyaluronidase by providing calcium ions for the acrosomal reaction",
+      "Fallopian tube fluid contains progesterone that directly triggers zona pellucida receptor expression on the sperm head"
     ],
     "answer": "B"
   },
   {
     "id": 69,
     "type": "mcq",
-    "stem": "CASE STUDY: A couple undergoes fertility counselling. The male partner wishes to understand sperm banking before chemotherapy. The nurse correctly advises that spermatozoa stored in the presence of glycerol at -269°C can be revived after storage by which process?",
+    "stem": "CASE STUDY: A pathologist examining a semen sample notes fibrinogen and fibrinolysin in the report. A student asks which gland is responsible for these components and their physiological role. Which answer is MOST correct?",
     "options": [
-      "By rapid rewarming to 37°C using sterile saline wash",
-      "By thawing",
-      "By centrifugation at physiological temperature to re-activate mitochondrial function",
-      "By exposure to FSH and testosterone in culture medium before thawing"
+      "Fibrinogen comes from the seminal vesicle causing initial coagulation; fibrinolysin from the prostate causes subsequent liquefaction",
+      "Both fibrinogen and fibrinolysin come from the prostate; fibrinolysin degrades the fibrinogen clot formed initially",
+      "Fibrinogen and fibrinolysin both originate from the seminal vesicle; they maintain viscosity throughout storage",
+      "Fibrinogen comes from bulbourethral glands; fibrinolysin comes from urethral glands"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 70,
     "type": "mcq",
-    "stem": "CASE STUDY: A 30-year-old woman presents with an inability to allow vaginal penetration despite normal desire and arousal. Physical examination is normal. The nurse correctly identifies this as vaginismus and explains that it results from reflex contraction of the pubococcygeus muscle. What is the MOST appropriate initial nursing management approach?",
+    "stem": "CASE STUDY: A 17-year-old male with Klinefelter's syndrome (47XXY) is evaluated for delayed testicular development at age 22. He has small testes, gynaecomastia, and very high FSH/LH with very low testosterone. The nurse correctly classifies this as which type of hypogonadism and explains the gonadotropin pattern?",
     "options": [
-      "Immediate referral for surgical hymenotomy under local anaesthesia",
-      "Assessment, education, and referral for psychosexual therapy including progressive pelvic floor relaxation exercises",
-      "Prescription of systemic muscle relaxants to prevent reflex pubococcygeus contraction during penetration",
-      "Administration of topical anaesthetic gel to eliminate the afferent reflex arc at the vaginal introitus"
+      "Hypogonadotropic hypogonadism with low FSH and LH because the pituitary has failed to respond to the absent testosterone",
+      "Hypergonadotropic hypogonadism with high FSH and LH because the testes have failed as primary organs, removing negative feedback",
+      "Eugonadotrophic hypogonadism with normal FSH and LH despite end-organ testicular resistance",
+      "Hypogonadotropic hypogonadism with selective LH deficiency preserving FSH for residual spermatogenesis"
     ],
     "answer": "B"
   },
   {
     "id": 71,
     "type": "fitb",
-    "stem": "Spermatogenesis is inhibited in the fetus by the ___ factor, and begins at puberty at ___ to ___ years of age.",
-    "answer": "meiosis-inhibiting / 11 / 13",
+    "stem": "Testosterone is a ___ steroid produced by the ___ cells under ___ stimulation.",
+    "answer": "C19 / Leydig / LH",
     "acceptableAnswers": [
-      "meiosis-inhibiting / 11 / 13",
-      "meiosis inhibiting factor / 11 / 13",
-      "meiosis-inhibiting factor / 11 to 13"
+      "C19 / Leydig / LH",
+      "C19 steroid / Leydig / luteinizing hormone",
+      "C-19 / Leydig cells / LH"
     ]
   },
   {
     "id": 72,
     "type": "fitb",
-    "stem": "Spermatogenesis occurs in the ___ tubules and can basically be divided into ___ phases.",
-    "answer": "seminiferous / three",
+    "stem": "Of plasma testosterone, 98% is bound to proteins: sex hormone binding globulin binds ___% while ___% binds to albumin; only ___% is free.",
+    "answer": "65 / 33 / 2",
     "acceptableAnswers": [
-      "seminiferous / three",
-      "seminiferous / 3",
-      "seminiferous tubules / three phases"
+      "65 / 33 / 2",
+      "65% / 33% / 2%"
     ]
   },
   {
     "id": 73,
     "type": "fitb",
-    "stem": "About ___ to ___ million spermatozoa can be produced daily, and the complete process of spermatogenesis takes approximately ___ to ___ days.",
-    "answer": "100 / 200 / 60 / 70",
+    "stem": "The plasma testosterone level is ___ to ___ nmol/L in adult males and ___ to ___ nmol/L in adult females.",
+    "answer": "10.4 / 34.7 / 1.04 / 2.43",
     "acceptableAnswers": [
-      "100 / 200 / 60 / 70",
-      "100-200 million / 60-70 days"
+      "10.4 / 34.7 / 1.04 / 2.43",
+      "10.4-34.7 nmol/L / 1.04-2.43 nmol/L"
     ]
   },
   {
     "id": 74,
     "type": "fitb",
-    "stem": "The mitotic phase of spermatogenesis, also called ___, produces spermatogonia type A which serves as a ___ for spermatogonia, and type B which undergoes further mitotic division to produce ___ spermatocytes.",
-    "answer": "spermatocytogenesis / reservoir / primary",
+    "stem": "Testosterone is oxidized in the liver to produce 17-keto steroids: ___, epiandrosterone, and ___.",
+    "answer": "androsterone / etiocholanolone",
     "acceptableAnswers": [
-      "spermatocytogenesis / reservoir / primary",
-      "spermatocytogenesis / cellular reservoir / primary spermatocytes"
+      "androsterone / etiocholanolone",
+      "Androsterone / Etiocholanolone"
     ]
   },
   {
     "id": 75,
     "type": "fitb",
-    "stem": "During spermiogenesis, spermatids become embedded in ___ cells and undergo nuclear ___, shrinkage of cytoplasm, and development of the head, acrosome, middle piece, and tail.",
-    "answer": "Sertoli / condensation",
+    "stem": "After hepatic oxidation, 17-keto steroids are conjugated with ___ and ___ before being excreted in urine or bile.",
+    "answer": "sulphates / glucuronides",
     "acceptableAnswers": [
-      "Sertoli / condensation",
-      "Sertoli cells / condensation",
-      "Sertoli / nuclear condensation"
+      "sulphates / glucuronides",
+      "sulfates / glucuronides",
+      "glucuronides / sulphates"
     ]
   },
   {
     "id": 76,
     "type": "fitb",
-    "stem": "One primary spermatocyte ultimately gives rise to ___ haploid mature spermatozoa, which enter the lumen of the seminiferous tubules and are propelled to the ___.",
-    "answer": "4 / vas",
+    "stem": "Testosterone's action on the prostate, hair distribution, acne formation, and external genitalia is mediated via conversion to ___, which is a product of ___ reductase activity.",
+    "answer": "dihydrotestosterone (DHT) / 5-alpha",
     "acceptableAnswers": [
-      "4 / vas",
-      "four / vas",
-      "4 / vas deferens",
-      "four / vas deferens"
+      "dihydrotestosterone (DHT) / 5-alpha",
+      "DHT / 5-alpha",
+      "dihydrotestosterone / 5Î±"
     ]
   },
   {
     "id": 77,
     "type": "fitb",
-    "stem": "Each testis contains approximately ___ seminiferous tubules, each lobule containing coiled tubes that are ___ to ___ cm long and ___ to ___ µm in diameter.",
-    "answer": "900 / 30 / 70 / 150 / 300",
+    "stem": "During fetal life, testosterone stimulates differentiation of the ___ duct to male internal genitalia and produces ___ that aids degeneration of the female reproductive tract.",
+    "answer": "Wolffian / MIF",
     "acceptableAnswers": [
-      "900 / 30 / 70 / 150 / 300",
-      "900 tubules / 30-70 cm / 150-300 µm"
+      "Wolffian / MIF",
+      "Wolffian duct / MIF",
+      "Wolffian / MÃ¼llerian inhibitory factor",
+      "Wolffian / Mullerian inhibiting factor"
     ]
   },
   {
     "id": 78,
     "type": "fitb",
-    "stem": "From the rete testes, ___ to ___ efferent ductules emerge to form the head of the epididymis, which continues to the body, tail, and finally forms the ___ (vas deferens).",
-    "answer": "7 / 15 / ductus deferens",
+    "stem": "Testosterone increases the basal metabolic rate by ___%, increases RBC production by ___ to ___%, and increases LDL and VLDL while decreasing ___ making men more prone to atherosclerosis.",
+    "answer": "15 / 15 / 20 / HDL",
     "acceptableAnswers": [
-      "7 / 15 / ductus deferens",
-      "7-15 / ductus deferens",
-      "7 / 15 / vas deferens"
+      "15 / 15 / 20 / HDL",
+      "15% / 15-20% / HDL"
     ]
   },
   {
     "id": 79,
     "type": "fitb",
-    "stem": "The vas deferens is joined by ducts of the ___ and ___ to form the ejaculatory duct, which empties into the ___ urethra.",
-    "answer": "prostate / seminal vesicle / prostatic",
+    "stem": "GnRH is a ___-amino acid peptide secreted in ___ by neurons in the arcuate nucleus into the median eminence, and is transported to the anterior pituitary via the ___ portal system.",
+    "answer": "10 / pulses / hypothalamohypophyseal",
     "acceptableAnswers": [
-      "prostate / seminal vesicle / prostatic",
-      "seminal vesicle / prostate / prostatic",
-      "prostate gland / seminal vesicles / prostatic urethra"
+      "10 / pulses / hypothalamohypophyseal",
+      "ten / pulses / hypothalamohypophyseal",
+      "10 / pulsatile manner / hypothalamo-hypophyseal"
     ]
   },
   {
     "id": 80,
     "type": "fitb",
-    "stem": "A cross-section of the seminiferous tubule contains three layers: outermost ___ tissue, a ___ membrane, and complex stratified ___ epithelium.",
-    "answer": "connective / basement / germinal",
+    "stem": "FSH stimulates Sertoli cells to produce the glycoprotein ___ which feeds back on the ___ pituitary to decrease FSH production; FSH and LH act on target cells via the ___ 2nd messenger mechanism.",
+    "answer": "inhibin / anterior / cAMP",
     "acceptableAnswers": [
-      "connective / basement / germinal",
-      "connective tissue / basement membrane / germinal epithelium"
+      "inhibin / anterior / cAMP",
+      "inhibin / anterior pituitary / cAMP"
     ]
   },
   {
     "id": 81,
     "type": "fitb",
-    "stem": "Sertoli cells' endocrine functions include the production of Müllerian inhibitory factor, ___, and ___; while their exocrine function involves secreting seminal fluids rich in K+ and HCO3- but low in Na+ and Cl-.",
-    "answer": "inhibin / estrogen",
+    "stem": "The aromatase activity of Sertoli cells produces about ___% of oestrogens in males, while the rest of male oestrogen is produced by ___ gonadal aromatization.",
+    "answer": "25 / extra",
     "acceptableAnswers": [
-      "inhibin / estrogen",
-      "inhibin / oestrogen",
-      "estrogen / inhibin"
+      "25 / extra",
+      "25% / extra-gonadal",
+      "twenty-five / extra"
     ]
   },
   {
     "id": 82,
     "type": "fitb",
-    "stem": "The blood-testis barrier is formed by the ___ junctions of Sertoli cells; it prevents noxious chemicals from reaching the tubular lumen, prevents mature sperm from entering the bloodstream to cause ___ reactions, and ensures high local ___ concentration.",
-    "answer": "tight / immune / testosterone",
+    "stem": "Semen consists of spermatozoa (___%), secretions from the seminal vesicle (___%), secretion from the prostate (___%), and secretions from bulbourethral and urethral glands (less than 7%).",
+    "answer": "10 / 60 / 30",
     "acceptableAnswers": [
-      "tight / immune / testosterone",
-      "tight junctions / immune / testosterone",
-      "tight / immunological / testosterone"
+      "10 / 60 / 30",
+      "10% / 60% / 30%",
+      "ten / sixty / thirty"
     ]
   },
   {
     "id": 83,
     "type": "fitb",
-    "stem": "Androgen binding protein produced by Sertoli cells binds avidly to ___, ___, and DHT; this concentrates these products in the testis for important ___ and paracrine action.",
-    "answer": "testosterone / oestradiol / autocrine",
+    "stem": "The WHO 2010 lower reference values for semen include: volume ___ to ___ ml, concentration at least ___ x 10â¶ cells/ml, and progressive motility more than ___%.",
+    "answer": "1.6 / 6.8 / 15 / 32",
     "acceptableAnswers": [
-      "testosterone / oestradiol / autocrine",
-      "testosterone / estradiol / autocrine"
+      "1.6 / 6.8 / 15 / 32",
+      "1.6-6.8 ml / 15 million / 32%"
     ]
   },
   {
     "id": 84,
     "type": "fitb",
-    "stem": "Spermatozoa can be stored in the presence of ___ at -269°C and revived after storage by ___. This is the basis for the development of ___ during artificial reproductive techniques.",
-    "answer": "glycerol / thawing / sperm bank",
+    "stem": "When the ejaculate contains no spermatozoa, the term is ___; when there is an inadequate number of spermatozoa (less than 15,000,000/ml), the term is ___; and when there is no ejaculate at all, the term is ___.",
+    "answer": "azoospermia / oligospermia / aspermia",
     "acceptableAnswers": [
-      "glycerol / thawing / sperm bank",
-      "glycerol / thawing / a sperm bank",
-      "glycerol / thawing / sperm banking"
+      "azoospermia / oligospermia / aspermia",
+      "azoospermia / oligospermia / aspermia"
     ]
   },
   {
     "id": 85,
     "type": "fitb",
-    "stem": "The scrotal temperature is ___ degrees below body temperature. Any condition that encourages high temperature — such as constant wearing of tight nylon pants, long-distance lorry driving, and ___ — leads to reduced spermatogenesis.",
-    "answer": "2 / cryptorchidism",
+    "stem": "The liquefaction time for normal semen should be within ___ minutes, the morphology threshold requires more than ___% normal forms (WHO 2010), and the WBC count must be less than ___ x 10â¶/ml.",
+    "answer": "30 / 4 / 1",
     "acceptableAnswers": [
-      "2 / cryptorchidism",
-      "two / cryptorchidism",
-      "2 degrees / cryptorchidism"
+      "30 / 4 / 1",
+      "30 minutes / 4% / 1 x 10â¶"
     ]
   },
   {
     "id": 86,
     "type": "fitb",
-    "stem": "Masters and Johnson described ___ stages of the human sexual response cycle: excitement, ___, orgasm, and resolution.",
-    "answer": "four / plateau",
-    "acceptableAnswers": ["four / plateau", "4 / plateau", "four stages / plateau"]
+    "stem": "Seminal vesicle secretions are viscid, ___, and yellow; they are rich in vitamin C, ___, and high K+; and they also contain phosphoryl choline, fibrinogen, citric acid, ___, and prostaglandin.",
+    "answer": "alkaline / fructose / pepsinogen",
+    "acceptableAnswers": [
+      "alkaline / fructose / pepsinogen",
+      "alkaline / fructose / pepsinogen (and citric acid)"
+    ]
   },
   {
     "id": 87,
     "type": "fitb",
-    "stem": "The refractory period in males is the interval between ___ and the next possible ___, is variable, depends on age and psychological state, and may last from a few ___ to several hours.",
-    "answer": "ejaculation / excitement / minutes",
+    "stem": "Prostatic secretions are thin, colourless, and confer a ___ odour; they give semen its ___ appearance; and acid ___ appears in abnormally high blood levels in malignant conditions of the prostate.",
+    "answer": "peculiar / milky / phosphatase",
     "acceptableAnswers": [
-      "ejaculation / excitement / minutes",
-      "ejaculation / excitation / minutes"
+      "peculiar / milky / phosphatase",
+      "peculiar (characteristic) / milky / phosphatase"
     ]
   },
   {
     "id": 88,
     "type": "fitb",
-    "stem": "During the plateau phase in females, engorgement and lubrication continue to the extent that the introital opening is reduced by ___ to enable firm grip of the penis, creating the so-called ___ platform.",
-    "answer": "50% / orgasmic",
+    "stem": "Normal semen has a specific gravity of ___ and a ___ reaction (pH greater than 7.2). The seminal vesicle secretion provides ___ consistency to semen while the prostate secretion provides the ___ appearance.",
+    "answer": "1.028 / alkaline / mucus / milky",
     "acceptableAnswers": [
-      "50% / orgasmic",
-      "50 percent / orgasmic",
-      "fifty percent / orgasmic"
+      "1.028 / alkaline / mucus / milky",
+      "1.028 / alkaline reaction / mucus consistency / milky appearance"
     ]
   },
   {
     "id": 89,
     "type": "fitb",
-    "stem": "At male orgasm, ___ stimulation of the vas, prostate, and seminal vesicles leads to emission of semen into the internal urethra, and contraction of the ___ muscles aided by the pelvic floor and body trunk muscles leads to ejaculation to the exterior.",
-    "answer": "sympathetic / cavernous",
+    "stem": "In the spermatozoon, the ___ has excellent penetrating power, the ___ has abundant energy store, and the ___ maintains propelling ability.",
+    "answer": "head / middle piece / tail",
     "acceptableAnswers": [
-      "sympathetic / cavernous",
-      "sympathetic nervous / cavernous"
+      "head / middle piece / tail",
+      "head / midpiece / tail"
     ]
   },
   {
     "id": 90,
     "type": "fitb",
-    "stem": "During male orgasm, the first and second convulsions are usually the most ___ in sensation and produce the ___ quantity of semen; thereafter, each contraction is associated with a diminishing volume and a ___ wave of pleasure.",
-    "answer": "intense / greatest / milder",
+    "stem": "During sperm maturation, two processes occur: ___ (where uterine and fallopian fluids wash away inhibitory factors) and the ___ reaction (where hyaluronidase and proteolytic enzymes are released for penetration).",
+    "answer": "capacitation / acrosomal",
     "acceptableAnswers": [
-      "intense / greatest / milder",
-      "intense / greatest amount / milder",
-      "intense / largest / milder"
+      "capacitation / acrosomal",
+      "Capacitation / acrosomal",
+      "capacitation / the acrosomal"
     ]
   },
   {
     "id": 91,
     "type": "fitb",
-    "stem": "Erection is initiated when efferent ___ impulses are sent to the penis, causing vasodilatation and dilatation of smooth muscles of the corpora spongiosa and ___, leading to increased blood flow, engorgement, and erection.",
-    "answer": "parasympathetic / cavernosa",
+    "stem": "Sperm is stored in the ___ and vas for at least a ___, during which it acquires ___ characteristics but no full potential for fertilization; deposited in the female genital tract, sperm swim up at ___ mm/min reaching the tubes within ___ to ___ minutes.",
+    "answer": "epididymis / month / motility / 3 / 30 / 60",
     "acceptableAnswers": [
-      "parasympathetic / cavernosa",
-      "parasympathetic nerve / cavernosa",
-      "parasympathetic / corpora cavernosa"
+      "epididymis / month / motility / 3 / 30 / 60",
+      "epididymis / one month / motility characteristics / 3mm/min / 30-60 minutes"
     ]
   },
   {
     "id": 92,
     "type": "fitb",
-    "stem": "In the molecular pathway of erection, NO activates ___ cyclase which activates GTP to form ___. This compound is a powerful vasodilator that leads to engorgement and erection.",
-    "answer": "guanyl / CGMP",
+    "stem": "Sperm movement through the epididymis is aided by pressure of ___ fluids, ___ movements, and ciliary actions of ductular cells.",
+    "answer": "Sertoli / peristaltic",
     "acceptableAnswers": [
-      "guanyl / CGMP",
-      "guanylyl / CGMP",
-      "guanyl cyclase / cyclic GMP",
-      "guanyl / cyclic guanosine monophosphate"
+      "Sertoli / peristaltic",
+      "Sertoli cell / peristaltic",
+      "Sertoli fluids / peristaltic movements"
     ]
   },
   {
     "id": 93,
     "type": "fitb",
-    "stem": "Sildenafil (Viagra) is a potent aphrodisiac that acts by preventing the inactivation of CGMP. It achieves this by inhibiting the ___ enzyme.",
-    "answer": "phosphodiesterase",
+    "stem": "Castration is also called ___ and when done before puberty, individuals are usually ___ than normal due to ___ epiphyseal closure, producing a body habitus called eunuchoid.",
+    "answer": "orchidectomy / taller / late",
     "acceptableAnswers": [
-      "phosphodiesterase",
-      "PDE5",
-      "phosphodiesterase type 5",
-      "phosphodiesterase enzyme"
+      "orchidectomy / taller / late",
+      "orchidectomy / taller than normal / late (delayed) epiphyseal closure"
     ]
   },
   {
     "id": 94,
     "type": "fitb",
-    "stem": "Hypoactive sexual desire disorder (HSDD) is characterized as a lack or absence of ___ and desire for sexual activity; it is classified as a sexual ___ and two types basically exist.",
-    "answer": "sexual fantasies / dysfunction",
+    "stem": "Precocious puberty in males occurs when secondary sexual characteristics appear before the normal age of ___ years; delayed puberty occurs when testicular development fails to occur at ___ years.",
+    "answer": "9 / 20",
     "acceptableAnswers": [
-      "sexual fantasies / dysfunction",
-      "fantasies / dysfunction",
-      "sexual fantasies and desire / dysfunction"
+      "9 / 20",
+      "nine / twenty",
+      "9 years / 20 years"
     ]
   },
   {
     "id": 95,
     "type": "fitb",
-    "stem": "The inability to achieve adequate and strong erection is called ___; the inability of the penis to ___ after erection is called priapism.",
-    "answer": "impotence / relax",
+    "stem": "Male hypogonadism is called hypergonadotropic when it is due to ___ failure, and hypogonadotropic when it is due to ___ or pituitary failure.",
+    "answer": "testicular / hypothalamic",
     "acceptableAnswers": [
-      "impotence / relax",
-      "impotence / relax (detumescence)",
-      "erectile dysfunction/impotence / relax"
+      "testicular / hypothalamic",
+      "testicular failure / hypothalamic",
+      "primary testicular / hypothalamic or pituitary"
     ]
   },
   {
     "id": 96,
     "type": "fitb",
-    "stem": "Female frigidity is an extreme example of ___, while female ___ is the opposite extreme on the same spectrum of female sexual response disorders.",
-    "answer": "hyposexuality / hypersexuality",
+    "stem": "Spermatozoa obtain nutrition from ___ metabolism of ___ to pyruvate, as this is the primary energy substrate supplied in the seminal vesicle secretion.",
+    "answer": "anaerobic / fructose",
     "acceptableAnswers": [
-      "hyposexuality / hypersexuality",
-      "hyposexuality / hypersexuality (nymphomania)"
+      "anaerobic / fructose",
+      "anaerobic metabolism / fructose"
     ]
   },
   {
     "id": 97,
     "type": "fitb",
-    "stem": "Vaginismus results from a reflex contraction of the ___ muscle; premature ejaculation is defined as ejaculation occurring ___ or just after ___ .",
-    "answer": "pubococcygeus / before / penetration",
+    "stem": "In comparing WHO 1999 versus WHO 2010 semen parameters: the minimum volume changed from ___ ml to 1.5 ml; minimum concentration decreased from ___ million/ml to 15 million/ml; and progressive motility threshold dropped from ___% to 32%.",
+    "answer": "2 / 20 / 50",
     "acceptableAnswers": [
-      "pubococcygeus / before / penetration",
-      "pubococcygeus muscle / before / penetration"
+      "2 / 20 / 50",
+      "2 ml / 20 million / 50%",
+      "two / twenty / fifty"
     ]
   },
   {
     "id": 98,
     "type": "fitb",
-    "stem": "Congenital absence of the testis or inflammation of the testis, called ___, reduces spermatogenesis; oestrogens negatively inhibit ___ and the conversion of ___ to DHT.",
-    "answer": "orchitis / GnRH / testosterone",
+    "stem": "Testosterone causes moderate retention of ___, K+, HâO, sulphate, and ___ retention (protecting against osteoporosis), and also increases total bone matrix while causing CaÂ²âº ___.",
+    "answer": "Na+ / phosphate / retention",
     "acceptableAnswers": [
-      "orchitis / GnRH / testosterone",
-      "orchitis / GnRH secretion / testosterone"
+      "Na+ / phosphate / retention",
+      "sodium / phosphate / retention",
+      "Na / phosphate / Ca2+ retention"
     ]
   },
   {
     "id": 99,
     "type": "fitb",
-    "stem": "Early in spermatogenesis, ___ stimulates Sertoli cells to function maximally, while ___ stimulates Leydig cells to produce testosterone, which controls the later stages of spermatogenesis and also produces ___ growth factor.",
-    "answer": "FSH / LH / epidermal",
+    "stem": "The zona ___ of the adrenal gland also produces androgens (testosterone, DHEA, and androstenedione) but in ___ amounts compared to the testis.",
+    "answer": "reticularis / small",
     "acceptableAnswers": [
-      "FSH / LH / epidermal",
-      "FSH / LH / epidermal (EGF)"
+      "reticularis / small",
+      "zona reticularis / small",
+      "reticularis / small (minor)"
     ]
   },
   {
     "id": 100,
     "type": "fitb",
-    "stem": "The hypoactive female sexual dysfunction disorder (FSAD) assesses and scores six parameters: ___, Arousal, ___, Orgasm, ___, and Pain.",
-    "answer": "Desire / Lubrication / Satisfaction",
+    "stem": "The average (Av) sperm count per ejaculate according to WHO 2010 is ___ x 10â¶ cells per ejaculate; the WHO 2010 threshold for normal morphology is more than ___% normal forms; and normal forms in the WHO 1999 standard were ___% compared to the WHO 2010 revised threshold.",
+    "answer": "39 / 4 / 14",
     "acceptableAnswers": [
-      "Desire / Lubrication / Satisfaction",
-      "desire / lubrication / satisfaction"
+      "39 / 4 / 14",
+      "39 million / 4% / 14%",
+      "39 x 10â¶ / 4% / 14%"
     ]
   }
 ]
