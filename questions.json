@@ -2,1157 +2,1123 @@
   {
     "id": 1,
     "type": "mcq",
-    "stem": "Testosterone is classified as a C19 steroid hormone. Under the stimulation of which specific pituitary hormone is it produced by the Leydig cells?",
+    "stem": "The female reproductive system shows regular monthly cyclic changes in humans and primates. The menstrual cycle normally starts at menarche and ceases at menopause. Which age range is CORRECT for menarche and menopause respectively?",
     "options": [
-      "Follicle-stimulating hormone (FSH) acting directly on the Leydig interstitial cells",
-      "Luteinizing hormone (LH) acting directly on the Leydig interstitial cells",
-      "Adrenocorticotropic hormone (ACTH) stimulating Leydig cells via a common receptor",
-      "Prolactin acting synergistically with FSH on Leydig cell testosterone synthesis"
+      "Menarche at 11–13 years; menopause at 42–52 years",
+      "Menarche at 13–15 years; menopause at 45–55 years",
+      "Menarche at 12–14 years; menopause at 43–53 years",
+      "Menarche at 14–16 years; menopause at 48–58 years"
     ],
     "answer": "B"
   },
   {
     "id": 2,
     "type": "mcq",
-    "stem": "Of the total circulating testosterone in the plasma, 98% is bound to plasma proteins. Which two proteins carry this bound fraction, and in what proportions?",
+    "stem": "The normal range of the menstrual cycle is between 21 to 35 days. What percentage of individuals actually have a perfect 28-day cycle?",
     "options": [
-      "Sex hormone binding globulin (SHBG) binds 75% and albumin binds 23%",
-      "Sex hormone binding globulin (SHBG) binds 65% and albumin binds 33%",
-      "Albumin binds 65% and sex hormone binding globulin (SHBG) binds 33%",
-      "Corticosteroid binding globulin (CBG) binds 65% and albumin binds 33%"
+      "Only 5% of individuals",
+      "Only 10% of individuals",
+      "Only 15% of individuals",
+      "Only 25% of individuals"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 3,
     "type": "mcq",
-    "stem": "The plasma testosterone level in adult males falls within a specific reference range. Which value is CORRECT for adult males?",
+    "stem": "Within the menstrual cycle, the length of the follicular phase is variable while the luteal phase has a constant duration. What is the constant duration of the luteal phase?",
     "options": [
-      "5.2 to 28.5 nmol/L in adult males",
-      "8.4 to 29.0 nmol/L in adult males",
-      "10.4 to 34.7 nmol/L in adult males",
-      "12.0 to 38.2 nmol/L in adult males"
+      "The luteal phase is always constant at 10 days",
+      "The luteal phase is always constant at 12 days",
+      "The luteal phase is almost always constant at 14 days",
+      "The luteal phase is constant at 16 days"
     ],
     "answer": "C"
   },
   {
     "id": 4,
     "type": "mcq",
-    "stem": "The normal plasma testosterone level in adult females differs substantially from males. Which range is CORRECT for adult females?",
+    "stem": "The duration of menstrual flow and the average volume of blood lost per cycle are important clinical parameters. Which combination is CORRECT?",
     "options": [
-      "0.52 to 1.80 nmol/L",
-      "1.04 to 2.43 nmol/L",
-      "2.10 to 4.50 nmol/L",
-      "0.20 to 0.95 nmol/L"
+      "Flow duration of 1 to 5 days with average loss of 20 to 40 ml per month",
+      "Flow duration of 2 to 8 days with average loss of 30 to 50 ml per month",
+      "Flow duration of 3 to 7 days with average loss of 40 to 60 ml per month",
+      "Flow duration of 2 to 6 days with average loss of 50 to 80 ml per month"
     ],
     "answer": "B"
   },
   {
     "id": 5,
     "type": "mcq",
-    "stem": "Testosterone levels in the male follow a pattern of change over the lifespan. Which statement MOST accurately describes this pattern?",
+    "stem": "Menstrual blood is normally non-clotting despite being blood. What is the specific mechanism that prevents menstrual blood from clotting?",
     "options": [
-      "Levels rise continuously from puberty and peak at age 40 before abruptly declining",
-      "Levels remain stable throughout adult life and only decline after 70 years of age",
-      "Levels decline towards the late decade of life",
-      "Levels peak at puberty then immediately begin a steady linear decline from age 20 onwards"
+      "The low platelet count in the endometrial blood prevents coagulation cascade initiation",
+      "The action of fibrinolysins prevents clotting; however when flow is heavy, clots may appear",
+      "Progesterone withdrawal causes release of heparin from endometrial mast cells that lyses clots",
+      "The highly alkaline environment of the uterine cavity denatures clotting factors in the menstrual blood"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 6,
     "type": "mcq",
-    "stem": "A specific proportion of male oestrogen is produced by the aromatase activity of Sertoli cells, while the remainder comes from a different source. What percentage is produced by Sertoli cell aromatase, and what is the source of the remainder?",
+    "stem": "During menstrual flow, the genital tract has a specific vulnerability. Which statement MOST accurately describes this vulnerability and its clinical implication?",
     "options": [
-      "15% from Sertoli cell aromatase; 85% from adrenal cortex aromatization of precursors",
-      "25% from Sertoli cell aromatase; 75% from extra-gonadal aromatization",
-      "40% from Sertoli cell aromatase; 60% from direct ovarian secretion in the male",
-      "50% from Sertoli cell aromatase; 50% from hepatic conversion of testosterone"
+      "The genital tract is closed and resistant to infection during menstrual flow, reducing sexually transmitted infection risk",
+      "The genital tract is open and prone to infections during menstrual flow, making menstrual hygiene critically important",
+      "The cervical os dilates during menstrual flow to allow blood drainage, but this does not increase infection risk",
+      "The low pH of menstrual blood provides natural antimicrobial protection against ascending infections"
     ],
     "answer": "B"
   },
   {
     "id": 7,
     "type": "mcq",
-    "stem": "Testosterone is oxidized in the liver to produce 17-ketosteroids. Which THREE specific 17-ketosteroid compounds are named as the products of this hepatic oxidation?",
+    "stem": "Tampon use in menstrual hygiene management carries a specific serious risk if the tampon is forgotten. What is this risk?",
     "options": [
-      "Androsterone, dehydroepiandrosterone (DHEA), and androstenedione",
-      "Androsterone, epiandrosterone, and etiocholanolone",
-      "Etiocholanolone, androstenedione, and dehydroepiandrosterone",
-      "Androsterone, testosterone glucuronide, and androstenediol"
+      "Vaginal candidiasis from disruption of the normal vaginal flora by the synthetic tampon material",
+      "Toxic shock syndrome from bacterial toxin release if the tampon is left in place too long",
+      "Endometriosis from retrograde menstrual flow obstructed by tampon use",
+      "Cervical erosion from prolonged mechanical contact of the tampon with the ectocervix"
     ],
     "answer": "B"
   },
   {
     "id": 8,
     "type": "mcq",
-    "stem": "After hepatic oxidation to 17-ketosteroids, these compounds are conjugated with specific molecules before excretion. With which two conjugating agents are they combined, and through which routes are they excreted?",
+    "stem": "The ovary is a specific anatomical structure located in a particular position within the pelvis. What are its correct dimensions and anatomical position?",
     "options": [
-      "Conjugated with glucuronides only; excreted exclusively in urine",
-      "Conjugated with sulphates and glucuronides; excreted in urine or bile",
-      "Conjugated with sulphates only; excreted exclusively in bile",
-      "Conjugated with amino acids and sulphates; excreted in urine and sweat"
+      "3 cm x 1.5 cm x 0.8 cm; located in the ovarian fossa on the lateral pelvic wall",
+      "4 cm x 2 cm x 1 cm; located in the ovarian fossa as a flattened ovoid structure",
+      "5 cm x 3 cm x 2 cm; suspended in the broad ligament at the pelvic brim",
+      "2 cm x 1 cm x 0.5 cm; located posterior to the uterus in the pouch of Douglas"
     ],
     "answer": "B"
   },
   {
     "id": 9,
     "type": "mcq",
-    "stem": "The mechanism of action of testosterone begins with binding to a specific receptor type. To which receptor does testosterone bind, and what is the IMMEDIATE downstream consequence of receptor binding?",
+    "stem": "A cross-section of the ovary reveals two distinct structural zones. Which statement CORRECTLY identifies both zones and their contents?",
     "options": [
-      "It binds to a cell membrane G-protein coupled receptor; the receptor-hormone complex activates adenylyl cyclase to produce cAMP",
-      "It binds to an intracellular nuclear receptor; the testosterone-receptor complex then stimulates protein synthesis",
-      "It binds to a cytoplasmic receptor; the complex is transported to the nucleus where it activates RNA polymerase II",
-      "It binds to a mitochondrial receptor; the complex enhances oxidative phosphorylation driving protein anabolism"
+      "The inner medulla contains follicles at various stages of development; the outer cortex contains blood vessels and nerves",
+      "The inner medulla contains loose connective tissue with blood vessels, nerves, and lymphatics; the outer cortex contains follicles at various stages of development",
+      "The entire ovarian parenchyma is homogeneous with follicles distributed equally throughout both zones",
+      "The outer medulla contains primordial follicles only; the inner cortex contains mature Graafian follicles"
     ],
     "answer": "B"
   },
   {
     "id": 10,
     "type": "mcq",
-    "stem": "Testosterone's action on the prostate, hair distribution, acne formation, and external genitalia requires conversion to a more potent androgen. What is this androgen and through which enzymatic process is it produced?",
+    "stem": "The outer surface of the ovary is covered by a specific epithelium that is underneath a fibrous covering. What are these two surface layers correctly named?",
     "options": [
-      "Androstenedione, produced by 3-beta hydroxysteroid dehydrogenase activity",
-      "Dihydrotestosterone (DHT), produced by 5-alpha reductase activity",
-      "Dehydroepiandrosterone (DHEA), produced by 17-alpha hydroxylase activity",
-      "Estradiol, produced by aromatase (cytochrome P450 19A1) activity"
+      "Lined by simple squamous mesothelium underneath the tunica albuginea",
+      "Lined by the germinal epithelium, which is underneath a fibrous outer covering called the tunica albuginea",
+      "Lined by stratified squamous epithelium underneath the tunica vaginalis",
+      "Lined by the theca externa, which is underneath a fibrous layer called the tunica propria"
     ],
     "answer": "B"
   },
   {
     "id": 11,
     "type": "mcq",
-    "stem": "Among the three male sex hormones produced by the testis, which is identified as the MOST important, and what additional structure also produces these androgens in small amounts?",
+    "stem": "During in utero development at approximately the third week of intrauterine life, primordial germ cells migrate from a specific origin to the genital ridge. What is their origin and migration route?",
     "options": [
-      "DHEA is most important; the adrenal medulla also produces small amounts",
-      "Testosterone is most important; the zona reticularis of the adrenal gland also produces these androgens in small amounts",
-      "Androstenedione is most important; the zona fasciculata of the adrenal gland also produces small amounts",
-      "DHT is most important; the zona glomerulosa of the adrenal gland also produces small amounts"
+      "They migrate from the mesonephric duct epithelium directly to the gonadal ridge via the coelomic cavity",
+      "They migrate from the primitive yolk sac into the hindgut epithelium and then through the dorsal mesentery to the genital ridge",
+      "They arise de novo in the genital ridge from coelomic epithelial cells without any prior migration",
+      "They migrate from the allantois through the umbilical cord to the posterior abdominal wall genital ridge"
     ],
     "answer": "B"
   },
   {
     "id": 12,
     "type": "mcq",
-    "stem": "During fetal life, testosterone exerts critical effects on sex differentiation. Which two specific actions in the fetus are attributed to testosterone?",
+    "stem": "After migrating to the genital ridge, the primordial germ cells quickly mature into oogonia. The oogonia then undergo mitotic division to form primary oocytes, which then enter the first meiotic division. At which specific stage is this first meiotic division arrested?",
     "options": [
-      "It stimulates differentiation of the MÃ¼llerian duct to female internal genitalia AND promotes descent of the testis",
-      "It stimulates differentiation of the Wolffian duct to male internal genitalia AND produces MIF that aids degeneration of the female reproductive tract",
-      "It stimulates differentiation of both Wolffian and MÃ¼llerian ducts AND promotes early epiphyseal closure",
-      "It stimulates primordial germ cell differentiation AND promotes Sertoli cell proliferation in the fetus"
+      "Arrested at the zygotene stage of first meiotic prophase",
+      "Arrested at early prophase (diplotene stage) of the first meiotic division",
+      "Arrested at metaphase I of the first meiotic division",
+      "Arrested at anaphase I of the first meiotic division"
     ],
     "answer": "B"
   },
   {
     "id": 13,
     "type": "mcq",
-    "stem": "During fetal life, testosterone is also responsible for which additional structural development necessary for male anatomy?",
+    "stem": "At about the 5th month of intrauterine life, the ovary contains the maximum number of primordial follicles. What is this maximum number, and what is the mechanism by which most are lost before birth?",
     "options": [
-      "Formation of the prostate gland from the urogenital sinus exclusively",
-      "Descent of the testis from the abdomen to the scrotum",
-      "Formation of the bulbourethral (Cowper's) glands from the cloacal membrane",
-      "Fusion of the labioscrotal folds to form the scrotal raphe"
+      "5 x 10⁶ primordial follicles at peak; most lost by necrosis from ischaemia of the developing ovary",
+      "7 x 10⁶ primordial follicles at peak; most lost by atresia caused by apoptosis (programmed cell death)",
+      "10 x 10⁶ primordial follicles at peak; most lost by resorption into the ovarian stroma",
+      "3 x 10⁶ primordial follicles at peak; most lost by recruitment into the growing follicle pool"
     ],
     "answer": "B"
   },
   {
     "id": 14,
     "type": "mcq",
-    "stem": "At puberty, testosterone causes enlargement of the penis, scrotum, and other sex organs. In addition, it produces specific effects on the pubic hair distribution pattern in males. How is the male pubic hair pattern described?",
+    "stem": "At birth, the ovaries contain a specific number of follicles remaining after fetal atresia. How many follicles are present at birth, and how many are present at puberty?",
     "options": [
-      "A triangular distribution with the base facing upward toward the umbilicus",
-      "A diamond-shaped distribution with the apex extending up to the linea alba, plus baldness and receding temporal hairline",
-      "A circular distribution confined entirely to the mons pubis and perineum",
-      "A vertical distribution with hair extending only along the median perineal raphe"
+      "5 x 10⁶ at birth; 1,000,000 at puberty",
+      "2 x 10⁶ at birth; 500,000 at puberty",
+      "1 x 10⁶ at birth; 300,000 at puberty",
+      "3 x 10⁶ at birth; 750,000 at puberty"
     ],
     "answer": "B"
   },
   {
     "id": 15,
     "type": "mcq",
-    "stem": "Testosterone's effect on the pelvic bone during the secondary sexual development of the adult male produces a specific anatomical change. Which statement MOST accurately describes this effect?",
+    "stem": "Of the 500,000 follicles present at puberty, only a specific maximum number will ever reach full maturity throughout a woman's entire reproductive lifespan. What is this number?",
     "options": [
-      "Testosterone widens the pelvic outlet creating a broad, shallow pelvis favoring upright locomotion",
-      "Testosterone leads to broadening of shoulders, and on the pelvic bone specifically narrows the outlet forming a tunnel-like shape",
-      "Testosterone has no significant effect on the pelvic bone architecture beyond general bone mineral density enhancement",
-      "Testosterone causes bilateral acetabular enlargement creating a wider carrying angle for the lower limbs"
+      "Only 200 follicles may reach full maturity over the lifespan",
+      "Only 300 follicles may reach full maturity over the lifespan",
+      "Only 500 follicles may reach full maturity over the lifespan",
+      "Only 1000 follicles may reach full maturity over the lifespan"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 16,
     "type": "mcq",
-    "stem": "Testosterone increases basal metabolic rate by a specific percentage. What is this percentage increase?",
+    "stem": "During pre-menarchial development (premenarchial oogenesis), the first meiotic division is completed just before ovulation. What are the two products formed when this first meiotic division completes?",
     "options": [
-      "By 5% above baseline",
-      "By 10% above baseline",
-      "By 15% above baseline",
-      "By 20% above baseline"
+      "Two secondary oocytes of equal size, both destined to become ova",
+      "The secondary oocyte and the first polar body",
+      "The primary oocyte and the first polar body with equal cytoplasmic distribution",
+      "The Graafian follicle cell and the first polar body, which later degenerates"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 17,
     "type": "mcq",
-    "stem": "Testosterone increases red blood cell (RBC) production by a specific percentage range. Which range is CORRECT?",
+    "stem": "The secondary oocyte immediately begins the second meiotic division but is arrested at a specific phase. The second meiotic division is only completed under which precise trigger, and what are the two products formed?",
     "options": [
-      "By 5 to 10% above baseline",
-      "By 10 to 15% above baseline",
-      "By 15 to 20% above baseline",
-      "By 20 to 25% above baseline"
+      "Arrested at anaphase II; completed by the LH surge at ovulation, forming a mature oocyte and second polar body",
+      "Arrested at metaphase; completed just before fertilization with spermatozoa, forming a mature oocyte and the second polar body",
+      "Arrested at telophase II; completed by progesterone surge from the corpus luteum, forming two haploid cells",
+      "Arrested at prophase II; completed by the FSH surge in the next cycle, forming the mature oocyte only"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 18,
     "type": "mcq",
-    "stem": "The metabolic effects of testosterone on lipid metabolism produce a specific pattern that has clinical implications for cardiovascular disease in males. Which lipid change is CORRECT?",
+    "stem": "The primordial follicle consists of the primary oocyte surrounded by a specific type of granulosa cell layer. Which description is CORRECT?",
     "options": [
-      "Testosterone increases HDL and decreases LDL, making men relatively protected against atherosclerosis",
-      "Testosterone increases LDL and VLDL but decreases HDL, making men more prone to atherosclerosis",
-      "Testosterone raises total cholesterol uniformly without altering the HDL to LDL ratio",
-      "Testosterone lowers total cholesterol but selectively increases VLDL making men prone to hypertriglyceridemia"
+      "The primary oocyte is surrounded by a multilayered cuboidal granulosa cell arrangement from the earliest stage",
+      "The primary oocyte is surrounded by a single layer of flattened granulosa cells",
+      "The primary oocyte is surrounded by a single layer of cuboidal theca interna cells",
+      "The primary oocyte is surrounded by a double layer of flattened cells, one granulosa and one theca"
     ],
     "answer": "B"
   },
   {
     "id": 19,
     "type": "mcq",
-    "stem": "GnRH is a peptide hormone that initiates the hypothalamic-pituitary-testicular axis. What is the precise structural description of GnRH as stated in this curriculum?",
+    "stem": "The transition from primordial to primary follicle involves changes in the granulosa cells and emergence of new structural components. Which changes occur during primary follicle development?",
     "options": [
-      "A 5-amino acid peptide secreted tonically by neurons in the supraoptic nucleus",
-      "A 10-amino acid peptide secreted in pulses by neurons in the arcuate nucleus into the median eminence",
-      "A 14-amino acid peptide secreted in pulses by neurons in the paraventricular nucleus",
-      "A 10-amino acid steroid conjugate secreted continuously by hypothalamic glial cells"
+      "The flattened granulosa cells remain single-layered but increase in size; the zona pellucida appears simultaneously",
+      "The granulosa cells become cuboidal and multilayered; the zona pellucida (a glycoprotein layer) appears between the oocyte and granulosa cells; connective tissue cells form theca interna (vascular) and theca externa (avascular)",
+      "The granulosa cells undergo apoptosis and are replaced by theca interna cells; antrum formation begins",
+      "The zona pellucida disappears to allow closer contact between granulosa cells and the oocyte during primary follicle stage"
     ],
     "answer": "B"
   },
   {
     "id": 20,
     "type": "mcq",
-    "stem": "After GnRH is secreted into the median eminence, it is transported to the anterior pituitary via a specific vascular pathway. Through which system is it transported, and which second messenger mechanism do FSH and LH use on their target cells?",
+    "stem": "During primary follicle development, specific growth factors play essential roles in proliferation. Which growth factors are named in this curriculum as playing essential roles?",
     "options": [
-      "Transported via systemic circulation; FSH/LH act via the cAMP 2nd messenger mechanism",
-      "Transported via the hypothalamohypophyseal portal system; FSH/LH act via the cAMP 2nd messenger mechanism",
-      "Transported via direct neural fibers to the anterior pituitary; FSH/LH act via IP3/calcium 2nd messenger",
-      "Transported via the posterior pituitary stalk; FSH/LH act via the phospholipids 2nd messenger exclusively"
+      "Vascular endothelial growth factor (VEGF), platelet-derived growth factor (PDGF), and fibroblast growth factor (FGF)",
+      "IGF-1 and 2, transforming growth factor, and epidermal growth factor",
+      "Stem cell factor (SCF), bone morphogenetic protein (BMP), and activin",
+      "Growth differentiation factor 9 (GDF-9), bone morphogenetic protein 15 (BMP-15), and kit ligand"
     ],
     "answer": "B"
   },
   {
     "id": 21,
     "type": "mcq",
-    "stem": "FSH stimulates Sertoli cells to produce a glycoprotein that feeds back to the anterior pituitary to specifically decrease FSH production. What is this glycoprotein?",
+    "stem": "During secondary follicle development, 6 to 12 primary follicles undergo further development. The antrum forms through a specific process. How does the antrum form, and what does it contain?",
     "options": [
-      "Activin â a glycoprotein that selectively inhibits pituitary FSH secretion",
-      "Inhibin â a glycoprotein that selectively feeds back on the anterior pituitary to decrease FSH",
-      "Androgen binding protein â which transports testosterone to the pituitary to suppress FSH",
-      "Sex hormone binding globulin (SHBG) â which reduces free testosterone available for FSH suppression"
+      "The antrum forms by secretion of fluid from theca interna cells; it contains estrogen and androgens only",
+      "Irregular spaces appear within granulosa cells that fuse to form follicular antrum containing mucopolysaccharides, plasma proteins, electrolytes, steroidogenic enzymes, steroid hormones, LH, FSH, inhibin, oxytocin, vasopressin, and derivatives of proopiomelanocortin",
+      "The antrum forms by liquefaction of the zona pellucida; it contains primarily glycoproteins and water",
+      "Tight junctions between granulosa cells breakdown allowing coelomic fluid to fill the antrum space"
     ],
     "answer": "B"
   },
   {
     "id": 22,
     "type": "mcq",
-    "stem": "The Sertoli cells produce Sex Hormone Binding Globulin (SHBG). Testosterone also has an important local action on the Sertoli cells. What is this local action?",
+    "stem": "As the antrum forms in the secondary follicle, the oocyte is pushed to one side in an eccentric location. Which group of granulosa cells surrounds the ovum at that eccentric location?",
     "options": [
-      "Testosterone stimulates Sertoli cells to produce MIF and suppress Leydig cell function via paracrine inhibition",
-      "Testosterone acts locally on the Sertoli cells to aid spermatogenesis",
-      "Testosterone stimulates Sertoli cells to increase inhibin production for FSH suppression",
-      "Testosterone locally stimulates Sertoli cells to release mature spermatozoa into the tubular lumen"
+      "The membrane granulosa cells that line the antrum cavity",
+      "The cumulus oophorous or germ hill cells",
+      "The corona radiata cells that are the innermost granulosa layer",
+      "The theca interna cells that migrate inward around the eccentric oocyte"
     ],
     "answer": "B"
   },
   {
     "id": 23,
     "type": "mcq",
-    "stem": "The semen consists of spermatozoa and secretions from multiple glands in specific proportions. Which combination of percentages is CORRECT for spermatozoa, seminal vesicle secretions, and prostatic secretions respectively?",
+    "stem": "At approximately the 7th day of the menstrual cycle, one follicle becomes dominant. Which TWO specific products does the dominant follicle produce that allow it to continue development despite falling FSH levels?",
     "options": [
-      "Spermatozoa 5%, seminal vesicle 65%, prostate 30%",
-      "Spermatozoa 10%, seminal vesicle 60%, prostate 30%",
-      "Spermatozoa 15%, seminal vesicle 55%, prostate 30%",
-      "Spermatozoa 10%, seminal vesicle 55%, prostate 35%"
+      "Progesterone and activin, which sensitize the follicle to LH receptor activation",
+      "The greatest amount of oestradiol and inhibin, which allow continued development despite falling FSH levels",
+      "Testosterone and androstenedione, which are aromatized to estradiol in the dominant follicle",
+      "IGF-1 and LH, which act together to stimulate granulosa cell proliferation independently"
     ],
     "answer": "B"
   },
   {
     "id": 24,
     "type": "mcq",
-    "stem": "Secretions from the bulbourethral (Cowper's) glands and urethral glands constitute a specific small proportion of the total semen volume. What proportion do they constitute?",
+    "stem": "By the 14th day of the cycle, the Graafian (mature) follicle reaches a specific size. What is this size, and what meiotic state is the oocyte within it?",
     "options": [
-      "Less than 2%",
-      "Less than 7%",
-      "Approximately 10%",
-      "Approximately 15%"
+      "10 to 15 mm; first meiotic division arrested at prophase I (diplotene stage)",
+      "18 to 22 mm; first meiotic division completed and second meiotic division arrested at metaphase",
+      "25 to 30 mm; both meiotic divisions completed with formation of the mature secondary oocyte",
+      "12 to 16 mm; arrested at anaphase I with second meiotic division about to begin"
     ],
     "answer": "B"
   },
   {
     "id": 25,
     "type": "mcq",
-    "stem": "Immediately after ejaculation, semen is watery and then quickly congeals. After what precise time interval does the semen then undergo SECONDARY liquefaction?",
+    "stem": "In the Graafian follicle, granulosa cells surrounding the ovum thicken to form a specific structure. What is this structure called?",
     "options": [
-      "After 10 minutes it undergoes secondary liquefaction",
-      "After 20 minutes it undergoes secondary liquefaction",
-      "After 30 minutes it undergoes secondary liquefaction",
-      "After 60 minutes it undergoes secondary liquefaction"
+      "The membrane granulosa — the innermost single-cell granulosa layer lining the antrum",
+      "The corona radiata — formed by thickening of granulosa cells surrounding the ovum",
+      "The cumulus oophorous — the granulosa cell mass that connects the oocyte to the follicle wall",
+      "The zona pellucida — the glycoprotein layer thickening around the oocyte surface"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 26,
     "type": "mcq",
-    "stem": "Spermatozoa obtain their nutrition through a specific metabolic pathway. Which pathway and specific substrate are used?",
+    "stem": "Ovulation normally occurs on the 14th day in a 28-day cycle. It is triggered by a specific hormonal event. Which hormonal event triggers ovulation, and what is released?",
     "options": [
-      "Aerobic metabolism of glucose to ATP via the Krebs cycle",
-      "Anaerobic metabolism of fructose to pyruvate",
-      "Aerobic metabolism of glutamine via the pentose phosphate pathway",
-      "Anaerobic glycolysis of glucose to lactate for energy production"
+      "A surge in FSH causes follicular rupture and release of the primary oocyte",
+      "An LH surge causes ovulation where the Graafian follicle ruptures and releases a secondary oocyte",
+      "A combined FSH and estradiol surge causes the follicle to dissolve and release a mature ovum",
+      "A progesterone surge from the developing corpus luteum causes follicular rupture"
     ],
     "answer": "B"
   },
   {
     "id": 27,
     "type": "mcq",
-    "stem": "The WHO 2010 lower reference value for semen volume differs from the 1999 reference. What is the WHO 2010 lower reference range for semen volume?",
+    "stem": "The physical process of ovulation involves specific biochemical changes at the follicle surface. Which process causes the stigma to form and dissolve, releasing the ovum?",
     "options": [
-      "1.0 to 5.5 ml",
-      "1.5 to 6.0 ml",
-      "1.6 to 6.8 ml",
-      "2.0 to 6.0 ml"
+      "Increased intrafollicular pressure from fluid accumulation mechanically ruptures the thinned follicle wall",
+      "Release of proteolytic enzymes and prostaglandins causes the mature follicle periphery to form a protrusion called stigma, which dissolves releasing the ovum and fluids",
+      "LH-mediated contraction of the outer theca externa muscle layer squeezes the ovum through the stigma",
+      "Oxytocin released at the LH surge causes smooth muscle contraction of the ovarian stroma ejecting the ovum"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 28,
     "type": "mcq",
-    "stem": "According to the WHO 2010 lower reference values, the minimum semen concentration for normal fertility is stated. What is this minimum concentration?",
+    "stem": "After the ovum is released from the follicle, it is transported to the infundibulum through a specific mechanism. What is this mechanism?",
     "options": [
-      "At least 10 x 10â¶ cells/ml",
-      "At least 15 x 10â¶ cells/ml",
-      "At least 20 x 10â¶ cells/ml",
-      "At least 25 x 10â¶ cells/ml"
+      "The ovum falls passively due to gravity into the pelvic cavity and is retrieved by the fimbriae",
+      "The octopus action of fimbriae ovarica transports the ovum to the infundibulum, then tubular peristalsis and ciliary action propel it to the ampulla",
+      "Uterine contractions create a suction pressure that draws the ovum through the fimbriae directly to the uterus",
+      "Specific chemotaxis from secretions of the isthmic mucosa directs the ovum from the peritoneal cavity"
     ],
     "answer": "B"
   },
   {
     "id": 29,
     "type": "mcq",
-    "stem": "According to the WHO 2010 lower reference values, what is the minimum percentage of progressively motile spermatozoa required for normal semen?",
+    "stem": "Ovulation may be associated with specific clinical signs that can aid in its detection. Which combination of signs is SPECIFICALLY listed in this curriculum?",
     "options": [
-      "More than 25% progressively motile",
-      "More than 32% progressively motile",
-      "More than 40% progressively motile",
-      "More than 50% progressively motile"
+      "Breast tenderness, vaginal discharge increase, and characteristic skin flushing",
+      "Mid-cycle pain (mittelschmerz), mid-cycle haemorrhage, and biphasic rise in body temperature (0.5°C)",
+      "Nausea, lower abdominal bloating, and a sharp drop in LH detectable on urine testing",
+      "Cervical os opening, increased vaginal pH, and unilateral ovarian pain lasting 24 to 48 hours"
     ],
     "answer": "B"
   },
   {
     "id": 30,
     "type": "mcq",
-    "stem": "The WHO 2010 lower reference for sperm morphology differs from the 1999 standard. What percentage of normal sperm forms is required according to WHO 2010?",
+    "stem": "Immediately after ovulation, the follicle is filled with blood forming a specific intermediate structure. What is this structure called?",
     "options": [
-      "More than 2% normal forms",
-      "More than 4% normal forms",
-      "More than 7% normal forms",
-      "More than 14% normal forms"
+      "Corpus albicans — the whitish scar formed immediately after ovulation",
+      "Corpus haemorrhagicum — the follicle filled with blood immediately after ovulation",
+      "Corpus luteum menstrualis — the degenerating corpus luteum forming from the blood-filled follicle",
+      "Corpus spurium — the false corpus luteum formed when blood replaces follicular fluid"
     ],
     "answer": "B"
   },
   {
     "id": 31,
     "type": "mcq",
-    "stem": "The WHO 2010 reference for white blood cell count in semen specifies an upper limit. What is this upper limit?",
+    "stem": "After corpus haemorrhagicum formation, the granulosa and theca interna cells undergo luteinization. What specific changes occur in these cells, and what is the resulting appearance of the corpus luteum?",
     "options": [
-      "Less than 0.5 x 10â¶ WBC/ml",
-      "Less than 1 x 10â¶ WBC/ml",
-      "Less than 2 x 10â¶ WBC/ml",
-      "Less than 5 x 10â¶ WBC/ml"
+      "The cells shrink and become pale, giving the corpus luteum a whitish appearance due to cholesterol accumulation",
+      "The cells become larger and filled with lipid granules; they are now called granulosa lutein and theca lutein cells; the C. luteum measures about 15mm in diameter and has a yellowish appearance from lipid granules",
+      "The cells undergo apoptosis and are replaced by fibroblasts that produce the characteristic yellow pigment",
+      "The cells become highly vascular and red-coloured due to increased blood flow from the new luteal vasculature"
     ],
     "answer": "B"
   },
   {
     "id": 32,
     "type": "mcq",
-    "stem": "A key comparison between WHO 1999 and WHO 2010 semen parameters involves the minimum sperm concentration threshold. How did this threshold change between 1999 and 2010?",
+    "stem": "If the ovum is NOT fertilized, the corpus luteum reaches maximum growth after a specific time period after ovulation, then degenerates. When does maximum growth occur and when does degeneration begin?",
     "options": [
-      "Decreased from 25 million/ml (1999) to 20 million/ml (2010)",
-      "Decreased from 20 million/ml (1999) to 15 million/ml (2010)",
-      "Decreased from 15 million/ml (1999) to 10 million/ml (2010)",
-      "Increased from 15 million/ml (1999) to 20 million/ml (2010)"
+      "Maximum growth at 5 to 6 days post-ovulation; degeneration begins on the 7th day",
+      "Maximum growth at 7 to 8 days post-ovulation; degeneration begins around the 9th day and ends at 14 days",
+      "Maximum growth at 10 to 12 days post-ovulation; degeneration begins on the 14th day",
+      "Maximum growth at 4 to 5 days post-ovulation; degeneration begins on the 6th day"
     ],
     "answer": "B"
   },
   {
     "id": 33,
     "type": "mcq",
-    "stem": "The semen analysis requires a standardized pre-collection abstinence period and a specific time constraint for examination after collection. What are these two requirements?",
+    "stem": "The process by which the corpus luteum degenerates when the ovum is not fertilized is called luteolysis. What specific cells are responsible for mediating luteolysis?",
     "options": [
-      "3 days abstinence; examination within 1 hour of collection",
-      "5 days abstinence; examination within 2 hours of collection",
-      "7 days abstinence; examination within 4 hours of collection",
-      "2 days abstinence; examination within 30 minutes of collection"
+      "Eosinophils, neutrophils, and mast cells invading the corpus luteum tissue",
+      "Macrophage, leukocyte, and fibroblast invasion mediates luteolysis",
+      "Natural killer cells and T-lymphocytes causing immune-mediated destruction",
+      "Granulosa lutein cell apoptosis triggered by falling LH levels"
     ],
     "answer": "B"
   },
   {
     "id": 34,
     "type": "mcq",
-    "stem": "The clinical term used when an ejaculate contains ZERO spermatozoa is:",
+    "stem": "After luteolysis, the cells of the regressed corpus luteum decrease in size to form a specific intermediate structure before becoming the corpus albicans. What is this intermediate structure, and what does the corpus albicans look like?",
     "options": [
-      "Aspermia â the complete absence of any ejaculate",
-      "Oligospermia â inadequate sperm count below 15,000,000/ml",
-      "Azoospermia â ejaculate containing no spermatozoa",
-      "Necrospermia â ejaculate containing only dead spermatozoa"
+      "Corpus spurium; which appears as a yellowish nodule in the ovarian cortex",
+      "Corpus luteum menstrualis or spurium, which is transformed into a whitish scar called corpus albicans",
+      "Corpus rubrum; which appears as a red scar before becoming the corpus albicans",
+      "The follicular remnant, which becomes hyalinized and clear before transforming to corpus albicans"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 35,
     "type": "mcq",
-    "stem": "Oligospermia is defined by a specific numerical threshold. Which sperm count constitutes oligospermia?",
+    "stem": "If fertilization DOES occur, the corpus luteum of pregnancy forms by increasing to a specific size. What is the diameter range of the corpus luteum of pregnancy, which hormones does it produce, and when does the placenta take over?",
     "options": [
-      "Less than 5,000,000 spermatozoa per ml",
-      "Less than 10,000,000 spermatozoa per ml",
-      "Less than 15,000,000 spermatozoa per ml",
-      "Less than 20,000,000 spermatozoa per ml"
+      "Increases to 10 to 15 mm; produces progesterone only; placenta takes over at 8 weeks",
+      "Increases to 20 to 30 mm; produces large amounts of progesterone, estrogen, and inhibin A; placenta takes over and then degeneration occurs at about 3 to 4 months",
+      "Increases to 30 to 40 mm; produces hCG and progesterone; placenta takes over at 6 weeks",
+      "Increases to 15 to 20 mm; produces estrogen only; placenta takes over at 12 weeks"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 36,
     "type": "mcq",
-    "stem": "Aspermia is a condition that is distinct from azoospermia. What precisely does aspermia describe?",
+    "stem": "The uterine cycle can be divided into three phases. Which sequence of phases and their correct day ranges are MOST accurately stated?",
     "options": [
-      "An ejaculate that contains no living spermatozoa (all spermatozoa are dead)",
-      "A situation in which there is no ejaculate at all",
-      "An ejaculate that contains fewer than 5 million spermatozoa per millilitre",
-      "A condition of retrograde ejaculation where semen enters the bladder"
+      "Menstrual phase (days 1–5), follicular phase (days 5–14), secretory phase (days 14–28)",
+      "Menstrual phase (days 1–5 approximately), proliferative phase (days 5–14), secretory phase (days 15–28)",
+      "Proliferative phase (days 1–10), secretory phase (days 10–25), menstrual phase (days 25–28)",
+      "Ischaemic phase (days 1–3), proliferative phase (days 3–14), secretory phase (days 14–28)"
     ],
     "answer": "B"
   },
   {
     "id": 37,
     "type": "mcq",
-    "stem": "Normal semen has specific physical properties. Which combination correctly states the specific gravity and reaction (pH) of normal semen?",
+    "stem": "During the menstrual phase, the superficial two-thirds of the endometrium is shed. What is the specific name for this shed layer, and what are its two sublayers?",
     "options": [
-      "Specific gravity of 1.015; reaction acidic (pH less than 7.0)",
-      "Specific gravity of 1.028; reaction alkaline (pH greater than 7.2)",
-      "Specific gravity of 1.035; reaction neutral (pH 7.0 to 7.2)",
-      "Specific gravity of 1.020; reaction alkaline (pH greater than 7.4)"
+      "The stratum basalis; made up of the stratum compactum and stratum spongiosum",
+      "The stratum functionale; made up of the stratum compactum and stratum spongiosum",
+      "The stratum functionalis; made up of the stratum granulosum and stratum basale",
+      "The decidua functionalis; made up of the decidua compacta and decidua spongiosa"
     ],
     "answer": "B"
   },
   {
     "id": 38,
     "type": "mcq",
-    "stem": "Secretions from the seminal vesicle have a specific physical appearance and are rich in particular substances. Which description is MOST complete?",
+    "stem": "The endometrial layer that remains intact after the menstrual phase and serves as the regenerative foundation for the next cycle is:",
     "options": [
-      "Thin, colourless, and acidic; rich in zinc, citrate, and acid phosphatase",
-      "Viscid, alkaline, and yellow; rich in vitamin C, fructose, and high K+",
-      "Viscid, acidic, and white; rich in fructose, phospholipids, and spermine",
-      "Clear, alkaline, and watery; rich in prostaglandins and cholesterol"
+      "The stratum functionale — the superficial layer that reforms from the underlying basalis",
+      "The stratum basalis — the innermost layer that always remains intact after menstruation",
+      "The stratum spongiosum — the deeper portion of the functionale that escapes shedding",
+      "The stratum compactum — the surface layer that is retained to serve as the regenerative foundation"
     ],
     "answer": "B"
   },
   {
     "id": 39,
     "type": "mcq",
-    "stem": "Beyond vitamin C, fructose, and high potassium, the seminal vesicle secretion contains additional specific substances. Which combination is listed in this curriculum?",
+    "stem": "The initial vascular event that triggers endometrial shedding during the menstrual phase is:",
     "options": [
-      "Sodium, calcium, zinc, and acid phosphatase",
-      "Phosphoryl choline, fibrinogen, citric acid, pepsinogen, and prostaglandin",
-      "Spermine, fibrinolysin, and cholesterol",
-      "Hyaluronidase, HCO3-, and spermidine"
+      "Vasodilation of the straight arteries causing haemorrhage into the stroma followed by ischaemia",
+      "Vasoconstriction of the spiral arteries leading to necrosis and shedding of the endometrium",
+      "Thrombosis of the basal arteries causing widespread infarction of the stratum functionale",
+      "Prostaglandin-mediated rupture of the endometrial capillaries directly into the endometrial glands"
     ],
     "answer": "B"
   },
   {
     "id": 40,
     "type": "mcq",
-    "stem": "The seminal vesicle secretion confers a specific physical property to the semen. What property does it provide?",
+    "stem": "The proliferative phase of the uterine cycle extends between specific days. At the end of this phase, the endometrium reaches a specific thickness. Which combination is CORRECT?",
     "options": [
-      "The acidic buffering capacity that protects spermatozoa from the alkaline vaginal environment",
-      "Mucus consistency to the semen",
-      "The principal energy substrate (fructose) that fuels sperm motility after deposition",
-      "The milky appearance that is characteristic of normal freshly ejaculated semen"
+      "Days 3 to 12; endometrium is about 2 to 3 mm thick at the end",
+      "Days 5 to 14; endometrium is about 3 to 4 mm thick at the end",
+      "Days 5 to 14; endometrium is about 5 to 6 mm thick at the end",
+      "Days 6 to 14; endometrium is about 4 to 5 mm thick at the end"
     ],
     "answer": "B"
   },
   {
     "id": 41,
     "type": "mcq",
-    "stem": "Prostatic secretions have a distinctive physical appearance and a unique property when elevated in the bloodstream. Which statement MOST accurately describes prostatic secretions?",
+    "stem": "The secretory phase extends from the 15th to the 28th day. The stromal cells of the endometrium undergo specific changes during this phase. Which changes are CORRECT?",
     "options": [
-      "They are viscid, yellow, and rich in fructose; fibrinogen in the secretion contributes to initial semen coagulation",
-      "They are thin, colourless, and confer a peculiar odour; acid phosphatase appears in abnormally high levels in blood with malignant conditions of the prostate",
-      "They are thin, colourless, and rich in zinc; alkaline phosphatase is the clinical marker elevated in prostatic malignancy",
-      "They are viscid, alkaline, and contain primarily prostaglandins and vitamin C"
+      "The stromal cells shrink and their cytoplasm becomes pale; glycogen is broken down for energy",
+      "The endometrial glands become larger and more tortuous; cytoplasm of stromal cells increases in size producing glycogen and lipids; more blood vessels appear and become more tortuous; endometrium reaches 5 to 6 mm",
+      "The endometrial glands flatten and become secretory; stromal cells develop subnuclear vacuoles only",
+      "The endometrial glands remain unchanged; only the vascular supply increases during the secretory phase"
     ],
     "answer": "B"
   },
   {
     "id": 42,
     "type": "mcq",
-    "stem": "The prostatic secretion contains a comprehensive list of specific biochemical components. Which combination is CORRECTLY and MOST completely stated?",
+    "stem": "During the follicular phase of the ovarian cycle, Oestradiol influences the fallopian tube. When is the Oestradiol effect on the fallopian tube maximized, and what additional tubal changes occur?",
     "options": [
-      "Na, Ca, Zn, citrate, cholesterol, phospholipids, acid phosphatase, spermine, fibrinolysin, clotting enzymes, proteolytic enzymes",
-      "K, Mg, Zn, fructose, fibrinogen, vitamin C, pepsinogen, prostaglandin, citric acid",
-      "Na, K, HCO3-, spermine, acid phosphatase, and phosphoryl choline only",
-      "Ca, Zn, spermine, and alkaline phosphatase exclusively"
+      "The effect is maximized during the follicular phase; tubal secretions decrease to concentrate nutrients",
+      "Oestradiol increases cilia number and beating rate during the follicular phase, with this action maximized during the luteal phase; tubal secretions are also enhanced to assist in nutritional provision of the ovum or zygote",
+      "The effect is maximized during ovulation; tubal secretions become alkaline to facilitate sperm survival",
+      "Progesterone maximizes the tubal ciliary effect during the secretory phase, not oestradiol during the follicular phase"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 43,
     "type": "mcq",
-    "stem": "Prostatic secretions confer a specific visual property to the overall semen. What appearance does the prostatic secretion give to semen?",
+    "stem": "During the proliferative phase, the vaginal epithelium undergoes specific changes. Which description is CORRECT for vaginal changes during the proliferative phase?",
     "options": [
-      "A yellow viscous appearance from the prostaglandin content",
-      "A milky appearance to the semen",
-      "A watery clear appearance that dilutes the viscous seminal vesicle contribution",
-      "A faint greenish tinge due to the zinc and cholesterol content"
+      "The vaginal epithelium is atrophic and thin with few glycogen-containing cells and no leucocyte infiltration",
+      "The vaginal epithelium is cornified, multilayered, containing a lot of glycogen in the vacuole, and infiltrated by leucocytes; cornified cells reduce during the secretory phase",
+      "The vaginal epithelium becomes transitional and single-layered with abundant mucous secretion during proliferative phase",
+      "The vaginal epithelium is columnar during the proliferative phase and transitions to squamous during the secretory phase"
     ],
     "answer": "B"
   },
   {
     "id": 44,
     "type": "mcq",
-    "stem": "A specific part of the spermatozoon is responsible for its penetrating power, a different part stores energy abundantly, and a third part maintains the propelling ability. Which assignment is CORRECT?",
+    "stem": "The cervical mucus characteristics differ significantly between the proliferative and secretory phases. Which comparison is MOST accurate?",
     "options": [
-      "Head: energy store; middle piece: penetrating power; tail: propulsion",
-      "Head: penetrating power; middle piece: abundant energy store; tail: propelling ability",
-      "Head: propelling ability; middle piece: penetrating enzymes; tail: energy store",
-      "Head: acrosomal enzymes for penetration; tail: energy store from mitochondria; middle piece: propulsion"
+      "Proliferative phase: thick, tenacious, and acidic; secretory phase: thin, watery, and alkaline",
+      "Proliferative phase: thin and more alkaline; secretory phase: thick, tenacious, and cellular (pap-like)",
+      "Proliferative phase: absent (cervix is dry); secretory phase: increasing amounts of watery clear mucus",
+      "Proliferative phase: viscous and yellow; secretory phase: thin and egg-white in consistency"
     ],
     "answer": "B"
   },
   {
     "id": 45,
     "type": "mcq",
-    "stem": "During sperm maturation and transport, two critical processes occur. What are these two processes named in this curriculum?",
+    "stem": "At the time of ovulation, the cervical mucus exhibits two distinctive physical properties that can be used clinically to confirm ovulation. What are these two properties?",
     "options": [
-      "Liquefaction and capacitation",
-      "Capacitation and acrosomal reaction",
-      "Acrosomal reaction and zona pellucida dissolution",
-      "Capacitation and corona radiata dispersal"
+      "The mucus becomes thick and forms a plug (Spinnbarkeit negative); it shows a ferning pattern on microscopy",
+      "The mucus can be stretched for up to 8 to 12 cm (Spinnbarkeit) and is egg-white in character; it also exhibits a ferning pattern when spread on a slide and allowed to dry",
+      "The mucus becomes clear and watery with elasticity up to 4 to 6 cm; it shows beading on a glass slide",
+      "The mucus can be stretched up to 15 to 20 cm; it shows an arborization pattern on colposcopy"
     ],
     "answer": "B"
   },
   {
     "id": 46,
     "type": "mcq",
-    "stem": "Capacitation is not fully understood. What is currently believed to be the mechanism by which capacitation occurs in the female genital tract?",
+    "stem": "The estrous cycle in non-primate mammals differs from the menstrual cycle in a specific and critical way. What is this key difference?",
     "options": [
-      "The acidic vaginal environment activates acrosomal hyaluronidase by lowering pH around the spermatozoon",
-      "Uterine and fallopian tube fluids wash away the various inhibitory factors that can suppress sperm activity",
-      "Progesterone secreted by cumulus cells directly triggers the acrosomal membrane to fuse with the plasma membrane",
-      "Capacitation is caused by the hyperosmotic cervical mucus that triggers calcium influx into the spermatozoon"
+      "Non-primate mammals menstruate but do not ovulate spontaneously; they require coital stimulation for ovulation",
+      "Mammals other than primates (humans, chimpanzee, gorilla) do not menstruate; their sexual cycles are called estrous cycles with a conspicuous period of heat at ovulation, which is the only time female sexual interest is aroused",
+      "Non-primate mammals have an estrous cycle identical to the menstrual cycle except there is no luteal phase",
+      "The estrous cycle involves menstruation occurring at the time of ovulation rather than 14 days after it"
     ],
     "answer": "B"
   },
   {
     "id": 47,
     "type": "mcq",
-    "stem": "The acrosomal reaction involves the release of specific enzymes necessary for penetration of the ovum's protective layers. Which enzyme is specifically named, and which two structures must be penetrated?",
+    "stem": "Multiple ovulations and multiple pregnancies may occur under specific conditions. When does this most commonly occur?",
     "options": [
-      "Neuraminidase and proteolytic enzymes; penetrate the zona reaction and plasma membrane",
-      "Hyaluronidase and proteolytic enzymes; penetrate the corona radiata and zona pellucida",
-      "Acrosin and phospholipase; penetrate the cumulus oophorus and plasma membrane",
-      "Hyaluronidase and collagenase; penetrate the zona pellucida and oolemma"
+      "It occurs naturally when the FSH surge is exaggerated due to an abnormally low inhibin level",
+      "This usually occurs when there is ovulation induction with drugs, a common feature in artificial reproductive technology, and when there is more than one dominant follicle",
+      "This occurs exclusively with in vitro fertilization when multiple embryos are transferred",
+      "Multiple ovulations occur naturally in women with high LH levels throughout the follicular phase"
     ],
     "answer": "B"
   },
   {
     "id": 48,
     "type": "mcq",
-    "stem": "Sperm is stored in the epididymis and vas deferens for at least a specific period. During storage, sperm acquire one characteristic but lack another. What does sperm acquire and what does it still lack during storage?",
+    "stem": "Inability of ovulation to occur is called anovulation. What is the clinical significance of anovulation?",
     "options": [
-      "Sperm acquires morphological maturity but lacks flagellar formation",
-      "Sperm acquires motility characteristics but has no full potential for fertilization",
-      "Sperm acquires full fertilization potential but lacks progressive motility",
-      "Sperm acquires nuclear condensation but lacks the acrosome needed for penetration"
+      "Anovulation causes menorrhagia as the corpus luteum fails to form and progesterone production is absent",
+      "Anovulation is a common cause of infertility, as the inability to release an ovum prevents fertilization",
+      "Anovulation only causes primary amenorrhoea in adolescents; it does not affect fertility in established cycles",
+      "Anovulation is clinically insignificant unless it persists for more than 12 consecutive cycles"
     ],
     "answer": "B"
   },
   {
     "id": 49,
     "type": "mcq",
-    "stem": "Once deposited in the female genital tract and after developing full motility, sperm swim up at a specific speed and reach the fallopian tubes within a defined time. What is the swimming speed and the time to reach the tubes?",
+    "stem": "CASE STUDY: A 28-year-old woman presents for fertility investigations after 18 months of trying to conceive. Her menstrual cycles are regular at 30–32 days. A mid-luteal phase progesterone level (taken on day 21) is very low. The nurse explains that this finding is consistent with which condition?",
     "options": [
-      "1 mm/min; reaching tubes within 15 to 30 minutes",
-      "3 mm/min; reaching tubes within 30 to 60 minutes",
-      "5 mm/min; reaching tubes within 10 to 20 minutes",
-      "2 mm/min; reaching tubes within 60 to 90 minutes"
+      "Inadequate estradiol production from the dominant follicle during the follicular phase",
+      "Anovulation — without ovulation, no corpus luteum forms, so progesterone remains low in the luteal phase",
+      "Premature luteolysis caused by macrophage invasion of the corpus luteum before maximum growth",
+      "Deficient LH surge causing inadequate ovarian stimulation of the granulosa cells"
     ],
     "answer": "B"
   },
   {
     "id": 50,
     "type": "mcq",
-    "stem": "Three specific mechanisms aid the movement of sperm through the epididymis during transport. Which combination is CORRECT?",
+    "stem": "CASE STUDY: The same 28-year-old woman (Q49) reports bilateral lower abdominal cramping on approximately day 14 of a previous cycle, along with some light spotting. The nurse correctly identifies this as:",
     "options": [
-      "Sperm flagellar activity, uterine contractile waves, and ciliary action of the cervical epithelium",
-      "Pressure of Sertoli fluids, peristaltic movements, and ciliary action of ductular cells",
-      "Testosterone-driven vas deferens contractions, Sertoli fluid pressure, and periductal myoid cells",
-      "Gravity-assisted descent, ciliary activity, and osmotic pressure from the rete testis fluid"
+      "Premenstrual syndrome occurring unusually early in the mid-cycle",
+      "Mittelschmerz (mid-cycle pain) and mid-cycle haemorrhage, both consistent with ovulation",
+      "Implantation bleeding suggesting that fertilization may have already occurred in a previous cycle",
+      "Follicular rupture pain associated with a pathological ovarian cyst rather than normal ovulation"
     ],
     "answer": "B"
   },
   {
     "id": 51,
     "type": "mcq",
-    "stem": "Castration specifically performed as part of cancer treatment is done to treat which malignancy, and what is the clinical objective of this intervention?",
+    "stem": "CASE STUDY: A 32-year-old woman undergoing ovulation induction for IVF has follicular monitoring by ultrasound. On day 13, she has three follicles measuring 20 mm each. The fertility nurse explains the risk associated with multiple dominant follicles. What is the PRIMARY clinical risk?",
     "options": [
-      "Done as part of treatment for testicular cancer to prevent metastatic spread via lymphatics",
-      "Done as part of treatment for cancer of the prostate to reduce prostatic stimulation",
-      "Done as part of treatment for bladder cancer to eliminate androgen-driven urothelial proliferation",
-      "Done as part of treatment for adrenal cancer to remove the source of excess androgen production"
+      "Ovarian hyperstimulation syndrome from excess LH receptors being exposed simultaneously",
+      "Multiple ovulations may occur leading to multiple pregnancies including higher-order multiples",
+      "Corpus luteum insufficiency because multiple corpora lutea produce less progesterone than a single one",
+      "Premature LH surge triggered by the combined estradiol from three dominant follicles causing cancelled cycle"
     ],
     "answer": "B"
   },
   {
     "id": 52,
     "type": "mcq",
-    "stem": "Castration performed before puberty results in a characteristic body habitus. What is the specific term used to describe the tall, eunuchoid body proportions resulting from late epiphyseal closure after pre-pubertal castration?",
+    "stem": "CASE STUDY: A 25-year-old woman's endometrial biopsy on cycle day 7 shows intense proliferation of epithelial and stromal cells, glandular development, and neovascularization, with endometrial thickness of 3.5 mm. This biopsy is MOST consistent with which phase and what drove this endometrial change?",
     "options": [
-      "Klinefelter habitus",
-      "Eunuchoid habitus",
-      "Marfanoid habitus",
-      "Acromegaloid habitus"
+      "This is consistent with the early secretory phase driven by progesterone from the corpus luteum",
+      "This is consistent with the late proliferative phase driven by rising oestradiol from the developing follicle",
+      "This is consistent with the menstrual phase as the stratum functionale is regenerating",
+      "This is consistent with the mid-secretory phase with endometrial gland tortuosity and glycogen production"
     ],
     "answer": "B"
   },
   {
     "id": 53,
     "type": "mcq",
-    "stem": "Precocious puberty in males is defined as secondary sexual characteristics occurring before a specific age. What is this age?",
+    "stem": "CASE STUDY: A 35-year-old woman presents with a 5-day history of heavy menstrual bleeding with clots. The nurse explains that clot formation in menstrual blood is physiologically abnormal. What is the mechanism that normally prevents clotting, and why might clots appear?",
     "options": [
-      "Before 7 years of age",
-      "Before 8 years of age",
-      "Before 9 years of age",
-      "Before 10 years of age"
+      "Prostaglandins normally lyse menstrual blood clots; heavy flow overwhelms prostaglandin synthesis capacity",
+      "Fibrinolysins normally prevent clotting of menstrual blood; when the flow is heavy, clots could appear because the fibrinolytic mechanism is overwhelmed",
+      "The low fibrinogen content of menstrual blood prevents clotting; heavy flow restores normal fibrinogen levels causing coagulation",
+      "Endometrial heparin release prevents clotting; heavy flow dilutes the heparin below the threshold for anticoagulation"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 54,
     "type": "mcq",
-    "stem": "Delayed puberty in males is defined by failure of testicular development at a specific age. At what age is testicular development EXPECTED to have occurred, and failure at this age constitutes delayed puberty?",
+    "stem": "CASE STUDY: A 26-year-old woman asks her nurse why she feels breast swelling, tenderness, and pain in the days before her period. The nurse correctly explains that these breast changes are related to which phase of the cycle?",
     "options": [
-      "Failure to occur at 16 years of age",
-      "Failure to occur at 18 years of age",
-      "Failure to occur at 20 years of age",
-      "Failure to occur at 22 years of age"
+      "The follicular phase when rising oestradiol causes direct breast epithelial proliferation",
+      "The days preceding menstruation, when cyclical breast swelling, tenderness, and pain are a recognized change",
+      "The periovulatory period when the LH surge causes fluid retention in breast tissue",
+      "The early proliferative phase when FSH stimulates prolactin release causing breast engorgement"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 55,
     "type": "mcq",
-    "stem": "Male hypogonadism occurring when testes of a male fetus are non-functional during fetal life is classified into two distinct subtypes. What determines whether it is hypergonadotropic or hypogonadotropic?",
+    "stem": "CASE STUDY: A fertility nurse is teaching a group of women to use cervical mucus observation for natural family planning. She explains that the most fertile window is identifiable by a specific mucus characteristic. Which description indicates peak fertility?",
     "options": [
-      "It is hypergonadotropic when due to hypothalamic or pituitary failure, and hypogonadotropic when due to testicular failure",
-      "It is hypergonadotropic when due to testicular failure, and hypogonadotropic when due to hypothalamic or pituitary failure",
-      "Both types have identical gonadotropin patterns; they are distinguished only by testosterone levels",
-      "It is hypergonadotropic when LH alone is elevated, and hypogonadotropic when only FSH is elevated"
+      "The mucus is thick, sticky, and white, consistent with the secretory phase mucus",
+      "The mucus is egg-white, can be stretched 8 to 12 cm (Spinnbarkeit), and shows a fern pattern on a slide — indicating ovulation and peak fertility",
+      "The mucus is absent (dry days), indicating that no estrogen is present and ovulation is imminent",
+      "The mucus is creamy and yellowish, indicating late follicular phase estrogen approaching but not yet at ovulation peak"
     ],
     "answer": "B"
   },
   {
     "id": 56,
     "type": "mcq",
-    "stem": "Testicular hypergonadism occurs when testicular tumors produce excessive androgens. Which combination of effects results from this excessive androgen production?",
+    "stem": "CASE STUDY: A 23-year-old nursing student asks why cycles are longest immediately after puberty and in the few years leading up to menopause. The instructor explains that these periods are characterized by which specific cycle feature?",
     "options": [
-      "Excessive muscular and hair growth, and potential precocious puberty if it occurs early",
-      "Excessive bone density with early epiphyseal fusion, and suppression of gonadotropins causing infertility",
-      "Gynaecomastia, testicular atrophy from FSH suppression, and azoospermia",
-      "Short stature from early epiphyseal closure, polycythaemia, and aggressive cardiovascular disease"
+      "The luteal phase is longest at the extremes of reproductive life, extending from 14 to 20 days",
+      "Cycles are longest at these times because the follicular phase is variable and is most frequently prolonged or irregular at the beginning and near the end of reproductive life",
+      "The secretory phase becomes progressively shorter at both puberty onset and perimenopause",
+      "Both phases are equally prolonged at these times due to elevated FSH levels stimulating follicular development"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 57,
     "type": "mcq",
-    "stem": "CASE STUDY: A 38-year-old man presents to a fertility clinic. Semen analysis shows: volume 1.8 ml, concentration 13 x 10â¶ cells/ml, progressive motility 28%, morphology 3% normal forms. Based on WHO 2010 lower reference values, which parameter FIRST defines this semen sample as abnormal?",
+    "stem": "CASE STUDY: An ultrasound on day 10 of a 28-day cycle reveals a 22 mm dominant follicle, with all other follicles appearing small and atretic. The nurse explains why only one follicle typically becomes dominant. What is the BEST explanation?",
     "options": [
-      "Morphology at 3% â below the WHO 2010 threshold of more than 4% normal forms",
-      "Concentration at 13 x 10â¶ cells/ml â below the WHO 2010 minimum of 15 x 10â¶ cells/ml",
-      "Progressive motility at 28% â below the WHO 2010 minimum of 32% progressively motile",
-      "Volume at 1.8 ml â below the WHO 2010 minimum lower reference of 1.6 ml but technically within the 1.6-6.8 ml range"
+      "Only one follicle receives blood supply from the ovarian artery and is therefore uniquely stimulated by FSH",
+      "The dominant follicle produces the greatest oestradiol and inhibin, suppressing FSH to levels too low for other follicles to survive, but the dominant follicle can continue to grow at these lower FSH levels",
+      "The dominant follicle secretes a specific follicle-killing protein that causes atresia of all other follicles",
+      "Random selection by the pituitary determines which follicle becomes dominant through selective LH pulsatility"
     ],
     "answer": "B"
   },
   {
     "id": 58,
     "type": "mcq",
-    "stem": "CASE STUDY: For the same 38-year-old man (Q57), the concentration of 13 x 10â¶ cells/ml means he meets the clinical definition of which sperm parameter abnormality?",
+    "stem": "CASE STUDY: A patient undergoing fallopian tube surgery presents post-operatively with difficulty conceiving. The surgical report mentions micro and macro tubal damage. The nurse explains the consequence of tubal damage correctly as:",
     "options": [
-      "Azoospermia â as his count falls below 15 million/ml making the ejaculate functionally equivalent to no sperm",
-      "Oligospermia â as his concentration is below the threshold of 15,000,000 per ml",
-      "Aspermia â as his low count means the sample has insufficient volume to contain adequate sperm numbers",
-      "Necrospermia â as his low motility combined with low count suggests primarily dead spermatozoa"
+      "Tubal damage reduces FSH sensitivity and impairs follicular development in the ipsilateral ovary",
+      "Tubal damage (micro or macro) affects tubal function and may cause infertility or ectopic pregnancy",
+      "Tubal damage prevents menstruation by blocking retrograde outflow of menstrual blood",
+      "Micro tubal damage has no clinical significance; only macro tubal damage causes infertility"
     ],
     "answer": "B"
   },
   {
     "id": 59,
     "type": "mcq",
-    "stem": "CASE STUDY: A 42-year-old man is referred for semen analysis after a year of infertility. The laboratory reports no ejaculate was produced despite orgasm. The nurse correctly documents this as which condition?",
+    "stem": "CASE STUDY: An endometrial biopsy taken on day 21 shows tortuous glands, stromal cells with increased cytoplasm containing glycogen and lipids, and prominent tortuous blood vessels, with endometrial thickness of 5.5 mm. This finding is MOST consistent with which endometrial phase?",
     "options": [
-      "Azoospermia â complete absence of spermatozoa from the ejaculate",
-      "Aspermia â complete absence of any ejaculate",
-      "Retrograde ejaculation â ejaculate was present but diverted into the bladder during orgasm",
-      "Oligospermia â inadequate sperm count due to failure of ejaculation mechanism"
+      "Late proliferative phase driven by high estradiol levels from the dominant Graafian follicle",
+      "Normal secretory phase endometrium consistent with the 15th to 28th day of the uterine cycle",
+      "Endometrial hyperplasia caused by unopposed estrogen without progesterone opposition",
+      "Early proliferative phase with intense stromal proliferation driven by recovering FSH levels"
     ],
     "answer": "B"
   },
   {
     "id": 60,
     "type": "mcq",
-    "stem": "CASE STUDY: A clinical biochemist explains why the acid phosphatase in prostatic secretion is clinically significant. A 65-year-old man presents with abnormally high blood levels of acid phosphatase. What is the MOST likely implication of this finding based on the curriculum?",
+    "stem": "CASE STUDY: A 40-year-old perimenopausal woman reports cycles of 21 days followed by 42 days, alternating irregularly. The fertility nurse explains this is due to variability in which phase specifically?",
     "options": [
-      "It indicates Sertoli cell dysfunction with impaired inhibin production causing compensatory FSH elevation",
-      "It suggests a malignant condition of the prostate, as acid phosphatase appears in abnormally high blood levels in prostatic malignancy",
-      "It indicates excessive androgenic stimulation causing hypertrophy of the prostate without malignancy",
-      "It indicates primary testicular failure causing compensatory adrenal androgen production"
+      "Variability in the luteal phase length, which normally remains constant but extends during perimenopause",
+      "Variability in the follicular phase length, which is the variable portion of the menstrual cycle; the luteal phase remains almost always constant at 14 days",
+      "Variability in both phases equally, as declining ovarian reserve disrupts all aspects of cycle regulation",
+      "Variability in the menstrual phase duration, leading to shorter cycles when flow is brief and longer when prolonged"
     ],
     "answer": "B"
   },
   {
     "id": 61,
-    "type": "mcq",
-    "stem": "CASE STUDY: A 29-year-old male patient with known orchitis following a mumps infection presents with infertility. The nurse explains the link between orchitis and infertility. Which mechanism MOST directly explains how orchitis impairs fertility?",
-    "options": [
-      "Orchitis causes autoimmune destruction of Leydig cells, eliminating testosterone production needed for secondary sexual characteristics",
-      "Orchitis (testicular inflammation) reduces spermatogenesis by damaging the seminiferous epithelium",
-      "Orchitis disrupts the hypothalamic-pituitary-testicular axis by releasing inflammatory cytokines that inhibit GnRH pulses",
-      "Orchitis causes fibrous obliteration of the vas deferens preventing transport of otherwise normal spermatozoa"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "The menstrual cycle normally starts at about ___ to ___ years (menarche) and stops at about ___ to ___ years (menopause).",
+    "answer": "13 / 15 / 45 / 55",
+    "acceptableAnswers": [
+      "13 / 15 / 45 / 55",
+      "13-15 years / 45-55 years"
+    ]
   },
   {
     "id": 62,
-    "type": "mcq",
-    "stem": "CASE STUDY: A 55-year-old man with known prostate cancer is offered castration (orchidectomy) as part of his management. His wife asks the nurse how removing the testes will help treat prostate cancer. The nurse correctly explains that:",
-    "options": [
-      "The testes produce FSH which directly stimulates prostate cancer cell proliferation; orchidectomy removes this stimulatory hormone",
-      "The testes produce testosterone under LH stimulation; removing the testes eliminates testosterone, thus reducing prostatic stimulation that drives cancer growth",
-      "The testes produce oestrogen that paradoxically promotes prostate cancer; removing this oestrogen source causes cancer regression",
-      "The testes produce DHT that stimulates Wolffian duct derivatives including the prostate; orchidectomy eliminates this growth signal"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "The normal range of the menstrual cycle is between ___ and ___ days, with only ___% of individuals having a perfect 28-day cycle.",
+    "answer": "21 / 35 / 15",
+    "acceptableAnswers": [
+      "21 / 35 / 15",
+      "21 to 35 days / 15%"
+    ]
   },
   {
     "id": 63,
-    "type": "mcq",
-    "stem": "CASE STUDY: A couple presents with infertility. The male partner's semen analysis is submitted. Prior to collection, the laboratory recommends a specific preparation period. Which recommendation is standard per the curriculum?",
-    "options": [
-      "3 days abstinence with collection by masturbation and examination within 1 hour",
-      "5 days abstinence with collection by masturbation and examination within 2 hours",
-      "7 days abstinence with collection by masturbation and examination within 4 hours",
-      "2 days abstinence with collection during intercourse using a special condom"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "The length of the ___ phase is variable, while that of the ___ phase is almost always constant at ___ days.",
+    "answer": "follicular / luteal / 14",
+    "acceptableAnswers": [
+      "follicular / luteal / 14",
+      "follicular phase / luteal phase / 14 days"
+    ]
   },
   {
     "id": 64,
-    "type": "mcq",
-    "stem": "CASE STUDY: A nurse educator explains testosterone's effect on erythropoiesis to a group of nursing students. A student asks why men have higher haemoglobin levels than women. The nurse correctly answers that testosterone increases RBC production by which specific percentage above baseline?",
-    "options": [
-      "5 to 10%",
-      "10 to 15%",
-      "15 to 20%",
-      "20 to 25%"
-    ],
-    "answer": "C"
+    "type": "fitb",
+    "stem": "Menstrual flow lasts ___ to ___ days with an average blood loss of about ___ to ___ ml per month; the blood is normally non-clotting due to the action of ___.",
+    "answer": "2 / 8 / 30 / 50 / fibrinolysins",
+    "acceptableAnswers": [
+      "2 / 8 / 30 / 50 / fibrinolysins",
+      "2-8 days / 30-50 ml / fibrinolysins"
+    ]
   },
   {
     "id": 65,
-    "type": "mcq",
-    "stem": "CASE STUDY: A 32-year-old man is found to have bilateral undescended testes (cryptorchidism) that were never corrected. He now has azoospermia but normal testosterone levels and normal secondary sexual characteristics. The nurse explains why his testosterone is normal despite azoospermia. Which explanation is MOST correct?",
-    "options": [
-      "Leydig cells do not require optimal scrotal temperature for testosterone synthesis; only spermatogenesis is temperature-sensitive, so testosterone production is preserved despite cryptorchidism",
-      "Adrenal androgens fully compensate for the absent testicular testosterone in cryptorchidism",
-      "The elevated intra-abdominal temperature in cryptorchidism selectively damages Sertoli cells but not Leydig cells",
-      "Leydig cells are stimulated by FSH rather than LH, and FSH pulses are temperature-independent"
-    ],
-    "answer": "A"
+    "type": "fitb",
+    "stem": "The ovary measures ___ cm x ___ cm x ___ cm; it is located in the ___ fossa; and its outer surface is lined by germinal epithelium beneath the fibrous covering called the ___ albuginea.",
+    "answer": "4 / 2 / 1 / ovarian / tunica",
+    "acceptableAnswers": [
+      "4 / 2 / 1 / ovarian / tunica",
+      "4 x 2 x 1 cm / ovarian fossa / tunica albuginea"
+    ]
   },
   {
     "id": 66,
-    "type": "mcq",
-    "stem": "CASE STUDY: A 12-year-old boy presents with advanced secondary sexual characteristics including deep voice, adult pubic hair pattern, and penile enlargement. Investigation reveals markedly elevated testosterone from a testicular Leydig cell tumor. This presentation is MOST consistent with which abnormality of the male reproductive system?",
-    "options": [
-      "Hypogonadotropic hypogonadism causing paradoxical activation of testosterone receptors",
-      "Hypergonadism from a testicular tumor producing excessive androgens, leading to precocious puberty",
-      "Precocious puberty from gonadotropin-dependent central activation of the HPO axis",
-      "Constitutional precocious puberty with incidental Leydig cell hyperplasia"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "At about the ___ month of intrauterine life, the ovary contains ___ x 10⁶ primordial follicles; at ___, the ovaries contain only about ___ x 10⁶ follicles due to atresia.",
+    "answer": "5th / 7 / birth / 2",
+    "acceptableAnswers": [
+      "5th / 7 / birth / 2",
+      "fifth / 7 million / birth / 2 million"
+    ]
   },
   {
     "id": 67,
-    "type": "mcq",
-    "stem": "CASE STUDY: A 24-year-old male athlete is being counselled about the risks of anabolic steroid use. The nurse explains the cardiovascular risk using testosterone's metabolic effects. Which statement MOST accurately explains this risk?",
-    "options": [
-      "Anabolic steroids increase HDL and reduce LDL, paradoxically worsening endothelial function through reverse cholesterol transport",
-      "Anabolic steroids (androgens) increase LDL and VLDL while decreasing HDL, making users more prone to atherosclerosis",
-      "Anabolic steroids increase total cholesterol uniformly without altering the HDL/LDL ratio, only modestly increasing cardiovascular risk",
-      "Anabolic steroids primarily cause hypertension through sodium and water retention without significant lipid profile changes"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "At puberty only ___ follicles remain, and eventually only ___ may reach full maturity throughout the woman's life; atresia is caused by ___ or programmed cell death.",
+    "answer": "500,000 / 500 / apoptosis",
+    "acceptableAnswers": [
+      "500,000 / 500 / apoptosis",
+      "500 000 / 500 / apoptosis"
+    ]
   },
   {
     "id": 68,
-    "type": "mcq",
-    "stem": "CASE STUDY: A researcher studying sperm capacitation in vitro notes that sperm placed directly in culture medium without uterine fluid fail to fertilize the ova. After adding fallopian tube fluid, fertilization succeeds. What is the MOST likely explanation based on the curriculum?",
-    "options": [
-      "Fallopian tube fluid provides the fructose substrate that activates anaerobic metabolism in capacitated sperm",
-      "Uterine and fallopian tube fluids wash away inhibitory factors that suppress sperm activity, enabling capacitation",
-      "Fallopian tube fluid activates the acrosomal hyaluronidase by providing calcium ions for the acrosomal reaction",
-      "Fallopian tube fluid contains progesterone that directly triggers zona pellucida receptor expression on the sperm head"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "In utero, primordial germ cells migrate at about the ___ week from the primitive ___ sac, through the dorsal mesentery to the genital ridge, where they mature into oogonia.",
+    "answer": "third / yolk",
+    "acceptableAnswers": [
+      "third / yolk",
+      "3rd / yolk",
+      "third week / yolk sac"
+    ]
   },
   {
     "id": 69,
-    "type": "mcq",
-    "stem": "CASE STUDY: A pathologist examining a semen sample notes fibrinogen and fibrinolysin in the report. A student asks which gland is responsible for these components and their physiological role. Which answer is MOST correct?",
-    "options": [
-      "Fibrinogen comes from the seminal vesicle causing initial coagulation; fibrinolysin from the prostate causes subsequent liquefaction",
-      "Both fibrinogen and fibrinolysin come from the prostate; fibrinolysin degrades the fibrinogen clot formed initially",
-      "Fibrinogen and fibrinolysin both originate from the seminal vesicle; they maintain viscosity throughout storage",
-      "Fibrinogen comes from bulbourethral glands; fibrinolysin comes from urethral glands"
-    ],
-    "answer": "A"
+    "type": "fitb",
+    "stem": "Oogonia divide ___ into primary oocytes; primary oocytes then undergo the first ___ division, but this is arrested at early prophase (___ stage).",
+    "answer": "mitotically / meiotic / diplotene",
+    "acceptableAnswers": [
+      "mitotically / meiotic / diplotene",
+      "mitotically / meiotic division / diplotene stage"
+    ]
   },
   {
     "id": 70,
-    "type": "mcq",
-    "stem": "CASE STUDY: A 17-year-old male with Klinefelter's syndrome (47XXY) is evaluated for delayed testicular development at age 22. He has small testes, gynaecomastia, and very high FSH/LH with very low testosterone. The nurse correctly classifies this as which type of hypogonadism and explains the gonadotropin pattern?",
-    "options": [
-      "Hypogonadotropic hypogonadism with low FSH and LH because the pituitary has failed to respond to the absent testosterone",
-      "Hypergonadotropic hypogonadism with high FSH and LH because the testes have failed as primary organs, removing negative feedback",
-      "Eugonadotrophic hypogonadism with normal FSH and LH despite end-organ testicular resistance",
-      "Hypogonadotropic hypogonadism with selective LH deficiency preserving FSH for residual spermatogenesis"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "At birth, all germ cells in the ovary are ___ oocytes; first meiotic division is completed just before ___ to form the secondary oocyte and the first ___ body.",
+    "answer": "primary / ovulation / polar",
+    "acceptableAnswers": [
+      "primary / ovulation / polar",
+      "primary oocytes / ovulation / polar body"
+    ]
   },
   {
     "id": 71,
     "type": "fitb",
-    "stem": "Testosterone is a ___ steroid produced by the ___ cells under ___ stimulation.",
-    "answer": "C19 / Leydig / LH",
+    "stem": "The second meiotic division is only completed just before ___ with spermatozoa, forming the mature ___ and the second polar body; if there are no spermatozoa, this process ___ be completed.",
+    "answer": "fertilization / oocyte / may not",
     "acceptableAnswers": [
-      "C19 / Leydig / LH",
-      "C19 steroid / Leydig / luteinizing hormone",
-      "C-19 / Leydig cells / LH"
+      "fertilization / oocyte / may not",
+      "fertilization / mature oocyte / may not"
     ]
   },
   {
     "id": 72,
     "type": "fitb",
-    "stem": "Of plasma testosterone, 98% is bound to proteins: sex hormone binding globulin binds ___% while ___% binds to albumin; only ___% is free.",
-    "answer": "65 / 33 / 2",
+    "stem": "The primordial follicle has the primary oocyte surrounded by a single layer of ___ granulosa cells; during the primary follicle stage, the zona pellucida (a ___ layer) appears between the oocyte and granulosa cells.",
+    "answer": "flattened / glycoprotein",
     "acceptableAnswers": [
-      "65 / 33 / 2",
-      "65% / 33% / 2%"
+      "flattened / glycoprotein",
+      "flattened granulosa / glycoprotein"
     ]
   },
   {
     "id": 73,
     "type": "fitb",
-    "stem": "The plasma testosterone level is ___ to ___ nmol/L in adult males and ___ to ___ nmol/L in adult females.",
-    "answer": "10.4 / 34.7 / 1.04 / 2.43",
+    "stem": "Connective tissue around the primary follicle forms two layers: the inner vascular ___ and the outer avascular ___ .",
+    "answer": "theca interna / theca externa",
     "acceptableAnswers": [
-      "10.4 / 34.7 / 1.04 / 2.43",
-      "10.4-34.7 nmol/L / 1.04-2.43 nmol/L"
+      "theca interna / theca externa",
+      "theca interna (vascular) / theca externa (avascular)"
     ]
   },
   {
     "id": 74,
     "type": "fitb",
-    "stem": "Testosterone is oxidized in the liver to produce 17-keto steroids: ___, epiandrosterone, and ___.",
-    "answer": "androsterone / etiocholanolone",
+    "stem": "During secondary follicle development, irregular spaces in the granulosa cells fuse to form the follicular ___, which contains mucopolysaccharides, plasma proteins, electrolytes, and steroidogenic enzymes; the granulosa cells lining the antrum form the membrane ___.",
+    "answer": "antrum / granulosa",
     "acceptableAnswers": [
-      "androsterone / etiocholanolone",
-      "Androsterone / Etiocholanolone"
+      "antrum / granulosa",
+      "follicular antrum / membrane granulosa"
     ]
   },
   {
     "id": 75,
     "type": "fitb",
-    "stem": "After hepatic oxidation, 17-keto steroids are conjugated with ___ and ___ before being excreted in urine or bile.",
-    "answer": "sulphates / glucuronides",
+    "stem": "The dominant follicle is selected at about the ___ day of the cycle; it produces the greatest amount of ___ and inhibin, and is capable of continued development in the face of falling ___ levels.",
+    "answer": "7th / oestradiol / FSH",
     "acceptableAnswers": [
-      "sulphates / glucuronides",
-      "sulfates / glucuronides",
-      "glucuronides / sulphates"
+      "7th / oestradiol / FSH",
+      "7 / estradiol / FSH"
     ]
   },
   {
     "id": 76,
     "type": "fitb",
-    "stem": "Testosterone's action on the prostate, hair distribution, acne formation, and external genitalia is mediated via conversion to ___, which is a product of ___ reductase activity.",
-    "answer": "dihydrotestosterone (DHT) / 5-alpha",
+    "stem": "The Graafian follicle reaches ___ to ___ mm in diameter by day 14; the first meiotic division is ___ and the second meiotic division is arrested at ___.",
+    "answer": "18 / 22 / completed / metaphase",
     "acceptableAnswers": [
-      "dihydrotestosterone (DHT) / 5-alpha",
-      "DHT / 5-alpha",
-      "dihydrotestosterone / 5Î±"
+      "18 / 22 / completed / metaphase",
+      "18-22 mm / completed / metaphase"
     ]
   },
   {
     "id": 77,
     "type": "fitb",
-    "stem": "During fetal life, testosterone stimulates differentiation of the ___ duct to male internal genitalia and produces ___ that aids degeneration of the female reproductive tract.",
-    "answer": "Wolffian / MIF",
+    "stem": "Ovulation occurs on day ___ in a normal 28-day cycle, triggered by an ___ surge; the Graafian follicle ruptures and releases a ___ oocyte into the abdominal cavity.",
+    "answer": "14 / LH / secondary",
     "acceptableAnswers": [
-      "Wolffian / MIF",
-      "Wolffian duct / MIF",
-      "Wolffian / MÃ¼llerian inhibitory factor",
-      "Wolffian / Mullerian inhibiting factor"
+      "14 / LH / secondary",
+      "14th / LH surge / secondary oocyte"
     ]
   },
   {
     "id": 78,
     "type": "fitb",
-    "stem": "Testosterone increases the basal metabolic rate by ___%, increases RBC production by ___ to ___%, and increases LDL and VLDL while decreasing ___ making men more prone to atherosclerosis.",
-    "answer": "15 / 15 / 20 / HDL",
+    "stem": "Ovulation may be associated with mid-cycle pain called ___, mid-cycle haemorrhage, and a ___ rise in body temperature of ___ degrees Celsius.",
+    "answer": "mittelschmerz / biphasic / 0.5",
     "acceptableAnswers": [
-      "15 / 15 / 20 / HDL",
-      "15% / 15-20% / HDL"
+      "mittelschmerz / biphasic / 0.5",
+      "Mittelschmerz / biphasic / 0.5°C"
     ]
   },
   {
     "id": 79,
     "type": "fitb",
-    "stem": "GnRH is a ___-amino acid peptide secreted in ___ by neurons in the arcuate nucleus into the median eminence, and is transported to the anterior pituitary via the ___ portal system.",
-    "answer": "10 / pulses / hypothalamohypophyseal",
+    "stem": "Immediately after ovulation, the follicle fills with blood forming the corpus ___; the granulosa and theca interna cells then become the ___ lutein and theca lutein cells and the corpus luteum measures about ___ mm in diameter.",
+    "answer": "haemorrhagicum / granulosa / 15",
     "acceptableAnswers": [
-      "10 / pulses / hypothalamohypophyseal",
-      "ten / pulses / hypothalamohypophyseal",
-      "10 / pulsatile manner / hypothalamo-hypophyseal"
+      "haemorrhagicum / granulosa / 15",
+      "corpus haemorrhagicum / granulosa lutein / 15 mm"
     ]
   },
   {
     "id": 80,
     "type": "fitb",
-    "stem": "FSH stimulates Sertoli cells to produce the glycoprotein ___ which feeds back on the ___ pituitary to decrease FSH production; FSH and LH act on target cells via the ___ 2nd messenger mechanism.",
-    "answer": "inhibin / anterior / cAMP",
+    "stem": "If the ovum is not fertilized, maximum corpus luteum growth occurs at ___ to ___ days post-ovulation; degeneration begins on the ___ day post-ovulation; luteolysis is achieved by ___, leukocyte, and fibroblast invasion.",
+    "answer": "7 / 8 / 9th / macrophage",
     "acceptableAnswers": [
-      "inhibin / anterior / cAMP",
-      "inhibin / anterior pituitary / cAMP"
+      "7 / 8 / 9th / macrophage",
+      "7-8 days / 9th day / macrophage"
     ]
   },
   {
     "id": 81,
     "type": "fitb",
-    "stem": "The aromatase activity of Sertoli cells produces about ___% of oestrogens in males, while the rest of male oestrogen is produced by ___ gonadal aromatization.",
-    "answer": "25 / extra",
+    "stem": "The regressed corpus luteum forms the corpus luteum ___ or spurium, which is transformed into a whitish scar called corpus ___.",
+    "answer": "menstrualis / albicans",
     "acceptableAnswers": [
-      "25 / extra",
-      "25% / extra-gonadal",
-      "twenty-five / extra"
+      "menstrualis / albicans",
+      "corpus luteum menstrualis / corpus albicans"
     ]
   },
   {
     "id": 82,
     "type": "fitb",
-    "stem": "Semen consists of spermatozoa (___%), secretions from the seminal vesicle (___%), secretion from the prostate (___%), and secretions from bulbourethral and urethral glands (less than 7%).",
-    "answer": "10 / 60 / 30",
+    "stem": "If fertilization occurs, the corpus luteum of pregnancy increases to ___ to ___ mm in diameter, produces large amounts of progesterone, estrogen, and ___ A; degeneration then occurs at about ___ to ___ months.",
+    "answer": "20 / 30 / inhibin / 3 / 4",
     "acceptableAnswers": [
-      "10 / 60 / 30",
-      "10% / 60% / 30%",
-      "ten / sixty / thirty"
+      "20 / 30 / inhibin / 3 / 4",
+      "20-30 mm / inhibin A / 3-4 months"
     ]
   },
   {
     "id": 83,
     "type": "fitb",
-    "stem": "The WHO 2010 lower reference values for semen include: volume ___ to ___ ml, concentration at least ___ x 10â¶ cells/ml, and progressive motility more than ___%.",
-    "answer": "1.6 / 6.8 / 15 / 32",
+    "stem": "The uterine changes occur in the ___ layer and can be divided into three phases: the ___ phase, the proliferative phase, and the ___ phase.",
+    "answer": "endometrial / menstrual / secretory",
     "acceptableAnswers": [
-      "1.6 / 6.8 / 15 / 32",
-      "1.6-6.8 ml / 15 million / 32%"
+      "endometrial / menstrual / secretory",
+      "endometrium / menstrual phase / secretory phase"
     ]
   },
   {
     "id": 84,
     "type": "fitb",
-    "stem": "When the ejaculate contains no spermatozoa, the term is ___; when there is an inadequate number of spermatozoa (less than 15,000,000/ml), the term is ___; and when there is no ejaculate at all, the term is ___.",
-    "answer": "azoospermia / oligospermia / aspermia",
+    "stem": "The menstrual phase lasts about ___ days; the superficial two-thirds of the endometrium, called stratum ___, is shed; the ___ layer remains intact as the regenerative base.",
+    "answer": "5 / functionale / stratum basalis",
     "acceptableAnswers": [
-      "azoospermia / oligospermia / aspermia",
-      "azoospermia / oligospermia / aspermia"
+      "5 / functionale / stratum basalis",
+      "5 days / stratum functionale / stratum basalis"
     ]
   },
   {
     "id": 85,
     "type": "fitb",
-    "stem": "The liquefaction time for normal semen should be within ___ minutes, the morphology threshold requires more than ___% normal forms (WHO 2010), and the WBC count must be less than ___ x 10â¶/ml.",
-    "answer": "30 / 4 / 1",
+    "stem": "The proliferative phase extends from day ___ to ___, driven by rising ___ from the developing follicle; the endometrium reaches ___ to ___ mm thickness at the end.",
+    "answer": "5 / 14 / oestradiol / 3 / 4",
     "acceptableAnswers": [
-      "30 / 4 / 1",
-      "30 minutes / 4% / 1 x 10â¶"
+      "5 / 14 / oestradiol / 3 / 4",
+      "5th / 14th / oestradiol (estradiol) / 3-4 mm"
     ]
   },
   {
     "id": 86,
     "type": "fitb",
-    "stem": "Seminal vesicle secretions are viscid, ___, and yellow; they are rich in vitamin C, ___, and high K+; and they also contain phosphoryl choline, fibrinogen, citric acid, ___, and prostaglandin.",
-    "answer": "alkaline / fructose / pepsinogen",
+    "stem": "The secretory phase extends from day ___ to day ___; the endometrium reaches ___ to ___ mm thickness; stromal cells produce ___ and lipids.",
+    "answer": "15 / 28 / 5 / 6 / glycogen",
     "acceptableAnswers": [
-      "alkaline / fructose / pepsinogen",
-      "alkaline / fructose / pepsinogen (and citric acid)"
+      "15 / 28 / 5 / 6 / glycogen",
+      "15th / 28th / 5-6 mm / glycogen"
     ]
   },
   {
     "id": 87,
     "type": "fitb",
-    "stem": "Prostatic secretions are thin, colourless, and confer a ___ odour; they give semen its ___ appearance; and acid ___ appears in abnormally high blood levels in malignant conditions of the prostate.",
-    "answer": "peculiar / milky / phosphatase",
+    "stem": "During the follicular phase, oestradiol increases the number of ___ and the rate of beating in the fallopian tube; this action is ___ during the luteal phase; tubal secretions are also enhanced for ___ provision of the ovum or zygote.",
+    "answer": "cilia / maximized / nutritional",
     "acceptableAnswers": [
-      "peculiar / milky / phosphatase",
-      "peculiar (characteristic) / milky / phosphatase"
+      "cilia / maximized / nutritional",
+      "cilia / maximised / nutritional"
     ]
   },
   {
     "id": 88,
     "type": "fitb",
-    "stem": "Normal semen has a specific gravity of ___ and a ___ reaction (pH greater than 7.2). The seminal vesicle secretion provides ___ consistency to semen while the prostate secretion provides the ___ appearance.",
-    "answer": "1.028 / alkaline / mucus / milky",
+    "stem": "During the proliferative phase, cervical mucus is ___ and more ___; at the time of ovulation it can be stretched up to ___ to ___ cm (spinnibarkeit) and is ___ white in character.",
+    "answer": "thin / alkaline / 8 / 12 / egg",
     "acceptableAnswers": [
-      "1.028 / alkaline / mucus / milky",
-      "1.028 / alkaline reaction / mucus consistency / milky appearance"
+      "thin / alkaline / 8 / 12 / egg",
+      "thin and alkaline / 8-12 cm / egg white"
     ]
   },
   {
     "id": 89,
     "type": "fitb",
-    "stem": "In the spermatozoon, the ___ has excellent penetrating power, the ___ has abundant energy store, and the ___ maintains propelling ability.",
-    "answer": "head / middle piece / tail",
+    "stem": "During the secretory phase, cervical mucus is ___, tenacious, and ___ (pap-like); at the time of ovulation, the mucus exhibits a ___ pattern when spread on a slide and allowed to dry.",
+    "answer": "thick / cellular / ferning",
     "acceptableAnswers": [
-      "head / middle piece / tail",
-      "head / midpiece / tail"
+      "thick / cellular / ferning",
+      "thick / cellular (pap-like) / ferning pattern"
     ]
   },
   {
     "id": 90,
     "type": "fitb",
-    "stem": "During sperm maturation, two processes occur: ___ (where uterine and fallopian fluids wash away inhibitory factors) and the ___ reaction (where hyaluronidase and proteolytic enzymes are released for penetration).",
-    "answer": "capacitation / acrosomal",
+    "stem": "The female reproductive system is made up of the primary sex organ (the ___) and accessory sex organs (uterus, tubes, ___, and external genitalia); the life of females can be divided into ___ phases.",
+    "answer": "ovary / vagina / 4",
     "acceptableAnswers": [
-      "capacitation / acrosomal",
-      "Capacitation / acrosomal",
-      "capacitation / the acrosomal"
+      "ovary / vagina / 4",
+      "ovary / vagina / four"
     ]
   },
   {
     "id": 91,
     "type": "fitb",
-    "stem": "Sperm is stored in the ___ and vas for at least a ___, during which it acquires ___ characteristics but no full potential for fertilization; deposited in the female genital tract, sperm swim up at ___ mm/min reaching the tubes within ___ to ___ minutes.",
-    "answer": "epididymis / month / motility / 3 / 30 / 60",
+    "stem": "Mammals other than ___ (humans, chimpanzee, gorilla) do not ___; their sexual cycles are called ___ cycles; at ovulation there is a conspicuous period of ___ which is the only time female sexual interest is aroused.",
+    "answer": "primates / menstruate / estrous / heat",
     "acceptableAnswers": [
-      "epididymis / month / motility / 3 / 30 / 60",
-      "epididymis / one month / motility characteristics / 3mm/min / 30-60 minutes"
+      "primates / menstruate / estrous / heat",
+      "primates / menstruate / oestrous (estrous) / heat"
     ]
   },
   {
     "id": 92,
     "type": "fitb",
-    "stem": "Sperm movement through the epididymis is aided by pressure of ___ fluids, ___ movements, and ciliary actions of ductular cells.",
-    "answer": "Sertoli / peristaltic",
+    "stem": "During childhood, granulosa cells provide ___ for the ovum and secrete oocyte ___ factor that keeps the ovum suspended in the ___ stage of the first meiotic division.",
+    "answer": "nourishment / maturation inhibition / prophase",
     "acceptableAnswers": [
-      "Sertoli / peristaltic",
-      "Sertoli cell / peristaltic",
-      "Sertoli fluids / peristaltic movements"
+      "nourishment / maturation inhibition / prophase",
+      "nourishment (nutrition) / oocyte maturation inhibition factor / prophase"
     ]
   },
   {
     "id": 93,
     "type": "fitb",
-    "stem": "Castration is also called ___ and when done before puberty, individuals are usually ___ than normal due to ___ epiphyseal closure, producing a body habitus called eunuchoid.",
-    "answer": "orchidectomy / taller / late",
+    "stem": "During secondary follicle development, the group of granulosa cells that surround the ovum at its eccentric location are called ___ oophorous or ___ hill cells; the granulosa cells lining the antrum form the membrane ___.",
+    "answer": "cumulus / germ / granulosa",
     "acceptableAnswers": [
-      "orchidectomy / taller / late",
-      "orchidectomy / taller than normal / late (delayed) epiphyseal closure"
+      "cumulus / germ / granulosa",
+      "cumulus oophorous / germ hill cells / membrane granulosa"
     ]
   },
   {
     "id": 94,
     "type": "fitb",
-    "stem": "Precocious puberty in males occurs when secondary sexual characteristics appear before the normal age of ___ years; delayed puberty occurs when testicular development fails to occur at ___ years.",
-    "answer": "9 / 20",
+    "stem": "The ovum after release is transported to the ___ by the octopus action of ___ ovarica, then propelled to the ampulla by tubular ___ and ciliary action of the tubes.",
+    "answer": "infundibulum / fimbriae / peristalsis",
     "acceptableAnswers": [
-      "9 / 20",
-      "nine / twenty",
-      "9 years / 20 years"
+      "infundibulum / fimbriae / peristalsis",
+      "infundibulum / fimbriae ovarica / tubular peristalsis"
     ]
   },
   {
     "id": 95,
     "type": "fitb",
-    "stem": "Male hypogonadism is called hypergonadotropic when it is due to ___ failure, and hypogonadotropic when it is due to ___ or pituitary failure.",
-    "answer": "testicular / hypothalamic",
+    "stem": "The initial event of menstruation is ___ of the spiral arteries; this leads to ___ and shedding of the ___ layer of the endometrium.",
+    "answer": "vasoconstriction / necrosis / superficial (stratum functionale)",
     "acceptableAnswers": [
-      "testicular / hypothalamic",
-      "testicular failure / hypothalamic",
-      "primary testicular / hypothalamic or pituitary"
+      "vasoconstriction / necrosis / superficial (stratum functionale)",
+      "vasoconstriction / necrosis and shedding / stratum functionale"
     ]
   },
   {
     "id": 96,
     "type": "fitb",
-    "stem": "Spermatozoa obtain nutrition from ___ metabolism of ___ to pyruvate, as this is the primary energy substrate supplied in the seminal vesicle secretion.",
-    "answer": "anaerobic / fructose",
+    "stem": "If fertilization occurs, the ___ of pregnancy produces large amounts of ___, estrogen, and inhibin A until the ___ takes over the function at about 3 to 4 months.",
+    "answer": "corpus luteum / progesterone / placenta",
     "acceptableAnswers": [
-      "anaerobic / fructose",
-      "anaerobic metabolism / fructose"
+      "corpus luteum / progesterone / placenta",
+      "corpus luteum of pregnancy / progesterone / placenta"
     ]
   },
   {
     "id": 97,
     "type": "fitb",
-    "stem": "In comparing WHO 1999 versus WHO 2010 semen parameters: the minimum volume changed from ___ ml to 1.5 ml; minimum concentration decreased from ___ million/ml to 15 million/ml; and progressive motility threshold dropped from ___% to 32%.",
-    "answer": "2 / 20 / 50",
+    "stem": "The released ovum is transported from the ovary to the tube; tubal damage (micro or macro) may cause ___ or ___ pregnancy.",
+    "answer": "infertility / ectopic",
     "acceptableAnswers": [
-      "2 / 20 / 50",
-      "2 ml / 20 million / 50%",
-      "two / twenty / fifty"
+      "infertility / ectopic",
+      "infertility / ectopic pregnancy",
+      "ectopic / infertility"
     ]
   },
   {
     "id": 98,
     "type": "fitb",
-    "stem": "Testosterone causes moderate retention of ___, K+, HâO, sulphate, and ___ retention (protecting against osteoporosis), and also increases total bone matrix while causing CaÂ²âº ___.",
-    "answer": "Na+ / phosphate / retention",
+    "stem": "During the proliferative phase, the vaginal epithelium is ___, multilayered, containing a lot of ___ in the vacuole, and ___ by leucocytes.",
+    "answer": "cornified / glycogen / infiltrated",
     "acceptableAnswers": [
-      "Na+ / phosphate / retention",
-      "sodium / phosphate / retention",
-      "Na / phosphate / Ca2+ retention"
+      "cornified / glycogen / infiltrated",
+      "cornified / glycogen / infiltrated (invaded)"
     ]
   },
   {
     "id": 99,
     "type": "fitb",
-    "stem": "The zona ___ of the adrenal gland also produces androgens (testosterone, DHEA, and androstenedione) but in ___ amounts compared to the testis.",
-    "answer": "reticularis / small",
+    "stem": "At ovulation, with the release of ___ enzymes and prostaglandins, the mature follicle causes a protrusion called ___ at the periphery of the ovary, which dissolves to release the ovum and fluids; inability of this process to occur leads to ___, a common cause of infertility.",
+    "answer": "proteolytic / stigma / anovulation",
     "acceptableAnswers": [
-      "reticularis / small",
-      "zona reticularis / small",
-      "reticularis / small (minor)"
+      "proteolytic / stigma / anovulation",
+      "proteolytic enzymes / stigma / anovulation"
     ]
   },
   {
     "id": 100,
     "type": "fitb",
-    "stem": "The average (Av) sperm count per ejaculate according to WHO 2010 is ___ x 10â¶ cells per ejaculate; the WHO 2010 threshold for normal morphology is more than ___% normal forms; and normal forms in the WHO 1999 standard were ___% compared to the WHO 2010 revised threshold.",
-    "answer": "39 / 4 / 14",
+    "stem": "Multiple ovulations may occur in the presence of more than one ___ follicle; this usually occurs when there is ovulation induction with ___, a common feature in ___ reproductive technology.",
+    "answer": "dominant / drugs / artificial",
     "acceptableAnswers": [
-      "39 / 4 / 14",
-      "39 million / 4% / 14%",
-      "39 x 10â¶ / 4% / 14%"
+      "dominant / drugs / artificial",
+      "dominant follicle / drugs / artificial reproductive technology"
     ]
   }
 ]
