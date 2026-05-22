@@ -2,1096 +2,981 @@
   {
     "id": 1,
     "type": "mcq",
-    "stem": "Progesterone is correctly classified as which steroid based on the number of carbon atoms in its molecular structure?",
+    "stem": "A nursing student is asked to identify the steroid classification of progesterone. Which of the following correctly identifies both its carbon skeleton number AND its primary site of production during the luteal phase?",
     "options": [
-      "C18 steroid",
-      "C19 steroid",
-      "C21 steroid"
+      "C21 steroid produced mainly by the adrenal cortex",
+      "C21 steroid produced mainly by the corpus luteum",
+      "C19 steroid produced mainly by the corpus luteum"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 2,
     "type": "mcq",
-    "stem": "Which of the following MOST accurately identifies the primary site of progesterone production in a non-pregnant cycling female?",
+    "stem": "During a physiology lecture, a student is asked about the binding characteristics of circulating progesterone. Which of the following CORRECTLY states the proportion bound to corticosteroid binding globulin (CBG)?",
     "options": [
-      "Corpus luteum",
-      "Adrenal cortex",
-      "Ovarian follicles"
+      "38% is bound to CBG while 60% is bound to albumin",
+      "18% is bound to CBG while 80% is bound to albumin",
+      "18% is bound to CBG while 60% is bound to albumin"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 3,
     "type": "mcq",
-    "stem": "What percentage of circulating progesterone exists in an unbound, biologically active (free) form?",
+    "stem": "Which of the following ACCURATELY describes the urinary excretion pathway of progesterone after hepatic metabolism?",
     "options": [
-      "2%",
-      "18%",
-      "80%"
+      "Converted to pregnanediol then conjugated with glucuronic acid and excreted in urine",
+      "Converted to pregnanetriol then conjugated with sulphate and excreted in urine",
+      "Converted to pregnanolone then conjugated with glucuronic acid and excreted in bile"
     ],
     "answer": "A"
   },
   {
     "id": 4,
     "type": "mcq",
-    "stem": "What percentage of circulating progesterone is specifically bound to corticosteroid binding globulin (CBG)?",
+    "stem": "A midwife states that progesterone plasma levels at mid-luteal phase are between 30â60 nmol/L. Which of the following correctly pairs ALL THREE reference plasma levels of progesterone across reproductive states?",
     "options": [
-      "2%",
-      "18%",
-      "80%"
+      "Males: 1 nmol/L; follicular phase: 3 nmol/L; mid-luteal phase: 30â60 nmol/L",
+      "Males: 3 nmol/L; follicular phase: 1 nmol/L; mid-luteal phase: 30â60 nmol/L",
+      "Males: 1 nmol/L; follicular phase: 3 nmol/L; mid-luteal phase: 60â90 nmol/L"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 5,
     "type": "mcq",
-    "stem": "The largest single fraction of circulating progesterone is transported bound to which plasma protein?",
+    "stem": "Progesterone is said to require oestrogen priming before it can exert its physiological action. This is because oestrogen must first do which of the following at the target cell?",
     "options": [
-      "Corticosteroid binding globulin",
-      "Gonadal steroid binding globulin",
-      "Albumin"
+      "Increase the number of progesterone receptors at the target cell",
+      "Decrease the number of oestrogen receptors at the target cell",
+      "Stimulate aromatization of androstenedione at the target cell"
     ],
-    "answer": "C"
+    "answer": "A"
   },
   {
     "id": 6,
     "type": "mcq",
-    "stem": "Progesterone undergoes hepatic biotransformation to which primary urinary metabolite?",
+    "stem": "Regarding the effect of progesterone on the uterus, which of the following statements is MOST ACCURATE?",
     "options": [
-      "Pregnanediol",
-      "Pregnanolone",
-      "Pregnanetriol"
+      "It increases the frequency of uterine contractions to aid implantation",
+      "It reduces the frequency of uterine contractions to aid retention of products of conception",
+      "It reduces the sensitivity of the uterine muscle to oxytocin by down-regulating FSH"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 7,
     "type": "mcq",
-    "stem": "Progesterone metabolites must be conjugated with which acid before urinary excretion?",
+    "stem": "Which of the following BEST distinguishes progesterone's effect on the breast from that of oestrogen?",
     "options": [
-      "Sulfuric acid",
-      "Acetic acid",
-      "Glucuronic acid"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": 8,
-    "type": "mcq",
-    "stem": "A serum progesterone level of 1 nmol/L represents the expected normal reference value for which of the following groups?",
-    "options": [
-      "Males",
-      "Females in the follicular phase",
-      "Females in the mid-luteal phase"
+      "Progesterone enhances development of lobules and alveoli; oestrogen enhances ductal growth",
+      "Progesterone enhances ductal growth; oestrogen enhances development of lobules and alveoli",
+      "Both progesterone and oestrogen equally stimulate lobular and ductal development"
     ],
     "answer": "A"
   },
   {
+    "id": 8,
+    "type": "mcq",
+    "stem": "A student correctly identifies that progesterone stimulates pulmonary ventilation. What is the MOST LIKELY clinical significance of this effect during pregnancy?",
+    "options": [
+      "It prevents hyperventilation by inhibiting the respiratory centre in the medulla",
+      "It increases minute ventilation, contributing to the relative respiratory alkalosis seen in pregnancy",
+      "It reduces tidal volume to compensate for the increased metabolic demands of pregnancy"
+    ],
+    "answer": "B"
+  },
+  {
     "id": 9,
     "type": "mcq",
-    "stem": "During the follicular phase of a normal menstrual cycle, plasma progesterone is expected to measure approximately:",
+    "stem": "At HIGH doses, progesterone affects renal sodium handling. Which of the following CORRECTLY describes this effect?",
     "options": [
-      "1 nmol/L",
-      "3 nmol/L",
-      "30-60 nmol/L"
+      "It increases sodium reabsorption, causing the oedema seen in the luteal phase",
+      "It decreases sodium reabsorption in the kidneys at high doses",
+      "It increases sodium excretion by stimulating aldosterone secretion"
     ],
     "answer": "B"
   },
   {
     "id": 10,
     "type": "mcq",
-    "stem": "The expected serum progesterone concentration during the mid-luteal phase of a normal ovulatory cycle ranges from:",
+    "stem": "Which of the following is NOT listed as a clinical use of progesterone in the lecture slides?",
     "options": [
-      "1-3 nmol/L",
-      "3-10 nmol/L",
-      "30-60 nmol/L"
+      "Treatment of recurrent miscarriage",
+      "Management of polycystic ovarian syndrome",
+      "Hormone replacement therapy"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 11,
     "type": "mcq",
-    "stem": "Like all steroid hormones, progesterone primarily exerts its cellular effects through which molecular mechanism?",
+    "stem": "Regarding progesterone's effect on the fallopian tubes, which of the following CORRECTLY states its action?",
     "options": [
-      "Activation of membrane-bound adenylyl cyclase increasing cyclic AMP",
-      "Stimulation of intracellular protein synthesis",
-      "Phosphorylation of G-protein coupled receptors"
+      "It increases ciliary activity to enhance sperm and ovum transport",
+      "It promotes secretory changes in the fallopian tubes",
+      "It proliferates glandular tissue of the fallopian tubes to produce tubal milk"
     ],
     "answer": "B"
   },
   {
     "id": 12,
     "type": "mcq",
-    "stem": "Which hormone MUST first prime the target cell before progesterone can exert its full physiological action?",
+    "stem": "A nursing student confuses progesterone's uterine effects. Which of the following pairs of uterine actions is CORRECTLY attributed to progesterone ALONE?",
     "options": [
-      "FSH",
-      "LH",
-      "Oestrogen"
+      "Proliferation of endometrial stroma AND increased sensitivity to oxytocin",
+      "Increased endometrial thickness AND increased lipid and glycogen deposition in stromal cells",
+      "Proliferation of endometrial glands AND dilatation of endometrial blood vessels"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 13,
     "type": "mcq",
-    "stem": "Progesterone's critical role in early pregnancy maintenance is primarily mediated through which specific myometrial effect?",
+    "stem": "Oestrogens are classified as C18 steroids. Which of the following CORRECTLY names ALL three naturally occurring oestrogens in order of potency?",
     "options": [
-      "Reduction of uterine contraction frequency, aiding retention of products of conception",
-      "Proliferation of endometrial glands to enhance nutritional support for the embryo",
-      "Increased uterine sensitivity to oxytocin-mediated contractions to aid implantation"
+      "17Î² oestradiol (most potent), oestrone, oestriol",
+      "Oestriol (most potent), 17Î² oestradiol, oestrone",
+      "Oestrone (most potent), 17Î² oestradiol, oestriol"
     ],
     "answer": "A"
   },
   {
     "id": 14,
     "type": "mcq",
-    "stem": "Which of the following BEST describes progesterone's direct glandular effect on the endometrium?",
+    "stem": "Which of the following CORRECTLY describes the biosynthetic origin of oestrogens in the ovarian follicle using the two-cell model?",
     "options": [
-      "Proliferation of endometrial glandular epithelium",
-      "Increased secretory activity of glandular epithelial cells",
-      "Enhanced blood vessel proliferation and dilatation in the endometrial stroma"
+      "Theca cells produce androstenedione which is transported to granulosa cells for aromatization to oestradiol",
+      "Granulosa cells produce androstenedione which is transported to theca cells for aromatization to oestradiol",
+      "Stromal cells of the ovary produce androstenedione which is aromatized by theca cells into oestradiol"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 15,
     "type": "mcq",
-    "stem": "The physiological basis for the rise in basal body temperature (BBT) that occurs at ovulation is attributed to:",
+    "stem": "The binding of circulating oestrogen to plasma proteins differs from that of progesterone. Which of the following correctly states the proportion of oestrogen bound to gonadal steroid binding globulin (GBG)?",
     "options": [
-      "Direct thermogenic action of the mid-cycle LH surge on the hypothalamic thermoregulatory centre",
-      "Hypothalamic response to the pre-ovulatory FSH peak causing metabolic heat production",
-      "Thermogenic effect of progesterone secreted by the newly formed corpus luteum"
+      "18% is bound to GBG while 80% is bound to albumin",
+      "38% is bound to GBG while 60% is bound to albumin",
+      "38% is bound to GBG while 80% is bound to albumin"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 16,
     "type": "mcq",
-    "stem": "At HIGH pharmacological doses, progesterone exerts which specific renal tubular effect?",
+    "stem": "The enterohepatic circulation of oestrogen is clinically significant. Which of the following BEST describes this process?",
     "options": [
-      "Decreases sodium reabsorption in the kidneys",
-      "Increases aldosterone-mediated potassium secretion and sodium retention",
-      "Promotes ADH-independent free water reabsorption in collecting ducts"
+      "Oestrogen is excreted in the bile, reabsorbed via the intestines, and re-enters the bloodstream",
+      "Oestrogen is conjugated in the intestines and excreted via the portal circulation into the bile",
+      "Oestrogen is converted to glucuronides in the intestinal mucosa and reabsorbed into the lymphatics"
     ],
     "answer": "A"
   },
   {
     "id": 17,
     "type": "mcq",
-    "stem": "Among the following, which is NOT a recognized clinical indication for progesterone therapy?",
+    "stem": "A pharmacology student is asked why naturally occurring oestrogens are not preferred for oral administration. The MOST accurate reason is:",
     "options": [
-      "Recurrent miscarriage",
-      "Endometrial cancer",
-      "Treatment of precocious puberty"
+      "They are rapidly inactivated by first-pass hepatic metabolism after oral ingestion",
+      "They are poorly absorbed from the gastrointestinal tract due to high molecular weight",
+      "They bind irreversibly to intestinal glucuronidase and are prevented from entering circulation"
     ],
-    "answer": "C"
+    "answer": "A"
   },
   {
     "id": 18,
     "type": "mcq",
-    "stem": "A 32-year-old woman with three consecutive first-trimester pregnancy losses is MOST likely to receive progesterone for which specific clinical indication?",
+    "stem": "Which of the following synthetic oestrogens was developed specifically to be orally active due to resistance to hepatic degradation?",
     "options": [
-      "Endometrial cancer chemoprevention",
-      "Recurrent miscarriage management",
-      "Induction of ovulation in an anovulatory cycle"
+      "Pregnanediol",
+      "Ethynyl oestradiol",
+      "Androstenedione"
     ],
     "answer": "B"
   },
   {
     "id": 19,
     "type": "mcq",
-    "stem": "Naturally occurring oestrogens are steroids. Which classification CORRECTLY identifies them by carbon number?",
+    "stem": "Regarding oestrogen's effect on the vaginal epithelium, which sequence of changes is CORRECTLY ordered?",
     "options": [
-      "C17 steroids",
-      "C18 steroids",
-      "C19 steroids"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 20,
-    "type": "mcq",
-    "stem": "Which naturally occurring oestrogen is BOTH the most potent AND the most secreted by the ovaries?",
-    "options": [
-      "17β-oestradiol",
-      "Oestrone",
-      "Oestriol"
+      "Cuboidal epithelium â stratified squamous epithelium â glycogen deposition â lactic acid production by Lactobacillus acidophilus",
+      "Stratified squamous epithelium â cuboidal epithelium â glycogen deposition â alkaline vaginal pH",
+      "Cuboidal epithelium â stratified squamous epithelium â lactic acid production â glycogen deposition"
     ],
     "answer": "A"
   },
   {
+    "id": 20,
+    "type": "mcq",
+    "stem": "A student states that oestrogen reduces uterine contractility. Is this correct, and what is the actual effect of oestrogen on uterine muscle?",
+    "options": [
+      "Correct; oestrogen reduces uterine contractions to protect early pregnancy",
+      "Incorrect; oestrogen increases spontaneous uterine muscle activity and contractility",
+      "Incorrect; oestrogen has no direct effect on uterine contractility but acts via progesterone"
+    ],
+    "answer": "B"
+  },
+  {
     "id": 21,
     "type": "mcq",
-    "stem": "The biochemical conversion of androgen precursors into oestrogens within granulosa cells involves which specific enzymatic reaction?",
+    "stem": "Which of the following CORRECTLY pairs oestrogen's action on the fallopian tube with the clinical purpose of that action?",
     "options": [
-      "Hydroxylation at carbon 16 of the steroid nucleus",
-      "Sulfonation of the A-ring to improve water solubility",
-      "Aromatization of the A-ring of androgenic precursors"
+      "Increases ciliary activity â promotes sperm, ovum and zygote transport",
+      "Promotes secretory changes â provides glycogen nutrition for the zygote",
+      "Decreases epithelial cell size â reduces resistance to zygote passage"
     ],
-    "answer": "C"
+    "answer": "A"
   },
   {
     "id": 22,
     "type": "mcq",
-    "stem": "Androstenedione, the immediate androgenic precursor for granulosa cell oestradiol synthesis, is primarily produced by which ovarian cell type?",
+    "stem": "Oestrogen's effect on bones has TWO seemingly opposing consequences. Which of the following CORRECTLY identifies BOTH?",
     "options": [
-      "Granulosa cells via de novo cholesterol synthesis",
-      "Theca cells under LH stimulation",
-      "Stromal cells via peripheral androgen conversion"
+      "Oestrogen increases osteoclastic activity and delays epiphyseal closure",
+      "Oestrogen increases osteoblastic activity but causes early epiphyseal closure",
+      "Oestrogen decreases osteoblastic activity but delays epiphyseal closure"
     ],
     "answer": "B"
   },
   {
     "id": 23,
     "type": "mcq",
-    "stem": "What percentage of total circulating oestrogen is present in the unbound, biologically active (free) fraction?",
+    "stem": "A postmenopausal woman presents with fragility fractures of the vertebral column. The MOST direct hormonal explanation based on lecture content is:",
     "options": [
-      "~2%",
-      "~38%",
-      "~60%"
-    ],
-    "answer": "A"
-  },
-  {
-    "id": 24,
-    "type": "mcq",
-    "stem": "What percentage of circulating oestrogen is specifically bound to gonadal steroid binding globulin (GBG)?",
-    "options": [
-      "2%",
-      "38%",
-      "60%"
+      "Loss of progesterone leads to decreased bone mineral density",
+      "Loss of oestrogen leads to reduced osteoblastic activity and osteoporosis",
+      "Loss of oestrogen leads to increased FSH which directly demineralises bone"
     ],
     "answer": "B"
   },
   {
-    "id": 25,
+    "id": 24,
     "type": "mcq",
-    "stem": "The largest single fraction of circulating oestrogen is transported bound to which plasma protein?",
+    "stem": "Which of the following CORRECTLY describes oestrogen's cardiovascular metabolic profile as stated in the lecture?",
     "options": [
-      "Sex hormone binding globulin",
-      "Corticosteroid binding globulin",
-      "Albumin"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": 26,
-    "type": "mcq",
-    "stem": "In the liver, oestrogen undergoes biotransformation into which two conjugated forms prior to urinary excretion?",
-    "options": [
-      "Glucuronide and sulphate conjugates",
-      "Acetate and phosphate conjugates",
-      "Glycine and taurine conjugates"
+      "Increases HDL, decreases LDL, but promotes venous thrombosis and embolic phenomena",
+      "Decreases HDL, increases LDL, and reduces the risk of venous thrombosis",
+      "Increases HDL, decreases LDL, and has no effect on coagulation"
     ],
     "answer": "A"
   },
   {
+    "id": 25,
+    "type": "mcq",
+    "stem": "Oestrogen causes salt and water retention. Which of the following clinical symptoms is DIRECTLY attributed to this effect?",
+    "options": [
+      "Primary dysmenorrhoea occurring just before menstruation",
+      "Premenstrual bloating occurring in some women",
+      "Oligomenorrhoea occurring in the late reproductive years"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 26,
+    "type": "mcq",
+    "stem": "Which of the following CORRECTLY describes oestrogen's effect on hepatic transport protein synthesis?",
+    "options": [
+      "Oestrogen decreases hepatic synthesis of globulins that transport steroids and thyroid hormones",
+      "Oestrogen increases hepatic synthesis of transport proteins such as globulins for steroids and thyroid hormones",
+      "Oestrogen increases intestinal synthesis of transport proteins for steroids and thyroid hormones"
+    ],
+    "answer": "B"
+  },
+  {
     "id": 27,
     "type": "mcq",
-    "stem": "Enterohepatic circulation of oestrogen involves biliary excretion and subsequent reabsorption via which specific anatomical route?",
+    "stem": "Regarding oestrogen's effect on body hair distribution, which of the following is ACCURATE according to the lecture slides?",
     "options": [
-      "Lymphatic absorption through the mesenteric lymphatics into the thoracic duct",
-      "Intestinal reabsorption back into the systemic bloodstream",
-      "Renal tubular reabsorption in the proximal convoluted tubule"
+      "There is increased general body hair with the base of the pubic triangle pointing downwards",
+      "There is decreased general body hair with the base of the pubic triangle pointing upwards",
+      "There is increased scalp hair with decreased pubic hair forming a diamond-shaped distribution"
     ],
     "answer": "B"
   },
   {
     "id": 28,
     "type": "mcq",
-    "stem": "Oestrogen-induced changes in vaginal epithelium involve a transformation from which cell type to a more infection-resistant form?",
+    "stem": "Oestrogen affects body shape by influencing bone and fat distribution. Which of the following CORRECTLY describes these changes?",
     "options": [
-      "Simple columnar to stratified squamous epithelium",
-      "Cuboidal to stratified squamous epithelium",
-      "Transitional to pseudostratified columnar epithelium"
+      "Shoulders become broad, hips narrow, thighs convergent, arms show wide carrying angle",
+      "Shoulders become narrow, hips broad, thighs convergent, arms show wide carrying angle (divergent)",
+      "Shoulders become narrow, hips broad, thighs divergent, arms show narrow carrying angle"
     ],
     "answer": "B"
   },
   {
     "id": 29,
     "type": "mcq",
-    "stem": "The acidification of vaginal pH under oestrogen influence results from glycogen being converted to lactic acid by which specific microorganism?",
+    "stem": "A student is examining the hormonal events at the beginning of the follicular phase. FSH and LH levels at this point are BEST described as:",
     "options": [
-      "Lactobacillus fermentum",
-      "Lactobacillus rhamnosus",
-      "Lactobacillus acidophilus"
+      "At their highest levels, driving follicular recruitment",
+      "At their lowest levels just before the start of the follicular phase",
+      "Elevated FSH with suppressed LH due to oestrogen negative feedback"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 30,
     "type": "mcq",
-    "stem": "The tubal milk that nourishes the zygote within the fallopian tube is produced through which specific oestrogen-mediated mechanism?",
+    "stem": "FSH stimulates the granulosa cells. LH, during the later follicular phase, stimulates the theca cells to produce substrates for oestradiol synthesis. What are these substrates?",
     "options": [
-      "Proliferation of glandular tissues of the tube stimulated by oestrogen",
-      "Increased ciliary transport of uterine secretions into the tubal lumen",
-      "Progesterone-induced secretory changes occurring exclusively in tubal mucosa"
+      "Progesterone and oestrone, which are aromatized by granulosa cells",
+      "Androstenedione and testosterone, which act as substrates for aromatization to oestradiol by granulosa cells",
+      "Androstenedione and testosterone, which are aromatized by theca cells into oestradiol"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 31,
     "type": "mcq",
-    "stem": "Oestrogen's dual effects on bone include which of the following CORRECTLY paired actions?",
+    "stem": "The LH surge is the most critical event triggering ovulation. How many hours after the PEAK of the LH surge does ovulation typically occur?",
     "options": [
-      "Increased osteoblastic activity AND delayed epiphyseal closure",
-      "Increased osteoclastic activity AND early epiphyseal closure",
-      "Increased osteoblastic activity AND early epiphyseal closure"
+      "8â12 hours after the peak of the LH surge",
+      "16â36 hours after the peak of the LH surge",
+      "36â48 hours after the peak of the LH surge"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 32,
     "type": "mcq",
-    "stem": "A 58-year-old postmenopausal woman presents with a fragility fracture of the distal radius. The PRIMARY hormonal deficiency responsible for her skeletal condition is:",
+    "stem": "The positive feedback of oestrogen on the anterior pituitary results in the LH surge. Which condition MUST be met for this positive feedback to occur?",
     "options": [
-      "Decreased FSH leading to reduced follicular stimulation of bone-protective cytokines",
-      "Decreased oestrogen leading to impaired osteoblastic activity and accelerated bone resorption",
-      "Decreased progesterone leading to inadequate mineralisation of new bone matrix"
+      "Oestrogen must fall to a very low level before the anterior pituitary releases LH in a surge",
+      "Oestrogen produced by granulosa cells must reach a threshold level that causes a sharp increase in LH and a small increase in FSH",
+      "Progesterone must prime the anterior pituitary before oestrogen can exert positive feedback on LH release"
     ],
     "answer": "B"
   },
   {
     "id": 33,
     "type": "mcq",
-    "stem": "Which of the following CORRECTLY describes the full combined cardiovascular metabolic profile of oestrogen?",
+    "stem": "After ovulation, which hormone is primarily responsible for stimulating and maintaining the corpus luteum?",
     "options": [
-      "Increases HDL, decreases LDL, prevents atherosclerosis, BUT promotes venous thrombosis and embolic phenomena",
-      "Decreases HDL, increases LDL, prevents venous thrombosis, BUT promotes arterial disease",
-      "Increases both HDL and LDL equally, with neutral effects on venous thromboembolic risk"
+      "FSH, which plays a major role in corpus luteum maintenance",
+      "LH, with FSH playing only a smaller supportive role",
+      "Both FSH and LH equally stimulate corpus luteum maintenance"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 34,
     "type": "mcq",
-    "stem": "A 40-year-old woman on combined oral contraceptives develops a confirmed deep vein thrombosis. Which oestrogen-mediated mechanism BEST explains this complication?",
+    "stem": "The high levels of progesterone and oestrogen produced by the corpus luteum during the secretory phase exert which effect on FSH and LH?",
     "options": [
-      "Oestrogen-induced reduction in hepatic production of vitamin K-dependent anticoagulant factors",
-      "Oestrogen-induced increase in platelet aggregation leading to arterial thrombus formation",
-      "Oestrogen-induced promotion of venous thrombosis and embolic phenomena"
+      "They positively stimulate FSH and LH to prepare for the next cycle",
+      "They negatively inhibit FSH and LH production",
+      "They selectively inhibit only FSH while LH continues to rise"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 35,
     "type": "mcq",
-    "stem": "Oestrogen increases hepatic synthesis of transport globulins responsible for carrying which clinically significant categories of hormones?",
+    "stem": "If pregnancy does NOT occur, the corpus luteum degenerates. This degeneration leads to which sequence of events that results in menstruation?",
     "options": [
-      "Insulin and glucagon",
-      "Steroids and thyroid hormones",
-      "Catecholamines and growth hormone"
+      "Corpus luteum degeneration â rising oestrogen and progesterone â endometrial proliferation â menstruation",
+      "Corpus luteum degeneration â falling progesterone and oestrogen â sudden endometrial withdrawal â menstruation",
+      "Corpus luteum degeneration â rising FSH and LH â endometrial shedding â menstruation"
     ],
     "answer": "B"
   },
   {
     "id": 36,
     "type": "mcq",
-    "stem": "The premenstrual bloating experienced by many women is primarily caused by which specific oestrogen-mediated metabolic effect?",
+    "stem": "During the proliferative phase of the endometrium, which hormone is responsible for endometrial repair and is produced by the theca and granulosa cells of the developing follicle?",
     "options": [
-      "Salt and water retention caused by oestrogen",
-      "Oestrogen-induced secondary hyperaldosteronism from the adrenal cortex",
-      "Decreased hepatic albumin synthesis reducing plasma oncotic pressure"
+      "Progesterone produced by the developing follicle's theca cells",
+      "Oestrogen produced by the theca and granulosa cells of the developing follicle",
+      "LH produced in response to GnRH stimulation of the anterior pituitary"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 37,
     "type": "mcq",
-    "stem": "Which of the following CORRECTLY explains why naturally occurring oestrogens are poorly active when administered orally?",
+    "stem": "During the secretory phase, progesterone reduces the number of oestrogen receptors in the endometrium. The PRIMARY consequence of this receptor downregulation is:",
     "options": [
-      "They are irreversibly inactivated by gastric acid before reaching the small intestinal mucosa",
-      "They undergo extensive first-pass hepatic degradation following gastrointestinal absorption",
-      "They are too lipophilic to be absorbed across the aqueous unstirred layer of the intestinal epithelium"
+      "Progesterone completely blocks all oestrogen-mediated endometrial growth",
+      "Oestrogen activity in the endometrium is reduced during the secretory phase",
+      "Oestrogen receptors are permanently destroyed, preventing future menstrual cycles"
     ],
     "answer": "B"
   },
   {
     "id": 38,
     "type": "mcq",
-    "stem": "Which of the following compounds is a synthetic oestrogen derived specifically from modification of E2 to enhance oral bioavailability?",
+    "stem": "CASE STUDY: A 28-year-old woman reports that her menstrual cycles occur every 40 days. She does not have any pelvic pathology. Based on this presentation, which of the following BEST describes her condition?",
     "options": [
-      "Medroxyprogesterone acetate",
-      "Norethisterone acetate",
-      "Ethynyl oestradiol"
+      "Polymenorrhoea â too frequent cycles occurring less than 21 days apart",
+      "Oligomenorrhoea â reduction in frequency of menstruation with cycles greater than 35 days",
+      "Primary amenorrhoea â physiological absence of menses during the reproductive period"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 39,
     "type": "mcq",
-    "stem": "A 26-year-old woman presents with pathological amenorrhoea. According to established reproductive physiology, investigation of pathological amenorrhoea should focus on an abnormality along which anatomical axis?",
+    "stem": "CASE STUDY: A 16-year-old girl presents with painful menstruation. Pelvic examination and ultrasound reveal no pathology of the genital tract. Which diagnosis is MOST appropriate?",
     "options": [
-      "Thyroid-pituitary-ovarian-cervical-vaginal axis",
-      "Cortico-hypothalamo-pituitary-ovarian-utero-vaginal axis",
-      "Adrenal-hepatic-ovarian-endometrial-cervical axis"
+      "Secondary dysmenorrhoea associated with endometriosis",
+      "Primary dysmenorrhoea not associated with any genital tract pathology",
+      "Polymenorrhoea due to anovulatory cycles at menarche"
     ],
     "answer": "B"
   },
   {
     "id": 40,
     "type": "mcq",
-    "stem": "Menorrhagia is MOST precisely defined as which of the following?",
+    "stem": "CASE STUDY: A 49-year-old perimenopausal woman presents with irregular, painless, heavy menstrual bleeding. She has anovulatory cycles. What is the MOST LIKELY explanation for her endometrial shedding?",
     "options": [
-      "Excessive menstrual bleeding that may be increased in duration, quantity, or manifesting as flooding",
-      "Complete absence of menses for three or more consecutive menstrual cycles",
-      "Painful menstruation occurring in the absence of identifiable genital tract pathology"
+      "Progesterone excess causes endometrial proliferation that outgrows its blood supply",
+      "Oestrogen-induced proliferation outgrows its own blood supply, causing shedding without corpus luteum formation",
+      "Sudden LH surge without FSH causes premature endometrial shedding"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 41,
     "type": "mcq",
-    "stem": "A 33-year-old woman reports consistently menstruating every 42 days for the past year. Based on standard gynaecological classification, her condition is:",
+    "stem": "CASE STUDY: A 24-year-old patient presents with menorrhagia. Which of the following CORRECTLY defines her condition as stated in the lecture slides?",
     "options": [
-      "Polymenorrhoea",
-      "Amenorrhoea",
-      "Oligomenorrhoea"
+      "Excessive bleeding that may increase in duration, quantity, or involve clots or flooding",
+      "Painful menstruation not associated with any genital tract pathology",
+      "Absence of menses during the reproductive period due to hypothalamic dysfunction"
     ],
-    "answer": "C"
+    "answer": "A"
   },
   {
     "id": 42,
     "type": "mcq",
-    "stem": "Polymenorrhoea is defined by cycles occurring at which specific interval?",
+    "stem": "CASE STUDY: A 22-year-old woman presents with cycles occurring every 18 days. There is no associated pathology. Which menstrual abnormality does this represent?",
     "options": [
-      "Cycles occurring more than 35 days apart",
-      "Cycles occurring less than 21 days apart",
-      "Cycles occurring between 21 and 24 days apart"
+      "Oligomenorrhoea â reduction in frequency with cycles greater than 35 days",
+      "Polymenorrhoea â too frequent cycles occurring less than 21 days",
+      "Menorrhagia â excessive bleeding irrespective of cycle frequency"
     ],
     "answer": "B"
   },
   {
     "id": 43,
     "type": "mcq",
-    "stem": "Which statement CORRECTLY distinguishes secondary from primary dysmenorrhoea in clinical practice?",
+    "stem": "Which of the following pathological axes is implicated when amenorrhoea occurs due to a pathological cause according to the lecture slides?",
     "options": [
-      "Primary dysmenorrhoea is associated with demonstrable genital tract pathology; secondary dysmenorrhoea is not",
-      "Secondary dysmenorrhoea is associated with identifiable genital tract pathology; primary dysmenorrhoea is not",
-      "Primary dysmenorrhoea only affects nulliparous women while secondary affects exclusively multiparous women"
+      "Cortico-hypothalamo-pituitary-ovarian-utero-vaginal axis",
+      "Cortico-hypothalamo-adrenal-ovarian-utero-cervical axis",
+      "Hypothalamo-pituitary-adrenal-ovarian-utero-vaginal axis"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 44,
     "type": "mcq",
-    "stem": "Anovulatory cycles are physiologically most common and expected during which two specific life stages?",
+    "stem": "Amenorrhoea can be physiological. Which of the following lists ALL the physiological causes of amenorrhoea as stated in the lecture?",
     "options": [
-      "Mid-reproductive years (ages 25-35) and during the early postpartum period",
-      "Peak reproductive years (ages 20-30) and during periods of intense athletic training",
-      "First few months after menarche AND the few years immediately before onset of menopause"
+      "Before puberty, during pregnancy, during lactation, and at menopause",
+      "Before puberty, during pregnancy, during lactation, and during the follicular phase",
+      "During pregnancy, during lactation, at menopause, and during the mid-luteal phase"
     ],
-    "answer": "C"
+    "answer": "A"
   },
   {
     "id": 45,
     "type": "mcq",
-    "stem": "In an anovulatory cycle, endometrial shedding occurs via which specific mechanism that distinguishes it from normal menstruation?",
+    "stem": "Regarding the basal body temperature (BBT) as a determinant of ovulation, which of the following CORRECTLY describes the pattern?",
     "options": [
-      "Progesterone withdrawal following an inadequate corpus luteum luteal phase",
-      "Oestrogen-induced endometrial proliferation eventually outgrowing its own blood supply",
-      "FSH-mediated regression of the endometrium in the absence of a sufficient LH surge"
+      "A sustained rise of 0.3â0.5Â°C occurring just before ovulation due to progesterone",
+      "A slight fall just before ovulation followed by a sustained rise of 0.3â0.5Â°C due to progesterone's thermogenic effect",
+      "A biphasic pattern with a sharp rise of 0.3â0.5Â°C before ovulation followed by a fall at menstruation"
     ],
     "answer": "B"
   },
   {
     "id": 46,
     "type": "mcq",
-    "stem": "A woman charting her BBT to identify ovulation would expect which of the following characteristic biphasic patterns in a normal ovulatory cycle?",
+    "stem": "A nurse examining cervical mucus pre-ovulation notices it can be stretched into a thin, long thread. What is the CORRECT term for this property and what pattern does it form when smeared on a slide?",
     "options": [
-      "A slight fall immediately before ovulation followed by a sustained rise of 0.3-0.5°C after ovulation",
-      "A sustained rise of 0.3-0.5°C before ovulation followed by a fall back to baseline after ovulation",
-      "A continuous gradual rise from the first day of menstruation through the entire luteal phase without a preceding dip"
+      "Spinnbarkeit; forms a fern-leaf pattern when dried on a slide",
+      "Ferning; forms a thin long thread when stretched between the fingers",
+      "Spinnbarkeit refers to the thread; ferning refers to the fern-leaf pattern seen on smearing and drying"
     ],
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 47,
     "type": "mcq",
-    "stem": "The ferning pattern observed when pre-ovulatory cervical mucus is dried on a glass slide disappears after ovulation because:",
+    "stem": "Post-ovulation cervical mucus changes to become viscid and thick. This change is attributed to which hormone and what is the term for this post-ovulatory mucus consistency?",
     "options": [
-      "FSH levels fall sharply, reducing cervical gland secretory stimulation in the early luteal phase",
-      "Progesterone causes the cervical mucus to become viscid and thick, eliminating the crystallisation capacity",
-      "The LH surge triggers breakdown of the mucous glycoprotein network preventing fern formation"
+      "Oestrogen causes the mucus to become viscid, thick, and pap-like",
+      "Progesterone causes the mucus to become viscid, thick, and pap-like",
+      "LH surge causes the mucus to become viscid, thick, and pap-like"
     ],
     "answer": "B"
   },
   {
     "id": 48,
     "type": "mcq",
-    "stem": "The rheological property of pre-ovulatory cervical mucus that permits it to be stretched into a thin continuous thread without rupturing is specifically termed:",
+    "stem": "Which day's serum progesterone level is the MOST clinically useful for confirming that ovulation has occurred?",
     "options": [
-      "Ferning",
-      "Spinnbarkeit",
-      "Viscoelasticity index"
+      "Day 14 serum progesterone, taken at the expected time of ovulation",
+      "Day 21 serum progesterone level, taken during the mid-luteal phase",
+      "Day 7 serum progesterone, taken at the peak of the follicular phase"
     ],
     "answer": "B"
   },
   {
     "id": 49,
     "type": "mcq",
-    "stem": "Which of the following CORRECTLY describes the consistency of cervical mucus in the post-ovulatory (luteal) phase of the menstrual cycle?",
+    "stem": "Histological examination of the endometrium is used as a determinant of ovulation. What endometrial phase and histological feature confirms that ovulation has occurred?",
     "options": [
-      "Viscid and thick (pap-like), hostile to sperm penetration",
-      "Thin, watery, and highly stretchable with maximum spinnbarkeit capacity",
-      "Clear and elastic with prominent ferning capacity on glass slide preparation"
+      "Proliferative phase showing oestrogen-driven stromal cell proliferation",
+      "Secretory phase showing characteristic progesterone effect on the endometrium",
+      "Menstrual phase showing shedding of the functional endometrial layer"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 50,
     "type": "mcq",
-    "stem": "When counselling a patient about natural family planning and ovulation timing, the nurse should advise that ovulation typically occurs at what interval relative to the LH surge peak?",
+    "stem": "In anovulatory cycles, which of the following CORRECTLY explains why progesterone is not produced in appreciable quantities?",
     "options": [
-      "Approximately 6-12 hours after the initial rise in LH concentration",
-      "Approximately 16-36 hours after the peak of the LH surge",
-      "Approximately 48-72 hours after the initiation of the LH surge"
+      "Without ovulation, the Graafian follicle persists and inhibits corpus luteum formation via negative feedback",
+      "Without ovulation, the corpus luteum is not formed and therefore progesterone is not produced in appreciable quantity",
+      "Without ovulation, the granulosa cells undergo atresia before they can produce progesterone"
     ],
     "answer": "B"
   },
   {
     "id": 51,
     "type": "mcq",
-    "stem": "In the hormonal regulation of the menstrual cycle, FSH and LH levels reach their absolute lowest concentrations at which specific point in the cycle?",
+    "stem": "The adrenal cortex produces small amounts of oestrogen. According to the lecture, which form of oestrogen does the adrenal cortex also produce small amounts of?",
     "options": [
-      "During the mid-luteal phase when progesterone secretion is at its peak",
-      "During the pre-ovulatory period immediately before the LH surge begins",
-      "Just before the start of the follicular phase of the new menstrual cycle"
+      "Oestriol (E3)",
+      "17Î² oestradiol (E2)",
+      "Oestrone (E1)"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 52,
     "type": "mcq",
-    "stem": "FSH exerts its primary action during the follicular phase by specifically targeting which ovarian cell type to promote follicular growth and maturation?",
+    "stem": "In the hormonal regulation of the menstrual cycle, Inhibin B and androgen stimulate production of themselves. This type of local signalling is called:",
     "options": [
-      "Theca cells to produce androstenedione as a substrate for oestradiol synthesis",
-      "Granulosa cells for the development and growth of Graafian follicles",
-      "Stromal cells to initiate recruitment of primordial follicles into the growing pool"
+      "Endocrine paracrine stimulation",
+      "Positive paracrine stimulation",
+      "Autocrine negative feedback regulation"
     ],
     "answer": "B"
   },
   {
     "id": 53,
     "type": "mcq",
-    "stem": "LH in the later follicular phase specifically stimulates theca cells to produce which androgenic substrates that serve as oestradiol precursors?",
+    "stem": "During the secretory phase, progesterone increase is more significant than oestrogen increase. This relative dominance of progesterone is used clinically as:",
     "options": [
-      "Progesterone and 17-hydroxyprogesterone for direct granulosa cell conversion to oestradiol",
-      "Androstenedione and testosterone as substrates for aromatization to oestradiol in granulosa cells",
-      "Dehydroepiandrosterone sulphate (DHEAS) and pregnenolone as the primary ovarian oestrogen precursors"
+      "Measurement of mid-luteal oestradiol levels to confirm ovulation has occurred",
+      "Measurement of mid-luteal progesterone levels to determine ovulation",
+      "Measurement of urinary oestriol levels to confirm corpus luteum function"
     ],
     "answer": "B"
   },
   {
     "id": 54,
     "type": "mcq",
-    "stem": "The pre-ovulatory LH surge is triggered when circulating oestrogen levels reach a critical threshold causing which specific physiological response on the pituitary?",
+    "stem": "The GnRH pulse frequency is also diminished during the secretory phase. Which of the following is the PRIMARY reason for this?",
     "options": [
-      "Negative feedback inhibition of GnRH that paradoxically amplifies LH secretion by the pituitary",
-      "Direct ovarian stimulation of LH release bypassing the hypothalamic-pituitary axis",
-      "Positive feedback on the anterior pituitary causing a sharp increase in LH and a small increase in FSH"
+      "High oestrogen levels during the secretory phase inhibit GnRH pulse frequency",
+      "High progesterone and oestrogen levels negatively inhibit FSH, LH, and also diminish GnRH pulse frequency",
+      "Inhibin B from the corpus luteum directly suppresses GnRH pulsatility at the hypothalamus"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 55,
     "type": "mcq",
-    "stem": "After ovulation, which gonadotropin takes the PRIMARY responsibility for stimulating and maintaining the corpus luteum?",
+    "stem": "Which of the following correctly describes oestrogen's effect on the uterus regarding preparation for implantation?",
     "options": [
-      "LH",
-      "FSH",
-      "Prolactin"
+      "Oestrogen reduces glandular proliferation to prevent premature implantation",
+      "Oestrogen stimulates proliferation of endometrial glands and prepares the uterus for implantation",
+      "Oestrogen causes secretory transformation of the endometrial glands to receive the blastocyst"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 56,
     "type": "mcq",
-    "stem": "During the secretory phase, progesterone reduces oestrogen's activity on the endometrium by which specific receptor-level mechanism?",
+    "stem": "Oestrogen's effects on protein metabolism include which of the following?",
     "options": [
-      "Accelerating hepatic clearance of circulating oestradiol to the weaker oestrone",
-      "Decreasing the number of oestrogen receptors available in the endometrium",
-      "Competitively occupying oestrogen receptors without activating downstream gene transcription"
+      "Oestrogen promotes protein catabolism and reduces muscle mass in females",
+      "Oestrogen enhances protein anabolism",
+      "Oestrogen has no significant effect on protein metabolism but reduces fat deposition"
     ],
     "answer": "B"
   },
   {
     "id": 57,
     "type": "mcq",
-    "stem": "In the absence of pregnancy, corpus luteum degeneration at the end of the luteal phase leads to menstruation through which specific hormonal sequence?",
+    "stem": "Which of the following MOST accurately describes oestrogen's role in the fat distribution pattern in females?",
     "options": [
-      "Sudden rise in FSH and LH triggering direct endometrial desquamation and shedding",
-      "Increased GnRH pulsatility leading to vasoconstriction and ischaemic endometrial necrosis",
-      "Sudden withdrawal of progesterone and oestrogen causing the prepared endometrium to shed as menstruation"
+      "Oestrogen causes fat deposition in visceral adipose tissue primarily",
+      "Oestrogen causes fat deposition in subcutaneous tissue",
+      "Oestrogen reduces total body fat to support the energy demands of reproduction"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 58,
     "type": "mcq",
-    "stem": "In addition to oestrogens, progesterone, and small quantities of androgens, which other hormone does the ovary secrete?",
+    "stem": "CASE STUDY: A 30-year-old woman on a combined oral contraceptive pill presents with a deep vein thrombosis. The nurse links this to the oestrogen component of the pill. What is the mechanism by which oestrogen promotes this complication?",
     "options": [
-      "Calcitonin",
-      "Relaxin",
-      "Atrial natriuretic peptide"
+      "Oestrogen decreases hepatic fibrinogen synthesis, leading to a hypercoagulable state",
+      "Oestrogen promotes venous thrombosis and embolic phenomena as a recognized adverse metabolic effect",
+      "Oestrogen increases platelet destruction, leading to paradoxical clot formation"
     ],
     "answer": "B"
   },
   {
     "id": 59,
     "type": "mcq",
-    "stem": "A nurse practitioner reviews an endometrial biopsy report showing characteristic secretory changes consistent with progesterone effect. This histological finding MOST reliably confirms:",
+    "stem": "CASE STUDY: A nursing student is reviewing a patient who had a bilateral oophorectomy at age 35. She now presents with hot flushes, dyspareunia, and progressive height loss. The nurse correctly identifies that the height loss is MOST LIKELY due to:",
     "options": [
-      "The patient is currently in the late proliferative phase of her current cycle",
-      "Ovulation has occurred in the current menstrual cycle",
-      "The patient has elevated basal FSH indicating significantly reduced ovarian reserve"
+      "Loss of progesterone leading to osteoporosis from reduced bone mineral deposition",
+      "Loss of oestrogen leading to reduced osteoblastic activity and subsequent osteoporosis",
+      "Loss of oestrogen leading to excessive osteoclastic activity triggered by elevated PTH"
     ],
     "answer": "B"
   },
   {
     "id": 60,
     "type": "mcq",
-    "stem": "Inhibin B secreted by granulosa cells simultaneously stimulates its own production along with androgens through which specific type of regulatory interaction?",
+    "stem": "CASE STUDY: A 19-year-old presents with irregular cycles occurring every 25 days. She reports no pain and no pathology is found. The nurse explains that her cycles are normal since the definition of polymenorrhoea requires cycles of LESS than how many days?",
     "options": [
-      "Positive paracrine manner",
-      "Negative autocrine manner",
-      "Positive endocrine feedback loop via the hypothalamus"
+      "Less than 24 days",
+      "Less than 21 days",
+      "Less than 28 days"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 61,
     "type": "mcq",
-    "stem": "A 55-year-old postmenopausal woman is assessed for hormone replacement therapy (HRT). Which statement BEST justifies the inclusion of oestrogen in her regimen?",
+    "stem": "CASE STUDY: A 52-year-old postmenopausal woman is prescribed combined HRT. A nursing student asks why both oestrogen and progesterone are included. The MOST accurate explanation from lecture content is:",
     "options": [
-      "To restore cyclical gonadotropin patterns and prevent FSH-related accelerated bone turnover",
-      "To stimulate residual ovarian follicles to resume endogenous oestrogen production",
-      "To replace declining oestrogen levels and prevent complications including osteoporosis"
+      "Progesterone is added to potentiate the oestrogen-driven increase in bone mineral density",
+      "Both oestrogen and progesterone are listed as clinical indications for HRT in the lecture notes",
+      "Progesterone is added to prevent oestrogen-induced endometrial hyperplasia by exerting a secretory effect"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 62,
     "type": "mcq",
-    "stem": "A student nurse recording a volunteer's basal body temperature notes a 0.4°C sustained elevation on day 14 following a slight dip on day 13. Which hormone is DIRECTLY responsible for this temperature elevation?",
+    "stem": "CASE STUDY: A 34-year-old woman has had three consecutive miscarriages. Progesterone supplementation is prescribed. The rationale is primarily based on which pharmacological action of progesterone?",
     "options": [
-      "Progesterone",
-      "Luteinizing hormone",
-      "17β-oestradiol"
+      "Progesterone increases uterine contractility to improve placentation",
+      "Progesterone reduces uterine contractions and enhances endometrial blood supply, supporting retention of products of conception",
+      "Progesterone stimulates oxytocin receptor expression to improve implantation"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 63,
     "type": "mcq",
-    "stem": "A 27-year-old woman presents to the gynaecology clinic reporting menstrual periods occurring every 18 days consistently for the past 8 months. Based on standard gynaecological classification, her condition is:",
+    "stem": "CASE STUDY: A 38-year-old woman is diagnosed with endometrial cancer. Her oncologist considers progesterone therapy. Based on the lecture slides, this is classified under which clinical use of progesterone?",
     "options": [
-      "Oligomenorrhoea",
-      "Polymenorrhoea",
-      "Menorrhagia"
+      "Progesterone as a contraceptive agent reducing endometrial sensitivity to oestrogen",
+      "Progesterone in the clinical management of endometrial cancer",
+      "Progesterone as hormone replacement therapy in perimenopausal women"
     ],
     "answer": "B"
   },
   {
     "id": 64,
     "type": "mcq",
-    "stem": "A day-21 serum progesterone in a woman with a regular 28-day cycle actively attempting conception returns at 2.8 nmol/L. Based on established mid-luteal reference values, this result MOST likely indicates:",
+    "stem": "CASE STUDY: A 26-year-old woman is charting her BBT to identify her fertile window. On day 14, her temperature drops slightly and then rises by 0.4Â°C. What does the nurse advise about this temperature pattern?",
     "options": [
-      "Anovulatory cycle, as the level is significantly below the expected 30-60 nmol/L mid-luteal range",
-      "Normal ovulatory cycle with adequate luteal phase progesterone production confirmed",
-      "Early luteal phase result consistent with corpus luteum progesterone just beginning to rise"
+      "The slight fall indicates she is in the follicular phase and ovulation will occur in 48â72 hours",
+      "The temperature pattern is biphasic and the subsequent sustained rise indicates ovulation has likely occurred, attributed to progesterone's thermogenic effect",
+      "The temperature rise indicates the LH surge has just begun and ovulation will occur immediately"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 65,
     "type": "mcq",
-    "stem": "A pharmacology student asks why ethynyl oestradiol is preferred over natural 17β-oestradiol in oral contraceptive formulations. Which represents the CORRECT explanation?",
+    "stem": "CASE STUDY: A fertility clinic nurse counsels a couple on natural family planning. She explains that cervical mucus becomes 'pap-like' post-ovulation and this change is used to indicate the end of the fertile window. The hormone responsible for this change is:",
     "options": [
-      "Ethynyl oestradiol has lower oestrogenic potency per molecule, substantially reducing thromboembolic risk",
-      "Natural 17β-oestradiol undergoes extensive first-pass hepatic degradation, severely limiting its oral bioavailability",
-      "Ethynyl oestradiol selectively suppresses FSH without affecting the LH surge, improving contraceptive efficacy"
+      "Oestrogen, which thickens cervical mucus after ovulation",
+      "Progesterone, which makes the cervical mucus viscid and thick post-ovulation",
+      "LH, the residual surge of which thickens the cervical mucus at ovulation"
     ],
     "answer": "B"
   },
   {
     "id": 66,
-    "type": "fitb",
-    "stem": "Progesterone is produced mainly by the corpus luteum, the placenta, and in small amounts by the ovarian follicles and the ___________ cortex.",
-    "answer": "adrenal",
-    "acceptableAnswers": [
-      "adrenal",
-      "adrenal gland",
-      "suprarenal"
-    ]
+    "type": "mcq",
+    "stem": "Which of the following correctly describes what percentage of circulating progesterone is FREE (unbound) in plasma?",
+    "options": [
+      "5% is free",
+      "2% is free",
+      "10% is free"
+    ],
+    "answer": "B"
   },
   {
     "id": 67,
-    "type": "fitb",
-    "stem": "The plasma level of progesterone in a normal follicular phase is approximately ___________ nmol/L.",
-    "answer": "3",
-    "acceptableAnswers": [
-      "3",
-      "3 nmol/L",
-      "approximately 3"
-    ]
+    "type": "mcq",
+    "stem": "The mechanism by which progesterone exerts its physiological effects at the cellular level is MOST similar to which general mechanism of steroid hormone action?",
+    "options": [
+      "It binds to membrane receptors and activates adenylyl cyclase to increase cAMP",
+      "It acts by stimulating protein synthesis at the target cell like other steroid hormones",
+      "It binds to tyrosine kinase receptors and activates the JAK-STAT signalling pathway"
+    ],
+    "answer": "B"
   },
   {
     "id": 68,
-    "type": "fitb",
-    "stem": "Before progesterone can exert its physiological action at the target cell, prior priming by ___________ is an absolute requirement.",
-    "answer": "oestrogen",
-    "acceptableAnswers": [
-      "oestrogen",
-      "estrogen",
-      "oestradiol",
-      "17β-oestradiol"
-    ]
+    "type": "mcq",
+    "stem": "Oestrogen primes the endometrium by increasing the number of progesterone receptors. During the secretory phase, progesterone then reduces these same oestrogen receptors. Which of the following BEST describes the net hormonal dominance during the secretory phase?",
+    "options": [
+      "Oestrogen dominates the secretory phase as progesterone cannot inhibit its own receptors",
+      "Progesterone dominates the secretory phase as it reduces oestrogen receptor numbers and exerts a secretory effect",
+      "Both hormones equally dominate the secretory phase with opposing effects cancelling out"
+    ],
+    "answer": "B"
   },
   {
     "id": 69,
-    "type": "fitb",
-    "stem": "Progesterone stimulates pulmonary ___________, a significant respiratory effect of clinical relevance during pregnancy.",
-    "answer": "ventilation",
-    "acceptableAnswers": [
-      "ventilation",
-      "pulmonary ventilation",
-      "breathing"
-    ]
+    "type": "mcq",
+    "stem": "Which of the following CORRECTLY identifies the ovarian cell type stimulated by FSH during the follicular phase and the action that results?",
+    "options": [
+      "FSH stimulates the theca cells to develop the Graafian follicle",
+      "FSH stimulates the granulosa cells, specifically driving development and growth of Graafian follicles",
+      "FSH stimulates the stromal cells of the ovary to produce oestradiol by aromatization"
+    ],
+    "answer": "B"
   },
   {
     "id": 70,
-    "type": "fitb",
-    "stem": "In the breast, progesterone primarily enhances development of lobules and ___________, thereby increasing the organ's secretory activity.",
-    "answer": "alveoli",
-    "acceptableAnswers": [
-      "alveoli",
-      "alveolar tissue",
-      "mammary alveoli"
-    ]
+    "type": "mcq",
+    "stem": "Ultrasound is listed as a determinant of ovulation. What specifically does ultrasound monitor to determine that ovulation is about to occur?",
+    "options": [
+      "Ultrasound monitors endometrial thickness changes during the secretory phase",
+      "Ultrasound monitors the follicles to determine when ovulation is about to occur",
+      "Ultrasound monitors corpus luteum formation after ovulation has occurred"
+    ],
+    "answer": "B"
   },
   {
     "id": 71,
     "type": "fitb",
-    "stem": "The three naturally occurring oestrogens are 17β-oestradiol, oestrone, and ___________.",
-    "answer": "oestriol",
-    "acceptableAnswers": [
-      "oestriol",
-      "estriol",
-      "E3"
-    ]
+    "stem": "Progesterone is a ___ steroid produced mainly by the corpus luteum.",
+    "answer": "C21",
+    "acceptableAnswers": ["C21", "21-carbon", "C-21"]
   },
   {
     "id": 72,
     "type": "fitb",
-    "stem": "The adrenal ___________ also produces small amounts of 17β-oestradiol (E2) in addition to the major ovarian source.",
-    "answer": "cortex",
-    "acceptableAnswers": [
-      "cortex",
-      "adrenal cortex",
-      "suprarenal cortex"
-    ]
+    "stem": "In the plasma, ___ percent of progesterone is free, ___ percent is bound to albumin, and ___ percent is bound to corticosteroid binding globulin.",
+    "answer": "2; 80; 18",
+    "acceptableAnswers": ["2; 80; 18", "2%, 80%, 18%", "2, 80, 18"]
   },
   {
     "id": 73,
     "type": "fitb",
-    "stem": "Oestrogen makes the vaginal pH more acidic by increasing glycogen deposition in the epithelial cells, which is subsequently converted to lactic acid by ___________.",
-    "answer": "Lactobacillus acidophilus",
-    "acceptableAnswers": [
-      "Lactobacillus acidophilus",
-      "L. acidophilus",
-      "lactobacillus acidophilus"
-    ]
+    "stem": "Progesterone is converted in the liver to ___, which is then conjugated with ___ acid and excreted in urine.",
+    "answer": "pregnanediol; glucuronic",
+    "acceptableAnswers": ["pregnanediol; glucuronic", "pregnanediol; glucuronic acid"]
   },
   {
     "id": 74,
     "type": "fitb",
-    "stem": "Oligomenorrhoea is defined as a reduction in menstrual frequency with cycle intervals exceeding ___________ days.",
-    "answer": "35",
-    "acceptableAnswers": [
-      "35",
-      "35 days",
-      "thirty-five"
-    ]
+    "stem": "The plasma level of progesterone in males is approximately ___ nmol/L.",
+    "answer": "1",
+    "acceptableAnswers": ["1", "1 nmol/L", "one"]
   },
   {
     "id": 75,
     "type": "fitb",
-    "stem": "In the fallopian tube, oestrogen increases ___________ activity, thereby promoting active transport of sperm, ovum, and zygote through the tube.",
-    "answer": "ciliary",
-    "acceptableAnswers": [
-      "ciliary",
-      "cilia",
-      "ciliary beat"
-    ]
+    "stem": "Progesterone plasma level during the follicular phase is approximately ___ nmol/L, while at mid-luteal phase it rises to ___ nmol/L.",
+    "answer": "3; 30â60",
+    "acceptableAnswers": ["3; 30â60", "3; 30-60", "3 nmol/L; 30â60 nmol/L"]
   },
   {
     "id": 76,
     "type": "fitb",
-    "stem": "Progesterone is converted in the liver to ___________ and conjugated with ___________ acid before being excreted in the urine.",
-    "answer": "pregnanediol / glucuronic",
-    "acceptableAnswers": [
-      "pregnanediol / glucuronic",
-      "pregnanediol / glucuronic acid",
-      "pregnanediol / glucuronide"
-    ]
+    "stem": "Before exerting its physiological action, progesterone requires previous ___ by ___ at the target cell.",
+    "answer": "priming; oestrogen",
+    "acceptableAnswers": ["priming; oestrogen", "priming by oestrogen"]
   },
   {
     "id": 77,
     "type": "fitb",
-    "stem": "Of circulating progesterone, ___________% is in the free unbound form, while ___________% is bound to albumin, and 18% is bound to corticosteroid binding globulin.",
-    "answer": "2 / 80",
-    "acceptableAnswers": [
-      "2 / 80",
-      "2% / 80%",
-      "two / eighty"
-    ]
+    "stem": "Progesterone reduces the ___ of uterine contractions, which is important for the retention of products of conception.",
+    "answer": "frequency",
+    "acceptableAnswers": ["frequency", "rate", "frequency of uterine contractions"]
   },
   {
     "id": 78,
     "type": "fitb",
-    "stem": "Oestrogens are biochemically formed from ___________ by the specific enzymatic process of ___________ within granulosa cells of the ovarian follicle.",
-    "answer": "androgens / aromatization",
-    "acceptableAnswers": [
-      "androgens / aromatization",
-      "androgen precursors / aromatization",
-      "androgens / aromatisation"
-    ]
+    "stem": "On the uterus, progesterone increases ___ and ___ deposition in the stromal cells of the endometrium.",
+    "answer": "lipid; glycogen",
+    "acceptableAnswers": ["lipid; glycogen", "glycogen; lipid", "lipid and glycogen"]
   },
   {
     "id": 79,
     "type": "fitb",
-    "stem": "In the liver, oestrogen is converted to ___________ and ___________ conjugates, which are subsequently excreted in the urine.",
-    "answer": "glucuronide / sulphate",
-    "acceptableAnswers": [
-      "glucuronide / sulphate",
-      "glucuronides / sulphates",
-      "glucuronate / sulfate"
-    ]
+    "stem": "Progesterone enhances development of ___ and ___ of the breast, and increases secretory activity.",
+    "answer": "lobules; alveoli",
+    "acceptableAnswers": ["lobules; alveoli", "alveoli; lobules", "lobules and alveoli"]
   },
   {
     "id": 80,
     "type": "fitb",
-    "stem": "Under oestrogen influence, the vaginal epithelium transforms from ___________ to ___________ squamous epithelium, rendering it significantly more resistant to infection.",
-    "answer": "cuboidal / stratified",
-    "acceptableAnswers": [
-      "cuboidal / stratified",
-      "cuboidal epithelium / stratified squamous",
-      "simple cuboidal / stratified squamous"
-    ]
+    "stem": "The thermogenic effect of progesterone causes a rise in basal body temperature of ___ to ___ degrees Celsius after ovulation.",
+    "answer": "0.3; 0.5",
+    "acceptableAnswers": ["0.3; 0.5", "0.3â0.5", "0.3 to 0.5"]
   },
   {
     "id": 81,
     "type": "fitb",
-    "stem": "Oestrogen has significant cardiovascular metabolic effects, increasing ___________ (cardioprotective) cholesterol while simultaneously decreasing ___________ (atherogenic) cholesterol.",
-    "answer": "HDL / LDL",
-    "acceptableAnswers": [
-      "HDL / LDL",
-      "high-density lipoprotein / low-density lipoprotein",
-      "HDL cholesterol / LDL cholesterol"
-    ]
+    "stem": "At high doses, progesterone ___ sodium reabsorption in the kidneys.",
+    "answer": "decreases",
+    "acceptableAnswers": ["decreases", "reduces", "inhibits"]
   },
   {
     "id": 82,
     "type": "fitb",
-    "stem": "The pre-ovulatory LH surge is triggered when ___________ produced by granulosa cells reaches a critical threshold that exerts ___________ feedback on the anterior pituitary.",
-    "answer": "oestrogen / positive",
-    "acceptableAnswers": [
-      "oestrogen / positive",
-      "estrogen / positive",
-      "oestradiol / positive"
-    ]
+    "stem": "Oestrogens are classified as ___ steroids, whereas progesterone is classified as a ___ steroid.",
+    "answer": "C18; C21",
+    "acceptableAnswers": ["C18; C21", "18-carbon; 21-carbon", "C-18; C-21"]
   },
   {
     "id": 83,
     "type": "fitb",
-    "stem": "After ovulation, ___________ stimulates and maintains the corpus luteum as the dominant gonadotropin in this phase, while ___________ plays only a smaller supporting role.",
-    "answer": "LH / FSH",
-    "acceptableAnswers": [
-      "LH / FSH",
-      "luteinizing hormone / follicle stimulating hormone",
-      "LH / follicle-stimulating hormone"
-    ]
+    "stem": "The three naturally occurring oestrogens are ___, ___, and ___.",
+    "answer": "17Î² oestradiol; oestrone; oestriol",
+    "acceptableAnswers": ["17Î² oestradiol; oestrone; oestriol", "oestradiol; oestrone; oestriol", "17-beta oestradiol; oestrone; oestriol"]
   },
   {
     "id": 84,
     "type": "fitb",
-    "stem": "Pre-ovulatory cervical mucus is thin and can be stretched into a long thread—a property called ___________—while post-ovulatory mucus becomes ___________ and thick due to the influence of progesterone.",
-    "answer": "spinnbarkeit / viscid",
-    "acceptableAnswers": [
-      "spinnbarkeit / viscid",
-      "spinnbarkeit / viscous",
-      "spinnbarkheit / viscid"
-    ]
+    "stem": "Oestrogens are formed from ___ by the process of ___.",
+    "answer": "androgens; aromatization",
+    "acceptableAnswers": ["androgens; aromatization", "androgens by aromatization"]
   },
   {
     "id": 85,
     "type": "fitb",
-    "stem": "During the secretory phase, the high circulating levels of progesterone and oestrogen ___________ inhibit FSH and LH production, while the ___________ frequency of GnRH secretion from the hypothalamus is also diminished.",
-    "answer": "negatively / pulse",
-    "acceptableAnswers": [
-      "negatively / pulse",
-      "negatively / pulsatile",
-      "negatively / pulsation"
-    ]
+    "stem": "In circulating oestrogen, ___ percent is free, ___ percent is bound to albumin, and ___ percent is bound to gonadal steroid binding globulin.",
+    "answer": "2; 60; 38",
+    "acceptableAnswers": ["2; 60; 38", "2%, 60%, 38%", "2, 60, 38"]
   },
   {
     "id": 86,
     "type": "fitb",
-    "stem": "Oestrogen causes ___________ and ___________ retention in the body, which is primarily responsible for the premenstrual bloating experienced by some women.",
-    "answer": "salt / water",
-    "acceptableAnswers": [
-      "salt / water",
-      "sodium / water",
-      "Na / H2O"
-    ]
+    "stem": "In the liver, oestrogens are converted to ___ and ___ conjugates and excreted in the urine.",
+    "answer": "glucuronides; sulphate",
+    "acceptableAnswers": ["glucuronides; sulphate", "glucuronic acid; sulphate", "glucuronide and sulphate"]
   },
   {
     "id": 87,
     "type": "fitb",
-    "stem": "In the two-cell theory of ovarian oestrogen synthesis, androstenedione is produced by ___________ cells and transported to ___________ cells where it undergoes aromatization to oestradiol.",
-    "answer": "theca / granulosa",
-    "acceptableAnswers": [
-      "theca / granulosa",
-      "theca interna / granulosa",
-      "thecal / granulosa"
-    ]
+    "stem": "Some oestrogen is excreted into the ___ and reabsorbed via the ___ into the bloodstream in a process called enterohepatic circulation.",
+    "answer": "bile; intestines",
+    "acceptableAnswers": ["bile; intestines", "bile; intestinal mucosa", "bile and intestines"]
   },
   {
     "id": 88,
     "type": "fitb",
-    "stem": "Ovulation typically occurs approximately ___________ to ___________ hours after the peak of the LH surge.",
-    "answer": "16 / 36",
-    "acceptableAnswers": [
-      "16 / 36",
-      "16-36",
-      "16 to 36"
-    ]
+    "stem": "Naturally occurring oestrogens are not very active orally because of enhanced degradation by the ___.",
+    "answer": "liver",
+    "acceptableAnswers": ["liver", "hepatic first-pass metabolism", "hepatic degradation"]
   },
   {
     "id": 89,
     "type": "fitb",
-    "stem": "Oestrogen increases the size of ___________ cells in the fallopian tube, especially the ___________ ones, to support efficient transport of gametes and zygote.",
-    "answer": "epithelial / ciliated",
-    "acceptableAnswers": [
-      "epithelial / ciliated",
-      "epithelial cells / ciliated",
-      "tubal epithelial / ciliated"
-    ]
+    "stem": "Synthetic oestrogens developed to be orally active include ___, ___, and diethylstilbestrol.",
+    "answer": "ethynyl oestradiol; mestranol",
+    "acceptableAnswers": ["ethynyl oestradiol; mestranol", "mestranol; ethynyl oestradiol", "ethinyl estradiol; mestranol"]
   },
   {
     "id": 90,
     "type": "fitb",
-    "stem": "In anovulatory cycles, no corpus luteum is formed; therefore, ___________ is not produced in appreciable quantities, and endometrial shedding occurs when ___________ -induced proliferation outgrows its own blood supply.",
-    "answer": "progesterone / oestrogen",
-    "acceptableAnswers": [
-      "progesterone / oestrogen",
-      "progesterone / estrogen",
-      "progesterone / oestrogen-induced"
-    ]
+    "stem": "Oestrogen changes vaginal epithelium from ___ to stratified squamous, which is more resistant to infection.",
+    "answer": "cuboidal",
+    "acceptableAnswers": ["cuboidal", "simple cuboidal", "columnar"]
   },
   {
     "id": 91,
     "type": "fitb",
-    "stem": "Naturally occurring oestrogens are poorly active orally due to enhanced ___________ by the liver. E2 has been modified to produce oral synthetic forms including ethynyl oestradiol, ___________, and ___________.",
-    "answer": "degradation / mestranol / diethylstilbestrol",
-    "acceptableAnswers": [
-      "degradation / mestranol / diethylstilbestrol",
-      "first-pass metabolism / mestranol / diethylstilbestrol",
-      "hepatic degradation / mestranol / diethylstilbestrol"
-    ]
+    "stem": "Lactobacillus acidophilus converts ___ deposited in vaginal epithelial cells to ___ acid, making vaginal pH more acidic.",
+    "answer": "glycogen; lactic",
+    "acceptableAnswers": ["glycogen; lactic", "glycogen to lactic acid", "glycogen; lactic acid"]
   },
   {
     "id": 92,
     "type": "fitb",
-    "stem": "Amenorrhoea is physiologically normal before ___________, during ___________ and lactation, and at ___________.",
-    "answer": "puberty / pregnancy / menopause",
-    "acceptableAnswers": [
-      "puberty / pregnancy / menopause",
-      "puberty / pregnancy / the menopause"
-    ]
+    "stem": "In the breast, oestrogen enhances development of ___ tissues, leads to growth of the ___ system, and enhances ___ deposition.",
+    "answer": "stromal; ductal; fat",
+    "acceptableAnswers": ["stromal; ductal; fat", "stroma; ductal; fat", "stromal; duct; fat"]
   },
   {
     "id": 93,
     "type": "fitb",
-    "stem": "During the proliferative stage of the menstrual cycle, endometrial repair is driven by ___________ produced by ___________ and granulosa cells of the developing follicle, ultimately preparing the endometrium for ___________ in the event of fertilization.",
-    "answer": "oestrogen / theca / implantation",
-    "acceptableAnswers": [
-      "oestrogen / theca / implantation",
-      "estrogen / theca / implantation",
-      "oestrogen / theca cells / implantation"
-    ]
+    "stem": "The proliferation of glandular tissues in the fallopian tubes by oestrogen enhances nourishment of the zygote, producing what is known as ___.",
+    "answer": "tubal milk",
+    "acceptableAnswers": ["tubal milk", "tube milk", "fallopian tube milk"]
   },
   {
     "id": 94,
     "type": "fitb",
-    "stem": "Oestrogen primes the endometrium by increasing the number of ___________ receptors; during the secretory phase, progesterone then reduces ___________ receptors to limit its own competing action, ensuring a controlled ___________ effect on the endometrial glands.",
-    "answer": "progesterone / oestrogen / secretory",
-    "acceptableAnswers": [
-      "progesterone / oestrogen / secretory",
-      "progesterone / estrogen / secretory"
-    ]
+    "stem": "Oestrogen increases ___ levels of cardioprotective lipoprotein and decreases the levels of ___, thus preventing arterial disease.",
+    "answer": "HDL; LDL",
+    "acceptableAnswers": ["HDL; LDL", "high-density lipoprotein; low-density lipoprotein", "HDL cholesterol; LDL cholesterol"]
   },
   {
     "id": 95,
     "type": "fitb",
-    "stem": "The 21-day serum ___________ level is a key determinant of ovulation, with a confirmed mid-luteal value ranging from ___________ to ___________ nmol/L.",
-    "answer": "progesterone / 30 / 60",
-    "acceptableAnswers": [
-      "progesterone / 30 / 60",
-      "progesterone / 30 nmol/L / 60 nmol/L"
-    ]
+    "stem": "Despite its cardioprotective lipid effects, oestrogen promotes ___ and ___ phenomena, representing a significant adverse effect.",
+    "answer": "venous thrombosis; embolic",
+    "acceptableAnswers": ["venous thrombosis; embolic", "thrombosis; embolism", "venous thrombosis and embolic phenomena"]
   },
   {
     "id": 96,
     "type": "fitb",
-    "stem": "Oestrogen-driven secondary sexual body shape changes include ___________ shoulders, ___________ hips, and a ___________ carrying angle of the arms (arms divergent).",
-    "answer": "narrow / broad / wide",
-    "acceptableAnswers": [
-      "narrow / broad / wide",
-      "narrow / broad / divergent",
-      "narrower / broader / wide"
-    ]
+    "stem": "In the hormonal regulation of the menstrual cycle, FSH/LH levels are at their ___ levels just before the start of the ___ phase.",
+    "answer": "lowest; follicular",
+    "acceptableAnswers": ["lowest; follicular", "lowest levels; follicular phase"]
   },
   {
     "id": 97,
     "type": "fitb",
-    "stem": "In the breast, oestrogen enhances development of ___________ tissues, leads to extensive growth of the ___________ system, and enhances fat ___________ within the breast tissue.",
-    "answer": "stromal / ductal / deposition",
-    "acceptableAnswers": [
-      "stromal / ductal / deposition",
-      "stromal tissue / ductal / deposition",
-      "stromal / duct / deposition"
-    ]
+    "stem": "LH stimulates the ___ cells to produce androstenedione and testosterone, which act as substrates for ___ to oestradiol by the granulosa cells.",
+    "answer": "theca; aromatization",
+    "acceptableAnswers": ["theca; aromatization", "theca cells; aromatization"]
   },
   {
     "id": 98,
     "type": "fitb",
-    "stem": "Histological examination of the endometrium during the ___________ phase shows a characteristic ___________ effect; this finding is considered a reliable indicator that ___________ has occurred in that cycle.",
-    "answer": "secretory / progesterone / ovulation",
-    "acceptableAnswers": [
-      "secretory / progesterone / ovulation"
-    ]
+    "stem": "Ovulation occurs approximately ___ hours after the ___ of the LH surge.",
+    "answer": "16â36; peak",
+    "acceptableAnswers": ["16â36; peak", "16-36 hours; peak", "16 to 36; peak"]
   },
   {
     "id": 99,
     "type": "fitb",
-    "stem": "Inhibin B and ___________ simultaneously stimulate production of themselves in a positive ___________ manner, contributing to accelerated maturation of follicles during the ___________ phase.",
-    "answer": "androgen / paracrine / follicular",
-    "acceptableAnswers": [
-      "androgen / paracrine / follicular",
-      "androgens / paracrine / follicular"
-    ]
+    "stem": "In anovulatory cycles, endometrial shedding occurs only when ___ induced proliferation outgrows its own ___.",
+    "answer": "oestrogen; blood supply",
+    "acceptableAnswers": ["oestrogen; blood supply", "estrogen; blood supply", "oestrogen-induced proliferation; blood supply"]
   },
   {
     "id": 100,
     "type": "fitb",
-    "stem": "In the absence of pregnancy, the corpus luteum ___________, causing a fall in ___________ and oestrogen levels; the sudden hormonal ___________ causes the endometrium to be shed as menstruation.",
-    "answer": "degenerates / progesterone / withdrawal",
-    "acceptableAnswers": [
-      "degenerates / progesterone / withdrawal",
-      "involutes / progesterone / withdrawal",
-      "regresses / progesterone / withdrawal"
-    ]
+    "stem": "Secondary dysmenorrhoea is painful menstruation that is associated with ___ tract pathology, while primary dysmenorrhoea is ___ associated with any pathology.",
+    "answer": "genital; not",
+    "acceptableAnswers": ["genital; not", "genital tract; not", "genital tract pathology; not associated"]
   }
 ]
