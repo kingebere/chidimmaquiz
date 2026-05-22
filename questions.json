@@ -2,1123 +2,1096 @@
   {
     "id": 1,
     "type": "mcq",
-    "stem": "The female reproductive system shows regular monthly cyclic changes in humans and primates. The menstrual cycle normally starts at menarche and ceases at menopause. Which age range is CORRECT for menarche and menopause respectively?",
+    "stem": "Progesterone is correctly classified as which steroid based on the number of carbon atoms in its molecular structure?",
     "options": [
-      "Menarche at 11–13 years; menopause at 42–52 years",
-      "Menarche at 13–15 years; menopause at 45–55 years",
-      "Menarche at 12–14 years; menopause at 43–53 years",
-      "Menarche at 14–16 years; menopause at 48–58 years"
+      "C18 steroid",
+      "C19 steroid",
+      "C21 steroid"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 2,
     "type": "mcq",
-    "stem": "The normal range of the menstrual cycle is between 21 to 35 days. What percentage of individuals actually have a perfect 28-day cycle?",
+    "stem": "Which of the following MOST accurately identifies the primary site of progesterone production in a non-pregnant cycling female?",
     "options": [
-      "Only 5% of individuals",
-      "Only 10% of individuals",
-      "Only 15% of individuals",
-      "Only 25% of individuals"
+      "Corpus luteum",
+      "Adrenal cortex",
+      "Ovarian follicles"
     ],
-    "answer": "C"
+    "answer": "A"
   },
   {
     "id": 3,
     "type": "mcq",
-    "stem": "Within the menstrual cycle, the length of the follicular phase is variable while the luteal phase has a constant duration. What is the constant duration of the luteal phase?",
+    "stem": "What percentage of circulating progesterone exists in an unbound, biologically active (free) form?",
     "options": [
-      "The luteal phase is always constant at 10 days",
-      "The luteal phase is always constant at 12 days",
-      "The luteal phase is almost always constant at 14 days",
-      "The luteal phase is constant at 16 days"
+      "2%",
+      "18%",
+      "80%"
     ],
-    "answer": "C"
+    "answer": "A"
   },
   {
     "id": 4,
     "type": "mcq",
-    "stem": "The duration of menstrual flow and the average volume of blood lost per cycle are important clinical parameters. Which combination is CORRECT?",
+    "stem": "What percentage of circulating progesterone is specifically bound to corticosteroid binding globulin (CBG)?",
     "options": [
-      "Flow duration of 1 to 5 days with average loss of 20 to 40 ml per month",
-      "Flow duration of 2 to 8 days with average loss of 30 to 50 ml per month",
-      "Flow duration of 3 to 7 days with average loss of 40 to 60 ml per month",
-      "Flow duration of 2 to 6 days with average loss of 50 to 80 ml per month"
+      "2%",
+      "18%",
+      "80%"
     ],
     "answer": "B"
   },
   {
     "id": 5,
     "type": "mcq",
-    "stem": "Menstrual blood is normally non-clotting despite being blood. What is the specific mechanism that prevents menstrual blood from clotting?",
+    "stem": "The largest single fraction of circulating progesterone is transported bound to which plasma protein?",
     "options": [
-      "The low platelet count in the endometrial blood prevents coagulation cascade initiation",
-      "The action of fibrinolysins prevents clotting; however when flow is heavy, clots may appear",
-      "Progesterone withdrawal causes release of heparin from endometrial mast cells that lyses clots",
-      "The highly alkaline environment of the uterine cavity denatures clotting factors in the menstrual blood"
+      "Corticosteroid binding globulin",
+      "Gonadal steroid binding globulin",
+      "Albumin"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 6,
     "type": "mcq",
-    "stem": "During menstrual flow, the genital tract has a specific vulnerability. Which statement MOST accurately describes this vulnerability and its clinical implication?",
+    "stem": "Progesterone undergoes hepatic biotransformation to which primary urinary metabolite?",
     "options": [
-      "The genital tract is closed and resistant to infection during menstrual flow, reducing sexually transmitted infection risk",
-      "The genital tract is open and prone to infections during menstrual flow, making menstrual hygiene critically important",
-      "The cervical os dilates during menstrual flow to allow blood drainage, but this does not increase infection risk",
-      "The low pH of menstrual blood provides natural antimicrobial protection against ascending infections"
+      "Pregnanediol",
+      "Pregnanolone",
+      "Pregnanetriol"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 7,
     "type": "mcq",
-    "stem": "Tampon use in menstrual hygiene management carries a specific serious risk if the tampon is forgotten. What is this risk?",
+    "stem": "Progesterone metabolites must be conjugated with which acid before urinary excretion?",
     "options": [
-      "Vaginal candidiasis from disruption of the normal vaginal flora by the synthetic tampon material",
-      "Toxic shock syndrome from bacterial toxin release if the tampon is left in place too long",
-      "Endometriosis from retrograde menstrual flow obstructed by tampon use",
-      "Cervical erosion from prolonged mechanical contact of the tampon with the ectocervix"
+      "Sulfuric acid",
+      "Acetic acid",
+      "Glucuronic acid"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 8,
     "type": "mcq",
-    "stem": "The ovary is a specific anatomical structure located in a particular position within the pelvis. What are its correct dimensions and anatomical position?",
+    "stem": "A serum progesterone level of 1 nmol/L represents the expected normal reference value for which of the following groups?",
     "options": [
-      "3 cm x 1.5 cm x 0.8 cm; located in the ovarian fossa on the lateral pelvic wall",
-      "4 cm x 2 cm x 1 cm; located in the ovarian fossa as a flattened ovoid structure",
-      "5 cm x 3 cm x 2 cm; suspended in the broad ligament at the pelvic brim",
-      "2 cm x 1 cm x 0.5 cm; located posterior to the uterus in the pouch of Douglas"
+      "Males",
+      "Females in the follicular phase",
+      "Females in the mid-luteal phase"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 9,
     "type": "mcq",
-    "stem": "A cross-section of the ovary reveals two distinct structural zones. Which statement CORRECTLY identifies both zones and their contents?",
+    "stem": "During the follicular phase of a normal menstrual cycle, plasma progesterone is expected to measure approximately:",
     "options": [
-      "The inner medulla contains follicles at various stages of development; the outer cortex contains blood vessels and nerves",
-      "The inner medulla contains loose connective tissue with blood vessels, nerves, and lymphatics; the outer cortex contains follicles at various stages of development",
-      "The entire ovarian parenchyma is homogeneous with follicles distributed equally throughout both zones",
-      "The outer medulla contains primordial follicles only; the inner cortex contains mature Graafian follicles"
+      "1 nmol/L",
+      "3 nmol/L",
+      "30-60 nmol/L"
     ],
     "answer": "B"
   },
   {
     "id": 10,
     "type": "mcq",
-    "stem": "The outer surface of the ovary is covered by a specific epithelium that is underneath a fibrous covering. What are these two surface layers correctly named?",
+    "stem": "The expected serum progesterone concentration during the mid-luteal phase of a normal ovulatory cycle ranges from:",
     "options": [
-      "Lined by simple squamous mesothelium underneath the tunica albuginea",
-      "Lined by the germinal epithelium, which is underneath a fibrous outer covering called the tunica albuginea",
-      "Lined by stratified squamous epithelium underneath the tunica vaginalis",
-      "Lined by the theca externa, which is underneath a fibrous layer called the tunica propria"
+      "1-3 nmol/L",
+      "3-10 nmol/L",
+      "30-60 nmol/L"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 11,
     "type": "mcq",
-    "stem": "During in utero development at approximately the third week of intrauterine life, primordial germ cells migrate from a specific origin to the genital ridge. What is their origin and migration route?",
+    "stem": "Like all steroid hormones, progesterone primarily exerts its cellular effects through which molecular mechanism?",
     "options": [
-      "They migrate from the mesonephric duct epithelium directly to the gonadal ridge via the coelomic cavity",
-      "They migrate from the primitive yolk sac into the hindgut epithelium and then through the dorsal mesentery to the genital ridge",
-      "They arise de novo in the genital ridge from coelomic epithelial cells without any prior migration",
-      "They migrate from the allantois through the umbilical cord to the posterior abdominal wall genital ridge"
+      "Activation of membrane-bound adenylyl cyclase increasing cyclic AMP",
+      "Stimulation of intracellular protein synthesis",
+      "Phosphorylation of G-protein coupled receptors"
     ],
     "answer": "B"
   },
   {
     "id": 12,
     "type": "mcq",
-    "stem": "After migrating to the genital ridge, the primordial germ cells quickly mature into oogonia. The oogonia then undergo mitotic division to form primary oocytes, which then enter the first meiotic division. At which specific stage is this first meiotic division arrested?",
+    "stem": "Which hormone MUST first prime the target cell before progesterone can exert its full physiological action?",
     "options": [
-      "Arrested at the zygotene stage of first meiotic prophase",
-      "Arrested at early prophase (diplotene stage) of the first meiotic division",
-      "Arrested at metaphase I of the first meiotic division",
-      "Arrested at anaphase I of the first meiotic division"
+      "FSH",
+      "LH",
+      "Oestrogen"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 13,
     "type": "mcq",
-    "stem": "At about the 5th month of intrauterine life, the ovary contains the maximum number of primordial follicles. What is this maximum number, and what is the mechanism by which most are lost before birth?",
+    "stem": "Progesterone's critical role in early pregnancy maintenance is primarily mediated through which specific myometrial effect?",
     "options": [
-      "5 x 10⁶ primordial follicles at peak; most lost by necrosis from ischaemia of the developing ovary",
-      "7 x 10⁶ primordial follicles at peak; most lost by atresia caused by apoptosis (programmed cell death)",
-      "10 x 10⁶ primordial follicles at peak; most lost by resorption into the ovarian stroma",
-      "3 x 10⁶ primordial follicles at peak; most lost by recruitment into the growing follicle pool"
+      "Reduction of uterine contraction frequency, aiding retention of products of conception",
+      "Proliferation of endometrial glands to enhance nutritional support for the embryo",
+      "Increased uterine sensitivity to oxytocin-mediated contractions to aid implantation"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 14,
     "type": "mcq",
-    "stem": "At birth, the ovaries contain a specific number of follicles remaining after fetal atresia. How many follicles are present at birth, and how many are present at puberty?",
+    "stem": "Which of the following BEST describes progesterone's direct glandular effect on the endometrium?",
     "options": [
-      "5 x 10⁶ at birth; 1,000,000 at puberty",
-      "2 x 10⁶ at birth; 500,000 at puberty",
-      "1 x 10⁶ at birth; 300,000 at puberty",
-      "3 x 10⁶ at birth; 750,000 at puberty"
+      "Proliferation of endometrial glandular epithelium",
+      "Increased secretory activity of glandular epithelial cells",
+      "Enhanced blood vessel proliferation and dilatation in the endometrial stroma"
     ],
     "answer": "B"
   },
   {
     "id": 15,
     "type": "mcq",
-    "stem": "Of the 500,000 follicles present at puberty, only a specific maximum number will ever reach full maturity throughout a woman's entire reproductive lifespan. What is this number?",
+    "stem": "The physiological basis for the rise in basal body temperature (BBT) that occurs at ovulation is attributed to:",
     "options": [
-      "Only 200 follicles may reach full maturity over the lifespan",
-      "Only 300 follicles may reach full maturity over the lifespan",
-      "Only 500 follicles may reach full maturity over the lifespan",
-      "Only 1000 follicles may reach full maturity over the lifespan"
+      "Direct thermogenic action of the mid-cycle LH surge on the hypothalamic thermoregulatory centre",
+      "Hypothalamic response to the pre-ovulatory FSH peak causing metabolic heat production",
+      "Thermogenic effect of progesterone secreted by the newly formed corpus luteum"
     ],
     "answer": "C"
   },
   {
     "id": 16,
     "type": "mcq",
-    "stem": "During pre-menarchial development (premenarchial oogenesis), the first meiotic division is completed just before ovulation. What are the two products formed when this first meiotic division completes?",
+    "stem": "At HIGH pharmacological doses, progesterone exerts which specific renal tubular effect?",
     "options": [
-      "Two secondary oocytes of equal size, both destined to become ova",
-      "The secondary oocyte and the first polar body",
-      "The primary oocyte and the first polar body with equal cytoplasmic distribution",
-      "The Graafian follicle cell and the first polar body, which later degenerates"
+      "Decreases sodium reabsorption in the kidneys",
+      "Increases aldosterone-mediated potassium secretion and sodium retention",
+      "Promotes ADH-independent free water reabsorption in collecting ducts"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 17,
     "type": "mcq",
-    "stem": "The secondary oocyte immediately begins the second meiotic division but is arrested at a specific phase. The second meiotic division is only completed under which precise trigger, and what are the two products formed?",
+    "stem": "Among the following, which is NOT a recognized clinical indication for progesterone therapy?",
     "options": [
-      "Arrested at anaphase II; completed by the LH surge at ovulation, forming a mature oocyte and second polar body",
-      "Arrested at metaphase; completed just before fertilization with spermatozoa, forming a mature oocyte and the second polar body",
-      "Arrested at telophase II; completed by progesterone surge from the corpus luteum, forming two haploid cells",
-      "Arrested at prophase II; completed by the FSH surge in the next cycle, forming the mature oocyte only"
+      "Recurrent miscarriage",
+      "Endometrial cancer",
+      "Treatment of precocious puberty"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 18,
     "type": "mcq",
-    "stem": "The primordial follicle consists of the primary oocyte surrounded by a specific type of granulosa cell layer. Which description is CORRECT?",
+    "stem": "A 32-year-old woman with three consecutive first-trimester pregnancy losses is MOST likely to receive progesterone for which specific clinical indication?",
     "options": [
-      "The primary oocyte is surrounded by a multilayered cuboidal granulosa cell arrangement from the earliest stage",
-      "The primary oocyte is surrounded by a single layer of flattened granulosa cells",
-      "The primary oocyte is surrounded by a single layer of cuboidal theca interna cells",
-      "The primary oocyte is surrounded by a double layer of flattened cells, one granulosa and one theca"
+      "Endometrial cancer chemoprevention",
+      "Recurrent miscarriage management",
+      "Induction of ovulation in an anovulatory cycle"
     ],
     "answer": "B"
   },
   {
     "id": 19,
     "type": "mcq",
-    "stem": "The transition from primordial to primary follicle involves changes in the granulosa cells and emergence of new structural components. Which changes occur during primary follicle development?",
+    "stem": "Naturally occurring oestrogens are steroids. Which classification CORRECTLY identifies them by carbon number?",
     "options": [
-      "The flattened granulosa cells remain single-layered but increase in size; the zona pellucida appears simultaneously",
-      "The granulosa cells become cuboidal and multilayered; the zona pellucida (a glycoprotein layer) appears between the oocyte and granulosa cells; connective tissue cells form theca interna (vascular) and theca externa (avascular)",
-      "The granulosa cells undergo apoptosis and are replaced by theca interna cells; antrum formation begins",
-      "The zona pellucida disappears to allow closer contact between granulosa cells and the oocyte during primary follicle stage"
+      "C17 steroids",
+      "C18 steroids",
+      "C19 steroids"
     ],
     "answer": "B"
   },
   {
     "id": 20,
     "type": "mcq",
-    "stem": "During primary follicle development, specific growth factors play essential roles in proliferation. Which growth factors are named in this curriculum as playing essential roles?",
+    "stem": "Which naturally occurring oestrogen is BOTH the most potent AND the most secreted by the ovaries?",
     "options": [
-      "Vascular endothelial growth factor (VEGF), platelet-derived growth factor (PDGF), and fibroblast growth factor (FGF)",
-      "IGF-1 and 2, transforming growth factor, and epidermal growth factor",
-      "Stem cell factor (SCF), bone morphogenetic protein (BMP), and activin",
-      "Growth differentiation factor 9 (GDF-9), bone morphogenetic protein 15 (BMP-15), and kit ligand"
+      "17β-oestradiol",
+      "Oestrone",
+      "Oestriol"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 21,
     "type": "mcq",
-    "stem": "During secondary follicle development, 6 to 12 primary follicles undergo further development. The antrum forms through a specific process. How does the antrum form, and what does it contain?",
+    "stem": "The biochemical conversion of androgen precursors into oestrogens within granulosa cells involves which specific enzymatic reaction?",
     "options": [
-      "The antrum forms by secretion of fluid from theca interna cells; it contains estrogen and androgens only",
-      "Irregular spaces appear within granulosa cells that fuse to form follicular antrum containing mucopolysaccharides, plasma proteins, electrolytes, steroidogenic enzymes, steroid hormones, LH, FSH, inhibin, oxytocin, vasopressin, and derivatives of proopiomelanocortin",
-      "The antrum forms by liquefaction of the zona pellucida; it contains primarily glycoproteins and water",
-      "Tight junctions between granulosa cells breakdown allowing coelomic fluid to fill the antrum space"
+      "Hydroxylation at carbon 16 of the steroid nucleus",
+      "Sulfonation of the A-ring to improve water solubility",
+      "Aromatization of the A-ring of androgenic precursors"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 22,
     "type": "mcq",
-    "stem": "As the antrum forms in the secondary follicle, the oocyte is pushed to one side in an eccentric location. Which group of granulosa cells surrounds the ovum at that eccentric location?",
+    "stem": "Androstenedione, the immediate androgenic precursor for granulosa cell oestradiol synthesis, is primarily produced by which ovarian cell type?",
     "options": [
-      "The membrane granulosa cells that line the antrum cavity",
-      "The cumulus oophorous or germ hill cells",
-      "The corona radiata cells that are the innermost granulosa layer",
-      "The theca interna cells that migrate inward around the eccentric oocyte"
+      "Granulosa cells via de novo cholesterol synthesis",
+      "Theca cells under LH stimulation",
+      "Stromal cells via peripheral androgen conversion"
     ],
     "answer": "B"
   },
   {
     "id": 23,
     "type": "mcq",
-    "stem": "At approximately the 7th day of the menstrual cycle, one follicle becomes dominant. Which TWO specific products does the dominant follicle produce that allow it to continue development despite falling FSH levels?",
+    "stem": "What percentage of total circulating oestrogen is present in the unbound, biologically active (free) fraction?",
     "options": [
-      "Progesterone and activin, which sensitize the follicle to LH receptor activation",
-      "The greatest amount of oestradiol and inhibin, which allow continued development despite falling FSH levels",
-      "Testosterone and androstenedione, which are aromatized to estradiol in the dominant follicle",
-      "IGF-1 and LH, which act together to stimulate granulosa cell proliferation independently"
+      "~2%",
+      "~38%",
+      "~60%"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 24,
     "type": "mcq",
-    "stem": "By the 14th day of the cycle, the Graafian (mature) follicle reaches a specific size. What is this size, and what meiotic state is the oocyte within it?",
+    "stem": "What percentage of circulating oestrogen is specifically bound to gonadal steroid binding globulin (GBG)?",
     "options": [
-      "10 to 15 mm; first meiotic division arrested at prophase I (diplotene stage)",
-      "18 to 22 mm; first meiotic division completed and second meiotic division arrested at metaphase",
-      "25 to 30 mm; both meiotic divisions completed with formation of the mature secondary oocyte",
-      "12 to 16 mm; arrested at anaphase I with second meiotic division about to begin"
+      "2%",
+      "38%",
+      "60%"
     ],
     "answer": "B"
   },
   {
     "id": 25,
     "type": "mcq",
-    "stem": "In the Graafian follicle, granulosa cells surrounding the ovum thicken to form a specific structure. What is this structure called?",
+    "stem": "The largest single fraction of circulating oestrogen is transported bound to which plasma protein?",
     "options": [
-      "The membrane granulosa — the innermost single-cell granulosa layer lining the antrum",
-      "The corona radiata — formed by thickening of granulosa cells surrounding the ovum",
-      "The cumulus oophorous — the granulosa cell mass that connects the oocyte to the follicle wall",
-      "The zona pellucida — the glycoprotein layer thickening around the oocyte surface"
+      "Sex hormone binding globulin",
+      "Corticosteroid binding globulin",
+      "Albumin"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 26,
     "type": "mcq",
-    "stem": "Ovulation normally occurs on the 14th day in a 28-day cycle. It is triggered by a specific hormonal event. Which hormonal event triggers ovulation, and what is released?",
+    "stem": "In the liver, oestrogen undergoes biotransformation into which two conjugated forms prior to urinary excretion?",
     "options": [
-      "A surge in FSH causes follicular rupture and release of the primary oocyte",
-      "An LH surge causes ovulation where the Graafian follicle ruptures and releases a secondary oocyte",
-      "A combined FSH and estradiol surge causes the follicle to dissolve and release a mature ovum",
-      "A progesterone surge from the developing corpus luteum causes follicular rupture"
+      "Glucuronide and sulphate conjugates",
+      "Acetate and phosphate conjugates",
+      "Glycine and taurine conjugates"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 27,
     "type": "mcq",
-    "stem": "The physical process of ovulation involves specific biochemical changes at the follicle surface. Which process causes the stigma to form and dissolve, releasing the ovum?",
+    "stem": "Enterohepatic circulation of oestrogen involves biliary excretion and subsequent reabsorption via which specific anatomical route?",
     "options": [
-      "Increased intrafollicular pressure from fluid accumulation mechanically ruptures the thinned follicle wall",
-      "Release of proteolytic enzymes and prostaglandins causes the mature follicle periphery to form a protrusion called stigma, which dissolves releasing the ovum and fluids",
-      "LH-mediated contraction of the outer theca externa muscle layer squeezes the ovum through the stigma",
-      "Oxytocin released at the LH surge causes smooth muscle contraction of the ovarian stroma ejecting the ovum"
+      "Lymphatic absorption through the mesenteric lymphatics into the thoracic duct",
+      "Intestinal reabsorption back into the systemic bloodstream",
+      "Renal tubular reabsorption in the proximal convoluted tubule"
     ],
     "answer": "B"
   },
   {
     "id": 28,
     "type": "mcq",
-    "stem": "After the ovum is released from the follicle, it is transported to the infundibulum through a specific mechanism. What is this mechanism?",
+    "stem": "Oestrogen-induced changes in vaginal epithelium involve a transformation from which cell type to a more infection-resistant form?",
     "options": [
-      "The ovum falls passively due to gravity into the pelvic cavity and is retrieved by the fimbriae",
-      "The octopus action of fimbriae ovarica transports the ovum to the infundibulum, then tubular peristalsis and ciliary action propel it to the ampulla",
-      "Uterine contractions create a suction pressure that draws the ovum through the fimbriae directly to the uterus",
-      "Specific chemotaxis from secretions of the isthmic mucosa directs the ovum from the peritoneal cavity"
+      "Simple columnar to stratified squamous epithelium",
+      "Cuboidal to stratified squamous epithelium",
+      "Transitional to pseudostratified columnar epithelium"
     ],
     "answer": "B"
   },
   {
     "id": 29,
     "type": "mcq",
-    "stem": "Ovulation may be associated with specific clinical signs that can aid in its detection. Which combination of signs is SPECIFICALLY listed in this curriculum?",
+    "stem": "The acidification of vaginal pH under oestrogen influence results from glycogen being converted to lactic acid by which specific microorganism?",
     "options": [
-      "Breast tenderness, vaginal discharge increase, and characteristic skin flushing",
-      "Mid-cycle pain (mittelschmerz), mid-cycle haemorrhage, and biphasic rise in body temperature (0.5°C)",
-      "Nausea, lower abdominal bloating, and a sharp drop in LH detectable on urine testing",
-      "Cervical os opening, increased vaginal pH, and unilateral ovarian pain lasting 24 to 48 hours"
+      "Lactobacillus fermentum",
+      "Lactobacillus rhamnosus",
+      "Lactobacillus acidophilus"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 30,
     "type": "mcq",
-    "stem": "Immediately after ovulation, the follicle is filled with blood forming a specific intermediate structure. What is this structure called?",
+    "stem": "The tubal milk that nourishes the zygote within the fallopian tube is produced through which specific oestrogen-mediated mechanism?",
     "options": [
-      "Corpus albicans — the whitish scar formed immediately after ovulation",
-      "Corpus haemorrhagicum — the follicle filled with blood immediately after ovulation",
-      "Corpus luteum menstrualis — the degenerating corpus luteum forming from the blood-filled follicle",
-      "Corpus spurium — the false corpus luteum formed when blood replaces follicular fluid"
+      "Proliferation of glandular tissues of the tube stimulated by oestrogen",
+      "Increased ciliary transport of uterine secretions into the tubal lumen",
+      "Progesterone-induced secretory changes occurring exclusively in tubal mucosa"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 31,
     "type": "mcq",
-    "stem": "After corpus haemorrhagicum formation, the granulosa and theca interna cells undergo luteinization. What specific changes occur in these cells, and what is the resulting appearance of the corpus luteum?",
+    "stem": "Oestrogen's dual effects on bone include which of the following CORRECTLY paired actions?",
     "options": [
-      "The cells shrink and become pale, giving the corpus luteum a whitish appearance due to cholesterol accumulation",
-      "The cells become larger and filled with lipid granules; they are now called granulosa lutein and theca lutein cells; the C. luteum measures about 15mm in diameter and has a yellowish appearance from lipid granules",
-      "The cells undergo apoptosis and are replaced by fibroblasts that produce the characteristic yellow pigment",
-      "The cells become highly vascular and red-coloured due to increased blood flow from the new luteal vasculature"
+      "Increased osteoblastic activity AND delayed epiphyseal closure",
+      "Increased osteoclastic activity AND early epiphyseal closure",
+      "Increased osteoblastic activity AND early epiphyseal closure"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 32,
     "type": "mcq",
-    "stem": "If the ovum is NOT fertilized, the corpus luteum reaches maximum growth after a specific time period after ovulation, then degenerates. When does maximum growth occur and when does degeneration begin?",
+    "stem": "A 58-year-old postmenopausal woman presents with a fragility fracture of the distal radius. The PRIMARY hormonal deficiency responsible for her skeletal condition is:",
     "options": [
-      "Maximum growth at 5 to 6 days post-ovulation; degeneration begins on the 7th day",
-      "Maximum growth at 7 to 8 days post-ovulation; degeneration begins around the 9th day and ends at 14 days",
-      "Maximum growth at 10 to 12 days post-ovulation; degeneration begins on the 14th day",
-      "Maximum growth at 4 to 5 days post-ovulation; degeneration begins on the 6th day"
+      "Decreased FSH leading to reduced follicular stimulation of bone-protective cytokines",
+      "Decreased oestrogen leading to impaired osteoblastic activity and accelerated bone resorption",
+      "Decreased progesterone leading to inadequate mineralisation of new bone matrix"
     ],
     "answer": "B"
   },
   {
     "id": 33,
     "type": "mcq",
-    "stem": "The process by which the corpus luteum degenerates when the ovum is not fertilized is called luteolysis. What specific cells are responsible for mediating luteolysis?",
+    "stem": "Which of the following CORRECTLY describes the full combined cardiovascular metabolic profile of oestrogen?",
     "options": [
-      "Eosinophils, neutrophils, and mast cells invading the corpus luteum tissue",
-      "Macrophage, leukocyte, and fibroblast invasion mediates luteolysis",
-      "Natural killer cells and T-lymphocytes causing immune-mediated destruction",
-      "Granulosa lutein cell apoptosis triggered by falling LH levels"
+      "Increases HDL, decreases LDL, prevents atherosclerosis, BUT promotes venous thrombosis and embolic phenomena",
+      "Decreases HDL, increases LDL, prevents venous thrombosis, BUT promotes arterial disease",
+      "Increases both HDL and LDL equally, with neutral effects on venous thromboembolic risk"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 34,
     "type": "mcq",
-    "stem": "After luteolysis, the cells of the regressed corpus luteum decrease in size to form a specific intermediate structure before becoming the corpus albicans. What is this intermediate structure, and what does the corpus albicans look like?",
+    "stem": "A 40-year-old woman on combined oral contraceptives develops a confirmed deep vein thrombosis. Which oestrogen-mediated mechanism BEST explains this complication?",
     "options": [
-      "Corpus spurium; which appears as a yellowish nodule in the ovarian cortex",
-      "Corpus luteum menstrualis or spurium, which is transformed into a whitish scar called corpus albicans",
-      "Corpus rubrum; which appears as a red scar before becoming the corpus albicans",
-      "The follicular remnant, which becomes hyalinized and clear before transforming to corpus albicans"
+      "Oestrogen-induced reduction in hepatic production of vitamin K-dependent anticoagulant factors",
+      "Oestrogen-induced increase in platelet aggregation leading to arterial thrombus formation",
+      "Oestrogen-induced promotion of venous thrombosis and embolic phenomena"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 35,
     "type": "mcq",
-    "stem": "If fertilization DOES occur, the corpus luteum of pregnancy forms by increasing to a specific size. What is the diameter range of the corpus luteum of pregnancy, which hormones does it produce, and when does the placenta take over?",
+    "stem": "Oestrogen increases hepatic synthesis of transport globulins responsible for carrying which clinically significant categories of hormones?",
     "options": [
-      "Increases to 10 to 15 mm; produces progesterone only; placenta takes over at 8 weeks",
-      "Increases to 20 to 30 mm; produces large amounts of progesterone, estrogen, and inhibin A; placenta takes over and then degeneration occurs at about 3 to 4 months",
-      "Increases to 30 to 40 mm; produces hCG and progesterone; placenta takes over at 6 weeks",
-      "Increases to 15 to 20 mm; produces estrogen only; placenta takes over at 12 weeks"
+      "Insulin and glucagon",
+      "Steroids and thyroid hormones",
+      "Catecholamines and growth hormone"
     ],
     "answer": "B"
   },
   {
     "id": 36,
     "type": "mcq",
-    "stem": "The uterine cycle can be divided into three phases. Which sequence of phases and their correct day ranges are MOST accurately stated?",
+    "stem": "The premenstrual bloating experienced by many women is primarily caused by which specific oestrogen-mediated metabolic effect?",
     "options": [
-      "Menstrual phase (days 1–5), follicular phase (days 5–14), secretory phase (days 14–28)",
-      "Menstrual phase (days 1–5 approximately), proliferative phase (days 5–14), secretory phase (days 15–28)",
-      "Proliferative phase (days 1–10), secretory phase (days 10–25), menstrual phase (days 25–28)",
-      "Ischaemic phase (days 1–3), proliferative phase (days 3–14), secretory phase (days 14–28)"
+      "Salt and water retention caused by oestrogen",
+      "Oestrogen-induced secondary hyperaldosteronism from the adrenal cortex",
+      "Decreased hepatic albumin synthesis reducing plasma oncotic pressure"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 37,
     "type": "mcq",
-    "stem": "During the menstrual phase, the superficial two-thirds of the endometrium is shed. What is the specific name for this shed layer, and what are its two sublayers?",
+    "stem": "Which of the following CORRECTLY explains why naturally occurring oestrogens are poorly active when administered orally?",
     "options": [
-      "The stratum basalis; made up of the stratum compactum and stratum spongiosum",
-      "The stratum functionale; made up of the stratum compactum and stratum spongiosum",
-      "The stratum functionalis; made up of the stratum granulosum and stratum basale",
-      "The decidua functionalis; made up of the decidua compacta and decidua spongiosa"
+      "They are irreversibly inactivated by gastric acid before reaching the small intestinal mucosa",
+      "They undergo extensive first-pass hepatic degradation following gastrointestinal absorption",
+      "They are too lipophilic to be absorbed across the aqueous unstirred layer of the intestinal epithelium"
     ],
     "answer": "B"
   },
   {
     "id": 38,
     "type": "mcq",
-    "stem": "The endometrial layer that remains intact after the menstrual phase and serves as the regenerative foundation for the next cycle is:",
+    "stem": "Which of the following compounds is a synthetic oestrogen derived specifically from modification of E2 to enhance oral bioavailability?",
     "options": [
-      "The stratum functionale — the superficial layer that reforms from the underlying basalis",
-      "The stratum basalis — the innermost layer that always remains intact after menstruation",
-      "The stratum spongiosum — the deeper portion of the functionale that escapes shedding",
-      "The stratum compactum — the surface layer that is retained to serve as the regenerative foundation"
+      "Medroxyprogesterone acetate",
+      "Norethisterone acetate",
+      "Ethynyl oestradiol"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 39,
     "type": "mcq",
-    "stem": "The initial vascular event that triggers endometrial shedding during the menstrual phase is:",
+    "stem": "A 26-year-old woman presents with pathological amenorrhoea. According to established reproductive physiology, investigation of pathological amenorrhoea should focus on an abnormality along which anatomical axis?",
     "options": [
-      "Vasodilation of the straight arteries causing haemorrhage into the stroma followed by ischaemia",
-      "Vasoconstriction of the spiral arteries leading to necrosis and shedding of the endometrium",
-      "Thrombosis of the basal arteries causing widespread infarction of the stratum functionale",
-      "Prostaglandin-mediated rupture of the endometrial capillaries directly into the endometrial glands"
+      "Thyroid-pituitary-ovarian-cervical-vaginal axis",
+      "Cortico-hypothalamo-pituitary-ovarian-utero-vaginal axis",
+      "Adrenal-hepatic-ovarian-endometrial-cervical axis"
     ],
     "answer": "B"
   },
   {
     "id": 40,
     "type": "mcq",
-    "stem": "The proliferative phase of the uterine cycle extends between specific days. At the end of this phase, the endometrium reaches a specific thickness. Which combination is CORRECT?",
+    "stem": "Menorrhagia is MOST precisely defined as which of the following?",
     "options": [
-      "Days 3 to 12; endometrium is about 2 to 3 mm thick at the end",
-      "Days 5 to 14; endometrium is about 3 to 4 mm thick at the end",
-      "Days 5 to 14; endometrium is about 5 to 6 mm thick at the end",
-      "Days 6 to 14; endometrium is about 4 to 5 mm thick at the end"
+      "Excessive menstrual bleeding that may be increased in duration, quantity, or manifesting as flooding",
+      "Complete absence of menses for three or more consecutive menstrual cycles",
+      "Painful menstruation occurring in the absence of identifiable genital tract pathology"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 41,
     "type": "mcq",
-    "stem": "The secretory phase extends from the 15th to the 28th day. The stromal cells of the endometrium undergo specific changes during this phase. Which changes are CORRECT?",
+    "stem": "A 33-year-old woman reports consistently menstruating every 42 days for the past year. Based on standard gynaecological classification, her condition is:",
     "options": [
-      "The stromal cells shrink and their cytoplasm becomes pale; glycogen is broken down for energy",
-      "The endometrial glands become larger and more tortuous; cytoplasm of stromal cells increases in size producing glycogen and lipids; more blood vessels appear and become more tortuous; endometrium reaches 5 to 6 mm",
-      "The endometrial glands flatten and become secretory; stromal cells develop subnuclear vacuoles only",
-      "The endometrial glands remain unchanged; only the vascular supply increases during the secretory phase"
+      "Polymenorrhoea",
+      "Amenorrhoea",
+      "Oligomenorrhoea"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 42,
     "type": "mcq",
-    "stem": "During the follicular phase of the ovarian cycle, Oestradiol influences the fallopian tube. When is the Oestradiol effect on the fallopian tube maximized, and what additional tubal changes occur?",
+    "stem": "Polymenorrhoea is defined by cycles occurring at which specific interval?",
     "options": [
-      "The effect is maximized during the follicular phase; tubal secretions decrease to concentrate nutrients",
-      "Oestradiol increases cilia number and beating rate during the follicular phase, with this action maximized during the luteal phase; tubal secretions are also enhanced to assist in nutritional provision of the ovum or zygote",
-      "The effect is maximized during ovulation; tubal secretions become alkaline to facilitate sperm survival",
-      "Progesterone maximizes the tubal ciliary effect during the secretory phase, not oestradiol during the follicular phase"
+      "Cycles occurring more than 35 days apart",
+      "Cycles occurring less than 21 days apart",
+      "Cycles occurring between 21 and 24 days apart"
     ],
     "answer": "B"
   },
   {
     "id": 43,
     "type": "mcq",
-    "stem": "During the proliferative phase, the vaginal epithelium undergoes specific changes. Which description is CORRECT for vaginal changes during the proliferative phase?",
+    "stem": "Which statement CORRECTLY distinguishes secondary from primary dysmenorrhoea in clinical practice?",
     "options": [
-      "The vaginal epithelium is atrophic and thin with few glycogen-containing cells and no leucocyte infiltration",
-      "The vaginal epithelium is cornified, multilayered, containing a lot of glycogen in the vacuole, and infiltrated by leucocytes; cornified cells reduce during the secretory phase",
-      "The vaginal epithelium becomes transitional and single-layered with abundant mucous secretion during proliferative phase",
-      "The vaginal epithelium is columnar during the proliferative phase and transitions to squamous during the secretory phase"
+      "Primary dysmenorrhoea is associated with demonstrable genital tract pathology; secondary dysmenorrhoea is not",
+      "Secondary dysmenorrhoea is associated with identifiable genital tract pathology; primary dysmenorrhoea is not",
+      "Primary dysmenorrhoea only affects nulliparous women while secondary affects exclusively multiparous women"
     ],
     "answer": "B"
   },
   {
     "id": 44,
     "type": "mcq",
-    "stem": "The cervical mucus characteristics differ significantly between the proliferative and secretory phases. Which comparison is MOST accurate?",
+    "stem": "Anovulatory cycles are physiologically most common and expected during which two specific life stages?",
     "options": [
-      "Proliferative phase: thick, tenacious, and acidic; secretory phase: thin, watery, and alkaline",
-      "Proliferative phase: thin and more alkaline; secretory phase: thick, tenacious, and cellular (pap-like)",
-      "Proliferative phase: absent (cervix is dry); secretory phase: increasing amounts of watery clear mucus",
-      "Proliferative phase: viscous and yellow; secretory phase: thin and egg-white in consistency"
+      "Mid-reproductive years (ages 25-35) and during the early postpartum period",
+      "Peak reproductive years (ages 20-30) and during periods of intense athletic training",
+      "First few months after menarche AND the few years immediately before onset of menopause"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 45,
     "type": "mcq",
-    "stem": "At the time of ovulation, the cervical mucus exhibits two distinctive physical properties that can be used clinically to confirm ovulation. What are these two properties?",
+    "stem": "In an anovulatory cycle, endometrial shedding occurs via which specific mechanism that distinguishes it from normal menstruation?",
     "options": [
-      "The mucus becomes thick and forms a plug (Spinnbarkeit negative); it shows a ferning pattern on microscopy",
-      "The mucus can be stretched for up to 8 to 12 cm (Spinnbarkeit) and is egg-white in character; it also exhibits a ferning pattern when spread on a slide and allowed to dry",
-      "The mucus becomes clear and watery with elasticity up to 4 to 6 cm; it shows beading on a glass slide",
-      "The mucus can be stretched up to 15 to 20 cm; it shows an arborization pattern on colposcopy"
+      "Progesterone withdrawal following an inadequate corpus luteum luteal phase",
+      "Oestrogen-induced endometrial proliferation eventually outgrowing its own blood supply",
+      "FSH-mediated regression of the endometrium in the absence of a sufficient LH surge"
     ],
     "answer": "B"
   },
   {
     "id": 46,
     "type": "mcq",
-    "stem": "The estrous cycle in non-primate mammals differs from the menstrual cycle in a specific and critical way. What is this key difference?",
+    "stem": "A woman charting her BBT to identify ovulation would expect which of the following characteristic biphasic patterns in a normal ovulatory cycle?",
     "options": [
-      "Non-primate mammals menstruate but do not ovulate spontaneously; they require coital stimulation for ovulation",
-      "Mammals other than primates (humans, chimpanzee, gorilla) do not menstruate; their sexual cycles are called estrous cycles with a conspicuous period of heat at ovulation, which is the only time female sexual interest is aroused",
-      "Non-primate mammals have an estrous cycle identical to the menstrual cycle except there is no luteal phase",
-      "The estrous cycle involves menstruation occurring at the time of ovulation rather than 14 days after it"
+      "A slight fall immediately before ovulation followed by a sustained rise of 0.3-0.5°C after ovulation",
+      "A sustained rise of 0.3-0.5°C before ovulation followed by a fall back to baseline after ovulation",
+      "A continuous gradual rise from the first day of menstruation through the entire luteal phase without a preceding dip"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 47,
     "type": "mcq",
-    "stem": "Multiple ovulations and multiple pregnancies may occur under specific conditions. When does this most commonly occur?",
+    "stem": "The ferning pattern observed when pre-ovulatory cervical mucus is dried on a glass slide disappears after ovulation because:",
     "options": [
-      "It occurs naturally when the FSH surge is exaggerated due to an abnormally low inhibin level",
-      "This usually occurs when there is ovulation induction with drugs, a common feature in artificial reproductive technology, and when there is more than one dominant follicle",
-      "This occurs exclusively with in vitro fertilization when multiple embryos are transferred",
-      "Multiple ovulations occur naturally in women with high LH levels throughout the follicular phase"
+      "FSH levels fall sharply, reducing cervical gland secretory stimulation in the early luteal phase",
+      "Progesterone causes the cervical mucus to become viscid and thick, eliminating the crystallisation capacity",
+      "The LH surge triggers breakdown of the mucous glycoprotein network preventing fern formation"
     ],
     "answer": "B"
   },
   {
     "id": 48,
     "type": "mcq",
-    "stem": "Inability of ovulation to occur is called anovulation. What is the clinical significance of anovulation?",
+    "stem": "The rheological property of pre-ovulatory cervical mucus that permits it to be stretched into a thin continuous thread without rupturing is specifically termed:",
     "options": [
-      "Anovulation causes menorrhagia as the corpus luteum fails to form and progesterone production is absent",
-      "Anovulation is a common cause of infertility, as the inability to release an ovum prevents fertilization",
-      "Anovulation only causes primary amenorrhoea in adolescents; it does not affect fertility in established cycles",
-      "Anovulation is clinically insignificant unless it persists for more than 12 consecutive cycles"
+      "Ferning",
+      "Spinnbarkeit",
+      "Viscoelasticity index"
     ],
     "answer": "B"
   },
   {
     "id": 49,
     "type": "mcq",
-    "stem": "CASE STUDY: A 28-year-old woman presents for fertility investigations after 18 months of trying to conceive. Her menstrual cycles are regular at 30–32 days. A mid-luteal phase progesterone level (taken on day 21) is very low. The nurse explains that this finding is consistent with which condition?",
+    "stem": "Which of the following CORRECTLY describes the consistency of cervical mucus in the post-ovulatory (luteal) phase of the menstrual cycle?",
     "options": [
-      "Inadequate estradiol production from the dominant follicle during the follicular phase",
-      "Anovulation — without ovulation, no corpus luteum forms, so progesterone remains low in the luteal phase",
-      "Premature luteolysis caused by macrophage invasion of the corpus luteum before maximum growth",
-      "Deficient LH surge causing inadequate ovarian stimulation of the granulosa cells"
+      "Viscid and thick (pap-like), hostile to sperm penetration",
+      "Thin, watery, and highly stretchable with maximum spinnbarkeit capacity",
+      "Clear and elastic with prominent ferning capacity on glass slide preparation"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 50,
     "type": "mcq",
-    "stem": "CASE STUDY: The same 28-year-old woman (Q49) reports bilateral lower abdominal cramping on approximately day 14 of a previous cycle, along with some light spotting. The nurse correctly identifies this as:",
+    "stem": "When counselling a patient about natural family planning and ovulation timing, the nurse should advise that ovulation typically occurs at what interval relative to the LH surge peak?",
     "options": [
-      "Premenstrual syndrome occurring unusually early in the mid-cycle",
-      "Mittelschmerz (mid-cycle pain) and mid-cycle haemorrhage, both consistent with ovulation",
-      "Implantation bleeding suggesting that fertilization may have already occurred in a previous cycle",
-      "Follicular rupture pain associated with a pathological ovarian cyst rather than normal ovulation"
+      "Approximately 6-12 hours after the initial rise in LH concentration",
+      "Approximately 16-36 hours after the peak of the LH surge",
+      "Approximately 48-72 hours after the initiation of the LH surge"
     ],
     "answer": "B"
   },
   {
     "id": 51,
     "type": "mcq",
-    "stem": "CASE STUDY: A 32-year-old woman undergoing ovulation induction for IVF has follicular monitoring by ultrasound. On day 13, she has three follicles measuring 20 mm each. The fertility nurse explains the risk associated with multiple dominant follicles. What is the PRIMARY clinical risk?",
+    "stem": "In the hormonal regulation of the menstrual cycle, FSH and LH levels reach their absolute lowest concentrations at which specific point in the cycle?",
     "options": [
-      "Ovarian hyperstimulation syndrome from excess LH receptors being exposed simultaneously",
-      "Multiple ovulations may occur leading to multiple pregnancies including higher-order multiples",
-      "Corpus luteum insufficiency because multiple corpora lutea produce less progesterone than a single one",
-      "Premature LH surge triggered by the combined estradiol from three dominant follicles causing cancelled cycle"
+      "During the mid-luteal phase when progesterone secretion is at its peak",
+      "During the pre-ovulatory period immediately before the LH surge begins",
+      "Just before the start of the follicular phase of the new menstrual cycle"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 52,
     "type": "mcq",
-    "stem": "CASE STUDY: A 25-year-old woman's endometrial biopsy on cycle day 7 shows intense proliferation of epithelial and stromal cells, glandular development, and neovascularization, with endometrial thickness of 3.5 mm. This biopsy is MOST consistent with which phase and what drove this endometrial change?",
+    "stem": "FSH exerts its primary action during the follicular phase by specifically targeting which ovarian cell type to promote follicular growth and maturation?",
     "options": [
-      "This is consistent with the early secretory phase driven by progesterone from the corpus luteum",
-      "This is consistent with the late proliferative phase driven by rising oestradiol from the developing follicle",
-      "This is consistent with the menstrual phase as the stratum functionale is regenerating",
-      "This is consistent with the mid-secretory phase with endometrial gland tortuosity and glycogen production"
+      "Theca cells to produce androstenedione as a substrate for oestradiol synthesis",
+      "Granulosa cells for the development and growth of Graafian follicles",
+      "Stromal cells to initiate recruitment of primordial follicles into the growing pool"
     ],
     "answer": "B"
   },
   {
     "id": 53,
     "type": "mcq",
-    "stem": "CASE STUDY: A 35-year-old woman presents with a 5-day history of heavy menstrual bleeding with clots. The nurse explains that clot formation in menstrual blood is physiologically abnormal. What is the mechanism that normally prevents clotting, and why might clots appear?",
+    "stem": "LH in the later follicular phase specifically stimulates theca cells to produce which androgenic substrates that serve as oestradiol precursors?",
     "options": [
-      "Prostaglandins normally lyse menstrual blood clots; heavy flow overwhelms prostaglandin synthesis capacity",
-      "Fibrinolysins normally prevent clotting of menstrual blood; when the flow is heavy, clots could appear because the fibrinolytic mechanism is overwhelmed",
-      "The low fibrinogen content of menstrual blood prevents clotting; heavy flow restores normal fibrinogen levels causing coagulation",
-      "Endometrial heparin release prevents clotting; heavy flow dilutes the heparin below the threshold for anticoagulation"
+      "Progesterone and 17-hydroxyprogesterone for direct granulosa cell conversion to oestradiol",
+      "Androstenedione and testosterone as substrates for aromatization to oestradiol in granulosa cells",
+      "Dehydroepiandrosterone sulphate (DHEAS) and pregnenolone as the primary ovarian oestrogen precursors"
     ],
     "answer": "B"
   },
   {
     "id": 54,
     "type": "mcq",
-    "stem": "CASE STUDY: A 26-year-old woman asks her nurse why she feels breast swelling, tenderness, and pain in the days before her period. The nurse correctly explains that these breast changes are related to which phase of the cycle?",
+    "stem": "The pre-ovulatory LH surge is triggered when circulating oestrogen levels reach a critical threshold causing which specific physiological response on the pituitary?",
     "options": [
-      "The follicular phase when rising oestradiol causes direct breast epithelial proliferation",
-      "The days preceding menstruation, when cyclical breast swelling, tenderness, and pain are a recognized change",
-      "The periovulatory period when the LH surge causes fluid retention in breast tissue",
-      "The early proliferative phase when FSH stimulates prolactin release causing breast engorgement"
+      "Negative feedback inhibition of GnRH that paradoxically amplifies LH secretion by the pituitary",
+      "Direct ovarian stimulation of LH release bypassing the hypothalamic-pituitary axis",
+      "Positive feedback on the anterior pituitary causing a sharp increase in LH and a small increase in FSH"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 55,
     "type": "mcq",
-    "stem": "CASE STUDY: A fertility nurse is teaching a group of women to use cervical mucus observation for natural family planning. She explains that the most fertile window is identifiable by a specific mucus characteristic. Which description indicates peak fertility?",
+    "stem": "After ovulation, which gonadotropin takes the PRIMARY responsibility for stimulating and maintaining the corpus luteum?",
     "options": [
-      "The mucus is thick, sticky, and white, consistent with the secretory phase mucus",
-      "The mucus is egg-white, can be stretched 8 to 12 cm (Spinnbarkeit), and shows a fern pattern on a slide — indicating ovulation and peak fertility",
-      "The mucus is absent (dry days), indicating that no estrogen is present and ovulation is imminent",
-      "The mucus is creamy and yellowish, indicating late follicular phase estrogen approaching but not yet at ovulation peak"
+      "LH",
+      "FSH",
+      "Prolactin"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 56,
     "type": "mcq",
-    "stem": "CASE STUDY: A 23-year-old nursing student asks why cycles are longest immediately after puberty and in the few years leading up to menopause. The instructor explains that these periods are characterized by which specific cycle feature?",
+    "stem": "During the secretory phase, progesterone reduces oestrogen's activity on the endometrium by which specific receptor-level mechanism?",
     "options": [
-      "The luteal phase is longest at the extremes of reproductive life, extending from 14 to 20 days",
-      "Cycles are longest at these times because the follicular phase is variable and is most frequently prolonged or irregular at the beginning and near the end of reproductive life",
-      "The secretory phase becomes progressively shorter at both puberty onset and perimenopause",
-      "Both phases are equally prolonged at these times due to elevated FSH levels stimulating follicular development"
+      "Accelerating hepatic clearance of circulating oestradiol to the weaker oestrone",
+      "Decreasing the number of oestrogen receptors available in the endometrium",
+      "Competitively occupying oestrogen receptors without activating downstream gene transcription"
     ],
     "answer": "B"
   },
   {
     "id": 57,
     "type": "mcq",
-    "stem": "CASE STUDY: An ultrasound on day 10 of a 28-day cycle reveals a 22 mm dominant follicle, with all other follicles appearing small and atretic. The nurse explains why only one follicle typically becomes dominant. What is the BEST explanation?",
+    "stem": "In the absence of pregnancy, corpus luteum degeneration at the end of the luteal phase leads to menstruation through which specific hormonal sequence?",
     "options": [
-      "Only one follicle receives blood supply from the ovarian artery and is therefore uniquely stimulated by FSH",
-      "The dominant follicle produces the greatest oestradiol and inhibin, suppressing FSH to levels too low for other follicles to survive, but the dominant follicle can continue to grow at these lower FSH levels",
-      "The dominant follicle secretes a specific follicle-killing protein that causes atresia of all other follicles",
-      "Random selection by the pituitary determines which follicle becomes dominant through selective LH pulsatility"
+      "Sudden rise in FSH and LH triggering direct endometrial desquamation and shedding",
+      "Increased GnRH pulsatility leading to vasoconstriction and ischaemic endometrial necrosis",
+      "Sudden withdrawal of progesterone and oestrogen causing the prepared endometrium to shed as menstruation"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 58,
     "type": "mcq",
-    "stem": "CASE STUDY: A patient undergoing fallopian tube surgery presents post-operatively with difficulty conceiving. The surgical report mentions micro and macro tubal damage. The nurse explains the consequence of tubal damage correctly as:",
+    "stem": "In addition to oestrogens, progesterone, and small quantities of androgens, which other hormone does the ovary secrete?",
     "options": [
-      "Tubal damage reduces FSH sensitivity and impairs follicular development in the ipsilateral ovary",
-      "Tubal damage (micro or macro) affects tubal function and may cause infertility or ectopic pregnancy",
-      "Tubal damage prevents menstruation by blocking retrograde outflow of menstrual blood",
-      "Micro tubal damage has no clinical significance; only macro tubal damage causes infertility"
+      "Calcitonin",
+      "Relaxin",
+      "Atrial natriuretic peptide"
     ],
     "answer": "B"
   },
   {
     "id": 59,
     "type": "mcq",
-    "stem": "CASE STUDY: An endometrial biopsy taken on day 21 shows tortuous glands, stromal cells with increased cytoplasm containing glycogen and lipids, and prominent tortuous blood vessels, with endometrial thickness of 5.5 mm. This finding is MOST consistent with which endometrial phase?",
+    "stem": "A nurse practitioner reviews an endometrial biopsy report showing characteristic secretory changes consistent with progesterone effect. This histological finding MOST reliably confirms:",
     "options": [
-      "Late proliferative phase driven by high estradiol levels from the dominant Graafian follicle",
-      "Normal secretory phase endometrium consistent with the 15th to 28th day of the uterine cycle",
-      "Endometrial hyperplasia caused by unopposed estrogen without progesterone opposition",
-      "Early proliferative phase with intense stromal proliferation driven by recovering FSH levels"
+      "The patient is currently in the late proliferative phase of her current cycle",
+      "Ovulation has occurred in the current menstrual cycle",
+      "The patient has elevated basal FSH indicating significantly reduced ovarian reserve"
     ],
     "answer": "B"
   },
   {
     "id": 60,
     "type": "mcq",
-    "stem": "CASE STUDY: A 40-year-old perimenopausal woman reports cycles of 21 days followed by 42 days, alternating irregularly. The fertility nurse explains this is due to variability in which phase specifically?",
+    "stem": "Inhibin B secreted by granulosa cells simultaneously stimulates its own production along with androgens through which specific type of regulatory interaction?",
     "options": [
-      "Variability in the luteal phase length, which normally remains constant but extends during perimenopause",
-      "Variability in the follicular phase length, which is the variable portion of the menstrual cycle; the luteal phase remains almost always constant at 14 days",
-      "Variability in both phases equally, as declining ovarian reserve disrupts all aspects of cycle regulation",
-      "Variability in the menstrual phase duration, leading to shorter cycles when flow is brief and longer when prolonged"
+      "Positive paracrine manner",
+      "Negative autocrine manner",
+      "Positive endocrine feedback loop via the hypothalamus"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 61,
+    "type": "mcq",
+    "stem": "A 55-year-old postmenopausal woman is assessed for hormone replacement therapy (HRT). Which statement BEST justifies the inclusion of oestrogen in her regimen?",
+    "options": [
+      "To restore cyclical gonadotropin patterns and prevent FSH-related accelerated bone turnover",
+      "To stimulate residual ovarian follicles to resume endogenous oestrogen production",
+      "To replace declining oestrogen levels and prevent complications including osteoporosis"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 62,
+    "type": "mcq",
+    "stem": "A student nurse recording a volunteer's basal body temperature notes a 0.4°C sustained elevation on day 14 following a slight dip on day 13. Which hormone is DIRECTLY responsible for this temperature elevation?",
+    "options": [
+      "Progesterone",
+      "Luteinizing hormone",
+      "17β-oestradiol"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 63,
+    "type": "mcq",
+    "stem": "A 27-year-old woman presents to the gynaecology clinic reporting menstrual periods occurring every 18 days consistently for the past 8 months. Based on standard gynaecological classification, her condition is:",
+    "options": [
+      "Oligomenorrhoea",
+      "Polymenorrhoea",
+      "Menorrhagia"
     ],
     "answer": "B"
   },
   {
-    "id": 61,
-    "type": "fitb",
-    "stem": "The menstrual cycle normally starts at about ___ to ___ years (menarche) and stops at about ___ to ___ years (menopause).",
-    "answer": "13 / 15 / 45 / 55",
-    "acceptableAnswers": [
-      "13 / 15 / 45 / 55",
-      "13-15 years / 45-55 years"
-    ]
-  },
-  {
-    "id": 62,
-    "type": "fitb",
-    "stem": "The normal range of the menstrual cycle is between ___ and ___ days, with only ___% of individuals having a perfect 28-day cycle.",
-    "answer": "21 / 35 / 15",
-    "acceptableAnswers": [
-      "21 / 35 / 15",
-      "21 to 35 days / 15%"
-    ]
-  },
-  {
-    "id": 63,
-    "type": "fitb",
-    "stem": "The length of the ___ phase is variable, while that of the ___ phase is almost always constant at ___ days.",
-    "answer": "follicular / luteal / 14",
-    "acceptableAnswers": [
-      "follicular / luteal / 14",
-      "follicular phase / luteal phase / 14 days"
-    ]
-  },
-  {
     "id": 64,
-    "type": "fitb",
-    "stem": "Menstrual flow lasts ___ to ___ days with an average blood loss of about ___ to ___ ml per month; the blood is normally non-clotting due to the action of ___.",
-    "answer": "2 / 8 / 30 / 50 / fibrinolysins",
-    "acceptableAnswers": [
-      "2 / 8 / 30 / 50 / fibrinolysins",
-      "2-8 days / 30-50 ml / fibrinolysins"
-    ]
+    "type": "mcq",
+    "stem": "A day-21 serum progesterone in a woman with a regular 28-day cycle actively attempting conception returns at 2.8 nmol/L. Based on established mid-luteal reference values, this result MOST likely indicates:",
+    "options": [
+      "Anovulatory cycle, as the level is significantly below the expected 30-60 nmol/L mid-luteal range",
+      "Normal ovulatory cycle with adequate luteal phase progesterone production confirmed",
+      "Early luteal phase result consistent with corpus luteum progesterone just beginning to rise"
+    ],
+    "answer": "A"
   },
   {
     "id": 65,
-    "type": "fitb",
-    "stem": "The ovary measures ___ cm x ___ cm x ___ cm; it is located in the ___ fossa; and its outer surface is lined by germinal epithelium beneath the fibrous covering called the ___ albuginea.",
-    "answer": "4 / 2 / 1 / ovarian / tunica",
-    "acceptableAnswers": [
-      "4 / 2 / 1 / ovarian / tunica",
-      "4 x 2 x 1 cm / ovarian fossa / tunica albuginea"
-    ]
+    "type": "mcq",
+    "stem": "A pharmacology student asks why ethynyl oestradiol is preferred over natural 17β-oestradiol in oral contraceptive formulations. Which represents the CORRECT explanation?",
+    "options": [
+      "Ethynyl oestradiol has lower oestrogenic potency per molecule, substantially reducing thromboembolic risk",
+      "Natural 17β-oestradiol undergoes extensive first-pass hepatic degradation, severely limiting its oral bioavailability",
+      "Ethynyl oestradiol selectively suppresses FSH without affecting the LH surge, improving contraceptive efficacy"
+    ],
+    "answer": "B"
   },
   {
     "id": 66,
     "type": "fitb",
-    "stem": "At about the ___ month of intrauterine life, the ovary contains ___ x 10⁶ primordial follicles; at ___, the ovaries contain only about ___ x 10⁶ follicles due to atresia.",
-    "answer": "5th / 7 / birth / 2",
+    "stem": "Progesterone is produced mainly by the corpus luteum, the placenta, and in small amounts by the ovarian follicles and the ___________ cortex.",
+    "answer": "adrenal",
     "acceptableAnswers": [
-      "5th / 7 / birth / 2",
-      "fifth / 7 million / birth / 2 million"
+      "adrenal",
+      "adrenal gland",
+      "suprarenal"
     ]
   },
   {
     "id": 67,
     "type": "fitb",
-    "stem": "At puberty only ___ follicles remain, and eventually only ___ may reach full maturity throughout the woman's life; atresia is caused by ___ or programmed cell death.",
-    "answer": "500,000 / 500 / apoptosis",
+    "stem": "The plasma level of progesterone in a normal follicular phase is approximately ___________ nmol/L.",
+    "answer": "3",
     "acceptableAnswers": [
-      "500,000 / 500 / apoptosis",
-      "500 000 / 500 / apoptosis"
+      "3",
+      "3 nmol/L",
+      "approximately 3"
     ]
   },
   {
     "id": 68,
     "type": "fitb",
-    "stem": "In utero, primordial germ cells migrate at about the ___ week from the primitive ___ sac, through the dorsal mesentery to the genital ridge, where they mature into oogonia.",
-    "answer": "third / yolk",
+    "stem": "Before progesterone can exert its physiological action at the target cell, prior priming by ___________ is an absolute requirement.",
+    "answer": "oestrogen",
     "acceptableAnswers": [
-      "third / yolk",
-      "3rd / yolk",
-      "third week / yolk sac"
+      "oestrogen",
+      "estrogen",
+      "oestradiol",
+      "17β-oestradiol"
     ]
   },
   {
     "id": 69,
     "type": "fitb",
-    "stem": "Oogonia divide ___ into primary oocytes; primary oocytes then undergo the first ___ division, but this is arrested at early prophase (___ stage).",
-    "answer": "mitotically / meiotic / diplotene",
+    "stem": "Progesterone stimulates pulmonary ___________, a significant respiratory effect of clinical relevance during pregnancy.",
+    "answer": "ventilation",
     "acceptableAnswers": [
-      "mitotically / meiotic / diplotene",
-      "mitotically / meiotic division / diplotene stage"
+      "ventilation",
+      "pulmonary ventilation",
+      "breathing"
     ]
   },
   {
     "id": 70,
     "type": "fitb",
-    "stem": "At birth, all germ cells in the ovary are ___ oocytes; first meiotic division is completed just before ___ to form the secondary oocyte and the first ___ body.",
-    "answer": "primary / ovulation / polar",
+    "stem": "In the breast, progesterone primarily enhances development of lobules and ___________, thereby increasing the organ's secretory activity.",
+    "answer": "alveoli",
     "acceptableAnswers": [
-      "primary / ovulation / polar",
-      "primary oocytes / ovulation / polar body"
+      "alveoli",
+      "alveolar tissue",
+      "mammary alveoli"
     ]
   },
   {
     "id": 71,
     "type": "fitb",
-    "stem": "The second meiotic division is only completed just before ___ with spermatozoa, forming the mature ___ and the second polar body; if there are no spermatozoa, this process ___ be completed.",
-    "answer": "fertilization / oocyte / may not",
+    "stem": "The three naturally occurring oestrogens are 17β-oestradiol, oestrone, and ___________.",
+    "answer": "oestriol",
     "acceptableAnswers": [
-      "fertilization / oocyte / may not",
-      "fertilization / mature oocyte / may not"
+      "oestriol",
+      "estriol",
+      "E3"
     ]
   },
   {
     "id": 72,
     "type": "fitb",
-    "stem": "The primordial follicle has the primary oocyte surrounded by a single layer of ___ granulosa cells; during the primary follicle stage, the zona pellucida (a ___ layer) appears between the oocyte and granulosa cells.",
-    "answer": "flattened / glycoprotein",
+    "stem": "The adrenal ___________ also produces small amounts of 17β-oestradiol (E2) in addition to the major ovarian source.",
+    "answer": "cortex",
     "acceptableAnswers": [
-      "flattened / glycoprotein",
-      "flattened granulosa / glycoprotein"
+      "cortex",
+      "adrenal cortex",
+      "suprarenal cortex"
     ]
   },
   {
     "id": 73,
     "type": "fitb",
-    "stem": "Connective tissue around the primary follicle forms two layers: the inner vascular ___ and the outer avascular ___ .",
-    "answer": "theca interna / theca externa",
+    "stem": "Oestrogen makes the vaginal pH more acidic by increasing glycogen deposition in the epithelial cells, which is subsequently converted to lactic acid by ___________.",
+    "answer": "Lactobacillus acidophilus",
     "acceptableAnswers": [
-      "theca interna / theca externa",
-      "theca interna (vascular) / theca externa (avascular)"
+      "Lactobacillus acidophilus",
+      "L. acidophilus",
+      "lactobacillus acidophilus"
     ]
   },
   {
     "id": 74,
     "type": "fitb",
-    "stem": "During secondary follicle development, irregular spaces in the granulosa cells fuse to form the follicular ___, which contains mucopolysaccharides, plasma proteins, electrolytes, and steroidogenic enzymes; the granulosa cells lining the antrum form the membrane ___.",
-    "answer": "antrum / granulosa",
+    "stem": "Oligomenorrhoea is defined as a reduction in menstrual frequency with cycle intervals exceeding ___________ days.",
+    "answer": "35",
     "acceptableAnswers": [
-      "antrum / granulosa",
-      "follicular antrum / membrane granulosa"
+      "35",
+      "35 days",
+      "thirty-five"
     ]
   },
   {
     "id": 75,
     "type": "fitb",
-    "stem": "The dominant follicle is selected at about the ___ day of the cycle; it produces the greatest amount of ___ and inhibin, and is capable of continued development in the face of falling ___ levels.",
-    "answer": "7th / oestradiol / FSH",
+    "stem": "In the fallopian tube, oestrogen increases ___________ activity, thereby promoting active transport of sperm, ovum, and zygote through the tube.",
+    "answer": "ciliary",
     "acceptableAnswers": [
-      "7th / oestradiol / FSH",
-      "7 / estradiol / FSH"
+      "ciliary",
+      "cilia",
+      "ciliary beat"
     ]
   },
   {
     "id": 76,
     "type": "fitb",
-    "stem": "The Graafian follicle reaches ___ to ___ mm in diameter by day 14; the first meiotic division is ___ and the second meiotic division is arrested at ___.",
-    "answer": "18 / 22 / completed / metaphase",
+    "stem": "Progesterone is converted in the liver to ___________ and conjugated with ___________ acid before being excreted in the urine.",
+    "answer": "pregnanediol / glucuronic",
     "acceptableAnswers": [
-      "18 / 22 / completed / metaphase",
-      "18-22 mm / completed / metaphase"
+      "pregnanediol / glucuronic",
+      "pregnanediol / glucuronic acid",
+      "pregnanediol / glucuronide"
     ]
   },
   {
     "id": 77,
     "type": "fitb",
-    "stem": "Ovulation occurs on day ___ in a normal 28-day cycle, triggered by an ___ surge; the Graafian follicle ruptures and releases a ___ oocyte into the abdominal cavity.",
-    "answer": "14 / LH / secondary",
+    "stem": "Of circulating progesterone, ___________% is in the free unbound form, while ___________% is bound to albumin, and 18% is bound to corticosteroid binding globulin.",
+    "answer": "2 / 80",
     "acceptableAnswers": [
-      "14 / LH / secondary",
-      "14th / LH surge / secondary oocyte"
+      "2 / 80",
+      "2% / 80%",
+      "two / eighty"
     ]
   },
   {
     "id": 78,
     "type": "fitb",
-    "stem": "Ovulation may be associated with mid-cycle pain called ___, mid-cycle haemorrhage, and a ___ rise in body temperature of ___ degrees Celsius.",
-    "answer": "mittelschmerz / biphasic / 0.5",
+    "stem": "Oestrogens are biochemically formed from ___________ by the specific enzymatic process of ___________ within granulosa cells of the ovarian follicle.",
+    "answer": "androgens / aromatization",
     "acceptableAnswers": [
-      "mittelschmerz / biphasic / 0.5",
-      "Mittelschmerz / biphasic / 0.5°C"
+      "androgens / aromatization",
+      "androgen precursors / aromatization",
+      "androgens / aromatisation"
     ]
   },
   {
     "id": 79,
     "type": "fitb",
-    "stem": "Immediately after ovulation, the follicle fills with blood forming the corpus ___; the granulosa and theca interna cells then become the ___ lutein and theca lutein cells and the corpus luteum measures about ___ mm in diameter.",
-    "answer": "haemorrhagicum / granulosa / 15",
+    "stem": "In the liver, oestrogen is converted to ___________ and ___________ conjugates, which are subsequently excreted in the urine.",
+    "answer": "glucuronide / sulphate",
     "acceptableAnswers": [
-      "haemorrhagicum / granulosa / 15",
-      "corpus haemorrhagicum / granulosa lutein / 15 mm"
+      "glucuronide / sulphate",
+      "glucuronides / sulphates",
+      "glucuronate / sulfate"
     ]
   },
   {
     "id": 80,
     "type": "fitb",
-    "stem": "If the ovum is not fertilized, maximum corpus luteum growth occurs at ___ to ___ days post-ovulation; degeneration begins on the ___ day post-ovulation; luteolysis is achieved by ___, leukocyte, and fibroblast invasion.",
-    "answer": "7 / 8 / 9th / macrophage",
+    "stem": "Under oestrogen influence, the vaginal epithelium transforms from ___________ to ___________ squamous epithelium, rendering it significantly more resistant to infection.",
+    "answer": "cuboidal / stratified",
     "acceptableAnswers": [
-      "7 / 8 / 9th / macrophage",
-      "7-8 days / 9th day / macrophage"
+      "cuboidal / stratified",
+      "cuboidal epithelium / stratified squamous",
+      "simple cuboidal / stratified squamous"
     ]
   },
   {
     "id": 81,
     "type": "fitb",
-    "stem": "The regressed corpus luteum forms the corpus luteum ___ or spurium, which is transformed into a whitish scar called corpus ___.",
-    "answer": "menstrualis / albicans",
+    "stem": "Oestrogen has significant cardiovascular metabolic effects, increasing ___________ (cardioprotective) cholesterol while simultaneously decreasing ___________ (atherogenic) cholesterol.",
+    "answer": "HDL / LDL",
     "acceptableAnswers": [
-      "menstrualis / albicans",
-      "corpus luteum menstrualis / corpus albicans"
+      "HDL / LDL",
+      "high-density lipoprotein / low-density lipoprotein",
+      "HDL cholesterol / LDL cholesterol"
     ]
   },
   {
     "id": 82,
     "type": "fitb",
-    "stem": "If fertilization occurs, the corpus luteum of pregnancy increases to ___ to ___ mm in diameter, produces large amounts of progesterone, estrogen, and ___ A; degeneration then occurs at about ___ to ___ months.",
-    "answer": "20 / 30 / inhibin / 3 / 4",
+    "stem": "The pre-ovulatory LH surge is triggered when ___________ produced by granulosa cells reaches a critical threshold that exerts ___________ feedback on the anterior pituitary.",
+    "answer": "oestrogen / positive",
     "acceptableAnswers": [
-      "20 / 30 / inhibin / 3 / 4",
-      "20-30 mm / inhibin A / 3-4 months"
+      "oestrogen / positive",
+      "estrogen / positive",
+      "oestradiol / positive"
     ]
   },
   {
     "id": 83,
     "type": "fitb",
-    "stem": "The uterine changes occur in the ___ layer and can be divided into three phases: the ___ phase, the proliferative phase, and the ___ phase.",
-    "answer": "endometrial / menstrual / secretory",
+    "stem": "After ovulation, ___________ stimulates and maintains the corpus luteum as the dominant gonadotropin in this phase, while ___________ plays only a smaller supporting role.",
+    "answer": "LH / FSH",
     "acceptableAnswers": [
-      "endometrial / menstrual / secretory",
-      "endometrium / menstrual phase / secretory phase"
+      "LH / FSH",
+      "luteinizing hormone / follicle stimulating hormone",
+      "LH / follicle-stimulating hormone"
     ]
   },
   {
     "id": 84,
     "type": "fitb",
-    "stem": "The menstrual phase lasts about ___ days; the superficial two-thirds of the endometrium, called stratum ___, is shed; the ___ layer remains intact as the regenerative base.",
-    "answer": "5 / functionale / stratum basalis",
+    "stem": "Pre-ovulatory cervical mucus is thin and can be stretched into a long thread—a property called ___________—while post-ovulatory mucus becomes ___________ and thick due to the influence of progesterone.",
+    "answer": "spinnbarkeit / viscid",
     "acceptableAnswers": [
-      "5 / functionale / stratum basalis",
-      "5 days / stratum functionale / stratum basalis"
+      "spinnbarkeit / viscid",
+      "spinnbarkeit / viscous",
+      "spinnbarkheit / viscid"
     ]
   },
   {
     "id": 85,
     "type": "fitb",
-    "stem": "The proliferative phase extends from day ___ to ___, driven by rising ___ from the developing follicle; the endometrium reaches ___ to ___ mm thickness at the end.",
-    "answer": "5 / 14 / oestradiol / 3 / 4",
+    "stem": "During the secretory phase, the high circulating levels of progesterone and oestrogen ___________ inhibit FSH and LH production, while the ___________ frequency of GnRH secretion from the hypothalamus is also diminished.",
+    "answer": "negatively / pulse",
     "acceptableAnswers": [
-      "5 / 14 / oestradiol / 3 / 4",
-      "5th / 14th / oestradiol (estradiol) / 3-4 mm"
+      "negatively / pulse",
+      "negatively / pulsatile",
+      "negatively / pulsation"
     ]
   },
   {
     "id": 86,
     "type": "fitb",
-    "stem": "The secretory phase extends from day ___ to day ___; the endometrium reaches ___ to ___ mm thickness; stromal cells produce ___ and lipids.",
-    "answer": "15 / 28 / 5 / 6 / glycogen",
+    "stem": "Oestrogen causes ___________ and ___________ retention in the body, which is primarily responsible for the premenstrual bloating experienced by some women.",
+    "answer": "salt / water",
     "acceptableAnswers": [
-      "15 / 28 / 5 / 6 / glycogen",
-      "15th / 28th / 5-6 mm / glycogen"
+      "salt / water",
+      "sodium / water",
+      "Na / H2O"
     ]
   },
   {
     "id": 87,
     "type": "fitb",
-    "stem": "During the follicular phase, oestradiol increases the number of ___ and the rate of beating in the fallopian tube; this action is ___ during the luteal phase; tubal secretions are also enhanced for ___ provision of the ovum or zygote.",
-    "answer": "cilia / maximized / nutritional",
+    "stem": "In the two-cell theory of ovarian oestrogen synthesis, androstenedione is produced by ___________ cells and transported to ___________ cells where it undergoes aromatization to oestradiol.",
+    "answer": "theca / granulosa",
     "acceptableAnswers": [
-      "cilia / maximized / nutritional",
-      "cilia / maximised / nutritional"
+      "theca / granulosa",
+      "theca interna / granulosa",
+      "thecal / granulosa"
     ]
   },
   {
     "id": 88,
     "type": "fitb",
-    "stem": "During the proliferative phase, cervical mucus is ___ and more ___; at the time of ovulation it can be stretched up to ___ to ___ cm (spinnibarkeit) and is ___ white in character.",
-    "answer": "thin / alkaline / 8 / 12 / egg",
+    "stem": "Ovulation typically occurs approximately ___________ to ___________ hours after the peak of the LH surge.",
+    "answer": "16 / 36",
     "acceptableAnswers": [
-      "thin / alkaline / 8 / 12 / egg",
-      "thin and alkaline / 8-12 cm / egg white"
+      "16 / 36",
+      "16-36",
+      "16 to 36"
     ]
   },
   {
     "id": 89,
     "type": "fitb",
-    "stem": "During the secretory phase, cervical mucus is ___, tenacious, and ___ (pap-like); at the time of ovulation, the mucus exhibits a ___ pattern when spread on a slide and allowed to dry.",
-    "answer": "thick / cellular / ferning",
+    "stem": "Oestrogen increases the size of ___________ cells in the fallopian tube, especially the ___________ ones, to support efficient transport of gametes and zygote.",
+    "answer": "epithelial / ciliated",
     "acceptableAnswers": [
-      "thick / cellular / ferning",
-      "thick / cellular (pap-like) / ferning pattern"
+      "epithelial / ciliated",
+      "epithelial cells / ciliated",
+      "tubal epithelial / ciliated"
     ]
   },
   {
     "id": 90,
     "type": "fitb",
-    "stem": "The female reproductive system is made up of the primary sex organ (the ___) and accessory sex organs (uterus, tubes, ___, and external genitalia); the life of females can be divided into ___ phases.",
-    "answer": "ovary / vagina / 4",
+    "stem": "In anovulatory cycles, no corpus luteum is formed; therefore, ___________ is not produced in appreciable quantities, and endometrial shedding occurs when ___________ -induced proliferation outgrows its own blood supply.",
+    "answer": "progesterone / oestrogen",
     "acceptableAnswers": [
-      "ovary / vagina / 4",
-      "ovary / vagina / four"
+      "progesterone / oestrogen",
+      "progesterone / estrogen",
+      "progesterone / oestrogen-induced"
     ]
   },
   {
     "id": 91,
     "type": "fitb",
-    "stem": "Mammals other than ___ (humans, chimpanzee, gorilla) do not ___; their sexual cycles are called ___ cycles; at ovulation there is a conspicuous period of ___ which is the only time female sexual interest is aroused.",
-    "answer": "primates / menstruate / estrous / heat",
+    "stem": "Naturally occurring oestrogens are poorly active orally due to enhanced ___________ by the liver. E2 has been modified to produce oral synthetic forms including ethynyl oestradiol, ___________, and ___________.",
+    "answer": "degradation / mestranol / diethylstilbestrol",
     "acceptableAnswers": [
-      "primates / menstruate / estrous / heat",
-      "primates / menstruate / oestrous (estrous) / heat"
+      "degradation / mestranol / diethylstilbestrol",
+      "first-pass metabolism / mestranol / diethylstilbestrol",
+      "hepatic degradation / mestranol / diethylstilbestrol"
     ]
   },
   {
     "id": 92,
     "type": "fitb",
-    "stem": "During childhood, granulosa cells provide ___ for the ovum and secrete oocyte ___ factor that keeps the ovum suspended in the ___ stage of the first meiotic division.",
-    "answer": "nourishment / maturation inhibition / prophase",
+    "stem": "Amenorrhoea is physiologically normal before ___________, during ___________ and lactation, and at ___________.",
+    "answer": "puberty / pregnancy / menopause",
     "acceptableAnswers": [
-      "nourishment / maturation inhibition / prophase",
-      "nourishment (nutrition) / oocyte maturation inhibition factor / prophase"
+      "puberty / pregnancy / menopause",
+      "puberty / pregnancy / the menopause"
     ]
   },
   {
     "id": 93,
     "type": "fitb",
-    "stem": "During secondary follicle development, the group of granulosa cells that surround the ovum at its eccentric location are called ___ oophorous or ___ hill cells; the granulosa cells lining the antrum form the membrane ___.",
-    "answer": "cumulus / germ / granulosa",
+    "stem": "During the proliferative stage of the menstrual cycle, endometrial repair is driven by ___________ produced by ___________ and granulosa cells of the developing follicle, ultimately preparing the endometrium for ___________ in the event of fertilization.",
+    "answer": "oestrogen / theca / implantation",
     "acceptableAnswers": [
-      "cumulus / germ / granulosa",
-      "cumulus oophorous / germ hill cells / membrane granulosa"
+      "oestrogen / theca / implantation",
+      "estrogen / theca / implantation",
+      "oestrogen / theca cells / implantation"
     ]
   },
   {
     "id": 94,
     "type": "fitb",
-    "stem": "The ovum after release is transported to the ___ by the octopus action of ___ ovarica, then propelled to the ampulla by tubular ___ and ciliary action of the tubes.",
-    "answer": "infundibulum / fimbriae / peristalsis",
+    "stem": "Oestrogen primes the endometrium by increasing the number of ___________ receptors; during the secretory phase, progesterone then reduces ___________ receptors to limit its own competing action, ensuring a controlled ___________ effect on the endometrial glands.",
+    "answer": "progesterone / oestrogen / secretory",
     "acceptableAnswers": [
-      "infundibulum / fimbriae / peristalsis",
-      "infundibulum / fimbriae ovarica / tubular peristalsis"
+      "progesterone / oestrogen / secretory",
+      "progesterone / estrogen / secretory"
     ]
   },
   {
     "id": 95,
     "type": "fitb",
-    "stem": "The initial event of menstruation is ___ of the spiral arteries; this leads to ___ and shedding of the ___ layer of the endometrium.",
-    "answer": "vasoconstriction / necrosis / superficial (stratum functionale)",
+    "stem": "The 21-day serum ___________ level is a key determinant of ovulation, with a confirmed mid-luteal value ranging from ___________ to ___________ nmol/L.",
+    "answer": "progesterone / 30 / 60",
     "acceptableAnswers": [
-      "vasoconstriction / necrosis / superficial (stratum functionale)",
-      "vasoconstriction / necrosis and shedding / stratum functionale"
+      "progesterone / 30 / 60",
+      "progesterone / 30 nmol/L / 60 nmol/L"
     ]
   },
   {
     "id": 96,
     "type": "fitb",
-    "stem": "If fertilization occurs, the ___ of pregnancy produces large amounts of ___, estrogen, and inhibin A until the ___ takes over the function at about 3 to 4 months.",
-    "answer": "corpus luteum / progesterone / placenta",
+    "stem": "Oestrogen-driven secondary sexual body shape changes include ___________ shoulders, ___________ hips, and a ___________ carrying angle of the arms (arms divergent).",
+    "answer": "narrow / broad / wide",
     "acceptableAnswers": [
-      "corpus luteum / progesterone / placenta",
-      "corpus luteum of pregnancy / progesterone / placenta"
+      "narrow / broad / wide",
+      "narrow / broad / divergent",
+      "narrower / broader / wide"
     ]
   },
   {
     "id": 97,
     "type": "fitb",
-    "stem": "The released ovum is transported from the ovary to the tube; tubal damage (micro or macro) may cause ___ or ___ pregnancy.",
-    "answer": "infertility / ectopic",
+    "stem": "In the breast, oestrogen enhances development of ___________ tissues, leads to extensive growth of the ___________ system, and enhances fat ___________ within the breast tissue.",
+    "answer": "stromal / ductal / deposition",
     "acceptableAnswers": [
-      "infertility / ectopic",
-      "infertility / ectopic pregnancy",
-      "ectopic / infertility"
+      "stromal / ductal / deposition",
+      "stromal tissue / ductal / deposition",
+      "stromal / duct / deposition"
     ]
   },
   {
     "id": 98,
     "type": "fitb",
-    "stem": "During the proliferative phase, the vaginal epithelium is ___, multilayered, containing a lot of ___ in the vacuole, and ___ by leucocytes.",
-    "answer": "cornified / glycogen / infiltrated",
+    "stem": "Histological examination of the endometrium during the ___________ phase shows a characteristic ___________ effect; this finding is considered a reliable indicator that ___________ has occurred in that cycle.",
+    "answer": "secretory / progesterone / ovulation",
     "acceptableAnswers": [
-      "cornified / glycogen / infiltrated",
-      "cornified / glycogen / infiltrated (invaded)"
+      "secretory / progesterone / ovulation"
     ]
   },
   {
     "id": 99,
     "type": "fitb",
-    "stem": "At ovulation, with the release of ___ enzymes and prostaglandins, the mature follicle causes a protrusion called ___ at the periphery of the ovary, which dissolves to release the ovum and fluids; inability of this process to occur leads to ___, a common cause of infertility.",
-    "answer": "proteolytic / stigma / anovulation",
+    "stem": "Inhibin B and ___________ simultaneously stimulate production of themselves in a positive ___________ manner, contributing to accelerated maturation of follicles during the ___________ phase.",
+    "answer": "androgen / paracrine / follicular",
     "acceptableAnswers": [
-      "proteolytic / stigma / anovulation",
-      "proteolytic enzymes / stigma / anovulation"
+      "androgen / paracrine / follicular",
+      "androgens / paracrine / follicular"
     ]
   },
   {
     "id": 100,
     "type": "fitb",
-    "stem": "Multiple ovulations may occur in the presence of more than one ___ follicle; this usually occurs when there is ovulation induction with ___, a common feature in ___ reproductive technology.",
-    "answer": "dominant / drugs / artificial",
+    "stem": "In the absence of pregnancy, the corpus luteum ___________, causing a fall in ___________ and oestrogen levels; the sudden hormonal ___________ causes the endometrium to be shed as menstruation.",
+    "answer": "degenerates / progesterone / withdrawal",
     "acceptableAnswers": [
-      "dominant / drugs / artificial",
-      "dominant follicle / drugs / artificial reproductive technology"
+      "degenerates / progesterone / withdrawal",
+      "involutes / progesterone / withdrawal",
+      "regresses / progesterone / withdrawal"
     ]
   }
 ]
