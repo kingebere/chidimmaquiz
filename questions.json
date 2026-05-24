@@ -2,1080 +2,981 @@
   {
     "id": 1,
     "type": "mcq",
-    "stem": "HCG is a glycoprotein with a molecular weight of 39,000 produced by the syncytiotrophoblast. It contains \u03b1 and \u03b2 subunits. Which subunit confers unique biological specificity and differs between FSH, LH, TSH, and HCG?",
+    "stem": "Lactation involves three distinct sequential processes. Which of the following CORRECTLY identifies all three in the exact order as stated in the lecture?",
     "options": [
-      "The \u03b1 subunit, which is unique to HCG and encoded by a separate gene from other glycoprotein hormones",
-      "The \u03b2 subunit, which differs between each glycoprotein hormone and confers hormone specificity",
-      "Both \u03b1 and \u03b2 subunits are unique to HCG, making it completely distinct from other glycoproteins"
+      "Ejection, secretion, and synthesis of milk",
+      "Synthesis, secretion, and ejection of milk",
+      "Secretion, synthesis, and ejection of milk"
     ],
-    "answer": "B" 
+    "answer": "B"
   },
   {
     "id": 2,
     "type": "mcq",
-    "stem": "The \u03b1 subunits of FSH, LH, TSH, and HCG are all products of a single gene and have similar amino acid composition. The correct number of amino acids in this shared \u03b1 subunit is:",
+    "stem": "Milk secretion involves the synthesis of milk by which specific tissue, and its passage into which structure?",
     "options": [
-      "69 amino acids",
-      "92 amino acids",
-      "115 amino acids"
+      "Synthesis by myoepithelial cells with passage into the alveoli",
+      "Synthesis by alveolar epithelium with passage into the ductal system",
+      "Synthesis by ductal epithelium with passage into the alveolar lumen"
     ],
     "answer": "B"
   },
   {
     "id": 3,
     "type": "mcq",
-    "stem": "HCG can be detected in the blood by radioimmunoassay as early as how many days after conception, and appears in urine how many days after conception?",
+    "stem": "Milk ejection specifically involves the expulsion of milk from which anatomical structures to the exterior?",
     "options": [
-      "Blood: 8 days; Urine: 16 days after conception",
-      "Blood: 6 days; Urine: 14 days after conception",
-      "Blood: 4 days; Urine: 10 days after conception"
+      "From the alveoli and glandular stroma to the nipple",
+      "From the ducts and alveoli to the exterior",
+      "From the ductal system only to the exterior via the nipple pore"
     ],
     "answer": "B"
   },
   {
     "id": 4,
     "type": "mcq",
-    "stem": "After conception, HCG plasma values start to rise from 6\u20138 days. They reach a peak at which gestational age, and then decline to a lower sustained level from which gestational age?",
+    "stem": "The two pituitary hormones that play vital roles in lactation are named in the lecture. Which hormone specifically acts on the myoepithelial cells to cause milk ejection?",
     "options": [
-      "Peak at 8\u201310 weeks; lower level from 14\u201316 weeks",
-      "Peak at 10\u201312 weeks; lower level from 16\u201320 weeks",
-      "Peak at 12\u201314 weeks; lower level from 20\u201324 weeks"
+      "Prolactin, which contracts the myoepithelial cells surrounding the alveoli to eject milk",
+      "Oxytocin, which acts on the myoepithelial cells of the breast to cause milk ejection",
+      "Oxytocin, which acts on the alveolar epithelial cells to cause milk secretion into the ducts"
     ],
     "answer": "B"
   },
   {
     "id": 5,
     "type": "mcq",
-    "stem": "The MOST important function of HCG in early pregnancy is to preserve the secretory function of the corpus luteum until the placenta is established. What does the corpus luteum produce that HCG is protecting?",
+    "stem": "Prolactin is a protein hormone produced by which specific cell type in the anterior pituitary?",
     "options": [
-      "FSH and LH to maintain follicular development until the next ovulatory cycle",
-      "Large amounts of progesterone and oestrogens to maintain the endometrium and pregnancy",
-      "Relaxin and inhibin to prevent premature uterine contractions in the first trimester"
+      "Somatotropes of the anterior pituitary",
+      "Lactotropes of the anterior pituitary",
+      "Gonadotropes of the anterior pituitary"
     ],
     "answer": "B"
   },
   {
     "id": 6,
     "type": "mcq",
-    "stem": "HCG acts on the Leydig cells of the male fetus to produce testosterone. Why is this specific HCG action essential for the male fetus?",
+    "stem": "Prolactin is under inhibitory control from the hypothalamus. What is the name of the hypothalamic substance responsible for this tonic inhibition?",
     "options": [
-      "Testosterone is needed to stimulate the Sertoli cells to begin spermatogenesis in utero",
-      "Testosterone produced under HCG stimulation is necessary for the development of the male sex organ",
-      "Testosterone inhibits placental aromatization, preventing feminization of the male fetus by maternal oestrogens"
+      "Prolactin releasing hormone (PRH) â a stimulatory hypothalamic peptide",
+      "Prolactin inhibiting hormone (PIH) from the hypothalamus",
+      "Gonadotropin releasing hormone (GnRH) which cross-inhibits prolactin at the pituitary level"
     ],
     "answer": "B"
   },
   {
     "id": 7,
     "type": "mcq",
-    "stem": "Human Placental Lactogen (HPL) is also known by which alternative name, and it is produced by which placental cell type?",
+    "stem": "Prolactin contains how many amino acid residues, and is structurally like which two other hormones?",
     "options": [
-      "Also called human chorionic gonadotropin; produced by the cytotrophoblast",
-      "Also called human chorionic somatomammotropin; produced by the syncytiotrophoblast",
-      "Also called human placental thyrotropin; produced by the syncytiotrophoblast"
+      "Contains 191 amino acid residues; structurally like GH and TSH",
+      "Contains 199 amino acid residues; structurally like GH and HPL",
+      "Contains 199 amino acid residues; structurally like FSH and HPL"
     ],
     "answer": "B"
   },
   {
     "id": 8,
     "type": "mcq",
-    "stem": "HPL secretion is aided by GH-RH and inhibited by somatostatin. Where specifically is the somatostatin that inhibits HPL produced?",
+    "stem": "The prolactin receptor signal transduction pathway is MOST similar to which other hormone's receptor mechanism?",
     "options": [
-      "The maternal hypothalamus produces somatostatin that inhibits HPL via the systemic circulation",
-      "Adjacent trophoblastic cells produce somatostatin that locally inhibits HPL secretion",
-      "The anterior pituitary produces somatostatin as a negative feedback response to HPL elevation"
+      "FSH receptor â acts via G-proteins and cAMP second messenger",
+      "Growth hormone receptor â acts via the JAK-STAT pathway",
+      "Oxytocin receptor â acts via the phospholipid second messenger"
     ],
     "answer": "B"
   },
   {
     "id": 9,
     "type": "mcq",
-    "stem": "HPL reduces peripheral utilization of glucose by the mother and is described as diabetogenic. What is the PRIMARY physiological purpose of this reduction in maternal glucose utilization?",
+    "stem": "The half-life of prolactin is stated in the lecture as which specific duration?",
     "options": [
-      "To increase maternal hepatic glycogen stores as an energy reserve for labour and delivery",
-      "To divert glucose to the fetus for its growth and energy requirements",
-      "To stimulate maternal pancreatic \u03b2-cell hyperplasia to compensate for increased insulin resistance"
+      "tÂ½ is 60 minutes",
+      "tÂ½ is 20 minutes",
+      "tÂ½ is 40 minutes"
     ],
     "answer": "B"
   },
   {
     "id": 10,
     "type": "mcq",
-    "stem": "Regarding progesterone production in pregnancy, which statement CORRECTLY describes the transition from corpus luteum to placenta as primary source?",
+    "stem": "The normal plasma level of prolactin in males and females respectively are stated as:",
     "options": [
-      "Placental secretion starts at 4 weeks and takes over completely from the corpus luteum at 8 weeks",
-      "Placental secretion starts at 6 weeks and maximizes, taking over from the corpus luteum from 12 weeks",
-      "Placental secretion starts at 8 weeks and takes over completely from the corpus luteum at 16 weeks"
+      "8ng/ml in males and 5ng/ml in females",
+      "5ng/ml in males and 8ng/ml in females",
+      "5ng/ml in both males and females at baseline"
     ],
     "answer": "B"
   },
   {
     "id": 11,
     "type": "mcq",
-    "stem": "Progesterone inhibits prostaglandin production AND reduces uterine responsiveness to oxytocics during pregnancy. These combined actions serve which specific purpose?",
+    "stem": "Prolactin levels increase during pregnancy and reach their peak at which specific point?",
     "options": [
-      "To prevent implantation of a second blastocyst while the first conceptus is developing",
-      "To prevent premature delivery",
-      "To synchronize myometrial gap junction formation for coordinated labour contractions at term"
+      "At the end of the second trimester",
+      "At labour",
+      "Immediately after delivery when the placenta is removed"
     ],
     "answer": "B"
   },
   {
     "id": 12,
     "type": "mcq",
-    "stem": "The placenta CANNOT directly produce oestrogens because it lacks which specific enzymatic activities?",
+    "stem": "Which of the following CORRECTLY identifies stimuli that INCREASE prolactin production as stated in the lecture?",
     "options": [
-      "21-hydroxylase and 11\u03b2-hydroxylase activity",
-      "17-hydroxylase and 17,20-desmolase activity",
-      "3\u03b2-hydroxysteroid dehydrogenase and aromatase activity"
+      "Sleep, exercise, TRH, TSH, nipple stimulation, surgical and psychological stress",
+      "Sleep, exercise, TRH, dopamine, nipple stimulation, and surgical stress",
+      "Exercise, estrogen, TRH, TSH, nipple stimulation, and psychological stress"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 13,
     "type": "mcq",
-    "stem": "Because the placenta cannot synthesize DHEA, the substrate for placental oestrogen production must come from which sources?",
+    "stem": "Despite rising prolactin levels during pregnancy, significant lactation is PREVENTED. Which hormones inhibit prolactin action during pregnancy?",
     "options": [
-      "Exclusively from the maternal adrenal cortex via the umbilical circulation",
-      "From both maternal and fetal sources",
-      "Exclusively from the fetal adrenal cortex and fetal liver"
+      "High levels of HCG and HPL prevent lactation by blocking prolactin receptors at the breast",
+      "High levels of progesterone and estrogen prevent significant lactation by inhibiting prolactin production",
+      "High levels of relaxin and cortisol prevent significant lactation by downregulating mammary alveolar sensitivity to prolactin"
     ],
     "answer": "B"
   },
   {
     "id": 14,
     "type": "mcq",
-    "stem": "Oestrogen during pregnancy stimulates continuous uterine muscle growth and softens pelvic bones and ligaments. It performs the latter function in conjunction with which other hormone?",
+    "stem": "After delivery and removal of the placenta, prolactin concentration initially falls temporarily. What causes it to rise again and sustain lactation?",
     "options": [
-      "Progesterone, which reduces collagen crosslinking in pelvic ligaments synergistically with oestrogen",
-      "Relaxin, which works in conjunction with oestrogen to soften pelvic bones and ligaments",
-      "Cortisol, which reduces pelvic ligament tensile strength synergistically with oestrogen"
+      "The falling HCG level after placental removal removes the negative feedback on prolactin synthesis",
+      "Suckling is initiated, causing prolactin to rise again",
+      "Estrogen withdrawal after placental removal directly stimulates lactotrope prolactin secretion"
     ],
     "answer": "B"
   },
   {
     "id": 15,
     "type": "mcq",
-    "stem": "Relaxin is structurally similar to which specific hormonal molecule, which reflects its shared precursor architecture?",
+    "stem": "The clinical recommendation to put newborns to the breast as soon as possible after delivery is directly explained by which physiological principle?",
     "options": [
-      "Insulin \u2014 the active pancreatic \u03b2-cell hormone",
-      "Proinsulin \u2014 the precursor form of the pancreatic hormone",
-      "Glucagon \u2014 the counter-regulatory pancreatic hormone"
+      "Early suckling prevents oxytocin-mediated uterine involution from occurring too slowly",
+      "Prolactin concentration falls temporarily after delivery and rises again when suckling is initiated, establishing milk supply",
+      "Early suckling prevents PIH from permanently suppressing lactotrope sensitivity within the first 24 hours"
     ],
     "answer": "B"
   },
   {
     "id": 16,
     "type": "mcq",
-    "stem": "According to the Female Reproductive System lecture slide on Relaxin, this polypeptide is produced by which combination of organs?",
+    "stem": "After prolonged lactation, milk secretion can occur with which prolactin level, representing an important clinical point?",
     "options": [
-      "Corpus luteum, uterus, placenta, and anterior pituitary",
-      "Corpus luteum, uterus, placenta, mammary gland, and prostate gland",
-      "Corpus luteum, ovarian follicle, placenta, and adrenal cortex"
+      "Milk secretion can only occur with elevated prolactin levels throughout the duration of breastfeeding",
+      "Milk secretion can occur with a normal prolactin level with prolonged lactation",
+      "Milk secretion requires supraphysiological prolactin after 6 months of lactation"
     ],
     "answer": "B"
   },
   {
     "id": 17,
     "type": "mcq",
-    "stem": "Relaxin has different key effects in EARLY versus LATE pregnancy. Which pairing CORRECTLY identifies both?",
+    "stem": "The milk ejection reflex is classified as which type of reflex because it is initiated by nervous factors but completed by humoral action?",
     "options": [
-      "Early: softens cervix and pelvic ligaments to prepare for delivery; Late: decreases uterine muscle activity",
-      "Early: decreases uterine muscle activity to prevent miscarriage; Late: softens pelvic ligaments and cervix to enhance delivery",
-      "Early: stimulates endometrial gland secretion for implantation; Late: promotes oxytocin receptor upregulation for labour"
+      "A neurohumoral reflex â where nervous and hormonal phases occur simultaneously",
+      "A neuroendocrine reflex â initiated by nervous factor but completed by humoral action",
+      "An endocrine reflex â where the hormonal component precedes and triggers the nervous component"
     ],
     "answer": "B"
   },
   {
     "id": 18,
     "type": "mcq",
-    "stem": "Braxton Hicks contractions during pregnancy are CORRECTLY described as which type of uterine activity and attributed to which proposed mechanism?",
+    "stem": "The tactile receptors for the milk ejection reflex are located on which anatomical structure of the breast?",
     "options": [
-      "Frequent, high amplitude, painless contractions; caused by oestrogen-mediated oxytocin receptor upregulation",
-      "Infrequent, low amplitude, painless contractions; possibly due to uterine smooth muscle reaction to stretch",
-      "Infrequent, low amplitude, painful contractions; caused by transient prostaglandin release from the decidua"
+      "On the nipple itself",
+      "On the areola",
+      "On the alveolar epithelium within the breast parenchyma"
     ],
     "answer": "B"
   },
   {
     "id": 19,
     "type": "mcq",
-    "stem": "The circadian rhythm of labour-initiating hormones explains the timing of labour onset. Labour pains are most prominent between which specific hours?",
+    "stem": "Suckling impulses travel via somatic afferents to two specific nuclei of the hypothalamus to release oxytocin. Which nuclei are named in the lecture?",
     "options": [
-      "Between 10pm and 4am",
-      "Between 12pm (noon) and 5am",
-      "Between 2am and 8am"
+      "Arcuate nucleus (ARC) and paraventricular nucleus (PVN) of the hypothalamus",
+      "Supraoptic nucleus (SON) and paraventricular nucleus (PVN) of the hypothalamus",
+      "Suprachiasmatic nucleus (SCN) and supraoptic nucleus (SON) of the hypothalamus"
     ],
     "answer": "B"
   },
   {
     "id": 20,
     "type": "mcq",
-    "stem": "Among the hormones and mediators potentially involved in initiating uterine contractions for labour, which specific interleukins are named in the lecture?",
+    "stem": "In the milk ejection reflex, suckling impulses that reach the anterior pituitary stimulate release of which hormone that acts on the alveoli to maintain galactopoiesis?",
     "options": [
-      "Interleukin 1\u03b2 and interleukin 6",
-      "Interleukin 16 and interleukin 18",
-      "Interleukin 8 and interleukin 10"
+      "Oxytocin from the anterior pituitary acts on alveoli to maintain galactopoiesis",
+      "Prolactin from the anterior pituitary acts on the alveoli to maintain galactopoiesis",
+      "Prolactin from the posterior pituitary acts on the alveoli to maintain milk synthesis"
     ],
     "answer": "B"
   },
   {
     "id": 21,
     "type": "mcq",
-    "stem": "The EDD is calculated from the FIRST day of the last normal menstrual period using Naegele's rule. The alternative formula for Naegele's rule (other than adding 7 days and 9 months) is:",
+    "stem": "When oxytocin causes milk ejection, it also causes uterine contraction. What clinical symptom does this explain in breastfeeding women?",
     "options": [
-      "Add 14 days and 9 months to the LMP",
-      "Add 7 days, subtract 3 months, and add 1 year to the LMP",
-      "Add 7 days and 10 months to the LMP"
+      "It explains the feeling of engorgement and breast pain experienced by some women during breastfeeding",
+      "It explains the occasional lower abdominal discomfort experienced by women during breastfeeding",
+      "It explains the galactorrhea that occurs between feeds in some breastfeeding women"
     ],
     "answer": "B"
   },
   {
     "id": 22,
     "type": "mcq",
-    "stem": "The duration of human pregnancy from the LAST MENSTRUAL PERIOD compared to the duration from FERTILIZATION is CORRECTLY stated as:",
+    "stem": "Stimuli that can trigger the milk ejection reflex are listed in the lecture. Which option CORRECTLY lists ALL three stimuli?",
     "options": [
-      "270 days from LMP and 256 days from fertilization",
-      "280 days from LMP and 266 days from fertilization",
-      "280 days from LMP and 280 days from fertilization"
+      "Suckling, infant's smell, and tactile stimulation of the nipple",
+      "Suckling, baby's cry, and sometimes genital stimulation",
+      "Suckling, baby's cry, and tactile stimulation of the breast"
     ],
     "answer": "B"
   },
   {
     "id": 23,
     "type": "mcq",
-    "stem": "Pregnancy is said to have reached TERM when it falls between which range of completed weeks of gestation?",
+    "stem": "Regarding mammary gland development, which statement about the state of the glands AT BIRTH is correct?",
     "options": [
-      "34\u201338 completed weeks",
-      "37\u201342 completed weeks",
-      "36\u201341 completed weeks"
+      "At birth the glands are fully formed but inactive until puberty triggers hormonal stimulation",
+      "At birth the glands are rudimentary",
+      "At birth the glands are absent and develop only at puberty under estrogen stimulation"
     ],
     "answer": "B"
   },
   {
     "id": 24,
     "type": "mcq",
-    "stem": "Fertilization normally occurs at which specific location within the female reproductive tract?",
+    "stem": "At puberty, estrogen and progesterone drive mammary gland development. Which THREE tissue components grow at puberty as stated in the lecture?",
     "options": [
-      "At the fimbriated end of the fallopian tube",
-      "At the ampulla of the fallopian tube",
-      "At the isthmo-ampullary junction of the fallopian tube"
+      "Ductal system, alveolar tissue, and myoepithelial layer",
+      "Ductal system, glandular tissues, and connective tissues (fat)",
+      "Lobular system, glandular tissues, and stromal collagen"
     ],
     "answer": "B"
   },
   {
     "id": 25,
     "type": "mcq",
-    "stem": "After intercourse, billions of sperm are deposited in the vagina but only a few thousands reach the fallopian tubes. Within how many minutes do sperm reach the fallopian tubes?",
+    "stem": "In the mammary gland, estrogen specifically causes which effects as stated in the lecture?",
     "options": [
-      "Within 10 minutes",
-      "Within 30 minutes",
-      "Within 60 minutes"
+      "Estrogen causes development of stroma and glandular tissue in the breast",
+      "Estrogen causes growth and branching of the ducts and accumulation of fat",
+      "Estrogen causes development of the alveolar units and lobular formation"
     ],
     "answer": "B"
   },
   {
     "id": 26,
     "type": "mcq",
-    "stem": "The acrosomal reaction releases acrosin, a proteolytic enzyme, to penetrate the zona pellucida. BEFORE the acrosomal reaction, spermatozoa penetrate the corona radiata cells using which enzyme?",
+    "stem": "Progesterone's role in mammary gland development is DISTINCT from estrogen's role. Progesterone specifically stimulates development of which two components?",
     "options": [
-      "Acrosin, which is also responsible for dissolving the corona radiata matrix",
-      "Hyaluronidase, which disperses the hyaluronic acid matrix holding corona radiata cells together",
-      "Neuraminidase, which cleaves sialic acid from the zona pellucida surface glycoproteins"
+      "Ducts and fat accumulation in the mammary gland",
+      "Stroma and glandular tissue in the mammary gland",
+      "Alveoli and lobules in the mammary gland"
     ],
     "answer": "B"
   },
   {
     "id": 27,
     "type": "mcq",
-    "stem": "After sperm fuses with the ovum cell membrane, calcium influx causes a reduction in membrane potential. What specific condition does this membrane change prevent?",
+    "stem": "Prolactin's specific role in mammary gland development is DISTINGUISHED from that of estrogen and progesterone. What does prolactin finally do?",
     "options": [
-      "Diploidy \u2014 prevents formation of a haploid embryo by ensuring both pronuclei fuse correctly",
-      "Polyploidy \u2014 prevents penetration of the ovum by more than one sperm",
-      "Aneuploidy \u2014 prevents errors in chromosome segregation during the first cleavage division"
+      "Prolactin causes ductal branching and lobular formation as the final step of mammary development",
+      "Prolactin finally prepares the gland for milk production",
+      "Prolactin stimulates stroma and connective tissue growth as the final preparatory step"
     ],
     "answer": "B"
   },
   {
     "id": 28,
     "type": "mcq",
-    "stem": "Following sperm penetration, the secondary oocyte completes its second meiotic division with expulsion of the second polar body. The mature ovum now becomes which structure?",
+    "stem": "Other hormones that enhance OVERALL growth and development of the mammary gland (beyond the primary effects of estrogen, progesterone, and prolactin) include which set as stated in the lecture?",
     "options": [
-      "The male pronucleus, which will fuse with the incoming sperm genetic material",
-      "The female pronucleus, which will fuse with the male pronucleus to complete fertilization",
-      "The first blastomere of the newly formed zygote"
+      "HPL, GH, T4, Cortisol, and Insulin",
+      "HPL, GH, T3, Cortisol, and Insulin",
+      "HPL, GH, T3, Aldosterone, and Insulin"
     ],
     "answer": "B"
   },
   {
     "id": 29,
     "type": "mcq",
-    "stem": "Fertilization is completed within approximately how many hours after sperm\u2013ovum fusion, when the male and female pronuclei fuse to form the zygote?",
+    "stem": "In a woman with a regular 28-day cycle, ovulation is assumed to occur on which day, and this assumption underlies which contraceptive strategy?",
     "options": [
-      "12 hours",
-      "20 hours",
-      "36 hours"
+      "Ovulation on day 12; this underlies the safe period or rhythm method of contraception",
+      "Ovulation on day 14; this underlies the safe period or rhythm method of contraception",
+      "Ovulation on day 16; this underlies the safe period or rhythm method of contraception"
     ],
     "answer": "B"
   },
   {
     "id": 30,
     "type": "mcq",
-    "stem": "The zygote divides within the fallopian tube reaching the 8\u201332 cell stage called the morula. How many days does this take, and what does the morula do next?",
+    "stem": "The ability of spermatozoa and the ovum to undergo fertilization is approximately how long for each, in hours?",
     "options": [
-      "1\u20132 days; enters the endometrial cavity directly at the blastocyst stage",
-      "3\u20134 days; the morula then enters the endometrial cavity",
-      "5\u20136 days; the morula undergoes trophoblastic invasion before entering the endometrial cavity"
+      "Spermatozoa: 48 hours; Ovum: 72 hours",
+      "Spermatozoa: 72 hours; Ovum: 48 hours",
+      "Spermatozoa: 48 hours; Ovum: 48 hours"
     ],
     "answer": "B"
   },
   {
     "id": 31,
     "type": "mcq",
-    "stem": "After entering the endometrial cavity, the morula stays for approximately how many days before implanting, and it obtains nutrition during this time from which sources?",
+    "stem": "Based on sperm and ovum viability and a 28-day cycle (ovulation on day 14), which range of days is correctly classified as UNSAFE for intercourse?",
     "options": [
-      "1\u20132 days; from corpus luteum progesterone acting on the decidualized endometrium",
-      "3 days; from secretions of the fallopian tube and endometrium (endometrial milk)",
-      "5 days; directly from maternal capillaries that open into the endometrial cavity"
+      "From day 12 (72hrs before ovulation) to day 17 (72hrs after ovulation)",
+      "From day 11 (72hrs before ovulation = day 11) to day 16 (48hrs after ovulation)",
+      "From day 10 (96hrs before ovulation) to day 16 (48hrs after ovulation)"
     ],
     "answer": "B"
   },
   {
     "id": 32,
     "type": "mcq",
-    "stem": "The blastocyst adheres to the decidua at approximately the 6th\u20137th day of fertilization by interdigitation of the microvilli. Which two proteins produced by the decidua specifically aid this adhesion?",
+    "stem": "Due to gross variation in the actual date of ovulation, the lecture advises it is wiser to avoid intercourse between which broader range of cycle days?",
     "options": [
-      "Fibronectin and integrin",
-      "Laminin and fibronectin",
-      "Laminin and collagen type IV"
+      "Between the 10th and 18th day of the period",
+      "Between the 9th and 19th day of the period",
+      "Between the 8th and 20th day of the period"
     ],
     "answer": "B"
   },
   {
     "id": 33,
     "type": "mcq",
-    "stem": "The trophoblast surrounding the fetus has two layers. The cytotrophoblast and the syncytiotrophoblast are respectively the:",
+    "stem": "Natural family planning utilizes three specific indicators as stated in the lecture. Which option CORRECTLY lists all three?",
     "options": [
-      "Cytotrophoblast: outer layer; Syncytiotrophoblast: inner layer",
-      "Cytotrophoblast: inner layer; Syncytiotrophoblast: outer layer",
-      "Cytotrophoblast: middle layer; Syncytiotrophoblast: outer layer surrounding the amnion"
+      "Basal body temperature, cervical mucus, and urinary LH detection",
+      "Basal body temperature, cervical mucus, and calculation of the date of ovulation",
+      "Basal body temperature, cycle regularity, and urinary progesterone levels"
     ],
     "answer": "B"
   },
   {
     "id": 34,
     "type": "mcq",
-    "stem": "The syncytiotrophoblast further develops into the chorion. Which two specific types of chorion are named in the lecture slides?",
+    "stem": "Natural family planning is also described by two alternative names in the lecture. What are these?",
     "options": [
-      "Chorion frondosum and chorion decidua",
-      "Chorion frundosum and chorion laeve",
-      "Chorion villosa and chorion laeve"
+      "Fertility awareness method and calendar method",
+      "Rhythm method and safe period",
+      "Billings method and thermal method"
     ],
     "answer": "B"
   },
   {
     "id": 35,
     "type": "mcq",
-    "stem": "The blastocyst contains an inner cell mass and an outer cell mass. What do each of these correctly give rise to?",
+    "stem": "Hormonal contraception acts by which three mechanisms as stated in the lecture?",
     "options": [
-      "Inner cell mass \u2192 trophoblast; Outer cell mass \u2192 fetus and membranes",
-      "Inner cell mass \u2192 fetus and membranes; Outer cell mass \u2192 trophoblast",
-      "Inner cell mass \u2192 amnion and chorion; Outer cell mass \u2192 fetus and placenta"
+      "Inhibiting ovulation, altering tubal motility, and preventing sperm capacitation",
+      "Inhibiting ovulation and altering the histophysiological characteristic of endometrium and cervix",
+      "Inhibiting ovulation, preventing implantation, and altering sperm penetration of the zona pellucida"
     ],
     "answer": "B"
   },
   {
     "id": 36,
     "type": "mcq",
-    "stem": "Trophoblastic invasion is the third step of implantation and ensures close vascular contact between mother and child. Which three growth factors play important roles during trophoblastic invasion?",
+    "stem": "Hormonal contraceptives contain which two hormonal components at various dosages as stated in the lecture?",
     "options": [
-      "IGF-2, PDGF, and PGE1",
-      "IGF-1, EGF, and PGE2",
-      "IGF-1, VEGF, and PGI2"
+      "Estrogens and androgens at various dosages",
+      "Estrogens and progesterone at various dosages",
+      "Progesterone and GnRH analogues at various dosages"
     ],
     "answer": "B"
   },
   {
     "id": 37,
     "type": "mcq",
-    "stem": "The penetration phase of implantation involves the trophoblast acting on decidual cells and matrix. Which three processes are specifically mentioned in the lecture as occurring during penetration?",
+    "stem": "The subdermal progestogen implant for hormonal contraception is named in the lecture as which specific brand/device?",
     "options": [
-      "Apoptosis of decidual cells, enzymatic dissolution of matrix, and phagocytosis of cell remnants",
-      "Lysing, phagocytosing, and digesting of decidual cells and matrix",
-      "Proteolysis, osmotic lysis, and autophagocytosis of decidual cells"
+      "Depo-Provera",
+      "Norplant",
+      "Implanon"
     ],
     "answer": "B"
   },
   {
     "id": 38,
     "type": "mcq",
-    "stem": "GnRH is a decapeptide produced by nuclei in the hypothalamus. It is initially synthesized as a pre-prohormone. How many amino acids does this pre-prohormone contain?",
+    "stem": "Intrauterine contraception prevents implantation of the fertilized ovum by which specific mechanisms as stated in the lecture?",
     "options": [
-      "69 amino acids",
-      "92 amino acids",
-      "115 amino acids"
+      "By stimulating prostaglandin production causing uterine contractions that expel the fertilized ovum",
+      "By physical and chemical alteration of endometrial function",
+      "By creating a hostile cervical mucus environment that prevents sperm from reaching the uterus"
     ],
     "answer": "B"
   },
   {
     "id": 39,
     "type": "mcq",
-    "stem": "GnRH is transported from the hypothalamus to the anterior pituitary via which specific route?",
+    "stem": "Three specific IUCD devices are named in the lecture as excellent examples of intrauterine contraception. Which option CORRECTLY lists all three?",
     "options": [
-      "By direct nerve fibers running through the pituitary stalk to the anterior pituitary gonadotrope cells",
-      "By secretion via exocytosis at the median eminence, then via the hypothalamohypophyseal portal system to the anterior pituitary",
-      "By secretion into the posterior pituitary venous plexus and then systemic circulation to the anterior pituitary"
+      "Mirena, copper T, and Lippe's loop",
+      "Lippe's loop, copper T, and Levonorgestrel-containing IUCD",
+      "Lippe's loop, copper 7, and Norplant"
     ],
     "answer": "B"
   },
   {
     "id": 40,
     "type": "mcq",
-    "stem": "GnRH binds to which receptor type on the gonadotrope cell, and activates which second messenger mechanism \u2014 which is distinct from the mechanism FSH and LH use at their gonadal target cells?",
+    "stem": "Sterilization is described in the lecture as the permanent form of contraception. The specific procedures for males and females are respectively:",
     "options": [
-      "GnRH binds to a tyrosine kinase receptor and activates the JAK-STAT pathway; FSH/LH activate cAMP at gonads",
-      "GnRH binds to a serpentine G-protein coupled transmembrane receptor activating the phospholipid second messenger mechanism; FSH/LH activate G-proteins and cAMP at gonads",
-      "GnRH binds to a serpentine G-protein coupled transmembrane receptor activating the cAMP second messenger; FSH/LH activate the phospholipid second messenger at gonads"
+      "Vasectomy for females and bilateral tubal ligation for males",
+      "Vasectomy for males and bilateral tubal ligation for females",
+      "Orchiectomy for males and oophorectomy for females"
     ],
     "answer": "B"
   },
   {
     "id": 41,
     "type": "mcq",
-    "stem": "The pulsatile secretion of gonadotropins occurs in pulses of approximately 60\u201390 minutes. What is the specific term for this type of biological rhythm?",
+    "stem": "Emergency contraception is also known by which two other names as stated in the lecture?",
     "options": [
-      "Circadian rhythm (24-hour cycle)",
-      "Ultradian rhythm (cycle shorter than 24 hours)",
-      "Infradian rhythm (cycle longer than 24 hours)"
+      "Post-coital contraception and morning-after pill",
+      "Day-after pill and luteal phase contraception",
+      "Coitus interruptus and post-coital pill"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 42,
     "type": "mcq",
-    "stem": "The half-lives of FSH and LH are different. The CORRECT pairing is:",
+    "stem": "Emergency contraception probably acts by which two mechanisms as stated in the lecture?",
     "options": [
-      "FSH half-life: 60 minutes; LH half-life: 170 minutes",
-      "FSH half-life: 170 minutes; LH half-life: 60 minutes",
-      "FSH half-life: 120 minutes; LH half-life: 90 minutes"
+      "By preventing ovulation and causing luteal phase insufficiency",
+      "By disturbing fertilization and preventing implantation of the fertilized ovum",
+      "By preventing sperm capacitation and inducing endometrial shedding"
     ],
     "answer": "B"
   },
   {
     "id": 43,
     "type": "mcq",
-    "stem": "LH in the male is alternatively named what, and it stimulates which cell type to produce which hormone?",
+    "stem": "Emergency contraception should be used before implantation occurs (before 7 days). However, for BETTER EFFICACY, its use should be restricted to within how many hours of intercourse?",
     "options": [
-      "Called ICSH; stimulates Sertoli cells to produce inhibin",
-      "Called ICSH (Interstitial Cell Stimulating Hormone); stimulates Leydig cells to produce testosterone",
-      "Called ICSH; stimulates peritubular myoid cells to produce androgen-binding protein"
+      "Within the first 48 hours of intercourse",
+      "Within the first 72 hours of intercourse",
+      "Within the first 96 hours of intercourse"
     ],
     "answer": "B"
   },
   {
     "id": 44,
     "type": "mcq",
-    "stem": "FSH in the MALE specifically accelerates spermiogenesis by stimulating which cell type?",
+    "stem": "Abstinence is described in the lecture with which superlative regarding its efficacy and which unique property distinguishing it from ALL other methods?",
     "options": [
-      "Leydig cells, which produce testosterone required for spermiogenesis",
-      "Sertoli cells, to accelerate spermiogenesis",
-      "Spermatogonia directly, initiating mitotic divisions"
+      "Most effective common method; its failure rate is very low (less than 1%)",
+      "Most efficacious form of contraception; it has no failure rate",
+      "Most reliable physiological method; its STD risk is zero in all circumstances"
     ],
     "answer": "B"
   },
   {
     "id": 45,
     "type": "mcq",
-    "stem": "The agglutination inhibition pregnancy test relies on commercially produced antiHCG. In a POSITIVE result (pregnant woman), when HCG-coated latex or sheep RBCs are added, the result is:",
+    "stem": "Barrier/mechanical methods include condoms (male and female), cervical caps, and diaphragms. Their primary mechanism is to prevent spermatozoa from entry into which location?",
     "options": [
-      "Agglutination occurs, confirming HCG in the sample has coated the latex particles and caused clumping",
-      "No agglutination occurs, because HCG from the sample has neutralized all antiHCG, leaving no free antiHCG to agglutinate the particles",
-      "Partial agglutination occurs proportional to the HCG titer in the sample"
+      "Entry into the vagina",
+      "Entry into the uterine cavity",
+      "Entry into the fallopian tube"
     ],
     "answer": "B"
   },
   {
     "id": 46,
     "type": "mcq",
-    "stem": "In a NEGATIVE pregnancy test result (non-pregnant woman), when HCG-coated latex or sheep RBCs are added, what occurs and why?",
+    "stem": "Coitus interruptus involves which specific action and falls under which broad contraceptive category?",
     "options": [
-      "No agglutination occurs, since antiHCG is consumed by the HCG present in the sample",
-      "Agglutination occurs, because there is no HCG in the sample to neutralize the antiHCG, leaving free antiHCG available to agglutinate the HCG-coated particles",
-      "Agglutination occurs because the absence of HCG causes the antiHCG to bind directly to the sheep RBC surface antigens"
+      "Withdrawal of the penis after ejaculation; classified as a hormonal contraceptive method",
+      "Withdrawal of the penis just before ejaculation; classified under barrier/mechanical methods",
+      "Voluntary cessation of intercourse before orgasm; classified as natural family planning"
     ],
     "answer": "B"
   },
   {
     "id": 47,
     "type": "mcq",
-    "stem": "Which of the following is NOT listed among the 'Other Placental Hormones and Enzymes' in the lecture slides?",
+    "stem": "Surgical methods of terminating pregnancy listed in the lecture include which TWO procedures?",
     "options": [
-      "Heat stable alkaline phosphatase",
-      "Prolactin",
-      "Leptin"
+      "Hysterotomy and dilatation and curettage",
+      "Dilatation and curettage (D&C) and vacuum aspiration",
+      "Vacuum aspiration and manual uterine evacuation"
     ],
     "answer": "B"
   },
   {
     "id": 48,
     "type": "mcq",
-    "stem": "Among the abnormalities peculiar to pregnancy listed in the lecture, which of the following is CORRECTLY included in that list?",
+    "stem": "Medical termination of pregnancy involves which pharmacological agents as stated in the lecture?",
     "options": [
-      "Cholestasis of pregnancy",
-      "Gestational Diabetes Mellitus",
-      "Obstetric cholestasis"
+      "Prostaglandin analogues and anti-progestogens",
+      "Feticides and uterotonics",
+      "Mifepristone and misoprostol specifically"
     ],
     "answer": "B"
   },
   {
     "id": 49,
     "type": "mcq",
-    "stem": "In the control of ovarian hormone secretion, ovarian hormones are controlled by which two processes?",
+    "stem": "Regarding milk production in the mammary gland during pregnancy, when does milk production begin?",
     "options": [
-      "Stimulation of de novo synthesis and increased renal excretion",
-      "Degradation and excretion AND inhibition of de novo synthesis via the negative feedback response of the hypothalamic-pituitary-ovarian axis",
-      "Positive feedback at the hypothalamus and degradation by hepatic enzymes only"
+      "Milk production begins at the start of the third trimester",
+      "Milk production begins just before the end of pregnancy",
+      "Milk production begins only after delivery when progesterone and estrogen levels fall"
     ],
     "answer": "B"
   },
   {
     "id": 50,
     "type": "mcq",
-    "stem": "In the female, in addition to stimulating folliculogenesis, FSH also stimulates which cell type to produce oestrogens?",
+    "stem": "The magnitude of the prolactin rise during suckling declines after how many months of established lactation?",
     "options": [
-      "FSH stimulates the granulosa cells to produce oestrogens by aromatizing androgens",
-      "FSH also stimulates theca cells to produce oestrogens",
-      "FSH stimulates the stromal cells of the ovary to produce oestrogens via direct synthesis"
+      "After one month",
+      "After three months",
+      "After six months"
     ],
     "answer": "B"
   },
   {
     "id": 51,
     "type": "mcq",
-    "stem": "CASE STUDY: A 30-year-old woman with LMP of 5/2/2006 (DD/MM/YYYY) attends an antenatal clinic. Using Naegele's rule (add 7 days and 9 months), her correct EDD is:",
+    "stem": "CASE STUDY: A 24-year-old woman presents for family planning counselling. She wants a method with no documented failure rate. Based on the lecture, which is the ONLY method that meets this description?",
     "options": [
-      "5/11/2006",
-      "12/11/2006",
-      "19/11/2006"
+      "Combined oral contraceptive pill, which has a theoretical failure rate of less than 0.1% with perfect use",
+      "Abstinence, which is the most efficacious form of contraception with no failure rate",
+      "Bilateral tubal ligation, which is the most permanent form of contraception with negligible failure rate"
     ],
     "answer": "B"
   },
   {
     "id": 52,
     "type": "mcq",
-    "stem": "CASE STUDY: A 28-year-old woman at 8 weeks presents with persistent vomiting 15 times per day, ketosis, and 5% weight loss requiring IV hydration. This represents which specific abnormality peculiar to pregnancy?",
+    "stem": "CASE STUDY: A 29-year-old woman has a 28-day regular cycle. She had unprotected intercourse on day 11. Based on the lecture's calculation of the unsafe period, is she at risk of pregnancy?",
     "options": [
-      "Hypertension in pregnancy triggered by HCG-induced vasospasm",
-      "Hyperemesis gravidarum, an abnormality peculiar to pregnancy",
-      "Gestational Diabetes Mellitus caused by HPL-induced insulin resistance"
+      "No; day 11 falls in the safe period because the unsafe period only begins from day 12",
+      "Yes; day 11 falls within the unsafe period which begins from day 11 (72 hours before ovulation on day 14)",
+      "No; she is only at risk from day 13 onward when sperm viability makes fertilization possible"
     ],
     "answer": "B"
   },
   {
     "id": 53,
     "type": "mcq",
-    "stem": "CASE STUDY: A fertility nurse explains to a couple why urine pregnancy tests are more practical than blood tests for home use. Based on the lecture, the correct explanation is:",
+    "stem": "CASE STUDY: A 26-year-old woman had unprotected intercourse 65 hours ago and comes requesting emergency contraception. Based on the lecture, should emergency contraception be offered?",
     "options": [
-      "HCG appears in urine 6 days after conception and in blood 14 days after conception, making urine testing earlier",
-      "HCG appears in blood 6 days after conception and in urine 14 days after conception; urine testing is later but more accessible",
-      "HCG appears simultaneously in blood and urine at 10 days, but urine HCG concentration is 3\u00d7 higher than blood"
+      "No; she has exceeded the 48-hour window for optimal emergency contraception efficacy",
+      "Yes; she is still within the 72-hour window for better efficacy and before implantation at 7 days",
+      "Yes; she is within the 7-day window so efficacy will be maximal at this timing"
     ],
     "answer": "B"
   },
   {
     "id": 54,
     "type": "mcq",
-    "stem": "CASE STUDY: A woman at 14 weeks is reassured that her falling HCG is normal. Her midwife notes HCG peaks at 10\u201312 weeks and returns to a lower sustained level from which weeks?",
+    "stem": "CASE STUDY: A woman at 36 weeks gestation is worried that her prolactin levels are high but she is not producing milk. The midwife explains this is normal because:",
     "options": [
-      "From 14\u201316 weeks of gestation",
-      "From 16\u201320 weeks of gestation",
-      "From 20\u201324 weeks of gestation"
+      "Prolactin levels actually fall in the third trimester in preparation for postnatal lactation",
+      "High levels of progesterone and estrogen during pregnancy prevent significant lactation by inhibiting prolactin production",
+      "HPL from the placenta competitively blocks prolactin receptors at the mammary alveoli until after delivery"
     ],
     "answer": "B"
   },
   {
     "id": 55,
     "type": "mcq",
-    "stem": "CASE STUDY: A patient develops gestational diabetes in her third trimester despite no family history of diabetes. Her obstetrician explains it is likely driven by a placental hormone. Based on the lecture, which placental hormone is specifically described as diabetogenic?",
+    "stem": "CASE STUDY: A primiparous woman complains of lower abdominal cramping every time she breastfeeds. Her midwife reassures her this is normal. The correct explanation based on the lecture is:",
     "options": [
-      "Human Chorionic Gonadotrophin (HCG), which reduces insulin binding at peripheral receptors",
-      "Human Placental Lactogen (HPL), which reduces peripheral glucose utilization and is diabetogenic",
-      "Placental progesterone, which directly inhibits pancreatic \u03b2-cell insulin secretion"
+      "Prolactin-mediated contraction of the uterine smooth muscle causes cramping during breastfeeding",
+      "Oxytocin released during the milk ejection reflex also causes contraction of the uterus, explaining the lower abdominal discomfort",
+      "HPL released during suckling stimulates residual placental bed vessels causing abdominal cramping"
     ],
     "answer": "B"
   },
   {
     "id": 56,
     "type": "mcq",
-    "stem": "CASE STUDY: A woman at 9 weeks is prescribed progesterone injections for threatened miscarriage. Based on the lecture, progesterone prevents premature delivery/miscarriage by which dual mechanism?",
+    "stem": "CASE STUDY: A woman is 4 months postpartum and breastfeeding. She is concerned that her milk supply might decrease because she read that prolactin response changes after a period of lactation. Based on the lecture, the correct explanation is:",
     "options": [
-      "By increasing HCG production and stimulating the corpus luteum to persist beyond 12 weeks",
-      "By inhibiting prostaglandin production and reducing uterine responsiveness to oxytocics",
-      "By decreasing GnRH pulse frequency and inhibiting FSH/LH secretion from the anterior pituitary"
+      "After 6 months, prolactin levels drop permanently and milk secretion ceases completely without supplementation",
+      "After three months, the magnitude of the prolactin rise with suckling declines, but with prolonged lactation milk can occur with normal prolactin levels",
+      "After 3 months, the anterior pituitary exhausts its prolactin stores and breastfeeding must stop"
     ],
     "answer": "B"
   },
   {
     "id": 57,
     "type": "mcq",
-    "stem": "CASE STUDY: A primiparous woman at 38 weeks spontaneously goes into labour at 1am. The midwife notes this is consistent with the circadian pattern of labour onset. Labour pains are most prominent between which hours?",
+    "stem": "CASE STUDY: A nursing student is asked in a viva to explain why a woman's breasts feel full when she hears her baby cry even without the baby feeding. Based on the lecture, this is because:",
     "options": [
-      "Between 10pm and 4am",
-      "Between 12pm (noon) and 5am",
-      "Between 12am (midnight) and 6am"
+      "The sound of the baby's cry stimulates GnRH release which indirectly stimulates prolactin via the hypothalamohypophyseal portal system",
+      "The baby's cry is one of the stimuli for the milk ejection reflex, triggering the neuroendocrine pathway to release oxytocin even without direct suckling",
+      "The baby's cry stimulates PIH withdrawal, removing tonic inhibition of prolactin and causing immediate milk synthesis"
     ],
     "answer": "B"
   },
   {
     "id": 58,
     "type": "mcq",
-    "stem": "CASE STUDY: A student nurse asks why Braxton Hicks contractions feel different from labour contractions. Based on the lecture, Braxton Hicks are infrequent and low amplitude, while at term contractions become more frequent and painful. The described mechanism for Braxton Hicks is:",
+    "stem": "CASE STUDY: A student nurse is asked to identify the route of prolactin receptor signal transduction. Based on the lecture, she correctly answers:",
     "options": [
-      "Oestrogen-induced upregulation of oxytocin receptors causing sporadic myometrial activity",
-      "Uterine smooth muscle reaction to stretch",
-      "Intermittent progesterone withdrawal from placental insufficiency causing transient contractility"
+      "Prolactin receptors activate G-proteins and cAMP, similar to FSH and LH at the gonadal level",
+      "Prolactin receptors resemble growth hormone receptors and act via the JAK-STAT pathway",
+      "Prolactin receptors activate the phospholipid second messenger mechanism like GnRH at the gonadotrope"
     ],
     "answer": "B"
   },
   {
     "id": 59,
     "type": "mcq",
-    "stem": "CASE STUDY: A male infant is delivered with underdeveloped external genitalia. Neonatology reveals failure of testosterone production in utero. Based on the lecture, HCG normally stimulates which fetal cells to produce testosterone, and failure of this action leads to what outcome?",
+    "stem": "CASE STUDY: A woman at 35 has just delivered and is choosing between sterilization and an IUCD. She is told sterilization is irreversible. Based on the lecture, which female sterilization procedure is specifically named?",
     "options": [
-      "Sertoli cells fail to produce testosterone leading to failure of M\u00fcllerian duct regression",
-      "Leydig cells fail to produce testosterone leading to failure of male sex organ development",
-      "Granulosa-like cells fail to produce testosterone leading to persistence of Wolffian duct structures"
+      "Unilateral salpingectomy",
+      "Bilateral tubal ligation",
+      "Total abdominal hysterectomy"
     ],
     "answer": "B"
   },
   {
     "id": 60,
     "type": "mcq",
-    "stem": "CASE STUDY: An obstetrics resident is explaining implantation failure to a patient. The sequence of implantation events is adhesion, penetration, then trophoblastic invasion. During adhesion at day 6\u20137 of fertilization, which proteins produced by the decidua facilitate blastocyst attachment?",
+    "stem": "CASE STUDY: A couple of Seventh-day Adventist faith attends a family planning clinic and declines all hormonal and barrier methods for religious reasons. Based on the lecture, which method is specifically described as acceptable to couples due to religious and cultural beliefs?",
     "options": [
-      "Fibronectin and integrin \u03b1v\u03b23",
-      "Laminin and fibronectin",
-      "Collagen type IV and laminin"
+      "Sterilization, which is described as culturally acceptable in some religious traditions",
+      "Natural family planning (rhythm/safe period), which may be the only method accepted by some couples due to religious and cultural beliefs",
+      "Emergency contraception, which is acceptable because it is used after the fact and not preventative"
     ],
     "answer": "B"
   },
   {
     "id": 61,
     "type": "mcq",
-    "stem": "CASE STUDY: A student correctly identifies that GnRH activates the phospholipid second messenger mechanism at the gonadotrope cell. She is then asked what second messenger FSH and LH activate when they bind to receptors on the gonads. She answers:",
+    "stem": "CASE STUDY: A 20-year-old female patient asks why her baby was put to the breast immediately after delivery. The student nurse explains based on the lecture that this is because:",
     "options": [
-      "FSH and LH also activate the phospholipid second messenger at gonads, similar to GnRH at the pituitary",
-      "FSH and LH activate G-proteins and cAMP as their second messenger at the gonadal cell membrane",
-      "FSH and LH activate tyrosine kinase receptors and the MAP kinase cascade at the gonadal level"
+      "Early suckling prevents maternal postpartum haemorrhage by releasing HPL which contracts the uterine vessels",
+      "Prolactin concentration falls temporarily after delivery and only rises again when suckling is initiated; early suckling establishes milk supply",
+      "Early suckling stimulates PIH release which then converts to a prolactin-releasing role in the postnatal period"
     ],
     "answer": "B"
   },
   {
     "id": 62,
     "type": "mcq",
-    "stem": "CASE STUDY: During an OSCE exam, a student is asked why fertility drugs that mimic FSH have a longer duration of action than those mimicking LH. Based on the lecture, this is because:",
+    "stem": "CASE STUDY: A pharmacist counsels a patient that her combined oral contraceptive primarily prevents pregnancy by which mechanism? Based on the lecture, hormonal contraceptives act primarily by:",
     "options": [
-      "FSH has a shorter half-life of 60 minutes compared to LH's 170 minutes, so FSH drugs clear faster",
-      "FSH has a longer half-life of 170 minutes compared to LH's 60 minutes, so FSH drugs persist longer",
-      "FSH and LH have the same half-life of 90 minutes but FSH has higher receptor affinity"
+      "Preventing sperm transport through the fallopian tube by thickening cervical mucus",
+      "Inhibiting ovulation and altering the histophysiological characteristics of endometrium and cervix",
+      "Preventing implantation by physically altering the endometrium similar to an IUCD"
     ],
     "answer": "B"
   },
   {
     "id": 63,
     "type": "mcq",
-    "stem": "CASE STUDY: A couple undergoes IVF. Fertilization occurs in the lab. The embryologist notes the ovum at ovulation is at the secondary oocyte stage. At which specific location within the fallopian tube does fertilization normally occur in vivo?",
+    "stem": "CASE STUDY: A student confuses the mammary effects of estrogen and progesterone. She claims estrogen stimulates stroma and glandular tissue. Her examiner corrects her stating that estrogen causes ___ while progesterone causes ___. Which CORRECTLY fills these blanks?",
     "options": [
-      "At the fimbriated end of the fallopian tube",
-      "At the ampulla of the fallopian tube",
-      "At the uterotubal junction of the fallopian tube"
+      "Estrogen causes lobular development; progesterone causes ductal growth and fat accumulation",
+      "Estrogen causes growth and branching of ducts and fat accumulation; progesterone causes development of stroma and glandular tissue",
+      "Estrogen causes glandular tissue growth; progesterone causes ductal growth and fat accumulation"
     ],
     "answer": "B"
   },
   {
     "id": 64,
     "type": "mcq",
-    "stem": "CASE STUDY: A pharmacologist is designing a sperm-blocking contraceptive targeting the acrosomal reaction. Based on the lecture, the acrosomal reaction releases which proteolytic enzyme that facilitates zona pellucida penetration?",
+    "stem": "CASE STUDY: A nursing exam question asks which cells prolactin acts on to maintain galactopoiesis during the milk ejection reflex. The correct answer is:",
     "options": [
-      "Hyaluronidase, which dissolves the zona pellucida glycoproteins",
-      "Acrosin, which facilitates zona pellucida penetration",
-      "Kallikrein, which activates the complement cascade to dissolve the zona pellucida"
+      "Prolactin acts on the myoepithelial cells of the alveoli to maintain galactopoiesis",
+      "Prolactin acts on the alveoli (alveolar cells) to maintain galactopoiesis",
+      "Prolactin acts on the ductal epithelium to maintain galactopoiesis"
     ],
     "answer": "B"
   },
   {
     "id": 65,
     "type": "mcq",
-    "stem": "CASE STUDY: A placenta is examined histologically and found to lack 17-hydroxylase/17,20-desmolase enzymatic activity. A student correctly concludes this placenta cannot directly produce oestrogens. The substrate DHEA for oestrogen synthesis must therefore come from:",
+    "stem": "CASE STUDY: A man who had a vasectomy 5 years ago asks if reversal is possible. Based on the lecture, the most accurate statement about sterilization is:",
     "options": [
-      "Only the maternal adrenal gland, which compensates by upregulating DHEA production",
-      "Both maternal and fetal sources",
-      "Only the fetal adrenal gland, which is the exclusive source of DHEA in pregnancy"
+      "Sterilization is absolutely irreversible and no reversal procedure exists",
+      "Sterilization is supposed to be irreversible; however in developed societies some women request reversal",
+      "Sterilization reversal is routinely available with a 95% success rate in both males and females"
     ],
     "answer": "B"
   },
   {
     "id": 66,
     "type": "mcq",
-    "stem": "CASE STUDY: A student confuses the structural similarity of relaxin with that of a pancreatic hormone. When asked what hormone relaxin is structurally similar to, the correct answer is:",
+    "stem": "CASE STUDY: A student asks why prolactin is unique among anterior pituitary hormones in terms of hypothalamic control. The correct answer based on the lecture is:",
     "options": [
-      "Insulin \u2014 the active form of the pancreatic hormone secreted from \u03b2-cells",
-      "Proinsulin \u2014 the precursor form of the pancreatic hormone",
-      "C-peptide \u2014 the connecting peptide released when proinsulin is cleaved to insulin"
+      "Prolactin is unique because its hypothalamic control is exclusively stimulatory via prolactin releasing hormone",
+      "Prolactin is unique because it is under tonic inhibitory control from the hypothalamus (PIH), unlike most anterior pituitary hormones",
+      "Prolactin is unique because it is controlled by both a releasing hormone and an inhibitory hormone with equal potency"
     ],
     "answer": "B"
   },
   {
     "id": 67,
     "type": "mcq",
-    "stem": "CASE STUDY: A nursing student asks how the zygote is nourished before implantation. Based on the lecture, while the morula travels in the fallopian tube (3\u20134 days) and spends time in the endometrial cavity (another 3 days), it is nourished by:",
+    "stem": "CASE STUDY: A woman at 28 weeks of gestation has her prolactin level measured and it is elevated. Which statement BEST explains the expected prolactin trajectory from this point based on the lecture?",
     "options": [
-      "Direct diffusion from maternal spiral arterioles which open into the endometrial cavity",
-      "Secretions of the fallopian tube and endometrium, also called endometrial milk",
-      "Progesterone-stimulated glycogen from decidualized stromal cells"
+      "Prolactin levels plateau after 28 weeks and do not change further until delivery",
+      "Prolactin levels continue to increase during pregnancy and reach a peak at labour",
+      "Prolactin levels fall after 28 weeks as the placenta takes over the lactogenic role via HPL"
     ],
     "answer": "B"
   },
   {
     "id": 68,
     "type": "mcq",
-    "stem": "CASE STUDY: During a viva examination, a student is asked to name all the abnormalities peculiar to pregnancy listed in the lecture. Which option CORRECTLY and COMPLETELY lists ALL five?",
+    "stem": "CASE STUDY: A family planning clinic in Nigeria records a case where an unmarried woman says she cannot use any method that causes termination of pregnancy. Based on the lecture, which methods act by preventing implantation (which she may consider equivalent to termination)?",
     "options": [
-      "Hyperemesis gravidarum, hypertension in pregnancy, gestational diabetes mellitus, bleeding in early pregnancy, and ectopic pregnancy",
-      "Hyperemesis gravidarum, hypertension in pregnancy, gestational diabetes mellitus, bleeding in early pregnancy, and bleeding in late pregnancy",
-      "Hyperemesis gravidarum, hypertension in pregnancy, gestational diabetes mellitus, placenta praevia, and bleeding in late pregnancy"
+      "Combined oral contraceptive pill and injectable progestogens only",
+      "Emergency contraception (prevents implantation) and IUCD (physical/chemical alteration of endometrial function)",
+      "Natural family planning and barrier methods only, as all hormonal methods prevent implantation"
     ],
     "answer": "B"
   },
   {
     "id": 69,
     "type": "mcq",
-    "stem": "CASE STUDY: A first-year nursing student misidentifies the trophoblast layers. She claims the cytotrophoblast is the outer layer. Her examiner corrects her by stating that the cytotrophoblast is the ___ layer and the syncytiotrophoblast is the ___ layer. Which option CORRECTLY fills both blanks?",
+    "stem": "CASE STUDY: An OSCE station asks a student to name the surgical termination methods listed in the lecture. She incorrectly includes hysterotomy. The CORRECT surgical methods listed are:",
     "options": [
-      "Outer; inner",
-      "Inner; outer",
-      "Middle; outer"
+      "Dilatation and curettage (D&C), hysteroscopy, and vacuum aspiration",
+      "Dilatation and curettage (D&C) and vacuum aspiration only",
+      "Vacuum aspiration, hysterotomy, and dilatation and evacuation"
     ],
     "answer": "B"
   },
   {
     "id": 70,
     "type": "mcq",
-    "stem": "CASE STUDY: A researcher studying placental hormone secretion notes that HPL causes protein anabolism and potassium retention leading to growth promotion. HPL also causes breakdown of fat for energy. Which TWO effects together explain why HPL is classified as having growth-promoting activity?",
+    "stem": "CASE STUDY: A midwifery student asks about the hormonal basis of the neuroendocrine milk ejection reflex. She correctly identifies the reflex as: initiated by ___ factor and completed by ___ action. Which answer is correct?",
     "options": [
-      "Fat breakdown for energy storage AND reduction of maternal glucose utilization",
-      "Protein anabolism AND potassium retention contributing to growth promotion",
-      "Lactogenic activity AND stimulation of breast growth only"
+      "Initiated by hormonal factor; completed by nervous action",
+      "Initiated by nervous factor; completed by humoral action",
+      "Initiated by somatic factor; completed by autonomic humoral action"
     ],
     "answer": "B"
   },
   {
     "id": 71,
     "type": "fitb",
-    "stem": "The molecular weight of HCG is ___.",
-    "answer": "39,000",
-    "acceptableAnswers": [
-      "39,000",
-      "39000",
-      "39 000"
-    ]
+    "stem": "Lactation involves the synthesis, secretion, and ___ of milk.",
+    "answer": "ejection",
+    "acceptableAnswers": ["ejection", "ejection of milk", "expulsion"]
   },
   {
     "id": 72,
     "type": "fitb",
-    "stem": "HCG is produced by the ___ of the placenta.",
-    "answer": "syncytiotrophoblast",
-    "acceptableAnswers": [
-      "syncytiotrophoblast",
-      "syncytio-trophoblast"
-    ]
+    "stem": "Milk ejection involves the expulsion of milk from the ___ and ___ to the exterior.",
+    "answer": "ducts; alveoli",
+    "acceptableAnswers": ["ducts; alveoli", "alveoli; ducts", "ducts and alveoli"]
   },
   {
     "id": 73,
     "type": "fitb",
-    "stem": "HCG can be detected in urine as early as ___ days after conception.",
-    "answer": "14",
-    "acceptableAnswers": [
-      "14",
-      "14 days"
-    ]
+    "stem": "Prolactin is produced by the ___ of the anterior pituitary and is under ___ control by prolactin inhibiting hormone from the hypothalamus.",
+    "answer": "lactotropes; inhibitory",
+    "acceptableAnswers": ["lactotropes; inhibitory", "lactotrophs; inhibitory"]
   },
   {
     "id": 74,
     "type": "fitb",
-    "stem": "HPL is also called human chorionic ___.",
-    "answer": "somatomammotropin",
-    "acceptableAnswers": [
-      "somatomammotropin",
-      "somatomammotrophin"
-    ]
+    "stem": "Prolactin contains ___ amino acid residues and is structurally like GH and ___.",
+    "answer": "199; HPL",
+    "acceptableAnswers": ["199; HPL", "199 amino acid residues; HPL", "199; human placental lactogen"]
   },
   {
     "id": 75,
     "type": "fitb",
-    "stem": "Relaxin is structurally similar to ___.",
-    "answer": "proinsulin",
-    "acceptableAnswers": [
-      "proinsulin",
-      "pro-insulin"
-    ]
+    "stem": "The half-life of prolactin is ___ minutes, with a normal plasma level of ___ ng/ml in males and ___ ng/ml in females.",
+    "answer": "20; 5; 8",
+    "acceptableAnswers": ["20; 5; 8", "20 minutes; 5 ng/ml; 8 ng/ml"]
   },
   {
     "id": 76,
     "type": "fitb",
-    "stem": "GnRH is a ___ produced by nuclei in the hypothalamus.",
-    "answer": "decapeptide",
-    "acceptableAnswers": [
-      "decapeptide",
-      "decapeptide (10 amino acids)",
-      "10-amino acid peptide"
-    ]
+    "stem": "Prolactin receptors resemble those of growth hormone and act via the ___ pathway.",
+    "answer": "JAK-STAT",
+    "acceptableAnswers": ["JAK-STAT", "JAK=STAT", "Janus kinase-signal transducer and activator of transcription"]
   },
   {
     "id": 77,
     "type": "fitb",
-    "stem": "The half-life of FSH is ___ minutes.",
-    "answer": "170",
-    "acceptableAnswers": [
-      "170",
-      "170 minutes",
-      "170 mins"
-    ]
+    "stem": "Suckling stimulates touch receptors which send impulses via somatic afferents to the ___ and ___ of the hypothalamus to release oxytocin.",
+    "answer": "SON (supraoptic nucleus); PVN (paraventricular nucleus)",
+    "acceptableAnswers": ["SON; PVN", "supraoptic nucleus; paraventricular nucleus", "SON and PVN"]
   },
   {
     "id": 78,
     "type": "fitb",
-    "stem": "Braxton Hicks contractions are believed to be due to uterine smooth muscle reaction to ___.",
-    "answer": "stretch",
-    "acceptableAnswers": [
-      "stretch",
-      "stretching"
-    ]
+    "stem": "Oxytocin acts on the ___ cells of the breast to cause milk ejection, and also causes contraction of the ___.",
+    "answer": "myoepithelial; uterus",
+    "acceptableAnswers": ["myoepithelial; uterus", "myoepithelial cells; uterus"]
   },
   {
     "id": 79,
     "type": "fitb",
-    "stem": "The placenta cannot directly produce oestrogens because it lacks ___ and ___ activity.",
-    "answer": "17-hydroxylase; 17,20-desmolase",
-    "acceptableAnswers": [
-      "17-hydroxylase; 17,20-desmolase",
-      "17hydroxylase; 17,20desmolase",
-      "17-hydroxylase and 17,20-desmolase"
-    ]
+    "stem": "The milk ejection reflex is classified as a ___ reflex because it is initiated by ___ factor but completed by humoral action.",
+    "answer": "neuroendocrine; nervous",
+    "acceptableAnswers": ["neuroendocrine; nervous", "neuro-endocrine; nervous"]
   },
   {
     "id": 80,
     "type": "fitb",
-    "stem": "The substrate for placental oestrogen production (___) is derived from ___ sources.",
-    "answer": "DHEA; maternal and fetal",
-    "acceptableAnswers": [
-      "DHEA; maternal and fetal",
-      "DHEA (dehydroepiandrosterone); both maternal and fetal"
-    ]
+    "stem": "During the milk ejection reflex, impulses that reach the anterior pituitary lead to production of ___ which acts on the ___ to maintain galactopoiesis.",
+    "answer": "prolactin; alveoli",
+    "acceptableAnswers": ["prolactin; alveoli", "prolactin; alveolar cells"]
   },
   {
     "id": 81,
     "type": "fitb",
-    "stem": "Relaxin is structurally similar to ___ and in early pregnancy it ___ uterine muscle activity to prevent miscarriage.",
-    "answer": "proinsulin; decreases",
-    "acceptableAnswers": [
-      "proinsulin; decreases",
-      "proinsulin; reduces"
-    ]
+    "stem": "At puberty, estrogen and progesterone induce growth of the ___, ___, and connective tissues (fat) of the mammary gland.",
+    "answer": "ductal system; glandular tissues",
+    "acceptableAnswers": ["ductal system; glandular tissues", "glandular tissues; ductal system"]
   },
   {
     "id": 82,
     "type": "fitb",
-    "stem": "In late pregnancy, relaxin softens the ___ and ___, a property that enhances easy delivery.",
-    "answer": "pelvic ligaments; cervix",
-    "acceptableAnswers": [
-      "pelvic ligaments; cervix",
-      "cervix; pelvic ligaments"
-    ]
+    "stem": "In the mammary gland, estrogen causes growth and branching of the ___ and accumulation of ___, while progesterone stimulates development of ___ and glandular tissue.",
+    "answer": "ducts; fat; stroma",
+    "acceptableAnswers": ["ducts; fat; stroma", "ductal system; fat; stroma"]
   },
   {
     "id": 83,
     "type": "fitb",
-    "stem": "The duration of pregnancy is approximately ___ days from the last menstrual period and ___ days from fertilization.",
-    "answer": "280; 266",
-    "acceptableAnswers": [
-      "280; 266",
-      "280 days; 266 days"
-    ]
+    "stem": "High levels of ___ and ___ during pregnancy prevent significant lactation by inhibiting prolactin production.",
+    "answer": "progesterone; estrogen",
+    "acceptableAnswers": ["progesterone; estrogen", "estrogen; progesterone", "progesterone and estrogen"]
   },
   {
     "id": 84,
     "type": "fitb",
-    "stem": "Pregnancy is said to have reached term when it is between ___ and ___ completed weeks of gestation.",
-    "answer": "37; 42",
-    "acceptableAnswers": [
-      "37; 42",
-      "37 weeks; 42 weeks"
-    ]
+    "stem": "After delivery and removal of the placenta, prolactin concentration falls temporarily but rises again when ___ is initiated. After ___ months, the magnitude of this rise declines.",
+    "answer": "suckling; three",
+    "acceptableAnswers": ["suckling; three", "suckling; 3", "breastfeeding; three"]
   },
   {
     "id": 85,
     "type": "fitb",
-    "stem": "The expected date of delivery (EDD) is calculated from the ___ day of the last normal menstrual period using ___'s rule.",
-    "answer": "first; Naegele",
-    "acceptableAnswers": [
-      "first; Naegele",
-      "1st; Naegele"
-    ]
+    "stem": "With prolonged lactation, milk secretion can occur with ___ prolactin level.",
+    "answer": "normal",
+    "acceptableAnswers": ["normal", "a normal", "normal plasma"]
   },
   {
     "id": 86,
     "type": "fitb",
-    "stem": "Labour pains exhibit a ___ rhythm and are most prominent between ___ and ___.",
-    "answer": "circadian; 12pm (noon); 5am",
-    "acceptableAnswers": [
-      "circadian; 12pm; 5am",
-      "circadian; noon; 5am",
-      "circadian rhythm; 12pm; 5am"
-    ]
+    "stem": "In a 28-day cycle, spermatozoa can undergo fertilization for ___ hours and the ovum for ___ hours, making the unsafe period from day ___ to day ___.",
+    "answer": "72; 48; 11; 16",
+    "acceptableAnswers": ["72; 48; 11; 16", "72 hours; 48 hours; day 11; day 16"]
   },
   {
     "id": 87,
     "type": "fitb",
-    "stem": "Among the cytokines that may initiate uterine contractions in labour, ___ and ___ are specifically named in the lecture.",
-    "answer": "interleukin 16; interleukin 18",
-    "acceptableAnswers": [
-      "interleukin 16; interleukin 18",
-      "IL-16; IL-18",
-      "interleukin-16; interleukin-18"
-    ]
+    "stem": "Due to variation in ovulation date, it is wiser to avoid intercourse between the ___ and ___ day of the period when using the rhythm method.",
+    "answer": "9th; 19th",
+    "acceptableAnswers": ["9th; 19th", "9; 19", "day 9; day 19"]
   },
   {
     "id": 88,
     "type": "fitb",
-    "stem": "Fertilization occurs at the ___ of the fallopian tube, and is completed within ___ hours.",
-    "answer": "ampulla; 20",
-    "acceptableAnswers": [
-      "ampulla; 20",
-      "ampulla of the fallopian tube; 20 hours"
-    ]
+    "stem": "Hormonal contraceptives act by inhibiting ___ and altering the histophysiological characteristics of ___ and ___.",
+    "answer": "ovulation; endometrium; cervix",
+    "acceptableAnswers": ["ovulation; endometrium; cervix", "ovulation; cervix; endometrium"]
   },
   {
     "id": 89,
     "type": "fitb",
-    "stem": "After the acrosomal reaction, the proteolytic enzyme ___ is released to facilitate ___ penetration.",
-    "answer": "acrosin; zona pellucida",
-    "acceptableAnswers": [
-      "acrosin; zona pellucida",
-      "acrosin; zona"
-    ]
+    "stem": "The subdermal progestogen implant is called ___, and intrauterine devices that contain progestogens are also classified under ___ contraception.",
+    "answer": "Norplant; hormonal",
+    "acceptableAnswers": ["Norplant; hormonal", "Norplant; progestogen-based"]
   },
   {
     "id": 90,
     "type": "fitb",
-    "stem": "Influx of ___ into the ovum causes a reduction in ___ potential, preventing polyploidy by stopping other sperms from penetrating.",
-    "answer": "calcium; membrane",
-    "acceptableAnswers": [
-      "calcium; membrane",
-      "calcium ions; membrane"
-    ]
+    "stem": "Intrauterine contraception involves insertion of ___ devices which may contain ___ substances into the uterine cavity to prevent implantation.",
+    "answer": "mechanical; chemical",
+    "acceptableAnswers": ["mechanical; chemical", "mechanical devices; chemical"]
   },
   {
     "id": 91,
     "type": "fitb",
-    "stem": "The zygote divides in the fallopian tube until it reaches the ___ to ___ cell stage called the ___, over approximately 3\u20134 days.",
-    "answer": "8; 32; morula",
-    "acceptableAnswers": [
-      "8; 32; morula",
-      "8 to 32 cells; morula"
-    ]
+    "stem": "Three named examples of IUCD are ___'s loop, copper ___, and ___ containing IUCD.",
+    "answer": "Lippe; T; Levonorgestrel",
+    "acceptableAnswers": ["Lippe; T; Levonorgestrel", "Lippe's; T; Levonorgestrel"]
   },
   {
     "id": 92,
     "type": "fitb",
-    "stem": "Blastocyst adhesion to the decidua at day 6\u20137 of fertilization is aided by ___ and ___ produced by the decidua.",
-    "answer": "laminin; fibronectin",
-    "acceptableAnswers": [
-      "laminin; fibronectin",
-      "fibronectin; laminin"
-    ]
+    "stem": "Sterilization involves ___ in males and ___ tubal ligation in females, and is classified as the ___ form of contraception.",
+    "answer": "vasectomy; bilateral; permanent",
+    "acceptableAnswers": ["vasectomy; bilateral; permanent", "vasectomy; bilateral tubal ligation; permanent"]
   },
   {
     "id": 93,
     "type": "fitb",
-    "stem": "The trophoblast has two layers: the ___ (inner layer) and the ___ (outer layer). The outer layer further develops into the chorion ___ and ___.",
-    "answer": "cytotrophoblast; syncytiotrophoblast; frundosum; laeve",
-    "acceptableAnswers": [
-      "cytotrophoblast; syncytiotrophoblast; frundosum; laeve",
-      "cytotrophoblast; syncytiotrophoblast; frondosum; laeve"
-    ]
+    "stem": "Emergency contraception is also called ___ contraception or the ___ pill.",
+    "answer": "post-coital; morning-after",
+    "acceptableAnswers": ["post-coital; morning-after", "postcoital; morning after"]
   },
   {
     "id": 94,
     "type": "fitb",
-    "stem": "The three growth factors playing important roles in trophoblastic invasion during implantation are ___, ___, and ___.",
-    "answer": "IGF-1; EGF; PGE2",
-    "acceptableAnswers": [
-      "IGF-1; EGF; PGE2",
-      "IGF-1, EGF, and PGE2",
-      "insulin-like growth factor 1; epidermal growth factor; prostaglandin E2"
-    ]
+    "stem": "Emergency contraception should be used before implantation occurs (before ___ days) but for better efficacy within the first ___ hours of intercourse.",
+    "answer": "7; 72",
+    "acceptableAnswers": ["7; 72", "7 days; 72 hours"]
   },
   {
     "id": 95,
     "type": "fitb",
-    "stem": "GnRH is a ___ (peptide class) produced by nuclei in the hypothalamus and synthesized as a ___ amino acid pre-prohormone.",
-    "answer": "decapeptide (10aa); 92",
-    "acceptableAnswers": [
-      "decapeptide; 92",
-      "decapeptide (10 amino acids); 92"
-    ]
+    "stem": "Abstinence is the most ___ form of contraception and unlike other methods has ___ failure rate.",
+    "answer": "efficacious; no",
+    "acceptableAnswers": ["efficacious; no", "efficacious; zero", "efficacious; no documented"]
   },
   {
     "id": 96,
     "type": "fitb",
-    "stem": "GnRH is transported to the anterior pituitary via the ___ system after secretion into the substance of the ___.",
-    "answer": "hypothalamohypophyseal portal; median eminence",
-    "acceptableAnswers": [
-      "hypothalamohypophyseal portal; median eminence",
-      "hypothalamo-hypophyseal portal; median eminence"
-    ]
+    "stem": "Natural family planning utilizes changes in ___, ___, and calculation of the date of ovulation.",
+    "answer": "basal body temperature; cervical mucus",
+    "acceptableAnswers": ["basal body temperature; cervical mucus", "BBT; cervical mucus"]
   },
   {
     "id": 97,
     "type": "fitb",
-    "stem": "GnRH binds to a ___ G-protein coupled transmembrane receptor on the gonadotrope cell and activates the ___ second messenger mechanism.",
-    "answer": "serpentine; phospholipid",
-    "acceptableAnswers": [
-      "serpentine; phospholipid",
-      "serpentine; phospholipid second messenger"
-    ]
+    "stem": "Prolactin production is stimulated by sleep, exercise, TRH, TSH, ___ stimulation, and ___ and psychological stress.",
+    "answer": "nipple; surgical",
+    "acceptableAnswers": ["nipple; surgical", "nipple stimulation; surgical stress"]
   },
   {
     "id": 98,
     "type": "fitb",
-    "stem": "The half-life of FSH is ___ minutes while the half-life of LH is ___ minutes, and gonadotropins are secreted in pulses of approximately ___ minutes, described as an ultradian rhythm.",
-    "answer": "170; 60; 60\u201390",
-    "acceptableAnswers": [
-      "170; 60; 60\u201390",
-      "170 mins; 60 mins; 60-90 mins",
-      "170; 60; 60 to 90"
-    ]
+    "stem": "The stimuli for the milk ejection reflex include suckling, the baby's ___, and sometimes ___ stimulation.",
+    "answer": "cry; genital",
+    "acceptableAnswers": ["cry; genital", "cry; genital stimulation"]
   },
   {
     "id": 99,
     "type": "fitb",
-    "stem": "FSH accelerates ___ in the male by stimulating ___ cells, while LH (also called ___ in the male) stimulates Leydig cells to produce testosterone.",
-    "answer": "spermiogenesis; Sertoli; ICSH",
-    "acceptableAnswers": [
-      "spermiogenesis; Sertoli; ICSH",
-      "spermiogenesis; Sertoli cells; interstitial cell stimulating hormone"
-    ]
+    "stem": "Tactile receptors located on the ___ detect the suckling stimulus and relay impulses to the hypothalamus via ___ afferents.",
+    "answer": "areola; somatic",
+    "acceptableAnswers": ["areola; somatic", "areola; somatic nerve"]
   },
   {
     "id": 100,
     "type": "fitb",
-    "stem": "Gonadotropins bind to receptors on the ___ of target gonadal cells, activating ___ and ___ as the second messenger.",
-    "answer": "cell membrane; G-proteins; cAMP",
-    "acceptableAnswers": [
-      "cell membrane; G-proteins; cAMP",
-      "cell membrane; G proteins; cyclic AMP",
-      "cell membrane; G-proteins; cyclic AMP (cAMP)"
-    ]
+    "stem": "Other hormones that enhance overall growth and development of the mammary gland include HPL, GH, ___, ___, and insulin.",
+    "answer": "T3; Cortisol",
+    "acceptableAnswers": ["T3; Cortisol", "cortisol; T3", "triiodothyronine; cortisol"]
   }
 ]
