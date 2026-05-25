@@ -2,981 +2,981 @@
   {
     "id": 1,
     "type": "mcq",
-    "stem": "Lactation involves three distinct sequential processes. Which of the following CORRECTLY identifies all three in the exact order as stated in the lecture?",
+    "stem": "Endocrinology is defined as the study of the regulation of information within a living organism by means of chemical messengers called hormones. The nervous system, in contrast, exerts its short-term regulation via which type of messengers?",
     "options": [
-      "Ejection, secretion, and synthesis of milk",
-      "Synthesis, secretion, and ejection of milk",
-      "Secretion, synthesis, and ejection of milk"
+      "Chemical messengers transported via the cerebrospinal fluid to target organs",
+      "Electrical messengers (wires) for short-term regulation",
+      "Biochemical substances released into the extracellular space for rapid communication"
     ],
     "answer": "B"
   },
   {
     "id": 2,
     "type": "mcq",
-    "stem": "Milk secretion involves the synthesis of milk by which specific tissue, and its passage into which structure?",
+    "stem": "Hormones are described as endogenous informational chemical molecules. Which of the following CORRECTLY completes the definition: they are produced by a cell, tissue or organ, secreted into the body fluids, for the purposes of:",
     "options": [
-      "Synthesis by myoepithelial cells with passage into the alveoli",
-      "Synthesis by alveolar epithelium with passage into the ductal system",
-      "Synthesis by ductal epithelium with passage into the alveolar lumen"
+      "Intracellular and extracellular communications and regulation",
+      "Intracellular communications and metabolic regulation only",
+      "Extracellular communications and elimination of metabolic waste products"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 3,
     "type": "mcq",
-    "stem": "Milk ejection specifically involves the expulsion of milk from which anatomical structures to the exterior?",
+    "stem": "Originally, hormones were believed to be synthesized by anatomically discrete glands called 'ductless glands'. The more recent understanding of Contemporary Endocrinology expands the definition to include chemical substances secreted by cells within organs whose primary function is:",
     "options": [
-      "From the alveoli and glandular stroma to the nipple",
-      "From the ducts and alveoli to the exterior",
-      "From the ductal system only to the exterior via the nipple pore"
+      "Exclusively hormone production, provided the cell is of neuroendocrine origin",
+      "NOT hormone production, such as neurons, renal cells, cardiac cells, and gastrointestinal cells",
+      "Hormone production as a secondary function but only when the primary organ fails"
     ],
     "answer": "B"
   },
   {
     "id": 4,
     "type": "mcq",
-    "stem": "The two pituitary hormones that play vital roles in lactation are named in the lecture. Which hormone specifically acts on the myoepithelial cells to cause milk ejection?",
+    "stem": "The endocrine system's relationship with the nervous system and immune system creates which two combined systems as named in the lecture?",
     "options": [
-      "Prolactin, which contracts the myoepithelial cells surrounding the alveoli to eject milk",
-      "Oxytocin, which acts on the myoepithelial cells of the breast to cause milk ejection",
-      "Oxytocin, which acts on the alveolar epithelial cells to cause milk secretion into the ducts"
+      "Immunoendocrine system and psychoneuroendocrine system",
+      "Neuroendocrine system and immunoendocrine system",
+      "Neuroimmune system and somatoendocrine system"
     ],
     "answer": "B"
   },
   {
     "id": 5,
     "type": "mcq",
-    "stem": "Prolactin is a protein hormone produced by which specific cell type in the anterior pituitary?",
+    "stem": "In endocrine communication, chemical substances are released directly to the extracellular spaces and enter the blood to be transported to distal target tissues. Based on recent thinking, the most appropriate term for this type of communication is:",
     "options": [
-      "Somatotropes of the anterior pituitary",
-      "Lactotropes of the anterior pituitary",
-      "Gonadotropes of the anterior pituitary"
+      "Solinocrine communication",
+      "Haemocrine communication",
+      "Neurocrine communication"
     ],
     "answer": "B"
   },
   {
     "id": 6,
     "type": "mcq",
-    "stem": "Prolactin is under inhibitory control from the hypothalamus. What is the name of the hypothalamic substance responsible for this tonic inhibition?",
+    "stem": "In paracrine communication, chemical substances are released into the interstitial space where their effects are exerted on surrounding cells. When hormones communicate with surrounding cells via gap junctions WITHOUT contacting the interstitial fluid, this specific subtype is called:",
     "options": [
-      "Prolactin releasing hormone (PRH) â a stimulatory hypothalamic peptide",
-      "Prolactin inhibiting hormone (PIH) from the hypothalamus",
-      "Gonadotropin releasing hormone (GnRH) which cross-inhibits prolactin at the pituitary level"
+      "Juxtacrine communication â occurring along adjacent cells",
+      "Epicrine communication â occurring via gap junctions without interstitial fluid contact",
+      "Intracrine communication â occurring inside the same cell without interstitial fluid contact"
     ],
     "answer": "B"
   },
   {
     "id": 7,
     "type": "mcq",
-    "stem": "Prolactin contains how many amino acid residues, and is structurally like which two other hormones?",
+    "stem": "Autocrine communication involves the interaction of a hormone with the very cell that produces it, AFTER contact has been made with the interstitial fluid. When contact with the interstitial fluid is NOT made, this variation is termed:",
     "options": [
-      "Contains 191 amino acid residues; structurally like GH and TSH",
-      "Contains 199 amino acid residues; structurally like GH and HPL",
-      "Contains 199 amino acid residues; structurally like FSH and HPL"
+      "Epicrine communication",
+      "Intracrine communication",
+      "Paracrine communication"
     ],
     "answer": "B"
   },
   {
     "id": 8,
     "type": "mcq",
-    "stem": "The prolactin receptor signal transduction pathway is MOST similar to which other hormone's receptor mechanism?",
+    "stem": "Neurocrine communication occurs when nerves produce chemical substances released through the axons by axoplasmic flow to their target cells. Which of the following are named as TYPICAL examples of neurocrine communication?",
     "options": [
-      "FSH receptor â acts via G-proteins and cAMP second messenger",
-      "Growth hormone receptor â acts via the JAK-STAT pathway",
-      "Oxytocin receptor â acts via the phospholipid second messenger"
+      "Posterior pituitary hormones and hypothalamic releasing hormones",
+      "Axo-axonal and neuromuscular transmissions",
+      "Salivary and pancreatic secretions released through ducts"
     ],
     "answer": "B"
   },
   {
     "id": 9,
     "type": "mcq",
-    "stem": "The half-life of prolactin is stated in the lecture as which specific duration?",
+    "stem": "Solinocrine communication involves chemical substances secreted into the luminal aspects of the gut and similar structures. Which of the following are listed as additional examples of solinocrine communication beyond the gastrointestinal tract?",
     "options": [
-      "tÂ½ is 60 minutes",
-      "tÂ½ is 20 minutes",
-      "tÂ½ is 40 minutes"
+      "Cardiac cells and renal tubular secretions",
+      "Genitourinary and bronchi",
+      "Adipose cells and endothelial cells"
     ],
     "answer": "B"
   },
   {
     "id": 10,
     "type": "mcq",
-    "stem": "The normal plasma level of prolactin in males and females respectively are stated as:",
+    "stem": "Neuro-endocrine communication involves hormones produced by nerve cell bodies transported through terminal axons to the blood. Which specific hormones are listed as TYPICAL examples of neuro-endocrine communication?",
     "options": [
-      "8ng/ml in males and 5ng/ml in females",
-      "5ng/ml in males and 8ng/ml in females",
-      "5ng/ml in both males and females at baseline"
+      "Prolactin, FSH, LH, and TSH from the anterior pituitary",
+      "Posterior pituitary hormones (oxytocin and ADH) and hypothalamic releasing hormones",
+      "Adrenaline, noradrenaline, and dopamine from sympathetic nerve terminals"
     ],
     "answer": "B"
   },
   {
     "id": 11,
     "type": "mcq",
-    "stem": "Prolactin levels increase during pregnancy and reach their peak at which specific point?",
+    "stem": "A ligand is precisely defined in the lecture as a biomolecule or ion that specifically and selectively binds to a receptor to form a complex. What is the stated aim of ligand-receptor complex formation?",
     "options": [
-      "At the end of the second trimester",
-      "At labour",
-      "Immediately after delivery when the placenta is removed"
+      "To facilitate transport of the hormone through the plasma membrane to intracellular receptors",
+      "To elicit a biological response â it could be a hormone, organic or inorganic substance",
+      "To facilitate hormone degradation and clearance from the target tissue"
     ],
     "answer": "B"
   },
   {
     "id": 12,
     "type": "mcq",
-    "stem": "Which of the following CORRECTLY identifies stimuli that INCREASE prolactin production as stated in the lecture?",
+    "stem": "A receptor is defined as a protein molecule located in the cell that specifically and selectively recognizes chemical substances. The stated aim of this recognition is:",
     "options": [
-      "Sleep, exercise, TRH, TSH, nipple stimulation, surgical and psychological stress",
-      "Sleep, exercise, TRH, dopamine, nipple stimulation, and surgical stress",
-      "Exercise, estrogen, TRH, TSH, nipple stimulation, and psychological stress"
+      "Hormone inactivation and receptor-mediated endocytosis to terminate hormone action",
+      "Elucidating biochemical or physiological response",
+      "Transporting the hormone from extracellular to intracellular compartments"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 13,
     "type": "mcq",
-    "stem": "Despite rising prolactin levels during pregnancy, significant lactation is PREVENTED. Which hormones inhibit prolactin action during pregnancy?",
+    "stem": "A target cell is defined as any cell that specifically and selectively binds a given hormone by means of receptors. An important qualifier in the definition is that this binding occurs:",
     "options": [
-      "High levels of HCG and HPL prevent lactation by blocking prolactin receptors at the breast",
-      "High levels of progesterone and estrogen prevent significant lactation by inhibiting prolactin production",
-      "High levels of relaxin and cortisol prevent significant lactation by downregulating mammary alveolar sensitivity to prolactin"
+      "Only when a biochemical or physiological response has been determined and confirmed",
+      "Irrespective of whether or not a biochemical or physiological response has been determined",
+      "Only when the cell possesses both membrane and intracellular receptors for that hormone"
     ],
     "answer": "B"
   },
   {
     "id": 14,
     "type": "mcq",
-    "stem": "After delivery and removal of the placenta, prolactin concentration initially falls temporarily. What causes it to rise again and sustain lactation?",
+    "stem": "The concentration of hormones in the blood is usually very small. What is the stated range of hormone concentrations in blood?",
     "options": [
-      "The falling HCG level after placental removal removes the negative feedback on prolactin synthesis",
-      "Suckling is initiated, causing prolactin to rise again",
-      "Estrogen withdrawal after placental removal directly stimulates lactotrope prolactin secretion"
+      "From one nanogram to a few micrograms per millilitre of blood",
+      "From about one picogram to a few micrograms",
+      "From one femtogram to a few nanograms per litre of blood"
     ],
     "answer": "B"
   },
   {
     "id": 15,
     "type": "mcq",
-    "stem": "The clinical recommendation to put newborns to the breast as soon as possible after delivery is directly explained by which physiological principle?",
+    "stem": "Hormones are removed from the blood by binding to glucuronic acid and sulphates. What is the stated purpose of this conjugation?",
     "options": [
-      "Early suckling prevents oxytocin-mediated uterine involution from occurring too slowly",
-      "Prolactin concentration falls temporarily after delivery and rises again when suckling is initiated, establishing milk supply",
-      "Early suckling prevents PIH from permanently suppressing lactotrope sensitivity within the first 24 hours"
+      "To increase receptor affinity and prolong the duration of action at target cells",
+      "To improve solubility and enhance biliary and urinary excretion",
+      "To reduce immunogenicity and prevent formation of hormone-antibody complexes"
     ],
     "answer": "B"
   },
   {
     "id": 16,
     "type": "mcq",
-    "stem": "After prolonged lactation, milk secretion can occur with which prolactin level, representing an important clinical point?",
+    "stem": "In the intestine, some intermediate metabolites of hormones may be broken down by bacteria and reabsorbed into the body. This process is called:",
     "options": [
-      "Milk secretion can only occur with elevated prolactin levels throughout the duration of breastfeeding",
-      "Milk secretion can occur with a normal prolactin level with prolonged lactation",
-      "Milk secretion requires supraphysiological prolactin after 6 months of lactation"
+      "Solinocrine recirculation of hormones",
+      "Enterohepatic circulation of hormones",
+      "Intestinal phase hormone regeneration"
     ],
     "answer": "B"
   },
   {
     "id": 17,
     "type": "mcq",
-    "stem": "The milk ejection reflex is classified as which type of reflex because it is initiated by nervous factors but completed by humoral action?",
+    "stem": "Water-soluble hormones are synthesized in the endoplasmic reticulum and stored in secretory granules. Their transport in blood is CORRECTLY described as:",
     "options": [
-      "A neurohumoral reflex â where nervous and hormonal phases occur simultaneously",
-      "A neuroendocrine reflex â initiated by nervous factor but completed by humoral action",
-      "An endocrine reflex â where the hormonal component precedes and triggers the nervous component"
+      "Transported tightly bound to specific plasma proteins to prevent rapid degradation",
+      "Travelling freely and easily (unbound or weakly bound to plasma proteins)",
+      "Circulating exclusively bound to albumin as a non-specific carrier protein"
     ],
     "answer": "B"
   },
   {
     "id": 18,
     "type": "mcq",
-    "stem": "The tactile receptors for the milk ejection reflex are located on which anatomical structure of the breast?",
+    "stem": "Water-soluble hormones bind to cell membrane receptors because they cannot pass through the lipid bilayer. The clinical implication of this cell membrane binding is:",
     "options": [
-      "On the nipple itself",
-      "On the areola",
-      "On the alveolar epithelium within the breast parenchyma"
+      "Slowed onset but prolonged duration of action due to receptor internalization",
+      "Rapid onset with a shorter duration of action",
+      "Slow onset and slow termination of action due to receptor recycling"
     ],
     "answer": "B"
   },
   {
     "id": 19,
     "type": "mcq",
-    "stem": "Suckling impulses travel via somatic afferents to two specific nuclei of the hypothalamus to release oxytocin. Which nuclei are named in the lecture?",
+    "stem": "Lipid-soluble hormones are NOT stored with one important exception. Which class of lipid-soluble hormones is the exception to the rule that lipid-soluble hormones are not stored?",
     "options": [
-      "Arcuate nucleus (ARC) and paraventricular nucleus (PVN) of the hypothalamus",
-      "Supraoptic nucleus (SON) and paraventricular nucleus (PVN) of the hypothalamus",
-      "Suprachiasmatic nucleus (SCN) and supraoptic nucleus (SON) of the hypothalamus"
+      "Steroid hormones â stored in adrenocortical vesicles prior to secretion",
+      "Thyroid hormones â which are stored despite being lipid soluble",
+      "Eicosanoids â stored in phospholipid membranes until needed"
     ],
     "answer": "B"
   },
   {
     "id": 20,
     "type": "mcq",
-    "stem": "In the milk ejection reflex, suckling impulses that reach the anterior pituitary stimulate release of which hormone that acts on the alveoli to maintain galactopoiesis?",
+    "stem": "Lipid-soluble hormones easily permeate the cell membrane lipid bilayer and act on receptors inside the cells. Where inside the cell are these receptors located?",
     "options": [
-      "Oxytocin from the anterior pituitary acts on alveoli to maintain galactopoiesis",
-      "Prolactin from the anterior pituitary acts on the alveoli to maintain galactopoiesis",
-      "Prolactin from the posterior pituitary acts on the alveoli to maintain milk synthesis"
+      "Exclusively in the nucleus, where they act as nuclear transcription factors",
+      "In the cytoplasm or nucleus of the target cell",
+      "On the inner leaflet of the plasma membrane facing the cytoplasm"
     ],
     "answer": "B"
   },
   {
     "id": 21,
     "type": "mcq",
-    "stem": "When oxytocin causes milk ejection, it also causes uterine contraction. What clinical symptom does this explain in breastfeeding women?",
+    "stem": "The onset and duration of action of lipid-soluble hormones compared to water-soluble hormones follows which pattern?",
     "options": [
-      "It explains the feeling of engorgement and breast pain experienced by some women during breastfeeding",
-      "It explains the occasional lower abdominal discomfort experienced by women during breastfeeding",
-      "It explains the galactorrhea that occurs between feeds in some breastfeeding women"
+      "Rapid onset and prolonged duration due to tight protein binding in the plasma",
+      "Slowed onset but prolonged duration of action",
+      "Rapid onset and short duration because they are not stored and released immediately"
     ],
     "answer": "B"
   },
   {
     "id": 22,
     "type": "mcq",
-    "stem": "Stimuli that can trigger the milk ejection reflex are listed in the lecture. Which option CORRECTLY lists ALL three stimuli?",
+    "stem": "The steroid hormone nucleus is called by what full chemical name, and how many rings does it contain?",
     "options": [
-      "Suckling, infant's smell, and tactile stimulation of the nipple",
-      "Suckling, baby's cry, and sometimes genital stimulation",
-      "Suckling, baby's cry, and tactile stimulation of the breast"
+      "Cyclopentanophenanthrene ring â 3 rings (A, B, C)",
+      "Cyclopentanoperhydrophenanthrene ring â 4 rings (A, B, C, D)",
+      "Cyclopentanoperhydrophenanthrene ring â 5 rings (A, B, C, D, E)"
     ],
     "answer": "B"
   },
   {
     "id": 23,
     "type": "mcq",
-    "stem": "Regarding mammary gland development, which statement about the state of the glands AT BIRTH is correct?",
+    "stem": "Steroids are usually synthesized from cholesterol and are not stored, being released immediately to extracellular fluid (ECF). Examples of steroid hormones include which of the following?",
     "options": [
-      "At birth the glands are fully formed but inactive until puberty triggers hormonal stimulation",
-      "At birth the glands are rudimentary",
-      "At birth the glands are absent and develop only at puberty under estrogen stimulation"
+      "Hormones of the adrenal cortex, gonads, and activated vitamin D",
+      "Hormones of the adrenal medulla, gonads, and activated vitamin D",
+      "Hormones of the adrenal cortex, posterior pituitary, and activated vitamin D"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 24,
     "type": "mcq",
-    "stem": "At puberty, estrogen and progesterone drive mammary gland development. Which THREE tissue components grow at puberty as stated in the lecture?",
+    "stem": "Eicosanoids originate from poly-unsaturated 20-carbon atom fatty acids. Which fatty acid is given as the specific example?",
     "options": [
-      "Ductal system, alveolar tissue, and myoepithelial layer",
-      "Ductal system, glandular tissues, and connective tissues (fat)",
-      "Lobular system, glandular tissues, and stromal collagen"
+      "Linolenic acid",
+      "Arachidonic acid",
+      "Docosahexaenoic acid"
     ],
     "answer": "B"
   },
   {
     "id": 25,
     "type": "mcq",
-    "stem": "In the mammary gland, estrogen specifically causes which effects as stated in the lecture?",
+    "stem": "Gas hormones are classified as both water and lipid soluble, and they mainly act in autocrine and paracrine manner. Which of the following CORRECTLY lists ALL three examples of gas hormones given in the lecture?",
     "options": [
-      "Estrogen causes development of stroma and glandular tissue in the breast",
-      "Estrogen causes growth and branching of the ducts and accumulation of fat",
-      "Estrogen causes development of the alveolar units and lobular formation"
+      "Nitric oxide, hydrogen sulphide, and pheromones",
+      "Nitric oxide, carbon monoxide, and pheromones",
+      "Nitric oxide, carbon dioxide, and carbon monoxide"
     ],
     "answer": "B"
   },
   {
     "id": 26,
     "type": "mcq",
-    "stem": "Progesterone's role in mammary gland development is DISTINCT from estrogen's role. Progesterone specifically stimulates development of which two components?",
+    "stem": "Amino acid derivatives (monoamines) are derived from single amino acids with synthesis occurring by action of enzymes in the cytoplasm of glandular cells. Which hormone is derived from TRYPTOPHAN, NOT tyrosine?",
     "options": [
-      "Ducts and fat accumulation in the mammary gland",
-      "Stroma and glandular tissue in the mammary gland",
-      "Alveoli and lobules in the mammary gland"
+      "Thyroxine, which is derived from tryptophan via iodination",
+      "Melatonin and serotonin, which are derived from tryptophan",
+      "Histamine, which is derived from tryptophan via decarboxylation"
     ],
     "answer": "B"
   },
   {
     "id": 27,
     "type": "mcq",
-    "stem": "Prolactin's specific role in mammary gland development is DISTINGUISHED from that of estrogen and progesterone. What does prolactin finally do?",
+    "stem": "Which amino acid is the precursor for BOTH thyroxine and adrenaline?",
     "options": [
-      "Prolactin causes ductal branching and lobular formation as the final step of mammary development",
-      "Prolactin finally prepares the gland for milk production",
-      "Prolactin stimulates stroma and connective tissue growth as the final preparatory step"
+      "Histidine",
+      "Tyrosine",
+      "Tryptophan"
     ],
     "answer": "B"
   },
   {
     "id": 28,
     "type": "mcq",
-    "stem": "Other hormones that enhance OVERALL growth and development of the mammary gland (beyond the primary effects of estrogen, progesterone, and prolactin) include which set as stated in the lecture?",
+    "stem": "Histamine is derived from which specific amino acid via decarboxylation?",
     "options": [
-      "HPL, GH, T4, Cortisol, and Insulin",
-      "HPL, GH, T3, Cortisol, and Insulin",
-      "HPL, GH, T3, Aldosterone, and Insulin"
+      "Tyrosine",
+      "Histidine",
+      "Tryptophan"
     ],
     "answer": "B"
   },
   {
     "id": 29,
     "type": "mcq",
-    "stem": "In a woman with a regular 28-day cycle, ovulation is assumed to occur on which day, and this assumption underlies which contraceptive strategy?",
+    "stem": "Polypeptide hormones are synthesized in the rough endoplasmic reticulum as biologically inactive pre-pro-hormones, then transported to the Golgi apparatus. Post-translational modification in the Golgi apparatus involves which TWO possible additions to the protein?",
     "options": [
-      "Ovulation on day 12; this underlies the safe period or rhythm method of contraception",
-      "Ovulation on day 14; this underlies the safe period or rhythm method of contraception",
-      "Ovulation on day 16; this underlies the safe period or rhythm method of contraception"
+      "Addition of phospholipid (lipoprotein) or nucleotide (nucleoprotein) components",
+      "Addition of carbohydrate (CHO, glycoprotein) or lipid (lipoprotein) components",
+      "Addition of sulphate (sulfoprotein) or amino acid (homoprotein) side chains"
     ],
     "answer": "B"
   },
   {
     "id": 30,
     "type": "mcq",
-    "stem": "The ability of spermatozoa and the ovum to undergo fertilization is approximately how long for each, in hours?",
+    "stem": "After Golgi apparatus processing, the active hormone is packaged in secretory granules and released by exocytosis. This is described as the most common method. The alternative, less common method is constitutive secretion, defined as:",
     "options": [
-      "Spermatozoa: 48 hours; Ovum: 72 hours",
-      "Spermatozoa: 72 hours; Ovum: 48 hours",
-      "Spermatozoa: 48 hours; Ovum: 48 hours"
+      "Release of hormones from secretory granules in response to a second messenger signal",
+      "Release of hormones as they are produced without packaging, occurring occasionally",
+      "Release of hormones by passive diffusion across the cell membrane without vesicle formation"
     ],
     "answer": "B"
   },
   {
     "id": 31,
     "type": "mcq",
-    "stem": "Based on sperm and ovum viability and a 28-day cycle (ovulation on day 14), which range of days is correctly classified as UNSAFE for intercourse?",
+    "stem": "Glycoprotein hormones contain carbohydrate residues attached by the process of glycosylation. The Î± subunits of ALL glycoproteins are similar, while the Î² subunits differ and confer biological specificity. Which hormones are listed as examples of glycoprotein hormones?",
     "options": [
-      "From day 12 (72hrs before ovulation) to day 17 (72hrs after ovulation)",
-      "From day 11 (72hrs before ovulation = day 11) to day 16 (48hrs after ovulation)",
-      "From day 10 (96hrs before ovulation) to day 16 (48hrs after ovulation)"
+      "LH, FSH, HCG, TSH, Renin, and Erythropoietin",
+      "LH, FSH, HCG, TSH, plus Renin and Erythropoietin",
+      "LH, FSH, HCG, TSH, Prolactin, and Growth Hormone"
     ],
     "answer": "B"
   },
   {
     "id": 32,
     "type": "mcq",
-    "stem": "Due to gross variation in the actual date of ovulation, the lecture advises it is wiser to avoid intercourse between which broader range of cycle days?",
+    "stem": "Growth factors/cytokines are small polypeptides and proteins synthesized by a variety of cell types, NOT a definite gland. Which cell types are named as examples of their sources?",
     "options": [
-      "Between the 10th and 18th day of the period",
-      "Between the 9th and 19th day of the period",
-      "Between the 8th and 20th day of the period"
+      "Lymphocytes, macrophages, endothelial cells, neurones, glial cells",
+      "Hepatocytes, renal tubular cells, pancreatic acinar cells, and platelets",
+      "Somatotropes, lactotropes, gonadotropes, and corticotropes of the anterior pituitary"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 33,
     "type": "mcq",
-    "stem": "Natural family planning utilizes three specific indicators as stated in the lecture. Which option CORRECTLY lists all three?",
+    "stem": "Circadian rhythms are regular changes occurring in a 24-hour cycle between day and night. The main hypothalamic structure that controls circadian rhythms is:",
     "options": [
-      "Basal body temperature, cervical mucus, and urinary LH detection",
-      "Basal body temperature, cervical mucus, and calculation of the date of ovulation",
-      "Basal body temperature, cycle regularity, and urinary progesterone levels"
+      "The arcuate nucleus (ARC) of the hypothalamus",
+      "The paired Supra Chiasmatic Nucleus (SCN) of the hypothalamus",
+      "The paraventricular nucleus (PVN) of the hypothalamus"
     ],
     "answer": "B"
   },
   {
     "id": 34,
     "type": "mcq",
-    "stem": "Natural family planning is also described by two alternative names in the lecture. What are these?",
+    "stem": "Afferents enter the SCN via which specific fibres, representing the light-dark cycle input?",
     "options": [
-      "Fertility awareness method and calendar method",
-      "Rhythm method and safe period",
-      "Billings method and thermal method"
+      "Olfactory hypothalamic fibres (smell-light cycle)",
+      "Retino-hypothalamic fibres (light-dark cycle)",
+      "Somatosensory hypothalamic fibres (touch-pressure cycle)"
     ],
     "answer": "B"
   },
   {
     "id": 35,
     "type": "mcq",
-    "stem": "Hormonal contraception acts by which three mechanisms as stated in the lecture?",
+    "stem": "Regarding the clinical implication of circadian rhythm: in suspected Cushing's syndrome (hypersecretion), blood cortisol sample should be collected at which time, and why?",
     "options": [
-      "Inhibiting ovulation, altering tubal motility, and preventing sperm capacitation",
-      "Inhibiting ovulation and altering the histophysiological characteristic of endometrium and cervix",
-      "Inhibiting ovulation, preventing implantation, and altering sperm penetration of the zona pellucida"
+      "In the morning (8â9am) because cortisol is normally higher then, making hypersecretion more detectable",
+      "In the evening because cortisol values are normally lower then, making any hypersecretion more easily detected against the lower normal background",
+      "At midnight because cortisol normally reaches its nadir then, making any residual elevation diagnostic of hypersecretion"
     ],
     "answer": "B"
   },
   {
     "id": 36,
     "type": "mcq",
-    "stem": "Hormonal contraceptives contain which two hormonal components at various dosages as stated in the lecture?",
+    "stem": "In suspected Addison's disease (hyposecretion of steroid hormones), the blood cortisol sample should be collected at which time?",
     "options": [
-      "Estrogens and androgens at various dosages",
-      "Estrogens and progesterone at various dosages",
-      "Progesterone and GnRH analogues at various dosages"
+      "In the evening when values are normally lower, making any further deficit more pronounced",
+      "In the morning (8â9am) when values are normally higher, making hyposecretion more detectable",
+      "At noon when cortisol values are at their midpoint, reducing sampling bias"
     ],
     "answer": "B"
   },
   {
     "id": 37,
     "type": "mcq",
-    "stem": "The subdermal progestogen implant for hormonal contraception is named in the lecture as which specific brand/device?",
+    "stem": "Regarding ultradian rhythm and its clinical implication: FSH and LH levels were restored in hypothalamic disorders using what type of GnRH delivery?",
     "options": [
-      "Depo-Provera",
-      "Norplant",
-      "Implanon"
+      "Continuous GnRH infusion to maintain constant gonadotropin stimulation",
+      "Pulsatile GnRH, not continuous GnRH",
+      "Bolus daily GnRH injection to replicate the normal physiological surge pattern"
     ],
     "answer": "B"
   },
   {
     "id": 38,
     "type": "mcq",
-    "stem": "Intrauterine contraception prevents implantation of the fertilized ovum by which specific mechanisms as stated in the lecture?",
+    "stem": "GnRH agonists used in artificial reproductive technology downregulate the pituitary. These synthetic analogues cause pituitary fatigue because they:",
     "options": [
-      "By stimulating prostaglandin production causing uterine contractions that expel the fertilized ovum",
-      "By physical and chemical alteration of endometrial function",
-      "By creating a hostile cervical mucus environment that prevents sperm from reaching the uterus"
+      "Mimic the pulsatile rhythm of GnRH, causing receptor hypersensitivity and excessive FSH/LH release",
+      "Do NOT exhibit ultradian rhythm, thus continuously stimulating the pituitary until pituitary fatigue and down-regulation occurs",
+      "Competitively block endogenous GnRH receptors, preventing FSH and LH release"
     ],
     "answer": "B"
   },
   {
     "id": 39,
     "type": "mcq",
-    "stem": "Three specific IUCD devices are named in the lecture as excellent examples of intrauterine contraception. Which option CORRECTLY lists all three?",
+    "stem": "Regarding protein binding of hormones: only the free hormones are biologically active. Greater protein binding produces which specific effect on the onset and duration of hormone action?",
     "options": [
-      "Mirena, copper T, and Lippe's loop",
-      "Lippe's loop, copper T, and Levonorgestrel-containing IUCD",
-      "Lippe's loop, copper 7, and Norplant"
+      "Greater protein binding accelerates onset but shortens duration of action",
+      "Greater protein binding reduces the onset but prolongs the duration of action",
+      "Greater protein binding has no effect on onset but shortens duration by reducing free hormone"
     ],
     "answer": "B"
   },
   {
     "id": 40,
     "type": "mcq",
-    "stem": "Sterilization is described in the lecture as the permanent form of contraception. The specific procedures for males and females are respectively:",
+    "stem": "Protein binding of hormones provides multiple advantages. Which of the following CORRECTLY lists ALL the advantages of protein binding as stated in the lecture?",
     "options": [
-      "Vasectomy for females and bilateral tubal ligation for males",
-      "Vasectomy for males and bilateral tubal ligation for females",
-      "Orchiectomy for males and oophorectomy for females"
+      "Easy transport in aqueous solution; temporary storage; protects hormone from degradation; prolongs half-life",
+      "Easy transport in aqueous solution; protects from degradation and excretion; temporary storage; prolongs half-life",
+      "Increases receptor affinity; protects from immunological destruction; prolongs half-life; facilitates tissue entry"
     ],
     "answer": "B"
   },
   {
     "id": 41,
     "type": "mcq",
-    "stem": "Emergency contraception is also known by which two other names as stated in the lecture?",
+    "stem": "The half-life of a hormone (tÂ½) is defined as the time needed for the concentration to reduce to what percentage of its original level?",
     "options": [
-      "Post-coital contraception and morning-after pill",
-      "Day-after pill and luteal phase contraception",
-      "Coitus interruptus and post-coital pill"
+      "To 25% (one quarter) of its original level",
+      "To 50% (half) of its original level",
+      "To 37% (1/e) of its original level"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 42,
     "type": "mcq",
-    "stem": "Emergency contraception probably acts by which two mechanisms as stated in the lecture?",
+    "stem": "The half-life of a hormone is directly proportional to which factors as stated in the lecture?",
     "options": [
-      "By preventing ovulation and causing luteal phase insufficiency",
-      "By disturbing fertilization and preventing implantation of the fertilized ovum",
-      "By preventing sperm capacitation and inducing endometrial shedding"
+      "The degree of protein binding and the number of target cell receptors",
+      "The degree of degradation and clearance and the duration of action of the hormone",
+      "The molecular weight of the hormone and the degree of ionization at physiological pH"
     ],
     "answer": "B"
   },
   {
     "id": 43,
     "type": "mcq",
-    "stem": "Emergency contraception should be used before implantation occurs (before 7 days). However, for BETTER EFFICACY, its use should be restricted to within how many hours of intercourse?",
+    "stem": "Receptor down-regulation of membrane receptors is mainly achieved by which two mechanisms as stated in the lecture?",
     "options": [
-      "Within the first 48 hours of intercourse",
-      "Within the first 72 hours of intercourse",
-      "Within the first 96 hours of intercourse"
+      "Receptor phosphorylation (inactivation) and receptor gene silencing",
+      "Receptor-mediated endocytosis (internalization) or desensitization",
+      "Proteasomal degradation or receptor ubiquitination"
     ],
     "answer": "B"
   },
   {
     "id": 44,
     "type": "mcq",
-    "stem": "Abstinence is described in the lecture with which superlative regarding its efficacy and which unique property distinguishing it from ALL other methods?",
+    "stem": "Autoimmune antibodies that interact with hormone receptors can produce two opposite clinical outcomes. Which pair CORRECTLY identifies both outcomes?",
     "options": [
-      "Most effective common method; its failure rate is very low (less than 1%)",
-      "Most efficacious form of contraception; it has no failure rate",
-      "Most reliable physiological method; its STD risk is zero in all circumstances"
+      "Blocking receptor action causing hyperactivity OR accentuating receptor action causing deficiency",
+      "Blocking hormone action leading to biological deficiency OR accentuating its action causing biological hyperactivity",
+      "Stimulating receptor synthesis causing upregulation OR blocking receptor synthesis causing downregulation"
     ],
     "answer": "B"
   },
   {
     "id": 45,
     "type": "mcq",
-    "stem": "Barrier/mechanical methods include condoms (male and female), cervical caps, and diaphragms. Their primary mechanism is to prevent spermatozoa from entry into which location?",
+    "stem": "Factor (v) affecting physiological activity of hormones is listed as 'Others'. Which of the following CORRECTLY lists all the 'other factors' named?",
     "options": [
-      "Entry into the vagina",
-      "Entry into the uterine cavity",
-      "Entry into the fallopian tube"
+      "Concentration of rate-limiting enzymes, cofactors, substrates, and effects of antagonistic or synergistic hormones",
+      "Substrate availability, coenzyme concentration, and receptor density at target cells",
+      "Presence of binding proteins, rate of hepatic degradation, and renal clearance rate"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 46,
     "type": "mcq",
-    "stem": "Coitus interruptus involves which specific action and falls under which broad contraceptive category?",
+    "stem": "In Mechanism A (Direct changes in membrane permeability), the hormone-receptor complex initiates a conformational change leading to opening or closing of ionic channels. Which three specific ion channels are named?",
     "options": [
-      "Withdrawal of the penis after ejaculation; classified as a hormonal contraceptive method",
-      "Withdrawal of the penis just before ejaculation; classified under barrier/mechanical methods",
-      "Voluntary cessation of intercourse before orgasm; classified as natural family planning"
+      "Naâº, Kâº, and MgÂ²âº",
+      "Naâº, Kâº, and CaÂ²âº",
+      "Naâº, Clâ», and CaÂ²âº"
     ],
     "answer": "B"
   },
   {
     "id": 47,
     "type": "mcq",
-    "stem": "Surgical methods of terminating pregnancy listed in the lecture include which TWO procedures?",
+    "stem": "The ionic channels controlled by hormone-receptor complexes that mediate direct membrane permeability changes are specifically termed:",
     "options": [
-      "Hysterotomy and dilatation and curettage",
-      "Dilatation and curettage (D&C) and vacuum aspiration",
-      "Vacuum aspiration and manual uterine evacuation"
+      "Voltage-gated channels",
+      "Ligand-gated channels",
+      "Mechanically-gated channels"
     ],
     "answer": "B"
   },
   {
     "id": 48,
     "type": "mcq",
-    "stem": "Medical termination of pregnancy involves which pharmacological agents as stated in the lecture?",
+    "stem": "Which hormones/neurotransmitters are listed as examples of agents acting via direct changes in membrane permeability (ligand-gated channels)?",
     "options": [
-      "Prostaglandin analogues and anti-progestogens",
-      "Feticides and uterotonics",
-      "Mifepristone and misoprostol specifically"
+      "Insulin, glucagon, and thyroid hormones",
+      "Acetylcholine, epinephrine, and norepinephrine",
+      "Prolactin, GH, and cytokines acting via JAK-STAT"
     ],
     "answer": "B"
   },
   {
     "id": 49,
     "type": "mcq",
-    "stem": "Regarding milk production in the mammary gland during pregnancy, when does milk production begin?",
+    "stem": "The growth factor receptor (insulin receptor) is described as a tetramer. What is its exact subunit composition?",
     "options": [
-      "Milk production begins at the start of the third trimester",
-      "Milk production begins just before the end of pregnancy",
-      "Milk production begins only after delivery when progesterone and estrogen levels fall"
+      "4 identical beta subunits with intrinsic tyrosine kinase activity on each",
+      "2 extracellular alpha subunits and 2 trans/intracellular beta subunits",
+      "1 extracellular alpha subunit and 3 intracellular beta subunits"
     ],
     "answer": "B"
   },
   {
     "id": 50,
     "type": "mcq",
-    "stem": "The magnitude of the prolactin rise during suckling declines after how many months of established lactation?",
+    "stem": "How many classes of cell-membrane receptors are described in the lecture, and which option CORRECTLY lists all four classes?",
     "options": [
-      "After one month",
-      "After three months",
-      "After six months"
+      "Three classes: ion-channel receptors, G-protein coupled receptors, and tyrosine kinase receptors",
+      "Four classes: ion-channel receptors, G-protein coupled receptors (GPCRs), tyrosine kinase-linked receptors, and receptors with intrinsic tyrosine kinase enzymatic activity",
+      "Four classes: ion-channel receptors, G-protein coupled receptors, JAK-STAT receptors, and nuclear steroid receptors"
     ],
     "answer": "B"
   },
   {
     "id": 51,
     "type": "mcq",
-    "stem": "CASE STUDY: A 24-year-old woman presents for family planning counselling. She wants a method with no documented failure rate. Based on the lecture, which is the ONLY method that meets this description?",
+    "stem": "CASE STUDY: A researcher notices that a patient with Graves' disease has antibodies that stimulate TSH receptors. Based on the lecture's description of receptor-autoimmune antibody interactions, this antibody is causing which outcome?",
     "options": [
-      "Combined oral contraceptive pill, which has a theoretical failure rate of less than 0.1% with perfect use",
-      "Abstinence, which is the most efficacious form of contraception with no failure rate",
-      "Bilateral tubal ligation, which is the most permanent form of contraception with negligible failure rate"
+      "Biological deficiency â the antibody is blocking receptor action, reducing thyroid hormone output",
+      "Biological hyperactivity â the antibody is accentuating receptor action, causing hyperthyroidism",
+      "Receptor downregulation â the antibody promotes internalization of TSH receptors"
     ],
     "answer": "B"
   },
   {
     "id": 52,
     "type": "mcq",
-    "stem": "CASE STUDY: A 29-year-old woman has a 28-day regular cycle. She had unprotected intercourse on day 11. Based on the lecture's calculation of the unsafe period, is she at risk of pregnancy?",
+    "stem": "CASE STUDY: A patient develops Type 2 diabetes with insulin resistance despite normal insulin levels. Based on the lecture, which factor related to receptor physiology MOST likely explains this?",
     "options": [
-      "No; day 11 falls in the safe period because the unsafe period only begins from day 12",
-      "Yes; day 11 falls within the unsafe period which begins from day 11 (72 hours before ovulation on day 14)",
-      "No; she is only at risk from day 13 onward when sperm viability makes fertilization possible"
+      "Increased receptor synthesis (upregulation) leading to excessive insulin signalling",
+      "Receptor insensitivity occurring despite adequate receptor density, possibly via desensitization or downregulation",
+      "Increased half-life of insulin due to enhanced protein binding reducing free hormone availability"
     ],
     "answer": "B"
   },
   {
     "id": 53,
     "type": "mcq",
-    "stem": "CASE STUDY: A 26-year-old woman had unprotected intercourse 65 hours ago and comes requesting emergency contraception. Based on the lecture, should emergency contraception be offered?",
+    "stem": "CASE STUDY: A nursing student is asked to identify the appropriate timing for cortisol sampling in a patient with suspected Addison's disease (hyposecretion). Based on the circadian rhythm of cortisol, the CORRECT collection time is:",
     "options": [
-      "No; she has exceeded the 48-hour window for optimal emergency contraception efficacy",
-      "Yes; she is still within the 72-hour window for better efficacy and before implantation at 7 days",
-      "Yes; she is within the 7-day window so efficacy will be maximal at this timing"
+      "Evening collection because cortisol levels are normally lowest then, making hyposecretion more apparent",
+      "Morning collection (8â9am) because cortisol values are normally highest at this time, making deficiency most detectable",
+      "Midnight collection because the absence of the normal nadir can distinguish Addison's from other causes"
     ],
     "answer": "B"
   },
   {
     "id": 54,
     "type": "mcq",
-    "stem": "CASE STUDY: A woman at 36 weeks gestation is worried that her prolactin levels are high but she is not producing milk. The midwife explains this is normal because:",
+    "stem": "CASE STUDY: A woman undergoing IVF is given a continuous GnRH agonist before ovarian stimulation. Based on the ultradian rhythm lecture, why does continuous GnRH agonist administration downregulate rather than stimulate the pituitary?",
     "options": [
-      "Prolactin levels actually fall in the third trimester in preparation for postnatal lactation",
-      "High levels of progesterone and estrogen during pregnancy prevent significant lactation by inhibiting prolactin production",
-      "HPL from the placenta competitively blocks prolactin receptors at the mammary alveoli until after delivery"
+      "Continuous GnRH mimics the pulsatile rhythm and this causes receptor hypersensitisation",
+      "Continuous GnRH agonist does not exhibit ultradian rhythm, thus continuously stimulating the pituitary until pituitary fatigue and down-regulation occurs",
+      "Continuous GnRH agonist blocks endogenous GnRH preventing FSH/LH release directly"
     ],
     "answer": "B"
   },
   {
     "id": 55,
     "type": "mcq",
-    "stem": "CASE STUDY: A primiparous woman complains of lower abdominal cramping every time she breastfeeds. Her midwife reassures her this is normal. The correct explanation based on the lecture is:",
+    "stem": "CASE STUDY: A laboratory technician measures a single cortisol sample in a research subject and gets an unusually high value. The lecture advises that serial measurements and average values are more reliable than single measurements. A key reason to AVOID multiple venepunctures in this context is:",
     "options": [
-      "Prolactin-mediated contraction of the uterine smooth muscle causes cramping during breastfeeding",
-      "Oxytocin released during the milk ejection reflex also causes contraction of the uterus, explaining the lower abdominal discomfort",
-      "HPL released during suckling stimulates residual placental bed vessels causing abdominal cramping"
+      "Multiple venepunctures release histamine from mast cells which directly stimulates cortisol secretion",
+      "Multiple venepunctures induce discomfort and stress, thus altering cortisol levels and affecting reliability of results",
+      "Multiple venepunctures cause haemodilution reducing apparent cortisol concentration"
     ],
     "answer": "B"
   },
   {
     "id": 56,
     "type": "mcq",
-    "stem": "CASE STUDY: A woman is 4 months postpartum and breastfeeding. She is concerned that her milk supply might decrease because she read that prolactin response changes after a period of lactation. Based on the lecture, the correct explanation is:",
+    "stem": "CASE STUDY: A pharmacologist designs a drug that is highly protein-bound. Based on the lecture on protein binding, this drug will have which characteristic kinetic profile?",
     "options": [
-      "After 6 months, prolactin levels drop permanently and milk secretion ceases completely without supplementation",
-      "After three months, the magnitude of the prolactin rise with suckling declines, but with prolonged lactation milk can occur with normal prolactin levels",
-      "After 3 months, the anterior pituitary exhausts its prolactin stores and breastfeeding must stop"
+      "Rapid onset and short duration since protein binding prevents receptor access",
+      "Reduced onset but prolonged duration of action because protein binding provides temporary storage and protection from degradation",
+      "No change in onset but significantly reduced half-life because protein binding accelerates hepatic degradation"
     ],
     "answer": "B"
   },
   {
     "id": 57,
     "type": "mcq",
-    "stem": "CASE STUDY: A nursing student is asked in a viva to explain why a woman's breasts feel full when she hears her baby cry even without the baby feeding. Based on the lecture, this is because:",
+    "stem": "CASE STUDY: A 45-year-old woman with Type 2 Diabetes is told her insulin receptors have undergone downregulation. Based on the lecture, the two mechanisms by which membrane receptor downregulation is mainly achieved are:",
     "options": [
-      "The sound of the baby's cry stimulates GnRH release which indirectly stimulates prolactin via the hypothalamohypophyseal portal system",
-      "The baby's cry is one of the stimuli for the milk ejection reflex, triggering the neuroendocrine pathway to release oxytocin even without direct suckling",
-      "The baby's cry stimulates PIH withdrawal, removing tonic inhibition of prolactin and causing immediate milk synthesis"
+      "Receptor phosphorylation and receptor ubiquitin-proteasome degradation",
+      "Receptor-mediated endocytosis (internalization) and desensitization",
+      "Receptor gene silencing and competitive displacement by antagonist molecules"
     ],
     "answer": "B"
   },
   {
     "id": 58,
     "type": "mcq",
-    "stem": "CASE STUDY: A student nurse is asked to identify the route of prolactin receptor signal transduction. Based on the lecture, she correctly answers:",
+    "stem": "CASE STUDY: A student reviews a case where oestrogen therapy elevates transport globulin levels in a patient. Based on the dynamics of hormone physiology, this increase in binding protein would have what effect on free hormone levels and biologically active hormone?",
     "options": [
-      "Prolactin receptors activate G-proteins and cAMP, similar to FSH and LH at the gonadal level",
-      "Prolactin receptors resemble growth hormone receptors and act via the JAK-STAT pathway",
-      "Prolactin receptors activate the phospholipid second messenger mechanism like GnRH at the gonadotrope"
+      "Increased binding proteins increase free hormone levels and therefore increase biologically active hormone",
+      "Protein-bound hormones are not readily available for expression of bio-effects; only free hormones are biologically active, so increased binding reduces active fraction",
+      "Binding proteins enhance receptor sensitivity, compensating for reduced free hormone levels"
     ],
     "answer": "B"
   },
   {
     "id": 59,
     "type": "mcq",
-    "stem": "CASE STUDY: A woman at 35 has just delivered and is choosing between sterilization and an IUCD. She is told sterilization is irreversible. Based on the lecture, which female sterilization procedure is specifically named?",
+    "stem": "CASE STUDY: During a physiology OSCE, a student is asked to explain the concept of 'haemocrine communication'. Based on the lecture, haemocrine is the most appropriate recent term for which type of communication?",
     "options": [
-      "Unilateral salpingectomy",
-      "Bilateral tubal ligation",
-      "Total abdominal hysterectomy"
+      "Solinocrine communication â chemical substances secreted into gut lumina",
+      "Endocrine communication â substances released to extracellular spaces and entering the blood to act at distal sites",
+      "Neuro-endocrine communication â substances transported from nerve bodies via blood"
     ],
     "answer": "B"
   },
   {
     "id": 60,
     "type": "mcq",
-    "stem": "CASE STUDY: A couple of Seventh-day Adventist faith attends a family planning clinic and declines all hormonal and barrier methods for religious reasons. Based on the lecture, which method is specifically described as acceptable to couples due to religious and cultural beliefs?",
+    "stem": "CASE STUDY: A student confuses intracrine and autocrine communication. The examiner asks: in autocrine communication, after what event does interaction of the hormone with its own producing cell occur?",
     "options": [
-      "Sterilization, which is described as culturally acceptable in some religious traditions",
-      "Natural family planning (rhythm/safe period), which may be the only method accepted by some couples due to religious and cultural beliefs",
-      "Emergency contraception, which is acceptable because it is used after the fact and not preventative"
+      "After the hormone is packaged in secretory granules but before exocytosis",
+      "After contact must have been made with the interstitial fluid",
+      "After the hormone crosses the nuclear membrane and binds to nuclear receptors"
     ],
     "answer": "B"
   },
   {
     "id": 61,
     "type": "mcq",
-    "stem": "CASE STUDY: A 20-year-old female patient asks why her baby was put to the breast immediately after delivery. The student nurse explains based on the lecture that this is because:",
+    "stem": "CASE STUDY: A patient's biopsy reveals that endothelial cells of blood vessels are producing nitrous oxide acting on the vessel smooth muscle via gap junctions, without contacting the interstitial fluid. Based on the lecture, this is a specific example of which communication type?",
     "options": [
-      "Early suckling prevents maternal postpartum haemorrhage by releasing HPL which contracts the uterine vessels",
-      "Prolactin concentration falls temporarily after delivery and only rises again when suckling is initiated; early suckling establishes milk supply",
-      "Early suckling stimulates PIH release which then converts to a prolactin-releasing role in the postnatal period"
+      "Juxtacrine communication â occurring along adjacent cells",
+      "Epicrine communication â occurring via gap junctions without interstitial fluid contact",
+      "Paracrine communication â occurring in the interstitial space between cells"
     ],
     "answer": "B"
   },
   {
     "id": 62,
     "type": "mcq",
-    "stem": "CASE STUDY: A pharmacist counsels a patient that her combined oral contraceptive primarily prevents pregnancy by which mechanism? Based on the lecture, hormonal contraceptives act primarily by:",
+    "stem": "CASE STUDY: A nurse notes that a patient taking high-dose oral steroids has rapid blood glucose elevation. Steroid hormones are lipid-soluble. Compared to water-soluble insulin (which would take effect rapidly), why do steroid hormones have a SLOWER onset?",
     "options": [
-      "Preventing sperm transport through the fallopian tube by thickening cervical mucus",
-      "Inhibiting ovulation and altering the histophysiological characteristics of endometrium and cervix",
-      "Preventing implantation by physically altering the endometrium similar to an IUCD"
+      "Steroid hormones bind to cell membrane receptors which must undergo internalization before gene transcription begins",
+      "Lipid-soluble hormones have slowed onset because they act on receptors in the cytoplasm/nucleus, requiring gene transcription and protein synthesis",
+      "Steroid hormones are bound to plasma proteins which must be cleaved before receptor binding can occur, causing a delay"
     ],
     "answer": "B"
   },
   {
     "id": 63,
     "type": "mcq",
-    "stem": "CASE STUDY: A student confuses the mammary effects of estrogen and progesterone. She claims estrogen stimulates stroma and glandular tissue. Her examiner corrects her stating that estrogen causes ___ while progesterone causes ___. Which CORRECTLY fills these blanks?",
+    "stem": "CASE STUDY: A biochemistry student is asked to name the two subdivisions of endocrinology. She correctly identifies Traditional Endocrine Physiology and Contemporary Endocrinology. Traditional endocrinology studies secretions from specific organs whose primary function is:",
     "options": [
-      "Estrogen causes lobular development; progesterone causes ductal growth and fat accumulation",
-      "Estrogen causes growth and branching of ducts and fat accumulation; progesterone causes development of stroma and glandular tissue",
-      "Estrogen causes glandular tissue growth; progesterone causes ductal growth and fat accumulation"
+      "To secrete substances into ducts for transport to target organs (exocrine function)",
+      "To secrete hormones (endocrine organs) emptying their contents into the blood",
+      "To produce cytokines and growth factors from non-endocrine cells"
     ],
     "answer": "B"
   },
   {
     "id": 64,
     "type": "mcq",
-    "stem": "CASE STUDY: A nursing exam question asks which cells prolactin acts on to maintain galactopoiesis during the milk ejection reflex. The correct answer is:",
+    "stem": "CASE STUDY: A researcher studying eicosanoids asks why they act locally rather than systemically. Based on the lecture, eicosanoids are produced by almost all cells, are highly lipid soluble, and are:",
     "options": [
-      "Prolactin acts on the myoepithelial cells of the alveoli to maintain galactopoiesis",
-      "Prolactin acts on the alveoli (alveolar cells) to maintain galactopoiesis",
-      "Prolactin acts on the ductal epithelium to maintain galactopoiesis"
+      "Transported bound to specific plasma proteins and stored in secretory granules",
+      "Easily degraded and easily diffuse across the cell membrane, explaining their local action",
+      "Stored in cytoplasmic vesicles and released constitutively from almost all cells"
     ],
     "answer": "B"
   },
   {
     "id": 65,
     "type": "mcq",
-    "stem": "CASE STUDY: A man who had a vasectomy 5 years ago asks if reversal is possible. Based on the lecture, the most accurate statement about sterilization is:",
+    "stem": "CASE STUDY: A pharmacology student asks why synthetic thyroid hormone (T4) has a longer duration of action than many protein hormones. Based on the lecture, T4 is lipid soluble AND is the one lipid-soluble hormone that IS stored. The prolonged half-life of T4 is further explained by which additional factor?",
     "options": [
-      "Sterilization is absolutely irreversible and no reversal procedure exists",
-      "Sterilization is supposed to be irreversible; however in developed societies some women request reversal",
-      "Sterilization reversal is routinely available with a 95% success rate in both males and females"
+      "T4 is rapidly converted to the active T3 form, extending the apparent duration of action",
+      "Greater protein binding reduces onset but prolongs duration of action, and T4 is extensively protein-bound",
+      "T4 acts via nuclear receptors which have intrinsically slow recycling mechanisms"
     ],
     "answer": "B"
   },
   {
     "id": 66,
     "type": "mcq",
-    "stem": "CASE STUDY: A student asks why prolactin is unique among anterior pituitary hormones in terms of hypothalamic control. The correct answer based on the lecture is:",
+    "stem": "CASE STUDY: A student is given an exam question asking to define what distinguishes the 'pre-pro-hormone' from the 'pro-hormone' and then the 'active hormone'. Based on the lecture, the key process producing the active hormone from the pre-pro-hormone is:",
     "options": [
-      "Prolactin is unique because its hypothalamic control is exclusively stimulatory via prolactin releasing hormone",
-      "Prolactin is unique because it is under tonic inhibitory control from the hypothalamus (PIH), unlike most anterior pituitary hormones",
-      "Prolactin is unique because it is controlled by both a releasing hormone and an inhibitory hormone with equal potency"
+      "Glycosylation in the endoplasmic reticulum followed by packaging into secretory granules",
+      "Stepwise cleavage of the pre-pro-hormone to a pro-hormone and then to the active hormone",
+      "Addition of disulphide bonds in the Golgi apparatus that confer the active three-dimensional structure"
     ],
     "answer": "B"
   },
   {
     "id": 67,
     "type": "mcq",
-    "stem": "CASE STUDY: A woman at 28 weeks of gestation has her prolactin level measured and it is elevated. Which statement BEST explains the expected prolactin trajectory from this point based on the lecture?",
+    "stem": "CASE STUDY: A student argues that exocrine secretion and endocrine secretion are mutually exclusive. Based on the lecture, the CORRECT response is:",
     "options": [
-      "Prolactin levels plateau after 28 weeks and do not change further until delivery",
-      "Prolactin levels continue to increase during pregnancy and reach a peak at labour",
-      "Prolactin levels fall after 28 weeks as the placenta takes over the lactogenic role via HPL"
+      "The student is correct â exocrine glands secrete into ducts and cannot also secrete hormones",
+      "The student is incorrect â exocrine secretion is NOT antithetical to endocrine secretion; many exocrine glands contain cells of the diffuse neuroendocrine system (DNES) and indeed secrete hormones",
+      "The student is partially correct â only glands with both exocrine and endocrine cell types can be classified as endocrine"
     ],
     "answer": "B"
   },
   {
     "id": 68,
     "type": "mcq",
-    "stem": "CASE STUDY: A family planning clinic in Nigeria records a case where an unmarried woman says she cannot use any method that causes termination of pregnancy. Based on the lecture, which methods act by preventing implantation (which she may consider equivalent to termination)?",
+    "stem": "CASE STUDY: A 50-year-old male takes an oral lipid-soluble steroid supplement. Considering hormone kinetics, why is removal of steroids from blood achieved by conjugation with glucuronic acid and sulphates?",
     "options": [
-      "Combined oral contraceptive pill and injectable progestogens only",
-      "Emergency contraception (prevents implantation) and IUCD (physical/chemical alteration of endometrial function)",
-      "Natural family planning and barrier methods only, as all hormonal methods prevent implantation"
+      "To reduce receptor affinity and terminate hormone action at the target cell level",
+      "To improve solubility and enhance biliary and urinary excretion since steroids are not water soluble",
+      "To prevent enterohepatic recirculation and ensure complete hormonal elimination"
     ],
     "answer": "B"
   },
   {
     "id": 69,
     "type": "mcq",
-    "stem": "CASE STUDY: An OSCE station asks a student to name the surgical termination methods listed in the lecture. She incorrectly includes hysterotomy. The CORRECT surgical methods listed are:",
+    "stem": "CASE STUDY: An endocrinology examiner asks a student which hormone type is synthesized in the rough ER as a biologically inactive pre-pro-hormone and why this form is inactive. Based on the lecture, this describes:",
     "options": [
-      "Dilatation and curettage (D&C), hysteroscopy, and vacuum aspiration",
-      "Dilatation and curettage (D&C) and vacuum aspiration only",
-      "Vacuum aspiration, hysterotomy, and dilatation and evacuation"
+      "Lipid-soluble steroid hormones synthesized in the rough ER prior to Golgi processing",
+      "Protein and polypeptide hormones, which are biologically inactive as pre-pro-hormones before post-translational modification in the Golgi apparatus",
+      "Amino acid derivative (monoamine) hormones which are inactive until enzymatic modification in the cytoplasm"
     ],
     "answer": "B"
   },
   {
     "id": 70,
     "type": "mcq",
-    "stem": "CASE STUDY: A midwifery student asks about the hormonal basis of the neuroendocrine milk ejection reflex. She correctly identifies the reflex as: initiated by ___ factor and completed by ___ action. Which answer is correct?",
+    "stem": "CASE STUDY: A nursing student is examining which type of cells produce cytokines and growth factors. She incorrectly states they come from a specific endocrine gland. The correct statement based on the lecture is that growth factors/cytokines are synthesized by:",
     "options": [
-      "Initiated by hormonal factor; completed by nervous action",
-      "Initiated by nervous factor; completed by humoral action",
-      "Initiated by somatic factor; completed by autonomic humoral action"
+      "Exclusively by cells of the anterior pituitary, since these hormones are regulated by hypothalamic releasing hormones",
+      "A variety of cell types (not a definite gland) including lymphocytes, macrophages, endothelial cells, neurones, and glial cells",
+      "Exclusively by cells of immune origin (lymphocytes and macrophages) which accounts for their role in inflammation"
     ],
     "answer": "B"
   },
   {
     "id": 71,
     "type": "fitb",
-    "stem": "Lactation involves the synthesis, secretion, and ___ of milk.",
-    "answer": "ejection",
-    "acceptableAnswers": ["ejection", "ejection of milk", "expulsion"]
+    "stem": "Endocrinology is the study of the regulation of information within a living organism by means of chemical messengers called ___.",
+    "answer": "hormones",
+    "acceptableAnswers": ["hormones", "chemical messengers called hormones"]
   },
   {
     "id": 72,
     "type": "fitb",
-    "stem": "Milk ejection involves the expulsion of milk from the ___ and ___ to the exterior.",
-    "answer": "ducts; alveoli",
-    "acceptableAnswers": ["ducts; alveoli", "alveoli; ducts", "ducts and alveoli"]
+    "stem": "In endocrine (haemocrine) communication, chemical substances are released to the extracellular spaces, enter the ___, and are transported to ___ sites (target tissues).",
+    "answer": "blood; distal",
+    "acceptableAnswers": ["blood; distal", "bloodstream; distal", "blood; distant"]
   },
   {
     "id": 73,
     "type": "fitb",
-    "stem": "Prolactin is produced by the ___ of the anterior pituitary and is under ___ control by prolactin inhibiting hormone from the hypothalamus.",
-    "answer": "lactotropes; inhibitory",
-    "acceptableAnswers": ["lactotropes; inhibitory", "lactotrophs; inhibitory"]
+    "stem": "Paracrine communication involves release of chemical substances into the ___ space, while communication via gap junctions without contacting the interstitial fluid is called ___ communication.",
+    "answer": "interstitial; epicrine",
+    "acceptableAnswers": ["interstitial; epicrine", "interstitial space; epicrine"]
   },
   {
     "id": 74,
     "type": "fitb",
-    "stem": "Prolactin contains ___ amino acid residues and is structurally like GH and ___.",
-    "answer": "199; HPL",
-    "acceptableAnswers": ["199; HPL", "199 amino acid residues; HPL", "199; human placental lactogen"]
+    "stem": "In autocrine communication, when contact with the interstitial fluid is NOT made, it is termed ___ communication.",
+    "answer": "intracrine",
+    "acceptableAnswers": ["intracrine", "intracrine communication"]
   },
   {
     "id": 75,
     "type": "fitb",
-    "stem": "The half-life of prolactin is ___ minutes, with a normal plasma level of ___ ng/ml in males and ___ ng/ml in females.",
-    "answer": "20; 5; 8",
-    "acceptableAnswers": ["20; 5; 8", "20 minutes; 5 ng/ml; 8 ng/ml"]
+    "stem": "Neuro-endocrine communication involves hormones produced by ___ cell bodies, transported through terminal axons to the blood. Examples include posterior pituitary hormones, ___, and hypothalamic releasing hormones.",
+    "answer": "nerve; antidiuretic hormone (ADH) / oxytocin",
+    "acceptableAnswers": ["nerve; oxytocin", "nerve; antidiuretic hormone", "nerve; ADH and oxytocin", "nerve cell; ADH"]
   },
   {
     "id": 76,
     "type": "fitb",
-    "stem": "Prolactin receptors resemble those of growth hormone and act via the ___ pathway.",
-    "answer": "JAK-STAT",
-    "acceptableAnswers": ["JAK-STAT", "JAK=STAT", "Janus kinase-signal transducer and activator of transcription"]
+    "stem": "A ligand is a biomolecule or ion that specifically and selectively binds a receptor to form a complex with the aim of eliciting a ___. It could be a hormone, or ___ or inorganic substances.",
+    "answer": "biological response; organic",
+    "acceptableAnswers": ["biological response; organic", "biological response; organic or inorganic"]
   },
   {
     "id": 77,
     "type": "fitb",
-    "stem": "Suckling stimulates touch receptors which send impulses via somatic afferents to the ___ and ___ of the hypothalamus to release oxytocin.",
-    "answer": "SON (supraoptic nucleus); PVN (paraventricular nucleus)",
-    "acceptableAnswers": ["SON; PVN", "supraoptic nucleus; paraventricular nucleus", "SON and PVN"]
+    "stem": "The concentration of hormones in the blood ranges from about one ___ to a few micrograms.",
+    "answer": "picogram",
+    "acceptableAnswers": ["picogram", "picogram per millilitre", "pg"]
   },
   {
     "id": 78,
     "type": "fitb",
-    "stem": "Oxytocin acts on the ___ cells of the breast to cause milk ejection, and also causes contraction of the ___.",
-    "answer": "myoepithelial; uterus",
-    "acceptableAnswers": ["myoepithelial; uterus", "myoepithelial cells; uterus"]
+    "stem": "Hormones are removed from blood by chemical destruction and binding to ___ acid and ___, to improve solubility and enhance biliary and urinary excretion.",
+    "answer": "glucuronic; sulphates",
+    "acceptableAnswers": ["glucuronic; sulphates", "glucuronide; sulphates", "glucuronic acid; sulphates"]
   },
   {
     "id": 79,
     "type": "fitb",
-    "stem": "The milk ejection reflex is classified as a ___ reflex because it is initiated by ___ factor but completed by humoral action.",
-    "answer": "neuroendocrine; nervous",
-    "acceptableAnswers": ["neuroendocrine; nervous", "neuro-endocrine; nervous"]
+    "stem": "Water-soluble hormones are synthesized in the ___ reticulum and stored in ___ granules, and they bind to ___ membrane receptors.",
+    "answer": "endoplasmic; secretory; cell",
+    "acceptableAnswers": ["endoplasmic; secretory; cell", "rough endoplasmic; secretory; cell membrane"]
   },
   {
     "id": 80,
     "type": "fitb",
-    "stem": "During the milk ejection reflex, impulses that reach the anterior pituitary lead to production of ___ which acts on the ___ to maintain galactopoiesis.",
-    "answer": "prolactin; alveoli",
-    "acceptableAnswers": ["prolactin; alveoli", "prolactin; alveolar cells"]
+    "stem": "Lipid-soluble hormones are NOT stored (except ___) and are transported ___ to plasma proteins.",
+    "answer": "thyroid hormones; bound",
+    "acceptableAnswers": ["thyroid hormones; bound", "thyroid; bound"]
   },
   {
     "id": 81,
     "type": "fitb",
-    "stem": "At puberty, estrogen and progesterone induce growth of the ___, ___, and connective tissues (fat) of the mammary gland.",
-    "answer": "ductal system; glandular tissues",
-    "acceptableAnswers": ["ductal system; glandular tissues", "glandular tissues; ductal system"]
+    "stem": "Steroids contain a common nucleus called the ___ ring with ___ rings (A, B, C, D) and are synthesized from ___.",
+    "answer": "cyclopentanoperhydrophenanthrene; 4; cholesterol",
+    "acceptableAnswers": ["cyclopentanoperhydrophenanthrene; 4; cholesterol", "cyclo-pentano-perhydro-phenanthrene; four; cholesterol"]
   },
   {
     "id": 82,
     "type": "fitb",
-    "stem": "In the mammary gland, estrogen causes growth and branching of the ___ and accumulation of ___, while progesterone stimulates development of ___ and glandular tissue.",
-    "answer": "ducts; fat; stroma",
-    "acceptableAnswers": ["ducts; fat; stroma", "ductal system; fat; stroma"]
+    "stem": "Eicosanoids originate from poly-unsaturated ___ carbon atom fatty acids e.g. ___ acid and are produced by almost all cells in the body.",
+    "answer": "20; arachidonic",
+    "acceptableAnswers": ["20; arachidonic", "20-carbon; arachidonic", "20; arachidonic acid"]
   },
   {
     "id": 83,
     "type": "fitb",
-    "stem": "High levels of ___ and ___ during pregnancy prevent significant lactation by inhibiting prolactin production.",
-    "answer": "progesterone; estrogen",
-    "acceptableAnswers": ["progesterone; estrogen", "estrogen; progesterone", "progesterone and estrogen"]
+    "stem": "Examples of eicosanoids include prostaglandins, ___, ___, and leukotrienes.",
+    "answer": "prostacyclin; thromboxane",
+    "acceptableAnswers": ["prostacyclin; thromboxane", "thromboxane; prostacyclin"]
   },
   {
     "id": 84,
     "type": "fitb",
-    "stem": "After delivery and removal of the placenta, prolactin concentration falls temporarily but rises again when ___ is initiated. After ___ months, the magnitude of this rise declines.",
-    "answer": "suckling; three",
-    "acceptableAnswers": ["suckling; three", "suckling; 3", "breastfeeding; three"]
+    "stem": "Amino acid derivative hormones derived from tyrosine include ___ and ___. Melatonin and serotonin are derived from ___.",
+    "answer": "thyroxine; adrenaline; tryptophan",
+    "acceptableAnswers": ["thyroxine; adrenaline; tryptophan", "adrenaline; thyroxine; tryptophan", "thyroxine and adrenaline; tryptophan"]
   },
   {
     "id": 85,
     "type": "fitb",
-    "stem": "With prolonged lactation, milk secretion can occur with ___ prolactin level.",
-    "answer": "normal",
-    "acceptableAnswers": ["normal", "a normal", "normal plasma"]
+    "stem": "Protein hormones are synthesized in the ___ endoplasmic reticulum as biologically inactive ___. Post-translational modification occurs in the ___ apparatus.",
+    "answer": "rough; pre-pro-hormones; Golgi",
+    "acceptableAnswers": ["rough; pre-pro-hormones; Golgi", "rough ER; pre-pro-hormones; Golgi"]
   },
   {
     "id": 86,
     "type": "fitb",
-    "stem": "In a 28-day cycle, spermatozoa can undergo fertilization for ___ hours and the ovum for ___ hours, making the unsafe period from day ___ to day ___.",
-    "answer": "72; 48; 11; 16",
-    "acceptableAnswers": ["72; 48; 11; 16", "72 hours; 48 hours; day 11; day 16"]
+    "stem": "Constitutive secretion involves the release of hormones as they are ___ (without packaging) and occurs ___.",
+    "answer": "produced; occasionally",
+    "acceptableAnswers": ["produced; occasionally", "produced without packaging; occasionally"]
   },
   {
     "id": 87,
     "type": "fitb",
-    "stem": "Due to variation in ovulation date, it is wiser to avoid intercourse between the ___ and ___ day of the period when using the rhythm method.",
-    "answer": "9th; 19th",
-    "acceptableAnswers": ["9th; 19th", "9; 19", "day 9; day 19"]
+    "stem": "In glycoproteins, the ___ subunits of all glycoproteins are similar while the ___ subunits differ and confer biological specificity.",
+    "answer": "Î± (alpha); Î² (beta)",
+    "acceptableAnswers": ["alpha; beta", "Î±; Î²", "a; b"]
   },
   {
     "id": 88,
     "type": "fitb",
-    "stem": "Hormonal contraceptives act by inhibiting ___ and altering the histophysiological characteristics of ___ and ___.",
-    "answer": "ovulation; endometrium; cervix",
-    "acceptableAnswers": ["ovulation; endometrium; cervix", "ovulation; cervix; endometrium"]
+    "stem": "Circadian rhythms are regular changes in a ___ hour cycle, controlled mainly by the ___ nucleus of the hypothalamus.",
+    "answer": "24; Supra Chiasmatic (SCN)",
+    "acceptableAnswers": ["24; suprachiasmatic", "24; SCN", "24; supra chiasmatic nucleus"]
   },
   {
     "id": 89,
     "type": "fitb",
-    "stem": "The subdermal progestogen implant is called ___, and intrauterine devices that contain progestogens are also classified under ___ contraception.",
-    "answer": "Norplant; hormonal",
-    "acceptableAnswers": ["Norplant; hormonal", "Norplant; progestogen-based"]
+    "stem": "Cortisol is secreted more in the ___ than ___. In suspected Cushing's syndrome, blood sample should be collected in the ___.",
+    "answer": "morning; evening; evening",
+    "acceptableAnswers": ["morning; evening; evening", "AM; PM; evening"]
   },
   {
     "id": 90,
     "type": "fitb",
-    "stem": "Intrauterine contraception involves insertion of ___ devices which may contain ___ substances into the uterine cavity to prevent implantation.",
-    "answer": "mechanical; chemical",
-    "acceptableAnswers": ["mechanical; chemical", "mechanical devices; chemical"]
+    "stem": "GnRH agonist used in ART does not exhibit ___ rhythm, thus continuously stimulating the pituitary until ___ and down-regulation occurs.",
+    "answer": "ultradian; pituitary fatigue",
+    "acceptableAnswers": ["ultradian; pituitary fatigue", "ultradian rhythm; pituitary fatigue"]
   },
   {
     "id": 91,
     "type": "fitb",
-    "stem": "Three named examples of IUCD are ___'s loop, copper ___, and ___ containing IUCD.",
-    "answer": "Lippe; T; Levonorgestrel",
-    "acceptableAnswers": ["Lippe; T; Levonorgestrel", "Lippe's; T; Levonorgestrel"]
+    "stem": "The half-life (tÂ½) of a hormone is the time needed for the concentration to reduce to ___ percent of its original level and is directly proportional to the degree of ___ and clearance.",
+    "answer": "50; degradation",
+    "acceptableAnswers": ["50; degradation", "50%; degradation and clearance"]
   },
   {
     "id": 92,
     "type": "fitb",
-    "stem": "Sterilization involves ___ in males and ___ tubal ligation in females, and is classified as the ___ form of contraception.",
-    "answer": "vasectomy; bilateral; permanent",
-    "acceptableAnswers": ["vasectomy; bilateral; permanent", "vasectomy; bilateral tubal ligation; permanent"]
+    "stem": "Greater protein binding ___ the onset but ___ the duration of action of a hormone.",
+    "answer": "reduces; prolongs",
+    "acceptableAnswers": ["reduces; prolongs", "slows; prolongs", "decreases; prolongs"]
   },
   {
     "id": 93,
     "type": "fitb",
-    "stem": "Emergency contraception is also called ___ contraception or the ___ pill.",
-    "answer": "post-coital; morning-after",
-    "acceptableAnswers": ["post-coital; morning-after", "postcoital; morning after"]
+    "stem": "Down-regulation of membrane receptors is mainly achieved by receptor-mediated ___ (internalization) or ___.",
+    "answer": "endocytosis; desensitization",
+    "acceptableAnswers": ["endocytosis; desensitization", "endocytosis (internalization); desensitization"]
   },
   {
     "id": 94,
     "type": "fitb",
-    "stem": "Emergency contraception should be used before implantation occurs (before ___ days) but for better efficacy within the first ___ hours of intercourse.",
-    "answer": "7; 72",
-    "acceptableAnswers": ["7; 72", "7 days; 72 hours"]
+    "stem": "Autoimmune antibodies can either ___ hormone action leading to biological deficiency, or ___ its action causing biological hyperactivity.",
+    "answer": "block; accentuate",
+    "acceptableAnswers": ["block; accentuate", "block; stimulate", "inhibit; accentuate"]
   },
   {
     "id": 95,
     "type": "fitb",
-    "stem": "Abstinence is the most ___ form of contraception and unlike other methods has ___ failure rate.",
-    "answer": "efficacious; no",
-    "acceptableAnswers": ["efficacious; no", "efficacious; zero", "efficacious; no documented"]
+    "stem": "In Mechanism A (direct changes in membrane permeability), formation of the hormone-receptor complex causes opening or closing of ___ channels (Naâº, Kâº, and CaÂ²âº), which are called ___ channels.",
+    "answer": "ionic; ligand-gated",
+    "acceptableAnswers": ["ionic; ligand-gated", "ion; ligand-gated", "ionic channels; ligand-gated"]
   },
   {
     "id": 96,
     "type": "fitb",
-    "stem": "Natural family planning utilizes changes in ___, ___, and calculation of the date of ovulation.",
-    "answer": "basal body temperature; cervical mucus",
-    "acceptableAnswers": ["basal body temperature; cervical mucus", "BBT; cervical mucus"]
+    "stem": "The insulin/growth factor receptor is a ___ consisting of 2 extracellular ___ subunits and 2 trans/intracellular ___ subunits.",
+    "answer": "tetramer; alpha; beta",
+    "acceptableAnswers": ["tetramer; alpha; beta", "tetramer; Î±; Î²", "tetramer; alpha (extracellular); beta (intracellular)"]
   },
   {
     "id": 97,
     "type": "fitb",
-    "stem": "Prolactin production is stimulated by sleep, exercise, TRH, TSH, ___ stimulation, and ___ and psychological stress.",
-    "answer": "nipple; surgical",
-    "acceptableAnswers": ["nipple; surgical", "nipple stimulation; surgical stress"]
+    "stem": "The four classes of cell-membrane receptors are: (i) ___ receptors, (ii) G-protein coupled receptors, (iii) ___ receptors, and (iv) receptors with intrinsic ___ enzymatic activity.",
+    "answer": "ion-channel; tyrosine kinase-linked; tyrosine kinase",
+    "acceptableAnswers": ["ion-channel; tyrosine kinase-linked; tyrosine kinase", "ion channel; tyrosine kinase linked; tyrosine kinase"]
   },
   {
     "id": 98,
     "type": "fitb",
-    "stem": "The stimuli for the milk ejection reflex include suckling, the baby's ___, and sometimes ___ stimulation.",
-    "answer": "cry; genital",
-    "acceptableAnswers": ["cry; genital", "cry; genital stimulation"]
+    "stem": "Hormones bind to the ___ portion of transmembrane receptors on the cell membrane to form a ___ complex.",
+    "answer": "extracellular; hormone-receptor",
+    "acceptableAnswers": ["extracellular; hormone-receptor", "extracellular portion; hormone-receptor"]
   },
   {
     "id": 99,
     "type": "fitb",
-    "stem": "Tactile receptors located on the ___ detect the suckling stimulus and relay impulses to the hypothalamus via ___ afferents.",
-    "answer": "areola; somatic",
-    "acceptableAnswers": ["areola; somatic", "areola; somatic nerve"]
+    "stem": "Juxtacrine communication is called so because it occurs along ___ cells, and it is a subdivision of ___ communication where gap junctions are used.",
+    "answer": "adjacent; epicrine (paracrine)",
+    "acceptableAnswers": ["adjacent; epicrine", "adjacent cells; paracrine", "adjacent; paracrine/epicrine"]
   },
   {
     "id": 100,
     "type": "fitb",
-    "stem": "Other hormones that enhance overall growth and development of the mammary gland include HPL, GH, ___, ___, and insulin.",
-    "answer": "T3; Cortisol",
-    "acceptableAnswers": ["T3; Cortisol", "cortisol; T3", "triiodothyronine; cortisol"]
+    "stem": "The lecure states that the word '___ ' should be used while describing the method of intercellular communication adopted by the chemical substance, not 'exocrine', as the two are not mutually ___.",
+    "answer": "endocrine; exclusive",
+    "acceptableAnswers": ["endocrine; exclusive", "endocrine; antithetical", "endocrine; exclusive (antithetical)"]
   }
 ]
