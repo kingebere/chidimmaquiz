@@ -2,981 +2,1165 @@
   {
     "id": 1,
     "type": "mcq",
-    "stem": "Endocrinology is defined as the study of the regulation of information within a living organism by means of chemical messengers called hormones. The nervous system, in contrast, exerts its short-term regulation via which type of messengers?",
+    "stem": "A 45-year-old male presents with progressive coarsening of facial features, enlarged hands and feet, and frontal bossing over 6 years. MRI confirms a pituitary macroadenoma. Serum IGF-1 is markedly elevated. The GH receptor through which growth hormone mediates its primary cellular effects is a member of which receptor superfamily?",
     "options": [
-      "Chemical messengers transported via the cerebrospinal fluid to target organs",
-      "Electrical messengers (wires) for short-term regulation",
-      "Biochemical substances released into the extracellular space for rapid communication"
+      "Receptor tyrosine kinase superfamily",
+      "Cytokine receptor superfamily",
+      "G-protein coupled receptor superfamily",
+      "Nuclear receptor superfamily"
     ],
     "answer": "B"
   },
   {
     "id": 2,
     "type": "mcq",
-    "stem": "Hormones are described as endogenous informational chemical molecules. Which of the following CORRECTLY completes the definition: they are produced by a cell, tissue or organ, secreted into the body fluids, for the purposes of:",
+    "stem": "Growth hormone releasing hormone (GHRH) is a polypeptide comprising exactly how many amino acids?",
     "options": [
-      "Intracellular and extracellular communications and regulation",
-      "Intracellular communications and metabolic regulation only",
-      "Extracellular communications and elimination of metabolic waste products"
+      "40 amino acids",
+      "41 amino acids",
+      "44 amino acids",
+      "47 amino acids"
     ],
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 3,
     "type": "mcq",
-    "stem": "Originally, hormones were believed to be synthesized by anatomically discrete glands called 'ductless glands'. The more recent understanding of Contemporary Endocrinology expands the definition to include chemical substances secreted by cells within organs whose primary function is:",
+    "stem": "Somatostatin (GHIH) exists in two polypeptide variants. Which of the following correctly identifies both variants?",
     "options": [
-      "Exclusively hormone production, provided the cell is of neuroendocrine origin",
-      "NOT hormone production, such as neurons, renal cells, cardiac cells, and gastrointestinal cells",
-      "Hormone production as a secondary function but only when the primary organ fails"
+      "12-amino acid and 24-amino acid variants",
+      "14-amino acid and 28-amino acid variants",
+      "16-amino acid and 32-amino acid variants",
+      "18-amino acid and 36-amino acid variants"
     ],
     "answer": "B"
   },
   {
     "id": 4,
     "type": "mcq",
-    "stem": "The endocrine system's relationship with the nervous system and immune system creates which two combined systems as named in the lecture?",
+    "stem": "Ghrelin, a GH secretagogue peptide whose main site of production is the stomach, consists of how many amino acids?",
     "options": [
-      "Immunoendocrine system and psychoneuroendocrine system",
-      "Neuroendocrine system and immunoendocrine system",
-      "Neuroimmune system and somatoendocrine system"
+      "24 amino acids",
+      "26 amino acids",
+      "28 amino acids",
+      "30 amino acids"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 5,
     "type": "mcq",
-    "stem": "In endocrine communication, chemical substances are released directly to the extracellular spaces and enter the blood to be transported to distal target tissues. Based on recent thinking, the most appropriate term for this type of communication is:",
+    "stem": "The plasma half-life of growth hormone in circulation is:",
     "options": [
-      "Solinocrine communication",
-      "Haemocrine communication",
-      "Neurocrine communication"
+      "2 to 10 minutes",
+      "4 to 15 minutes",
+      "6 to 20 minutes",
+      "8 to 25 minutes"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 6,
     "type": "mcq",
-    "stem": "In paracrine communication, chemical substances are released into the interstitial space where their effects are exerted on surrounding cells. When hormones communicate with surrounding cells via gap junctions WITHOUT contacting the interstitial fluid, this specific subtype is called:",
+    "stem": "Somatotropes, which secrete growth hormone, account for approximately what proportion of all adenohypophyseal cells?",
     "options": [
-      "Juxtacrine communication â occurring along adjacent cells",
-      "Epicrine communication â occurring via gap junctions without interstitial fluid contact",
-      "Intracrine communication â occurring inside the same cell without interstitial fluid contact"
+      "One quarter of adenohypophyseal cells",
+      "One third of adenohypophyseal cells",
+      "Half of adenohypophyseal cells",
+      "Two thirds of adenohypophyseal cells"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 7,
     "type": "mcq",
-    "stem": "Autocrine communication involves the interaction of a hormone with the very cell that produces it, AFTER contact has been made with the interstitial fluid. When contact with the interstitial fluid is NOT made, this variation is termed:",
+    "stem": "The hGH-N gene encoding the standard 22kDa human growth hormone is located on which chromosome and region?",
     "options": [
-      "Epicrine communication",
-      "Intracrine communication",
-      "Paracrine communication"
+      "Long arm of chromosome 15, q18-20 region",
+      "Short arm of chromosome 17, p22-24 region",
+      "Long arm of chromosome 17, q22-24 region",
+      "Long arm of chromosome 19, q22-24 region"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 8,
     "type": "mcq",
-    "stem": "Neurocrine communication occurs when nerves produce chemical substances released through the axons by axoplasmic flow to their target cells. Which of the following are named as TYPICAL examples of neurocrine communication?",
+    "stem": "The normal weight range of the pituitary gland in a non-pregnant adult is:",
     "options": [
-      "Posterior pituitary hormones and hypothalamic releasing hormones",
-      "Axo-axonal and neuromuscular transmissions",
-      "Salivary and pancreatic secretions released through ducts"
+      "350 to 750 mg",
+      "400 to 850 mg",
+      "450 to 950 mg",
+      "500 to 1000 mg"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 9,
     "type": "mcq",
-    "stem": "Solinocrine communication involves chemical substances secreted into the luminal aspects of the gut and similar structures. Which of the following are listed as additional examples of solinocrine communication beyond the gastrointestinal tract?",
+    "stem": "During pregnancy, the pituitary gland undergoes hypertrophy. By approximately what percentage does its overall size increase?",
     "options": [
-      "Cardiac cells and renal tubular secretions",
-      "Genitourinary and bronchi",
-      "Adipose cells and endothelial cells"
+      "20%",
+      "25%",
+      "30%",
+      "35%"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 10,
     "type": "mcq",
-    "stem": "Neuro-endocrine communication involves hormones produced by nerve cell bodies transported through terminal axons to the blood. Which specific hormones are listed as TYPICAL examples of neuro-endocrine communication?",
+    "stem": "A 21-year-old female with a 4-year history of anorexia nervosa is evaluated endocrinologically. Which of the following correctly describes the pathological effect of her condition on growth hormone secretion?",
     "options": [
-      "Prolactin, FSH, LH, and TSH from the anterior pituitary",
-      "Posterior pituitary hormones (oxytocin and ADH) and hypothalamic releasing hormones",
-      "Adrenaline, noradrenaline, and dopamine from sympathetic nerve terminals"
+      "Anorexia nervosa decreases GH secretion by reducing somatostatin tone",
+      "Anorexia nervosa stimulates GH secretion as a pathological factor",
+      "Anorexia nervosa has no significant effect on GH secretion",
+      "Anorexia nervosa suppresses GH secretion by increasing free fatty acid levels"
     ],
     "answer": "B"
   },
   {
     "id": 11,
     "type": "mcq",
-    "stem": "A ligand is precisely defined in the lecture as a biomolecule or ion that specifically and selectively binds to a receptor to form a complex. What is the stated aim of ligand-receptor complex formation?",
+    "stem": "Which of the following pharmacological agents acts as an alpha-adrenergic agonist and thereby STIMULATES growth hormone secretion?",
     "options": [
-      "To facilitate transport of the hormone through the plasma membrane to intracellular receptors",
-      "To elicit a biological response â it could be a hormone, organic or inorganic substance",
-      "To facilitate hormone degradation and clearance from the target tissue"
+      "Phentolamine",
+      "Isoproterenol",
+      "Clonidine",
+      "Propranolol"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 12,
     "type": "mcq",
-    "stem": "A receptor is defined as a protein molecule located in the cell that specifically and selectively recognizes chemical substances. The stated aim of this recognition is:",
+    "stem": "Which pharmacological agent acts as a beta-adrenergic ANTAGONIST and is correctly classified as a pharmacological STIMULATOR of GH secretion?",
     "options": [
-      "Hormone inactivation and receptor-mediated endocytosis to terminate hormone action",
-      "Elucidating biochemical or physiological response",
-      "Transporting the hormone from extracellular to intracellular compartments"
+      "Isoproterenol",
+      "Phentolamine",
+      "Clonidine",
+      "Propranolol"
     ],
-    "answer": "B"
+    "answer": "D"
   },
   {
     "id": 13,
     "type": "mcq",
-    "stem": "A target cell is defined as any cell that specifically and selectively binds a given hormone by means of receptors. An important qualifier in the definition is that this binding occurs:",
+    "stem": "JAK5-2, which is activated following GH receptor dimerization and binding, belongs to which specific kinase family?",
     "options": [
-      "Only when a biochemical or physiological response has been determined and confirmed",
-      "Irrespective of whether or not a biochemical or physiological response has been determined",
-      "Only when the cell possesses both membrane and intracellular receptors for that hormone"
+      "Src family of cytoplasmic tyrosine kinases",
+      "Janus family of cytoplasmic tyrosine kinases",
+      "Abl family of cytoplasmic tyrosine kinases",
+      "ZAP-70 family of cytoplasmic tyrosine kinases"
     ],
     "answer": "B"
   },
   {
     "id": 14,
     "type": "mcq",
-    "stem": "The concentration of hormones in the blood is usually very small. What is the stated range of hormone concentrations in blood?",
+    "stem": "In the JAK-STAT intracellular signaling cascade, the acronym STAT stands for:",
     "options": [
-      "From one nanogram to a few micrograms per millilitre of blood",
-      "From about one picogram to a few micrograms",
-      "From one femtogram to a few nanograms per litre of blood"
+      "Signal transducers and activators of translation",
+      "Signal transducers and activators of transcription",
+      "Serine-threonine activators of transcription",
+      "Signal transducers and amplifiers of transcription"
     ],
     "answer": "B"
   },
   {
     "id": 15,
     "type": "mcq",
-    "stem": "Hormones are removed from the blood by binding to glucuronic acid and sulphates. What is the stated purpose of this conjugation?",
+    "stem": "The average daily output of growth hormone in adults is:",
     "options": [
-      "To increase receptor affinity and prolong the duration of action at target cells",
-      "To improve solubility and enhance biliary and urinary excretion",
-      "To reduce immunogenicity and prevent formation of hormone-antibody complexes"
+      "0.08 to 0.78 mg/day",
+      "0.10 to 0.88 mg/day",
+      "0.18 to 0.98 mg/day",
+      "0.28 to 1.08 mg/day"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 16,
     "type": "mcq",
-    "stem": "In the intestine, some intermediate metabolites of hormones may be broken down by bacteria and reabsorbed into the body. This process is called:",
+    "stem": "The anterior pituitary (adenohypophysis) develops embryologically from which specific structure?",
     "options": [
-      "Solinocrine recirculation of hormones",
-      "Enterohepatic circulation of hormones",
-      "Intestinal phase hormone regeneration"
+      "A downward diverticulum of neuroepithelium from the floor of the third ventricle",
+      "An upward growth of pharyngeal epithelium called Rathke's pouch",
+      "Neural crest cells migrating from the ventral hypothalamic region",
+      "Ectodermal cells budding from the median eminence"
     ],
     "answer": "B"
   },
   {
     "id": 17,
     "type": "mcq",
-    "stem": "Water-soluble hormones are synthesized in the endoplasmic reticulum and stored in secretory granules. Their transport in blood is CORRECTLY described as:",
+    "stem": "The pituitary gland is connected to the median eminence of the hypothalamus by a tube-like structure. What is the correct name of this structure?",
     "options": [
-      "Transported tightly bound to specific plasma proteins to prevent rapid degradation",
-      "Travelling freely and easily (unbound or weakly bound to plasma proteins)",
-      "Circulating exclusively bound to albumin as a non-specific carrier protein"
+      "The pituitary commissure",
+      "The hypophyseal portal vein",
+      "The infundibulum (pituitary stalk)",
+      "The hypothalamo-hypophyseal nervous tract"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 18,
     "type": "mcq",
-    "stem": "Water-soluble hormones bind to cell membrane receptors because they cannot pass through the lipid bilayer. The clinical implication of this cell membrane binding is:",
+    "stem": "Chromophobes, which are non-secretory cells, constitute what percentage of anterior pituitary cells?",
     "options": [
-      "Slowed onset but prolonged duration of action due to receptor internalization",
-      "Rapid onset with a shorter duration of action",
-      "Slow onset and slow termination of action due to receptor recycling"
+      "30%",
+      "40%",
+      "50%",
+      "60%"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 19,
     "type": "mcq",
-    "stem": "Lipid-soluble hormones are NOT stored with one important exception. Which class of lipid-soluble hormones is the exception to the rule that lipid-soluble hormones are not stored?",
+    "stem": "Lactotropes, which elaborate prolactin and double in size during pregnancy, constitute what percentage of anterior pituitary cells?",
     "options": [
-      "Steroid hormones â stored in adrenocortical vesicles prior to secretion",
-      "Thyroid hormones â which are stored despite being lipid soluble",
-      "Eicosanoids â stored in phospholipid membranes until needed"
+      "5 to 15%",
+      "10 to 25%",
+      "15 to 30%",
+      "20 to 35%"
     ],
     "answer": "B"
   },
   {
     "id": 20,
     "type": "mcq",
-    "stem": "Lipid-soluble hormones easily permeate the cell membrane lipid bilayer and act on receptors inside the cells. Where inside the cell are these receptors located?",
+    "stem": "Corticotropes, which secrete ACTH and related peptides, constitute what percentage of anterior pituitary cells?",
     "options": [
-      "Exclusively in the nucleus, where they act as nuclear transcription factors",
-      "In the cytoplasm or nucleus of the target cell",
-      "On the inner leaflet of the plasma membrane facing the cytoplasm"
+      "10 to 15%",
+      "12 to 18%",
+      "15 to 20%",
+      "18 to 25%"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 21,
     "type": "mcq",
-    "stem": "The onset and duration of action of lipid-soluble hormones compared to water-soluble hormones follows which pattern?",
+    "stem": "The specialized vascular arrangement in which a capillary bed pools into another capillary bed through portal veins without first passing through the heart is called:",
     "options": [
-      "Rapid onset and prolonged duration due to tight protein binding in the plasma",
-      "Slowed onset but prolonged duration of action",
-      "Rapid onset and short duration because they are not stored and released immediately"
+      "The hypothalamo-hypophyseal nervous tract",
+      "The hypothalamo-hypophyseal portal system",
+      "The superior hypophyseal arterial network",
+      "The infundibular venous plexus"
     ],
     "answer": "B"
   },
   {
     "id": 22,
     "type": "mcq",
-    "stem": "The steroid hormone nucleus is called by what full chemical name, and how many rings does it contain?",
+    "stem": "The cells that produce GHRH in the hypothalamus are specifically located in which nucleus?",
     "options": [
-      "Cyclopentanophenanthrene ring â 3 rings (A, B, C)",
-      "Cyclopentanoperhydrophenanthrene ring â 4 rings (A, B, C, D)",
-      "Cyclopentanoperhydrophenanthrene ring â 5 rings (A, B, C, D, E)"
+      "Supraoptic nucleus",
+      "Periventricular nucleus",
+      "Paraventricular nucleus",
+      "Ventromedial nucleus"
     ],
-    "answer": "B"
+    "answer": "D"
   },
   {
     "id": 23,
     "type": "mcq",
-    "stem": "Steroids are usually synthesized from cholesterol and are not stored, being released immediately to extracellular fluid (ECF). Examples of steroid hormones include which of the following?",
+    "stem": "Somatostatin (GHIH) inhibits GH production through which specific intracellular mechanism?",
     "options": [
-      "Hormones of the adrenal cortex, gonads, and activated vitamin D",
-      "Hormones of the adrenal medulla, gonads, and activated vitamin D",
-      "Hormones of the adrenal cortex, posterior pituitary, and activated vitamin D"
+      "By increasing production of cAMP and phosphatidyl inositol second messengers",
+      "By reducing production of cAMP and phosphatidyl inositol second messengers",
+      "By blocking GHRH receptor dimerization on somatotrope cell membranes",
+      "By activating protein kinase C through the phospholipid second messenger pathway"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 24,
     "type": "mcq",
-    "stem": "Eicosanoids originate from poly-unsaturated 20-carbon atom fatty acids. Which fatty acid is given as the specific example?",
+    "stem": "A 16-year-old male with delayed bone age has normal GH levels but markedly low IGF-1. Regarding the nature of somatomedins and their receptor interactions, which of the following is most accurate?",
     "options": [
-      "Linolenic acid",
-      "Arachidonic acid",
-      "Docosahexaenoic acid"
+      "Somatomedins are lipophilic and bind directly to cytoplasmic nuclear receptors",
+      "IGF-1 is under full control of GH even in utero",
+      "Somatomedins are hydrophilic and attach to cell membrane receptors during signal transduction",
+      "Somatomedin receptors are G-protein coupled receptors using cAMP as second messenger"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 25,
     "type": "mcq",
-    "stem": "Gas hormones are classified as both water and lipid soluble, and they mainly act in autocrine and paracrine manner. Which of the following CORRECTLY lists ALL three examples of gas hormones given in the lecture?",
+    "stem": "Which specific IGF binding protein is primarily responsible for prolonging the half-life of somatomedins to approximately 20 hours?",
     "options": [
-      "Nitric oxide, hydrogen sulphide, and pheromones",
-      "Nitric oxide, carbon monoxide, and pheromones",
-      "Nitric oxide, carbon dioxide, and carbon monoxide"
+      "IGF binding protein-1",
+      "IGF binding protein-2",
+      "IGF binding protein-3",
+      "IGF binding protein-4"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 26,
     "type": "mcq",
-    "stem": "Amino acid derivatives (monoamines) are derived from single amino acids with synthesis occurring by action of enzymes in the cytoplasm of glandular cells. Which hormone is derived from TRYPTOPHAN, NOT tyrosine?",
+    "stem": "In the long loop negative feedback mechanism of GH regulation, which of the following correctly describes the sequence of events?",
     "options": [
-      "Thyroxine, which is derived from tryptophan via iodination",
-      "Melatonin and serotonin, which are derived from tryptophan",
-      "Histamine, which is derived from tryptophan via decarboxylation"
+      "GH acts directly on the pituitary to stimulate production of GHRH",
+      "GH increases IGF-1 which acts on the pituitary via a long loop to inhibit further GH secretion",
+      "GH acts on the hypothalamus to decrease somatostatin production, restoring GH levels",
+      "IGF-1 acts on hypothalamus to increase GHRH and simultaneously decrease somatostatin"
     ],
     "answer": "B"
   },
   {
     "id": 27,
     "type": "mcq",
-    "stem": "Which amino acid is the precursor for BOTH thyroxine and adrenaline?",
+    "stem": "Which of the following physiological factors DECREASES growth hormone secretion?",
     "options": [
-      "Histidine",
-      "Tyrosine",
-      "Tryptophan"
+      "Deep sleep (Stage III and IV)",
+      "Amino acid infusion with arginine",
+      "Elevated free fatty acids",
+      "Starvation and fasting"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 28,
     "type": "mcq",
-    "stem": "Histamine is derived from which specific amino acid via decarboxylation?",
+    "stem": "GH inhibits glycogenolysis in skeletal and cardiac muscles, producing what is termed a 'glucostatic effect.' Under which specific metabolic condition does this effect occur?",
     "options": [
-      "Tyrosine",
-      "Histidine",
-      "Tryptophan"
+      "Postprandial elevation of blood sugar",
+      "Stress-induced hyperglycemia with elevated catecholamines",
+      "Fasting conditions",
+      "Elevated free fatty acid states with ketogenesis"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 29,
     "type": "mcq",
-    "stem": "Polypeptide hormones are synthesized in the rough endoplasmic reticulum as biologically inactive pre-pro-hormones, then transported to the Golgi apparatus. Post-translational modification in the Golgi apparatus involves which TWO possible additions to the protein?",
+    "stem": "Which of the following most accurately describes the effect of growth hormone on protein metabolism?",
     "options": [
-      "Addition of phospholipid (lipoprotein) or nucleotide (nucleoprotein) components",
-      "Addition of carbohydrate (CHO, glycoprotein) or lipid (lipoprotein) components",
-      "Addition of sulphate (sulfoprotein) or amino acid (homoprotein) side chains"
+      "GH decreases amino acid transport into cells, inhibiting protein synthesis",
+      "GH stimulates protein catabolism and produces a negative nitrogen balance",
+      "GH increases amino acid transport and stimulates protein synthesis, producing a positive nitrogen balance",
+      "GH inhibits amino acid transport but promotes protein synthesis via direct nuclear receptor action"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 30,
     "type": "mcq",
-    "stem": "After Golgi apparatus processing, the active hormone is packaged in secretory granules and released by exocytosis. This is described as the most common method. The alternative, less common method is constitutive secretion, defined as:",
+    "stem": "A 38-year-old patient with a 10-year history of untreated acromegaly is found to have insulin-dependent diabetes mellitus. Which mechanism best explains the diabetogenic effect of chronic GH excess?",
     "options": [
-      "Release of hormones from secretory granules in response to a second messenger signal",
-      "Release of hormones as they are produced without packaging, occurring occasionally",
-      "Release of hormones by passive diffusion across the cell membrane without vesicle formation"
+      "GH directly destroys alpha cells of the pancreas through STAT3-mediated apoptosis",
+      "Continuous and sustained stimulation by GH may burn out beta cells, leading to diabetes mellitus",
+      "GH inhibits insulin gene transcription via the PI-3K pathway in pancreatic islets",
+      "GH causes immune-mediated destruction of pancreatic islets through IGF-2 excess"
     ],
     "answer": "B"
   },
   {
     "id": 31,
     "type": "mcq",
-    "stem": "Glycoprotein hormones contain carbohydrate residues attached by the process of glycosylation. The Î± subunits of ALL glycoproteins are similar, while the Î² subunits differ and confer biological specificity. Which hormones are listed as examples of glycoprotein hormones?",
+    "stem": "A gene locus also present on chromosome 17 encodes a GH variant that appears appreciably in maternal blood during pregnancy. This gene is designated:",
     "options": [
-      "LH, FSH, HCG, TSH, Renin, and Erythropoietin",
-      "LH, FSH, HCG, TSH, plus Renin and Erythropoietin",
-      "LH, FSH, HCG, TSH, Prolactin, and Growth Hormone"
+      "hGH-P gene",
+      "hGH-V gene",
+      "hGH-X gene",
+      "hGH-M gene"
     ],
     "answer": "B"
   },
   {
     "id": 32,
     "type": "mcq",
-    "stem": "Growth factors/cytokines are small polypeptides and proteins synthesized by a variety of cell types, NOT a definite gland. Which cell types are named as examples of their sources?",
+    "stem": "The biologically active 20kDa variant of human GH, which constitutes 10% of circulating GH, differs from the standard 22kDa form by which specific structural alteration?",
     "options": [
-      "Lymphocytes, macrophages, endothelial cells, neurones, glial cells",
-      "Hepatocytes, renal tubular cells, pancreatic acinar cells, and platelets",
-      "Somatotropes, lactotropes, gonadotropes, and corticotropes of the anterior pituitary"
+      "Deletion of amino acids 25 to 40 from the sequence",
+      "Deletion of amino acids 28 to 42 from the sequence",
+      "Deletion of amino acids 32 to 46 from the sequence",
+      "Deletion of amino acids 35 to 50 from the sequence"
     ],
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 33,
     "type": "mcq",
-    "stem": "Circadian rhythms are regular changes occurring in a 24-hour cycle between day and night. The main hypothalamic structure that controls circadian rhythms is:",
+    "stem": "A nurse explains to a student how growth hormone causes elongation of long bones. Which of the following is the most accurate description of this mechanism?",
     "options": [
-      "The arcuate nucleus (ARC) of the hypothalamus",
-      "The paired Supra Chiasmatic Nucleus (SCN) of the hypothalamus",
-      "The paraventricular nucleus (PVN) of the hypothalamus"
+      "GH directly stimulates osteoclasts to resorb old bone, creating space for longitudinal elongation",
+      "GH causes elongation at the epiphyseal cartilage with elongation of the shaft, which pushes the epiphyses further apart",
+      "GH stimulates periosteal apposition of new bone through direct osteoblast activation alone",
+      "GH converts osteoclasts into chondrocytes, progressively increasing cartilage matrix thickness"
     ],
     "answer": "B"
   },
   {
     "id": 34,
     "type": "mcq",
-    "stem": "Afferents enter the SCN via which specific fibres, representing the light-dark cycle input?",
+    "stem": "After epiphyseal fusion occurs and longitudinal bone growth ceases, which of the following correctly describes the continued effect of GH on bone?",
     "options": [
-      "Olfactory hypothalamic fibres (smell-light cycle)",
-      "Retino-hypothalamic fibres (light-dark cycle)",
-      "Somatosensory hypothalamic fibres (touch-pressure cycle)"
+      "Longitudinal growth continues at a reduced rate via periosteal endochondral mechanisms",
+      "All skeletal effects of GH cease completely after epiphyseal closure",
+      "Osteoblastic activity continues to thicken bones, especially the jaw and skull bone, by deposition of new bone on old",
+      "GH redirects bone growth to the axial skeleton through somatomedin-independent mechanisms"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 35,
     "type": "mcq",
-    "stem": "Regarding the clinical implication of circadian rhythm: in suspected Cushing's syndrome (hypersecretion), blood cortisol sample should be collected at which time, and why?",
+    "stem": "In the cyclic AMP second messenger pathway, the receptor coupled to G-proteins spans the plasma membrane how many times?",
     "options": [
-      "In the morning (8â9am) because cortisol is normally higher then, making hypersecretion more detectable",
-      "In the evening because cortisol values are normally lower then, making any hypersecretion more easily detected against the lower normal background",
-      "At midnight because cortisol normally reaches its nadir then, making any residual elevation diagnostic of hypersecretion"
+      "Five times",
+      "Six times",
+      "Seven times",
+      "Eight times"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 36,
     "type": "mcq",
-    "stem": "In suspected Addison's disease (hyposecretion of steroid hormones), the blood cortisol sample should be collected at which time?",
+    "stem": "The calcium-calmodulin mechanism is described as unique in stimulating smooth muscle. Which pairing of agents MOST accurately reflects those that act through this mechanism?",
     "options": [
-      "In the evening when values are normally lower, making any further deficit more pronounced",
-      "In the morning (8â9am) when values are normally higher, making hyposecretion more detectable",
-      "At noon when cortisol values are at their midpoint, reducing sampling bias"
+      "Vasopressin and beta-adrenergic catecholamines",
+      "Angiotensin II and alpha-adrenergic catecholamines",
+      "Glucagon and parathyroid hormone",
+      "GH and prolactin via cytokine receptor"
     ],
     "answer": "B"
   },
   {
     "id": 37,
     "type": "mcq",
-    "stem": "Regarding ultradian rhythm and its clinical implication: FSH and LH levels were restored in hypothalamic disorders using what type of GnRH delivery?",
+    "stem": "In the phospholipid second messenger mechanism, phospholipase-C catalyzes hydrolysis of phosphatidyl inositol 4,5 diphosphate (PIP) to produce which two molecules?",
     "options": [
-      "Continuous GnRH infusion to maintain constant gonadotropin stimulation",
-      "Pulsatile GnRH, not continuous GnRH",
-      "Bolus daily GnRH injection to replicate the normal physiological surge pattern"
+      "Inositol monophosphate (IP) and diacyl glycerol (DAG)",
+      "Inositol diphosphate (IP) and diacyl glycerol (DAG)",
+      "Inositol triphosphate (IP) and diacyl glycerol (DAG)",
+      "Inositol tetraphosphate (IP) and arachidonic acid"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 38,
     "type": "mcq",
-    "stem": "GnRH agonists used in artificial reproductive technology downregulate the pituitary. These synthetic analogues cause pituitary fatigue because they:",
+    "stem": "In the long and longest loop negative feedback inhibition mechanism of hormone regulation, the target hormone negatively inhibits the production of:",
     "options": [
-      "Mimic the pulsatile rhythm of GnRH, causing receptor hypersensitivity and excessive FSH/LH release",
-      "Do NOT exhibit ultradian rhythm, thus continuously stimulating the pituitary until pituitary fatigue and down-regulation occurs",
-      "Competitively block endogenous GnRH receptors, preventing FSH and LH release"
+      "Only the hypothalamic releasing hormone",
+      "Only the anterior pituitary trophic hormone",
+      "Both the releasing hormone and the trophic hormone",
+      "Only the ultra-short loop autocrine releasing factor"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 39,
     "type": "mcq",
-    "stem": "Regarding protein binding of hormones: only the free hormones are biologically active. Greater protein binding produces which specific effect on the onset and duration of hormone action?",
+    "stem": "Evidence suggests that vasopressin, oxytocin, and prolactin are able to control their own secretion through which type of feedback loop?",
     "options": [
-      "Greater protein binding accelerates onset but shortens duration of action",
-      "Greater protein binding reduces the onset but prolongs the duration of action",
-      "Greater protein binding has no effect on onset but shortens duration by reducing free hormone"
+      "Long loop negative feedback inhibition",
+      "Short loop negative feedback inhibition",
+      "Ultra-short loop negative feedback inhibition",
+      "Long loop positive feedback activation"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 40,
     "type": "mcq",
-    "stem": "Protein binding of hormones provides multiple advantages. Which of the following CORRECTLY lists ALL the advantages of protein binding as stated in the lecture?",
+    "stem": "GH release from secretory vesicles via exocytosis is primarily triggered by the intermittent release of which hypothalamic substance?",
     "options": [
-      "Easy transport in aqueous solution; temporary storage; protects hormone from degradation; prolongs half-life",
-      "Easy transport in aqueous solution; protects from degradation and excretion; temporary storage; prolongs half-life",
-      "Increases receptor affinity; protects from immunological destruction; prolongs half-life; facilitates tissue entry"
+      "Ghrelin (28-amino acid GH secretagogue)",
+      "Somatostatin (GHIH)",
+      "Growth hormone releasing hormone (GHRH)",
+      "Dopamine (prolactin-inhibiting hormone)"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 41,
     "type": "mcq",
-    "stem": "The half-life of a hormone (tÂ½) is defined as the time needed for the concentration to reduce to what percentage of its original level?",
+    "stem": "Following activation by JAK kinases, STAT proteins translocate into the nucleus to perform which specific function?",
     "options": [
-      "To 25% (one quarter) of its original level",
-      "To 50% (half) of its original level",
-      "To 37% (1/e) of its original level"
+      "Directly phosphorylate second messenger enzymes at the plasma membrane",
+      "Inhibit JAK kinase autophosphorylation as a negative feedback mechanism",
+      "Alter gene expression through transcription of mRNA",
+      "Stimulate receptor homodimerization and endocytosis"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 42,
     "type": "mcq",
-    "stem": "The half-life of a hormone is directly proportional to which factors as stated in the lecture?",
+    "stem": "The MAPK (Mitogen-Activated Protein Kinase) pathway activated by GH receptor signaling, if not properly regulated, may progress to:",
     "options": [
-      "The degree of protein binding and the number of target cell receptors",
-      "The degree of degradation and clearance and the duration of action of the hormone",
-      "The molecular weight of the hormone and the degree of ionization at physiological pH"
+      "Diabetes insipidus",
+      "Hypothyroidism",
+      "Cancer formation",
+      "Adrenal insufficiency"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 43,
     "type": "mcq",
-    "stem": "Receptor down-regulation of membrane receptors is mainly achieved by which two mechanisms as stated in the lecture?",
+    "stem": "Among all hypothalamic hypophysiotropic hormones, which one is uniquely an amino-acid derived neurotransmitter rather than a peptide, and serves as the principal prolactin-inhibiting hormone?",
     "options": [
-      "Receptor phosphorylation (inactivation) and receptor gene silencing",
-      "Receptor-mediated endocytosis (internalization) or desensitization",
-      "Proteasomal degradation or receptor ubiquitination"
+      "Serotonin",
+      "Dopamine",
+      "Norepinephrine",
+      "Acetylcholine"
     ],
     "answer": "B"
   },
   {
     "id": 44,
     "type": "mcq",
-    "stem": "Autoimmune antibodies that interact with hormone receptors can produce two opposite clinical outcomes. Which pair CORRECTLY identifies both outcomes?",
+    "stem": "Which pharmacological agent acts as a beta-adrenergic AGONIST and is correctly classified as a pharmacological INHIBITOR of GH secretion?",
     "options": [
-      "Blocking receptor action causing hyperactivity OR accentuating receptor action causing deficiency",
-      "Blocking hormone action leading to biological deficiency OR accentuating its action causing biological hyperactivity",
-      "Stimulating receptor synthesis causing upregulation OR blocking receptor synthesis causing downregulation"
+      "Clonidine (alpha adrenergic agonist)",
+      "Propranolol (beta adrenergic antagonist)",
+      "Isoproterenol (beta adrenergic agonist)",
+      "Phentolamine (alpha adrenergic antagonist)"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 45,
     "type": "mcq",
-    "stem": "Factor (v) affecting physiological activity of hormones is listed as 'Others'. Which of the following CORRECTLY lists all the 'other factors' named?",
+    "stem": "A 26-year-old female in active labour has uterine contractions causing progressive cervical dilatation, which stimulates further oxytocin production, intensifying contractions until delivery. This mechanism is an example of which type of hormonal regulation?",
     "options": [
-      "Concentration of rate-limiting enzymes, cofactors, substrates, and effects of antagonistic or synergistic hormones",
-      "Substrate availability, coenzyme concentration, and receptor density at target cells",
-      "Presence of binding proteins, rate of hepatic degradation, and renal clearance rate"
+      "Long loop negative feedback mechanism",
+      "Ultra-short loop negative feedback mechanism",
+      "Feed-forward control mechanism",
+      "Positive feedback control mechanism"
     ],
-    "answer": "A"
+    "answer": "D"
   },
   {
     "id": 46,
     "type": "mcq",
-    "stem": "In Mechanism A (Direct changes in membrane permeability), the hormone-receptor complex initiates a conformational change leading to opening or closing of ionic channels. Which three specific ion channels are named?",
+    "stem": "Regarding the function of the hypothalamo-hypophyseal portal system, which of the following statements is most accurate?",
     "options": [
-      "Naâº, Kâº, and MgÂ²âº",
-      "Naâº, Kâº, and CaÂ²âº",
-      "Naâº, Clâ», and CaÂ²âº"
+      "It allows only insignificant amounts of neurohormones to reach the anterior pituitary, directing most to peripheral circulation",
+      "It ensures significant amounts of neurohormones are transported from the median eminence to the anterior pituitary, with only insignificant amounts reaching peripheral circulation",
+      "It connects the posterior pituitary to the anterior pituitary via a portal venous plexus",
+      "The portal system supplies both the neurohypophysis and adenohypophysis with equal concentrations of neurohormones"
     ],
     "answer": "B"
   },
   {
     "id": 47,
     "type": "mcq",
-    "stem": "The ionic channels controlled by hormone-receptor complexes that mediate direct membrane permeability changes are specifically termed:",
+    "stem": "Growth hormone stimulates lipolysis from adipose tissue, releasing free fatty acids (FFA) for energy production. This fat mobilization provides an alternative energy source primarily during which metabolic states?",
     "options": [
-      "Voltage-gated channels",
-      "Ligand-gated channels",
-      "Mechanically-gated channels"
+      "Postprandial hyperglycemia, high carbohydrate diet, and sodium excess",
+      "Fasting, hypoglycaemia, and other stressful situations",
+      "Exercise recovery only, conserving amino acids for muscle repair",
+      "REM sleep only, driven by GH pulsatile nocturnal release"
     ],
     "answer": "B"
   },
   {
     "id": 48,
     "type": "mcq",
-    "stem": "Which hormones/neurotransmitters are listed as examples of agents acting via direct changes in membrane permeability (ligand-gated channels)?",
+    "stem": "The human genome contains approximately how many nuclear receptors that mediate the action of steroid hormones, T4, eicosanoids, activated vitamin D, and related compounds?",
     "options": [
-      "Insulin, glucagon, and thyroid hormones",
-      "Acetylcholine, epinephrine, and norepinephrine",
-      "Prolactin, GH, and cytokines acting via JAK-STAT"
+      "38 nuclear receptors",
+      "42 nuclear receptors",
+      "48 nuclear receptors",
+      "54 nuclear receptors"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 49,
     "type": "mcq",
-    "stem": "The growth factor receptor (insulin receptor) is described as a tetramer. What is its exact subunit composition?",
+    "stem": "Among the following pathological conditions, which one is classified as a condition that DECREASES growth hormone secretion?",
     "options": [
-      "4 identical beta subunits with intrinsic tyrosine kinase activity on each",
-      "2 extracellular alpha subunits and 2 trans/intracellular beta subunits",
-      "1 extracellular alpha subunit and 3 intracellular beta subunits"
+      "Anorexia nervosa",
+      "Chronic renal failure",
+      "Acromegaly",
+      "Protein energy malnutrition"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 50,
     "type": "mcq",
-    "stem": "How many classes of cell-membrane receptors are described in the lecture, and which option CORRECTLY lists all four classes?",
+    "stem": "A nurse assesses serum GH levels in patients across different age groups. Which of the following most accurately describes the lifetime pattern of GH plasma values?",
     "options": [
-      "Three classes: ion-channel receptors, G-protein coupled receptors, and tyrosine kinase receptors",
-      "Four classes: ion-channel receptors, G-protein coupled receptors (GPCRs), tyrosine kinase-linked receptors, and receptors with intrinsic tyrosine kinase enzymatic activity",
-      "Four classes: ion-channel receptors, G-protein coupled receptors, JAK-STAT receptors, and nuclear steroid receptors"
+      "GH values are low at birth, rise linearly through childhood, and peak in the third decade",
+      "GH values are higher in early neonatal periods, fall during childhood, rise again at puberty, then fall again during aging",
+      "GH values remain constant from birth through puberty, then decline sharply after the sixth decade",
+      "GH values are lowest at birth and increase gradually throughout life, peaking in the fifth decade"
     ],
     "answer": "B"
   },
   {
     "id": 51,
     "type": "mcq",
-    "stem": "CASE STUDY: A researcher notices that a patient with Graves' disease has antibodies that stimulate TSH receptors. Based on the lecture's description of receptor-autoimmune antibody interactions, this antibody is causing which outcome?",
+    "stem": "Remodelling of bone after epiphyseal closure is instituted by osteoclasts. Meanwhile, osteoblastic activity continues to thicken which bones preferentially through deposition of new bone on the surface of old bone?",
     "options": [
-      "Biological deficiency â the antibody is blocking receptor action, reducing thyroid hormone output",
-      "Biological hyperactivity â the antibody is accentuating receptor action, causing hyperthyroidism",
-      "Receptor downregulation â the antibody promotes internalization of TSH receptors"
+      "Vertebrae and ribs via endosteal apposition",
+      "Long bones of the limbs through periosteal thickening",
+      "The jaw and skull bone through continued osteoblastic deposition",
+      "The carpal and tarsal bones through chondrocyte-to-osteoblast conversion"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 52,
     "type": "mcq",
-    "stem": "CASE STUDY: A patient develops Type 2 diabetes with insulin resistance despite normal insulin levels. Based on the lecture, which factor related to receptor physiology MOST likely explains this?",
+    "stem": "GH increases the absorption of which electrolytes from both the gastrointestinal and renal systems, conserving them for incorporation into growing cells?",
     "options": [
-      "Increased receptor synthesis (upregulation) leading to excessive insulin signalling",
-      "Receptor insensitivity occurring despite adequate receptor density, possibly via desensitization or downregulation",
-      "Increased half-life of insulin due to enhanced protein binding reducing free hormone availability"
+      "Sodium and potassium",
+      "Calcium and phosphorus",
+      "Magnesium and chloride",
+      "Zinc and copper"
     ],
     "answer": "B"
   },
   {
     "id": 53,
     "type": "mcq",
-    "stem": "CASE STUDY: A nursing student is asked to identify the appropriate timing for cortisol sampling in a patient with suspected Addison's disease (hyposecretion). Based on the circadian rhythm of cortisol, the CORRECT collection time is:",
+    "stem": "A 19-year-old male presents with failure of pubertal development, inability to smell, mild sensorineural deafness, and cerebellar ataxia. His hypothalamus is structurally intact on MRI. Which condition does this constellation best represent?",
     "options": [
-      "Evening collection because cortisol levels are normally lowest then, making hyposecretion more apparent",
-      "Morning collection (8â9am) because cortisol values are normally highest at this time, making deficiency most detectable",
-      "Midnight collection because the absence of the normal nadir can distinguish Addison's from other causes"
+      "Pan-hypopituitarism secondary to craniopharyngioma",
+      "Kallmann's syndrome due to isolated congenital GnRH deficiency",
+      "Sheehan's syndrome with selective gonadotrope destruction",
+      "Empty sella syndrome with secondary hypogonadism"
     ],
     "answer": "B"
   },
   {
     "id": 54,
     "type": "mcq",
-    "stem": "CASE STUDY: A woman undergoing IVF is given a continuous GnRH agonist before ovarian stimulation. Based on the ultradian rhythm lecture, why does continuous GnRH agonist administration downregulate rather than stimulate the pituitary?",
+    "stem": "In the phospholipid second messenger pathway, diacyl glycerol (DAG) directly activates which intracellular enzyme?",
     "options": [
-      "Continuous GnRH mimics the pulsatile rhythm and this causes receptor hypersensitisation",
-      "Continuous GnRH agonist does not exhibit ultradian rhythm, thus continuously stimulating the pituitary until pituitary fatigue and down-regulation occurs",
-      "Continuous GnRH agonist blocks endogenous GnRH preventing FSH/LH release directly"
+      "Protein kinase A",
+      "Adenyl cyclase",
+      "Protein kinase C",
+      "Phospholipase A2"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 55,
     "type": "mcq",
-    "stem": "CASE STUDY: A laboratory technician measures a single cortisol sample in a research subject and gets an unusually high value. The lecture advises that serial measurements and average values are more reliable than single measurements. A key reason to AVOID multiple venepunctures in this context is:",
+    "stem": "Positive feedback control of hormone secretion is best illustrated physiologically by which of the following events?",
     "options": [
-      "Multiple venepunctures release histamine from mast cells which directly stimulates cortisol secretion",
-      "Multiple venepunctures induce discomfort and stress, thus altering cortisol levels and affecting reliability of results",
-      "Multiple venepunctures cause haemodilution reducing apparent cortisol concentration"
+      "Cortisol inhibiting both CRH and ACTH production simultaneously",
+      "High oestradiol concentrations increasing LH pulse frequency and amplitude, producing the LH surge",
+      "GH stimulating IGF-1 production which subsequently inhibits further GH secretion",
+      "Rising TSH stimulating thyroid hormone production which then suppresses further TSH release"
     ],
     "answer": "B"
   },
   {
     "id": 56,
     "type": "mcq",
-    "stem": "CASE STUDY: A pharmacologist designs a drug that is highly protein-bound. Based on the lecture on protein binding, this drug will have which characteristic kinetic profile?",
+    "stem": "Most anterior pituitary hormones, hypothalamic releasing hormones, and parathyroid hormone act through the cyclic AMP second messenger mechanism. Which of the following hormones does NOT primarily use this pathway?",
     "options": [
-      "Rapid onset and short duration since protein binding prevents receptor access",
-      "Reduced onset but prolonged duration of action because protein binding provides temporary storage and protection from degradation",
-      "No change in onset but significantly reduced half-life because protein binding accelerates hepatic degradation"
+      "Parathyroid hormone",
+      "Glucagon",
+      "Vasopressin",
+      "Insulin"
     ],
-    "answer": "B"
+    "answer": "D"
   },
   {
     "id": 57,
     "type": "mcq",
-    "stem": "CASE STUDY: A 45-year-old woman with Type 2 Diabetes is told her insulin receptors have undergone downregulation. Based on the lecture, the two mechanisms by which membrane receptor downregulation is mainly achieved are:",
+    "stem": "A 60-year-old obese male with a BMI of 38 kg/m\u00b2 is found to have consistently suppressed GH levels despite appropriate stimulation testing. Which of the following best explains this finding?",
     "options": [
-      "Receptor phosphorylation and receptor ubiquitin-proteasome degradation",
-      "Receptor-mediated endocytosis (internalization) and desensitization",
-      "Receptor gene silencing and competitive displacement by antagonist molecules"
+      "Obesity stimulates excess somatostatin through chronically elevated free fatty acid levels, suppressing GH",
+      "Obesity is itself a pathological factor that decreases GH secretion",
+      "Obesity stimulates excess GH through a mechanism similar to protein energy malnutrition",
+      "Obesity reduces GH binding protein levels, causing compensatory GH suppression"
     ],
     "answer": "B"
   },
   {
     "id": 58,
     "type": "mcq",
-    "stem": "CASE STUDY: A student reviews a case where oestrogen therapy elevates transport globulin levels in a patient. Based on the dynamics of hormone physiology, this increase in binding protein would have what effect on free hormone levels and biologically active hormone?",
+    "stem": "The feed-forward control mechanism of regulation, where signals are sent to modulate events in anticipation of an action, is MOST prevalent in which physiological system?",
     "options": [
-      "Increased binding proteins increase free hormone levels and therefore increase biologically active hormone",
-      "Protein-bound hormones are not readily available for expression of bio-effects; only free hormones are biologically active, so increased binding reduces active fraction",
-      "Binding proteins enhance receptor sensitivity, compensating for reduced free hormone levels"
+      "The endocrine system via hypothalamic releasing hormone anticipatory secretion",
+      "The renal system via anticipatory renin-angiotensin activation",
+      "The nervous control mechanism",
+      "The immune system via cytokine pre-activation"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 59,
     "type": "mcq",
-    "stem": "CASE STUDY: During a physiology OSCE, a student is asked to explain the concept of 'haemocrine communication'. Based on the lecture, haemocrine is the most appropriate recent term for which type of communication?",
+    "stem": "The hypothalamus receives regulatory afferent impulses that modulate its function via norepinephrine, serotonin, acetylcholine, amino acids, and other neuropeptides. These impulses originate primarily from which anatomical pathway?",
     "options": [
-      "Solinocrine communication â chemical substances secreted into gut lumina",
-      "Endocrine communication â substances released to extracellular spaces and entering the blood to act at distal sites",
-      "Neuro-endocrine communication â substances transported from nerve bodies via blood"
+      "Cerebral cortex via the thalamus, limbic system, reticular activating system, and optic system",
+      "Cerebellum via the dentate nucleus and superior cerebellar peduncle only",
+      "Brainstem via the locus coeruleus and dorsal raphe nuclei only",
+      "Pituitary gland via retrograde portal blood flow carrying trophic hormones"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 60,
     "type": "mcq",
-    "stem": "CASE STUDY: A student confuses intracrine and autocrine communication. The examiner asks: in autocrine communication, after what event does interaction of the hormone with its own producing cell occur?",
+    "stem": "Specialized folliculostellate cells recently identified in the anterior pituitary produce which cytokine that exhibits autocrine or paracrine actions?",
     "options": [
-      "After the hormone is packaged in secretory granules but before exocytosis",
-      "After contact must have been made with the interstitial fluid",
-      "After the hormone crosses the nuclear membrane and binds to nuclear receptors"
+      "Interleukin-2 (IL-2)",
+      "Interleukin-4 (IL-4)",
+      "Interleukin-6 (IL-6)",
+      "Interleukin-10 (IL-10)"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 61,
     "type": "mcq",
-    "stem": "CASE STUDY: A patient's biopsy reveals that endothelial cells of blood vessels are producing nitrous oxide acting on the vessel smooth muscle via gap junctions, without contacting the interstitial fluid. Based on the lecture, this is a specific example of which communication type?",
+    "stem": "A nursing student learns that GH secretion follows a sleep-related circadian rhythm. Which specific sleep stage(s) are directly associated with STIMULATION of GH secretion?",
     "options": [
-      "Juxtacrine communication â occurring along adjacent cells",
-      "Epicrine communication â occurring via gap junctions without interstitial fluid contact",
-      "Paracrine communication â occurring in the interstitial space between cells"
+      "Stage I and Stage II only (light sleep phases)",
+      "Stage II and Stage III only",
+      "Stage III and Stage IV (deep sleep), exhibiting circadian rhythm",
+      "REM (Rapid Eye Movement) sleep exclusively"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 62,
     "type": "mcq",
-    "stem": "CASE STUDY: A nurse notes that a patient taking high-dose oral steroids has rapid blood glucose elevation. Steroid hormones are lipid-soluble. Compared to water-soluble insulin (which would take effect rapidly), why do steroid hormones have a SLOWER onset?",
+    "stem": "The MAPK (Mitogen-Activated Protein Kinase) pathway activated by GH proceeds via the product of which proto-oncogene to activate transcription factors that alter gene expression?",
     "options": [
-      "Steroid hormones bind to cell membrane receptors which must undergo internalization before gene transcription begins",
-      "Lipid-soluble hormones have slowed onset because they act on receptors in the cytoplasm/nucleus, requiring gene transcription and protein synthesis",
-      "Steroid hormones are bound to plasma proteins which must be cleaved before receptor binding can occur, causing a delay"
+      "myc proto-oncogene",
+      "ras proto-oncogene",
+      "src proto-oncogene",
+      "fos proto-oncogene"
     ],
     "answer": "B"
   },
   {
     "id": 63,
     "type": "mcq",
-    "stem": "CASE STUDY: A biochemistry student is asked to name the two subdivisions of endocrinology. She correctly identifies Traditional Endocrine Physiology and Contemporary Endocrinology. Traditional endocrinology studies secretions from specific organs whose primary function is:",
+    "stem": "When a primary target organ fails, feedback inhibition on the hypothalamus is lost. What is the direct consequence of this loss?",
     "options": [
-      "To secrete substances into ducts for transport to target organs (exocrine function)",
-      "To secrete hormones (endocrine organs) emptying their contents into the blood",
-      "To produce cytokines and growth factors from non-endocrine cells"
+      "Reduced production of all hormones throughout the axis due to negative feedback removal",
+      "Excessive production of hypothalamic hormone leading to excessive trophic hormone production",
+      "Ultra-short loop activation that restores normal hormone levels through autocrine inhibition",
+      "Compensatory reduction in hypothalamic releasing hormone through direct sensor mechanisms"
     ],
     "answer": "B"
   },
   {
     "id": 64,
     "type": "mcq",
-    "stem": "CASE STUDY: A researcher studying eicosanoids asks why they act locally rather than systemically. Based on the lecture, eicosanoids are produced by almost all cells, are highly lipid soluble, and are:",
+    "stem": "In cell signaling via cytoplasmic receptors, after the hormone-receptor complex enters the nucleus and stimulates mRNA transcription, the mRNA diffuses back into the cytoplasm. The resulting protein products function as:",
     "options": [
-      "Transported bound to specific plasma proteins and stored in secretory granules",
-      "Easily degraded and easily diffuse across the cell membrane, explaining their local action",
-      "Stored in cytoplasmic vesicles and released constitutively from almost all cells"
+      "Second messengers that activate G-proteins at the cell surface",
+      "Enzymes, transport proteins, and structural proteins that modulate cell function",
+      "Transcription factors that re-enter the nucleus to amplify the original hormonal signal",
+      "Inhibitory proteins that compete with the hormone for receptor binding"
     ],
     "answer": "B"
   },
   {
     "id": 65,
     "type": "mcq",
-    "stem": "CASE STUDY: A pharmacology student asks why synthetic thyroid hormone (T4) has a longer duration of action than many protein hormones. Based on the lecture, T4 is lipid soluble AND is the one lipid-soluble hormone that IS stored. The prolonged half-life of T4 is further explained by which additional factor?",
+    "stem": "The posterior pituitary (neurohypophysis) consists primarily of unmyelinated nerve fibres originating from cells of which hypothalamic nuclei?",
     "options": [
-      "T4 is rapidly converted to the active T3 form, extending the apparent duration of action",
-      "Greater protein binding reduces onset but prolongs duration of action, and T4 is extensively protein-bound",
-      "T4 acts via nuclear receptors which have intrinsically slow recycling mechanisms"
+      "Ventromedial nucleus and arcuate nucleus",
+      "Periventricular nucleus and dorsomedial nucleus",
+      "Supraoptic (SON) and paraventricular (PVN) nuclei",
+      "Anterior nucleus and lateral hypothalamic area"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 66,
     "type": "mcq",
-    "stem": "CASE STUDY: A student is given an exam question asking to define what distinguishes the 'pre-pro-hormone' from the 'pro-hormone' and then the 'active hormone'. Based on the lecture, the key process producing the active hormone from the pre-pro-hormone is:",
+    "stem": "In the phospholipid second messenger pathway, arachidonic acid derived from the lipid portion of DAG is hydrolyzed to produce:",
     "options": [
-      "Glycosylation in the endoplasmic reticulum followed by packaging into secretory granules",
-      "Stepwise cleavage of the pre-pro-hormone to a pro-hormone and then to the active hormone",
-      "Addition of disulphide bonds in the Golgi apparatus that confer the active three-dimensional structure"
+      "Cyclic AMP and cyclic GMP through adenyl cyclase activation",
+      "Several prostaglandins and other local hormones that have various actions in the body",
+      "Inositol triphosphate and calmodulin through phospholipase-C activation",
+      "Diacyl glycerol and protein kinase A through a positive feedback loop"
     ],
     "answer": "B"
   },
   {
     "id": 67,
     "type": "mcq",
-    "stem": "CASE STUDY: A student argues that exocrine secretion and endocrine secretion are mutually exclusive. Based on the lecture, the CORRECT response is:",
+    "stem": "A 52-year-old male with stage 4 chronic renal failure is evaluated endocrinologically. Which of the following correctly describes the effect of chronic renal failure on GH secretion?",
     "options": [
-      "The student is correct â exocrine glands secrete into ducts and cannot also secrete hormones",
-      "The student is incorrect â exocrine secretion is NOT antithetical to endocrine secretion; many exocrine glands contain cells of the diffuse neuroendocrine system (DNES) and indeed secrete hormones",
-      "The student is partially correct â only glands with both exocrine and endocrine cell types can be classified as endocrine"
+      "Chronic renal failure decreases GH secretion through elevated IGF-1 feedback",
+      "Chronic renal failure stimulates GH secretion as a recognized pathological factor",
+      "Chronic renal failure has no clinically significant effect on GH secretion",
+      "Chronic renal failure decreases GH secretion by reducing hypothalamic GHRH release"
     ],
     "answer": "B"
   },
   {
     "id": 68,
     "type": "mcq",
-    "stem": "CASE STUDY: A 50-year-old male takes an oral lipid-soluble steroid supplement. Considering hormone kinetics, why is removal of steroids from blood achieved by conjugation with glucuronic acid and sulphates?",
+    "stem": "Regarding the embryological fate of the intermediate lobe of the pituitary in humans, which of the following is most accurate?",
     "options": [
-      "To reduce receptor affinity and terminate hormone action at the target cell level",
-      "To improve solubility and enhance biliary and urinary excretion since steroids are not water soluble",
-      "To prevent enterohepatic recirculation and ensure complete hormonal elimination"
+      "It remains fully functional throughout adult life, secreting alpha-MSH continuously",
+      "It differentiates into the neurohypophysis through neuroectodermal commitment",
+      "It is incorporated into the anterior lobe and develops capacity to produce POMC and ACTH",
+      "It regresses completely with no functional contribution to pituitary hormone secretion in adults"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 69,
     "type": "mcq",
-    "stem": "CASE STUDY: An endocrinology examiner asks a student which hormone type is synthesized in the rough ER as a biologically inactive pre-pro-hormone and why this form is inactive. Based on the lecture, this describes:",
+    "stem": "Insulin and macrophage colony stimulating factor act through enzyme-linked cell membrane receptors (receptor tyrosine kinases). The key intracellular activation step in this mechanism involves:",
     "options": [
-      "Lipid-soluble steroid hormones synthesized in the rough ER prior to Golgi processing",
-      "Protein and polypeptide hormones, which are biologically inactive as pre-pro-hormones before post-translational modification in the Golgi apparatus",
-      "Amino acid derivative (monoamine) hormones which are inactive until enzymatic modification in the cytoplasm"
+      "Heterodimerization with a second receptor followed by tyrosine kinase recruitment",
+      "Auto phosphorylation of tyrosine residues following hormone binding to the beta portion",
+      "G-protein activation followed by adenyl cyclase stimulation",
+      "JAK kinase recruitment through cytoplasmic domain interaction"
     ],
     "answer": "B"
   },
   {
     "id": 70,
     "type": "mcq",
-    "stem": "CASE STUDY: A nursing student is examining which type of cells produce cytokines and growth factors. She incorrectly states they come from a specific endocrine gland. The correct statement based on the lecture is that growth factors/cytokines are synthesized by:",
+    "stem": "A nurse reads that hypergonadotropic situations are usually a secondary event in hypothalamic dysfunction. Which mechanism BEST explains why FSH and LH levels become elevated in primary target organ failure?",
     "options": [
-      "Exclusively by cells of the anterior pituitary, since these hormones are regulated by hypothalamic releasing hormones",
-      "A variety of cell types (not a definite gland) including lymphocytes, macrophages, endothelial cells, neurones, and glial cells",
-      "Exclusively by cells of immune origin (lymphocytes and macrophages) which accounts for their role in inflammation"
+      "Hypothalamic lesions directly stimulate gonadotrope cell hyperplasia in the pituitary",
+      "Primary target organ failure causes loss of feedback inhibition on the hypothalamus, leading to excessive hormone production",
+      "GnRH deficiency at the hypothalamic level causes compensatory pituitary LH and FSH oversecretion",
+      "Excess dopamine from hypothalamic dysfunction paradoxically stimulates gonadotrope activity"
     ],
     "answer": "B"
   },
   {
     "id": 71,
     "type": "fitb",
-    "stem": "Endocrinology is the study of the regulation of information within a living organism by means of chemical messengers called ___.",
-    "answer": "hormones",
-    "acceptableAnswers": ["hormones", "chemical messengers called hormones"]
+    "stem": "GHRH is a ___ amino acid polypeptide, while GHIH (somatostatin) has two variants: a ___ amino acid and a ___ amino acid polypeptide.",
+    "answer": "44, 14, 28",
+    "acceptableAnswers": [
+      "44, 14, 28",
+      "44-amino acid, 14-amino acid, 28-amino acid",
+      "forty-four, fourteen, twenty-eight"
+    ]
   },
   {
     "id": 72,
     "type": "fitb",
-    "stem": "In endocrine (haemocrine) communication, chemical substances are released to the extracellular spaces, enter the ___, and are transported to ___ sites (target tissues).",
-    "answer": "blood; distal",
-    "acceptableAnswers": ["blood; distal", "bloodstream; distal", "blood; distant"]
+    "stem": "Ghrelin is a ___-amino acid GH secretagogue peptide whose main site of production is the ___, although it is also produced in the hypothalamus.",
+    "answer": "28, stomach",
+    "acceptableAnswers": [
+      "28, stomach",
+      "28 amino acid, stomach",
+      "twenty-eight, stomach"
+    ]
   },
   {
     "id": 73,
     "type": "fitb",
-    "stem": "Paracrine communication involves release of chemical substances into the ___ space, while communication via gap junctions without contacting the interstitial fluid is called ___ communication.",
-    "answer": "interstitial; epicrine",
-    "acceptableAnswers": ["interstitial; epicrine", "interstitial space; epicrine"]
+    "stem": "The GH receptor is a ___-amino acid homodimer and is a member of the ___ receptor super family.",
+    "answer": "620, cytokine",
+    "acceptableAnswers": [
+      "620, cytokine",
+      "620 amino acid, cytokine",
+      "six hundred and twenty, cytokine"
+    ]
   },
   {
     "id": 74,
     "type": "fitb",
-    "stem": "In autocrine communication, when contact with the interstitial fluid is NOT made, it is termed ___ communication.",
-    "answer": "intracrine",
-    "acceptableAnswers": ["intracrine", "intracrine communication"]
+    "stem": "The basal serum GH level is less than ___ ng/ml in adults and less than ___ ng/ml in children.",
+    "answer": "3, 5",
+    "acceptableAnswers": [
+      "3, 5",
+      "3ng/ml, 5ng/ml",
+      "three, five"
+    ]
   },
   {
     "id": 75,
     "type": "fitb",
-    "stem": "Neuro-endocrine communication involves hormones produced by ___ cell bodies, transported through terminal axons to the blood. Examples include posterior pituitary hormones, ___, and hypothalamic releasing hormones.",
-    "answer": "nerve; antidiuretic hormone (ADH) / oxytocin",
-    "acceptableAnswers": ["nerve; oxytocin", "nerve; antidiuretic hormone", "nerve; ADH and oxytocin", "nerve cell; ADH"]
+    "stem": "The pituitary gland is located in the ___ of the sphenoid bone, covered by a fold of dura matter called ___, and is connected to the hypothalamus by the infundibulum.",
+    "answer": "sella turcica, diaphragma sellae",
+    "acceptableAnswers": [
+      "sella turcica, diaphragma sellae",
+      "sella turcica, diaphragma sella"
+    ]
   },
   {
     "id": 76,
     "type": "fitb",
-    "stem": "A ligand is a biomolecule or ion that specifically and selectively binds a receptor to form a complex with the aim of eliciting a ___. It could be a hormone, or ___ or inorganic substances.",
-    "answer": "biological response; organic",
-    "acceptableAnswers": ["biological response; organic", "biological response; organic or inorganic"]
+    "stem": "Chromophobes constitute ___% of anterior pituitary cells, are ___ in nature, and stain poorly with haematoxylin or eosin.",
+    "answer": "50, non-secretory",
+    "acceptableAnswers": [
+      "50, non-secretory",
+      "50%, non-secretory",
+      "fifty, non-secretory"
+    ]
   },
   {
     "id": 77,
     "type": "fitb",
-    "stem": "The concentration of hormones in the blood ranges from about one ___ to a few micrograms.",
-    "answer": "picogram",
-    "acceptableAnswers": ["picogram", "picogram per millilitre", "pg"]
+    "stem": "STAT is an acronym that stands for signal ___ and ___ of transcription.",
+    "answer": "transducers, activators",
+    "acceptableAnswers": [
+      "transducers, activators",
+      "transduction, activation"
+    ]
   },
   {
     "id": 78,
     "type": "fitb",
-    "stem": "Hormones are removed from blood by chemical destruction and binding to ___ acid and ___, to improve solubility and enhance biliary and urinary excretion.",
-    "answer": "glucuronic; sulphates",
-    "acceptableAnswers": ["glucuronic; sulphates", "glucuronide; sulphates", "glucuronic acid; sulphates"]
+    "stem": "The hGH-N gene is located on the ___ arm of chromosome ___, in the q22-24 region.",
+    "answer": "long, 17",
+    "acceptableAnswers": [
+      "long, 17",
+      "long arm, chromosome 17",
+      "long arm, 17"
+    ]
   },
   {
     "id": 79,
     "type": "fitb",
-    "stem": "Water-soluble hormones are synthesized in the ___ reticulum and stored in ___ granules, and they bind to ___ membrane receptors.",
-    "answer": "endoplasmic; secretory; cell",
-    "acceptableAnswers": ["endoplasmic; secretory; cell", "rough endoplasmic; secretory; cell membrane"]
+    "stem": "The pituitary gland weighs ___ to ___ mg, and during pregnancy its size increases by about 30%.",
+    "answer": "450, 950",
+    "acceptableAnswers": [
+      "450, 950",
+      "450mg, 950mg",
+      "four hundred and fifty, nine hundred and fifty"
+    ]
   },
   {
     "id": 80,
     "type": "fitb",
-    "stem": "Lipid-soluble hormones are NOT stored (except ___) and are transported ___ to plasma proteins.",
-    "answer": "thyroid hormones; bound",
-    "acceptableAnswers": ["thyroid hormones; bound", "thyroid; bound"]
+    "stem": "IGF binding protein-3 prolongs the half-life of somatomedins to about ___ hours, compared to GH itself which is loosely bound to proteins with a ___ half-life of 6 to 20 minutes.",
+    "answer": "20, short",
+    "acceptableAnswers": [
+      "20, short",
+      "twenty, short",
+      "20 hours, short"
+    ]
   },
   {
     "id": 81,
     "type": "fitb",
-    "stem": "Steroids contain a common nucleus called the ___ ring with ___ rings (A, B, C, D) and are synthesized from ___.",
-    "answer": "cyclopentanoperhydrophenanthrene; 4; cholesterol",
-    "acceptableAnswers": ["cyclopentanoperhydrophenanthrene; 4; cholesterol", "cyclo-pentano-perhydro-phenanthrene; four; cholesterol"]
+    "stem": "GH is produced as a ___ in the ribosomes, stored in ___, and released by ___.",
+    "answer": "prohormone, secretory vesicles, exocytosis",
+    "acceptableAnswers": [
+      "prohormone, secretory vesicles, exocytosis",
+      "pro-hormone, secretary vesicles, exocytosis"
+    ]
   },
   {
     "id": 82,
     "type": "fitb",
-    "stem": "Eicosanoids originate from poly-unsaturated ___ carbon atom fatty acids e.g. ___ acid and are produced by almost all cells in the body.",
-    "answer": "20; arachidonic",
-    "acceptableAnswers": ["20; arachidonic", "20-carbon; arachidonic", "20; arachidonic acid"]
+    "stem": "Cells that produce GHRH are located in the ___ nucleus of the hypothalamus, while GHIH cell bodies are in the ___ nuclei.",
+    "answer": "ventromedial, periventricular",
+    "acceptableAnswers": [
+      "ventromedial, periventricular",
+      "ventromedial nucleus, periventricular nuclei"
+    ]
   },
   {
     "id": 83,
     "type": "fitb",
-    "stem": "Examples of eicosanoids include prostaglandins, ___, ___, and leukotrienes.",
-    "answer": "prostacyclin; thromboxane",
-    "acceptableAnswers": ["prostacyclin; thromboxane", "thromboxane; prostacyclin"]
+    "stem": "GH increases the concentration of circulating ___, which acts on the pituitary via a ___ loop mechanism to inhibit GH secretion.",
+    "answer": "IGF-1, long",
+    "acceptableAnswers": [
+      "IGF-1, long",
+      "IGF1, long loop",
+      "insulin-like growth factor 1, long"
+    ]
   },
   {
     "id": 84,
     "type": "fitb",
-    "stem": "Amino acid derivative hormones derived from tyrosine include ___ and ___. Melatonin and serotonin are derived from ___.",
-    "answer": "thyroxine; adrenaline; tryptophan",
-    "acceptableAnswers": ["thyroxine; adrenaline; tryptophan", "adrenaline; thyroxine; tryptophan", "thyroxine and adrenaline; tryptophan"]
+    "stem": "The ___ is the most richly vascularised of all mammalian tissues, receiving its blood supply from the superior, middle, and inferior ___ arteries.",
+    "answer": "anterior pituitary, hypophyseal",
+    "acceptableAnswers": [
+      "anterior pituitary, hypophyseal",
+      "adenohypophysis, hypophyseal",
+      "anterior pituitary gland, hypophyseal"
+    ]
   },
   {
     "id": 85,
     "type": "fitb",
-    "stem": "Protein hormones are synthesized in the ___ endoplasmic reticulum as biologically inactive ___. Post-translational modification occurs in the ___ apparatus.",
-    "answer": "rough; pre-pro-hormones; Golgi",
-    "acceptableAnswers": ["rough; pre-pro-hormones; Golgi", "rough ER; pre-pro-hormones; Golgi"]
+    "stem": "Kallmann's syndrome is caused by isolated congenital ___ deficiency, presenting with hypogonadism, ___, cerebellar ataxia, and sensorineural deafness.",
+    "answer": "GnRH, anosmia",
+    "acceptableAnswers": [
+      "GnRH, anosmia",
+      "gonadotropin releasing hormone, anosmia"
+    ]
   },
   {
     "id": 86,
     "type": "fitb",
-    "stem": "Constitutive secretion involves the release of hormones as they are ___ (without packaging) and occurs ___.",
-    "answer": "produced; occasionally",
-    "acceptableAnswers": ["produced; occasionally", "produced without packaging; occasionally"]
+    "stem": "The posterior pituitary consists of unmyelinated nerve fibres from cells of the ___ (SON) and ___ (PVN) nuclei of the hypothalamus.",
+    "answer": "supraoptic, paraventricular",
+    "acceptableAnswers": [
+      "supraoptic, paraventricular",
+      "SON, PVN",
+      "supraoptic nucleus, paraventricular nucleus"
+    ]
   },
   {
     "id": 87,
     "type": "fitb",
-    "stem": "In glycoproteins, the ___ subunits of all glycoproteins are similar while the ___ subunits differ and confer biological specificity.",
-    "answer": "Î± (alpha); Î² (beta)",
-    "acceptableAnswers": ["alpha; beta", "Î±; Î²", "a; b"]
+    "stem": "Somatomedins act in ___, ___, and ___ manner, with their receptors resembling insulin receptors.",
+    "answer": "endocrine, paracrine, autocrine",
+    "acceptableAnswers": [
+      "endocrine, paracrine, autocrine",
+      "autocrine, paracrine, endocrine",
+      "paracrine, endocrine, autocrine"
+    ]
   },
   {
     "id": 88,
     "type": "fitb",
-    "stem": "Circadian rhythms are regular changes in a ___ hour cycle, controlled mainly by the ___ nucleus of the hypothalamus.",
-    "answer": "24; Supra Chiasmatic (SCN)",
-    "acceptableAnswers": ["24; suprachiasmatic", "24; SCN", "24; supra chiasmatic nucleus"]
+    "stem": "Obesity ___ GH secretion, whereas protein energy malnutrition ___ GH secretion, both serving as pathological factors.",
+    "answer": "decreases, stimulates",
+    "acceptableAnswers": [
+      "decreases, stimulates",
+      "reduces, increases",
+      "suppresses, stimulates"
+    ]
   },
   {
     "id": 89,
     "type": "fitb",
-    "stem": "Cortisol is secreted more in the ___ than ___. In suspected Cushing's syndrome, blood sample should be collected in the ___.",
-    "answer": "morning; evening; evening",
-    "acceptableAnswers": ["morning; evening; evening", "AM; PM; evening"]
+    "stem": "In the phospholipid second messenger mechanism, inositol triphosphate (IP) mobilizes ___ from the ___ and mitochondria, which itself exerts a second messenger effect.",
+    "answer": "calcium, endoplasmic reticulum",
+    "acceptableAnswers": [
+      "calcium, endoplasmic reticulum",
+      "Ca2+, endoplasmic reticulum",
+      "calcium ions, endoplasmic reticulum"
+    ]
   },
   {
     "id": 90,
     "type": "fitb",
-    "stem": "GnRH agonist used in ART does not exhibit ___ rhythm, thus continuously stimulating the pituitary until ___ and down-regulation occurs.",
-    "answer": "ultradian; pituitary fatigue",
-    "acceptableAnswers": ["ultradian; pituitary fatigue", "ultradian rhythm; pituitary fatigue"]
+    "stem": "The 20kDa hGH variant differs from the standard 22kDa form by deletion of amino acids ___ to ___ from the sequence, constituting ___% of all circulating GH.",
+    "answer": "32, 46, 10",
+    "acceptableAnswers": [
+      "32, 46, 10",
+      "32 to 46, 10%",
+      "thirty-two, forty-six, ten"
+    ]
   },
   {
     "id": 91,
     "type": "fitb",
-    "stem": "The half-life (tÂ½) of a hormone is the time needed for the concentration to reduce to ___ percent of its original level and is directly proportional to the degree of ___ and clearance.",
-    "answer": "50; degradation",
-    "acceptableAnswers": ["50; degradation", "50%; degradation and clearance"]
+    "stem": "GH secretion occurs in a ___ manner and approximately ___% is loosely bound to plasma proteins known as GH-binding protein.",
+    "answer": "pulsatile, 50",
+    "acceptableAnswers": [
+      "pulsatile, 50",
+      "pulsatile manner, 50%",
+      "pulsatile, fifty"
+    ]
   },
   {
     "id": 92,
     "type": "fitb",
-    "stem": "Greater protein binding ___ the onset but ___ the duration of action of a hormone.",
-    "answer": "reduces; prolongs",
-    "acceptableAnswers": ["reduces; prolongs", "slows; prolongs", "decreases; prolongs"]
+    "stem": "The pituitary gland is also known as the ___.",
+    "answer": "hypophysis",
+    "acceptableAnswers": [
+      "hypophysis",
+      "the hypophysis"
+    ]
   },
   {
     "id": 93,
     "type": "fitb",
-    "stem": "Down-regulation of membrane receptors is mainly achieved by receptor-mediated ___ (internalization) or ___.",
-    "answer": "endocytosis; desensitization",
-    "acceptableAnswers": ["endocytosis; desensitization", "endocytosis (internalization); desensitization"]
+    "stem": "GH reduces renal excretion of ___ and ___ ions, conserving them for incorporation into growing cells and tissues.",
+    "answer": "sodium (Na), potassium (K)",
+    "acceptableAnswers": [
+      "sodium, potassium",
+      "Na, K",
+      "sodium (Na), potassium (K)",
+      "Na+ and K+"
+    ]
   },
   {
     "id": 94,
     "type": "fitb",
-    "stem": "Autoimmune antibodies can either ___ hormone action leading to biological deficiency, or ___ its action causing biological hyperactivity.",
-    "answer": "block; accentuate",
-    "acceptableAnswers": ["block; accentuate", "block; stimulate", "inhibit; accentuate"]
+    "stem": "GH secretion occurs in a ___ manner, reflecting the pulsatile release of GHRH.",
+    "answer": "pulsatile",
+    "acceptableAnswers": [
+      "pulsatile",
+      "pulsatile manner"
+    ]
   },
   {
     "id": 95,
     "type": "fitb",
-    "stem": "In Mechanism A (direct changes in membrane permeability), formation of the hormone-receptor complex causes opening or closing of ___ channels (Naâº, Kâº, and CaÂ²âº), which are called ___ channels.",
-    "answer": "ionic; ligand-gated",
-    "acceptableAnswers": ["ionic; ligand-gated", "ion; ligand-gated", "ionic channels; ligand-gated"]
+    "stem": "Somatomedins are mainly secreted by the ___ and to a smaller extent by other tissues including ___ and muscles.",
+    "answer": "liver, kidneys",
+    "acceptableAnswers": [
+      "liver, kidneys",
+      "liver, kidney",
+      "the liver, kidneys"
+    ]
   },
   {
     "id": 96,
     "type": "fitb",
-    "stem": "The insulin/growth factor receptor is a ___ consisting of 2 extracellular ___ subunits and 2 trans/intracellular ___ subunits.",
-    "answer": "tetramer; alpha; beta",
-    "acceptableAnswers": ["tetramer; alpha; beta", "tetramer; Î±; Î²", "tetramer; alpha (extracellular); beta (intracellular)"]
+    "stem": "About ___% of circulating growth hormone is loosely bound to plasma proteins, specifically the GH-binding protein.",
+    "answer": "50",
+    "acceptableAnswers": [
+      "50",
+      "fifty",
+      "50%"
+    ]
   },
   {
     "id": 97,
     "type": "fitb",
-    "stem": "The four classes of cell-membrane receptors are: (i) ___ receptors, (ii) G-protein coupled receptors, (iii) ___ receptors, and (iv) receptors with intrinsic ___ enzymatic activity.",
-    "answer": "ion-channel; tyrosine kinase-linked; tyrosine kinase",
-    "acceptableAnswers": ["ion-channel; tyrosine kinase-linked; tyrosine kinase", "ion channel; tyrosine kinase linked; tyrosine kinase"]
+    "stem": "GH begins to exert its influence on IGF-1 ___, with plasma levels of IGF-1 rising through childhood, reaching a zenith at ___, and gradually falling in old age.",
+    "answer": "immediately postpartum, puberty",
+    "acceptableAnswers": [
+      "immediately postpartum, puberty",
+      "immediately after birth, puberty",
+      "postpartum, puberty"
+    ]
   },
   {
     "id": 98,
     "type": "fitb",
-    "stem": "Hormones bind to the ___ portion of transmembrane receptors on the cell membrane to form a ___ complex.",
-    "answer": "extracellular; hormone-receptor",
-    "acceptableAnswers": ["extracellular; hormone-receptor", "extracellular portion; hormone-receptor"]
+    "stem": "GHRH attaches to receptors on the cell membranes of somatotropes, leading to increases in production of ___, ___, and phosphatidyl inositol.",
+    "answer": "CAMP, Ca2+",
+    "acceptableAnswers": [
+      "CAMP, Ca2+",
+      "cAMP, calcium",
+      "cyclic AMP, Ca2+",
+      "CAMP, calcium"
+    ]
   },
   {
     "id": 99,
     "type": "fitb",
-    "stem": "Juxtacrine communication is called so because it occurs along ___ cells, and it is a subdivision of ___ communication where gap junctions are used.",
-    "answer": "adjacent; epicrine (paracrine)",
-    "acceptableAnswers": ["adjacent; epicrine", "adjacent cells; paracrine", "adjacent; paracrine/epicrine"]
+    "stem": "The anterior pituitary is derived from ___ arising from the pharyngeal epithelium (Rathke's pouch), while the posterior pituitary and hypothalamus develop as a ___ from the neuroepithelium of the base of the brain.",
+    "answer": "ectoderm, downward diverticulum",
+    "acceptableAnswers": [
+      "ectoderm, downward diverticulum",
+      "ectodermal tissue, downward diverticulum",
+      "ectoderm, diverticulum"
+    ]
   },
   {
     "id": 100,
     "type": "fitb",
-    "stem": "The lecure states that the word '___ ' should be used while describing the method of intercellular communication adopted by the chemical substance, not 'exocrine', as the two are not mutually ___.",
-    "answer": "endocrine; exclusive",
-    "acceptableAnswers": ["endocrine; exclusive", "endocrine; antithetical", "endocrine; exclusive (antithetical)"]
+    "stem": "In the short loop negative feedback mechanism, the ___ hormone inhibits the production of its ___ hormone, as exemplified by the effect of growth hormone on GHRH and somatostatin.",
+    "answer": "trophic, releasing",
+    "acceptableAnswers": [
+      "trophic, releasing",
+      "trophic hormone, releasing hormone"
+    ]
   }
 ]
