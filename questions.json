@@ -2,1165 +2,1123 @@
   {
     "id": 1,
     "type": "mcq",
-    "stem": "A 45-year-old male presents with progressive coarsening of facial features, enlarged hands and feet, and frontal bossing over 6 years. MRI confirms a pituitary macroadenoma. Serum IGF-1 is markedly elevated. The GH receptor through which growth hormone mediates its primary cellular effects is a member of which receptor superfamily?",
+    "stem": "A postpartum client develops inability to lactate, hypotension, and persistent amenorrhea following severe obstetric hemorrhage. Which disorder most likely explains the findings?",
     "options": [
-      "Receptor tyrosine kinase superfamily",
-      "Cytokine receptor superfamily",
-      "G-protein coupled receptor superfamily",
-      "Nuclear receptor superfamily"
+      "Sheehan syndrome",
+      "Conn syndrome",
+      "Addison disease",
+      "Pheochromocytoma"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 2,
     "type": "mcq",
-    "stem": "Growth hormone releasing hormone (GHRH) is a polypeptide comprising exactly how many amino acids?",
+    "stem": "A nurse notes that a client with SIADH becomes progressively restless and develops generalized seizures. Which serum laboratory result would most strongly correlate with this deterioration?",
     "options": [
-      "40 amino acids",
-      "41 amino acids",
-      "44 amino acids",
-      "47 amino acids"
+      "Serum sodium 112 mEq/L",
+      "Serum potassium 3.9 mEq/L",
+      "Serum calcium 9.2 mg/dL",
+      "Serum chloride 101 mEq/L"
     ],
-    "answer": "C"
+    "answer": "A"
   },
   {
     "id": 3,
     "type": "mcq",
-    "stem": "Somatostatin (GHIH) exists in two polypeptide variants. Which of the following correctly identifies both variants?",
+    "stem": "A patient with central diabetes insipidus is expected to exhibit which combination of findings?",
     "options": [
-      "12-amino acid and 24-amino acid variants",
-      "14-amino acid and 28-amino acid variants",
-      "16-amino acid and 32-amino acid variants",
-      "18-amino acid and 36-amino acid variants"
+      "Polyuria, hypernatremia, low urine osmolality",
+      "Oliguria, hyponatremia, elevated urine osmolality",
+      "Polyuria, hypokalemia, metabolic acidosis",
+      "Anuria, hypercalcemia, metabolic alkalosis"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 4,
     "type": "mcq",
-    "stem": "Ghrelin, a GH secretagogue peptide whose main site of production is the stomach, consists of how many amino acids?",
+    "stem": "Which cellular process directly inserts aquaporin-2 channels into the luminal membrane of collecting duct cells?",
     "options": [
-      "24 amino acids",
-      "26 amino acids",
-      "28 amino acids",
-      "30 amino acids"
+      "ADH-mediated cAMP activation",
+      "Aldosterone-induced sodium exchange",
+      "Calcitonin-mediated phosphorylation",
+      "Insulin-triggered potassium influx"
     ],
-    "answer": "C"
+    "answer": "A"
   },
   {
     "id": 5,
     "type": "mcq",
-    "stem": "The plasma half-life of growth hormone in circulation is:",
+    "stem": "A child with untreated congenital hypothyroidism is at highest risk for which irreversible complication?",
     "options": [
-      "2 to 10 minutes",
-      "4 to 15 minutes",
-      "6 to 20 minutes",
-      "8 to 25 minutes"
+      "Severe intellectual disability",
+      "Acute respiratory alkalosis",
+      "Adrenal hypertrophy",
+      "Renal tubular necrosis"
     ],
-    "answer": "C"
+    "answer": "A"
   },
   {
     "id": 6,
     "type": "mcq",
-    "stem": "Somatotropes, which secrete growth hormone, account for approximately what proportion of all adenohypophyseal cells?",
+    "stem": "A patient with acromegaly most likely developed excess growth hormone secretion during which phase?",
     "options": [
-      "One quarter of adenohypophyseal cells",
-      "One third of adenohypophyseal cells",
-      "Half of adenohypophyseal cells",
-      "Two thirds of adenohypophyseal cells"
+      "After epiphyseal closure",
+      "Before thyroid differentiation",
+      "During fetal ossification",
+      "Before adrenal maturation"
     ],
-    "answer": "C"
+    "answer": "A"
   },
   {
     "id": 7,
     "type": "mcq",
-    "stem": "The hGH-N gene encoding the standard 22kDa human growth hormone is located on which chromosome and region?",
+    "stem": "Which mechanism best explains the initial stimulation of ADH release during severe dehydration?",
     "options": [
-      "Long arm of chromosome 15, q18-20 region",
-      "Short arm of chromosome 17, p22-24 region",
-      "Long arm of chromosome 17, q22-24 region",
-      "Long arm of chromosome 19, q22-24 region"
+      "Activation of hypothalamic osmoreceptors",
+      "Suppression of vagal afferents",
+      "Inhibition of renin secretion",
+      "Reduction in angiotensin II synthesis"
     ],
-    "answer": "C"
+    "answer": "A"
   },
   {
     "id": 8,
     "type": "mcq",
-    "stem": "The normal weight range of the pituitary gland in a non-pregnant adult is:",
+    "stem": "A laboring client receiving oxytocin develops contractions every 70 seconds lasting 110 seconds. Which complication is the priority concern?",
     "options": [
-      "350 to 750 mg",
-      "400 to 850 mg",
-      "450 to 950 mg",
-      "500 to 1000 mg"
+      "Fetal hypoxia",
+      "Maternal hyperglycemia",
+      "Polycythemia",
+      "Pulmonary embolism"
     ],
-    "answer": "C"
+    "answer": "A"
   },
   {
     "id": 9,
     "type": "mcq",
-    "stem": "During pregnancy, the pituitary gland undergoes hypertrophy. By approximately what percentage does its overall size increase?",
+    "stem": "The sodium-iodide transporter primarily functions through which mechanism?",
     "options": [
-      "20%",
-      "25%",
-      "30%",
-      "35%"
+      "Secondary active transport",
+      "Simple diffusion",
+      "Primary potassium exchange",
+      "Facilitated chloride transport"
     ],
-    "answer": "C"
+    "answer": "A"
   },
   {
     "id": 10,
     "type": "mcq",
-    "stem": "A 21-year-old female with a 4-year history of anorexia nervosa is evaluated endocrinologically. Which of the following correctly describes the pathological effect of her condition on growth hormone secretion?",
+    "stem": "A patient with hyperthyroidism reports severe heat intolerance. Which physiological change most directly explains this symptom?",
     "options": [
-      "Anorexia nervosa decreases GH secretion by reducing somatostatin tone",
-      "Anorexia nervosa stimulates GH secretion as a pathological factor",
-      "Anorexia nervosa has no significant effect on GH secretion",
-      "Anorexia nervosa suppresses GH secretion by increasing free fatty acid levels"
+      "Increased basal metabolic rate",
+      "Reduced peripheral circulation",
+      "Suppressed mitochondrial activity",
+      "Impaired ATP consumption"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 11,
     "type": "mcq",
-    "stem": "Which of the following pharmacological agents acts as an alpha-adrenergic agonist and thereby STIMULATES growth hormone secretion?",
+    "stem": "A 14-year-old boy has rapid linear growth, enlarged extremities, and elevated GH levels prior to epiphyseal fusion. Which diagnosis is most likely?",
     "options": [
-      "Phentolamine",
-      "Isoproterenol",
-      "Clonidine",
-      "Propranolol"
+      "Pituitary gigantism",
+      "Achondroplasia",
+      "Acromegaly",
+      "Turner syndrome"
     ],
-    "answer": "C"
+    "answer": "A"
   },
   {
     "id": 12,
     "type": "mcq",
-    "stem": "Which pharmacological agent acts as a beta-adrenergic ANTAGONIST and is correctly classified as a pharmacological STIMULATOR of GH secretion?",
+    "stem": "Which finding most strongly supports a diagnosis of SIADH rather than diabetes insipidus?",
     "options": [
-      "Isoproterenol",
-      "Phentolamine",
-      "Clonidine",
-      "Propranolol"
+      "Low serum osmolality with concentrated urine",
+      "Hypernatremia with dilute urine",
+      "Polyuria with increased thirst",
+      "Low urine sodium with dehydration"
     ],
-    "answer": "D"
+    "answer": "A"
   },
   {
     "id": 13,
     "type": "mcq",
-    "stem": "JAK5-2, which is activated following GH receptor dimerization and binding, belongs to which specific kinase family?",
+    "stem": "A patient develops coarse facial features, enlarged hands, and deepened voice over several years. Which condition most likely explains these manifestations?",
     "options": [
-      "Src family of cytoplasmic tyrosine kinases",
-      "Janus family of cytoplasmic tyrosine kinases",
-      "Abl family of cytoplasmic tyrosine kinases",
-      "ZAP-70 family of cytoplasmic tyrosine kinases"
+      "Acromegaly",
+      "Gigantism",
+      "Addison disease",
+      "Cushing syndrome"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 14,
     "type": "mcq",
-    "stem": "In the JAK-STAT intracellular signaling cascade, the acronym STAT stands for:",
+    "stem": "During thyroid hormone synthesis, iodination occurs primarily within which structure?",
     "options": [
-      "Signal transducers and activators of translation",
-      "Signal transducers and activators of transcription",
-      "Serine-threonine activators of transcription",
-      "Signal transducers and amplifiers of transcription"
+      "Thyroglobulin in colloid",
+      "Mitochondrial matrix",
+      "Nuclear membrane",
+      "Smooth endoplasmic reticulum"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 15,
     "type": "mcq",
-    "stem": "The average daily output of growth hormone in adults is:",
+    "stem": "Which receptor subtype mediates the vasoconstrictive effects of vasopressin?",
     "options": [
-      "0.08 to 0.78 mg/day",
-      "0.10 to 0.88 mg/day",
-      "0.18 to 0.98 mg/day",
-      "0.28 to 1.08 mg/day"
+      "V1A receptor",
+      "V2 receptor",
+      "Beta-2 receptor",
+      "Mineralocorticoid receptor"
     ],
-    "answer": "C"
+    "answer": "A"
   },
   {
     "id": 16,
     "type": "mcq",
-    "stem": "The anterior pituitary (adenohypophysis) develops embryologically from which specific structure?",
+    "stem": "A patient with untreated pituitary insufficiency is most likely to experience which symptom during prolonged fasting?",
     "options": [
-      "A downward diverticulum of neuroepithelium from the floor of the third ventricle",
-      "An upward growth of pharyngeal epithelium called Rathke's pouch",
-      "Neural crest cells migrating from the ventral hypothalamic region",
-      "Ectodermal cells budding from the median eminence"
+      "Hypoglycemia",
+      "Hypercalcemia",
+      "Polycythemia",
+      "Metabolic alkalosis"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 17,
     "type": "mcq",
-    "stem": "The pituitary gland is connected to the median eminence of the hypothalamus by a tube-like structure. What is the correct name of this structure?",
+    "stem": "Which endocrine disorder is most strongly associated with bitemporal hemianopia?",
     "options": [
-      "The pituitary commissure",
-      "The hypophyseal portal vein",
-      "The infundibulum (pituitary stalk)",
-      "The hypothalamo-hypophyseal nervous tract"
+      "Pituitary adenoma",
+      "Pheochromocytoma",
+      "Primary aldosteronism",
+      "Parathyroid hyperplasia"
     ],
-    "answer": "C"
+    "answer": "A"
   },
   {
     "id": 18,
     "type": "mcq",
-    "stem": "Chromophobes, which are non-secretory cells, constitute what percentage of anterior pituitary cells?",
+    "stem": "A client with diabetes insipidus receives desmopressin. Which finding best indicates therapeutic effectiveness?",
     "options": [
-      "30%",
-      "40%",
-      "50%",
-      "60%"
+      "Reduced urine output",
+      "Increased respiratory rate",
+      "Elevated serum sodium",
+      "Decreased urine specific gravity"
     ],
-    "answer": "C"
+    "answer": "A"
   },
   {
     "id": 19,
     "type": "mcq",
-    "stem": "Lactotropes, which elaborate prolactin and double in size during pregnancy, constitute what percentage of anterior pituitary cells?",
+    "stem": "A nurse suspects thyroid storm in a hospitalized patient. Which assessment finding would support this suspicion?",
     "options": [
-      "5 to 15%",
-      "10 to 25%",
-      "15 to 30%",
-      "20 to 35%"
+      "Hyperthermia with severe tachycardia",
+      "Bradycardia with constipation",
+      "Hypothermia with lethargy",
+      "Tetany with positive Chvostek sign"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 20,
     "type": "mcq",
-    "stem": "Corticotropes, which secrete ACTH and related peptides, constitute what percentage of anterior pituitary cells?",
+    "stem": "Which hormone exerts permissive effects necessary for normal growth hormone secretion?",
     "options": [
-      "10 to 15%",
-      "12 to 18%",
-      "15 to 20%",
-      "18 to 25%"
+      "Thyroid hormone",
+      "Calcitonin",
+      "Aldosterone",
+      "Parathyroid hormone"
     ],
-    "answer": "C"
+    "answer": "A"
   },
   {
     "id": 21,
     "type": "mcq",
-    "stem": "The specialized vascular arrangement in which a capillary bed pools into another capillary bed through portal veins without first passing through the heart is called:",
+    "stem": "A patient with SIADH is expected to have which urine characteristic?",
     "options": [
-      "The hypothalamo-hypophyseal nervous tract",
-      "The hypothalamo-hypophyseal portal system",
-      "The superior hypophyseal arterial network",
-      "The infundibular venous plexus"
+      "Elevated urine specific gravity",
+      "Large amounts of ketones",
+      "Marked glucosuria",
+      "Absence of sodium"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 22,
     "type": "mcq",
-    "stem": "The cells that produce GHRH in the hypothalamus are specifically located in which nucleus?",
+    "stem": "Which pathological process most directly causes Sheehan syndrome?",
     "options": [
-      "Supraoptic nucleus",
-      "Periventricular nucleus",
-      "Paraventricular nucleus",
-      "Ventromedial nucleus"
+      "Pituitary ischemic necrosis",
+      "Autoimmune adrenal destruction",
+      "Parathyroid adenoma formation",
+      "Diffuse thyroid fibrosis"
     ],
-    "answer": "D"
+    "answer": "A"
   },
   {
     "id": 23,
     "type": "mcq",
-    "stem": "Somatostatin (GHIH) inhibits GH production through which specific intracellular mechanism?",
+    "stem": "A patient with Laron dwarfism is expected to demonstrate which laboratory profile?",
     "options": [
-      "By increasing production of cAMP and phosphatidyl inositol second messengers",
-      "By reducing production of cAMP and phosphatidyl inositol second messengers",
-      "By blocking GHRH receptor dimerization on somatotrope cell membranes",
-      "By activating protein kinase C through the phospholipid second messenger pathway"
+      "Normal GH with low IGF-1",
+      "Low GH with elevated IGF-1",
+      "Elevated cortisol with low GH",
+      "Suppressed TSH with high GH"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 24,
     "type": "mcq",
-    "stem": "A 16-year-old male with delayed bone age has normal GH levels but markedly low IGF-1. Regarding the nature of somatomedins and their receptor interactions, which of the following is most accurate?",
+    "stem": "Which electrolyte imbalance is most likely in untreated diabetes insipidus?",
     "options": [
-      "Somatomedins are lipophilic and bind directly to cytoplasmic nuclear receptors",
-      "IGF-1 is under full control of GH even in utero",
-      "Somatomedins are hydrophilic and attach to cell membrane receptors during signal transduction",
-      "Somatomedin receptors are G-protein coupled receptors using cAMP as second messenger"
+      "Hypernatremia",
+      "Hypocalcemia",
+      "Hypermagnesemia",
+      "Severe hypophosphatemia"
     ],
-    "answer": "C"
+    "answer": "A"
   },
   {
     "id": 25,
     "type": "mcq",
-    "stem": "Which specific IGF binding protein is primarily responsible for prolonging the half-life of somatomedins to approximately 20 hours?",
+    "stem": "Which hormone primarily stimulates expression of thyroid peroxidase?",
     "options": [
-      "IGF binding protein-1",
-      "IGF binding protein-2",
-      "IGF binding protein-3",
-      "IGF binding protein-4"
+      "TSH",
+      "ACTH",
+      "FSH",
+      "Prolactin"
     ],
-    "answer": "C"
+    "answer": "A"
   },
   {
     "id": 26,
     "type": "mcq",
-    "stem": "In the long loop negative feedback mechanism of GH regulation, which of the following correctly describes the sequence of events?",
+    "stem": "A patient develops severe hyponatremia secondary to SIADH. Which neurological manifestation is most concerning?",
     "options": [
-      "GH acts directly on the pituitary to stimulate production of GHRH",
-      "GH increases IGF-1 which acts on the pituitary via a long loop to inhibit further GH secretion",
-      "GH acts on the hypothalamus to decrease somatostatin production, restoring GH levels",
-      "IGF-1 acts on hypothalamus to increase GHRH and simultaneously decrease somatostatin"
+      "Seizures",
+      "Mild fatigue",
+      "Muscle twitching",
+      "Anxiety"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 27,
     "type": "mcq",
-    "stem": "Which of the following physiological factors DECREASES growth hormone secretion?",
+    "stem": "Which anatomical structure connects the two lobes of the thyroid gland?",
     "options": [
-      "Deep sleep (Stage III and IV)",
-      "Amino acid infusion with arginine",
-      "Elevated free fatty acids",
-      "Starvation and fasting"
+      "Isthmus",
+      "Infundibulum",
+      "Pituitary stalk",
+      "Parafollicular bridge"
     ],
-    "answer": "C"
+    "answer": "A"
   },
   {
     "id": 28,
     "type": "mcq",
-    "stem": "GH inhibits glycogenolysis in skeletal and cardiac muscles, producing what is termed a 'glucostatic effect.' Under which specific metabolic condition does this effect occur?",
+    "stem": "A client with acromegaly complains of increasing ring and shoe sizes. Which process best explains these changes?",
     "options": [
-      "Postprandial elevation of blood sugar",
-      "Stress-induced hyperglycemia with elevated catecholamines",
-      "Fasting conditions",
-      "Elevated free fatty acid states with ketogenesis"
+      "Soft tissue and periosteal overgrowth",
+      "Acute inflammatory edema",
+      "Peripheral arterial insufficiency",
+      "Excess aldosterone secretion"
     ],
-    "answer": "C"
+    "answer": "A"
   },
   {
     "id": 29,
     "type": "mcq",
-    "stem": "Which of the following most accurately describes the effect of growth hormone on protein metabolism?",
+    "stem": "Which condition is most strongly associated with chronic excess ADH secretion?",
     "options": [
-      "GH decreases amino acid transport into cells, inhibiting protein synthesis",
-      "GH stimulates protein catabolism and produces a negative nitrogen balance",
-      "GH increases amino acid transport and stimulates protein synthesis, producing a positive nitrogen balance",
-      "GH inhibits amino acid transport but promotes protein synthesis via direct nuclear receptor action"
+      "Small cell lung carcinoma",
+      "Hashimoto thyroiditis",
+      "Myasthenia gravis",
+      "Rheumatic fever"
     ],
-    "answer": "C"
+    "answer": "A"
   },
   {
     "id": 30,
     "type": "mcq",
-    "stem": "A 38-year-old patient with a 10-year history of untreated acromegaly is found to have insulin-dependent diabetes mellitus. Which mechanism best explains the diabetogenic effect of chronic GH excess?",
+    "stem": "Which thyroid cell type forms the follicular lining responsible for thyroid hormone synthesis?",
     "options": [
-      "GH directly destroys alpha cells of the pancreas through STAT3-mediated apoptosis",
-      "Continuous and sustained stimulation by GH may burn out beta cells, leading to diabetes mellitus",
-      "GH inhibits insulin gene transcription via the PI-3K pathway in pancreatic islets",
-      "GH causes immune-mediated destruction of pancreatic islets through IGF-2 excess"
+      "Thyrocytes",
+      "Parafollicular cells",
+      "Chromaffin cells",
+      "Pituicytes"
     ],
-    "answer": "B"
+    "answer": "A"
   },
+
   {
     "id": 31,
-    "type": "mcq",
-    "stem": "A gene locus also present on chromosome 17 encodes a GH variant that appears appreciably in maternal blood during pregnancy. This gene is designated:",
-    "options": [
-      "hGH-P gene",
-      "hGH-V gene",
-      "hGH-X gene",
-      "hGH-M gene"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "The enzyme responsible for converting iodide into iodine is thyroid __________.",
+    "answer": "peroxidase",
+    "acceptableAnswers": [
+      "peroxidase",
+      "thyroid peroxidase",
+      "TPO"
+    ]
   },
   {
     "id": 32,
-    "type": "mcq",
-    "stem": "The biologically active 20kDa variant of human GH, which constitutes 10% of circulating GH, differs from the standard 22kDa form by which specific structural alteration?",
-    "options": [
-      "Deletion of amino acids 25 to 40 from the sequence",
-      "Deletion of amino acids 28 to 42 from the sequence",
-      "Deletion of amino acids 32 to 46 from the sequence",
-      "Deletion of amino acids 35 to 50 from the sequence"
-    ],
-    "answer": "C"
+    "type": "fitb",
+    "stem": "The posterior pituitary hormone responsible for water reabsorption is __________.",
+    "answer": "vasopressin",
+    "acceptableAnswers": [
+      "vasopressin",
+      "ADH",
+      "arginine vasopressin"
+    ]
   },
   {
     "id": 33,
-    "type": "mcq",
-    "stem": "A nurse explains to a student how growth hormone causes elongation of long bones. Which of the following is the most accurate description of this mechanism?",
-    "options": [
-      "GH directly stimulates osteoclasts to resorb old bone, creating space for longitudinal elongation",
-      "GH causes elongation at the epiphyseal cartilage with elongation of the shaft, which pushes the epiphyses further apart",
-      "GH stimulates periosteal apposition of new bone through direct osteoblast activation alone",
-      "GH converts osteoclasts into chondrocytes, progressively increasing cartilage matrix thickness"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "The functional units of the thyroid gland are called __________.",
+    "answer": "follicles",
+    "acceptableAnswers": [
+      "follicles",
+      "thyroid follicles"
+    ]
   },
   {
     "id": 34,
-    "type": "mcq",
-    "stem": "After epiphyseal fusion occurs and longitudinal bone growth ceases, which of the following correctly describes the continued effect of GH on bone?",
-    "options": [
-      "Longitudinal growth continues at a reduced rate via periosteal endochondral mechanisms",
-      "All skeletal effects of GH cease completely after epiphyseal closure",
-      "Osteoblastic activity continues to thicken bones, especially the jaw and skull bone, by deposition of new bone on old",
-      "GH redirects bone growth to the axial skeleton through somatomedin-independent mechanisms"
-    ],
-    "answer": "C"
+    "type": "fitb",
+    "stem": "In SIADH, serum sodium is typically __________.",
+    "answer": "low",
+    "acceptableAnswers": [
+      "low",
+      "decreased",
+      "reduced"
+    ]
   },
   {
     "id": 35,
-    "type": "mcq",
-    "stem": "In the cyclic AMP second messenger pathway, the receptor coupled to G-proteins spans the plasma membrane how many times?",
-    "options": [
-      "Five times",
-      "Six times",
-      "Seven times",
-      "Eight times"
-    ],
-    "answer": "C"
+    "type": "fitb",
+    "stem": "The receptor subtype responsible for ADH-mediated water reabsorption is the __________ receptor.",
+    "answer": "V2",
+    "acceptableAnswers": [
+      "V2",
+      "V-2",
+      "V2 receptor"
+    ]
   },
   {
     "id": 36,
-    "type": "mcq",
-    "stem": "The calcium-calmodulin mechanism is described as unique in stimulating smooth muscle. Which pairing of agents MOST accurately reflects those that act through this mechanism?",
-    "options": [
-      "Vasopressin and beta-adrenergic catecholamines",
-      "Angiotensin II and alpha-adrenergic catecholamines",
-      "Glucagon and parathyroid hormone",
-      "GH and prolactin via cytokine receptor"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "A child with congenital hypothyroidism may develop severe mental retardation known as __________ if untreated.",
+    "answer": "cretinism",
+    "acceptableAnswers": [
+      "cretinism"
+    ]
   },
   {
     "id": 37,
-    "type": "mcq",
-    "stem": "In the phospholipid second messenger mechanism, phospholipase-C catalyzes hydrolysis of phosphatidyl inositol 4,5 diphosphate (PIP) to produce which two molecules?",
-    "options": [
-      "Inositol monophosphate (IP) and diacyl glycerol (DAG)",
-      "Inositol diphosphate (IP) and diacyl glycerol (DAG)",
-      "Inositol triphosphate (IP) and diacyl glycerol (DAG)",
-      "Inositol tetraphosphate (IP) and arachidonic acid"
-    ],
-    "answer": "C"
+    "type": "fitb",
+    "stem": "Growth hormone excess before epiphyseal closure results in pituitary __________.",
+    "answer": "gigantism",
+    "acceptableAnswers": [
+      "gigantism",
+      "pituitary gigantism"
+    ]
   },
   {
     "id": 38,
-    "type": "mcq",
-    "stem": "In the long and longest loop negative feedback inhibition mechanism of hormone regulation, the target hormone negatively inhibits the production of:",
-    "options": [
-      "Only the hypothalamic releasing hormone",
-      "Only the anterior pituitary trophic hormone",
-      "Both the releasing hormone and the trophic hormone",
-      "Only the ultra-short loop autocrine releasing factor"
-    ],
-    "answer": "C"
+    "type": "fitb",
+    "stem": "The storage granules found in the posterior pituitary are known as __________ bodies.",
+    "answer": "Herring",
+    "acceptableAnswers": [
+      "Herring",
+      "Herring bodies"
+    ]
   },
   {
     "id": 39,
-    "type": "mcq",
-    "stem": "Evidence suggests that vasopressin, oxytocin, and prolactin are able to control their own secretion through which type of feedback loop?",
-    "options": [
-      "Long loop negative feedback inhibition",
-      "Short loop negative feedback inhibition",
-      "Ultra-short loop negative feedback inhibition",
-      "Long loop positive feedback activation"
-    ],
-    "answer": "C"
+    "type": "fitb",
+    "stem": "ADH deficiency results in excretion of large volumes of __________ urine.",
+    "answer": "dilute",
+    "acceptableAnswers": [
+      "dilute"
+    ]
   },
   {
     "id": 40,
-    "type": "mcq",
-    "stem": "GH release from secretory vesicles via exocytosis is primarily triggered by the intermittent release of which hypothalamic substance?",
-    "options": [
-      "Ghrelin (28-amino acid GH secretagogue)",
-      "Somatostatin (GHIH)",
-      "Growth hormone releasing hormone (GHRH)",
-      "Dopamine (prolactin-inhibiting hormone)"
-    ],
-    "answer": "C"
+    "type": "fitb",
+    "stem": "The thyroid gland develops embryologically from the floor of the __________.",
+    "answer": "pharynx",
+    "acceptableAnswers": [
+      "pharynx"
+    ]
   },
+
   {
     "id": 41,
-    "type": "mcq",
-    "stem": "Following activation by JAK kinases, STAT proteins translocate into the nucleus to perform which specific function?",
-    "options": [
-      "Directly phosphorylate second messenger enzymes at the plasma membrane",
-      "Inhibit JAK kinase autophosphorylation as a negative feedback mechanism",
-      "Alter gene expression through transcription of mRNA",
-      "Stimulate receptor homodimerization and endocytosis"
-    ],
-    "answer": "C"
+    "type": "fitb",
+    "stem": "Oxytocin release during labor is enhanced by cervical __________.",
+    "answer": "dilatation",
+    "acceptableAnswers": [
+      "dilatation",
+      "dilation",
+      "cervical dilation"
+    ]
   },
   {
     "id": 42,
-    "type": "mcq",
-    "stem": "The MAPK (Mitogen-Activated Protein Kinase) pathway activated by GH receptor signaling, if not properly regulated, may progress to:",
-    "options": [
-      "Diabetes insipidus",
-      "Hypothyroidism",
-      "Cancer formation",
-      "Adrenal insufficiency"
-    ],
-    "answer": "C"
+    "type": "fitb",
+    "stem": "The major intracellular messenger activated by V2 receptors is __________.",
+    "answer": "cAMP",
+    "acceptableAnswers": [
+      "cAMP",
+      "cyclic AMP",
+      "cyclic adenosine monophosphate"
+    ]
   },
   {
     "id": 43,
-    "type": "mcq",
-    "stem": "Among all hypothalamic hypophysiotropic hormones, which one is uniquely an amino-acid derived neurotransmitter rather than a peptide, and serves as the principal prolactin-inhibiting hormone?",
-    "options": [
-      "Serotonin",
-      "Dopamine",
-      "Norepinephrine",
-      "Acetylcholine"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "The hormone that promotes iodide trapping in thyroid cells is __________.",
+    "answer": "TSH",
+    "acceptableAnswers": [
+      "TSH",
+      "thyroid stimulating hormone"
+    ]
   },
   {
     "id": 44,
-    "type": "mcq",
-    "stem": "Which pharmacological agent acts as a beta-adrenergic AGONIST and is correctly classified as a pharmacological INHIBITOR of GH secretion?",
-    "options": [
-      "Clonidine (alpha adrenergic agonist)",
-      "Propranolol (beta adrenergic antagonist)",
-      "Isoproterenol (beta adrenergic agonist)",
-      "Phentolamine (alpha adrenergic antagonist)"
-    ],
-    "answer": "C"
+    "type": "fitb",
+    "stem": "A deficiency of ADH commonly causes excessive thirst known as __________.",
+    "answer": "polydipsia",
+    "acceptableAnswers": [
+      "polydipsia"
+    ]
   },
   {
     "id": 45,
-    "type": "mcq",
-    "stem": "A 26-year-old female in active labour has uterine contractions causing progressive cervical dilatation, which stimulates further oxytocin production, intensifying contractions until delivery. This mechanism is an example of which type of hormonal regulation?",
-    "options": [
-      "Long loop negative feedback mechanism",
-      "Ultra-short loop negative feedback mechanism",
-      "Feed-forward control mechanism",
-      "Positive feedback control mechanism"
-    ],
-    "answer": "D"
+    "type": "fitb",
+    "stem": "The thyroid hormone with the greatest biological activity is __________.",
+    "answer": "T3",
+    "acceptableAnswers": [
+      "T3",
+      "triiodothyronine"
+    ]
   },
   {
     "id": 46,
-    "type": "mcq",
-    "stem": "Regarding the function of the hypothalamo-hypophyseal portal system, which of the following statements is most accurate?",
-    "options": [
-      "It allows only insignificant amounts of neurohormones to reach the anterior pituitary, directing most to peripheral circulation",
-      "It ensures significant amounts of neurohormones are transported from the median eminence to the anterior pituitary, with only insignificant amounts reaching peripheral circulation",
-      "It connects the posterior pituitary to the anterior pituitary via a portal venous plexus",
-      "The portal system supplies both the neurohypophysis and adenohypophysis with equal concentrations of neurohormones"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "The posterior pituitary hormones are structurally classified as __________ peptides.",
+    "answer": "nonapeptides",
+    "acceptableAnswers": [
+      "nonapeptides",
+      "nonapeptide"
+    ]
   },
   {
     "id": 47,
-    "type": "mcq",
-    "stem": "Growth hormone stimulates lipolysis from adipose tissue, releasing free fatty acids (FFA) for energy production. This fat mobilization provides an alternative energy source primarily during which metabolic states?",
-    "options": [
-      "Postprandial hyperglycemia, high carbohydrate diet, and sodium excess",
-      "Fasting, hypoglycaemia, and other stressful situations",
-      "Exercise recovery only, conserving amino acids for muscle repair",
-      "REM sleep only, driven by GH pulsatile nocturnal release"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "The major source of dietary iodine is __________ food.",
+    "answer": "sea",
+    "acceptableAnswers": [
+      "sea",
+      "seafood",
+      "marine"
+    ]
   },
   {
     "id": 48,
-    "type": "mcq",
-    "stem": "The human genome contains approximately how many nuclear receptors that mediate the action of steroid hormones, T4, eicosanoids, activated vitamin D, and related compounds?",
-    "options": [
-      "38 nuclear receptors",
-      "42 nuclear receptors",
-      "48 nuclear receptors",
-      "54 nuclear receptors"
-    ],
-    "answer": "C"
+    "type": "fitb",
+    "stem": "The syndrome caused by postpartum pituitary necrosis is called __________ syndrome.",
+    "answer": "Sheehan",
+    "acceptableAnswers": [
+      "Sheehan",
+      "Sheehan's"
+    ]
   },
   {
     "id": 49,
-    "type": "mcq",
-    "stem": "Among the following pathological conditions, which one is classified as a condition that DECREASES growth hormone secretion?",
-    "options": [
-      "Anorexia nervosa",
-      "Chronic renal failure",
-      "Acromegaly",
-      "Protein energy malnutrition"
-    ],
-    "answer": "C"
+    "type": "fitb",
+    "stem": "The hypothalamic nuclei primarily responsible for vasopressin production are the supraoptic and __________ nuclei.",
+    "answer": "paraventricular",
+    "acceptableAnswers": [
+      "paraventricular"
+    ]
   },
   {
     "id": 50,
-    "type": "mcq",
-    "stem": "A nurse assesses serum GH levels in patients across different age groups. Which of the following most accurately describes the lifetime pattern of GH plasma values?",
-    "options": [
-      "GH values are low at birth, rise linearly through childhood, and peak in the third decade",
-      "GH values are higher in early neonatal periods, fall during childhood, rise again at puberty, then fall again during aging",
-      "GH values remain constant from birth through puberty, then decline sharply after the sixth decade",
-      "GH values are lowest at birth and increase gradually throughout life, peaking in the fifth decade"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "A child with achondroplasia characteristically has short limbs and a relatively __________ trunk.",
+    "answer": "normal",
+    "acceptableAnswers": [
+      "normal"
+    ]
   },
+
   {
     "id": 51,
     "type": "mcq",
-    "stem": "Remodelling of bone after epiphyseal closure is instituted by osteoclasts. Meanwhile, osteoblastic activity continues to thicken which bones preferentially through deposition of new bone on the surface of old bone?",
+    "stem": "A patient with SIADH has persistent nausea, irritability, and confusion. Which pathophysiological process most directly causes these neurological findings?",
     "options": [
-      "Vertebrae and ribs via endosteal apposition",
-      "Long bones of the limbs through periosteal thickening",
-      "The jaw and skull bone through continued osteoblastic deposition",
-      "The carpal and tarsal bones through chondrocyte-to-osteoblast conversion"
+      "Cellular swelling from hypo-osmolality",
+      "Excess intracellular calcium accumulation",
+      "Reduced cerebral glucose utilization",
+      "Metabolic alkalosis-induced vasoconstriction"
     ],
-    "answer": "C"
+    "answer": "A"
   },
   {
     "id": 52,
     "type": "mcq",
-    "stem": "GH increases the absorption of which electrolytes from both the gastrointestinal and renal systems, conserving them for incorporation into growing cells?",
+    "stem": "A nurse caring for a patient with severe hyperthyroidism should prioritize monitoring for which cardiovascular complication?",
     "options": [
-      "Sodium and potassium",
-      "Calcium and phosphorus",
-      "Magnesium and chloride",
-      "Zinc and copper"
+      "Atrial fibrillation",
+      "Complete heart block",
+      "Pulseless electrical activity",
+      "Cardiac tamponade"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 53,
     "type": "mcq",
-    "stem": "A 19-year-old male presents with failure of pubertal development, inability to smell, mild sensorineural deafness, and cerebellar ataxia. His hypothalamus is structurally intact on MRI. Which condition does this constellation best represent?",
+    "stem": "Which finding most strongly differentiates acromegaly from gigantism?",
     "options": [
-      "Pan-hypopituitarism secondary to craniopharyngioma",
-      "Kallmann's syndrome due to isolated congenital GnRH deficiency",
-      "Sheehan's syndrome with selective gonadotrope destruction",
-      "Empty sella syndrome with secondary hypogonadism"
+      "Epiphyseal closure prior to hormone excess",
+      "Presence of elevated GH levels",
+      "Enlargement of soft tissues",
+      "Pituitary adenoma formation"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 54,
     "type": "mcq",
-    "stem": "In the phospholipid second messenger pathway, diacyl glycerol (DAG) directly activates which intracellular enzyme?",
+    "stem": "A patient with untreated diabetes insipidus is most likely to exhibit which urine specific gravity?",
     "options": [
-      "Protein kinase A",
-      "Adenyl cyclase",
-      "Protein kinase C",
-      "Phospholipase A2"
+      "1.001",
+      "1.030",
+      "1.045",
+      "1.050"
     ],
-    "answer": "C"
+    "answer": "A"
   },
   {
     "id": 55,
     "type": "mcq",
-    "stem": "Positive feedback control of hormone secretion is best illustrated physiologically by which of the following events?",
+    "stem": "Which physiological response occurs when plasma osmolality decreases significantly?",
     "options": [
-      "Cortisol inhibiting both CRH and ACTH production simultaneously",
-      "High oestradiol concentrations increasing LH pulse frequency and amplitude, producing the LH surge",
-      "GH stimulating IGF-1 production which subsequently inhibits further GH secretion",
-      "Rising TSH stimulating thyroid hormone production which then suppresses further TSH release"
+      "Suppression of ADH secretion",
+      "Activation of renin release",
+      "Enhanced aldosterone synthesis",
+      "Stimulation of thirst center"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 56,
     "type": "mcq",
-    "stem": "Most anterior pituitary hormones, hypothalamic releasing hormones, and parathyroid hormone act through the cyclic AMP second messenger mechanism. Which of the following hormones does NOT primarily use this pathway?",
+    "stem": "A patient with pituitary insufficiency exhibits loss of secondary sexual characteristics and cold intolerance. Which endocrine dysfunction most likely explains this presentation?",
     "options": [
-      "Parathyroid hormone",
-      "Glucagon",
-      "Vasopressin",
-      "Insulin"
+      "Panhypopituitarism",
+      "Primary hyperparathyroidism",
+      "Hyperaldosteronism",
+      "Isolated prolactinoma"
     ],
-    "answer": "D"
+    "answer": "A"
   },
   {
     "id": 57,
     "type": "mcq",
-    "stem": "A 60-year-old obese male with a BMI of 38 kg/m\u00b2 is found to have consistently suppressed GH levels despite appropriate stimulation testing. Which of the following best explains this finding?",
+    "stem": "Which factor inhibits oxytocin-mediated uterine contractions during pregnancy?",
     "options": [
-      "Obesity stimulates excess somatostatin through chronically elevated free fatty acid levels, suppressing GH",
-      "Obesity is itself a pathological factor that decreases GH secretion",
-      "Obesity stimulates excess GH through a mechanism similar to protein energy malnutrition",
-      "Obesity reduces GH binding protein levels, causing compensatory GH suppression"
+      "Progesterone",
+      "Estrogen",
+      "Prolactin",
+      "Relaxin"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 58,
     "type": "mcq",
-    "stem": "The feed-forward control mechanism of regulation, where signals are sent to modulate events in anticipation of an action, is MOST prevalent in which physiological system?",
+    "stem": "A client with chronic SIADH develops low serum osmolality. Which renal response would the nurse expect?",
     "options": [
-      "The endocrine system via hypothalamic releasing hormone anticipatory secretion",
-      "The renal system via anticipatory renin-angiotensin activation",
-      "The nervous control mechanism",
-      "The immune system via cytokine pre-activation"
+      "Continued production of concentrated urine",
+      "Complete absence of urinary sodium",
+      "Massive bicarbonate excretion",
+      "Marked potassium retention"
     ],
-    "answer": "C"
+    "answer": "A"
   },
   {
     "id": 59,
     "type": "mcq",
-    "stem": "The hypothalamus receives regulatory afferent impulses that modulate its function via norepinephrine, serotonin, acetylcholine, amino acids, and other neuropeptides. These impulses originate primarily from which anatomical pathway?",
+    "stem": "Which hormone directly stimulates milk ejection during breastfeeding?",
     "options": [
-      "Cerebral cortex via the thalamus, limbic system, reticular activating system, and optic system",
-      "Cerebellum via the dentate nucleus and superior cerebellar peduncle only",
-      "Brainstem via the locus coeruleus and dorsal raphe nuclei only",
-      "Pituitary gland via retrograde portal blood flow carrying trophic hormones"
+      "Oxytocin",
+      "Prolactin",
+      "FSH",
+      "LH"
     ],
     "answer": "A"
   },
   {
     "id": 60,
     "type": "mcq",
-    "stem": "Specialized folliculostellate cells recently identified in the anterior pituitary produce which cytokine that exhibits autocrine or paracrine actions?",
+    "stem": "A nurse suspects thyroid hormone deficiency in an infant. Which assessment finding most strongly supports this suspicion?",
     "options": [
-      "Interleukin-2 (IL-2)",
-      "Interleukin-4 (IL-4)",
-      "Interleukin-6 (IL-6)",
-      "Interleukin-10 (IL-10)"
+      "Macroglossia",
+      "Exophthalmos",
+      "Hyperactivity",
+      "Tachycardia"
     ],
-    "answer": "C"
+    "answer": "A"
   },
+
   {
     "id": 61,
-    "type": "mcq",
-    "stem": "A nursing student learns that GH secretion follows a sleep-related circadian rhythm. Which specific sleep stage(s) are directly associated with STIMULATION of GH secretion?",
-    "options": [
-      "Stage I and Stage II only (light sleep phases)",
-      "Stage II and Stage III only",
-      "Stage III and Stage IV (deep sleep), exhibiting circadian rhythm",
-      "REM (Rapid Eye Movement) sleep exclusively"
-    ],
-    "answer": "C"
+    "type": "fitb",
+    "stem": "The thyroid hormone responsible for increasing basal metabolic rate is primarily __________.",
+    "answer": "T3",
+    "acceptableAnswers": [
+      "T3",
+      "triiodothyronine"
+    ]
   },
   {
     "id": 62,
-    "type": "mcq",
-    "stem": "The MAPK (Mitogen-Activated Protein Kinase) pathway activated by GH proceeds via the product of which proto-oncogene to activate transcription factors that alter gene expression?",
-    "options": [
-      "myc proto-oncogene",
-      "ras proto-oncogene",
-      "src proto-oncogene",
-      "fos proto-oncogene"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "The condition characterized by inappropriate excessive ADH secretion is abbreviated __________.",
+    "answer": "SIADH",
+    "acceptableAnswers": [
+      "SIADH"
+    ]
   },
   {
     "id": 63,
-    "type": "mcq",
-    "stem": "When a primary target organ fails, feedback inhibition on the hypothalamus is lost. What is the direct consequence of this loss?",
-    "options": [
-      "Reduced production of all hormones throughout the axis due to negative feedback removal",
-      "Excessive production of hypothalamic hormone leading to excessive trophic hormone production",
-      "Ultra-short loop activation that restores normal hormone levels through autocrine inhibition",
-      "Compensatory reduction in hypothalamic releasing hormone through direct sensor mechanisms"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "The posterior pituitary hormone involved in uterine contraction is __________.",
+    "answer": "oxytocin",
+    "acceptableAnswers": [
+      "oxytocin"
+    ]
   },
   {
     "id": 64,
-    "type": "mcq",
-    "stem": "In cell signaling via cytoplasmic receptors, after the hormone-receptor complex enters the nucleus and stimulates mRNA transcription, the mRNA diffuses back into the cytoplasm. The resulting protein products function as:",
-    "options": [
-      "Second messengers that activate G-proteins at the cell surface",
-      "Enzymes, transport proteins, and structural proteins that modulate cell function",
-      "Transcription factors that re-enter the nucleus to amplify the original hormonal signal",
-      "Inhibitory proteins that compete with the hormone for receptor binding"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "The insertion of aquaporins allows the production of __________ urine.",
+    "answer": "concentrated",
+    "acceptableAnswers": [
+      "concentrated"
+    ]
   },
   {
     "id": 65,
-    "type": "mcq",
-    "stem": "The posterior pituitary (neurohypophysis) consists primarily of unmyelinated nerve fibres originating from cells of which hypothalamic nuclei?",
-    "options": [
-      "Ventromedial nucleus and arcuate nucleus",
-      "Periventricular nucleus and dorsomedial nucleus",
-      "Supraoptic (SON) and paraventricular (PVN) nuclei",
-      "Anterior nucleus and lateral hypothalamic area"
-    ],
-    "answer": "C"
+    "type": "fitb",
+    "stem": "The active transport of iodide into thyroid cells occurs against both electrical and __________ gradients.",
+    "answer": "chemical",
+    "acceptableAnswers": [
+      "chemical"
+    ]
   },
   {
     "id": 66,
-    "type": "mcq",
-    "stem": "In the phospholipid second messenger pathway, arachidonic acid derived from the lipid portion of DAG is hydrolyzed to produce:",
-    "options": [
-      "Cyclic AMP and cyclic GMP through adenyl cyclase activation",
-      "Several prostaglandins and other local hormones that have various actions in the body",
-      "Inositol triphosphate and calmodulin through phospholipase-C activation",
-      "Diacyl glycerol and protein kinase A through a positive feedback loop"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "The hormone excess responsible for acromegaly is __________ hormone.",
+    "answer": "growth",
+    "acceptableAnswers": [
+      "growth",
+      "GH",
+      "growth hormone"
+    ]
   },
   {
     "id": 67,
-    "type": "mcq",
-    "stem": "A 52-year-old male with stage 4 chronic renal failure is evaluated endocrinologically. Which of the following correctly describes the effect of chronic renal failure on GH secretion?",
-    "options": [
-      "Chronic renal failure decreases GH secretion through elevated IGF-1 feedback",
-      "Chronic renal failure stimulates GH secretion as a recognized pathological factor",
-      "Chronic renal failure has no clinically significant effect on GH secretion",
-      "Chronic renal failure decreases GH secretion by reducing hypothalamic GHRH release"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "A hallmark feature of diabetes insipidus is excessive urine output called __________.",
+    "answer": "polyuria",
+    "acceptableAnswers": [
+      "polyuria"
+    ]
   },
   {
     "id": 68,
-    "type": "mcq",
-    "stem": "Regarding the embryological fate of the intermediate lobe of the pituitary in humans, which of the following is most accurate?",
-    "options": [
-      "It remains fully functional throughout adult life, secreting alpha-MSH continuously",
-      "It differentiates into the neurohypophysis through neuroectodermal commitment",
-      "It is incorporated into the anterior lobe and develops capacity to produce POMC and ACTH",
-      "It regresses completely with no functional contribution to pituitary hormone secretion in adults"
-    ],
-    "answer": "C"
+    "type": "fitb",
+    "stem": "The major thyroid hormones are thyroxine and __________.",
+    "answer": "triiodothyronine",
+    "acceptableAnswers": [
+      "triiodothyronine",
+      "T3"
+    ]
   },
   {
     "id": 69,
-    "type": "mcq",
-    "stem": "Insulin and macrophage colony stimulating factor act through enzyme-linked cell membrane receptors (receptor tyrosine kinases). The key intracellular activation step in this mechanism involves:",
-    "options": [
-      "Heterodimerization with a second receptor followed by tyrosine kinase recruitment",
-      "Auto phosphorylation of tyrosine residues following hormone binding to the beta portion",
-      "G-protein activation followed by adenyl cyclase stimulation",
-      "JAK kinase recruitment through cytoplasmic domain interaction"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "The kidneys respond to vasopressin primarily through the distal tubule and __________ duct.",
+    "answer": "collecting",
+    "acceptableAnswers": [
+      "collecting"
+    ]
   },
   {
     "id": 70,
-    "type": "mcq",
-    "stem": "A nurse reads that hypergonadotropic situations are usually a secondary event in hypothalamic dysfunction. Which mechanism BEST explains why FSH and LH levels become elevated in primary target organ failure?",
-    "options": [
-      "Hypothalamic lesions directly stimulate gonadotrope cell hyperplasia in the pituitary",
-      "Primary target organ failure causes loss of feedback inhibition on the hypothalamus, leading to excessive hormone production",
-      "GnRH deficiency at the hypothalamic level causes compensatory pituitary LH and FSH oversecretion",
-      "Excess dopamine from hypothalamic dysfunction paradoxically stimulates gonadotrope activity"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "Increased estrogen during puberty eventually induces early __________ closure.",
+    "answer": "epiphyseal",
+    "acceptableAnswers": [
+      "epiphyseal"
+    ]
   },
+
   {
     "id": 71,
-    "type": "fitb",
-    "stem": "GHRH is a ___ amino acid polypeptide, while GHIH (somatostatin) has two variants: a ___ amino acid and a ___ amino acid polypeptide.",
-    "answer": "44, 14, 28",
-    "acceptableAnswers": [
-      "44, 14, 28",
-      "44-amino acid, 14-amino acid, 28-amino acid",
-      "forty-four, fourteen, twenty-eight"
-    ]
+    "type": "mcq",
+    "stem": "A patient with severe hypothyroidism presents with bradycardia, hypothermia, and altered mental status. Which life-threatening complication should the nurse suspect?",
+    "options": [
+      "Myxedema coma",
+      "Thyroid storm",
+      "Pheochromocytoma crisis",
+      "Acute adrenal crisis"
+    ],
+    "answer": "A"
   },
   {
     "id": 72,
-    "type": "fitb",
-    "stem": "Ghrelin is a ___-amino acid GH secretagogue peptide whose main site of production is the ___, although it is also produced in the hypothalamus.",
-    "answer": "28, stomach",
-    "acceptableAnswers": [
-      "28, stomach",
-      "28 amino acid, stomach",
-      "twenty-eight, stomach"
-    ]
+    "type": "mcq",
+    "stem": "Which receptor subtype mediates ACTH secretion stimulated by vasopressin?",
+    "options": [
+      "V1B receptor",
+      "V2 receptor",
+      "Beta-1 receptor",
+      "Alpha-2 receptor"
+    ],
+    "answer": "A"
   },
   {
     "id": 73,
-    "type": "fitb",
-    "stem": "The GH receptor is a ___-amino acid homodimer and is a member of the ___ receptor super family.",
-    "answer": "620, cytokine",
-    "acceptableAnswers": [
-      "620, cytokine",
-      "620 amino acid, cytokine",
-      "six hundred and twenty, cytokine"
-    ]
+    "type": "mcq",
+    "stem": "A patient with gigantism is most likely to exhibit which growth pattern?",
+    "options": [
+      "Generalized uniform growth",
+      "Selective cranial enlargement",
+      "Short limbs with normal trunk",
+      "Premature epiphyseal fusion"
+    ],
+    "answer": "A"
   },
   {
     "id": 74,
-    "type": "fitb",
-    "stem": "The basal serum GH level is less than ___ ng/ml in adults and less than ___ ng/ml in children.",
-    "answer": "3, 5",
-    "acceptableAnswers": [
-      "3, 5",
-      "3ng/ml, 5ng/ml",
-      "three, five"
-    ]
+    "type": "mcq",
+    "stem": "A client receiving excessive oxytocin infusion suddenly develops fetal bradycardia. Which nursing action is priority?",
+    "options": [
+      "Stop the oxytocin infusion",
+      "Increase infusion rate",
+      "Place the client supine",
+      "Administer potassium chloride"
+    ],
+    "answer": "A"
   },
   {
     "id": 75,
-    "type": "fitb",
-    "stem": "The pituitary gland is located in the ___ of the sphenoid bone, covered by a fold of dura matter called ___, and is connected to the hypothalamus by the infundibulum.",
-    "answer": "sella turcica, diaphragma sellae",
-    "acceptableAnswers": [
-      "sella turcica, diaphragma sellae",
-      "sella turcica, diaphragma sella"
-    ]
+    "type": "mcq",
+    "stem": "Which physiological effect is produced by ADH through V1A receptor activation?",
+    "options": [
+      "Vasoconstriction",
+      "Glucosuria",
+      "Bronchodilation",
+      "Lipolysis"
+    ],
+    "answer": "A"
   },
   {
     "id": 76,
-    "type": "fitb",
-    "stem": "Chromophobes constitute ___% of anterior pituitary cells, are ___ in nature, and stain poorly with haematoxylin or eosin.",
-    "answer": "50, non-secretory",
-    "acceptableAnswers": [
-      "50, non-secretory",
-      "50%, non-secretory",
-      "fifty, non-secretory"
-    ]
+    "type": "mcq",
+    "stem": "A patient with untreated pituitary insufficiency is most likely to have deficiencies of which hormones?",
+    "options": [
+      "ACTH, TSH, LH, FSH, GH",
+      "Calcitonin, glucagon, insulin",
+      "Melatonin, erythropoietin, renin",
+      "Parathyroid hormone, aldosterone, cortisol"
+    ],
+    "answer": "A"
   },
   {
     "id": 77,
-    "type": "fitb",
-    "stem": "STAT is an acronym that stands for signal ___ and ___ of transcription.",
-    "answer": "transducers, activators",
-    "acceptableAnswers": [
-      "transducers, activators",
-      "transduction, activation"
-    ]
+    "type": "mcq",
+    "stem": "Which endocrine abnormality most directly contributes to short stature in untreated childhood Cushing syndrome?",
+    "options": [
+      "Glucocorticoid inhibition of skeletal growth",
+      "Excess thyroid hormone secretion",
+      "Enhanced IGF-1 production",
+      "Increased epiphyseal cartilage formation"
+    ],
+    "answer": "A"
   },
   {
     "id": 78,
-    "type": "fitb",
-    "stem": "The hGH-N gene is located on the ___ arm of chromosome ___, in the q22-24 region.",
-    "answer": "long, 17",
-    "acceptableAnswers": [
-      "long, 17",
-      "long arm, chromosome 17",
-      "long arm, 17"
-    ]
+    "type": "mcq",
+    "stem": "A patient with SIADH is placed on fluid restriction. Which finding best indicates improvement?",
+    "options": [
+      "Gradual rise in serum sodium",
+      "Increased body weight",
+      "Reduced urine osmolality",
+      "Persistent confusion"
+    ],
+    "answer": "A"
   },
   {
     "id": 79,
-    "type": "fitb",
-    "stem": "The pituitary gland weighs ___ to ___ mg, and during pregnancy its size increases by about 30%.",
-    "answer": "450, 950",
-    "acceptableAnswers": [
-      "450, 950",
-      "450mg, 950mg",
-      "four hundred and fifty, nine hundred and fifty"
-    ]
+    "type": "mcq",
+    "stem": "Which thyroid hormone precursor contains numerous tyrosine residues?",
+    "options": [
+      "Thyroglobulin",
+      "Calcitonin",
+      "TRH",
+      "TSH"
+    ],
+    "answer": "A"
   },
   {
     "id": 80,
-    "type": "fitb",
-    "stem": "IGF binding protein-3 prolongs the half-life of somatomedins to about ___ hours, compared to GH itself which is loosely bound to proteins with a ___ half-life of 6 to 20 minutes.",
-    "answer": "20, short",
-    "acceptableAnswers": [
-      "20, short",
-      "twenty, short",
-      "20 hours, short"
-    ]
+    "type": "mcq",
+    "stem": "A patient with central diabetes insipidus is most at risk for which complication if water intake is restricted?",
+    "options": [
+      "Severe dehydration",
+      "Pulmonary edema",
+      "Hypercalcemia",
+      "Metabolic alkalosis"
+    ],
+    "answer": "A"
   },
+
   {
     "id": 81,
     "type": "fitb",
-    "stem": "GH is produced as a ___ in the ribosomes, stored in ___, and released by ___.",
-    "answer": "prohormone, secretory vesicles, exocytosis",
+    "stem": "The posterior pituitary stores but does not __________ ADH.",
+    "answer": "synthesize",
     "acceptableAnswers": [
-      "prohormone, secretory vesicles, exocytosis",
-      "pro-hormone, secretary vesicles, exocytosis"
+      "synthesize",
+      "produce",
+      "manufacture"
     ]
   },
   {
     "id": 82,
     "type": "fitb",
-    "stem": "Cells that produce GHRH are located in the ___ nucleus of the hypothalamus, while GHIH cell bodies are in the ___ nuclei.",
-    "answer": "ventromedial, periventricular",
+    "stem": "The principal mechanism responsible for water reabsorption in SIADH is increased __________ permeability.",
+    "answer": "collecting duct",
     "acceptableAnswers": [
-      "ventromedial, periventricular",
-      "ventromedial nucleus, periventricular nuclei"
+      "collecting duct",
+      "collecting-duct",
+      "collecting duct membrane"
     ]
   },
   {
     "id": 83,
     "type": "fitb",
-    "stem": "GH increases the concentration of circulating ___, which acts on the pituitary via a ___ loop mechanism to inhibit GH secretion.",
-    "answer": "IGF-1, long",
+    "stem": "Excessive GH secretion after puberty causes __________.",
+    "answer": "acromegaly",
     "acceptableAnswers": [
-      "IGF-1, long",
-      "IGF1, long loop",
-      "insulin-like growth factor 1, long"
+      "acromegaly"
     ]
   },
   {
     "id": 84,
     "type": "fitb",
-    "stem": "The ___ is the most richly vascularised of all mammalian tissues, receiving its blood supply from the superior, middle, and inferior ___ arteries.",
-    "answer": "anterior pituitary, hypophyseal",
+    "stem": "The thyroid gland is located immediately below the __________.",
+    "answer": "larynx",
     "acceptableAnswers": [
-      "anterior pituitary, hypophyseal",
-      "adenohypophysis, hypophyseal",
-      "anterior pituitary gland, hypophyseal"
+      "larynx"
     ]
   },
   {
     "id": 85,
     "type": "fitb",
-    "stem": "Kallmann's syndrome is caused by isolated congenital ___ deficiency, presenting with hypogonadism, ___, cerebellar ataxia, and sensorineural deafness.",
-    "answer": "GnRH, anosmia",
+    "stem": "The hormone responsible for maintaining pregnancy by inhibiting oxytocin receptor activity is __________.",
+    "answer": "progesterone",
     "acceptableAnswers": [
-      "GnRH, anosmia",
-      "gonadotropin releasing hormone, anosmia"
+      "progesterone"
     ]
   },
   {
     "id": 86,
     "type": "fitb",
-    "stem": "The posterior pituitary consists of unmyelinated nerve fibres from cells of the ___ (SON) and ___ (PVN) nuclei of the hypothalamus.",
-    "answer": "supraoptic, paraventricular",
+    "stem": "The major physiological stimulus for thirst in diabetes insipidus is increased plasma __________.",
+    "answer": "osmolality",
     "acceptableAnswers": [
-      "supraoptic, paraventricular",
-      "SON, PVN",
-      "supraoptic nucleus, paraventricular nucleus"
+      "osmolality",
+      "osmolarity"
     ]
   },
   {
     "id": 87,
     "type": "fitb",
-    "stem": "Somatomedins act in ___, ___, and ___ manner, with their receptors resembling insulin receptors.",
-    "answer": "endocrine, paracrine, autocrine",
+    "stem": "The hypothalamic hormone that stimulates TSH release is __________.",
+    "answer": "TRH",
     "acceptableAnswers": [
-      "endocrine, paracrine, autocrine",
-      "autocrine, paracrine, endocrine",
-      "paracrine, endocrine, autocrine"
+      "TRH",
+      "thyrotropin releasing hormone"
     ]
   },
   {
     "id": 88,
     "type": "fitb",
-    "stem": "Obesity ___ GH secretion, whereas protein energy malnutrition ___ GH secretion, both serving as pathological factors.",
-    "answer": "decreases, stimulates",
+    "stem": "The syndrome characterized by excess ADH secretion from lung tumors is often associated with __________ carcinoma.",
+    "answer": "small cell",
     "acceptableAnswers": [
-      "decreases, stimulates",
-      "reduces, increases",
-      "suppresses, stimulates"
+      "small cell",
+      "small-cell"
     ]
   },
   {
     "id": 89,
     "type": "fitb",
-    "stem": "In the phospholipid second messenger mechanism, inositol triphosphate (IP) mobilizes ___ from the ___ and mitochondria, which itself exerts a second messenger effect.",
-    "answer": "calcium, endoplasmic reticulum",
+    "stem": "The renal response to vasopressin ultimately produces __________ urine volume.",
+    "answer": "reduced",
     "acceptableAnswers": [
-      "calcium, endoplasmic reticulum",
-      "Ca2+, endoplasmic reticulum",
-      "calcium ions, endoplasmic reticulum"
+      "reduced",
+      "decreased",
+      "lower"
     ]
   },
   {
     "id": 90,
     "type": "fitb",
-    "stem": "The 20kDa hGH variant differs from the standard 22kDa form by deletion of amino acids ___ to ___ from the sequence, constituting ___% of all circulating GH.",
-    "answer": "32, 46, 10",
+    "stem": "Children with psychosocial dwarfism often improve after removal from the stressful __________.",
+    "answer": "environment",
     "acceptableAnswers": [
-      "32, 46, 10",
-      "32 to 46, 10%",
-      "thirty-two, forty-six, ten"
+      "environment",
+      "setting"
     ]
   },
+
   {
     "id": 91,
-    "type": "fitb",
-    "stem": "GH secretion occurs in a ___ manner and approximately ___% is loosely bound to plasma proteins known as GH-binding protein.",
-    "answer": "pulsatile, 50",
-    "acceptableAnswers": [
-      "pulsatile, 50",
-      "pulsatile manner, 50%",
-      "pulsatile, fifty"
-    ]
+    "type": "mcq",
+    "stem": "A client with untreated hyperthyroidism develops severe agitation, fever, and tachyarrhythmia. Which condition should the nurse suspect first?",
+    "options": [
+      "Thyroid storm",
+      "Myxedema coma",
+      "Diabetes insipidus",
+      "SIADH"
+    ],
+    "answer": "A"
   },
   {
     "id": 92,
-    "type": "fitb",
-    "stem": "The pituitary gland is also known as the ___.",
-    "answer": "hypophysis",
-    "acceptableAnswers": [
-      "hypophysis",
-      "the hypophysis"
-    ]
+    "type": "mcq",
+    "stem": "Which renal structure is most directly affected by vasopressin during water conservation?",
+    "options": [
+      "Collecting duct",
+      "Loop of Henle",
+      "Bowman's capsule",
+      "Glomerular capillary"
+    ],
+    "answer": "A"
   },
   {
     "id": 93,
-    "type": "fitb",
-    "stem": "GH reduces renal excretion of ___ and ___ ions, conserving them for incorporation into growing cells and tissues.",
-    "answer": "sodium (Na), potassium (K)",
-    "acceptableAnswers": [
-      "sodium, potassium",
-      "Na, K",
-      "sodium (Na), potassium (K)",
-      "Na+ and K+"
-    ]
+    "type": "mcq",
+    "stem": "A patient with SIADH would most likely demonstrate which combination of findings?",
+    "options": [
+      "Hyponatremia with decreased plasma osmolality",
+      "Hypernatremia with increased plasma osmolality",
+      "Hypocalcemia with metabolic alkalosis",
+      "Hyperkalemia with respiratory acidosis"
+    ],
+    "answer": "A"
   },
   {
     "id": 94,
-    "type": "fitb",
-    "stem": "GH secretion occurs in a ___ manner, reflecting the pulsatile release of GHRH.",
-    "answer": "pulsatile",
-    "acceptableAnswers": [
-      "pulsatile",
-      "pulsatile manner"
-    ]
+    "type": "mcq",
+    "stem": "A nurse is assessing a patient with pituitary gigantism. Which finding would be expected?",
+    "options": [
+      "Excessive height with proportional growth",
+      "Short limbs with bowed legs",
+      "Truncal obesity with moon facies",
+      "Severe exophthalmos"
+    ],
+    "answer": "A"
   },
   {
     "id": 95,
-    "type": "fitb",
-    "stem": "Somatomedins are mainly secreted by the ___ and to a smaller extent by other tissues including ___ and muscles.",
-    "answer": "liver, kidneys",
-    "acceptableAnswers": [
-      "liver, kidneys",
-      "liver, kidney",
-      "the liver, kidneys"
-    ]
+    "type": "mcq",
+    "stem": "Which endocrine organ has one of the highest rates of blood flow per gram of tissue?",
+    "options": [
+      "Thyroid gland",
+      "Adrenal medulla",
+      "Pancreas",
+      "Parathyroid gland"
+    ],
+    "answer": "A"
   },
   {
     "id": 96,
-    "type": "fitb",
-    "stem": "About ___% of circulating growth hormone is loosely bound to plasma proteins, specifically the GH-binding protein.",
-    "answer": "50",
-    "acceptableAnswers": [
-      "50",
-      "fifty",
-      "50%"
-    ]
+    "type": "mcq",
+    "stem": "A patient with severe dehydration has elevated ADH secretion. Which physiological outcome is expected?",
+    "options": [
+      "Increased water reabsorption",
+      "Increased sodium excretion",
+      "Suppressed thirst sensation",
+      "Reduced urine concentration"
+    ],
+    "answer": "A"
   },
   {
     "id": 97,
-    "type": "fitb",
-    "stem": "GH begins to exert its influence on IGF-1 ___, with plasma levels of IGF-1 rising through childhood, reaching a zenith at ___, and gradually falling in old age.",
-    "answer": "immediately postpartum, puberty",
-    "acceptableAnswers": [
-      "immediately postpartum, puberty",
-      "immediately after birth, puberty",
-      "postpartum, puberty"
-    ]
+    "type": "mcq",
+    "stem": "Which mechanism most directly contributes to concentrated urine formation under ADH influence?",
+    "options": [
+      "Insertion of aquaporins into luminal membranes",
+      "Suppression of sodium transporters",
+      "Reduced renal medullary gradient",
+      "Closure of collecting ducts"
+    ],
+    "answer": "A"
   },
   {
     "id": 98,
-    "type": "fitb",
-    "stem": "GHRH attaches to receptors on the cell membranes of somatotropes, leading to increases in production of ___, ___, and phosphatidyl inositol.",
-    "answer": "CAMP, Ca2+",
-    "acceptableAnswers": [
-      "CAMP, Ca2+",
-      "cAMP, calcium",
-      "cyclic AMP, Ca2+",
-      "CAMP, calcium"
-    ]
+    "type": "mcq",
+    "stem": "A patient with acromegaly develops glucose intolerance. Which hormone excess most directly contributes to this metabolic effect?",
+    "options": [
+      "Growth hormone",
+      "Calcitonin",
+      "Oxytocin",
+      "TSH"
+    ],
+    "answer": "A"
   },
   {
     "id": 99,
-    "type": "fitb",
-    "stem": "The anterior pituitary is derived from ___ arising from the pharyngeal epithelium (Rathke's pouch), while the posterior pituitary and hypothalamus develop as a ___ from the neuroepithelium of the base of the brain.",
-    "answer": "ectoderm, downward diverticulum",
-    "acceptableAnswers": [
-      "ectoderm, downward diverticulum",
-      "ectodermal tissue, downward diverticulum",
-      "ectoderm, diverticulum"
-    ]
+    "type": "mcq",
+    "stem": "A patient with untreated diabetes insipidus suddenly becomes hypotensive and tachycardic. Which complication is most likely occurring?",
+    "options": [
+      "Severe volume depletion",
+      "Hypervolemic shock",
+      "Acute pulmonary edema",
+      "SIADH crisis"
+    ],
+    "answer": "A"
   },
   {
     "id": 100,
-    "type": "fitb",
-    "stem": "In the short loop negative feedback mechanism, the ___ hormone inhibits the production of its ___ hormone, as exemplified by the effect of growth hormone on GHRH and somatostatin.",
-    "answer": "trophic, releasing",
-    "acceptableAnswers": [
-      "trophic, releasing",
-      "trophic hormone, releasing hormone"
-    ]
+    "type": "mcq",
+    "stem": "Which thyroid-related process requires hydrogen peroxide as an essential component?",
+    "options": [
+      "Oxidation of iodide to iodine",
+      "Secretion of calcitonin",
+      "Transport of T3 into plasma",
+      "Conversion of T4 to reverse T3"
+    ],
+    "answer": "A"
   }
 ]
