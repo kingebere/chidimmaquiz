@@ -1,922 +1,1094 @@
 [
-  {
-    "id": 1,
-    "type": "mcq",
-    "stem": "A 6-year-old child presents with bow legs, Harrison's sulcus, and delayed motor milestones. Serum calcium is 7.8 mg/dL. Which pathophysiological mechanism BEST explains the epiphyseal plate abnormality in this condition?",
-    "options": [
-      "Excessive osteoclastic resorption of the growth plate secondary to PTH hypersecretion",
-      "Inadequate mineralization of the epiphyseal plate due to vitamin D deficiency impairing calbidin-D synthesis",
-      "Premature fusion of the epiphysis with the diaphysis caused by hypocalcaemia-induced tetany"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 2,
-    "type": "mcq",
-    "stem": "A postmenopausal woman sustains a femoral neck fracture after minimal trauma. DEXA scan confirms osteoporosis. Which statement MOST accurately explains the hormonal mechanism underlying her increased fracture risk?",
-    "options": [
-      "Decreased calcitonin at menopause removes the inhibitory restraint on osteoclastic activity, directly causing bone loss",
-      "Loss of oestrogen removes the physiological restraint on bone turnover, disrupting the balance between resorption and formation, leading to net bone loss",
-      "Elevated PTH following oestrogen withdrawal directly stimulates osteoblasts via RANKL to increase bone resorption"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 3,
-    "type": "mcq",
-    "stem": "During thyroid surgery, the parathyroid glands are inadvertently removed. Forty-eight hours post-operatively, the patient develops carpopedal spasm. The nurse inflates a BP cuff to 20 mmHg above systolic pressure. Carpopedal spasm occurs within 3 minutes. Which of the following CORRECTLY describes what is happening at the neuronal membrane level?",
-    "options": [
-      "Elevated CaÂ²âº is increasing Naâº permeability across the axonal membrane, generating repetitive action potentials",
-      "Low CaÂ²âº is increasing Naâº permeability across the cell membrane, resulting in multiple action potentials and tetany",
-      "Low CaÂ²âº is reducing Kâº efflux, causing sustained membrane depolarisation and muscle contraction"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 4,
-    "type": "mcq",
-    "stem": "A 45-year-old patient on long-term prednisolone therapy develops low back pain. X-ray reveals vertebral compression fractures. Which combination of mechanisms BEST explains glucocorticoid-induced osteoporosis?",
-    "options": [
-      "Glucocorticoids stimulate osteoclasts directly AND increase PTH secretion, with prolonged use causing hypercalcaemia",
-      "Glucocorticoids reduce intestinal and renal CaÂ²âº and POâ absorption, inhibit osteoblastic protein synthesis, and with prolonged use cause osteoporosis despite initially lowering plasma CaÂ²âº by inhibiting osteoclasts",
-      "Glucocorticoids primarily inhibit 25-hydroxylase in the liver, blocking the first step of vitamin D activation and reducing calcitonin secretion"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 5,
-    "type": "mcq",
-    "stem": "A patient with chronic kidney disease has persistently elevated PTH levels. Which finding would you MOST expect regarding calcium and phosphate homeostasis in this patient?",
-    "options": [
-      "Hyperphosphataemia with hypocalcaemia, because damaged kidneys cannot convert 25HCC to 1,25 DHCC via 1Î±-hydroxylase, impairing the final PTH-dependent conversion step",
-      "Hyperphosphataemia with hypercalcaemia, because impaired phosphaturic effect of PTH results in phosphate retention that directly stimulates intestinal calcium absorption",
-      "Hypophosphataemia with normocalcaemia, because compensatory PTH maintains calcium through direct bone resorption while phosphaturia remains intact"
-    ],
-    "answer": "A"
-  },
-  {
-    "id": 6,
-    "type": "mcq",
-    "stem": "A nurse is testing for Chvostek's sign in a hypocalcaemic patient. The sign is elicited by tapping the facial nerve at the angle of the jaw, resulting in contraction of ipsilateral facial muscles. Which sign, when used to confirm hypocalcaemia, involves occlusion of blood flow to the hand for 3â5 minutes?",
-    "options": [
-      "Chvostek's sign, because it is considered more sensitive for detecting latent hypocalcaemia than carpopedal spasm",
-      "Trousseau's sign, involving inflation of a BP cuff to 20 mmHg above systolic with occlusion of arterial blood flow, producing carpopedal spasm",
-      "Trousseau's sign, involving inflation of the BP cuff to 20 mmHg below diastolic pressure for a minimum of 5 minutes"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 7,
-    "type": "mcq",
-    "stem": "Which cell type in the parathyroid gland is responsible for PTH secretion and is the MOST abundant throughout life?",
-    "options": [
-      "Oxyphil cells, which secrete PTH and appear at puberty with no other known function",
-      "Chief cells, which are the most abundant cells and secrete PTH throughout life",
-      "Parafollicular cells, which secrete PTH in response to low serum calcium levels"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 8,
-    "type": "mcq",
-    "stem": "Calcitonin is secreted in response to hypercalcaemia. Through which enzyme does calcitonin INHIBIT intestinal calcium absorption?",
-    "options": [
-      "25-hydroxylase, blocking conversion of Dâ to 25HCC in the liver",
-      "1Î±-hydroxylase, inhibiting the conversion of 25HCC to the active 1,25 DHCC in the kidneys",
-      "24-hydroxylase, diverting 25HCC toward the inactive 24,25 DHCC metabolite"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 9,
-    "type": "mcq",
-    "stem": "A student asks why PTH does not directly stimulate osteoclasts even though its major bone effect is to increase osteoclast number and activity. Which answer is MOST accurate?",
-    "options": [
-      "Osteoclasts lack PTH receptors; PTH binds to osteoblasts, stimulating RANKL and inhibiting osteoprotegerin (OPG), leading to a complex interaction that drives osteoclastogenesis",
-      "Osteoclasts have PTH receptors but only respond when PTH binds simultaneously with calcitonin, which acts as a co-receptor",
-      "PTH binds to osteocytes, which then release RANKL to stimulate osteoclasts indirectly through the Haversian canal"
-    ],
-    "answer": "A"
-  },
-  {
-    "id": 10,
-    "type": "mcq",
-    "stem": "A patient hyperventilates during an anxiety attack and develops perioral tingling and carpopedal spasm. Serum total calcium is normal at 9.2 mg/dL. What is the MOST likely explanation?",
-    "options": [
-      "Hyperventilation causes respiratory alkalosis; alkalinisation enhances protein binding of calcium, reducing free ionised CaÂ²âº and causing symptoms of hypocalcaemia despite normal total calcium",
-      "Hyperventilation causes hypercapnia; the resultant acidosis shifts calcium off proteins, raising free ionised CaÂ²âº and triggering neuromuscular excitability",
-      "Hyperventilation causes metabolic alkalosis; this directly inhibits PTH secretion, reducing total serum calcium below the threshold for tetany"
-    ],
-    "answer": "A"
-  },
-  {
-    "id": 11,
-    "type": "mcq",
-    "stem": "Vitamin Dâ is transported in the blood bound to which protein?",
-    "options": [
-      "Albumin, the predominant plasma transport protein for all fat-soluble vitamins",
-      "Globulin D-binding protein (DBP), a specific transport protein for cholecalciferol and its metabolites",
-      "Calbidin-D, the intestinal calcium-binding protein induced by active vitamin D"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 12,
-    "type": "mcq",
-    "stem": "A patient with a pituitary TSH-secreting adenoma presents with thyrotoxicosis. Which feature DISTINGUISHES this from Graves' disease?",
-    "options": [
-      "TSH levels will be elevated rather than suppressed, since the excess TSH comes from autonomous pituitary secretion not subject to negative feedback inhibition by thyroid hormones",
-      "TSH levels will be suppressed in both conditions, since high thyroid hormone levels uniformly inhibit TSH via the short-loop feedback mechanism regardless of cause",
-      "TSH levels will be undetectable in both conditions, but TSH receptor antibodies will be positive in the pituitary adenoma and absent in Graves' disease"
-    ],
-    "answer": "A"
-  },
-  {
-    "id": 13,
-    "type": "mcq",
-    "stem": "Graves' disease is characterised by the production of TSH receptor antibodies. Which cell type INITIATES this autoimmune cascade?",
-    "options": [
-      "B-lymphocytes directly recognise thyroid antigens and produce TSH receptor antibodies without T-lymphocyte involvement",
-      "The thyroid gland produces antigens that sensitise T-lymphocytes, which then stimulate B-lymphocytes to produce TSH receptor antibodies that activate TSH receptors",
-      "Parafollicular C-cells produce antigens that sensitise cytotoxic T-lymphocytes, leading to direct destruction followed by antibody-mediated stimulation"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 14,
-    "type": "mcq",
-    "stem": "In thyrotoxicosis, a patient's pulse pressure is noted to be widened. Which haemodynamic explanation is MOST accurate?",
-    "options": [
-      "Both systolic and diastolic pressure are elevated due to increased cardiac output, widening the pulse pressure proportionally",
-      "Systolic hypertension occurs due to increased cardiac output, but reduced peripheral vascular resistance lowers diastolic pressure, widening pulse pressure while mean arterial pressure remains relatively normal",
-      "Reduced cardiac contractility from thyroid hormone-induced myocardial damage causes compensatory vasoconstriction that selectively elevates systolic pressure"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 15,
-    "type": "mcq",
-    "stem": "A patient with hypothyroidism develops severe constipation and non-pitting oedema. The nurse notes the skin is dry, yellowish, and coarse. What accounts for the yellowish discolouration?",
-    "options": [
-      "Bilirubin accumulation from hypothyroid-induced hepatic dysfunction impairing conjugation and excretion",
-      "High plasma carotene levels resulting from reduced conversion of carotene to vitamin A due to decreased thyroid hormone activity",
-      "Melanin deposition triggered by elevated TSH, which shares structural homology with melanocyte-stimulating hormone"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 16,
-    "type": "mcq",
-    "stem": "In cretinism, permanent disability can be prevented if treatment begins early. Which congenital cause is associated with transplacental transfer of blocking anti-TSH receptor antibodies from a mother with autoimmune thyroiditis?",
-    "options": [
-      "This describes inborn error of thyroid hormone synthesis, since anti-TSH antibodies cannot cross the placenta due to their large molecular weight",
-      "This is one recognised cause of cretinism; blocking anti-TSH receptor antibodies from a mother with autoimmune thyroiditis can cross the placenta and suppress fetal thyroid function",
-      "This describes the mechanism of Graves' disease in the neonate, not cretinism, since stimulating rather than blocking antibodies cross the placenta"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 17,
-    "type": "mcq",
-    "stem": "A patient on long-term amiodarone therapy develops hypothyroidism. Which listed aetiology does this represent?",
-    "options": [
-      "Inborn error of thyroid hormone synthesis, since amiodarone structurally mimics thyroid hormones and competes with them at the receptor",
-      "Drug-induced hypothyroidism; amiodarone is listed among drugs like lithium that can cause hypothyroidism through excessive iodide load and Wolff-Chaikoff effect",
-      "Hypothalamic failure, since amiodarone inhibits TRH synthesis in the paraventricular nucleus"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 18,
-    "type": "mcq",
-    "stem": "TSH is released in a pulsatile manner approximately every 2 hours with a circadian pattern. At what time does the nocturnal surge of TSH occur?",
-    "options": [
-      "Between 10 PM and 2 AM, corresponding with the peak cortisol nadir when cortisol-mediated TSH inhibition is lowest",
-      "Between midnight (12 MN) and 4 AM, representing the physiological circadian peak of TSH secretion",
-      "Between 6 AM and 8 AM, coinciding with cortisol awakening response that synergistically augments TSH release"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 19,
-    "type": "mcq",
-    "stem": "Which is the CORRECT sequence of events in the PTH-induced bone resorption pathway?",
-    "options": [
-      "PTH â binds osteoclast PTH receptors â stimulates RANKL â inhibits OPG â osteoclastogenesis",
-      "PTH â binds osteoblast receptors â stimulates RANKL and inhibits OPG â OPG binds RANKL â complex interaction stimulates osteoclastogenesis",
-      "PTH â binds osteocyte receptors â releases sclerostin â stimulates osteoclast precursors â mature osteoclast activation"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 20,
-    "type": "mcq",
-    "stem": "A patient has De Toni Fanconi syndrome. Which mechanism would MOST likely lead to rickets in this condition?",
-    "options": [
-      "Malabsorption of dietary vitamin D from the gastrointestinal tract secondary to tubular dysfunction causing fat malabsorption",
-      "Congenital renal tubular dysfunction impairing phosphate reabsorption and the final 1Î±-hydroxylase step needed to activate vitamin D, leading to inadequate epiphyseal mineralisation",
-      "Autoimmune destruction of the parathyroid glands secondary to renal tubular acidosis, reducing PTH and causing rickets through hypocalcaemia alone"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 21,
-    "type": "mcq",
-    "stem": "Calcitonin's physiological role remains controversial. Which statement BEST reflects its mechanism of action on bone?",
-    "options": [
-      "Calcitonin primarily stimulates osteoblastic activity and drives calcium and phosphate entry into bone, with inhibition of osteoclasts as a secondary effect",
-      "The major action of calcitonin is inhibition of osteoclastic activity leading to decreased serum calcium, with further effects of stimulating calcium and phosphate entry into bone",
-      "Calcitonin acts primarily by inhibiting 1Î±-hydroxylase in the kidney, preventing vitamin D activation and thereby reducing calcium absorption from the gut"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 22,
-    "type": "mcq",
-    "stem": "A patient with extreme hypocalcaemia is admitted with laryngeal spasm. A prolonged QT interval is noted on ECG. Which ion is DIRECTLY responsible for the ECG changes?",
-    "options": [
-      "Magnesium, since hypocalcaemia typically coexists with hypomagnesaemia, and it is the magnesium deficit that prolongs ventricular repolarisation",
-      "Calcium, since low CaÂ²âº alters cardiac contractility and prolongs ventricular repolarisation, manifesting as a prolonged QT interval",
-      "Sodium, since the increased membrane permeability to Naâº in hypocalcaemia prolongs the action potential plateau phase, extending the QT interval"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 23,
-    "type": "mcq",
-    "stem": "Osteomalacia and rickets both result from vitamin D deficiency but differ in one critical aspect. Which statement is CORRECT?",
-    "options": [
-      "Rickets affects the inorganic bone matrix while osteomalacia affects the organic osteoid matrix; both occur at any age",
-      "Rickets occurs in children and involves inadequate mineralisation of the epiphyseal plate; osteomalacia is the equivalent in adults and presents with muscle and bone weakness, tenderness, and tetany without epiphyseal plate involvement",
-      "Osteomalacia involves excessive bone resorption leading to pathological fractures, while rickets involves reduced bone resorption due to impaired PTH response to low calcium"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 24,
-    "type": "mcq",
-    "stem": "The spongy (trabecular) inner layer of bone contains red marrow and forms what percentage of total bone?",
-    "options": [
-      "80%, leaving the outer compact bone to constitute 20% of total bone volume",
-      "20%, with the trabecular layer made of bone spicules containing red marrow",
-      "35%, corresponding to the organic matrix proportion of dry bone weight"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 25,
-    "type": "mcq",
-    "stem": "A patient's serum phosphate is low. According to phosphate regulation, which sequence of events would occur to restore phosphate to normal?",
-    "options": [
-      "Low POâ â inhibits PTH â decreases urinary POâ excretion â elevates plasma POâ â normalises via calcitonin suppression",
-      "Low POâ â directly stimulates active vitamin D â enhances POâ and Ca absorption from gut and renal tubules â elevated Ca inhibits PTH â reduces urinary POâ excretion â plasma POâ normalises",
-      "Low POâ â stimulates PTH â enhances POâ reabsorption in proximal tubule â reduces calcitonin â elevates plasma POâ"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 26,
-    "type": "mcq",
-    "stem": "Growth hormone promotes bone growth via IGF-I. Which statement about hormonal regulation of bone growth is MOST accurate?",
-    "options": [
-      "Oestrogen and testosterone inhibit bone growth by suppressing osteoblastic activity and promoting premature epiphyseal fusion",
-      "GH promotes Ca balance and IGF-I stimulates protein synthesis in bone; oestrogen and testosterone stimulate bone growth by inhibiting cytokines that enhance osteoclast development",
-      "Glucocorticoids stimulate bone growth by enhancing collagen synthesis in osteoblasts, while GH inhibits calcium absorption to maintain bone density"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 27,
-    "type": "mcq",
-    "stem": "A patient's serum PTH is markedly elevated. Through which renal mechanism does PTH cause hypophosphataemia?",
-    "options": [
-      "PTH increases phosphate reabsorption in the thick ascending limb, paradoxically causing urinary phosphate retention",
-      "PTH decreases reabsorption of phosphate from the proximal tubular epithelium, causing increased urinary phosphate excretion (phosphaturic effect), resulting in hypophosphataemia",
-      "PTH inhibits the Na-phosphate co-transporter in the distal tubule, causing phosphaturia and a compensatory increase in serum calcium"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 28,
-    "type": "mcq",
-    "stem": "Vitamin D acts as a lipid-soluble steroid. Through which molecular mechanism does 1,25 DHCC increase intestinal calcium absorption?",
-    "options": [
-      "1,25 DHCC binds to membrane receptors on enterocytes, activating adenylate cyclase and cAMP to rapidly insert calcium channels",
-      "1,25 DHCC binds to intracellular receptors, modulates cell genome, stimulates mRNA transcription leading to synthesis of calbidin-D proteins and Ca-H ATPase, which increase calcium absorption via active transport",
-      "1,25 DHCC acts as a co-factor for alkaline phosphatase in the brush border, enhancing passive calcium diffusion proportional to luminal calcium concentration"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 29,
-    "type": "mcq",
-    "stem": "The Haversian system is the functional unit of compact bone. Which component lies at the CENTRE of the osteon?",
-    "options": [
-      "Lacunae containing osteocytes surrounded by concentric lamellae of hydroxyapatite crystals",
-      "A central canal containing the vascular bundle, surrounded by concentric layers of collagen containing small cavities (lacunae) that house osteocytes",
-      "A canalicular network of osteocyte processes that communicate with adjacent Haversian systems via gap junctions"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 30,
-    "type": "mcq",
-    "stem": "A child with untreated hypothyroidism presents with dwarfism. Which skeletal finding on X-ray would be MOST consistent with cretinism?",
-    "options": [
-      "Widening of the epiphyseal plate with cupping and fraying of metaphyses, consistent with rickets",
-      "Absence of proximal tibial and distal femoral epiphyses, indicating retardation of bone growth",
-      "Generalised osteopenia with vertebral compression fractures due to hypocalcaemia from thyroid hormone deficiency"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 31,
-    "type": "fitb",
-    "stem": "PTH is synthesised as a _______________, which undergoes cleavage at the 25th amino acid and then at the 6th position to form the prohormone and the active hormone respectively.",
-    "answer": "preprohormone",
-    "acceptableAnswers": ["preprohormone", "pre-prohormone", "prepro-PTH"]
-  },
-  {
-    "id": 32,
-    "type": "fitb",
-    "stem": "The degradation of PTH begins in the parathyroid gland, continues in the _______________ cells of the liver, with final excretion via the kidneys.",
-    "answer": "Kupffer",
-    "acceptableAnswers": ["Kupffer", "kupffer"]
-  },
-  {
-    "id": 33,
-    "type": "fitb",
-    "stem": "In the Trousseau sign, carpopedal spasm manifests with flexion at the wrist, flexion at the MCP joints, extension of the _______________ joints, and adduction of thumbs and fingers.",
-    "answer": "IP",
-    "acceptableAnswers": ["IP", "interphalangeal", "inter-phalangeal"]
-  },
-  {
-    "id": 34,
-    "type": "fitb",
-    "stem": "The outer compact bone contains yellow marrow, and its functional unit is the osteon, also known as the _______________ system.",
-    "answer": "Haversian",
-    "acceptableAnswers": ["Haversian", "haversian"]
-  },
-  {
-    "id": 35,
-    "type": "fitb",
-    "stem": "Calcitonin is a single chain polypeptide containing _______________ amino acids, with a molecular weight of 3400.",
-    "answer": "32",
-    "acceptableAnswers": ["32", "thirty-two"]
-  },
-  {
-    "id": 36,
-    "type": "fitb",
-    "stem": "The inorganic matrix of bone constitutes _______________% of the weight of dry bone and consists of hydroxyapatites containing calcium and phosphate crystals.",
-    "answer": "65",
-    "acceptableAnswers": ["65", "sixty-five"]
-  },
-  {
-    "id": 37,
-    "type": "fitb",
-    "stem": "In the skin, vitamin Dâ (cholecalciferol) is synthesised endogenously from 7-dehydrocholesterol by ultraviolet light with a wavelength between _______________ and 300 nm.",
-    "answer": "270",
-    "acceptableAnswers": ["270", "two hundred and seventy"]
-  },
-  {
-    "id": 38,
-    "type": "fitb",
-    "stem": "The total plasma level of calcium is about _______________ mg/dl (2.1â2.6 mmol/l), regulated tightly within 3% of normal mean value.",
-    "answer": "8.5â10.5",
-    "acceptableAnswers": ["8.5â10.5", "8.5-10.5", "8.5 to 10.5"]
-  },
-  {
-    "id": 39,
-    "type": "fitb",
-    "stem": "Non-diffusible calcium is bound to plasma proteins, with albumin accounting for _______________% and globulin accounting for 20%, constituting about 40% of extracellular calcium.",
-    "answer": "80",
-    "acceptableAnswers": ["80", "eighty"]
-  },
-  {
-    "id": 40,
-    "type": "fitb",
-    "stem": "The _______________ is the protein synthesised by osteoblasts that has strong affinity for calcium and plays a key role in mineralisation of osteoid.",
-    "answer": "osteocalcin",
-    "acceptableAnswers": ["osteocalcin", "osteocalcin (gla-protein)", "bone gla protein"]
-  },
-  {
-    "id": 41,
-    "type": "fitb",
-    "stem": "Bone remodelling is a _______________ process that maintains dynamic equilibrium between resorption and formation of bone through small units called bone remodelling units.",
-    "answer": "lifelong",
-    "acceptableAnswers": ["lifelong", "life-long", "continuous", "ongoing"]
-  },
-  {
-    "id": 42,
-    "type": "fitb",
-    "stem": "The ground substance of the organic bone matrix is formed by fluid and proteoglycan made up of chondroitin phosphate and _______________.",
-    "answer": "hyaluronic acid",
-    "acceptableAnswers": ["hyaluronic acid", "hyaluronate", "hyaluronans"]
-  },
-  {
-    "id": 43,
-    "type": "fitb",
-    "stem": "PTH contains _______________ amino acids and is a single chain polypeptide that increases blood calcium through actions on bone, kidneys, and intestines.",
-    "answer": "84",
-    "acceptableAnswers": ["84", "eighty-four"]
-  },
-  {
-    "id": 44,
-    "type": "fitb",
-    "stem": "Vitamin D is classified as a _______________ soluble vitamin, and as such, its absorption from the gastrointestinal tract follows the same mechanism as dietary fats.",
-    "answer": "fat",
-    "acceptableAnswers": ["fat", "lipid", "fat-soluble"]
-  },
-  {
-    "id": 45,
-    "type": "fitb",
-    "stem": "The _______________ sign is elicited by stimulation of the facial nerve at the angle of the jaw, producing contraction of the ipsilateral muscles of the face in hypocalcaemia.",
-    "answer": "Chvostek's",
-    "acceptableAnswers": ["Chvostek's", "Chvostek", "chvostek's"]
-  },
-  {
-    "id": 46,
-    "type": "fitb",
-    "stem": "In hypothyroidism, the peculiar skin changes include dry, coarse, yellowish skin and non-pitting oedema, collectively referred to as _______________.",
-    "answer": "myxedema",
-    "acceptableAnswers": ["myxedema", "myxoedema"]
-  },
-  {
-    "id": 47,
-    "type": "fitb",
-    "stem": "Dâ is first converted in the liver to _______________ (calcidiol) by the 25-hydroxylase enzyme before undergoing further activation in the kidneys.",
-    "answer": "25-hydroxycholecalciferol",
-    "acceptableAnswers": ["25-hydroxycholecalciferol", "25HCC", "calcidiol", "25-hydroxy vitamin D"]
-  },
-  {
-    "id": 48,
-    "type": "fitb",
-    "stem": "In bone resorption, osteoclasts release _______________ and _______________ acids, causing acidification of the resorption microenvironment.",
-    "answer": "citric and lactic",
-    "acceptableAnswers": ["citric and lactic", "lactic and citric", "citric, lactic"]
-  },
-  {
-    "id": 49,
-    "type": "fitb",
-    "stem": "During fracture healing, when fractured bone ends are joined, a _______________ forms first, followed by acute inflammation and macrophage invasion leading to phagocytosis.",
-    "answer": "haematoma",
-    "acceptableAnswers": ["haematoma", "hematoma", "blood clot"]
-  },
-  {
-    "id": 50,
-    "type": "fitb",
-    "stem": "The new bone formed during fracture healing that fills the gap is called _______________ and is subsequently remodelled by osteoclasts removing excess material.",
-    "answer": "callus",
-    "acceptableAnswers": ["callus", "bony callus", "woven bone callus"]
-  },
-  {
-    "id": 51,
-    "type": "mcq",
-    "stem": "A case scenario: A 52-year-old woman with a 15-year history of rheumatoid arthritis has been on prednisolone 10 mg daily. She reports persistent back pain. Bone mineral density shows T-score of -2.8 at the lumbar spine. Her serum Ca is 8.6 mg/dL, POâ is 2.1 mg/dL, and ALP is elevated. Which mechanism MOST accurately explains the elevated ALP in this context?",
-    "options": [
-      "Elevated ALP reflects increased osteoclastic activity, since ALP is secreted by osteoclasts during bone resorption and correlates with the extent of glucocorticoid-induced bone loss",
-      "Elevated ALP reflects compensatory osteoblastic activity attempting to repair bone; ALP is secreted by osteoblasts and is involved in mineralisation of osteoid",
-      "Elevated ALP is a direct effect of prednisolone stimulating hepatic ALP isoenzyme production, with no relationship to bone formation or resorption"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 52,
-    "type": "mcq",
-    "stem": "A case scenario: A 28-year-old female nurse presents with palpitations, weight loss of 8 kg over 3 months, heat intolerance, and exophthalmos. TSH is undetectable. Free T4 is markedly elevated. She denies any thyroid medication use. Which SINGLE best diagnosis and pathogenesis applies?",
-    "options": [
-      "Toxic nodular goitre caused by autonomous TSH-independent thyroid hormone production from a solitary nodule, presenting with exophthalmos as a local compressive effect",
-      "Graves' disease caused by TSH receptor antibodies stimulating the thyroid, with exophthalmos resulting from orbital tissue swelling due to glycosaminoglycan accumulation, independent of thyroid hormone levels",
-      "Hashimoto's thyroiditis in the initial thyrotoxic phase, caused by follicular destruction releasing preformed thyroid hormones with secondary orbital inflammation"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 53,
-    "type": "mcq",
-    "stem": "A case scenario: A 4-month-old infant presents with poor feeding, hypotonia, prolonged jaundice, and an enlarged tongue. The mother had untreated autoimmune thyroiditis during pregnancy. Which clinical and radiological finding BEST supports the diagnosis?",
-    "options": [
-      "Wide cranial sutures with delayed closure on skull X-ray, consistent with hypothyroid-induced impaired membranous ossification",
-      "Absence of proximal tibial and distal femoral epiphyses on knee X-ray, indicating retardation of endochondral bone growth from congenital hypothyroidism",
-      "Epiphyseal plate widening with cupping of metaphyses on wrist X-ray, consistent with congenital rickets caused by transplacental anti-vitamin D antibodies"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 54,
-    "type": "mcq",
-    "stem": "A case scenario: A 65-year-old man post-thyroidectomy develops perioral numbness, muscle cramps, and a positive Trousseau sign on day 2. Serum calcium is 6.8 mg/dL. His serum magnesium is 0.6 mmol/L (low). Despite IV calcium infusion, symptoms persist. What is the MOST likely reason?",
-    "options": [
-      "IV calcium cannot correct hypoparathyroidism because PTH is required to activate vitamin D, and without PTH, intestinal absorption of supplemental calcium is impaired",
-      "Hypomagnesaemia impairs PTH secretion and its peripheral action; until magnesium is corrected, PTH-dependent calcium homeostasis cannot be restored",
-      "The parathyroid glands require at least 72 hours post-operatively to recover from surgical manipulation, regardless of magnesium levels"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 55,
-    "type": "mcq",
-    "stem": "A case scenario: A 40-year-old female presents with diffuse bone pain, muscle weakness, and bilateral femoral neck fractures. Investigations reveal low serum calcium (7.0 mg/dL), low serum phosphate (1.8 mg/dL), elevated PTH, low 25-hydroxyvitamin D, and elevated alkaline phosphatase. She has malabsorption syndrome. Which primary defect drives ALL the other abnormalities?",
-    "options": [
-      "Primary hyperparathyroidism causing secondary bone resorption, hypophosphataemia, and reducing 25-hydroxyvitamin D by competitive inhibition of 25-hydroxylase",
-      "Vitamin D deficiency from malabsorption causing hypocalcaemia, which secondarily drives PTH excess, phosphaturia, defective mineralisation, and elevated ALP from compensatory osteoblastic activity",
-      "Primary hypoparathyroidism causing hypocalcaemia, which secondarily reduces 1Î±-hydroxylase activity and elevates ALP through osteoblastic activation"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 56,
-    "type": "mcq",
-    "stem": "Which bone cell type is derived from monocytes, is multinucleated, contains abundant mitochondria and lysosomes, and is PRIMARILY responsible for bone resorption during remodelling?",
-    "options": [
-      "Osteoblasts derived from osteoprogenitor cells that also secrete alkaline phosphatase during mineralisation",
-      "Osteoclasts, giant multinucleated cells derived from monocytes responsible for bone resorption during bone remodelling",
-      "Osteocytes, derived from mature osteoblasts trapped in lacunae, which coordinate resorption through canalicular calcium exchange"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 57,
-    "type": "mcq",
-    "stem": "The regulation of vitamin D production occurs via a feedback control mechanism. Which statement is CORRECT regarding its regulatory pathway?",
-    "options": [
-      "Vitamin D regulation involves the anterior pituitary, which secretes a vitamin D-stimulating hormone analogous to TSH in thyroid regulation",
-      "Vitamin D secretion is regulated via a feedback control mechanism NOT involving the anterior pituitary; low CaÂ²âº and low phosphate stimulate while high levels inhibit vitamin D production",
-      "Vitamin D production is regulated solely by calcitonin levels; high calcitonin stimulates and low calcitonin inhibits 1Î±-hydroxylase activity in the kidneys"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 58,
-    "type": "mcq",
-    "stem": "A patient with thyrotoxicosis has menstrual abnormalities and infertility. Which system accounts for these reproductive changes?",
-    "options": [
-      "The hyperthyroid state elevates sex hormone-binding globulin, reducing free oestrogen, causing menstrual irregularities and anovulation",
-      "Hyperthyroidism directly affects the reproductive system, with menstrual abnormalities and infertility listed among thyrotoxicosis manifestations",
-      "Elevated thyroid hormones directly suppress LH and FSH release from the anterior pituitary through upregulation of inhibin B synthesis"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 59,
-    "type": "mcq",
-    "stem": "Osteoblasts secrete type I collagen, which arranges in regular arrays to form the organic matrix. What is this unmineralised organic matrix called before mineralisation?",
-    "options": [
-      "Osteon, which is the structural unit of compact bone that becomes mineralised",
-      "Osteoid, the organic matrix of collagen fibres that subsequently undergoes mineralisation with bone salts",
-      "Callus, the temporary woven bone matrix formed during fracture repair before remodelling"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 60,
-    "type": "mcq",
-    "stem": "In patients with non-toxic goitre, the thyroid enlargement is attributed to TSH overstimulation. Excessive TSH stimulation causes accumulation of which substance in the follicular colloid?",
-    "options": [
-      "Iodinated tyrosine residues that accumulate when iodination proceeds faster than secretion under TSH stimulation",
-      "Thyroglobulin, which accumulates in the colloid when excessive TSH stimulation results in large amounts building up and enlarging the thyroid gland",
-      "Calcitonin precursors stored in parafollicular cells that accumulate when TSH cross-stimulates C-cell secretion"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 61,
-    "type": "fitb",
-    "stem": "Vitamin D deficiency in children causes _______________, while the same deficiency in adults causes osteomalacia.",
-    "answer": "rickets",
-    "acceptableAnswers": ["rickets", "Rickets"]
-  },
-  {
-    "id": 62,
-    "type": "fitb",
-    "stem": "The final active form of vitamin D, 1,25 DHCC, is also known as _______________ and is produced in the mitochondria of proximal tubule cells of the kidney.",
-    "answer": "calcitriol",
-    "acceptableAnswers": ["calcitriol", "1,25 dihydroxycholecalciferol", "1,25-DHCC"]
-  },
-  {
-    "id": 63,
-    "type": "fitb",
-    "stem": "TSH is a glycoprotein with two subunits Î± and Î². The Î± subunit is identical to that of LH, FSH and _______________.",
-    "answer": "hCG",
-    "acceptableAnswers": ["hCG", "human chorionic gonadotropin", "HCG", "chorionic gonadotropin"]
-  },
-  {
-    "id": 64,
-    "type": "fitb",
-    "stem": "Osteoporosis is characterised by loss of _______________ and mineral, with eventual loss of strength leading to pathological fractures.",
-    "answer": "bone matrix",
-    "acceptableAnswers": ["bone matrix", "matrix", "organic matrix"]
-  },
-  {
-    "id": 65,
-    "type": "fitb",
-    "stem": "In calcium homeostasis, the _______________ acts as a physiological restraint on bone turnover in women, holding the balance between bone resorption and bone formation.",
-    "answer": "oestrogen",
-    "acceptableAnswers": ["oestrogen", "estrogen", "oestrogens", "estrogens"]
-  },
-  {
-    "id": 66,
-    "type": "fitb",
-    "stem": "Phosphate in the plasma is filtered in the glomerulus where _______________% is reabsorbed in the proximal tubules, with urinary excretion forming a major component of phosphate regulation.",
-    "answer": "85â90",
-    "acceptableAnswers": ["85â90", "85-90", "85 to 90"]
-  },
-  {
-    "id": 67,
-    "type": "fitb",
-    "stem": "The Graves' disease skin change involving localised peritibial thickening due to accumulation of mucopolysaccharides is called _______________ myxoedema.",
-    "answer": "pretibial",
-    "acceptableAnswers": ["pretibial", "pre-tibial", "peritibial"]
-  },
-  {
-    "id": 68,
-    "type": "fitb",
-    "stem": "PTH acts on bone mainly via cAMP second messenger system after binding to _______________ receptors, since osteoclasts are deficient in PTH receptors.",
-    "answer": "osteoblast",
-    "acceptableAnswers": ["osteoblast", "osteoblasts", "osteoblastic"]
-  },
-  {
-    "id": 69,
-    "type": "fitb",
-    "stem": "In the intestine, vitamin D stimulates synthesis of _______________ proteins and increases the number of CaÂ²âº-Hâº ATPase molecules in intestinal cells to enhance calcium absorption.",
-    "answer": "calbidin-D",
-    "acceptableAnswers": ["calbidin-D", "calbindin-D", "calbidin D", "calcium-binding proteins", "calbidin"]
-  },
-  {
-    "id": 70,
-    "type": "fitb",
-    "stem": "In bone fracture healing, following haematoma formation and acute inflammation, granular tissue formation, _______________, and formation of new osteoblasts occur.",
-    "answer": "neovascularisation",
-    "acceptableAnswers": ["neovascularisation", "neovascularization", "vascularisation", "angiogenesis"]
-  },
-  {
-    "id": 71,
-    "type": "fitb",
-    "stem": "Calcitonin is secreted when plasma calcium rises above _______________ mg/dl and also in response to Î² adrenergic agonists, dopamine, gastrin, and cholecystoknin.",
-    "answer": "9.5",
-    "acceptableAnswers": ["9.5", "9.5 mg/dl"]
-  },
-  {
-    "id": 72,
-    "type": "fitb",
-    "stem": "The _______________ are the principal cells of developed bone, derived from mature osteoblasts, whose cytoplasmic processes form canaliculi to maintain CaÂ²âº exchange between bone and ECF.",
-    "answer": "osteocytes",
-    "acceptableAnswers": ["osteocytes", "osteocyte"]
-  },
-  {
-    "id": 73,
-    "type": "fitb",
-    "stem": "In hypothyroidism, the haemopoietic system is affected primarily through anaemia, caused by mechanisms including impaired _______________, iron deficiency from excessive menstrual blood loss, and folate deficiency.",
-    "answer": "erythropoietin",
-    "acceptableAnswers": ["erythropoietin", "erythropoiesis", "EPO"]
-  },
-  {
-    "id": 74,
-    "type": "fitb",
-    "stem": "The _______________ and _______________ bones are the sites where trabecular bone predominates and are therefore most commonly affected in osteoporosis, along with the vertebrae.",
-    "answer": "femoral neck and distal tibia",
-    "acceptableAnswers": ["femoral neck and distal tibia", "distal tibia and femoral neck", "femoral neck, distal tibia"]
-  },
-  {
-    "id": 75,
-    "type": "fitb",
-    "stem": "PTH directly activates the formation of active Vitamin D in the kidneys, which in turn stimulates increased calcium absorption from the _______________.",
-    "answer": "intestine",
-    "acceptableAnswers": ["intestine", "gut", "gastrointestinal tract", "small intestine"]
-  },
-  {
-    "id": 76,
-    "type": "mcq",
-    "stem": "A case scenario: A 70-year-old woman is found to have serum Ca 11.8 mg/dL, low serum POâ, elevated PTH, and a 2 cm neck mass. She has no symptoms but her DEXA scan shows T-score of -2.5. Bone biopsy shows increased osteoclastic activity. Which statement about PTH's bone mechanism is MOST relevant?",
-    "options": [
-      "High-dose PTH exposure, as in primary hyperparathyroidism, continuously inhibits osteoclastic activity but activates osteoblasts, explaining the bone loss seen paradoxically",
-      "Continuous PTH elevation inhibits osteoblastic activity via direct receptor stimulation, induces osteolytic enzymes, acidifies the bone microenvironment, and releases phosphates; while in small doses PTH may stimulate bone formation",
-      "PTH in hyperparathyroidism primarily stimulates calcitonin production from parafollicular cells, which then paradoxically activates osteoclasts in the presence of very high calcium"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 77,
-    "type": "mcq",
-    "stem": "A case scenario: A 35-year-old woman is admitted with seizures. Serum calcium is 5.4 mg/dL. She has a history of thyroid surgery 6 months ago. Her PTH is undetectable. Phosphate is elevated. Which is the MOST likely cause of elevated phosphate in this specific scenario?",
-    "options": [
-      "Elevated phosphate results from vitamin D excess following surgery, since removal of the thyroid destroys calcitonin-producing cells, removing the inhibitory effect on intestinal phosphate absorption",
-      "In hypoparathyroidism, the absence of PTH means its phosphaturic effect is lost; without PTH decreasing proximal tubular phosphate reabsorption, phosphate is retained causing hyperphosphataemia",
-      "Elevated phosphate results from post-surgical inflammation releasing phosphate from intracellular stores into the extracellular compartment"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 78,
-    "type": "mcq",
-    "stem": "A patient's ECG shows low-voltage T waves, P waves, and QRS complexes. The patient has cold intolerance, weight gain, and bradycardia. Which metabolic explanation is MOST accurate for the ECG changes?",
-    "options": [
-      "Myxoedema is associated with pericardial effusion and hyperlipidaemia, which cause ECG changes through increased myocardial resistance and prolonged conduction time",
-      "Hypofunction of the thyroid gland causes bradycardia, impaired cardiac contractility, reduced cardiac output, and increased peripheral resistance, with ECG changes of low-voltage T-wave, P-wave, and QRS complex",
-      "Hypothyroid-associated anaemia reduces haemoglobin's oxygen-carrying capacity, causing myocardial ischaemia that selectively reduces QRS and T-wave voltages"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 79,
-    "type": "mcq",
-    "stem": "Which of the following CORRECTLY describes the structural difference between the alpha and beta subunits of TSH?",
-    "options": [
-      "The beta subunit is identical to that of LH, FSH, and hCG, while the alpha subunit confers biological and immunological specificity to TSH",
-      "The alpha subunit is identical to the alpha subunit of LH, FSH, and hCG; the beta subunit is unique to TSH and confers biological specificity",
-      "Both alpha and beta subunits of TSH are structurally identical to those of LH and FSH, with specificity determined only by post-translational glycosylation patterns"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 80,
-    "type": "mcq",
-    "stem": "Hydatidiform mole can cause hyperthyroidism. What is the structural basis for this?",
-    "options": [
-      "Hydatidiform mole cells directly infiltrate thyroid follicles, stimulating autonomous thyroid hormone production independent of TSH",
-      "The alpha subunit of hCG produced in large amounts by the mole is structurally similar to the alpha subunit of TSH, stimulating TSH receptors on the thyroid to increase hormone production",
-      "hCG's beta subunit binds specifically to TSH receptors with higher affinity than TSH itself, causing permanent receptor activation and irreversible thyrotoxicosis"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 81,
-    "type": "mcq",
-    "stem": "In integrated regulation of blood calcium, 98â99% of filtered CaÂ²âº is reabsorbed. From which specific tubular segments does this reabsorption occur?",
-    "options": [
-      "Primarily the collecting duct (60%) under aldosterone control, with the remainder from the proximal tubule and loop of Henle",
-      "From the proximal tubules, ascending limb of loop of Henle, and distal tubule, with only a small amount excreted in urine",
-      "Exclusively from the distal tubule and connecting tubule under PTH control, with the proximal tubule playing no role in calcium reabsorption"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 82,
-    "type": "mcq",
-    "stem": "Which statement about osteoblasts is MOST accurate based on the document?",
-    "options": [
-      "Osteoblasts are giant multinucleated cells derived from monocytes that secrete type I collagen and drive mineralisation through alkaline phosphatase secretion",
-      "Osteoblasts arise from osteoprogenitor cells and are modified fibroblasts responsible for synthesis of collagen, proteins involved in matrix formation, and enhance mineralisation via secretion of alkaline phosphatase, glaprotein, and osteopontin",
-      "Osteoblasts are the principal cells of developed bone that form canaliculi enabling tight junction communication with adjacent osteoblasts to regulate CaÂ²âº exchange"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 83,
-    "type": "mcq",
-    "stem": "The TSH half-life is maintained at 60 minutes. What structural feature is responsible for this?",
-    "options": [
-      "The disulfide bonds between alpha and beta subunits create a stable tertiary structure resistant to plasma proteases, ensuring the 60-minute half-life",
-      "The incorporation of carbohydrate residues during post-translational glycosylation in the rough endoplasmic reticulum and Golgi apparatus maintains the TSH half-life at 60 minutes",
-      "The unique beta subunit structure of TSH prevents renal filtration by conferring a molecular weight exceeding the glomerular filtration threshold"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 84,
-    "type": "mcq",
-    "stem": "Vitamin D's effect on skeletal muscle includes increasing calcium and phosphate uptake by the sarcoplasmic reticulum. What clinical consequence follows vitamin D deficiency in muscle?",
-    "options": [
-      "Muscle hypertonia and cramps due to impaired sarcoplasmic reticulum calcium uptake causing calcium excess in the cytoplasm",
-      "Muscle weakness and electromyographic changes, due to impaired sarcoplasmic reticulum calcium and phosphate uptake from vitamin D deficiency",
-      "Muscle fasciculations and peripheral neuropathy due to demyelination caused by reduced vitamin D's neurotrophic effects on Schwann cells"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 85,
-    "type": "mcq",
-    "stem": "In hypothyroidism, the gastrointestinal manifestation of chronic constipation occurs through which mechanism?",
-    "options": [
-      "Myxoedema of the bowel wall increases intestinal wall thickness, mechanically obstructing peristaltic waves",
-      "Hypothyroidism causes reduced impulse transmission along the neuromuscular junction and impaired peristaltic waves, leading to chronic constipation",
-      "Reduced thyroid hormone lowers cAMP levels in intestinal smooth muscle, decreasing contractile protein sensitivity to calcium-dependent activation"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 86,
-    "type": "mcq",
-    "stem": "A patient with Graves' disease shows periorbital oedema and proptosis. This ocular change is INDEPENDENT of thyroid hormone levels and results from which mechanism?",
-    "options": [
-      "TSH receptor antibodies cross-react with orbital fibroblasts, stimulating glycosaminoglycan production and orbital tissue swelling leading to exophthalmos",
-      "High circulating T4 levels cause vasodilation of orbital vessels, leading to orbital oedema and mechanical proptosis that resolves with treatment of thyrotoxicosis",
-      "Elevated TSH (due to inadequate negative feedback) stimulates orbital tissue TSH receptors, causing glycosaminoglycan accumulation and exophthalmos"
-    ],
-    "answer": "A"
-  },
-  {
-    "id": 87,
-    "type": "mcq",
-    "stem": "The intracellular concentration of calcium is approximately how much lower than extracellular calcium, and which mechanisms maintain this gradient?",
-    "options": [
-      "Approximately 1,000 times lower; maintained by CaÂ²âº-ATPase pumps in the cell membrane and mitochondrial sequestration",
-      "Approximately 10,000 times lower; this physiological gradient is maintained by Na-Ca exchangers and ATP-dependent calcium pumps",
-      "Approximately 100 times lower; maintained exclusively by the sarcoplasmic reticulum CaÂ²âº-ATPase (SERCA) pump in all cell types"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 88,
-    "type": "mcq",
-    "stem": "Phosphate absorption from the gut differs from calcium absorption. Which statement MOST accurately distinguishes phosphate from calcium absorption?",
-    "options": [
-      "Phosphate absorption is inversely proportional to dietary phosphate intake, unlike calcium where absorption rate is directly proportional to intake",
-      "Unlike calcium, net phosphate absorption is constant and has a direct relationship with dietary intake; many stimuli that increase CaÂ²âº absorption also increase phosphate absorption",
-      "Phosphate absorption is exclusively via passive diffusion in the duodenum, unlike calcium which requires active transport through a vitamin D-dependent mechanism"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 89,
-    "type": "mcq",
-    "stem": "Vitamin D has immunomodulatory effects. Which cells OTHER than kidneys can synthesise 1,25 DHCC?",
-    "options": [
-      "Osteoblasts and chondrocytes, since bone cells express 1Î±-hydroxylase to locally regulate bone mineralisation",
-      "Placenta, keratinocytes, macrophages and monocytes, which serve as other sources of 1,25 DHCC",
-      "T-lymphocytes and natural killer cells, which upregulate 1Î±-hydroxylase during acute infections to locally enhance immune function"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 90,
-    "type": "mcq",
-    "stem": "Which of the following is NOT listed as a physiological function of calcium in the document?",
-    "options": [
-      "Acts as a second messenger regulating hormone action and is involved in release of neurotransmitters",
-      "Inhibits renin secretion from juxtaglomerular cells to regulate blood pressure through the renin-angiotensin system",
-      "Acts as a coenzyme in various enzymic reactions and may be involved in the generation of action potentials"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 91,
-    "type": "fitb",
-    "stem": "In Graves' disease, ophthalmic dysfunction occurs in about _______________ of patients and may precede the onset of thyrotoxicosis.",
-    "answer": "half",
-    "acceptableAnswers": ["half", "50%", "one half"]
-  },
-  {
-    "id": 92,
-    "type": "fitb",
-    "stem": "The total body calcium is about 1.1 kg (27.5 mmol), of which about _______________% is in bone and teeth.",
-    "answer": "99",
-    "acceptableAnswers": ["99", "ninety-nine"]
-  },
-  {
-    "id": 93,
-    "type": "fitb",
-    "stem": "When plasma calcium falls, PTH is stimulated and acts on bone, kidneys and intestines. Conversely, raised CaÂ²âº levels will stimulate _______________ to restore calcium concentration to normal.",
-    "answer": "calcitonin",
-    "acceptableAnswers": ["calcitonin", "calcitonin secretion"]
-  },
-  {
-    "id": 94,
-    "type": "fitb",
-    "stem": "The Harrison's sulcus seen in rickets is specifically defined as a _______________ on the rib cage caused by softening of bones and diaphragmatic traction.",
-    "answer": "groove",
-    "acceptableAnswers": ["groove", "horizontal groove", "indentation"]
-  },
-  {
-    "id": 95,
-    "type": "fitb",
-    "stem": "In the long bone, the _______________ is the mid-portion, the epiphysis represents the wider ends (heads), and the metaphysis lies between the two.",
-    "answer": "diaphysis",
-    "acceptableAnswers": ["diaphysis", "shaft", "diaphysis (shaft)"]
-  },
-  {
-    "id": 96,
-    "type": "fitb",
-    "stem": "In hypocalcaemia, when calcium falls below _______________ mg%, tetany occurs due to increased Naâº membrane permeability generating multiple action potentials.",
-    "answer": "6",
-    "acceptableAnswers": ["6", "6 mg%", "6mg%"]
-  },
-  {
-    "id": 97,
-    "type": "fitb",
-    "stem": "The _______________ of epidermis is regulated by vitamin D via a paracrine mechanism, representing one of its non-calcaemic physiological actions.",
-    "answer": "cornification",
-    "acceptableAnswers": ["cornification", "keratinisation", "keratinization"]
-  },
-  {
-    "id": 98,
-    "type": "fitb",
-    "stem": "High plasma calcium _______________ the reaction leading to the formation of the inactive metabolite 24,25 DHCC by 24-hydroxylase enzymes, rather than the active 1,25 DHCC.",
-    "answer": "inhibits",
-    "acceptableAnswers": ["inhibits", "blocks", "diverts"]
-  },
-  {
-    "id": 99,
-    "type": "fitb",
-    "stem": "The TRH stimulates thyrotropes in the anterior pituitary to produce TSH, which is inhibited in the short loop by high thyroid hormones and in the _______________ loop by inhibition of TRH.",
-    "answer": "long",
-    "acceptableAnswers": ["long", "long feedback"]
-  },
-  {
-    "id": 100,
-    "type": "fitb",
-    "stem": "In hypothyroidism, the renal system shows reduction in GFR and dysfunctional water metabolism, leading to water retention and _______________, as the kidneys cannot excrete excess water.",
-    "answer": "oedema",
-    "acceptableAnswers": ["oedema", "edema", "peripheral oedema", "peripheral edema"]
-  }
+ {
+   "id": 1,
+   "type": "mcq",
+   "stem": "A 38-year-old male presents with episodic hypertension, diaphoresis, and headaches. Urine VMA levels are markedly elevated. Which enzyme is rate-limiting in the biosynthesis of the hormone responsible for this patient's condition?",
+   "options": [
+     "Phenylethanolamine N-methyl transferase",
+     "Tyrosine hydroxylase",
+     "Dopamine beta-hydroxylase"
+   ],
+   "answer": "B"
+ },
+ {
+   "id": 2,
+   "type": "mcq",
+   "stem": "During catecholamine metabolism in the liver, norepinephrine is first acted upon by COMT to form normetanephrine. This intermediate is then converted by MAO to which final urinary metabolite?",
+   "options": [
+     "Methoxy Hydroxyl Phenyl Glycol",
+     "Vanillylmandelic acid",
+     "Homovanillic acid"
+   ],
+   "answer": "B"
+ },
+ {
+   "id": 3,
+   "type": "mcq",
+   "stem": "A patient with pheochromocytoma is being prepared for surgical resection. Which preoperative pharmacological agent is most appropriate to control blood pressure and prevent hypertensive crisis during tumour manipulation?",
+   "options": [
+     "Propranolol",
+     "Phenoxybenzamine",
+     "Phentolamine"
+   ],
+   "answer": "B"
+ },
+ {
+   "id": 4,
+   "type": "mcq",
+   "stem": "Epinephrine administered intravenously increases systolic blood pressure but simultaneously REDUCES diastolic blood pressure. Which receptor mechanism best explains the diastolic reduction?",
+   "options": [
+     "Alpha-1 receptor mediated vasoconstriction in peripheral vasculature",
+     "Beta-2 receptor mediated vasodilation reducing total peripheral resistance",
+     "Beta-1 receptor mediated increase in cardiac contractility"
+   ],
+   "answer": "B"
+ },
+ {
+   "id": 5,
+   "type": "mcq",
+   "stem": "In the adrenal medulla, the conversion of norepinephrine to epinephrine is catalysed by PNMT. Which substance induces this enzyme, explaining the functional significance of the anatomical relationship between cortex and medulla?",
+   "options": [
+     "ACTH directly stimulating chromaffin cells",
+     "Cortisol from adrenal cortical venous drainage",
+     "Aldosterone from zona glomerulosa"
+   ],
+   "answer": "B"
+ },
+ {
+   "id": 6,
+   "type": "mcq",
+   "stem": "A 45-year-old female is found to have a catecholamine-secreting tumour arising from extra-adrenal chromaffin tissue. Unlike adrenal pheochromocytoma, this tumour cannot convert norepinephrine to epinephrine because it lacks which enzyme-inducing substance?",
+   "options": [
+     "Tyrosine hydroxylase cofactors",
+     "Glucocorticoid-dependent PNMT induction",
+     "Dopamine beta-hydroxylase activity"
+   ],
+   "answer": "B"
+ },
+ {
+   "id": 7,
+   "type": "mcq",
+   "stem": "Stimulation of Alpha-2 adrenergic receptors on presynaptic nerve terminals results in which effect on catecholamine release?",
+   "options": [
+     "Enhanced norepinephrine release via positive feedback",
+     "Inhibition of further catecholamine release via negative feedback",
+     "Stimulation of ACTH release from anterior pituitary"
+   ],
+   "answer": "B"
+ },
+ {
+   "id": 8,
+   "type": "mcq",
+   "stem": "The adrenal cortex is divided into three zones. Which zone exclusively produces aldosterone and constitutes approximately 15% of adrenal gland mass?",
+   "options": [
+     "Zona fasciculata",
+     "Zona glomerulosa",
+     "Zona reticularis"
+   ],
+   "answer": "B"
+ },
+ {
+   "id": 9,
+   "type": "mcq",
+   "stem": "A patient presents with hypernatraemia, hypokalaemia, and hypertension. Aldosterone levels are markedly elevated. Which zone of the adrenal cortex is most likely hyperplastic in this patient?",
+   "options": [
+     "Zona reticularis",
+     "Zona glomerulosa",
+     "Zona fasciculata"
+   ],
+   "answer": "B"
+ },
+ {
+   "id": 10,
+   "type": "mcq",
+   "stem": "C18 steroids produced by the adrenal cortex possess an angular methyl group at the 10th carbon position and a 17-keto or hydroxyl group. What is the predominant biological activity of this steroid class?",
+   "options": [
+     "Glucocorticoid activity",
+     "Estrogenic activity",
+     "Androgenic activity"
+   ],
+   "answer": "B"
+ },
+ {
+   "id": 11,
+   "type": "mcq",
+   "stem": "During synthesis of adrenal steroids, cholesterol can be obtained by two mechanisms. Which mechanism provides the PRIMARY source of cholesterol for steroidogenesis?",
+   "options": [
+     "De novo synthesis from acetate within the adrenal cell",
+     "Absorption from blood via LDL receptor-mediated endocytosis",
+     "Conversion from circulating VLDL particles"
+   ],
+   "answer": "B"
+ },
+ {
+   "id": 12,
+   "type": "mcq",
+   "stem": "A 29-year-old woman presents with virilization, amenorrhoea, and elevated DHEA levels. Which layer of the adrenal cortex is primarily responsible for the excess androgen secretion?",
+   "options": [
+     "Zona glomerulosa",
+     "Zona reticularis",
+     "Zona fasciculata"
+   ],
+   "answer": "B"
+ },
+ {
+   "id": 13,
+   "type": "mcq",
+   "stem": "Which synthetic glucocorticoid has the highest anti-inflammatory potency and is used clinically in preference when mineralocorticoid side effects must be minimised?",
+   "options": [
+     "Hydrocortisone",
+     "Dexamethasone",
+     "Prednisolone"
+   ],
+   "answer": "B"
+ },
+ {
+   "id": 14,
+   "type": "mcq",
+   "stem": "Catecholamines stored in chromaffin granules are bound to ATP and associated with a specific protein. Which protein serves this storage function, although its physiological role remains unknown?",
+   "options": [
+     "Synaptophysin",
+     "Chromogranin A",
+     "Calreticulin"
+   ],
+   "answer": "B"
+ },
+ {
+   "id": 15,
+   "type": "mcq",
+   "stem": "In the adrenal medulla, epinephrine-secreting cells constitute what percentage of the total gland, and the remaining cells primarily secrete which catecholamine?",
+   "options": [
+     "80% epinephrine cells; remaining secrete dopamine",
+     "90% epinephrine cells; remaining secrete norepinephrine",
+     "70% epinephrine cells; remaining secrete norepinephrine"
+   ],
+   "answer": "B"
+ },
+ {
+   "id": 16,
+   "type": "mcq",
+   "stem": "A nurse administers a drug that blocks Beta-1 receptors selectively. Which haemodynamic effects would be MOST directly abolished?",
+   "options": [
+     "Bronchodilation and uterine relaxation",
+     "Increased heart rate, conduction velocity, and cardiac contractility",
+     "Vasodilation of skeletal muscle blood vessels"
+   ],
+   "answer": "B"
+ },
+ {
+   "id": 17,
+   "type": "mcq",
+   "stem": "Dopamine secreted by the adrenal medulla acts as a neurotransmitter in the brain when produced by dopaminergic neurons. Regarding its cardiovascular effects, dopamine causes vasoconstriction via norepinephrine release but causes vasodilation specifically in which vascular bed?",
+   "options": [
+     "Coronary vasculature",
+     "Mesenteric vasculature",
+     "Pulmonary vasculature"
+   ],
+   "answer": "B"
+ },
+ {
+   "id": 18,
+   "type": "mcq",
+   "stem": "Beta-2 receptor stimulation by catecholamines in the liver produces which metabolic effect that increases blood glucose concentration?",
+   "options": [
+     "Inhibition of gluconeogenesis and promotion of glycogen synthesis",
+     "Stimulation of glycogenolysis and gluconeogenesis",
+     "Increased insulin secretion from beta cells"
+   ],
+   "answer": "B"
+ },
+ {
+   "id": 19,
+   "type": "mcq",
+   "stem": "Following secretion, the majority of norepinephrine is cleared from the synaptic cleft by which primary mechanism?",
+   "options": [
+     "Enzymatic degradation by MAO at the synaptic cleft",
+     "Active reuptake into adrenergic nerve endings",
+     "Diffusion into surrounding body fluids and COMT metabolism"
+   ],
+   "answer": "B"
+ },
+ {
+   "id": 20,
+   "type": "mcq",
+   "stem": "In noradrenergic nerve endings, catecholamine metabolism differs from hepatic metabolism. In nerve endings, the primary enzyme acting first before conversion to VMA and MHPG is:",
+   "options": [
+     "Catechol-O-methyl transferase",
+     "Monoamine oxidase",
+     "Phenylethanolamine N-methyl transferase"
+   ],
+   "answer": "B"
+ },
+ {
+   "id": 21,
+   "type": "mcq",
+   "stem": "A case study: A 52-year-old male with known Type II DM presents in a confused state. Blood glucose is 28mg/dl. He was found unconscious. Which immediate intervention is MOST appropriate based on the physiological mechanism of glucose supply to the CNS?",
+   "options": [
+     "Oral glucose administration and close monitoring",
+     "Intravenous glucose or glucagon administration",
+     "Subcutaneous insulin to correct cellular metabolism"
+   ],
+   "answer": "B"
+ },
+ {
+   "id": 22,
+   "type": "mcq",
+   "stem": "A case study: A 14-year-old non-obese male presents with polyuria, polydipsia, weight loss, and ketoacidosis. Fasting blood glucose is 350mg/dl. Which pathophysiological mechanism BEST explains his presentation?",
+   "options": [
+     "Reduced number of insulin receptors with normal beta cell function",
+     "Degeneration of beta cells causing absolute insulin deficiency",
+     "Excessive glucagon secretion with intact insulin production"
+   ],
+   "answer": "B"
+ },
+ {
+   "id": 23,
+   "type": "mcq",
+   "stem": "Insulin acts by binding to receptors that are tetrameric in structure. The intracellular component of this receptor possesses which enzymatic activity that initiates the insulin signalling cascade?",
+   "options": [
+     "Adenylyl cyclase activity increasing cAMP",
+     "Tyrosine kinase activity causing autophosphorylation",
+     "Phospholipase C activity generating IP3"
+   ],
+   "answer": "B"
+ },
+ {
+   "id": 24,
+   "type": "mcq",
+   "stem": "Insulin facilitates glucose entry into muscle and adipose tissue via GLUT transporters. However, insulin does NOT facilitate glucose transport into which of the following cell types, which relies on insulin-independent glucose uptake?",
+   "options": [
+     "Hepatocytes and skeletal muscle cells",
+     "Brain cells, intestinal cells, renal tubular cells, and RBCs",
+     "Adipocytes and cardiac muscle cells"
+   ],
+   "answer": "B"
+ },
+ {
+   "id": 25,
+   "type": "mcq",
+   "stem": "Among all glucose transporters GLUT1-7, which specific isoform is primarily responsible for insulin-stimulated glucose transport in muscle and adipose tissue?",
+   "options": [
+     "GLUT-1",
+     "GLUT-4",
+     "GLUT-2"
+   ],
+   "answer": "B"
+ },
+ {
+   "id": 26,
+   "type": "mcq",
+   "stem": "Insulin stimulates glycogenesis in both liver and muscle. Which two enzymes are specifically activated by insulin to promote glycogen storage?",
+   "options": [
+     "Phosphorylase kinase and glucose-6-phosphatase",
+     "Glucokinase and glycogen synthase",
+     "Phosphoenolpyruvate carboxykinase and fructose 1,6-biphosphatase"
+   ],
+   "answer": "B"
+ },
+ {
+   "id": 27,
+   "type": "mcq",
+   "stem": "A patient with diabetic ketoacidosis has amino acids mobilised from proteins due to insulin deficiency. This leads to protein breakdown, resulting in which characteristic metabolic finding in urine?",
+   "options": [
+     "Glycosuria and ketonuria only",
+     "Nitrogen loss and negative nitrogen balance",
+     "Elevated urinary VMA and metanephrine"
+   ],
+   "answer": "B"
+ },
+ {
+   "id": 28,
+   "type": "mcq",
+   "stem": "The insulin/glucagon ratio is normally 2 under fasting conditions. During a pure carbohydrate meal, this ratio rises to approximately 10. During starvation, the ratio falls to:",
+   "options": [
+     "1.0",
+     "0.5",
+     "1.5"
+   ],
+   "answer": "B"
+ },
+ {
+   "id": 29,
+   "type": "mcq",
+   "stem": "Glucagon exerts its physiological actions through formation of cAMP and activation of Protein Kinase A. This ultimately activates which enzyme cascade leading to glycogen breakdown?",
+   "options": [
+     "Glucokinase activating glucose-6-phosphate dehydrogenase",
+     "Phosphorylase kinase activating glycogen phosphorylase",
+     "Pyruvate kinase activating phosphofructokinase"
+   ],
+   "answer": "B"
+ },
+ {
+   "id": 30,
+   "type": "mcq",
+   "stem": "Somatostatin, a 14-amino acid polypeptide found in D-cells of the pancreatic islets, inhibits both alpha and beta cells. It was FIRST discovered in which anatomical location before pancreatic sources were identified?",
+   "options": [
+     "D-cells of the stomach mucosa",
+     "Hypothalamus",
+     "Upper gastrointestinal mucosa"
+   ],
+   "answer": "B"
+ },
+ {
+   "id": 31,
+   "type": "mcq",
+   "stem": "A 55-year-old obese female with Type II DM is started on metformin. Physiologically, which mechanism does metformin use that distinguishes it from sulphonylurea agents in treating diabetes?",
+   "options": [
+     "Stimulating insulin release from beta cells by closing K+ channels",
+     "Reducing hepatic glucose output without stimulating insulin secretion",
+     "Binding to insulin receptors to increase cellular sensitivity"
+   ],
+   "answer": "B"
+ },
+ {
+   "id": 32,
+   "type": "mcq",
+   "stem": "In the Glucose Tolerance Test, a patient is given a specified quantity of glucose and blood sugar response is measured. At what plasma glucose level does maximal stimulation of insulin secretion occur?",
+   "options": [
+     "180 mg/dl",
+     "250 mg/dl",
+     "300 mg/dl"
+   ],
+   "answer": "B"
+ },
+ {
+   "id": 33,
+   "type": "mcq",
+   "stem": "Glycosylated haemoglobin (HbA1c) is used clinically to monitor diabetic control. What time period does this investigation reflect regarding glycaemic control?",
+   "options": [
+     "Past 1 month",
+     "Past 2-3 months",
+     "Past 6 months"
+   ],
+   "answer": "B"
+ },
+ {
+   "id": 34,
+   "type": "mcq",
+   "stem": "A diabetic patient develops gangrenous changes in the foot. Which combination of pathological mechanisms BEST explains this complication based on the lecture content?",
+   "options": [
+     "Microvascular retinopathy combined with sensory neuropathy",
+     "Atherosclerotic circulatory insufficiency combined with neuropathy-induced reduced pain sensation and secondary bacterial infection",
+     "Macrovascular disease combined with autonomic neuropathy only"
+   ],
+   "answer": "B"
+ },
+ {
+   "id": 35,
+   "type": "mcq",
+   "stem": "Insulin degrades primarily in two organs. In which proportions does hepatic versus renal degradation occur, and which enzyme mediates this process?",
+   "options": [
+     "Liver 60%, kidney 40% via insulin lysosomal protease",
+     "Liver 80%, kidney 20% via insulin proteases",
+     "Liver 70%, kidney 30% via insulin transferase"
+   ],
+   "answer": "B"
+ },
+ {
+   "id": 36,
+   "type": "mcq",
+   "stem": "A patient's blood sugar falls to 45mg/dl. At this glucose level, which CNS manifestation is MOST likely to develop based on the physiological response to hypoglycaemia?",
+   "options": [
+     "Extreme nervousness, trembling, and sweating",
+     "Confusion, drowsiness, depressed reflexes, and hypothermia",
+     "Clonic seizures and coma"
+   ],
+   "answer": "B"
+ },
+ {
+   "id": 37,
+   "type": "mcq",
+   "stem": "Oral glucose is stated to be more effective at stimulating insulin secretion than intravenous glucose at equivalent concentrations. Which mechanism explains this incretin effect?",
+   "options": [
+     "Oral glucose activates alpha cells more rapidly",
+     "GIT hormones such as gastrin, secretin, and GIP are released and additionally stimulate beta cells",
+     "Oral glucose bypasses hepatic first-pass metabolism more effectively"
+   ],
+   "answer": "B"
+ },
+ {
+   "id": 38,
+   "type": "mcq",
+   "stem": "Alpha cells of the pancreatic islets constitute 25% of islet cells and secrete glucagon. Which substance released by the beta cells directly inhibits alpha cell glucagon secretion via paracrine action?",
+   "options": [
+     "Somatostatin from D-cells",
+     "Insulin from beta cells",
+     "Pancreatic polypeptide from PP-cells"
+   ],
+   "answer": "B"
+ },
+ {
+   "id": 39,
+   "type": "mcq",
+   "stem": "The adrenal gland consists of an inner medulla (30%) which is ectodermal in origin and an outer cortex (70%) which is mesodermal in origin. The medulla structurally resembles which neural structure?",
+   "options": [
+     "A preganglionic autonomic ganglion with intact axons",
+     "A sympathetic ganglion where postganglionic neurons have lost their axons and become secretory cells",
+     "A parasympathetic ganglion modified by cortisol"
+   ],
+   "answer": "B"
+ },
+ {
+   "id": 40,
+   "type": "mcq",
+   "stem": "Macro-vascular complications of diabetes mellitus are attributed to accelerated atherosclerosis secondary to dyslipidaemia. Which specific lipid abnormality drives this accelerated atherogenesis?",
+   "options": [
+     "Increased plasma HDL and triglycerides",
+     "Increased plasma LDL and triglycerides",
+     "Decreased plasma LDL with increased VLDL"
+   ],
+   "answer": "B"
+ },
+ {
+   "id": 41,
+   "type": "mcq",
+   "stem": "In Kussmaul breathing associated with severe diabetic ketoacidosis, the respiratory pattern is characterised by deep, rapid breathing. This breathing pattern is a compensatory response to correct which primary metabolic derangement?",
+   "options": [
+     "Metabolic alkalosis from excessive bicarbonate loss",
+     "Metabolic acidosis from accumulation of ketoacids",
+     "Respiratory alkalosis from hyperventilation"
+   ],
+   "answer": "B"
+ },
+ {
+   "id": 42,
+   "type": "mcq",
+   "stem": "The zona fasciculata constitutes 50% of adrenal gland mass and secretes predominantly glucocorticoids. Which percentage of adrenal mass does the zona reticularis constitute, and what is its primary secretory product?",
+   "options": [
+     "20% of mass; primarily glucocorticoids",
+     "7% of mass; primarily sex hormones",
+     "28% of mass; primarily aldosterone"
+   ],
+   "answer": "B"
+ },
+ {
+   "id": 43,
+   "type": "mcq",
+   "stem": "During foetal life, the human adrenal gland is disproportionately large. What percentage represents the foetal adrenal cortex that undergoes rapid degeneration at birth?",
+   "options": [
+     "60%",
+     "80%",
+     "50%"
+   ],
+   "answer": "B"
+ },
+ {
+   "id": 44,
+   "type": "mcq",
+   "stem": "A student nurses asks: 'Why does epinephrine have stronger metabolic effects than norepinephrine?' The MOST accurate physiological explanation is:",
+   "options": [
+     "Epinephrine acts exclusively on Beta-1 receptors which mediate all metabolic effects",
+     "Epinephrine acts through both alpha and beta receptors equally, whereas norepinephrine acts predominantly via alpha receptors",
+     "Norepinephrine is rapidly metabolised before reaching metabolic target tissues"
+   ],
+   "answer": "B"
+ },
+ {
+   "id": 45,
+   "type": "mcq",
+   "stem": "Adrenaline acts on blood vessels through Beta-2 receptors to cause vasodilation in specific vascular beds. Which three vascular beds specifically undergo vasodilation via this Beta-2 mechanism?",
+   "options": [
+     "Pulmonary, renal, and splenic vessels",
+     "Skeletal muscle, liver, and heart blood vessels",
+     "Cutaneous, cerebral, and mesenteric vessels"
+   ],
+   "answer": "B"
+ },
+ {
+   "id": 46,
+   "type": "mcq",
+   "stem": "Pheochromocytoma characteristically manifests during the 3rd and 4th decades of life. Which metabolites found in elevated concentrations in urine confirm the diagnosis?",
+   "options": [
+     "Cortisol, aldosterone, and DHEA",
+     "VMA, metanephrine, and homovanillic acid",
+     "MHPG, normetanephrine, and dopamine sulphate"
+   ],
+   "answer": "B"
+ },
+ {
+   "id": 47,
+   "type": "mcq",
+   "stem": "Epinephrine has a positive bathmotropic effect on the heart via Beta-1 receptors. What does 'bathmotropic' specifically refer to?",
+   "options": [
+     "Effect on heart rate (chronotropy)",
+     "Effect on cardiac excitability",
+     "Effect on conduction velocity (dromotropy)"
+   ],
+   "answer": "B"
+ },
+ {
+   "id": 48,
+   "type": "mcq",
+   "stem": "The precursor molecule tyrosine is derived primarily from dietary sources, but some is generated by conversion of phenylalanine in which organ before being transported to chromaffin cells?",
+   "options": [
+     "Kidney",
+     "Liver",
+     "Intestinal mucosa"
+   ],
+   "answer": "B"
+ },
+ {
+   "id": 49,
+   "type": "mcq",
+   "stem": "During severe hypoglycaemia, the CNS becomes excitable when blood sugar falls to which range, producing extreme nervousness, trembling, and sweating as initial manifestations?",
+   "options": [
+     "20-50 mg%",
+     "50-70 mg%",
+     "70-90 mg%"
+   ],
+   "answer": "B"
+ },
+ {
+   "id": 50,
+   "type": "mcq",
+   "stem": "A case study: A 63-year-old patient with longstanding Type II DM develops sudden painless vision loss. Which specific microvascular complication explains this presentation?",
+   "options": [
+     "Diabetic nephropathy causing hypertensive retinal changes",
+     "Diabetic retinopathy leading to poor vision",
+     "Autonomic neuropathy affecting the ciliary ganglion"
+   ],
+   "answer": "B"
+ },
+ {
+   "id": 51,
+   "type": "mcq",
+   "stem": "Insulin stimulates the activity of Na+-K+ ATPase in many cells and enhances rapid entry of potassium, magnesium, and phosphate. This electrolyte-shifting property is exploited clinically to treat which acute condition?",
+   "options": [
+     "Hyponatraemia in syndrome of inappropriate ADH",
+     "Hyperkalaemia in acute renal failure management",
+     "Hypomagnesaemia in critically ill patients"
+   ],
+   "answer": "B"
+ },
+ {
+   "id": 52,
+   "type": "mcq",
+   "stem": "The catecholamine effect on target organs is stated to be prolonged 10 times more than direct sympathetic nerve stimulation. The primary reason for this prolonged action is:",
+   "options": [
+     "Catecholamines bind more tightly to alpha receptors than nerve-released norepinephrine",
+     "Inactivation, degradation, and removal of catecholamines from circulation occurs slowly",
+     "Catecholamines are recycled into vesicles more efficiently than synaptically released norepinephrine"
+   ],
+   "answer": "B"
+ },
+ {
+   "id": 53,
+   "type": "mcq",
+   "stem": "Glucagon stimulation causes inhibition of renal sodium reabsorption (Na+ reabsorption). This natriuretic effect of glucagon would be most clinically relevant in patients with which condition?",
+   "options": [
+     "Hypokalaemia with alkalosis",
+     "Oedematous states with secondary hyperaldosteronism",
+     "Acute tubular necrosis with oliguria"
+   ],
+   "answer": "B"
+ },
+ {
+   "id": 54,
+   "type": "mcq",
+   "stem": "Insulin inhibits gluconeogenesis by inhibiting three specific enzymes. Which combination of enzymes does insulin specifically inhibit to suppress hepatic glucose production?",
+   "options": [
+     "Hexokinase, phosphofructokinase, and pyruvate kinase",
+     "Phosphoenolpyruvate carboxykinase, pyruvate carboxylase, and fructose 1,6-biphosphatase",
+     "Glucose-6-phosphatase, glycogen phosphorylase, and glucagon receptor kinase"
+   ],
+   "answer": "B"
+ },
+ {
+   "id": 55,
+   "type": "mcq",
+   "stem": "Alpha-1 receptor stimulation by catecholamines in the eye produces which specific effect that would be clinically relevant during a sympathomimetic drug toxicity?",
+   "options": [
+     "Miosis due to ciliary muscle relaxation",
+     "Pupil dilatation due to increased ciliary muscle contraction",
+     "Increased intraocular pressure via trabecular meshwork constriction"
+   ],
+   "answer": "B"
+ },
+ {
+   "id": 56,
+   "type": "mcq",
+   "stem": "Insulin is produced as a preprohormone. What specific cleavage product is removed during conversion of proinsulin to active insulin and is equimolarly secreted with insulin, serving as a clinical marker of endogenous insulin production?",
+   "options": [
+     "A-chain peptide",
+     "C-peptide (connecting chain)",
+     "B-chain fragment"
+   ],
+   "answer": "B"
+ },
+ {
+   "id": 57,
+   "type": "mcq",
+   "stem": "Regarding adrenal catecholamine secretion, which physiological stimulus would most powerfully trigger sympatho-adrenal response and massively increase catecholamine release?",
+   "options": [
+     "Mild exercise and normal feeding",
+     "Exposure to cold, hypoglycaemia, or psychological stress",
+     "Parasympathetic stimulation during rest"
+   ],
+   "answer": "B"
+ },
+ {
+   "id": 58,
+   "type": "mcq",
+   "stem": "Beta receptors stimulation elaborates cAMP production. Alpha receptors, in contrast, inhibit cAMP but act mainly via which alternative second messenger mechanism?",
+   "options": [
+     "Guanylyl cyclase and cGMP pathway",
+     "Phosphatidylinositol and calcium second messenger system",
+     "Tyrosine kinase and MAPK pathway"
+   ],
+   "answer": "B"
+ },
+ {
+   "id": 59,
+   "type": "mcq",
+   "stem": "A patient with pheochromocytoma has hyperglycaemia as a metabolic abnormality. Which catecholamine receptor-mediated mechanism explains this hyperglycaemia?",
+   "options": [
+     "Alpha-2 receptor stimulation of beta cells increasing insulin",
+     "Alpha-1 stimulation of hepatic glycogenolysis combined with epinephrine-mediated inhibition of insulin secretion",
+     "Beta-1 stimulation of pancreatic glucagon release only"
+   ],
+   "answer": "B"
+ },
+ {
+   "id": 60,
+   "type": "mcq",
+   "stem": "Pancreatic polypeptide cells (PP-cells) constitute approximately 5% of islet cells and secrete pancreatic polypeptide, which is also produced by the small intestine. What is currently known about the exact physiological action of pancreatic polypeptide?",
+   "options": [
+     "It primarily inhibits exocrine pancreatic secretion",
+     "Its exact physiological action is currently unknown",
+     "It stimulates glucagon secretion and inhibits insulin"
+   ],
+   "answer": "B"
+ },
+ {
+   "id": 61,
+   "type": "fitb",
+   "stem": "Pheochromocytoma is a tumour of the _____________ cells of the adrenal medulla leading to excessive catecholamine secretion.",
+   "answer": "chromaffin",
+   "acceptableAnswers": [
+     "chromaffin",
+     "pheochromocytoma",
+     "chromophil"
+   ]
+ },
+ {
+   "id": 62,
+   "type": "fitb",
+   "stem": "The rate-limiting step in catecholamine biosynthesis is the conversion of tyrosine to DOPA, catalysed by the enzyme _______________, which is subject to feedback inhibition by dopamine and norepinephrine.",
+   "answer": "tyrosine hydroxylase",
+   "acceptableAnswers": [
+     "tyrosine hydroxylase",
+     "tyrosine hydroxylase enzyme"
+   ]
+ },
+ {
+   "id": 63,
+   "type": "fitb",
+   "stem": "In the liver, catecholamines are first converted to metanephrine and normetanephrine by the enzyme _______________, before further conversion by MAO to VMA.",
+   "answer": "catechol-O-methyl transferase (COMT)",
+   "acceptableAnswers": [
+     "COMT",
+     "catechol-O-methyl transferase",
+     "catechol O-methyltransferase"
+   ]
+ },
+ {
+   "id": 64,
+   "type": "fitb",
+   "stem": "The adrenal medulla, through epinephrine-secreting cells, also secretes opioid peptides called _______________.",
+   "answer": "encephalin",
+   "acceptableAnswers": [
+     "encephalin",
+     "enkephalin",
+     "opioid peptides"
+   ]
+ },
+ {
+   "id": 65,
+   "type": "fitb",
+   "stem": "The conversion of norepinephrine to epinephrine by PNMT occurs only in the _______________ and some neurones of the CNS, but NOT in the peripheral sympathetic ganglia.",
+   "answer": "adrenal medulla",
+   "acceptableAnswers": [
+     "adrenal medulla",
+     "adrenal medulla cells",
+     "chromaffin cells of adrenal medulla"
+   ]
+ },
+ {
+   "id": 66,
+   "type": "fitb",
+   "stem": "The adrenal gland weighs _______________ grams each and is located on the superior poles of the kidneys.",
+   "answer": "4",
+   "acceptableAnswers": [
+     "4",
+     "four",
+     "4 grams"
+   ]
+ },
+ {
+   "id": 67,
+   "type": "fitb",
+   "stem": "All three zones of the adrenal cortex produce corticosterone, however aldosterone is produced exclusively in the _______________.",
+   "answer": "zona glomerulosa",
+   "acceptableAnswers": [
+     "zona glomerulosa",
+     "glomerulosa zone",
+     "zona glomerulosa only"
+   ]
+ },
+ {
+   "id": 68,
+   "type": "fitb",
+   "stem": "C21 steroids contain a total of _______________ carbon atoms and have both glucocorticoid and mineralocorticoid activity.",
+   "answer": "21",
+   "acceptableAnswers": [
+     "21",
+     "twenty-one"
+   ]
+ },
+ {
+   "id": 69,
+   "type": "fitb",
+   "stem": "The basic structural component of all steroid hormones is the _______________ ring system.",
+   "answer": "cyclopentanoperhydrophenanthrene",
+   "acceptableAnswers": [
+     "cyclopentanoperhydrophenanthrene",
+     "steroid nucleus",
+     "cyclopentanoperhydrophenanthrene ring"
+   ]
+ },
+ {
+   "id": 70,
+   "type": "fitb",
+   "stem": "Synthetic steroids are produced by modification of steroid chemistry to increase physiological _______________. An example of synthetic mineralocorticoid is 5-alpha fluorocortisol.",
+   "answer": "potency",
+   "acceptableAnswers": [
+     "potency",
+     "physiological potency",
+     "biological potency"
+   ]
+ },
+ {
+   "id": 71,
+   "type": "fitb",
+   "stem": "The endocrine part of the pancreas constitutes _______________ percent of the entire pancreatic volume and is made up of 1-2 million cells called islets of Langerhans.",
+   "answer": "2",
+   "acceptableAnswers": [
+     "2",
+     "two",
+     "2%"
+   ]
+ },
+ {
+   "id": 72,
+   "type": "fitb",
+   "stem": "Beta cells (B cells) are the most abundant in the islets of Langerhans, constituting approximately _______________ percent and producing insulin.",
+   "answer": "60",
+   "acceptableAnswers": [
+     "60",
+     "sixty",
+     "60%"
+   ]
+ },
+ {
+   "id": 73,
+   "type": "fitb",
+   "stem": "Insulin is a double chain polypeptide with chain A containing _______________ amino acids and chain B containing 30 amino acids, linked by 2 disulphide bridges.",
+   "answer": "21",
+   "acceptableAnswers": [
+     "21",
+     "twenty-one"
+   ]
+ },
+ {
+   "id": 74,
+   "type": "fitb",
+   "stem": "The half-life of insulin in the circulation is _______________ minutes, and degradation occurs 80% in the liver and 20% in the kidneys.",
+   "answer": "5",
+   "acceptableAnswers": [
+     "5",
+     "five",
+     "5 minutes"
+   ]
+ },
+ {
+   "id": 75,
+   "type": "fitb",
+   "stem": "Insulin is packaged into vesicles in the _______________ complex and released into the blood by exocytosis as the physiological need arises.",
+   "answer": "Golgi",
+   "acceptableAnswers": [
+     "Golgi",
+     "Golgi complex",
+     "Golgi apparatus"
+   ]
+ },
+ {
+   "id": 76,
+   "type": "fitb",
+   "stem": "Maximal insulin secretion stimulation occurs at a glucose level of about _______________ mg/dl, while at plasma glucose levels lower than 50 mg/dl, little or no insulin is released.",
+   "answer": "250",
+   "acceptableAnswers": [
+     "250",
+     "250 mg/dl",
+     "two hundred and fifty"
+   ]
+ },
+ {
+   "id": 77,
+   "type": "fitb",
+   "stem": "Insulin inhibits lipolysis by inhibiting intracellular _______________, preventing free fatty acid mobilisation from adipose tissue.",
+   "answer": "lipase",
+   "acceptableAnswers": [
+     "lipase",
+     "intracellular lipase",
+     "hormone-sensitive lipase"
+   ]
+ },
+ {
+   "id": 78,
+   "type": "fitb",
+   "stem": "The fasting blood sugar level is approximately _______________ mg%, and postprandially rises to 120-140 mg% before returning to normal two hours later.",
+   "answer": "70-110",
+   "acceptableAnswers": [
+     "70-110",
+     "70 to 110",
+     "between 70 and 110"
+   ]
+ },
+ {
+   "id": 79,
+   "type": "fitb",
+   "stem": "Among all hormones regulating blood glucose, only _______________ lowers blood glucose concentration; all others including growth hormone, cortisol, adrenaline, and thyroxin increase it.",
+   "answer": "insulin",
+   "acceptableAnswers": [
+     "insulin",
+     "insulin hormone"
+   ]
+ },
+ {
+   "id": 80,
+   "type": "fitb",
+   "stem": "Glucagon is a polypeptide containing _______________ amino acids with a molecular weight of 3500 Daltons, secreted by the alpha cells of the pancreas.",
+   "answer": "29",
+   "acceptableAnswers": [
+     "29",
+     "twenty-nine"
+   ]
+ },
+ {
+   "id": 81,
+   "type": "fitb",
+   "stem": "Glucagon inhibits gastric juice secretion, stimulates bile secretion, and inhibits renal _______________ reabsorption as part of its physiological actions.",
+   "answer": "Na+",
+   "acceptableAnswers": [
+     "Na+",
+     "sodium",
+     "sodium ion"
+   ]
+ },
+ {
+   "id": 82,
+   "type": "fitb",
+   "stem": "Somatostatin is a _______________ amino acid polypeptide hormone that inhibits both alpha and beta cells of the pancreas and decreases motility of the stomach, duodenum, and gall bladder.",
+   "answer": "14",
+   "acceptableAnswers": [
+     "14",
+     "fourteen"
+   ]
+ },
+ {
+   "id": 83,
+   "type": "fitb",
+   "stem": "Type II Diabetes Mellitus, formerly called _______________, develops after age 40 years and is rarely associated with ketoacidosis because beta cell structure and function remain largely normal.",
+   "answer": "non-insulin dependent diabetes mellitus (NIDDM)",
+   "acceptableAnswers": [
+     "NIDDM",
+     "non-insulin dependent diabetes mellitus",
+     "non-insulin-dependent diabetes"
+   ]
+ },
+ {
+   "id": 84,
+   "type": "fitb",
+   "stem": "In diabetic ketoacidosis, when ketoacidosis is severe, the rate and depth of respiration increase, producing an atypical deep breathing pattern called _______________ breathing.",
+   "answer": "Kussmaul",
+   "acceptableAnswers": [
+     "Kussmaul",
+     "Kussmaul breathing",
+     "Kussmaul respiration"
+   ]
+ },
+ {
+   "id": 85,
+   "type": "fitb",
+   "stem": "Diabetic nephropathy is a microvascular complication of diabetes mellitus that may ultimately result in _______________.",
+   "answer": "renal failure",
+   "acceptableAnswers": [
+     "renal failure",
+     "kidney failure",
+     "end-stage renal disease"
+   ]
+ },
+ {
+   "id": 86,
+   "type": "fitb",
+   "stem": "The gene responsible for insulin formation in humans is located on the short arm of chromosome _______________.",
+   "answer": "11",
+   "acceptableAnswers": [
+     "11",
+     "eleven",
+     "chromosome 11"
+   ]
+ },
+ {
+   "id": 87,
+   "type": "fitb",
+   "stem": "In the pancreatic islets, _______________ cells are less than 1% of islet cells and are known to produce ghrelin.",
+   "answer": "Epsilon",
+   "acceptableAnswers": [
+     "Epsilon",
+     "epsilon cells",
+     "ε cells"
+   ]
+ },
+ {
+   "id": 88,
+   "type": "fitb",
+   "stem": "Norepinephrine exerts stronger effects on _______________ compared to epinephrine, causing generalised vasoconstriction via alpha receptors and increasing both systolic and diastolic blood pressure.",
+   "answer": "blood vessels",
+   "acceptableAnswers": [
+     "blood vessels",
+     "vasculature",
+     "peripheral vessels"
+   ]
+ },
+ {
+   "id": 89,
+   "type": "fitb",
+   "stem": "Adrenaline reduces blood _______________ time by acting on beta receptors, and causes contraction of the spleen to release red blood cells into the circulation.",
+   "answer": "coagulation",
+   "acceptableAnswers": [
+     "coagulation",
+     "clotting",
+     "blood coagulation"
+   ]
+ },
+ {
+   "id": 90,
+   "type": "fitb",
+   "stem": "Rennin secretion via _______________ receptors increases rennin release which stimulates aldosterone secretion with subsequent increase in renal tubular absorption of sodium.",
+   "answer": "beta",
+   "acceptableAnswers": [
+     "beta",
+     "β",
+     "beta receptors"
+   ]
+ },
+ {
+   "id": 91,
+   "type": "fitb",
+   "stem": "DOPA is converted to dopamine using _______________ as a cofactor, which then gets transported into vesicles to form norepinephrine.",
+   "answer": "pyridoxal phosphate",
+   "acceptableAnswers": [
+     "pyridoxal phosphate",
+     "vitamin B6",
+     "pyridoxal-5-phosphate"
+   ]
+ },
+ {
+   "id": 92,
+   "type": "fitb",
+   "stem": "The presence of excessive VMA in urine is an indication of _______________ of the adrenal medulla.",
+   "answer": "hyperfunction",
+   "acceptableAnswers": [
+     "hyperfunction",
+     "hypersecretion",
+     "hyperactivity"
+   ]
+ },
+ {
+   "id": 93,
+   "type": "fitb",
+   "stem": "Catecholamines are released from autonomic neurons and adrenal medulla cells by the process of _______________ triggered by nerve impulses.",
+   "answer": "exocytosis",
+   "acceptableAnswers": [
+     "exocytosis",
+     "exocytotic release"
+   ]
+ },
+ {
+   "id": 94,
+   "type": "fitb",
+   "stem": "The synthesis of catecholamine hormones is controlled by _______________ stimulation and cortisol, which maintains adequate catecholamine production capacity.",
+   "answer": "sympathetic",
+   "acceptableAnswers": [
+     "sympathetic",
+     "sympathetic nervous system",
+     "sympathetic nerve stimulation"
+   ]
+ },
+ {
+   "id": 95,
+   "type": "fitb",
+   "stem": "Epinephrine is calorigenic because it increases _______________ consumption and basal metabolic rate, while simultaneously stimulating glycogenolysis in muscle and liver.",
+   "answer": "oxygen",
+   "acceptableAnswers": [
+     "oxygen",
+     "O2",
+     "oxygen consumption"
+   ]
+ },
+ {
+   "id": 96,
+   "type": "fitb",
+   "stem": "The adrenal medulla cells are also known as _______________ cells because of their staining characteristics with chromium salts.",
+   "answer": "chromaffin",
+   "acceptableAnswers": [
+     "chromaffin",
+     "chromophil",
+     "pheochrom"
+   ]
+ },
+ {
+   "id": 97,
+   "type": "fitb",
+   "stem": "In the CNS, catecholamines enhance _______________ arousal and facilitatory functions, especially during fight or flight responses.",
+   "answer": "cortical",
+   "acceptableAnswers": [
+     "cortical",
+     "cortical arousal",
+     "cerebral cortical"
+   ]
+ },
+ {
+   "id": 98,
+   "type": "fitb",
+   "stem": "Alpha-1 receptor stimulation in the skin produces _______________ of pilomotor smooth muscle, causing erection of hairs (piloerection).",
+   "answer": "contraction",
+   "acceptableAnswers": [
+     "contraction",
+     "smooth muscle contraction",
+     "increased contraction"
+   ]
+ },
+ {
+   "id": 99,
+   "type": "fitb",
+   "stem": "Polyuria in diabetes mellitus occurs due to _______________ diuresis, as the glucose exceeds the renal threshold and spills into urine, drawing water with it osmotically.",
+   "answer": "osmotic",
+   "acceptableAnswers": [
+     "osmotic",
+     "osmotic diuresis"
+   ]
+ },
+ {
+   "id": 100,
+   "type": "fitb",
+   "stem": "Adrenaline stimulates _______________ muscle contraction in the respiratory system via alpha and beta receptors, while Beta-2 receptors cause relaxation of bronchial smooth muscle to stimulate pulmonary ventilation.",
+   "answer": "arrector pili",
+   "acceptableAnswers": [
+     "arrector pili",
+     "skeletal muscle",
+     "arrector pili and skeletal"
+   ]
+ }
 ]
