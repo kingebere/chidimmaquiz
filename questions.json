@@ -2,1123 +2,976 @@
   {
     "id": 1,
     "type": "mcq",
-    "stem": "A postpartum client develops inability to lactate, hypotension, and persistent amenorrhea following severe obstetric hemorrhage. Which disorder most likely explains the findings?",
+    "stem": "A 34-year-old woman on long-term oestrogen therapy presents with elevated total T4 but normal free T4 and is clinically euthyroid. Her TSH is within normal limits. Which mechanism BEST explains why her free thyroid hormone remains physiologically normal despite elevated total T4?",
     "options": [
-      "Sheehan syndrome",
-      "Conn syndrome",
-      "Addison disease",
-      "Pheochromocytoma"
+      "Oestrogen directly inhibits TSH secretion from the anterior pituitary, reducing thyroid stimulation",
+      "Increased thyroxin binding globulin from oestrogen therapy reduces free hormone, stimulating TSH-driven compensation until equilibrium is restored",
+      "Oestrogen upregulates peripheral 5-deiodinase activity, accelerating conversion of T4 to T3 and clearing bound T4",
+      "Elevated oestrogen enhances transthyretin synthesis, increasing the buffering capacity for free T4"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 2,
     "type": "mcq",
-    "stem": "A nurse notes that a client with SIADH becomes progressively restless and develops generalized seizures. Which serum laboratory result would most strongly correlate with this deterioration?",
+    "stem": "During a severe 10-day fasting state, serum T3 is found to be critically low while reverse T3 (rT3) is markedly elevated. The patient is NOT clinically hypothyroid. What is the PRIMARY physiological purpose of this rT3 dominance?",
     "options": [
-      "Serum sodium 112 mEq/L",
-      "Serum potassium 3.9 mEq/L",
-      "Serum calcium 9.2 mg/dL",
-      "Serum chloride 101 mEq/L"
+      "To increase basal metabolic rate and generate heat during substrate deprivation",
+      "To competitively block T3 receptors and reduce metabolic rate, preserving body tissues when substrate is unavailable",
+      "To stimulate gluconeogenesis and glycogenolysis in the liver to maintain blood glucose",
+      "To increase erythropoietin production and compensate for reduced oxygen delivery during starvation"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 3,
     "type": "mcq",
-    "stem": "A patient with central diabetes insipidus is expected to exhibit which combination of findings?",
+    "stem": "Which of the following correctly describes the PRIMARY protein binding distribution of T3 in plasma?",
     "options": [
-      "Polyuria, hypernatremia, low urine osmolality",
-      "Oliguria, hyponatremia, elevated urine osmolality",
-      "Polyuria, hypokalemia, metabolic acidosis",
-      "Anuria, hypercalcemia, metabolic alkalosis"
+      "Thyroxin binding globulin 65%, transthyretin 20%, albumin 15%",
+      "Albumin 55%, thyroxin binding globulin 43%, transthyretin 2%",
+      "Transthyretin 55%, albumin 43%, thyroxin binding globulin 2%",
+      "Thyroxin binding globulin 55%, albumin 43%, transthyretin 2%"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 4,
     "type": "mcq",
-    "stem": "Which cellular process directly inserts aquaporin-2 channels into the luminal membrane of collecting duct cells?",
+    "stem": "A nursing student states that thyroid hormones increase cardiac output via a purely direct inotropic mechanism. Which response by the preceptor is MOST accurate?",
     "options": [
-      "ADH-mediated cAMP activation",
-      "Aldosterone-induced sodium exchange",
-      "Calcitonin-mediated phosphorylation",
-      "Insulin-triggered potassium influx"
+      "Correct; thyroid hormones act solely by enhancing sarcoplasmic reticulum calcium release",
+      "Incorrect; thyroid hormones enhance cardiac contractility partly by upregulating beta-1 adrenergic receptor gene expression on cardiac muscle, thereby potentiating catecholamine action",
+      "Incorrect; the cardiac effect is entirely mediated through TSH receptor activation on cardiomyocytes",
+      "Correct; the only mechanism is increased transcription of alpha myosin heavy chain"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 5,
     "type": "mcq",
-    "stem": "A child with untreated congenital hypothyroidism is at highest risk for which irreversible complication?",
+    "stem": "A 7-week-old neonate born with undetected congenital hypothyroidism is brought for review. Which neurological consequence is MOST likely if treatment has not been initiated by this age?",
     "options": [
-      "Severe intellectual disability",
-      "Acute respiratory alkalosis",
-      "Adrenal hypertrophy",
-      "Renal tubular necrosis"
+      "Delayed myelination affecting predominantly the peripheral nervous system",
+      "Impaired proliferation and branching of axons and dendrites, defective myelination, and disrupted nervous interconnections leading to irreversible intellectual disability",
+      "Progressive demyelination resembling multiple sclerosis due to autoimmune activation",
+      "Selective impairment of the brainstem respiratory centres resulting in central apnoea"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 6,
     "type": "mcq",
-    "stem": "A patient with acromegaly most likely developed excess growth hormone secretion during which phase?",
+    "stem": "Which of the following statements about the half-life and plasma concentration of T4 versus T3 is CORRECT?",
     "options": [
-      "After epiphyseal closure",
-      "Before thyroid differentiation",
-      "During fetal ossification",
-      "Before adrenal maturation"
+      "T4 constitutes 10% of thyroid hormone output, has a half-life of 6 days, and a plasma level of 2.4 nmol/L",
+      "T4 constitutes 90% of hormone output, has a half-life of 6 days, and a plasma adult level of 102 nmol/L",
+      "T3 constitutes 90% of hormone output, has a half-life of one day, and a plasma level of 102 nmol/L",
+      "T3 constitutes 10% of hormone output, has a half-life of 6 days, and a plasma level of 102 nmol/L"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 7,
     "type": "mcq",
-    "stem": "Which mechanism best explains the initial stimulation of ADH release during severe dehydration?",
+    "stem": "Thyroid peroxidase (TPO) inhibition by propylthiouracil (PTU) would be expected to MOST directly impair which step in thyroid hormone biosynthesis?",
     "options": [
-      "Activation of hypothalamic osmoreceptors",
-      "Suppression of vagal afferents",
-      "Inhibition of renin secretion",
-      "Reduction in angiotensin II synthesis"
+      "Active transport of iodide from blood into thyrocytes via the sodium-iodide symporter",
+      "Organification â the iodination of tyrosine residues on thyroglobulin to form MIT and DIT",
+      "Proteolytic cleavage of thyroglobulin by lysosomal peptidases to release T3 and T4",
+      "Peripheral deiodination of T4 to T3 by 5-deiodinase in liver and kidney"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 8,
     "type": "mcq",
-    "stem": "A laboring client receiving oxytocin develops contractions every 70 seconds lasting 110 seconds. Which complication is the priority concern?",
+    "stem": "A patient with longstanding hypothyroidism undergoes lipid panel testing. Which finding is MOST consistent with the pathophysiology described in thyroid hormone fat metabolism?",
     "options": [
-      "Fetal hypoxia",
-      "Maternal hyperglycemia",
-      "Polycythemia",
-      "Pulmonary embolism"
+      "Decreased plasma cholesterol and increased plasma triglycerides",
+      "Increased plasma cholesterol, phospholipids, and triglycerides with propensity towards atherogenesis",
+      "Decreased plasma cholesterol and decreased plasma triglycerides due to impaired lipolysis",
+      "Normal plasma cholesterol with isolated hypertriglyceridaemia due to reduced lipoprotein lipase"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 9,
     "type": "mcq",
-    "stem": "The sodium-iodide transporter primarily functions through which mechanism?",
+    "stem": "Which of the following CORRECTLY describes how thyroid hormones influence the oxygen-haemoglobin dissociation curve?",
     "options": [
-      "Secondary active transport",
-      "Simple diffusion",
-      "Primary potassium exchange",
-      "Facilitated chloride transport"
+      "They shift the curve to the left by increasing 2,3-DPG, making oxygen more tightly bound to haemoglobin",
+      "They increase erythrocyte 2,3-DPG content, shifting the dissociation curve to the right and making oxygen more readily available to tissues",
+      "They shift the curve to the right by decreasing 2,3-DPG, reducing haemoglobin affinity for oxygen",
+      "They shift the curve to the left by decreasing 2,3-DPG, enhancing pulmonary oxygen loading"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 10,
     "type": "mcq",
-    "stem": "A patient with hyperthyroidism reports severe heat intolerance. Which physiological change most directly explains this symptom?",
+    "stem": "A patient presents with fine tremor, hyperreflexia, and proximal muscle weakness. Thyroid function tests confirm hyperthyroidism. Which physiological explanation is MOST accurate for the combination of hyperreflexia AND muscle weakness?",
     "options": [
-      "Increased basal metabolic rate",
-      "Reduced peripheral circulation",
-      "Suppressed mitochondrial activity",
-      "Impaired ATP consumption"
+      "Excess thyroid hormone selectively destroys lower motor neurons causing weakness, while stimulating upper motor neurons causing hyperreflexia",
+      "Thyroid hormones initially stimulate muscle speed and contraction strength and enhance deep tendon reflexes, but excess secretion leads to muscle weakness through increased protein catabolism",
+      "Muscle weakness results from hypokalaemia caused by thyroid-stimulated Na-K ATPase activity, while hyperreflexia results from central sensitisation",
+      "Both hyperreflexia and weakness result from mitochondrial uncoupling causing energy depletion in neuromuscular junctions"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 11,
     "type": "mcq",
-    "stem": "A 14-year-old boy has rapid linear growth, enlarged extremities, and elevated GH levels prior to epiphyseal fusion. Which diagnosis is most likely?",
+    "stem": "A 28-year-old pregnant woman at 20 weeks gestation has elevated total T4 but normal TSH. She is asymptomatic. Her clinician explains the mechanism. Which explanation is MOST physiologically accurate?",
     "options": [
-      "Pituitary gigantism",
-      "Achondroplasia",
-      "Acromegaly",
-      "Turner syndrome"
+      "Placental hCG cross-reacts with TSH receptors, directly stimulating thyroid hormone production independent of TBG changes",
+      "Pregnancy increases TBG, reducing free T4 and stimulating TSH, which drives total T4 upward until free hormone equilibrium is restored",
+      "Foetal thyroid hormone crosses the placenta, suppressing maternal TSH and elevating maternal total T4",
+      "Increased renal clearance of free T4 in pregnancy stimulates TSH-driven increase in total T4 production"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 12,
     "type": "mcq",
-    "stem": "Which finding most strongly supports a diagnosis of SIADH rather than diabetes insipidus?",
+    "stem": "Which of the following sets of cardiovascular effects CORRECTLY describes what thyroid hormones produce?",
     "options": [
-      "Low serum osmolality with concentrated urine",
-      "Hypernatremia with dilute urine",
-      "Polyuria with increased thirst",
-      "Low urine sodium with dehydration"
+      "Positive inotropic, negative chronotropic, positive dromotropic, negative bathmotropic",
+      "Positive inotropic, positive chronotropic, positive dromotropic, positive bathmotropic",
+      "Negative inotropic, positive chronotropic, negative dromotropic, positive bathmotropic",
+      "Positive inotropic, positive chronotropic, negative dromotropic, negative bathmotropic"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 13,
     "type": "mcq",
-    "stem": "A patient develops coarse facial features, enlarged hands, and deepened voice over several years. Which condition most likely explains these manifestations?",
+    "stem": "A child of 5 years presents with severe stunted growth and intellectual disability. His mother had undetected hypothyroidism throughout pregnancy. Which mechanism from the lecture BEST explains the stunted growth specifically?",
     "options": [
-      "Acromegaly",
-      "Gigantism",
-      "Addison disease",
-      "Cushing syndrome"
+      "Thyroid hormone deficiency reduces IGF-1 synthesis and impairs synergy with growth hormone, impairing skeletal and somatic growth",
+      "Reduced calorigenesis prevents substrate availability for chondrocyte proliferation in growth plates",
+      "Hypothyroidism increases plasma cholesterol which deposits in epiphyseal plates inhibiting longitudinal growth",
+      "Absent thyroid hormone causes failure of gluconeogenesis, leading to chronic hypoglycaemia that starves long bone precursors"
     ],
     "answer": "A"
   },
   {
     "id": 14,
     "type": "mcq",
-    "stem": "During thyroid hormone synthesis, iodination occurs primarily within which structure?",
+    "stem": "Reverse T3 (rT3) is BEST described as which of the following?",
     "options": [
-      "Thyroglobulin in colloid",
-      "Mitochondrial matrix",
-      "Nuclear membrane",
-      "Smooth endoplasmic reticulum"
+      "An isomer of T3 (3,5,3'-triiodothyronine) that strongly activates thyroid hormone receptors",
+      "An isomer of T3 (3,3',5'-triiodothyronine) that binds thyroid hormone receptors without activating them, blocking T3 action",
+      "A degradation product of T4 that has no receptor affinity whatsoever",
+      "The predominant form of thyroid hormone produced by intrathyroidal coupling of two DIT molecules"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 15,
     "type": "mcq",
-    "stem": "Which receptor subtype mediates the vasoconstrictive effects of vasopressin?",
+    "stem": "In a patient with chronic renal disease, which change in thyroid hormone binding dynamics would be MOST expected?",
     "options": [
-      "V1A receptor",
-      "V2 receptor",
-      "Beta-2 receptor",
-      "Mineralocorticoid receptor"
+      "Increased TBG levels leading to reduced free T4, elevated TSH, and elevated total T4",
+      "Reduced binding protein levels leading to increased free hormone transiently, with TSH adjusting to restore equilibrium",
+      "Unchanged TBG levels with direct inhibition of thyroid peroxidase by retained uraemic toxins",
+      "Elevated transthyretin due to reduced renal catabolism, causing pseudo-hyperthyroidism"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 16,
     "type": "mcq",
-    "stem": "A patient with untreated pituitary insufficiency is most likely to experience which symptom during prolonged fasting?",
+    "stem": "Which tissue is SPECIFICALLY EXCLUDED from thyroid hormone-mediated calorigenic effects?",
     "options": [
-      "Hypoglycemia",
-      "Hypercalcemia",
-      "Polycythemia",
-      "Metabolic alkalosis"
+      "Cardiac muscle",
+      "Anterior pituitary",
+      "Hepatocytes",
+      "Skeletal muscle"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 17,
     "type": "mcq",
-    "stem": "Which endocrine disorder is most strongly associated with bitemporal hemianopia?",
+    "stem": "During acute cold exposure, thyroid hormones exert their calorigenic effect by which PRIMARY mechanism?",
     "options": [
-      "Pituitary adenoma",
-      "Pheochromocytoma",
-      "Primary aldosteronism",
-      "Parathyroid hyperplasia"
+      "Direct mitochondrial uncoupling via increased Na-K ATPase activity",
+      "Potentiating the thermogenic effect of catecholamines",
+      "Direct stimulation of brown adipose tissue independent of catecholamines",
+      "Increasing TRH and TSH secretion, which independently generate heat at the pituitary level"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 18,
     "type": "mcq",
-    "stem": "A client with diabetes insipidus receives desmopressin. Which finding best indicates therapeutic effectiveness?",
+    "stem": "A nurse is caring for a patient with thyrotoxicosis who has been prescribed propranolol. The rationale for using a beta blocker in this condition is MOST accurately linked to which thyroid hormone mechanism?",
     "options": [
-      "Reduced urine output",
-      "Increased respiratory rate",
-      "Elevated serum sodium",
-      "Decreased urine specific gravity"
+      "Propranolol directly inhibits thyroid peroxidase, reducing T3 and T4 synthesis",
+      "Thyroid hormones increase expression of the beta-1 adrenergic receptor gene on cardiac muscle, potentiating catecholamine effects; propranolol blocks this amplified adrenergic response",
+      "Propranolol inhibits peripheral 5-deiodinase, reducing conversion of T4 to active T3",
+      "Beta blockade reduces TRH secretion from the hypothalamus, indirectly lowering TSH and thyroid hormone production"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 19,
     "type": "mcq",
-    "stem": "A nurse suspects thyroid storm in a hospitalized patient. Which assessment finding would support this suspicion?",
+    "stem": "Which of the following correctly describes the TIMING of thyroid hormone action following initiation at the nuclear receptor level?",
     "options": [
-      "Hyperthermia with severe tachycardia",
-      "Bradycardia with constipation",
-      "Hypothermia with lethargy",
-      "Tetany with positive Chvostek sign"
+      "Immediate onset within minutes, peak at 48 hours, declining over one week",
+      "Onset delayed approximately 48 hours, peak at 14 days, declining over one month",
+      "Onset at 14 days, peak at one month, declining over six months",
+      "Onset at 24 hours, peak at 7 days, declining over two weeks"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 20,
     "type": "mcq",
-    "stem": "Which hormone exerts permissive effects necessary for normal growth hormone secretion?",
+    "stem": "A patient with hypothyroidism develops a yellowish skin discolouration. The MOST physiologically accurate explanation is:",
     "options": [
-      "Thyroid hormone",
-      "Calcitonin",
-      "Aldosterone",
-      "Parathyroid hormone"
+      "Elevated bilirubin from impaired hepatic glucuronidation of bile pigments in hypothyroidism",
+      "Thyroid hormone deficiency impairs conversion of carotene to vitamin A; carotene accumulates beneath the skin producing characteristic yellowish discolouration",
+      "Reduced erythropoiesis in hypothyroidism causes jaundice-like pallor from impaired haemoglobin synthesis",
+      "Hypothyroidism causes cholestatic jaundice due to excess cholesterol deposition in hepatic bile canaliculi"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 21,
     "type": "mcq",
-    "stem": "A patient with SIADH is expected to have which urine characteristic?",
+    "stem": "Regarding the coagulation implications of thyroid dysfunction, which statement is MOST accurate?",
     "options": [
-      "Elevated urine specific gravity",
-      "Large amounts of ketones",
-      "Marked glucosuria",
-      "Absence of sodium"
+      "Hyperthyroidism selectively reduces factor VII synthesis by impairing hepatic vitamin K recycling",
+      "Normal hepatic synthesis of vitamin K-dependent clotting factors (prothrombin, factors VII, IX and X) requires an adequate euthyroid state; both hypo- and hyperthyroid states derail this coagulation mechanism",
+      "Hypothyroidism selectively impairs factor X synthesis due to reduced hepatic protein synthesis from low T3",
+      "Hyperthyroidism causes hypercoagulability by upregulating all clotting factor synthesis proportionally"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 22,
     "type": "mcq",
-    "stem": "Which pathological process most directly causes Sheehan syndrome?",
+    "stem": "A case scenario: A 45-year-old male with newly diagnosed hypothyroidism complains of constipation with hard, infrequent stools. His nurse explains the GIT mechanism. Which explanation is MOST accurate?",
     "options": [
-      "Pituitary ischemic necrosis",
-      "Autoimmune adrenal destruction",
-      "Parathyroid adenoma formation",
-      "Diffuse thyroid fibrosis"
+      "Hypothyroidism directly damages the enteric nervous system, causing permanent dysmotility",
+      "Reduced thyroid hormone decreases intestinal motility and secretions, resulting in decreased frequency of hard stools (constipation)",
+      "Low T3 reduces gastric acid secretion, slowing chemical digestion and causing delayed gastric emptying",
+      "Hypothyroidism causes mesenteric vasoconstriction reducing mucosal blood flow and slowing peristalsis"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 23,
     "type": "mcq",
-    "stem": "A patient with Laron dwarfism is expected to demonstrate which laboratory profile?",
+    "stem": "The calorigenesis accomplished by thyroid hormones is mediated through which three simultaneous mechanisms?",
     "options": [
-      "Normal GH with low IGF-1",
-      "Low GH with elevated IGF-1",
-      "Elevated cortisol with low GH",
-      "Suppressed TSH with high GH"
+      "Increased lipolysis, increased gluconeogenesis, and increased protein synthesis",
+      "Increased number, size and activity of mitochondria; increased Na-K ATPase activity; and increased activity of key enzymes of oxidative phosphorylation",
+      "Increased mitochondrial uncoupling, decreased Na-K ATPase activity, and increased fatty acid oxidation",
+      "Increased cytochrome c oxidase activity, decreased mitochondrial ATP synthase, and increased glycolytic enzyme transcription"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 24,
     "type": "mcq",
-    "stem": "Which electrolyte imbalance is most likely in untreated diabetes insipidus?",
+    "stem": "Regarding the signal transduction of thyroid hormones, which statement BEST describes their receptor interaction?",
     "options": [
-      "Hypernatremia",
-      "Hypocalcemia",
-      "Hypermagnesemia",
-      "Severe hypophosphatemia"
+      "Thyroid hormones bind to G-protein coupled receptors on the plasma membrane, activating adenylyl cyclase",
+      "Thyroid hormones are lipid soluble, enter cells freely, and bind nuclear receptors that bind DNA via zinc fingers to transcribe mRNA; these receptors have greater affinity for T3 than T4",
+      "Thyroid hormones bind cytoplasmic receptors that translocate to mitochondria to directly stimulate ATP synthesis",
+      "Thyroid hormones bind to nuclear receptors via leucine zippers with equal affinity for T3 and T4"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 25,
     "type": "mcq",
-    "stem": "Which hormone primarily stimulates expression of thyroid peroxidase?",
+    "stem": "A patient with hyperthyroidism develops diastolic hypotension despite elevated systolic blood pressure. Which mechanism BEST explains the DIASTOLIC component?",
     "options": [
-      "TSH",
-      "ACTH",
-      "FSH",
-      "Prolactin"
+      "Excess T3 inhibits aldosterone synthesis, causing sodium wasting and reduced diastolic filling pressure",
+      "Numerous metabolic end products from increased metabolism cause peripheral vasodilation, increasing blood flow; although systolic pressure rises, diastolic pressure is reduced, resulting in increased pulse pressure",
+      "Hyperthyroidism induces mitral regurgitation, reducing diastolic ventricular filling pressure",
+      "Elevated heart rate in hyperthyroidism shortens diastole, reducing time for ventricular filling and lowering diastolic pressure"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 26,
-    "type": "mcq",
-    "stem": "A patient develops severe hyponatremia secondary to SIADH. Which neurological manifestation is most concerning?",
-    "options": [
-      "Seizures",
-      "Mild fatigue",
-      "Muscle twitching",
-      "Anxiety"
-    ],
-    "answer": "A"
+    "type": "fitb",
+    "stem": "The binding of iodine to tyrosine residues on the thyroglobulin (TGB) molecule is a process called _______________.",
+    "answer": "organification",
+    "acceptableAnswers": ["organification", "iodination of tyrosine", "organification of iodine"]
   },
   {
     "id": 27,
-    "type": "mcq",
-    "stem": "Which anatomical structure connects the two lobes of the thyroid gland?",
-    "options": [
-      "Isthmus",
-      "Infundibulum",
-      "Pituitary stalk",
-      "Parafollicular bridge"
-    ],
-    "answer": "A"
+    "type": "fitb",
+    "stem": "Thyroid hormones stimulate the mobilisation of fat from adipose tissue through _______________, resulting in an increase in free fatty acids.",
+    "answer": "lipolysis",
+    "acceptableAnswers": ["lipolysis", "fat mobilisation", "lipid mobilisation"]
   },
   {
     "id": 28,
-    "type": "mcq",
-    "stem": "A client with acromegaly complains of increasing ring and shoe sizes. Which process best explains these changes?",
-    "options": [
-      "Soft tissue and periosteal overgrowth",
-      "Acute inflammatory edema",
-      "Peripheral arterial insufficiency",
-      "Excess aldosterone secretion"
-    ],
-    "answer": "A"
+    "type": "fitb",
+    "stem": "The process by which T4 and T3 are stored inside thyroid follicles for 2â3 months involves their formation bound to _______________, which is stored in the colloid.",
+    "answer": "thyroglobulin (TGB)",
+    "acceptableAnswers": ["thyroglobulin", "TGB", "thyroid binding globulin", "thyroglobulin (TGB)"]
   },
   {
     "id": 29,
-    "type": "mcq",
-    "stem": "Which condition is most strongly associated with chronic excess ADH secretion?",
-    "options": [
-      "Small cell lung carcinoma",
-      "Hashimoto thyroiditis",
-      "Myasthenia gravis",
-      "Rheumatic fever"
-    ],
-    "answer": "A"
+    "type": "fitb",
+    "stem": "In the context of thyroid hormone biosynthesis, two molecules of _______________ undergo oxidative condensation to produce T4 (tetra-iodo-thyronine).",
+    "answer": "DIT (di-iodo-tyrosine)",
+    "acceptableAnswers": ["DIT", "di-iodo-tyrosine", "diiodotyrosine", "3,5 di-iodo-tyrosine"]
   },
   {
     "id": 30,
-    "type": "mcq",
-    "stem": "Which thyroid cell type forms the follicular lining responsible for thyroid hormone synthesis?",
-    "options": [
-      "Thyrocytes",
-      "Parafollicular cells",
-      "Chromaffin cells",
-      "Pituicytes"
-    ],
-    "answer": "A"
+    "type": "fitb",
+    "stem": "Lymphopenia is a haemopoietic consequence associated with thyroid _______________, whereas lymphocytosis is associated with thyroid hyperfunction.",
+    "answer": "hypofunction",
+    "acceptableAnswers": ["hypofunction", "hypothyroidism", "underactivity", "deficiency"]
   },
-
   {
     "id": 31,
     "type": "fitb",
-    "stem": "The enzyme responsible for converting iodide into iodine is thyroid __________.",
-    "answer": "peroxidase",
-    "acceptableAnswers": [
-      "peroxidase",
-      "thyroid peroxidase",
-      "TPO"
-    ]
+    "stem": "The conversion of _______________ to vitamin A requires thyroid hormones; in their absence, the precursor accumulates under the skin.",
+    "answer": "carotene",
+    "acceptableAnswers": ["carotene", "beta-carotene", "provitamin A", "carotenoids"]
   },
   {
     "id": 32,
     "type": "fitb",
-    "stem": "The posterior pituitary hormone responsible for water reabsorption is __________.",
-    "answer": "vasopressin",
-    "acceptableAnswers": [
-      "vasopressin",
-      "ADH",
-      "arginine vasopressin"
-    ]
+    "stem": "In hypothyroidism, plasma _______________, phospholipids, and triglycerides are elevated, creating a propensity towards atherogenesis.",
+    "answer": "cholesterol",
+    "acceptableAnswers": ["cholesterol", "plasma cholesterol", "total cholesterol", "LDL cholesterol"]
   },
   {
     "id": 33,
     "type": "fitb",
-    "stem": "The functional units of the thyroid gland are called __________.",
-    "answer": "follicles",
-    "acceptableAnswers": [
-      "follicles",
-      "thyroid follicles"
-    ]
+    "stem": "MIT and DIT released into the cytoplasm after lysosomal proteolysis undergo _______________ within thyrocytes by microsomal iodo-tyrosine de-iodinases.",
+    "answer": "de-iodination",
+    "acceptableAnswers": ["de-iodination", "deiodination", "iodine removal", "de-iodinase activity"]
   },
   {
     "id": 34,
     "type": "fitb",
-    "stem": "In SIADH, serum sodium is typically __________.",
-    "answer": "low",
-    "acceptableAnswers": [
-      "low",
-      "decreased",
-      "reduced"
-    ]
+    "stem": "The haemopoietic effect of thyroid hormones includes increasing erythrocyte _______________ content, which shifts the oxygen-haemoglobin dissociation curve to the right.",
+    "answer": "2,3-diphosphoglycerate (2,3-DPG)",
+    "acceptableAnswers": ["2,3-DPG", "2,3-diphosphoglycerate", "2,3DPG", "diphosphoglycerate"]
   },
   {
     "id": 35,
     "type": "fitb",
-    "stem": "The receptor subtype responsible for ADH-mediated water reabsorption is the __________ receptor.",
-    "answer": "V2",
-    "acceptableAnswers": [
-      "V2",
-      "V-2",
-      "V2 receptor"
-    ]
+    "stem": "Thyroid hormone acts on the hypothalamus and anterior pituitary as part of a _______________ feedback loop, where increased thyroid hormone reduces TRH and TSH secretion.",
+    "answer": "negative",
+    "acceptableAnswers": ["negative", "negative feedback", "inhibitory"]
   },
   {
     "id": 36,
     "type": "fitb",
-    "stem": "A child with congenital hypothyroidism may develop severe mental retardation known as __________ if untreated.",
-    "answer": "cretinism",
-    "acceptableAnswers": [
-      "cretinism"
-    ]
+    "stem": "The major extraglandular source of T3 (approximately 89%) in the body is derived from _______________ of T4 by 5-monodeiodinase in the liver, kidneys, and other tissues.",
+    "answer": "peripheral deiodination",
+    "acceptableAnswers": ["peripheral deiodination", "extrathyroidal deiodination", "deiodination", "peripheral de-iodination"]
   },
   {
     "id": 37,
     "type": "fitb",
-    "stem": "Growth hormone excess before epiphyseal closure results in pituitary __________.",
-    "answer": "gigantism",
-    "acceptableAnswers": [
-      "gigantism",
-      "pituitary gigantism"
-    ]
+    "stem": "In thyroid hormone protein metabolism, a deficiency state results in _______________ protein synthesis, manifesting clinically as stunted growth.",
+    "answer": "impaired",
+    "acceptableAnswers": ["impaired", "reduced", "decreased", "deficient"]
   },
   {
     "id": 38,
     "type": "fitb",
-    "stem": "The storage granules found in the posterior pituitary are known as __________ bodies.",
-    "answer": "Herring",
-    "acceptableAnswers": [
-      "Herring",
-      "Herring bodies"
-    ]
+    "stem": "T4 and T3 may be directly conjugated in the liver with _______________ and sulphate, then secreted into the intestine and passed out in stool.",
+    "answer": "glucuronic acid",
+    "acceptableAnswers": ["glucuronic acid", "glucuronide", "glucuronyl"]
   },
   {
     "id": 39,
     "type": "fitb",
-    "stem": "ADH deficiency results in excretion of large volumes of __________ urine.",
-    "answer": "dilute",
-    "acceptableAnswers": [
-      "dilute"
-    ]
+    "stem": "Thyroid hormones stimulate pulmonary ventilation _______________ by maintaining the ventilatory response of hypoxia and hypercapnoea on brainstem respiratory centres.",
+    "answer": "indirectly",
+    "acceptableAnswers": ["indirectly", "via an indirect mechanism", "indirectly stimulate"]
   },
   {
     "id": 40,
     "type": "fitb",
-    "stem": "The thyroid gland develops embryologically from the floor of the __________.",
-    "answer": "pharynx",
-    "acceptableAnswers": [
-      "pharynx"
-    ]
+    "stem": "The thyroid gland's colloid provides a hormonal reserve of _______________ months under normal physiological conditions.",
+    "answer": "2â3",
+    "acceptableAnswers": ["2-3", "2â3", "two to three", "2 to 3"]
   },
-
   {
     "id": 41,
     "type": "fitb",
-    "stem": "Oxytocin release during labor is enhanced by cervical __________.",
-    "answer": "dilatation",
-    "acceptableAnswers": [
-      "dilatation",
-      "dilation",
-      "cervical dilation"
-    ]
+    "stem": "Quantitatively, T4 is more abundant in plasma, but T3 has a _______________ physiological action attributed to less protein binding.",
+    "answer": "more potent",
+    "acceptableAnswers": ["more potent", "greater", "stronger", "more active", "potent"]
   },
   {
     "id": 42,
     "type": "fitb",
-    "stem": "The major intracellular messenger activated by V2 receptors is __________.",
-    "answer": "cAMP",
-    "acceptableAnswers": [
-      "cAMP",
-      "cyclic AMP",
-      "cyclic adenosine monophosphate"
-    ]
+    "stem": "Normal levels of thyroid hormones stimulate protein synthesis by stimulating _______________ of mRNA and translation of proteins in the ribosomes.",
+    "answer": "transcription",
+    "acceptableAnswers": ["transcription", "mRNA transcription", "gene transcription"]
   },
   {
     "id": 43,
     "type": "fitb",
-    "stem": "The hormone that promotes iodide trapping in thyroid cells is __________.",
-    "answer": "TSH",
-    "acceptableAnswers": [
-      "TSH",
-      "thyroid stimulating hormone"
-    ]
+    "stem": "The hormone receptor complex of thyroid hormones binds to DNA via _______________, triggering transcription of mRNA and enzyme formation.",
+    "answer": "zinc fingers",
+    "acceptableAnswers": ["zinc fingers", "zinc finger domains", "zinc-finger motifs"]
   },
   {
     "id": 44,
     "type": "fitb",
-    "stem": "A deficiency of ADH commonly causes excessive thirst known as __________.",
-    "answer": "polydipsia",
-    "acceptableAnswers": [
-      "polydipsia"
-    ]
+    "stem": "Thyroid hormone effects on carbohydrate metabolism increase _______________ absorption from the GIT and increase cellular glucose uptake for metabolism.",
+    "answer": "glucose",
+    "acceptableAnswers": ["glucose", "sugar", "carbohydrate"]
   },
   {
     "id": 45,
     "type": "fitb",
-    "stem": "The thyroid hormone with the greatest biological activity is __________.",
-    "answer": "T3",
-    "acceptableAnswers": [
-      "T3",
-      "triiodothyronine"
-    ]
+    "stem": "Reverse T3 is particularly abundant in the first _______________ weeks of extra uterine life and also rises during starvation and malnutrition.",
+    "answer": "6",
+    "acceptableAnswers": ["6", "six"]
   },
   {
     "id": 46,
     "type": "fitb",
-    "stem": "The posterior pituitary hormones are structurally classified as __________ peptides.",
-    "answer": "nonapeptides",
-    "acceptableAnswers": [
-      "nonapeptides",
-      "nonapeptide"
-    ]
+    "stem": "The positive _______________ effect of thyroid hormones on the heart refers specifically to increased strength of cardiac muscle contraction.",
+    "answer": "inotropic",
+    "acceptableAnswers": ["inotropic", "ionotropic"]
   },
   {
     "id": 47,
     "type": "fitb",
-    "stem": "The major source of dietary iodine is __________ food.",
-    "answer": "sea",
-    "acceptableAnswers": [
-      "sea",
-      "seafood",
-      "marine"
-    ]
+    "stem": "During exposure to chronic cold â unlike acute cold â thyroid hormones act _______________ rather than through catecholamine potentiation, making chronic cold the most potent thyroid stimulator.",
+    "answer": "directly",
+    "acceptableAnswers": ["directly", "through a direct mechanism", "independently"]
   },
   {
     "id": 48,
     "type": "fitb",
-    "stem": "The syndrome caused by postpartum pituitary necrosis is called __________ syndrome.",
-    "answer": "Sheehan",
-    "acceptableAnswers": [
-      "Sheehan",
-      "Sheehan's"
-    ]
+    "stem": "In the liver, some intestinal bacterial _______________ of the conjugated thyroid hormones allows released free hormones to be reabsorbed back into circulation via enterohepatic recirculation.",
+    "answer": "hydrolysis",
+    "acceptableAnswers": ["hydrolysis", "hydrolysation", "bacterial hydrolysis", "enzymatic hydrolysis"]
   },
   {
     "id": 49,
     "type": "fitb",
-    "stem": "The hypothalamic nuclei primarily responsible for vasopressin production are the supraoptic and __________ nuclei.",
-    "answer": "paraventricular",
-    "acceptableAnswers": [
-      "paraventricular"
-    ]
+    "stem": "T4 protein binding is primarily by thyroxin binding globulin at 65%, thyroxin binding pre-albumin (transthyretin) at 20%, and _______________ at 15%.",
+    "answer": "albumin",
+    "acceptableAnswers": ["albumin", "serum albumin", "plasma albumin"]
   },
   {
     "id": 50,
     "type": "fitb",
-    "stem": "A child with achondroplasia characteristically has short limbs and a relatively __________ trunk.",
-    "answer": "normal",
-    "acceptableAnswers": [
-      "normal"
-    ]
+    "stem": "The characteristic slow mentation, lethargy, and somnolence seen in hypothyroidism result from the requirement of thyroid hormone for normal _______________ brain function.",
+    "answer": "adult",
+    "acceptableAnswers": ["adult", "mature adult", "adult brain"]
   },
-
   {
     "id": 51,
     "type": "mcq",
-    "stem": "A patient with SIADH has persistent nausea, irritability, and confusion. Which pathophysiological process most directly causes these neurological findings?",
+    "stem": "A patient with newly confirmed hypothyroidism has markedly elevated TSH. A junior nurse asks why TSH is elevated. The MOST complete mechanistic explanation is:",
     "options": [
-      "Cellular swelling from hypo-osmolality",
-      "Excess intracellular calcium accumulation",
-      "Reduced cerebral glucose utilization",
-      "Metabolic alkalosis-induced vasoconstriction"
+      "Hypothyroidism directly stimulates the anterior pituitary thyrotropes to proliferate, producing excess TSH independent of hypothalamic signalling",
+      "Reduced thyroid hormone levels remove the negative feedback on the hypothalamus and anterior pituitary, causing increased TRH secretion which then drives increased TSH production from thyrotropes",
+      "Low thyroid hormone directly stimulates TRH secretion from the anterior pituitary, bypassing hypothalamic control",
+      "Elevated TSH occurs because the thyroid gland releases a retrograde signal to the hypothalamus that upregulates TRH, subsequently elevating TSH"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 52,
     "type": "mcq",
-    "stem": "A nurse caring for a patient with severe hyperthyroidism should prioritize monitoring for which cardiovascular complication?",
+    "stem": "CASE: A 52-year-old woman with no prior thyroid history is started on L-asparaginase chemotherapy. One month later, her free T4 is slightly elevated and TSH is mildly suppressed. Which protein binding mechanism BEST explains this finding?",
     "options": [
-      "Atrial fibrillation",
-      "Complete heart block",
-      "Pulseless electrical activity",
-      "Cardiac tamponade"
+      "L-asparaginase increases TBG synthesis in the liver, elevating total and free T4",
+      "L-asparaginase reduces binding protein levels, transiently increasing free hormone; TSH is suppressed and subsequently adjusted to restore status quo",
+      "L-asparaginase directly stimulates thyroid peroxidase activity, increasing hormone synthesis",
+      "Chemotherapy-induced stress elevates cortisol which cross-reacts with thyroid receptors, increasing apparent free T4"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 53,
     "type": "mcq",
-    "stem": "Which finding most strongly differentiates acromegaly from gigantism?",
+    "stem": "Which of the following correctly pairs the coupling reaction with the resulting thyroid hormone product?",
     "options": [
-      "Epiphyseal closure prior to hormone excess",
-      "Presence of elevated GH levels",
-      "Enlargement of soft tissues",
-      "Pituitary adenoma formation"
+      "DIT + DIT = T3; MIT + DIT = T4; DIT + MIT = rT3",
+      "DIT + DIT = T4; MIT + DIT = T3; DIT + MIT = rT3",
+      "MIT + MIT = T3; DIT + DIT = T4; MIT + DIT = rT3",
+      "DIT + MIT = T4; MIT + MIT = T3; DIT + DIT = rT3"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 54,
     "type": "mcq",
-    "stem": "A patient with untreated diabetes insipidus is most likely to exhibit which urine specific gravity?",
+    "stem": "A child living in a remote iodine-deficient region is found to have elevated TSH and low T4. His thyroid gland is visibly enlarged. Which autoregulatory mechanism SHOULD have been engaged to prevent severe hormone depletion?",
     "options": [
-      "1.001",
-      "1.030",
-      "1.045",
-      "1.050"
+      "Decreased thyroid peroxidase activity to conserve available iodine for maximum organification efficiency",
+      "Iodide autoregulatory mechanisms that control thyroid hormone synthesis in response to iodide availability, supplemented by elevated TSH driving glandular hypertrophy to compensate",
+      "Increased conversion of rT3 to active T3 by peripheral 5-deiodinase to compensate for reduced intrathyroidal T3 production",
+      "Increased transthyretin synthesis to release bound T4 into the free fraction, preserving physiological activity"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 55,
     "type": "mcq",
-    "stem": "Which physiological response occurs when plasma osmolality decreases significantly?",
+    "stem": "A hypothyroid patient on Warfarin requires dose adjustment. Which thyroid hormone effect on coagulation is the clinician MOST likely responding to?",
     "options": [
-      "Suppression of ADH secretion",
-      "Activation of renin release",
-      "Enhanced aldosterone synthesis",
-      "Stimulation of thirst center"
+      "Hypothyroidism increases TBG, which binds Warfarin and reduces its bioavailability, requiring dose increase",
+      "The euthyroid state is required for normal hepatic synthesis of vitamin K-dependent clotting factors; hypothyroidism impairs this, affecting anticoagulant sensitivity",
+      "T3 directly inhibits hepatic Warfarin metabolism via CYP2C9 suppression in hypothyroid states",
+      "Hypothyroidism reduces gastric motility and delays Warfarin absorption, reducing its serum concentration"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 56,
     "type": "mcq",
-    "stem": "A patient with pituitary insufficiency exhibits loss of secondary sexual characteristics and cold intolerance. Which endocrine dysfunction most likely explains this presentation?",
+    "stem": "CASE: A febrile 60-year-old ICU patient on high-dose glucocorticoids for septic shock has low T3 and high rT3, but clinically does not appear hypothyroid. His thyroid panel is interpreted as 'euthyroid sick syndrome.' Which mechanism from the lecture BEST explains elevated rT3 in this setting?",
     "options": [
-      "Panhypopituitarism",
-      "Primary hyperparathyroidism",
-      "Hyperaldosteronism",
-      "Isolated prolactinoma"
+      "Glucocorticoids upregulate thyroid peroxidase, shifting production towards rT3 at the expense of T3",
+      "High-dose steroid therapy, along with illness-related stress, causes T3 levels to fall while inert rT3 rises as an adaptive response to conserve body tissues and reduce metabolic rate when substrate is limited",
+      "Fever directly inactivates 5-deiodinase in the thyroid, impairing T4 to T3 conversion and diverting deiodination towards rT3",
+      "Septic shock reduces hepatic blood flow, impairing peripheral T4 deiodination to T3, with rT3 accumulating as a passive byproduct"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 57,
     "type": "mcq",
-    "stem": "Which factor inhibits oxytocin-mediated uterine contractions during pregnancy?",
+    "stem": "Which statement MOST accurately describes the role of thyroidal vs. extrathyroidal deiodinase in regulation of thyroid function?",
     "options": [
-      "Progesterone",
-      "Estrogen",
-      "Prolactin",
-      "Relaxin"
+      "Only thyroidal deiodinase regulates function; extrathyroidal deiodinase is only involved in catabolism",
+      "Both thyroidal and extrathyroidal deiodinases regulate thyroid function through their conversion of T4 to the more active T3, with this T3 being primarily available for feedback inhibition at the hypothalamus and pituitary",
+      "Extrathyroidal deiodinase exclusively converts T4 to rT3 under all physiological conditions",
+      "Thyroidal deiodinase converts T3 to T4 for storage, while extrathyroidal deiodinase reconverts T4 to T3 for circulation"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 58,
     "type": "mcq",
-    "stem": "A client with chronic SIADH develops low serum osmolality. Which renal response would the nurse expect?",
+    "stem": "Regarding carbohydrate metabolism, thyroid hormones produce which NET effect on blood glucose despite stimulating both glucose uptake AND gluconeogenesis?",
     "options": [
-      "Continued production of concentrated urine",
-      "Complete absence of urinary sodium",
-      "Massive bicarbonate excretion",
-      "Marked potassium retention"
+      "Net hypoglycaemia, because peripheral glucose uptake exceeds hepatic glucose output",
+      "A net increase in blood sugar, because stimulation of gluconeogenesis, glycogenolysis, and intestinal glucose absorption collectively exceeds the increase in cellular uptake",
+      "No net change, because the opposing effects perfectly cancel each other out in euthyroid individuals",
+      "Net hypoglycaemia in fasting states only, because gluconeogenesis is substrate-limited"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 59,
     "type": "mcq",
-    "stem": "Which hormone directly stimulates milk ejection during breastfeeding?",
+    "stem": "A patient whose serum T4 is elevated is found to have 99.96% of it bound to protein. The biologically ACTIVE fraction of T4 in this case is approximately:",
     "options": [
-      "Oxytocin",
-      "Prolactin",
-      "FSH",
-      "LH"
+      "0.40%",
+      "0.04%",
+      "0.96%",
+      "1.00%"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 60,
     "type": "mcq",
-    "stem": "A nurse suspects thyroid hormone deficiency in an infant. Which assessment finding most strongly supports this suspicion?",
+    "stem": "Which statement about the non-genomic cell signalling of thyroid hormones is CORRECT according to current evidence?",
     "options": [
-      "Macroglossia",
-      "Exophthalmos",
-      "Hyperactivity",
-      "Tachycardia"
+      "Non-genomic signalling is the primary and dominant mechanism of thyroid hormone action, accounting for the majority of physiological effects",
+      "Current evidence shows existence of non-genomic cell signalling via membrane-bound receptors, based on rapid responses of thyroid hormones that cannot be explained by the time delay of nuclear genomic action alone",
+      "Non-genomic signalling exclusively mediates cardiac effects of thyroid hormone via sarcolemmal calcium channels",
+      "Non-genomic thyroid hormone signalling is entirely mediated by rT3 binding to integrin receptors on the plasma membrane"
     ],
-    "answer": "A"
+    "answer": "B"
   },
-
   {
     "id": 61,
-    "type": "fitb",
-    "stem": "The thyroid hormone responsible for increasing basal metabolic rate is primarily __________.",
-    "answer": "T3",
-    "acceptableAnswers": [
-      "T3",
-      "triiodothyronine"
-    ]
+    "type": "mcq",
+    "stem": "CASE: A 22-year-old nursing student studying for exams asks: 'If hyperthyroidism causes diarrhoea and hypothyroidism causes constipation, what is the GIT mechanism for each?' The MOST accurate answer is:",
+    "options": [
+      "Hyperthyroidism causes diarrhoea by increasing gastric acid secretion; hypothyroidism causes constipation by reducing gastric acid",
+      "Hyperthyroidism increases appetite, intestinal motility and intestinal secretions causing hyper-defecation or diarrhoea; hypothyroidism decreases these same parameters causing hypo-defecation or constipation",
+      "Hyperthyroidism triggers osmotic diarrhoea by increasing glucose absorption; hypothyroidism causes constipation by reducing bile salt enterohepatic circulation",
+      "Hyperthyroidism stimulates the enteric nervous system causing secretory diarrhoea; hypothyroidism suppresses enteric neurons causing secretory constipation"
+    ],
+    "answer": "B"
   },
   {
     "id": 62,
-    "type": "fitb",
-    "stem": "The condition characterized by inappropriate excessive ADH secretion is abbreviated __________.",
-    "answer": "SIADH",
-    "acceptableAnswers": [
-      "SIADH"
-    ]
+    "type": "mcq",
+    "stem": "Which statement about thyroid hormone synthesis in the first step of organification is CORRECT?",
+    "options": [
+      "Iodination first occurs at the 5-carbon position of tyrosine to form DIT, which is then iodinated at the 3-carbon position to form MIT",
+      "Iodination first occurs at the 3-carbon position of a tyrosine amino acid to form MIT, which is then iodinated at the 5-carbon position to form DIT",
+      "Iodination first forms DIT at both the 3 and 5 positions simultaneously, and MIT is a later degradation product",
+      "Both the 3 and 5-carbon positions are iodinated simultaneously to form DIT directly, with MIT being a product of partial de-iodination"
+    ],
+    "answer": "B"
   },
   {
     "id": 63,
-    "type": "fitb",
-    "stem": "The posterior pituitary hormone involved in uterine contraction is __________.",
-    "answer": "oxytocin",
-    "acceptableAnswers": [
-      "oxytocin"
-    ]
+    "type": "mcq",
+    "stem": "CASE: A 38-year-old male with Graves' disease has irritability, restlessness, and insomnia. His nurse attributes this to thyroid hormone's nervous system effects. What is the CORRECT physiological explanation?",
+    "options": [
+      "Excess T3 crosses the blood-brain barrier and directly binds GABA receptors, reducing inhibitory neurotransmission",
+      "Thyroid hormone is necessary for normal adult brain function; hyperfunction leads to irritability, restlessness and insomnia, while hypofunction causes slow mentation, lethargy and somnolence",
+      "Hyperthyroidism-induced tachycardia reduces cerebral diastolic perfusion, causing cerebral ischaemic irritability",
+      "Elevated T3 upregulates dopamine synthesis in the substantia nigra, causing dopaminergic over-activation"
+    ],
+    "answer": "B"
   },
   {
     "id": 64,
-    "type": "fitb",
-    "stem": "The insertion of aquaporins allows the production of __________ urine.",
-    "answer": "concentrated",
-    "acceptableAnswers": [
-      "concentrated"
-    ]
+    "type": "mcq",
+    "stem": "In the secretion process of thyroid hormones, thyroid cells ingest colloid by which cellular mechanism?",
+    "options": [
+      "Facilitated diffusion through specific thyroid hormone transport channels in the apical membrane",
+      "Endocytosis to form pinocytic vesicles, which then fuse with lysosomes for proteolytic breakdown of thyroglobulin",
+      "Receptor-mediated exocytosis triggered by TSH binding to the basolateral membrane",
+      "Transcytosis of intact thyroglobulin across the thyrocyte from apical to basolateral membrane"
+    ],
+    "answer": "B"
   },
   {
     "id": 65,
-    "type": "fitb",
-    "stem": "The active transport of iodide into thyroid cells occurs against both electrical and __________ gradients.",
-    "answer": "chemical",
-    "acceptableAnswers": [
-      "chemical"
-    ]
+    "type": "mcq",
+    "stem": "A patient's thyroid panel shows: total T4 elevated, free T4 normal, TSH normal, and total T3 elevated. She is on glucocorticoid therapy. What is the MOST likely explanation?",
+    "options": [
+      "Glucocorticoids stimulate thyroid peroxidase, increasing total hormone synthesis without affecting the free fraction",
+      "This pattern is inconsistent with glucocorticoid effects; glucocorticoids reduce binding proteins, not increase them",
+      "Glucocorticoids reduce binding proteins causing transient free hormone elevation, with TSH adjustment restoring status quo; thus this presentation likely reflects a different confounding clinical variable",
+      "Glucocorticoids at high doses stimulate TBG synthesis, mirroring the oestrogen effect on total thyroid hormone levels"
+    ],
+    "answer": "C"
   },
   {
     "id": 66,
     "type": "fitb",
-    "stem": "The hormone excess responsible for acromegaly is __________ hormone.",
-    "answer": "growth",
-    "acceptableAnswers": [
-      "growth",
-      "GH",
-      "growth hormone"
-    ]
+    "stem": "The hypothalamus secretes _______________, which stimulates the thyrotropes of the anterior pituitary to produce TSH.",
+    "answer": "TRH (thyrotropin-releasing hormone)",
+    "acceptableAnswers": ["TRH", "thyrotropin-releasing hormone", "thyrotrophin releasing hormone"]
   },
   {
     "id": 67,
     "type": "fitb",
-    "stem": "A hallmark feature of diabetes insipidus is excessive urine output called __________.",
-    "answer": "polyuria",
-    "acceptableAnswers": [
-      "polyuria"
-    ]
+    "stem": "In thyroid hormone synthesis, the enzyme _______________ catalyses the iodination of tyrosine residues on thyroglobulin and the coupling of iodinated compounds.",
+    "answer": "thyroid peroxidase (TPO)",
+    "acceptableAnswers": ["thyroid peroxidase", "TPO", "thyroid peroxidase (TPO)"]
   },
   {
     "id": 68,
     "type": "fitb",
-    "stem": "The major thyroid hormones are thyroxine and __________.",
-    "answer": "triiodothyronine",
-    "acceptableAnswers": [
-      "triiodothyronine",
-      "T3"
-    ]
+    "stem": "The only biologically active form of T3 at thyroid hormone nuclear receptors is _______________, designated 3, 5, 3'-triiodothyronine.",
+    "answer": "T3",
+    "acceptableAnswers": ["T3", "triiodothyronine", "3,5,3'-triiodothyronine"]
   },
   {
     "id": 69,
     "type": "fitb",
-    "stem": "The kidneys respond to vasopressin primarily through the distal tubule and __________ duct.",
-    "answer": "collecting",
-    "acceptableAnswers": [
-      "collecting"
-    ]
+    "stem": "Thyroid hormones increase cardiac excitability â a positive _______________ effect â by accelerating depolarization and repolarization of the sinoatrial node.",
+    "answer": "bathmotropic",
+    "acceptableAnswers": ["bathmotropic", "bathmotrope"]
   },
   {
     "id": 70,
     "type": "fitb",
-    "stem": "Increased estrogen during puberty eventually induces early __________ closure.",
-    "answer": "epiphyseal",
-    "acceptableAnswers": [
-      "epiphyseal"
-    ]
+    "stem": "In congenital hypothyroidism, failure of thyroid hormone to stimulate CNS development results in a clinical picture described as a mentally retarded _______________, which is the product of thyroid deficiency during foetal life.",
+    "answer": "dwarf",
+    "acceptableAnswers": ["dwarf", "cretin", "mentally retarded dwarf"]
   },
-
   {
     "id": 71,
-    "type": "mcq",
-    "stem": "A patient with severe hypothyroidism presents with bradycardia, hypothermia, and altered mental status. Which life-threatening complication should the nurse suspect?",
-    "options": [
-      "Myxedema coma",
-      "Thyroid storm",
-      "Pheochromocytoma crisis",
-      "Acute adrenal crisis"
-    ],
-    "answer": "A"
+    "type": "fitb",
+    "stem": "Protein binding of T4 is primarily via thyroxin binding globulin (65%), with the second largest component being _______________ at 20%.",
+    "answer": "transthyretin (thyroxin binding pre-albumin)",
+    "acceptableAnswers": ["transthyretin", "thyroxin binding pre-albumin", "TBPA", "prealbumin", "thyroxine binding prealbumin"]
   },
   {
     "id": 72,
-    "type": "mcq",
-    "stem": "Which receptor subtype mediates ACTH secretion stimulated by vasopressin?",
-    "options": [
-      "V1B receptor",
-      "V2 receptor",
-      "Beta-1 receptor",
-      "Alpha-2 receptor"
-    ],
-    "answer": "A"
+    "type": "fitb",
+    "stem": "In thyroid hormone carbohydrate metabolism, the hormones stimulate _______________ and glycogenolysis in the liver, skeletal muscle, and heart.",
+    "answer": "gluconeogenesis",
+    "acceptableAnswers": ["gluconeogenesis", "gluconeogenesis and glycogenolysis"]
   },
   {
     "id": 73,
-    "type": "mcq",
-    "stem": "A patient with gigantism is most likely to exhibit which growth pattern?",
-    "options": [
-      "Generalized uniform growth",
-      "Selective cranial enlargement",
-      "Short limbs with normal trunk",
-      "Premature epiphyseal fusion"
-    ],
-    "answer": "A"
+    "type": "fitb",
+    "stem": "Within thyroid cells, _______________ fuse with pinocytic vesicles, leading to proteolytic breakdown of the peptide bonds in thyroglobulin.",
+    "answer": "lysosomes",
+    "acceptableAnswers": ["lysosomes", "lysosomal vesicles"]
   },
   {
     "id": 74,
-    "type": "mcq",
-    "stem": "A client receiving excessive oxytocin infusion suddenly develops fetal bradycardia. Which nursing action is priority?",
-    "options": [
-      "Stop the oxytocin infusion",
-      "Increase infusion rate",
-      "Place the client supine",
-      "Administer potassium chloride"
-    ],
-    "answer": "A"
+    "type": "fitb",
+    "stem": "Biologically active T4 in plasma constitutes only _______________ % of total T4, the remainder being bound to plasma proteins.",
+    "answer": "0.04",
+    "acceptableAnswers": ["0.04", "0.04%"]
   },
   {
     "id": 75,
-    "type": "mcq",
-    "stem": "Which physiological effect is produced by ADH through V1A receptor activation?",
-    "options": [
-      "Vasoconstriction",
-      "Glucosuria",
-      "Bronchodilation",
-      "Lipolysis"
-    ],
-    "answer": "A"
+    "type": "fitb",
+    "stem": "During fasting, illness, or stressful situations, T3 levels _______________ while reverse T3 levels rise â a pattern termed rT3 dominance.",
+    "answer": "fall",
+    "acceptableAnswers": ["fall", "decrease", "decline", "drop"]
   },
   {
     "id": 76,
     "type": "mcq",
-    "stem": "A patient with untreated pituitary insufficiency is most likely to have deficiencies of which hormones?",
+    "stem": "CASE: A 55-year-old woman with hypothyroidism develops new-onset heart failure with reduced ejection fraction. Her cardiologist notes reduced cardiac output. Which molecular mechanism DIRECTLY contributes to this reduced cardiac output?",
     "options": [
-      "ACTH, TSH, LH, FSH, GH",
-      "Calcitonin, glucagon, insulin",
-      "Melatonin, erythropoietin, renin",
-      "Parathyroid hormone, aldosterone, cortisol"
+      "Hypothyroidism causes pericardial effusion that mechanically impairs ventricular filling",
+      "Reduced thyroid hormone decreases transcription of sarcoplasmic reticulum, beta-adrenergic receptors, Ca2+ ATPase, Na+_K+ ATPase, and alpha myosin heavy chain, impairing cardiac contractility",
+      "Hypothyroidism reduces erythropoietin, causing anaemia and a compensatory high-output failure",
+      "Low T3 reduces mitochondrial ATP production in cardiomyocytes by inhibiting complex I of the electron transport chain"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 77,
     "type": "mcq",
-    "stem": "Which endocrine abnormality most directly contributes to short stature in untreated childhood Cushing syndrome?",
+    "stem": "Which of the following statements regarding T4 versus T3 potency and clinical use is MOST accurate?",
     "options": [
-      "Glucocorticoid inhibition of skeletal growth",
-      "Excess thyroid hormone secretion",
-      "Enhanced IGF-1 production",
-      "Increased epiphyseal cartilage formation"
+      "T4 is used for hormone replacement therapy because it is more potent than T3 and has fewer side effects",
+      "Although T4 is more abundant quantitatively, T3 has more potent physiological action due to less protein binding; T4 is largely used for hormone replacement therapy because peripheral deiodination to T3 mimics the physiological process",
+      "T3 is exclusively used for hormone replacement because receptors have higher affinity for T3 and its shorter half-life allows better dose titration",
+      "T3 and T4 are used interchangeably for replacement therapy as they have identical physiological potency when doses are weight-adjusted"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 78,
     "type": "mcq",
-    "stem": "A patient with SIADH is placed on fluid restriction. Which finding best indicates improvement?",
+    "stem": "In a neonatal intensive care unit, a nurse observes a premature baby at 5 weeks of postnatal life with elevated rT3 and low T3 on screening. The MOST appropriate clinical interpretation is:",
     "options": [
-      "Gradual rise in serum sodium",
-      "Increased body weight",
-      "Reduced urine osmolality",
-      "Persistent confusion"
+      "This confirms congenital hypothyroidism requiring immediate levothyroxine replacement",
+      "Elevated rT3 is physiologically normal in the first 6 weeks of extra uterine life and does not indicate pathological hypothyroidism",
+      "This represents euthyroid sick syndrome secondary to prematurity-related illness, requiring thyroid hormone replacement",
+      "The finding indicates Graves' disease transmitted via maternal antibodies and requires antithyroid treatment"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 79,
     "type": "mcq",
-    "stem": "Which thyroid hormone precursor contains numerous tyrosine residues?",
+    "stem": "A clinician states that 'cold exposure is a significant stimulus for TRH and TSH production, especially in children.' A senior nurse CORRECTLY adds which of the following nuances?",
     "options": [
-      "Thyroglobulin",
-      "Calcitonin",
-      "TRH",
-      "TSH"
+      "Cold exposure stimulates TSH directly from the thyroid gland without hypothalamic mediation",
+      "During acute cold, thyroid hormones primarily potentiate catecholamines; however, during chronic cold exposure, thyroid hormones act directly, making chronic cold one of the most potent stimulators of thyroid activity",
+      "Cold-induced TSH secretion is a reflex mediated by thermal receptors in the skin that directly connect to the anterior pituitary via the spinopituitary tract",
+      "Cold exposure raises cortisol which cross-stimulates TRH receptors on the pituitary, indirectly raising TSH"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 80,
     "type": "mcq",
-    "stem": "A patient with central diabetes insipidus is most at risk for which complication if water intake is restricted?",
+    "stem": "Which of the following correctly identifies ALL tissues excluded from thyroid hormone calorigenic effects?",
     "options": [
-      "Severe dehydration",
-      "Pulmonary edema",
-      "Hypercalcemia",
-      "Metabolic alkalosis"
+      "Brain, liver, skeletal muscle, anterior pituitary, and lymph nodes",
+      "Brain, testes, uterus, lymph nodes, spleen, and anterior pituitary",
+      "Brain, testes, kidneys, spleen, and thyroid gland itself",
+      "Testes, uterus, adrenal glands, lymph nodes, and anterior pituitary"
     ],
-    "answer": "A"
+    "answer": "B"
   },
-
   {
     "id": 81,
-    "type": "fitb",
-    "stem": "The posterior pituitary stores but does not __________ ADH.",
-    "answer": "synthesize",
-    "acceptableAnswers": [
-      "synthesize",
-      "produce",
-      "manufacture"
-    ]
+    "type": "mcq",
+    "stem": "CASE: A 40-year-old man taking androgen therapy for hypogonadism has a low total T4 but normal free T4 and is clinically euthyroid. His TSH is normal. Which mechanism explains this?",
+    "options": [
+      "Androgens directly inhibit thyroid hormone synthesis by suppressing thyroid peroxidase",
+      "Androgens reduce binding protein levels; total T4 falls while TSH adjusts to maintain normal free hormone levels",
+      "Androgens increase peripheral conversion of T4 to T3, reducing measured T4 without affecting clinical status",
+      "Testosterone competitively displaces T4 from TBG, causing total T4 to appear low while bound T4 remains normal"
+    ],
+    "answer": "B"
   },
   {
     "id": 82,
-    "type": "fitb",
-    "stem": "The principal mechanism responsible for water reabsorption in SIADH is increased __________ permeability.",
-    "answer": "collecting duct",
-    "acceptableAnswers": [
-      "collecting duct",
-      "collecting-duct",
-      "collecting duct membrane"
-    ]
+    "type": "mcq",
+    "stem": "Which respiratory mechanism do thyroid hormones use to stimulate pulmonary ventilation?",
+    "options": [
+      "Direct stimulation of the pre-BÃ¶tzinger complex to increase respiratory rate",
+      "Increased metabolism elevates oxygen consumption and carbon dioxide production, which indirectly stimulates pulmonary ventilation by maintaining the ventilatory response to hypoxia and hypercapnoea at the brainstem respiratory centres",
+      "Thyroid hormones relax bronchial smooth muscle by upregulating beta-2 adrenergic receptors, reducing airway resistance and increasing tidal volume",
+      "T3 directly binds brainstem chemoreceptors to lower the threshold for hypercapnoeic ventilatory drive"
+    ],
+    "answer": "B"
   },
   {
     "id": 83,
-    "type": "fitb",
-    "stem": "Excessive GH secretion after puberty causes __________.",
-    "answer": "acromegaly",
-    "acceptableAnswers": [
-      "acromegaly"
-    ]
+    "type": "mcq",
+    "stem": "Which of the following CORRECTLY identifies the primary extraglandular source of rT3 production in the body?",
+    "options": [
+      "Intrathyroidal coupling of two molecules of MIT",
+      "Extrathyroidal deiodination of T4, accounting for approximately 97% of rT3 in the body",
+      "Peripheral deiodination of T3 by 5-deiodinase in the liver",
+      "Direct secretion from the thyroid gland via coupling of DIT and DIT with positional reversal"
+    ],
+    "answer": "B"
   },
   {
     "id": 84,
-    "type": "fitb",
-    "stem": "The thyroid gland is located immediately below the __________.",
-    "answer": "larynx",
-    "acceptableAnswers": [
-      "larynx"
-    ]
+    "type": "mcq",
+    "stem": "CASE: A nursing student incorrectly states: 'In hyperthyroidism, diastolic blood pressure rises while systolic remains normal.' The preceptor's MOST accurate correction is:",
+    "options": [
+      "Both systolic and diastolic pressures rise proportionally in hyperthyroidism, increasing mean arterial pressure",
+      "In hyperthyroidism, systolic blood pressure rises due to increased cardiac output and strength of contraction, but diastolic pressure is reduced due to peripheral vasodilation from metabolic end products; the result is increased pulse pressure with normal mean arterial blood pressure",
+      "Only diastolic pressure rises in hyperthyroidism due to increased peripheral vascular resistance from catecholamine hypersensitivity",
+      "Hyperthyroidism reduces both systolic and diastolic pressures due to high-output circulatory collapse"
+    ],
+    "answer": "B"
   },
   {
     "id": 85,
-    "type": "fitb",
-    "stem": "The hormone responsible for maintaining pregnancy by inhibiting oxytocin receptor activity is __________.",
-    "answer": "progesterone",
-    "acceptableAnswers": [
-      "progesterone"
-    ]
+    "type": "mcq",
+    "stem": "Which of the following is the MOST accurate description of how thyroid hormones stimulate development of the foetal central nervous system?",
+    "options": [
+      "Thyroid hormones stimulate cholinergic neurotransmitter synthesis, establishing foetal cortical connectivity",
+      "Thyroid hormones stimulate myelination, axonal and dendritic branching, re-branching, and dendritic formation in neurones; deficiency during foetal life grossly impairs these processes",
+      "Thyroid hormones act exclusively on glial cells during foetal development, with neuronal effects beginning only postnatally",
+      "Foetal thyroid hormone primarily promotes neuronal apoptosis to refine cortical connectivity, and deficiency causes neuronal overproliferation"
+    ],
+    "answer": "B"
   },
   {
     "id": 86,
     "type": "fitb",
-    "stem": "The major physiological stimulus for thirst in diabetes insipidus is increased plasma __________.",
-    "answer": "osmolality",
-    "acceptableAnswers": [
-      "osmolality",
-      "osmolarity"
-    ]
+    "stem": "The positive _______________ effect of thyroid hormones on the heart refers to the increase in heart rate and conduction velocity through the SA node.",
+    "answer": "chronotropic and dromotropic",
+    "acceptableAnswers": ["chronotropic", "chronotropic and dromotropic", "dromotropic"]
   },
   {
     "id": 87,
     "type": "fitb",
-    "stem": "The hypothalamic hormone that stimulates TSH release is __________.",
-    "answer": "TRH",
-    "acceptableAnswers": [
-      "TRH",
-      "thyrotropin releasing hormone"
-    ]
+    "stem": "Thyroid hormones increase erythropoiesis by promoting increased production of _______________ secondary to elevated oxygen utilization.",
+    "answer": "erythropoietin",
+    "acceptableAnswers": ["erythropoietin", "EPO", "erythropoietin (EPO)"]
   },
   {
     "id": 88,
     "type": "fitb",
-    "stem": "The syndrome characterized by excess ADH secretion from lung tumors is often associated with __________ carcinoma.",
-    "answer": "small cell",
-    "acceptableAnswers": [
-      "small cell",
-      "small-cell"
-    ]
+    "stem": "In the context of thyroid hormone catabolism, some T4 and T3 may pass directly to the intestinal lumen and be excreted in faeces without _______________.",
+    "answer": "conjugation",
+    "acceptableAnswers": ["conjugation", "hepatic conjugation", "glucuronide conjugation"]
   },
   {
     "id": 89,
     "type": "fitb",
-    "stem": "The renal response to vasopressin ultimately produces __________ urine volume.",
-    "answer": "reduced",
-    "acceptableAnswers": [
-      "reduced",
-      "decreased",
-      "lower"
-    ]
+    "stem": "The non-genomic signalling pathway of thyroid hormones involves _______________ receptors on the cell membrane rather than nuclear receptors.",
+    "answer": "membrane-bound",
+    "acceptableAnswers": ["membrane-bound", "membrane", "cell membrane", "plasma membrane"]
   },
   {
     "id": 90,
     "type": "fitb",
-    "stem": "Children with psychosocial dwarfism often improve after removal from the stressful __________.",
-    "answer": "environment",
-    "acceptableAnswers": [
-      "environment",
-      "setting"
-    ]
+    "stem": "Thyroid hormone deficiency during foetal life impairs brain development such that proliferation and branching of axons and _______________, myelination and nervous interconnections are grossly affected.",
+    "answer": "dendrites",
+    "acceptableAnswers": ["dendrites", "dendritic processes", "dendritic arbours"]
   },
-
   {
     "id": 91,
-    "type": "mcq",
-    "stem": "A client with untreated hyperthyroidism develops severe agitation, fever, and tachyarrhythmia. Which condition should the nurse suspect first?",
-    "options": [
-      "Thyroid storm",
-      "Myxedema coma",
-      "Diabetes insipidus",
-      "SIADH"
-    ],
-    "answer": "A"
+    "type": "fitb",
+    "stem": "In thyroid hormone vitamin metabolism, the conversion of _______________ to vitamin A requires thyroid hormones; deficiency leads to yellowish skin discolouration.",
+    "answer": "carotene",
+    "acceptableAnswers": ["carotene", "beta-carotene", "provitamin A"]
   },
   {
     "id": 92,
-    "type": "mcq",
-    "stem": "Which renal structure is most directly affected by vasopressin during water conservation?",
-    "options": [
-      "Collecting duct",
-      "Loop of Henle",
-      "Bowman's capsule",
-      "Glomerular capillary"
-    ],
-    "answer": "A"
+    "type": "fitb",
+    "stem": "The genomic effects of thyroid hormones after nuclear receptor binding are delayed by approximately _______________ hours before onset, peaking at 14 days.",
+    "answer": "48",
+    "acceptableAnswers": ["48", "forty-eight", "48 hours"]
   },
   {
     "id": 93,
-    "type": "mcq",
-    "stem": "A patient with SIADH would most likely demonstrate which combination of findings?",
-    "options": [
-      "Hyponatremia with decreased plasma osmolality",
-      "Hypernatremia with increased plasma osmolality",
-      "Hypocalcemia with metabolic alkalosis",
-      "Hyperkalemia with respiratory acidosis"
-    ],
-    "answer": "A"
+    "type": "fitb",
+    "stem": "Thyroid hormones potentiate growth hormone effects and are believed to stimulate _______________ production, contributing to their role in promoting skeletal growth.",
+    "answer": "IGF (insulin-like growth factor)",
+    "acceptableAnswers": ["IGF", "insulin-like growth factor", "IGF-1", "insulin-like growth factor 1"]
   },
   {
     "id": 94,
-    "type": "mcq",
-    "stem": "A nurse is assessing a patient with pituitary gigantism. Which finding would be expected?",
-    "options": [
-      "Excessive height with proportional growth",
-      "Short limbs with bowed legs",
-      "Truncal obesity with moon facies",
-      "Severe exophthalmos"
-    ],
-    "answer": "A"
+    "type": "fitb",
+    "stem": "Excess thyroid hormone secretion causes muscle weakness through increased protein _______________, while normal thyroid hormone levels stimulate protein synthesis.",
+    "answer": "catabolism",
+    "acceptableAnswers": ["catabolism", "protein catabolism", "proteolysis", "protein breakdown"]
   },
   {
     "id": 95,
-    "type": "mcq",
-    "stem": "Which endocrine organ has one of the highest rates of blood flow per gram of tissue?",
-    "options": [
-      "Thyroid gland",
-      "Adrenal medulla",
-      "Pancreas",
-      "Parathyroid gland"
-    ],
-    "answer": "A"
+    "type": "fitb",
+    "stem": "Thyroid hormone increases the systolic blood pressure through a positive _______________ effect on cardiac muscle, increasing cardiac output.",
+    "answer": "inotropic",
+    "acceptableAnswers": ["inotropic", "ionotropic"]
   },
   {
     "id": 96,
     "type": "mcq",
-    "stem": "A patient with severe dehydration has elevated ADH secretion. Which physiological outcome is expected?",
+    "stem": "CASE: A 29-year-old woman has anorexia nervosa with severe nutritional restriction for 6 months. Her T3 is critically low and rT3 is markedly elevated, yet her basal metabolic rate is lower than expected for her weight. This is BEST explained by which adaptive mechanism?",
     "options": [
-      "Increased water reabsorption",
-      "Increased sodium excretion",
-      "Suppressed thirst sensation",
-      "Reduced urine concentration"
+      "Starvation reduces TSH via cortisol feedback, directly suppressing thyroid hormone production at the glandular level",
+      "Severe nutritional restriction triggers rT3 dominance â rT3 binds and blocks T3 receptors without activating them â suppressing metabolic rate and preserving body tissues when substrate is not available",
+      "Anorexia-induced anaemia reduces oxygen delivery, which stimulates a compensatory hypothyroid state to reduce cellular oxygen demand",
+      "Nutritional restriction impairs TBG synthesis, increasing free T4 which paradoxically inhibits T3 action via nuclear receptor competition"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 97,
     "type": "mcq",
-    "stem": "Which mechanism most directly contributes to concentrated urine formation under ADH influence?",
+    "stem": "CASE: A 3-year-old with confirmed hypothyroidism is found to have low levels of multiple vitamins and enzyme cofactors. The BEST physiological explanation linking thyroid hormones to this finding is:",
     "options": [
-      "Insertion of aquaporins into luminal membranes",
-      "Suppression of sodium transporters",
-      "Reduced renal medullary gradient",
-      "Closure of collecting ducts"
+      "Hypothyroidism causes malabsorption by reducing gastric acid, impairing vitamin absorption across the GIT",
+      "Thyroid hormones are necessary for various metabolic processes; consequently, enzymes and vitamins that act as coenzymes are utilised in these processes, and deficiency of thyroid hormones reduces the metabolic demand, causing accumulation rather than depletion of cofactors",
+      "Thyroid hormones are necessary for metabolic processes; the enzymes and vitamins acting as coenzymes are utilised in these processes, causing a corresponding fall in their levels even under hypothyroid conditions due to compensatory metabolic pathways",
+      "Low thyroid hormone impairs hepatic synthesis of all vitamins, reducing serum levels of fat-soluble and water-soluble vitamins uniformly"
     ],
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 98,
     "type": "mcq",
-    "stem": "A patient with acromegaly develops glucose intolerance. Which hormone excess most directly contributes to this metabolic effect?",
+    "stem": "A nurse reviewing the steps of thyroid hormone secretion states that after lysosomal breakdown of TGB, T3 and T4 are released into circulation by which mechanism?",
     "options": [
-      "Growth hormone",
-      "Calcitonin",
-      "Oxytocin",
-      "TSH"
+      "Active transport via thyroid hormone-specific ABC transporters on the basal membrane",
+      "Diffusion through the basal membrane of thyrocytes into the circulation, while MIT and DIT are recycled within thyrocytes by de-iodination",
+      "Exocytosis of membrane-bound vesicles carrying T3 and T4 to the basolateral surface",
+      "Transcytosis via megalin-cubilin receptor-mediated endocytosis on the basal side"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 99,
     "type": "mcq",
-    "stem": "A patient with untreated diabetes insipidus suddenly becomes hypotensive and tachycardic. Which complication is most likely occurring?",
+    "stem": "CASE: A 45-year-old female patient on chronic glucocorticoid therapy is evaluated for possible hypothyroidism. Her TSH is low-normal, free T4 is low-normal, and total T4 is clearly reduced. She has no overt hypothyroid symptoms. A nurse asks the physician whether she is hypothyroid. The MOST appropriate clinical interpretation is:",
     "options": [
-      "Severe volume depletion",
-      "Hypervolemic shock",
-      "Acute pulmonary edema",
-      "SIADH crisis"
+      "She has frank hypothyroidism requiring immediate levothyroxine replacement due to low total T4",
+      "She likely represents a glucocorticoid-induced reduction in binding proteins; while total T4 is reduced, free T4 and TSH are adjusted within the normal range, indicating a euthyroid state; TSH production adjusts to maintain status quo",
+      "Her low TSH confirms central hypothyroidism due to glucocorticoid suppression of the hypothalamic-pituitary axis",
+      "The reduced total T4 with low-normal free T4 indicates compensated primary hypothyroidism and warrants immediate treatment"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 100,
     "type": "mcq",
-    "stem": "Which thyroid-related process requires hydrogen peroxide as an essential component?",
+    "stem": "Which of the following is the MOST precise description of the haemopoietic effect in hyperthyroidism related to white blood cells?",
     "options": [
-      "Oxidation of iodide to iodine",
-      "Secretion of calcitonin",
-      "Transport of T3 into plasma",
-      "Conversion of T4 to reverse T3"
+      "Hyperthyroidism causes neutrophilia from increased bone marrow stimulation by elevated metabolic substrates",
+      "Hyperthyroidism is associated with lymphocytosis, as thyroid hormones likely stimulate lymphocyte production; conversely, hypofunction produces lymphopenia",
+      "Hyperthyroidism causes eosinophilia due to cross-reactivity between T3 and IL-5 receptor signalling",
+      "Hyperthyroidism selectively suppresses lymphocytes while stimulating monocyte production as part of an immune adaptation"
     ],
-    "answer": "A"
+    "answer": "B"
   }
 ]
