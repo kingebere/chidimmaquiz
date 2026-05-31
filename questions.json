@@ -2,941 +2,1031 @@
   {
     "id": 1,
     "type": "mcq",
-    "stem": "The word 'psychiatry' was coined in 1808. Which professor is credited with coining this term, and from which university did he originate?",
+    "stem": "A 34-year-old male patient is admitted to the psychiatric unit. He insists on performing elaborate cleaning rituals before eating and becomes extremely distressed when prevented from doing so, though he acknowledges the behaviour is excessive. According to the WHO definition of mental health, which component is MOST critically impaired in this patient?",
     "options": [
-      "Professor Emil Kraepelin of Heidelberg, Germany",
-      "Professor Johann Christian Reil of Halle, Germany",
-      "Professor William Battie of Cambridge, England"
+      "His ability to realize his own abilities and cope with normal stresses of life",
+      "His biological capacity to regulate homeostatic balance through endocrine feedback",
+      "His social integration and community contribution as a productive individual",
+      "His ability to make a satisfactory contribution to his community through employment"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 2,
     "type": "mcq",
-    "stem": "The word 'psychiatry' is derived from two Greek words. Which combination correctly identifies both roots and their meanings?",
+    "stem": "During a community mental health assessment, a nurse observes a client from a remote tribal community who regularly practices ritualistic animal sacrifice as part of religious worship. This behaviour is considered barbaric by the urban nurse conducting the assessment. According to WHO's position on mental health across cultures, the MOST appropriate nursing interpretation of this behaviour is:",
     "options": [
-      "Psyche meaning 'brain' and iatros meaning 'healer'",
-      "Psyche meaning 'soul or mind' and iatros meaning 'physician'",
-      "Psyche meaning 'emotion' and iatros meaning 'scientist'"
+      "The behaviour represents a deviation from social norms and warrants psychiatric evaluation under the DSM criteria",
+      "The behaviour is culturally normative and should not be classified as a mental disorder without additional clinical evidence",
+      "The behaviour constitutes statistical infrequency and should be documented as potentially pathological in the patient's record",
+      "The behaviour satisfies the observer discomfort criterion of abnormality and justifies a referral to a psychiatrist"
     ],
     "answer": "B"
   },
   {
     "id": 3,
     "type": "mcq",
-    "stem": "A nursing student states that mental illness first became a concern to physicians during the Renaissance period. Which response by the clinical instructor is MOST accurate based on historical evidence?",
+    "stem": "A nurse is using the Failure to Function Adequately (FF) criterion to assess a patient who is a decorated firefighter known for entering burning buildings at great personal risk. Based on the FF criterion's primary limitation as described in psychiatric theory, why would classifying this behaviour as abnormal be INCORRECT?",
     "options": [
-      "This is correct; the Renaissance period marks the formal beginning of concern for mental illness",
-      "This is incorrect; mental illness is as old as mankind itself, though psychiatry as a specialty was not formalised until the 19th century",
-      "This is partially correct; mental illness was only recognised as a medical concern in the 17th century"
+      "Because the behaviour does not meet the statistical infrequency threshold required for the FF criterion to apply",
+      "Because psychologists cannot agree on the boundaries defining 'functioning' and 'adequately,' making moral behaviour like self-sacrifice a potential misclassification",
+      "Because the firefighter's behaviour is sanctioned by society's occupational norms, exempting it from FF analysis entirely",
+      "Because the FF criterion exclusively applies to internally directed maladaptive behaviours, not externally directed risk-taking"
     ],
     "answer": "B"
   },
   {
     "id": 4,
     "type": "mcq",
-    "stem": "During which century BCE did Hippocrates theorize that physiological abnormalities â rather than supernatural forces â may be the root of mental disorders?",
+    "stem": "A psychiatric nursing student is reviewing the five models used in Emotional and Behavioural Disorders (EBD). A patient presents with persistent school avoidance, unexplained somatic complaints, and social withdrawal that do not respond to academic support interventions. Which EBD model would PRIMARILY attribute this pattern to unresolved unconscious conflicts stemming from early developmental experiences?",
     "options": [
-      "5th century BCE",
-      "4th century BCE",
-      "3rd century BCE"
+      "Biophysical model, which emphasises neurological and genetic substrates of behaviour",
+      "Ecological model, which focuses on the transactional relationship between the individual and their environment",
+      "Psychodynamic model, which attributes behavioural symptoms to unresolved unconscious processes",
+      "Cognitive model, which attributes avoidance behaviours to distorted automatic thoughts and maladaptive schemas"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 5,
     "type": "mcq",
-    "stem": "The first specialist psychiatric hospital in the medieval Islamic world was built in which city, and in what year?",
+    "stem": "A nurse is assessing an 82-year-old woman who reports sleep disturbances, reduced appetite, and low mood. The patient's primary care physician has documented these as 'expected features of aging.' Based on the psychiatric literature on elderly mental health, which statement BEST reflects the evidence-based nursing concern in this scenario?",
     "options": [
-      "Cairo in 705 AD",
-      "Baghdad in 705 AD",
-      "Fes in 705 AD"
+      "The symptoms are consistent with physiological aging and do not necessitate psychiatric screening unless suicidal ideation is expressed",
+      "Elders often attribute mental health symptoms to physical problems, and between 18â25% require mental health intervention, making further assessment mandatory",
+      "The physician's assessment is appropriate because mood and sleep changes are part of normal developmental transitions in late adulthood",
+      "The primary concern is ageism from the nursing staff, which may lead to over-pathologisation of normal geriatric behavioural patterns"
     ],
     "answer": "B"
   },
   {
     "id": 6,
     "type": "mcq",
-    "stem": "A case scenario: A student nurse presents a historical paper claiming that medieval European specialist hospitals built in the 13th century provided active treatment for mental disorders. The supervising nurse correctly challenges this claim because:",
+    "stem": "CASE SCENARIO: A 22-year-old final-year university student presents to the psychiatric outpatient clinic reporting feelings of being 'lost,' confused about career choices, intense fear of entering the workforce, and social isolation since graduating. He denies substance use. His symptoms began six months ago after completing his degree. Based on Erikson's developmental framework, the MOST appropriate nursing diagnostic label for the PRIMARY psychosocial conflict this patient is experiencing is:",
     "options": [
-      "These hospitals provided religious therapy rather than medical treatment, which is still considered active intervention",
-      "These institutions functioned only as custodial facilities and did not provide any form of treatment",
-      "These hospitals were exclusively for physical illnesses and housed the mentally ill only incidentally"
+      "Identity versus Role Confusion, representing incomplete resolution of adolescent developmental tasks",
+      "Intimacy versus Isolation, representing the core conflict of young adulthood when establishing deep relationships fails",
+      "Generativity versus Stagnation, occurring when a young adult perceives failure in contributing meaningfully to society",
+      "Industry versus Inferiority, reflecting unresolved academic competence challenges from earlier developmental stages"
     ],
     "answer": "B"
   },
   {
     "id": 7,
     "type": "mcq",
-    "stem": "Bethlem Royal Hospital in London is one of the oldest lunatic asylums, founded in the 13th century. When did the City of London acquire the hospital, and when did it cease that particular function?",
+    "stem": "A psychiatric nurse administers the Rorschach test to a patient and notes that the patient consistently interprets inkblot images as scenes of 'armies invading towns' and 'warriors defeating enemies.' Based on the theoretical underpinning of projective tests, which interpretation of the patient's responses is MOST clinically accurate?",
     "options": [
-      "Acquired in 1413; ceased function in 1847",
-      "Acquired in 1547; ceased function in 1948",
-      "Acquired in 1647; ceased function in 1958"
+      "The patient demonstrates cognitive rigidity as evidenced by the recurring militaristic thematic content across multiple cards",
+      "The responses likely reflect unconscious aggressive drives being expressed through the ambiguous projective stimulus",
+      "The patient's responses indicate a factual historical knowledge base, which should be validated before attributing clinical significance",
+      "The responses suggest an externalising disorder characterised by outward expression of hostile ideation rather than internalised conflict"
     ],
     "answer": "B"
   },
   {
     "id": 8,
     "type": "mcq",
-    "stem": "The first purpose-built asylum in England was established in 1713. Who founded this institution and what was its name?",
+    "stem": "During a psychiatric assessment, a nurse must determine whether a patient's behaviour is best evaluated using projective or objective personality tests. The nurse knows that the patient has a strong tendency toward social desirability bias and may not report symptoms honestly. Which statement MOST accurately identifies the limitation of objective personality tests in this context?",
     "options": [
-      "William Battie founded the Norwich Royal Asylum",
-      "Mary Chapman founded Bethel Hospital Norwich",
-      "Philippe Pinel founded the London Retreat for the Insane"
+      "Objective tests rely on unconscious response patterns, making them susceptible to deliberate manipulation by cognitively intact patients",
+      "Objective tests assume personality is consciously accessible and measured through self-report, making them vulnerable to dishonest or inaccurate responding",
+      "Objective tests are less reliable than projective tests because they do not account for the unconscious determinants of personality",
+      "Objective tests are inappropriate for psychiatric populations because they require normative comparisons that are not standardised for clinical settings"
     ],
     "answer": "B"
   },
   {
     "id": 9,
     "type": "mcq",
-    "stem": "English physician William Battie wrote 'Treatise on Madness' calling for treatments to be utilised in asylums. In which year was this published?",
+    "stem": "A nurse is reviewing the Big Five personality traits (OCEAN) and their heritability estimates. A patient inquires which trait has the HIGHEST heritability estimate based on twin studies. The nurse's MOST evidence-based response, consistent with the documented research findings, would be:",
     "options": [
-      "1748",
-      "1758",
-      "1768"
+      "Extraversion, with a heritability estimate of 53%, reflects the strongest genetic influence among the Big Five traits",
+      "Conscientiousness, with a heritability estimate of 44%, is most influenced by genetic factors relative to all other traits",
+      "Openness to experience, with a heritability estimate of 61%, demonstrates the highest genetic contribution among the Big Five",
+      "Neuroticism, with a heritability estimate of 41%, is the most heritable trait and therefore the least amenable to psychotherapeutic intervention"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 10,
     "type": "mcq",
-    "stem": "Following George III's remission from mental illness in 1789, what significant shift occurred in public perception of mental illness?",
+    "stem": "A psychiatric nurse is educating a group of student nurses about Freud's theory of basic drives. She describes a patient who channels unconscious destructive energy outward toward other people, manifesting as recurrent episodes of unprovoked violence against peers. According to Freudian drive theory, this behaviour MOST accurately represents:",
     "options": [
-      "Mental illness came to be seen as hereditary rather than supernatural in origin",
-      "Mental illness came to be seen as something which could be treated and cured",
-      "Mental illness was reclassified as a spiritual crisis requiring ecclesiastical management"
+      "A manifestation of the life instinct (Eros) directed toward self-preservation through pre-emptive elimination of perceived threats",
+      "An expression of libidinal energy being sublimated into socially disruptive rather than procreative channels",
+      "An externalised expression of the death instinct (Thanatos) energy directed outward as aggression and violence toward others",
+      "A primary process manifestation of the pleasure principle operating without ego mediation or superego restraint"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 11,
     "type": "mcq",
-    "stem": "Philippe Pinel's work led to a landmark event at the BicÃªtre psychiatric hospital in Paris in 1793, which marked the beginning of what has been called the 'bright epoch of psychiatry.' What specifically occurred?",
+    "stem": "CASE SCENARIO: A 48-year-old male executive visits his physician reporting he purchased a sports car, started attending late-night social gatherings, and recently enrolled in dance classes, activities his wife describes as completely out of character. He denies mood symptoms, suicidal ideation, or substance use. Vital signs are stable. Based on the psychiatric literature on midlife crises, which nursing assessment finding would MOST support a diagnosis of a genuine midlife crisis versus an expected developmental re-evaluation?",
     "options": [
-      "Pinel introduced chlorpromazine as the first pharmacological treatment",
-      "The Governor released psychiatric patients from their chains",
-      "Pinel reorganised the hospital into separate wards by diagnosis"
+      "The patient's new hobbies are expensive and typically associated with younger individuals, fulfilling the cultural criteria for midlife crisis behaviour",
+      "The presence of drastic, sudden life-altering stressors such as recent bereavement or job loss, which have been shown to precipitate crisis-level responses",
+      "The patient's age of 48 falls within the accepted midlife developmental range, making crisis diagnosis appropriate without additional clinical criteria",
+      "The absence of psychiatric symptoms confirms that the behaviour represents productive mental well-being consistent with midlife re-evaluation rather than crisis"
     ],
     "answer": "B"
   },
   {
     "id": 12,
     "type": "mcq",
-    "stem": "William Tuke adopted Pinel's methods and opened a facility in England in 1793 that became a worldwide model for humane psychiatric care. Which institution did Tuke open?",
+    "stem": "A psychiatric nursing student is asked to differentiate between the criteria of 'statistical infrequency' and 'deviation from social norms' in defining abnormal behaviour. A patient from a minority religious subculture fasts for 40 days annually as a spiritual discipline, causing significant weight loss and weakness. Which statement MOST precisely distinguishes these two criteria in the context of this clinical scenario?",
     "options": [
-      "The Brattleboro Retreat in Yorkshire",
-      "The York Retreat in England",
-      "The Hartford Retreat in London"
+      "Statistical infrequency labels the behaviour abnormal because most people do not fast for 40 days; deviation from social norms labels it abnormal because it violates mainstream dietary conventions",
+      "Both criteria arrive at the same clinical conclusion, making the distinction between them irrelevant for nursing assessment purposes",
+      "Deviation from social norms is more appropriate here because it accounts for cultural context, whereas statistical infrequency would incorrectly pathologise the behaviour without cultural consideration",
+      "Statistical infrequency is the superior criterion because it uses objective mathematical thresholds, whereas deviation from social norms is entirely subjective and therefore clinically unreliable"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 13,
-    "type": "mcq",
-    "stem": "By 1904, how many patients were housed in mental hospitals across the United States, reflecting the dramatic 19th-century growth in asylum populations?",
-    "options": [
-      "100,000 patients",
-      "150,000 patients",
-      "200,000 patients"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "The World Health Organisation defines health as a state of complete _______________, mental and social well-being and not merely the absence of disease.",
+    "answer": "physical",
+    "acceptableAnswers": ["physical", "physical health", "physical well-being"]
   },
   {
     "id": 14,
-    "type": "mcq",
-    "stem": "The Medico-Psychological Association â the UK's national body for asylum superintendents â was established in which year and under whose presidency?",
-    "options": [
-      "Established in 1856 under the presidency of William Battie",
-      "Established in 1866 under the presidency of William A.F. Browne",
-      "Established in 1876 under the presidency of Emil Kraepelin"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "According to Freud, the energy created by the life instincts is known as _______________, while the counterpart instinct associated with self-destruction and aggression is called _______________.",
+    "answer": "libido / Thanatos",
+    "acceptableAnswers": ["libido / Thanatos", "libido / death instinct", "libido / the death instinct"]
   },
   {
     "id": 15,
-    "type": "mcq",
-    "stem": "France enacted a law in 1838 to regulate asylum admissions and services. In this same year, William A.F. Browne was appointed superintendent of which institution?",
-    "options": [
-      "Bethlem Royal Hospital in London",
-      "Crichton Royal at Dumfries in southern Scotland",
-      "York Retreat in northern England"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "The theory of _______________ views health as a balance of the process by which human beings interact with their environment, and holds that an imbalance in this process reflects a failure of the body's adaptive, self-regulating power to maintain internal balance.",
+    "answer": "psychological equilibrium",
+    "acceptableAnswers": ["psychological equilibrium", "Psychological Equilibrium"]
   },
   {
     "id": 16,
-    "type": "mcq",
-    "stem": "By what percentage did the average number of patients in asylums increase in the United States during the mid-to-late 19th century, reflecting the crisis of overcrowding?",
-    "options": [
-      "527%",
-      "927%",
-      "727%"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "Gordon Allport described two major ways to study personality: _______________ psychology, which seeks general laws applicable to many people, and _______________ psychology, which attempts to understand the unique aspects of a particular individual.",
+    "answer": "nomothetic / idiographic",
+    "acceptableAnswers": ["nomothetic / idiographic"]
   },
   {
     "id": 17,
-    "type": "mcq",
-    "stem": "Emil Kraepelin promoted the concept of disease classification for mental disorders. Who originally introduced this idea that Kraepelin later championed?",
-    "options": [
-      "Sigmund Freud",
-      "Karl Ludwig Kahlbaum",
-      "Otto Loewi"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "The _______________ criterion of abnormality defines departures from society's unwritten rules, while the _______________ criterion defines abnormality based on whether behaviour prevents productive daily functioning.",
+    "answer": "deviation from social norms / failure to function adequately",
+    "acceptableAnswers": ["deviation from social norms / failure to function adequately", "social norms deviation / failure to function adequately", "deviation from social norms / FF"]
   },
   {
     "id": 18,
-    "type": "mcq",
-    "stem": "A case scenario: A psychiatry lecturer explains that Kraepelin was criticised for classifying schizophrenia as a biological illness. The MOST precise reason for this criticism was that:",
-    "options": [
-      "Kraepelin lacked formal training in neurology and therefore could not make biological assertions",
-      "He classified schizophrenia as biological in the absence of any detectable histologic or anatomic abnormalities",
-      "His classification system did not account for environmental and psychosocial causes of schizophrenia"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "In the Big Five personality model, the acronym OCEAN stands for Openness, _______________, Extraversion, _______________, and Neuroticism.",
+    "answer": "Conscientiousness / Agreeableness",
+    "acceptableAnswers": ["Conscientiousness / Agreeableness"]
   },
   {
     "id": 19,
-    "type": "mcq",
-    "stem": "Otto Loewi's discovery initiated psychopharmacology as an integral part of psychiatry. What specific contribution did Loewi make?",
-    "options": [
-      "He discovered the neuro-modulatory properties of dopamine, identifying it as the first neurotransmitter",
-      "He discovered the neuro-modulatory properties of acetylcholine, identifying it as the first known neurotransmitter",
-      "He discovered the neuro-modulatory properties of serotonin, identifying it as the first neurotransmitter"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "The _______________ test involves showing an individual cards with ambiguous ink blots, whereas the _______________ test involves presenting vague pictures and asking the individual to tell a story based on what they see.",
+    "answer": "Rorschach / Thematic Apperception",
+    "acceptableAnswers": ["Rorschach / Thematic Apperception", "Rorschach / TAT"]
   },
   {
     "id": 20,
-    "type": "mcq",
-    "stem": "Which medication's effectiveness in treating schizophrenia, discovered in 1952, is described as having revolutionised treatment of the disease?",
-    "options": [
-      "Lithium carbonate",
-      "Chlorpromazine",
-      "Haloperidol"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "According to research on personality and age, traits such as openness, extraversion, and neuroticism tend to _______________ with age, while conscientiousness and agreeableness tend to _______________ over time.",
+    "answer": "decline / increase",
+    "acceptableAnswers": ["decline / increase", "decrease / increase", "decrease / grow"]
   },
   {
     "id": 21,
     "type": "mcq",
-    "stem": "Lithium carbonate's ability to stabilise mood highs and lows in bipolar disorder was discovered in which year?",
+    "stem": "A nurse caring for an elderly patient in a long-term care facility notes that the patient refuses psychiatric referral, saying: 'Only crazy people go to those doctors.' The nurse recognises this as a barrier to mental health care in the elderly. According to the psychiatric literature, which factor MOST directly explains this patient's resistance to seeking mental health treatment?",
     "options": [
-      "1942",
-      "1948",
-      "1952"
+      "Ageism perpetuated by medical professionals who underdiagnose mental disorders in elderly populations",
+      "Stigma stemming from negative portrayals of mental illness by mass media and popular culture that shaped the older generation's perceptions",
+      "Service integration failures that create fragmented and confusing care pathways, discouraging elderly patients from accessing mental health services",
+      "Lack of organised advocacy groups for elderly psychiatric patients, leading to reduced awareness of available treatment options"
     ],
     "answer": "B"
   },
   {
     "id": 22,
     "type": "mcq",
-    "stem": "Neuro-imaging was first utilised as a diagnostic tool for psychiatry in which decade?",
+    "stem": "A mental health nurse is conducting psychoeducation on personality traits. She explains that a colleague who plans meetings weeks in advance, monitors how her actions affect team members, and maintains detailed schedules demonstrates which Big Five personality trait to the HIGHEST degree, and in which occupational context would this trait be MOST adaptive?",
     "options": [
-      "1970s",
-      "1980s",
-      "1990s"
+      "Agreeableness, which is most adaptive in healthcare settings where prosocial behaviour and empathy are required for therapeutic relationships",
+      "Openness to experience, which is most adaptive in creative industries that require innovative problem-solving and conceptual flexibility",
+      "Conscientiousness, which is most adaptive in science, high-retail finance, and project management where organisation and detail orientation are essential",
+      "Extraversion, which is most adaptive in public-facing leadership roles in sales, teaching, and politics where social assertiveness drives outcomes"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 23,
     "type": "mcq",
-    "stem": "Thirty-three years after deinstitutionalisation began in the United States, what percentage of patients originally in state hospitals still remained in those hospitals?",
+    "stem": "CASE SCENARIO: A 16-year-old female patient is brought to the psychiatric emergency unit by her parents. She has been refusing to attend school for 3 months, reports persistent low mood, loss of interest in friends, and has been spending excessive time alone in her room crying. Her parents insist she is 'just going through teenage phases.' Using the multi-criteria approach to defining abnormal behaviour, which combination of criteria MOST strongly supports a clinical classification of her behaviour as abnormal?",
     "options": [
-      "29%",
-      "19%",
-      "39%"
+      "Statistical infrequency alone, because most adolescents do not exhibit sustained school avoidance lasting more than 8 weeks",
+      "Observer discomfort and deviation from social norms, because the parents' distress and the school avoidance violate expected adolescent social functioning",
+      "Deviation from ideal mental health, failure to function adequately, and statistical infrequency, collectively forming a multi-criteria abnormality classification",
+      "Maladaptivity alone, because school avoidance is counter-productive to her long-term academic and vocational development"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 24,
     "type": "mcq",
-    "stem": "The anti-psychiatry movement specifically targeted Electroconvulsive Therapy (ECT) for elimination. Their primary allegation regarding ECT was that:",
+    "stem": "A nurse is reviewing Erik Erikson's eight stages of psychosocial development with a group of nursing students. She asks which crisis an individual between ages 19â32 faces when they fail to establish meaningful intimate relationships and retreat into social isolation after previously establishing a stable identity. The CORRECT response is:",
     "options": [
-      "ECT was an experimental procedure without scientific basis and caused cardiac complications",
-      "ECT damaged the brain and was used as a tool for discipline and punishment",
-      "ECT was too expensive and only available to wealthy patients, creating inequity"
+      "Generativity versus Stagnation, which arises when a young adult fails to contribute meaningfully to the next generation through parenting or mentoring",
+      "Identity versus Role Confusion, which occurs when a young adult cannot integrate multiple social roles into a coherent sense of self",
+      "Intimacy versus Isolation, which is the core conflict of young adulthood when individuals fail to form intense relationships and withdraw from others",
+      "Industry versus Inferiority, which reflects a failure to develop competence in socially valued tasks during the productive years of young adulthood"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 25,
     "type": "mcq",
-    "stem": "Marcus Tullius Cicero holds a notable distinction in the history of psychiatric care. Which specific contribution is attributed to him?",
+    "stem": "A psychiatric nurse is explaining the 'deviation from ideal mental health' (DIM) criterion to a student. The student asks why classifying a bereaved widow's persistent sadness as abnormal using DIM would be clinically inappropriate. The nurse's BEST evidence-based response is:",
     "options": [
-      "He was the first person to build a dedicated facility for the mentally ill in ancient Rome",
-      "He was the first known person to create a questionnaire for the mentally ill using biographical information to determine the best course of psychological treatment",
-      "He was the first person to theorise that mental illness had physiological rather than supernatural causes"
+      "Because grief-related sadness does not meet the statistical infrequency threshold required for DIM classification to be clinically valid",
+      "Because all individuals deviate from ideal mental health at some point in their lives, and deviation alone without persistent functional impairment does not indicate abnormality under DIM",
+      "Because DIM only applies to enduring personality disorders and is not designed to assess acute emotional responses to identifiable life stressors",
+      "Because the DSM explicitly excludes bereavement-related symptoms from all psychiatric diagnostic categories, making DIM inapplicable in this context"
     ],
     "answer": "B"
   },
   {
     "id": 26,
     "type": "mcq",
-    "stem": "In colonial-era United States, individuals with mental defects deemed dangerous were subjected to which practice that reflects the most extreme marginalisation of the mentally ill?",
+    "stem": "A psychiatric ward nurse is supervising a junior colleague who insists that because a patient's compulsive hand-washing is culturally common in the patient's home country, it cannot be classified as a mental disorder. The senior nurse must correct this reasoning. Which statement MOST accurately addresses this clinical error?",
     "options": [
-      "They were confined to church-run facilities for religious healing",
-      "They were sold at auctions as slave labour or incarcerated in cages",
-      "They were sent to poorhouses where they received basic custodial care"
+      "Cultural prevalence of a behaviour entirely disqualifies it from psychiatric classification under all international diagnostic frameworks",
+      "A culturally prevalent behaviour can still constitute a mental disorder if it causes clinically significant distress or disability in the individual, unless it has a strong cultural basis that adequately explains it",
+      "The patient's behaviour must be evaluated solely against the DSM criteria, which override cultural considerations in international nursing practice",
+      "The WHO definition of mental health states that culturally normative behaviours are inherently mentally healthy regardless of their functional impact on the individual"
     ],
     "answer": "B"
   },
   {
     "id": 27,
     "type": "mcq",
-    "stem": "The first 'lunatics ward' in the United States was opened in 1752 at which hospital, and what treatment methods were applied?",
+    "stem": "A psychiatric nurse is counselling a 28-year-old woman who has recently relocated, left her parental home for the first time, and is experiencing loneliness, difficulty managing finances independently, and anxiety about her career trajectory. Which developmental framework MOST accurately characterises this transitional experience, and what is its MOST common precipitant?",
     "options": [
-      "Bethlem Hospital New York; using prayer, isolation, and restraint",
-      "Pennsylvania Hospital; using purging, bleeding, blistering, and shock techniques",
-      "Massachusetts General Hospital; using hydrotherapy and occupational therapy"
+      "Adolescent crisis, precipitated by incomplete resolution of identity formation tasks during the teenage years creating delayed developmental deficits",
+      "Quarter-life crisis, precipitated by the stress of entering adult life characterised by feelings of being lost, scared, lonely, or confused about the transition to adulthood",
+      "Midlife crisis, precipitated by the existential realisation that personal achievements do not match earlier life ambitions and goals",
+      "Empty-nest syndrome, precipitated by the disruption of primary attachment relationships as the patient separates from her family of origin"
     ],
     "answer": "B"
   },
   {
     "id": 28,
     "type": "mcq",
-    "stem": "Dorothea Dix is recognised as a major figure in American psychiatric care reform. In addition to opening state asylums, what role did she hold during the American Civil War?",
+    "stem": "A nursing student asks why Ãmile Durkheim classified crime as a 'normal' social phenomenon despite its universally harmful consequences. The clinical relevance of this distinction for psychiatric nursing practice is BEST explained by which of the following?",
     "options": [
-      "She served as Director of the Bureau of Mental Health for the Union Government",
-      "She was in charge of the Union Army Nurses, caring for both Union and Confederate soldiers",
-      "She established military psychiatric units for soldiers returning from battle with shell shock"
+      "Because Durkheim's sociological normality is defined by frequency of occurrence across time periods and societies, and behaviours present in all societies are thus classified as normal regardless of their moral implications",
+      "Because crime represents an externalising behaviour that meets the FF criterion of abnormality, making it simultaneously sociologically normal and clinically abnormal",
+      "Because Durkheim's model aligns with the DIM criterion, where any behaviour that deviates from ideal mental functioning is inherently pathological at both the individual and societal level",
+      "Because Durkheim's normality framework is equivalent to the statistical infrequency criterion used in clinical psychology, making sociological and clinical normality definitionally identical"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 29,
-    "type": "mcq",
-    "stem": "Dr. William Ellis published 'Treatise on Insanity' in 1836, advocating for improved psychiatric nursing. What specific assertion did he make in this publication about nursing practice?",
-    "options": [
-      "He argued that nurses should be male and trained as physicians' assistants in asylums",
-      "He stated that an established nursing practice calmed depressed patients and gave hope to the hopeless",
-      "He claimed nurses should focus exclusively on physical care rather than psychological engagement"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "Projective personality tests assume that personality is primarily _______________ and assess individuals by their response to a/an _______________ stimulus.",
+    "answer": "unconscious / ambiguous",
+    "acceptableAnswers": ["unconscious / ambiguous", "unconscious / ambiguous stimulus"]
   },
   {
     "id": 30,
-    "type": "mcq",
-    "stem": "Psychiatric nursing was formally established in the United States in 1882 when Linda Richards opened a specific institution. What was this institution and what was its purpose?",
-    "options": [
-      "McLean Hospital Nursing Programme; to train attendants in restraint techniques",
-      "Boston City College; the first school specifically designed to train nurses in psychiatric care",
-      "Johns Hopkins School of Nursing; the first university to offer mental health nursing"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "The quarter-life crisis is characterised by feelings of being lost, _______________, lonely or confused, and is commonly precipitated by stress related to _______________ and choosing a career path.",
+    "answer": "scared / unemployment",
+    "acceptableAnswers": ["scared / unemployment", "scared / career uncertainty", "frightened / unemployment"]
   },
   {
     "id": 31,
-    "type": "mcq",
-    "stem": "Johns Hopkins University holds a specific distinction in the history of psychiatric nursing education in the United States. What is this distinction?",
-    "options": [
-      "It published the first psychiatric nursing textbook in 1913",
-      "It was the first college of nursing to offer psychiatric nursing as part of its general curriculum in 1913",
-      "It was the first institution to grant psychiatric nurses prescribing authority in 1913"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "According to the psychiatric literature on the elderly, the suicide rate among elders stands at an alarming _______________ percent, making it the _______________ of all age groups in the United States.",
+    "answer": "21 / highest",
+    "acceptableAnswers": ["21 / highest", "21% / highest"]
   },
   {
     "id": 32,
     "type": "mcq",
-    "stem": "The first psychiatric nursing textbook was 'Nursing Mental Diseases.' Who authored it and when was it published?",
+    "stem": "A nurse is assessing a 14-year-old male patient who deliberately disrupts classroom activities, physically fights with peers at school, and frequently curses at teachers. His parents report that he 'acts out' all his emotions and cannot seem to internalise or regulate them. Based on EBD classifications, this presentation is MOST consistent with which disorder type, and what is its characteristic feature?",
     "options": [
-      "Hildegarde Peplau published it in 1952",
-      "Harriet Bailey published it in 1920",
-      "Linda Richards published it in 1882"
+      "Internalising disorder, characterised by depression, social withdrawal, and anxiety directed inward rather than expressed behaviourally",
+      "Externalising disorder, characterised by under-controlled behaviour including acting out through fighting, cursing, and other overt forms of aggression",
+      "Adjustment disorder, characterised by an inability to make normal adjustments to environmental stressors within the expected developmental period",
+      "Pervasive developmental disorder, characterised by social communication deficits and restricted interests rather than conduct-related behavioural disruption"
     ],
     "answer": "B"
   },
   {
     "id": 33,
     "type": "mcq",
-    "stem": "A case scenario: During a historical lecture, a student argues that the National League for Nursing mandated psychiatric clinical experience for all nursing schools before 1940. The instructor corrects this by stating:",
+    "stem": "A psychiatric nurse is administering the Thematic Apperception Test (TAT) to a patient. After reviewing the responses, the nurse notes that the patient's stories consistently feature themes of abandonment, helplessness, and inability to trust authority figures. What is the MOST theoretically accurate interpretation of these findings according to TAT methodology?",
     "options": [
-      "The mandate was issued in 1945, immediately after World War II ended",
-      "The mandate was not issued until 1950, when the National League for Nursing required all nursing schools to include psychiatric clinical experience for accreditation",
-      "The mandate was issued in 1955, following the publication of the first ANA standards"
+      "The patient's conscious beliefs about authority figures are being expressed through the narrative content of the TAT stories as a form of rational self-disclosure",
+      "The recurring themes are directly linked to unconscious motives, underlying thought processes, and potential conflicts present within the individual",
+      "The TAT responses indicate a maladaptive cognitive schema that is accessible to consciousness and should be targeted using cognitive restructuring techniques",
+      "The patient demonstrates poor test performance, as valid TAT responses should be unrelated to the individual's personal experiences and emotional conflicts"
     ],
     "answer": "B"
   },
   {
     "id": 34,
     "type": "mcq",
-    "stem": "Hildegarde E. Peplau's seminal 1952 publication introduced a landmark contribution to psychiatric nursing. What was this contribution?",
+    "stem": "CASE SCENARIO: A 55-year-old woman whose last child recently left for university presents reporting persistent sadness, purposelessness, and difficulty filling her time. She denies suicidal ideation and reports no prior psychiatric history. She states: 'My whole identity was being a mother.' Which psychiatric concept MOST precisely describes her current adjustment challenge, and what does the evidence suggest about its typical trajectory?",
     "options": [
-      "It outlined the first pharmacological guidelines for psychiatric nurses in clinical settings",
-      "It presented the first nursing theoretical framework for psychiatric care in 'Interpersonal Relations in Nursing'",
-      "It established the first standardised assessment tools for psychiatric nursing documentation"
+      "Midlife crisis, which is typically triggered by sudden life changes and is expected to persist for several years without therapeutic intervention",
+      "Empty-nest syndrome, which represents difficulty adjusting to life without children but is usually temporary, with many adults eventually enjoying new freedoms associated with middle age",
+      "Generativity versus Stagnation crisis, which occurs when middle-aged adults fail to establish a productive legacy beyond child-rearing",
+      "Adjustment disorder with depressed mood, which by definition requires a clinically significant and persistent response to an identifiable stressor lasting more than six months"
     ],
     "answer": "B"
   },
   {
     "id": 35,
     "type": "mcq",
-    "stem": "The first developed standard of care for psychiatric nurses was created by which organisation and in which year?",
+    "stem": "A psychiatric nurse educator is explaining why the clinical definition of abnormality cannot rely solely on the 'morality' criterion. Which of the following BEST illustrates the FUNDAMENTAL problem with using morality as the primary diagnostic standard in psychiatric nursing?",
     "options": [
-      "National League for Nursing in 1963",
-      "American Nurses Association psychiatric division in 1973",
-      "World Health Organization mental health division in 1968"
+      "Moral behaviour is culturally relative, making it a supplementary rather than primary criterion, but it remains valid when combined with the statistical infrequency criterion",
+      "It would be impossible to agree on a single universal set of moral standards for diagnostic purposes, making morality an unreliable and subjective criterion for defining abnormality",
+      "The morality criterion conflates ethical judgement with clinical diagnosis, resulting in over-pathologisation of deviant but non-harmful behaviours in minority populations",
+      "Morality-based definitions of abnormality are discouraged by the DSM-5 but remain legally relevant in jurisdictions that criminalise certain behaviours classified as moral violations"
     ],
     "answer": "B"
   },
   {
     "id": 36,
     "type": "mcq",
-    "stem": "President John F. Kennedy accelerated deinstitutionalisation in 1963 through which specific legislative action?",
+    "stem": "In the context of Freudian drive theory, a university student works exceptionally hard to obtain top academic grades, driven by an unconscious desire to attract a superior mate and secure socioeconomic advantages over perceived rivals. According to Freud's explanation of this motivation, the behaviour MOST accurately represents:",
     "options": [
-      "The Mental Health Reform and Patient Rights Act",
-      "The Community Mental Health Act",
-      "The Psychiatric Deinstitutionalisation and Community Care Act"
+      "A sublimation of the death instinct into academically productive channels that serve the individual's competitive survival instincts",
+      "An expression of life instinct energy (Eros) driving self-improvement to increase reproductive attractiveness and ensure continuation of the bloodline",
+      "A manifestation of the superego's morality principle compelling achievement as a socially acceptable expression of latent aggressive drives",
+      "An ego-mediated resolution of the conflict between the pleasure principle and the reality principle through academically goal-directed behaviour"
     ],
     "answer": "B"
   },
   {
     "id": 37,
     "type": "mcq",
-    "stem": "Kings Park Psychiatric Centre in Long Island, New York, reached its peak in the 1950s. Approximately how many patients did it house at its maximum capacity?",
+    "stem": "A nurse is reviewing personality trait stability across the lifespan. She explains that sensation-seeking behaviour demonstrates a distinctive developmental trajectory compared to other personality traits. Based on the documented research, which statement MOST accurately describes sensation-seeking across the lifespan?",
     "options": [
-      "23,000 patients",
-      "33,000 patients",
-      "43,000 patients"
+      "Sensation-seeking remains relatively stable throughout adulthood, showing minor fluctuations that are not clinically significant compared to major trait dimensions",
+      "Sensation-seeking increases gradually from childhood through adulthood, peaks in the thirties, and declines slowly thereafter as social responsibilities accumulate",
+      "Sensation-seeking increases from childhood through adolescence, peaks in late adolescence around ages 18â20, then falls continuously with advancing age",
+      "Sensation-seeking decreases steadily from childhood through adolescence as parental socialisation progressively reduces risk-taking motivation"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 38,
-    "type": "mcq",
-    "stem": "Nigeria's first formal institution for the treatment of mental illness was established in 1903. In which location was this first asylum situated?",
-    "options": [
-      "Yaba, Lagos State",
-      "Calabar, Cross River State",
-      "Abeokuta, Ogun State"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "The five basic personality traits theory was originally developed in _______________ by D.W. Fiske, and the acronym used to remember the traits is _______________.",
+    "answer": "1949 / OCEAN",
+    "acceptableAnswers": ["1949 / OCEAN"]
   },
   {
     "id": 39,
-    "type": "mcq",
-    "stem": "A case scenario: A psychiatric nursing student claims the Yaba Asylum was Nigeria's first asylum. The faculty corrects this based on historical documentation presented in 2006 (Boroffka, 2006). What is the accurate historical fact?",
-    "options": [
-      "The Yaba Asylum predates Calabar but was not officially registered until 1910",
-      "The Lunatic Asylum in Calabar had already been functioning as a civil asylum in 1903, predating Yaba",
-      "The Lantoro facility predates both Calabar and Yaba, having been established in 1899"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "According to the psychological theory of behaviour, in biology, human behaviour is believed to be controlled primarily by the _______________ system and the _______________ system.",
+    "answer": "endocrine / nervous",
+    "acceptableAnswers": ["endocrine / nervous", "nervous / endocrine"]
   },
   {
     "id": 40,
-    "type": "mcq",
-    "stem": "The inmate population of the Calabar Asylum grew from 14 in 1908 to how many by 1957?",
-    "options": [
-      "96",
-      "186",
-      "246"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "In Freud's theory of drives, the life instincts are sometimes referred to as _______________ instincts, and the energy created by these drives is known as _______________.",
+    "answer": "sexual / libido",
+    "acceptableAnswers": ["sexual / libido"]
   },
   {
     "id": 41,
     "type": "mcq",
-    "stem": "The first female psychiatric nurse to work in Nigeria was Irene Ogbolu. Where did she begin working and in which year?",
+    "stem": "A psychiatric nurse observes a patient who repeatedly rocks back and forth in his chair during group therapy sessions. When asked why, the patient explains it is simply enjoyable and comforting to him. He does not seek attention, tangible rewards, or escape from tasks. Based on the four functions of behaviour, this behaviour MOST accurately represents:",
     "options": [
-      "She began at Yaba Mental Hospital in 1952",
-      "She began working in Calabar in 1956, later moving to Enugu during the Nigerian Civil War",
-      "She began at Aro Abeokuta in 1954 and later transferred to Lagos"
+      "Tangible function, where the behaviour is maintained by access to a preferred item or activity that provides comfort and enjoyment",
+      "Escape or avoidance function, where rocking serves as a covert strategy to disengage from the uncomfortable social demands of group therapy",
+      "Sensory stimulation function, where the behaviour provides internal self-stimulating sensation that is pleasurable independent of external reinforcement",
+      "Social attention function, where the rhythmic motion serves as a non-verbal communication strategy to elicit concern from group members"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 42,
     "type": "mcq",
-    "stem": "The Yaba Asylum was established on a specific date, admitting its first patients. On which date was the Yaba Asylum established and how many lunatics were admitted initially?",
+    "stem": "A psychiatric nurse documents that a patient demonstrates 'pluralistic ignorance' regarding a community social norm. In the context of psychiatric nursing, which scenario MOST precisely illustrates pluralistic ignorance and its potential clinical relevance?",
     "options": [
-      "Established September 15, 1907 with first 10 lunatics admitted",
-      "Established October 31, 1907 with first 14 lunatics admitted",
-      "Established November 1, 1907 with first 12 lunatics admitted"
+      "A patient from a minority cultural group holds norms that differ from mainstream society, and the majority mistakenly assumes their own norms are universally shared",
+      "Most individuals within a peer group falsely believe that excessive alcohol consumption is the norm among students, though very few privately endorse or practice this behaviour",
+      "A patient deviates from established social norms because of insufficient socialisation opportunities during a critical developmental period in adolescence",
+      "A clinician misattributes a culturally normative behaviour to a pathological process because of limited training in transcultural psychiatric assessment"
     ],
     "answer": "B"
   },
   {
     "id": 43,
     "type": "mcq",
-    "stem": "The first Medical Officer appointed to Yaba Asylum in 1907 was appointed by the Colonial Secretary in Sierra Leone. Who was this first Medical Officer?",
+    "stem": "CASE SCENARIO: A psychiatric nurse is assessing a 38-year-old male patient who has recently been made redundant from a senior management position. Over the past three months, he has become increasingly withdrawn, misses meals regularly, shows diminished interest in previously enjoyed activities, and has stopped attending his children's school events. His wife reports he is 'not the same person.' Which COMBINATION of behavioural function and abnormality criterion MOST comprehensively explains his presentation?",
     "options": [
-      "Dr. Alexander Boroffka",
-      "Dr. Curtis Crispin Adeniyi-Jones",
-      "Dr. C.O. Oshodi"
+      "Escape function serving to avoid work-related demands; classified as abnormal using the statistical infrequency criterion because most employed men do not experience job loss",
+      "Sensory stimulation dysfunction reflecting disrupted self-regulatory processes; classified as abnormal using the observer discomfort criterion based on his wife's distress",
+      "Maladaptive adjustment response to environmental stressor; classified as abnormal using failure to function adequately and deviation from ideal mental health criteria",
+      "Social attention-seeking behaviour triggered by role loss; classified as abnormal using the morality criterion because neglecting parental responsibilities is ethically unacceptable"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 44,
     "type": "mcq",
-    "stem": "Abraham A. Ordia is distinguished in Nigerian psychiatric nursing history for which specific accomplishment?",
+    "stem": "During a psychiatric nursing seminar, a student asks about the significance of the Diagnostic and Statistical Manual (DSM) being first published in 1952. The instructor explains that the DSM represents the psychiatric profession's ongoing attempt to distinguish normality from disorder. Which statement about the DSM's limitations in defining normality is MOST consistent with the theoretical literature?",
     "options": [
-      "He was the first Nigerian-born physician to specialise in psychiatry at a Nigerian institution",
-      "He was the first Nigerian trained psychiatric nurse and successfully changed the name from Yaba Asylum to Yaba Mental Hospital in 1960",
-      "He established the first school of psychiatric nursing in Nigeria at Aro Abeokuta in 1954"
+      "The DSM provides absolute and culture-neutral criteria that supersede contextual and societal definitions of normality in all clinical applications",
+      "The DSM shows how normality is dependent on situational context, changes throughout history, and often involves value judgements in clinical classification",
+      "The DSM's primary limitation is its over-reliance on the statistical infrequency criterion, which leads to systematic under-diagnosis of mental disorders in minority populations",
+      "The DSM eliminates the need for clinical judgement by providing operationalised threshold criteria that objectively separate normality from pathology"
     ],
     "answer": "B"
   },
   {
     "id": 45,
     "type": "mcq",
-    "stem": "Dr. Alexander Boroffka took over from Abraham Ordia at Yaba in 1961. What was Boroffka's nationality, and under whose medical supervision had Ordia managed the asylum before this?",
+    "stem": "A nurse is educating a patient about how personality traits are distributed in a normal population. The patient asks what percentage of the population typically scores within one standard deviation of the mean for any given trait. The nurse's MOST accurate response is:",
     "options": [
-      "Dr. Boroffka was Swiss; Ordia managed under specialist psychiatrist supervision",
-      "Dr. Boroffka was German; Ordia managed with medical supervision by General Practitioners only",
-      "Dr. Boroffka was American; Ordia managed under British colonial medical officer supervision"
+      "Approximately 50% of people score within one standard deviation of the mean, representing the most central or average distribution of any trait",
+      "Approximately 68.3% of people score within one standard deviation of the mean, with only extreme scorers classified outside this normal range",
+      "Approximately 95.45% of people score within one standard deviation, with the remaining 4.55% representing the abnormal extremes of trait distribution",
+      "Approximately 99.7% of people score within one standard deviation, making extreme personality trait scores exceedingly rare in the general population"
     ],
     "answer": "B"
   },
   {
     "id": 46,
     "type": "mcq",
-    "stem": "Lantoro was opened in October 1944. What specific event triggered the opening of Lantoro and where did the first patients arrive from?",
+    "stem": "A psychiatric nurse is discussing how personality change occurs through therapeutic intervention. A patient in cognitive-behavioural therapy asks how changes made during therapy eventually become permanent features of personality. Based on the documented psychological mechanisms of personality change, the MOST accurate explanation is:",
     "options": [
-      "Opening triggered by overcrowding at Yaba; patients transferred from Calabar Asylum",
-      "Opening triggered by the 2nd World War; war patients arrived from Boma",
-      "Opening triggered by a government directive; patients transferred from Lagos General Hospital"
+      "Therapy produces neuroplastic changes in prefrontal cortical networks that permanently alter trait-level processing, making therapeutic gains biologically irreversible",
+      "Individuals identify inappropriate behaviours, self-monitor to change them, eventually internalise the desired behaviour, and the resulting trait generalises to other areas of life",
+      "Repeated exposure to cognitive restructuring techniques creates new neural pathways that override previously established maladaptive trait-level behavioural patterns",
+      "The therapist reinforces desired behaviours through operant conditioning principles until the desired behaviour becomes a conditioned response to environmental triggers"
     ],
     "answer": "B"
   },
   {
     "id": 47,
-    "type": "mcq",
-    "stem": "In 1947, Lionard Oliver was designated as the first mental male nurse with the title of Head Mental Nurse. What was his primary training contribution at Lantoro?",
-    "options": [
-      "He was very active in training nurses on psychiatric assessment and documentation",
-      "He was very active in training nurses on how to restrain mental patients",
-      "He was primarily focused on training nurses in medication administration and ECT protocols"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "The process by which conditions come to be defined and treated as medical conditions and thus come under the authority of doctors is known as _______________ or _______________.",
+    "answer": "medicalization / pathologization",
+    "acceptableAnswers": ["medicalization / pathologization", "medicalisation / pathologisation", "pathologization / medicalization"]
   },
   {
     "id": 48,
-    "type": "mcq",
-    "stem": "In 1952, Lambo was posted to Lagos General Hospital where he was influenced to take up psychiatry. He returned in 1954 and was sent to Abeokuta. Which TWO specific treatments did he establish and introduce at Aro?",
-    "options": [
-      "He established insulin therapy and introduced lithium carbonate treatment",
-      "He established ECT and introduced insulin therapy",
-      "He established pharmacotherapy with bromides and introduced psychoanalytic therapy"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "In Erikson's framework, adolescence is described as the period between childhood and adulthood, generally involving individuals between the ages of _______________ and _______________.",
+    "answer": "12 / 19",
+    "acceptableAnswers": ["12 / 19", "twelve / nineteen"]
   },
   {
     "id": 49,
-    "type": "mcq",
-    "stem": "The first formally organised training school for Mental Health Nurses in the world was established by Linda Richards and a physician named Edward Cowles. At which institution was this school located?",
-    "options": [
-      "Pennsylvania Hospital for the mentally ill in Philadelphia",
-      "McLean Hospital for the mentally ill in Massachusetts",
-      "Bellevue Hospital for the mentally ill in New York"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "The Thematic Apperception Test requires individuals to tell a _______________ based on vague pictures or scenes, and responses are analysed for _______________ themes that reflect underlying unconscious motives.",
+    "answer": "story / common",
+    "acceptableAnswers": ["story / common", "narrative / common", "story / recurring"]
   },
   {
     "id": 50,
     "type": "mcq",
-    "stem": "The first psychiatric nursing school in the world graduated its first class in 1886. How many students were in this inaugural graduating class?",
+    "stem": "A psychiatric nurse is caring for a patient who has been labelled as 'mentally ill' in his community. The nurse observes that the patient has been socially excluded, struggles to find employment, and expresses shame about his condition. According to the psychiatric literature on labelling effects, which statement MOST accurately explains the mechanism by which labelling negatively impacts the patient?",
     "options": [
-      "10 students",
-      "15 students",
-      "20 students"
+      "Labelling triggers a neurobiological stress response that exacerbates underlying psychiatric symptoms through the mechanism of psychological sensitisation",
+      "Labelling as mentally ill can lead to marginalisation, stigmatisation, social exclusion, and the internalisation of shame, further separating the individual from normal social functioning",
+      "Labelling primarily affects the patient's access to healthcare services rather than their self-perception, as most psychiatrically labelled individuals maintain a positive self-concept",
+      "Labelling activates the sick role, which paradoxically benefits the patient by reducing social expectations and responsibilities during the recovery period"
     ],
     "answer": "B"
   },
   {
     "id": 51,
     "type": "mcq",
-    "stem": "Linda Richards studied under Florence Nightingale and graduated in 1873. From which institution did she graduate, and what was notable about this institution?",
+    "stem": "CASE SCENARIO: A 67-year-old retired teacher presents to a community health clinic accompanied by her adult son. She reports sleeping only 3 hours per night, has lost 8 kg over two months, and states: 'I just feel sad all the time, but it's probably just old age.' Her son reports she has stopped attending her weekly book club and no longer speaks to former colleagues. Her primary care physician documented 'age-related changes' at the last visit. What is the nurse's PRIORITY action?",
     "options": [
-      "She graduated from Massachusetts General Hospital, which opened in 1869",
-      "She graduated from the New England Hospital for Women and Children, which had opened in 1872",
-      "She graduated from Boston City Hospital Nursing School, which opened in 1870"
+      "Accept the physician's documentation of age-related changes and focus the nursing assessment on physical health monitoring including weight and fluid balance",
+      "Conduct a comprehensive psychiatric assessment including depression screening, because elders often attribute mental health symptoms to physical causes and only 7% currently access appropriate psychiatric services",
+      "Educate the patient that decreased sleep and appetite are expected physiological changes in older adults and arrange follow-up in six months",
+      "Refer the patient to a dietitian to address the weight loss before initiating psychiatric assessment, as nutritional deficiency may be the primary aetiology"
     ],
     "answer": "B"
   },
   {
     "id": 52,
     "type": "mcq",
-    "stem": "The first attempt to start a school of psychiatric nursing in Nigeria was in 1954 at Aro Abeokuta. What was the notable circumstance surrounding this attempt?",
+    "stem": "A nursing student correctly identifies that mental wellness can be defined as the absence of diagnosable mental disorders. A patient who arranges his books obsessively every evening states: 'I know it's a bit much but I'm fine with it.' According to the distinction between obsession and OCD as described in the psychiatric literature, why would this patient NOT be diagnosed with OCD?",
     "options": [
-      "The attempt failed due to shortage of qualified nurse educators from the United Kingdom",
-      "The hospital was still under construction during this period",
-      "The attempt was abandoned due to government withdrawal of funding in the same year"
+      "Because OCD requires the obsession to be ego-syntonic, meaning the patient must experience the behaviour as consistent with his self-image rather than as excessive",
+      "Because someone who has an obsession may not necessarily have OCD; it is only when obsession combines with unrelenting compulsion to act on the object of obsession that OCD is diagnosed",
+      "Because the patient's behaviour lacks the criterion of marked distress required for OCD diagnosis, as he explicitly states he is comfortable with the behaviour",
+      "Because OCD requires the behaviour to occur across multiple settings, and the patient's book-arranging is restricted to a single domestic context"
     ],
     "answer": "B"
   },
   {
     "id": 53,
     "type": "mcq",
-    "stem": "In the 1960s, two key journals were established by psychiatric nurses. Which of the following correctly identifies BOTH journals established in the early 1960s?",
+    "stem": "A psychiatric mental health nurse is teaching about the philosophical assumptions underlying personality theory. She presents the case of a patient whose violent behaviour is attributed to a traumatic childhood in a neglectful environment. Which philosophical assumption of personality theory does this case MOST directly illustrate?",
     "options": [
-      "Journal of Mental Health Nursing and American Journal of Psychiatric Care",
-      "Perspectives in Psychiatric Care and Journal of Psychiatric Nursing and Mental Health Services",
-      "Psychiatric Nursing Today and International Journal of Mental Health Nursing"
+      "Freedom versus Determinism, because the patient's behaviour is causally determined by environmental forces beyond his conscious control",
+      "Heredity versus Environment, because the patient's personality is attributed to environmental experiences rather than genetic or biological endowment",
+      "Uniqueness versus Universality, because the patient's specific developmental history creates a pattern of behaviour that is distinct from universal personality laws",
+      "Active versus Reactive, because the patient's aggression represents a reactive response to environmental stimuli rather than self-initiated volitional behaviour"
     ],
     "answer": "B"
   },
   {
     "id": 54,
     "type": "mcq",
-    "stem": "By 1961 in Nigeria, the number of psychiatric nurses trained in the UK had reached a specific combined figure with locally trained nurses. What was the total combined number?",
+    "stem": "A nurse is explaining personality trait stability to a patient's family. The family asks when personality becomes 'set' and resistant to change. Based on the documented research on personality constancy, the nurse's MOST accurate response is:",
     "options": [
-      "15 UK-trained plus 28 locally trained equals 43 total",
-      "15 UK-trained plus 38 locally trained equals 53 total",
-      "25 UK-trained plus 38 locally trained equals 63 total"
+      "Personality becomes fully fixed at the end of adolescence around age 19, after which traits remain stable with only minor situationally driven fluctuations",
+      "Personality becomes increasingly stable with age and appears to become progressively more 'set in plaster,' especially after the age of 50 when very little average-level change occurs",
+      "Personality is fully malleable throughout the lifespan and can be substantially changed through therapeutic intervention at any age without significant resistance",
+      "Personality consistency peaks in middle adulthood around ages 35â45, after which increased neuroplasticity in late adulthood enables greater trait-level flexibility"
     ],
     "answer": "B"
   },
   {
     "id": 55,
-    "type": "mcq",
-    "stem": "A case scenario: An examiner asks a student: 'What was the ONLY treatment available to inmates of early Nigerian asylums before specialist psychiatrists arrived?' The correct answer is:",
-    "options": [
-      "Physical restraints and isolation rooms administered by nursing attendants",
-      "Bromides, given only when general practitioners deemed it necessary to extend their medical care",
-      "Hydrotherapy and occupational activities supervised by trained nurses"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "According to Freud, he initially described _______________ instincts before concluding that all instincts fall into one of two classes: the life instincts or the _______________ instincts.",
+    "answer": "life / death",
+    "acceptableAnswers": ["life / death"]
   },
   {
     "id": 56,
-    "type": "mcq",
-    "stem": "Dr. Cameron was the first psychiatrist posted to Lantoro in 1951. From which country was he posted, and what significant institutional development occurred during his tenure?",
-    "options": [
-      "Posted from Canada; negotiated establishment of the first Nigerian medical school",
-      "Posted from Jamaica; negotiated construction of the university around Lafanwa, which later shifted to Aro at Ibadan University",
-      "Posted from the United Kingdom; negotiated the transformation of Lantoro into a university teaching hospital"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "The five models used in emotional and behavioural disorders (EBD) are biophysical, psychodynamic, _______________, behavioural, and _______________.",
+    "answer": "cognitive / ecological",
+    "acceptableAnswers": ["cognitive / ecological", "ecological / cognitive"]
   },
   {
     "id": 57,
-    "type": "mcq",
-    "stem": "The psychoanalytic theory gained popularity among psychiatrists for a specific practical reason. By which decade had it become marginalised within the field?",
-    "options": [
-      "By the 1960s",
-      "By the 1970s",
-      "By the 1980s"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "In research on personality and gender, Weinsberg and DeYoung (2011) concluded that women tend to score higher than men on _______________, Agreeableness, and _______________.",
+    "answer": "Extraversion / Neuroticism",
+    "acceptableAnswers": ["Extraversion / Neuroticism", "extraversion / neuroticism"]
   },
   {
     "id": 58,
     "type": "mcq",
-    "stem": "The psychoanalytic theory's popularity among psychiatrists was due to which specific practice advantage it offered?",
+    "stem": "During ward rounds, a psychiatric nurse observes that a newly admitted patient consistently rearranges furniture in his room every morning, becomes visibly agitated when other patients touch his belongings, and monopolises the television remote during group time. The nurse recognises the TANGIBLE function of his behaviour. Which theoretical framework underpins this functional behavioural assessment?",
     "options": [
-      "It allowed more precise diagnosis of schizophrenia through dream analysis and free association",
-      "It allowed patients to be treated in private practices instead of being warehoused in asylums",
-      "It provided a biological framework that aligned with emerging neuroimaging findings"
+      "The psychodynamic framework, which interprets controlling behaviours as displacement of unresolved power conflicts from earlier developmental relationships",
+      "The operant conditioning framework, which identifies behaviour as maintained by its consequences including access to preferred items, activities, and environmental control",
+      "The cognitive framework, which attributes the behaviour to rigid cognitive schemas about order and control that generate automatic distress responses when violated",
+      "The ecological framework, which understands the behaviour as an adaptive response to the unfamiliar and threatening demands of the inpatient psychiatric environment"
     ],
     "answer": "B"
   },
   {
     "id": 59,
     "type": "mcq",
-    "stem": "In the 1920s and 1930s, most European psychiatrists believed that manic depressive disorder and schizophrenia were inherited. What event specifically discredited genetic theories in psychiatry in the decades following this period?",
+    "stem": "A nurse counsellor is helping a 25-year-old patient understand her personality. The patient scores very low on agreeableness in a standardised personality assessment. Which constellation of behaviours would the nurse MOST expect to observe in this patient during therapeutic interactions, based on the defined characteristics of low agreeableness?",
     "options": [
-      "The discovery of environmental triggers for psychosis during the Great Depression",
-      "The conflation of genetics with Nazi racist ideology thoroughly discrediting genetics after World War II",
-      "The publication of Freudian psychoanalytic theory that demonstrated environmental determinism"
+      "Excessive emotional expressiveness, social dominance, assertiveness, and a tendency to monopolise group therapy discussions without regard for peers' contributions",
+      "Manipulation, lack of caring or sympathy, nastiness toward others, and disinterest in other people's problems as core interpersonal features",
+      "Persistent sadness, moodiness, emotional instability, and irritability triggered by interpersonal conflict during therapeutic interactions",
+      "Rigidity in daily routines, difficulty adapting to schedule changes, excessive planning, and frustration when therapeutic activities deviate from the expected format"
     ],
     "answer": "B"
   },
   {
     "id": 60,
     "type": "mcq",
-    "stem": "In medieval Europe during the height of Christianity, hospitals for the mentally ill prioritised religious intervention. These early caregivers who formed intimate spiritual relationships with patients are today considered to be which group?",
+    "stem": "CASE SCENARIO: A psychiatric community nurse visits a 72-year-old widower who lives alone. He reports increased alcohol consumption, rarely leaves the house, and has not visited his doctor in two years. He declines psychiatric referral, stating: 'I know my mind better than any doctor.' The nurse notes that elders account for only 6% of community mental health service users despite representing a much larger proportion of those in need. Which barrier to mental health care in the elderly is MOST prominently illustrated by this patient's behaviour?",
     "options": [
-      "The first modern psychiatric social workers",
-      "The first modern psychiatric nurses (soul friends)",
-      "The first modern occupational therapists in mental health"
+      "Service integration failures causing long waiting times and complex procedures that overwhelm elderly patients and discourage engagement with services",
+      "Ageism from primary care physicians who have limited training in geriatric mental health, resulting in missed diagnoses and inadequate referrals",
+      "Stigma associated with mental illness causing elderly patients to resist treatment based on culturally and media-reinforced negative perceptions of psychiatry",
+      "Lack of organised support groups for elderly psychiatric patients, leading to social isolation and reduced motivation to seek professional mental health care"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 61,
+    "type": "mcq",
+    "stem": "A psychiatric nurse is reviewing how menopause affects women's mental health. A 51-year-old patient asks whether she can expect to experience depression as a result of menopause. Based on the psychiatric literature, the nurse's MOST evidence-based response is:",
+    "options": [
+      "Menopause directly causes clinical depression in most women due to the neuropsychiatric effects of oestrogen withdrawal on serotonergic neurotransmission",
+      "Menopause does not typically cause depression, irrational behaviour, or irritability in most women, though some experience severe physical symptoms requiring medical management",
+      "Depression is a universal feature of menopause because of the profound identity disruption associated with the end of reproductive capacity in women",
+      "Women who experience hot flushes during menopause are at significantly elevated risk of developing clinical depression, requiring prophylactic antidepressant therapy"
     ],
     "answer": "B"
   },
   {
-    "id": 61,
-    "type": "fitb",
-    "stem": "The term psychiatry was coined in _______________ by Professor Johann Christian Reil in his seminal paper on the rectification of the topic in psychiatry.",
-    "answer": "1808",
-    "acceptableAnswers": ["1808", "eighteen hundred and eight"]
-  },
-  {
     "id": 62,
     "type": "fitb",
-    "stem": "The word 'psychiatry' is derived from the Greek word psyche meaning _______________ and iatros meaning physician.",
-    "answer": "soul or mind",
-    "acceptableAnswers": ["soul or mind", "soul", "mind", "soul/mind"]
+    "stem": "According to research on self-esteem changes during development, females tend to _______________ in self-esteem during the transition from early adolescence to early adulthood, while males tend to _______________.",
+    "answer": "decrease / increase",
+    "acceptableAnswers": ["decrease / increase", "decline / increase"]
   },
   {
     "id": 63,
     "type": "fitb",
-    "stem": "The first specialist psychiatric hospital in the medieval Islamic world was built in _______________ in 705 AD.",
-    "answer": "Baghdad",
-    "acceptableAnswers": ["Baghdad"]
+    "stem": "Behaviour can be regarded as any action of an organism that changes its relationship to its _______________. It provides _______________ from the organism to the environment.",
+    "answer": "environment / outputs",
+    "acceptableAnswers": ["environment / outputs"]
   },
   {
     "id": 64,
     "type": "fitb",
-    "stem": "In the 4th century BCE, _______________ theorized that physiological abnormalities may be the root of mental disorders, challenging the then-prevalent supernatural explanation.",
-    "answer": "Hippocrates",
-    "acceptableAnswers": ["Hippocrates"]
+    "stem": "The standard criterion used in psychology and psychiatry to define abnormality is that of _______________, where determination of abnormality is based upon _______________.",
+    "answer": "mental illness or mental disorder / medical diagnosis",
+    "acceptableAnswers": ["mental illness / medical diagnosis", "mental disorder / medical diagnosis", "mental illness or mental disorder / medical diagnosis"]
   },
   {
     "id": 65,
-    "type": "fitb",
-    "stem": "The Bethlem Royal Hospital was founded in the _______________ century and is one of the oldest lunatic asylums; the City of London acquired it in 1547.",
-    "answer": "13th",
-    "acceptableAnswers": ["13th", "thirteenth", "13"]
+    "type": "mcq",
+    "stem": "A psychiatric nurse is reviewing the characteristics of normality with a group of student nurses. She explains that normality is not a fixed concept but shifts according to time and environment. Which clinical example MOST precisely illustrates the 'relativity of normality' as described in the psychiatric literature?",
+    "options": [
+      "A patient with schizophrenia is considered abnormal in all cultural contexts because psychosis represents a universal deviation from neurobiological baseline functioning",
+      "Perceptions on homosexuality and masturbation have shifted from being classified as disorders to being increasingly viewed as normal in many countries over recent decades",
+      "A child who throws tantrums at age three is considered normal, but the same behaviour in an adult would be pathologised regardless of cultural context",
+      "The DSM criteria for personality disorders have been updated across revisions to reflect changing societal standards, demonstrating that clinical normality evolves with expert consensus"
+    ],
+    "answer": "B"
   },
   {
     "id": 66,
-    "type": "fitb",
-    "stem": "Philippe Pinel's work inspired the Governor of the _______________ psychiatric hospital in Paris to release psychiatric patients from their chains in 1793.",
-    "answer": "BicÃªtre",
-    "acceptableAnswers": ["BicÃªtre", "Bicetre", "BicÃªtre hospital"]
+    "type": "mcq",
+    "stem": "A nurse assessing personality consistency uses the three defining criteria of personality traits: consistency, stability, and individual differences. A patient reports that he is talkative at home but completely silent at work. Which criterion of personality traits does this behaviour MOST directly challenge, and what is the clinical implication?",
+    "options": [
+      "Individual differences, because the behaviour is unique to this patient and suggests a personality profile that deviates significantly from population norms",
+      "Stability, because the behaviour differs across two points in time, suggesting that the patient's trait level of talkativeness is declining with advancing age",
+      "Consistency, because personality traits require cross-situational consistency and markedly different behaviour across settings challenges the classification of talkativeness as a stable trait in this patient",
+      "Universality, because the trait of talkativeness should manifest similarly across all social situations if it constitutes a genuine personality dimension"
+    ],
+    "answer": "C"
   },
   {
     "id": 67,
-    "type": "fitb",
-    "stem": "The Medico-Psychological Association was established in the United Kingdom in _______________ under the Presidency of William A.F. Browne.",
-    "answer": "1866",
-    "acceptableAnswers": ["1866", "eighteen sixty-six"]
+    "type": "mcq",
+    "stem": "CASE SCENARIO: A 19-year-old male patient is brought to the emergency psychiatric unit after his parents found him staring blankly at the wall for hours. He states he needs to 'go back in time to fix things' and becomes distressed when contradicted. He has no prior psychiatric history. Over the past month, his grades dropped from distinction to failing. He now refuses food stating it is 'contaminated by future enemies.' Using the multi-criteria approach, which criterion is LEAST applicable to this presentation?",
+    "options": [
+      "Deviation from ideal mental health, because the patient is clearly not functioning at an optimal psychological level",
+      "Statistical infrequency, because staring for hours and refusing food due to paranoid ideation is statistically rare in the general population",
+      "Observer discomfort, because the patient's parents and clinical staff experience discomfort in response to his behaviour",
+      "Maladaptivity, because despite the risk to his nutrition and academic functioning the behaviour may serve an internally logical purpose from the patient's subjective perspective"
+    ],
+    "answer": "D"
   },
   {
     "id": 68,
-    "type": "fitb",
-    "stem": "Emil Kraepelin promoted disease classification for mental disorders, an idea originally introduced by _______________.",
-    "answer": "Karl Ludwig Kahlbaum",
-    "acceptableAnswers": ["Karl Ludwig Kahlbaum", "Kahlbaum"]
+    "type": "mcq",
+    "stem": "A psychiatric nurse is teaching a patient about the philosophical assumption of 'active versus reactive' in personality theory. The patient asks which type of theorist would argue that individuals are primarily shaped by their social environment rather than by their own initiative. The nurse's MOST accurate response is:",
+    "options": [
+      "Humanistic theorists, who believe individuals are active agents capable of self-actualisation and are not determined by environmental conditioning",
+      "Cognitive theorists, who emphasise that individual perception of environmental events, rather than the events themselves, drives personality expression",
+      "Traditional behavioural theorists, who believed humans are passively shaped by environmental forces including reinforcement contingencies",
+      "Evolutionary psychologists, who attribute personality to genetically encoded adaptive mechanisms that are reactive to environmental survival pressures"
+    ],
+    "answer": "C"
   },
   {
     "id": 69,
-    "type": "fitb",
-    "stem": "The discovery of _______________ effectiveness in treating schizophrenia in 1952 revolutionised the treatment of the disease.",
-    "answer": "chlorpromazine",
-    "acceptableAnswers": ["chlorpromazine", "Chlorpromazine"]
+    "type": "mcq",
+    "stem": "A nurse is reviewing the management of adjustment crises across the lifespan. A 44-year-old male manager is assessed in his twenty-year longitudinal follow-up. His ambition has steeply declined since his twenties, but his autonomy, leadership motivation, and dominance have increased. Based on the documented findings of longitudinal studies of male managerial candidates, this pattern is BEST explained by which factor?",
+    "options": [
+      "The onset of a midlife crisis characterised by regression to earlier developmental stages with concomitant personality reorganisation around power and independence",
+      "A testosterone-driven increase in dominance and leadership that compensates neurobiologically for declining cortisol-mediated ambition responses",
+      "Men becoming more realistic about limited promotion possibilities, causing a decline in ambition while autonomy and leadership motivation continue to grow",
+      "Empty-nest syndrome triggering personality reorganisation as men redirect energy previously invested in family provision into professional self-determination"
+    ],
+    "answer": "C"
   },
   {
     "id": 70,
     "type": "fitb",
-    "stem": "Lithium carbonate's ability to stabilise mood highs and lows in _______________ was discovered in 1948.",
-    "answer": "bipolar disorder",
-    "acceptableAnswers": ["bipolar disorder", "bipolar", "manic depressive disorder", "bipolar affective disorder"]
+    "stem": "Gordon Allport found over _______________ traits in his initial research, but even when this was reduced to _______________ it was considered too complicated, leading to the development of the Big Five framework.",
+    "answer": "4000 / 16",
+    "acceptableAnswers": ["4000 / 16", "four thousand / sixteen"]
   },
   {
     "id": 71,
     "type": "fitb",
-    "stem": "Otto Loewi identified _______________ as the first known neurotransmitter by discovering its neuro-modulatory properties.",
-    "answer": "acetylcholine",
-    "acceptableAnswers": ["acetylcholine", "Acetylcholine"]
+    "stem": "The word 'personality' originates from the Latin _______________, which in the ancient Latin-speaking theatre world referred not to disguise but to a convention used to _______________ or typify a character.",
+    "answer": "persona / represent",
+    "acceptableAnswers": ["persona / represent", "persona / typify"]
   },
   {
     "id": 72,
-    "type": "fitb",
-    "stem": "Thirty-three years after deinstitutionalisation began in the United States, only _______________% of the patients in state hospitals remained.",
-    "answer": "19",
-    "acceptableAnswers": ["19", "19%", "nineteen"]
+    "type": "mcq",
+    "stem": "A nurse is evaluating a clinical vignette for teaching purposes. A 30-year-old man from a college community consumes alcohol heavily every weekend. When asked about this, he says: 'Everyone here drinks like this â it's normal.' In fact, fewer than 20% of his peers drink heavily. This scenario illustrates which specific concept related to social norms and behaviour?",
+    "options": [
+      "Conforming to the norm, where the individual's drinking aligns with the actual descriptive norm of his peer group despite subjective underestimation",
+      "Pluralistic ignorance, where most individuals falsely perceive heavy drinking as the norm in their community when in fact very few privately endorse the behaviour",
+      "Deviation from social norms, where the individual's drinking behaviour violates the broader societal norms against excessive alcohol consumption",
+      "Subculture normality, where a minority group legitimately replaces mainstream social norms with their own collectively endorsed standards of behaviour"
+    ],
+    "answer": "B"
   },
   {
     "id": 73,
-    "type": "fitb",
-    "stem": "The first psychiatric nursing textbook 'Nursing Mental Diseases' was published by _______________ in 1920.",
-    "answer": "Harriet Bailey",
-    "acceptableAnswers": ["Harriet Bailey", "Bailey"]
+    "type": "mcq",
+    "stem": "A psychiatric nursing examination question asks which statement MOST accurately reflects the relationship between complexity of nervous system organisation and behavioural complexity in organisms. Based on the biological foundations of behaviour, the nurse should select:",
+    "options": [
+      "Organisms with simpler nervous systems demonstrate more rigid and predictable behavioural patterns because they have fewer neural circuits available for adaptive response",
+      "The complexity of behaviour in an organism is correlated to the complexity of its nervous system, with more complex nervous systems enabling greater capacity for new learning and behavioural adjustment",
+      "Behavioural complexity is primarily determined by the endocrine system's hormonal regulation of motivational states rather than by neural circuit architecture",
+      "The nervous system provides basic reflexive responses while behavioural complexity is primarily determined by the organism's genetic endowment rather than neural organisation"
+    ],
+    "answer": "B"
   },
   {
     "id": 74,
-    "type": "fitb",
-    "stem": "Hildegarde E. Peplau published '_______________ in Nursing' in 1952, presenting the first nursing theoretical framework for psychiatric care.",
-    "answer": "Interpersonal Relations",
-    "acceptableAnswers": ["Interpersonal Relations", "Interpersonal Relations in Nursing"]
+    "type": "mcq",
+    "stem": "CASE SCENARIO: A mental health nurse is conducting a home visit for a 29-year-old woman who recently lost her job, broke up with her long-term partner, and moved back to her parents' home. She describes feeling 'trapped,' cannot make decisions about her future, and oscillates between excessive sleeping and sleeplessness. Her appetite is variable and she has stopped exercising. Which psychological phenomenon MOST precisely describes her presentation within the developmental framework, and what is the expected clinical trajectory without intervention?",
+    "options": [
+      "Midlife crisis arising from the simultaneous loss of multiple adult roles; the trajectory without intervention is typically progressive deterioration requiring pharmacological management",
+      "Quarter-life crisis, characterised by feelings of being lost, scared, lonely, or confused during the transition to adulthood; common symptoms include unemployment stress, loss of relationship, and difficulty living independently",
+      "Adjustment disorder with mixed emotional features arising from multiple concurrent stressors; expected to resolve spontaneously within six months without psychiatric intervention",
+      "Major depressive episode triggered by a combination of psychosocial stressors; the trajectory without intervention is significant functional deterioration requiring immediate psychiatric hospitalisation"
+    ],
+    "answer": "B"
   },
   {
     "id": 75,
-    "type": "fitb",
-    "stem": "The first developed standard of care for psychiatric nursing was created by the _______________ in 1973.",
-    "answer": "American Nurses Association (ANA)",
-    "acceptableAnswers": ["ANA", "American Nurses Association", "psychiatric division of the American Nurses Association"]
+    "type": "mcq",
+    "stem": "A psychiatric nurse is reviewing the four functional types of neurones in the context of how the nervous system enables behavioural response. The nurse teaches that when a patient receives a painful stimulus, interprets it as a threat, and prepares a motor response, the sequence of neural events follows four steps. These steps in CORRECT order are:",
+    "options": [
+      "Interpretation, reception, execution, preparation â the stimulus is first interpreted consciously before the sensory organs register it formally",
+      "Reception, preparation, interpretation, execution â the nervous system must mobilise motor resources before cognitive processing can determine response appropriateness",
+      "Reception, interpretation, preparation, execution â sensory registration precedes cognitive processing, which triggers motor preparation before behavioural output",
+      "Execution, reception, interpretation, preparation â the body initiates a reflexive motor response before conscious interpretation of the stimulus is complete"
+    ],
+    "answer": "C"
   },
   {
     "id": 76,
-    "type": "fitb",
-    "stem": "Nigeria's first asylum was established in _______________ in Cross River State in 1903.",
-    "answer": "Calabar",
-    "acceptableAnswers": ["Calabar"]
+    "type": "mcq",
+    "stem": "A psychiatric nurse is discussing intrapersonal versus interpersonal normality with a multidisciplinary team. A clinical psychologist argues that their patient's current behaviour, though dramatically different from his prior baseline, is not abnormal compared to population norms. The nurse correctly identifies this as an intrapersonal versus interpersonal normality distinction. Which statement MOST precisely differentiates these two concepts?",
+    "options": [
+      "Intrapersonal normality compares an individual's behaviour to their own prior baseline, while interpersonal normality compares behaviour against the broader population's most common patterns",
+      "Intrapersonal normality applies only to personality disorder assessment, while interpersonal normality is used in epidemiological studies of psychiatric prevalence in populations",
+      "Intrapersonal normality is measured using projective tests, while interpersonal normality is measured using objective standardised self-report personality assessments",
+      "Intrapersonal normality is equivalent to clinical normality defined by the DSM, while interpersonal normality represents statistical normality assessed using Gaussian distribution curves"
+    ],
+    "answer": "A"
   },
   {
     "id": 77,
     "type": "fitb",
-    "stem": "The first female psychiatric nurse to work in Nigeria was _______________, who started working in Calabar in 1956.",
-    "answer": "Irene Ogbolu",
-    "acceptableAnswers": ["Irene Ogbolu", "Ogbolu"]
+    "stem": "Mental illness is also called a _______________ disorder, or _______________ disorder, and is defined as a mental or behavioural pattern that causes distress or disability and which is not developmentally or socially normative.",
+    "answer": "mental / psychiatric",
+    "acceptableAnswers": ["mental / psychiatric", "psychiatric / mental"]
   },
   {
     "id": 78,
     "type": "fitb",
-    "stem": "The Yaba Asylum was established on October 31, _______________, with the first 14 lunatics admitted.",
-    "answer": "1907",
-    "acceptableAnswers": ["1907", "nineteen hundred and seven"]
+    "stem": "According to the psychiatric literature, it is estimated that _______________ to _______________ percent of elders are in need of mental health care, yet elders account for only 7 percent of all inpatient psychiatric services.",
+    "answer": "18 / 25",
+    "acceptableAnswers": ["18 / 25", "eighteen / twenty-five"]
   },
   {
     "id": 79,
     "type": "fitb",
-    "stem": "Abraham A. Ordia officially changed the name of the Yaba Asylum to _______________ in 1960.",
-    "answer": "Yaba Mental Hospital",
-    "acceptableAnswers": ["Yaba Mental Hospital"]
+    "stem": "The Rorschach test involves showing a series of note cards with ambiguous _______________ on them, and the individual's unconscious needs are expected to emerge through their _______________ of the images.",
+    "answer": "ink blots / interpretations",
+    "acceptableAnswers": ["ink blots / interpretations", "inkblots / interpretations", "ink blots / responses"]
   },
   {
     "id": 80,
-    "type": "fitb",
-    "stem": "Lantoro was opened in October 1944 following the arrival of war patients from _______________ as a result of the Second World War.",
-    "answer": "Boma",
-    "acceptableAnswers": ["Boma"]
+    "type": "mcq",
+    "stem": "A psychiatric nurse is working with a patient who exhibits multiple futile adjustment mechanisms. The patient consistently exaggerates personal achievements to peers, engages in elaborate justifications for poor academic performance, and frequently daydreams about an idealised alternative life. Which COMBINATION of futile adjustment mechanisms is MOST precisely illustrated by this patient's behaviour?",
+    "options": [
+      "Teasing and cruelty, rationalising, and self-absorption and daydreaming as three distinct futile adjustment strategies operating concurrently",
+      "Bragging, rationalising, and self-absorption and daydreaming as three of the documented futile adjustment mechanisms described in personality adjustment literature",
+      "Timidity and bashfulness, lying, and capitalising on a defect as the core maladaptive adjustments being employed by this patient",
+      "Expressionism, pouting and temper tantrums, and rationalising as the predominant futile adjustment patterns expressed in this clinical scenario"
+    ],
+    "answer": "B"
   },
   {
     "id": 81,
-    "type": "fitb",
-    "stem": "The first Nigerian nurse to be sent overseas for mental nursing was _______________.",
-    "answer": "O. Ola",
-    "acceptableAnswers": ["O. Ola", "Ola"]
+    "type": "mcq",
+    "stem": "A psychiatric nurse is conducting a mental status examination. The patient states that his sadness, 'moodiness,' and emotional instability began after a promotion that significantly increased his work stress. He reports overthinking situations constantly and difficulty relaxing even at home. He denies suicidal ideation. Based on Big Five personality theory, which trait dimension MOST accurately characterises the patient's longstanding pre-morbid personality, and which occupational environment would pose the GREATEST psychological risk for him?",
+    "options": [
+      "High neuroticism, which predisposes the individual to anxiety, mood swings, and stress reactivity; high-pressure leadership environments with unpredictable demands would present the greatest risk",
+      "Low conscientiousness, which reduces the individual's capacity for impulse control; academic or research environments with high cognitive demands would present the greatest risk",
+      "Low agreeableness, which generates interpersonal conflict; collaborative team environments requiring sustained empathy and prosocial engagement would present the greatest risk",
+      "High openness to experience, which causes over-stimulation; structured, routine-based environments that constrain creative expression would present the greatest risk"
+    ],
+    "answer": "A"
   },
   {
     "id": 82,
-    "type": "fitb",
-    "stem": "In 1947, _______________ became the first Head Mental Nurse at Lantoro and was very active in training nurses on how to restrain mental patients.",
-    "answer": "Lionard Oliver",
-    "acceptableAnswers": ["Lionard Oliver", "Oliver"]
+    "type": "mcq",
+    "stem": "CASE SCENARIO: During a psychiatric clinical placement, a student nurse witnesses a senior nurse dismiss an elderly patient's depressive symptoms saying: 'At 75, of course you're sad â your body is wearing out.' The student nurse recognises this as a significant clinical error. Which concept from the psychiatric literature on elderly mental health MOST accurately names this error, and what is its documented consequence for care delivery?",
+    "options": [
+      "Stigma, which causes elderly patients to internalise negative mental health stereotypes and resist treatment, leading to chronically unmet psychiatric needs",
+      "Ageism, where myths and misperceptions about older people by healthcare providers affect mental health service delivery, contributing to under-recognition and under-treatment of geriatric mental illness",
+      "Service fragmentation, where the absence of coordinated care causes elderly patients to fall between multiple healthcare systems without receiving appropriate mental health intervention",
+      "Primary care knowledge deficit, where physicians with inadequate geriatric training fail to recognise psychiatric symptoms, creating a systemic gap in elderly mental health service provision"
+    ],
+    "answer": "B"
   },
   {
     "id": 83,
-    "type": "fitb",
-    "stem": "The first formally organised training school for Mental Health Nurses in the world was established at _______________ Hospital for the mentally ill in Massachusetts.",
-    "answer": "McLean",
-    "acceptableAnswers": ["McLean", "Mclean", "McLean Hospital"]
+    "type": "mcq",
+    "stem": "A nursing instructor asks students which philosophical assumption of personality theory would be MOST directly tested by a longitudinal study demonstrating that traumatic childhood experiences reliably predict adult antisocial behaviour regardless of subsequent social environment. The CORRECT response is:",
+    "options": [
+      "Freedom versus Determinism, because the findings would suggest behaviour is causally determined by prior experiences rather than by the individual's conscious choice",
+      "Heredity versus Environment, because the findings would suggest that childhood environmental experiences, rather than genetics, are the primary determinant of adult personality",
+      "Optimistic versus Pessimistic, because the findings would suggest that childhood-determined personality patterns are resistant to change, reflecting a pessimistic view of human malleability",
+      "Uniqueness versus Universality, because the findings establish a universal developmental law linking trauma to antisocial outcomes that transcends individual uniqueness"
+    ],
+    "answer": "B"
   },
   {
     "id": 84,
     "type": "fitb",
-    "stem": "Linda Richards and a physician named _______________ established the first formally organised training school for mental health nurses in the world.",
-    "answer": "Edward Cowles",
-    "acceptableAnswers": ["Edward Cowles", "Cowles"]
+    "stem": "Behaviours can be either _______________ or learned. An example of the former includes basic survival reflexes, while the latter involves responses acquired through _______________ and environmental interaction.",
+    "answer": "innate / experience",
+    "acceptableAnswers": ["innate / experience", "innate / learning", "inborn / experience"]
   },
   {
     "id": 85,
     "type": "fitb",
-    "stem": "The first school of psychiatric nursing in the world graduated its first class of _______________ students in 1886.",
-    "answer": "15",
-    "acceptableAnswers": ["15", "fifteen"]
+    "stem": "Mental health can be defined as an appropriate expression of emotions and a successful _______________ to a range of demands. It refers to cognitive and emotional wellbeing and is all about how we _______________, feel and behave.",
+    "answer": "adaptation / think",
+    "acceptableAnswers": ["adaptation / think"]
   },
   {
     "id": 86,
-    "type": "fitb",
-    "stem": "The first attempt to start a school of psychiatric nursing in Nigeria was in _______________ at Aro Abeokuta, during which the hospital was still under construction.",
-    "answer": "1954",
-    "acceptableAnswers": ["1954", "nineteen fifty-four"]
+    "type": "mcq",
+    "stem": "A psychiatric nurse is teaching about the characteristics of good mental health. A patient asks which characteristic would MOST distinguish a person with good mental health from one who is emotionally maladjusted when facing a significant professional setback. Based on the listed characteristics of good mental health, the nurse's MOST accurate answer is:",
+    "options": [
+      "Having a feeling of belonging to a group, because social connectivity provides the emotional buffer necessary to metabolise professional disappointments without psychological decompensation",
+      "Ability to face life's disappointments without losing control of oneself, reflecting emotional resilience as a core characteristic of good mental health",
+      "Ability to plan ahead, because future-oriented thinking prevents rumination on past failures and redirects cognitive resources toward adaptive goal-setting",
+      "Self-respect, because a stable self-concept insulates the individual against the ego-threatening implications of professional failure and social evaluation"
+    ],
+    "answer": "B"
   },
   {
     "id": 87,
-    "type": "fitb",
-    "stem": "Johns Hopkins University was the first college of nursing in the United States to offer psychiatric nursing as part of its general curriculum in _______________.",
-    "answer": "1913",
-    "acceptableAnswers": ["1913", "nineteen thirteen"]
+    "type": "mcq",
+    "stem": "A nurse educator uses the sociological framework of Ãmile Durkheim to explain why certain widespread psychiatric behaviours, such as anxiety in modern societies, might paradoxically be classified as 'normal' by his model. Which statement BEST captures the two-fold version of normality Durkheim described?",
+    "options": [
+      "Behaviours are normal if they serve an adaptive function for the individual, and abnormal if they produce systemic social dysfunction at the population level",
+      "A behaviour considered normal at the societal level because of its frequency may still be considered pathological at the individual level if the person violates social norms and faces communal punishment",
+      "Durkheim's model classifies all statistically common behaviours as individually and collectively normal, making psychiatric classification unnecessary for any behaviour that exceeds a 50% population prevalence",
+      "Societal normality and individual normality are always congruent, because Durkheim's model holds that societies develop norms that optimise the psychological functioning of their members"
+    ],
+    "answer": "B"
   },
   {
     "id": 88,
-    "type": "fitb",
-    "stem": "By 1961, the number of psychiatric nurses trained in the UK had increased to _______________ plus the 38 locally trained ones in Nigeria.",
-    "answer": "15",
-    "acceptableAnswers": ["15", "fifteen"]
+    "type": "mcq",
+    "stem": "A psychiatric nursing student is reviewing adjustment concepts. She reads that adjustment disorder occurs when there is an inability to make a normal adjustment to some need or stress in the environment. She then assesses a patient who, after starting a new high-pressure job six weeks ago, began eating three times his normal food intake and sleeping excessively. This patient's eating and sleeping are understood as adjustment responses. According to the theory of adjustment, this behaviour MOST represents which mechanism?",
+    "options": [
+      "Escape or avoidance function, where excessive eating and sleeping serve to reduce the aversive physiological arousal associated with occupational stress",
+      "The basic adjustment mechanism where humans, stimulated by a physiological or psychological state, perform a behaviour to satisfy the need and reduce the drive",
+      "A futile adjustment through self-absorption, where the patient withdraws into bodily self-focus as a maladaptive strategy to manage environmental demands",
+      "Tangible function, where eating and sleeping represent access to pleasurable reinforcers that provide temporary relief from the aversive demands of the work environment"
+    ],
+    "answer": "B"
   },
   {
     "id": 89,
-    "type": "fitb",
-    "stem": "In 1951, Dr. _______________ was the first psychiatrist posted from Jamaica to Lantoro.",
-    "answer": "Cameron",
-    "acceptableAnswers": ["Cameron", "Dr. Cameron", "Carmeron"]
+    "type": "mcq",
+    "stem": "CASE SCENARIO: A 42-year-old woman is referred to the psychiatric outpatient clinic. She reports feeling 'trapped and irritable,' has lost interest in intimacy with her husband, makes mysterious late-night phone calls, and has recently become preoccupied with her physical appearance to an unusual degree. Her husband suspects she is having an affair. As a psychiatric nurse, applying the literature on midlife crisis presentations, which statement MOST accurately guides your nursing assessment?",
+    "options": [
+      "These behaviours are consistent with a genuine midlife crisis triggered by a drastic life-altering event, and require urgent psychiatric hospitalisation to prevent self-harm",
+      "A midlife crisis is more likely if a precipitating drastic event such as bereavement or job loss is identified; however, the described behaviours could alternatively indicate a major depressive episode or relationship crisis requiring comprehensive assessment",
+      "The described behaviours confirm a midlife crisis because they represent a sudden personality change, regression to earlier life patterns, and preoccupation with physical attractiveness typical of the condition",
+      "Midlife crises in women are rare compared to men and are typically misdiagnosed as mood disorders; the priority intervention is couples counselling to address the interpersonal conflict"
+    ],
+    "answer": "B"
   },
   {
     "id": 90,
     "type": "fitb",
-    "stem": "At its peak in the 1950s, Kings Park Psychiatric Centre housed more than _______________ patients and required its own power plant.",
-    "answer": "33,000",
-    "acceptableAnswers": ["33,000", "33000", "thirty-three thousand"]
+    "stem": "According to the biological foundations of human behaviour, the nervous system is divided into four major parts: nervous matter in the head, _______________ and spinal cord, nerves connecting the cerebro-spinal system with other organs, and the _______________ system, which controls vital processes such as circulation and breathing.",
+    "answer": "brain stem / autonomic",
+    "acceptableAnswers": ["brain stem / autonomic"]
   },
   {
     "id": 91,
     "type": "fitb",
-    "stem": "The first purpose-built asylum in England was _______________ Norwich, opened in 1713 and founded by Mary Chapman.",
-    "answer": "Bethel Hospital",
-    "acceptableAnswers": ["Bethel Hospital", "Bethel Hospital Norwich"]
+    "stem": "Neurones are of three functional types: _______________ neurones, which carry information from the environment to the central nervous system; _______________ neurones, which carry signals to effector organs; and association neurones.",
+    "answer": "sensory / motor",
+    "acceptableAnswers": ["sensory / motor"]
   },
   {
     "id": 92,
-    "type": "fitb",
-    "stem": "In 1656, _______________ of France created a public system of hospitals for those suffering from mental disorders, though no real treatment was applied.",
-    "answer": "Louis XIV",
-    "acceptableAnswers": ["Louis XIV", "King Louis XIV", "Louis the Fourteenth"]
+    "type": "mcq",
+    "stem": "A psychiatric nurse is preparing a question bank on personality disorders. She frames a question around the 'Optimistic versus Pessimistic' philosophical assumption and asks which personality theory would be classified as MOST pessimistic regarding the capacity for personality change. The answer consistent with the theoretical literature is:",
+    "options": [
+      "Social learning theory, because it attributes personality to reinforced habits that can be reversed through behavioural modification but only within a narrow developmental window",
+      "Humanistic theory, because it assumes individuals naturally resist growth opportunities unless therapeutic conditions of unconditional positive regard are meticulously maintained",
+      "Theories that place little emphasis on learning, because they view personality as primarily biologically or constitutionally determined and thus less amenable to therapeutic modification",
+      "Cognitive theory, because its focus on entrenched schema formation implies that early maladaptive thought patterns are resistant to change without intensive long-term psychotherapy"
+    ],
+    "answer": "C"
   },
   {
     "id": 93,
-    "type": "fitb",
-    "stem": "The United States housed _______________ patients in mental hospitals by 1904, reflecting the dramatic 19th century rise in asylum populations.",
-    "answer": "150,000",
-    "acceptableAnswers": ["150,000", "150000", "one hundred and fifty thousand"]
+    "type": "mcq",
+    "stem": "A mental health nurse is reviewing the definition of mental health according to Medilexicon's medical dictionary. The definition includes 'emotional, behavioural, and social maturity or normality' and 'an appropriate balance of love, work, and leisure pursuits.' A patient asks what aspect of the definition addresses the concept of harmoniously integrating personal desires with socially acceptable expressions. The nurse should identify which component of the definition as MOST relevant?",
+    "options": [
+      "Emotional, behavioural, and social maturity, which encompasses the capacity to regulate impulses and desires in ways that are consistent with social expectations",
+      "Achieving a satisfactory integration of one's instinctual drives acceptable to both oneself and one's social milieu, directly addressing the harmonisation of personal impulses with social acceptability",
+      "The absence of a mental or behavioural disorder, which implies that successful impulse regulation naturally follows from the absence of psychiatric pathology",
+      "An appropriate balance of love, work, and leisure, which provides the structural framework within which personal drives are channelled into socially productive domains"
+    ],
+    "answer": "B"
   },
   {
     "id": 94,
-    "type": "fitb",
-    "stem": "In 1838, _______________ enacted a law to regulate both the admissions into asylums and asylum services across the country.",
-    "answer": "France",
-    "acceptableAnswers": ["France"]
+    "type": "mcq",
+    "stem": "A nurse is preparing a seminar on personality research and its clinical applications. She explains that personality assessments can predict health behaviours and coping styles. A patient with high neuroticism asks whether his trait predisposes him to specific health-related risks. The nurse's MOST evidence-based response is:",
+    "options": [
+      "High neuroticism is associated with more frequent doctor visits and better health monitoring due to heightened health vigilance and anxiety about physical symptoms",
+      "High neuroticism is associated with worse health outcomes because neurotic individuals overthink health threats, have difficulty relaxing, and are more susceptible to stress-induced physical illness",
+      "High neuroticism is clinically neutral because research has not established a consistent relationship between this trait and objective health status or healthcare utilisation patterns",
+      "High neuroticism is protective against health risks because the constant vigilance and overthinking associated with the trait enables early detection of developing medical conditions"
+    ],
+    "answer": "B"
   },
   {
     "id": 95,
-    "type": "fitb",
-    "stem": "The _______________ was the first known person to create a questionnaire for the mentally ill using biographical information to determine the best course of psychological treatment and care.",
-    "answer": "Marcus Tullius Cicero",
-    "acceptableAnswers": ["Marcus Tullius Cicero", "Cicero", "Marcus Cicero"]
+    "type": "mcq",
+    "stem": "CASE SCENARIO: A nurse receives a newly admitted patient with schizophrenia who is also 74 years old. The patient's family reports that he has been managed at home without formal psychiatric services for years. The nurse is aware that elders account for only 7% of inpatient psychiatric services despite a much higher need. The PRIMARY reason elders significantly underutilise mental health services relative to their prevalence of psychiatric disorders is BEST explained by which COMBINATION of factors?",
+    "options": [
+      "Cognitive decline reducing health-seeking behaviour combined with physical comorbidities competing for clinical attention, leaving psychiatric needs systematically unaddressed",
+      "Stigma, ageism from healthcare providers, inadequately trained primary care physicians, fragmented services, and lack of organised psychiatric advocacy for the elderly collectively creating multiple barriers",
+      "Cost of psychiatric services combined with fixed retirement income limiting the elderly's ability to access mental health care in privatised healthcare systems",
+      "Cultural norms in older generations that prioritise stoicism and self-reliance, combined with a preference for religious or spiritual rather than biomedical explanations of psychological distress"
+    ],
+    "answer": "B"
   },
   {
     "id": 96,
-    "type": "fitb",
-    "stem": "In the colonial United States in 1752, the first lunatics ward was opened at _______________ which attempted to treat the mentally ill using purging, bleeding, blistering, and shock techniques.",
-    "answer": "Pennsylvania Hospital",
-    "acceptableAnswers": ["Pennsylvania Hospital", "the Pennsylvania Hospital"]
+    "type": "mcq",
+    "stem": "A psychiatric nurse is reviewing the sociological perspective on behaviour. According to the sociological definition, behaviour is considered as having no inherent meaning, not directed at other people, and represents the most basic human action. In contrast, in psychology, human behaviour can be common, unusual, acceptable, or unacceptable, and is regulated using social control. Which of the following MOST precisely reflects the sociological view of behaviour's role in psychiatric diagnosis?",
+    "options": [
+      "Sociology views all behaviour as pathological because it operates outside the framework of socially directed meaning and intentionality required for psychiatric classification",
+      "Sociological behaviour, defined as undirected action without social meaning, can nonetheless play a part in diagnosing disorders such as autism spectrum disorders despite lacking intentional social orientation",
+      "The sociological view holds that undirected behaviour is inherently normal and cannot contribute to psychiatric diagnoses because it lacks the social intent required for clinical interpretation",
+      "Sociological behaviour is equivalent to what psychology classifies as involuntary behaviour and therefore falls exclusively under the purview of neurological rather than psychiatric assessment"
+    ],
+    "answer": "B"
   },
   {
     "id": 97,
     "type": "fitb",
-    "stem": "Dorothea Dix was instrumental in opening _______________ state asylums in the United States to provide quality care for the mentally ill.",
-    "answer": "32",
-    "acceptableAnswers": ["32", "thirty-two"]
+    "stem": "According to the psychological adjustment literature, some adjustments that thwart development include capitalising on a defect, _______________, self-absorption and daydreaming, _______________, and flight into reality.",
+    "answer": "rationalizing / expressionism",
+    "acceptableAnswers": ["rationalizing / expressionism", "rationalising / expressionism"]
   },
   {
     "id": 98,
     "type": "fitb",
-    "stem": "William Tuke opened the York Retreat in England in _______________, the same year that Philippe Pinel's influence led to patients being released from chains in Paris.",
-    "answer": "1793",
-    "acceptableAnswers": ["1793", "seventeen ninety-three"]
+    "stem": "In clinical normality, the 'normal zone' commonly accounts for _______________ percent of all data, while any case lying outside _______________ standard deviations from the mean would be considered statistically abnormal.",
+    "answer": "95.45 / two",
+    "acceptableAnswers": ["95.45 / two", "95.45 / 2"]
   },
   {
     "id": 99,
-    "type": "fitb",
-    "stem": "The National League for Nursing required all nursing schools to include a clinical experience in psychiatry to receive national accreditation starting in _______________.",
-    "answer": "1950",
-    "acceptableAnswers": ["1950", "nineteen fifty"]
+    "type": "mcq",
+    "stem": "A psychiatric nurse is discussing Freud's early theoretical development with nursing students. She explains that Freud concluded that life instincts alone could not explain all human behaviour, which led to the formulation of the death instinct. A student asks what specific clinical observation prompted Freud to postulate the existence of the death instinct. The nurse's MOST accurate response is:",
+    "options": [
+      "Freud observed that aggressive patients consistently directed violent ideation toward authority figures, suggesting an outwardly directed destructive drive independent of libidinal motivation",
+      "Freud observed that people who experienced traumatic events such as war frequently re-enacted the traumatic experience, leading him to conclude that an unconscious desire toward self-destruction existed",
+      "Freud observed that suicidal patients described an overwhelming sense of peace rather than dread, suggesting that self-directed aggression was experienced as pleasurable rather than aversive",
+      "Freud identified that most human motivation could be explained by libido alone, and the death instinct was formulated theoretically rather than based on specific clinical observations"
+    ],
+    "answer": "B"
   },
   {
     "id": 100,
-    "type": "fitb",
-    "stem": "Linda Richards graduated in _______________ from the New England Hospital for Women and Children and went on to establish and direct the first school of nursing in Japan from 1885-1889.",
-    "answer": "1873",
-    "acceptableAnswers": ["1873", "eighteen seventy-three"]
+    "type": "mcq",
+    "stem": "A senior psychiatric nurse is conducting an NCLEX-preparatory session on abnormal behaviour. She presents this scenario: A 40-year-old CEO routinely sleeps only 3 hours nightly, believes he possesses unique insights unavailable to others, has begun multiple new business ventures simultaneously, speaks in an uninterruptibly rapid manner, and has withdrawn all personal savings for a new investment that his financial advisors consider catastrophically risky. His family reports he has not been himself for the past 3 weeks. Using the multi-criteria approach, ALL of the following criteria for abnormal behaviour apply EXCEPT:",
+    "options": [
+      "Statistical infrequency, because sleeping 3 hours nightly and grandiose risk-taking are rare in the general population",
+      "Failure to function adequately, because financial risk-taking and sleep deprivation impair his capacity for occupational and personal functioning",
+      "Observer discomfort, because his family's report of distress in response to his changed behaviour satisfies this criterion",
+      "Maladaptivity, because his behaviours are career-enhancing and financially productive in his subjective experience, making the criterion entirely inapplicable to his presentation"
+    ],
+    "answer": "D"
   }
 ]
