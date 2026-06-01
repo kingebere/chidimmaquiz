@@ -1,1032 +1,1149 @@
+
 [
   {
     "id": 1,
     "type": "mcq",
-    "stem": "A 34-year-old male patient is admitted to the psychiatric unit. He insists on performing elaborate cleaning rituals before eating and becomes extremely distressed when prevented from doing so, though he acknowledges the behaviour is excessive. According to the WHO definition of mental health, which component is MOST critically impaired in this patient?",
+    "stem": "A nurse observes a client who repeatedly injures his forearm immediately before group recreational activity. The client does not seek attention, does not request objects, and stops when allowed to remain indoors. Which function of behaviour is MOST strongly suggested?",
     "options": [
-      "His ability to realize his own abilities and cope with normal stresses of life",
-      "His biological capacity to regulate homeostatic balance through endocrine feedback",
-      "His social integration and community contribution as a productive individual",
-      "His ability to make a satisfactory contribution to his community through employment"
+      "Sensory stimulation",
+      "Social attention",
+      "Escape or avoidance",
+      "Tangible reinforcement"
     ],
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 2,
     "type": "mcq",
-    "stem": "During a community mental health assessment, a nurse observes a client from a remote tribal community who regularly practices ritualistic animal sacrifice as part of religious worship. This behaviour is considered barbaric by the urban nurse conducting the assessment. According to WHO's position on mental health across cultures, the MOST appropriate nursing interpretation of this behaviour is:",
+    "stem": "A child screams until the mother buys a phone charger, but the same child remains calm when the charger is already available. Which behavioural function is being maintained?",
     "options": [
-      "The behaviour represents a deviation from social norms and warrants psychiatric evaluation under the DSM criteria",
-      "The behaviour is culturally normative and should not be classified as a mental disorder without additional clinical evidence",
-      "The behaviour constitutes statistical infrequency and should be documented as potentially pathological in the patient's record",
-      "The behaviour satisfies the observer discomfort criterion of abnormality and justifies a referral to a psychiatrist"
+      "Escape from demand",
+      "Access to tangible item",
+      "Internal sensory relief",
+      "Observer discomfort"
     ],
     "answer": "B"
   },
   {
     "id": 3,
     "type": "mcq",
-    "stem": "A nurse is using the Failure to Function Adequately (FF) criterion to assess a patient who is a decorated firefighter known for entering burning buildings at great personal risk. Based on the FF criterion's primary limitation as described in psychiatric theory, why would classifying this behaviour as abnormal be INCORRECT?",
+    "stem": "CASE SCENARIO: A 26-year-old nurse reports feeling mentally healthy because she has no psychiatric diagnosis. However, she cannot tolerate frustration, mistrusts everyone, and cannot maintain any role responsibilities. Which statement BEST critiques her definition?",
     "options": [
-      "Because the behaviour does not meet the statistical infrequency threshold required for the FF criterion to apply",
-      "Because psychologists cannot agree on the boundaries defining 'functioning' and 'adequately,' making moral behaviour like self-sacrifice a potential misclassification",
-      "Because the firefighter's behaviour is sanctioned by society's occupational norms, exempting it from FF analysis entirely",
-      "Because the FF criterion exclusively applies to internally directed maladaptive behaviours, not externally directed risk-taking"
+      "Absence of diagnosable illness alone is insufficient because mental health also involves adaptation, resilience, relationships, and productive functioning",
+      "Her definition is correct because mental wellness is strictly the lack of mental disorder",
+      "She is mentally healthy because lack of psychosis excludes mental illness",
+      "Her symptoms prove mental illness only if they are statistically rare"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 4,
     "type": "mcq",
-    "stem": "A psychiatric nursing student is reviewing the five models used in Emotional and Behavioural Disorders (EBD). A patient presents with persistent school avoidance, unexplained somatic complaints, and social withdrawal that do not respond to academic support interventions. Which EBD model would PRIMARILY attribute this pattern to unresolved unconscious conflicts stemming from early developmental experiences?",
+    "stem": "A patient performs a culturally sanctioned mourning ritual involving loud public wailing. The nurse feels embarrassed and labels it abnormal. Which criterion is the nurse misusing?",
     "options": [
-      "Biophysical model, which emphasises neurological and genetic substrates of behaviour",
-      "Ecological model, which focuses on the transactional relationship between the individual and their environment",
-      "Psychodynamic model, which attributes behavioural symptoms to unresolved unconscious processes",
-      "Cognitive model, which attributes avoidance behaviours to distorted automatic thoughts and maladaptive schemas"
+      "Clinical diagnosis",
+      "Cultural deviation",
+      "Observer discomfort",
+      "Failure to function"
     ],
     "answer": "C"
   },
   {
     "id": 5,
     "type": "mcq",
-    "stem": "A nurse is assessing an 82-year-old woman who reports sleep disturbances, reduced appetite, and low mood. The patient's primary care physician has documented these as 'expected features of aging.' Based on the psychiatric literature on elderly mental health, which statement BEST reflects the evidence-based nursing concern in this scenario?",
+    "stem": "A 45-year-old man refuses work promotion because he believes advancement will destroy his moral peace. He functions well, is not distressed, and his culture values humility. Which criterion would be WEAKEST for calling this abnormal?",
     "options": [
-      "The symptoms are consistent with physiological aging and do not necessitate psychiatric screening unless suicidal ideation is expressed",
-      "Elders often attribute mental health symptoms to physical problems, and between 18â25% require mental health intervention, making further assessment mandatory",
-      "The physician's assessment is appropriate because mood and sleep changes are part of normal developmental transitions in late adulthood",
-      "The primary concern is ageism from the nursing staff, which may lead to over-pathologisation of normal geriatric behavioural patterns"
+      "Morality",
+      "Statistical infrequency",
+      "Failure to function adequately",
+      "Deviation from ideal mental health"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 6,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A 22-year-old final-year university student presents to the psychiatric outpatient clinic reporting feelings of being 'lost,' confused about career choices, intense fear of entering the workforce, and social isolation since graduating. He denies substance use. His symptoms began six months ago after completing his degree. Based on Erikson's developmental framework, the MOST appropriate nursing diagnostic label for the PRIMARY psychosocial conflict this patient is experiencing is:",
+    "stem": "A psychiatric examiner classifies a highly gifted student as abnormal solely because her IQ is far above the mean. Which limitation of statistical infrequency is demonstrated?",
     "options": [
-      "Identity versus Role Confusion, representing incomplete resolution of adolescent developmental tasks",
-      "Intimacy versus Isolation, representing the core conflict of young adulthood when establishing deep relationships fails",
-      "Generativity versus Stagnation, occurring when a young adult perceives failure in contributing meaningfully to society",
-      "Industry versus Inferiority, reflecting unresolved academic competence challenges from earlier developmental stages"
+      "It ignores whether the rare trait is desirable or undesirable",
+      "It cannot identify rare behaviour",
+      "It applies only to physical illness",
+      "It requires cultural endorsement"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 7,
     "type": "mcq",
-    "stem": "A psychiatric nurse administers the Rorschach test to a patient and notes that the patient consistently interprets inkblot images as scenes of 'armies invading towns' and 'warriors defeating enemies.' Based on the theoretical underpinning of projective tests, which interpretation of the patient's responses is MOST clinically accurate?",
+    "stem": "CASE SCENARIO: A widow cries daily two weeks after her husband's death but eats, sleeps, attends family meetings, and seeks comfort. Using DIM, why should this not automatically be classified abnormal?",
     "options": [
-      "The patient demonstrates cognitive rigidity as evidenced by the recurring militaristic thematic content across multiple cards",
-      "The responses likely reflect unconscious aggressive drives being expressed through the ambiguous projective stimulus",
-      "The patient's responses indicate a factual historical knowledge base, which should be validated before attributing clinical significance",
-      "The responses suggest an externalising disorder characterised by outward expression of hostile ideation rather than internalised conflict"
+      "Because bereavement cannot ever cause psychiatric disorder",
+      "Because everyone deviates from ideal mental health at some point, and context matters",
+      "Because sadness is statistically common and therefore always normal",
+      "Because DIM applies only to children"
     ],
     "answer": "B"
   },
   {
     "id": 8,
     "type": "mcq",
-    "stem": "During a psychiatric assessment, a nurse must determine whether a patient's behaviour is best evaluated using projective or objective personality tests. The nurse knows that the patient has a strong tendency toward social desirability bias and may not report symptoms honestly. Which statement MOST accurately identifies the limitation of objective personality tests in this context?",
+    "stem": "A student says: 'DSM diagnosis removes politics from mental health because all disorders are purely objective.' Which response is MOST accurate?",
     "options": [
-      "Objective tests rely on unconscious response patterns, making them susceptible to deliberate manipulation by cognitively intact patients",
-      "Objective tests assume personality is consciously accessible and measured through self-report, making them vulnerable to dishonest or inaccurate responding",
-      "Objective tests are less reliable than projective tests because they do not account for the unconscious determinants of personality",
-      "Objective tests are inappropriate for psychiatric populations because they require normative comparisons that are not standardised for clinical settings"
+      "Correct; DSM criteria eliminate value judgment",
+      "Incorrect; classifications may involve context, history, and value judgments",
+      "Correct; DSM makes culture irrelevant",
+      "Incorrect; DSM is used only for personality testing"
     ],
     "answer": "B"
   },
   {
     "id": 9,
     "type": "mcq",
-    "stem": "A nurse is reviewing the Big Five personality traits (OCEAN) and their heritability estimates. A patient inquires which trait has the HIGHEST heritability estimate based on twin studies. The nurse's MOST evidence-based response, consistent with the documented research findings, would be:",
+    "stem": "A man is quiet at work, quiet at church, and quiet at home over many years. Which trait criterion is MOST clearly demonstrated?",
     "options": [
-      "Extraversion, with a heritability estimate of 53%, reflects the strongest genetic influence among the Big Five traits",
-      "Conscientiousness, with a heritability estimate of 44%, is most influenced by genetic factors relative to all other traits",
-      "Openness to experience, with a heritability estimate of 61%, demonstrates the highest genetic contribution among the Big Five",
-      "Neuroticism, with a heritability estimate of 41%, is the most heritable trait and therefore the least amenable to psychotherapeutic intervention"
+      "Individual difference only",
+      "Stability only",
+      "Consistency and stability",
+      "Universality and heredity"
     ],
     "answer": "C"
   },
   {
     "id": 10,
     "type": "mcq",
-    "stem": "A psychiatric nurse is educating a group of student nurses about Freud's theory of basic drives. She describes a patient who channels unconscious destructive energy outward toward other people, manifesting as recurrent episodes of unprovoked violence against peers. According to Freudian drive theory, this behaviour MOST accurately represents:",
+    "stem": "A patient is talkative only when intoxicated but normally quiet in all sober situations. Which conclusion is MOST defensible?",
     "options": [
-      "A manifestation of the life instinct (Eros) directed toward self-preservation through pre-emptive elimination of perceived threats",
-      "An expression of libidinal energy being sublimated into socially disruptive rather than procreative channels",
-      "An externalised expression of the death instinct (Thanatos) energy directed outward as aggression and violence toward others",
-      "A primary process manifestation of the pleasure principle operating without ego mediation or superego restraint"
+      "Talkativeness is clearly his stable personality trait",
+      "Talkativeness may be state-related rather than a consistent trait",
+      "He has high extraversion by definition",
+      "He has low neuroticism"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 11,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A 48-year-old male executive visits his physician reporting he purchased a sports car, started attending late-night social gatherings, and recently enrolled in dance classes, activities his wife describes as completely out of character. He denies mood symptoms, suicidal ideation, or substance use. Vital signs are stable. Based on the psychiatric literature on midlife crises, which nursing assessment finding would MOST support a diagnosis of a genuine midlife crisis versus an expected developmental re-evaluation?",
+    "stem": "A client interprets every ambiguous picture as betrayal by family members. According to projective-test theory, the responses are interpreted as reflecting:",
     "options": [
-      "The patient's new hobbies are expensive and typically associated with younger individuals, fulfilling the cultural criteria for midlife crisis behaviour",
-      "The presence of drastic, sudden life-altering stressors such as recent bereavement or job loss, which have been shown to precipitate crisis-level responses",
-      "The patient's age of 48 falls within the accepted midlife developmental range, making crisis diagnosis appropriate without additional clinical criteria",
-      "The absence of psychiatric symptoms confirms that the behaviour represents productive mental well-being consistent with midlife re-evaluation rather than crisis"
+      "Conscious mathematical reasoning",
+      "Unconscious motives or conflicts",
+      "Objective self-report accuracy",
+      "Guaranteed diagnostic proof"
     ],
     "answer": "B"
   },
   {
     "id": 12,
     "type": "mcq",
-    "stem": "A psychiatric nursing student is asked to differentiate between the criteria of 'statistical infrequency' and 'deviation from social norms' in defining abnormal behaviour. A patient from a minority religious subculture fasts for 40 days annually as a spiritual discipline, causing significant weight loss and weakness. Which statement MOST precisely distinguishes these two criteria in the context of this clinical scenario?",
+    "stem": "Which limitation makes objective personality testing vulnerable in a job applicant trying to appear emotionally perfect?",
     "options": [
-      "Statistical infrequency labels the behaviour abnormal because most people do not fast for 40 days; deviation from social norms labels it abnormal because it violates mainstream dietary conventions",
-      "Both criteria arrive at the same clinical conclusion, making the distinction between them irrelevant for nursing assessment purposes",
-      "Deviation from social norms is more appropriate here because it accounts for cultural context, whereas statistical infrequency would incorrectly pathologise the behaviour without cultural consideration",
-      "Statistical infrequency is the superior criterion because it uses objective mathematical thresholds, whereas deviation from social norms is entirely subjective and therefore clinically unreliable"
+      "Objective tests use only ambiguous stimuli",
+      "Objective tests cannot be scored",
+      "Objective tests depend on honest and accurate self-report",
+      "Objective tests measure only unconscious drives"
     ],
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 13,
-    "type": "fitb",
-    "stem": "The World Health Organisation defines health as a state of complete _______________, mental and social well-being and not merely the absence of disease.",
-    "answer": "physical",
-    "acceptableAnswers": ["physical", "physical health", "physical well-being"]
+    "type": "mcq",
+    "stem": "A nurse wants the test with stronger general reliability and validity compared with projective methods. Which should she choose?",
+    "options": [
+      "Rorschach only",
+      "Thematic Apperception Test only",
+      "Objective self-report personality test",
+      "Unscored free association interview"
+    ],
+    "answer": "C"
   },
   {
     "id": 14,
-    "type": "fitb",
-    "stem": "According to Freud, the energy created by the life instincts is known as _______________, while the counterpart instinct associated with self-destruction and aggression is called _______________.",
-    "answer": "libido / Thanatos",
-    "acceptableAnswers": ["libido / Thanatos", "libido / death instinct", "libido / the death instinct"]
-  },
-  {
-    "id": 15,
-    "type": "fitb",
-    "stem": "The theory of _______________ views health as a balance of the process by which human beings interact with their environment, and holds that an imbalance in this process reflects a failure of the body's adaptive, self-regulating power to maintain internal balance.",
-    "answer": "psychological equilibrium",
-    "acceptableAnswers": ["psychological equilibrium", "Psychological Equilibrium"]
-  },
-  {
-    "id": 16,
-    "type": "fitb",
-    "stem": "Gordon Allport described two major ways to study personality: _______________ psychology, which seeks general laws applicable to many people, and _______________ psychology, which attempts to understand the unique aspects of a particular individual.",
-    "answer": "nomothetic / idiographic",
-    "acceptableAnswers": ["nomothetic / idiographic"]
-  },
-  {
-    "id": 17,
-    "type": "fitb",
-    "stem": "The _______________ criterion of abnormality defines departures from society's unwritten rules, while the _______________ criterion defines abnormality based on whether behaviour prevents productive daily functioning.",
-    "answer": "deviation from social norms / failure to function adequately",
-    "acceptableAnswers": ["deviation from social norms / failure to function adequately", "social norms deviation / failure to function adequately", "deviation from social norms / FF"]
-  },
-  {
-    "id": 18,
-    "type": "fitb",
-    "stem": "In the Big Five personality model, the acronym OCEAN stands for Openness, _______________, Extraversion, _______________, and Neuroticism.",
-    "answer": "Conscientiousness / Agreeableness",
-    "acceptableAnswers": ["Conscientiousness / Agreeableness"]
-  },
-  {
-    "id": 19,
-    "type": "fitb",
-    "stem": "The _______________ test involves showing an individual cards with ambiguous ink blots, whereas the _______________ test involves presenting vague pictures and asking the individual to tell a story based on what they see.",
-    "answer": "Rorschach / Thematic Apperception",
-    "acceptableAnswers": ["Rorschach / Thematic Apperception", "Rorschach / TAT"]
-  },
-  {
-    "id": 20,
-    "type": "fitb",
-    "stem": "According to research on personality and age, traits such as openness, extraversion, and neuroticism tend to _______________ with age, while conscientiousness and agreeableness tend to _______________ over time.",
-    "answer": "decline / increase",
-    "acceptableAnswers": ["decline / increase", "decrease / increase", "decrease / grow"]
-  },
-  {
-    "id": 21,
     "type": "mcq",
-    "stem": "A nurse caring for an elderly patient in a long-term care facility notes that the patient refuses psychiatric referral, saying: 'Only crazy people go to those doctors.' The nurse recognises this as a barrier to mental health care in the elderly. According to the psychiatric literature, which factor MOST directly explains this patient's resistance to seeking mental health treatment?",
+    "stem": "CASE SCENARIO: A 30-year-old patient reports severe distress from thoughts of contamination and spends 5 hours washing daily, losing employment. What distinguishes this from mere obsession?",
     "options": [
-      "Ageism perpetuated by medical professionals who underdiagnose mental disorders in elderly populations",
-      "Stigma stemming from negative portrayals of mental illness by mass media and popular culture that shaped the older generation's perceptions",
-      "Service integration failures that create fragmented and confusing care pathways, discouraging elderly patients from accessing mental health services",
-      "Lack of organised advocacy groups for elderly psychiatric patients, leading to reduced awareness of available treatment options"
+      "Presence of intelligence",
+      "Unrelenting compulsion causing impairment",
+      "Cultural disapproval alone",
+      "Absence of anxiety"
     ],
     "answer": "B"
   },
   {
+    "id": 15,
+    "type": "mcq",
+    "stem": "A person is labelled mentally ill and then becomes ashamed, socially isolated, and avoided by employers. Which effect is MOST directly illustrated?",
+    "options": [
+      "Medicalization without stigma",
+      "Labelling leading to marginalization and internalized shame",
+      "Normal distribution error",
+      "Psychological equilibrium"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 16,
+    "type": "mcq",
+    "stem": "Which example BEST shows medicalization?",
+    "options": [
+      "Calling sadness after bereavement a social ritual",
+      "Treating ordinary life difficulties as medical problems under professional authority",
+      "Comparing one person's behaviour with their own past behaviour",
+      "Using social norms to guide table manners"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 17,
+    "type": "mcq",
+    "stem": "A patient believes a spiritual vision is real. The belief is widely shared in his religious group and causes no disability. Which interpretation is MOST appropriate?",
+    "options": [
+      "Automatically delusional",
+      "Not evidence of mental disorder solely because it has strong cultural basis",
+      "Abnormal because statistically rare worldwide",
+      "Psychotic because all visions are pathological"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 18,
+    "type": "mcq",
+    "stem": "In Durkheim's view, why may crime be considered normal at the societal level?",
+    "options": [
+      "Because it is morally good",
+      "Because it appears across societies and time periods",
+      "Because it improves individual mental health",
+      "Because it is clinically adaptive"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 19,
+    "type": "mcq",
+    "stem": "A behaviour is common in a society but punishable when performed by an individual. This BEST reflects:",
+    "options": [
+      "Durkheim's two-fold normality",
+      "Objective personality testing",
+      "Sensory stimulation",
+      "Libido displacement"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 20,
+    "type": "mcq",
+    "stem": "Which example MOST clearly represents intrapersonal abnormality?",
+    "options": [
+      "A shy person remains shy for 20 years",
+      "A normally sociable lecturer suddenly becomes mute and withdrawn",
+      "A population has varied eating habits",
+      "A religious subgroup avoids alcohol"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 21,
+    "type": "mcq",
+    "stem": "A student says normality is fixed once society defines it. Which correction is BEST?",
+    "options": [
+      "Normality varies by person, time, place, situation, and culture",
+      "Normality is identical in all societies",
+      "Normality is only a mathematical term",
+      "Normality cannot involve value judgment"
+    ],
+    "answer": "A"
+  },
+  {
     "id": 22,
     "type": "mcq",
-    "stem": "A mental health nurse is conducting psychoeducation on personality traits. She explains that a colleague who plans meetings weeks in advance, monitors how her actions affect team members, and maintains detailed schedules demonstrates which Big Five personality trait to the HIGHEST degree, and in which occupational context would this trait be MOST adaptive?",
+    "stem": "A man scores within 1.96 standard deviations of the mean on a measured trait. Statistically, he falls within approximately what zone?",
     "options": [
-      "Agreeableness, which is most adaptive in healthcare settings where prosocial behaviour and empathy are required for therapeutic relationships",
-      "Openness to experience, which is most adaptive in creative industries that require innovative problem-solving and conceptual flexibility",
-      "Conscientiousness, which is most adaptive in science, high-retail finance, and project management where organisation and detail orientation are essential",
-      "Extraversion, which is most adaptive in public-facing leadership roles in sales, teaching, and politics where social assertiveness drives outcomes"
+      "50%",
+      "68.3%",
+      "95.45%",
+      "99.9%"
     ],
     "answer": "C"
   },
   {
     "id": 23,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A 16-year-old female patient is brought to the psychiatric emergency unit by her parents. She has been refusing to attend school for 3 months, reports persistent low mood, loss of interest in friends, and has been spending excessive time alone in her room crying. Her parents insist she is 'just going through teenage phases.' Using the multi-criteria approach to defining abnormal behaviour, which combination of criteria MOST strongly supports a clinical classification of her behaviour as abnormal?",
+    "stem": "A nursing student argues that one standard deviation includes nearly all normal people. What is the precise correction?",
     "options": [
-      "Statistical infrequency alone, because most adolescents do not exhibit sustained school avoidance lasting more than 8 weeks",
-      "Observer discomfort and deviation from social norms, because the parents' distress and the school avoidance violate expected adolescent social functioning",
-      "Deviation from ideal mental health, failure to function adequately, and statistical infrequency, collectively forming a multi-criteria abnormality classification",
-      "Maladaptivity alone, because school avoidance is counter-productive to her long-term academic and vocational development"
+      "One standard deviation includes about 68.3%, not nearly all",
+      "One standard deviation includes 95.45%",
+      "One standard deviation includes 4.55%",
+      "One standard deviation has no use in normality"
     ],
-    "answer": "C"
+    "answer": "A"
   },
   {
     "id": 24,
     "type": "mcq",
-    "stem": "A nurse is reviewing Erik Erikson's eight stages of psychosocial development with a group of nursing students. She asks which crisis an individual between ages 19â32 faces when they fail to establish meaningful intimate relationships and retreat into social isolation after previously establishing a stable identity. The CORRECT response is:",
+    "stem": "Which finding BEST supports Emotional and Behavioural Disorder rather than simple social maladjustment?",
     "options": [
-      "Generativity versus Stagnation, which arises when a young adult fails to contribute meaningfully to the next generation through parenting or mentoring",
-      "Identity versus Role Confusion, which occurs when a young adult cannot integrate multiple social roles into a coherent sense of self",
-      "Intimacy versus Isolation, which is the core conflict of young adulthood when individuals fail to form intense relationships and withdraw from others",
-      "Industry versus Inferiority, which reflects a failure to develop competence in socially valued tasks during the productive years of young adulthood"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": 25,
-    "type": "mcq",
-    "stem": "A psychiatric nurse is explaining the 'deviation from ideal mental health' (DIM) criterion to a student. The student asks why classifying a bereaved widow's persistent sadness as abnormal using DIM would be clinically inappropriate. The nurse's BEST evidence-based response is:",
-    "options": [
-      "Because grief-related sadness does not meet the statistical infrequency threshold required for DIM classification to be clinically valid",
-      "Because all individuals deviate from ideal mental health at some point in their lives, and deviation alone without persistent functional impairment does not indicate abnormality under DIM",
-      "Because DIM only applies to enduring personality disorders and is not designed to assess acute emotional responses to identifiable life stressors",
-      "Because the DSM explicitly excludes bereavement-related symptoms from all psychiatric diagnostic categories, making DIM inapplicable in this context"
+      "Temporary refusal to greet adults",
+      "Long-duration difficulty learning unexplained by intellectual, sensory, or health factors",
+      "Preference for solitary hobbies",
+      "Dislike of school uniform"
     ],
     "answer": "B"
   },
   {
+    "id": 25,
+    "type": "mcq",
+    "stem": "A child has physical symptoms and fears linked to school problems for months, impairing school functioning. This fits which EBD characteristic?",
+    "options": [
+      "Physical symptoms or fears associated with personal or school problems",
+      "Objective personality distortion",
+      "Death instinct",
+      "Normal adolescence"
+    ],
+    "answer": "A"
+  },
+  {
     "id": 26,
     "type": "mcq",
-    "stem": "A psychiatric ward nurse is supervising a junior colleague who insists that because a patient's compulsive hand-washing is culturally common in the patient's home country, it cannot be classified as a mental disorder. The senior nurse must correct this reasoning. Which statement MOST accurately addresses this clinical error?",
+    "stem": "A young adult has panic attacks, phobias, and social withdrawal without aggression. Which EBD category is MOST consistent?",
     "options": [
-      "Cultural prevalence of a behaviour entirely disqualifies it from psychiatric classification under all international diagnostic frameworks",
-      "A culturally prevalent behaviour can still constitute a mental disorder if it causes clinically significant distress or disability in the individual, unless it has a strong cultural basis that adequately explains it",
-      "The patient's behaviour must be evaluated solely against the DSM criteria, which override cultural considerations in international nursing practice",
-      "The WHO definition of mental health states that culturally normative behaviours are inherently mentally healthy regardless of their functional impact on the individual"
+      "Externalizing disorder",
+      "Internalizing disorder",
+      "Conduct disorder",
+      "Tangible-function disorder"
     ],
     "answer": "B"
   },
   {
     "id": 27,
     "type": "mcq",
-    "stem": "A psychiatric nurse is counselling a 28-year-old woman who has recently relocated, left her parental home for the first time, and is experiencing loneliness, difficulty managing finances independently, and anxiety about her career trajectory. Which developmental framework MOST accurately characterises this transitional experience, and what is its MOST common precipitant?",
+    "stem": "Which presentation MOST strongly indicates externalizing rather than internalizing difficulty?",
     "options": [
-      "Adolescent crisis, precipitated by incomplete resolution of identity formation tasks during the teenage years creating delayed developmental deficits",
-      "Quarter-life crisis, precipitated by the stress of entering adult life characterised by feelings of being lost, scared, lonely, or confused about the transition to adulthood",
-      "Midlife crisis, precipitated by the existential realisation that personal achievements do not match earlier life ambitions and goals",
-      "Empty-nest syndrome, precipitated by the disruption of primary attachment relationships as the patient separates from her family of origin"
+      "Quiet sadness and loss of interest",
+      "Fear of separation",
+      "Bullying, cursing, fighting, and acting out",
+      "Somatic complaints before school"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 28,
     "type": "mcq",
-    "stem": "A nursing student asks why Ãmile Durkheim classified crime as a 'normal' social phenomenon despite its universally harmful consequences. The clinical relevance of this distinction for psychiatric nursing practice is BEST explained by which of the following?",
+    "stem": "CASE SCENARIO: A 24-year-old who recently left home says he feels lost, lonely, scared, and uncertain about career choice. According to the file, this most closely reflects:",
     "options": [
-      "Because Durkheim's sociological normality is defined by frequency of occurrence across time periods and societies, and behaviours present in all societies are thus classified as normal regardless of their moral implications",
-      "Because crime represents an externalising behaviour that meets the FF criterion of abnormality, making it simultaneously sociologically normal and clinically abnormal",
-      "Because Durkheim's model aligns with the DIM criterion, where any behaviour that deviates from ideal mental functioning is inherently pathological at both the individual and societal level",
-      "Because Durkheim's normality framework is equivalent to the statistical infrequency criterion used in clinical psychology, making sociological and clinical normality definitionally identical"
+      "Quarter-life crisis",
+      "Empty-nest syndrome",
+      "Late-life schizophrenia",
+      "Menopause crisis"
     ],
     "answer": "A"
   },
   {
     "id": 29,
-    "type": "fitb",
-    "stem": "Projective personality tests assume that personality is primarily _______________ and assess individuals by their response to a/an _______________ stimulus.",
-    "answer": "unconscious / ambiguous",
-    "acceptableAnswers": ["unconscious / ambiguous", "unconscious / ambiguous stimulus"]
+    "type": "mcq",
+    "stem": "In Erikson's young adulthood stage, the core psychosocial conflict is:",
+    "options": [
+      "Trust versus mistrust",
+      "Industry versus inferiority",
+      "Intimacy versus isolation",
+      "Integrity versus despair"
+    ],
+    "answer": "C"
   },
   {
     "id": 30,
-    "type": "fitb",
-    "stem": "The quarter-life crisis is characterised by feelings of being lost, _______________, lonely or confused, and is commonly precipitated by stress related to _______________ and choosing a career path.",
-    "answer": "scared / unemployment",
-    "acceptableAnswers": ["scared / unemployment", "scared / career uncertainty", "frightened / unemployment"]
-  },
-  {
-    "id": 31,
-    "type": "fitb",
-    "stem": "According to the psychiatric literature on the elderly, the suicide rate among elders stands at an alarming _______________ percent, making it the _______________ of all age groups in the United States.",
-    "answer": "21 / highest",
-    "acceptableAnswers": ["21 / highest", "21% / highest"]
-  },
-  {
-    "id": 32,
     "type": "mcq",
-    "stem": "A nurse is assessing a 14-year-old male patient who deliberately disrupts classroom activities, physically fights with peers at school, and frequently curses at teachers. His parents report that he 'acts out' all his emotions and cannot seem to internalise or regulate them. Based on EBD classifications, this presentation is MOST consistent with which disorder type, and what is its characteristic feature?",
+    "stem": "Which statement BEST matches the document's position on empty-nest syndrome?",
     "options": [
-      "Internalising disorder, characterised by depression, social withdrawal, and anxiety directed inward rather than expressed behaviourally",
-      "Externalising disorder, characterised by under-controlled behaviour including acting out through fighting, cursing, and other overt forms of aggression",
-      "Adjustment disorder, characterised by an inability to make normal adjustments to environmental stressors within the expected developmental period",
-      "Pervasive developmental disorder, characterised by social communication deficits and restricted interests rather than conduct-related behavioural disruption"
+      "It is always permanent and pathological",
+      "It is usually temporary and may later allow enjoyment of new freedoms",
+      "It occurs only in men",
+      "It proves menopause-induced depression"
     ],
     "answer": "B"
   },
   {
+    "id": 31,
+    "type": "mcq",
+    "stem": "A middle-aged woman believes menopause will inevitably cause depression and irrational behaviour. Which response is MOST accurate?",
+    "options": [
+      "Menopause typically causes severe psychiatric illness",
+      "Menopause does not typically cause depression, irritability, or irrational behaviour",
+      "Menopause eliminates all physical symptoms",
+      "Menopause is identical to midlife crisis"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 32,
+    "type": "mcq",
+    "stem": "Which event is MOST consistent with a trigger for a true midlife crisis in the file?",
+    "options": [
+      "Turning 40 alone",
+      "Buying a hobby item",
+      "Sudden loss of employment",
+      "Having adult children"
+    ],
+    "answer": "C"
+  },
+  {
     "id": 33,
     "type": "mcq",
-    "stem": "A psychiatric nurse is administering the Thematic Apperception Test (TAT) to a patient. After reviewing the responses, the nurse notes that the patient's stories consistently feature themes of abandonment, helplessness, and inability to trust authority figures. What is the MOST theoretically accurate interpretation of these findings according to TAT methodology?",
+    "stem": "A middle-aged man buys an expensive musical instrument and begins hobbies after his children leave home, with no distress or impairment. The BEST interpretation is:",
     "options": [
-      "The patient's conscious beliefs about authority figures are being expressed through the narrative content of the TAT stories as a form of rational self-disclosure",
-      "The recurring themes are directly linked to unconscious motives, underlying thought processes, and potential conflicts present within the individual",
-      "The TAT responses indicate a maladaptive cognitive schema that is accessible to consciousness and should be targeted using cognitive restructuring techniques",
-      "The patient demonstrates poor test performance, as valid TAT responses should be unrelated to the individual's personal experiences and emotional conflicts"
+      "Automatic midlife crisis",
+      "Productive period of mental well-being or re-evaluation",
+      "Externalizing disorder",
+      "Death instinct"
     ],
     "answer": "B"
   },
   {
     "id": 34,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A 55-year-old woman whose last child recently left for university presents reporting persistent sadness, purposelessness, and difficulty filling her time. She denies suicidal ideation and reports no prior psychiatric history. She states: 'My whole identity was being a mother.' Which psychiatric concept MOST precisely describes her current adjustment challenge, and what does the evidence suggest about its typical trajectory?",
+    "stem": "An elderly patient reports sleep disturbance, appetite change, and mood difference but assumes they are physical aging. What concern should guide the nurse?",
     "options": [
-      "Midlife crisis, which is typically triggered by sudden life changes and is expected to persist for several years without therapeutic intervention",
-      "Empty-nest syndrome, which represents difficulty adjusting to life without children but is usually temporary, with many adults eventually enjoying new freedoms associated with middle age",
-      "Generativity versus Stagnation crisis, which occurs when middle-aged adults fail to establish a productive legacy beyond child-rearing",
-      "Adjustment disorder with depressed mood, which by definition requires a clinically significant and persistent response to an identifiable stressor lasting more than six months"
+      "Elders may misattribute psychiatric symptoms to physical problems",
+      "These symptoms are never psychiatric",
+      "Only psychosis matters in elderly care",
+      "Mental health services are overused by elders"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 35,
     "type": "mcq",
-    "stem": "A psychiatric nurse educator is explaining why the clinical definition of abnormality cannot rely solely on the 'morality' criterion. Which of the following BEST illustrates the FUNDAMENTAL problem with using morality as the primary diagnostic standard in psychiatric nursing?",
+    "stem": "Which combination BEST explains low elderly use of mental health services?",
     "options": [
-      "Moral behaviour is culturally relative, making it a supplementary rather than primary criterion, but it remains valid when combined with the statistical infrequency criterion",
-      "It would be impossible to agree on a single universal set of moral standards for diagnostic purposes, making morality an unreliable and subjective criterion for defining abnormality",
-      "The morality criterion conflates ethical judgement with clinical diagnosis, resulting in over-pathologisation of deviant but non-harmful behaviours in minority populations",
-      "Morality-based definitions of abnormality are discouraged by the DSM-5 but remain legally relevant in jurisdictions that criminalise certain behaviours classified as moral violations"
+      "Stigma, ageism, limited primary care training, fragmented services, poor organized support",
+      "Excessive psychiatric beds and excessive advocacy",
+      "No psychiatric illness in elders",
+      "Universal refusal due only to finances"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 36,
     "type": "mcq",
-    "stem": "In the context of Freudian drive theory, a university student works exceptionally hard to obtain top academic grades, driven by an unconscious desire to attract a superior mate and secure socioeconomic advantages over perceived rivals. According to Freud's explanation of this motivation, the behaviour MOST accurately represents:",
+    "stem": "A primary care physician dismisses depression in a 70-year-old as normal aging. Which barrier is most directly involved?",
     "options": [
-      "A sublimation of the death instinct into academically productive channels that serve the individual's competitive survival instincts",
-      "An expression of life instinct energy (Eros) driving self-improvement to increase reproductive attractiveness and ensure continuation of the bloodline",
-      "A manifestation of the superego's morality principle compelling achievement as a socially acceptable expression of latent aggressive drives",
-      "An ego-mediated resolution of the conflict between the pleasure principle and the reality principle through academically goal-directed behaviour"
+      "Ageism and limited geriatric mental health recognition",
+      "Tangible reinforcement",
+      "Libido",
+      "Pluralistic ignorance only"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 37,
     "type": "mcq",
-    "stem": "A nurse is reviewing personality trait stability across the lifespan. She explains that sensation-seeking behaviour demonstrates a distinctive developmental trajectory compared to other personality traits. Based on the documented research, which statement MOST accurately describes sensation-seeking across the lifespan?",
+    "stem": "Which statement about personality is MOST consistent with the document?",
     "options": [
-      "Sensation-seeking remains relatively stable throughout adulthood, showing minor fluctuations that are not clinically significant compared to major trait dimensions",
-      "Sensation-seeking increases gradually from childhood through adulthood, peaks in the thirties, and declines slowly thereafter as social responsibilities accumulate",
-      "Sensation-seeking increases from childhood through adolescence, peaks in late adolescence around ages 18â20, then falls continuously with advancing age",
-      "Sensation-seeking decreases steadily from childhood through adolescence as parental socialisation progressively reduces risk-taking motivation"
+      "Personality is only behaviour, not thoughts or emotions",
+      "Personality is dynamic, organized, and influences cognition, emotion, motivation, and behaviour",
+      "Personality has no relationship to stress",
+      "Personality cannot be measured"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 38,
-    "type": "fitb",
-    "stem": "The five basic personality traits theory was originally developed in _______________ by D.W. Fiske, and the acronym used to remember the traits is _______________.",
-    "answer": "1949 / OCEAN",
-    "acceptableAnswers": ["1949 / OCEAN"]
+    "type": "mcq",
+    "stem": "Gordon Allport's idiographic approach is best represented by:",
+    "options": [
+      "Finding laws applying to many people",
+      "Understanding the unique aspects of one individual",
+      "Rejecting personality study",
+      "Measuring only biological traits"
+    ],
+    "answer": "B"
   },
   {
     "id": 39,
-    "type": "fitb",
-    "stem": "According to the psychological theory of behaviour, in biology, human behaviour is believed to be controlled primarily by the _______________ system and the _______________ system.",
-    "answer": "endocrine / nervous",
-    "acceptableAnswers": ["endocrine / nervous", "nervous / endocrine"]
+    "type": "mcq",
+    "stem": "A theorist claims human action is mainly controlled by unconscious biological forces. Which philosophical assumption is being emphasized?",
+    "options": [
+      "Freedom versus determinism",
+      "Openness versus agreeableness",
+      "Tangible versus sensory",
+      "Normality versus pathology"
+    ],
+    "answer": "A"
   },
   {
     "id": 40,
-    "type": "fitb",
-    "stem": "In Freud's theory of drives, the life instincts are sometimes referred to as _______________ instincts, and the energy created by these drives is known as _______________.",
-    "answer": "sexual / libido",
-    "acceptableAnswers": ["sexual / libido"]
+    "type": "mcq",
+    "stem": "A theorist says personality is shaped by both genetics and experience. This position addresses:",
+    "options": [
+      "Heredity versus environment",
+      "Observer discomfort",
+      "Escape versus avoidance",
+      "Clinical false positive"
+    ],
+    "answer": "A"
   },
   {
     "id": 41,
     "type": "mcq",
-    "stem": "A psychiatric nurse observes a patient who repeatedly rocks back and forth in his chair during group therapy sessions. When asked why, the patient explains it is simply enjoyable and comforting to him. He does not seek attention, tangible rewards, or escape from tasks. Based on the four functions of behaviour, this behaviour MOST accurately represents:",
+    "stem": "Traditional behavioural theorists are MOST associated with which assumption?",
     "options": [
-      "Tangible function, where the behaviour is maintained by access to a preferred item or activity that provides comfort and enjoyment",
-      "Escape or avoidance function, where rocking serves as a covert strategy to disengage from the uncomfortable social demands of group therapy",
-      "Sensory stimulation function, where the behaviour provides internal self-stimulating sensation that is pleasurable independent of external reinforcement",
-      "Social attention function, where the rhythmic motion serves as a non-verbal communication strategy to elicit concern from group members"
+      "Humans are passively shaped by environmental forces",
+      "Humans always self-actualize",
+      "Personality is never learned",
+      "Traits cannot affect behaviour"
     ],
-    "answer": "C"
+    "answer": "A"
   },
   {
     "id": 42,
     "type": "mcq",
-    "stem": "A psychiatric nurse documents that a patient demonstrates 'pluralistic ignorance' regarding a community social norm. In the context of psychiatric nursing, which scenario MOST precisely illustrates pluralistic ignorance and its potential clinical relevance?",
+    "stem": "Which theory group is generally more optimistic about personality change?",
     "options": [
-      "A patient from a minority cultural group holds norms that differ from mainstream society, and the majority mistakenly assumes their own norms are universally shared",
-      "Most individuals within a peer group falsely believe that excessive alcohol consumption is the norm among students, though very few privately endorse or practice this behaviour",
-      "A patient deviates from established social norms because of insufficient socialisation opportunities during a critical developmental period in adolescence",
-      "A clinician misattributes a culturally normative behaviour to a pathological process because of limited training in transcultural psychiatric assessment"
+      "Theories emphasizing learning",
+      "Theories rejecting learning",
+      "Pure biological determinism",
+      "Fixed constitutional theories"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 43,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A psychiatric nurse is assessing a 38-year-old male patient who has recently been made redundant from a senior management position. Over the past three months, he has become increasingly withdrawn, misses meals regularly, shows diminished interest in previously enjoyed activities, and has stopped attending his children's school events. His wife reports he is 'not the same person.' Which COMBINATION of behavioural function and abnormality criterion MOST comprehensively explains his presentation?",
+    "stem": "Which Big Five trait is most linked with imagination, insight, broad interests, and adventurous decision-making?",
     "options": [
-      "Escape function serving to avoid work-related demands; classified as abnormal using the statistical infrequency criterion because most employed men do not experience job loss",
-      "Sensory stimulation dysfunction reflecting disrupted self-regulatory processes; classified as abnormal using the observer discomfort criterion based on his wife's distress",
-      "Maladaptive adjustment response to environmental stressor; classified as abnormal using failure to function adequately and deviation from ideal mental health criteria",
-      "Social attention-seeking behaviour triggered by role loss; classified as abnormal using the morality criterion because neglecting parental responsibilities is ethically unacceptable"
+      "Agreeableness",
+      "Openness",
+      "Neuroticism",
+      "Conscientiousness"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 44,
     "type": "mcq",
-    "stem": "During a psychiatric nursing seminar, a student asks about the significance of the Diagnostic and Statistical Manual (DSM) being first published in 1952. The instructor explains that the DSM represents the psychiatric profession's ongoing attempt to distinguish normality from disorder. Which statement about the DSM's limitations in defining normality is MOST consistent with the theoretical literature?",
+    "stem": "A person dislikes structure, procrastinates, and fails to complete tasks. Which Big Five profile is MOST likely?",
     "options": [
-      "The DSM provides absolute and culture-neutral criteria that supersede contextual and societal definitions of normality in all clinical applications",
-      "The DSM shows how normality is dependent on situational context, changes throughout history, and often involves value judgements in clinical classification",
-      "The DSM's primary limitation is its over-reliance on the statistical infrequency criterion, which leads to systematic under-diagnosis of mental disorders in minority populations",
-      "The DSM eliminates the need for clinical judgement by providing operationalised threshold criteria that objectively separate normality from pathology"
+      "Low conscientiousness",
+      "High agreeableness",
+      "High openness",
+      "Low neuroticism"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 45,
     "type": "mcq",
-    "stem": "A nurse is educating a patient about how personality traits are distributed in a normal population. The patient asks what percentage of the population typically scores within one standard deviation of the mean for any given trait. The nurse's MOST accurate response is:",
+    "stem": "A person is assertive, talkative, emotionally expressive, and energized by groups. Which trait is dominant?",
     "options": [
-      "Approximately 50% of people score within one standard deviation of the mean, representing the most central or average distribution of any trait",
-      "Approximately 68.3% of people score within one standard deviation of the mean, with only extreme scorers classified outside this normal range",
-      "Approximately 95.45% of people score within one standard deviation, with the remaining 4.55% representing the abnormal extremes of trait distribution",
-      "Approximately 99.7% of people score within one standard deviation, making extreme personality trait scores exceedingly rare in the general population"
+      "Extraversion",
+      "Agreeableness",
+      "Neuroticism",
+      "Conscientiousness"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 46,
     "type": "mcq",
-    "stem": "A psychiatric nurse is discussing how personality change occurs through therapeutic intervention. A patient in cognitive-behavioural therapy asks how changes made during therapy eventually become permanent features of personality. Based on the documented psychological mechanisms of personality change, the MOST accurate explanation is:",
+    "stem": "A charity worker is trusting, kind, affectionate, cooperative, and empathetic. Which Big Five trait is MOST evident?",
     "options": [
-      "Therapy produces neuroplastic changes in prefrontal cortical networks that permanently alter trait-level processing, making therapeutic gains biologically irreversible",
-      "Individuals identify inappropriate behaviours, self-monitor to change them, eventually internalise the desired behaviour, and the resulting trait generalises to other areas of life",
-      "Repeated exposure to cognitive restructuring techniques creates new neural pathways that override previously established maladaptive trait-level behavioural patterns",
-      "The therapist reinforces desired behaviours through operant conditioning principles until the desired behaviour becomes a conditioned response to environmental triggers"
+      "Neuroticism",
+      "Agreeableness",
+      "Low openness",
+      "Low conscientiousness"
     ],
     "answer": "B"
   },
   {
     "id": 47,
-    "type": "fitb",
-    "stem": "The process by which conditions come to be defined and treated as medical conditions and thus come under the authority of doctors is known as _______________ or _______________.",
-    "answer": "medicalization / pathologization",
-    "acceptableAnswers": ["medicalization / pathologization", "medicalisation / pathologisation", "pathologization / medicalization"]
+    "type": "mcq",
+    "stem": "A patient overthinks, struggles to relax, has mood swings, and reacts strongly to stress. Which trait is MOST elevated?",
+    "options": [
+      "Openness",
+      "Conscientiousness",
+      "Neuroticism",
+      "Agreeableness"
+    ],
+    "answer": "C"
   },
   {
     "id": 48,
-    "type": "fitb",
-    "stem": "In Erikson's framework, adolescence is described as the period between childhood and adulthood, generally involving individuals between the ages of _______________ and _______________.",
-    "answer": "12 / 19",
-    "acceptableAnswers": ["12 / 19", "twelve / nineteen"]
-  },
-  {
-    "id": 49,
-    "type": "fitb",
-    "stem": "The Thematic Apperception Test requires individuals to tell a _______________ based on vague pictures or scenes, and responses are analysed for _______________ themes that reflect underlying unconscious motives.",
-    "answer": "story / common",
-    "acceptableAnswers": ["story / common", "narrative / common", "story / recurring"]
-  },
-  {
-    "id": 50,
     "type": "mcq",
-    "stem": "A psychiatric nurse is caring for a patient who has been labelled as 'mentally ill' in his community. The nurse observes that the patient has been socially excluded, struggles to find employment, and expresses shame about his condition. According to the psychiatric literature on labelling effects, which statement MOST accurately explains the mechanism by which labelling negatively impacts the patient?",
+    "stem": "Which Big Five trait had the highest heritability estimate in the twin-study figures provided?",
     "options": [
-      "Labelling triggers a neurobiological stress response that exacerbates underlying psychiatric symptoms through the mechanism of psychological sensitisation",
-      "Labelling as mentally ill can lead to marginalisation, stigmatisation, social exclusion, and the internalisation of shame, further separating the individual from normal social functioning",
-      "Labelling primarily affects the patient's access to healthcare services rather than their self-perception, as most psychiatrically labelled individuals maintain a positive self-concept",
-      "Labelling activates the sick role, which paradoxically benefits the patient by reducing social expectations and responsibilities during the recovery period"
+      "Extraversion",
+      "Openness",
+      "Conscientiousness",
+      "Agreeableness"
     ],
     "answer": "B"
   },
   {
+    "id": 49,
+    "type": "mcq",
+    "stem": "According to the document, aging tends to produce which average personality shift?",
+    "options": [
+      "More extraversion and more neuroticism",
+      "Less agreeableness and less conscientiousness",
+      "Less openness, extraversion, and neuroticism with more agreeableness and conscientiousness",
+      "More impulsivity and more flexibility"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 50,
+    "type": "mcq",
+    "stem": "A 52-year-old shows very little average-level personality change. Which concept does this support?",
+    "options": [
+      "Personality becoming more set with age",
+      "Total personality instability after 50",
+      "Sensation seeking peaking after 50",
+      "Adolescence crisis"
+    ],
+    "answer": "A"
+  },
+  {
     "id": 51,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A 67-year-old retired teacher presents to a community health clinic accompanied by her adult son. She reports sleeping only 3 hours per night, has lost 8 kg over two months, and states: 'I just feel sad all the time, but it's probably just old age.' Her son reports she has stopped attending her weekly book club and no longer speaks to former colleagues. Her primary care physician documented 'age-related changes' at the last visit. What is the nurse's PRIORITY action?",
+    "stem": "Which lifespan pattern best describes sensation seeking?",
     "options": [
-      "Accept the physician's documentation of age-related changes and focus the nursing assessment on physical health monitoring including weight and fluid balance",
-      "Conduct a comprehensive psychiatric assessment including depression screening, because elders often attribute mental health symptoms to physical causes and only 7% currently access appropriate psychiatric services",
-      "Educate the patient that decreased sleep and appetite are expected physiological changes in older adults and arrange follow-up in six months",
-      "Refer the patient to a dietitian to address the weight loss before initiating psychiatric assessment, as nutritional deficiency may be the primary aetiology"
+      "Declines from childhood and peaks at 60",
+      "Increases to late adolescence around 18-20 then falls with age",
+      "Never changes",
+      "Rises continuously throughout old age"
     ],
     "answer": "B"
   },
   {
     "id": 52,
     "type": "mcq",
-    "stem": "A nursing student correctly identifies that mental wellness can be defined as the absence of diagnosable mental disorders. A patient who arranges his books obsessively every evening states: 'I know it's a bit much but I'm fine with it.' According to the distinction between obsession and OCD as described in the psychiatric literature, why would this patient NOT be diagnosed with OCD?",
+    "stem": "A male manager's ambition decreases over 20 years while autonomy and leadership motivation increase. The document explains this mainly by:",
     "options": [
-      "Because OCD requires the obsession to be ego-syntonic, meaning the patient must experience the behaviour as consistent with his self-image rather than as excessive",
-      "Because someone who has an obsession may not necessarily have OCD; it is only when obsession combines with unrelenting compulsion to act on the object of obsession that OCD is diagnosed",
-      "Because the patient's behaviour lacks the criterion of marked distress required for OCD diagnosis, as he explicitly states he is comfortable with the behaviour",
-      "Because OCD requires the behaviour to occur across multiple settings, and the patient's book-arranging is restricted to a single domestic context"
+      "Realistic appraisal of limited promotion possibilities",
+      "Mandatory midlife crisis",
+      "Loss of nervous system function",
+      "Decline in all personality traits"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 53,
     "type": "mcq",
-    "stem": "A psychiatric mental health nurse is teaching about the philosophical assumptions underlying personality theory. She presents the case of a patient whose violent behaviour is attributed to a traumatic childhood in a neglectful environment. Which philosophical assumption of personality theory does this case MOST directly illustrate?",
+    "stem": "Which mechanism describes therapy-based personality change in the document?",
     "options": [
-      "Freedom versus Determinism, because the patient's behaviour is causally determined by environmental forces beyond his conscious control",
-      "Heredity versus Environment, because the patient's personality is attributed to environmental experiences rather than genetic or biological endowment",
-      "Uniqueness versus Universality, because the patient's specific developmental history creates a pattern of behaviour that is distinct from universal personality laws",
-      "Active versus Reactive, because the patient's aggression represents a reactive response to environmental stimuli rather than self-initiated volitional behaviour"
+      "Identify inappropriate behaviour, self-monitor, internalize desired behaviour, generalize the trait",
+      "Erase temperament permanently in one session",
+      "Use only medication to change personality",
+      "Avoid introspection"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 54,
     "type": "mcq",
-    "stem": "A nurse is explaining personality trait stability to a patient's family. The family asks when personality becomes 'set' and resistant to change. Based on the documented research on personality constancy, the nurse's MOST accurate response is:",
+    "stem": "Freud's life instincts are primarily concerned with:",
     "options": [
-      "Personality becomes fully fixed at the end of adolescence around age 19, after which traits remain stable with only minor situationally driven fluctuations",
-      "Personality becomes increasingly stable with age and appears to become progressively more 'set in plaster,' especially after the age of 50 when very little average-level change occurs",
-      "Personality is fully malleable throughout the lifespan and can be substantially changed through therapeutic intervention at any age without significant resistance",
-      "Personality consistency peaks in middle adulthood around ages 35â45, after which increased neuroplasticity in late adulthood enables greater trait-level flexibility"
+      "Death, decay, and self-destruction only",
+      "Survival, pleasure, and reproduction",
+      "Moral punishment",
+      "Social norms only"
     ],
     "answer": "B"
   },
   {
     "id": 55,
-    "type": "fitb",
-    "stem": "According to Freud, he initially described _______________ instincts before concluding that all instincts fall into one of two classes: the life instincts or the _______________ instincts.",
-    "answer": "life / death",
-    "acceptableAnswers": ["life / death"]
-  },
-  {
-    "id": 56,
-    "type": "fitb",
-    "stem": "The five models used in emotional and behavioural disorders (EBD) are biophysical, psychodynamic, _______________, behavioural, and _______________.",
-    "answer": "cognitive / ecological",
-    "acceptableAnswers": ["cognitive / ecological", "ecological / cognitive"]
-  },
-  {
-    "id": 57,
-    "type": "fitb",
-    "stem": "In research on personality and gender, Weinsberg and DeYoung (2011) concluded that women tend to score higher than men on _______________, Agreeableness, and _______________.",
-    "answer": "Extraversion / Neuroticism",
-    "acceptableAnswers": ["Extraversion / Neuroticism", "extraversion / neuroticism"]
-  },
-  {
-    "id": 58,
     "type": "mcq",
-    "stem": "During ward rounds, a psychiatric nurse observes that a newly admitted patient consistently rearranges furniture in his room every morning, becomes visibly agitated when other patients touch his belongings, and monopolises the television remote during group time. The nurse recognises the TANGIBLE function of his behaviour. Which theoretical framework underpins this functional behavioural assessment?",
+    "stem": "Freud proposed the death instinct after observing that traumatic experiences may be:",
     "options": [
-      "The psychodynamic framework, which interprets controlling behaviours as displacement of unresolved power conflicts from earlier developmental relationships",
-      "The operant conditioning framework, which identifies behaviour as maintained by its consequences including access to preferred items, activities, and environmental control",
-      "The cognitive framework, which attributes the behaviour to rigid cognitive schemas about order and control that generate automatic distress responses when violated",
-      "The ecological framework, which understands the behaviour as an adaptive response to the unfamiliar and threatening demands of the inpatient psychiatric environment"
+      "Forgotten permanently",
+      "Reenacted",
+      "Converted to openness",
+      "Scored objectively"
     ],
     "answer": "B"
   },
   {
+    "id": 56,
+    "type": "mcq",
+    "stem": "When Thanatos energy is directed outward, Freud described it as:",
+    "options": [
+      "Love and cooperation",
+      "Aggression and violence",
+      "Self-esteem",
+      "Objective testing"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 57,
+    "type": "mcq",
+    "stem": "A person pursues higher education to improve attractiveness, income, and advantage over rivals. In the Freud example, this is explained by:",
+    "options": [
+      "Life instinct and survival/procreative advantage",
+      "Pure observer discomfort",
+      "Low conscientiousness",
+      "Pluralistic ignorance"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 58,
+    "type": "mcq",
+    "stem": "Which statement about behaviour and the nervous system is MOST accurate?",
+    "options": [
+      "More complex nervous systems generally allow greater learning and adjustment",
+      "The endocrine system alone controls all behaviour",
+      "Muscles act normally without nervous impulses",
+      "Behaviour has no relationship to biology"
+    ],
+    "answer": "A"
+  },
+  {
     "id": 59,
     "type": "mcq",
-    "stem": "A nurse counsellor is helping a 25-year-old patient understand her personality. The patient scores very low on agreeableness in a standardised personality assessment. Which constellation of behaviours would the nurse MOST expect to observe in this patient during therapeutic interactions, based on the defined characteristics of low agreeableness?",
+    "stem": "The correct sequence of response to external stimuli is:",
     "options": [
-      "Excessive emotional expressiveness, social dominance, assertiveness, and a tendency to monopolise group therapy discussions without regard for peers' contributions",
-      "Manipulation, lack of caring or sympathy, nastiness toward others, and disinterest in other people's problems as core interpersonal features",
-      "Persistent sadness, moodiness, emotional instability, and irritability triggered by interpersonal conflict during therapeutic interactions",
-      "Rigidity in daily routines, difficulty adapting to schedule changes, excessive planning, and frustration when therapeutic activities deviate from the expected format"
+      "Execution, preparation, interpretation, reception",
+      "Reception, interpretation, preparation, execution",
+      "Interpretation, execution, reception, preparation",
+      "Preparation, reception, execution, interpretation"
     ],
     "answer": "B"
   },
   {
     "id": 60,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A psychiatric community nurse visits a 72-year-old widower who lives alone. He reports increased alcohol consumption, rarely leaves the house, and has not visited his doctor in two years. He declines psychiatric referral, stating: 'I know my mind better than any doctor.' The nurse notes that elders account for only 6% of community mental health service users despite representing a much larger proportion of those in need. Which barrier to mental health care in the elderly is MOST prominently illustrated by this patient's behaviour?",
+    "stem": "Which statement BEST reflects the document's view of behaviour?",
     "options": [
-      "Service integration failures causing long waiting times and complex procedures that overwhelm elderly patients and discourage engagement with services",
-      "Ageism from primary care physicians who have limited training in geriatric mental health, resulting in missed diagnoses and inadequate referrals",
-      "Stigma associated with mental illness causing elderly patients to resist treatment based on culturally and media-reinforced negative perceptions of psychiatry",
-      "Lack of organised support groups for elderly psychiatric patients, leading to social isolation and reduced motivation to seek professional mental health care"
+      "Behaviour is always a simple fixed response to one stimulus",
+      "Behaviour should be understood through the psychological whole",
+      "Behaviour excludes covert responses",
+      "Behaviour is unrelated to environment"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 61,
     "type": "mcq",
-    "stem": "A psychiatric nurse is reviewing how menopause affects women's mental health. A 51-year-old patient asks whether she can expect to experience depression as a result of menopause. Based on the psychiatric literature, the nurse's MOST evidence-based response is:",
+    "stem": "A patient exaggerates achievements, justifies failures, and daydreams excessively. Which set of futile adjustments is represented?",
     "options": [
-      "Menopause directly causes clinical depression in most women due to the neuropsychiatric effects of oestrogen withdrawal on serotonergic neurotransmission",
-      "Menopause does not typically cause depression, irrational behaviour, or irritability in most women, though some experience severe physical symptoms requiring medical management",
-      "Depression is a universal feature of menopause because of the profound identity disruption associated with the end of reproductive capacity in women",
-      "Women who experience hot flushes during menopause are at significantly elevated risk of developing clinical depression, requiring prophylactic antidepressant therapy"
+      "Bragging, rationalizing, self-absorption and daydreaming",
+      "Menopause, libido, Thanatos",
+      "Openness, stability, universality",
+      "Reception, interpretation, execution"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 62,
-    "type": "fitb",
-    "stem": "According to research on self-esteem changes during development, females tend to _______________ in self-esteem during the transition from early adolescence to early adulthood, while males tend to _______________.",
-    "answer": "decrease / increase",
-    "acceptableAnswers": ["decrease / increase", "decline / increase"]
+    "type": "mcq",
+    "stem": "Which is listed as an adjustment that thwarts development?",
+    "options": [
+      "Capitalizing on a defect",
+      "Planning ahead",
+      "Self-respect",
+      "Belonging to a group"
+    ],
+    "answer": "A"
   },
   {
     "id": 63,
-    "type": "fitb",
-    "stem": "Behaviour can be regarded as any action of an organism that changes its relationship to its _______________. It provides _______________ from the organism to the environment.",
-    "answer": "environment / outputs",
-    "acceptableAnswers": ["environment / outputs"]
+    "type": "mcq",
+    "stem": "A nurse states that character and personality are identical. Which correction is BEST?",
+    "options": [
+      "Character is narrower and refers to ethical quality of behaviour",
+      "Personality means only morality",
+      "Character excludes ideals",
+      "Personality excludes behaviour"
+    ],
+    "answer": "A"
   },
   {
     "id": 64,
-    "type": "fitb",
-    "stem": "The standard criterion used in psychology and psychiatry to define abnormality is that of _______________, where determination of abnormality is based upon _______________.",
-    "answer": "mental illness or mental disorder / medical diagnosis",
-    "acceptableAnswers": ["mental illness / medical diagnosis", "mental disorder / medical diagnosis", "mental illness or mental disorder / medical diagnosis"]
+    "type": "mcq",
+    "stem": "Which is a characteristic of good mental health?",
+    "options": [
+      "Avoiding all responsibilities",
+      "Ability to face disappointments without losing control",
+      "Constant suspicion of others",
+      "Inability to plan ahead"
+    ],
+    "answer": "B"
   },
   {
     "id": 65,
     "type": "mcq",
-    "stem": "A psychiatric nurse is reviewing the characteristics of normality with a group of student nurses. She explains that normality is not a fixed concept but shifts according to time and environment. Which clinical example MOST precisely illustrates the 'relativity of normality' as described in the psychiatric literature?",
+    "stem": "CASE SCENARIO: A 17-year-old has persistent low self-worth, expresses need to harm self, cannot maintain peer relationships, and has pervasive unhappiness. Which conclusion is strongest?",
     "options": [
-      "A patient with schizophrenia is considered abnormal in all cultural contexts because psychosis represents a universal deviation from neurobiological baseline functioning",
-      "Perceptions on homosexuality and masturbation have shifted from being classified as disorders to being increasingly viewed as normal in many countries over recent decades",
-      "A child who throws tantrums at age three is considered normal, but the same behaviour in an adult would be pathologised regardless of cultural context",
-      "The DSM criteria for personality disorders have been updated across revisions to reflect changing societal standards, demonstrating that clinical normality evolves with expert consensus"
+      "Marked EBD characteristics affecting functioning are present",
+      "Only normal adolescence is present",
+      "This is solely tangible behaviour",
+      "This is menopause-related"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 66,
     "type": "mcq",
-    "stem": "A nurse assessing personality consistency uses the three defining criteria of personality traits: consistency, stability, and individual differences. A patient reports that he is talkative at home but completely silent at work. Which criterion of personality traits does this behaviour MOST directly challenge, and what is the clinical implication?",
+    "stem": "Which statement BEST separates subculture normality from mainstream social norms?",
     "options": [
-      "Individual differences, because the behaviour is unique to this patient and suggests a personality profile that deviates significantly from population norms",
-      "Stability, because the behaviour differs across two points in time, suggesting that the patient's trait level of talkativeness is declining with advancing age",
-      "Consistency, because personality traits require cross-situational consistency and markedly different behaviour across settings challenges the classification of talkativeness as a stable trait in this patient",
-      "Universality, because the trait of talkativeness should manifest similarly across all social situations if it constitutes a genuine personality dimension"
+      "Subcultures may replace society norms with their own norms",
+      "Subcultures cannot define behaviour",
+      "All subculture behaviour is pathological",
+      "Social norms are always statistically accurate"
     ],
-    "answer": "C"
+    "answer": "A"
   },
   {
     "id": 67,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A 19-year-old male patient is brought to the emergency psychiatric unit after his parents found him staring blankly at the wall for hours. He states he needs to 'go back in time to fix things' and becomes distressed when contradicted. He has no prior psychiatric history. Over the past month, his grades dropped from distinction to failing. He now refuses food stating it is 'contaminated by future enemies.' Using the multi-criteria approach, which criterion is LEAST applicable to this presentation?",
+    "stem": "Most students privately dislike binge drinking but falsely believe everyone approves of it. This is:",
     "options": [
-      "Deviation from ideal mental health, because the patient is clearly not functioning at an optimal psychological level",
-      "Statistical infrequency, because staring for hours and refusing food due to paranoid ideation is statistically rare in the general population",
-      "Observer discomfort, because the patient's parents and clinical staff experience discomfort in response to his behaviour",
-      "Maladaptivity, because despite the risk to his nutrition and academic functioning the behaviour may serve an internally logical purpose from the patient's subjective perspective"
+      "Pluralistic ignorance",
+      "Clinical false positive",
+      "Libido",
+      "Internalizing disorder"
     ],
-    "answer": "D"
+    "answer": "A"
   },
   {
     "id": 68,
     "type": "mcq",
-    "stem": "A psychiatric nurse is teaching a patient about the philosophical assumption of 'active versus reactive' in personality theory. The patient asks which type of theorist would argue that individuals are primarily shaped by their social environment rather than by their own initiative. The nurse's MOST accurate response is:",
+    "stem": "A psychiatric label causes others to feel uncomfortable and distance themselves from the patient. Which consequence is MOST directly described?",
     "options": [
-      "Humanistic theorists, who believe individuals are active agents capable of self-actualisation and are not determined by environmental conditioning",
-      "Cognitive theorists, who emphasise that individual perception of environmental events, rather than the events themselves, drives personality expression",
-      "Traditional behavioural theorists, who believed humans are passively shaped by environmental forces including reinforcement contingencies",
-      "Evolutionary psychologists, who attribute personality to genetically encoded adaptive mechanisms that are reactive to environmental survival pressures"
+      "Stigmatization and social separation",
+      "Improved normality",
+      "Increased trait validity",
+      "Healthy adaptation"
     ],
-    "answer": "C"
+    "answer": "A"
   },
   {
     "id": 69,
     "type": "mcq",
-    "stem": "A nurse is reviewing the management of adjustment crises across the lifespan. A 44-year-old male manager is assessed in his twenty-year longitudinal follow-up. His ambition has steeply declined since his twenties, but his autonomy, leadership motivation, and dominance have increased. Based on the documented findings of longitudinal studies of male managerial candidates, this pattern is BEST explained by which factor?",
+    "stem": "Which pairing is correct?",
     "options": [
-      "The onset of a midlife crisis characterised by regression to earlier developmental stages with concomitant personality reorganisation around power and independence",
-      "A testosterone-driven increase in dominance and leadership that compensates neurobiologically for declining cortisol-mediated ambition responses",
-      "Men becoming more realistic about limited promotion possibilities, causing a decline in ambition while autonomy and leadership motivation continue to grow",
-      "Empty-nest syndrome triggering personality reorganisation as men redirect energy previously invested in family provision into professional self-determination"
+      "Projective test: self-report questionnaire",
+      "Objective test: ambiguous inkblot interpretation",
+      "Rorschach: ambiguous inkblots",
+      "TAT: numerical IQ distribution"
     ],
     "answer": "C"
   },
   {
     "id": 70,
-    "type": "fitb",
-    "stem": "Gordon Allport found over _______________ traits in his initial research, but even when this was reduced to _______________ it was considered too complicated, leading to the development of the Big Five framework.",
-    "answer": "4000 / 16",
-    "acceptableAnswers": ["4000 / 16", "four thousand / sixteen"]
+    "type": "mcq",
+    "stem": "The TAT differs from the Rorschach primarily because the TAT uses:",
+    "options": [
+      "Vague pictures/scenes requiring stories",
+      "Only yes/no self-report items",
+      "Blood tests",
+      "Normal distribution curves"
+    ],
+    "answer": "A"
   },
   {
     "id": 71,
     "type": "fitb",
-    "stem": "The word 'personality' originates from the Latin _______________, which in the ancient Latin-speaking theatre world referred not to disguise but to a convention used to _______________ or typify a character.",
-    "answer": "persona / represent",
-    "acceptableAnswers": ["persona / represent", "persona / typify"]
+    "stem": "Behaviour provides _______________ from the organism to the _______________.",
+    "answer": "outputs / environment",
+    "acceptableAnswers": [
+      "outputs / environment",
+      "output / environment"
+    ]
   },
   {
     "id": 72,
-    "type": "mcq",
-    "stem": "A nurse is evaluating a clinical vignette for teaching purposes. A 30-year-old man from a college community consumes alcohol heavily every weekend. When asked about this, he says: 'Everyone here drinks like this â it's normal.' In fact, fewer than 20% of his peers drink heavily. This scenario illustrates which specific concept related to social norms and behaviour?",
-    "options": [
-      "Conforming to the norm, where the individual's drinking aligns with the actual descriptive norm of his peer group despite subjective underestimation",
-      "Pluralistic ignorance, where most individuals falsely perceive heavy drinking as the norm in their community when in fact very few privately endorse the behaviour",
-      "Deviation from social norms, where the individual's drinking behaviour violates the broader societal norms against excessive alcohol consumption",
-      "Subculture normality, where a minority group legitimately replaces mainstream social norms with their own collectively endorsed standards of behaviour"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "In biology, human behaviour is believed to be controlled primarily by the _______________ system and the _______________ system.",
+    "answer": "endocrine / nervous",
+    "acceptableAnswers": [
+      "endocrine / nervous",
+      "nervous / endocrine"
+    ]
   },
   {
     "id": 73,
-    "type": "mcq",
-    "stem": "A psychiatric nursing examination question asks which statement MOST accurately reflects the relationship between complexity of nervous system organisation and behavioural complexity in organisms. Based on the biological foundations of behaviour, the nurse should select:",
-    "options": [
-      "Organisms with simpler nervous systems demonstrate more rigid and predictable behavioural patterns because they have fewer neural circuits available for adaptive response",
-      "The complexity of behaviour in an organism is correlated to the complexity of its nervous system, with more complex nervous systems enabling greater capacity for new learning and behavioural adjustment",
-      "Behavioural complexity is primarily determined by the endocrine system's hormonal regulation of motivational states rather than by neural circuit architecture",
-      "The nervous system provides basic reflexive responses while behavioural complexity is primarily determined by the organism's genetic endowment rather than neural organisation"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "The four common functions of behaviour are social attention, tangibles or activities, _______________, and _______________.",
+    "answer": "escape or avoidance / sensory stimulation",
+    "acceptableAnswers": [
+      "escape or avoidance / sensory stimulation",
+      "escape / sensory stimulation",
+      "avoidance / sensory stimulation"
+    ]
   },
   {
     "id": 74,
-    "type": "mcq",
-    "stem": "CASE SCENARIO: A mental health nurse is conducting a home visit for a 29-year-old woman who recently lost her job, broke up with her long-term partner, and moved back to her parents' home. She describes feeling 'trapped,' cannot make decisions about her future, and oscillates between excessive sleeping and sleeplessness. Her appetite is variable and she has stopped exercising. Which psychological phenomenon MOST precisely describes her presentation within the developmental framework, and what is the expected clinical trajectory without intervention?",
-    "options": [
-      "Midlife crisis arising from the simultaneous loss of multiple adult roles; the trajectory without intervention is typically progressive deterioration requiring pharmacological management",
-      "Quarter-life crisis, characterised by feelings of being lost, scared, lonely, or confused during the transition to adulthood; common symptoms include unemployment stress, loss of relationship, and difficulty living independently",
-      "Adjustment disorder with mixed emotional features arising from multiple concurrent stressors; expected to resolve spontaneously within six months without psychiatric intervention",
-      "Major depressive episode triggered by a combination of psychosocial stressors; the trajectory without intervention is significant functional deterioration requiring immediate psychiatric hospitalisation"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "Mental health refers to cognitive and emotional wellbeing and is about how we _______________, _______________, and behave.",
+    "answer": "think / feel",
+    "acceptableAnswers": [
+      "think / feel"
+    ]
   },
   {
     "id": 75,
-    "type": "mcq",
-    "stem": "A psychiatric nurse is reviewing the four functional types of neurones in the context of how the nervous system enables behavioural response. The nurse teaches that when a patient receives a painful stimulus, interprets it as a threat, and prepares a motor response, the sequence of neural events follows four steps. These steps in CORRECT order are:",
-    "options": [
-      "Interpretation, reception, execution, preparation â the stimulus is first interpreted consciously before the sensory organs register it formally",
-      "Reception, preparation, interpretation, execution â the nervous system must mobilise motor resources before cognitive processing can determine response appropriateness",
-      "Reception, interpretation, preparation, execution â sensory registration precedes cognitive processing, which triggers motor preparation before behavioural output",
-      "Execution, reception, interpretation, preparation â the body initiates a reflexive motor response before conscious interpretation of the stimulus is complete"
-    ],
-    "answer": "C"
+    "type": "fitb",
+    "stem": "The WHO definition of health includes complete physical, mental and _______________ well-being, not merely the absence of _______________.",
+    "answer": "social / disease",
+    "acceptableAnswers": [
+      "social / disease",
+      "social / illness"
+    ]
   },
   {
     "id": 76,
-    "type": "mcq",
-    "stem": "A psychiatric nurse is discussing intrapersonal versus interpersonal normality with a multidisciplinary team. A clinical psychologist argues that their patient's current behaviour, though dramatically different from his prior baseline, is not abnormal compared to population norms. The nurse correctly identifies this as an intrapersonal versus interpersonal normality distinction. Which statement MOST precisely differentiates these two concepts?",
-    "options": [
-      "Intrapersonal normality compares an individual's behaviour to their own prior baseline, while interpersonal normality compares behaviour against the broader population's most common patterns",
-      "Intrapersonal normality applies only to personality disorder assessment, while interpersonal normality is used in epidemiological studies of psychiatric prevalence in populations",
-      "Intrapersonal normality is measured using projective tests, while interpersonal normality is measured using objective standardised self-report personality assessments",
-      "Intrapersonal normality is equivalent to clinical normality defined by the DSM, while interpersonal normality represents statistical normality assessed using Gaussian distribution curves"
-    ],
-    "answer": "A"
+    "type": "fitb",
+    "stem": "The theory of psychological equilibrium views health as a _______________ in the process by which humans interact with the _______________.",
+    "answer": "balance / environment",
+    "acceptableAnswers": [
+      "balance / environment"
+    ]
   },
   {
     "id": 77,
     "type": "fitb",
-    "stem": "Mental illness is also called a _______________ disorder, or _______________ disorder, and is defined as a mental or behavioural pattern that causes distress or disability and which is not developmentally or socially normative.",
-    "answer": "mental / psychiatric",
-    "acceptableAnswers": ["mental / psychiatric", "psychiatric / mental"]
+    "stem": "A mental illness is also called a mental disorder or _______________ disorder and causes distress or _______________.",
+    "answer": "psychiatric / disability",
+    "acceptableAnswers": [
+      "psychiatric / disability",
+      "psychiatric / impairment"
+    ]
   },
   {
     "id": 78,
     "type": "fitb",
-    "stem": "According to the psychiatric literature, it is estimated that _______________ to _______________ percent of elders are in need of mental health care, yet elders account for only 7 percent of all inpatient psychiatric services.",
-    "answer": "18 / 25",
-    "acceptableAnswers": ["18 / 25", "eighteen / twenty-five"]
+    "stem": "The process of defining difficulties as medical conditions under professional authority is called _______________ or _______________.",
+    "answer": "medicalization / pathologization",
+    "acceptableAnswers": [
+      "medicalization / pathologization",
+      "medicalisation / pathologisation",
+      "pathologization / medicalization"
+    ]
   },
   {
     "id": 79,
     "type": "fitb",
-    "stem": "The Rorschach test involves showing a series of note cards with ambiguous _______________ on them, and the individual's unconscious needs are expected to emerge through their _______________ of the images.",
-    "answer": "ink blots / interpretations",
-    "acceptableAnswers": ["ink blots / interpretations", "inkblots / interpretations", "ink blots / responses"]
+    "stem": "Deviation from social norms must consider culture, _______________, age, _______________, and historical context.",
+    "answer": "situation and context / gender",
+    "acceptableAnswers": [
+      "situation and context / gender",
+      "situation / gender",
+      "context / gender"
+    ]
   },
   {
     "id": 80,
-    "type": "mcq",
-    "stem": "A psychiatric nurse is working with a patient who exhibits multiple futile adjustment mechanisms. The patient consistently exaggerates personal achievements to peers, engages in elaborate justifications for poor academic performance, and frequently daydreams about an idealised alternative life. Which COMBINATION of futile adjustment mechanisms is MOST precisely illustrated by this patient's behaviour?",
-    "options": [
-      "Teasing and cruelty, rationalising, and self-absorption and daydreaming as three distinct futile adjustment strategies operating concurrently",
-      "Bragging, rationalising, and self-absorption and daydreaming as three of the documented futile adjustment mechanisms described in personality adjustment literature",
-      "Timidity and bashfulness, lying, and capitalising on a defect as the core maladaptive adjustments being employed by this patient",
-      "Expressionism, pouting and temper tantrums, and rationalising as the predominant futile adjustment patterns expressed in this clinical scenario"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "FF means _______________ to _______________ adequately.",
+    "answer": "failure / function",
+    "acceptableAnswers": [
+      "failure / function",
+      "Failure / Function"
+    ]
   },
   {
     "id": 81,
-    "type": "mcq",
-    "stem": "A psychiatric nurse is conducting a mental status examination. The patient states that his sadness, 'moodiness,' and emotional instability began after a promotion that significantly increased his work stress. He reports overthinking situations constantly and difficulty relaxing even at home. He denies suicidal ideation. Based on Big Five personality theory, which trait dimension MOST accurately characterises the patient's longstanding pre-morbid personality, and which occupational environment would pose the GREATEST psychological risk for him?",
-    "options": [
-      "High neuroticism, which predisposes the individual to anxiety, mood swings, and stress reactivity; high-pressure leadership environments with unpredictable demands would present the greatest risk",
-      "Low conscientiousness, which reduces the individual's capacity for impulse control; academic or research environments with high cognitive demands would present the greatest risk",
-      "Low agreeableness, which generates interpersonal conflict; collaborative team environments requiring sustained empathy and prosocial engagement would present the greatest risk",
-      "High openness to experience, which causes over-stimulation; structured, routine-based environments that constrain creative expression would present the greatest risk"
-    ],
-    "answer": "A"
+    "type": "fitb",
+    "stem": "DIM means deviation from _______________ mental _______________.",
+    "answer": "ideal / health",
+    "acceptableAnswers": [
+      "ideal / health",
+      "Ideal / Health"
+    ]
   },
   {
     "id": 82,
-    "type": "mcq",
-    "stem": "CASE SCENARIO: During a psychiatric clinical placement, a student nurse witnesses a senior nurse dismiss an elderly patient's depressive symptoms saying: 'At 75, of course you're sad â your body is wearing out.' The student nurse recognises this as a significant clinical error. Which concept from the psychiatric literature on elderly mental health MOST accurately names this error, and what is its documented consequence for care delivery?",
-    "options": [
-      "Stigma, which causes elderly patients to internalise negative mental health stereotypes and resist treatment, leading to chronically unmet psychiatric needs",
-      "Ageism, where myths and misperceptions about older people by healthcare providers affect mental health service delivery, contributing to under-recognition and under-treatment of geriatric mental illness",
-      "Service fragmentation, where the absence of coordinated care causes elderly patients to fall between multiple healthcare systems without receiving appropriate mental health intervention",
-      "Primary care knowledge deficit, where physicians with inadequate geriatric training fail to recognise psychiatric symptoms, creating a systemic gap in elderly mental health service provision"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "In statistics, about _______________ percent lies within one standard deviation, while about _______________ percent lies within 1.96 standard deviations.",
+    "answer": "68.3 / 95.45",
+    "acceptableAnswers": [
+      "68.3 / 95.45",
+      "68.3% / 95.45%",
+      "68 / 95"
+    ]
   },
   {
     "id": 83,
-    "type": "mcq",
-    "stem": "A nursing instructor asks students which philosophical assumption of personality theory would be MOST directly tested by a longitudinal study demonstrating that traumatic childhood experiences reliably predict adult antisocial behaviour regardless of subsequent social environment. The CORRECT response is:",
-    "options": [
-      "Freedom versus Determinism, because the findings would suggest behaviour is causally determined by prior experiences rather than by the individual's conscious choice",
-      "Heredity versus Environment, because the findings would suggest that childhood environmental experiences, rather than genetics, are the primary determinant of adult personality",
-      "Optimistic versus Pessimistic, because the findings would suggest that childhood-determined personality patterns are resistant to change, reflecting a pessimistic view of human malleability",
-      "Uniqueness versus Universality, because the findings establish a universal developmental law linking trauma to antisocial outcomes that transcends individual uniqueness"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "Normality for one person is called _______________ normality, while comparison across people is _______________ normality.",
+    "answer": "intrapersonal / interpersonal",
+    "acceptableAnswers": [
+      "intrapersonal / interpersonal"
+    ]
   },
   {
     "id": 84,
     "type": "fitb",
-    "stem": "Behaviours can be either _______________ or learned. An example of the former includes basic survival reflexes, while the latter involves responses acquired through _______________ and environmental interaction.",
-    "answer": "innate / experience",
-    "acceptableAnswers": ["innate / experience", "innate / learning", "inborn / experience"]
+    "stem": "The five EBD models are biophysical, psychodynamic, cognitive, _______________, and _______________.",
+    "answer": "behavioral / ecological",
+    "acceptableAnswers": [
+      "behavioral / ecological",
+      "behavioural / ecological",
+      "ecological / behavioral",
+      "ecological / behavioural"
+    ]
   },
   {
     "id": 85,
     "type": "fitb",
-    "stem": "Mental health can be defined as an appropriate expression of emotions and a successful _______________ to a range of demands. It refers to cognitive and emotional wellbeing and is all about how we _______________, feel and behave.",
-    "answer": "adaptation / think",
-    "acceptableAnswers": ["adaptation / think"]
+    "stem": "Externalizing disorders involve under-controlled, acting-out behaviours such as fighting, bullying, _______________, and other forms of _______________.",
+    "answer": "cursing / violence",
+    "acceptableAnswers": [
+      "cursing / violence",
+      "swearing / violence"
+    ]
   },
   {
     "id": 86,
-    "type": "mcq",
-    "stem": "A psychiatric nurse is teaching about the characteristics of good mental health. A patient asks which characteristic would MOST distinguish a person with good mental health from one who is emotionally maladjusted when facing a significant professional setback. Based on the listed characteristics of good mental health, the nurse's MOST accurate answer is:",
-    "options": [
-      "Having a feeling of belonging to a group, because social connectivity provides the emotional buffer necessary to metabolise professional disappointments without psychological decompensation",
-      "Ability to face life's disappointments without losing control of oneself, reflecting emotional resilience as a core characteristic of good mental health",
-      "Ability to plan ahead, because future-oriented thinking prevents rumination on past failures and redirects cognitive resources toward adaptive goal-setting",
-      "Self-respect, because a stable self-concept insulates the individual against the ego-threatening implications of professional failure and social evaluation"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "The quarter-life crisis is usually from the late teens to the early _______________ and is associated with becoming an _______________.",
+    "answer": "thirties / adult",
+    "acceptableAnswers": [
+      "thirties / adult",
+      "30s / adult"
+    ]
   },
   {
     "id": 87,
-    "type": "mcq",
-    "stem": "A nurse educator uses the sociological framework of Ãmile Durkheim to explain why certain widespread psychiatric behaviours, such as anxiety in modern societies, might paradoxically be classified as 'normal' by his model. Which statement BEST captures the two-fold version of normality Durkheim described?",
-    "options": [
-      "Behaviours are normal if they serve an adaptive function for the individual, and abnormal if they produce systemic social dysfunction at the population level",
-      "A behaviour considered normal at the societal level because of its frequency may still be considered pathological at the individual level if the person violates social norms and faces communal punishment",
-      "Durkheim's model classifies all statistically common behaviours as individually and collectively normal, making psychiatric classification unnecessary for any behaviour that exceeds a 50% population prevalence",
-      "Societal normality and individual normality are always congruent, because Durkheim's model holds that societies develop norms that optimise the psychological functioning of their members"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "Erikson associated young adulthood with the crisis of _______________ versus _______________.",
+    "answer": "intimacy / isolation",
+    "acceptableAnswers": [
+      "intimacy / isolation",
+      "Intimacy / Isolation"
+    ]
   },
   {
     "id": 88,
-    "type": "mcq",
-    "stem": "A psychiatric nursing student is reviewing adjustment concepts. She reads that adjustment disorder occurs when there is an inability to make a normal adjustment to some need or stress in the environment. She then assesses a patient who, after starting a new high-pressure job six weeks ago, began eating three times his normal food intake and sleeping excessively. This patient's eating and sleeping are understood as adjustment responses. According to the theory of adjustment, this behaviour MOST represents which mechanism?",
-    "options": [
-      "Escape or avoidance function, where excessive eating and sleeping serve to reduce the aversive physiological arousal associated with occupational stress",
-      "The basic adjustment mechanism where humans, stimulated by a physiological or psychological state, perform a behaviour to satisfy the need and reduce the drive",
-      "A futile adjustment through self-absorption, where the patient withdraws into bodily self-focus as a maladaptive strategy to manage environmental demands",
-      "Tangible function, where eating and sleeping represent access to pleasurable reinforcers that provide temporary relief from the aversive demands of the work environment"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "Menopause occurs when menstruation ceases and the ovaries stop producing _______________; the most common symptom mentioned is _______________.",
+    "answer": "estrogen / hot flashes",
+    "acceptableAnswers": [
+      "estrogen / hot flashes",
+      "oestrogen / hot flushes",
+      "estrogen / hot flushes"
+    ]
   },
   {
     "id": 89,
-    "type": "mcq",
-    "stem": "CASE SCENARIO: A 42-year-old woman is referred to the psychiatric outpatient clinic. She reports feeling 'trapped and irritable,' has lost interest in intimacy with her husband, makes mysterious late-night phone calls, and has recently become preoccupied with her physical appearance to an unusual degree. Her husband suspects she is having an affair. As a psychiatric nurse, applying the literature on midlife crisis presentations, which statement MOST accurately guides your nursing assessment?",
-    "options": [
-      "These behaviours are consistent with a genuine midlife crisis triggered by a drastic life-altering event, and require urgent psychiatric hospitalisation to prevent self-harm",
-      "A midlife crisis is more likely if a precipitating drastic event such as bereavement or job loss is identified; however, the described behaviours could alternatively indicate a major depressive episode or relationship crisis requiring comprehensive assessment",
-      "The described behaviours confirm a midlife crisis because they represent a sudden personality change, regression to earlier life patterns, and preoccupation with physical attractiveness typical of the condition",
-      "Midlife crises in women are rare compared to men and are typically misdiagnosed as mood disorders; the priority intervention is couples counselling to address the interpersonal conflict"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "Elders account for only _______________ percent of inpatient psychiatric services and _______________ percent of community mental health services.",
+    "answer": "7 / 6",
+    "acceptableAnswers": [
+      "7 / 6",
+      "7% / 6%"
+    ]
   },
   {
     "id": 90,
     "type": "fitb",
-    "stem": "According to the biological foundations of human behaviour, the nervous system is divided into four major parts: nervous matter in the head, _______________ and spinal cord, nerves connecting the cerebro-spinal system with other organs, and the _______________ system, which controls vital processes such as circulation and breathing.",
-    "answer": "brain stem / autonomic",
-    "acceptableAnswers": ["brain stem / autonomic"]
+    "stem": "It is estimated that _______________ to _______________ percent of elders need mental health care.",
+    "answer": "18 / 25",
+    "acceptableAnswers": [
+      "18 / 25",
+      "18% / 25%",
+      "eighteen / twenty-five"
+    ]
   },
   {
     "id": 91,
     "type": "fitb",
-    "stem": "Neurones are of three functional types: _______________ neurones, which carry information from the environment to the central nervous system; _______________ neurones, which carry signals to effector organs; and association neurones.",
-    "answer": "sensory / motor",
-    "acceptableAnswers": ["sensory / motor"]
+    "stem": "Personality originates from the Latin word _______________, meaning _______________.",
+    "answer": "persona / mask",
+    "acceptableAnswers": [
+      "persona / mask"
+    ]
   },
   {
     "id": 92,
-    "type": "mcq",
-    "stem": "A psychiatric nurse is preparing a question bank on personality disorders. She frames a question around the 'Optimistic versus Pessimistic' philosophical assumption and asks which personality theory would be classified as MOST pessimistic regarding the capacity for personality change. The answer consistent with the theoretical literature is:",
-    "options": [
-      "Social learning theory, because it attributes personality to reinforced habits that can be reversed through behavioural modification but only within a narrow developmental window",
-      "Humanistic theory, because it assumes individuals naturally resist growth opportunities unless therapeutic conditions of unconditional positive regard are meticulously maintained",
-      "Theories that place little emphasis on learning, because they view personality as primarily biologically or constitutionally determined and thus less amenable to therapeutic modification",
-      "Cognitive theory, because its focus on entrenched schema formation implies that early maladaptive thought patterns are resistant to change without intensive long-term psychotherapy"
-    ],
-    "answer": "C"
+    "type": "fitb",
+    "stem": "Allport described _______________ psychology as seeking general laws and _______________ psychology as studying the unique individual.",
+    "answer": "nomothetic / idiographic",
+    "acceptableAnswers": [
+      "nomothetic / idiographic"
+    ]
   },
   {
     "id": 93,
-    "type": "mcq",
-    "stem": "A mental health nurse is reviewing the definition of mental health according to Medilexicon's medical dictionary. The definition includes 'emotional, behavioural, and social maturity or normality' and 'an appropriate balance of love, work, and leisure pursuits.' A patient asks what aspect of the definition addresses the concept of harmoniously integrating personal desires with socially acceptable expressions. The nurse should identify which component of the definition as MOST relevant?",
-    "options": [
-      "Emotional, behavioural, and social maturity, which encompasses the capacity to regulate impulses and desires in ways that are consistent with social expectations",
-      "Achieving a satisfactory integration of one's instinctual drives acceptable to both oneself and one's social milieu, directly addressing the harmonisation of personal impulses with social acceptability",
-      "The absence of a mental or behavioural disorder, which implies that successful impulse regulation naturally follows from the absence of psychiatric pathology",
-      "An appropriate balance of love, work, and leisure, which provides the structural framework within which personal drives are channelled into socially productive domains"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "The two major types of personality tests are _______________ and _______________.",
+    "answer": "projective / objective",
+    "acceptableAnswers": [
+      "projective / objective",
+      "objective / projective"
+    ]
   },
   {
     "id": 94,
-    "type": "mcq",
-    "stem": "A nurse is preparing a seminar on personality research and its clinical applications. She explains that personality assessments can predict health behaviours and coping styles. A patient with high neuroticism asks whether his trait predisposes him to specific health-related risks. The nurse's MOST evidence-based response is:",
-    "options": [
-      "High neuroticism is associated with more frequent doctor visits and better health monitoring due to heightened health vigilance and anxiety about physical symptoms",
-      "High neuroticism is associated with worse health outcomes because neurotic individuals overthink health threats, have difficulty relaxing, and are more susceptible to stress-induced physical illness",
-      "High neuroticism is clinically neutral because research has not established a consistent relationship between this trait and objective health status or healthcare utilisation patterns",
-      "High neuroticism is protective against health risks because the constant vigilance and overthinking associated with the trait enables early detection of developing medical conditions"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "Projective tests assume personality is primarily _______________ and use a/an _______________ stimulus.",
+    "answer": "unconscious / ambiguous",
+    "acceptableAnswers": [
+      "unconscious / ambiguous",
+      "unconscious / ambiguous stimulus"
+    ]
   },
   {
     "id": 95,
-    "type": "mcq",
-    "stem": "CASE SCENARIO: A nurse receives a newly admitted patient with schizophrenia who is also 74 years old. The patient's family reports that he has been managed at home without formal psychiatric services for years. The nurse is aware that elders account for only 7% of inpatient psychiatric services despite a much higher need. The PRIMARY reason elders significantly underutilise mental health services relative to their prevalence of psychiatric disorders is BEST explained by which COMBINATION of factors?",
-    "options": [
-      "Cognitive decline reducing health-seeking behaviour combined with physical comorbidities competing for clinical attention, leaving psychiatric needs systematically unaddressed",
-      "Stigma, ageism from healthcare providers, inadequately trained primary care physicians, fragmented services, and lack of organised psychiatric advocacy for the elderly collectively creating multiple barriers",
-      "Cost of psychiatric services combined with fixed retirement income limiting the elderly's ability to access mental health care in privatised healthcare systems",
-      "Cultural norms in older generations that prioritise stoicism and self-reliance, combined with a preference for religious or spiritual rather than biomedical explanations of psychological distress"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "The Big Five acronym OCEAN stands for Openness, Conscientiousness, Extraversion, _______________, and _______________.",
+    "answer": "Agreeableness / Neuroticism",
+    "acceptableAnswers": [
+      "Agreeableness / Neuroticism",
+      "agreeableness / neuroticism"
+    ]
   },
   {
     "id": 96,
-    "type": "mcq",
-    "stem": "A psychiatric nurse is reviewing the sociological perspective on behaviour. According to the sociological definition, behaviour is considered as having no inherent meaning, not directed at other people, and represents the most basic human action. In contrast, in psychology, human behaviour can be common, unusual, acceptable, or unacceptable, and is regulated using social control. Which of the following MOST precisely reflects the sociological view of behaviour's role in psychiatric diagnosis?",
-    "options": [
-      "Sociology views all behaviour as pathological because it operates outside the framework of socially directed meaning and intentionality required for psychiatric classification",
-      "Sociological behaviour, defined as undirected action without social meaning, can nonetheless play a part in diagnosing disorders such as autism spectrum disorders despite lacking intentional social orientation",
-      "The sociological view holds that undirected behaviour is inherently normal and cannot contribute to psychiatric diagnoses because it lacks the social intent required for clinical interpretation",
-      "Sociological behaviour is equivalent to what psychology classifies as involuntary behaviour and therefore falls exclusively under the purview of neurological rather than psychiatric assessment"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "The Big Five theory emerged in _______________ and was developed by _______________.",
+    "answer": "1949 / D. W. Fiske",
+    "acceptableAnswers": [
+      "1949 / D. W. Fiske",
+      "1949 / Fiske",
+      "1949 / DW Fiske"
+    ]
   },
   {
     "id": 97,
     "type": "fitb",
-    "stem": "According to the psychological adjustment literature, some adjustments that thwart development include capitalising on a defect, _______________, self-absorption and daydreaming, _______________, and flight into reality.",
-    "answer": "rationalizing / expressionism",
-    "acceptableAnswers": ["rationalizing / expressionism", "rationalising / expressionism"]
+    "stem": "The highest Big Five heritability estimate listed is for _______________ at _______________ percent.",
+    "answer": "openness / 61",
+    "acceptableAnswers": [
+      "openness / 61",
+      "Openness / 61",
+      "openness / 61%"
+    ]
   },
   {
     "id": 98,
     "type": "fitb",
-    "stem": "In clinical normality, the 'normal zone' commonly accounts for _______________ percent of all data, while any case lying outside _______________ standard deviations from the mean would be considered statistically abnormal.",
-    "answer": "95.45 / two",
-    "acceptableAnswers": ["95.45 / two", "95.45 / 2"]
+    "stem": "Freud's two basic drives are also called _______________ and _______________.",
+    "answer": "Eros / Thanatos",
+    "acceptableAnswers": [
+      "Eros / Thanatos",
+      "life / death",
+      "life instincts / death instincts"
+    ]
   },
   {
     "id": 99,
-    "type": "mcq",
-    "stem": "A psychiatric nurse is discussing Freud's early theoretical development with nursing students. She explains that Freud concluded that life instincts alone could not explain all human behaviour, which led to the formulation of the death instinct. A student asks what specific clinical observation prompted Freud to postulate the existence of the death instinct. The nurse's MOST accurate response is:",
-    "options": [
-      "Freud observed that aggressive patients consistently directed violent ideation toward authority figures, suggesting an outwardly directed destructive drive independent of libidinal motivation",
-      "Freud observed that people who experienced traumatic events such as war frequently re-enacted the traumatic experience, leading him to conclude that an unconscious desire toward self-destruction existed",
-      "Freud observed that suicidal patients described an overwhelming sense of peace rather than dread, suggesting that self-directed aggression was experienced as pleasurable rather than aversive",
-      "Freud identified that most human motivation could be explained by libido alone, and the death instinct was formulated theoretically rather than based on specific clinical observations"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "The energy created by the life instincts is called _______________, while outwardly directed death-instinct energy appears as _______________.",
+    "answer": "libido / aggression",
+    "acceptableAnswers": [
+      "libido / aggression",
+      "libido / violence",
+      "libido / aggression and violence"
+    ]
   },
   {
     "id": 100,
-    "type": "mcq",
-    "stem": "A senior psychiatric nurse is conducting an NCLEX-preparatory session on abnormal behaviour. She presents this scenario: A 40-year-old CEO routinely sleeps only 3 hours nightly, believes he possesses unique insights unavailable to others, has begun multiple new business ventures simultaneously, speaks in an uninterruptibly rapid manner, and has withdrawn all personal savings for a new investment that his financial advisors consider catastrophically risky. His family reports he has not been himself for the past 3 weeks. Using the multi-criteria approach, ALL of the following criteria for abnormal behaviour apply EXCEPT:",
-    "options": [
-      "Statistical infrequency, because sleeping 3 hours nightly and grandiose risk-taking are rare in the general population",
-      "Failure to function adequately, because financial risk-taking and sleep deprivation impair his capacity for occupational and personal functioning",
-      "Observer discomfort, because his family's report of distress in response to his changed behaviour satisfies this criterion",
-      "Maladaptivity, because his behaviours are career-enhancing and financially productive in his subjective experience, making the criterion entirely inapplicable to his presentation"
-    ],
-    "answer": "D"
+    "type": "fitb",
+    "stem": "Response to external stimuli involves four steps: reception, _______________, preparation, and _______________.",
+    "answer": "interpretation / execution",
+    "acceptableAnswers": [
+      "interpretation / execution"
+    ]
   }
 ]
