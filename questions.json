@@ -1,1149 +1,926 @@
-
 [
   {
     "id": 1,
     "type": "mcq",
-    "stem": "A nurse observes a client who repeatedly injures his forearm immediately before group recreational activity. The client does not seek attention, does not request objects, and stops when allowed to remain indoors. Which function of behaviour is MOST strongly suggested?",
+    "stem": "A 7-year-old boy is brought to the paediatric emergency unit after falling from a bicycle. X-ray reveals that the bone is partially broken on one side but intact on the other, with no complete discontinuity of bone tissue. The radiologist describes the bone as having 'split apart on the side opposite the applied force.' Which fracture type does this MOST accurately describe, and what is the PRIMARY tissue characteristic that explains this fracture pattern?",
     "options": [
-      "Sensory stimulation",
-      "Social attention",
-      "Escape or avoidance",
-      "Tangible reinforcement"
+      "Transverse fracture; the perpendicular force applied to the bone shaft produces a clean horizontal break through both cortical and medullary canal structures",
+      "Greenstick fracture; children's bones contain proportionately more collagen than adult bones, causing the collagen fibres to hold bone tissue together so the bone splits rather than breaking completely",
+      "Comminuted fracture; the high proportion of calcium phosphate in children's bones allows the bone to fragment into multiple pieces without producing a complete cortical breach"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 2,
     "type": "mcq",
-    "stem": "A child screams until the mother buys a phone charger, but the same child remains calm when the charger is already available. Which behavioural function is being maintained?",
+    "stem": "A nurse educator is teaching about compact bone structure. She states that osteons are the functional units of compact bone. Which of the following MOST accurately describes the architectural relationship between the central canal and the lamellae within a single osteon?",
     "options": [
-      "Escape from demand",
-      "Access to tangible item",
-      "Internal sensory relief",
-      "Observer discomfort"
+      "The central canal runs perpendicular to the lamellae and connects adjacent osteons through perforating canals, allowing lymphatic drainage from the endosteum to the periosteum",
+      "The central canal is surrounded by a series of expanding rings called lamellae, similar to growth rings of a tree, and the entire unit constitutes one Haversian system",
+      "The central canal contains only lymphatics and is encircled by lacunae arranged concentrically, each housing an osteoclast that maintains the canal's patency during bone remodelling"
     ],
     "answer": "B"
   },
   {
     "id": 3,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A 26-year-old nurse reports feeling mentally healthy because she has no psychiatric diagnosis. However, she cannot tolerate frustration, mistrusts everyone, and cannot maintain any role responsibilities. Which statement BEST critiques her definition?",
+    "stem": "CASE SCENARIO: A 45-year-old postmenopausal woman presents with chronic back pain and is found on DEXA scan to have significant bone loss. Her oestrogen levels are markedly low. Based on the hormonal regulation of bone growth, which mechanism MOST directly explains her accelerated bone loss following menopause?",
     "options": [
-      "Absence of diagnosable illness alone is insufficient because mental health also involves adaptation, resilience, relationships, and productive functioning",
-      "Her definition is correct because mental wellness is strictly the lack of mental disorder",
-      "She is mentally healthy because lack of psychosis excludes mental illness",
-      "Her symptoms prove mental illness only if they are statistically rare"
+      "Reduced oestrogen impairs the absorption of calcium from the gastrointestinal tract by reducing the activation of vitamin D in the renal cortex, thereby limiting the mineral available for osteoid mineralisation",
+      "Reduced oestrogen levels allow osteoclast activity to become relatively dominant over osteoblast activity, and oestrogen normally helps maintain bone mass by stimulating bone formation throughout adulthood",
+      "Reduced oestrogen increases parathyroid hormone secretion, which directly stimulates the deposition of calcium phosphate into existing osteoid matrix at the periosteal surface"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 4,
     "type": "mcq",
-    "stem": "A patient performs a culturally sanctioned mourning ritual involving loud public wailing. The nurse feels embarrassed and labels it abnormal. Which criterion is the nurse misusing?",
+    "stem": "A nursing student is asked to explain why spongy bone does not require a central canal system as compact bone does. The MOST accurate anatomical explanation is:",
     "options": [
-      "Clinical diagnosis",
-      "Cultural deviation",
-      "Observer discomfort",
-      "Failure to function"
+      "Spongy bone is avascular and relies on simple diffusion of nutrients through the calcified trabeculae, making a central canal unnecessary for metabolic support of its osteocytes",
+      "The canaliculi within spongy bone open directly onto the surface of the trabeculae, allowing rapid diffusion of nutrients, gases, and wastes between osteocytes and the blood supply within the red bone marrow spaces",
+      "Spongy bone contains osteoclasts rather than osteocytes, and osteoclasts receive their metabolic support directly from the surrounding red bone marrow without requiring a structured canal network"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 5,
     "type": "mcq",
-    "stem": "A 45-year-old man refuses work promotion because he believes advancement will destroy his moral peace. He functions well, is not distressed, and his culture values humility. Which criterion would be WEAKEST for calling this abnormal?",
+    "stem": "During a clinical ward round, a surgical nurse notes that a patient's X-ray shows a fracture where the break occurs at a diagonal, as the result of a diagonal or twisting force. The bone has not fragmented into multiple pieces. Which fracture type is MOST consistent with this description, and how does it differ from a spiral fracture?",
     "options": [
-      "Morality",
-      "Statistical infrequency",
-      "Failure to function adequately",
-      "Deviation from ideal mental health"
+      "Transverse fracture; unlike a spiral fracture that is S-shaped, a transverse fracture breaks perpendicular to the long axis whereas the diagonal pattern represents the bone's response to a shearing force",
+      "Oblique fracture; the break occurs diagonally as the result of a diagonal twisting force, whereas a spiral fracture is typically caused by a rotational twisting force and wraps around the long axis of the bone",
+      "Comminuted fracture; unlike a spiral fracture which involves a single diagonal line, a comminuted fracture shatters the bone diagonally by a direct traumatic force exceeding the bone's tensile threshold"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 6,
-    "type": "mcq",
-    "stem": "A psychiatric examiner classifies a highly gifted student as abnormal solely because her IQ is far above the mean. Which limitation of statistical infrequency is demonstrated?",
-    "options": [
-      "It ignores whether the rare trait is desirable or undesirable",
-      "It cannot identify rare behaviour",
-      "It applies only to physical illness",
-      "It requires cultural endorsement"
-    ],
-    "answer": "A"
+    "type": "fitb",
+    "stem": "When a bone is fractured into three or more pieces, the fracture is said to be _______________.",
+    "answer": "comminuted",
+    "acceptableAnswers": ["comminuted", "a comminuted fracture"]
   },
   {
     "id": 7,
-    "type": "mcq",
-    "stem": "CASE SCENARIO: A widow cries daily two weeks after her husband's death but eats, sleeps, attends family meetings, and seeks comfort. Using DIM, why should this not automatically be classified abnormal?",
-    "options": [
-      "Because bereavement cannot ever cause psychiatric disorder",
-      "Because everyone deviates from ideal mental health at some point, and context matters",
-      "Because sadness is statistically common and therefore always normal",
-      "Because DIM applies only to children"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "Bone tissue is a specialised _______________ tissue formed mainly from a heavily mineralised collagen matrix.",
+    "answer": "connective",
+    "acceptableAnswers": ["connective"]
   },
   {
     "id": 8,
-    "type": "mcq",
-    "stem": "A student says: 'DSM diagnosis removes politics from mental health because all disorders are purely objective.' Which response is MOST accurate?",
-    "options": [
-      "Correct; DSM criteria eliminate value judgment",
-      "Incorrect; classifications may involve context, history, and value judgments",
-      "Correct; DSM makes culture irrelevant",
-      "Incorrect; DSM is used only for personality testing"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "The outer (superficial) fibrous layer of the periosteum is _______________ and _______________, and protects the underlying bone.",
+    "answer": "tough / protective",
+    "acceptableAnswers": ["tough / protective", "tough / strong", "fibrous / tough"]
   },
   {
     "id": 9,
     "type": "mcq",
-    "stem": "A man is quiet at work, quiet at church, and quiet at home over many years. Which trait criterion is MOST clearly demonstrated?",
+    "stem": "A pathology student is reviewing a histological slide of bone tissue. She notes a large multinucleated cell with up to 50 nuclei adjacent to a bony surface showing evidence of recent resorption. Based on the microscopic structure of bone, this cell is MOST likely:",
     "options": [
-      "Individual difference only",
-      "Stability only",
-      "Consistency and stability",
-      "Universality and heredity"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": 10,
-    "type": "mcq",
-    "stem": "A patient is talkative only when intoxicated but normally quiet in all sober situations. Which conclusion is MOST defensible?",
-    "options": [
-      "Talkativeness is clearly his stable personality trait",
-      "Talkativeness may be state-related rather than a consistent trait",
-      "He has high extraversion by definition",
-      "He has low neuroticism"
+      "An osteoblast that has failed to become entrapped in osteoid matrix and instead enlarged by polyploidisation to increase its bone-forming synthetic capacity at sites of active remodelling",
+      "An osteoclast formed from the fusion of many monocytes, responsible for breaking bone down by releasing calcium and phosphate, and found in areas of active growth, repair, or remodelling",
+      "An osteocyte that has de-differentiated in response to bone damage and re-entered the cell cycle, fusing with adjacent osteocytes to form a syncytial resorptive unit at the bone surface"
     ],
     "answer": "B"
   },
   {
+    "id": 10,
+    "type": "mcq",
+    "stem": "A nurse is explaining bone classification to a first-year nursing student. The student asks why the patella is classified as a sesamoid bone rather than a flat or irregular bone. The MOST accurate explanation is:",
+    "options": [
+      "The patella is classified as sesamoid because it is embedded in the quadriceps tendon and forms within the patellar tendon, making it the most common example of a bone that develops entirely within a tendon",
+      "The patella is classified as sesamoid because it contains spongy bone only at its periphery, and its flat articular surface places it anatomically between flat and sesamoid bone classifications",
+      "The patella is classified as sesamoid because it lacks a periosteal covering on its posterior articular surface and is partially enclosed within fibrocartilage rather than within a tendon proper"
+    ],
+    "answer": "A"
+  },
+  {
     "id": 11,
     "type": "mcq",
-    "stem": "A client interprets every ambiguous picture as betrayal by family members. According to projective-test theory, the responses are interpreted as reflecting:",
+    "stem": "CASE SCENARIO: A 32-year-old male construction worker sustains a high-velocity injury to his tibia. X-ray reveals the bone has been shattered into multiple fragments by a direct traumatic force. The orthopaedic nurse explains that this type of fracture is associated with the HIGHEST risk of complications including vascular injury and non-union. Which fracture type is described, and why does it carry the highest complication risk?",
     "options": [
-      "Conscious mathematical reasoning",
-      "Unconscious motives or conflicts",
-      "Objective self-report accuracy",
-      "Guaranteed diagnostic proof"
+      "Spiral fracture; the rotational twisting mechanism that produces the fracture also strips the periosteum from the bone shaft, devascularising the fracture fragments and impeding healing",
+      "Comminuted fracture; the bone is splintered or shattered into three or more fragments, usually by a traumatic force, making anatomical reduction and stable fixation difficult and increasing the risk of avascular necrosis",
+      "Oblique fracture; the diagonal fracture line creates a large surface area of bone-to-bone contact that increases the risk of fat embolism syndrome and delayed union at the fracture site"
     ],
     "answer": "B"
   },
   {
     "id": 12,
     "type": "mcq",
-    "stem": "Which limitation makes objective personality testing vulnerable in a job applicant trying to appear emotionally perfect?",
+    "stem": "During embryonic development, most bones of the skeleton are laid down as cartilage before being converted to bone. This conversion process is called:",
     "options": [
-      "Objective tests use only ambiguous stimuli",
-      "Objective tests cannot be scored",
-      "Objective tests depend on honest and accurate self-report",
-      "Objective tests measure only unconscious drives"
+      "Intramembranous ossification, which involves the direct replacement of a fibrous connective tissue membrane by bone tissue, as occurs in the flat bones of the skull and the mandible",
+      "Ossification, which is the conversion of cartilage to bone by specialised bone-building cells called osteoblasts that secrete osteoid, which is then mineralised by calcium and phosphate salts",
+      "Endochondral osteogenesis, which begins with the formation of a hyaline cartilage model that is progressively replaced by compact bone starting at primary centres of ossification in the diaphysis"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 13,
-    "type": "mcq",
-    "stem": "A nurse wants the test with stronger general reliability and validity compared with projective methods. Which should she choose?",
-    "options": [
-      "Rorschach only",
-      "Thematic Apperception Test only",
-      "Objective self-report personality test",
-      "Unscored free association interview"
-    ],
-    "answer": "C"
+    "type": "fitb",
+    "stem": "About _______________ of the body's total bone mass is spongy (cancellous) bone, and to the naked eye spongy bone resembles a _______________.",
+    "answer": "20% / honeycomb",
+    "acceptableAnswers": ["20% / honeycomb", "20 percent / honeycomb", "one fifth / honeycomb"]
   },
   {
     "id": 14,
-    "type": "mcq",
-    "stem": "CASE SCENARIO: A 30-year-old patient reports severe distress from thoughts of contamination and spends 5 hours washing daily, losing employment. What distinguishes this from mere obsession?",
-    "options": [
-      "Presence of intelligence",
-      "Unrelenting compulsion causing impairment",
-      "Cultural disapproval alone",
-      "Absence of anxiety"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "The inner (deep) layer of the periosteum is rich in blood vessels and in _______________, the cells responsible for bone production and _______________.",
+    "answer": "osteoblasts / breakdown",
+    "acceptableAnswers": ["osteoblasts / breakdown", "osteoblasts / remodelling", "osteoblasts / resorption"]
   },
   {
     "id": 15,
-    "type": "mcq",
-    "stem": "A person is labelled mentally ill and then becomes ashamed, socially isolated, and avoided by employers. Which effect is MOST directly illustrated?",
-    "options": [
-      "Medicalization without stigma",
-      "Labelling leading to marginalization and internalized shame",
-      "Normal distribution error",
-      "Psychological equilibrium"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "Long bones have a diaphysis (shaft) and two epiphyses (extremities). The diaphysis is composed mainly of _______________ bone, with a central medullary canal containing _______________ yellow bone marrow.",
+    "answer": "compact / fatty",
+    "acceptableAnswers": ["compact / fatty"]
   },
   {
     "id": 16,
     "type": "mcq",
-    "stem": "Which example BEST shows medicalization?",
+    "stem": "A paediatric nurse is counselling the parents of a 10-year-old child who sustained an injury close to the end of a long bone. The orthopaedic surgeon warns that this injury may affect the child's future bone length. What anatomical structure is MOST likely damaged, and why is this clinically significant?",
     "options": [
-      "Calling sadness after bereavement a social ritual",
-      "Treating ordinary life difficulties as medical problems under professional authority",
-      "Comparing one person's behaviour with their own past behaviour",
-      "Using social norms to guide table manners"
+      "The medullary canal, because damage to the central fatty yellow bone marrow disrupts the haematopoietic reserve required for fracture healing and may permanently reduce erythropoietic capacity",
+      "The epiphyseal (growth) plate, because this is a plate of cartilage at each end of the bone that separates the epiphysis from the diaphysis and is the site of bone lengthening during childhood and adolescence",
+      "The periosteum, because its inner osteoblastic layer is the sole source of new bone formation in children, and damage to it eliminates the capacity for appositional bone growth at the affected site"
     ],
     "answer": "B"
   },
   {
     "id": 17,
     "type": "mcq",
-    "stem": "A patient believes a spiritual vision is real. The belief is widely shared in his religious group and causes no disability. Which interpretation is MOST appropriate?",
+    "stem": "A nurse is reviewing the microscopic structure of compact bone with a student. She explains that the functional unit of compact bone is the osteon (Haversian system). Each osteon is connected to neighbouring osteons by canals running at right angles to the central canal. These connecting canals are called:",
     "options": [
-      "Automatically delusional",
-      "Not evidence of mental disorder solely because it has strong cultural basis",
-      "Abnormal because statistically rare worldwide",
-      "Psychotic because all visions are pathological"
+      "Canaliculi, because these tiny channels connect adjacent lacunae to each other and allow interstitial fluid circulation between osteocytes and the vascular supply within the central canal",
+      "Perforating (Volkmann's) canals, because these canals run at right angles between neighbouring osteons and link the central canals of adjacent Haversian systems to each other",
+      "Haversian canals, because all longitudinal channels within the osteon system are collectively referred to by this term regardless of their directional orientation relative to the bone shaft"
     ],
     "answer": "B"
   },
   {
     "id": 18,
     "type": "mcq",
-    "stem": "In Durkheim's view, why may crime be considered normal at the societal level?",
+    "stem": "CASE SCENARIO: A 16-year-old elite female gymnast presents to the sports medicine clinic. Despite intensive training from age 6, she is shorter than both biological parents. Her coach notes she began training before puberty and has competed at national level. Bone age X-ray reveals her epiphyseal plates have closed prematurely. Which hormonal mechanism MOST directly explains premature epiphyseal plate closure in this patient?",
     "options": [
-      "Because it is morally good",
-      "Because it appears across societies and time periods",
-      "Because it improves individual mental health",
-      "Because it is clinically adaptive"
+      "Chronic elevation of growth hormone secondary to intensive physical training stimulates premature osteoblastic activity at the epiphyseal plate, accelerating cartilage mineralisation and plate closure ahead of the expected developmental timeline",
+      "Under the influence of sex hormones at puberty, cartilage production in the epiphyseal plate slows and is overtaken by the rate of ossification, turning the plate to bone; premature hormonal changes or stressors can accelerate this process",
+      "Elevated calcitonin levels produced in response to mechanical loading during intensive training suppress parathyroid hormone, reducing osteoclast activity and allowing osteoblasts to permanently mineralise the epiphyseal cartilage"
     ],
     "answer": "B"
   },
   {
     "id": 19,
     "type": "mcq",
-    "stem": "A behaviour is common in a society but punishable when performed by an individual. This BEST reflects:",
+    "stem": "A ward nurse notes that a patient's bone biopsy report describes cells that 'do not divide, monitor and maintain mature bone tissue, and de-differentiate into osteoblasts in the event of bone damage or disease.' Which bone cell type is described, and what is its PRIMARY structural location?",
     "options": [
-      "Durkheim's two-fold normality",
-      "Objective personality testing",
-      "Sensory stimulation",
-      "Libido displacement"
-    ],
-    "answer": "A"
-  },
-  {
-    "id": 20,
-    "type": "mcq",
-    "stem": "Which example MOST clearly represents intrapersonal abnormality?",
-    "options": [
-      "A shy person remains shy for 20 years",
-      "A normally sociable lecturer suddenly becomes mute and withdrawn",
-      "A population has varied eating habits",
-      "A religious subgroup avoids alcohol"
+      "Osteoblasts, found primarily in the periosteum and at fracture sites, where they deposit new bone tissue around themselves and eventually become trapped in tiny pockets called lacunae as the matrix mineralises",
+      "Osteocytes, which are mature bone cells located in lacunae within the bone matrix, connected to each other via canaliculi, that monitor and maintain mature bone and can de-differentiate to rebuild or repair the bone",
+      "Osteoclasts, located on the internal surfaces of the medullary canal, that maintain mature bone by resorbing mineralised matrix and releasing stored calcium and phosphate into the systemic circulation"
     ],
     "answer": "B"
   },
   {
+    "id": 20,
+    "type": "fitb",
+    "stem": "Compact bone makes up about _______________ of the body's total bone mass, and its microscopic structure consists of a large number of parallel tube-shaped units called _______________ (Haversian systems).",
+    "answer": "80% / osteons",
+    "acceptableAnswers": ["80% / osteons", "80 percent / osteons", "eighty percent / osteons"]
+  },
+  {
     "id": 21,
-    "type": "mcq",
-    "stem": "A student says normality is fixed once society defines it. Which correction is BEST?",
-    "options": [
-      "Normality varies by person, time, place, situation, and culture",
-      "Normality is identical in all societies",
-      "Normality is only a mathematical term",
-      "Normality cannot involve value judgment"
-    ],
-    "answer": "A"
+    "type": "fitb",
+    "stem": "In long bone development, ossification begins in small nests of osteogenic cells called _______________ of ossification, and the blood supply to the shaft develops at about _______________ weeks of gestation.",
+    "answer": "centres / 8",
+    "acceptableAnswers": ["centres / 8", "centers / 8", "centres / eight", "centers / eight"]
   },
   {
     "id": 22,
-    "type": "mcq",
-    "stem": "A man scores within 1.96 standard deviations of the mean on a measured trait. Statistically, he falls within approximately what zone?",
-    "options": [
-      "50%",
-      "68.3%",
-      "95.45%",
-      "99.9%"
-    ],
-    "answer": "C"
+    "type": "fitb",
+    "stem": "Bone-building cells called _______________ deposit new bone tissue around themselves and eventually become trapped in tiny pockets called _______________, after which they differentiate into osteocytes.",
+    "answer": "osteoblasts / lacunae",
+    "acceptableAnswers": ["osteoblasts / lacunae"]
   },
   {
     "id": 23,
     "type": "mcq",
-    "stem": "A nursing student argues that one standard deviation includes nearly all normal people. What is the precise correction?",
+    "stem": "A medical student asks a clinical nurse specialist to explain the difference between the trabeculae of spongy bone and the osteons of compact bone in terms of mechanical function. The nurse's MOST accurate response is:",
     "options": [
-      "One standard deviation includes about 68.3%, not nearly all",
-      "One standard deviation includes 95.45%",
-      "One standard deviation includes 4.55%",
-      "One standard deviation has no use in normality"
+      "Trabeculae and osteons are structurally identical but serve different functions; trabeculae provide resistance to compressive forces along a single axis while osteons provide omnidirectional tensile strength",
+      "The branching framework of pillars and plates in spongy bone is not randomly arranged but develops maximum strength along directions from which maximum stress comes, so that even without being solid bone it can absorb its share of applied force",
+      "Trabeculae are arranged circumferentially like the growth rings of a tree and function identically to osteons, with the only structural difference being that trabeculae lack a central canal because their osteocytes are nourished by direct diffusion from periosteal vessels"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 24,
     "type": "mcq",
-    "stem": "Which finding BEST supports Emotional and Behavioural Disorder rather than simple social maladjustment?",
+    "stem": "A nurse is explaining the functions of bone to a patient who asks why bones are described as metabolically active organs. Which of the following MOST accurately identifies a metabolic function of bone that goes beyond mechanical support?",
     "options": [
-      "Temporary refusal to greet adults",
-      "Long-duration difficulty learning unexplained by intellectual, sensory, or health factors",
-      "Preference for solitary hobbies",
-      "Dislike of school uniform"
+      "The ability of bone to undergo appositional growth at the periosteal surface constitutes its primary metabolic function, distinguishing it from purely structural tissues like dense regular connective tissue",
+      "Bone serves as a mineral reservoir, especially for calcium phosphate, and this mineral storage function is essential for maintaining blood calcium levels, which must be tightly controlled for neuromuscular function",
+      "The metabolic activity of bone is primarily attributable to the osteoclast population, which continuously degrades bone matrix and releases metabolic byproducts that serve as substrates for energy production in adjacent muscle tissue"
     ],
     "answer": "B"
   },
   {
     "id": 25,
     "type": "mcq",
-    "stem": "A child has physical symptoms and fears linked to school problems for months, impairing school functioning. This fits which EBD characteristic?",
+    "stem": "CASE SCENARIO: A 70-year-old man is admitted with a fractured femur following a minor trip. Imaging reveals diffuse bone loss and the orthopaedic team suspects osteoporosis. A trainee nurse asks why weight-bearing exercise is recommended as prevention. Based on the documented relationship between exercise and bone health, the MOST accurate explanation is:",
     "options": [
-      "Physical symptoms or fears associated with personal or school problems",
-      "Objective personality distortion",
-      "Death instinct",
-      "Normal adolescence"
+      "Weight-bearing exercise increases serum calcitonin levels which directly inhibit osteoclast-mediated bone resorption, producing a net increase in bone mineral density proportional to the duration and intensity of the exercise load",
+      "Although bone growth lengthways ceases permanently once the epiphyseal plates have ossified, this involves the laying down of new osteons around the bone periphery by osteoblasts, and mechanical loading through exercise continues to stimulate bone formation and remodelling throughout life",
+      "Weight-bearing exercise stimulates the hypothalamic-pituitary axis to increase growth hormone secretion, which in adults redirects osteoblastic activity from the epiphyses to the diaphyseal cortex, increasing cortical thickness"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 26,
     "type": "mcq",
-    "stem": "A young adult has panic attacks, phobias, and social withdrawal without aggression. Which EBD category is MOST consistent?",
+    "stem": "A nursing student is reviewing bone remodelling and asks which cells are found in the periosteum during active bone growth and remodelling. Based on the microscopic anatomy of bone, which COMBINATION of cells and locations is MOST accurate?",
     "options": [
-      "Externalizing disorder",
-      "Internalizing disorder",
-      "Conduct disorder",
-      "Tangible-function disorder"
+      "Osteoclasts in the periosteum maintaining bone shape during growth and removing excess callus; osteoblasts on the internal surfaces of the medullary canal canalising the bone during healing",
+      "Osteoblasts in the periosteum maintaining bone shape during growth and removing excess callus formed during fracture healing; osteoclasts on the internal surfaces of the medullary canal during growth and canalising the bone during healing",
+      "Osteocytes in the periosteum maintaining bone shape during growth; osteoclasts in the medullary canal forming new osteons during bone healing through the sequential deposition of circumferential lamellar bone"
     ],
     "answer": "B"
   },
   {
     "id": 27,
-    "type": "mcq",
-    "stem": "Which presentation MOST strongly indicates externalizing rather than internalizing difficulty?",
-    "options": [
-      "Quiet sadness and loss of interest",
-      "Fear of separation",
-      "Bullying, cursing, fighting, and acting out",
-      "Somatic complaints before school"
-    ],
-    "answer": "C"
+    "type": "fitb",
+    "stem": "About two-thirds of bone mass is composed of _______________ salts, mainly calcium phosphate, while the remaining third is organic material called _______________, composed mainly of collagen fibres forming the framework of the bone.",
+    "answer": "calcium / osteoid",
+    "acceptableAnswers": ["calcium / osteoid"]
   },
   {
     "id": 28,
-    "type": "mcq",
-    "stem": "CASE SCENARIO: A 24-year-old who recently left home says he feels lost, lonely, scared, and uncertain about career choice. According to the file, this most closely reflects:",
-    "options": [
-      "Quarter-life crisis",
-      "Empty-nest syndrome",
-      "Late-life schizophrenia",
-      "Menopause crisis"
-    ],
-    "answer": "A"
+    "type": "fitb",
+    "stem": "Osteoclasts are giant cells formed from the fusion of many _______________ and have up to _______________ nuclei.",
+    "answer": "monocytes / 50",
+    "acceptableAnswers": ["monocytes / 50", "monocytes / fifty"]
   },
   {
     "id": 29,
-    "type": "mcq",
-    "stem": "In Erikson's young adulthood stage, the core psychosocial conflict is:",
-    "options": [
-      "Trust versus mistrust",
-      "Industry versus inferiority",
-      "Intimacy versus isolation",
-      "Integrity versus despair"
-    ],
-    "answer": "C"
+    "type": "fitb",
+    "stem": "The sensory nerve supply to bone usually enters the bone at the same site as the _______________ artery, and branches extensively throughout the bone, making bone injury therefore usually very _______________.",
+    "answer": "nutrient / painful",
+    "acceptableAnswers": ["nutrient / painful"]
   },
   {
     "id": 30,
     "type": "mcq",
-    "stem": "Which statement BEST matches the document's position on empty-nest syndrome?",
+    "stem": "A student nurse asks why the epiphyses of long bones are covered with articular cartilage at joint surfaces. The MOST clinically accurate explanation is:",
     "options": [
-      "It is always permanent and pathological",
-      "It is usually temporary and may later allow enjoyment of new freedoms",
-      "It occurs only in men",
-      "It proves menopause-induced depression"
+      "The articular cartilage is a form of fibrocartilage that provides shock absorption and is avascular to prevent inflammatory cell recruitment into the joint space during mechanical loading",
+      "The bone surfaces that participate in synovial joint formation are coated in hyaline cartilage to prevent damage at the point of bone-to-bone contact within the joint cavity",
+      "The epiphyseal cartilage covering is a remnant of the growth plate that persists in adulthood and degenerates progressively with age due to the absence of a periosteal osteoblast population at the articular surface"
     ],
     "answer": "B"
   },
   {
     "id": 31,
     "type": "mcq",
-    "stem": "A middle-aged woman believes menopause will inevitably cause depression and irrational behaviour. Which response is MOST accurate?",
+    "stem": "A nurse educator is reviewing the development of flat bones with nursing students. She explains that flat bones develop from membrane models rather than cartilage models. Which of the following correctly identifies both an example and a distinctive structural feature of flat bones?",
     "options": [
-      "Menopause typically causes severe psychiatric illness",
-      "Menopause does not typically cause depression, irritability, or irrational behaviour",
-      "Menopause eliminates all physical symptoms",
-      "Menopause is identical to midlife crisis"
+      "The femur is a flat bone; it is distinguished by its thin, flat shape and the presence of a medullary canal lined by endosteum rather than the cancellous trabecular network seen in short bones",
+      "The skull is a flat bone; flat bones are actually curved rather than truly flat, are thin with parallel surfaces, and contain spongy bone sandwiched between two compact bone layers",
+      "The vertebra is a flat bone; it has a flat body with multiple complex processes and projections that constitute the defining structural characteristic distinguishing flat from irregular bones"
     ],
     "answer": "B"
   },
   {
     "id": 32,
     "type": "mcq",
-    "stem": "Which event is MOST consistent with a trigger for a true midlife crisis in the file?",
+    "stem": "CASE SCENARIO: A 5-year-old child is noted on X-ray to have arrested growth lines (Harris lines) in the metaphysis of the femur, corresponding to periods of severe illness two years ago. The paediatric nurse explains to the parents that growth plate activity was temporarily suppressed during illness. What is the PRIMARY cellular mechanism responsible for bone lengthening at the epiphyseal plate under normal conditions?",
     "options": [
-      "Turning 40 alone",
-      "Buying a hobby item",
-      "Sudden loss of employment",
-      "Having adult children"
+      "Osteoclast-mediated resorption of the calcified zone of the epiphyseal plate, which creates space for new cartilage cells to migrate from the reserve zone into the zone of proliferation",
+      "During childhood, long bones continue to lengthen because there is a plate of cartilage called the epiphyseal (growth) plate at each end of the bone, separating each epiphysis from the diaphysis, and the growth plate continues to produce new cartilage on its diaphyseal surface",
+      "Periosteal osteoblasts migrate from the shaft to the epiphyseal surface and deposit new bone matrix circumferentially, causing the bone to lengthen through appositional growth rather than interstitial growth"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 33,
     "type": "mcq",
-    "stem": "A middle-aged man buys an expensive musical instrument and begins hobbies after his children leave home, with no distress or impairment. The BEST interpretation is:",
+    "stem": "A clinical nurse specialist is reviewing a bone pathology report that states: 'Interstitial lamellae are the remnants of older systems partially broken down during bone remodelling or growth.' What is the CORRECT anatomical location of interstitial lamellae within compact bone?",
     "options": [
-      "Automatic midlife crisis",
-      "Productive period of mental well-being or re-evaluation",
-      "Externalizing disorder",
-      "Death instinct"
+      "Interstitial lamellae are located on the outer surface of the diaphysis immediately beneath the periosteum, forming the circumferential lamellar bone that provides torsional resistance to the shaft",
+      "Interstitial lamellae are located between osteons within the compact bone, representing remnants of previously complete Haversian systems that were partially broken down during bone remodelling",
+      "Interstitial lamellae are located within the trabeculae of spongy bone and represent the structural framework along which mechanical stress is distributed through the cancellous network"
     ],
     "answer": "B"
   },
   {
     "id": 34,
-    "type": "mcq",
-    "stem": "An elderly patient reports sleep disturbance, appetite change, and mood difference but assumes they are physical aging. What concern should guide the nurse?",
-    "options": [
-      "Elders may misattribute psychiatric symptoms to physical problems",
-      "These symptoms are never psychiatric",
-      "Only psychosis matters in elderly care",
-      "Mental health services are overused by elders"
-    ],
-    "answer": "A"
+    "type": "fitb",
+    "stem": "The periosteum has two layers: the outer _______________ fibrous layer that is tough and strong and protects the bone, and the inner _______________ layer that is rich in blood vessels and osteoblasts.",
+    "answer": "superficial / deep",
+    "acceptableAnswers": ["superficial / deep", "outer / inner", "fibrous / vascular", "superficial / vascular"]
   },
   {
     "id": 35,
-    "type": "mcq",
-    "stem": "Which combination BEST explains low elderly use of mental health services?",
-    "options": [
-      "Stigma, ageism, limited primary care training, fragmented services, poor organized support",
-      "Excessive psychiatric beds and excessive advocacy",
-      "No psychiatric illness in elders",
-      "Universal refusal due only to finances"
-    ],
-    "answer": "A"
+    "type": "fitb",
+    "stem": "Bones are classified by shape as long, _______________, _______________, flat, and sesamoid.",
+    "answer": "short / irregular",
+    "acceptableAnswers": ["short / irregular", "irregular / short"]
   },
   {
     "id": 36,
-    "type": "mcq",
-    "stem": "A primary care physician dismisses depression in a 70-year-old as normal aging. Which barrier is most directly involved?",
-    "options": [
-      "Ageism and limited geriatric mental health recognition",
-      "Tangible reinforcement",
-      "Libido",
-      "Pluralistic ignorance only"
-    ],
-    "answer": "A"
+    "type": "fitb",
+    "stem": "The diaphysis of a long bone contains a medullary canal that in mature adults contains _______________ yellow bone marrow, whereas in early life and in active haematopoietic sites it contains _______________ red bone marrow.",
+    "answer": "fatty / haematopoietic",
+    "acceptableAnswers": ["fatty / haematopoietic", "fatty / blood-forming", "adipose / haematopoietic"]
   },
   {
     "id": 37,
     "type": "mcq",
-    "stem": "Which statement about personality is MOST consistent with the document?",
+    "stem": "A student nurse incorrectly states that 'osteoblasts are found only at fracture sites.' The clinical nurse educator must correct this by identifying ALL documented locations where osteoblasts are found. Which response is MOST complete and accurate?",
     "options": [
-      "Personality is only behaviour, not thoughts or emotions",
-      "Personality is dynamic, organized, and influences cognition, emotion, motivation, and behaviour",
-      "Personality has no relationship to stress",
-      "Personality cannot be measured"
+      "Osteoblasts are found exclusively at fracture sites and on the inner surface of the periosteum; they are not present within the compact bone matrix or within spongy bone trabeculae under normal physiological conditions",
+      "Osteoblasts are found in the periosteum, at the centres of ossification of developing bone, at each end of the diaphysis of long bones adjacent to the epiphyseal cartilages where they ossify growing cartilage, and at fracture sites",
+      "Osteoblasts are found only on the surfaces of the medullary canal and within the Haversian canals of compact bone, where they maintain the structural integrity of existing osteons through continuous matrix deposition"
     ],
     "answer": "B"
   },
   {
     "id": 38,
     "type": "mcq",
-    "stem": "Gordon Allport's idiographic approach is best represented by:",
+    "stem": "CASE SCENARIO: A 9-year-old girl is referred to the paediatric orthopaedic clinic after her school nurse notices she has a left arm that is shorter than the right following a fracture sustained 18 months ago. The original X-ray showed a fracture through the distal epiphysis. What is the MOST likely explanation for the limb length discrepancy?",
     "options": [
-      "Finding laws applying to many people",
-      "Understanding the unique aspects of one individual",
-      "Rejecting personality study",
-      "Measuring only biological traits"
+      "The fracture disrupted the periosteal blood supply to the diaphysis, causing ischaemic necrosis of the cortical bone and failure of the periosteal osteoblasts to generate new bone during fracture healing",
+      "The fracture damaged the epiphyseal growth plate; once the whole epiphyseal plate is involved in bone deposition, no further lengthening of the bone is possible, and in children this damage can result in a limb being shorter than its counterpart",
+      "The fracture caused premature closure of the nutrient artery foramen, eliminating the vascular supply required for endochondral ossification to continue in the metaphysis of the injured limb"
     ],
     "answer": "B"
   },
   {
     "id": 39,
     "type": "mcq",
-    "stem": "A theorist claims human action is mainly controlled by unconscious biological forces. Which philosophical assumption is being emphasized?",
+    "stem": "A medical student is studying the role of calcitonin in calcium homeostasis. He asks the ward nurse why calcitonin is released in response to rising blood calcium levels. Based on the hormonal regulation of bone health described in the musculoskeletal literature, the MOST accurate explanation is:",
     "options": [
-      "Freedom versus determinism",
-      "Openness versus agreeableness",
-      "Tangible versus sensory",
-      "Normality versus pathology"
-    ],
-    "answer": "A"
-  },
-  {
-    "id": 40,
-    "type": "mcq",
-    "stem": "A theorist says personality is shaped by both genetics and experience. This position addresses:",
-    "options": [
-      "Heredity versus environment",
-      "Observer discomfort",
-      "Escape versus avoidance",
-      "Clinical false positive"
-    ],
-    "answer": "A"
-  },
-  {
-    "id": 41,
-    "type": "mcq",
-    "stem": "Traditional behavioural theorists are MOST associated with which assumption?",
-    "options": [
-      "Humans are passively shaped by environmental forces",
-      "Humans always self-actualize",
-      "Personality is never learned",
-      "Traits cannot affect behaviour"
-    ],
-    "answer": "A"
-  },
-  {
-    "id": 42,
-    "type": "mcq",
-    "stem": "Which theory group is generally more optimistic about personality change?",
-    "options": [
-      "Theories emphasizing learning",
-      "Theories rejecting learning",
-      "Pure biological determinism",
-      "Fixed constitutional theories"
-    ],
-    "answer": "A"
-  },
-  {
-    "id": 43,
-    "type": "mcq",
-    "stem": "Which Big Five trait is most linked with imagination, insight, broad interests, and adventurous decision-making?",
-    "options": [
-      "Agreeableness",
-      "Openness",
-      "Neuroticism",
-      "Conscientiousness"
+      "Calcitonin is released by the parathyroid glands in response to rising blood calcium, and it increases calcium uptake into bone by stimulating osteoblast activity and simultaneously reducing intestinal calcium absorption",
+      "Calcitonin is released and increases blood calcium levels by regulating calcium and parathyroid hormone release from bone, reducing blood calcium levels by increasing calcium uptake into bone and decreasing it in the bloodstream",
+      "Calcitonin increases blood calcium levels by regulating calcium uptake into bone and parathyroid hormone release; it simultaneously increases calcium release from bone and decreases urinary calcium excretion"
     ],
     "answer": "B"
   },
   {
+    "id": 40,
+    "type": "mcq",
+    "stem": "A nurse is asked to explain why the inorganic mineral matrix of bone gives it hardness while the collagen framework prevents brittleness. Which combination of properties MOST accurately reflects the structural role of each component?",
+    "options": [
+      "Calcium phosphate crystals provide elasticity while collagen fibres provide hardness; together they produce a composite material that is simultaneously rigid and impervious to mechanical loading",
+      "The inorganic matrix (calcium phosphate) gives bone its hardness but alone would make it brittle and prone to shattering; the organic collagen matrix provides flexibility, and together they create a composite material that is hard yet resistant to fracture",
+      "Calcium salts provide the architectural scaffolding for osteoid deposition while collagen fibres function primarily as a mineralisation template, contributing structural support only during the embryonic phase of bone development"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 41,
+    "type": "fitb",
+    "stem": "During ossification, _______________ secrete osteoid, which gradually replaces the original cartilage model; the osteoid is then mineralised by the deposition of _______________ and phosphate salts.",
+    "answer": "osteoblasts / calcium",
+    "acceptableAnswers": ["osteoblasts / calcium"]
+  },
+  {
+    "id": 42,
+    "type": "fitb",
+    "stem": "The epiphyseal plate continues to produce new cartilage on its _______________ surface, and as long as cartilage production matches the rate of ossification, the bone continues to _______________.",
+    "answer": "diaphyseal / lengthen",
+    "acceptableAnswers": ["diaphyseal / lengthen", "diaphyseal / grow", "diaphyseal / elongate"]
+  },
+  {
+    "id": 43,
+    "type": "fitb",
+    "stem": "Spongy bone spaces contain _______________ bone marrow, while the medullary canal of an adult long bone typically contains _______________ bone marrow.",
+    "answer": "red / yellow",
+    "acceptableAnswers": ["red / yellow"]
+  },
+  {
     "id": 44,
     "type": "mcq",
-    "stem": "A person dislikes structure, procrastinates, and fails to complete tasks. Which Big Five profile is MOST likely?",
+    "stem": "A patient's bone scan report states: 'Secondary centres of ossification are visible in the epiphyses.' The nursing student asks what this means in terms of the stage of bone development. The MOST accurate explanation is:",
     "options": [
-      "Low conscientiousness",
-      "High agreeableness",
-      "High openness",
-      "Low neuroticism"
+      "Secondary centres of ossification appear in the epiphyses around the time of birth and continue to develop during childhood, representing the stage at which the epiphyses begin to ossify after the primary centre has already established the diaphysis",
+      "Secondary centres of ossification represent pathological re-activation of osteogenic activity in previously quiescent epiphyseal cartilage, indicating an abnormal hormonal signal such as growth hormone excess",
+      "Secondary centres of ossification are located in the metaphysis rather than the epiphyses and represent the zone of endochondral ossification that advances toward the diaphysis as the bone grows in length"
     ],
     "answer": "A"
   },
   {
     "id": 45,
     "type": "mcq",
-    "stem": "A person is assertive, talkative, emotionally expressive, and energized by groups. Which trait is dominant?",
+    "stem": "CASE SCENARIO: A forensic pathologist requests a nursing consult to determine the biological sex of skeletal remains based on bone morphology. The nurse recalls that according to the hormonal regulation of bone growth, male and female bones differ in specific measurable characteristics. Which difference between male and female bones is MOST consistent with the described hormonal influences on bone growth?",
     "options": [
-      "Extraversion",
-      "Agreeableness",
-      "Neuroticism",
-      "Conscientiousness"
+      "Male bones are generally longer and more slender because testosterone suppresses epiphyseal plate closure, while female bones are shorter and wider due to the anabolic effects of oestrogen on transverse bone deposition",
+      "Rising levels of these hormones at puberty stimulate a rapid spurt of growth but later attenuate it; because male puberty tends to occur at a later age, males grow for longer, so average adult male height is usually greater and male bones are typically longer, giving males a male child's bones that are usually greater than those of female children",
+      "Female bones are typically longer and narrower than male bones because oestrogen stimulates greater longitudinal growth than testosterone, but the earlier onset of puberty causes premature epiphyseal fusion that reduces final adult stature"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 46,
     "type": "mcq",
-    "stem": "A charity worker is trusting, kind, affectionate, cooperative, and empathetic. Which Big Five trait is MOST evident?",
+    "stem": "A nurse is reviewing the three types of bone cells for a teaching session. She is asked which cell type is responsible for the continuous remodelling of healthy bone tissue through the balanced activity of opposing populations. The MOST accurate answer is:",
     "options": [
-      "Neuroticism",
-      "Agreeableness",
-      "Low openness",
-      "Low conscientiousness"
+      "Osteocytes alone mediate bone remodelling by detecting mechanical strain through their canalicular network and signalling directly to surface cells, making them the primary mediators of remodelling without input from osteoblasts or osteoclasts",
+      "The continuous remodelling of healthy bone tissue is the result of balanced activity of osteoblast and osteoclast populations; like osteoblasts, osteoclasts are found in areas of active growth, repair, or remodelling",
+      "Osteoblasts alone mediate bone remodelling by alternating between their bone-forming and bone-resorbing phenotypes under hormonal control, making the osteoclast designation functionally redundant in mature bone tissue"
     ],
     "answer": "B"
   },
   {
     "id": 47,
     "type": "mcq",
-    "stem": "A patient overthinks, struggles to relax, has mood swings, and reacts strongly to stress. Which trait is MOST elevated?",
+    "stem": "A nursing student reviewing bone structure states: 'Periosteum is present on all bone surfaces.' The clinical instructor must correct this statement. The MOST accurate correction is:",
     "options": [
-      "Openness",
-      "Conscientiousness",
-      "Neuroticism",
-      "Agreeableness"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": 48,
-    "type": "mcq",
-    "stem": "Which Big Five trait had the highest heritability estimate in the twin-study figures provided?",
-    "options": [
-      "Extraversion",
-      "Openness",
-      "Conscientiousness",
-      "Agreeableness"
+      "Periosteum is absent only from the medullary canal lining, which is instead covered by endosteum, but is present on all external bone surfaces including those participating in synovial joint formation",
+      "Periosteum is not present on bone surfaces that form joints, and muscles and tendons attached to the bone are anchored to it by the periosteum, which is absent at articular surfaces covered by hyaline cartilage",
+      "Periosteum is absent exclusively from the diaphyseal surface of sesamoid bones, which instead develop a fibrocartilaginous covering that functions identically to periosteum in terms of bone production and protection"
     ],
     "answer": "B"
   },
   {
+    "id": 48,
+    "type": "fitb",
+    "stem": "A spiral fracture is the result of a _______________ twisting force applied to the bone, and is typically S-shaped or _______________-shaped when viewed on X-ray.",
+    "answer": "rotational / spiral",
+    "acceptableAnswers": ["rotational / spiral", "twisting / spiral", "rotational / helical"]
+  },
+  {
     "id": 49,
-    "type": "mcq",
-    "stem": "According to the document, aging tends to produce which average personality shift?",
-    "options": [
-      "More extraversion and more neuroticism",
-      "Less agreeableness and less conscientiousness",
-      "Less openness, extraversion, and neuroticism with more agreeableness and conscientiousness",
-      "More impulsivity and more flexibility"
-    ],
-    "answer": "C"
+    "type": "fitb",
+    "stem": "The outer layer of bone, lying immediately below the periosteum, is made up of _______________ lamellae, which encircle the whole bone.",
+    "answer": "circumferential",
+    "acceptableAnswers": ["circumferential"]
   },
   {
     "id": 50,
-    "type": "mcq",
-    "stem": "A 52-year-old shows very little average-level personality change. Which concept does this support?",
-    "options": [
-      "Personality becoming more set with age",
-      "Total personality instability after 50",
-      "Sensation seeking peaking after 50",
-      "Adolescence crisis"
-    ],
-    "answer": "A"
+    "type": "fitb",
+    "stem": "Development of bone tissue is also called _______________ or _______________, and this process begins before birth but is not complete until about the 21st year of life.",
+    "answer": "osteogenesis / ossification",
+    "acceptableAnswers": ["osteogenesis / ossification", "ossification / osteogenesis"]
   },
   {
     "id": 51,
     "type": "mcq",
-    "stem": "Which lifespan pattern best describes sensation seeking?",
+    "stem": "A nursing student is asked which fracture type would MOST likely result from a patient being struck directly by a high-speed projectile that causes the bone to explode outward into multiple fragments. The MOST accurate answer is:",
     "options": [
-      "Declines from childhood and peaks at 60",
-      "Increases to late adolescence around 18-20 then falls with age",
-      "Never changes",
-      "Rises continuously throughout old age"
+      "Transverse fracture; a direct impact force of sufficient magnitude always produces a transverse break because the force vector is perpendicular to the bone's long axis, which is the weakest plane of resistance",
+      "Comminuted fracture; the bone is splintered or shattered into three or more pieces or fragments, usually by an extreme or traumatic force, causing the bone to literally explode outward",
+      "Oblique fracture; extremely high-velocity direct impacts produce diagonal shear forces that split the bone along an oblique plane, producing the characteristic diagonal fracture line seen in ballistic injuries"
     ],
     "answer": "B"
   },
   {
     "id": 52,
     "type": "mcq",
-    "stem": "A male manager's ambition decreases over 20 years while autonomy and leadership motivation increase. The document explains this mainly by:",
+    "stem": "CASE SCENARIO: A 55-year-old woman is prescribed vitamin D supplements following a bone density scan. She asks the nurse why vitamin D is important for bone health. The MOST accurate evidence-based explanation is:",
     "options": [
-      "Realistic appraisal of limited promotion possibilities",
-      "Mandatory midlife crisis",
-      "Loss of nervous system function",
-      "Decline in all personality traits"
+      "Vitamin D is produced in the skin and activates osteoblasts directly at the bone surface, stimulating the synthesis of osteoid matrix and the mineralisation of collagen fibres independent of calcium availability",
+      "Vitamin D is required for calcium and phosphate absorption from the gastrointestinal tract; a deficiency means that even adequate dietary calcium intake cannot be effectively absorbed and utilised for bone mineralisation",
+      "Vitamin D functions primarily as a cofactor for parathyroid hormone, amplifying its renal calcium reabsorption effect, and supplementation acts through this endocrine axis to indirectly increase the amount of calcium available for bone deposition"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 53,
     "type": "mcq",
-    "stem": "Which mechanism describes therapy-based personality change in the document?",
+    "stem": "A nurse is asked to identify the MOST accurate description of how tendons and muscles attach to bone. Based on the described anatomy of the periosteum, the MOST accurate answer is:",
     "options": [
-      "Identify inappropriate behaviour, self-monitor, internalize desired behaviour, generalize the trait",
-      "Erase temperament permanently in one session",
-      "Use only medication to change personality",
-      "Avoid introspection"
+      "Tendons and muscles attach to bone through the deep vascular layer of the periosteum, where osteoblasts create specialised anchoring fibrils that interdigitate with the tendon's collagen fibres to form a mechanically stable myotendinous junction",
+      "Muscles and tendons that are attached to the bone are anchored to it by the periosteum, which provides the structural connection between the connective tissue of the muscle or tendon and the bony surface",
+      "Tendons insert directly into the compact bone matrix through Sharpey's fibres that bypass the periosteum entirely, while muscles attach through a broad fascial expansion that adheres to the outer fibrous periosteal layer"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 54,
-    "type": "mcq",
-    "stem": "Freud's life instincts are primarily concerned with:",
-    "options": [
-      "Death, decay, and self-destruction only",
-      "Survival, pleasure, and reproduction",
-      "Moral punishment",
-      "Social norms only"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "Bones are constantly being renewed and remodelled. The _______________ cells break down bone, while the _______________ cells build new bone in their place.",
+    "answer": "osteoclast / osteoblast",
+    "acceptableAnswers": ["osteoclast / osteoblast", "osteoclasts / osteoblasts"]
   },
   {
     "id": 55,
-    "type": "mcq",
-    "stem": "Freud proposed the death instinct after observing that traumatic experiences may be:",
-    "options": [
-      "Forgotten permanently",
-      "Reenacted",
-      "Converted to openness",
-      "Scored objectively"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "Irregular bones have complex shapes with multiple processes and projections; an example is _______________, while sesamoid bones form within _______________.",
+    "answer": "vertebrae / tendons",
+    "acceptableAnswers": ["vertebrae / tendons", "a vertebra / tendons", "vertebrae / a tendon"]
   },
   {
     "id": 56,
-    "type": "mcq",
-    "stem": "When Thanatos energy is directed outward, Freud described it as:",
-    "options": [
-      "Love and cooperation",
-      "Aggression and violence",
-      "Self-esteem",
-      "Objective testing"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "In spongy bone, individual osteocytes are never very far from an internal bone surface; _______________ open onto the surface of the trabeculae, allowing rapid diffusion of nutrients, gases, and wastes between osteocytes and the nearby blood supply.",
+    "answer": "canaliculi",
+    "acceptableAnswers": ["canaliculi", "the canaliculi"]
   },
   {
     "id": 57,
     "type": "mcq",
-    "stem": "A person pursues higher education to improve attractiveness, income, and advantage over rivals. In the Freud example, this is explained by:",
+    "stem": "A nurse educator asks a student to explain what happens to the epiphyseal plate at the end of puberty. The student states: 'The growth plate remains active but slows down.' The MOST accurate correction is:",
     "options": [
-      "Life instinct and survival/procreative advantage",
-      "Pure observer discomfort",
-      "Low conscientiousness",
-      "Pluralistic ignorance"
+      "The growth plate does not close at the end of puberty but rather transitions from endochondral ossification to appositional growth, maintaining bone lengthening capacity at a reduced rate until the fourth decade of life",
+      "At the end of puberty, under the influence of sex hormones, cartilage production in the epiphyseal plate slows and is overtaken by the rate of ossification, turning the plate to bone â a process known as epiphyseal closure or fusion",
+      "At the end of puberty, rising calcitonin levels suppress the growth plate's chondrogenic activity, progressively replacing cartilage-forming cells with osteocytes until the plate becomes entirely composed of lamellar bone"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 58,
     "type": "mcq",
-    "stem": "Which statement about behaviour and the nervous system is MOST accurate?",
+    "stem": "CASE SCENARIO: A 14-year-old male adolescent presents to the emergency department after a sporting injury. X-ray reveals a fracture perpendicular to the long axis of the tibia with no angulation or displacement. Based on the fracture classification system, which type is described, and which mechanism of injury is MOST consistent with this pattern?",
     "options": [
-      "More complex nervous systems generally allow greater learning and adjustment",
-      "The endocrine system alone controls all behaviour",
-      "Muscles act normally without nervous impulses",
-      "Behaviour has no relationship to biology"
+      "Oblique fracture; this injury pattern is most consistent with a twisting mechanism applied during a directional change while the foot is planted, producing a diagonal shear force through the tibial shaft",
+      "Transverse fracture; the break occurs perpendicular to the long axis of the bone, and this pattern is most consistent with a direct bending force applied to the bone rather than a twisting or rotational mechanism",
+      "Greenstick fracture; the perpendicular fracture pattern in adolescents is characteristic of the higher collagen content of adolescent bone that resists complete fracture, producing a single clean transverse crack without displacement"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 59,
     "type": "mcq",
-    "stem": "The correct sequence of response to external stimuli is:",
+    "stem": "A clinical nurse asks a student: 'Why do bone injuries cause such intense pain?' The MOST anatomically accurate explanation, based on the sensory innervation of bone, is:",
     "options": [
-      "Execution, preparation, interpretation, reception",
-      "Reception, interpretation, preparation, execution",
-      "Interpretation, execution, reception, preparation",
-      "Preparation, reception, execution, interpretation"
+      "Bone pain is primarily mediated by free nerve endings within the yellow bone marrow of the medullary canal, which are directly stimulated by elevated intramedullary pressure following fracture",
+      "The sensory nerve supply usually enters the bone at the same site as the nutrient artery and branches extensively throughout the bone, making bone injury therefore usually very painful due to the density of nociceptive fibres throughout the tissue",
+      "Bone pain arises exclusively from the periosteal nerve plexus; the bone matrix itself is aneural and pain is therefore only experienced when periosteal lifting or disruption occurs at the site of fracture or trauma"
     ],
     "answer": "B"
   },
   {
     "id": 60,
-    "type": "mcq",
-    "stem": "Which statement BEST reflects the document's view of behaviour?",
-    "options": [
-      "Behaviour is always a simple fixed response to one stimulus",
-      "Behaviour should be understood through the psychological whole",
-      "Behaviour excludes covert responses",
-      "Behaviour is unrelated to environment"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "Osteoblasts deposit new bone tissue around themselves and eventually become trapped in tiny pockets called _______________ in the growing bone and differentiate into _______________.",
+    "answer": "lacunae / osteocytes",
+    "acceptableAnswers": ["lacunae / osteocytes"]
   },
   {
     "id": 61,
-    "type": "mcq",
-    "stem": "A patient exaggerates achievements, justifies failures, and daydreams excessively. Which set of futile adjustments is represented?",
-    "options": [
-      "Bragging, rationalizing, self-absorption and daydreaming",
-      "Menopause, libido, Thanatos",
-      "Openness, stability, universality",
-      "Reception, interpretation, execution"
-    ],
-    "answer": "A"
+    "type": "fitb",
+    "stem": "For long bone development, ossification begins at a focal point called the primary centre of ossification in the _______________; around birth, secondary centres of ossification develop in the _______________.",
+    "answer": "diaphysis / epiphyses",
+    "acceptableAnswers": ["diaphysis / epiphyses", "shaft / epiphyses"]
   },
   {
     "id": 62,
-    "type": "mcq",
-    "stem": "Which is listed as an adjustment that thwarts development?",
-    "options": [
-      "Capitalizing on a defect",
-      "Planning ahead",
-      "Self-respect",
-      "Belonging to a group"
-    ],
-    "answer": "A"
+    "type": "fitb",
+    "stem": "The medullary canal forms when _______________ break down bone in the middle of the shaft, and this canal is lined by a membrane called the _______________.",
+    "answer": "osteoclasts / endosteum",
+    "acceptableAnswers": ["osteoclasts / endosteum"]
   },
   {
     "id": 63,
     "type": "mcq",
-    "stem": "A nurse states that character and personality are identical. Which correction is BEST?",
+    "stem": "A patient asks a ward nurse: 'If my bones stop growing in length after puberty, how do they get stronger with exercise?' The MOST accurate evidence-based explanation is:",
     "options": [
-      "Character is narrower and refers to ethical quality of behaviour",
-      "Personality means only morality",
-      "Character excludes ideals",
-      "Personality excludes behaviour"
+      "After epiphyseal plate closure, osteoblasts within the Haversian canals of existing osteons continue to deposit new lamellar bone concentrically inward, progressively reducing the canal diameter and increasing cortical density in response to mechanical stimulation",
+      "Although longitudinal bone growth ceases when the epiphyseal plates fuse, bone growth in width continues throughout life as osteoblasts on the periosteal surface deposit new circumferential lamellar bone, and exercise stimulates this appositional bone formation",
+      "After puberty, bones increase in strength exclusively through mineralisation of previously deposited but inadequately mineralised osteoid matrix, and exercise accelerates this mineralisation through increased local blood flow and calcium delivery to the bone surface"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 64,
     "type": "mcq",
-    "stem": "Which is a characteristic of good mental health?",
+    "stem": "CASE SCENARIO: During a nursing simulation exercise, a trainee incorrectly states that 'the Haversian canal is the same structure as the canaliculus.' A senior nurse must correct this misconception. The MOST precise correction is:",
     "options": [
-      "Avoiding all responsibilities",
-      "Ability to face disappointments without losing control",
-      "Constant suspicion of others",
-      "Inability to plan ahead"
+      "The Haversian canal and the canaliculus are indeed identical structures but are named differently depending on their location; Haversian canal refers to the central longitudinal channel while canaliculus refers to the same channel when it branches laterally",
+      "The Haversian canal is the central canal within each osteon that contains blood vessels, lymphatics, and nerves; the canaliculi are tiny channels that connect adjacent osteocyte lacunae to each other and to the central canal, allowing interstitial fluid circulation",
+      "The Haversian canal is a feature exclusive to compact bone while the canaliculus is exclusive to spongy bone; the two structures serve analogous functions in their respective bone types but are not found in the same tissue simultaneously"
     ],
     "answer": "B"
   },
   {
     "id": 65,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A 17-year-old has persistent low self-worth, expresses need to harm self, cannot maintain peer relationships, and has pervasive unhappiness. Which conclusion is strongest?",
+    "stem": "A nurse is reviewing the hormonal influences on bone growth and asks: which hormone is specifically responsible for the wider pelvis observed in females compared to males, and through what mechanism does it exert this effect?",
     "options": [
-      "Marked EBD characteristics affecting functioning are present",
-      "Only normal adolescence is present",
-      "This is solely tangible behaviour",
-      "This is menopause-related"
+      "Progesterone is primarily responsible for pelvic widening in females; it acts directly on the symphysis pubis and sacroiliac joints to relax the ligamentous connective tissue, allowing the bony pelvis to expand laterally during puberty",
+      "Oestrogen is responsible for bone growth but tends to cause bones to grow more in thickness and width rather than length; it is responsible for the maintenance of bone calcium and the wider pelvis in females during puberty",
+      "Growth hormone is the primary determinant of pelvic width in females; it produces a sex-specific pattern of skeletal growth by binding to growth hormone receptors on chondrocytes of the iliac apophyses, stimulating lateral pelvic expansion"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 66,
-    "type": "mcq",
-    "stem": "Which statement BEST separates subculture normality from mainstream social norms?",
-    "options": [
-      "Subcultures may replace society norms with their own norms",
-      "Subcultures cannot define behaviour",
-      "All subculture behaviour is pathological",
-      "Social norms are always statistically accurate"
-    ],
-    "answer": "A"
+    "type": "fitb",
+    "stem": "Greenstick fractures are more common in _______________ whose bones are more _______________  than those of adults.",
+    "answer": "children / flexible",
+    "acceptableAnswers": ["children / flexible", "children / pliable", "children / elastic"]
   },
   {
     "id": 67,
-    "type": "mcq",
-    "stem": "Most students privately dislike binge drinking but falsely believe everyone approves of it. This is:",
-    "options": [
-      "Pluralistic ignorance",
-      "Clinical false positive",
-      "Libido",
-      "Internalizing disorder"
-    ],
-    "answer": "A"
+    "type": "fitb",
+    "stem": "The collagen fibres in children's bones tend to _______________ the bone tissue together, so the bone tends to _______________ apart on the side opposite the site of applied force.",
+    "answer": "hold / split",
+    "acceptableAnswers": ["hold / split"]
   },
   {
     "id": 68,
-    "type": "mcq",
-    "stem": "A psychiatric label causes others to feel uncomfortable and distance themselves from the patient. Which consequence is MOST directly described?",
-    "options": [
-      "Stigmatization and social separation",
-      "Improved normality",
-      "Increased trait validity",
-      "Healthy adaptation"
-    ],
-    "answer": "A"
+    "type": "fitb",
+    "stem": "Flat bones develop from _______________ models, while long and short bones develop from _______________ models.",
+    "answer": "membrane / cartilage",
+    "acceptableAnswers": ["membrane / cartilage", "fibrous membrane / cartilage", "membranous / cartilaginous"]
   },
   {
     "id": 69,
     "type": "mcq",
-    "stem": "Which pairing is correct?",
+    "stem": "A nursing student correctly states that spongy bone contains red bone marrow. A clinical instructor asks why the spaces within spongy bone do NOT require a central canal for osteocyte nutrition, unlike compact bone osteons. The MOST mechanistically precise explanation is:",
     "options": [
-      "Projective test: self-report questionnaire",
-      "Objective test: ambiguous inkblot interpretation",
-      "Rorschach: ambiguous inkblots",
-      "TAT: numerical IQ distribution"
+      "Spongy bone osteocytes receive nutrition exclusively through diffusion from the calcified trabeculae, which are metabolically active and continuously release nutrients stored in the calcium phosphate crystal lattice",
+      "Because of the trabecular structure of spongy bone, individual osteocytes are never very far away from an internal bone surface; canaliculi open onto the surface of trabeculae, allowing direct diffusion of nutrients from the surrounding red bone marrow blood supply",
+      "Spongy bone osteocytes are positioned centrally within each trabecula and receive nutrition via transcellular transport through gap junctions connecting adjacent osteocytes in a continuous syncytial network"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 70,
     "type": "mcq",
-    "stem": "The TAT differs from the Rorschach primarily because the TAT uses:",
+    "stem": "CASE SCENARIO: A 28-year-old male professional motorcyclist is brought to the emergency department following a high-speed crash. Examination reveals a high-energy femoral fracture with the limb rotated externally and shortened. X-ray demonstrates a fracture line that spirals around the shaft of the femur. Which fracture type does the imaging MOST accurately describe, and what injury mechanism is MOST consistent with this pattern?",
     "options": [
-      "Vague pictures/scenes requiring stories",
-      "Only yes/no self-report items",
-      "Blood tests",
-      "Normal distribution curves"
+      "Oblique fracture; external rotation of the limb combined with axial loading produces a diagonal shear force through the femoral shaft, resulting in a fracture line that deviates from perpendicular by more than 30 degrees",
+      "Spiral fracture; the bone is typically S or spiral-shaped and is caused by a rotational twisting force, consistent with the external rotation mechanism described, where the shaft is twisted around its long axis at high velocity",
+      "Comminuted fracture; the high-velocity mechanism and external rotation indicate that the femur absorbed energy in multiple planes simultaneously, fragmenting the shaft into three or more pieces despite the single fracture line appearance on X-ray"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 71,
-    "type": "fitb",
-    "stem": "Behaviour provides _______________ from the organism to the _______________.",
-    "answer": "outputs / environment",
-    "acceptableAnswers": [
-      "outputs / environment",
-      "output / environment"
-    ]
+    "type": "mcq",
+    "stem": "A nurse is teaching a patient about bone functions. The patient asks how bones protect internal organs. Which of the following MOST precisely identifies the bone type responsible and the mechanism of protection?",
+    "options": [
+      "Long bones of the limbs form protective enclosures for vital organs by articulating to form rigid bony cylinders around the thoracic and abdominal cavities through a series of synovial joints",
+      "Flat bones form the bony boundaries of the cranium, thorax, and pelvis, protecting the organs they contain through their broad, thin, curved surfaces",
+      "Irregular bones of the vertebral column protect the spinal cord through their posterior processes, which form a continuous bony channel around the neural tissue from the foramen magnum to the sacral hiatus"
+    ],
+    "answer": "B"
   },
   {
     "id": 72,
     "type": "fitb",
-    "stem": "In biology, human behaviour is believed to be controlled primarily by the _______________ system and the _______________ system.",
-    "answer": "endocrine / nervous",
-    "acceptableAnswers": [
-      "endocrine / nervous",
-      "nervous / endocrine"
-    ]
+    "stem": "Osteoblasts are bone-_______________ cells found where bone is growing, repairing, or remodelling. They are therefore present in the _______________, in the centres of ossification, and at fracture sites.",
+    "answer": "building / periosteum",
+    "acceptableAnswers": ["building / periosteum"]
   },
   {
     "id": 73,
     "type": "fitb",
-    "stem": "The four common functions of behaviour are social attention, tangibles or activities, _______________, and _______________.",
-    "answer": "escape or avoidance / sensory stimulation",
-    "acceptableAnswers": [
-      "escape or avoidance / sensory stimulation",
-      "escape / sensory stimulation",
-      "avoidance / sensory stimulation"
-    ]
+    "stem": "Bone tissue converts from cartilage to bone by specialised bone building cells. Bones are connective tissue and are _______________, highly _______________, and metabolically active.",
+    "answer": "strong / vascular",
+    "acceptableAnswers": ["strong / vascular", "highly vascular / strong"]
   },
   {
     "id": 74,
     "type": "fitb",
-    "stem": "Mental health refers to cognitive and emotional wellbeing and is about how we _______________, _______________, and behave.",
-    "answer": "think / feel",
-    "acceptableAnswers": [
-      "think / feel"
-    ]
+    "stem": "The carpals are an example of _______________ bones, which are chunky and boxy in shape, while the femur is an example of a _______________ bone.",
+    "answer": "short / long",
+    "acceptableAnswers": ["short / long"]
   },
   {
     "id": 75,
-    "type": "fitb",
-    "stem": "The WHO definition of health includes complete physical, mental and _______________ well-being, not merely the absence of _______________.",
-    "answer": "social / disease",
-    "acceptableAnswers": [
-      "social / disease",
-      "social / illness"
-    ]
+    "type": "mcq",
+    "stem": "A nurse educator explains that osteons in compact bone are aligned in the direction of the greatest mechanical stress applied to the bone. In the femur (thigh bone), she states: 'The osteons run from one epiphysis to the other.' This alignment provides which specific mechanical advantage?",
+    "options": [
+      "Alignment of osteons along the longitudinal axis of the bone maximises resistance to torsional stress, because the collagen fibres within each lamella alternate direction between adjacent rings, creating a cross-ply resistance to rotational forces",
+      "Osteons tend to be aligned in the same way that force is naturally applied to the bone; in the femur they run from one epiphysis to the other because force is transmitted longitudinally from the hip to the knee, giving the bone great strength in that direction",
+      "Osteon alignment along the bone's long axis provides primary resistance to transverse bending forces, because each Haversian system functions as an independent structural pillar that deflects lateral forces away from the central medullary canal"
+    ],
+    "answer": "B"
   },
   {
     "id": 76,
-    "type": "fitb",
-    "stem": "The theory of psychological equilibrium views health as a _______________ in the process by which humans interact with the _______________.",
-    "answer": "balance / environment",
-    "acceptableAnswers": [
-      "balance / environment"
-    ]
+    "type": "mcq",
+    "stem": "CASE SCENARIO: A community health nurse is educating a group of postmenopausal women about osteoporosis prevention. One woman asks: 'Will drinking milk be enough to protect my bones?' The nurse's MOST comprehensive and evidence-based response is:",
+    "options": [
+      "Adequate dietary calcium intake from milk and dairy products is sufficient to maintain bone mineral density in postmenopausal women, because the intestinal absorption of calcium is highly efficient and does not require co-factors in healthy individuals",
+      "Calcium intake from diet is necessary but not sufficient alone; adequate vitamin D is required for calcium absorption from the intestinal tract, and weight-bearing exercise stimulates osteoblast activity and new bone formation on the periosteum, and all of these together contribute to bone health",
+      "Milk consumption is primarily beneficial for osteoblast proliferation within the periosteum; vitamin D and exercise are unnecessary in postmenopausal women because calcitonin maintains adequate bone mineralisation independently of mechanical stimulation"
+    ],
+    "answer": "B"
   },
   {
     "id": 77,
-    "type": "fitb",
-    "stem": "A mental illness is also called a mental disorder or _______________ disorder and causes distress or _______________.",
-    "answer": "psychiatric / disability",
-    "acceptableAnswers": [
-      "psychiatric / disability",
-      "psychiatric / impairment"
-    ]
+    "type": "mcq",
+    "stem": "A student nurse asks: 'What is the clinical significance of haematopoiesis occurring in red bone marrow?' The MOST accurate and clinically relevant explanation is:",
+    "options": [
+      "Haematopoiesis in red bone marrow produces only erythrocytes and platelets; leucocytes are produced exclusively in lymphoid tissue, making bone marrow clinically relevant only for conditions affecting oxygen delivery and haemostasis",
+      "Haematopoiesis â blood cell production â takes place in red bone marrow, which is found within spongy bone; this is the site where all blood cell types are produced, making it clinically relevant in diseases such as leukaemia, aplastic anaemia, and multiple myeloma",
+      "Haematopoiesis in red bone marrow is a foetal function only; in adults, haematopoiesis transitions entirely to the yellow bone marrow of the medullary canal, making adult bone marrow biopsy unnecessary for haematological disorders"
+    ],
+    "answer": "B"
   },
   {
     "id": 78,
     "type": "fitb",
-    "stem": "The process of defining difficulties as medical conditions under professional authority is called _______________ or _______________.",
-    "answer": "medicalization / pathologization",
-    "acceptableAnswers": [
-      "medicalization / pathologization",
-      "medicalisation / pathologisation",
-      "pathologization / medicalization"
-    ]
+    "stem": "Adjacent osteons in compact bone are linked by _______________ canals running at right angles to the central canal. The cylindrical layers of the osteon are called _______________.",
+    "answer": "perforating / lamellae",
+    "acceptableAnswers": ["perforating / lamellae", "Volkmann's / lamellae", "perforating (Volkmann's) / lamellae"]
   },
   {
     "id": 79,
     "type": "fitb",
-    "stem": "Deviation from social norms must consider culture, _______________, age, _______________, and historical context.",
-    "answer": "situation and context / gender",
-    "acceptableAnswers": [
-      "situation and context / gender",
-      "situation / gender",
-      "context / gender"
-    ]
+    "stem": "The epiphyseal line visible on adult X-rays represents the _______________ remnant of the _______________ plate after bone growth has ceased.",
+    "answer": "bony / epiphyseal",
+    "acceptableAnswers": ["bony / epiphyseal", "calcified / epiphyseal", "ossified / epiphyseal", "bony / growth"]
   },
   {
     "id": 80,
     "type": "fitb",
-    "stem": "FF means _______________ to _______________ adequately.",
-    "answer": "failure / function",
-    "acceptableAnswers": [
-      "failure / function",
-      "Failure / Function"
-    ]
+    "stem": "Testosterone and oestrogen are especially important during abnormal or _______________ development of the skeleton. They help _______________ bone calcium and have a role in the normal growth of bones.",
+    "answer": "excessive / maintain",
+    "acceptableAnswers": ["excessive / maintain"]
   },
   {
     "id": 81,
-    "type": "fitb",
-    "stem": "DIM means deviation from _______________ mental _______________.",
-    "answer": "ideal / health",
-    "acceptableAnswers": [
-      "ideal / health",
-      "Ideal / Health"
-    ]
+    "type": "mcq",
+    "stem": "A nurse is reviewing the development of bone and is asked to explain the role of the blood supply in the ossification of long bones. The MOST accurate explanation is:",
+    "options": [
+      "The blood supply to the developing shaft arrives after osteoid matrix has been fully deposited; its function is to deliver calcium and phosphate salts for mineralisation rather than to initiate or sustain the osteoblast population",
+      "Later the blood supply develops in the shaft and bone tissue replaces cartilage as osteoblasts secrete osteoid; the bone then lengthens from centres of ossification that continue to spread toward the epiphyses as the blood supply expands",
+      "The blood supply to developing bone arrives at the periosteal surface rather than through the nutrient artery foramen and sustains osteoblasts by diffusion through the periosteal plexus during the entire foetal period of long bone development"
+    ],
+    "answer": "B"
   },
   {
     "id": 82,
-    "type": "fitb",
-    "stem": "In statistics, about _______________ percent lies within one standard deviation, while about _______________ percent lies within 1.96 standard deviations.",
-    "answer": "68.3 / 95.45",
-    "acceptableAnswers": [
-      "68.3 / 95.45",
-      "68.3% / 95.45%",
-      "68 / 95"
-    ]
+    "type": "mcq",
+    "stem": "CASE SCENARIO: A 3-year-old child is brought to the paediatric ward following a fall from a chair (height approximately 60 cm). X-ray of the forearm shows that the bone cortex has buckled on the compression side and there is a visible crack on the tension side, but both cortices remain partially connected. The reporting radiologist describes this as a 'green stick' pattern. Which histological property of this child's bone MOST directly explains why the fracture did not complete?",
+    "options": [
+      "Children's bones have a higher proportion of calcium phosphate relative to organic matrix, which increases their resistance to complete fracture by distributing the impact energy across a wider zone of plastic deformation",
+      "Children's bones contain proportionately more collagen than adults' bones; the collagen fibres hold the bone tissue together, so the bone tends to split apart on the side opposite the site of applied force but is less likely to break completely",
+      "Children's bones have a thicker periosteum than adult bones, and the periosteal sleeve holds the two sides of the fracture in proximity, preventing complete cortical separation even under sufficient bending forces to crack the medullary cortex"
+    ],
+    "answer": "B"
   },
   {
     "id": 83,
-    "type": "fitb",
-    "stem": "Normality for one person is called _______________ normality, while comparison across people is _______________ normality.",
-    "answer": "intrapersonal / interpersonal",
-    "acceptableAnswers": [
-      "intrapersonal / interpersonal"
-    ]
+    "type": "mcq",
+    "stem": "A nursing student asks why the epiphyses of long bones are composed primarily of spongy rather than compact bone. The MOST mechanically and physiologically accurate explanation is:",
+    "options": [
+      "The epiphyses are composed of spongy bone because their proximity to the joint surface requires a porous tissue that can absorb and redistribute synovial fluid throughout the epiphyseal marrow space during joint loading",
+      "The spongy bone framework of the epiphyses is aligned to resist the compressive forces transmitted across the joint surface, while its trabecular spaces contain red bone marrow, reducing the weight of the bone ends without sacrificing load-bearing capacity",
+      "The epiphyses are composed of spongy bone because osteoclasts selectively resorb compact bone at the metaphysis during longitudinal growth, converting it to spongy bone as the zone of ossification advances toward the articular cartilage"
+    ],
+    "answer": "B"
   },
   {
     "id": 84,
-    "type": "fitb",
-    "stem": "The five EBD models are biophysical, psychodynamic, cognitive, _______________, and _______________.",
-    "answer": "behavioral / ecological",
-    "acceptableAnswers": [
-      "behavioral / ecological",
-      "behavioural / ecological",
-      "ecological / behavioral",
-      "ecological / behavioural"
-    ]
+    "type": "mcq",
+    "stem": "A registered nurse is asked why the periosteum is described as 'tough and protective' in the outer layer but vascular and osteogenic in the inner layer. Which clinical scenario MOST directly demonstrates the functional importance of the inner periosteal layer?",
+    "options": [
+      "When a patient sustains a blunt trauma to the shin, the outer periosteal layer absorbs the impact force, preventing cortical fracture by distributing the energy across the entire circumference of the tibial shaft",
+      "When a patient sustains a fracture, the osteoblasts of the inner periosteal layer are activated and begin depositing new bone, forming the initial periosteal callus that bridges the fracture site and provides early mechanical stability",
+      "When a patient undergoes bone graft surgery, the outer periosteal layer provides the primary osteoinductive stimulus by releasing bone morphogenetic proteins that diffuse into the graft site and activate host osteoblast progenitors"
+    ],
+    "answer": "B"
   },
   {
     "id": 85,
     "type": "fitb",
-    "stem": "Externalizing disorders involve under-controlled, acting-out behaviours such as fighting, bullying, _______________, and other forms of _______________.",
-    "answer": "cursing / violence",
-    "acceptableAnswers": [
-      "cursing / violence",
-      "swearing / violence"
-    ]
+    "stem": "One or more _______________ arteries supply the bone shaft. The epiphyses have their own blood supply, although in mature bones the capillary networks arising from the two are heavily _______________.",
+    "answer": "nutrient / interconnected",
+    "acceptableAnswers": ["nutrient / interconnected", "nutrient / connected"]
   },
   {
     "id": 86,
     "type": "fitb",
-    "stem": "The quarter-life crisis is usually from the late teens to the early _______________ and is associated with becoming an _______________.",
-    "answer": "thirties / adult",
-    "acceptableAnswers": [
-      "thirties / adult",
-      "30s / adult"
-    ]
+    "stem": "Sesamoid bones form within _______________; the most common example is the _______________, which forms within the patellar tendon.",
+    "answer": "tendons / patella",
+    "acceptableAnswers": ["tendons / patella"]
   },
   {
     "id": 87,
     "type": "fitb",
-    "stem": "Erikson associated young adulthood with the crisis of _______________ versus _______________.",
-    "answer": "intimacy / isolation",
-    "acceptableAnswers": [
-      "intimacy / isolation",
-      "Intimacy / Isolation"
-    ]
+    "stem": "The functions of bone include providing the structural _______________ of the body, giving _______________ to muscles and tendons, and allowing movement of the body as a whole and of its parts at articulations moved by muscles.",
+    "answer": "framework / attachment",
+    "acceptableAnswers": ["framework / attachment"]
   },
   {
     "id": 88,
-    "type": "fitb",
-    "stem": "Menopause occurs when menstruation ceases and the ovaries stop producing _______________; the most common symptom mentioned is _______________.",
-    "answer": "estrogen / hot flashes",
-    "acceptableAnswers": [
-      "estrogen / hot flashes",
-      "oestrogen / hot flushes",
-      "estrogen / hot flushes"
-    ]
+    "type": "mcq",
+    "stem": "A nurse is explaining to a patient why bones are described as 'constantly being renewed and remodelled.' Based on the documented role of osteoblast-osteoclast interaction, the MOST accurate clinical explanation is:",
+    "options": [
+      "Bone remodelling is exclusively a repair response activated by fracture or injury; under normal homeostatic conditions, mature bone is metabolically inert and does not undergo active resorption or formation",
+      "Bone is constantly being renewed and remodelled as a result of the balanced activity of osteoblasts (bone-forming) and osteoclasts (bone-resorbing); this process responds to mechanical demands, hormonal signals, and the need to maintain blood calcium levels",
+      "Bone remodelling is driven exclusively by osteocyte signalling through the canalicular network; osteoblasts and osteoclasts are only recruited when osteocyte apoptosis signals an irreversible breach of the bone's structural integrity threshold"
+    ],
+    "answer": "B"
   },
   {
     "id": 89,
-    "type": "fitb",
-    "stem": "Elders account for only _______________ percent of inpatient psychiatric services and _______________ percent of community mental health services.",
-    "answer": "7 / 6",
-    "acceptableAnswers": [
-      "7 / 6",
-      "7% / 6%"
-    ]
+    "type": "mcq",
+    "stem": "CASE SCENARIO: A 19-year-old male elite sprinter sustains a tibial stress fracture during a competition season. His trainer states: 'He trains 6 hours daily and has done so since age 10.' A sports medicine nurse explains that repetitive mechanical loading without adequate recovery can overwhelm bone remodelling capacity. Which cell type is PRIMARILY responsible for stress fracture development when its activity is EXCEEDED by osteoclastic resorption during repetitive loading cycles?",
+    "options": [
+      "Osteocytes, because their mechanical sensing function through the canalicular network fails to initiate osteoblast recruitment when cumulative microdamage accumulates faster than the signalling cascade can activate a repair response",
+      "Osteoblasts, because when repetitive loading produces microfractures faster than osteoblasts can deposit new osteoid to repair them, the balance tips toward net bone loss and the accumulating microdamage propagates into a complete stress fracture",
+      "Osteoclasts, because in stress fracture development osteoclasts are excessively stimulated by the inflammatory mediators released during repetitive microtrauma and their resorptive activity alone produces the fracture without any osteoblast deficiency"
+    ],
+    "answer": "B"
   },
   {
     "id": 90,
-    "type": "fitb",
-    "stem": "It is estimated that _______________ to _______________ percent of elders need mental health care.",
-    "answer": "18 / 25",
-    "acceptableAnswers": [
-      "18 / 25",
-      "18% / 25%",
-      "eighteen / twenty-five"
-    ]
+    "type": "mcq",
+    "stem": "A nursing student is reviewing the roles of the three types of bone cells and incorrectly states: 'Osteocytes are the most active bone cells because they are the most numerous.' The clinical instructor's MOST accurate correction is:",
+    "options": [
+      "Osteocytes are indeed the most numerous bone cells, but their primary role is to monitor and maintain mature bone tissue rather than to actively form or resorb it; they do not divide and are therefore considered relatively quiescent compared to osteoblasts and osteoclasts",
+      "Osteocytes are the most active bone cells precisely because of their numerical abundance; their canalicular network processes more metabolic signals per unit time than the combined activity of the osteoblast and osteoclast populations",
+      "Osteocytes are both the most numerous and most active bone cells because their de-differentiation capacity allows them to switch between bone formation and bone resorption phenotypes on demand, making osteoblasts and osteoclasts redundant in mature bone"
+    ],
+    "answer": "A"
   },
   {
     "id": 91,
     "type": "fitb",
-    "stem": "Personality originates from the Latin word _______________, meaning _______________.",
-    "answer": "persona / mask",
-    "acceptableAnswers": [
-      "persona / mask"
-    ]
+    "stem": "Osteocytes de-differentiate into _______________ to rebuild or repair the bone in the event of bone damage or disease. These mature bone cells _______________ divide.",
+    "answer": "osteoblasts / do not",
+    "acceptableAnswers": ["osteoblasts / do not", "osteoblasts / cannot"]
   },
   {
     "id": 92,
     "type": "fitb",
-    "stem": "Allport described _______________ psychology as seeking general laws and _______________ psychology as studying the unique individual.",
-    "answer": "nomothetic / idiographic",
-    "acceptableAnswers": [
-      "nomothetic / idiographic"
-    ]
+    "stem": "The microscopic structure of bone tissue is described in which there are three types of bone cells: _______________, bone-building cells; _______________, mature bone cells; and osteoclasts, bone-reabsorbing cells.",
+    "answer": "osteoblasts / osteocytes",
+    "acceptableAnswers": ["osteoblasts / osteocytes"]
   },
   {
     "id": 93,
     "type": "fitb",
-    "stem": "The two major types of personality tests are _______________ and _______________.",
-    "answer": "projective / objective",
-    "acceptableAnswers": [
-      "projective / objective",
-      "objective / projective"
-    ]
+    "stem": "In growing children, damage to the epiphyseal plate can result in the bone being _______________ than its counterpart in the other limb. There is also a risk of _______________.",
+    "answer": "shorter / deformity",
+    "acceptableAnswers": ["shorter / deformity", "shorter / bone deformity", "shorter / deformation"]
   },
   {
     "id": 94,
-    "type": "fitb",
-    "stem": "Projective tests assume personality is primarily _______________ and use a/an _______________ stimulus.",
-    "answer": "unconscious / ambiguous",
-    "acceptableAnswers": [
-      "unconscious / ambiguous",
-      "unconscious / ambiguous stimulus"
-    ]
+    "type": "mcq",
+    "stem": "A nurse is reviewing the structure of long bones with a patient. The patient asks: 'What is the epiphyseal line that shows on my adult X-ray?' The MOST accurate response is:",
+    "options": [
+      "The epiphyseal line is the remnant of the epiphyseal plate, visible as a thin sclerotic line on adult X-ray after the growth plate has fully ossified; its presence confirms that longitudinal growth has ceased permanently",
+      "The epiphyseal line is an artefact of X-ray imaging produced by the difference in radiodensity between the spongy bone of the epiphysis and the compact bone of the diaphysis, and has no clinical significance in adult bone assessment",
+      "The epiphyseal line represents the interface between hyaline articular cartilage and underlying subchondral bone; its visibility on plain X-ray indicates preserved cartilage space and is a positive prognostic indicator for joint health"
+    ],
+    "answer": "A"
   },
   {
     "id": 95,
-    "type": "fitb",
-    "stem": "The Big Five acronym OCEAN stands for Openness, Conscientiousness, Extraversion, _______________, and _______________.",
-    "answer": "Agreeableness / Neuroticism",
-    "acceptableAnswers": [
-      "Agreeableness / Neuroticism",
-      "agreeableness / neuroticism"
-    ]
+    "type": "mcq",
+    "stem": "CASE SCENARIO: A nursing student observes a 60-year-old male patient's X-ray and notes that the cortices of his femur appear thinner than expected and the medullary canal appears widened. The radiologist documents 'endosteal resorption.' Which cell type is MOST directly responsible for the endosteal resorption, and where are these cells found during active bone remodelling?",
+    "options": [
+      "Osteocytes; these cells are distributed throughout the bone matrix and mediate endosteal resorption by releasing lysosomal enzymes through their canalicular processes into the surrounding osteoid matrix",
+      "Osteoclasts; these cells are found on the internal surfaces of the medullary canal during growth and canalising the bone during healing, and when chronically overactive they resorb endosteal bone, widening the medullary canal and thinning the cortex",
+      "Osteoblasts; paradoxically, in osteoporotic bone osteoblasts undergo phenotypic switching and begin resorbing endosteal bone rather than forming new bone, producing the characteristic cortical thinning and medullary canal widening seen on plain X-ray"
+    ],
+    "answer": "B"
   },
   {
     "id": 96,
-    "type": "fitb",
-    "stem": "The Big Five theory emerged in _______________ and was developed by _______________.",
-    "answer": "1949 / D. W. Fiske",
-    "acceptableAnswers": [
-      "1949 / D. W. Fiske",
-      "1949 / Fiske",
-      "1949 / DW Fiske"
-    ]
+    "type": "mcq",
+    "stem": "A nurse is reviewing the haematopoietic function of bone. She asks a student: 'In which bones does haematopoiesis primarily occur in the adult?' Based on the anatomy of red bone marrow distribution, the MOST accurate response is:",
+    "options": [
+      "In the adult, haematopoiesis primarily occurs in the medullary canal of long bones such as the femur and tibia, which retain the largest volume of red bone marrow because these bones bear the greatest mechanical load",
+      "In the adult, haematopoiesis primarily occurs in the spongy bone of flat bones and irregular bones such as the sternum, ribs, vertebrae, and pelvis, as well as the proximal epiphyses of long bones, where red bone marrow is retained",
+      "In the adult, haematopoiesis exclusively occurs within the Haversian canals of compact bone in the skull, because the cranium is the only adult bone that retains the vascular density required to sustain the metabolic demands of blood cell production"
+    ],
+    "answer": "B"
   },
   {
     "id": 97,
     "type": "fitb",
-    "stem": "The highest Big Five heritability estimate listed is for _______________ at _______________ percent.",
-    "answer": "openness / 61",
-    "acceptableAnswers": [
-      "openness / 61",
-      "Openness / 61",
-      "openness / 61%"
-    ]
+    "stem": "Growth hormone and _______________ hormone are especially important during childhood and puberty to stimulate bone growth. _______________ and triiodothyronine are especially important during abnormal development of the skeleton.",
+    "answer": "thyroid / Thyroxine",
+    "acceptableAnswers": ["thyroid / Thyroxine", "thyroid / thyroxine", "thyroid / T4", "thyroid / thyroid hormone"]
   },
   {
     "id": 98,
     "type": "fitb",
-    "stem": "Freud's two basic drives are also called _______________ and _______________.",
-    "answer": "Eros / Thanatos",
-    "acceptableAnswers": [
-      "Eros / Thanatos",
-      "life / death",
-      "life instincts / death instincts"
-    ]
+    "stem": "Compact bone makes up the _______________ layer (cortex) of most bones and the _______________ of the shaft of long bones.",
+    "answer": "outer / walls",
+    "acceptableAnswers": ["outer / walls", "outer / shaft walls", "external / walls"]
   },
   {
     "id": 99,
-    "type": "fitb",
-    "stem": "The energy created by the life instincts is called _______________, while outwardly directed death-instinct energy appears as _______________.",
-    "answer": "libido / aggression",
-    "acceptableAnswers": [
-      "libido / aggression",
-      "libido / violence",
-      "libido / aggression and violence"
-    ]
+    "type": "mcq",
+    "stem": "A clinical nurse educator presents this question: 'A patient with rickets has normal osteoblast activity but deficient vitamin D. What is the DIRECT consequence of vitamin D deficiency on bone mineralisation?' The MOST accurate response is:",
+    "options": [
+      "Vitamin D deficiency directly impairs osteoblast differentiation from mesenchymal stem cells, reducing the number of functional bone-forming cells and consequently decreasing the rate of osteoid matrix deposition",
+      "Vitamin D deficiency impairs calcium and phosphate absorption from the gastrointestinal tract; without adequate substrate for mineralisation, osteoblasts continue to produce osteoid but it cannot be mineralised, resulting in accumulation of soft, unmineralised osteoid â the hallmark of rickets and osteomalacia",
+      "Vitamin D deficiency activates parathyroid hormone-independent osteoclast recruitment, causing accelerated bone resorption that overwhelms normal osteoblast production of osteoid, producing net bone loss and skeletal deformity"
+    ],
+    "answer": "B"
   },
   {
     "id": 100,
-    "type": "fitb",
-    "stem": "Response to external stimuli involves four steps: reception, _______________, preparation, and _______________.",
-    "answer": "interpretation / execution",
-    "acceptableAnswers": [
-      "interpretation / execution"
-    ]
+    "type": "mcq",
+    "stem": "CASE SCENARIO FINAL INTEGRATIVE QUESTION: A 72-year-old woman with a documented 15-year history of postmenopausal osteoporosis is admitted to the orthopaedic ward after sustaining a displaced oblique fracture of the proximal femur while stepping off a kerb. Her bone mineral density T-score is -3.2. She takes calcium supplements but no vitamin D. Her daughter asks: 'Why did her bone break so easily?' The nurse prepares a comprehensive explanation. Which of the following MOST completely integrates ALL relevant contributing factors from the musculoskeletal physiology described in the source material?",
+    "options": [
+      "The fracture is attributable solely to the mechanical trauma of stepping off the kerb combined with the patient's age-related reduction in neuromuscular protective reflexes, making calcium supplementation inadequate as a standalone preventive intervention",
+      "Postmenopausal oestrogen loss allows osteoclast activity to dominate over osteoblast activity, reducing bone mass; inadequate vitamin D means calcium from supplements cannot be properly absorbed from the gut for bone mineralisation; the resulting low mineral density reduces bone strength and causes an oblique fracture from a minor twisting and bending force that a healthy bone would have withstood",
+      "The fracture resulted primarily from the oblique nature of the force applied, which always produces fracture regardless of bone density; the patient's osteoporosis is incidental and the calcium supplementation without vitamin D is only relevant if dietary calcium intake is also inadequate"
+    ],
+    "answer": "B"
   }
 ]
