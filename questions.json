@@ -2,1032 +2,1044 @@
   {
     "id": 1,
     "type": "mcq",
-    "stem": "A nursing student states that the axial skeleton consists of the skull, vertebral column, ribs, sternum, and the shoulder and pelvic girdles. A clinical instructor must correct this. Which statement MOST accurately identifies the correct composition of the axial and appendicular skeletons?",
+    "stem": "A nurse educator explains that topical eye medications achieve high drug concentrations at the ocular site with minimal systemic absorption. However, she cautions that systemic side effects can still occur through a specific anatomical route. Which mechanism MOST precisely explains how topical ophthalmic drops cause systemic side effects despite being applied locally to the eye?",
     "options": [
-      "The axial skeleton consists of the skull, vertebral column, ribs, sternum, and pelvic girdle; the appendicular skeleton consists of the shoulder girdle and all limb bones only",
-      "The axial skeleton consists of the skull, vertebral column, ribs, and sternum; the appendicular skeleton consists of the shoulder and pelvic girdles and the limb bones",
-      "The axial skeleton consists of the skull, vertebral column, shoulder girdle, and sternum; the appendicular skeleton consists of the ribs, pelvic girdle, and all upper and lower limb bones"
+      "Topical eye drops penetrate the corneal epithelium and enter the anterior chamber, where they are absorbed by the uveal vasculature and distributed systemically through the choroidal circulation",
+      "Nasolacrimal duct drainage carries topical ophthalmic medications from the conjunctival sac into the nasal mucosa, where they are absorbed directly into the systemic circulation, bypassing first-pass hepatic metabolism",
+      "Topical eye drops are absorbed through the conjunctival vasculature into the episcleral venous plexus and reach the systemic circulation through the ophthalmic veins draining into the cavernous sinus"
     ],
     "answer": "B"
   },
   {
     "id": 2,
     "type": "mcq",
-    "stem": "A nurse educator asks students to identify the total number of interlocking bones that form the vertebral column. A student answers 33 bones. The MOST accurate correction, consistent with the documented anatomy, is:",
+    "stem": "A nursing student states that miotics reduce IOP by decreasing aqueous humor production in the ciliary body. The clinical instructor must correct this statement. The MOST accurate mechanism by which miotics reduce IOP is:",
     "options": [
-      "The vertebral column contains 33 bones in children, but in adults several fuse to form composite structures; the total number of interlocking bones described in the vertebral column is 26",
-      "The vertebral column always contains 33 individual bones regardless of age, because the sacral and coccygeal vertebrae are counted individually even in adults where they appear fused on imaging",
-      "The vertebral column contains 24 presacral vertebrae that are freely movable, plus the sacrum and coccyx as single composite structures, giving a total of 26 discrete skeletal units"
+      "Miotics stimulate muscarinic receptors in the ciliary muscle and iris sphincter, causing miosis and ciliary muscle contraction, which opens the trabecular meshwork and increases aqueous humor outflow, thereby reducing IOP",
+      "Miotics block beta-adrenergic receptors in the ciliary body epithelium, reducing the rate of aqueous humor secretion and thereby lowering IOP without any significant effect on the trabecular meshwork outflow pathway",
+      "Miotics stimulate alpha-adrenergic receptors in the iris dilator muscle, causing paradoxical pupil constriction and physically widening the iridocorneal angle, which facilitates aqueous humor drainage through Schlemm's canal"
     ],
     "answer": "A"
   },
   {
     "id": 3,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A 45-year-old man presents to the emergency department after a rear-end motor vehicle collision at low speed. He reports neck pain and restricted head rotation bilaterally. X-ray reveals no fracture but the radiologist notes narrowing of the foramina through which the vertebral arteries pass. Based on the anatomy of cervical vertebrae, which specific structural feature of cervical vertebrae is implicated in this finding?",
+    "stem": "CASE SCENARIO: A 68-year-old male patient with a history of asthma and primary open-angle glaucoma is prescribed Timolol 0.5% eye drops twice daily. Two weeks later, he presents to the emergency department with worsening shortness of breath and wheezing. Which pharmacological property of Timolol MOST directly explains this adverse event?",
     "options": [
-      "The spinous process of the cervical vertebra, which is bifid and projects posteriorly; its fracture would impinge directly on the vertebral artery passing through the adjacent posterior elements of the cervical spine",
-      "The transverse foramen of the cervical vertebra, which is a specific feature of cervical vertebrae through which the vertebral artery passes; narrowing of this foramen can compromise vertebral artery blood flow",
-      "The vertebral foramen of the cervical vertebra, through which the spinal cord passes; narrowing of the vertebral foramen would compress the spinal cord rather than the vertebral artery"
+      "Timolol is a \u03b21-selective blocker that primarily reduces heart rate and cardiac output; its respiratory side effects are caused by reflex bronchoconstriction secondary to systemic hypotension rather than direct pulmonary receptor blockade",
+      "Timolol is a non-selective beta-adrenergic blocker that blocks both \u03b21 and \u03b22 receptors; systemic absorption via the nasolacrimal duct allows it to block \u03b22 receptors in bronchial smooth muscle, precipitating bronchospasm in susceptible patients",
+      "Timolol is a \u03b21-selective blocker that does not affect pulmonary \u03b22 receptors; the patient's worsening asthma is caused by the benzalkonium chloride preservative in the eye drop formulation, which is a known bronchial irritant"
     ],
     "answer": "B"
   },
   {
     "id": 4,
     "type": "mcq",
-    "stem": "A nursing student incorrectly states that the skull bones in an adult are fused at immovable joints called fontanelles. The MOST accurate correction is:",
+    "stem": "A nurse is explaining why Betaxolol is preferred over Timolol in patients with concurrent respiratory disease. The MOST pharmacologically accurate explanation is:",
     "options": [
-      "In adults, skull bones are fused at immovable joints called fontanelles; in infants, these same joints are open membranous areas that allow moulding of the head during childbirth",
-      "In adults, skull bones are joined at immovable joints called sutures; fontanelles are distinct membranous areas found at birth where three or more bones do not completely meet, allowing moulding of the head during childbirth",
-      "In adults, skull bones are joined at cartilaginous joints called synchondroses; sutures are the term applied only to the joints between the bones of the face, which remain slightly mobile throughout adult life"
+      "Betaxolol is preferred because it is a non-selective beta-adrenergic blocker with intrinsic sympathomimetic activity, which partially activates \u03b22 receptors in the lung while simultaneously blocking the same receptors, producing a net bronchodilatory effect",
+      "Betaxolol is preferred because it is \u03b21-selective, blocking cardiac beta receptors to reduce aqueous humor production while having significantly less effect on \u03b22 receptors in bronchial smooth muscle, thereby reducing respiratory side effects compared to non-selective agents",
+      "Betaxolol is preferred because it penetrates the blood-brain barrier more effectively than Timolol, allowing it to reduce aqueous humor secretion through central nervous system mechanisms rather than peripheral receptor blockade in the ciliary body"
     ],
     "answer": "B"
   },
   {
     "id": 5,
     "type": "mcq",
-    "stem": "A clinical nurse specialist is reviewing the functions of the cranial sinuses with a group of nursing students. A student asks why upper respiratory tract infections (URTIs) can cause sinusitis. The MOST anatomically accurate explanation is:",
+    "stem": "A nurse is reviewing the pharmacokinetics of topical beta-adrenergic blockers for glaucoma. A student asks when the peak therapeutic effect of Timolol eye drops should be expected after instillation. Based on the documented pharmacokinetics, the MOST accurate answer is:",
     "options": [
-      "The sphenoid, ethmoid, maxillary, and frontal sinuses are air-filled cavities lined with ciliated mucous membrane; they all communicate with the nasal cavity, and upper respiratory tract infections can ascend through this communication to cause sinusitis",
-      "The sinuses communicate directly with the middle ear through the Eustachian tube, and upper respiratory infections spread from the nasopharynx to the sinuses via this route rather than through direct communication with the nasal cavity",
-      "Only the maxillary and frontal sinuses communicate with the nasal cavity; the sphenoid and ethmoid sinuses are self-contained cavities that do not directly connect with the nasal passages and are therefore protected from ascending URTI spread"
+      "Timolol eye drops have an onset of 20\u201330 minutes, reach peak therapeutic effect at 1\u20132 hours after instillation, and have a duration of action of 12\u201324 hours, allowing once or twice daily dosing",
+      "Timolol eye drops have an onset of 15\u201330 minutes, reach peak therapeutic effect at 4\u20138 hours after instillation, and have a duration of action of only 4\u20138 hours, requiring dosing 2\u20134 times daily",
+      "Timolol eye drops have an onset of 3\u20134 hours, reach peak therapeutic effect at 8\u201312 hours after instillation, and have a duration of action of up to 24 hours, making once-daily nocturnal dosing the standard regimen"
     ],
     "answer": "A"
   },
   {
     "id": 6,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A 3-month-old infant is brought to the paediatric clinic for a routine check-up. On examination the nurse notes that the posterior fontanelle is still open. Based on the documented timeline of fontanelle closure, which clinical interpretation is MOST appropriate?",
+    "stem": "CASE SCENARIO: A 55-year-old woman with primary open-angle glaucoma is started on Latanoprost eye drops. After 3 months, her daughter notices that the patient's right eye (the treated eye) has become darker in colour. The patient is alarmed and wants to stop the medication. The nurse's MOST appropriate response is:",
     "options": [
-      "The posterior fontanelle is expected to remain open until 12 to 18 months of age; its closure at 3 months would be premature and indicate craniosynostosis requiring urgent neurosurgical review",
-      "The posterior fontanelle usually ossifies 2 to 3 months after birth, making its continued patency at 3 months borderline; this finding warrants further assessment and monitoring but is at the outer edge of the expected normal closure window",
-      "The posterior fontanelle usually ossifies between 12 and 18 months, while the anterior fontanelle closes at 2 to 3 months; therefore the posterior fontanelle at 3 months is expected to be fully closed and the finding here is abnormal"
+      "Reassure the patient that iris pigmentation changes caused by Latanoprost are fully reversible and the iris will return to its original colour within 6 months of discontinuing the medication; however, stopping the medication will cause IOP to rise",
+      "Explain to the patient that iris pigmentation changes are a known and documented side effect of prostaglandin analog eye drops; these changes are irreversible but are cosmetic and do not affect vision or indicate disease progression",
+      "Advise the patient to discontinue Latanoprost immediately and switch to a beta-blocker, because iris pigmentation changes indicate that the prostaglandin analog is causing intraocular melanocyte activation that could progress to uveal melanoma"
     ],
     "answer": "B"
   },
   {
     "id": 7,
     "type": "mcq",
-    "stem": "A nurse educator asks a student to identify which bone of the skull contains the hypophyseal fossa (sella turcica) where the pituitary gland rests. The MOST accurate answer is:",
+    "stem": "A nurse is reviewing the mechanism of action of prostaglandin analogs with a nursing student. The student incorrectly states that prostaglandin analogs reduce IOP by decreasing aqueous humor production. The MOST accurate correction is:",
     "options": [
-      "The ethmoid bone, which occupies the anterior part of the base of the skull and contains a horizontal flattened plate called the cribriform plate, on the superior surface of which the pituitary gland rests",
-      "The sphenoid bone, which forms the middle part of the base of the skull; on its superior surface in the middle of the bone is a little saddle-shaped depression, the hypophyseal fossa (sella turcica), in which the pituitary gland rests",
-      "The occipital bone, which forms the back of the head and base of the skull; its inner surface is deeply concave to accommodate the cerebellum, and the pituitary gland rests in a depression on its basilar portion"
+      "Prostaglandin analogs reduce IOP by stimulating muscarinic receptors in the ciliary muscle, causing contraction that opens the trabecular meshwork and increases conventional aqueous outflow through Schlemm's canal",
+      "Prostaglandin analogs reduce IOP by increasing uveoscleral outflow of aqueous humor by relaxing the ciliary muscle, allowing fluid to drain through the uveoscleral pathway rather than the conventional trabecular meshwork route",
+      "Prostaglandin analogs reduce IOP by inhibiting carbonic anhydrase in the ciliary body epithelium, reducing the active secretion of aqueous humor into the posterior chamber and thereby lowering IOP through decreased production"
     ],
     "answer": "B"
   },
   {
     "id": 8,
     "type": "fitb",
-    "stem": "The cranium is formed by several flat and irregular bones that protect the brain; these bones include _______________ frontal bone, _______________ parietal bones, and _______________ occipital bone.",
-    "answer": "1 / 2 / 1",
+    "stem": "Miotics open the trabecular meshwork, increasing aqueous humor _______________ and reducing IOP.",
+    "answer": "outflow",
     "acceptableAnswers": [
-      "1 / 2 / 1",
-      "one / two / one"
+      "outflow",
+      "drainage"
     ]
   },
   {
     "id": 9,
     "type": "fitb",
-    "stem": "The vertebral arch is formed from two lateral walls called _______________ and two posterior walls called _______________.",
-    "answer": "pedicles / laminae",
+    "stem": "The onset of action of miotic eye drops is _______________ minutes, with a duration of action of _______________ hours.",
+    "answer": "15\u201330 / 4\u20138",
     "acceptableAnswers": [
-      "pedicles / laminae"
+      "15\u201330 / 4\u20138",
+      "15 to 30 / 4 to 8",
+      "15-30 / 4-8"
     ]
   },
   {
     "id": 10,
     "type": "fitb",
-    "stem": "The skeleton of the face is formed by _______________ bones in addition to the frontal bone already described, making the face an intricate _______________ jigsaw puzzle.",
-    "answer": "13 / three-dimensional",
+    "stem": "The onset of action of miotic eye drops is _______________ to _______________ minutes, with a duration of action of _______________ to 8 hours.",
+    "answer": "15 / 30 / 4",
     "acceptableAnswers": [
-      "13 / three-dimensional",
-      "thirteen / three-dimensional",
-      "13 / 3-dimensional"
+      "15 / 30 / 4",
+      "15 to 30 minutes / 4"
     ]
   },
   {
     "id": 11,
     "type": "mcq",
-    "stem": "A nursing student is asked to identify which bone of the face is the only movable bone of the skull. She incorrectly names the maxilla. The MOST accurate correction is:",
+    "stem": "A nurse is preparing to administer Pilocarpine eye drops to a patient with acute angle-closure glaucoma in the emergency setting. Which nursing consideration is MOST critical regarding the correct technique for instilling these drops?",
     "options": [
-      "The maxilla is the only movable bone of the skull; it forms the upper jaw and its downward and forward movement opens the mouth and permits chewing through the temporomaxillary joint",
-      "The mandible is the only movable bone of the skull, permitting the opening and closing of the mouth and chewing through the temporomandibular joint",
-      "The vomer is the only movable bone of the skull; it forms the lower part of the nasal septum and is able to deviate laterally in response to nasal trauma because it is not fused to adjacent bones"
+      "Administer the drops directly onto the centre of the cornea to maximise absorption through the corneal epithelium, and instruct the patient to blink rapidly after instillation to distribute the medication across the entire ocular surface",
+      "Instill the drops into the conjunctival sac while avoiding corneal contact, and teach punctal occlusion by applying gentle pressure on the nasolacrimal duct for 1\u20132 minutes immediately after instillation to reduce systemic absorption",
+      "Administer the drops while the patient is supine with the head tilted back, and apply firm digital pressure over the closed eyelid for 5 minutes after instillation to force the medication into the anterior chamber through the limbal vasculature"
     ],
     "answer": "B"
   },
   {
     "id": 12,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A 28-year-old female patient is admitted following facial trauma. CT imaging reveals a fracture involving the bone that forms the prominences of the cheeks and part of the floor and lateral walls of the orbital cavities. Which bone is fractured?",
+    "stem": "CASE SCENARIO: A 72-year-old woman with a history of uveitis and primary open-angle glaucoma is evaluated for initiation of miotic therapy with Pilocarpine. The prescribing physician asks the nurse to identify any contraindications to this medication. Which finding in this patient's history constitutes a DIRECT contraindication to Pilocarpine?",
     "options": [
-      "The maxilla, which forms the upper jaw, the anterior part of the roof of the mouth, the lateral walls of the nasal cavity, and part of the floor of the orbital cavities on each side",
-      "The zygomatic bone, which forms the prominences of the cheeks and part of the floor and lateral walls of the orbital cavities",
-      "The lacrimal bone, which is posterior and lateral to the nasal bones and forms part of the medial walls of the orbital cavities on each side"
+      "The patient's age of 72, because elderly patients have reduced ciliary muscle responsiveness to cholinergic stimulation, making Pilocarpine ineffective and increasing the risk of paradoxical IOP elevation",
+      "The patient's history of uveitis, because miosis caused by Pilocarpine may exacerbate ocular inflammation by increasing vascular permeability through muscarinic receptor stimulation in the uveal vasculature",
+      "The patient's primary open-angle glaucoma diagnosis, because Pilocarpine is only indicated for acute angle-closure glaucoma and its use in open-angle glaucoma may worsen the condition by increasing aqueous humor production"
     ],
     "answer": "B"
   },
   {
     "id": 13,
     "type": "mcq",
-    "stem": "A nurse is explaining the significance of the foramen magnum to a student. The student asks which bone contains this structure and what passes through it. The MOST complete and accurate answer is:",
+    "stem": "A nurse is monitoring a patient for systemic side effects of Pilocarpine eye drops. Which combination of systemic effects would MOST specifically indicate cholinergic toxicity from systemic absorption of this miotic agent?",
     "options": [
-      "The foramen magnum is located in the sphenoid bone; the optic nerves and vertebral arteries pass through it bilaterally, explaining why sphenoid bone fractures can cause simultaneous visual loss and posterior circulation stroke",
-      "The foramen magnum is located in the occipital bone; the spinal cord passes from the cranial cavity through the foramen magnum, and the bone also has two articular condyles that form condyloid joints with the atlas (first cervical vertebra)",
-      "The foramen magnum is located at the junction of the occipital and temporal bones and serves as the exit point for the spinal cord; the temporal bones contribute to its lateral margins through the jugular foramina on each side"
+      "Tachycardia, hypertension, dry mouth, and urinary retention \u2014 a constellation consistent with muscarinic receptor blockade rather than stimulation, indicating paradoxical anticholinergic toxicity from excessive miotic exposure",
+      "Sweating, salivation, bradycardia, and gastrointestinal upset \u2014 a constellation consistent with cholinergic (muscarinic) stimulation resulting from systemic absorption of the muscarinic agonist through the nasolacrimal drainage pathway",
+      "Bronchospasm, hypertension, reflex bradycardia, and pupillary dilation \u2014 a constellation consistent with alpha-adrenergic stimulation resulting from rebound sympathomimetic effects following withdrawal of cholinergic tone"
     ],
     "answer": "B"
   },
   {
     "id": 14,
     "type": "fitb",
-    "stem": "The sphenoid bone forms the _______________ part of the base of the skull and articulates with the occipital, temporal, parietal, and frontal bones, effectively _______________ the skull.",
-    "answer": "middle / cross-bracing",
+    "stem": "Prostaglandin analogs are administered _______________ daily, typically at _______________, and examples include Latanoprost, Bimatoprost, and Travoprost.",
+    "answer": "once / night",
     "acceptableAnswers": [
-      "middle / cross-bracing",
-      "middle / cross bracing"
+      "once / night",
+      "once / nighttime",
+      "once / bedtime"
     ]
   },
   {
     "id": 15,
     "type": "fitb",
-    "stem": "The two largest fontanelles are the _______________ fontanelle, which does not fully ossify until 12 to 18 months, and the _______________ fontanelle, usually ossified 2 to 3 months after birth.",
-    "answer": "anterior / posterior",
+    "stem": "Latanoprost should be stored in the _______________ before opening; once opened, it can be kept at _______________ temperature for up to 6 weeks.",
+    "answer": "refrigerator / room",
     "acceptableAnswers": [
-      "anterior / posterior"
+      "refrigerator / room"
     ]
   },
   {
     "id": 16,
     "type": "fitb",
-    "stem": "The vertebral arch has four articular surfaces: _______________ articulate with the vertebra above and _______________ with the one below.",
-    "answer": "two / two",
+    "stem": "Latanoprost should be stored in the _______________ before opening; once opened it can be kept at room temperature for up to 6 weeks.",
+    "answer": "refrigerator",
     "acceptableAnswers": [
-      "two / two",
-      "2 / 2"
+      "refrigerator",
+      "fridge"
     ]
   },
   {
     "id": 17,
     "type": "mcq",
-    "stem": "A nurse is reviewing the ethmoid bone with a nursing student. The student asks which specific horizontal structure of the ethmoid bone forms the roof of the nasal cavity. The MOST accurate answer is:",
+    "stem": "A nurse is reviewing carbonic anhydrase inhibitor (CAI) pharmacology. A student asks why oral Acetazolamide causes a bitter taste in patients who receive it as an adjunct for acute angle-closure glaucoma. The MOST accurate pharmacological explanation is:",
     "options": [
-      "The perpendicular plate of the ethmoid bone forms the roof of the nasal cavity; its horizontal orientation allows olfactory nerve fibres to pass through it from the nasal cavity upward to the olfactory bulbs",
-      "The cribriform plate is the horizontal flattened part of the ethmoid bone that forms the roof of the nasal cavity and has numerous small foramina through which nerve fibres of the olfactory nerve pass upward from the nasal cavity to the brain",
-      "The superior concha of the ethmoid bone forms the roof of the nasal cavity; the cribriform plate is the vertical component of the ethmoid that contributes to the upper part of the nasal septum"
+      "The bitter taste from oral Acetazolamide is caused by the drug's carbonate ion byproduct, which accumulates in the saliva of patients with reduced renal clearance and stimulates bitter taste receptors on the posterior tongue",
+      "Topical CAIs like Dorzolamide cause a bitter taste due to nasopharyngeal drainage of the eye drop through the nasolacrimal duct; the drug reaches the posterior pharynx and stimulates bitter taste receptors on the palate and tongue",
+      "Oral Acetazolamide itself has an intrinsically bitter chemical structure; this is not related to topical drainage but rather to systemic drug distribution, and the taste occurs immediately after swallowing the tablet"
     ],
     "answer": "B"
   },
   {
     "id": 18,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A 19-year-old male patient is brought to the emergency unit after a blow to the face during a rugby match. He reports pain on opening his mouth, jaw deviation to the right on opening, and preauricular swelling on the right side. Based on the anatomy of the mandible and its articulation, which structure and joint are MOST likely involved?",
+    "stem": "CASE SCENARIO: A 60-year-old male patient with glaucoma and a known sulfa drug allergy presents to the ophthalmology clinic. The ophthalmologist plans to add a carbonic anhydrase inhibitor to his regimen. Which nursing action is MOST appropriate before initiating CAI therapy in this patient?",
     "options": [
-      "The coronoid process of the mandible has been fractured, disrupting the attachment of the temporalis muscle; the resulting muscle imbalance produces ipsilateral jaw deviation during mouth opening",
-      "The condylar process of the mandible, which articulates with the temporal bone to form the temporomandibular joint \u2014 the only movable joint of the skull \u2014 is likely injured, producing the preauricular swelling and restricted jaw movement",
-      "The alveolar ridge of the mandible has been disrupted by the blow, and the resulting dental displacement is compressing the inferior alveolar nerve, producing both pain on mouth opening and the observed jaw deviation"
+      "Administer a test dose of oral Acetazolamide under nursing supervision with an antihistamine premedication, because the sulfa cross-sensitivity with CAIs is theoretical and has not been proven in controlled clinical trials",
+      "Hold all CAI therapy and notify the prescribing ophthalmologist immediately, because sulfa allergy represents a direct contraindication to all carbonic anhydrase inhibitors due to their cross-sensitivity with sulfonamides",
+      "Substitute Dorzolamide for Acetazolamide because Dorzolamide is a topical agent with negligible systemic absorption, making it safe to use in patients with sulfa allergy without risk of cross-reactive systemic hypersensitivity"
     ],
     "answer": "B"
   },
   {
     "id": 19,
     "type": "mcq",
-    "stem": "A nurse is explaining the anatomical reason why the bodies of vertebrae increase in size toward the base of the spine. A student asks what functional principle underlies this structural gradient. The MOST accurate explanation is:",
+    "stem": "A nursing student is studying the pharmacokinetics of prostaglandin analogs for glaucoma and asks which answer MOST accurately describes their onset, peak, and duration of action after instillation:",
     "options": [
-      "The vertebral bodies increase in size toward the base of the spine because the intervertebral discs between them also increase in height inferiorly, and the combined body-disc unit must be proportionally larger to maintain spinal alignment and curvature",
-      "The vertebral bodies increase greatly in size toward the base of the spine because the lower spine has to support much more weight than the upper regions, requiring larger surfaces to distribute increasing axial load",
-      "The vertebral bodies increase in size toward the base of the spine because they contain progressively larger haematopoietic red bone marrow reserves, and this increased marrow volume requires proportionally larger vertebral body dimensions"
+      "Prostaglandin analogs have an onset of 15\u201330 minutes, peak effect at 1\u20132 hours, and a duration of 4\u20138 hours; this short duration requires dosing 3\u20134 times daily to maintain consistent IOP reduction throughout a 24-hour period",
+      "Prostaglandin analogs have an onset of 20\u201330 minutes, peak effect at 1\u20132 hours, and a duration of 12\u201324 hours; this prolonged duration of action allows once or twice daily dosing and makes them pharmacokinetically equivalent to beta-adrenergic blockers",
+      "Prostaglandin analogs have an onset of 3\u20134 hours, peak effect at 8\u201312 hours, and a duration of up to 24 hours; this delayed onset and prolonged duration justifies once-daily nocturnal dosing to achieve maximum IOP reduction during sleep"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 20,
+    "type": "mcq",
+    "stem": "A nurse is teaching a patient about the correct administration of prostaglandin analog eye drops. The patient wears soft contact lenses and asks whether she needs to remove them before instillation. The nurse's MOST accurate response is:",
+    "options": [
+      "Contact lenses do not need to be removed before prostaglandin instillation; the medication should be administered directly over soft contact lenses, and the lenses should be removed 15 minutes after instillation once the drug has been absorbed",
+      "Remove contact lenses before instillation and wait 15 minutes before reinserting them, because preservatives such as benzalkonium chloride in prostaglandin analog formulations can be absorbed by soft contact lenses and cause ocular toxicity",
+      "Remove contact lenses before instillation and wait 30 minutes before reinserting them, because prostaglandin analogs cause pupillary dilation that makes contact lens insertion difficult and increases the risk of corneal abrasion during insertion"
     ],
     "answer": "B"
   },
   {
-    "id": 20,
-    "type": "fitb",
-    "stem": "The hyoid bone is described as an isolated _______________ shaped bone that lies in the soft tissues of the neck just above the larynx and below the mandible; it supports the _______________ and gives attachment to the base of the tongue.",
-    "answer": "horseshoe / larynx",
-    "acceptableAnswers": [
-      "horseshoe / larynx"
-    ]
-  },
-  {
     "id": 21,
     "type": "fitb",
-    "stem": "The vomer is a thin flat bone that extends upward through the middle of the nasal septum; superiorly it articulates with the _______________ plate of the ethmoid bone.",
-    "answer": "perpendicular",
+    "stem": "Beta-adrenergic blockers have a pharmacokinetic onset of _______________ minutes, reach peak effect at _______________ hours, and maintain a duration of action of 12\u201324 hours.",
+    "answer": "20\u201330 / 1\u20132",
     "acceptableAnswers": [
-      "perpendicular"
+      "20\u201330 / 1\u20132",
+      "20-30 / 1-2",
+      "20 to 30 / 1 to 2"
     ]
   },
   {
     "id": 22,
     "type": "fitb",
-    "stem": "The mastoid part of the temporal bone contains the mastoid process, a thickened region easily felt behind the _______________, and contains very small air sinuses that communicate with the _______________.",
-    "answer": "ear / middle ear",
+    "stem": "Beta-adrenergic blockers have a pharmacokinetic onset of _______________ to 30 minutes, reach peak effect at _______________ to 2 hours, and maintain a duration of action of _______________ to 24 hours.",
+    "answer": "20 / 1 / 12",
     "acceptableAnswers": [
-      "ear / middle ear"
+      "20 / 1 / 12"
     ]
   },
   {
     "id": 23,
-    "type": "mcq",
-    "stem": "A nursing student incorrectly identifies the palatine bones as 'the bones that form the roof of the mouth entirely.' The MOST accurate correction is:",
-    "options": [
-      "The palatine bones form the entire hard palate; the maxilla contributes only to the dental alveolar arch, not to the palate itself, so the palatine bones are the sole bones forming the roof of the oral cavity",
-      "The palatine bones are two small L-shaped bones; their horizontal parts unite to form the posterior part of the hard palate while the perpendicular parts project upward to form part of the lateral walls of the nasal cavity",
-      "The palatine bones are flat bones that form both the hard palate and the orbital floor; each one is pierced by a foramen through which the nasolacrimal duct passes, carrying tears from the medial canthus of the eye to the nasal cavity"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "Topical carbonic anhydrase inhibitors have an onset within _______________ hours and a duration of _______________ hours, while oral CAIs produce systemic effects with a higher risk of side effects.",
+    "answer": "1\u20132 / 8\u201312",
+    "acceptableAnswers": [
+      "1\u20132 / 8\u201312",
+      "1-2 / 8-12",
+      "one to two / eight to twelve"
+    ]
   },
   {
     "id": 24,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A 55-year-old male patient with Parkinson's disease presents to the neurology ward. During assessment, the nurse notices the patient cannot smell coffee held under his nose. Based on the anatomy of the ethmoid bone and olfactory pathway, which specific structural feature of the ethmoid bone is implicated in olfactory transmission, and through which pathway do nerve fibres travel?",
+    "stem": "A nurse is reviewing the contraindications to beta-adrenergic blocker eye drops with nursing students. A student asks why heart block is listed as a contraindication when the medication is administered topically rather than systemically. The MOST accurate explanation is:",
     "options": [
-      "The superior concha of the ethmoid contains specialised olfactory epithelium, and nerve fibres from this region travel through the perpendicular plate of the ethmoid downward into the nasopharynx before ascending to the olfactory cortex",
-      "Numerous small foramina in the cribriform plate of the ethmoid bone allow nerve fibres of the olfactory nerve to pass upward from the nasal cavity to the brain; damage to this pathway impairs the sense of smell",
-      "The middle concha of the ethmoid bone directs inspired air across the olfactory epithelium in the roof of the nasal cavity; turbulence created by the concha is the primary mechanism of olfactory nerve stimulation rather than direct nerve transmission"
+      "Heart block is listed as a contraindication because beta-blockers impair the cardiac conduction system through direct local effects on the conjunctival venous plexus; this mechanism is independent of systemic absorption",
+      "Systemic absorption of topical beta-blockers via the nasolacrimal duct can cause cardiovascular effects including worsening of existing heart block, bradycardia, or hypotension, making pre-existing cardiac conduction disease a contraindication",
+      "Heart block is only a relative contraindication for Timolol specifically; Betaxolol's \u03b21-selectivity means it is completely safe in patients with all degrees of heart block and can be used without restriction in patients with complete heart block"
     ],
     "answer": "B"
   },
   {
     "id": 25,
     "type": "mcq",
-    "stem": "A student nurse is asked to identify the specific part of the temporal bone that contains and protects the organs of hearing and balance. The MOST accurate answer is:",
+    "stem": "CASE SCENARIO: A 65-year-old woman with type 2 diabetes, hypertension, and primary open-angle glaucoma is prescribed Timolol 0.25% eye drops. Her current medications include metoprolol for heart rate control. The nurse recognises a significant drug interaction. Which complication is MOST directly predicted by the concurrent use of topical Timolol and systemic metoprolol?",
     "options": [
-      "The squamous part of the temporal bone contains and protects the organs of hearing and balance; it is the fan-shaped thin part that forms the lateral part of the skull and contains the mastoid air cells adjacent to the middle ear",
-      "The petrous part of the temporal bone forms part of the base of the skull and contains and protects the organs of hearing (the spiral organ of Corti) and balance (the semicircular canals)",
-      "The mastoid part of the temporal bone contains and protects the organs of hearing and balance; the mastoid air sinuses communicate directly with the cochlea and semicircular canals of the inner ear"
+      "The concurrent use of Timolol and metoprolol may cause additive beta-adrenergic blockade leading to severe bradycardia, hypotension, heart block, or uncontrolled heart failure; systemic absorption of topical Timolol augments the systemic beta-blockade from metoprolol",
+      "The concurrent use of Timolol and metoprolol will reduce the IOP-lowering efficacy of Timolol because metoprolol competitively occupies ocular beta receptors in the ciliary body, preventing Timolol from binding to its target receptor",
+      "The concurrent use of Timolol and metoprolol may cause rebound hypertension because combined beta-blockade eliminates the vasodilatory effect of \u03b22 stimulation in the systemic vasculature, causing unopposed alpha-adrenergic mediated vasoconstriction"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 26,
     "type": "mcq",
-    "stem": "A nurse is reviewing the regional characteristics of the vertebral column. She is asked which specific feature is UNIQUE to cervical vertebrae and distinguishes them from all other vertebral types. The MOST accurate answer is:",
+    "stem": "A nurse is reviewing the goals of ophthalmic pharmacotherapy with a patient newly diagnosed with glaucoma. A student nurse asks which is the primary therapeutic goal of all anti-glaucoma medications regardless of drug class. The MOST accurate answer is:",
     "options": [
-      "The bifid spinous process is unique to cervical vertebrae and is found on all seven cervical vertebrae; its presence on a vertebra definitively identifies it as belonging to the cervical region of the spine",
-      "The transverse foramen is unique to cervical vertebrae; this opening in the transverse process transmits the vertebral artery and is not found in thoracic, lumbar, sacral, or coccygeal vertebrae",
-      "The superior articular process with a facet for articulation with adjacent vertebrae is unique to cervical vertebrae; all other vertebral types have inferior articular processes only, and the paired superior facets distinguish cervical vertebrae anatomically"
+      "The primary therapeutic goal is to eliminate the root cause of glaucoma by restoring normal trabecular meshwork function through pharmacological mechanisms that reverse the pathological changes in the conventional outflow pathway",
+      "The primary therapeutic goal is to reduce intraocular pressure (IOP) to prevent progressive optic nerve damage and visual field loss; all anti-glaucoma drug classes achieve this through either reducing aqueous humor production or increasing its outflow",
+      "The primary therapeutic goal is to improve visual acuity by reducing the refractive error caused by elevated IOP; normalising IOP restores the eye's natural refractive geometry and eliminates the myopic shift associated with glaucomatous globe expansion"
     ],
     "answer": "B"
   },
   {
     "id": 27,
-    "type": "fitb",
-    "stem": "The parietal bones form the sides and roof of the skull. They articulate with each other at the _______________ suture and with the frontal bone at the _______________ suture.",
-    "answer": "sagittal / coronal",
-    "acceptableAnswers": [
-      "sagittal / coronal"
-    ]
+    "type": "mcq",
+    "stem": "A nurse is educating a patient about a newly prescribed Dorzolamide-Timolol combination eye drop. The patient asks why two drugs are combined in one drop. The MOST therapeutically accurate explanation is:",
+    "options": [
+      "Combining Dorzolamide and Timolol in one formulation creates a synergistic pharmacodynamic interaction where each drug amplifies the other's mechanism of action beyond what either drug could achieve alone, creating a combined IOP reduction greater than the sum of the individual effects",
+      "Combining a carbonic anhydrase inhibitor and a beta-blocker in one formulation targets two different mechanisms of IOP reduction simultaneously \u2014 decreased aqueous production via carbonic anhydrase inhibition and decreased aqueous production via beta-blockade \u2014 improving adherence through reduced drop burden",
+      "The combination is created primarily to counteract the side effects of each individual drug; Timolol's systemic beta-blockade is neutralised by Dorzolamide's carbonic anhydrase inhibition, and Dorzolamide's bitter taste is masked by Timolol's mild local anaesthetic properties"
+    ],
+    "answer": "B"
   },
   {
     "id": 28,
     "type": "fitb",
-    "stem": "The frontal bone originates in the fetus in _______________ parts, joined in the midline by the frontal suture, and is converted entirely to bone _______________ after birth.",
-    "answer": "two / shortly",
+    "stem": "Prostaglandin analogs increase _______________ outflow of aqueous humor by relaxing the _______________ muscle, which is distinct from the trabecular meshwork drainage pathway.",
+    "answer": "uveoscleral / ciliary",
     "acceptableAnswers": [
-      "two / shortly",
-      "2 / shortly"
+      "uveoscleral / ciliary"
     ]
   },
   {
     "id": 29,
     "type": "fitb",
-    "stem": "The vertebral column provides direct and indirect support for the _______________ skeleton and the _______________ muscles that move it, and contains _______________ interlocking bones stacked on top of each other.",
-    "answer": "entire / skeletal / 26",
+    "stem": "The systemic side effects of topical beta-adrenergic blockers include bradycardia, _______________, bronchospasm especially with non-selective agents, fatigue, and _______________.",
+    "answer": "hypotension / depression",
     "acceptableAnswers": [
-      "entire / skeletal / 26",
-      "whole / skeletal / 26"
+      "hypotension / depression"
     ]
   },
   {
     "id": 30,
-    "type": "mcq",
-    "stem": "A nurse is reviewing the lacrimal bones with a student. The student asks what specific functional structure passes through the foramen in each lacrimal bone. The MOST accurate answer, based on the documented anatomy, is:",
-    "options": [
-      "Each lacrimal bone is pierced by a foramen through which the lacrimal artery passes, supplying blood to the medial canthus of the eye and the conjunctival surface; disruption of this foramen causes dry eye syndrome",
-      "Each lacrimal bone is pierced by a foramen through which the nasolacrimal duct passes, carrying tears from the medial canthus of the eye to the nasal cavity; this is why nasal discharge accompanies crying",
-      "Each lacrimal bone is pierced by a foramen through which the lacrimal vein passes, draining venous blood from the orbital cavity into the cavernous sinus; fractures through this foramen produce periorbital ecchymosis"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "Oral carbonic anhydrase inhibitors are contraindicated in patients with _______________ allergy due to cross-sensitivity with sulfonamides, and in patients with severe _______________ or hepatic impairment.",
+    "answer": "sulfa / renal",
+    "acceptableAnswers": [
+      "sulfa / renal",
+      "sulfonamide / renal"
+    ]
   },
   {
     "id": 31,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A 6-year-old child presents to the paediatric ward with recurrent ear infections. The ENT surgeon explains to the parents that the mastoid region of the temporal bone is involved and that untreated infection can spread to adjacent structures. Based on the documented anatomy of the mastoid part of the temporal bone, which adjacent structure is at GREATEST risk from direct spread of mastoid infection?",
+    "stem": "A nurse is monitoring an elderly patient on topical Timolol eye drops for glaucoma. Which specific monitoring parameter is MOST important for this patient population, and at what frequency should it be assessed?",
     "options": [
-      "The petrous portion of the temporal bone is the greatest risk because mastoid air sinuses communicate directly with the cochlea; infection spreads through these communications to cause labyrinthitis and sensorineural hearing loss",
-      "The mastoid part contains very small air sinuses that communicate with the middle ear; infection can spread from the middle ear to the mastoid air cells (mastoiditis) and then potentially to intracranial structures through the thin overlying bone",
-      "The squamous part of the temporal bone is the greatest risk because it forms the lateral wall of the cranial cavity immediately adjacent to the mastoid process; thin bone in this area can be breached by direct extension of mastoid infection into the epidural space"
+      "Intraocular pressure should be monitored weekly in elderly patients because the ciliary body becomes less responsive to beta-blockade with age, and dose escalation is typically required within 4 weeks of initiation to maintain therapeutic IOP reduction",
+      "Heart rate and blood pressure should be regularly assessed especially in elderly patients because systemic absorption of topical beta-blockers causes cardiovascular effects that are more pronounced and potentially dangerous in this age group",
+      "Serum potassium levels should be monitored monthly in elderly patients because topical beta-blockers stimulate potassium secretion in the renal collecting duct, causing hypokalaemia that is particularly dangerous in elderly patients with cardiac disease"
     ],
     "answer": "B"
   },
   {
     "id": 32,
     "type": "mcq",
-    "stem": "A nursing student is asked to identify which two bones of the face form most of the lateral and superior surfaces of the bridge of the nose. The MOST accurate answer is:",
+    "stem": "CASE SCENARIO: A 58-year-old male patient receiving Dorzolamide (topical CAI) 3 times daily for ocular hypertension reports a persistent unpleasant bitter sensation in his mouth immediately after instilling his eye drops. He asks the nurse why this is happening. The MOST accurate pharmacological explanation is:",
     "options": [
-      "The nasal bones are two small flat bones that form most of the lateral and superior surfaces of the bridge of the nose; the inferior part of the visible nose consists of cartilage rather than bone",
-      "The maxillary bones form most of the lateral and superior surfaces of the bridge of the nose through their frontal processes, which project superiorly from the body of the maxilla to form the nasal bridge",
-      "The lacrimal bones are responsible for forming the bridge of the nose; their position posterior and lateral to the nasal bones gives the nose its characteristic lateral contour at the superior nasal bridge"
+      "The bitter taste is caused by corneal epithelial absorption of the Dorzolamide; when it reaches the aqueous humor, it alters the pH of the fluid, which then drains through the pupil and exits the eye via the nasolacrimal system, reaching the taste buds",
+      "The bitter taste is caused by nasopharyngeal drainage of the topical Dorzolamide through the nasolacrimal duct; the drop drains from the conjunctival sac into the nose and then to the posterior pharynx, where it contacts taste receptors",
+      "The bitter taste is caused by the systemic absorption of Dorzolamide through conjunctival blood vessels; once in the bloodstream, it crosses the blood-saliva barrier and is secreted into saliva at a concentration sufficient to activate bitter taste receptors"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 33,
-    "type": "fitb",
-    "stem": "The styloid process of the temporal bone projects from its _______________ part and gives attachment to muscles associated with the _______________ and pharynx.",
-    "answer": "lower / tongue",
-    "acceptableAnswers": [
-      "lower / tongue"
-    ]
+    "type": "mcq",
+    "stem": "A nurse is reviewing safety considerations for Timolol eye drops. The medication is available in concentrations of 0.25% and 0.5%. A nursing student asks when the lower concentration would be preferred. The MOST clinically accurate answer is:",
+    "options": [
+      "Timolol 0.25% is used in patients with severe asthma or COPD because the lower concentration produces less systemic absorption; however, the 0.5% concentration is required for adequate IOP reduction and must be used once the patient's respiratory condition is stabilised",
+      "Timolol 0.25% is preferred in patients who are beta-blocker naive, are elderly, or have cardiovascular risk factors because both concentrations are clinically effective for IOP reduction but the lower concentration carries a lower risk of systemic cardiovascular side effects",
+      "Timolol 0.25% is used exclusively for once-daily dosing regimens, while Timolol 0.5% is exclusively used for twice-daily dosing; the choice of concentration is determined by the dosing schedule rather than patient characteristics or systemic risk"
+    ],
+    "answer": "B"
   },
   {
     "id": 34,
-    "type": "fitb",
-    "stem": "The spinous process is formed where the two _______________ meet at the back of the vertebra, and the transverse process is a lateral prominence formed where the _______________ meets the lamina.",
-    "answer": "laminae / pedicle",
-    "acceptableAnswers": [
-      "laminae / pedicle"
-    ]
+    "type": "mcq",
+    "stem": "A patient with primary open-angle glaucoma on Latanoprost reports that her eyelashes on the treated eye are significantly longer and thicker than the untreated eye. She is distressed. The nurse's MOST accurate and appropriate response is:",
+    "options": [
+      "Eyelash growth is a serious adverse effect of Latanoprost indicating drug toxicity at the ciliary margin; the medication should be discontinued and the ophthalmologist notified, as continued use will cause permanent structural changes to the eyelid follicles",
+      "Eyelash growth (hypertrichosis) is a known, documented, and cosmetically bothersome but medically benign side effect of prostaglandin analog eye drops; it occurs on the treated side only and may be reversed by discontinuing the medication if it is unacceptable to the patient",
+      "Eyelash growth is caused by a hypersensitivity reaction to benzalkonium chloride in the Latanoprost formulation rather than to Latanoprost itself; switching to a preservative-free formulation will resolve the eyelash growth without requiring medication discontinuation"
+    ],
+    "answer": "B"
   },
   {
     "id": 35,
     "type": "fitb",
-    "stem": "Between one vertebra and the next is a tough pad of fibrocartilage called the _______________ disc, and the bodies of the vertebrae lie to the _______________ of the vertebral column.",
-    "answer": "intervertebral / front",
+    "stem": "Systemic side effects of oral carbonic anhydrase inhibitors include paraesthesia, fatigue, _______________ imbalances, and kidney _______________.",
+    "answer": "electrolyte / stones",
     "acceptableAnswers": [
-      "intervertebral / front"
+      "electrolyte / stones"
     ]
   },
   {
     "id": 36,
-    "type": "mcq",
-    "stem": "A nurse is explaining the function of the vertebral (neural) foramen to a student. A student confuses the vertebral foramen with the intervertebral foramen. The MOST accurate distinction between these two structures is:",
-    "options": [
-      "The vertebral foramen is the opening within a single vertebra formed between the vertebral body and the vertebral arch through which the spinal cord passes; when vertebrae are stacked, adjacent vertebral foramina align to form a channel running the length of the spine called the vertebral canal",
-      "The vertebral foramen and the intervertebral foramen are the same structure viewed from different planes; the vertebral foramen refers to the axial cross-section while the intervertebral foramen is the same opening viewed in the sagittal plane",
-      "The vertebral foramen is the opening between two adjacent vertebral arches through which spinal nerve roots exit the spinal canal; the intervertebral foramen refers to the central channel within a single vertebra where the spinal cord is enclosed"
-    ],
-    "answer": "A"
+    "type": "fitb",
+    "stem": "Systemic side effects of oral carbonic anhydrase inhibitors include paraesthesia, _______________, electrolyte imbalances, and kidney _______________, all resulting from carbonic anhydrase inhibition in tissues beyond the _______________ body.",
+    "answer": "fatigue / stones / ciliary",
+    "acceptableAnswers": [
+      "fatigue / stones / ciliary"
+    ]
   },
   {
     "id": 37,
-    "type": "mcq",
-    "stem": "CASE SCENARIO: A 70-year-old woman with severe osteoporosis sustains a fall and presents with acute low back pain. Imaging reveals a compression fracture of L3. The nurse is explaining to the patient why lumbar vertebrae are the largest of the mobile vertebrae. Based on the documented anatomy, which explanation is MOST accurate?",
-    "options": [
-      "Lumbar vertebrae are the largest because they contain the greatest concentration of red bone marrow, making their bodies structurally denser than thoracic or cervical vertebrae, and this increased bone density normally protects against compression fractures",
-      "Lumbar vertebrae are the largest of the mobile vertebrae because they are the lowest freely movable vertebrae and must support the greatest amount of body weight; their large bodies distribute the substantial compressive load transmitted from above",
-      "Lumbar vertebrae are the largest because their pedicles and laminae are proportionally thicker than those of other vertebral types, providing the structural mass required to withstand the large shear forces generated by erect posture and trunk movement"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "Punctal occlusion involves applying gentle pressure on the _______________ duct for _______________ minutes after instillation to reduce systemic absorption of topical eye medications.",
+    "answer": "nasolacrimal / 1\u20132",
+    "acceptableAnswers": [
+      "nasolacrimal / 1\u20132",
+      "nasolacrimal / 1-2",
+      "nasolacrimal / one to two"
+    ]
   },
   {
     "id": 38,
     "type": "mcq",
-    "stem": "A nurse educator asks students to identify the specific contribution of the frontal bone to the orbital cavity. A student incorrectly states that the frontal bone forms the floor and medial wall of the orbit. The MOST accurate correction is:",
+    "stem": "A nurse educator explains that rapid tear turnover and nasolacrimal drainage are pharmacokinetic challenges specific to ophthalmic drug delivery. Which nursing technique MOST directly compensates for both of these mechanisms to enhance therapeutic drug efficacy?",
     "options": [
-      "The frontal bone forms the forehead, the orbital cavities (eye sockets), and the prominent ridges above the eyes called the supraorbital margins; the eye and muscles that move it are protected within the orbital cavity formed by the frontal bone superiorly",
-      "The frontal bone forms exclusively the roof of the orbital cavity through its orbital plate; the floor is formed by the maxilla and the medial wall by the lacrimal and ethmoid bones",
-      "The frontal bone forms the forehead and the superior orbital rim only; the supraorbital margins represent the inferior boundary of the frontal bone's contribution, below which the zygomatic bone forms the lateral orbital wall"
+      "Administering multiple drops in rapid succession to the same eye to overwhelm the drainage capacity of the nasolacrimal system, ensuring that a sufficient drug dose remains in the conjunctival sac long enough for adequate corneal absorption",
+      "Punctal occlusion \u2014 applying gentle pressure over the nasolacrimal duct after instillation \u2014 reduces drainage of the drug from the conjunctival sac into the nasolacrimal system, prolonging drug contact time with the ocular surface and enhancing absorption",
+      "Instructing the patient to keep both eyes tightly closed for 10 minutes after instillation to prevent blinking, because the blink reflex is the primary mechanism responsible for rapid tear turnover and drug clearance from the conjunctival sac"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 39,
-    "type": "fitb",
-    "stem": "The sinuses give _______________ to the voice and reduce the _______________ of the skull.",
-    "answer": "resonance / weight",
-    "acceptableAnswers": [
-      "resonance / weight"
-    ]
+    "type": "mcq",
+    "stem": "CASE SCENARIO: A 50-year-old female patient is initiated on Dorzolamide eye drops for ocular hypertension. The nurse is completing the pre-administration assessment. The patient's medical history reveals a sulfa allergy causing a previous anaphylactic reaction. Renal function tests show a creatinine of 2.8 mg/dL. Which of these findings represents the MOST critical contraindication to initiating topical Dorzolamide in this patient?",
+    "options": [
+      "The creatinine of 2.8 mg/dL is the most critical contraindication because topical Dorzolamide, despite local administration, undergoes significant renal excretion, and severe renal impairment causes drug accumulation that exceeds the topical safety threshold",
+      "The sulfa allergy with prior anaphylaxis is the most critical contraindication because carbonic anhydrase inhibitors have cross-sensitivity with sulfonamides, and a history of anaphylaxis to sulfa drugs places this patient at high risk for a potentially life-threatening systemic allergic reaction",
+      "Both findings are equally critical contraindications; the sulfa allergy and the renal impairment each independently represent absolute contraindications that preclude the use of any carbonic anhydrase inhibitor regardless of whether the formulation is topical or systemic"
+    ],
+    "answer": "B"
   },
   {
     "id": 40,
-    "type": "fitb",
-    "stem": "The inferior conchae are scroll-shaped bones that form part of the _______________ wall of the nasal cavity and project into it below the _______________ concha.",
-    "answer": "lateral / middle",
-    "acceptableAnswers": [
-      "lateral / middle"
-    ]
+    "type": "mcq",
+    "stem": "A nursing student asks why miotics are considered second-line rather than first-line therapy for primary open-angle glaucoma in most modern treatment protocols. Based on the documented side effect profile of miotic agents, the MOST clinically relevant reason is:",
+    "options": [
+      "Miotics are second-line because their duration of action is only 4\u20138 hours, requiring dosing 2\u20134 times daily; this frequent dosing schedule significantly reduces patient adherence compared to once-daily prostaglandin analogs or twice-daily beta-blockers",
+      "Miotics are second-line because they cause miosis (pupil constriction) that produces blurred and dim vision, brow ache, and conjunctival irritation; these significant ocular side effects impair quality of life and make them poorly tolerated for long-term daily use",
+      "Miotics are second-line because they require intact trabecular meshwork function to be effective; in advanced glaucoma where the trabecular meshwork is heavily damaged, miotics cannot increase outflow through this route and provide no meaningful IOP reduction"
+    ],
+    "answer": "B"
   },
   {
     "id": 41,
     "type": "fitb",
-    "stem": "The skull rests on the upper end of the _______________ column and its bony structure is divided into two parts: the _______________ and the _______________, which together form the complete bony enclosure of the head.",
-    "answer": "vertebral / cranium / face",
+    "stem": "The goals of ophthalmic pharmacotherapy include reducing _______________ pressure, treating infections, alleviating inflammation, relieving symptoms such as dryness or itching, or preparing the eye for _______________ or surgical procedures.",
+    "answer": "intraocular / diagnostic",
     "acceptableAnswers": [
-      "vertebral / cranium / face"
+      "intraocular / diagnostic",
+      "IOP / diagnostic",
+      "intraocular / diagnostic or surgical"
     ]
   },
   {
     "id": 42,
-    "type": "mcq",
-    "stem": "A nursing student states that the hyoid bone 'articulates with the styloid process of the temporal bone.' The MOST accurate correction of this statement is:",
-    "options": [
-      "The hyoid bone articulates with the styloid process of the temporal bone through the stylohyoid ligament, and this articulation is classified as a fibrous joint that permits the upward movement of the hyoid during swallowing",
-      "The hyoid bone does not articulate with any other bone; it is an isolated horseshoe-shaped bone that is attached to the styloid process of the temporal bone by ligaments rather than forming a true bony articulation",
-      "The hyoid bone articulates directly with the thyroid cartilage of the larynx below and with the mandible above; neither of these joints involves the styloid process, which instead gives attachment to muscles of the tongue through the styloglossus"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "The goals of ophthalmic pharmacotherapy include reducing intraocular pressure, treating infections, alleviating _______________, relieving symptoms, or preparing the eye for diagnostic or surgical procedures.",
+    "answer": "inflammation",
+    "acceptableAnswers": [
+      "inflammation"
+    ]
   },
   {
     "id": 43,
-    "type": "mcq",
-    "stem": "CASE SCENARIO: A neurosurgery nurse is preparing a patient for a transsphenoidal hypophysectomy (surgical removal of a pituitary tumour via the nasal route). The surgeon explains that the approach will pass through the nasal cavity, then through the sphenoid sinus, and into the sella turcica. Based on the anatomy of the sphenoid bone, which anatomical structure houses the pituitary gland that the surgeon is targeting?",
-    "options": [
-      "The foramen magnum of the sphenoid bone, which is the large central opening at the base of the skull through which the pituitary stalk descends from the hypothalamus to reach the adenohypophysis below",
-      "The hypophyseal fossa (sella turcica) of the sphenoid bone, which is the saddle-shaped depression on the superior surface of the sphenoid body in which the pituitary gland rests",
-      "The optic foramina of the sphenoid bone, which are paired openings on its superior surface through which the optic nerves pass; the pituitary gland lies immediately posterior to these foramina in a depression in the sphenoid body"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "The ocular side effects of miotic agents include _______________ vision, dim vision due to miosis, brow _______________, and conjunctival irritation.",
+    "answer": "blurred / ache",
+    "acceptableAnswers": [
+      "blurred / ache"
+    ]
   },
   {
     "id": 44,
     "type": "mcq",
-    "stem": "A clinical nurse asks a student to explain why the two frontal sinuses are susceptible to infection after a common cold. The MOST anatomically precise explanation, based on the documented anatomy of sinuses, is:",
+    "stem": "A nurse is educating a patient about using Pilocarpine eye drops and advises the patient not to drive or operate machinery after instillation. Which specific pharmacological side effect of Pilocarpine MOST directly justifies this instruction?",
     "options": [
-      "The frontal sinuses drain into the nasal cavity through a connection inferior to the middle concha; because this drainage orifice is located near the floor of the sinus, secretions pool readily and are difficult to evacuate, predisposing the sinus to secondary infection after a cold",
-      "The frontal sinuses, like all cranial sinuses, communicate with the nasal cavity and are lined with ciliated mucous membrane; upper respiratory tract infections can ascend through this communication and cause sinusitis of the frontal sinus",
-      "The frontal sinuses are susceptible to infection because they communicate with the maxillary sinuses, and maxillary sinusitis, which is the most common form, spreads superiorly through the ostiomeatal complex to involve the frontal sinuses"
+      "Pilocarpine causes brow ache and conjunctival hyperemia that impairs the patient's ability to maintain comfortable focus on road signs and dashboard instruments, making driving physically uncomfortable and therefore unsafe",
+      "Pilocarpine causes miosis (pupil constriction) that results in blurred and dim vision, which is particularly impairing in low-light conditions such as night driving, and the ciliary muscle spasm it induces causes difficulty focusing at distance",
+      "Pilocarpine causes transient diplopia by disrupting the coordinated contraction of the extraocular muscles through its muscarinic effects on the ciliary ganglion, producing double vision that resolves within 30 minutes of instillation"
     ],
     "answer": "B"
   },
   {
     "id": 45,
-    "type": "fitb",
-    "stem": "The maxilla forms the upper jaw, the anterior part of the _______________ of the mouth, the lateral walls of the _______________ cavity, and part of the floor of the orbital cavities.",
-    "answer": "roof / nasal",
-    "acceptableAnswers": [
-      "roof / nasal"
-    ]
+    "type": "mcq",
+    "stem": "CASE SCENARIO: A 45-year-old woman with no prior eye disease is being evaluated for a minor corneal procedure. The ophthalmologist orders Pilocarpine drops for acute angle-closure glaucoma prophylaxis before the procedure. The nurse notes that the patient has a known history of corneal abrasions. Based on the contraindications to miotic agents, which nursing action is MOST appropriate?",
+    "options": [
+      "Administer the Pilocarpine as prescribed, because corneal abrasions are not listed as a contraindication to miotics; the primary contraindications are uveitis and cardiac disease, and a history of corneal abrasions does not preclude safe miotic use",
+      "Hold the Pilocarpine and notify the prescribing physician, because corneal abrasions are a documented contraindication to miotics; miosis may exacerbate corneal pain and inflammation and potentially impair epithelial healing at the abrasion site",
+      "Substitute Carbachol for Pilocarpine because Carbachol is a miotic agent that does not cross the intact corneal epithelium and is therefore safer for patients with corneal defects such as abrasions that compromise the epithelial barrier function"
+    ],
+    "answer": "B"
   },
   {
     "id": 46,
-    "type": "fitb",
-    "stem": "The occipital bone forms the back of the head and forms sutures with the _______________ bones; its inner surface is deeply concave to accommodate the _______________ lobes of the cerebrum and the cerebellum.",
-    "answer": "parietal / occipital",
-    "acceptableAnswers": [
-      "parietal / occipital"
-    ]
+    "type": "mcq",
+    "stem": "A nurse is reviewing the difference between topical and oral administration of carbonic anhydrase inhibitors. A student asks why systemic oral Acetazolamide is used for acute angle-closure glaucoma when topical agents are available. The MOST accurate clinical explanation is:",
+    "options": [
+      "Oral Acetazolamide is preferred in acute angle-closure glaucoma because topical CAIs cannot penetrate the cornea during the acute attack when corneal oedema is present; systemic administration bypasses this barrier and ensures drug delivery to the ciliary body",
+      "Oral Acetazolamide is used as an adjunct in acute angle-closure glaucoma because its faster systemic distribution and more potent CAI activity produces a more rapid and substantial IOP reduction than is achievable with topical agents alone in a true ophthalmological emergency",
+      "Oral Acetazolamide is exclusively preferred in acute angle-closure glaucoma because this condition is caused by a systemic inflammatory process that requires oral anti-inflammatory and pressure-reducing therapy, making topical delivery inadequate for the underlying pathophysiology"
+    ],
+    "answer": "B"
   },
   {
     "id": 47,
     "type": "fitb",
-    "stem": "At its upper end, the ramus of the mandible divides into the _______________ process, which articulates with the temporal bone, and the _______________ process, which gives attachment to muscles and ligaments.",
-    "answer": "condylar / coronoid",
+    "stem": "The contraindications to beta-adrenergic blocker eye drops include asthma, COPD, heart block, _______________, and uncontrolled _______________.",
+    "answer": "bradycardia / heart failure",
     "acceptableAnswers": [
-      "condylar / coronoid"
+      "bradycardia / heart failure",
+      "bradycardia / cardiac failure"
     ]
   },
   {
     "id": 48,
-    "type": "mcq",
-    "stem": "A nurse reviews the face bones with a student and asks which bone contributes to both the nasal septum superiorly and the formation of part of the orbital wall. The MOST accurate answer is:",
-    "options": [
-      "The vomer is the bone that forms both the superior nasal septum and the medial orbital wall; it articulates with the perpendicular plate of the ethmoid below and with the maxilla laterally to form the complete nasal septum and orbital medial wall",
-      "The ethmoid bone occupies the anterior part of the base of the skull, helps form the orbital cavity, and forms the upper part of the nasal septum through its perpendicular plate as well as the lateral walls of the nasal cavity through its superior and middle conchae",
-      "The sphenoid bone contributes to the nasal septum through its rostrum and forms the medial orbital wall through its lesser wing, making it the primary bone forming both the nasal septum and the posteromedial orbital wall"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "The contraindications to prostaglandin analogs include active _______________ inflammation such as uveitis, and caution in patients with a history of herpes simplex _______________.",
+    "answer": "intraocular / keratitis",
+    "acceptableAnswers": [
+      "intraocular / keratitis"
+    ]
   },
   {
     "id": 49,
-    "type": "mcq",
-    "stem": "CASE SCENARIO: A 25-year-old amateur boxer presents with midface trauma. Imaging reveals a fracture of the bone forming the upper jaw that also involves disruption of the lateral wall of the nasal cavity and the floor of one orbital cavity. Based on the documented anatomy, which bone is fractured?",
-    "options": [
-      "The zygomatic bone, which forms the prominences of the cheeks, the floor and lateral walls of the orbital cavities, and articulates medially with the maxilla to complete the inferior orbital rim",
-      "The maxilla, which forms the upper jaw, the anterior part of the roof of the mouth, the lateral walls of the nasal cavity, and part of the floor of the orbital cavities; maxillary fractures therefore simultaneously affect all three structures described",
-      "The palatine bone, whose horizontal part forms the posterior hard palate and whose perpendicular part forms the lateral nasal wall; the orbital plate of the palatine bone simultaneously forms part of the floor of the orbital cavity"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "Nurses administering beta-adrenergic blocker eye drops must verify the _______________ (for example Timolol 0.25% versus 0.5%) and use _______________ occlusion to minimise systemic absorption.",
+    "answer": "concentration / punctal",
+    "acceptableAnswers": [
+      "concentration / punctal"
+    ]
   },
   {
     "id": 50,
     "type": "mcq",
-    "stem": "A nurse educator explains the structure of the vertebral body to nursing students. A student asks why there is no direct bone-to-bone contact between adjacent vertebral bodies despite them bearing the entire body weight through the spine. The MOST accurate explanation is:",
+    "stem": "A nurse is reviewing nursing assessment priorities before initiating prostaglandin analog therapy for glaucoma. Which baseline assessment is MOST specifically required before initiating this drug class, beyond those required for all anti-glaucoma medications?",
     "options": [
-      "Adjacent vertebral bodies are separated by hyaline articular cartilage on each flattened surface, which distributes compressive load and prevents abrasion; this cartilage is continuous with the periosteum covering the rest of the vertebral body",
-      "When the vertebrae are stacked in the spinal column, the flattened surfaces of the body of each vertebra articulate with the corresponding surfaces of the vertebra above and below, but there is no direct bone-to-bone contact because a tough pad of fibrocartilage called the intervertebral disc separates them",
-      "Adjacent vertebral bodies are prevented from direct contact by the anterior and posterior longitudinal ligaments, which run along the entire length of the spine and interpose between adjacent vertebral body surfaces to absorb compressive forces"
+      "Baseline serum electrolyte levels, because prostaglandin analogs alter renal prostaglandin E2 production, causing sodium and potassium imbalances that must be documented before therapy is initiated",
+      "Baseline eye colour assessment and documentation of any history of ocular inflammation or herpes simplex eye infections, because prostaglandin analogs can cause irreversible iris pigmentation changes and are contraindicated in active intraocular inflammation",
+      "Baseline visual field testing and optic disc photography, because prostaglandin analogs selectively damage the inferior and superior arcuate nerve fibre bundles and the baseline visual field must be documented to detect this specific drug-induced toxicity pattern"
     ],
     "answer": "B"
   },
   {
     "id": 51,
-    "type": "fitb",
-    "stem": "The zygomatic process of the temporal bone articulates with the zygomatic bone to form the _______________ arch, which is also called the _______________.",
-    "answer": "zygomatic / cheekbone",
-    "acceptableAnswers": [
-      "zygomatic / cheekbone"
-    ]
+    "type": "mcq",
+    "stem": "CASE SCENARIO: A 40-year-old male patient with ocular hypertension is started on Latanoprost nightly eye drops. Three weeks later, he calls the clinic concerned that the skin around his eye on the treated side appears darker. The nurse explains this is a documented side effect. Which additional cosmetic side effect of prostaglandin analog therapy should the nurse proactively counsel this patient about?",
+    "options": [
+      "Periocular skin lightening on the eyelid margin, eyelash thinning, and reduced brow density on the treated side are the progressive cosmetic effects of long-term prostaglandin use that the patient should monitor for monthly",
+      "Iris pigmentation changes that are irreversible, eyelash growth on the treated side, and periocular skin darkening are additional cosmetic side effects of prostaglandin analogs that the patient should be warned about proactively",
+      "Conjunctival blanching, eyelid retraction, and exophthalmos on the treated side are progressive cosmetic side effects of prostaglandin analogs caused by their sympathomimetic effects on the orbital smooth muscle of Mueller's muscle"
+    ],
+    "answer": "B"
   },
   {
     "id": 52,
-    "type": "fitb",
-    "stem": "The periosteum lining the inner surface of the skull bones forms the outer layer of _______________ mater, and the skull bones contain _______________ through which nerves, blood, and lymph vessels pass.",
-    "answer": "dura / perforations",
-    "acceptableAnswers": [
-      "dura / perforations",
-      "dura / foramina",
-      "dura / openings"
-    ]
+    "type": "mcq",
+    "stem": "A nurse is comparing the mechanism of IOP reduction between beta-adrenergic blockers and carbonic anhydrase inhibitors. A student asks whether they share the same mechanism. The MOST precise comparison is:",
+    "options": [
+      "Beta-adrenergic blockers and carbonic anhydrase inhibitors share the same mechanism of IOP reduction; both work by blocking the production of aqueous humor in the ciliary body, differing only in the specific receptor or enzyme they target within the same secretory pathway",
+      "Beta-adrenergic blockers reduce IOP by blocking beta receptors in the ciliary body to decrease aqueous humor production, while carbonic anhydrase inhibitors reduce IOP by inhibiting carbonic anhydrase in the ciliary body to decrease aqueous humor production; both target the same pathway (reduced production) but through different molecular mechanisms",
+      "Beta-adrenergic blockers reduce IOP by blocking aqueous outflow inhibitors in the trabecular meshwork, while carbonic anhydrase inhibitors reduce IOP by blocking aqueous inflow at the ciliary body; they therefore act at opposite ends of the aqueous humor circulation pathway"
+    ],
+    "answer": "B"
   },
   {
     "id": 53,
     "type": "fitb",
-    "stem": "The bony prominences of the spinous and transverse processes can be _______________ through the skin along the length of the spine.",
-    "answer": "felt",
+    "stem": "Rapid tear turnover and _______________ drainage reduce drug contact time, requiring techniques like _______________ occlusion to enhance efficacy and minimise systemic absorption.",
+    "answer": "nasolacrimal / punctal",
     "acceptableAnswers": [
-      "felt",
-      "palpated"
+      "nasolacrimal / punctal"
     ]
   },
   {
     "id": 54,
-    "type": "mcq",
-    "stem": "A nursing student is asked why the frontal suture present in foetal life is not present in adult skulls. The MOST accurate explanation is:",
-    "options": [
-      "The frontal suture persists into adulthood in a small number of individuals as a normal variant called the metopic suture; in most people the two frontal bones fuse across this suture in early childhood and the suture becomes obliterated",
-      "The frontal bone originates in the fetus in two parts joined in the midline by the frontal suture; this suture is converted entirely to bone shortly after birth, obliterating the suture line and producing the single adult frontal bone",
-      "The frontal suture disappears during intrauterine development because the two frontal bone ossification centres expand toward each other and fuse before birth, which is why no frontal suture is visible on foetal ultrasound images after 28 weeks"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "The nursing assessment before initiating beta-blocker eye drops includes obtaining baseline _______________ rate, blood pressure, and _______________ status, and screening for contraindications such as asthma and heart disease.",
+    "answer": "heart / respiratory",
+    "acceptableAnswers": [
+      "heart / respiratory",
+      "cardiac / respiratory"
+    ]
   },
   {
     "id": 55,
-    "type": "mcq",
-    "stem": "CASE SCENARIO: A 42-year-old cyclist sustains a fall from her bicycle and strikes the posterior part of her head. CT imaging reveals a fracture of the occipital bone with an associated haematoma around the external occipital protuberance. Which adjacent structures are at risk from a fracture of the internal surface of the occipital bone in this patient?",
-    "options": [
-      "The cerebral cortex and underlying white matter of the frontal lobes are at greatest risk from an occipital bone fracture, because contre-coup injury produces contrecoup contusion on the side opposite the impact",
-      "The occipital lobes of the cerebrum and the cerebellum are at risk, because the inner surface of the occipital bone is deeply concave specifically to accommodate these structures; bleeding between the bone and brain endangers them",
-      "The pituitary gland and the optic chiasm are at risk from occipital bone fracture, because the occipital bone forms the posterior wall of the sella turcica, and fracture displacement can directly compress these midline structures"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "Miotic agents should be used with caution in patients with _______________ or _______________ disease due to the potential for systemic cholinergic side effects from nasolacrimal drainage.",
+    "answer": "asthma / cardiac",
+    "acceptableAnswers": [
+      "asthma / cardiac",
+      "cardiac / asthma"
+    ]
   },
   {
     "id": 56,
     "type": "mcq",
-    "stem": "A nurse reviewing the axial skeleton is asked to identify which bones form the thoracic cage. The MOST complete and accurate answer consistent with the described anatomy is:",
+    "stem": "A nurse is reviewing patient education for Carbonic Anhydrase Inhibitor eye drops. Which patient education statement about punctal occlusion is MOST directly applicable to CAI therapy specifically?",
     "options": [
-      "The thoracic cage is formed by the 12 thoracic vertebrae posteriorly, 12 pairs of ribs laterally, the sternum anteriorly, and is part of the axial skeleton along with the skull and vertebral column",
-      "The thoracic cage is part of the appendicular skeleton and is formed by the clavicles, scapulae, 12 pairs of ribs, sternum, and the 12 thoracic vertebrae that provide posterior attachment for each rib pair",
-      "The thoracic cage is formed exclusively by the ribs and sternum, with the thoracic vertebrae contributing to the axial skeleton separately; the two structures articulate at the costovertebral joints but are classified independently"
+      "Punctal occlusion after CAI instillation is optional for most patients because topical CAIs have negligible systemic absorption and do not require additional measures to prevent nasolacrimal drainage",
+      "Instruct the patient to perform punctal occlusion after CAI instillation to reduce nasopharyngeal drainage, which will specifically reduce the unpleasant bitter taste in the mouth that is a documented side effect of topical CAI nasolacrimal drainage",
+      "Punctal occlusion is contraindicated with topical CAI therapy because it prolongs drug contact with the nasolacrimal duct epithelium, increasing the risk of hypersensitivity reactions at this site from the sulfonamide component of the drug"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 57,
+    "type": "mcq",
+    "stem": "CASE SCENARIO: A 77-year-old male patient with primary open-angle glaucoma and COPD is currently using Timolol 0.5% eye drops twice daily. His respiratory function has been deteriorating over the past 6 months. The respiratory physician asks whether his glaucoma medications could be contributing. The ophthalmologist plans to switch to a safer alternative. Which medication substitution is MOST appropriate based on the pharmacological profiles documented?",
+    "options": [
+      "Switch from Timolol to Latanoprost, because prostaglandin analogs increase uveoscleral outflow without any effect on beta receptors and have no documented respiratory side effects, making them the safest alternative for this patient with COPD",
+      "Switch from Timolol to Betaxolol, because Betaxolol is \u03b21-selective and has significantly less effect on pulmonary \u03b22 receptors than non-selective Timolol, thereby reducing the risk of bronchospasm in this patient with COPD",
+      "Switch from Timolol to oral Acetazolamide, because carbonic anhydrase inhibitors have no beta-receptor activity and therefore cannot cause bronchospasm regardless of the patient's degree of airflow obstruction"
     ],
     "answer": "A"
   },
   {
-    "id": 57,
-    "type": "fitb",
-    "stem": "The sphenoid bone contains fairly large air sinuses that open into the _______________ cavity, and the optic nerves pass through the _______________ on their way to the brain.",
-    "answer": "nasal / optic foramina",
-    "acceptableAnswers": [
-      "nasal / optic foramina"
-    ]
-  },
-  {
     "id": 58,
-    "type": "fitb",
-    "stem": "The face bones articulate with each other and with the bones of the _______________, fitting together like an intricate three-dimensional jigsaw puzzle and forming the _______________ cavities of the face.",
-    "answer": "cranium / internal",
-    "acceptableAnswers": [
-      "cranium / internal"
-    ]
+    "type": "mcq",
+    "stem": "A nurse is reviewing the role of systemic administration of ophthalmic medications. A student asks in which clinical situations oral or intravenous eye medications are preferred over topical therapy. The MOST accurate answer based on the documented indications is:",
+    "options": [
+      "Systemic administration is preferred for all conditions affecting the posterior segment because the blood-retinal barrier prevents topical drugs from reaching the vitreous, retina, or choroid; this applies to all glaucoma treatment when IOP exceeds 30 mmHg",
+      "Systemic administration is used for severe cases such as fungal endophthalmitis or cytomegalovirus retinitis, where topical delivery cannot achieve adequate drug concentrations at the target site",
+      "Systemic administration is preferred when the patient cannot reliably self-administer topical drops because of physical limitations; in this context systemic therapy ensures consistent drug delivery and therapeutic IOP control in non-adherent patients"
+    ],
+    "answer": "B"
   },
   {
     "id": 59,
     "type": "fitb",
-    "stem": "The occiput has two articular _______________ that form condyloid joints with the first bone of the vertebral column, the _______________.",
-    "answer": "condyles / atlas",
+    "stem": "Nurses play a critical role in _______________ patients, administering medications, _______________ patients, and monitoring for therapeutic and adverse effects to optimise outcomes.",
+    "answer": "assessing / educating",
     "acceptableAnswers": [
-      "condyles / atlas",
-      "condyles / C1"
+      "assessing / educating",
+      "assessing patients / educating"
     ]
   },
   {
     "id": 60,
-    "type": "mcq",
-    "stem": "A nurse educator asks students why fontanelles are clinically important during the examination of a newborn infant. A student answers: 'They allow the skull to expand as the brain grows.' The clinical instructor adds which MOST important additional clinical significance?",
-    "options": [
-      "Fontanelles also allow the accurate measurement of intracranial pressure in newborns; a bulging fontanelle at rest indicates increased intracranial pressure while a sunken fontanelle at rest indicates dehydration",
-      "Fontanelles allow moulding of the baby's head during childbirth, enabling the head to pass through the birth canal; they also provide a site for clinical assessment of intracranial pressure and hydration status in the neonate",
-      "Fontanelles primarily serve as sites for percutaneous venous access in premature neonates; the anterior fontanelle is used for intraosseous infusion when peripheral venous access cannot be obtained in neonates under 6 months of age"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "The specific ocular side effect of beta-adrenergic blocker eye drops includes burning, stinging, _______________ eyes, and blurred _______________.",
+    "answer": "dry / vision",
+    "acceptableAnswers": [
+      "dry / vision"
+    ]
   },
   {
     "id": 61,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A nursing instructor presents this anatomy question: 'A patient sustains a penetrating injury to the area just below and behind the ear, injuring a projection of bone in this region. This bone projection supports muscles associated with the tongue and pharynx.' Which bony structure has been injured?",
+    "stem": "A nurse reviewing medication safety for glaucoma treatment asks students about the contamination risk associated with eye drop bottles. Which nursing safety instruction about ophthalmic drop administration is MOST directly relevant to preventing contamination?",
     "options": [
-      "The mastoid process of the temporal bone, which is a thickened prominence immediately posterior to the external acoustic meatus; it contains mastoid air cells that communicate with the middle ear and provides attachment for the sternocleidomastoid muscle",
-      "The styloid process of the temporal bone, which projects from the lower part of the temporal bone and gives attachment to muscles associated with the tongue and pharynx",
-      "The condylar process of the mandible, which projects superiorly from the ramus of the mandible just behind the ear to articulate with the temporal bone at the temporomandibular joint, and whose damage would impair jaw movement"
+      "Warn the patient about contamination risks if the dropper tip touches the eye, eyelid, or any other surface, because contact transfers bacteria from the ocular surface to the bottle, which can cause microbial contamination and subsequent ocular infection",
+      "Instruct the patient to refrigerate all ophthalmic drops after first use, because room temperature allows bacterial growth in the solution; refrigeration prevents contamination regardless of whether the dropper tip has contacted the ocular surface",
+      "Advise the patient to use separate drops for each eye from two different bottles to prevent cross-contamination between eyes; using the same bottle for both eyes transfers infection from the affected to the unaffected eye in every patient"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 62,
     "type": "mcq",
-    "stem": "A nurse asks a student to explain why the inferior conchae increase the surface area of the nasal cavity and what functional consequence this produces. Based on the documented anatomy, the MOST accurate answer is:",
+    "stem": "CASE SCENARIO: A 63-year-old patient with primary open-angle glaucoma has been on Latanoprost for 2 years. He is scheduled for cataract surgery on the affected eye. During the pre-operative nursing assessment, which documented contraindication to prostaglandin analogs is MOST relevant to the peri-operative nursing plan for this patient?",
     "options": [
-      "The superior and middle conchae are parts of the ethmoid bone; the inferior conchae are separate bones that project into the nasal cavity below the middle concha; together the superior, middle, and inferior conchae collectively increase the surface area in the nasal cavity, allowing inspired air to be warmed and humidified more effectively",
-      "The inferior conchae are extensions of the maxillary bone that project medially into the nasal cavity, and their scroll shape creates turbulent airflow that increases mucosal contact time; this turbulence is the primary mechanism of air warming and humidification",
-      "The inferior conchae increase nasal cavity surface area by creating a three-layered airway within each nasal passage; the increased mucosal surface area serves primarily as an olfactory receptor expansion mechanism rather than a humidification function"
+      "Latanoprost should be withheld for 48 hours before cataract surgery because its IOP-lowering effect may lower IOP below the minimum threshold required for adequate surgical visualisation during phacoemulsification",
+      "Active intraocular inflammation is a contraindication to prostaglandin analogs; cataract surgery causes post-operative intraocular inflammation (iritis), and Latanoprost should be withheld post-operatively until the inflammation resolves",
+      "Latanoprost storage instructions require special attention perioperatively; it must be stored in the refrigerator before opening, but can be kept at room temperature for up to 6 weeks once opened, so the patient's storage compliance must be verified before continuing post-operative use"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 63,
-    "type": "fitb",
-    "stem": "When the vertebrae are stacked on top of each other in the spinal column, the vertebral foramina align to form a channel called the _______________ (neural) canal that runs the _______________ of the spine.",
-    "answer": "vertebral / length",
-    "acceptableAnswers": [
-      "vertebral / length"
-    ]
+    "type": "mcq",
+    "stem": "A nursing student is comparing the side effect profiles of the four major classes of anti-glaucoma medications. She is asked to identify which drug class produces systemic effects that include paraesthesia, kidney stones, and electrolyte imbalances when used in its oral form. The MOST accurate answer is:",
+    "options": [
+      "Beta-adrenergic blockers in their oral form produce paraesthesia through peripheral \u03b22-receptor blockade in sensory nerve fibres, kidney stones through calcium-sparing effects on renal tubular cells, and electrolyte imbalances through aldosterone pathway interactions",
+      "Prostaglandin analogs when administered systemically produce paraesthesia through their effects on prostaglandin E2 receptors in peripheral sensory neurones, and kidney stones through calcium oxalate deposition secondary to elevated urinary prostaglandin levels",
+      "Oral carbonic anhydrase inhibitors such as Acetazolamide produce paraesthesia, fatigue, electrolyte imbalances, and kidney stones as documented systemic side effects resulting from carbonic anhydrase inhibition throughout the body, including in renal tubules"
+    ],
+    "answer": "C"
   },
   {
     "id": 64,
-    "type": "fitb",
-    "stem": "The anterior fontanelle is located where _______________ or more skull bones do not completely meet, and the skull bones do not fuse earlier in order to allow for _______________ of the baby's head during childbirth.",
-    "answer": "three / moulding",
-    "acceptableAnswers": [
-      "three / moulding",
-      "three / molding",
-      "3 / moulding"
-    ]
+    "type": "mcq",
+    "stem": "A nurse is reviewing the assessment priorities for a patient newly prescribed Pilocarpine eye drops. The nurse correctly identifies several baseline parameters to document before initiation. Which COMBINATION of baseline assessments is MOST specifically required for miotic therapy?",
+    "options": [
+      "Baseline serum electrolytes, renal function, and sulfa allergy status \u2014 because Pilocarpine is a sulfonamide derivative with renal excretion, and electrolyte baseline establishes a reference point for monitoring drug-induced metabolic acidosis",
+      "Baseline IOP, visual acuity, and contraindication screen for asthma, cardiac disease, corneal abrasions, and uveitis \u2014 because these parameters guide the decision to initiate therapy and establish the therapeutic IOP target",
+      "Baseline eye colour, iris pigmentation pattern, and eyelash length \u2014 because miotic agents cause irreversible cosmetic changes to the iris and periocular structures that must be documented before therapy to allow attribution of changes to the drug"
+    ],
+    "answer": "B"
   },
   {
     "id": 65,
     "type": "fitb",
-    "stem": "The mandible features the _______________ ridge, which anchors the lower teeth, and on each side the bone curves _______________ upwards almost at right angles to the posterior end of the body to form the ramus.",
-    "answer": "alveolar / sharply",
+    "stem": "For prostaglandin analog administration, the nurse should assess baseline eye _______________ and IOP, and note history of _______________ inflammation or herpes infections before initiating therapy.",
+    "answer": "color / ocular",
     "acceptableAnswers": [
-      "alveolar / sharply"
+      "color / ocular",
+      "colour / ocular"
     ]
   },
   {
     "id": 66,
-    "type": "mcq",
-    "stem": "A nurse educator asks students why the parietal bones articulate at the squamous suture with the temporal bones rather than with a fibrocartilaginous disc as seen between vertebral bodies. The MOST accurate explanation is:",
-    "options": [
-      "Skull bones are joined at fibrous sutures rather than fibrocartilaginous discs because the skull requires rigid immovable joints to protect the brain; intervertebral discs are specific adaptations for a mobile column that must also absorb shock",
-      "Skull bones are joined at cartilaginous joints called synchondroses in childhood; they are only converted to fibrous sutures in adulthood when brain growth is complete, and at that point they become immovable to provide maximum cranial rigidity",
-      "Skull bones are joined at synovial sutures which are structurally similar to synovial joints elsewhere in the body; their suture morphology provides slight gliding movement that dissipates impact forces across the cranial vault"
-    ],
-    "answer": "A"
+    "type": "fitb",
+    "stem": "Beta-adrenergic blockers block beta-adrenergic receptors in the _______________ body, reducing _______________ humor production and lowering IOP.",
+    "answer": "ciliary / aqueous",
+    "acceptableAnswers": [
+      "ciliary / aqueous"
+    ]
   },
   {
     "id": 67,
-    "type": "mcq",
-    "stem": "CASE SCENARIO: A 16-year-old presents with a 48-hour history of fever, severe unilateral facial pain, and nasal discharge that began after a cold. The pain is described as pressure-like and worsens when bending forward. The nurse suspects sinusitis. Based on the anatomy of the sinuses, which sinuses are MOST commonly affected by ascending upper respiratory infection and why?",
-    "options": [
-      "The frontal and sphenoid sinuses are most commonly affected because they are the largest sinuses and communicate most directly with the nasopharynx; their superior location means they fill with secretions under the influence of gravity during recumbent positioning",
-      "The sphenoid, ethmoid, maxillary, and frontal sinuses may all be affected because they communicate with the nasal cavity and infections can ascend through this connection; the maxillary sinus is most commonly affected because its drainage ostium is located near the roof of the sinus, making dependent drainage inefficient",
-      "Only the ethmoid and sphenoid sinuses are affected by ascending URTI because they are the only sinuses that drain into the superior meatus; the maxillary and frontal sinuses drain into the middle meatus and are protected from ascending infection by a mucosal valve"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "Miotic eye drops are used in primary _______________ glaucoma and acute _______________ glaucoma, where the latter is often managed as an emergency with adjunctive therapies.",
+    "answer": "open-angle / angle-closure",
+    "acceptableAnswers": [
+      "open-angle / angle-closure",
+      "open angle / angle closure"
+    ]
   },
   {
     "id": 68,
     "type": "mcq",
-    "stem": "A nursing student is asked which bone lies in the soft tissues of the neck just above the larynx and below the mandible, and she correctly identifies the hyoid. The instructor asks what makes the hyoid unique compared to all other bones of the skull and vertebral column. The MOST accurate answer is:",
+    "stem": "A nurse is teaching a patient about monitoring while on Timolol eye drops. The patient asks what specific symptoms would indicate that the drug has been absorbed systemically and is causing cardiac effects. The nurse's MOST accurate response is:",
     "options": [
-      "The hyoid is unique because it is the only bone in the body that is attached exclusively by muscles and ligaments, with no articulation with any other bone; all other bones of the skull and vertebral column articulate directly with at least one adjacent bone",
-      "The hyoid is unique because it is the only bone in the body composed entirely of fibrocartilage, which enables it to absorb the compressive forces transmitted during swallowing without fracturing",
-      "The hyoid is unique because it is the only bone in the human body that is not formed from a cartilage model during embryonic development; instead it ossifies directly from a membranous precursor in the same manner as the flat bones of the skull vault"
+      "Symptoms of systemic beta-blockade from Timolol absorption include tachycardia, hypertension, and headache; these are paradoxical cardiovascular responses that occur when the beta-blocker interacts with the renin-angiotensin system in the kidney",
+      "Symptoms of systemic beta-blockade from Timolol absorption include bradycardia, hypotension, shortness of breath, and fatigue; the nurse should instruct the patient to report these symptoms immediately, especially shortness of breath which may indicate bronchospasm",
+      "The only reliable symptom of systemic Timolol absorption is perioral numbness; this occurs because Timolol blocks sodium channels in trigeminal nerve branches that supply the perioral skin, producing a tingling sensation distinguishable from paraesthesia caused by other drugs"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 69,
-    "type": "fitb",
-    "stem": "The ethmoid bone occupies the _______________ part of the base of the skull and helps to form the _______________ cavity, the upper part of the nasal septum, and the lateral walls of the nasal cavity.",
-    "answer": "anterior / orbital",
-    "acceptableAnswers": [
-      "anterior / orbital"
-    ]
+    "type": "mcq",
+    "stem": "CASE SCENARIO: A 52-year-old woman with primary open-angle glaucoma is prescribed Dorzolamide 2% eye drops three times daily. She also uses Timolol 0.5% eye drops twice daily. During a follow-up visit, the nurse is assessing for signs of toxicity. Which combination of adverse effects should the nurse MOST specifically monitor for in this patient on dual glaucoma therapy?",
+    "options": [
+      "Monitor for iris pigmentation changes and eyelash growth from the Dorzolamide, and for corneal abrasions and uveitis from the Timolol; these are the primary class-specific toxicities that occur with any combination glaucoma therapy",
+      "Monitor for bradycardia, hypotension, and bronchospasm from systemic Timolol absorption through the nasolacrimal duct, and for allergic reactions, bitter taste, stinging, and burning from the Dorzolamide \u2014 recognising that both drugs can contribute to systemic effects through the same nasolacrimal absorption pathway",
+      "Monitor for hypertension and tachycardia from rebound sympathetic stimulation when both glaucoma medications are used simultaneously, because combined aqueous humor suppression causes rapid IOP fluctuation that activates the ciliary body's sympathetic compensatory response"
+    ],
+    "answer": "B"
   },
   {
     "id": 70,
-    "type": "fitb",
-    "stem": "The facial skeleton is formed by 13 bones in addition to the _______________ bone, and together they form an intricate three-dimensional jigsaw puzzle that forms the _______________ cavities of the face and articulates with the bones of the cranium.",
-    "answer": "frontal / internal",
-    "acceptableAnswers": [
-      "frontal / internal"
-    ]
+    "type": "mcq",
+    "stem": "A nurse is comparing the pharmacokinetic onset of the four anti-glaucoma drug classes. A student asks to rank them from fastest to slowest onset. Based on the documented pharmacokinetics, the CORRECT ranking from fastest to slowest onset is:",
+    "options": [
+      "Prostaglandin analogs (3\u20134 hours onset) \u2192 Carbonic anhydrase inhibitors topical (1\u20132 hours onset) \u2192 Beta-adrenergic blockers (20\u201330 minutes onset) \u2192 Miotics (15\u201330 minutes onset): the slowest onset drugs are the most effective IOP reducers",
+      "Miotics (onset 15\u201330 minutes) \u2192 Beta-adrenergic blockers (onset 20\u201330 minutes) \u2192 Carbonic anhydrase inhibitors topical (onset 1\u20132 hours) \u2192 Prostaglandin analogs (onset 3\u20134 hours): this ranking from fastest to slowest reflects decreasing speed of onset across the four classes",
+      "Beta-adrenergic blockers (onset 15\u201330 minutes) \u2192 Miotics (onset 20\u201330 minutes) \u2192 Prostaglandin analogs (onset 1\u20132 hours) \u2192 Carbonic anhydrase inhibitors (onset 3\u20134 hours): beta-blockers are the fastest acting class due to their direct receptor-mediated reduction in aqueous production"
+    ],
+    "answer": "B"
   },
   {
     "id": 71,
     "type": "fitb",
-    "stem": "When the vertebrae are stacked on top of each other, the vertebral foramina _______________ and form a channel that runs the length of the spine, and through this channel the _______________ cord passes and is protected from injury.",
-    "answer": "align / spinal",
+    "stem": "Pilocarpine and Carbachol are examples of _______________ agents, also called miotics, while Latanoprost, Bimatoprost, and Travoprost are examples of _______________ analogs.",
+    "answer": "cholinergic / prostaglandin",
     "acceptableAnswers": [
-      "align / spinal"
+      "cholinergic / prostaglandin"
     ]
   },
   {
     "id": 72,
-    "type": "mcq",
-    "stem": "A student nurse states that the angle of the jaw is 'at the point where the body of the mandible meets the ramus.' A clinical instructor asks the student to be more precise. The MOST anatomically accurate description of the angle of the mandible is:",
-    "options": [
-      "The angle of the mandible is the junction between the body of the mandible, which is horizontal, and the ramus, which rises almost at right angles posteriorly; the angle is located at the lower posterior corner of the jaw and is easily felt through the skin",
-      "The angle of the mandible is the junction between the alveolar ridge of the mandible above and the body below; it marks the point where the dental arch transitions from the horizontal body to the vertical ramus",
-      "The angle of the mandible is the anterior junction between the right and left halves of the mandibular body at the chin; in embryonic life this point corresponds to the mandibular symphysis where the two halves of the mandible unite"
-    ],
-    "answer": "A"
+    "type": "fitb",
+    "stem": "Topical ophthalmic medications achieve high drug concentrations at the _______________ site with minimal systemic absorption, though _______________ delivery (oral or intravenous) is used for severe cases such as fungal endophthalmitis.",
+    "answer": "ocular / systemic",
+    "acceptableAnswers": [
+      "ocular / systemic"
+    ]
   },
   {
     "id": 73,
-    "type": "mcq",
-    "stem": "CASE SCENARIO: A 68-year-old man with known osteoporosis presents to the emergency department following a minor fall. Imaging reveals a vertebral compression fracture at T12. The nurse knows that thoracic vertebrae have specific characteristics that distinguish them from other vertebral types. Which feature is most characteristic of thoracic vertebrae that is NOT found in cervical or lumbar vertebrae?",
-    "options": [
-      "Thoracic vertebrae have the largest vertebral bodies of all mobile vertebrae and the smallest vertebral foramina, creating a narrow spinal canal that is particularly vulnerable to cord compression following vertebral body collapse",
-      "Thoracic vertebrae have facets on the vertebral body and transverse processes for articulation with the ribs; this characteristic rib articulation is unique to thoracic vertebrae and distinguishes them from cervical and lumbar vertebrae",
-      "Thoracic vertebrae have bifid spinous processes similar to cervical vertebrae, distinguishing them from lumbar vertebrae which have flat, rectangular spinous processes; this feature determines the approach used for epidural anaesthesia at each spinal level"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "Carbonic anhydrase inhibitors include topical forms such as _______________ and Brinzolamide, and the oral/systemic form _______________.",
+    "answer": "Dorzolamide / Acetazolamide",
+    "acceptableAnswers": [
+      "Dorzolamide / Acetazolamide"
+    ]
   },
   {
     "id": 74,
     "type": "mcq",
-    "stem": "A nursing student describes the function of the superior articular processes of a vertebra. She states: 'The superior articular processes allow articulation with the pedicles of the vertebra above.' The MOST accurate correction is:",
+    "stem": "A nurse educator asks nursing students to identify which anti-glaucoma drug class has the longest duration of action and therefore allows the most patient-convenient dosing schedule. Based on the documented pharmacokinetics, the MOST accurate answer is:",
     "options": [
-      "The superior articular processes have facets that articulate with the corresponding inferior articular processes (not pedicles) of the vertebra above; these paired zygapophyseal joints restrict and guide the type of movement permitted at each spinal level",
-      "The superior articular processes have facets that articulate with the laminae of the vertebra above; each lamina carries a corresponding articular surface that opposes the superior articular process facet in a planar gliding joint",
-      "The superior articular processes have facets that articulate with the body of the vertebra above; this configuration allows the vertebra to bear weight through the articular processes in addition to the intervertebral disc between the vertebral bodies"
+      "Beta-adrenergic blockers have the longest duration of action at 12\u201324 hours, making them the most convenient class; both Timolol and Betaxolol can be dosed once daily in some patients, providing equivalent IOP control to twice-daily dosing with superior adherence",
+      "Prostaglandin analogs have a duration of action of up to 24 hours and are administered once daily, typically at night; this once-daily nocturnal dosing regimen is the most convenient of all anti-glaucoma drug classes and has superior IOP reduction at night compared to daytime dosing",
+      "Carbonic anhydrase inhibitors have the longest duration of action because topical forms last 8\u201312 hours and oral forms last up to 24 hours; the oral form therefore requires only once-daily dosing and is the most convenient formulation despite its higher systemic side effect burden"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 75,
-    "type": "fitb",
-    "stem": "The sphenoid bone body contains fairly large air sinuses that open into the _______________ cavity; the bone also contains the optic _______________ through which the optic nerves pass on their way to the brain.",
-    "answer": "nasal / foramina",
-    "acceptableAnswers": [
-      "nasal / foramina",
-      "nasal / foramen"
-    ]
+    "type": "mcq",
+    "stem": "CASE SCENARIO: A newly qualified nurse is preparing to administer Bimatoprost eye drops to a 67-year-old male patient at 10 PM. The patient asks why the drops must be given at night rather than in the morning. The nurse's MOST accurate explanation is:",
+    "options": [
+      "Bimatoprost is administered at night because daytime instillation causes significant photophobia; the prostaglandin-induced conjunctival hyperemia makes the eye extremely sensitive to light, making administration in a darkened environment at night more comfortable",
+      "Prostaglandin analogs are administered once daily at night because IOP follows a circadian rhythm with the highest elevations occurring during sleep, and nocturnal administration times the peak drug effect at 8\u201312 hours to coincide with the period of greatest IOP elevation",
+      "Bimatoprost is administered at night because daytime administration produces significant iris pigmentation changes that are exacerbated by UV light exposure; nocturnal administration protects the iris melanocytes from photodamage during the period of peak drug concentration"
+    ],
+    "answer": "B"
   },
   {
     "id": 76,
-    "type": "fitb",
-    "stem": "The temporal bone contains the mastoid process, which is a thickened region easily felt _______________ the ear, and the external acoustic meatus (auditory canal) passes _______________ towards the petrous portion of the bone.",
-    "answer": "behind / inwards",
-    "acceptableAnswers": [
-      "behind / inwards",
-      "behind / inward",
-      "posterior to / inward"
-    ]
+    "type": "mcq",
+    "stem": "A nurse is discussing medication safety with a patient who has been prescribed both Dorzolamide (topical CAI) and oral Acetazolamide concurrently for acute angle-closure glaucoma. The nurse recognises a potential concern with this combination. Which statement MOST accurately reflects the nursing concern?",
+    "options": [
+      "The concurrent use of topical and oral CAIs is safe because topical Dorzolamide has no systemic absorption; the two agents target different isoforms of carbonic anhydrase, producing additive IOP reduction without increased risk of systemic toxicity",
+      "Concurrent use of topical and oral CAIs risks additive sulfonamide toxicity including enhanced risk of electrolyte imbalances, kidney stones, and paraesthesia; the combined systemic CAI burden exceeds what either drug would produce alone, and sulfa allergy screening must be confirmed before both are given",
+      "The combination is contraindicated in all patients because Dorzolamide and Acetazolamide compete for the same binding site on carbonic anhydrase II; the oral agent displaces the topical agent, eliminating the local IOP-lowering effect of Dorzolamide at the ciliary body"
+    ],
+    "answer": "B"
   },
   {
     "id": 77,
     "type": "fitb",
-    "stem": "The sacrum is formed from _______________ fused vertebrae, and the coccyx is formed from _______________ small vertebrae.",
-    "answer": "five / three to five",
+    "stem": "For prostaglandin analog therapy, the nurse should monitor IOP reduction and check for _______________ or irritation, and assess for signs of uveitis or _______________ in at-risk patients.",
+    "answer": "hyperemia / keratitis",
     "acceptableAnswers": [
-      "five / three to five",
-      "5 / 3-5",
-      "five / four",
-      "5 / 4"
+      "hyperemia / keratitis",
+      "hyperaemia / keratitis"
     ]
   },
   {
     "id": 78,
-    "type": "mcq",
-    "stem": "A nurse educator is reviewing the clinical significance of the squamous part of the temporal bone during a head injury module. A student asks why the temporal region is particularly vulnerable to epidural haematoma formation following blunt trauma. The MOST accurate anatomical explanation is:",
-    "options": [
-      "The squamous part of the temporal bone forms the temporal fossa and is a very thin region of bone; it overlies the middle meningeal artery, and a fracture at this site can rupture this artery and produce a rapidly expanding epidural haematoma",
-      "The squamous part of the temporal bone is the thickest part of the skull and concentrates impact forces at a single point, producing a stellate fracture pattern that tears the dural venous sinuses and produces an acute subdural haematoma",
-      "The squamous suture between the temporal and parietal bones is the most vulnerable suture to traumatic separation, and diastatic fractures at this site directly lacerate the cortical bridging veins that cross it to enter the superior sagittal sinus"
-    ],
-    "answer": "A"
+    "type": "fitb",
+    "stem": "Miotics are contraindicated in _______________ and corneal abrasions, because miosis may exacerbate _______________ or pain.",
+    "answer": "uveitis / inflammation",
+    "acceptableAnswers": [
+      "uveitis / inflammation"
+    ]
   },
   {
     "id": 79,
-    "type": "mcq",
-    "stem": "CASE SCENARIO: A 35-year-old patient with a history of recurrent nasal polyps presents to the ENT clinic. The surgeon explains that the polyps are arising from the superior and middle conchae. A nursing student asks which bone these structures belong to. The MOST accurate answer is:",
-    "options": [
-      "The superior and middle conchae belong to the nasal bones; these two small flat bones form the bridge of the nose and extend internally to form the turbinates that project into the nasal cavity",
-      "The superior and middle conchae are parts of the ethmoid bone, which on each side has two projections into the nasal cavity; they are called turbinated processes and contain numerous sinuses that open into the nasal cavity",
-      "The superior and middle conchae are parts of the palatine bone; their perpendicular plates project superiorly from the hard palate and bifurcate into superior and middle turbinates that form the lateral nasal walls above the inferior conchae"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "The systemic rare side effects of miotics include sweating, _______________, bradycardia, and gastrointestinal upset, collectively classified as _______________ effects.",
+    "answer": "salivation / cholinergic",
+    "acceptableAnswers": [
+      "salivation / cholinergic"
+    ]
   },
   {
     "id": 80,
     "type": "mcq",
-    "stem": "A nursing student reviewing the vertebral column asks why the sacrum is described as triangular in shape and how it articulates with the adjacent bones. The MOST accurate anatomical description is:",
+    "stem": "A nurse is reviewing the importance of consistent medication adherence for glaucoma management. A student asks what happens if a patient stops their anti-glaucoma medication abruptly. Which statement MOST accurately explains the clinical consequence of medication non-adherence in glaucoma?",
     "options": [
-      "The sacrum is a triangular bone formed from five fused vertebrae; it articulates superiorly with L5, laterally with the iliac bones of the pelvis at the sacroiliac joints, and inferiorly with the coccyx; its anterior surface is concave and faces the pelvic cavity",
-      "The sacrum is a triangular bone formed from three fused vertebrae and articulates superiorly with L4 at the lumbosacral junction; its triangular shape is formed by the progressive reduction in size of the sacral segments from S1 at the top to the apex inferiorly",
-      "The sacrum is a triangular bone formed from four fused vertebrae and is the posterior component of the pelvic ring; its wide superior surface called the ala articulates bilaterally with the posterior iliac crests, while the sacral promontory is the anterosuperior margin of S1"
+      "Abrupt discontinuation of anti-glaucoma medications causes rebound IOP elevation above pre-treatment levels (IOP rebound phenomenon), which is more severe than the original elevated IOP and causes accelerated optic nerve damage within 24 hours of the missed dose",
+      "Adherence to anti-glaucoma medications is critical to prevent glaucoma progression; stopping medications removes the IOP-lowering effect, allowing IOP to return to elevated levels that damage the optic nerve and cause irreversible visual field loss over time",
+      "Abrupt discontinuation of anti-glaucoma medications is generally safe for up to 2 weeks because residual drug levels remain therapeutic in ocular tissues; after 2 weeks without medication, IOP rises and the ophthalmologist must be notified"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 81,
-    "type": "fitb",
-    "stem": "The zygomatic process of the temporal bone articulates with the _______________ bone to form the zygomatic arch, and the _______________ part of the temporal bone lies adjacent to the parietal bone superiorly.",
-    "answer": "zygomatic / squamous",
-    "acceptableAnswers": [
-      "zygomatic / squamous"
-    ]
+    "type": "mcq",
+    "stem": "CASE SCENARIO: A 70-year-old patient with open-angle glaucoma is receiving Pilocarpine 2% four times daily. During a routine nursing assessment, the nurse notices the patient's heart rate is 48 beats per minute and the patient reports sweating profusely despite a cool room temperature. The nurse suspects systemic drug toxicity. Which action is the HIGHEST nursing priority?",
+    "options": [
+      "Administer atropine 0.4 mg intravenously as the antidote for cholinergic toxicity, and then contact the prescribing physician to document the adverse event; systemic anticholinergic treatment is the first-line management for symptomatic cholinergic overdose",
+      "Withhold the next scheduled Pilocarpine dose, apply firm digital pressure over both puncta to prevent further absorption, contact the prescribing physician immediately, and monitor vital signs continuously while preparing for potential pharmacological reversal of cholinergic effects",
+      "Reassure the patient that sweating and bradycardia are expected systemic effects of Pilocarpine that resolve within 30 minutes of each dose, and administer the next scheduled dose at the prescribed time to maintain consistent IOP control"
+    ],
+    "answer": "B"
   },
   {
     "id": 82,
-    "type": "fitb",
-    "stem": "The vertebral arch has _______________ articular surfaces in total: two articulate with the vertebra _______________ and two with the one below.",
-    "answer": "four / above",
-    "acceptableAnswers": [
-      "four / above",
-      "4 / above"
-    ]
+    "type": "mcq",
+    "stem": "A nurse is explaining the pharmacokinetic challenge of drug delivery through topical eye drops to a nursing student. The student asks why only a very small percentage of a topically applied eye drop actually reaches the intraocular target tissue. Which combination of pharmacokinetic barriers MOST comprehensively explains this low bioavailability?",
+    "options": [
+      "The primary barriers are the lens and vitreous humour, which absorb most of the drug before it reaches the ciliary body; the cornea plays a minimal role because topical drugs bypass the corneal epithelium through the limbal vasculature",
+      "The cornea and conjunctiva act as barriers limiting drug penetration into the eye, rapid tear turnover washes the drug from the surface before it can be absorbed, and nasolacrimal drainage carries the drug away from the ocular site and into systemic circulation",
+      "The primary barriers are the blood-aqueous barrier and the tight junctions of the ciliary body epithelium, which prevent most topically applied drugs from entering the posterior chamber; the cornea is freely permeable to all ophthalmic formulations"
+    ],
+    "answer": "B"
   },
   {
     "id": 83,
     "type": "fitb",
-    "stem": "The inferior conchae are separate _______________ bones that form part of the lateral wall of the nasal cavity; the superior and middle conchae are projections of the _______________ bone.",
-    "answer": "facial / ethmoid",
+    "stem": "For carbonic anhydrase inhibitor administration, topical drops are instilled usually _______________ to _______________ times daily, while oral Acetazolamide is monitored for systemic effects.",
+    "answer": "2 / 3",
     "acceptableAnswers": [
-      "facial / ethmoid"
+      "2 / 3",
+      "two / three"
     ]
   },
   {
     "id": 84,
-    "type": "mcq",
-    "stem": "A nursing student is studying the face bone list and is asked which bones are represented by two bones each on the right and left sides. She must identify ALL bones present as paired structures in the face. Based on the documented face bone list, the MOST accurate answer is:",
-    "options": [
-      "The paired face bones are: 2 zygomatic bones, 2 nasal bones, 2 lacrimal bones, and 2 palatine bones; the maxilla, mandible, vomer, and inferior conchae are each single midline structures",
-      "The paired face bones are: 2 zygomatic bones, 2 nasal bones, 2 lacrimal bones, 2 palatine bones, and 2 inferior conchae; the maxilla, mandible, and vomer are unpaired midline structures",
-      "The paired face bones are: 2 zygomatic bones and 2 nasal bones only; the lacrimal bones are a single midline structure and the palatine bones are fused at the midline suture of the hard palate making them a single functional unit"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "Nurses should warn patients on miotic therapy that _______________ or operating machinery should be avoided if vision is impaired, and should confirm the correct dosing frequency of _______________ to 4 times daily.",
+    "answer": "driving / 2",
+    "acceptableAnswers": [
+      "driving / 2",
+      "driving / two"
+    ]
   },
   {
     "id": 85,
-    "type": "mcq",
-    "stem": "CASE SCENARIO: A 58-year-old patient is admitted for investigation of dysphagia (difficulty swallowing). During clinical examination, the nurse notes tenderness on palpation of the soft tissue structures in the midline of the neck, just above the larynx. Based on the anatomy of the hyoid bone, which specific clinical consequence could result from an undisplaced fracture of the hyoid body in this patient?",
-    "options": [
-      "A hyoid body fracture would impair tongue movement and swallowing because the hyoid supports the larynx and gives attachment to muscles of the tongue through the geniohyoid, hyoglossus, and other tongue muscles that move during swallowing",
-      "A hyoid body fracture would cause complete aphonia because the hyoid is directly attached to the vocal cords of the larynx, and displacement of a fractured hyoid segment would mechanically prevent vocal cord adduction",
-      "A hyoid body fracture would cause bilateral sensorineural hearing loss because the hyoid transmits vibrations from the mandible through the stylohyoid ligament to the styloid process of the temporal bone, which directly conducts sound energy to the stapes"
-    ],
-    "answer": "A"
+    "type": "fitb",
+    "stem": "The safety instruction for beta-adrenergic blocker eye drops includes verifying the concentration such as Timolol _______________ versus 0.5%, and emphasising _______________ to prevent glaucoma progression.",
+    "answer": "0.25% / adherence",
+    "acceptableAnswers": [
+      "0.25% / adherence",
+      "0.25 / adherence"
+    ]
   },
   {
     "id": 86,
     "type": "mcq",
-    "stem": "A nurse is reviewing the regional characteristics of the vertebral column and asks a student to identify how the first cervical vertebra (atlas, C1) differs from a typical vertebra. A student states that C1 'has a body and spinous process like all other vertebrae.' The MOST accurate correction is:",
+    "stem": "A nurse is asked why topical delivery of ophthalmic medications is generally preferred over systemic delivery for conditions such as glaucoma, infections, and inflammation. The MOST clinically and pharmacologically accurate justification is:",
     "options": [
-      "The atlas (C1) has no vertebral body and no spinous process; it is a ring-like structure that supports the skull and articulates with the occipital condyles of the occipital bone superiorly, allowing the nodding movement of the head",
-      "The atlas (C1) has a small rudimentary body but a large spinous process called the posterior tubercle; it differs from typical cervical vertebrae only in the absence of a transverse foramen for the vertebral artery",
-      "The atlas (C1) has a body but no spinous process; its body is fused to that of C2 (axis) in adulthood, which is why lateral cervical spine X-rays appear to show C1 body as part of the larger C2 vertebral body"
-    ],
-    "answer": "A"
-  },
-  {
-    "id": 87,
-    "type": "fitb",
-    "stem": "The vertebral column is also called the _______________ or _______________; it is the central axis of the body providing direct and indirect support for the entire skeleton.",
-    "answer": "spine / backbone",
-    "acceptableAnswers": [
-      "spine / backbone",
-      "backbone / spine"
-    ]
-  },
-  {
-    "id": 88,
-    "type": "fitb",
-    "stem": "The parietal bones articulate with the occipital bone at the _______________ suture and with the temporal bones at the _______________ sutures.",
-    "answer": "lambdoidal / squamous",
-    "acceptableAnswers": [
-      "lambdoidal / squamous",
-      "lambdoid / squamous"
-    ]
-  },
-  {
-    "id": 89,
-    "type": "fitb",
-    "stem": "The frontal bone forms sutures with the parietal, sphenoid, _______________, _______________, and ethmoid bones.",
-    "answer": "zygomatic / lacrimal",
-    "acceptableAnswers": [
-      "zygomatic / lacrimal",
-      "lacrimal / zygomatic",
-      "nasal / zygomatic"
-    ]
-  },
-  {
-    "id": 90,
-    "type": "mcq",
-    "stem": "A nursing student asks which bones of the skull specifically contain air-filled sinuses, citing four bones by name. She names 'the sphenoid, ethmoid, maxillary, and temporal bones.' The MOST accurate correction is:",
-    "options": [
-      "The sinuses are contained within the sphenoid, ethmoid, maxillary, and parietal bones; the temporal bone contains the mastoid air cells rather than true paranasal sinuses, and the parietal bone sinuses drain into the middle meatus",
-      "The sinuses are contained within the sphenoid, ethmoid, maxillary, and frontal bones; the temporal bone contains mastoid air cells which are distinct from paranasal sinuses and do not communicate with the nasal cavity in the same way",
-      "The sinuses are contained within the sphenoid, ethmoid, frontal, and temporal bones; the maxilla does not contain a sinus cavity but instead carries the dental alveoli for the upper teeth along its inferior surface"
+      "Topical delivery is preferred because it activates local immune defence mechanisms in the conjunctival-associated lymphoid tissue (CALT) that amplify the drug's therapeutic effect through immunological synergy with the pharmacological mechanism of action",
+      "Topical delivery ensures high drug concentrations at the ocular site with minimal systemic absorption, providing targeted therapeutic effects while significantly reducing the systemic side effects associated with oral or intravenous administration of equivalent drugs",
+      "Topical delivery is preferred because it produces faster systemic distribution than oral administration; drugs administered topically enter the circulation through the conjunctival vasculature faster than gastrointestinal absorption, allowing rapid systemic anti-inflammatory effects"
     ],
     "answer": "B"
   },
   {
+    "id": 87,
+    "type": "mcq",
+    "stem": "CASE SCENARIO: A 54-year-old woman with primary open-angle glaucoma has been on Timolol eye drops for 3 months. At her follow-up visit, she reports feeling persistently tired and sad since starting the medication. Her IOP has improved. The nurse recognises this as a possible adverse effect. Which class-specific side effect does this presentation MOST likely represent?",
+    "options": [
+      "The patient's fatigue and sadness are likely due to the cholinergic rebound effect of Timolol; as a beta-blocker, Timolol paradoxically increases acetylcholine activity in the limbic system, producing depressive symptoms as a form of central cholinergic excess",
+      "The patient's fatigue and depression are documented systemic side effects of beta-adrenergic blocker eye drops resulting from systemic absorption via the nasolacrimal duct; these CNS effects are well-documented with non-selective beta-blockers and should be reported to the prescribing physician",
+      "The patient's fatigue is caused by the IOP-lowering effect of Timolol reducing blood flow to the optic nerve; reduced optic nerve perfusion impairs visual processing, which causes compensatory cognitive fatigue and emotional withdrawal that mimics clinical depression"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 88,
+    "type": "mcq",
+    "stem": "A nursing student states that 'all anti-glaucoma medications can be used safely in pregnancy.' The clinical instructor's MOST accurate and evidence-based correction is:",
+    "options": [
+      "All anti-glaucoma medications are safe in pregnancy because their topical administration prevents systemic exposure; the nasolacrimal drainage of topical drops is negligible and does not produce foetal plasma drug concentrations above the safety threshold",
+      "Anti-glaucoma medications must be used cautiously in pregnancy because systemic absorption through nasolacrimal drainage does occur, and beta-blockers, carbonic anhydrase inhibitors, prostaglandin analogs, and miotics all carry potential foetal risks; the prescribing physician must weigh the risks and benefits in each case",
+      "Only Betaxolol is safe in pregnancy among the anti-glaucoma drug classes because its \u03b21-selectivity prevents \u03b22-mediated uterine relaxation; all other anti-glaucoma medications are absolutely contraindicated in pregnancy at any gestational age"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 89,
+    "type": "fitb",
+    "stem": "Miotic agents open the _______________ meshwork, increasing aqueous humor _______________ and reducing IOP.",
+    "answer": "trabecular / outflow",
+    "acceptableAnswers": [
+      "trabecular / outflow"
+    ]
+  },
+  {
+    "id": 90,
+    "type": "fitb",
+    "stem": "Prostaglandin analogs are contraindicated in active _______________ inflammation and should be used with caution in patients with a history of _______________ simplex keratitis.",
+    "answer": "intraocular / herpes",
+    "acceptableAnswers": [
+      "intraocular / herpes"
+    ]
+  },
+  {
     "id": 91,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A medical student asks a ward nurse to explain why a patient with a pituitary tumour causing visual field defects was found on examination to have bitemporal hemianopia. The nurse's explanation draws on the anatomical relationship between the sella turcica and the optic pathway. Which explanation is MOST anatomically accurate?",
+    "stem": "A nurse reviewing ophthalmic pharmacology is asked which drug class is MOST likely to cause cosmetically permanent changes to the patient's appearance. Based on the documented side effect profiles, the MOST accurate answer is:",
     "options": [
-      "The pituitary tumour expands laterally from the sella turcica into the temporal fossae, directly compressing the temporal lobes of the brain, which contain the primary visual cortex responsible for temporal visual field processing",
-      "The pituitary gland rests in the hypophyseal fossa (sella turcica) of the sphenoid bone; as a tumour expands superiorly from the sella it compresses the optic chiasm, where nasal retinal fibres from both eyes cross to reach the opposite optic tract, producing bitemporal hemianopia",
-      "The pituitary tumour compresses the optic foramina of the sphenoid bone through which the optic nerves pass on their way to the brain; compression of both optic nerves simultaneously produces symmetrical visual field loss in both eyes"
+      "Beta-adrenergic blockers cause permanent pigmentation changes to the iris because repeated beta-receptor stimulation activates melanocytes in the iris stroma, and these changes persist indefinitely after drug discontinuation",
+      "Prostaglandin analogs cause irreversible iris pigmentation changes, periocular skin darkening, and eyelash growth that may be permanent; the iris pigmentation change specifically is documented as irreversible, distinguishing it from other side effects that may partially reverse",
+      "Carbonic anhydrase inhibitors cause permanent periocular skin lightening through their prostaglandin-inhibiting mechanism, which suppresses melanogenesis in periocular skin melanocytes; this effect is irreversible and occurs with both topical and oral formulations"
     ],
     "answer": "B"
   },
   {
     "id": 92,
     "type": "mcq",
-    "stem": "A nurse is reviewing the vertebral column with a student and asks: 'In which specific part of the spine would you expect to find the most pronounced natural anterior curvature, and what is this curvature called?' The MOST accurate answer is:",
+    "stem": "CASE SCENARIO: A nurse is preparing discharge instructions for a 61-year-old patient newly diagnosed with primary open-angle glaucoma who has been prescribed Latanoprost 0.005% nightly. The patient lives alone and asks the nurse how to store the medication. Which storage instruction is MOST accurate and clinically important for Latanoprost specifically?",
     "options": [
-      "The most pronounced anterior concavity (kyphosis) is found in the thoracic region; this primary curvature is present from birth and is the largest curvature of the spine, followed by the sacral kyphosis as the second largest primary curvature",
-      "The most pronounced anterior convexity (lordosis) is found in the lumbar region; the lumbar lordosis is a secondary curvature that develops when the child begins to stand and walk, and produces the anterior convexity seen in the lower back on lateral view",
-      "The most pronounced anterior curvature is found in the cervical region; the cervical lordosis is a primary curvature present from birth and is the most clinically significant because it positions the head optimally for visual scanning of the environment"
+      "Latanoprost should be stored in the freezer before opening to maintain drug stability; once opened, it must be transferred to the refrigerator and used within 28 days, after which the remaining drug must be discarded to prevent loss of potency",
+      "Latanoprost should be stored in the refrigerator before opening; once opened, it can be kept at room temperature for up to 6 weeks; this specific storage requirement is important because improper storage can degrade the drug's IOP-lowering efficacy",
+      "Latanoprost should be stored at room temperature both before and after opening, away from direct sunlight; refrigeration is unnecessary and may crystallise the preservative benzalkonium chloride, causing ocular toxicity on instillation"
     ],
     "answer": "B"
   },
   {
     "id": 93,
-    "type": "fitb",
-    "stem": "The ramus of the mandible divides into the condylar process superiorly and the _______________ process; the condylar process articulates with the _______________ bone to form the temporomandibular joint.",
-    "answer": "coronoid / temporal",
-    "acceptableAnswers": [
-      "coronoid / temporal"
-    ]
+    "type": "mcq",
+    "stem": "A nurse educator teaches that different drug classes for glaucoma work through distinct mechanisms. A student is asked to match each mechanism to the correct drug class: (1) opens trabecular meshwork via miosis, (2) reduces aqueous production via beta-receptor blockade, (3) increases uveoscleral outflow via ciliary muscle relaxation. The CORRECT drug class sequence matching mechanisms 1, 2, and 3 respectively is:",
+    "options": [
+      "(1) Carbonic anhydrase inhibitors, (2) prostaglandin analogs, (3) beta-adrenergic blockers \u2014 because CAIs open the meshwork through enzyme inhibition, prostaglandins block aqueous production, and beta-blockers drain fluid through the uveoscleral pathway",
+      "(1) Miotics (cholinergic agents), (2) beta-adrenergic blockers, (3) prostaglandin analogs \u2014 matching each mechanism precisely to its documented pharmacological class",
+      "(1) Beta-adrenergic blockers, (2) miotics, (3) carbonic anhydrase inhibitors \u2014 because beta-blockers constrict the pupil to open drainage, miotics reduce aqueous production, and CAIs increase uveoscleral outflow by enzyme inhibition"
+    ],
+    "answer": "B"
   },
   {
     "id": 94,
     "type": "fitb",
-    "stem": "The vertebral column is divided into different regions: the first 7 vertebrae form the _______________ spine, the next 12 are the _______________ spine, and the lowest 5 freely movable vertebrae are the lumbar spine.",
-    "answer": "cervical / thoracic",
+    "stem": "Patient education for prostaglandin analog therapy must warn about cosmetic side effects such as _______________ irises and _______________ eyelashes, and must emphasise nightly dosing adherence.",
+    "answer": "darker / longer",
     "acceptableAnswers": [
-      "cervical / thoracic"
+      "darker / longer"
     ]
   },
   {
     "id": 95,
     "type": "fitb",
-    "stem": "Each lacrimal bone is posterior and _______________ to the nasal bones and forms part of the _______________ walls of the orbital cavities.",
-    "answer": "lateral / medial",
+    "stem": "Oral carbonic anhydrase inhibitors are indicated as an adjunct in acute _______________ glaucoma, while topical CAIs are used for primary open-angle glaucoma and ocular _______________.",
+    "answer": "angle-closure / hypertension",
     "acceptableAnswers": [
-      "lateral / medial"
+      "angle-closure / hypertension",
+      "angle closure / hypertension"
     ]
   },
   {
     "id": 96,
     "type": "mcq",
-    "stem": "A nurse educator asks students to explain why the inner surface of the occipital bone is described as 'deeply concave.' A student states: 'This is to allow the brain to sit inside the skull.' The instructor asks for a more anatomically precise explanation. The MOST accurate answer is:",
+    "stem": "A nurse is explaining to a newly qualified colleague why miotic eye drops are instilled into the conjunctival sac rather than directly on the cornea. Which pharmacokinetic and anatomical principle MOST precisely justifies this administration technique?",
     "options": [
-      "The inner surface of the occipital bone is deeply concave to accommodate the occipital lobes of the cerebrum above and the cerebellum below, with the transverse sinuses running in grooves along the lateral parts of the occipital bone's inner surface",
-      "The inner surface of the occipital bone is deeply concave to provide space for the hypothalamus and pituitary stalk, which descend from the base of the brain toward the sella turcica of the sphenoid bone directly anterior to the occipital bone",
-      "The inner surface of the occipital bone is deeply concave because it forms the posterior cranial fossa, which houses the cerebellum and brainstem; the concavity is deepened by the internal occipital protuberance, which marks the junction of the transverse and sagittal sinuses"
+      "Instillation into the conjunctival sac is preferred because the conjunctival epithelium is more permeable to muscarinic agonists than the corneal epithelium; direct corneal application would cause immediate corneal epithelial toxicity before the drug could be absorbed",
+      "The conjunctival sac serves as a reservoir where the drug can be held and gradually absorbed; direct corneal contact during administration is avoided because the corneal epithelium is a primary barrier to drug penetration, and corneal contact with the dropper tip introduces contamination risk",
+      "Instillation into the conjunctival sac delivers the drug to the limbal vasculature for immediate systemic distribution, which then recirculates to the ciliary body through the ocular vasculature; direct corneal application would cause corneal toxicity without achieving ciliary body drug delivery"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 97,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A 10-month-old infant is seen in the paediatric clinic. The parents report that the soft spot at the top of the head is still present. Clinical assessment reveals a non-bulging, flat anterior fontanelle. Based on the documented timeline, which assessment conclusion is MOST appropriate?",
+    "stem": "CASE SCENARIO: A 66-year-old male patient with advanced primary open-angle glaucoma is being started on a maximum medical therapy regimen including Latanoprost nightly, Timolol 0.5% twice daily, and Dorzolamide 2% three times daily. The nurse prepares to instil all three medications at the 8 PM scheduled time. Which nursing action regarding the administration sequence and timing of multiple eye drops is MOST important?",
     "options": [
-      "The open anterior fontanelle at 10 months is abnormal; it should have closed by 6 months, and its continued patency indicates hydrocephalus or metabolic bone disease requiring immediate neurosurgical referral",
-      "The open anterior fontanelle at 10 months is a normal finding; the anterior fontanelle does not fully ossify until between 12 and 18 months of age, and a flat non-bulging fontanelle at 10 months indicates normal intracranial pressure",
-      "The open anterior fontanelle at 10 months indicates that this is actually the posterior fontanelle, which closes between 12 and 18 months; the anterior fontanelle should have closed at 2 to 3 months after birth"
+      "All three drops can be administered simultaneously by pooling them in the conjunctival sac before instillation; combining the drops reduces administration time and the number of punctal occlusion manoeuvres required, improving patient comfort and adherence",
+      "Each eye drop should be administered separately with a waiting interval of at least 5 minutes between each drop; this prevents dilution or washout of the first drop before it is absorbed, ensures each medication achieves adequate corneal contact time, and minimises drug interactions at the ocular surface",
+      "The sequence must follow a strict pharmacological priority: the longest-acting drug (Latanoprost) must always be administered last because its prolonged contact alters corneal permeability and enhances absorption of subsequently administered drops"
     ],
     "answer": "B"
   },
   {
     "id": 98,
     "type": "mcq",
-    "stem": "A nursing student is reviewing the vertebral arch and asks what the clinical significance of the spinous processes is for nursing practice. The MOST complete and accurate answer is:",
+    "stem": "A nurse is reviewing the nursing safety consideration for Timolol concentration verification. The nurse explains that both Timolol 0.25% and Timolol 0.5% are available and that the wrong concentration has been dispensed in error. Which nursing principle MOST directly explains why concentration verification is a critical safety step for this specific medication?",
     "options": [
-      "The spinous processes are clinically significant because they are the attachment points for the paraspinal muscles responsible for spinal extension; damage to the spinous processes impairs spinal extension and produces a characteristic flexed posture",
-      "The spinous processes can be felt through the skin along the length of the spine and serve as landmarks for spinal procedures; they are also the site of attachment for ligaments and muscles, and their alignment provides clinical information about scoliosis and vertebral rotation",
-      "The spinous processes are clinically significant only as landmarks for epidural anaesthesia placement; their palpability through the skin allows the nurse to identify specific spinal levels without imaging guidance during anaesthetic procedures"
+      "Timolol 0.25% and Timolol 0.5% have different indications; the 0.25% is used for open-angle glaucoma while the 0.5% is used for angle-closure glaucoma, and prescribing the wrong concentration means the wrong glaucoma type is being treated",
+      "Dispensing the higher concentration (0.5%) when 0.25% was prescribed doubles the systemic drug dose absorbed through the nasolacrimal duct, potentially causing dose-dependent adverse effects including severe bradycardia, hypotension, or bronchospasm that could be life-threatening",
+      "Dispensing the lower concentration (0.25%) when 0.5% was prescribed reduces topical IOP-lowering effect by 50%; the resulting subtherapeutic IOP control will cause rapid glaucoma progression within days, making under-dosing errors more dangerous than overdosing errors"
     ],
     "answer": "B"
   },
   {
     "id": 99,
     "type": "fitb",
-    "stem": "The axial skeleton is so called because it is the _______________ or central core of the skeleton, and consists of the skull, _______________ column, ribs, and sternum.",
-    "answer": "axis / vertebral",
+    "stem": "For carbonic anhydrase inhibitor nursing assessment, the nurse should screen for _______________ allergies and _______________ function specifically for oral forms before initiating therapy.",
+    "answer": "sulfa / renal/hepatic",
     "acceptableAnswers": [
-      "axis / vertebral"
+      "sulfa / renal/hepatic",
+      "sulfonamide / renal/hepatic",
+      "sulfa / renal",
+      "sulfa / hepatic"
     ]
   },
   {
     "id": 100,
     "type": "mcq",
-    "stem": "CASE SCENARIO FINAL INTEGRATIVE QUESTION: A 52-year-old male patient is admitted following a high-speed road traffic accident. CT imaging reveals: (1) a fracture of the occipital condyles bilaterally, (2) disruption of the foramen magnum margin, (3) a fracture through the cribriform plate of the ethmoid bilaterally with cerebrospinal fluid (CSF) rhinorrhoea, and (4) bilateral orbital floor fractures. Based on the documented anatomy of these structures across all four bones involved, which combination of clinical complications is MOST directly predicted by this fracture pattern?",
+    "stem": "CASE SCENARIO FINAL INTEGRATIVE QUESTION: A 69-year-old man with COPD, chronic kidney disease (creatinine 2.6 mg/dL), a history of sulfa allergy, herpes simplex keratitis, and a resting heart rate of 48 bpm is referred to the ophthalmology clinic for newly diagnosed primary open-angle glaucoma. The ophthalmologist must select the most appropriate anti-glaucoma pharmacotherapy. Based on the documented contraindications, indications, and pharmacological profiles of all four major drug classes, which single drug class is MOST appropriate for initiating therapy in this patient?",
     "options": [
-      "Bilateral occipital condyle fractures risk atlanto-occipital instability and spinal cord injury at the craniocervical junction; foramen magnum disruption risks brainstem compression; cribriform plate fractures risk meningitis through direct CSF communication with the nasal cavity and olfactory nerve damage causing anosmia; orbital floor fractures risk enophthalmos and infraorbital nerve damage",
-      "Bilateral occipital condyle fractures risk pituitary gland compression through transmitted force to the sella turcica; cribriform plate fractures risk damage to the maxillary division of the trigeminal nerve and loss of facial sensation; orbital floor fractures risk lacrimal gland disruption causing epiphora",
-      "Foramen magnum disruption risks compression of the vertebral arteries as they pass through the foramen magnum bilaterally; cribriform plate fractures risk damage to the optic nerves as they pass through the cribriform plate foramina; orbital floor fractures risk disruption of the nasolacrimal duct at its origin in the lacrimal bone"
+      "Prostaglandin analogs (e.g., Latanoprost) are the most appropriate choice; they are contraindicated in uveitis but not in COPD, CKD, sulfa allergy, or bradycardia, and while caution is required in herpes simplex keratitis history, this patient's history rather than active disease should be assessed with the prescriber before deciding",
+      "Carbonic anhydrase inhibitors (topical Dorzolamide) are the most appropriate choice despite the sulfa allergy because topical CAIs do not produce sufficient systemic drug levels to cause cross-reactive hypersensitivity; the sulfa allergy contraindication applies exclusively to oral Acetazolamide",
+      "Miotics (Pilocarpine) are the most appropriate choice because they have no cardiovascular, pulmonary, or renal contraindications; they can safely be used in patients with COPD, bradycardia, renal impairment, and sulfa allergy, making them the safest option across all of this patient's comorbidities"
     ],
     "answer": "A"
   }
