@@ -1,1452 +1,1150 @@
 [
-    {
-      "id": 1,
-      "type": "mcq",
-      "stem": "A patient sustains a penetrating injury that removes only the smooth covering from the opposing bone ends of a freely movable joint. Which tissue has been directly damaged?",
-      "options": [
-        "Articular hyaline cartilage",
-        "Fibrous capsule",
-        "Synovial membrane",
-        "Fibrocartilage meniscus"
-      ]
-    },
-    {
-      "id": 2,
-      "type": "mcq",
-      "stem": "During assessment of a joint, the nurse notes that the articulating bones are united by dense connective tissue and no joint cavity is present. Which functional property is MOST consistent with this structural arrangement?",
-      "options": [
-        "Free movement in several planes",
-        "Little or no movement",
-        "Movement limited primarily by synovial fluid viscosity",
-        "Rotation around a longitudinal axis"
-      ]
-    },
-    {
-      "id": 3,
-      "type": "mcq",
-      "stem": "A client has degeneration of a structure that normally reduces friction, distributes load, and prevents direct bone-to-bone contact at a synovial articulation. Which structure is primarily affected?",
-      "options": [
-        "Periosteum",
-        "Articular cartilage",
-        "Tendon sheath",
-        "Interosseous membrane"
-      ]
-    },
-    {
-      "id": 4,
-      "type": "mcq",
-      "stem": "A student states that synovial fluid is secreted by the articular cartilage. Which correction by the instructor is MOST accurate?",
-      "options": [
-        "It is produced by the fibrous capsule and stored in bursae.",
-        "It is secreted by the synovial membrane and nourishes avascular articular cartilage.",
-        "It is produced by ligaments and absorbed by tendons.",
-        "It is secreted by periosteum and lubricates only non-articular surfaces."
-      ]
-    },
-    {
-      "id": 5,
-      "type": "mcq",
-      "stem": "A patient with severe inflammation of the inner lining of a knee joint is expected to have impaired production of which substance?",
-      "options": [
-        "Synovial fluid",
-        "Hyaline cartilage",
-        "Collagen of the cruciate ligaments",
-        "Fibrocartilage of the menisci"
-      ]
-    },
-    {
-      "id": 6,
-      "type": "mcq",
-      "stem": "A joint permits flexion, extension, abduction, adduction, rotation and circumduction. Which synovial joint type BEST explains this range?",
-      "options": [
-        "Hinge",
-        "Pivot",
-        "Ball-and-socket",
-        "Plane"
-      ]
-    },
-    {
-      "id": 7,
-      "type": "mcq",
-      "stem": "Which observation BEST distinguishes a pivot joint from a hinge joint?",
-      "options": [
-        "Movement occurs around a longitudinal axis rather than predominantly in one plane.",
-        "The joint possesses articular cartilage rather than fibrocartilage.",
-        "The joint lacks a capsule but contains synovial fluid.",
-        "Movement is possible only when a bursa is present."
-      ]
-    },
-    {
-      "id": 8,
-      "type": "mcq",
-      "stem": "A client can flex and extend a joint but cannot normally abduct it. Which joint type is MOST consistent with this finding?",
-      "options": [
-        "Condyloid",
-        "Saddle",
-        "Hinge",
-        "Ball-and-socket"
-      ]
-    },
-    {
-      "id": 9,
-      "type": "mcq",
-      "stem": "Which movement describes decreasing the angle between two articulating bones?",
-      "options": [
-        "Extension",
-        "Flexion",
-        "Abduction",
-        "Circumduction"
-      ]
-    },
-    {
-      "id": 10,
-      "type": "mcq",
-      "stem": "A nurse asks a patient to move an upper limb away from the body's median plane. Which movement is being tested?",
-      "options": [
-        "Adduction",
-        "Abduction",
-        "Medial rotation",
-        "Extension"
-      ]
-    },
-    {
-      "id": 11,
-      "type": "mcq",
-      "stem": "A patient returns the abducted arm toward the trunk. Which movement has occurred?",
-      "options": [
-        "Adduction",
-        "Pronation",
-        "Supination",
-        "Circumduction"
-      ]
-    },
-    {
-      "id": 12,
-      "type": "mcq",
-      "stem": "A clinician asks a patient to trace a large circle with the distal end of an extended upper limb while the proximal end remains relatively fixed. Which movement is demonstrated?",
-      "options": [
-        "Rotation",
-        "Circumduction",
-        "Gliding",
-        "Opposition"
-      ]
-    },
-    {
-      "id": 13,
-      "type": "mcq",
-      "stem": "A lesion prevents the head of the humerus from rotating within the glenoid cavity but leaves flexion and extension partly intact. Which movement is MOST directly lost?",
-      "options": [
-        "Angular movement",
-        "Axial rotation",
-        "Gliding",
-        "Dorsiflexion"
-      ]
-    },
-    {
-      "id": 14,
-      "type": "mcq",
-      "stem": "A patient has damage to the glenohumeral joint. Which characteristic explains why this joint sacrifices stability for mobility?",
-      "options": [
-        "A deep socket tightly encloses most of the humeral head.",
-        "A relatively shallow glenoid cavity articulates with a large humeral head.",
-        "The joint is stabilized primarily by an interosseous membrane.",
-        "The humerus and scapula are united by fibrocartilage."
-      ]
-    },
-    {
-      "id": 15,
-      "type": "mcq",
-      "stem": "Which structure MOST directly deepens the socket of the shoulder without converting it into a fixed articulation?",
-      "options": [
-        "Glenoid labrum",
-        "Olecranon",
-        "Annular ligament",
-        "Medial meniscus"
-      ]
-    },
-    {
-      "id": 16,
-      "type": "mcq",
-      "stem": "A patient tears the tendons that blend with and reinforce the capsule around the shoulder. Which stabilizing mechanism is compromised?",
-      "options": [
-        "Rotator cuff support",
-        "Cruciate locking",
-        "Meniscal congruence",
-        "Interosseous fixation"
-      ]
-    },
-    {
-      "id": 17,
-      "type": "mcq",
-      "stem": "A patient can flex the elbow but cannot extend it against resistance. Which muscle is MOST likely impaired?",
-      "options": [
-        "Biceps brachii",
-        "Brachialis",
-        "Triceps brachii",
-        "Flexor retinaculum"
-      ]
-    },
-    {
-      "id": 18,
-      "type": "mcq",
-      "stem": "Which articulation is primarily responsible for the hinge-like flexion and extension of the elbow?",
-      "options": [
-        "Humeroulnar articulation",
-        "Proximal radioulnar articulation",
-        "Radiocarpal articulation",
-        "Acromioclavicular articulation"
-      ]
-    },
-    {
-      "id": 19,
-      "type": "mcq",
-      "stem": "A client experiences pain when rotating the forearm so the palm turns posteriorly in anatomical position. Which movement is being performed?",
-      "options": [
-        "Supination",
-        "Pronation",
-        "Opposition",
-        "Inversion"
-      ]
-    },
-    {
-      "id": 20,
-      "type": "mcq",
-      "stem": "A fracture compromises the proximal radioulnar articulation. Which movement would be MOST specifically impaired?",
-      "options": [
-        "Flexion of the fingers",
-        "Pronation and supination",
-        "Abduction of the shoulder",
-        "Dorsiflexion of the ankle"
-      ]
-    },
-    {
-      "id": 21,
-      "type": "mcq",
-      "stem": "A patient with median nerve compression beneath a strong fibrous band at the anterior wrist is diagnosed with carpal tunnel syndrome. Which structure forms the superficial boundary implicated in the compression?",
-      "options": [
-        "Flexor retinaculum",
-        "Extensor retinaculum",
-        "Annular ligament",
-        "Patellar ligament"
-      ]
-    },
-    {
-      "id": 22,
-      "type": "mcq",
-      "stem": "Which structures normally pass through the carpal tunnel with the median nerve?",
-      "options": [
-        "Extensor tendons of the wrist",
-        "Flexor tendons of the fingers",
-        "Biceps and brachialis tendons",
-        "Radial and ulnar collateral ligaments"
-      ]
-    },
-    {
-      "id": 23,
-      "type": "mcq",
-      "stem": "A patient cannot bring the thumb across the palm to touch a fingertip. Which specialized movement is impaired?",
-      "options": [
-        "Opposition",
-        "Reposition",
-        "Pronation",
-        "Circumduction"
-      ]
-    },
-    {
-      "id": 24,
-      "type": "mcq",
-      "stem": "The first carpometacarpal joint permits greater mobility than the corresponding joints of digits 2â5 primarily because it is what type of synovial joint?",
-      "options": [
-        "Saddle",
-        "Hinge",
-        "Pivot",
-        "Plane"
-      ]
-    },
-    {
-      "id": 25,
-      "type": "mcq",
-      "stem": "A patient has an isolated injury to an interphalangeal joint. Which movement pair should remain characteristic of that joint?",
-      "options": [
-        "Abduction and adduction",
-        "Flexion and extension",
-        "Pronation and supination",
-        "Inversion and eversion"
-      ]
-    },
-    {
-      "id": 26,
-      "type": "mcq",
-      "stem": "Metacarpophalangeal joints permit flexion, extension, abduction, adduction and circumduction. Which classification BEST fits these joints?",
-      "options": [
-        "Condyloid",
-        "Pivot",
-        "Plane",
-        "Hinge"
-      ]
-    },
-    {
-      "id": 27,
-      "type": "mcq",
-      "stem": "A client with severe hip trauma has disruption of the fibrocartilaginous rim surrounding the acetabulum. What is the MOST likely mechanical consequence?",
-      "options": [
-        "Reduced depth and stability of the acetabular socket",
-        "Loss of synovial fluid secretion",
-        "Loss of knee extension",
-        "Fixation of the sacroiliac joint"
-      ]
-    },
-    {
-      "id": 28,
-      "type": "mcq",
-      "stem": "Which feature makes the hip generally more stable than the shoulder despite both being ball-and-socket joints?",
-      "options": [
-        "The hip lacks a joint capsule.",
-        "The acetabulum forms a deeper socket around the femoral head.",
-        "The hip contains no articular cartilage.",
-        "The femoral head is held only by muscle tone."
-      ]
-    },
-    {
-      "id": 29,
-      "type": "mcq",
-      "stem": "A patient has damage to the ligament running from the acetabular region to the head of the femur. Which joint is involved?",
-      "options": [
-        "Hip",
-        "Knee",
-        "Ankle",
-        "Shoulder"
-      ]
-    },
-    {
-      "id": 30,
-      "type": "mcq",
-      "stem": "A nurse evaluates a patient who cannot move the thigh away from the median plane. Which hip movement is deficient?",
-      "options": [
-        "Adduction",
-        "Abduction",
-        "Extension",
-        "Medial rotation"
-      ]
-    },
-    {
-      "id": 31,
-      "type": "mcq",
-      "stem": "Which statement BEST describes the knee joint?",
-      "options": [
-        "It is a simple pivot joint with a single articulation.",
-        "It is a complex synovial joint involving femur, tibia and patella.",
-        "It is a cartilaginous joint stabilized only by fibrocartilage.",
-        "It is a ball-and-socket joint whose socket is formed by the tibia."
-      ]
-    },
-    {
-      "id": 32,
-      "type": "mcq",
-      "stem": "A patient tears a cruciate ligament. Which normal function is MOST directly compromised?",
-      "options": [
-        "Stabilization of the femur-tibia relationship during knee movement",
-        "Production of synovial fluid",
-        "Attachment of the patella to skin",
-        "Formation of articular cartilage"
-      ]
-    },
-    {
-      "id": 33,
-      "type": "mcq",
-      "stem": "Which pair of structures consists of fibrocartilaginous pads that improve congruence between femoral and tibial articular surfaces?",
-      "options": [
-        "Medial and lateral menisci",
-        "Anterior and posterior bursae",
-        "Tibial and fibular collateral capsules",
-        "Patellar and quadriceps tendons"
-      ]
-    },
-    {
-      "id": 34,
-      "type": "mcq",
-      "stem": "A twisting injury causes a tear of a knee meniscus. Which function is MOST likely reduced?",
-      "options": [
-        "Load distribution and stabilization between femur and tibia",
-        "Secretion of synovial fluid",
-        "Active extension generated by quadriceps contraction",
-        "Transmission of impulses through the tibial nerve"
-      ]
-    },
-    {
-      "id": 35,
-      "type": "mcq",
-      "stem": "The patella is embedded within the tendon of which muscle group?",
-      "options": [
-        "Hamstrings",
-        "Quadriceps femoris",
-        "Gastrocnemius",
-        "Adductors"
-      ]
-    },
-    {
-      "id": 36,
-      "type": "mcq",
-      "stem": "A patient cannot actively extend the knee after complete disruption of the quadriceps mechanism. Which structure normally transmits quadriceps force from the patella toward the tibia?",
-      "options": [
-        "Patellar ligament",
-        "Anterior cruciate ligament",
-        "Medial meniscus",
-        "Fibular collateral ligament"
-      ]
-    },
-    {
-      "id": 37,
-      "type": "mcq",
-      "stem": "Which movement at the knee is produced principally by the quadriceps femoris?",
-      "options": [
-        "Flexion",
-        "Extension",
-        "Inversion",
-        "Plantar flexion"
-      ]
-    },
-    {
-      "id": 38,
-      "type": "mcq",
-      "stem": "Which muscle group is principally responsible for knee flexion?",
-      "options": [
-        "Hamstrings",
-        "Quadriceps",
-        "Anterior tibial muscles",
-        "Gluteal abductors"
-      ]
-    },
-    {
-      "id": 39,
-      "type": "mcq",
-      "stem": "A patient has a swollen friction-reducing sac adjacent to a joint. Which structure is inflamed?",
-      "options": [
-        "Bursa",
-        "Meniscus",
-        "Labrum",
-        "Retinaculum"
-      ]
-    },
-    {
-      "id": 40,
-      "type": "mcq",
-      "stem": "What is the primary role of a bursa located where a tendon passes over bone?",
-      "options": [
-        "Increase friction to stabilize the tendon",
-        "Reduce friction between moving structures",
-        "Produce articular cartilage",
-        "Prevent all movement of the tendon"
-      ]
-    },
-    {
-      "id": 41,
-      "type": "mcq",
-      "stem": "A patient cannot raise the toes toward the shin. Which ankle movement is impaired?",
-      "options": [
-        "Plantar flexion",
-        "Dorsiflexion",
-        "Eversion",
-        "Inversion"
-      ]
-    },
-    {
-      "id": 42,
-      "type": "mcq",
-      "stem": "A patient is asked to stand on tiptoe. Which movement must occur at the ankle?",
-      "options": [
-        "Dorsiflexion",
-        "Plantar flexion",
-        "Inversion",
-        "Abduction"
-      ]
-    },
-    {
-      "id": 43,
-      "type": "mcq",
-      "stem": "Which muscle group is MOST directly associated with dorsiflexion of the ankle?",
-      "options": [
-        "Anterior tibialis and toe extensors",
-        "Gastrocnemius and soleus",
-        "Hamstrings and gastrocnemius",
-        "Quadriceps and tibialis posterior"
-      ]
-    },
-    {
-      "id": 44,
-      "type": "mcq",
-      "stem": "Which muscles are the principal plantar flexors identified in the chapter?",
-      "options": [
-        "Gastrocnemius, soleus and toe flexors",
-        "Anterior tibialis and toe extensors",
-        "Quadriceps and hamstrings",
-        "Gluteals and adductors"
-      ]
-    },
-    {
-      "id": 45,
-      "type": "mcq",
-      "stem": "A patient has an injury between the distal tibia, distal fibula and talus. Which joint is affected?",
-      "options": [
-        "Ankle",
-        "Hip",
-        "Knee",
-        "Subtalar only"
-      ]
-    },
-    {
-      "id": 46,
-      "type": "mcq",
-      "stem": "The medial malleolus is the distal projection of which bone?",
-      "options": [
-        "Fibula",
-        "Tibia",
-        "Talus",
-        "Calcaneus"
-      ]
-    },
-    {
-      "id": 47,
-      "type": "mcq",
-      "stem": "The lateral malleolus is formed by the distal end of which bone?",
-      "options": [
-        "Tibia",
-        "Fibula",
-        "Talus",
-        "Navicular"
-      ]
-    },
-    {
-      "id": 48,
-      "type": "mcq",
-      "stem": "Which bone receives the body weight from the tibia at the ankle articulation?",
-      "options": [
-        "Talus",
-        "Calcaneus",
-        "Navicular",
-        "Cuboid"
-      ]
-    },
-    {
-      "id": 49,
-      "type": "mcq",
-      "stem": "A patient has disruption of the strong medial ligament complex of the ankle. Which name identifies this structure?",
-      "options": [
-        "Deltoid ligament",
-        "Patellar ligament",
-        "Annular ligament",
-        "Glenoid ligament"
-      ]
-    },
-    {
-      "id": 50,
-      "type": "mcq",
-      "stem": "A patient has intact ankle dorsiflexion and plantar flexion but difficulty turning the sole medially. Which movement is impaired?",
-      "options": [
-        "Eversion",
-        "Inversion",
-        "Pronation",
-        "Opposition"
-      ]
-    },
-    {
-      "id": 51,
-      "type": "mcq",
-      "stem": "Turning the sole of the foot laterally is termed which movement?",
-      "options": [
-        "Inversion",
-        "Eversion",
-        "Supination",
-        "Adduction"
-      ]
-    },
-    {
-      "id": 52,
-      "type": "mcq",
-      "stem": "Most joints between the bones of the ankle and foot are structurally classified as which type?",
-      "options": [
-        "Synovial",
-        "Fibrous",
-        "Primary cartilaginous",
-        "Gomphotic"
-      ]
-    },
-    {
-      "id": 53,
-      "type": "mcq",
-      "stem": "Long tendons crossing the ankle are enclosed in synovial sheaths primarily to achieve what effect?",
-      "options": [
-        "Increase tendon-bone friction",
-        "Permit smooth tendon movement",
-        "Convert tendons into ligaments",
-        "Prevent all lateral movement"
-      ]
-    },
-    {
-      "id": 54,
-      "type": "mcq",
-      "stem": "A patient has degeneration of articular cartilage but an intact synovial membrane. Why is cartilage repair still limited?",
-      "options": [
-        "Articular cartilage has no direct blood supply.",
-        "Synovial fluid completely prevents cell division.",
-        "The cartilage is composed only of elastic fibers.",
-        "Articular cartilage is outside the joint capsule."
-      ]
-    },
-    {
-      "id": 55,
-      "type": "mcq",
-      "stem": "Which age-related change in articular cartilage MOST directly increases stress on underlying bone?",
-      "options": [
-        "It becomes thinner and less compressible.",
-        "It becomes thicker and more vascular.",
-        "It secretes increasing quantities of synovial fluid.",
-        "It transforms into dense regular connective tissue."
-      ]
-    },
-    {
-      "id": 56,
-      "type": "mcq",
-      "stem": "A joint is enclosed by a sleeve of fibrous tissue and lined internally by a membrane that secretes lubricating fluid. Which structural class is described?",
-      "options": [
-        "Fibrous joint",
-        "Synovial joint",
-        "Cartilaginous joint",
-        "Bony union"
-      ]
-    },
-    {
-      "id": 57,
-      "type": "mcq",
-      "stem": "A child has a temporary joint in which cartilage lies between the epiphysis and diaphysis of a growing long bone. Which structure is being described?",
-      "options": [
-        "Epiphyseal plate",
-        "Synovial cavity",
-        "Interosseous membrane",
-        "Meniscus"
-      ]
-    },
-    {
-      "id": 58,
-      "type": "mcq",
-      "stem": "Which example BEST represents a fibrous joint designed for essentially no movement?",
-      "options": [
-        "Suture between skull bones",
-        "Hip joint",
-        "Knee joint",
-        "First carpometacarpal joint"
-      ]
-    },
-    {
-      "id": 59,
-      "type": "mcq",
-      "stem": "A tooth is anchored in its socket by fibrous connective tissue. Which structural joint category does this represent?",
-      "options": [
-        "Fibrous",
-        "Synovial",
-        "Cartilaginous",
-        "Saddle"
-      ]
-    },
-    {
-      "id": 60,
-      "type": "mcq",
-      "stem": "A patient has pathology of an intervertebral disc that normally permits limited movement between adjacent vertebral bodies. Which structural joint category is primarily represented?",
-      "options": [
-        "Cartilaginous",
-        "Synovial",
-        "Fibrous",
-        "Pivot"
-      ]
-    },
-    {
-      "id": 61,
-      "type": "mcq",
-      "stem": "Case: After a football injury, a patient reports knee instability. Imaging shows intact menisci but disruption of a ligament located within the joint that restrains abnormal displacement between tibia and femur. Which structure is MOST likely injured?",
-      "options": [
-        "Cruciate ligament",
-        "Patellar ligament",
-        "Fibular collateral ligament",
-        "Quadriceps tendon"
-      ]
-    },
-    {
-      "id": 62,
-      "type": "mcq",
-      "stem": "Case: A patient falls on an outstretched hand and later has numbness in the lateral palm and difficulty with thumb opposition. Swelling beneath the flexor retinaculum would MOST directly compress which nerve?",
-      "options": [
-        "Median nerve",
-        "Ulnar nerve",
-        "Radial nerve",
-        "Musculocutaneous nerve"
-      ]
-    },
-    {
-      "id": 63,
-      "type": "mcq",
-      "stem": "Case: Following shoulder trauma, the humeral head repeatedly slips because the fibrocartilaginous structure that deepens the socket is torn. Which structure is damaged?",
-      "options": [
-        "Glenoid labrum",
-        "Acetabular labrum",
-        "Medial meniscus",
-        "Olecranon bursa"
-      ]
-    },
-    {
-      "id": 64,
-      "type": "mcq",
-      "stem": "Case: A patient with ankle trauma can dorsiflex normally but cannot plantar flex against resistance. Which muscle pair should the nurse suspect FIRST?",
-      "options": [
-        "Gastrocnemius and soleus",
-        "Anterior tibialis and toe extensors",
-        "Quadriceps and hamstrings",
-        "Biceps and brachialis"
-      ]
-    },
-    {
-      "id": 65,
-      "type": "mcq",
-      "stem": "Case: A client has pain when the sole is forcibly turned outward after an ankle injury. Which movement provokes the pain?",
-      "options": [
-        "Eversion",
-        "Inversion",
-        "Dorsiflexion",
-        "Plantar flexion"
-      ]
-    },
-    {
-      "id": 66,
-      "type": "mcq",
-      "stem": "Case: A patient has loss of smooth, low-friction movement in a synovial joint despite normal muscle strength. The cartilage remains structurally intact, but its nutritional support is impaired. Dysfunction of which structure BEST explains the finding?",
-      "options": [
-        "Synovial membrane",
-        "Periosteum",
-        "Tendon",
-        "Interosseous membrane"
-      ]
-    },
-    {
-      "id": 67,
-      "type": "mcq",
-      "stem": "Case: A patient has preserved elbow flexion-extension but loses the ability to rotate the radius around the ulna. Which joint mechanism is MOST likely disrupted?",
-      "options": [
-        "Pivot mechanism",
-        "Hinge mechanism",
-        "Saddle mechanism",
-        "Condyloid mechanism"
-      ]
-    },
-    {
-      "id": 68,
-      "type": "mcq",
-      "stem": "Case: A patient can flex and extend the fingers but cannot spread them apart at the metacarpophalangeal joints. Which movement is selectively impaired?",
-      "options": [
-        "Abduction",
-        "Adduction",
-        "Opposition",
-        "Rotation"
-      ]
-    },
-    {
-      "id": 69,
-      "type": "mcq",
-      "stem": "Case: An older adult has progressive thinning and reduced compressibility of knee articular cartilage. Which consequence should the nurse anticipate MOST directly?",
-      "options": [
-        "Greater transmission of mechanical stress to underlying bone",
-        "Increased vascular perfusion of the cartilage",
-        "Complete loss of synovial fluid secretion",
-        "Conversion of the knee into a fibrous joint"
-      ]
-    },
-    {
-      "id": 70,
-      "type": "mcq",
-      "stem": "Case: Trauma destroys the capsule of a synovial joint but leaves the articular cartilage intact. Which immediate mechanical function is MOST directly compromised?",
-      "options": [
-        "Enclosure and stabilization of the articulation",
-        "Active muscle contraction",
-        "Formation of red blood cells",
-        "Conduction through peripheral nerves"
-      ]
-    },
-    {
-      "id": 71,
-      "type": "fitb",
-      "stem": "The site at which two or more bones articulate is called a __________."
-    },
-    {
-      "id": 72,
-      "type": "fitb",
-      "stem": "The smooth cartilage covering the contacting bone surfaces of a synovial joint is __________ cartilage."
-    },
-    {
-      "id": 73,
-      "type": "fitb",
-      "stem": "The membrane lining the inner surface of a synovial joint capsule and producing joint fluid is the __________ membrane."
-    },
-    {
-      "id": 74,
-      "type": "fitb",
-      "stem": "Synovial fluid lubricates the articulation and provides nutritional support to avascular __________ cartilage."
-    },
-    {
-      "id": 75,
-      "type": "fitb",
-      "stem": "A fluid-filled friction-reducing sac associated with many synovial joints is a __________."
-    },
-    {
-      "id": 76,
-      "type": "fitb",
-      "stem": "The fibrocartilaginous pads between the femur and tibia are the medial and lateral __________."
-    },
-    {
-      "id": 77,
-      "type": "fitb",
-      "stem": "The kneecap, embedded in the quadriceps tendon, is the __________."
-    },
-    {
-      "id": 78,
-      "type": "fitb",
-      "stem": "The distal projection of the tibia at the ankle is the __________ __________."
-    },
-    {
-      "id": 79,
-      "type": "fitb",
-      "stem": "The distal projection of the fibula is the __________ __________."
-    },
-    {
-      "id": 80,
-      "type": "fitb",
-      "stem": "Raising the toes toward the shin is __________, whereas standing on tiptoe requires __________."
-    },
-    {
-      "id": 81,
-      "type": "fitb",
-      "stem": "Turning the sole medially is __________; turning it laterally is __________."
-    },
-    {
-      "id": 82,
-      "type": "fitb",
-      "stem": "The ankle joint is formed principally by the distal __________ and __________ articulating with the talus."
-    },
-    {
-      "id": 83,
-      "type": "fitb",
-      "stem": "The strong medial ligament of the ankle is also called the __________ ligament."
-    },
-    {
-      "id": 84,
-      "type": "fitb",
-      "stem": "The principal muscles producing plantar flexion include the __________ and __________."
-    },
-    {
-      "id": 85,
-      "type": "fitb",
-      "stem": "The principal anterior muscle named for ankle dorsiflexion is the __________ __________."
-    },
-    {
-      "id": 86,
-      "type": "fitb",
-      "stem": "The movement that decreases the angle between articulating bones is __________."
-    },
-    {
-      "id": 87,
-      "type": "fitb",
-      "stem": "The movement that increases the angle between articulating bones is __________."
-    },
-    {
-      "id": 88,
-      "type": "fitb",
-      "stem": "Movement away from the body's median plane is __________, while movement toward it is __________."
-    },
-    {
-      "id": 89,
-      "type": "fitb",
-      "stem": "Movement in which the distal end of a limb describes a circle is called __________."
-    },
-    {
-      "id": 90,
-      "type": "fitb",
-      "stem": "The specialized thumb movement that brings its tip toward the fingertips is __________."
-    },
-    {
-      "id": 91,
-      "type": "fitb",
-      "stem": "The strong fibrous band forming the roof of the carpal tunnel is the __________ __________."
-    },
-    {
-      "id": 92,
-      "type": "fitb",
-      "stem": "The nerve passing through the carpal tunnel with the finger flexor tendons is the __________ nerve."
-    },
-    {
-      "id": 93,
-      "type": "fitb",
-      "stem": "The shoulder socket is the __________ cavity, while the hip socket is the __________."
-    },
-    {
-      "id": 94,
-      "type": "fitb",
-      "stem": "The fibrocartilaginous rim that deepens the shoulder socket is the __________ __________."
-    },
-    {
-      "id": 95,
-      "type": "fitb",
-      "stem": "The knee is stabilized internally by two __________ ligaments and contains two fibrocartilaginous __________."
-    },
-    {
-      "id": 96,
-      "type": "fitb",
-      "stem": "Case: A patient cannot extend the knee after loss of quadriceps function. The deficient movement is __________ and the principal muscle group is the __________ __________."
-    },
-    {
-      "id": 97,
-      "type": "fitb",
-      "stem": "Case: A patient cannot rotate the forearm to turn the palm anteriorly in anatomical position. The lost movement is __________."
-    },
-    {
-      "id": 98,
-      "type": "fitb",
-      "stem": "Case: Degeneration destroys the smooth coating on opposing bone ends but spares the capsule. The damaged tissue is __________ __________."
-    },
-    {
-      "id": 99,
-      "type": "fitb",
-      "stem": "Case: A tear removes the knee's two load-distributing fibrocartilage pads. These structures are the __________ and __________ menisci."
-    },
-    {
-      "id": 100,
-      "type": "fitb",
-      "stem": "Case: A lesion simultaneously prevents the foot from being raised toward the shin, turned medially, and turned laterally. The three movements are __________, __________, and __________."
-    }
-  ],
-  "answerKey": [
-    {
-      "id": 1,
-      "answer": "A"
-    },
-    {
-      "id": 2,
-      "answer": "B"
-    },
-    {
-      "id": 3,
-      "answer": "B"
-    },
-    {
-      "id": 4,
-      "answer": "B"
-    },
-    {
-      "id": 5,
-      "answer": "A"
-    },
-    {
-      "id": 6,
-      "answer": "C"
-    },
-    {
-      "id": 7,
-      "answer": "A"
-    },
-    {
-      "id": 8,
-      "answer": "C"
-    },
-    {
-      "id": 9,
-      "answer": "B"
-    },
-    {
-      "id": 10,
-      "answer": "B"
-    },
-    {
-      "id": 11,
-      "answer": "A"
-    },
-    {
-      "id": 12,
-      "answer": "B"
-    },
-    {
-      "id": 13,
-      "answer": "B"
-    },
-    {
-      "id": 14,
-      "answer": "B"
-    },
-    {
-      "id": 15,
-      "answer": "A"
-    },
-    {
-      "id": 16,
-      "answer": "A"
-    },
-    {
-      "id": 17,
-      "answer": "C"
-    },
-    {
-      "id": 18,
-      "answer": "A"
-    },
-    {
-      "id": 19,
-      "answer": "B"
-    },
-    {
-      "id": 20,
-      "answer": "B"
-    },
-    {
-      "id": 21,
-      "answer": "A"
-    },
-    {
-      "id": 22,
-      "answer": "B"
-    },
-    {
-      "id": 23,
-      "answer": "A"
-    },
-    {
-      "id": 24,
-      "answer": "A"
-    },
-    {
-      "id": 25,
-      "answer": "B"
-    },
-    {
-      "id": 26,
-      "answer": "A"
-    },
-    {
-      "id": 27,
-      "answer": "A"
-    },
-    {
-      "id": 28,
-      "answer": "B"
-    },
-    {
-      "id": 29,
-      "answer": "A"
-    },
-    {
-      "id": 30,
-      "answer": "B"
-    },
-    {
-      "id": 31,
-      "answer": "B"
-    },
-    {
-      "id": 32,
-      "answer": "A"
-    },
-    {
-      "id": 33,
-      "answer": "A"
-    },
-    {
-      "id": 34,
-      "answer": "A"
-    },
-    {
-      "id": 35,
-      "answer": "B"
-    },
-    {
-      "id": 36,
-      "answer": "A"
-    },
-    {
-      "id": 37,
-      "answer": "B"
-    },
-    {
-      "id": 38,
-      "answer": "A"
-    },
-    {
-      "id": 39,
-      "answer": "A"
-    },
-    {
-      "id": 40,
-      "answer": "B"
-    },
-    {
-      "id": 41,
-      "answer": "B"
-    },
-    {
-      "id": 42,
-      "answer": "B"
-    },
-    {
-      "id": 43,
-      "answer": "A"
-    },
-    {
-      "id": 44,
-      "answer": "A"
-    },
-    {
-      "id": 45,
-      "answer": "A"
-    },
-    {
-      "id": 46,
-      "answer": "B"
-    },
-    {
-      "id": 47,
-      "answer": "B"
-    },
-    {
-      "id": 48,
-      "answer": "A"
-    },
-    {
-      "id": 49,
-      "answer": "A"
-    },
-    {
-      "id": 50,
-      "answer": "B"
-    },
-    {
-      "id": 51,
-      "answer": "B"
-    },
-    {
-      "id": 52,
-      "answer": "A"
-    },
-    {
-      "id": 53,
-      "answer": "B"
-    },
-    {
-      "id": 54,
-      "answer": "A"
-    },
-    {
-      "id": 55,
-      "answer": "A"
-    },
-    {
-      "id": 56,
-      "answer": "B"
-    },
-    {
-      "id": 57,
-      "answer": "A"
-    },
-    {
-      "id": 58,
-      "answer": "A"
-    },
-    {
-      "id": 59,
-      "answer": "A"
-    },
-    {
-      "id": 60,
-      "answer": "A"
-    },
-    {
-      "id": 61,
-      "answer": "A"
-    },
-    {
-      "id": 62,
-      "answer": "A"
-    },
-    {
-      "id": 63,
-      "answer": "A"
-    },
-    {
-      "id": 64,
-      "answer": "A"
-    },
-    {
-      "id": 65,
-      "answer": "A"
-    },
-    {
-      "id": 66,
-      "answer": "A"
-    },
-    {
-      "id": 67,
-      "answer": "A"
-    },
-    {
-      "id": 68,
-      "answer": "A"
-    },
-    {
-      "id": 69,
-      "answer": "A"
-    },
-    {
-      "id": 70,
-      "answer": "A"
-    },
-    {
-      "id": 71,
-      "answer": "joint",
-      "acceptableAnswers": [
-        "joint",
-        "articulation"
-      ]
-    },
-    {
-      "id": 72,
-      "answer": "hyaline",
-      "acceptableAnswers": [
-        "hyaline",
-        "articular hyaline",
-        "hyaline cartilage"
-      ]
-    },
-    {
-      "id": 73,
-      "answer": "synovial",
-      "acceptableAnswers": [
-        "synovial",
-        "synovial membrane"
-      ]
-    },
-    {
-      "id": 74,
-      "answer": "articular",
-      "acceptableAnswers": [
-        "articular",
-        "articular cartilage",
-        "hyaline cartilage"
-      ]
-    },
-    {
-      "id": 75,
-      "answer": "bursa",
-      "acceptableAnswers": [
-        "bursa",
-        "synovial bursa"
-      ]
-    },
-    {
-      "id": 76,
-      "answer": "menisci",
-      "acceptableAnswers": [
-        "menisci",
-        "meniscus",
-        "semilunar cartilages",
-        "semilunar cartilage"
-      ]
-    },
-    {
-      "id": 77,
-      "answer": "patella",
-      "acceptableAnswers": [
-        "patella"
-      ]
-    },
-    {
-      "id": 78,
-      "answer": "medial malleolus",
-      "acceptableAnswers": [
-        "medial malleolus"
-      ]
-    },
-    {
-      "id": 79,
-      "answer": "lateral malleolus",
-      "acceptableAnswers": [
-        "lateral malleolus"
-      ]
-    },
-    {
-      "id": 80,
-      "answer": "dorsiflexion; plantar flexion",
-      "acceptableAnswers": [
-        "dorsiflexion; plantar flexion",
-        "dorsiflexion and plantar flexion",
-        "dorsiflexion, plantar flexion"
-      ]
-    },
-    {
-      "id": 81,
-      "answer": "inversion; eversion",
-      "acceptableAnswers": [
-        "inversion; eversion",
-        "inversion and eversion",
-        "inversion, eversion"
-      ]
-    },
-    {
-      "id": 82,
-      "answer": "tibia; fibula",
-      "acceptableAnswers": [
-        "tibia; fibula",
-        "tibia and fibula",
-        "tibia, fibula"
-      ]
-    },
-    {
-      "id": 83,
-      "answer": "deltoid",
-      "acceptableAnswers": [
-        "deltoid",
-        "deltoid ligament",
-        "medial ligament"
-      ]
-    },
-    {
-      "id": 84,
-      "answer": "gastrocnemius; soleus",
-      "acceptableAnswers": [
-        "gastrocnemius; soleus",
-        "gastrocnemius and soleus",
-        "gastrocnemius, soleus"
-      ]
-    },
-    {
-      "id": 85,
-      "answer": "tibialis anterior",
-      "acceptableAnswers": [
-        "tibialis anterior",
-        "anterior tibialis"
-      ]
-    },
-    {
-      "id": 86,
-      "answer": "flexion",
-      "acceptableAnswers": [
-        "flexion"
-      ]
-    },
-    {
-      "id": 87,
-      "answer": "extension",
-      "acceptableAnswers": [
-        "extension"
-      ]
-    },
-    {
-      "id": 88,
-      "answer": "abduction; adduction",
-      "acceptableAnswers": [
-        "abduction; adduction",
-        "abduction and adduction",
-        "abduction, adduction"
-      ]
-    },
-    {
-      "id": 89,
-      "answer": "circumduction",
-      "acceptableAnswers": [
-        "circumduction"
-      ]
-    },
-    {
-      "id": 90,
-      "answer": "opposition",
-      "acceptableAnswers": [
-        "opposition",
-        "thumb opposition"
-      ]
-    },
-    {
-      "id": 91,
-      "answer": "flexor retinaculum",
-      "acceptableAnswers": [
-        "flexor retinaculum"
-      ]
-    },
-    {
-      "id": 92,
-      "answer": "median",
-      "acceptableAnswers": [
-        "median",
-        "median nerve"
-      ]
-    },
-    {
-      "id": 93,
-      "answer": "glenoid; acetabulum",
-      "acceptableAnswers": [
-        "glenoid; acetabulum",
-        "glenoid cavity; acetabulum",
-        "glenoid cavity and acetabulum"
-      ]
-    },
-    {
-      "id": 94,
-      "answer": "glenoid labrum",
-      "acceptableAnswers": [
-        "glenoid labrum",
-        "labrum"
-      ]
-    },
-    {
-      "id": 95,
-      "answer": "cruciate; menisci",
-      "acceptableAnswers": [
-        "cruciate; menisci",
-        "cruciate ligaments; menisci",
-        "cruciate ligaments and menisci"
-      ]
-    },
-    {
-      "id": 96,
-      "answer": "extension; quadriceps femoris",
-      "acceptableAnswers": [
-        "extension; quadriceps femoris",
-        "extension and quadriceps femoris",
-        "extension, quadriceps femoris"
-      ]
-    },
-    {
-      "id": 97,
-      "answer": "supination",
-      "acceptableAnswers": [
-        "supination"
-      ]
-    },
-    {
-      "id": 98,
-      "answer": "articular cartilage",
-      "acceptableAnswers": [
-        "articular cartilage",
-        "hyaline cartilage",
-        "articular hyaline cartilage"
-      ]
-    },
-    {
-      "id": 99,
-      "answer": "medial; lateral",
-      "acceptableAnswers": [
-        "medial; lateral",
-        "medial and lateral",
-        "medial, lateral"
-      ]
-    },
-    {
-      "id": 100,
-      "answer": "dorsiflexion; inversion; eversion",
-      "acceptableAnswers": [
-        "dorsiflexion; inversion; eversion",
-        "dorsiflexion, inversion, and eversion",
-        "dorsiflexion inversion eversion"
-      ]
-    }
-  ]
+  {
+    "id": 1,
+    "type": "mcq",
+    "stem": "A patient sustains a penetrating injury that removes only the smooth covering from the opposing bone ends of a freely movable joint. Which tissue has been directly damaged?",
+    "options": [
+      "Articular hyaline cartilage",
+      "Fibrous capsule",
+      "Synovial membrane",
+      "Fibrocartilage meniscus"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 2,
+    "type": "mcq",
+    "stem": "During assessment of a joint, the nurse notes that the articulating bones are united by dense connective tissue and no joint cavity is present. Which functional property is MOST consistent with this structural arrangement?",
+    "options": [
+      "Free movement in several planes",
+      "Little or no movement",
+      "Movement limited primarily by synovial fluid viscosity",
+      "Rotation around a longitudinal axis"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 3,
+    "type": "mcq",
+    "stem": "A client has degeneration of a structure that normally reduces friction, distributes load, and prevents direct bone-to-bone contact at a synovial articulation. Which structure is primarily affected?",
+    "options": [
+      "Periosteum",
+      "Articular cartilage",
+      "Tendon sheath",
+      "Interosseous membrane"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 4,
+    "type": "mcq",
+    "stem": "A student states that synovial fluid is secreted by the articular cartilage. Which correction by the instructor is MOST accurate?",
+    "options": [
+      "It is produced by the fibrous capsule and stored in bursae.",
+      "It is secreted by the synovial membrane and nourishes avascular articular cartilage.",
+      "It is produced by ligaments and absorbed by tendons.",
+      "It is secreted by periosteum and lubricates only non-articular surfaces."
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 5,
+    "type": "mcq",
+    "stem": "A patient with severe inflammation of the inner lining of a knee joint is expected to have impaired production of which substance?",
+    "options": [
+      "Synovial fluid",
+      "Hyaline cartilage",
+      "Collagen of the cruciate ligaments",
+      "Fibrocartilage of the menisci"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 6,
+    "type": "mcq",
+    "stem": "A joint permits flexion, extension, abduction, adduction, rotation and circumduction. Which synovial joint type BEST explains this range?",
+    "options": [
+      "Hinge",
+      "Pivot",
+      "Ball-and-socket",
+      "Plane"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 7,
+    "type": "mcq",
+    "stem": "Which observation BEST distinguishes a pivot joint from a hinge joint?",
+    "options": [
+      "Movement occurs around a longitudinal axis rather than predominantly in one plane.",
+      "The joint possesses articular cartilage rather than fibrocartilage.",
+      "The joint lacks a capsule but contains synovial fluid.",
+      "Movement is possible only when a bursa is present."
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 8,
+    "type": "mcq",
+    "stem": "A client can flex and extend a joint but cannot normally abduct it. Which joint type is MOST consistent with this finding?",
+    "options": [
+      "Condyloid",
+      "Saddle",
+      "Hinge",
+      "Ball-and-socket"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 9,
+    "type": "mcq",
+    "stem": "Which movement describes decreasing the angle between two articulating bones?",
+    "options": [
+      "Extension",
+      "Flexion",
+      "Abduction",
+      "Circumduction"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 10,
+    "type": "mcq",
+    "stem": "A nurse asks a patient to move an upper limb away from the body's median plane. Which movement is being tested?",
+    "options": [
+      "Adduction",
+      "Abduction",
+      "Medial rotation",
+      "Extension"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 11,
+    "type": "mcq",
+    "stem": "A patient returns the abducted arm toward the trunk. Which movement has occurred?",
+    "options": [
+      "Adduction",
+      "Pronation",
+      "Supination",
+      "Circumduction"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 12,
+    "type": "mcq",
+    "stem": "A clinician asks a patient to trace a large circle with the distal end of an extended upper limb while the proximal end remains relatively fixed. Which movement is demonstrated?",
+    "options": [
+      "Rotation",
+      "Circumduction",
+      "Gliding",
+      "Opposition"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 13,
+    "type": "mcq",
+    "stem": "A lesion prevents the head of the humerus from rotating within the glenoid cavity but leaves flexion and extension partly intact. Which movement is MOST directly lost?",
+    "options": [
+      "Angular movement",
+      "Axial rotation",
+      "Gliding",
+      "Dorsiflexion"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 14,
+    "type": "mcq",
+    "stem": "A patient has damage to the glenohumeral joint. Which characteristic explains why this joint sacrifices stability for mobility?",
+    "options": [
+      "A deep socket tightly encloses most of the humeral head.",
+      "A relatively shallow glenoid cavity articulates with a large humeral head.",
+      "The joint is stabilized primarily by an interosseous membrane.",
+      "The humerus and scapula are united by fibrocartilage."
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 15,
+    "type": "mcq",
+    "stem": "Which structure MOST directly deepens the socket of the shoulder without converting it into a fixed articulation?",
+    "options": [
+      "Glenoid labrum",
+      "Olecranon",
+      "Annular ligament",
+      "Medial meniscus"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 16,
+    "type": "mcq",
+    "stem": "A patient tears the tendons that blend with and reinforce the capsule around the shoulder. Which stabilizing mechanism is compromised?",
+    "options": [
+      "Rotator cuff support",
+      "Cruciate locking",
+      "Meniscal congruence",
+      "Interosseous fixation"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 17,
+    "type": "mcq",
+    "stem": "A patient can flex the elbow but cannot extend it against resistance. Which muscle is MOST likely impaired?",
+    "options": [
+      "Biceps brachii",
+      "Brachialis",
+      "Triceps brachii",
+      "Flexor retinaculum"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 18,
+    "type": "mcq",
+    "stem": "Which articulation is primarily responsible for the hinge-like flexion and extension of the elbow?",
+    "options": [
+      "Humeroulnar articulation",
+      "Proximal radioulnar articulation",
+      "Radiocarpal articulation",
+      "Acromioclavicular articulation"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 19,
+    "type": "mcq",
+    "stem": "A client experiences pain when rotating the forearm so the palm turns posteriorly in anatomical position. Which movement is being performed?",
+    "options": [
+      "Supination",
+      "Pronation",
+      "Opposition",
+      "Inversion"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 20,
+    "type": "mcq",
+    "stem": "A fracture compromises the proximal radioulnar articulation. Which movement would be MOST specifically impaired?",
+    "options": [
+      "Flexion of the fingers",
+      "Pronation and supination",
+      "Abduction of the shoulder",
+      "Dorsiflexion of the ankle"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 21,
+    "type": "mcq",
+    "stem": "A patient with median nerve compression beneath a strong fibrous band at the anterior wrist is diagnosed with carpal tunnel syndrome. Which structure forms the superficial boundary implicated in the compression?",
+    "options": [
+      "Flexor retinaculum",
+      "Extensor retinaculum",
+      "Annular ligament",
+      "Patellar ligament"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 22,
+    "type": "mcq",
+    "stem": "Which structures normally pass through the carpal tunnel with the median nerve?",
+    "options": [
+      "Extensor tendons of the wrist",
+      "Flexor tendons of the fingers",
+      "Biceps and brachialis tendons",
+      "Radial and ulnar collateral ligaments"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 23,
+    "type": "mcq",
+    "stem": "A patient cannot bring the thumb across the palm to touch a fingertip. Which specialized movement is impaired?",
+    "options": [
+      "Opposition",
+      "Reposition",
+      "Pronation",
+      "Circumduction"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 24,
+    "type": "mcq",
+    "stem": "The first carpometacarpal joint permits greater mobility than the corresponding joints of digits 2â5 primarily because it is what type of synovial joint?",
+    "options": [
+      "Saddle",
+      "Hinge",
+      "Pivot",
+      "Plane"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 25,
+    "type": "mcq",
+    "stem": "A patient has an isolated injury to an interphalangeal joint. Which movement pair should remain characteristic of that joint?",
+    "options": [
+      "Abduction and adduction",
+      "Flexion and extension",
+      "Pronation and supination",
+      "Inversion and eversion"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 26,
+    "type": "mcq",
+    "stem": "Metacarpophalangeal joints permit flexion, extension, abduction, adduction and circumduction. Which classification BEST fits these joints?",
+    "options": [
+      "Condyloid",
+      "Pivot",
+      "Plane",
+      "Hinge"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 27,
+    "type": "mcq",
+    "stem": "A client with severe hip trauma has disruption of the fibrocartilaginous rim surrounding the acetabulum. What is the MOST likely mechanical consequence?",
+    "options": [
+      "Reduced depth and stability of the acetabular socket",
+      "Loss of synovial fluid secretion",
+      "Loss of knee extension",
+      "Fixation of the sacroiliac joint"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 28,
+    "type": "mcq",
+    "stem": "Which feature makes the hip generally more stable than the shoulder despite both being ball-and-socket joints?",
+    "options": [
+      "The hip lacks a joint capsule.",
+      "The acetabulum forms a deeper socket around the femoral head.",
+      "The hip contains no articular cartilage.",
+      "The femoral head is held only by muscle tone."
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 29,
+    "type": "mcq",
+    "stem": "A patient has damage to the ligament running from the acetabular region to the head of the femur. Which joint is involved?",
+    "options": [
+      "Hip",
+      "Knee",
+      "Ankle",
+      "Shoulder"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 30,
+    "type": "mcq",
+    "stem": "A nurse evaluates a patient who cannot move the thigh away from the median plane. Which hip movement is deficient?",
+    "options": [
+      "Adduction",
+      "Abduction",
+      "Extension",
+      "Medial rotation"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 31,
+    "type": "mcq",
+    "stem": "Which statement BEST describes the knee joint?",
+    "options": [
+      "It is a simple pivot joint with a single articulation.",
+      "It is a complex synovial joint involving femur, tibia and patella.",
+      "It is a cartilaginous joint stabilized only by fibrocartilage.",
+      "It is a ball-and-socket joint whose socket is formed by the tibia."
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 32,
+    "type": "mcq",
+    "stem": "A patient tears a cruciate ligament. Which normal function is MOST directly compromised?",
+    "options": [
+      "Stabilization of the femur-tibia relationship during knee movement",
+      "Production of synovial fluid",
+      "Attachment of the patella to skin",
+      "Formation of articular cartilage"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 33,
+    "type": "mcq",
+    "stem": "Which pair of structures consists of fibrocartilaginous pads that improve congruence between femoral and tibial articular surfaces?",
+    "options": [
+      "Medial and lateral menisci",
+      "Anterior and posterior bursae",
+      "Tibial and fibular collateral capsules",
+      "Patellar and quadriceps tendons"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 34,
+    "type": "mcq",
+    "stem": "A twisting injury causes a tear of a knee meniscus. Which function is MOST likely reduced?",
+    "options": [
+      "Load distribution and stabilization between femur and tibia",
+      "Secretion of synovial fluid",
+      "Active extension generated by quadriceps contraction",
+      "Transmission of impulses through the tibial nerve"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 35,
+    "type": "mcq",
+    "stem": "The patella is embedded within the tendon of which muscle group?",
+    "options": [
+      "Hamstrings",
+      "Quadriceps femoris",
+      "Gastrocnemius",
+      "Adductors"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 36,
+    "type": "mcq",
+    "stem": "A patient cannot actively extend the knee after complete disruption of the quadriceps mechanism. Which structure normally transmits quadriceps force from the patella toward the tibia?",
+    "options": [
+      "Patellar ligament",
+      "Anterior cruciate ligament",
+      "Medial meniscus",
+      "Fibular collateral ligament"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 37,
+    "type": "mcq",
+    "stem": "Which movement at the knee is produced principally by the quadriceps femoris?",
+    "options": [
+      "Flexion",
+      "Extension",
+      "Inversion",
+      "Plantar flexion"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 38,
+    "type": "mcq",
+    "stem": "Which muscle group is principally responsible for knee flexion?",
+    "options": [
+      "Hamstrings",
+      "Quadriceps",
+      "Anterior tibial muscles",
+      "Gluteal abductors"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 39,
+    "type": "mcq",
+    "stem": "A patient has a swollen friction-reducing sac adjacent to a joint. Which structure is inflamed?",
+    "options": [
+      "Bursa",
+      "Meniscus",
+      "Labrum",
+      "Retinaculum"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 40,
+    "type": "mcq",
+    "stem": "What is the primary role of a bursa located where a tendon passes over bone?",
+    "options": [
+      "Increase friction to stabilize the tendon",
+      "Reduce friction between moving structures",
+      "Produce articular cartilage",
+      "Prevent all movement of the tendon"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 41,
+    "type": "mcq",
+    "stem": "A patient cannot raise the toes toward the shin. Which ankle movement is impaired?",
+    "options": [
+      "Plantar flexion",
+      "Dorsiflexion",
+      "Eversion",
+      "Inversion"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 42,
+    "type": "mcq",
+    "stem": "A patient is asked to stand on tiptoe. Which movement must occur at the ankle?",
+    "options": [
+      "Dorsiflexion",
+      "Plantar flexion",
+      "Inversion",
+      "Abduction"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 43,
+    "type": "mcq",
+    "stem": "Which muscle group is MOST directly associated with dorsiflexion of the ankle?",
+    "options": [
+      "Anterior tibialis and toe extensors",
+      "Gastrocnemius and soleus",
+      "Hamstrings and gastrocnemius",
+      "Quadriceps and tibialis posterior"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 44,
+    "type": "mcq",
+    "stem": "Which muscles are the principal plantar flexors identified in the chapter?",
+    "options": [
+      "Gastrocnemius, soleus and toe flexors",
+      "Anterior tibialis and toe extensors",
+      "Quadriceps and hamstrings",
+      "Gluteals and adductors"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 45,
+    "type": "mcq",
+    "stem": "A patient has an injury between the distal tibia, distal fibula and talus. Which joint is affected?",
+    "options": [
+      "Ankle",
+      "Hip",
+      "Knee",
+      "Subtalar only"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 46,
+    "type": "mcq",
+    "stem": "The medial malleolus is the distal projection of which bone?",
+    "options": [
+      "Fibula",
+      "Tibia",
+      "Talus",
+      "Calcaneus"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 47,
+    "type": "mcq",
+    "stem": "The lateral malleolus is formed by the distal end of which bone?",
+    "options": [
+      "Tibia",
+      "Fibula",
+      "Talus",
+      "Navicular"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 48,
+    "type": "mcq",
+    "stem": "Which bone receives the body weight from the tibia at the ankle articulation?",
+    "options": [
+      "Talus",
+      "Calcaneus",
+      "Navicular",
+      "Cuboid"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 49,
+    "type": "mcq",
+    "stem": "A patient has disruption of the strong medial ligament complex of the ankle. Which name identifies this structure?",
+    "options": [
+      "Deltoid ligament",
+      "Patellar ligament",
+      "Annular ligament",
+      "Glenoid ligament"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 50,
+    "type": "mcq",
+    "stem": "A patient has intact ankle dorsiflexion and plantar flexion but difficulty turning the sole medially. Which movement is impaired?",
+    "options": [
+      "Eversion",
+      "Inversion",
+      "Pronation",
+      "Opposition"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 51,
+    "type": "mcq",
+    "stem": "Turning the sole of the foot laterally is termed which movement?",
+    "options": [
+      "Inversion",
+      "Eversion",
+      "Supination",
+      "Adduction"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 52,
+    "type": "mcq",
+    "stem": "Most joints between the bones of the ankle and foot are structurally classified as which type?",
+    "options": [
+      "Synovial",
+      "Fibrous",
+      "Primary cartilaginous",
+      "Gomphotic"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 53,
+    "type": "mcq",
+    "stem": "Long tendons crossing the ankle are enclosed in synovial sheaths primarily to achieve what effect?",
+    "options": [
+      "Increase tendon-bone friction",
+      "Permit smooth tendon movement",
+      "Convert tendons into ligaments",
+      "Prevent all lateral movement"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 54,
+    "type": "mcq",
+    "stem": "A patient has degeneration of articular cartilage but an intact synovial membrane. Why is cartilage repair still limited?",
+    "options": [
+      "Articular cartilage has no direct blood supply.",
+      "Synovial fluid completely prevents cell division.",
+      "The cartilage is composed only of elastic fibers.",
+      "Articular cartilage is outside the joint capsule."
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 55,
+    "type": "mcq",
+    "stem": "Which age-related change in articular cartilage MOST directly increases stress on underlying bone?",
+    "options": [
+      "It becomes thinner and less compressible.",
+      "It becomes thicker and more vascular.",
+      "It secretes increasing quantities of synovial fluid.",
+      "It transforms into dense regular connective tissue."
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 56,
+    "type": "mcq",
+    "stem": "A joint is enclosed by a sleeve of fibrous tissue and lined internally by a membrane that secretes lubricating fluid. Which structural class is described?",
+    "options": [
+      "Fibrous joint",
+      "Synovial joint",
+      "Cartilaginous joint",
+      "Bony union"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 57,
+    "type": "mcq",
+    "stem": "A child has a temporary joint in which cartilage lies between the epiphysis and diaphysis of a growing long bone. Which structure is being described?",
+    "options": [
+      "Epiphyseal plate",
+      "Synovial cavity",
+      "Interosseous membrane",
+      "Meniscus"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 58,
+    "type": "mcq",
+    "stem": "Which example BEST represents a fibrous joint designed for essentially no movement?",
+    "options": [
+      "Suture between skull bones",
+      "Hip joint",
+      "Knee joint",
+      "First carpometacarpal joint"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 59,
+    "type": "mcq",
+    "stem": "A tooth is anchored in its socket by fibrous connective tissue. Which structural joint category does this represent?",
+    "options": [
+      "Fibrous",
+      "Synovial",
+      "Cartilaginous",
+      "Saddle"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 60,
+    "type": "mcq",
+    "stem": "A patient has pathology of an intervertebral disc that normally permits limited movement between adjacent vertebral bodies. Which structural joint category is primarily represented?",
+    "options": [
+      "Cartilaginous",
+      "Synovial",
+      "Fibrous",
+      "Pivot"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 61,
+    "type": "mcq",
+    "stem": "Case: After a football injury, a patient reports knee instability. Imaging shows intact menisci but disruption of a ligament located within the joint that restrains abnormal displacement between tibia and femur. Which structure is MOST likely injured?",
+    "options": [
+      "Cruciate ligament",
+      "Patellar ligament",
+      "Fibular collateral ligament",
+      "Quadriceps tendon"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 62,
+    "type": "mcq",
+    "stem": "Case: A patient falls on an outstretched hand and later has numbness in the lateral palm and difficulty with thumb opposition. Swelling beneath the flexor retinaculum would MOST directly compress which nerve?",
+    "options": [
+      "Median nerve",
+      "Ulnar nerve",
+      "Radial nerve",
+      "Musculocutaneous nerve"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 63,
+    "type": "mcq",
+    "stem": "Case: Following shoulder trauma, the humeral head repeatedly slips because the fibrocartilaginous structure that deepens the socket is torn. Which structure is damaged?",
+    "options": [
+      "Glenoid labrum",
+      "Acetabular labrum",
+      "Medial meniscus",
+      "Olecranon bursa"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 64,
+    "type": "mcq",
+    "stem": "Case: A patient with ankle trauma can dorsiflex normally but cannot plantar flex against resistance. Which muscle pair should the nurse suspect FIRST?",
+    "options": [
+      "Gastrocnemius and soleus",
+      "Anterior tibialis and toe extensors",
+      "Quadriceps and hamstrings",
+      "Biceps and brachialis"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 65,
+    "type": "mcq",
+    "stem": "Case: A client has pain when the sole is forcibly turned outward after an ankle injury. Which movement provokes the pain?",
+    "options": [
+      "Eversion",
+      "Inversion",
+      "Dorsiflexion",
+      "Plantar flexion"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 66,
+    "type": "mcq",
+    "stem": "Case: A patient has loss of smooth, low-friction movement in a synovial joint despite normal muscle strength. The cartilage remains structurally intact, but its nutritional support is impaired. Dysfunction of which structure BEST explains the finding?",
+    "options": [
+      "Synovial membrane",
+      "Periosteum",
+      "Tendon",
+      "Interosseous membrane"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 67,
+    "type": "mcq",
+    "stem": "Case: A patient has preserved elbow flexion-extension but loses the ability to rotate the radius around the ulna. Which joint mechanism is MOST likely disrupted?",
+    "options": [
+      "Pivot mechanism",
+      "Hinge mechanism",
+      "Saddle mechanism",
+      "Condyloid mechanism"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 68,
+    "type": "mcq",
+    "stem": "Case: A patient can flex and extend the fingers but cannot spread them apart at the metacarpophalangeal joints. Which movement is selectively impaired?",
+    "options": [
+      "Abduction",
+      "Adduction",
+      "Opposition",
+      "Rotation"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 69,
+    "type": "mcq",
+    "stem": "Case: An older adult has progressive thinning and reduced compressibility of knee articular cartilage. Which consequence should the nurse anticipate MOST directly?",
+    "options": [
+      "Greater transmission of mechanical stress to underlying bone",
+      "Increased vascular perfusion of the cartilage",
+      "Complete loss of synovial fluid secretion",
+      "Conversion of the knee into a fibrous joint"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 70,
+    "type": "mcq",
+    "stem": "Case: Trauma destroys the capsule of a synovial joint but leaves the articular cartilage intact. Which immediate mechanical function is MOST directly compromised?",
+    "options": [
+      "Enclosure and stabilization of the articulation",
+      "Active muscle contraction",
+      "Formation of red blood cells",
+      "Conduction through peripheral nerves"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 71,
+    "type": "fitb",
+    "stem": "The site at which two or more bones articulate is called a __________.",
+    "answer": "joint",
+    "acceptableAnswers": [
+      "joint",
+      "articulation"
+    ]
+  },
+  {
+    "id": 72,
+    "type": "fitb",
+    "stem": "The smooth cartilage covering the contacting bone surfaces of a synovial joint is __________ cartilage.",
+    "answer": "hyaline",
+    "acceptableAnswers": [
+      "hyaline",
+      "articular hyaline",
+      "hyaline cartilage"
+    ]
+  },
+  {
+    "id": 73,
+    "type": "fitb",
+    "stem": "The membrane lining the inner surface of a synovial joint capsule and producing joint fluid is the __________ membrane.",
+    "answer": "synovial",
+    "acceptableAnswers": [
+      "synovial",
+      "synovial membrane"
+    ]
+  },
+  {
+    "id": 74,
+    "type": "fitb",
+    "stem": "Synovial fluid lubricates the articulation and provides nutritional support to avascular __________ cartilage.",
+    "answer": "articular",
+    "acceptableAnswers": [
+      "articular",
+      "articular cartilage",
+      "hyaline cartilage"
+    ]
+  },
+  {
+    "id": 75,
+    "type": "fitb",
+    "stem": "A fluid-filled friction-reducing sac associated with many synovial joints is a __________.",
+    "answer": "bursa",
+    "acceptableAnswers": [
+      "bursa",
+      "synovial bursa"
+    ]
+  },
+  {
+    "id": 76,
+    "type": "fitb",
+    "stem": "The fibrocartilaginous pads between the femur and tibia are the medial and lateral __________.",
+    "answer": "menisci",
+    "acceptableAnswers": [
+      "menisci",
+      "meniscus",
+      "semilunar cartilages",
+      "semilunar cartilage"
+    ]
+  },
+  {
+    "id": 77,
+    "type": "fitb",
+    "stem": "The kneecap, embedded in the quadriceps tendon, is the __________.",
+    "answer": "patella",
+    "acceptableAnswers": [
+      "patella"
+    ]
+  },
+  {
+    "id": 78,
+    "type": "fitb",
+    "stem": "The distal projection of the tibia at the ankle is the __________ __________.",
+    "answer": "medial malleolus",
+    "acceptableAnswers": [
+      "medial malleolus"
+    ]
+  },
+  {
+    "id": 79,
+    "type": "fitb",
+    "stem": "The distal projection of the fibula is the __________ __________.",
+    "answer": "lateral malleolus",
+    "acceptableAnswers": [
+      "lateral malleolus"
+    ]
+  },
+  {
+    "id": 80,
+    "type": "fitb",
+    "stem": "Raising the toes toward the shin is __________, whereas standing on tiptoe requires __________.",
+    "answer": "dorsiflexion; plantar flexion",
+    "acceptableAnswers": [
+      "dorsiflexion; plantar flexion",
+      "dorsiflexion and plantar flexion",
+      "dorsiflexion, plantar flexion"
+    ]
+  },
+  {
+    "id": 81,
+    "type": "fitb",
+    "stem": "Turning the sole medially is __________; turning it laterally is __________.",
+    "answer": "inversion; eversion",
+    "acceptableAnswers": [
+      "inversion; eversion",
+      "inversion and eversion",
+      "inversion, eversion"
+    ]
+  },
+  {
+    "id": 82,
+    "type": "fitb",
+    "stem": "The ankle joint is formed principally by the distal __________ and __________ articulating with the talus.",
+    "answer": "tibia; fibula",
+    "acceptableAnswers": [
+      "tibia; fibula",
+      "tibia and fibula",
+      "tibia, fibula"
+    ]
+  },
+  {
+    "id": 83,
+    "type": "fitb",
+    "stem": "The strong medial ligament of the ankle is also called the __________ ligament.",
+    "answer": "deltoid",
+    "acceptableAnswers": [
+      "deltoid",
+      "deltoid ligament",
+      "medial ligament"
+    ]
+  },
+  {
+    "id": 84,
+    "type": "fitb",
+    "stem": "The principal muscles producing plantar flexion include the __________ and __________.",
+    "answer": "gastrocnemius; soleus",
+    "acceptableAnswers": [
+      "gastrocnemius; soleus",
+      "gastrocnemius and soleus",
+      "gastrocnemius, soleus"
+    ]
+  },
+  {
+    "id": 85,
+    "type": "fitb",
+    "stem": "The principal anterior muscle named for ankle dorsiflexion is the __________ __________.",
+    "answer": "tibialis anterior",
+    "acceptableAnswers": [
+      "tibialis anterior",
+      "anterior tibialis"
+    ]
+  },
+  {
+    "id": 86,
+    "type": "fitb",
+    "stem": "The movement that decreases the angle between articulating bones is __________.",
+    "answer": "flexion",
+    "acceptableAnswers": [
+      "flexion"
+    ]
+  },
+  {
+    "id": 87,
+    "type": "fitb",
+    "stem": "The movement that increases the angle between articulating bones is __________.",
+    "answer": "extension",
+    "acceptableAnswers": [
+      "extension"
+    ]
+  },
+  {
+    "id": 88,
+    "type": "fitb",
+    "stem": "Movement away from the body's median plane is __________, while movement toward it is __________.",
+    "answer": "abduction; adduction",
+    "acceptableAnswers": [
+      "abduction; adduction",
+      "abduction and adduction",
+      "abduction, adduction"
+    ]
+  },
+  {
+    "id": 89,
+    "type": "fitb",
+    "stem": "Movement in which the distal end of a limb describes a circle is called __________.",
+    "answer": "circumduction",
+    "acceptableAnswers": [
+      "circumduction"
+    ]
+  },
+  {
+    "id": 90,
+    "type": "fitb",
+    "stem": "The specialized thumb movement that brings its tip toward the fingertips is __________.",
+    "answer": "opposition",
+    "acceptableAnswers": [
+      "opposition",
+      "thumb opposition"
+    ]
+  },
+  {
+    "id": 91,
+    "type": "fitb",
+    "stem": "The strong fibrous band forming the roof of the carpal tunnel is the __________ __________.",
+    "answer": "flexor retinaculum",
+    "acceptableAnswers": [
+      "flexor retinaculum"
+    ]
+  },
+  {
+    "id": 92,
+    "type": "fitb",
+    "stem": "The nerve passing through the carpal tunnel with the finger flexor tendons is the __________ nerve.",
+    "answer": "median",
+    "acceptableAnswers": [
+      "median",
+      "median nerve"
+    ]
+  },
+  {
+    "id": 93,
+    "type": "fitb",
+    "stem": "The shoulder socket is the __________ cavity, while the hip socket is the __________.",
+    "answer": "glenoid; acetabulum",
+    "acceptableAnswers": [
+      "glenoid; acetabulum",
+      "glenoid cavity; acetabulum",
+      "glenoid cavity and acetabulum"
+    ]
+  },
+  {
+    "id": 94,
+    "type": "fitb",
+    "stem": "The fibrocartilaginous rim that deepens the shoulder socket is the __________ __________.",
+    "answer": "glenoid labrum",
+    "acceptableAnswers": [
+      "glenoid labrum",
+      "labrum"
+    ]
+  },
+  {
+    "id": 95,
+    "type": "fitb",
+    "stem": "The knee is stabilized internally by two __________ ligaments and contains two fibrocartilaginous __________.",
+    "answer": "cruciate; menisci",
+    "acceptableAnswers": [
+      "cruciate; menisci",
+      "cruciate ligaments; menisci",
+      "cruciate ligaments and menisci"
+    ]
+  },
+  {
+    "id": 96,
+    "type": "fitb",
+    "stem": "Case: A patient cannot extend the knee after loss of quadriceps function. The deficient movement is __________ and the principal muscle group is the __________ __________.",
+    "answer": "extension; quadriceps femoris",
+    "acceptableAnswers": [
+      "extension; quadriceps femoris",
+      "extension and quadriceps femoris",
+      "extension, quadriceps femoris"
+    ]
+  },
+  {
+    "id": 97,
+    "type": "fitb",
+    "stem": "Case: A patient cannot rotate the forearm to turn the palm anteriorly in anatomical position. The lost movement is __________.",
+    "answer": "supination",
+    "acceptableAnswers": [
+      "supination"
+    ]
+  },
+  {
+    "id": 98,
+    "type": "fitb",
+    "stem": "Case: Degeneration destroys the smooth coating on opposing bone ends but spares the capsule. The damaged tissue is __________ __________.",
+    "answer": "articular cartilage",
+    "acceptableAnswers": [
+      "articular cartilage",
+      "hyaline cartilage",
+      "articular hyaline cartilage"
+    ]
+  },
+  {
+    "id": 99,
+    "type": "fitb",
+    "stem": "Case: A tear removes the knee's two load-distributing fibrocartilage pads. These structures are the __________ and __________ menisci.",
+    "answer": "medial; lateral",
+    "acceptableAnswers": [
+      "medial; lateral",
+      "medial and lateral",
+      "medial, lateral"
+    ]
+  },
+  {
+    "id": 100,
+    "type": "fitb",
+    "stem": "Case: A lesion simultaneously prevents the foot from being raised toward the shin, turned medially, and turned laterally. The three movements are __________, __________, and __________.",
+    "answer": "dorsiflexion; inversion; eversion",
+    "acceptableAnswers": [
+      "dorsiflexion; inversion; eversion",
+      "dorsiflexion, inversion, and eversion",
+      "dorsiflexion inversion eversion"
+    ]
+  }
+]
