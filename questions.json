@@ -2,1149 +2,1149 @@
   {
     "id": 1,
     "type": "mcq",
-    "stem": "A patient sustains a penetrating injury that removes only the smooth covering from the opposing bone ends of a freely movable joint. Which tissue has been directly damaged?",
+    "stem": "Which term MOST precisely corresponds to the following finding or principle: twisting force around the long axis?",
     "options": [
-      "Articular hyaline cartilage",
-      "Fibrous capsule",
-      "Synovial membrane",
-      "Fibrocartilage meniscus"
+      "transverse fracture",
+      "impacted fracture",
+      "compression fracture",
+      "spiral fracture"
     ],
-    "answer": "A"
+    "answer": "D"
   },
   {
     "id": 2,
     "type": "mcq",
-    "stem": "During assessment of a joint, the nurse notes that the articulating bones are united by dense connective tissue and no joint cavity is present. Which functional property is MOST consistent with this structural arrangement?",
+    "stem": "Which term MOST precisely corresponds to the following finding or principle: bone broken into multiple fragments?",
     "options": [
-      "Free movement in several planes",
-      "Little or no movement",
-      "Movement limited primarily by synovial fluid viscosity",
-      "Rotation around a longitudinal axis"
+      "comminuted fracture",
+      "spiral fracture",
+      "avulsion fracture",
+      "greenstick fracture"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 3,
     "type": "mcq",
-    "stem": "A client has degeneration of a structure that normally reduces friction, distributes load, and prevents direct bone-to-bone contact at a synovial articulation. Which structure is primarily affected?",
+    "stem": "Which term MOST precisely corresponds to the following finding or principle: fracture through bone weakened by disease?",
     "options": [
-      "Periosteum",
-      "Articular cartilage",
-      "Tendon sheath",
-      "Interosseous membrane"
+      "pathological fracture",
+      "simple soft-tissue injury",
+      "stress fracture in normal bone",
+      "joint dislocation"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 4,
     "type": "mcq",
-    "stem": "A student states that synovial fluid is secreted by the articular cartilage. Which correction by the instructor is MOST accurate?",
+    "stem": "Which term MOST precisely corresponds to the following finding or principle: one fracture fragment driven into another?",
     "options": [
-      "It is produced by the fibrous capsule and stored in bursae.",
-      "It is secreted by the synovial membrane and nourishes avascular articular cartilage.",
-      "It is produced by ligaments and absorbed by tendons.",
-      "It is secreted by periosteum and lubricates only non-articular surfaces."
+      "multiple free fragments",
+      "bone end exposed through skin",
+      "impacted fracture",
+      "incomplete cortical break"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 5,
     "type": "mcq",
-    "stem": "A patient with severe inflammation of the inner lining of a knee joint is expected to have impaired production of which substance?",
+    "stem": "Which term MOST precisely corresponds to the following finding or principle: grating produced by movement of fracture fragments?",
     "options": [
-      "Synovial fluid",
-      "Hyaline cartilage",
-      "Collagen of the cruciate ligaments",
-      "Fibrocartilage of the menisci"
-    ],
-    "answer": "A"
-  },
-  {
-    "id": 6,
-    "type": "mcq",
-    "stem": "A joint permits flexion, extension, abduction, adduction, rotation and circumduction. Which synovial joint type BEST explains this range?",
-    "options": [
-      "Hinge",
-      "Pivot",
-      "Ball-and-socket",
-      "Plane"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": 7,
-    "type": "mcq",
-    "stem": "Which observation BEST distinguishes a pivot joint from a hinge joint?",
-    "options": [
-      "Movement occurs around a longitudinal axis rather than predominantly in one plane.",
-      "The joint possesses articular cartilage rather than fibrocartilage.",
-      "The joint lacks a capsule but contains synovial fluid.",
-      "Movement is possible only when a bursa is present."
-    ],
-    "answer": "A"
-  },
-  {
-    "id": 8,
-    "type": "mcq",
-    "stem": "A client can flex and extend a joint but cannot normally abduct it. Which joint type is MOST consistent with this finding?",
-    "options": [
-      "Condyloid",
-      "Saddle",
-      "Hinge",
-      "Ball-and-socket"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": 9,
-    "type": "mcq",
-    "stem": "Which movement describes decreasing the angle between two articulating bones?",
-    "options": [
-      "Extension",
-      "Flexion",
-      "Abduction",
-      "Circumduction"
+      "joint effusion",
+      "crepitus",
+      "vascular bruit",
+      "muscle fasciculation"
     ],
     "answer": "B"
   },
   {
+    "id": 6,
+    "type": "mcq",
+    "stem": "Which term MOST precisely corresponds to the following finding or principle: continuous pulling force used to align a part and reduce spasm?",
+    "options": [
+      "passive joint rotation",
+      "traction",
+      "compression bandaging",
+      "manual percussion"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 7,
+    "type": "mcq",
+    "stem": "Which term MOST precisely corresponds to the following finding or principle: opposing force that balances the traction pull?",
+    "options": [
+      "friction at the pulley",
+      "additional weight on the same side",
+      "intermittent removal of weights",
+      "countertraction"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 8,
+    "type": "mcq",
+    "stem": "Which term MOST precisely corresponds to the following finding or principle: force transmitted through a pin or wire inserted into bone?",
+    "options": [
+      "skeletal traction",
+      "elastic bandage support",
+      "adhesive strips applied only to skin",
+      "cast without weights"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 9,
+    "type": "mcq",
+    "stem": "Which term MOST precisely corresponds to the following finding or principle: increasing pain with pallor, paresthesia and reduced distal perfusion?",
+    "options": [
+      "neurovascular compromise",
+      "expected callus formation",
+      "normal muscle fatigue",
+      "simple anxiety"
+    ],
+    "answer": "A"
+  },
+  {
     "id": 10,
     "type": "mcq",
-    "stem": "A nurse asks a patient to move an upper limb away from the body's median plane. Which movement is being tested?",
+    "stem": "Which term MOST precisely corresponds to the following finding or principle: severe disproportionate pain, often intensified by passive stretch?",
     "options": [
-      "Adduction",
-      "Abduction",
-      "Medial rotation",
-      "Extension"
+      "mild itching beneath a cast",
+      "compartment syndrome",
+      "gradual muscle strengthening",
+      "painless dependent edema"
     ],
     "answer": "B"
   },
   {
     "id": 11,
     "type": "mcq",
-    "stem": "A patient returns the abducted arm toward the trunk. Which movement has occurred?",
+    "stem": "Which term MOST precisely corresponds to the following finding or principle: acute respiratory and neurologic deterioration after long-bone fracture?",
     "options": [
-      "Adduction",
-      "Pronation",
-      "Supination",
-      "Circumduction"
+      "fat embolism syndrome",
+      "localized pin-site erythema only",
+      "delayed union without systemic signs",
+      "isolated joint stiffness"
     ],
     "answer": "A"
   },
   {
     "id": 12,
     "type": "mcq",
-    "stem": "A clinician asks a patient to trace a large circle with the distal end of an extended upper limb while the proximal end remains relatively fixed. Which movement is demonstrated?",
+    "stem": "Which term MOST precisely corresponds to the following finding or principle: progressive redness, swelling, pain or drainage around a skeletal-traction pin?",
     "options": [
-      "Rotation",
-      "Circumduction",
-      "Gliding",
-      "Opposition"
+      "intact distal sensation",
+      "pin-site infection",
+      "stable fracture alignment",
+      "freely hanging traction weights"
     ],
     "answer": "B"
   },
   {
     "id": 13,
     "type": "mcq",
-    "stem": "A lesion prevents the head of the humerus from rotating within the glenoid cavity but leaves flexion and extension partly intact. Which movement is MOST directly lost?",
+    "stem": "Which term MOST precisely corresponds to the following finding or principle: movement generated by the client's own muscle activity?",
     "options": [
-      "Angular movement",
-      "Axial rotation",
-      "Gliding",
-      "Dorsiflexion"
+      "movement prohibited by all splints",
+      "movement possible only under traction",
+      "movement produced entirely by the examiner",
+      "active range of motion"
     ],
-    "answer": "B"
+    "answer": "D"
   },
   {
     "id": 14,
     "type": "mcq",
-    "stem": "A patient has damage to the glenohumeral joint. Which characteristic explains why this joint sacrifices stability for mobility?",
+    "stem": "Which term MOST precisely corresponds to the following finding or principle: movement produced by an examiner without the client's active muscle contraction?",
     "options": [
-      "A deep socket tightly encloses most of the humeral head.",
-      "A relatively shallow glenoid cavity articulates with a large humeral head.",
-      "The joint is stabilized primarily by an interosseous membrane.",
-      "The humerus and scapula are united by fibrocartilage."
+      "independent ambulation",
+      "passive range of motion",
+      "isometric contraction",
+      "movement against resistance by the client"
     ],
     "answer": "B"
   },
   {
     "id": 15,
     "type": "mcq",
-    "stem": "Which structure MOST directly deepens the socket of the shoulder without converting it into a fixed articulation?",
+    "stem": "Which term MOST precisely corresponds to the following finding or principle: muscle contraction without appreciable joint movement?",
     "options": [
-      "Glenoid labrum",
-      "Olecranon",
-      "Annular ligament",
-      "Medial meniscus"
+      "unrestricted weight bearing",
+      "rapid repetitive joint rotation",
+      "passive stretching only",
+      "isometric exercise"
     ],
-    "answer": "A"
+    "answer": "D"
   },
   {
     "id": 16,
     "type": "mcq",
-    "stem": "A patient tears the tendons that blend with and reinforce the capsule around the shoulder. Which stabilizing mechanism is compromised?",
+    "stem": "Which term MOST precisely corresponds to the following finding or principle: initial visualization of many fractures and bone alignment?",
     "options": [
-      "Rotator cuff support",
-      "Cruciate locking",
-      "Meniscal congruence",
-      "Interosseous fixation"
+      "plain radiography",
+      "measurement of muscle electrical activity",
+      "direct histologic examination",
+      "assessment of pulmonary function"
     ],
     "answer": "A"
   },
   {
     "id": 17,
     "type": "mcq",
-    "stem": "A patient can flex the elbow but cannot extend it against resistance. Which muscle is MOST likely impaired?",
+    "stem": "Which term MOST precisely corresponds to the following finding or principle: cross-sectional detail of complex bony anatomy?",
     "options": [
-      "Biceps brachii",
-      "Brachialis",
-      "Triceps brachii",
-      "Flexor retinaculum"
+      "direct assessment of muscle power",
+      "only superficial skin inspection",
+      "computed tomography",
+      "measurement of serum calcium"
     ],
     "answer": "C"
   },
   {
     "id": 18,
     "type": "mcq",
-    "stem": "Which articulation is primarily responsible for the hinge-like flexion and extension of the elbow?",
+    "stem": "Which term MOST precisely corresponds to the following finding or principle: high-contrast evaluation of marrow and soft tissues such as ligaments?",
     "options": [
-      "Humeroulnar articulation",
-      "Proximal radioulnar articulation",
-      "Radiocarpal articulation",
-      "Acromioclavicular articulation"
+      "pin-site culture",
+      "magnetic resonance imaging",
+      "only cortical bone density",
+      "traction alignment"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 19,
     "type": "mcq",
-    "stem": "A client experiences pain when rotating the forearm so the palm turns posteriorly in anatomical position. Which movement is being performed?",
+    "stem": "Which term MOST precisely corresponds to the following finding or principle: identification of areas of altered bone metabolic activity?",
     "options": [
-      "Supination",
-      "Pronation",
-      "Opposition",
-      "Inversion"
+      "bone scan",
+      "testing of muscle resistance",
+      "direct measurement of joint range",
+      "assessment of capillary refill"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 20,
     "type": "mcq",
-    "stem": "A fracture compromises the proximal radioulnar articulation. Which movement would be MOST specifically impaired?",
+    "stem": "Which term MOST precisely corresponds to the following finding or principle: assessment of electrical activity of skeletal muscle?",
     "options": [
-      "Flexion of the fingers",
-      "Pronation and supination",
-      "Abduction of the shoulder",
-      "Dorsiflexion of the ankle"
+      "inspection of skin color",
+      "visualization of fracture fragments",
+      "measurement of bone mineral density",
+      "electromyography"
     ],
-    "answer": "B"
+    "answer": "D"
   },
   {
     "id": 21,
     "type": "mcq",
-    "stem": "A patient with median nerve compression beneath a strong fibrous band at the anterior wrist is diagnosed with carpal tunnel syndrome. Which structure forms the superficial boundary implicated in the compression?",
+    "stem": "Which term MOST precisely corresponds to the following finding or principle: removal of tissue for pathological examination?",
     "options": [
-      "Flexor retinaculum",
-      "Extensor retinaculum",
-      "Annular ligament",
-      "Patellar ligament"
+      "biopsy",
+      "passive joint movement",
+      "traction adjustment",
+      "noninvasive measurement of pulse"
     ],
     "answer": "A"
   },
   {
     "id": 22,
     "type": "mcq",
-    "stem": "Which structures normally pass through the carpal tunnel with the median nerve?",
+    "stem": "Which term MOST precisely corresponds to the following finding or principle: systematic collection of subjective and objective data?",
     "options": [
-      "Extensor tendons of the wrist",
-      "Flexor tendons of the fingers",
-      "Biceps and brachialis tendons",
-      "Radial and ulnar collateral ligaments"
+      "medical diagnosis",
+      "assessment",
+      "implementation of interventions",
+      "final comparison of outcomes only"
     ],
     "answer": "B"
   },
   {
     "id": 23,
     "type": "mcq",
-    "stem": "A patient cannot bring the thumb across the palm to touch a fingertip. Which specialized movement is impaired?",
+    "stem": "Which term MOST precisely corresponds to the following finding or principle: nursing problem supported by restricted independent movement?",
     "options": [
-      "Opposition",
-      "Reposition",
-      "Pronation",
-      "Circumduction"
+      "a laboratory diagnosis",
+      "a type of traction",
+      "a radiographic fracture classification",
+      "impaired physical mobility"
     ],
-    "answer": "A"
+    "answer": "D"
   },
   {
     "id": 24,
     "type": "mcq",
-    "stem": "The first carpometacarpal joint permits greater mobility than the corresponding joints of digits 2â5 primarily because it is what type of synovial joint?",
+    "stem": "Which term MOST precisely corresponds to the following finding or principle: restoration of function, mobility and independence after injury?",
     "options": [
-      "Saddle",
-      "Hinge",
-      "Pivot",
-      "Plane"
+      "fracture classification",
+      "radiographic exposure",
+      "permanent avoidance of activity",
+      "rehabilitation"
     ],
-    "answer": "A"
+    "answer": "D"
   },
   {
     "id": 25,
     "type": "mcq",
-    "stem": "A patient has an isolated injury to an interphalangeal joint. Which movement pair should remain characteristic of that joint?",
+    "stem": "Which term MOST precisely corresponds to the following finding or principle: equipment such as a cane, crutch or walker used to support mobility?",
     "options": [
-      "Abduction and adduction",
-      "Flexion and extension",
-      "Pronation and supination",
-      "Inversion and eversion"
+      "a type of bone graft",
+      "a diagnostic imaging modality",
+      "a traction weight",
+      "assistive device"
     ],
-    "answer": "B"
+    "answer": "D"
   },
   {
     "id": 26,
     "type": "mcq",
-    "stem": "Metacarpophalangeal joints permit flexion, extension, abduction, adduction and circumduction. Which classification BEST fits these joints?",
+    "stem": "A candidate must distinguish closely related musculoskeletal concepts. Which description is MOST specifically associated with spiral fracture?",
     "options": [
-      "Condyloid",
-      "Pivot",
-      "Plane",
-      "Hinge"
+      "impacted fracture rather than twisting force around the long axis",
+      "transverse fracture rather than twisting force around the long axis",
+      "compression fracture rather than twisting force around the long axis",
+      "twisting force around the long axis"
     ],
-    "answer": "A"
+    "answer": "D"
   },
   {
     "id": 27,
     "type": "mcq",
-    "stem": "A client with severe hip trauma has disruption of the fibrocartilaginous rim surrounding the acetabulum. What is the MOST likely mechanical consequence?",
+    "stem": "A candidate must distinguish closely related musculoskeletal concepts. Which description is MOST specifically associated with comminuted fracture?",
     "options": [
-      "Reduced depth and stability of the acetabular socket",
-      "Loss of synovial fluid secretion",
-      "Loss of knee extension",
-      "Fixation of the sacroiliac joint"
+      "bone broken into multiple fragments",
+      "spiral fracture rather than bone broken into multiple fragments",
+      "avulsion fracture rather than bone broken into multiple fragments",
+      "greenstick fracture rather than bone broken into multiple fragments"
     ],
     "answer": "A"
   },
   {
     "id": 28,
     "type": "mcq",
-    "stem": "Which feature makes the hip generally more stable than the shoulder despite both being ball-and-socket joints?",
+    "stem": "A candidate must distinguish closely related musculoskeletal concepts. Which description is MOST specifically associated with pathological fracture?",
     "options": [
-      "The hip lacks a joint capsule.",
-      "The acetabulum forms a deeper socket around the femoral head.",
-      "The hip contains no articular cartilage.",
-      "The femoral head is held only by muscle tone."
+      "simple soft-tissue injury rather than fracture through bone weakened by disease",
+      "joint dislocation rather than fracture through bone weakened by disease",
+      "stress fracture in normal bone rather than fracture through bone weakened by disease",
+      "fracture through bone weakened by disease"
     ],
-    "answer": "B"
+    "answer": "D"
   },
   {
     "id": 29,
     "type": "mcq",
-    "stem": "A patient has damage to the ligament running from the acetabular region to the head of the femur. Which joint is involved?",
+    "stem": "A candidate must distinguish closely related musculoskeletal concepts. Which description is MOST specifically associated with impacted fracture?",
     "options": [
-      "Hip",
-      "Knee",
-      "Ankle",
-      "Shoulder"
+      "one fracture fragment driven into another",
+      "bone end exposed through skin rather than one fracture fragment driven into another",
+      "incomplete cortical break rather than one fracture fragment driven into another",
+      "multiple free fragments rather than one fracture fragment driven into another"
     ],
     "answer": "A"
   },
   {
     "id": 30,
     "type": "mcq",
-    "stem": "A nurse evaluates a patient who cannot move the thigh away from the median plane. Which hip movement is deficient?",
+    "stem": "A candidate must distinguish closely related musculoskeletal concepts. Which description is MOST specifically associated with crepitus?",
     "options": [
-      "Adduction",
-      "Abduction",
-      "Extension",
-      "Medial rotation"
+      "grating produced by movement of fracture fragments",
+      "muscle fasciculation rather than grating produced by movement of fracture fragments",
+      "joint effusion rather than grating produced by movement of fracture fragments",
+      "vascular bruit rather than grating produced by movement of fracture fragments"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 31,
     "type": "mcq",
-    "stem": "Which statement BEST describes the knee joint?",
+    "stem": "A candidate must distinguish closely related musculoskeletal concepts. Which description is MOST specifically associated with traction?",
     "options": [
-      "It is a simple pivot joint with a single articulation.",
-      "It is a complex synovial joint involving femur, tibia and patella.",
-      "It is a cartilaginous joint stabilized only by fibrocartilage.",
-      "It is a ball-and-socket joint whose socket is formed by the tibia."
+      "compression bandaging rather than continuous pulling force used to align a part and reduce spasm",
+      "continuous pulling force used to align a part and reduce spasm",
+      "manual percussion rather than continuous pulling force used to align a part and reduce spasm",
+      "passive joint rotation rather than continuous pulling force used to align a part and reduce spasm"
     ],
     "answer": "B"
   },
   {
     "id": 32,
     "type": "mcq",
-    "stem": "A patient tears a cruciate ligament. Which normal function is MOST directly compromised?",
+    "stem": "A candidate must distinguish closely related musculoskeletal concepts. Which description is MOST specifically associated with countertraction?",
     "options": [
-      "Stabilization of the femur-tibia relationship during knee movement",
-      "Production of synovial fluid",
-      "Attachment of the patella to skin",
-      "Formation of articular cartilage"
+      "additional weight on the same side rather than opposing force that balances the traction pull",
+      "intermittent removal of weights rather than opposing force that balances the traction pull",
+      "friction at the pulley rather than opposing force that balances the traction pull",
+      "opposing force that balances the traction pull"
     ],
-    "answer": "A"
+    "answer": "D"
   },
   {
     "id": 33,
     "type": "mcq",
-    "stem": "Which pair of structures consists of fibrocartilaginous pads that improve congruence between femoral and tibial articular surfaces?",
+    "stem": "A candidate must distinguish closely related musculoskeletal concepts. Which description is MOST specifically associated with skeletal traction?",
     "options": [
-      "Medial and lateral menisci",
-      "Anterior and posterior bursae",
-      "Tibial and fibular collateral capsules",
-      "Patellar and quadriceps tendons"
+      "adhesive strips applied only to skin rather than force transmitted through a pin or wire inserted into bone",
+      "cast without weights rather than force transmitted through a pin or wire inserted into bone",
+      "force transmitted through a pin or wire inserted into bone",
+      "elastic bandage support rather than force transmitted through a pin or wire inserted into bone"
     ],
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 34,
     "type": "mcq",
-    "stem": "A twisting injury causes a tear of a knee meniscus. Which function is MOST likely reduced?",
+    "stem": "A candidate must distinguish closely related musculoskeletal concepts. Which description is MOST specifically associated with neurovascular compromise?",
     "options": [
-      "Load distribution and stabilization between femur and tibia",
-      "Secretion of synovial fluid",
-      "Active extension generated by quadriceps contraction",
-      "Transmission of impulses through the tibial nerve"
+      "increasing pain with pallor, paresthesia and reduced distal perfusion",
+      "normal muscle fatigue rather than increasing pain with pallor, paresthesia and reduced distal perfusion",
+      "expected callus formation rather than increasing pain with pallor, paresthesia and reduced distal perfusion",
+      "simple anxiety rather than increasing pain with pallor, paresthesia and reduced distal perfusion"
     ],
     "answer": "A"
   },
   {
     "id": 35,
     "type": "mcq",
-    "stem": "The patella is embedded within the tendon of which muscle group?",
+    "stem": "A candidate must distinguish closely related musculoskeletal concepts. Which description is MOST specifically associated with compartment syndrome?",
     "options": [
-      "Hamstrings",
-      "Quadriceps femoris",
-      "Gastrocnemius",
-      "Adductors"
+      "severe disproportionate pain, often intensified by passive stretch",
+      "painless dependent edema rather than severe disproportionate pain, often intensified by passive stretch",
+      "mild itching beneath a cast rather than severe disproportionate pain, often intensified by passive stretch",
+      "gradual muscle strengthening rather than severe disproportionate pain, often intensified by passive stretch"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 36,
     "type": "mcq",
-    "stem": "A patient cannot actively extend the knee after complete disruption of the quadriceps mechanism. Which structure normally transmits quadriceps force from the patella toward the tibia?",
+    "stem": "A candidate must distinguish closely related musculoskeletal concepts. Which description is MOST specifically associated with fat embolism syndrome?",
     "options": [
-      "Patellar ligament",
-      "Anterior cruciate ligament",
-      "Medial meniscus",
-      "Fibular collateral ligament"
+      "acute respiratory and neurologic deterioration after long-bone fracture",
+      "localized pin-site erythema only rather than acute respiratory and neurologic deterioration after long-bone fracture",
+      "delayed union without systemic signs rather than acute respiratory and neurologic deterioration after long-bone fracture",
+      "isolated joint stiffness rather than acute respiratory and neurologic deterioration after long-bone fracture"
     ],
     "answer": "A"
   },
   {
     "id": 37,
     "type": "mcq",
-    "stem": "Which movement at the knee is produced principally by the quadriceps femoris?",
+    "stem": "A candidate must distinguish closely related musculoskeletal concepts. Which description is MOST specifically associated with pin-site infection?",
     "options": [
-      "Flexion",
-      "Extension",
-      "Inversion",
-      "Plantar flexion"
+      "intact distal sensation rather than progressive redness, swelling, pain or drainage around a skeletal-traction pin",
+      "stable fracture alignment rather than progressive redness, swelling, pain or drainage around a skeletal-traction pin",
+      "progressive redness, swelling, pain or drainage around a skeletal-traction pin",
+      "freely hanging traction weights rather than progressive redness, swelling, pain or drainage around a skeletal-traction pin"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 38,
     "type": "mcq",
-    "stem": "Which muscle group is principally responsible for knee flexion?",
+    "stem": "A candidate must distinguish closely related musculoskeletal concepts. Which description is MOST specifically associated with active range of motion?",
     "options": [
-      "Hamstrings",
-      "Quadriceps",
-      "Anterior tibial muscles",
-      "Gluteal abductors"
+      "movement prohibited by all splints rather than movement generated by the client's own muscle activity",
+      "movement generated by the client's own muscle activity",
+      "movement possible only under traction rather than movement generated by the client's own muscle activity",
+      "movement produced entirely by the examiner rather than movement generated by the client's own muscle activity"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 39,
     "type": "mcq",
-    "stem": "A patient has a swollen friction-reducing sac adjacent to a joint. Which structure is inflamed?",
+    "stem": "A candidate must distinguish closely related musculoskeletal concepts. Which description is MOST specifically associated with passive range of motion?",
     "options": [
-      "Bursa",
-      "Meniscus",
-      "Labrum",
-      "Retinaculum"
+      "movement against resistance by the client rather than movement produced by an examiner without the client's active muscle contraction",
+      "isometric contraction rather than movement produced by an examiner without the client's active muscle contraction",
+      "movement produced by an examiner without the client's active muscle contraction",
+      "independent ambulation rather than movement produced by an examiner without the client's active muscle contraction"
     ],
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 40,
     "type": "mcq",
-    "stem": "What is the primary role of a bursa located where a tendon passes over bone?",
+    "stem": "A candidate must distinguish closely related musculoskeletal concepts. Which description is MOST specifically associated with isometric exercise?",
     "options": [
-      "Increase friction to stabilize the tendon",
-      "Reduce friction between moving structures",
-      "Produce articular cartilage",
-      "Prevent all movement of the tendon"
+      "muscle contraction without appreciable joint movement",
+      "unrestricted weight bearing rather than muscle contraction without appreciable joint movement",
+      "passive stretching only rather than muscle contraction without appreciable joint movement",
+      "rapid repetitive joint rotation rather than muscle contraction without appreciable joint movement"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 41,
     "type": "mcq",
-    "stem": "A patient cannot raise the toes toward the shin. Which ankle movement is impaired?",
+    "stem": "A candidate must distinguish closely related musculoskeletal concepts. Which description is MOST specifically associated with plain radiography?",
     "options": [
-      "Plantar flexion",
-      "Dorsiflexion",
-      "Eversion",
-      "Inversion"
+      "initial visualization of many fractures and bone alignment",
+      "assessment of pulmonary function rather than initial visualization of many fractures and bone alignment",
+      "measurement of muscle electrical activity rather than initial visualization of many fractures and bone alignment",
+      "direct histologic examination rather than initial visualization of many fractures and bone alignment"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 42,
     "type": "mcq",
-    "stem": "A patient is asked to stand on tiptoe. Which movement must occur at the ankle?",
+    "stem": "A candidate must distinguish closely related musculoskeletal concepts. Which description is MOST specifically associated with computed tomography?",
     "options": [
-      "Dorsiflexion",
-      "Plantar flexion",
-      "Inversion",
-      "Abduction"
+      "direct assessment of muscle power rather than cross-sectional detail of complex bony anatomy",
+      "measurement of serum calcium rather than cross-sectional detail of complex bony anatomy",
+      "only superficial skin inspection rather than cross-sectional detail of complex bony anatomy",
+      "cross-sectional detail of complex bony anatomy"
     ],
-    "answer": "B"
+    "answer": "D"
   },
   {
     "id": 43,
     "type": "mcq",
-    "stem": "Which muscle group is MOST directly associated with dorsiflexion of the ankle?",
+    "stem": "A candidate must distinguish closely related musculoskeletal concepts. Which description is MOST specifically associated with magnetic resonance imaging?",
     "options": [
-      "Anterior tibialis and toe extensors",
-      "Gastrocnemius and soleus",
-      "Hamstrings and gastrocnemius",
-      "Quadriceps and tibialis posterior"
+      "only cortical bone density rather than high-contrast evaluation of marrow and soft tissues such as ligaments",
+      "pin-site culture rather than high-contrast evaluation of marrow and soft tissues such as ligaments",
+      "high-contrast evaluation of marrow and soft tissues such as ligaments",
+      "traction alignment rather than high-contrast evaluation of marrow and soft tissues such as ligaments"
     ],
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 44,
     "type": "mcq",
-    "stem": "Which muscles are the principal plantar flexors identified in the chapter?",
+    "stem": "A candidate must distinguish closely related musculoskeletal concepts. Which description is MOST specifically associated with bone scan?",
     "options": [
-      "Gastrocnemius, soleus and toe flexors",
-      "Anterior tibialis and toe extensors",
-      "Quadriceps and hamstrings",
-      "Gluteals and adductors"
+      "assessment of capillary refill rather than identification of areas of altered bone metabolic activity",
+      "direct measurement of joint range rather than identification of areas of altered bone metabolic activity",
+      "testing of muscle resistance rather than identification of areas of altered bone metabolic activity",
+      "identification of areas of altered bone metabolic activity"
     ],
-    "answer": "A"
+    "answer": "D"
   },
   {
     "id": 45,
     "type": "mcq",
-    "stem": "A patient has an injury between the distal tibia, distal fibula and talus. Which joint is affected?",
+    "stem": "A candidate must distinguish closely related musculoskeletal concepts. Which description is MOST specifically associated with electromyography?",
     "options": [
-      "Ankle",
-      "Hip",
-      "Knee",
-      "Subtalar only"
+      "measurement of bone mineral density rather than assessment of electrical activity of skeletal muscle",
+      "inspection of skin color rather than assessment of electrical activity of skeletal muscle",
+      "assessment of electrical activity of skeletal muscle",
+      "visualization of fracture fragments rather than assessment of electrical activity of skeletal muscle"
     ],
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 46,
     "type": "mcq",
-    "stem": "The medial malleolus is the distal projection of which bone?",
+    "stem": "A candidate must distinguish closely related musculoskeletal concepts. Which description is MOST specifically associated with biopsy?",
     "options": [
-      "Fibula",
-      "Tibia",
-      "Talus",
-      "Calcaneus"
+      "noninvasive measurement of pulse rather than removal of tissue for pathological examination",
+      "traction adjustment rather than removal of tissue for pathological examination",
+      "passive joint movement rather than removal of tissue for pathological examination",
+      "removal of tissue for pathological examination"
     ],
-    "answer": "B"
+    "answer": "D"
   },
   {
     "id": 47,
     "type": "mcq",
-    "stem": "The lateral malleolus is formed by the distal end of which bone?",
+    "stem": "A candidate must distinguish closely related musculoskeletal concepts. Which description is MOST specifically associated with assessment?",
     "options": [
-      "Tibia",
-      "Fibula",
-      "Talus",
-      "Navicular"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 48,
-    "type": "mcq",
-    "stem": "Which bone receives the body weight from the tibia at the ankle articulation?",
-    "options": [
-      "Talus",
-      "Calcaneus",
-      "Navicular",
-      "Cuboid"
+      "systematic collection of subjective and objective data",
+      "final comparison of outcomes only rather than systematic collection of subjective and objective data",
+      "medical diagnosis rather than systematic collection of subjective and objective data",
+      "implementation of interventions rather than systematic collection of subjective and objective data"
     ],
     "answer": "A"
   },
   {
+    "id": 48,
+    "type": "mcq",
+    "stem": "A candidate must distinguish closely related musculoskeletal concepts. Which description is MOST specifically associated with impaired physical mobility?",
+    "options": [
+      "a type of traction rather than nursing problem supported by restricted independent movement",
+      "a radiographic fracture classification rather than nursing problem supported by restricted independent movement",
+      "a laboratory diagnosis rather than nursing problem supported by restricted independent movement",
+      "nursing problem supported by restricted independent movement"
+    ],
+    "answer": "D"
+  },
+  {
     "id": 49,
     "type": "mcq",
-    "stem": "A patient has disruption of the strong medial ligament complex of the ankle. Which name identifies this structure?",
+    "stem": "A candidate must distinguish closely related musculoskeletal concepts. Which description is MOST specifically associated with rehabilitation?",
     "options": [
-      "Deltoid ligament",
-      "Patellar ligament",
-      "Annular ligament",
-      "Glenoid ligament"
+      "restoration of function, mobility and independence after injury",
+      "radiographic exposure rather than restoration of function, mobility and independence after injury",
+      "permanent avoidance of activity rather than restoration of function, mobility and independence after injury",
+      "fracture classification rather than restoration of function, mobility and independence after injury"
     ],
     "answer": "A"
   },
   {
     "id": 50,
     "type": "mcq",
-    "stem": "A patient has intact ankle dorsiflexion and plantar flexion but difficulty turning the sole medially. Which movement is impaired?",
+    "stem": "A candidate must distinguish closely related musculoskeletal concepts. Which description is MOST specifically associated with assistive device?",
     "options": [
-      "Eversion",
-      "Inversion",
-      "Pronation",
-      "Opposition"
+      "a type of bone graft rather than equipment such as a cane, crutch or walker used to support mobility",
+      "a traction weight rather than equipment such as a cane, crutch or walker used to support mobility",
+      "a diagnostic imaging modality rather than equipment such as a cane, crutch or walker used to support mobility",
+      "equipment such as a cane, crutch or walker used to support mobility"
     ],
-    "answer": "B"
+    "answer": "D"
   },
   {
     "id": 51,
     "type": "mcq",
-    "stem": "Turning the sole of the foot laterally is termed which movement?",
+    "stem": "CASE STUDY: A client in lower-limb traction has slid toward the foot of the bed although the ropes remain in the pulley grooves and the weights are unobstructed. Which interpretation or action is BEST?",
     "options": [
-      "Inversion",
-      "Eversion",
-      "Supination",
-      "Adduction"
+      "Evidence that additional friction is needed",
+      "Proof that the fracture has united",
+      "Normal adaptation to traction",
+      "Loss of effective countertraction"
     ],
-    "answer": "B"
+    "answer": "D"
   },
   {
     "id": 52,
     "type": "mcq",
-    "stem": "Most joints between the bones of the ankle and foot are structurally classified as which type?",
+    "stem": "CASE STUDY: A traction weight is found resting on the floor while the prescribed rope remains attached. Which interpretation or action is BEST?",
     "options": [
-      "Synovial",
-      "Fibrous",
-      "Primary cartilaginous",
-      "Gomphotic"
+      "The traction force has doubled",
+      "Skeletal alignment is necessarily improved",
+      "The prescribed pulling force is no longer being delivered continuously",
+      "Countertraction has increased appropriately"
     ],
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 53,
     "type": "mcq",
-    "stem": "Long tendons crossing the ankle are enclosed in synovial sheaths primarily to achieve what effect?",
+    "stem": "CASE STUDY: A client with a fresh cast develops escalating pain unrelieved by analgesia, pallor, paresthesia and pain with passive stretch. Which interpretation or action is BEST?",
     "options": [
-      "Increase tendon-bone friction",
-      "Permit smooth tendon movement",
-      "Convert tendons into ligaments",
-      "Prevent all lateral movement"
+      "Expected cast drying",
+      "Normal dependent edema only",
+      "Routine muscle fatigue",
+      "Urgent neurovascular/compartment compromise"
     ],
-    "answer": "B"
+    "answer": "D"
   },
   {
     "id": 54,
     "type": "mcq",
-    "stem": "A patient has degeneration of articular cartilage but an intact synovial membrane. Why is cartilage repair still limited?",
+    "stem": "CASE STUDY: A client with a long-bone fracture suddenly becomes dyspneic and confused. Which interpretation or action is BEST?",
     "options": [
-      "Articular cartilage has no direct blood supply.",
-      "Synovial fluid completely prevents cell division.",
-      "The cartilage is composed only of elastic fibers.",
-      "Articular cartilage is outside the joint capsule."
-    ],
-    "answer": "A"
-  },
-  {
-    "id": 55,
-    "type": "mcq",
-    "stem": "Which age-related change in articular cartilage MOST directly increases stress on underlying bone?",
-    "options": [
-      "It becomes thinner and less compressible.",
-      "It becomes thicker and more vascular.",
-      "It secretes increasing quantities of synovial fluid.",
-      "It transforms into dense regular connective tissue."
-    ],
-    "answer": "A"
-  },
-  {
-    "id": 56,
-    "type": "mcq",
-    "stem": "A joint is enclosed by a sleeve of fibrous tissue and lined internally by a membrane that secretes lubricating fluid. Which structural class is described?",
-    "options": [
-      "Fibrous joint",
-      "Synovial joint",
-      "Cartilaginous joint",
-      "Bony union"
+      "This is expected during callus formation",
+      "Fat embolism syndrome must be considered urgently",
+      "The finding proves pin-site infection",
+      "Delayed union is the most immediate concern"
     ],
     "answer": "B"
   },
   {
+    "id": 55,
+    "type": "mcq",
+    "stem": "CASE STUDY: A skeletal-traction pin site becomes increasingly erythematous, tender and draining. Which interpretation or action is BEST?",
+    "options": [
+      "Expected bone remodeling",
+      "Effective traction",
+      "Normal countertraction",
+      "Possible pin-site infection"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 56,
+    "type": "mcq",
+    "stem": "CASE STUDY: A nurse must move a client receiving continuous traction. Which interpretation or action is BEST?",
+    "options": [
+      "Increase friction in the pulley system",
+      "Place weights on the mattress during repositioning",
+      "Maintain the prescribed line of pull and keep weights freely suspended",
+      "Detach ropes before turning"
+    ],
+    "answer": "C"
+  },
+  {
     "id": 57,
     "type": "mcq",
-    "stem": "A child has a temporary joint in which cartilage lies between the epiphysis and diaphysis of a growing long bone. Which structure is being described?",
+    "stem": "CASE STUDY: A fresh plaster cast must be supported while still damp. Which interpretation or action is BEST?",
     "options": [
-      "Epiphyseal plate",
-      "Synovial cavity",
-      "Interosseous membrane",
-      "Meniscus"
+      "Use the palms rather than fingertips to avoid pressure dents",
+      "Rest it on a narrow hard edge",
+      "Grip firmly with fingertips to accelerate hardening",
+      "Cover tightly with plastic"
     ],
     "answer": "A"
   },
   {
     "id": 58,
     "type": "mcq",
-    "stem": "Which example BEST represents a fibrous joint designed for essentially no movement?",
+    "stem": "CASE STUDY: A client reports itching beneath a cast. Which interpretation or action is BEST?",
     "options": [
-      "Suture between skull bones",
-      "Hip joint",
-      "Knee joint",
-      "First carpometacarpal joint"
+      "Insert a narrow object to scratch the skin",
+      "Pour powder freely into the cast",
+      "Use safe measures and never insert objects beneath the cast",
+      "Soak the cast with water"
     ],
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 59,
     "type": "mcq",
-    "stem": "A tooth is anchored in its socket by fibrous connective tissue. Which structural joint category does this represent?",
+    "stem": "CASE STUDY: A client has no visible deformity after trauma but has pain, swelling and loss of function. Which interpretation or action is BEST?",
     "options": [
-      "Fibrous",
-      "Synovial",
-      "Cartilaginous",
-      "Saddle"
+      "Delay assessment until bruising appears",
+      "Exclude fracture because deformity is absent",
+      "Continue focused fracture and neurovascular assessment",
+      "Begin unrestricted exercise"
     ],
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 60,
     "type": "mcq",
-    "stem": "A patient has pathology of an intervertebral disc that normally permits limited movement between adjacent vertebral bodies. Which structural joint category is primarily represented?",
+    "stem": "CASE STUDY: A client cannot actively move a joint fully, but the examiner obtains a much greater passive range. Which interpretation or action is BEST?",
     "options": [
-      "Cartilaginous",
-      "Synovial",
-      "Fibrous",
-      "Pivot"
+      "Assume the passive finding is invalid",
+      "Conclude that muscle function is normal",
+      "Consider weakness or impaired active motor function in addition to joint restriction",
+      "Diagnose fixed ankylosis immediately"
     ],
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 61,
     "type": "mcq",
-    "stem": "Case: After a football injury, a patient reports knee instability. Imaging shows intact menisci but disruption of a ligament located within the joint that restrains abnormal displacement between tibia and femur. Which structure is MOST likely injured?",
+    "stem": "CASE STUDY: After extremity immobilization the nurse compares distal pulse, color, temperature, refill, sensation and movement with the opposite side. Which interpretation or action is BEST?",
     "options": [
-      "Cruciate ligament",
-      "Patellar ligament",
-      "Fibular collateral ligament",
-      "Quadriceps tendon"
+      "This establishes fracture union",
+      "This replaces pain assessment",
+      "This is a focused neurovascular comparison",
+      "This primarily assesses endocrine status"
     ],
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 62,
     "type": "mcq",
-    "stem": "Case: A patient falls on an outstretched hand and later has numbness in the lateral palm and difficulty with thumb opposition. Swelling beneath the flexor retinaculum would MOST directly compress which nerve?",
+    "stem": "CASE STUDY: A client recovering from fracture has been immobile for several days. Which interpretation or action is BEST?",
     "options": [
-      "Median nerve",
-      "Ulnar nerve",
-      "Radial nerve",
-      "Musculocutaneous nerve"
+      "Prescribed repositioning, unaffected-joint exercise and pulmonary exercises reduce immobility complications",
+      "Deep breathing should be avoided",
+      "Complete inactivity best preserves all function",
+      "Self-care should be performed entirely by staff"
     ],
     "answer": "A"
   },
   {
     "id": 63,
     "type": "mcq",
-    "stem": "Case: Following shoulder trauma, the humeral head repeatedly slips because the fibrocartilaginous structure that deepens the socket is torn. Which structure is damaged?",
+    "stem": "CASE STUDY: A client is preparing for discharge with crutches after fracture treatment. Which interpretation or action is BEST?",
     "options": [
-      "Glenoid labrum",
-      "Acetabular labrum",
-      "Medial meniscus",
-      "Olecranon bursa"
+      "Advise unrestricted weight bearing once pain decreases",
+      "Teach device use, weight-bearing restrictions, exercises and warning signs",
+      "Stop rehabilitation after discharge",
+      "Ignore new numbness if the cast is intact"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 64,
     "type": "mcq",
-    "stem": "Case: A patient with ankle trauma can dorsiflex normally but cannot plantar flex against resistance. Which muscle pair should the nurse suspect FIRST?",
+    "stem": "CASE STUDY: A nurse is planning rehabilitation after prolonged immobilization. Which interpretation or action is BEST?",
     "options": [
-      "Gastrocnemius and soleus",
-      "Anterior tibialis and toe extensors",
-      "Quadriceps and hamstrings",
-      "Biceps and brachialis"
+      "Focus only on radiographic appearance",
+      "Delay all rehabilitation until every symptom disappears",
+      "Avoid activities of daily living",
+      "Promote gradual functional independence and prescribed range of motion"
     ],
-    "answer": "A"
+    "answer": "D"
   },
   {
     "id": 65,
     "type": "mcq",
-    "stem": "Case: A client has pain when the sole is forcibly turned outward after an ankle injury. Which movement provokes the pain?",
+    "stem": "CASE STUDY: A client with an open fracture arrives for emergency care. Which interpretation or action is BEST?",
     "options": [
-      "Eversion",
-      "Inversion",
-      "Dorsiflexion",
-      "Plantar flexion"
+      "Perform repeated active movement",
+      "Protect the wound from contamination while stabilizing the injury and assessing circulation",
+      "Postpone neurovascular assessment",
+      "Push exposed bone back through the wound"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 66,
     "type": "mcq",
-    "stem": "Case: A patient has loss of smooth, low-friction movement in a synovial joint despite normal muscle strength. The cartilage remains structurally intact, but its nutritional support is impaired. Dysfunction of which structure BEST explains the finding?",
+    "stem": "CASE STUDY: A suspected fracture is splinted before transport. Which interpretation or action is BEST?",
     "options": [
-      "Synovial membrane",
-      "Periosteum",
-      "Tendon",
-      "Interosseous membrane"
+      "Tighten until the distal pulse disappears",
+      "Immobilize the injury and joints above and below without worsening distal perfusion",
+      "Leave the fracture unsupported to assess motion",
+      "Force the limb into anatomical alignment regardless of resistance"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 67,
     "type": "mcq",
-    "stem": "Case: A patient has preserved elbow flexion-extension but loses the ability to rotate the radius around the ulna. Which joint mechanism is MOST likely disrupted?",
+    "stem": "CASE STUDY: A client with an immobilized leg develops unilateral calf swelling and discomfort. Which interpretation or action is BEST?",
     "options": [
-      "Pivot mechanism",
-      "Hinge mechanism",
-      "Saddle mechanism",
-      "Condyloid mechanism"
+      "Assume it is always normal",
+      "Encourage vigorous massage before assessment",
+      "Consider a venous thromboembolic complication of immobility",
+      "Interpret it as proof of fracture union"
     ],
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 68,
     "type": "mcq",
-    "stem": "Case: A patient can flex and extend the fingers but cannot spread them apart at the metacarpophalangeal joints. Which movement is selectively impaired?",
+    "stem": "CASE STUDY: A musculoskeletal examination is being performed. Which interpretation or action is BEST?",
     "options": [
-      "Abduction",
-      "Adduction",
-      "Opposition",
-      "Rotation"
+      "Assess only the painful site without comparison",
+      "Rely exclusively on inspection",
+      "Integrate inspection, palpation, movement, strength and neurovascular assessment",
+      "Omit functional assessment if imaging is ordered"
     ],
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 69,
     "type": "mcq",
-    "stem": "Case: An older adult has progressive thinning and reduced compressibility of knee articular cartilage. Which consequence should the nurse anticipate MOST directly?",
+    "stem": "CASE STUDY: A clinician needs detailed assessment of ligamentous and marrow structures after joint trauma. Which interpretation or action is BEST?",
     "options": [
-      "Greater transmission of mechanical stress to underlying bone",
-      "Increased vascular perfusion of the cartilage",
-      "Complete loss of synovial fluid secretion",
-      "Conversion of the knee into a fibrous joint"
+      "EMG is the primary bone image",
+      "A bone scan directly measures ligament tensile strength",
+      "MRI is generally more informative than plain radiography for these soft-tissue structures",
+      "Biopsy is always first-line"
     ],
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 70,
     "type": "mcq",
-    "stem": "Case: Trauma destroys the capsule of a synovial joint but leaves the articular cartilage intact. Which immediate mechanical function is MOST directly compromised?",
+    "stem": "CASE STUDY: A complex fracture near a joint requires detailed cross-sectional definition of bony fragments. Which interpretation or action is BEST?",
     "options": [
-      "Enclosure and stabilization of the articulation",
-      "Active muscle contraction",
-      "Formation of red blood cells",
-      "Conduction through peripheral nerves"
+      "Passive ROM provides equivalent anatomy",
+      "EMG is the preferred fracture map",
+      "CT is particularly useful",
+      "Pulmonary function testing is required"
     ],
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 71,
     "type": "fitb",
-    "stem": "The site at which two or more bones articulate is called a __________.",
-    "answer": "joint",
+    "stem": "A twisting fracture around the long axis is a ___ fracture.",
+    "answer": "spiral",
     "acceptableAnswers": [
-      "joint",
-      "articulation"
+      "spiral",
+      "spiral fracture"
     ]
   },
   {
     "id": 72,
     "type": "fitb",
-    "stem": "The smooth cartilage covering the contacting bone surfaces of a synovial joint is __________ cartilage.",
-    "answer": "hyaline",
+    "stem": "A bone broken into multiple fragments is described as ___.",
+    "answer": "comminuted",
     "acceptableAnswers": [
-      "hyaline",
-      "articular hyaline",
-      "hyaline cartilage"
+      "comminuted",
+      "comminuted fracture"
     ]
   },
   {
     "id": 73,
     "type": "fitb",
-    "stem": "The membrane lining the inner surface of a synovial joint capsule and producing joint fluid is the __________ membrane.",
-    "answer": "synovial",
+    "stem": "A fracture through diseased or weakened bone is a ___ fracture.",
+    "answer": "pathological",
     "acceptableAnswers": [
-      "synovial",
-      "synovial membrane"
+      "pathological",
+      "pathologic",
+      "pathological fracture",
+      "pathologic fracture"
     ]
   },
   {
     "id": 74,
     "type": "fitb",
-    "stem": "Synovial fluid lubricates the articulation and provides nutritional support to avascular __________ cartilage.",
-    "answer": "articular",
+    "stem": "A fragment driven into another fragment produces an ___ fracture.",
+    "answer": "impacted",
     "acceptableAnswers": [
-      "articular",
-      "articular cartilage",
-      "hyaline cartilage"
+      "impacted",
+      "impacted fracture"
     ]
   },
   {
     "id": 75,
     "type": "fitb",
-    "stem": "A fluid-filled friction-reducing sac associated with many synovial joints is a __________.",
-    "answer": "bursa",
+    "stem": "The grating produced by movement of fractured bone ends is ___.",
+    "answer": "crepitus",
     "acceptableAnswers": [
-      "bursa",
-      "synovial bursa"
+      "crepitus"
     ]
   },
   {
     "id": 76,
     "type": "fitb",
-    "stem": "The fibrocartilaginous pads between the femur and tibia are the medial and lateral __________.",
-    "answer": "menisci",
+    "stem": "The therapeutic pulling force used to maintain alignment is ___.",
+    "answer": "traction",
     "acceptableAnswers": [
-      "menisci",
-      "meniscus",
-      "semilunar cartilages",
-      "semilunar cartilage"
+      "traction"
     ]
   },
   {
     "id": 77,
     "type": "fitb",
-    "stem": "The kneecap, embedded in the quadriceps tendon, is the __________.",
-    "answer": "patella",
+    "stem": "The opposing force balancing traction is ___.",
+    "answer": "countertraction",
     "acceptableAnswers": [
-      "patella"
+      "countertraction",
+      "counter-traction"
     ]
   },
   {
     "id": 78,
     "type": "fitb",
-    "stem": "The distal projection of the tibia at the ankle is the __________ __________.",
-    "answer": "medial malleolus",
+    "stem": "Traction applied through a pin or wire inserted into bone is ___ traction.",
+    "answer": "skeletal",
     "acceptableAnswers": [
-      "medial malleolus"
+      "skeletal",
+      "skeletal traction"
     ]
   },
   {
     "id": 79,
     "type": "fitb",
-    "stem": "The distal projection of the fibula is the __________ __________.",
-    "answer": "lateral malleolus",
+    "stem": "Pain out of proportion to injury with pain on passive stretch strongly suggests ___ syndrome.",
+    "answer": "compartment",
     "acceptableAnswers": [
-      "lateral malleolus"
+      "compartment",
+      "compartment syndrome"
     ]
   },
   {
     "id": 80,
     "type": "fitb",
-    "stem": "Raising the toes toward the shin is __________, whereas standing on tiptoe requires __________.",
-    "answer": "dorsiflexion; plantar flexion",
+    "stem": "Acute respiratory and neurologic deterioration after long-bone fracture suggests ___ embolism syndrome.",
+    "answer": "fat",
     "acceptableAnswers": [
-      "dorsiflexion; plantar flexion",
-      "dorsiflexion and plantar flexion",
-      "dorsiflexion, plantar flexion"
+      "fat",
+      "fat embolism",
+      "fat embolism syndrome"
     ]
   },
   {
     "id": 81,
     "type": "fitb",
-    "stem": "Turning the sole medially is __________; turning it laterally is __________.",
-    "answer": "inversion; eversion",
+    "stem": "During effective traction, weights hang ___ and ropes move freely through the ___.",
+    "answer": "freely; pulleys",
     "acceptableAnswers": [
-      "inversion; eversion",
-      "inversion and eversion",
-      "inversion, eversion"
+      "freely; pulleys",
+      "free; pulleys",
+      "freely; pulley"
     ]
   },
   {
     "id": 82,
     "type": "fitb",
-    "stem": "The ankle joint is formed principally by the distal __________ and __________ articulating with the talus.",
-    "answer": "tibia; fibula",
+    "stem": "Distal pulse, capillary refill, color, temperature, sensation and movement assess ___ status.",
+    "answer": "neurovascular",
     "acceptableAnswers": [
-      "tibia; fibula",
-      "tibia and fibula",
-      "tibia, fibula"
+      "neurovascular",
+      "neurovascular status"
     ]
   },
   {
     "id": 83,
     "type": "fitb",
-    "stem": "The strong medial ligament of the ankle is also called the __________ ligament.",
-    "answer": "deltoid",
+    "stem": "A fresh plaster cast should be handled with the ___ rather than the ___.",
+    "answer": "palms; fingertips",
     "acceptableAnswers": [
-      "deltoid",
-      "deltoid ligament",
-      "medial ligament"
+      "palms; fingertips",
+      "palms of the hands; fingertips"
     ]
   },
   {
     "id": 84,
     "type": "fitb",
-    "stem": "The principal muscles producing plantar flexion include the __________ and __________.",
-    "answer": "gastrocnemius; soleus",
+    "stem": "Increasing redness and drainage around a traction pin suggest pin-site ___.",
+    "answer": "infection",
     "acceptableAnswers": [
-      "gastrocnemius; soleus",
-      "gastrocnemius and soleus",
-      "gastrocnemius, soleus"
+      "infection",
+      "pin-site infection",
+      "pin site infection"
     ]
   },
   {
     "id": 85,
     "type": "fitb",
-    "stem": "The principal anterior muscle named for ankle dorsiflexion is the __________ __________.",
-    "answer": "tibialis anterior",
+    "stem": "Muscle contraction without joint movement is called an ___ exercise.",
+    "answer": "isometric",
     "acceptableAnswers": [
-      "tibialis anterior",
-      "anterior tibialis"
+      "isometric",
+      "isometric exercise"
     ]
   },
   {
     "id": 86,
     "type": "fitb",
-    "stem": "The movement that decreases the angle between articulating bones is __________.",
-    "answer": "flexion",
+    "stem": "Movement generated by the client's own muscles is ___ ROM, whereas examiner-produced movement is ___ ROM.",
+    "answer": "active; passive",
     "acceptableAnswers": [
-      "flexion"
+      "active; passive",
+      "active range of motion; passive range of motion",
+      "AROM; PROM"
     ]
   },
   {
     "id": 87,
     "type": "fitb",
-    "stem": "The movement that increases the angle between articulating bones is __________.",
-    "answer": "extension",
+    "stem": "The first nursing-process phase is ___ and the final phase is ___.",
+    "answer": "assessment; evaluation",
     "acceptableAnswers": [
-      "extension"
+      "assessment; evaluation"
     ]
   },
   {
     "id": 88,
     "type": "fitb",
-    "stem": "Movement away from the body's median plane is __________, while movement toward it is __________.",
-    "answer": "abduction; adduction",
+    "stem": "Restricted independent movement commonly supports the nursing diagnosis impaired physical ___.",
+    "answer": "mobility",
     "acceptableAnswers": [
-      "abduction; adduction",
-      "abduction and adduction",
-      "abduction, adduction"
+      "mobility",
+      "physical mobility"
     ]
   },
   {
     "id": 89,
     "type": "fitb",
-    "stem": "Movement in which the distal end of a limb describes a circle is called __________.",
-    "answer": "circumduction",
+    "stem": "Crutches, canes and walkers are ___ devices used to improve safe ___.",
+    "answer": "assistive; mobility",
     "acceptableAnswers": [
-      "circumduction"
+      "assistive; mobility",
+      "assistive devices; mobility"
     ]
   },
   {
     "id": 90,
     "type": "fitb",
-    "stem": "The specialized thumb movement that brings its tip toward the fingertips is __________.",
-    "answer": "opposition",
+    "stem": "Deep breathing and coughing during immobility help reduce ___ complications.",
+    "answer": "respiratory",
     "acceptableAnswers": [
-      "opposition",
-      "thumb opposition"
+      "respiratory",
+      "pulmonary",
+      "respiratory complications",
+      "pulmonary complications"
     ]
   },
   {
     "id": 91,
     "type": "fitb",
-    "stem": "The strong fibrous band forming the roof of the carpal tunnel is the __________ __________.",
-    "answer": "flexor retinaculum",
+    "stem": "Plain ___ is commonly used initially for fractures, while ___ gives detailed cross-sectional bony anatomy.",
+    "answer": "radiography; CT",
     "acceptableAnswers": [
-      "flexor retinaculum"
+      "radiography; CT",
+      "X-ray; CT",
+      "x ray; computed tomography"
     ]
   },
   {
     "id": 92,
     "type": "fitb",
-    "stem": "The nerve passing through the carpal tunnel with the finger flexor tendons is the __________ nerve.",
-    "answer": "median",
+    "stem": "___ is particularly useful for marrow and ligamentous soft tissues, whereas ___ evaluates muscle electrical activity.",
+    "answer": "MRI; electromyography",
     "acceptableAnswers": [
-      "median",
-      "median nerve"
+      "MRI; electromyography",
+      "magnetic resonance imaging; EMG",
+      "MRI; EMG"
     ]
   },
   {
     "id": 93,
     "type": "fitb",
-    "stem": "The shoulder socket is the __________ cavity, while the hip socket is the __________.",
-    "answer": "glenoid; acetabulum",
+    "stem": "A bone ___ identifies altered bone metabolic activity; a tissue ___ permits pathological examination.",
+    "answer": "scan; biopsy",
     "acceptableAnswers": [
-      "glenoid; acetabulum",
-      "glenoid cavity; acetabulum",
-      "glenoid cavity and acetabulum"
+      "scan; biopsy",
+      "bone scan; biopsy"
     ]
   },
   {
     "id": 94,
     "type": "fitb",
-    "stem": "The fibrocartilaginous rim that deepens the shoulder socket is the __________ __________.",
-    "answer": "glenoid labrum",
+    "stem": "Restoration of function and independence after injury is called ___.",
+    "answer": "rehabilitation",
     "acceptableAnswers": [
-      "glenoid labrum",
-      "labrum"
+      "rehabilitation",
+      "physical rehabilitation"
     ]
   },
   {
     "id": 95,
     "type": "fitb",
-    "stem": "The knee is stabilized internally by two __________ ligaments and contains two fibrocartilaginous __________.",
-    "answer": "cruciate; menisci",
+    "stem": "CASE: Increasing pain, pallor and paresthesia beneath a cast require urgent ___ assessment for possible ___ compromise.",
+    "answer": "neurovascular; compartment",
     "acceptableAnswers": [
-      "cruciate; menisci",
-      "cruciate ligaments; menisci",
-      "cruciate ligaments and menisci"
+      "neurovascular; compartment",
+      "neurovascular; compartment syndrome"
     ]
   },
   {
     "id": 96,
     "type": "fitb",
-    "stem": "Case: A patient cannot extend the knee after loss of quadriceps function. The deficient movement is __________ and the principal muscle group is the __________ __________.",
-    "answer": "extension; quadriceps femoris",
+    "stem": "CASE: A client sliding toward the traction pull suggests inadequate ___ even if the weights remain ___.",
+    "answer": "countertraction; suspended",
     "acceptableAnswers": [
-      "extension; quadriceps femoris",
-      "extension and quadriceps femoris",
-      "extension, quadriceps femoris"
+      "countertraction; suspended",
+      "countertraction; freely suspended",
+      "counter-traction; suspended"
     ]
   },
   {
     "id": 97,
     "type": "fitb",
-    "stem": "Case: A patient cannot rotate the forearm to turn the palm anteriorly in anatomical position. The lost movement is __________.",
-    "answer": "supination",
+    "stem": "CASE: To preserve function during immobilization, prescribed ___ exercises can contract muscles without joint movement, while ___ exercises preserve joint excursion.",
+    "answer": "isometric; range-of-motion",
     "acceptableAnswers": [
-      "supination"
+      "isometric; range-of-motion",
+      "isometric; ROM",
+      "isometric exercises; range of motion"
     ]
   },
   {
     "id": 98,
     "type": "fitb",
-    "stem": "Case: Degeneration destroys the smooth coating on opposing bone ends but spares the capsule. The damaged tissue is __________ __________.",
-    "answer": "articular cartilage",
+    "stem": "CASE: In a limb examination, ___ assesses tenderness and temperature, while movement against ___ helps assess muscle power.",
+    "answer": "palpation; resistance",
     "acceptableAnswers": [
-      "articular cartilage",
-      "hyaline cartilage",
-      "articular hyaline cartilage"
+      "palpation; resistance"
     ]
   },
   {
     "id": 99,
     "type": "fitb",
-    "stem": "Case: A tear removes the knee's two load-distributing fibrocartilage pads. These structures are the __________ and __________ menisci.",
-    "answer": "medial; lateral",
+    "stem": "CASE: Three major nursing priorities after fracture immobilization are maintaining ___ integrity, preserving ___ function, and detecting ___ compromise early.",
+    "answer": "skin; respiratory; neurovascular",
     "acceptableAnswers": [
-      "medial; lateral",
-      "medial and lateral",
-      "medial, lateral"
+      "skin; respiratory; neurovascular",
+      "skin integrity; respiratory; neurovascular"
     ]
   },
   {
     "id": 100,
     "type": "fitb",
-    "stem": "Case: A lesion simultaneously prevents the foot from being raised toward the shin, turned medially, and turned laterally. The three movements are __________, __________, and __________.",
-    "answer": "dorsiflexion; inversion; eversion",
+    "stem": "CASE: Safe discharge after fracture requires adherence to ___ restrictions, correct use of ___ devices, and prompt reporting of new ___ symptoms.",
+    "answer": "weight-bearing; assistive; neurovascular",
     "acceptableAnswers": [
-      "dorsiflexion; inversion; eversion",
-      "dorsiflexion, inversion, and eversion",
-      "dorsiflexion inversion eversion"
+      "weight-bearing; assistive; neurovascular",
+      "weight bearing; assistive; neurovascular"
     ]
   }
 ]
