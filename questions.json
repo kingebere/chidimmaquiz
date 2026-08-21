@@ -2,1149 +2,1154 @@
   {
     "id": 1,
     "type": "mcq",
-    "stem": "Which term MOST precisely corresponds to the following finding or principle: twisting force around the long axis?",
+    "stem": "A patient is prescribed Ganciclovir. Which option BEST links this drug to its principal ocular mechanism?",
     "options": [
-      "transverse fracture",
-      "impacted fracture",
-      "compression fracture",
-      "spiral fracture"
+      "Ganciclovir — inhibits viral DNA polymerase",
+      "Natamycin — inhibits viral DNA polymerase",
+      "Ganciclovir — binds fungal ergosterol",
+      "Natamycin — binds fungal ergosterol"
     ],
-    "answer": "D"
+    "answer": "A"
   },
   {
     "id": 2,
     "type": "mcq",
-    "stem": "Which term MOST precisely corresponds to the following finding or principle: bone broken into multiple fragments?",
+    "stem": "A patient presents with HSV/CMV ocular infection. Which drug-mechanism pairing is MOST defensible?",
     "options": [
-      "comminuted fracture",
-      "spiral fracture",
-      "avulsion fracture",
-      "greenstick fracture"
-    ],
-    "answer": "A"
-  },
-  {
-    "id": 3,
-    "type": "mcq",
-    "stem": "Which term MOST precisely corresponds to the following finding or principle: fracture through bone weakened by disease?",
-    "options": [
-      "pathological fracture",
-      "simple soft-tissue injury",
-      "stress fracture in normal bone",
-      "joint dislocation"
-    ],
-    "answer": "A"
-  },
-  {
-    "id": 4,
-    "type": "mcq",
-    "stem": "Which term MOST precisely corresponds to the following finding or principle: one fracture fragment driven into another?",
-    "options": [
-      "multiple free fragments",
-      "bone end exposed through skin",
-      "impacted fracture",
-      "incomplete cortical break"
+      "Natamycin: inhibits viral DNA polymerase",
+      "Natamycin: binds fungal ergosterol",
+      "Ganciclovir: inhibits viral DNA polymerase",
+      "Ganciclovir: binds fungal ergosterol"
     ],
     "answer": "C"
   },
   {
-    "id": 5,
+    "id": 3,
     "type": "mcq",
-    "stem": "Which term MOST precisely corresponds to the following finding or principle: grating produced by movement of fracture fragments?",
+    "stem": "Which clinical use is MOST consistent with Ganciclovir based on the notes?",
     "options": [
-      "joint effusion",
-      "crepitus",
-      "vascular bruit",
-      "muscle fasciculation"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 6,
-    "type": "mcq",
-    "stem": "Which term MOST precisely corresponds to the following finding or principle: continuous pulling force used to align a part and reduce spasm?",
-    "options": [
-      "passive joint rotation",
-      "traction",
-      "compression bandaging",
-      "manual percussion"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 7,
-    "type": "mcq",
-    "stem": "Which term MOST precisely corresponds to the following finding or principle: opposing force that balances the traction pull?",
-    "options": [
-      "friction at the pulley",
-      "additional weight on the same side",
-      "intermittent removal of weights",
-      "countertraction"
+      "Routine eradication of bacterial keratitis without antimicrobial therapy",
+      "Definitive treatment of uncomplicated dry eye regardless of cause",
+      "Acute angle-closure treatment by pupillary dilation",
+      "HSV/CMV ocular infection"
     ],
     "answer": "D"
   },
   {
-    "id": 8,
+    "id": 4,
     "type": "mcq",
-    "stem": "Which term MOST precisely corresponds to the following finding or principle: force transmitted through a pin or wire inserted into bone?",
+    "stem": "A patient is prescribed Trifluridine. Which option BEST links this drug to its principal ocular mechanism?",
     "options": [
-      "skeletal traction",
-      "elastic bandage support",
-      "adhesive strips applied only to skin",
-      "cast without weights"
+      "Trifluridine — incorporates into viral DNA and inhibits replication",
+      "Voriconazole — inhibits ergosterol synthesis",
+      "Voriconazole — incorporates into viral DNA and inhibits replication",
+      "Trifluridine — inhibits ergosterol synthesis"
     ],
     "answer": "A"
+  },
+  {
+    "id": 5,
+    "type": "mcq",
+    "stem": "A patient presents with HSV keratitis. Which drug-mechanism pairing is MOST defensible?",
+    "options": [
+      "Voriconazole: inhibits ergosterol synthesis",
+      "Trifluridine: inhibits ergosterol synthesis",
+      "Trifluridine: incorporates into viral DNA and inhibits replication",
+      "Voriconazole: incorporates into viral DNA and inhibits replication"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 6,
+    "type": "mcq",
+    "stem": "Which clinical use is MOST consistent with Trifluridine based on the notes?",
+    "options": [
+      "Acute angle-closure treatment by pupillary dilation",
+      "Definitive treatment of uncomplicated dry eye regardless of cause",
+      "HSV keratitis",
+      "Routine eradication of bacterial keratitis without antimicrobial therapy"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 7,
+    "type": "mcq",
+    "stem": "A patient is prescribed Acyclovir. Which option BEST links this drug to its principal ocular mechanism?",
+    "options": [
+      "Acyclovir — inhibits COX",
+      "Acyclovir — inhibits viral DNA polymerase after activation",
+      "Ketorolac — inhibits viral DNA polymerase after activation",
+      "Ketorolac — inhibits COX"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 8,
+    "type": "mcq",
+    "stem": "A patient presents with HSV keratitis. Which drug-mechanism pairing is MOST defensible?",
+    "options": [
+      "Acyclovir: inhibits COX",
+      "Acyclovir: inhibits viral DNA polymerase after activation",
+      "Ketorolac: inhibits viral DNA polymerase after activation",
+      "Ketorolac: inhibits COX"
+    ],
+    "answer": "B"
   },
   {
     "id": 9,
     "type": "mcq",
-    "stem": "Which term MOST precisely corresponds to the following finding or principle: increasing pain with pallor, paresthesia and reduced distal perfusion?",
+    "stem": "Which clinical use is MOST consistent with Acyclovir based on the notes?",
     "options": [
-      "neurovascular compromise",
-      "expected callus formation",
-      "normal muscle fatigue",
-      "simple anxiety"
+      "Definitive treatment of uncomplicated dry eye regardless of cause",
+      "HSV keratitis",
+      "Acute angle-closure treatment by pupillary dilation",
+      "Routine eradication of bacterial keratitis without antimicrobial therapy"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 10,
     "type": "mcq",
-    "stem": "Which term MOST precisely corresponds to the following finding or principle: severe disproportionate pain, often intensified by passive stretch?",
+    "stem": "A patient is prescribed Natamycin. Which option BEST links this drug to its principal ocular mechanism?",
     "options": [
-      "mild itching beneath a cast",
-      "compartment syndrome",
-      "gradual muscle strengthening",
-      "painless dependent edema"
+      "Ganciclovir — binds fungal membrane sterols",
+      "Natamycin — binds fungal membrane sterols",
+      "Ganciclovir — inhibits viral DNA polymerase",
+      "Natamycin — inhibits viral DNA polymerase"
     ],
     "answer": "B"
   },
   {
     "id": 11,
     "type": "mcq",
-    "stem": "Which term MOST precisely corresponds to the following finding or principle: acute respiratory and neurologic deterioration after long-bone fracture?",
+    "stem": "A patient presents with filamentous fungal keratitis. Which drug-mechanism pairing is MOST defensible?",
     "options": [
-      "fat embolism syndrome",
-      "localized pin-site erythema only",
-      "delayed union without systemic signs",
-      "isolated joint stiffness"
+      "Natamycin: inhibits viral DNA polymerase",
+      "Ganciclovir: inhibits viral DNA polymerase",
+      "Natamycin: binds fungal membrane sterols",
+      "Ganciclovir: binds fungal membrane sterols"
     ],
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 12,
     "type": "mcq",
-    "stem": "Which term MOST precisely corresponds to the following finding or principle: progressive redness, swelling, pain or drainage around a skeletal-traction pin?",
+    "stem": "Which clinical use is MOST consistent with Natamycin based on the notes?",
     "options": [
-      "intact distal sensation",
-      "pin-site infection",
-      "stable fracture alignment",
-      "freely hanging traction weights"
+      "Acute angle-closure treatment by pupillary dilation",
+      "filamentous fungal keratitis",
+      "Routine eradication of bacterial keratitis without antimicrobial therapy",
+      "Definitive treatment of uncomplicated dry eye regardless of cause"
     ],
     "answer": "B"
   },
   {
     "id": 13,
     "type": "mcq",
-    "stem": "Which term MOST precisely corresponds to the following finding or principle: movement generated by the client's own muscle activity?",
+    "stem": "A patient is prescribed Amphotericin B. Which option BEST links this drug to its principal ocular mechanism?",
     "options": [
-      "movement prohibited by all splints",
-      "movement possible only under traction",
-      "movement produced entirely by the examiner",
-      "active range of motion"
+      "Amphotericin B — blocks H1 receptors",
+      "Olopatadine — binds ergosterol and forms membrane pores",
+      "Olopatadine — blocks H1 receptors",
+      "Amphotericin B — binds ergosterol and forms membrane pores"
     ],
     "answer": "D"
   },
   {
     "id": 14,
     "type": "mcq",
-    "stem": "Which term MOST precisely corresponds to the following finding or principle: movement produced by an examiner without the client's active muscle contraction?",
+    "stem": "A patient presents with Candida/Aspergillus ocular infection. Which drug-mechanism pairing is MOST defensible?",
     "options": [
-      "independent ambulation",
-      "passive range of motion",
-      "isometric contraction",
-      "movement against resistance by the client"
+      "Amphotericin B: blocks H1 receptors",
+      "Amphotericin B: binds ergosterol and forms membrane pores",
+      "Olopatadine: blocks H1 receptors",
+      "Olopatadine: binds ergosterol and forms membrane pores"
     ],
     "answer": "B"
   },
   {
     "id": 15,
     "type": "mcq",
-    "stem": "Which term MOST precisely corresponds to the following finding or principle: muscle contraction without appreciable joint movement?",
+    "stem": "Which clinical use is MOST consistent with Amphotericin B based on the notes?",
     "options": [
-      "unrestricted weight bearing",
-      "rapid repetitive joint rotation",
-      "passive stretching only",
-      "isometric exercise"
+      "Routine eradication of bacterial keratitis without antimicrobial therapy",
+      "Candida/Aspergillus ocular infection",
+      "Definitive treatment of uncomplicated dry eye regardless of cause",
+      "Acute angle-closure treatment by pupillary dilation"
     ],
-    "answer": "D"
+    "answer": "B"
   },
   {
     "id": 16,
     "type": "mcq",
-    "stem": "Which term MOST precisely corresponds to the following finding or principle: initial visualization of many fractures and bone alignment?",
+    "stem": "A patient is prescribed Voriconazole. Which option BEST links this drug to its principal ocular mechanism?",
     "options": [
-      "plain radiography",
-      "measurement of muscle electrical activity",
-      "direct histologic examination",
-      "assessment of pulmonary function"
+      "Voriconazole — blocks muscarinic receptors",
+      "Atropine — inhibits ergosterol synthesis",
+      "Voriconazole — inhibits ergosterol synthesis",
+      "Atropine — blocks muscarinic receptors"
     ],
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 17,
     "type": "mcq",
-    "stem": "Which term MOST precisely corresponds to the following finding or principle: cross-sectional detail of complex bony anatomy?",
+    "stem": "A patient presents with resistant fungal ocular infection. Which drug-mechanism pairing is MOST defensible?",
     "options": [
-      "direct assessment of muscle power",
-      "only superficial skin inspection",
-      "computed tomography",
-      "measurement of serum calcium"
+      "Voriconazole: blocks muscarinic receptors",
+      "Atropine: inhibits ergosterol synthesis",
+      "Voriconazole: inhibits ergosterol synthesis",
+      "Atropine: blocks muscarinic receptors"
     ],
     "answer": "C"
   },
   {
     "id": 18,
     "type": "mcq",
-    "stem": "Which term MOST precisely corresponds to the following finding or principle: high-contrast evaluation of marrow and soft tissues such as ligaments?",
+    "stem": "Which clinical use is MOST consistent with Voriconazole based on the notes?",
     "options": [
-      "pin-site culture",
-      "magnetic resonance imaging",
-      "only cortical bone density",
-      "traction alignment"
+      "resistant fungal ocular infection",
+      "Definitive treatment of uncomplicated dry eye regardless of cause",
+      "Acute angle-closure treatment by pupillary dilation",
+      "Routine eradication of bacterial keratitis without antimicrobial therapy"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 19,
     "type": "mcq",
-    "stem": "Which term MOST precisely corresponds to the following finding or principle: identification of areas of altered bone metabolic activity?",
+    "stem": "A patient is prescribed Prednisolone acetate. Which option BEST links this drug to its principal ocular mechanism?",
     "options": [
-      "bone scan",
-      "testing of muscle resistance",
-      "direct measurement of joint range",
-      "assessment of capillary refill"
+      "Prednisolone acetate — inhibits viral replication",
+      "Trifluridine — inhibits viral replication",
+      "Trifluridine — suppresses inflammatory mediators",
+      "Prednisolone acetate — suppresses inflammatory mediators"
     ],
-    "answer": "A"
+    "answer": "D"
   },
   {
     "id": 20,
     "type": "mcq",
-    "stem": "Which term MOST precisely corresponds to the following finding or principle: assessment of electrical activity of skeletal muscle?",
+    "stem": "A patient presents with uveitis/postoperative inflammation. Which drug-mechanism pairing is MOST defensible?",
     "options": [
-      "inspection of skin color",
-      "visualization of fracture fragments",
-      "measurement of bone mineral density",
-      "electromyography"
+      "Trifluridine: inhibits viral replication",
+      "Trifluridine: suppresses inflammatory mediators",
+      "Prednisolone acetate: suppresses inflammatory mediators",
+      "Prednisolone acetate: inhibits viral replication"
     ],
-    "answer": "D"
+    "answer": "C"
   },
   {
     "id": 21,
     "type": "mcq",
-    "stem": "Which term MOST precisely corresponds to the following finding or principle: removal of tissue for pathological examination?",
+    "stem": "Which clinical use is MOST consistent with Prednisolone acetate based on the notes?",
     "options": [
-      "biopsy",
-      "passive joint movement",
-      "traction adjustment",
-      "noninvasive measurement of pulse"
-    ],
-    "answer": "A"
-  },
-  {
-    "id": 22,
-    "type": "mcq",
-    "stem": "Which term MOST precisely corresponds to the following finding or principle: systematic collection of subjective and objective data?",
-    "options": [
-      "medical diagnosis",
-      "assessment",
-      "implementation of interventions",
-      "final comparison of outcomes only"
+      "Acute angle-closure treatment by pupillary dilation",
+      "uveitis/postoperative inflammation",
+      "Routine eradication of bacterial keratitis without antimicrobial therapy",
+      "Definitive treatment of uncomplicated dry eye regardless of cause"
     ],
     "answer": "B"
   },
   {
+    "id": 22,
+    "type": "mcq",
+    "stem": "A patient is prescribed Ketorolac. Which option BEST links this drug to its principal ocular mechanism?",
+    "options": [
+      "Cromolyn — prevents histamine release",
+      "Ketorolac — prevents histamine release",
+      "Ketorolac — inhibits cyclooxygenase",
+      "Cromolyn — inhibits cyclooxygenase"
+    ],
+    "answer": "C"
+  },
+  {
     "id": 23,
     "type": "mcq",
-    "stem": "Which term MOST precisely corresponds to the following finding or principle: nursing problem supported by restricted independent movement?",
+    "stem": "A patient presents with postoperative ocular pain/inflammation. Which drug-mechanism pairing is MOST defensible?",
     "options": [
-      "a laboratory diagnosis",
-      "a type of traction",
-      "a radiographic fracture classification",
-      "impaired physical mobility"
+      "Cromolyn: inhibits cyclooxygenase",
+      "Ketorolac: inhibits cyclooxygenase",
+      "Ketorolac: prevents histamine release",
+      "Cromolyn: prevents histamine release"
     ],
-    "answer": "D"
+    "answer": "B"
   },
   {
     "id": 24,
     "type": "mcq",
-    "stem": "Which term MOST precisely corresponds to the following finding or principle: restoration of function, mobility and independence after injury?",
+    "stem": "Which clinical use is MOST consistent with Ketorolac based on the notes?",
     "options": [
-      "fracture classification",
-      "radiographic exposure",
-      "permanent avoidance of activity",
-      "rehabilitation"
+      "Routine eradication of bacterial keratitis without antimicrobial therapy",
+      "postoperative ocular pain/inflammation",
+      "Acute angle-closure treatment by pupillary dilation",
+      "Definitive treatment of uncomplicated dry eye regardless of cause"
     ],
-    "answer": "D"
+    "answer": "B"
   },
   {
     "id": 25,
     "type": "mcq",
-    "stem": "Which term MOST precisely corresponds to the following finding or principle: equipment such as a cane, crutch or walker used to support mobility?",
+    "stem": "A patient is prescribed Cromolyn. Which option BEST links this drug to its principal ocular mechanism?",
     "options": [
-      "a type of bone graft",
-      "a diagnostic imaging modality",
-      "a traction weight",
-      "assistive device"
+      "Cromolyn — stimulates alpha receptors",
+      "Cromolyn — prevents mast-cell histamine release",
+      "Phenylephrine — prevents mast-cell histamine release",
+      "Phenylephrine — stimulates alpha receptors"
     ],
-    "answer": "D"
+    "answer": "B"
   },
   {
     "id": 26,
     "type": "mcq",
-    "stem": "A candidate must distinguish closely related musculoskeletal concepts. Which description is MOST specifically associated with spiral fracture?",
+    "stem": "A patient presents with allergic conjunctivitis prophylaxis. Which drug-mechanism pairing is MOST defensible?",
     "options": [
-      "impacted fracture rather than twisting force around the long axis",
-      "transverse fracture rather than twisting force around the long axis",
-      "compression fracture rather than twisting force around the long axis",
-      "twisting force around the long axis"
+      "Phenylephrine: stimulates alpha receptors",
+      "Cromolyn: prevents mast-cell histamine release",
+      "Phenylephrine: prevents mast-cell histamine release",
+      "Cromolyn: stimulates alpha receptors"
     ],
-    "answer": "D"
+    "answer": "B"
   },
   {
     "id": 27,
     "type": "mcq",
-    "stem": "A candidate must distinguish closely related musculoskeletal concepts. Which description is MOST specifically associated with comminuted fracture?",
+    "stem": "Which clinical use is MOST consistent with Cromolyn based on the notes?",
     "options": [
-      "bone broken into multiple fragments",
-      "spiral fracture rather than bone broken into multiple fragments",
-      "avulsion fracture rather than bone broken into multiple fragments",
-      "greenstick fracture rather than bone broken into multiple fragments"
+      "allergic conjunctivitis prophylaxis",
+      "Routine eradication of bacterial keratitis without antimicrobial therapy",
+      "Acute angle-closure treatment by pupillary dilation",
+      "Definitive treatment of uncomplicated dry eye regardless of cause"
     ],
     "answer": "A"
   },
   {
     "id": 28,
     "type": "mcq",
-    "stem": "A candidate must distinguish closely related musculoskeletal concepts. Which description is MOST specifically associated with pathological fracture?",
+    "stem": "A patient is prescribed Olopatadine. Which option BEST links this drug to its principal ocular mechanism?",
     "options": [
-      "simple soft-tissue injury rather than fracture through bone weakened by disease",
-      "joint dislocation rather than fracture through bone weakened by disease",
-      "stress fracture in normal bone rather than fracture through bone weakened by disease",
-      "fracture through bone weakened by disease"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": 29,
-    "type": "mcq",
-    "stem": "A candidate must distinguish closely related musculoskeletal concepts. Which description is MOST specifically associated with impacted fracture?",
-    "options": [
-      "one fracture fragment driven into another",
-      "bone end exposed through skin rather than one fracture fragment driven into another",
-      "incomplete cortical break rather than one fracture fragment driven into another",
-      "multiple free fragments rather than one fracture fragment driven into another"
-    ],
-    "answer": "A"
-  },
-  {
-    "id": 30,
-    "type": "mcq",
-    "stem": "A candidate must distinguish closely related musculoskeletal concepts. Which description is MOST specifically associated with crepitus?",
-    "options": [
-      "grating produced by movement of fracture fragments",
-      "muscle fasciculation rather than grating produced by movement of fracture fragments",
-      "joint effusion rather than grating produced by movement of fracture fragments",
-      "vascular bruit rather than grating produced by movement of fracture fragments"
-    ],
-    "answer": "A"
-  },
-  {
-    "id": 31,
-    "type": "mcq",
-    "stem": "A candidate must distinguish closely related musculoskeletal concepts. Which description is MOST specifically associated with traction?",
-    "options": [
-      "compression bandaging rather than continuous pulling force used to align a part and reduce spasm",
-      "continuous pulling force used to align a part and reduce spasm",
-      "manual percussion rather than continuous pulling force used to align a part and reduce spasm",
-      "passive joint rotation rather than continuous pulling force used to align a part and reduce spasm"
+      "Atropine — blocks H1-mediated allergic symptoms",
+      "Olopatadine — blocks H1-mediated allergic symptoms",
+      "Atropine — causes cycloplegia",
+      "Olopatadine — causes cycloplegia"
     ],
     "answer": "B"
   },
   {
-    "id": 32,
+    "id": 29,
     "type": "mcq",
-    "stem": "A candidate must distinguish closely related musculoskeletal concepts. Which description is MOST specifically associated with countertraction?",
+    "stem": "A patient presents with allergic conjunctivitis. Which drug-mechanism pairing is MOST defensible?",
     "options": [
-      "additional weight on the same side rather than opposing force that balances the traction pull",
-      "intermittent removal of weights rather than opposing force that balances the traction pull",
-      "friction at the pulley rather than opposing force that balances the traction pull",
-      "opposing force that balances the traction pull"
+      "Olopatadine: causes cycloplegia",
+      "Atropine: causes cycloplegia",
+      "Atropine: blocks H1-mediated allergic symptoms",
+      "Olopatadine: blocks H1-mediated allergic symptoms"
     ],
     "answer": "D"
   },
   {
-    "id": 33,
+    "id": 30,
     "type": "mcq",
-    "stem": "A candidate must distinguish closely related musculoskeletal concepts. Which description is MOST specifically associated with skeletal traction?",
+    "stem": "Which clinical use is MOST consistent with Olopatadine based on the notes?",
     "options": [
-      "adhesive strips applied only to skin rather than force transmitted through a pin or wire inserted into bone",
-      "cast without weights rather than force transmitted through a pin or wire inserted into bone",
-      "force transmitted through a pin or wire inserted into bone",
-      "elastic bandage support rather than force transmitted through a pin or wire inserted into bone"
+      "Acute angle-closure treatment by pupillary dilation",
+      "allergic conjunctivitis",
+      "Definitive treatment of uncomplicated dry eye regardless of cause",
+      "Routine eradication of bacterial keratitis without antimicrobial therapy"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 31,
+    "type": "mcq",
+    "stem": "A patient is prescribed Artificial tears. Which option BEST links this drug to its principal ocular mechanism?",
+    "options": [
+      "Ganciclovir — lubricate and moisturize the ocular surface",
+      "Ganciclovir — inhibits viral DNA polymerase",
+      "Artificial tears — inhibits viral DNA polymerase",
+      "Artificial tears — lubricate and moisturize the ocular surface"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 32,
+    "type": "mcq",
+    "stem": "A patient presents with dry-eye syndrome. Which drug-mechanism pairing is MOST defensible?",
+    "options": [
+      "Ganciclovir: inhibits viral DNA polymerase",
+      "Ganciclovir: lubricate and moisturize the ocular surface",
+      "Artificial tears: lubricate and moisturize the ocular surface",
+      "Artificial tears: inhibits viral DNA polymerase"
     ],
     "answer": "C"
   },
   {
+    "id": 33,
+    "type": "mcq",
+    "stem": "Which clinical use is MOST consistent with Artificial tears based on the notes?",
+    "options": [
+      "Definitive treatment of uncomplicated dry eye regardless of cause",
+      "Acute angle-closure treatment by pupillary dilation",
+      "Routine eradication of bacterial keratitis without antimicrobial therapy",
+      "dry-eye syndrome"
+    ],
+    "answer": "D"
+  },
+  {
     "id": 34,
     "type": "mcq",
-    "stem": "A candidate must distinguish closely related musculoskeletal concepts. Which description is MOST specifically associated with neurovascular compromise?",
+    "stem": "A patient is prescribed Atropine. Which option BEST links this drug to its principal ocular mechanism?",
     "options": [
-      "increasing pain with pallor, paresthesia and reduced distal perfusion",
-      "normal muscle fatigue rather than increasing pain with pallor, paresthesia and reduced distal perfusion",
-      "expected callus formation rather than increasing pain with pallor, paresthesia and reduced distal perfusion",
-      "simple anxiety rather than increasing pain with pallor, paresthesia and reduced distal perfusion"
+      "Atropine — blocks muscarinic receptors causing mydriasis and cycloplegia",
+      "Phenylephrine — blocks muscarinic receptors causing mydriasis and cycloplegia",
+      "Atropine — stimulates alpha receptors",
+      "Phenylephrine — stimulates alpha receptors"
     ],
     "answer": "A"
   },
   {
     "id": 35,
     "type": "mcq",
-    "stem": "A candidate must distinguish closely related musculoskeletal concepts. Which description is MOST specifically associated with compartment syndrome?",
+    "stem": "A patient presents with uveitis/ciliary spasm. Which drug-mechanism pairing is MOST defensible?",
     "options": [
-      "severe disproportionate pain, often intensified by passive stretch",
-      "painless dependent edema rather than severe disproportionate pain, often intensified by passive stretch",
-      "mild itching beneath a cast rather than severe disproportionate pain, often intensified by passive stretch",
-      "gradual muscle strengthening rather than severe disproportionate pain, often intensified by passive stretch"
+      "Atropine: stimulates alpha receptors",
+      "Phenylephrine: blocks muscarinic receptors causing mydriasis and cycloplegia",
+      "Phenylephrine: stimulates alpha receptors",
+      "Atropine: blocks muscarinic receptors causing mydriasis and cycloplegia"
     ],
-    "answer": "A"
+    "answer": "D"
   },
   {
     "id": 36,
     "type": "mcq",
-    "stem": "A candidate must distinguish closely related musculoskeletal concepts. Which description is MOST specifically associated with fat embolism syndrome?",
+    "stem": "Which clinical use is MOST consistent with Atropine based on the notes?",
     "options": [
-      "acute respiratory and neurologic deterioration after long-bone fracture",
-      "localized pin-site erythema only rather than acute respiratory and neurologic deterioration after long-bone fracture",
-      "delayed union without systemic signs rather than acute respiratory and neurologic deterioration after long-bone fracture",
-      "isolated joint stiffness rather than acute respiratory and neurologic deterioration after long-bone fracture"
+      "Acute angle-closure treatment by pupillary dilation",
+      "Routine eradication of bacterial keratitis without antimicrobial therapy",
+      "Definitive treatment of uncomplicated dry eye regardless of cause",
+      "uveitis/ciliary spasm"
     ],
-    "answer": "A"
+    "answer": "D"
   },
   {
     "id": 37,
     "type": "mcq",
-    "stem": "A candidate must distinguish closely related musculoskeletal concepts. Which description is MOST specifically associated with pin-site infection?",
+    "stem": "A patient is prescribed Cyclopentolate. Which option BEST links this drug to its principal ocular mechanism?",
     "options": [
-      "intact distal sensation rather than progressive redness, swelling, pain or drainage around a skeletal-traction pin",
-      "stable fracture alignment rather than progressive redness, swelling, pain or drainage around a skeletal-traction pin",
-      "progressive redness, swelling, pain or drainage around a skeletal-traction pin",
-      "freely hanging traction weights rather than progressive redness, swelling, pain or drainage around a skeletal-traction pin"
+      "Cyclopentolate — causes mydriasis without cycloplegia",
+      "Cyclopentolate — causes mydriasis and cycloplegia",
+      "Phenylephrine — causes mydriasis without cycloplegia",
+      "Phenylephrine — causes mydriasis and cycloplegia"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 38,
     "type": "mcq",
-    "stem": "A candidate must distinguish closely related musculoskeletal concepts. Which description is MOST specifically associated with active range of motion?",
+    "stem": "A patient presents with refraction testing. Which drug-mechanism pairing is MOST defensible?",
     "options": [
-      "movement prohibited by all splints rather than movement generated by the client's own muscle activity",
-      "movement generated by the client's own muscle activity",
-      "movement possible only under traction rather than movement generated by the client's own muscle activity",
-      "movement produced entirely by the examiner rather than movement generated by the client's own muscle activity"
+      "Phenylephrine: causes mydriasis without cycloplegia",
+      "Cyclopentolate: causes mydriasis and cycloplegia",
+      "Phenylephrine: causes mydriasis and cycloplegia",
+      "Cyclopentolate: causes mydriasis without cycloplegia"
     ],
     "answer": "B"
   },
   {
     "id": 39,
     "type": "mcq",
-    "stem": "A candidate must distinguish closely related musculoskeletal concepts. Which description is MOST specifically associated with passive range of motion?",
+    "stem": "Which clinical use is MOST consistent with Cyclopentolate based on the notes?",
     "options": [
-      "movement against resistance by the client rather than movement produced by an examiner without the client's active muscle contraction",
-      "isometric contraction rather than movement produced by an examiner without the client's active muscle contraction",
-      "movement produced by an examiner without the client's active muscle contraction",
-      "independent ambulation rather than movement produced by an examiner without the client's active muscle contraction"
+      "Acute angle-closure treatment by pupillary dilation",
+      "Routine eradication of bacterial keratitis without antimicrobial therapy",
+      "refraction testing",
+      "Definitive treatment of uncomplicated dry eye regardless of cause"
     ],
     "answer": "C"
   },
   {
     "id": 40,
     "type": "mcq",
-    "stem": "A candidate must distinguish closely related musculoskeletal concepts. Which description is MOST specifically associated with isometric exercise?",
+    "stem": "A patient is prescribed Homatropine. Which option BEST links this drug to its principal ocular mechanism?",
     "options": [
-      "muscle contraction without appreciable joint movement",
-      "unrestricted weight bearing rather than muscle contraction without appreciable joint movement",
-      "passive stretching only rather than muscle contraction without appreciable joint movement",
-      "rapid repetitive joint rotation rather than muscle contraction without appreciable joint movement"
+      "Homatropine — reduces allergic symptoms",
+      "Ketotifen — causes intermediate-duration cycloplegia",
+      "Ketotifen — reduces allergic symptoms",
+      "Homatropine — causes intermediate-duration cycloplegia"
     ],
-    "answer": "A"
+    "answer": "D"
   },
   {
     "id": 41,
     "type": "mcq",
-    "stem": "A candidate must distinguish closely related musculoskeletal concepts. Which description is MOST specifically associated with plain radiography?",
+    "stem": "A patient presents with uveitis/ciliary spasm. Which drug-mechanism pairing is MOST defensible?",
     "options": [
-      "initial visualization of many fractures and bone alignment",
-      "assessment of pulmonary function rather than initial visualization of many fractures and bone alignment",
-      "measurement of muscle electrical activity rather than initial visualization of many fractures and bone alignment",
-      "direct histologic examination rather than initial visualization of many fractures and bone alignment"
-    ],
-    "answer": "A"
-  },
-  {
-    "id": 42,
-    "type": "mcq",
-    "stem": "A candidate must distinguish closely related musculoskeletal concepts. Which description is MOST specifically associated with computed tomography?",
-    "options": [
-      "direct assessment of muscle power rather than cross-sectional detail of complex bony anatomy",
-      "measurement of serum calcium rather than cross-sectional detail of complex bony anatomy",
-      "only superficial skin inspection rather than cross-sectional detail of complex bony anatomy",
-      "cross-sectional detail of complex bony anatomy"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": 43,
-    "type": "mcq",
-    "stem": "A candidate must distinguish closely related musculoskeletal concepts. Which description is MOST specifically associated with magnetic resonance imaging?",
-    "options": [
-      "only cortical bone density rather than high-contrast evaluation of marrow and soft tissues such as ligaments",
-      "pin-site culture rather than high-contrast evaluation of marrow and soft tissues such as ligaments",
-      "high-contrast evaluation of marrow and soft tissues such as ligaments",
-      "traction alignment rather than high-contrast evaluation of marrow and soft tissues such as ligaments"
+      "Homatropine: reduces allergic symptoms",
+      "Ketotifen: reduces allergic symptoms",
+      "Homatropine: causes intermediate-duration cycloplegia",
+      "Ketotifen: causes intermediate-duration cycloplegia"
     ],
     "answer": "C"
   },
   {
+    "id": 42,
+    "type": "mcq",
+    "stem": "Which clinical use is MOST consistent with Homatropine based on the notes?",
+    "options": [
+      "Acute angle-closure treatment by pupillary dilation",
+      "Definitive treatment of uncomplicated dry eye regardless of cause",
+      "uveitis/ciliary spasm",
+      "Routine eradication of bacterial keratitis without antimicrobial therapy"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 43,
+    "type": "mcq",
+    "stem": "A patient is prescribed Phenylephrine. Which option BEST links this drug to its principal ocular mechanism?",
+    "options": [
+      "Atropine — blocks muscarinic receptors",
+      "Phenylephrine — stimulates alpha-adrenergic receptors in iris dilator",
+      "Atropine — stimulates alpha-adrenergic receptors in iris dilator",
+      "Phenylephrine — blocks muscarinic receptors"
+    ],
+    "answer": "B"
+  },
+  {
     "id": 44,
     "type": "mcq",
-    "stem": "A candidate must distinguish closely related musculoskeletal concepts. Which description is MOST specifically associated with bone scan?",
+    "stem": "A patient presents with short diagnostic mydriasis. Which drug-mechanism pairing is MOST defensible?",
     "options": [
-      "assessment of capillary refill rather than identification of areas of altered bone metabolic activity",
-      "direct measurement of joint range rather than identification of areas of altered bone metabolic activity",
-      "testing of muscle resistance rather than identification of areas of altered bone metabolic activity",
-      "identification of areas of altered bone metabolic activity"
+      "Phenylephrine: blocks muscarinic receptors",
+      "Atropine: stimulates alpha-adrenergic receptors in iris dilator",
+      "Phenylephrine: stimulates alpha-adrenergic receptors in iris dilator",
+      "Atropine: blocks muscarinic receptors"
     ],
-    "answer": "D"
+    "answer": "C"
   },
   {
     "id": 45,
     "type": "mcq",
-    "stem": "A candidate must distinguish closely related musculoskeletal concepts. Which description is MOST specifically associated with electromyography?",
+    "stem": "Which clinical use is MOST consistent with Phenylephrine based on the notes?",
     "options": [
-      "measurement of bone mineral density rather than assessment of electrical activity of skeletal muscle",
-      "inspection of skin color rather than assessment of electrical activity of skeletal muscle",
-      "assessment of electrical activity of skeletal muscle",
-      "visualization of fracture fragments rather than assessment of electrical activity of skeletal muscle"
+      "Definitive treatment of uncomplicated dry eye regardless of cause",
+      "Acute angle-closure treatment by pupillary dilation",
+      "short diagnostic mydriasis",
+      "Routine eradication of bacterial keratitis without antimicrobial therapy"
     ],
     "answer": "C"
   },
   {
     "id": 46,
     "type": "mcq",
-    "stem": "A candidate must distinguish closely related musculoskeletal concepts. Which description is MOST specifically associated with biopsy?",
+    "stem": "CASE STUDY: Prolonged Trifluridine therapy is followed by increasing corneal discomfort despite improving viral findings. Which interpretation or action is BEST?",
     "options": [
-      "noninvasive measurement of pulse rather than removal of tissue for pathological examination",
-      "traction adjustment rather than removal of tissue for pathological examination",
-      "passive joint movement rather than removal of tissue for pathological examination",
-      "removal of tissue for pathological examination"
+      "Normal response requiring no review",
+      "Possible corneal toxicity from prolonged therapy",
+      "Expected mydriatic effect",
+      "Acute fungal eradication"
     ],
-    "answer": "D"
+    "answer": "B"
   },
   {
     "id": 47,
     "type": "mcq",
-    "stem": "A candidate must distinguish closely related musculoskeletal concepts. Which description is MOST specifically associated with assessment?",
+    "stem": "CASE STUDY: Active HSV epithelial keratitis is present and topical corticosteroid monotherapy is prescribed. Which interpretation or action is BEST?",
     "options": [
-      "systematic collection of subjective and objective data",
-      "final comparison of outcomes only rather than systematic collection of subjective and objective data",
-      "medical diagnosis rather than systematic collection of subjective and objective data",
-      "implementation of interventions rather than systematic collection of subjective and objective data"
+      "Question the order because immunosuppression may worsen active viral infection",
+      "Replace with artificial tears only",
+      "Increase frequency to speed viral clearance",
+      "Give it because steroids eradicate HSV"
     ],
     "answer": "A"
   },
   {
     "id": 48,
     "type": "mcq",
-    "stem": "A candidate must distinguish closely related musculoskeletal concepts. Which description is MOST specifically associated with impaired physical mobility?",
+    "stem": "CASE STUDY: Prednisolone Acetate has been used for weeks and the patient reports halos and ocular pressure. Which interpretation or action is BEST?",
     "options": [
-      "a type of traction rather than nursing problem supported by restricted independent movement",
-      "a radiographic fracture classification rather than nursing problem supported by restricted independent movement",
-      "a laboratory diagnosis rather than nursing problem supported by restricted independent movement",
-      "nursing problem supported by restricted independent movement"
+      "Assume reduced IOP",
+      "Diagnose fungal keratitis immediately",
+      "Add phenylephrine without assessment",
+      "Check intraocular pressure for steroid-induced ocular hypertension"
     ],
     "answer": "D"
   },
   {
     "id": 49,
     "type": "mcq",
-    "stem": "A candidate must distinguish closely related musculoskeletal concepts. Which description is MOST specifically associated with rehabilitation?",
+    "stem": "CASE STUDY: A patient with a corneal epithelial defect is prescribed prolonged Ketorolac. Which interpretation or action is BEST?",
     "options": [
-      "restoration of function, mobility and independence after injury",
-      "radiographic exposure rather than restoration of function, mobility and independence after injury",
-      "permanent avoidance of activity rather than restoration of function, mobility and independence after injury",
-      "fracture classification rather than restoration of function, mobility and independence after injury"
-    ],
-    "answer": "A"
-  },
-  {
-    "id": 50,
-    "type": "mcq",
-    "stem": "A candidate must distinguish closely related musculoskeletal concepts. Which description is MOST specifically associated with assistive device?",
-    "options": [
-      "a type of bone graft rather than equipment such as a cane, crutch or walker used to support mobility",
-      "a traction weight rather than equipment such as a cane, crutch or walker used to support mobility",
-      "a diagnostic imaging modality rather than equipment such as a cane, crutch or walker used to support mobility",
-      "equipment such as a cane, crutch or walker used to support mobility"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": 51,
-    "type": "mcq",
-    "stem": "CASE STUDY: A client in lower-limb traction has slid toward the foot of the bed although the ropes remain in the pulley grooves and the weights are unobstructed. Which interpretation or action is BEST?",
-    "options": [
-      "Evidence that additional friction is needed",
-      "Proof that the fracture has united",
-      "Normal adaptation to traction",
-      "Loss of effective countertraction"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": 52,
-    "type": "mcq",
-    "stem": "CASE STUDY: A traction weight is found resting on the floor while the prescribed rope remains attached. Which interpretation or action is BEST?",
-    "options": [
-      "The traction force has doubled",
-      "Skeletal alignment is necessarily improved",
-      "The prescribed pulling force is no longer being delivered continuously",
-      "Countertraction has increased appropriately"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": 53,
-    "type": "mcq",
-    "stem": "CASE STUDY: A client with a fresh cast develops escalating pain unrelieved by analgesia, pallor, paresthesia and pain with passive stretch. Which interpretation or action is BEST?",
-    "options": [
-      "Expected cast drying",
-      "Normal dependent edema only",
-      "Routine muscle fatigue",
-      "Urgent neurovascular/compartment compromise"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": 54,
-    "type": "mcq",
-    "stem": "CASE STUDY: A client with a long-bone fracture suddenly becomes dyspneic and confused. Which interpretation or action is BEST?",
-    "options": [
-      "This is expected during callus formation",
-      "Fat embolism syndrome must be considered urgently",
-      "The finding proves pin-site infection",
-      "Delayed union is the most immediate concern"
+      "Expect increased corneal thickness",
+      "Monitor for corneal thinning or delayed healing",
+      "No special monitoring is needed",
+      "Add atropine to prevent toxicity"
     ],
     "answer": "B"
   },
   {
+    "id": 50,
+    "type": "mcq",
+    "stem": "CASE STUDY: Fungal keratitis follows trauma with plant matter and the infiltrate is worsening. Which interpretation or action is BEST?",
+    "options": [
+      "Urgent ophthalmology reassessment and antifungal review",
+      "Artificial tears only",
+      "Stop therapy because fungal treatment is always brief",
+      "Steroid monotherapy"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 51,
+    "type": "mcq",
+    "stem": "CASE STUDY: An immunocompromised patient has severe ocular viral disease. Which interpretation or action is BEST?",
+    "options": [
+      "Systemic therapy is never appropriate",
+      "Artificial tears are definitive treatment",
+      "Systemic therapy may be required in addition to topical treatment",
+      "Use phenylephrine as antiviral therapy"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 52,
+    "type": "mcq",
+    "stem": "CASE STUDY: A child receiving atropine develops dry mouth, fever, confusion and tachycardia. Which interpretation or action is BEST?",
+    "options": [
+      "Fungal toxicity",
+      "Expected antiviral reaction",
+      "H1 blockade",
+      "Systemic antimuscarinic absorption"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 53,
+    "type": "mcq",
+    "stem": "CASE STUDY: A patient with narrow-angle anatomy is scheduled for dilation. Which interpretation or action is BEST?",
+    "options": [
+      "Artificial tears pose the main angle-closure risk",
+      "Mast-cell stabilizers are absolutely contraindicated",
+      "Mydriatics can precipitate angle closure",
+      "Antivirals routinely close the angle"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 54,
+    "type": "mcq",
+    "stem": "CASE STUDY: A cardiovascular patient receives phenylephrine eye drops. Which interpretation or action is BEST?",
+    "options": [
+      "Expect nephrotoxicity",
+      "Expect bradycardia and hypotension",
+      "Expect 14-day cycloplegia",
+      "Monitor for tachycardia and hypertension"
+    ],
+    "answer": "D"
+  },
+  {
     "id": 55,
     "type": "mcq",
-    "stem": "CASE STUDY: A skeletal-traction pin site becomes increasingly erythematous, tender and draining. Which interpretation or action is BEST?",
+    "stem": "CASE STUDY: Artificial tears are used more than four times daily and irritation develops. Which interpretation or action is BEST?",
     "options": [
-      "Expected bone remodeling",
-      "Effective traction",
-      "Normal countertraction",
-      "Possible pin-site infection"
+      "Replace with phenylephrine",
+      "Add atropine",
+      "Increase preservative concentration",
+      "Switch to preservative-free tears"
     ],
     "answer": "D"
   },
   {
     "id": 56,
     "type": "mcq",
-    "stem": "CASE STUDY: A nurse must move a client receiving continuous traction. Which interpretation or action is BEST?",
+    "stem": "CASE STUDY: A contact-lens wearer is prescribed olopatadine. Which interpretation or action is BEST?",
     "options": [
-      "Increase friction in the pulley system",
-      "Place weights on the mattress during repositioning",
-      "Maintain the prescribed line of pull and keep weights freely suspended",
-      "Detach ropes before turning"
+      "Apply drops directly to the lens",
+      "Keep lenses in place to improve uptake",
+      "Wear lenses continuously during active irritation",
+      "Remove lenses before dosing and wait before reinsertion"
     ],
-    "answer": "C"
+    "answer": "D"
   },
   {
     "id": 57,
     "type": "mcq",
-    "stem": "CASE STUDY: A fresh plaster cast must be supported while still damp. Which interpretation or action is BEST?",
+    "stem": "CASE STUDY: A patient asks why Cromolyn did not give immediate relief. Which interpretation or action is BEST?",
     "options": [
-      "Use the palms rather than fingertips to avoid pressure dents",
-      "Rest it on a narrow hard edge",
-      "Grip firmly with fingertips to accelerate hardening",
-      "Cover tightly with plastic"
+      "Immediate relief is guaranteed",
+      "It only works after cycloplegia",
+      "It is primarily prophylactic and requires consistent use",
+      "It is an antiviral requiring activation"
     ],
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 58,
     "type": "mcq",
-    "stem": "CASE STUDY: A client reports itching beneath a cast. Which interpretation or action is BEST?",
+    "stem": "CASE STUDY: A patient with untreated bacterial ocular infection is using a topical steroid. Which interpretation or action is BEST?",
     "options": [
-      "Insert a narrow object to scratch the skin",
-      "Pour powder freely into the cast",
-      "Use safe measures and never insert objects beneath the cast",
-      "Soak the cast with water"
+      "Infection risk is unchanged",
+      "Local immunosuppression may worsen infection",
+      "Steroid is definitive antibacterial therapy",
+      "Steroid accelerates wound healing"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 59,
     "type": "mcq",
-    "stem": "CASE STUDY: A client has no visible deformity after trauma but has pain, swelling and loss of function. Which interpretation or action is BEST?",
+    "stem": "CASE STUDY: A patient improves after prolonged topical corticosteroid therapy. Which interpretation or action is BEST?",
     "options": [
-      "Delay assessment until bruising appears",
-      "Exclude fracture because deformity is absent",
-      "Continue focused fracture and neurovascular assessment",
-      "Begin unrestricted exercise"
+      "Always stop abruptly",
+      "Gradual tapering may be needed to prevent rebound inflammation",
+      "Double the dose before stopping",
+      "Switch automatically to phenylephrine"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 60,
     "type": "mcq",
-    "stem": "CASE STUDY: A client cannot actively move a joint fully, but the examiner obtains a much greater passive range. Which interpretation or action is BEST?",
+    "stem": "CASE STUDY: A single-use artificial tear vial has been opened. Which interpretation or action is BEST?",
     "options": [
-      "Assume the passive finding is invalid",
-      "Conclude that muscle function is normal",
-      "Consider weakness or impaired active motor function in addition to joint restriction",
-      "Diagnose fixed ankylosis immediately"
+      "Share with family",
+      "Refill with sterile water",
+      "Discard after use",
+      "Store for a week"
     ],
     "answer": "C"
   },
   {
     "id": 61,
     "type": "mcq",
-    "stem": "CASE STUDY: After extremity immobilization the nurse compares distal pulse, color, temperature, refill, sensation and movement with the opposite side. Which interpretation or action is BEST?",
+    "stem": "CASE STUDY: Short diagnostic dilation is needed without loss of accommodation. Which interpretation or action is BEST?",
     "options": [
-      "This establishes fracture union",
-      "This replaces pain assessment",
-      "This is a focused neurovascular comparison",
-      "This primarily assesses endocrine status"
+      "Homatropine is an alpha agonist",
+      "Phenylephrine is preferred over cycloplegics",
+      "Cyclopentolate is non-cycloplegic",
+      "Atropine causes no cycloplegia"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 62,
     "type": "mcq",
-    "stem": "CASE STUDY: A client recovering from fracture has been immobile for several days. Which interpretation or action is BEST?",
+    "stem": "CASE STUDY: Anterior uveitis is causing painful ciliary spasm. Which interpretation or action is BEST?",
     "options": [
-      "Prescribed repositioning, unaffected-joint exercise and pulmonary exercises reduce immobility complications",
-      "Deep breathing should be avoided",
-      "Complete inactivity best preserves all function",
-      "Self-care should be performed entirely by staff"
+      "Cycloplegic mydriatics can reduce spasm and help prevent posterior synechiae",
+      "Natamycin is first-line for ciliary spasm",
+      "Artificial tears prevent synechiae",
+      "Ketorolac causes prolonged cycloplegia"
     ],
     "answer": "A"
   },
   {
     "id": 63,
     "type": "mcq",
-    "stem": "CASE STUDY: A client is preparing for discharge with crutches after fracture treatment. Which interpretation or action is BEST?",
+    "stem": "CASE STUDY: Ophthalmic ointment is prescribed. Which interpretation or action is BEST?",
     "options": [
-      "Advise unrestricted weight bearing once pain decreases",
-      "Teach device use, weight-bearing restrictions, exercises and warning signs",
-      "Stop rehabilitation after discharge",
-      "Ignore new numbness if the cast is intact"
+      "Apply directly to corneal center",
+      "Apply only to external eyelid skin",
+      "Apply a thin ribbon into the conjunctival sac without touching the tip",
+      "Touch tube tip to lashes"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 64,
     "type": "mcq",
-    "stem": "CASE STUDY: A nurse is planning rehabilitation after prolonged immobilization. Which interpretation or action is BEST?",
+    "stem": "CASE STUDY: Drops are ordered for the right eye only. Which interpretation or action is BEST?",
     "options": [
-      "Focus only on radiographic appearance",
-      "Delay all rehabilitation until every symptom disappears",
-      "Avoid activities of daily living",
-      "Promote gradual functional independence and prescribed range of motion"
+      "Instill in both eyes",
+      "Reuse tip between patients if wiped",
+      "Touch tip to conjunctiva",
+      "Confirm correct eye and avoid contaminating the dropper tip"
     ],
     "answer": "D"
   },
   {
     "id": 65,
     "type": "mcq",
-    "stem": "CASE STUDY: A client with an open fracture arrives for emergency care. Which interpretation or action is BEST?",
+    "stem": "CASE STUDY: Topical antifungal therapy is followed by increasing infiltrate and vision loss. Which interpretation or action is BEST?",
     "options": [
-      "Perform repeated active movement",
-      "Protect the wound from contamination while stabilizing the injury and assessing circulation",
-      "Postpone neurovascular assessment",
-      "Push exposed bone back through the wound"
+      "Stop monitoring",
+      "Add contact lenses",
+      "Worsening infection requiring urgent review",
+      "Expected improvement"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 66,
     "type": "mcq",
-    "stem": "CASE STUDY: A suspected fracture is splinted before transport. Which interpretation or action is BEST?",
+    "stem": "CASE STUDY: Systemic Amphotericin B is followed by rising creatinine. Which interpretation or action is BEST?",
     "options": [
-      "Tighten until the distal pulse disappears",
-      "Immobilize the injury and joints above and below without worsening distal perfusion",
-      "Leave the fracture unsupported to assess motion",
-      "Force the limb into anatomical alignment regardless of resistance"
+      "H1 blockade",
+      "Expected effect of artificial tears",
+      "Cycloplegia",
+      "Nephrotoxicity"
     ],
-    "answer": "B"
+    "answer": "D"
   },
   {
     "id": 67,
     "type": "mcq",
-    "stem": "CASE STUDY: A client with an immobilized leg develops unilateral calf swelling and discomfort. Which interpretation or action is BEST?",
+    "stem": "CASE STUDY: Antiviral drops cause mild transient blur immediately after dosing without other deterioration. Which interpretation or action is BEST?",
     "options": [
-      "Assume it is always normal",
-      "Encourage vigorous massage before assessment",
-      "Consider a venous thromboembolic complication of immobility",
-      "Interpret it as proof of fracture union"
+      "Explain this may occur but persistent or worsening symptoms require review",
+      "Double the next dose",
+      "Stop permanently without assessment",
+      "Declare retinal toxicity immediately"
     ],
-    "answer": "C"
+    "answer": "A"
   },
   {
     "id": 68,
     "type": "mcq",
-    "stem": "CASE STUDY: A musculoskeletal examination is being performed. Which interpretation or action is BEST?",
+    "stem": "CASE STUDY: NSAID drops are followed by persistent ocular pain and vision change. Which interpretation or action is BEST?",
     "options": [
-      "Assess only the painful site without comparison",
-      "Rely exclusively on inspection",
-      "Integrate inspection, palpation, movement, strength and neurovascular assessment",
-      "Omit functional assessment if imaging is ordered"
+      "Report promptly because corneal complications are possible",
+      "Increase dose independently",
+      "Add steroid without evaluation",
+      "Continue indefinitely"
     ],
-    "answer": "C"
+    "answer": "A"
   },
   {
     "id": 69,
     "type": "mcq",
-    "stem": "CASE STUDY: A clinician needs detailed assessment of ligamentous and marrow structures after joint trauma. Which interpretation or action is BEST?",
+    "stem": "CASE STUDY: Long-term ocular steroid use is followed by delayed epithelial healing. Which interpretation or action is BEST?",
     "options": [
-      "EMG is the primary bone image",
-      "A bone scan directly measures ligament tensile strength",
-      "MRI is generally more informative than plain radiography for these soft-tissue structures",
-      "Biopsy is always first-line"
+      "This proves antiviral failure",
+      "This is a recognized corticosteroid risk",
+      "This is the action of artificial tears",
+      "This is caused by H1 blockade"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 70,
     "type": "mcq",
-    "stem": "CASE STUDY: A complex fracture near a joint requires detailed cross-sectional definition of bony fragments. Which interpretation or action is BEST?",
+    "stem": "CASE STUDY: The nurse wants to reduce systemic absorption after eye-drop instillation. Which interpretation or action is BEST?",
     "options": [
-      "Passive ROM provides equivalent anatomy",
-      "EMG is the preferred fracture map",
-      "CT is particularly useful",
-      "Pulmonary function testing is required"
+      "Use punctal occlusion",
+      "Increase drop volume",
+      "Massage lacrimal sac vigorously",
+      "Ask the patient to blink repeatedly"
     ],
-    "answer": "C"
+    "answer": "A"
   },
   {
     "id": 71,
     "type": "fitb",
-    "stem": "A twisting fracture around the long axis is a ___ fracture.",
-    "answer": "spiral",
+    "stem": "Ganciclovir inhibits viral ___ polymerase.",
+    "answer": "DNA",
     "acceptableAnswers": [
-      "spiral",
-      "spiral fracture"
+      "DNA",
+      "viral DNA"
     ]
   },
   {
     "id": 72,
     "type": "fitb",
-    "stem": "A bone broken into multiple fragments is described as ___.",
-    "answer": "comminuted",
+    "stem": "Trifluridine is incorporated into viral ___ and inhibits replication.",
+    "answer": "DNA",
     "acceptableAnswers": [
-      "comminuted",
-      "comminuted fracture"
+      "DNA",
+      "viral DNA"
     ]
   },
   {
     "id": 73,
     "type": "fitb",
-    "stem": "A fracture through diseased or weakened bone is a ___ fracture.",
-    "answer": "pathological",
+    "stem": "Acyclovir must be converted to an ___ form before inhibiting viral DNA polymerase.",
+    "answer": "active",
     "acceptableAnswers": [
-      "pathological",
-      "pathologic",
-      "pathological fracture",
-      "pathologic fracture"
+      "active",
+      "active form"
     ]
   },
   {
     "id": 74,
     "type": "fitb",
-    "stem": "A fragment driven into another fragment produces an ___ fracture.",
-    "answer": "impacted",
+    "stem": "Prolonged Trifluridine therapy requires monitoring for corneal ___.",
+    "answer": "toxicity",
     "acceptableAnswers": [
-      "impacted",
-      "impacted fracture"
+      "toxicity",
+      "corneal toxicity"
     ]
   },
   {
     "id": 75,
     "type": "fitb",
-    "stem": "The grating produced by movement of fractured bone ends is ___.",
-    "answer": "crepitus",
+    "stem": "Natamycin binds fungal membrane sterols such as ___.",
+    "answer": "ergosterol",
     "acceptableAnswers": [
-      "crepitus"
+      "ergosterol"
     ]
   },
   {
     "id": 76,
     "type": "fitb",
-    "stem": "The therapeutic pulling force used to maintain alignment is ___.",
-    "answer": "traction",
+    "stem": "Voriconazole inhibits fungal ___ synthesis.",
+    "answer": "ergosterol",
     "acceptableAnswers": [
-      "traction"
+      "ergosterol",
+      "ergosterol synthesis"
     ]
   },
   {
     "id": 77,
     "type": "fitb",
-    "stem": "The opposing force balancing traction is ___.",
-    "answer": "countertraction",
+    "stem": "Trauma with ___ matter is a classic clue to fungal keratitis.",
+    "answer": "organic",
     "acceptableAnswers": [
-      "countertraction",
-      "counter-traction"
+      "organic",
+      "plant",
+      "vegetative",
+      "organic matter"
     ]
   },
   {
     "id": 78,
     "type": "fitb",
-    "stem": "Traction applied through a pin or wire inserted into bone is ___ traction.",
-    "answer": "skeletal",
+    "stem": "Systemic Amphotericin B may cause ___.",
+    "answer": "nephrotoxicity",
     "acceptableAnswers": [
-      "skeletal",
-      "skeletal traction"
+      "nephrotoxicity",
+      "renal toxicity"
     ]
   },
   {
     "id": 79,
     "type": "fitb",
-    "stem": "Pain out of proportion to injury with pain on passive stretch strongly suggests ___ syndrome.",
-    "answer": "compartment",
+    "stem": "Prednisolone Acetate ophthalmic suspension should be ___ before use.",
+    "answer": "shaken",
     "acceptableAnswers": [
-      "compartment",
-      "compartment syndrome"
+      "shaken",
+      "shake",
+      "shaken well"
     ]
   },
   {
     "id": 80,
     "type": "fitb",
-    "stem": "Acute respiratory and neurologic deterioration after long-bone fracture suggests ___ embolism syndrome.",
-    "answer": "fat",
+    "stem": "Prolonged ophthalmic corticosteroid use can increase ___.",
+    "answer": "IOP",
     "acceptableAnswers": [
-      "fat",
-      "fat embolism",
-      "fat embolism syndrome"
+      "IOP",
+      "intraocular pressure"
     ]
   },
   {
     "id": 81,
     "type": "fitb",
-    "stem": "During effective traction, weights hang ___ and ropes move freely through the ___.",
-    "answer": "freely; pulleys",
+    "stem": "Topical corticosteroids may delay wound ___ and increase infection risk.",
+    "answer": "healing",
     "acceptableAnswers": [
-      "freely; pulleys",
-      "free; pulleys",
-      "freely; pulley"
+      "healing",
+      "wound healing"
     ]
   },
   {
     "id": 82,
     "type": "fitb",
-    "stem": "Distal pulse, capillary refill, color, temperature, sensation and movement assess ___ status.",
-    "answer": "neurovascular",
+    "stem": "Ketorolac inhibits ___ enzymes.",
+    "answer": "COX",
     "acceptableAnswers": [
-      "neurovascular",
-      "neurovascular status"
+      "COX",
+      "cyclooxygenase",
+      "cyclooxygenase enzymes"
     ]
   },
   {
     "id": 83,
     "type": "fitb",
-    "stem": "A fresh plaster cast should be handled with the ___ rather than the ___.",
-    "answer": "palms; fingertips",
+    "stem": "Prolonged topical NSAID use can contribute to corneal ___.",
+    "answer": "thinning",
     "acceptableAnswers": [
-      "palms; fingertips",
-      "palms of the hands; fingertips"
+      "thinning",
+      "corneal thinning",
+      "damage",
+      "corneal damage"
     ]
   },
   {
     "id": 84,
     "type": "fitb",
-    "stem": "Increasing redness and drainage around a traction pin suggest pin-site ___.",
-    "answer": "infection",
+    "stem": "Antihistamine drops relieve allergy mainly by blocking ___ receptors.",
+    "answer": "H1",
     "acceptableAnswers": [
-      "infection",
-      "pin-site infection",
-      "pin site infection"
+      "H1",
+      "H1 receptors"
     ]
   },
   {
     "id": 85,
     "type": "fitb",
-    "stem": "Muscle contraction without joint movement is called an ___ exercise.",
-    "answer": "isometric",
+    "stem": "Mast-cell stabilizers provide mainly ___ relief by preventing histamine release.",
+    "answer": "prophylactic",
     "acceptableAnswers": [
-      "isometric",
-      "isometric exercise"
+      "prophylactic",
+      "preventive",
+      "preventative"
     ]
   },
   {
     "id": 86,
     "type": "fitb",
-    "stem": "Movement generated by the client's own muscles is ___ ROM, whereas examiner-produced movement is ___ ROM.",
-    "answer": "active; passive",
+    "stem": "Artificial tears provide ocular-surface ___ and moisture.",
+    "answer": "lubrication",
     "acceptableAnswers": [
-      "active; passive",
-      "active range of motion; passive range of motion",
-      "AROM; PROM"
+      "lubrication"
     ]
   },
   {
     "id": 87,
     "type": "fitb",
-    "stem": "The first nursing-process phase is ___ and the final phase is ___.",
-    "answer": "assessment; evaluation",
+    "stem": "For very frequent artificial-tear use, ___-free formulations are preferred.",
+    "answer": "preservative",
     "acceptableAnswers": [
-      "assessment; evaluation"
+      "preservative",
+      "preservative-free"
     ]
   },
   {
     "id": 88,
     "type": "fitb",
-    "stem": "Restricted independent movement commonly supports the nursing diagnosis impaired physical ___.",
-    "answer": "mobility",
+    "stem": "Cycloplegic mydriatics block ___ receptors.",
+    "answer": "muscarinic",
     "acceptableAnswers": [
-      "mobility",
-      "physical mobility"
+      "muscarinic",
+      "muscarinic receptors"
     ]
   },
   {
     "id": 89,
     "type": "fitb",
-    "stem": "Crutches, canes and walkers are ___ devices used to improve safe ___.",
-    "answer": "assistive; mobility",
+    "stem": "Phenylephrine stimulates ___-adrenergic receptors.",
+    "answer": "alpha",
     "acceptableAnswers": [
-      "assistive; mobility",
-      "assistive devices; mobility"
+      "alpha",
+      "α",
+      "alpha-adrenergic"
     ]
   },
   {
     "id": 90,
     "type": "fitb",
-    "stem": "Deep breathing and coughing during immobility help reduce ___ complications.",
-    "answer": "respiratory",
+    "stem": "Cycloplegic drugs cause mydriasis plus ___.",
+    "answer": "cycloplegia",
     "acceptableAnswers": [
-      "respiratory",
-      "pulmonary",
-      "respiratory complications",
-      "pulmonary complications"
+      "cycloplegia"
     ]
   },
   {
     "id": 91,
     "type": "fitb",
-    "stem": "Plain ___ is commonly used initially for fractures, while ___ gives detailed cross-sectional bony anatomy.",
-    "answer": "radiography; CT",
+    "stem": "Phenylephrine causes mydriasis without ___.",
+    "answer": "cycloplegia",
     "acceptableAnswers": [
-      "radiography; CT",
-      "X-ray; CT",
-      "x ray; computed tomography"
+      "cycloplegia"
     ]
   },
   {
     "id": 92,
     "type": "fitb",
-    "stem": "___ is particularly useful for marrow and ligamentous soft tissues, whereas ___ evaluates muscle electrical activity.",
-    "answer": "MRI; electromyography",
+    "stem": "Atropine may cause mydriasis and cycloplegia lasting about ___ to ___ days.",
+    "answer": "7; 14",
     "acceptableAnswers": [
-      "MRI; electromyography",
-      "magnetic resonance imaging; EMG",
-      "MRI; EMG"
+      "7; 14",
+      "7-14",
+      "7 to 14",
+      "7–14"
     ]
   },
   {
     "id": 93,
     "type": "fitb",
-    "stem": "A bone ___ identifies altered bone metabolic activity; a tissue ___ permits pathological examination.",
-    "answer": "scan; biopsy",
+    "stem": "Phenylephrine typically begins acting in about ___ to ___ minutes.",
+    "answer": "15; 30",
     "acceptableAnswers": [
-      "scan; biopsy",
-      "bone scan; biopsy"
+      "15; 30",
+      "15-30",
+      "15 to 30",
+      "15–30"
     ]
   },
   {
     "id": 94,
     "type": "fitb",
-    "stem": "Restoration of function and independence after injury is called ___.",
-    "answer": "rehabilitation",
+    "stem": "Cyclopentolate generally lasts about ___ to ___ hours.",
+    "answer": "6; 24",
     "acceptableAnswers": [
-      "rehabilitation",
-      "physical rehabilitation"
+      "6; 24",
+      "6-24",
+      "6 to 24",
+      "6–24"
     ]
   },
   {
     "id": 95,
     "type": "fitb",
-    "stem": "CASE: Increasing pain, pallor and paresthesia beneath a cast require urgent ___ assessment for possible ___ compromise.",
-    "answer": "neurovascular; compartment",
+    "stem": "Punctal ___ can reduce nasolacrimal drainage and systemic absorption.",
+    "answer": "occlusion",
     "acceptableAnswers": [
-      "neurovascular; compartment",
-      "neurovascular; compartment syndrome"
+      "occlusion",
+      "punctal occlusion"
     ]
   },
   {
     "id": 96,
     "type": "fitb",
-    "stem": "CASE: A client sliding toward the traction pull suggests inadequate ___ even if the weights remain ___.",
-    "answer": "countertraction; suspended",
+    "stem": "Before ophthalmic administration, verify the correct ___: OD, OS, or OU.",
+    "answer": "eye",
     "acceptableAnswers": [
-      "countertraction; suspended",
-      "countertraction; freely suspended",
-      "counter-traction; suspended"
+      "eye",
+      "correct eye",
+      "affected eye"
     ]
   },
   {
     "id": 97,
     "type": "fitb",
-    "stem": "CASE: To preserve function during immobilization, prescribed ___ exercises can contract muscles without joint movement, while ___ exercises preserve joint excursion.",
-    "answer": "isometric; range-of-motion",
+    "stem": "The dropper tip must not touch the eye or other ___.",
+    "answer": "surfaces",
     "acceptableAnswers": [
-      "isometric; range-of-motion",
-      "isometric; ROM",
-      "isometric exercises; range of motion"
+      "surfaces",
+      "surface",
+      "objects"
     ]
   },
   {
     "id": 98,
     "type": "fitb",
-    "stem": "CASE: In a limb examination, ___ assesses tenderness and temperature, while movement against ___ helps assess muscle power.",
-    "answer": "palpation; resistance",
+    "stem": "Ophthalmic ointment is applied as a thin ___ into the conjunctival sac.",
+    "answer": "ribbon",
     "acceptableAnswers": [
-      "palpation; resistance"
+      "ribbon",
+      "thin ribbon"
     ]
   },
   {
     "id": 99,
     "type": "fitb",
-    "stem": "CASE: Three major nursing priorities after fracture immobilization are maintaining ___ integrity, preserving ___ function, and detecting ___ compromise early.",
-    "answer": "skin; respiratory; neurovascular",
+    "stem": "In active HSV keratitis, corticosteroids may worsen infection because of local ___.",
+    "answer": "immunosuppression",
     "acceptableAnswers": [
-      "skin; respiratory; neurovascular",
-      "skin integrity; respiratory; neurovascular"
+      "immunosuppression",
+      "immune suppression"
     ]
   },
   {
     "id": 100,
     "type": "fitb",
-    "stem": "CASE: Safe discharge after fracture requires adherence to ___ restrictions, correct use of ___ devices, and prompt reporting of new ___ symptoms.",
-    "answer": "weight-bearing; assistive; neurovascular",
+    "stem": "Frequent antifungal dosing may be required because topical penetration into deeper ocular tissues can be ___.",
+    "answer": "poor",
     "acceptableAnswers": [
-      "weight-bearing; assistive; neurovascular",
-      "weight bearing; assistive; neurovascular"
+      "poor",
+      "limited",
+      "poor penetration"
     ]
   }
 ]
