@@ -1,102 +1,1165 @@
 [
-  {"id": 1, "type": "mcq", "stem": "Ganciclovir gel for HSV/CMV ocular infection is typically instilled at which frequency, according to the administration guidance?", "options": ["Once daily", "5 times daily", "Every 1–2 hours initially", "Up to 9 times daily initially"], "answer": "B"},
-  {"id": 2, "type": "mcq", "stem": "Trifluridine drops are initially dosed up to how many times daily before tapering?", "options": ["4 times daily", "5 times daily", "7 times daily", "9 times daily"], "answer": "D"},
-  {"id": 3, "type": "mcq", "stem": "Corneal toxicity with Trifluridine should specifically be monitored for when use exceeds which duration?", "options": ["7 days", "14 days", "21 days", "30 days"], "answer": "C"},
-  {"id": 4, "type": "mcq", "stem": "Which topical antiviral requires conversion to an active form before it can inhibit viral DNA polymerase?", "options": ["Ganciclovir", "Trifluridine", "Acyclovir", "Natamycin"], "answer": "C"},
-  {"id": 5, "type": "mcq", "stem": "Which topical antiviral agent works by being incorporated directly into viral DNA to inhibit replication, rather than inhibiting a viral enzyme?", "options": ["Ganciclovir", "Trifluridine", "Acyclovir", "Voriconazole"], "answer": "B"},
-  {"id": 6, "type": "mcq", "stem": "A nurse assessing a client for HSV keratitis should specifically look for which classic corneal finding, confirmed via fluorescein staining?", "options": ["Hypopyon", "Dendritic ulcers", "Corneal infiltrates with feathery margins", "Punctate epithelial erosions only, without ulceration"], "answer": "B"},
-  {"id": 7, "type": "mcq", "stem": "According to the pharmacokinetics of topical antivirals, which best describes their onset and duration?", "options": ["Onset within minutes; duration 6–12 hours", "Onset within hours; duration 2–4 hours, requiring frequent dosing", "Onset within days; duration 24 hours", "Onset within hours; duration 4–6 hours"], "answer": "B"},
-  {"id": 8, "type": "mcq", "stem": "For which topical antiviral agent is refrigeration specifically noted as a storage instruction, if specified by the manufacturer?", "options": ["Ganciclovir", "Trifluridine", "Acyclovir", "Voriconazole"], "answer": "B"},
-  {"id": 9, "type": "mcq", "stem": "Which population requires special caution with topical antiviral therapy, potentially needing systemic therapy in addition?", "options": ["Pediatric patients only", "Immunocompromised patients", "Patients with narrow-angle glaucoma", "Patients using contact lenses"], "answer": "B"},
-  {"id": 10, "type": "mcq", "stem": "Natamycin exerts its fungicidal effect against filamentous fungi such as Aspergillus and Fusarium primarily by which mechanism?", "options": ["Inhibiting ergosterol synthesis", "Binding fungal cell membrane sterols (ergosterol), causing membrane disruption", "Inhibiting fungal DNA polymerase", "Blocking fungal cell wall glucan synthesis"], "answer": "B"},
-  {"id": 11, "type": "mcq", "stem": "Which antifungal agent inhibits ergosterol SYNTHESIS (rather than binding existing ergosterol), disrupting the fungal cell membrane?", "options": ["Natamycin", "Amphotericin B", "Voriconazole", "Ganciclovir"], "answer": "C"},
-  {"id": 12, "type": "mcq", "stem": "Amphotericin B exerts its broad-spectrum antifungal effect by which specific mechanism?", "options": ["Inhibiting ergosterol synthesis", "Binding to ergosterol and forming pores in the fungal cell membrane", "Incorporating into fungal DNA", "Inhibiting fungal cyclooxygenase"], "answer": "B"},
-  {"id": 13, "type": "mcq", "stem": "A history of ocular trauma involving organic material such as plant matter should raise suspicion for which type of ocular infection?", "options": ["Bacterial keratitis", "Fungal keratitis", "Viral keratitis", "Allergic conjunctivitis"], "answer": "B"},
-  {"id": 14, "type": "mcq", "stem": "Natamycin drops are typically instilled at which INITIAL frequency for fungal keratitis?", "options": ["Once daily", "Every 4–6 hours", "Every 1–2 hours initially, then tapered", "Twice weekly"], "answer": "C"},
-  {"id": 15, "type": "mcq", "stem": "A key nursing administration step specific to Natamycin, related to its formulation, is to:", "options": ["Refrigerate at all times regardless of manufacturer instructions", "Shake the suspension well before instillation", "Dilute with sterile water before use", "Warm to room temperature for 30 minutes before use"], "answer": "B"},
-  {"id": 16, "type": "mcq", "stem": "Systemic Amphotericin B carries a specific risk of which adverse effect that should be monitored, distinct from its topical ocular side effects?", "options": ["Hepatotoxicity", "Nephrotoxicity", "Ototoxicity", "Cardiotoxicity"], "answer": "B"},
-  {"id": 17, "type": "mcq", "stem": "Why should compounded Amphotericin B formulations be used with particular caution?", "options": ["They are always more potent than commercial formulations", "They may have inconsistent potency", "They are contraindicated in all fungal infections", "They cause immediate systemic absorption"], "answer": "B"},
-  {"id": 18, "type": "mcq", "stem": "Topical antifungal agents are noted to have which characteristic limitation regarding tissue penetration?", "options": ["Excellent penetration into deeper ocular tissues", "Poor penetration into deeper tissues", "Complete systemic absorption", "No penetration of the corneal epithelium at all"], "answer": "B"},
-  {"id": 19, "type": "mcq", "stem": "Patient education for antifungal therapy should emphasize that treatment often needs to continue for which duration, due to slow fungal clearance?", "options": ["1–3 days", "1 week only", "Weeks to months", "A single application is usually curative"], "answer": "C"},
-  {"id": 20, "type": "mcq", "stem": "Corticosteroids such as Prednisolone Acetate reduce ocular inflammation primarily by inhibiting which inflammatory mediators?", "options": ["Histamine and leukotrienes only", "Prostaglandins and cytokines", "Acetylcholine and norepinephrine", "Complement proteins exclusively"], "answer": "B"},
-  {"id": 21, "type": "mcq", "stem": "Which of the following is an ABSOLUTE or STRONG contraindication to topical corticosteroid use, due to the risk of worsening infection through immunosuppression?", "options": ["Post-operative inflammation", "Untreated fungal, viral, or bacterial infection", "Seasonal allergic conjunctivitis", "Mild dry eye syndrome"], "answer": "B"},
-  {"id": 22, "type": "mcq", "stem": "Glaucoma is considered which type of contraindication to corticosteroid therapy, given the risk of increased IOP?", "options": ["Absolute contraindication in all cases", "Relative contraindication", "Not a contraindication at all", "Contraindication only for oral steroids, never topical"], "answer": "B"},
-  {"id": 23, "type": "mcq", "stem": "A nursing priority before initiating corticosteroid therapy is to screen for which condition, given the risk of exacerbation?", "options": ["Seasonal allergies", "Herpes keratitis", "Dry eye syndrome", "Presbyopia"], "answer": "B"},
-  {"id": 24, "type": "mcq", "stem": "Why must corticosteroid doses be tapered gradually rather than stopped abruptly?", "options": ["To avoid rebound inflammation", "To prevent systemic hypertension", "To avoid mydriasis", "To prevent corneal neovascularization exclusively"], "answer": "A"},
-  {"id": 25, "type": "mcq", "stem": "Which ocular side effect of prolonged corticosteroid use is specifically related to lens opacification, distinct from the IOP-related risk?", "options": ["Cataract formation", "Increased IOP", "Delayed wound healing", "Increased infection risk"], "answer": "A"},
-  {"id": 26, "type": "mcq", "stem": "NSAID eye drops such as Ketorolac reduce inflammation by inhibiting which enzyme?", "options": ["Lipoxygenase", "Cyclooxygenase (COX)", "Xanthine oxidase", "Carbonic anhydrase"], "answer": "B"},
-  {"id": 27, "type": "mcq", "stem": "Topical NSAID eye drops are contraindicated in patients with which specific corneal finding?", "options": ["Corneal epithelial defects", "Corneal arcus", "Corneal pannus", "Corneal guttata"], "answer": "A"},
-  {"id": 28, "type": "mcq", "stem": "A rare but serious ocular complication of prolonged topical NSAID use is:", "options": ["Corneal neovascularization", "Corneal thinning", "Retinal detachment", "Optic neuritis"], "answer": "B"},
-  {"id": 29, "type": "mcq", "stem": "Before administering topical NSAID drops, the nurse should instruct the patient to:", "options": ["Insert contact lenses immediately afterward", "Remove contact lenses before use", "Double the dose if pain persists", "Avoid blinking for 10 minutes"], "answer": "B"},
-  {"id": 30, "type": "mcq", "stem": "Topical NSAID drops for post-operative cataract inflammation are typically administered at which frequency?", "options": ["Once daily", "3–4 times daily", "Every hour around the clock", "Once weekly"], "answer": "B"},
-  {"id": 31, "type": "mcq", "stem": "Antihistamine eye drops such as Olopatadine relieve itching and redness primarily by which mechanism?", "options": ["Blocking H1 receptors", "Preventing mast-cell histamine release", "Inhibiting cyclooxygenase", "Blocking muscarinic receptors"], "answer": "A"},
-  {"id": 32, "type": "mcq", "stem": "Mast cell stabilizers such as Cromolyn provide relief from allergic conjunctivitis by which mechanism, distinct from antihistamines?", "options": ["Blocking H1 receptors directly", "Preventing histamine release from mast cells, providing prophylactic relief", "Inhibiting prostaglandin synthesis", "Causing pupillary constriction"], "answer": "B"},
-  {"id": 33, "type": "mcq", "stem": "Comparing onset of action, antihistamines act within minutes, whereas mast cell stabilizers such as Cromolyn require which timeframe to achieve effect?", "options": ["Seconds", "Minutes, identical to antihistamines", "Days, due to their prophylactic mechanism", "Immediate onset with no delay"], "answer": "C"},
-  {"id": 34, "type": "mcq", "stem": "A contact lens wearer using antihistamine/mast cell stabilizer drops should be instructed to wait how long after instillation before reinserting lenses?", "options": ["No waiting period is necessary", "10–15 minutes", "1 hour", "24 hours"], "answer": "B"},
-  {"id": 35, "type": "mcq", "stem": "Patient education for Cromolyn specifically should emphasize which point about its use pattern?", "options": ["It should only be used as needed during acute flares", "It requires consistent, regular use for prevention rather than acute relief", "It works faster than antihistamines", "It cures allergic conjunctivitis permanently after one course"], "answer": "B"},
-  {"id": 36, "type": "mcq", "stem": "Artificial tears containing agents such as carboxymethylcellulose, hyaluronic acid, or polyvinyl alcohol act primarily by which mechanism?", "options": ["Suppressing inflammatory mediators", "Mimicking natural tears to provide lubrication and moisture", "Blocking histamine release", "Inhibiting bacterial cell wall synthesis"], "answer": "B"},
-  {"id": 37, "type": "mcq", "stem": "For a client using artificial tears more than 4 times daily, which formulation should be recommended to minimize preservative-related toxicity?", "options": ["A formulation with a higher preservative concentration", "A preservative-free formulation", "Any formulation is equally acceptable", "A formulation containing benzalkonium chloride specifically"], "answer": "B"},
-  {"id": 38, "type": "mcq", "stem": "Single-use vials of artificial tears should be handled by the nurse/client in which manner after use?", "options": ["Refrigerated and reused for up to a week", "Discarded after use to prevent bacterial growth", "Refilled with sterile saline for reuse", "Shared among family members with similar symptoms"], "answer": "B"},
-  {"id": 39, "type": "mcq", "stem": "Which class of ocular medication is specifically noted to provide immediate relief with minimal systemic absorption and duration of only 1–4 hours?", "options": ["Corticosteroids", "Cycloplegic mydriatics", "Artificial tears and lubricants", "Antifungal agents"], "answer": "C"},
-  {"id": 40, "type": "mcq", "stem": "Cycloplegic mydriatics such as Atropine, Homatropine, and Cyclopentolate produce mydriasis and cycloplegia through which mechanism?", "options": ["Stimulating alpha-adrenergic receptors in the iris dilator muscle", "Blocking muscarinic receptors in the iris sphincter and ciliary muscle", "Inhibiting cyclooxygenase in the ciliary body", "Blocking H1 receptors in the conjunctiva"], "answer": "B"},
-  {"id": 41, "type": "mcq", "stem": "Phenylephrine, classified as a non-cycloplegic mydriatic, produces pupil dilation through which mechanism?", "options": ["Blocking muscarinic receptors in the iris sphincter", "Stimulating alpha-adrenergic receptors in the iris dilator muscle", "Inhibiting acetylcholinesterase in the ciliary muscle", "Blocking beta-adrenergic receptors in the trabecular meshwork"], "answer": "B"},
-  {"id": 42, "type": "mcq", "stem": "Why does Phenylephrine NOT cause cycloplegia, unlike Atropine, Homatropine, and Cyclopentolate?", "options": ["It has no effect on the iris at all", "It acts via alpha-adrenergic stimulation of the iris dilator rather than muscarinic blockade of the ciliary muscle", "It is metabolized before reaching the ciliary muscle", "It only works in patients under general anesthesia"], "answer": "B"},
-  {"id": 43, "type": "mcq", "stem": "Ranking the FOUR mydriatic agents discussed by DURATION of action from SHORTEST to LONGEST, which sequence is correct?", "options": ["Atropine, Homatropine, Cyclopentolate, Phenylephrine", "Phenylephrine, Cyclopentolate, Homatropine, Atropine", "Cyclopentolate, Phenylephrine, Atropine, Homatropine", "Homatropine, Atropine, Phenylephrine, Cyclopentolate"], "answer": "B"},
-  {"id": 44, "type": "mcq", "stem": "Phenylephrine's onset of action and duration are best described as:", "options": ["Onset 15–30 minutes; duration 1–3 hours, no cycloplegia", "Onset 30–60 minutes; duration 1–3 days", "Onset 30–40 minutes; duration 7–14 days", "Onset 15–30 minutes; duration 6–24 hours with cycloplegia"], "answer": "A"},
-  {"id": 45, "type": "mcq", "stem": "Cyclopentolate's onset of action and duration are best described as:", "options": ["Onset 15–30 minutes; duration 1–3 hours, no cycloplegia", "Onset 15–30 minutes; duration 6–24 hours, with mydriasis and cycloplegia", "Onset 30–60 minutes; duration 1–3 days", "Onset 30–40 minutes; duration 7–14 days"], "answer": "B"},
-  {"id": 46, "type": "mcq", "stem": "Homatropine's onset of action and duration are best described as:", "options": ["Onset 15–30 minutes; duration 1–3 hours", "Onset 15–30 minutes; duration 6–24 hours", "Onset 30–60 minutes; duration 1–3 days", "Onset 30–40 minutes; duration 7–14 days"], "answer": "C"},
-  {"id": 47, "type": "mcq", "stem": "Atropine is described as the LONGEST-acting mydriatic, with onset and duration best described as:", "options": ["Onset 15–30 minutes; duration 1–3 hours", "Onset 30–60 minutes; duration 1–3 days", "Onset 30–40 minutes; duration 7–14 days", "Onset 15–30 minutes; duration 6–24 hours"], "answer": "C"},
-  {"id": 48, "type": "mcq", "stem": "In a pediatric or elderly client receiving Atropine eye drops, the nurse should monitor for which SYSTEMIC anticholinergic effects, especially given nasolacrimal drainage?", "options": ["Bradycardia, hypotension, excessive salivation", "Dry mouth, confusion, fever, tachycardia", "Miosis, bronchospasm, diaphoresis", "Hypoglycemia, diarrhea, blurred near vision only"], "answer": "B"},
-  {"id": 49, "type": "mcq", "stem": "Which mydriatic agent is specifically associated with systemic tachycardia and hypertension as rare adverse effects?", "options": ["Atropine", "Homatropine", "Phenylephrine", "Cyclopentolate"], "answer": "C"},
-  {"id": 50, "type": "mcq", "stem": "Mydriatic agents are contraindicated (or used with caution) in which type of glaucoma, due to the risk of precipitating acute angle closure?", "options": ["Open-angle glaucoma", "Narrow-angle glaucoma", "Normal-tension glaucoma", "Secondary glaucoma from uveitis"], "answer": "B"},
-  {"id": 51, "type": "mcq", "stem": "The therapeutic use of cycloplegic mydriatics such as Atropine and Homatropine in anterior uveitis is aimed primarily at preventing which complication?", "options": ["Retinal detachment", "Posterior synechiae (adhesions between iris and lens)", "Corneal ulceration", "Optic disc cupping"], "answer": "B"},
-  {"id": 52, "type": "mcq", "stem": "Which nursing technique should be used during mydriatic drop instillation to minimize systemic absorption, particularly with Atropine?", "options": ["Rapid blinking immediately after instillation", "Punctal occlusion", "Applying a warm compress after instillation", "Instilling the drop with the eye fully closed"], "answer": "B"},
-  {"id": 53, "type": "mcq", "stem": "Phenylephrine ophthalmic solution is commonly prescribed at which concentration(s) according to the administration guidance?", "options": ["0.5% or 1%", "2.5% or 10%", "5% or 20%", "1% or 2%"], "answer": "B"},
-  {"id": 54, "type": "mcq", "stem": "Cyclopentolate and Atropine are commonly prescribed at which respective concentration, according to the administration guidance?", "options": ["Cyclopentolate 1%, Atropine 1%", "Cyclopentolate 2.5%, Atropine 10%", "Cyclopentolate 0.5%, Atropine 0.1%", "Cyclopentolate 10%, Atropine 1%"], "answer": "A"},
-  {"id": 55, "type": "mcq", "stem": "Erythromycin ophthalmic ointment is applied as a ribbon of approximately what length into the conjunctival sac?", "options": ["0.5 cm", "1 cm", "2.5 cm", "5 cm"], "answer": "B"},
-  {"id": 56, "type": "mcq", "stem": "Patient education for topical antibiotic therapy should emphasize completing the full course primarily to prevent which outcome?", "options": ["Rebound inflammation", "Antibiotic resistance", "Corneal thinning", "Systemic absorption"], "answer": "B"},
-  {"id": 57, "type": "mcq", "stem": "During instillation of any ophthalmic drop or ointment, the applicator/dropper tip should be handled in which manner?", "options": ["Touched gently to the cornea to ensure accurate placement", "Kept from contacting the eye or any other surface", "Wiped on the eyelid margin before each use", "Reused across multiple patients if cleaned with alcohol"], "answer": "B"},
-  {"id": 58, "type": "mcq", "stem": "Before administering any ophthalmic medication, the nurse must confirm which detail to prevent medication error?", "options": ["The patient's most recent meal time", "The correct eye to be treated (OD, OS, or OU)", "The patient's shoe size", "The room temperature of the medication only"], "answer": "B"},
-  {"id": 59, "type": "mcq", "stem": "A topical medication requiring refrigeration if specified by the manufacturer is noted for which THREE of the drug classes discussed?", "options": ["Corticosteroids, NSAIDs, and mydriatics only", "Tobramycin, Trifluridine, and Natamycin", "Artificial tears, antihistamines, and mast cell stabilizers only", "Phenylephrine, Atropine, and Cyclopentolate only"], "answer": "B"},
-  {"id": 60, "type": "mcq", "stem": "CASE SCENARIO: A client with confirmed HSV epithelial keratitis is prescribed Trifluridine drops. On day 25 of therapy, the client reports increased ocular surface irritation and the ophthalmologist notes new punctate changes. The nurse's PRIORITY interpretation is:", "options": ["This is an expected therapeutic response requiring dose escalation", "This may represent corneal toxicity related to prolonged Trifluridine use beyond 21 days", "This indicates treatment failure requiring immediate antifungal therapy", "This is unrelated to medication and requires no further evaluation"], "answer": "B"},
-  {"id": 61, "type": "mcq", "stem": "CASE SCENARIO (continued): The ophthalmologist decides to discontinue Trifluridine and initiate an alternative antiviral requiring conversion to an active form before exerting its effect. Which agent is this?", "options": ["Ganciclovir", "Natamycin", "Acyclovir", "Voriconazole"], "answer": "C"},
-  {"id": 62, "type": "mcq", "stem": "CASE SCENARIO: A farmer sustains a corneal injury from a thorn while pruning plants and later develops a corneal infiltrate with a feathery margin and hypopyon. Which class of ocular infection should the nurse suspect FIRST, given this mechanism of injury?", "options": ["Bacterial keratitis", "Fungal keratitis", "Viral keratitis", "Allergic keratoconjunctivitis"], "answer": "B"},
-  {"id": 63, "type": "mcq", "stem": "CASE SCENARIO (continued): The ophthalmologist prescribes Natamycin drops. The nurse should educate the client that treatment may need to continue for which duration, and that the drops must be handled in which specific way before administration?", "options": ["1–2 days total; drops do not need shaking", "Weeks to months; the suspension must be shaken well before instillation", "A single dose only; refrigeration is never required", "24 hours only; drops should be diluted before use"], "answer": "B"},
-  {"id": 64, "type": "mcq", "stem": "CASE SCENARIO: A client with confirmed active herpes simplex keratitis is mistakenly started on topical Prednisolone Acetate monotherapy by a covering provider. The nurse's BEST action is to:", "options": ["Administer as ordered since corticosteroids treat all forms of keratitis", "Question the order, since corticosteroids are contraindicated in untreated viral infection due to immunosuppression", "Increase the frequency of administration to speed healing", "Discontinue all medications without notifying the provider"], "answer": "B"},
-  {"id": 65, "type": "mcq", "stem": "CASE SCENARIO (continued): The client also has a history of glaucoma. What additional consideration must the nurse factor in before administering any corticosteroid?", "options": ["Corticosteroids have no effect on IOP and require no additional monitoring", "Glaucoma is a relative contraindication due to the risk of increased IOP with corticosteroid use", "Glaucoma is an absolute contraindication to all ophthalmic medications", "Corticosteroids are the treatment of choice for glaucoma-related inflammation"], "answer": "B"},
-  {"id": 66, "type": "mcq", "stem": "CASE SCENARIO: A post-cataract-surgery client is prescribed Ketorolac drops 4 times daily but reports she still wears her contact lenses continuously, including during drop instillation. The nurse's PRIORITY teaching point is:", "options": ["Contact lenses do not need to be removed for NSAID drops", "Remove contact lenses before instilling the drops", "Increase the dosing frequency to compensate for the lenses", "Switch to ointment form instead of drops"], "answer": "B"},
-  {"id": 67, "type": "mcq", "stem": "CASE SCENARIO (continued): The client later develops persistent eye pain and blurred vision. Given the known rare ocular complication of prolonged topical NSAID use, the nurse should suspect:", "options": ["Cataract formation", "Corneal thinning", "Retinal detachment", "Acute angle closure"], "answer": "B"},
-  {"id": 68, "type": "mcq", "stem": "CASE SCENARIO: A client is scheduled for a diagnostic fundoscopic examination requiring pupil dilation without loss of accommodation, since she needs to drive herself home afterward relatively soon. Which mydriatic BEST meets this need?", "options": ["Atropine", "Homatropine", "Phenylephrine", "Cyclopentolate"], "answer": "C"},
-  {"id": 69, "type": "mcq", "stem": "CASE SCENARIO (continued): The client has a cardiac history of poorly controlled hypertension. Which systemic effect should the nurse specifically monitor for after administering this agent?", "options": ["Bradycardia and hypotension", "Tachycardia and hypertension", "Dry mouth and confusion", "Hypoglycemia"], "answer": "B"},
-  {"id": 70, "type": "mcq", "stem": "CASE SCENARIO: An elderly client receiving Atropine eye drops for anterior uveitis becomes acutely confused, febrile, and tachycardic several hours after administration. The nurse recognizes this presentation as most consistent with:", "options": ["Expected local ocular side effects only", "Systemic anticholinergic toxicity from nasolacrimal drainage and absorption", "An allergic reaction requiring epinephrine", "A normal response to cycloplegia"], "answer": "B"},
-  {"id": 71, "type": "fitb", "stem": "Ganciclovir inhibits viral ___________ ___________, preventing replication, and is effective against CMV and HSV.", "answer": "DNA polymerase", "acceptableAnswers": ["DNA polymerase"]},
-  {"id": 72, "type": "fitb", "stem": "Trifluridine drops are dosed up to ___________ times daily initially, then tapered, and corneal toxicity should be monitored for with use beyond ___________ days.", "answer": "9; 21", "acceptableAnswers": ["9; 21", "nine; twenty-one"]},
-  {"id": 73, "type": "fitb", "stem": "Acyclovir must first be converted to its ___________ form before it can inhibit viral DNA polymerase, and it is used for ___________ keratitis.", "answer": "active; HSV", "acceptableAnswers": ["active; HSV", "active; herpes simplex virus"]},
-  {"id": 74, "type": "fitb", "stem": "Natamycin is fungicidal for filamentous fungi such as ___________ and ___________ by binding fungal cell membrane sterols.", "answer": "Aspergillus; Fusarium", "acceptableAnswers": ["Aspergillus; Fusarium"]},
-  {"id": 75, "type": "fitb", "stem": "Voriconazole is effective against Candida, Aspergillus, and resistant fungi by inhibiting ___________ ___________.", "answer": "ergosterol synthesis", "acceptableAnswers": ["ergosterol synthesis"]},
-  {"id": 76, "type": "fitb", "stem": "Fungal keratitis is often caused by trauma involving ___________ material, such as plant matter.", "answer": "organic", "acceptableAnswers": ["organic"]},
-  {"id": 77, "type": "fitb", "stem": "Natamycin drops are initially instilled every ___________ to ___________ hours, then tapered.", "answer": "1; 2", "acceptableAnswers": ["1; 2", "one; two"]},
-  {"id": 78, "type": "fitb", "stem": "Systemic Amphotericin B may cause ___________ or infusion reactions.", "answer": "nephrotoxicity", "acceptableAnswers": ["nephrotoxicity"]},
-  {"id": 79, "type": "fitb", "stem": "Corticosteroids such as Prednisolone Acetate reduce inflammation by inhibiting ___________ and ___________.", "answer": "prostaglandins; cytokines", "acceptableAnswers": ["prostaglandins; cytokines"]},
-  {"id": 80, "type": "fitb", "stem": "Prolonged corticosteroid use carries ocular risks of increased ___________, ___________ formation, and delayed wound healing.", "answer": "IOP; cataract", "acceptableAnswers": ["IOP; cataract", "intraocular pressure; cataract"]},
-  {"id": 81, "type": "fitb", "stem": "Corticosteroid doses should be ___________ gradually to avoid ___________ inflammation.", "answer": "tapered; rebound", "acceptableAnswers": ["tapered; rebound"]},
-  {"id": 82, "type": "fitb", "stem": "NSAID eye drops such as Ketorolac inhibit ___________ enzymes, reducing prostaglandin synthesis.", "answer": "cyclooxygenase (COX)", "acceptableAnswers": ["cyclooxygenase (COX)", "COX", "cyclooxygenase"]},
-  {"id": 83, "type": "fitb", "stem": "Topical NSAID drops are contraindicated in patients with corneal ___________ ___________.", "answer": "epithelial defects", "acceptableAnswers": ["epithelial defects"]},
-  {"id": 84, "type": "fitb", "stem": "Antihistamines relieve allergic conjunctivitis by blocking ___________ receptors, while mast cell stabilizers prevent ___________ release.", "answer": "H1; histamine", "acceptableAnswers": ["H1; histamine"]},
-  {"id": 85, "type": "fitb", "stem": "Contact lenses should be removed before instilling antihistamine/mast cell stabilizer drops and reinserted after waiting ___________ to ___________ minutes.", "answer": "10; 15", "acceptableAnswers": ["10; 15", "ten; fifteen"]},
-  {"id": 86, "type": "fitb", "stem": "Artificial tears mimic natural tears to provide ___________ and moisture to the ocular surface.", "answer": "lubrication", "acceptableAnswers": ["lubrication"]},
-  {"id": 87, "type": "fitb", "stem": "Clients using artificial tears more than ___________ times daily should be advised to use ___________-free formulations.", "answer": "4; preservative", "acceptableAnswers": ["4; preservative", "four; preservative"]},
-  {"id": 88, "type": "fitb", "stem": "Cycloplegic mydriatics block ___________ receptors in the iris sphincter and ciliary muscle, causing mydriasis and ___________.", "answer": "muscarinic; cycloplegia", "acceptableAnswers": ["muscarinic; cycloplegia"]},
-  {"id": 89, "type": "fitb", "stem": "Phenylephrine stimulates ___________-adrenergic receptors in the iris dilator muscle, causing mydriasis without affecting ___________.", "answer": "alpha; accommodation", "acceptableAnswers": ["alpha; accommodation"]},
-  {"id": 90, "type": "fitb", "stem": "Atropine is the longest-acting mydriatic, with an onset of ___________ to ___________ minutes and a duration of ___________ to ___________ days.", "answer": "30; 40; 7; 14", "acceptableAnswers": ["30; 40; 7; 14"]},
-  {"id": 91, "type": "fitb", "stem": "Cyclopentolate has an onset of ___________ to ___________ minutes and a duration of ___________ to ___________ hours, producing both mydriasis and cycloplegia.", "answer": "15; 30; 6; 24", "acceptableAnswers": ["15; 30; 6; 24"]},
-  {"id": 92, "type": "fitb", "stem": "Phenylephrine has an onset of ___________ to ___________ minutes and a duration of ___________ to ___________ hours, without cycloplegia.", "answer": "15; 30; 1; 3", "acceptableAnswers": ["15; 30; 1; 3"]},
-  {"id": 93, "type": "fitb", "stem": "Homatropine has an onset of ___________ to ___________ minutes and a duration of ___________ to ___________ days.", "answer": "30; 60; 1; 3", "acceptableAnswers": ["30; 60; 1; 3"]},
-  {"id": 94, "type": "fitb", "stem": "Mydriatics are contraindicated in ___________-angle glaucoma due to the risk of precipitating angle closure.", "answer": "narrow", "acceptableAnswers": ["narrow"]},
-  {"id": 95, "type": "fitb", "stem": "In anterior uveitis, cycloplegic mydriatics such as Atropine help prevent ___________ synechiae between the iris and lens.", "answer": "posterior", "acceptableAnswers": ["posterior"]},
-  {"id": 96, "type": "fitb", "stem": "___________ occlusion is used during mydriatic instillation to minimize systemic absorption, particularly with Atropine.", "answer": "Punctal", "acceptableAnswers": ["Punctal"]},
-  {"id": 97, "type": "fitb", "stem": "Phenylephrine ophthalmic solution is commonly available at ___________% or ___________% concentration.", "answer": "2.5; 10", "acceptableAnswers": ["2.5; 10"]},
-  {"id": 98, "type": "fitb", "stem": "Systemic anticholinergic effects of Atropine in children or the elderly may include dry mouth, confusion, and ___________, in addition to tachycardia.", "answer": "fever", "acceptableAnswers": ["fever"]},
-  {"id": 99, "type": "fitb", "stem": "Erythromycin ophthalmic ointment is applied as a ___________ ribbon of approximately ___________ cm into the conjunctival sac.", "answer": "thin; 1", "acceptableAnswers": ["thin; 1"]},
-  {"id": 100, "type": "fitb", "stem": "Before instilling any ophthalmic medication, the nurse must confirm the correct eye, documented as ___________, ___________, or ___________.", "answer": "OD; OS; OU", "acceptableAnswers": ["OD; OS; OU"]}
+  {
+    "id": 1,
+    "type": "mcq",
+    "stem": "A patient scheduled for applanation tonometry receives tetracaine. Which nursing action would MOST strongly indicate unsafe practice?",
+    "options": [
+      "Giving the patient the bottle for repeated home use",
+      "Explaining that numbness should be temporary",
+      "Observing for persistent corneal irritation",
+      "Administering the drop immediately before the procedure"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 2,
+    "type": "mcq",
+    "stem": "Topical tetracaine and proparacaine produce corneal anesthesia primarily by which mechanism?",
+    "options": [
+      "Blocking muscarinic receptors in the ciliary muscle",
+      "Inhibiting cyclooxygenase and prostaglandin synthesis",
+      "Stimulating alpha-adrenergic receptors in the iris dilator",
+      "Blocking sodium channels in corneal and conjunctival nerve endings"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 3,
+    "type": "mcq",
+    "stem": "A patient repeatedly self-administers topical anesthetic for corneal pain and later develops persistent redness and delayed healing. Which explanation BEST accounts for the finding?",
+    "options": [
+      "Topical anesthetics cause prolonged therapeutic cycloplegia",
+      "The drug causes expected retinal vasoconstriction",
+      "Prolonged topical anesthetic exposure can cause corneal epithelial toxicity and delay healing",
+      "The medication stimulates fungal growth by increasing ergosterol"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 4,
+    "type": "mcq",
+    "stem": "Which pharmacokinetic profile BEST matches topical ocular anesthetics in the supplied material?",
+    "options": [
+      "Onset 15â30 minutes; duration 6â24 hours",
+      "Onset 30â40 minutes; duration 7â14 days",
+      "Onset 30â60 minutes; duration 1â3 days",
+      "Onset 10â30 seconds; duration about 10â20 minutes"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 5,
+    "type": "mcq",
+    "stem": "Immediately after corneal anesthesia, which patient instruction has the HIGHEST priority?",
+    "options": [
+      "Re-dose whenever discomfort returns",
+      "Blink vigorously to prolong anesthesia",
+      "Keep contact lenses in place to shield the cornea",
+      "Avoid rubbing the eye while sensation is reduced"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 6,
+    "type": "mcq",
+    "stem": "Which situation represents a DIAGNOSTIC use of topical ocular anesthetic rather than a therapeutic use?",
+    "options": [
+      "Treatment of seasonal allergic conjunctivitis",
+      "Prevention of posterior synechiae",
+      "Administration before tonometry",
+      "Long-term treatment of chronic dry eye"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 7,
+    "type": "mcq",
+    "stem": "A patient requests tetracaine for home treatment of a painful corneal abrasion. Which response is MOST appropriate?",
+    "options": [
+      "Tetracaine is avoided only because it stains contact lenses",
+      "Tetracaine is safe for unrestricted home use if pain is severe",
+      "Repeated home use is unsafe because it may mask worsening injury and cause corneal damage",
+      "Tetracaine is ineffective on corneal nerve endings"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 8,
+    "type": "mcq",
+    "stem": "Before administering an ophthalmic medication to a patient with glaucoma, which assessment is MOST important?",
+    "options": [
+      "Peripheral pulses only",
+      "Serum sodium concentration",
+      "Baseline intraocular pressure and type/risk of glaucoma",
+      "Bowel sounds"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 9,
+    "type": "mcq",
+    "stem": "A prescription reads '1 drop OS'. Which action is correct?",
+    "options": [
+      "Instill into both eyes to ensure treatment",
+      "Instill into the right eye because OS means right eye",
+      "Instill into the left eye after verifying all medication rights",
+      "Ask the patient which eye feels worse and treat that eye"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 10,
+    "type": "mcq",
+    "stem": "Which administration technique best creates the intended reservoir for most ophthalmic drops?",
+    "options": [
+      "Touch the applicator to the conjunctiva before squeezing",
+      "Gently pull the lower eyelid down to form the conjunctival sac",
+      "Instill onto the upper eyelid skin",
+      "Place the drop directly on the central cornea"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 11,
+    "type": "mcq",
+    "stem": "Which action most directly reduces medication contamination?",
+    "options": [
+      "Wipe the tip on a tissue after each use",
+      "Touch the tip lightly to the lower lid to steady the bottle",
+      "Rinse the tip under tap water after administration",
+      "Prevent the dropper tip from touching the eye, lashes, fingers, or other surfaces"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 12,
+    "type": "mcq",
+    "stem": "Which technique is MOST useful for minimizing systemic absorption after ophthalmic drug administration?",
+    "options": [
+      "Punctal occlusion",
+      "Instilling multiple extra drops",
+      "Rapid blinking",
+      "Massage of the globe"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 13,
+    "type": "mcq",
+    "stem": "Why should different ophthalmic medications usually be separated by several minutes?",
+    "options": [
+      "To prevent all allergic reactions",
+      "To guarantee full systemic absorption of the first medication",
+      "To reduce washout and unintended interaction between sequential ocular medications",
+      "To convert suspensions into solutions"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 14,
+    "type": "mcq",
+    "stem": "Which pair from the material should be shaken well before use because the formulation may be a suspension?",
+    "options": [
+      "Phenylephrine and artificial tears",
+      "Prednisolone acetate and natamycin",
+      "Trifluridine and erythromycin ointment",
+      "Tetracaine and proparacaine"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 15,
+    "type": "mcq",
+    "stem": "A patient who wears contact lenses is starting medicated eye drops. Which instruction is MOST appropriate?",
+    "options": [
+      "Reinsert lenses immediately after every dose",
+      "Leave lenses in so they absorb the medication",
+      "Remove lenses before most medicated drops and wait the instructed period before reinsertion",
+      "Only remove lenses for lubricants"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 16,
+    "type": "mcq",
+    "stem": "Which statement BEST distinguishes patient education from monitoring in ophthalmic nursing care?",
+    "options": [
+      "Education is limited to naming the medication",
+      "Education teaches correct use and adherence; monitoring evaluates therapeutic response and adverse effects",
+      "Monitoring occurs only before the first dose",
+      "Education and monitoring are the same task"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 17,
+    "type": "mcq",
+    "stem": "A patient with severe hand arthritis cannot reliably squeeze an eye-drop bottle. Which nursing intervention is MOST individualized?",
+    "options": [
+      "Convert every eye medication to an oral formulation",
+      "Discontinue all ophthalmic medication",
+      "Assess self-administration ability and consider an assistive eye-drop device or caregiver support",
+      "Increase the drug concentration"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 18,
+    "type": "mcq",
+    "stem": "An elderly patient is prescribed phenylephrine and atropine. Which assessment pairing is MOST appropriate?",
+    "options": [
+      "Renal disease for phenylephrine and hearing loss for atropine",
+      "Hypothyroidism for both medications only",
+      "Skin integrity for both medications only",
+      "Cardiovascular disease for phenylephrine and neurologic/cognitive vulnerability for atropine"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 19,
+    "type": "mcq",
+    "stem": "A child receiving atropine develops flushing, fever, and confusion. Which interpretation is MOST appropriate?",
+    "options": [
+      "Normal evidence of adequate dilation",
+      "Typical action of mast cell stabilizers",
+      "Expected local anesthetic effect",
+      "Possible systemic atropine toxicity"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 20,
+    "type": "mcq",
+    "stem": "Which strategy can help reduce toxicity when mydriatics are used in pediatric patients?",
+    "options": [
+      "Use age-appropriate, often lower-strength preparations when indicated",
+      "Avoid punctal occlusion",
+      "Use the highest concentration to reduce dosing frequency",
+      "Always combine atropine with phenylephrine"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 21,
+    "type": "mcq",
+    "stem": "Which approach is MOST appropriate for an anxious child who needs eye drops?",
+    "options": [
+      "Use distraction and comfort measures during administration",
+      "Delay all essential treatment indefinitely",
+      "Restrain without explanation whenever possible",
+      "Require independent self-administration"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 22,
+    "type": "mcq",
+    "stem": "Which post-operative instruction BEST integrates anti-infective and anti-inflammatory management?",
+    "options": [
+      "Adhere to prescribed regimens and report infection signs or poor wound healing",
+      "Stop anti-infectives as soon as pain decreases",
+      "Ignore visual changes because they are expected",
+      "Continue corticosteroids indefinitely without tapering"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 23,
+    "type": "mcq",
+    "stem": "A patient is using ophthalmic corticosteroids for a prolonged post-operative course. Which teaching is MOST important?",
+    "options": [
+      "Follow tapering instructions carefully",
+      "Double the dose after a missed administration",
+      "Stop abruptly when redness resolves",
+      "Wear contact lenses continuously"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 24,
+    "type": "mcq",
+    "stem": "Which nursing diagnosis MOST closely fits a patient unable to instill drops correctly because of poor technique?",
+    "options": [
+      "Impaired gas exchange",
+      "Risk for injury related to improper administration or adverse effects",
+      "Decreased cardiac output",
+      "Risk for aspiration"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 25,
+    "type": "mcq",
+    "stem": "A patient avoids prescribed mydriatic drops because of severe prior photophobia. Which nursing problem-intervention pairing is BEST?",
+    "options": [
+      "Risk for infection â begin antibiotics independently",
+      "Noncompliance â discontinue the medication",
+      "Impaired comfort â prepare for transient effects and teach protective strategies",
+      "Knowledge deficit â assure the patient photophobia cannot occur"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 26,
+    "type": "mcq",
+    "stem": "A patient struggles with a frequent antiviral regimen because of high cost and administration difficulty. Which response BEST addresses the problem?",
+    "options": [
+      "Simplify the regimen when possible, explore cost-effective options, and provide adherence support",
+      "Substitute corticosteroids without consulting the prescriber",
+      "Increase dosing frequency to reinforce the schedule",
+      "Label the patient noncompliant and provide no further help"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 27,
+    "type": "mcq",
+    "stem": "Which outcome BEST demonstrates effective glaucoma-medication teaching?",
+    "options": [
+      "The patient touches the bottle tip to the conjunctiva to improve accuracy",
+      "The patient demonstrates correct technique and explains that adherence helps prevent irreversible vision loss",
+      "The patient believes lost vision will be restored by adherence",
+      "The patient plans to stop medication when vision seems normal"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 28,
+    "type": "mcq",
+    "stem": "Why is contamination prevention especially important with anti-infectives and topical anesthetics?",
+    "options": [
+      "To increase intraocular pressure",
+      "To avoid introducing iatrogenic ocular infection",
+      "To prolong cycloplegia",
+      "To enhance systemic absorption"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 29,
+    "type": "mcq",
+    "stem": "Which example BEST demonstrates why an accurate ocular diagnosis is necessary before selecting therapy?",
+    "options": [
+      "Using artificial tears for uncomplicated dryness",
+      "Applying punctal occlusion after drops",
+      "Avoiding corticosteroid treatment in active HSV keratitis",
+      "Removing contact lenses before medication"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 30,
+    "type": "mcq",
+    "stem": "A patient receives mydriatic drops before fundoscopy. Which discharge instruction is MOST appropriate?",
+    "options": [
+      "Wear contact lenses during the procedure",
+      "Use leftover anesthetic drops for discomfort later",
+      "Drive immediately to assess adaptation",
+      "Expect temporary visual changes and arrange safe transportation if needed"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 31,
+    "type": "mcq",
+    "stem": "Which action BEST demonstrates patient empowerment?",
+    "options": [
+      "Rely only on written instructions regardless of literacy",
+      "Use education and teach-back so the patient participates actively in care",
+      "Have relatives administer every medication even when the patient is capable",
+      "Minimize explanations to reduce anxiety"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 32,
+    "type": "mcq",
+    "stem": "A patient with limited English proficiency starts a complex eye-drop regimen. Which approach is BEST?",
+    "options": [
+      "Use a qualified interpreter or translated materials and address treatment beliefs sensitively",
+      "Reduce prescribed doses without consulting the prescriber",
+      "Use a child family member as the sole interpreter",
+      "Skip education if English instructions are available"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 33,
+    "type": "mcq",
+    "stem": "Which documentation set is MOST complete after ophthalmic medication administration?",
+    "options": [
+      "Bottle-opening time only",
+      "Medication name only",
+      "Visual acuity only",
+      "Medication given, patient response, adverse effects, and education provided"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 34,
+    "type": "mcq",
+    "stem": "A patient with glaucoma says, 'My eyes feel fine, so I can stop the drops.' Which response is MOST accurate?",
+    "options": [
+      "Medication is needed only when vision blurs",
+      "Glaucoma drops are used only for comfort",
+      "Treatment is unnecessary without pain",
+      "Glaucoma may progress with few symptoms, so adherence remains essential to prevent irreversible vision loss"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 35,
+    "type": "mcq",
+    "stem": "Which finding represents a THERAPEUTIC outcome rather than an adverse effect?",
+    "options": [
+      "New corneal toxicity",
+      "Increasing ocular pain",
+      "Delayed wound healing",
+      "Reduced intraocular pressure after glaucoma therapy"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 36,
+    "type": "mcq",
+    "stem": "Which cluster should prompt urgent reassessment for a significant adverse ocular reaction?",
+    "options": [
+      "Short-lived blur after ointment",
+      "Increasing redness, pain, corneal toxicity, or anaphylaxis",
+      "Brief mild stinging immediately after a known irritating drop",
+      "Expected temporary photophobia after dilation"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 37,
+    "type": "mcq",
+    "stem": "A nurse finds an expired ophthalmic medication just before administration. What is the correct action?",
+    "options": [
+      "Double the dose to compensate for lower potency",
+      "Mix it with a newer bottle",
+      "Use it if the seal remains intact",
+      "Discard it according to policy and obtain an in-date medication"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 38,
+    "type": "mcq",
+    "stem": "Which statement about topical anesthetic safety is MOST accurate?",
+    "options": [
+      "Use should be restricted to supervised clinical settings to reduce abuse and corneal injury",
+      "They are preferred for chronic unsupervised ocular pain",
+      "They should routinely be dispensed for home re-dosing",
+      "Their only meaningful risk is transient blurred vision"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 39,
+    "type": "mcq",
+    "stem": "Which assessment is MOST directly relevant when a medication may cause photophobia?",
+    "options": [
+      "Check urine ketones",
+      "Determine the patient's activities and ability to avoid unsafe bright-light exposure",
+      "Assess bowel motility only",
+      "Measure calf circumference"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 40,
+    "type": "mcq",
+    "stem": "A patient cannot remember a complex drop schedule. Which intervention is MOST appropriate without changing the prescription?",
+    "options": [
+      "Let the patient choose which medication seems most important",
+      "Tell the patient to take all drops at the same time",
+      "Recommend skipping difficult doses",
+      "Provide a clear written schedule and use teach-back"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 41,
+    "type": "mcq",
+    "stem": "Which clinical pairing is INCORRECT?",
+    "options": [
+      "Glaucoma â adherence helps prevent irreversible loss",
+      "Anti-infective therapy â sterile technique reduces iatrogenic infection",
+      "Diagnostic mydriasis â temporary visual impairment may affect transportation",
+      "Active HSV keratitis â corticosteroid monotherapy is routinely preferred"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 42,
+    "type": "mcq",
+    "stem": "A patient reports mild stinging immediately after an antifungal drop but no severe reaction. Which response is BEST?",
+    "options": [
+      "Stop therapy permanently without assessment",
+      "Advise vigorous eye rubbing",
+      "Tell the patient that all stinging means anaphylaxis",
+      "Explain that transient irritation may occur while monitoring for worsening symptoms"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 43,
+    "type": "mcq",
+    "stem": "Which sequence BEST reflects safe ophthalmic drop administration?",
+    "options": [
+      "Instill drug â verify patient â wash hands â identify eye",
+      "Verify order and eye â hand hygiene â position patient â form conjunctival sac â instill without tip contact â gentle closure/punctal occlusion as indicated",
+      "Position patient â instill directly on cornea â insert contact lens â document",
+      "Touch tip to conjunctiva â instill â rub eye â verify order"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 44,
+    "type": "mcq",
+    "stem": "Why is gentle eyelid closure generally preferred to forceful blinking immediately after a drop?",
+    "options": [
+      "Blinking prevents all systemic absorption",
+      "Tight squeezing increases retinal penetration",
+      "Gentle closure can reduce expulsion and drainage of medication and facilitates punctal occlusion",
+      "Forceful blinking increases ocular retention"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 45,
+    "type": "mcq",
+    "stem": "Which factors are MOST important when determining whether a patient can safely self-administer eye medication?",
+    "options": [
+      "Hair color and handedness only",
+      "Dexterity, cognition, vision, and ability to follow the regimen",
+      "Dietary sodium intake only",
+      "Body mass index only"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 46,
+    "type": "mcq",
+    "stem": "Which intervention MOST directly addresses fear of eye-drop administration?",
+    "options": [
+      "Withhold information until after administration",
+      "Exclude the patient from participation",
+      "Explain and demonstrate the procedure, then allow practice with teach-back",
+      "Increase concentration to shorten the procedure"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 47,
+    "type": "mcq",
+    "stem": "Which adverse effect after phenylephrine is MOST concerning in an elderly patient with cardiovascular disease?",
+    "options": [
+      "Temporary corneal numbness",
+      "Mild improvement in redness",
+      "Transient lubrication",
+      "Marked hypertension or tachycardia"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 48,
+    "type": "mcq",
+    "stem": "Which behavior BEST demonstrates successful infection-control teaching?",
+    "options": [
+      "The patient shares the bottle with family",
+      "The patient wipes the tip on tissue after each dose",
+      "The patient stores the bottle uncapped",
+      "The patient avoids touching the applicator tip to the eye or any surface"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 49,
+    "type": "mcq",
+    "stem": "A clinically necessary ophthalmic medication is unaffordable. Which nursing response is MOST appropriate?",
+    "options": [
+      "Recommend borrowing another person's medication",
+      "Tell the patient to halve all doses",
+      "Explore cost-effective options and communicate with the care team rather than encouraging missed doses",
+      "Stop therapy until symptoms worsen"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 50,
+    "type": "mcq",
+    "stem": "A patient says, 'My eye is numb, so rubbing it cannot hurt me.' Which correction is MOST important?",
+    "options": [
+      "Reduced sensation increases the risk of unnoticed corneal injury, so rubbing should be avoided",
+      "Rubbing is needed to spread tetracaine",
+      "Numbness protects the cornea from injury",
+      "Rubbing prolongs anesthetic action"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 51,
+    "type": "mcq",
+    "stem": "Which patient requires the GREATEST caution before receiving a mydriatic?",
+    "options": [
+      "A patient with narrow-angle glaucoma risk",
+      "A patient using preservative-free tears",
+      "A patient with uncomplicated dry eye",
+      "A patient with corrected myopia only"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 52,
+    "type": "mcq",
+    "stem": "Why should the medication history include systemic drugs such as beta-blockers?",
+    "options": [
+      "Only antibiotics interact with systemic medications",
+      "Medication history matters only for anesthetics",
+      "Systemic drugs never affect ocular therapy",
+      "Ophthalmic drugs may interact with systemic therapy or add to systemic effects"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 53,
+    "type": "mcq",
+    "stem": "The nurse identifies active ocular infection before giving a medication that may worsen infection. What is the BEST next action?",
+    "options": [
+      "Reassess and clarify the treatment plan with the prescriber/ophthalmology team before proceeding when indicated",
+      "Increase the dose independently",
+      "Ignore the infection because topical drugs act locally",
+      "Insert a contact lens to protect the eye"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 54,
+    "type": "mcq",
+    "stem": "Which patient statement shows a need for MORE education about contact lenses and eye drops?",
+    "options": [
+      "'I know lubricants may have different instructions.'",
+      "'I will remove my lenses before most medicated drops.'",
+      "'I will wait the recommended period before reinserting them.'",
+      "'I will leave my lenses in so they absorb the medication.'"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 55,
+    "type": "mcq",
+    "stem": "What is the PRIMARY purpose of ophthalmology follow-up during medication therapy?",
+    "options": [
+      "Eliminate the need for home monitoring",
+      "Evaluate efficacy and detect complications such as glaucoma, infection, or prolonged effects",
+      "Assess whether the patient likes the packaging",
+      "Only renew prescriptions"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 56,
+    "type": "mcq",
+    "stem": "Why may driving be unsafe after diagnostic mydriasis?",
+    "options": [
+      "All mydriatics cause sedation",
+      "Dilation makes near vision excessively sharp",
+      "Temporary blurred vision and photophobia can impair function",
+      "Mydriatics permanently reduce visual acuity"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 57,
+    "type": "mcq",
+    "stem": "Which event is the clearest example of a preventable medication-administration error?",
+    "options": [
+      "Using punctal occlusion when appropriate",
+      "Instilling a medication ordered for OS into OD",
+      "Checking the expiration date",
+      "Documenting the response"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 58,
+    "type": "mcq",
+    "stem": "A patient has worsening symptoms despite apparently correct technique. Which monitoring step is MOST appropriate?",
+    "options": [
+      "Assume nonadherence without further assessment",
+      "Stop follow-up because technique is correct",
+      "Assess therapeutic response, adverse effects, adherence, and whether the diagnosis/treatment needs reassessment",
+      "Double every ophthalmic medication"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 59,
+    "type": "mcq",
+    "stem": "Which situation creates the HIGHEST risk for nonadherence?",
+    "options": [
+      "A single supervised anesthetic dose",
+      "Once-daily lubricant use in a patient with excellent dexterity",
+      "One-time diagnostic mydriasis",
+      "Frequent antiviral/antifungal dosing combined with cost and administration difficulty"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 60,
+    "type": "mcq",
+    "stem": "A patient with severe arthritis cannot squeeze the bottle reliably. Which intervention is MOST appropriate?",
+    "options": [
+      "Alternate eyes with each dose",
+      "Tell the patient to omit treatment",
+      "Increase medication concentration",
+      "Use an assistive device and assess caregiver support"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 61,
+    "type": "mcq",
+    "stem": "Why is anti-infective specificity important in ocular pharmacotherapy?",
+    "options": [
+      "All ocular infections respond equally to corticosteroids",
+      "All anti-infectives have identical mechanisms",
+      "Bacterial, viral, and fungal disorders require different therapies and inappropriate treatment may worsen outcomes",
+      "Diagnosis matters only for billing"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 62,
+    "type": "mcq",
+    "stem": "Which action BEST demonstrates successful teach-back?",
+    "options": [
+      "The patient asks someone else to guess the technique",
+      "The patient independently demonstrates hand hygiene, correct-eye verification, conjunctival-sac instillation, and avoidance of tip contact",
+      "The patient memorizes only the bottle color",
+      "The patient simply says 'I understand'"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 63,
+    "type": "mcq",
+    "stem": "Which finding MOST strongly favors urgent reassessment rather than a transient expected effect?",
+    "options": [
+      "Temporary photophobia after expected dilation",
+      "Progressively increasing pain with worsening vision",
+      "Brief mild stinging immediately after a known irritating drop",
+      "Short-lived blur after ointment"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 64,
+    "type": "mcq",
+    "stem": "Which combination MOST directly reduces systemic exposure after a prescribed ophthalmic drop?",
+    "options": [
+      "Instill several drops and blink rapidly",
+      "Apply medication directly to the cornea",
+      "Massage the nasolacrimal duct toward the nose",
+      "Use the prescribed minimum volume and apply punctal occlusion"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 65,
+    "type": "mcq",
+    "stem": "Which statement about ophthalmic ointment administration is MOST accurate?",
+    "options": [
+      "A thin ribbon is placed in the conjunctival sac while avoiding applicator contact",
+      "The ointment tip should touch the cornea for accuracy",
+      "Ointment belongs on the upper eyelid skin only",
+      "The patient should rub the eye vigorously afterward"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 66,
+    "type": "mcq",
+    "stem": "Which patient most needs reinforcement of infection-prevention technique?",
+    "options": [
+      "A patient taking no ocular medication",
+      "A patient using eyeglasses only",
+      "A patient performing a visual acuity test",
+      "A patient receiving anti-infective ophthalmic medication"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 67,
+    "type": "mcq",
+    "stem": "Which statement about ophthalmic medication storage is MOST accurate?",
+    "options": [
+      "Follow the specific storage instructions, check expiration, and avoid contaminated containers",
+      "Expiration dates do not matter once opened",
+      "Transfer medication to unlabelled containers for convenience",
+      "All ophthalmic medications must be frozen"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 68,
+    "type": "mcq",
+    "stem": "Which approach is MOST complete when evaluating the effectiveness of an ophthalmic regimen?",
+    "options": [
+      "Assess pain only",
+      "Assess bottle volume only",
+      "Assess therapeutic outcome, adverse effects, adherence, technique, and need for follow-up",
+      "Assess only whether today's dose was taken"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 69,
+    "type": "mcq",
+    "stem": "Which statement BEST summarizes the nurse's role in ophthalmic pharmacotherapy?",
+    "options": [
+      "Safe outcomes depend on pharmacologic knowledge, correct administration, patient education, monitoring, and individualized care",
+      "Topical therapy means systemic effects can be ignored",
+      "Administration technique has little impact on outcomes",
+      "Correct drug selection eliminates the need for education"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 70,
+    "type": "mcq",
+    "stem": "A patient has been taught multiple safety measures for ophthalmic medications. Which behavior MOST clearly demonstrates integration of both medication-safety and infection-control principles?",
+    "options": [
+      "The patient performs hand hygiene but shares the bottle with a family member using the same medication",
+      "The patient identifies the correct eye but touches the tip to the lashes to improve accuracy",
+      "The patient verifies the prescribed eye, performs hand hygiene, avoids touching the applicator tip, and checks the expiration date before use",
+      "The patient checks the expiration date but stores the bottle uncapped between doses"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 71,
+    "type": "fitb",
+    "stem": "Topical ocular anesthetics such as Tetracaine and Proparacaine temporarily inhibit nerve conduction mainly by blocking ___ channels.",
+    "answer": "sodium",
+    "acceptableAnswers": [
+      "sodium",
+      "Na+",
+      "sodium ion"
+    ]
+  },
+  {
+    "id": 72,
+    "type": "fitb",
+    "stem": "The typical onset of topical ocular anesthetics in the material is approximately ___ to ___ seconds.",
+    "answer": "10; 30",
+    "acceptableAnswers": [
+      "10; 30",
+      "10-30",
+      "10 to 30",
+      "10â30"
+    ]
+  },
+  {
+    "id": 73,
+    "type": "fitb",
+    "stem": "The typical duration of topical ocular anesthetic action is approximately ___ to ___ minutes.",
+    "answer": "10; 20",
+    "acceptableAnswers": [
+      "10; 20",
+      "10-20",
+      "10 to 20",
+      "10â20"
+    ]
+  },
+  {
+    "id": 74,
+    "type": "fitb",
+    "stem": "Topical anesthetics should not be used for unsupervised ___ use because repeated exposure may cause corneal toxicity and mask worsening disease.",
+    "answer": "home",
+    "acceptableAnswers": [
+      "home",
+      "home use",
+      "at-home"
+    ]
+  },
+  {
+    "id": 75,
+    "type": "fitb",
+    "stem": "In ophthalmic notation, OD means the ___ eye, OS means the ___ eye, and OU means ___ eyes.",
+    "answer": "right; left; both",
+    "acceptableAnswers": [
+      "right; left; both",
+      "right eye; left eye; both eyes"
+    ]
+  },
+  {
+    "id": 76,
+    "type": "fitb",
+    "stem": "The lower eyelid is gently pulled downward to create the ___ sac for medication instillation.",
+    "answer": "conjunctival",
+    "acceptableAnswers": [
+      "conjunctival",
+      "conjunctival sac"
+    ]
+  },
+  {
+    "id": 77,
+    "type": "fitb",
+    "stem": "The medication tip should never touch the eye or other ___ because contact may contaminate the preparation.",
+    "answer": "surfaces",
+    "acceptableAnswers": [
+      "surfaces",
+      "surface"
+    ]
+  },
+  {
+    "id": 78,
+    "type": "fitb",
+    "stem": "After instillation, gentle eyelid closure for about ___ to ___ minutes may improve local drug retention.",
+    "answer": "1; 2",
+    "acceptableAnswers": [
+      "1; 2",
+      "1-2",
+      "1 to 2",
+      "1â2"
+    ]
+  },
+  {
+    "id": 79,
+    "type": "fitb",
+    "stem": "Pressure over the lacrimal drainage pathway after instillation is called punctal ___.",
+    "answer": "occlusion",
+    "acceptableAnswers": [
+      "occlusion",
+      "punctal occlusion"
+    ]
+  },
+  {
+    "id": 80,
+    "type": "fitb",
+    "stem": "When multiple ophthalmic medications are ordered, the material recommends waiting approximately ___ to ___ minutes between them.",
+    "answer": "5; 10",
+    "acceptableAnswers": [
+      "5; 10",
+      "5-10",
+      "5 to 10",
+      "5â10"
+    ]
+  },
+  {
+    "id": 81,
+    "type": "fitb",
+    "stem": "Suspensions such as Prednisolone Acetate and ___ should be shaken before administration.",
+    "answer": "Natamycin",
+    "acceptableAnswers": [
+      "Natamycin",
+      "natamycin"
+    ]
+  },
+  {
+    "id": 82,
+    "type": "fitb",
+    "stem": "Patients should generally remove contact lenses before most medicated drops and wait about ___ to ___ minutes before reinsertion.",
+    "answer": "10; 15",
+    "acceptableAnswers": [
+      "10; 15",
+      "10-15",
+      "10 to 15",
+      "10â15"
+    ]
+  },
+  {
+    "id": 83,
+    "type": "fitb",
+    "stem": "The method of confirming understanding by having the patient explain or demonstrate instructions is called ___.",
+    "answer": "teach-back",
+    "acceptableAnswers": [
+      "teach-back",
+      "teach back",
+      "teachback"
+    ]
+  },
+  {
+    "id": 84,
+    "type": "fitb",
+    "stem": "Repeated topical anesthetic use can cause corneal epithelial ___ and delayed healing.",
+    "answer": "toxicity",
+    "acceptableAnswers": [
+      "toxicity",
+      "damage",
+      "corneal toxicity"
+    ]
+  },
+  {
+    "id": 85,
+    "type": "fitb",
+    "stem": "Patients receiving mydriatics should be warned about transient blurred vision and ___.",
+    "answer": "photophobia",
+    "acceptableAnswers": [
+      "photophobia",
+      "light sensitivity"
+    ]
+  },
+  {
+    "id": 86,
+    "type": "fitb",
+    "stem": "Systemic atropine toxicity in children may produce flushing, ___, and confusion.",
+    "answer": "fever",
+    "acceptableAnswers": [
+      "fever",
+      "pyrexia"
+    ]
+  },
+  {
+    "id": 87,
+    "type": "fitb",
+    "stem": "Phenylephrine requires caution in patients with ___ disease because systemic adrenergic effects may occur.",
+    "answer": "cardiovascular",
+    "acceptableAnswers": [
+      "cardiovascular",
+      "cardiac",
+      "heart"
+    ]
+  },
+  {
+    "id": 88,
+    "type": "fitb",
+    "stem": "For patients with arthritis or poor dexterity, an eye-drop ___ device may improve self-administration.",
+    "answer": "assistive",
+    "acceptableAnswers": [
+      "assistive",
+      "assistive device"
+    ]
+  },
+  {
+    "id": 89,
+    "type": "fitb",
+    "stem": "A nursing diagnosis involving inability to understand medication purpose, administration, or adverse effects is a knowledge ___.",
+    "answer": "deficit",
+    "acceptableAnswers": [
+      "deficit",
+      "knowledge deficit"
+    ]
+  },
+  {
+    "id": 90,
+    "type": "fitb",
+    "stem": "Complex frequent antiviral or antifungal dosing, cost, and administration difficulty may contribute to ___.",
+    "answer": "nonadherence",
+    "acceptableAnswers": [
+      "nonadherence",
+      "non-adherence",
+      "noncompliance",
+      "non-compliance"
+    ]
+  },
+  {
+    "id": 91,
+    "type": "fitb",
+    "stem": "For glaucoma, strict medication ___ is emphasized because uncontrolled disease can cause irreversible vision loss.",
+    "answer": "adherence",
+    "acceptableAnswers": [
+      "adherence",
+      "compliance"
+    ]
+  },
+  {
+    "id": 92,
+    "type": "fitb",
+    "stem": "Patients receiving diagnostic mydriatics may need safe ___ after the procedure because of temporary visual impairment.",
+    "answer": "transportation",
+    "acceptableAnswers": [
+      "transportation",
+      "transport",
+      "a ride"
+    ]
+  },
+  {
+    "id": 93,
+    "type": "fitb",
+    "stem": "Documentation after ophthalmic medication administration should include administration, patient response, side effects, and patient ___.",
+    "answer": "education",
+    "acceptableAnswers": [
+      "education",
+      "teaching"
+    ]
+  },
+  {
+    "id": 94,
+    "type": "fitb",
+    "stem": "Punctal occlusion reduces systemic absorption through ___ drainage.",
+    "answer": "nasolacrimal",
+    "acceptableAnswers": [
+      "nasolacrimal",
+      "nasolacrimal drainage"
+    ]
+  },
+  {
+    "id": 95,
+    "type": "fitb",
+    "stem": "An ophthalmic medication past its labeled date should be considered ___ and discarded according to policy.",
+    "answer": "expired",
+    "acceptableAnswers": [
+      "expired",
+      "outdated"
+    ]
+  },
+  {
+    "id": 96,
+    "type": "fitb",
+    "stem": "A patient receiving topical anesthetic should avoid ___ the eye while corneal sensation is reduced.",
+    "answer": "rubbing",
+    "acceptableAnswers": [
+      "rubbing",
+      "rub"
+    ]
+  },
+  {
+    "id": 97,
+    "type": "fitb",
+    "stem": "A major reason to distinguish bacterial, viral, and fungal ocular disease is anti-infective ___.",
+    "answer": "specificity",
+    "acceptableAnswers": [
+      "specificity",
+      "anti-infective specificity"
+    ]
+  },
+  {
+    "id": 98,
+    "type": "fitb",
+    "stem": "Use of corticosteroids in active ___ keratitis is cited as an example of therapy that may worsen outcomes.",
+    "answer": "HSV",
+    "acceptableAnswers": [
+      "HSV",
+      "herpes simplex",
+      "herpes simplex virus"
+    ]
+  },
+  {
+    "id": 99,
+    "type": "fitb",
+    "stem": "Nursing monitoring should assess therapeutic ___ as well as adverse reactions during ophthalmic pharmacotherapy.",
+    "answer": "effects",
+    "acceptableAnswers": [
+      "effects",
+      "effect",
+      "response",
+      "responses"
+    ]
+  },
+  {
+    "id": 100,
+    "type": "fitb",
+    "stem": "The overall nursing role combines pharmacologic knowledge, correct administration, patient education, monitoring, and ___ care.",
+    "answer": "individualized",
+    "acceptableAnswers": [
+      "individualized",
+      "individualised",
+      "patient-centered",
+      "patient-centred"
+    ]
+  }
 ]
