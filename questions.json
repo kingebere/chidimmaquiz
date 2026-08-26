@@ -1,102 +1,1117 @@
 [
-  {"id": 1, "type": "mcq", "stem": "Fertilization normally takes place in which anatomical structure?", "options": ["The uterine cavity", "The fallopian tube", "The cervical canal", "The ovarian follicle itself"], "answer": "B"},
-  {"id": 2, "type": "mcq", "stem": "If an ovulated egg is not fertilized, it will die within approximately what timeframe after release?", "options": ["12 hours or so", "48 hours", "5 days", "10 days"], "answer": "A"},
-  {"id": 3, "type": "mcq", "stem": "The finger-like, lush projections at the ovarian end of the fallopian tube that actively seek out and pick up the ovulated egg are the:", "options": ["Fimbriae", "Isthmus projections", "Ampullary villi", "Infundibular cilia"], "answer": "A"},
-  {"id": 4, "type": "mcq", "stem": "Fertilization of the egg by a sperm typically occurs in which specific portion of the fallopian tube?", "options": ["The isthmus", "The interstitial portion", "The ampulla", "The fimbriated end itself"], "answer": "C"},
-  {"id": 5, "type": "mcq", "stem": "After a single sperm penetrates the egg, the protective layer surrounding the egg immediately undergoes changes to:", "options": ["Attract additional sperm for genetic diversity", "Prevent further sperm from entering the egg", "Dissolve completely and expose the zygote", "Begin producing hCG immediately"], "answer": "B"},
-  {"id": 6, "type": "mcq", "stem": "Following fertilization, the zygote (early embryo) remains within the fallopian tube for approximately how long before continuing its journey?", "options": ["24 hours", "3 to 4 days", "7 to 10 days", "2 to 3 weeks"], "answer": "B"},
-  {"id": 7, "type": "mcq", "stem": "By the time the embryo is transported through the isthmic portion of the tube into the uterus, it is usually about how many cells in size?", "options": ["1 to 2 cells", "20 to 40 cells", "100 to 200 cells", "500 to 1000 cells"], "answer": "B"},
-  {"id": 8, "type": "mcq", "stem": "After entering the uterus, the embryo 'floats' for an additional period before implanting. This process of attaching to the uterine wall is called:", "options": ["Ovulation", "Implantation", "Capacitation", "Involution"], "answer": "B"},
-  {"id": 9, "type": "mcq", "stem": "According to reproductive physiology, approximately how many eggs is a woman born with, all of her eggs already being present at birth?", "options": ["200,000", "500,000", "2,000,000", "10,000,000"], "answer": "C"},
-  {"id": 10, "type": "mcq", "stem": "Once an egg is released from the ovary at ovulation, it remains capable of being fertilized for at most how long before being absorbed by the body if unfertilized?", "options": ["1 to 2 hours", "12 to 24 hours", "3 to 4 days", "1 week"], "answer": "B"},
-  {"id": 11, "type": "mcq", "stem": "The process by which a basic sperm cell is modified into a mature, fertilization-capable sperm takes approximately how long?", "options": ["7 days", "30 days", "70 days", "120 days"], "answer": "C"},
-  {"id": 12, "type": "mcq", "stem": "At the time of ejaculation, sperm travel from the testicle through which structure before reaching the urethra?", "options": ["The epididymis alone, bypassing all other ducts", "The vas deferens", "The fallopian tube", "The seminal vesicle exclusively, with no other duct involved"], "answer": "B"},
-  {"id": 13, "type": "mcq", "stem": "Of the millions of sperm deposited in the vagina during intercourse, only a small fraction reach the fallopian tubes. The majority of sperm fail to survive primarily because they are killed by:", "options": ["The alkaline environment of the uterus", "The acidic environment of the vagina", "White blood cells within the fallopian tube", "The cervical plug (operculum) exclusively"], "answer": "B"},
-  {"id": 14, "type": "mcq", "stem": "Fraternal (dizygotic) multiples result from which reproductive event?", "options": ["A single fertilized egg splitting into two separate embryos", "More than one egg being released and fertilized by separate sperm", "A single sperm fertilizing two eggs simultaneously", "Delayed implantation of a single zygote"], "answer": "B"},
-  {"id": 15, "type": "mcq", "stem": "Identical (monozygotic) twins arise when:", "options": ["Two separate eggs are fertilized by two separate sperm", "A single embryo splits into two, with both halves developing separately but sharing identical genetic material", "The mother releases eggs from both ovaries in the same cycle", "Fertilization occurs twice within the same cycle"], "answer": "B"},
-  {"id": 16, "type": "mcq", "stem": "The most obvious alteration in a woman's body during pregnancy, involving increases in length, depth, width, weight, and wall thickness, occurs in which organ?", "options": ["The ovary", "The uterus", "The vagina", "The fallopian tube"], "answer": "B"},
-  {"id": 17, "type": "mcq", "stem": "The lower part of the uterus, consisting of the isthmus, softens and elongates during the first trimester to approximately how many times its original length?", "options": ["1.5 times", "3 times", "5 times", "10 times"], "answer": "B"},
-  {"id": 18, "type": "mcq", "stem": "By which week of pregnancy does the uterus rise out of the pelvis, become upright, and reach approximately the size of a grapefruit?", "options": ["8th week", "12th week", "20th week", "28th week"], "answer": "B"},
-  {"id": 19, "type": "mcq", "stem": "By the 16th week of pregnancy, growth of the conceptus places pressure on the isthmus, causing it to open out so the uterus becomes:", "options": ["More anteverted and anteflexed", "More globular in shape", "Retroverted", "Fixed and immobile"], "answer": "B"},
-  {"id": 20, "type": "mcq", "stem": "At 20 weeks of gestation, the uterine fundus can typically be palpated at which level?", "options": ["Above the xiphisternum", "At or just below the umbilicus", "Midway between the symphysis pubis and umbilicus", "Just above the symphysis pubis"], "answer": "B"},
-  {"id": 21, "type": "mcq", "stem": "By the 30th week of gestation, the fundus can typically be palpated:", "options": ["At the level of the umbilicus only", "Midway between the umbilicus and the xiphisternum", "At the level of the symphysis pubis", "At the level of the 12th rib exclusively"], "answer": "B"},
-  {"id": 22, "type": "mcq", "stem": "A reduction in fundal height occurring around the 38th week of pregnancy, associated with softening of the pelvic floor and further formation of the lower uterine segment, is termed:", "options": ["Engagement only, with no other term used", "Lightening", "Involution", "Effacement"], "answer": "B"},
-  {"id": 23, "type": "mcq", "stem": "In a primigravida, lightening at around 38 weeks is typically associated with which additional event, which is NOT necessarily true for multiparous women?", "options": ["Immediate onset of labour", "The gradual descent of the fetus into the pelvis with head engagement", "Complete cessation of Braxton Hicks contractions", "Reversal of uterine growth"], "answer": "B"},
-  {"id": 24, "type": "mcq", "stem": "When the formation of the lower uterine segment is complete at the onset of labour, it measures approximately what fraction of the total body of the uterus?", "options": ["1/5", "1/3", "1/2", "2/3"], "answer": "B"},
-  {"id": 25, "type": "mcq", "stem": "The name given to the endometrium specifically during pregnancy is the:", "options": ["Myometrium", "Decidua", "Perimetrium", "Chorion"], "answer": "B"},
-  {"id": 26, "type": "mcq", "stem": "The decidua becomes thicker, richer, and more vascular particularly at which location, corresponding to the usual site of implantation?", "options": ["The cervix and lower uterine segment", "The fundus and upper body of the uterus", "The isthmus exclusively", "The uterine tubes bilaterally"], "answer": "B"},
-  {"id": 27, "type": "mcq", "stem": "The decidua provides which specific environment to support the blastocyst until the placenta is formed?", "options": ["A protein-rich, acidic environment", "A glycogen-rich environment", "A purely mechanical, avascular scaffold", "A hormone-free, neutral environment"], "answer": "B"},
-  {"id": 28, "type": "mcq", "stem": "The myometrium, the muscle and middle layer of the uterus, undergoes hypertrophy and hyperplasia primarily due to the effects of which two hormones?", "options": ["FSH and LH", "Oestrogen and progesterone", "hCG and prolactin", "Oxytocin and relaxin"], "answer": "B"},
-  {"id": 29, "type": "mcq", "stem": "During pregnancy, myometrial muscle fibres grow up to how many times their non-pregnant length?", "options": ["2 to 5 times", "5 to 10 times", "15 to 20 times", "30 to 40 times"], "answer": "C"},
-  {"id": 30, "type": "mcq", "stem": "Individual uterine muscle cells (as opposed to overall fibre length) grow by approximately how many times their original size at term?", "options": ["2 to 5 times", "5 to 10 times", "17 to 40 times", "50 to 60 times"], "answer": "C"},
-  {"id": 31, "type": "mcq", "stem": "At term, the uterus weighs approximately how much, compared to its non-pregnant weight?", "options": ["300 to 500 grams", "600 to 800 grams", "900 to 1000 grams", "1500 to 2000 grams"], "answer": "C"},
-  {"id": 32, "type": "mcq", "stem": "At term, the uterus measures approximately 30 by 23 by how many centimeters?", "options": ["10 cm", "20 cm", "30 cm", "40 cm"], "answer": "B"},
-  {"id": 33, "type": "mcq", "stem": "The irregular, painless contractions that occur throughout most of pregnancy, described as infrequent and non-rhythmic, are called:", "options": ["True labour contractions", "Braxton Hicks contractions", "Tetanic contractions", "Bandl's ring contractions"], "answer": "B"},
-  {"id": 34, "type": "mcq", "stem": "Braxton Hicks contractions typically increase in frequency and intensity starting from approximately which week of gestation?", "options": ["20th week", "28th week", "36th week", "40th week"], "answer": "C"},
-  {"id": 35, "type": "mcq", "stem": "During pregnancy, the three muscle layers of the uterus become differently organized to assist in expelling the fetus. Which layer is described as the THICKEST?", "options": ["The outer longitudinal layer", "The middle layer", "The inner layer", "All three layers are of equal thickness"], "answer": "B"},
-  {"id": 36, "type": "mcq", "stem": "The INNER muscle layer of the uterus is thin and specifically functions to form which structures around the openings of the uterine tubes?", "options": ["Fimbriae", "Sphincters", "Rugae", "Cervical crypts"], "answer": "B"},
-  {"id": 37, "type": "mcq", "stem": "During labour, synchronous contraction and retraction of the outer and middle uterine muscle layers causes the upper uterine segment to become:", "options": ["Thinner and longer", "Thicker and shorter", "Completely inactive", "Detached from the lower segment"], "answer": "B"},
-  {"id": 38, "type": "mcq", "stem": "During pregnancy, blood supply to the uterus increases to approximately what rate?", "options": ["150 mL/min", "450 mL/min", "750 mL/min", "1200 mL/min"], "answer": "C"},
-  {"id": 39, "type": "mcq", "stem": "The increase in uterine blood supply during pregnancy is made possible by an increase in the diameter of uterine blood vessels, an effect attributed primarily to which hormone?", "options": ["Progesterone", "Oestrogen", "Prolactin", "Relaxin"], "answer": "B"},
-  {"id": 40, "type": "mcq", "stem": "During pregnancy, which end of the fallopian tube typically remains open, while the uterine end usually closes?", "options": ["The uterine end", "The fimbriated end", "Both ends close completely", "Neither end changes"], "answer": "B"},
-  {"id": 41, "type": "mcq", "stem": "Under the influence of progesterone during pregnancy, cervical cells secrete mucus that becomes thicker and more viscous, forming a protective structure called the:", "options": ["Nabothian cyst", "Operculum (cervical plug)", "Decidua capsularis", "Chorionic plate"], "answer": "B"},
-  {"id": 42, "type": "mcq", "stem": "The purple discoloration of the cervix seen during pregnancy, resulting from increased vascularity, is known as:", "options": ["Goodell's sign", "Chadwick's sign", "Hegar's sign", "McDonald's sign"], "answer": "B"},
-  {"id": 43, "type": "mcq", "stem": "The softening of the cervix that occurs during late pregnancy is known clinically as:", "options": ["Chadwick's sign", "Goodell's sign", "Braxton Hicks sign", "Homans' sign"], "answer": "B"},
-  {"id": 44, "type": "mcq", "stem": "During pregnancy, the ovaries become largely dormant. The corpus luteum, however, continues to increase in size and produce oestrogen and progesterone until approximately which week, when the placenta takes over hormone production?", "options": ["4th to 6th week", "12th to 16th week", "20th to 24th week", "28th to 32nd week"], "answer": "B"},
-  {"id": 45, "type": "mcq", "stem": "During pregnancy, the vagina becomes more acidic as a result of interaction between glycogen content and which normal vaginal flora organism?", "options": ["Escherichia coli", "Doderlein's bacillus", "Candida albicans", "Gardnerella vaginalis"], "answer": "B"},
-  {"id": 46, "type": "mcq", "stem": "The increased acidity of the vagina during pregnancy provides extra protection against some organisms but increases susceptibility to which TWO organisms specifically mentioned?", "options": ["Neisseria gonorrhoeae and Treponema pallidum", "Candida albicans and Trichomonas", "Chlamydia trachomatis and Group B Streptococcus", "Herpes simplex virus and human papillomavirus"], "answer": "B"},
-  {"id": 47, "type": "mcq", "stem": "The bluish-violet discoloration of the vagina observed during pregnancy is primarily attributable to which physiological change?", "options": ["Decreased vascularity of the vaginal wall", "Increased vascularity (vascularisation) of the vagina", "Deposition of melanin in the vaginal epithelium", "Chronic vaginal infection"], "answer": "B"},
-  {"id": 48, "type": "mcq", "stem": "Breast changes during pregnancy, such as increased size and sensitivity, are described as being MORE pronounced in which group of women?", "options": ["Multiparae", "Primigravidae", "Grand multiparae exclusively", "Women over 40 exclusively"], "answer": "B"},
-  {"id": 49, "type": "mcq", "stem": "The small, prominent tubercles that appear on the primary areola during pregnancy, thought to lubricate the nipple, are called:", "options": ["Nabothian follicles", "Montgomery's tubercles", "Skene's tubercles", "Bartholin's tubercles"], "answer": "B"},
-  {"id": 50, "type": "mcq", "stem": "By approximately which week of pregnancy does a secondary, less pigmented areola form around the primary areola?", "options": ["The 5th week", "The 12th week", "The 20th week", "The 30th week"], "answer": "A"},
-  {"id": 51, "type": "mcq", "stem": "The clear, sticky fluid that may be expressed from the nipple after the first trimester, later becoming yellowish, is called:", "options": ["Leukorrhea", "Colostrum", "Lochia serosa", "Vernix"], "answer": "B"},
-  {"id": 52, "type": "mcq", "stem": "The enlargement of the heart during pregnancy is due primarily to hypertrophy of which chamber?", "options": ["The right atrium", "The left ventricle", "The right ventricle", "The left atrium exclusively"], "answer": "B"},
-  {"id": 53, "type": "mcq", "stem": "In late pregnancy, the growing fetus elevates the diaphragm, causing the heart to be pushed upward and to which side, adopting a more transverse position?", "options": ["To the right", "To the left", "It remains centrally positioned with no lateral shift", "Inferiorly, toward the diaphragm"], "answer": "B"},
-  {"id": 54, "type": "mcq", "stem": "During pregnancy, cardiac output increases significantly by approximately what percentage to handle the increase in blood volume?", "options": ["5% to 10%", "15% to 20%", "25% to 50%", "60% to 80%"], "answer": "C"},
-  {"id": 55, "type": "mcq", "stem": "During pregnancy, maternal heart rate typically increases by approximately how many beats per minute?", "options": ["2 beats per minute", "10 beats per minute", "25 beats per minute", "40 beats per minute"], "answer": "B"},
-  {"id": 56, "type": "mcq", "stem": "The bulk of the increase in cardiac work during pregnancy occurs predominantly during which trimester?", "options": ["The 1st trimester", "The 2nd trimester, with a small increase in the 3rd", "The 3rd trimester exclusively", "Equally distributed across all three trimesters"], "answer": "B"},
-  {"id": 57, "type": "mcq", "stem": "Maternal blood volume increases progressively beginning at approximately which gestational age?", "options": ["Immediately at conception", "6 to 8 weeks gestation", "20 weeks gestation", "30 weeks gestation"], "answer": "B"},
-  {"id": 58, "type": "mcq", "stem": "Maternal blood volume reaches its maximum at approximately which gestational age, with little change thereafter?", "options": ["20 to 24 weeks", "26 to 28 weeks", "32 to 34 weeks", "38 to 40 weeks"], "answer": "C"},
-  {"id": 59, "type": "mcq", "stem": "At term, total circulating blood volume has increased by approximately what percentage compared to the non-pregnant state?", "options": ["10% to 15%", "15% to 20%", "30% to 50%", "60% to 70%"], "answer": "C"},
-  {"id": 60, "type": "mcq", "stem": "The disproportionate increase in plasma volume relative to red cell volume during pregnancy results in a state known as:", "options": ["True iron deficiency anaemia", "Physiological (dilutional) anaemia", "Polycythemia", "Sickle cell crisis"], "answer": "B"},
-  {"id": 61, "type": "mcq", "stem": "The normal target haemoglobin level that supplemental iron and folic acid intake aims to restore/maintain during pregnancy is approximately:", "options": ["8 g/dL", "10 g/dL", "12 g/dL", "16 g/dL"], "answer": "C"},
-  {"id": 62, "type": "mcq", "stem": "The growing fetus requires approximately how much ADDITIONAL iron during pregnancy for its own growth?", "options": ["50 to 100 mg", "150 to 200 mg", "350 to 400 mg", "600 to 700 mg"], "answer": "C"},
-  {"id": 63, "type": "mcq", "stem": "The increase in the mother's own circulating red blood cell mass during pregnancy requires approximately how much additional iron?", "options": ["100 mg", "250 mg", "400 mg", "550 mg"], "answer": "C"},
-  {"id": 64, "type": "mcq", "stem": "Combining the fetal iron requirement and the maternal red cell mass requirement, the TOTAL additional iron need during pregnancy is approximately:", "options": ["400 mg", "600 mg", "800 mg", "1200 mg"], "answer": "C"},
-  {"id": 65, "type": "mcq", "stem": "Iron supplementation is usually prescribed during pregnancy because the average woman's iron stores are insufficient to meet the total additional need, primarily due to which contributing baseline factor?", "options": ["Excess iron stores from a high-iron diet before pregnancy", "Low iron stores from monthly menstrual losses prior to pregnancy", "Increased iron absorption in the non-pregnant state", "Complete absence of any iron requirement before pregnancy"], "answer": "B"},
-  {"id": 66, "type": "mcq", "stem": "CASE SCENARIO: A woman at 16 weeks gestation is told by her midwife that her uterus has become 'more globular' on abdominal palpation. The nurse explains that this shape change results from growth of the conceptus placing pressure on which structure, causing it to open out?", "options": ["The cervix", "The isthmus", "The fimbriated end of the tube", "The broad ligament"], "answer": "B"},
-  {"id": 67, "type": "mcq", "stem": "CASE SCENARIO (continued): At her next visit at 30 weeks, the midwife palpates the fundus midway between the umbilicus and the xiphisternum. The nurse recognizes this finding as consistent with the identifiable presence of which structure?", "options": ["The corpus luteum", "The lower uterine segment", "The operculum", "The decidua basalis exclusively"], "answer": "B"},
-  {"id": 68, "type": "mcq", "stem": "CASE SCENARIO: A primigravida at 38 weeks reports that her 'bump has dropped' and she is breathing more easily. The nurse recognizes this as lightening, occurring due to softening of the pelvic floor and further formation of which structure?", "options": ["The decidua capsularis", "The lower uterine segment", "The corpus luteum", "The primary areola"], "answer": "B"},
-  {"id": 69, "type": "mcq", "stem": "CASE SCENARIO (continued): The nurse explains to this primigravida that, unlike in multiparous women, this descent of the fetus with head engagement typically occurs at which point?", "options": ["Only after labour has already begun", "Before labour begins", "It never occurs in primigravidae", "Only during the second stage of labour"], "answer": "B"},
-  {"id": 70, "type": "mcq", "stem": "CASE SCENARIO: A woman at 10 weeks gestation has a haemoglobin of 11.0 g/dL, having previously been 13.0 g/dL pre-pregnancy, despite no evidence of bleeding. The nurse's BEST explanation to the client is that this reflects:", "options": ["An iron deficiency requiring immediate blood transfusion", "Physiological haemodilution from a disproportionate rise in plasma volume relative to red cell volume", "A sign of an undiagnosed haemolytic disorder", "An expected finding requiring no dietary or supplement modification whatsoever"], "answer": "B"},
-  {"id": 71, "type": "fitb", "stem": "Fertilization normally occurs in the ___________ portion of the fallopian tube, following pickup of the egg by the ___________.", "answer": "ampulla; fimbriae", "acceptableAnswers": ["ampulla; fimbriae"]},
-  {"id": 72, "type": "fitb", "stem": "An unfertilized ovulated egg dies within approximately ___________ hours, while the zygote remains in the fallopian tube for about ___________ to ___________ days after fertilization.", "answer": "12; 3; 4", "acceptableAnswers": ["12; 3; 4"]},
-  {"id": 73, "type": "fitb", "stem": "A woman is born with approximately ___________ eggs already present in her ovaries.", "answer": "2,000,000", "acceptableAnswers": ["2,000,000", "2 million", "2000000"]},
-  {"id": 74, "type": "fitb", "stem": "The formation of a mature sperm from a basic cell takes approximately ___________ days.", "answer": "70", "acceptableAnswers": ["70", "seventy"]},
-  {"id": 75, "type": "fitb", "stem": "By the time the embryo enters the uterus from the isthmic portion of the tube, it is usually about ___________ to ___________ cells in size.", "answer": "20; 40", "acceptableAnswers": ["20; 40"]},
-  {"id": 76, "type": "fitb", "stem": "The most obvious alteration in a woman's body during pregnancy is the increase in size of the ___________ to accommodate the growing fetus.", "answer": "uterus", "acceptableAnswers": ["uterus"]},
-  {"id": 77, "type": "fitb", "stem": "By the ___________ week of pregnancy, the uterus rises out of the pelvis, becomes upright, and is about the size of a ___________.", "answer": "12th; grapefruit", "acceptableAnswers": ["12th; grapefruit", "twelfth; grapefruit"]},
-  {"id": 78, "type": "fitb", "stem": "The name given to the endometrium during pregnancy is the ___________, which provides a ___________-rich environment for the blastocyst.", "answer": "decidua; glycogen", "acceptableAnswers": ["decidua; glycogen"]},
-  {"id": 79, "type": "fitb", "stem": "The myometrium undergoes hypertrophy and hyperplasia under the influence of ___________ and ___________, with muscle fibres growing up to ___________ to ___________ times their non-pregnant length.", "answer": "oestrogen; progesterone; 15; 20", "acceptableAnswers": ["oestrogen; progesterone; 15; 20"]},
-  {"id": 80, "type": "fitb", "stem": "At term, the uterus weighs approximately ___________ to ___________ grams and measures approximately 30 by 23 by ___________ cm.", "answer": "900; 1000; 20", "acceptableAnswers": ["900; 1000; 20"]},
-  {"id": 81, "type": "fitb", "stem": "Despite the gross enlargement of the uterus, the myometrial wall becomes thinner at term, measuring approximately ___________ cm or less.", "answer": "1.5", "acceptableAnswers": ["1.5"]},
-  {"id": 82, "type": "fitb", "stem": "The irregular, painless contractions occurring throughout pregnancy are called ___________ ___________ contractions, which increase in frequency from about the ___________ week.", "answer": "Braxton Hicks; 36th", "acceptableAnswers": ["Braxton Hicks; 36th"]},
-  {"id": 83, "type": "fitb", "stem": "Blood supply to the uterus during pregnancy increases to approximately ___________ mL per minute.", "answer": "750", "acceptableAnswers": ["750"]},
-  {"id": 84, "type": "fitb", "stem": "Under the influence of progesterone, cervical mucus thickens to form a protective cervical plug called the ___________.", "answer": "operculum", "acceptableAnswers": ["operculum"]},
-  {"id": 85, "type": "fitb", "stem": "The purple discoloration of the cervix due to increased vascularity is called ___________ sign, while softening of the cervix in late pregnancy is called ___________ sign.", "answer": "Chadwick's; Goodell's", "acceptableAnswers": ["Chadwick's; Goodell's"]},
-  {"id": 86, "type": "fitb", "stem": "The consistency of a non-pregnant cervix is compared to the tip of the ___________, while a late-pregnancy cervix is compared to the tip of the ___________ or ___________.", "answer": "nose; lips; earlobe", "acceptableAnswers": ["nose; lips; earlobe"]},
-  {"id": 87, "type": "fitb", "stem": "The corpus luteum continues producing oestrogen and progesterone until approximately the ___________ to ___________ week of pregnancy, when the placenta takes over.", "answer": "12th; 16th", "acceptableAnswers": ["12th; 16th"]},
-  {"id": 88, "type": "fitb", "stem": "During pregnancy, the vagina becomes more acidic due to interaction between glycogen and ___________ ___________, the normal vaginal flora.", "answer": "Doderlein's bacillus", "acceptableAnswers": ["Doderlein's bacillus"]},
-  {"id": 89, "type": "fitb", "stem": "The increased vaginal discharge during pregnancy, resulting from desquamation of the thickened epithelium, is known as ___________.", "answer": "leukorrhea", "acceptableAnswers": ["leukorrhea", "leucorrhoea"]},
-  {"id": 90, "type": "fitb", "stem": "Small tubercles that appear on the primary areola during pregnancy are called ___________ ___________, and a secondary areola forms by about the ___________ week.", "answer": "Montgomery's tubercles; 5th", "acceptableAnswers": ["Montgomery's tubercles; 5th"]},
-  {"id": 91, "type": "fitb", "stem": "The clear, sticky fluid expressed from the nipple after the first trimester, later turning yellowish, is called ___________.", "answer": "colostrum", "acceptableAnswers": ["colostrum"]},
-  {"id": 92, "type": "fitb", "stem": "During pregnancy, cardiac output increases by ___________% to ___________%, and heart rate increases by approximately ___________ beats per minute.", "answer": "25; 50; 10", "acceptableAnswers": ["25; 50; 10"]},
-  {"id": 93, "type": "fitb", "stem": "The bulk of the increase in cardiac work during pregnancy occurs during the ___________ trimester, with a small further increase in the ___________ trimester.", "answer": "2nd; 3rd", "acceptableAnswers": ["2nd; 3rd", "second; third"]},
-  {"id": 94, "type": "fitb", "stem": "Maternal blood volume increases progressively from about ___________ to ___________ weeks gestation, reaching a maximum at approximately ___________ to ___________ weeks.", "answer": "6; 8; 32; 34", "acceptableAnswers": ["6; 8; 32; 34"]},
-  {"id": 95, "type": "fitb", "stem": "At term, total circulating blood volume has increased by approximately ___________% to ___________% compared to the non-pregnant state.", "answer": "30; 50", "acceptableAnswers": ["30; 50"]},
-  {"id": 96, "type": "fitb", "stem": "Plasma volume increases by approximately ___________% to ___________% during pregnancy, while red cell volume increases by only about ___________%, producing physiological anaemia.", "answer": "40; 50; 18", "acceptableAnswers": ["40; 50; 18"]},
-  {"id": 97, "type": "fitb", "stem": "The normal target haemoglobin level maintained through iron and folic acid supplementation during pregnancy is approximately ___________ g/dL.", "answer": "12", "acceptableAnswers": ["12"]},
-  {"id": 98, "type": "fitb", "stem": "The fetus requires an additional ___________ to ___________ mg of iron, and the maternal red cell mass requires an additional ___________ mg, for a total increased need of about ___________ mg.", "answer": "350; 400; 400; 800", "acceptableAnswers": ["350; 400; 400; 800"]},
-  {"id": 99, "type": "fitb", "stem": "Women often need iron supplementation in pregnancy because their pre-pregnancy iron stores are already low as a result of monthly ___________ losses.", "answer": "menstrual", "acceptableAnswers": ["menstrual", "menstruation"]},
-  {"id": 100, "type": "fitb", "stem": "During pregnancy, the heart enlarges due to hypertrophy of the ___________ ventricle, and in late pregnancy is pushed upward and to the ___________ by the elevated diaphragm.", "answer": "left; left", "acceptableAnswers": ["left; left"]}
+  {
+    "id": 1,
+    "type": "mcq",
+    "stem": "During pregnancy, upward displacement of the diaphragm by the gravid uterus causes an elevation of approximately how much?",
+    "options": [
+      "1 cm",
+      "4 cm",
+      "8 cm",
+      "12 cm"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 2,
+    "type": "mcq",
+    "stem": "In pregnancy, breathing becomes more which type, compared to the predominantly thoracic pattern outside pregnancy?",
+    "options": [
+      "Costal",
+      "Diaphragmatic",
+      "Paradoxical",
+      "Apneustic"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 3,
+    "type": "mcq",
+    "stem": "Minute ventilation during pregnancy increases progressively, peaking at approximately what percentage above normal levels around the second trimester?",
+    "options": [
+      "10%",
+      "25%",
+      "50%",
+      "80%"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 4,
+    "type": "mcq",
+    "stem": "The increase in minute ventilation during pregnancy is achieved primarily through a 40% rise in tidal volume and an increase in respiratory rate of approximately how many breaths per minute?",
+    "options": [
+      "2 to 3 breaths/minute",
+      "6 to 8 breaths/minute",
+      "10 to 12 breaths/minute",
+      "15 to 20 breaths/minute"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 5,
+    "type": "mcq",
+    "stem": "The average arterial PaCO2 that persists during most of gestation, reflecting the hyperventilation of pregnancy, is approximately:",
+    "options": [
+      "25 mmHg",
+      "32 mmHg",
+      "40 mmHg",
+      "48 mmHg"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 6,
+    "type": "mcq",
+    "stem": "The average arterial oxygen tension (PaO2) that persists during most of gestation is approximately:",
+    "options": [
+      "75 mmHg",
+      "90 mmHg",
+      "105 mmHg",
+      "120 mmHg"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 7,
+    "type": "mcq",
+    "stem": "Maternal oxygen consumption increases progressively during pregnancy, reaching a rise of at least what percentage at term?",
+    "options": [
+      "5%",
+      "20%",
+      "40%",
+      "60%"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 8,
+    "type": "mcq",
+    "stem": "During LABOUR specifically, oxygen consumption increases further, by up to and over what percentage, due to the exaggerated cardiac and respiratory workload?",
+    "options": [
+      "20%",
+      "40%",
+      "60%",
+      "100%"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 9,
+    "type": "mcq",
+    "stem": "By late pregnancy, the circumference of the chest increases by approximately how much?",
+    "options": [
+      "2 cm",
+      "6 cm",
+      "10 cm",
+      "15 cm"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 10,
+    "type": "mcq",
+    "stem": "Renal plasma flow and glomerular filtration rate (GFR) begin to increase progressively starting in which trimester of pregnancy?",
+    "options": [
+      "First trimester",
+      "Second trimester only",
+      "Third trimester only",
+      "They remain unchanged throughout pregnancy"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 11,
+    "type": "mcq",
+    "stem": "At term, renal plasma flow and GFR are approximately what percentage higher than the non-pregnant state?",
+    "options": [
+      "10% to 20%",
+      "25% to 35%",
+      "50% to 60%",
+      "80% to 90%"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 12,
+    "type": "mcq",
+    "stem": "By the second trimester, renal blood flow may increase by as much as what percentage, before decreasing slowly after 30 weeks?",
+    "options": [
+      "20% to 30%",
+      "40% to 50%",
+      "70% to 80%",
+      "100% to 120%"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 13,
+    "type": "mcq",
+    "stem": "In normal pregnancy, mild glucosuria may occur within which daily range, without necessarily indicating diabetes mellitus?",
+    "options": [
+      "1 to 10 mg/day",
+      "50 to 100 mg/day",
+      "200 to 500 mg/day",
+      "1 to 2 g/day"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 14,
+    "type": "mcq",
+    "stem": "In normal pregnancy, proteinuria of up to what daily amount can occur without being considered pathological?",
+    "options": [
+      "50 mg/day",
+      "150 mg/day",
+      "300 mg/day",
+      "500 mg/day"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 15,
+    "type": "mcq",
+    "stem": "Enhanced tubular sodium reabsorption in pregnancy, needed to counteract the increased filtered sodium load, occurs primarily via increased secretion of which hormone through the renin-angiotensin mechanism?",
+    "options": [
+      "Cortisol",
+      "Aldosterone",
+      "Antidiuretic hormone",
+      "Atrial natriuretic peptide"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 16,
+    "type": "mcq",
+    "stem": "Throughout the whole period of pregnancy, approximately how much water and sodium is retained, respectively?",
+    "options": [
+      "2.5 litres of water and 300 mmol of sodium",
+      "7.5 litres of water and 900 mmol of sodium",
+      "15 litres of water and 1500 mmol of sodium",
+      "1 litre of water and 100 mmol of sodium"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 17,
+    "type": "mcq",
+    "stem": "After the 12th week of gestation, progesterone induces dilation and atony of which structures, contributing to urinary stasis?",
+    "options": [
+      "The bladder trigone only",
+      "The renal calyces and ureters",
+      "The urethral sphincter exclusively",
+      "The glomeruli directly"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 18,
+    "type": "mcq",
+    "stem": "Urinary stasis from ureteral compression and dilation during pregnancy specifically predisposes the woman to which complication?",
+    "options": [
+      "Renal cell carcinoma",
+      "Pyelonephritis",
+      "Nephrotic syndrome",
+      "Diabetes insipidus"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 19,
+    "type": "mcq",
+    "stem": "Urinary frequency during pregnancy is characteristically most pronounced during which trimester(s)?",
+    "options": [
+      "Only the second trimester",
+      "The first and last (third) trimesters, due to uterine pressure on the bladder",
+      "It is constant and unchanged throughout all trimesters",
+      "Only immediately postpartum"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 20,
+    "type": "mcq",
+    "stem": "Nausea and vomiting of pregnancy ('morning sickness') typically occurs in what percentage of pregnant women, beginning around 4 to 8 weeks of gestation?",
+    "options": [
+      "About 30%",
+      "About 50%",
+      "About 70%",
+      "About 95%"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 21,
+    "type": "mcq",
+    "stem": "Nausea and vomiting of pregnancy typically continues until approximately which gestational week?",
+    "options": [
+      "8 to 10 weeks",
+      "14 to 16 weeks",
+      "20 to 24 weeks",
+      "28 to 30 weeks"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 22,
+    "type": "mcq",
+    "stem": "Excessive vomiting in pregnancy is particularly associated with which two conditions, thought to result from excessive hormone levels?",
+    "options": [
+      "Gestational diabetes and pre-eclampsia",
+      "Multiple pregnancy and hydatidiform mole",
+      "Placenta praevia and abruptio placentae",
+      "Oligohydramnios and IUGR"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 23,
+    "type": "mcq",
+    "stem": "Slower gallbladder emptying and bile stagnation in pregnancy, considered almost physiological, may predispose the woman to which two complications?",
+    "options": [
+      "Cholecystitis and appendicitis",
+      "Pruritus and gallstone formation",
+      "Hepatitis and jaundice of the newborn",
+      "Peptic ulcer disease and GERD"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 24,
+    "type": "mcq",
+    "stem": "The hormone that serves as the classic biochemical signal of pregnancy, produced by the placenta, is:",
+    "options": [
+      "Human placental lactogen",
+      "Human chorionic gonadotrophin (hCG)",
+      "Progesterone",
+      "Relaxin"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 25,
+    "type": "mcq",
+    "stem": "hCG is secreted by which specific placental cell layer?",
+    "options": [
+      "The cytotrophoblast",
+      "The syncytiotrophoblast",
+      "The decidua basalis",
+      "The amnion"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 26,
+    "type": "mcq",
+    "stem": "Classically, hCG levels double approximately every how many hours in early normal pregnancy?",
+    "options": [
+      "12 hours",
+      "24 hours",
+      "36 hours",
+      "72 hours"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 27,
+    "type": "mcq",
+    "stem": "hCG levels peak at approximately what value around 10 weeks of gestation, before declining to a lower plateau?",
+    "options": [
+      "10,000 mIU/mL",
+      "50,000 mIU/mL",
+      "100,000 mIU/mL",
+      "500,000 mIU/mL"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 28,
+    "type": "mcq",
+    "stem": "The pituitary gland increases in weight by approximately what percentage in a woman's FIRST pregnancy?",
+    "options": [
+      "10%",
+      "30%",
+      "50%",
+      "70%"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 29,
+    "type": "mcq",
+    "stem": "At term, maternal plasma prolactin levels may rise to approximately how many times higher than non-pregnant levels?",
+    "options": [
+      "2 to 3 times",
+      "10 to 20 times",
+      "50 to 60 times",
+      "100 times"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 30,
+    "type": "mcq",
+    "stem": "hCG may transiently suppress TSH in early pregnancy because the two hormones share a common:",
+    "options": [
+      "Beta-subunit",
+      "Alpha-subunit",
+      "Receptor-binding domain only, with no shared subunit",
+      "Glycosylation pattern exclusively"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 31,
+    "type": "mcq",
+    "stem": "While TOTAL plasma T3 and T4 levels are raised in pregnancy, FREE (unbound) T3 and T4 concentrations typically:",
+    "options": [
+      "Rise dramatically above non-pregnant levels",
+      "Remain at levels similar to outside pregnancy",
+      "Fall to undetectable levels by mid-pregnancy",
+      "Become undetectable due to placental consumption"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 32,
+    "type": "mcq",
+    "stem": "Erythropoietin, a renal hormone, follows which pattern of change during pregnancy?",
+    "options": [
+      "It falls steadily from conception to term",
+      "It rises in mid-gestation and falls somewhat thereafter",
+      "It remains completely unchanged throughout pregnancy",
+      "It is undetectable until the third trimester"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 33,
+    "type": "mcq",
+    "stem": "During pregnancy, the size of the Islets of Langerhans and the number of beta-cells, as well as insulin receptor sites, characteristically:",
+    "options": [
+      "Decrease progressively",
+      "Increase",
+      "Remain completely unchanged",
+      "Are destroyed by autoimmune mechanisms"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 34,
+    "type": "mcq",
+    "stem": "In the FIRST trimester, psychological changes commonly reported by pregnant women include anxiety and fears regarding delivery, anger, and:",
+    "options": [
+      "Complete emotional stability with no mood variation",
+      "Sudden emotion swings",
+      "Total absence of any concern about the pregnancy",
+      "Only positive anticipatory emotions"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 35,
+    "type": "mcq",
+    "stem": "In the SECOND trimester, a woman commonly becomes self-conscious about which specific change, according to the summarized psychological changes?",
+    "options": [
+      "Her weight",
+      "Her blood pressure readings",
+      "Her laboratory results",
+      "Her partner's income"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 36,
+    "type": "mcq",
+    "stem": "In the THIRD trimester, common psychological experiences include anxiety about labour and birth, and often strange dreams about:",
+    "options": [
+      "Unrelated childhood memories only",
+      "Childbirth, the newborn baby, and life as a new mother",
+      "Financial planning exclusively",
+      "Career advancement only"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 37,
+    "type": "mcq",
+    "stem": "Which of the following psychological findings during pregnancy should be considered ABNORMAL, warranting further assessment, rather than a normal adjustment reaction?",
+    "options": [
+      "Mild anxiety about the upcoming delivery",
+      "Panic attacks and thoughts of self-harm or suicide",
+      "Occasional worry about fetal movement patterns",
+      "Mild self-consciousness about weight gain"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 38,
+    "type": "mcq",
+    "stem": "A prolonged episode of low mood during pregnancy lasting longer than how many weeks should be flagged as a possible abnormal psychological disruption?",
+    "options": [
+      "1 week",
+      "3 weeks",
+      "7 weeks",
+      "12 weeks"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 39,
+    "type": "mcq",
+    "stem": "Amenorrhoea is classified as which category of pregnancy sign?",
+    "options": [
+      "A positive sign",
+      "A probable sign",
+      "A presumptive sign",
+      "A diagnostic sign requiring no further confirmation"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 40,
+    "type": "mcq",
+    "stem": "Palpation of fetal parts is typically possible from approximately which gestational age onward, and is classified as which type of sign?",
+    "options": [
+      "12 weeks; a presumptive sign",
+      "20 weeks and above; a presumptive sign",
+      "20 weeks and above; a positive sign",
+      "8 weeks; a probable sign"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 41,
+    "type": "mcq",
+    "stem": "Nausea and vomiting of pregnancy are considered UNRELIABLE as a sign of pregnancy specifically because they:",
+    "options": [
+      "Never occur before the second trimester",
+      "May also result from other conditions such as GIT disorders, infection, or emotional stress",
+      "Only occur in multiparous women",
+      "Always resolve within 24 hours if truly caused by pregnancy"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 42,
+    "type": "mcq",
+    "stem": "The last menstrual period (LMP) is used clinically to calculate which important pregnancy parameter?",
+    "options": [
+      "Maternal blood type",
+      "The expected date of delivery (EDD)",
+      "Fetal birth weight",
+      "The Apgar score"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 43,
+    "type": "mcq",
+    "stem": "Sensitivity and specificity of urinary FSH testing to detect pregnancy in the post-ovulatory period were reported as approximately:",
+    "options": [
+      "50% and 55%",
+      "70% and 75%",
+      "88.9% and 89.3%",
+      "99% and 99.9%"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 44,
+    "type": "mcq",
+    "stem": "Early pregnancy factor (EPF), one of the first pregnancy markers to appear in blood, is detected PRIOR to which other hormone?",
+    "options": [
+      "Progesterone",
+      "hCG",
+      "Prolactin",
+      "Oestriol"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 45,
+    "type": "mcq",
+    "stem": "On trans-vaginal ultrasound, a chorionic gestational sac can typically be detected at a discriminatory hCG zone of approximately:",
+    "options": [
+      "500 mIU/mL",
+      "1,400 mIU/mL",
+      "6,500 mIU/mL",
+      "20,000 mIU/mL"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 46,
+    "type": "mcq",
+    "stem": "On TRANS-ABDOMINAL ultrasound scanning, the discriminatory hCG zone for detecting a gestational sac is approximately:",
+    "options": [
+      "1,400 mIU/mL",
+      "3,000 mIU/mL",
+      "6,500 mIU/mL",
+      "15,000 mIU/mL"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 47,
+    "type": "mcq",
+    "stem": "Despite the hypervolemia of pregnancy, blood pressure typically does NOT normally change significantly, largely due to which mechanism?",
+    "options": [
+      "A marked increase in peripheral resistance offsetting the increased volume",
+      "A reduction in peripheral resistance and relaxation/dilation of the arterial wall",
+      "Complete cessation of renin-angiotensin activity",
+      "A decrease in heart action counterbalancing the volume increase"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 48,
+    "type": "mcq",
+    "stem": "During the FIRST trimester, cardiac output is approximately what percentage higher than in the non-pregnant state?",
+    "options": [
+      "10% to 15%",
+      "30% to 40%",
+      "60% to 70%",
+      "90% to 100%"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 49,
+    "type": "mcq",
+    "stem": "According to Doppler echocardiography data, cardiac output rises from an average of approximately 6.1 litres/minute at 8-11 weeks to approximately what value at 36-39 weeks?",
+    "options": [
+      "6.5 litres/minute",
+      "7.2 litres/minute",
+      "8.7 litres/minute",
+      "10.5 litres/minute"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 50,
+    "type": "mcq",
+    "stem": "The increase in cardiac output during pregnancy is due primarily to an approximate 30% increase in stroke volume and, to a lesser extent, to an approximate what percentage increase in heart rate?",
+    "options": [
+      "5%",
+      "15%",
+      "35%",
+      "50%"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 51,
+    "type": "mcq",
+    "stem": "During LABOUR, contraction of the uterus transfers approximately how much blood into the maternal venous system, increasing intravascular volume?",
+    "options": [
+      "50 to 100 mL",
+      "300 to 500 mL",
+      "800 to 1000 mL",
+      "1500 to 2000 mL"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 52,
+    "type": "mcq",
+    "stem": "Following delivery, auto-transfusion from the involuting uterus can further increase cardiac output by approximately what percentage above pre-delivery values?",
+    "options": [
+      "10%",
+      "25%",
+      "50%",
+      "80%"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 53,
+    "type": "mcq",
+    "stem": "Aorto-caval compression from mid-pregnancy onward reduces venous return to the heart, leading to a fall in cardiac output. Most pregnant women compensate for this by increasing which TWO parameters?",
+    "options": [
+      "Stroke volume and central venous pressure only",
+      "Systemic vascular resistance and heart rate",
+      "Renal blood flow and glomerular filtration rate",
+      "Tidal volume and respiratory rate"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 54,
+    "type": "mcq",
+    "stem": "Venous distension during the course of gestation increases by approximately what percentage?",
+    "options": [
+      "20%",
+      "50%",
+      "100%",
+      "150%"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 55,
+    "type": "mcq",
+    "stem": "In supine hypotension syndrome, the weight of the gravid uterus presses on which vessel, obstructing venous return from the lower extremities?",
+    "options": [
+      "The abdominal aorta",
+      "The inferior vena cava",
+      "The superior vena cava",
+      "The common iliac artery bilaterally"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 56,
+    "type": "mcq",
+    "stem": "Supine hypotension syndrome is most effectively corrected or prevented by positioning the woman:",
+    "options": [
+      "Flat on her back with legs elevated",
+      "In a semi-sitting (Fowler's) position only",
+      "On her side, preferably the left side",
+      "Prone, with a pillow under the pelvis"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 57,
+    "type": "mcq",
+    "stem": "Plasma fibrinogen (clotting factor I) increases progressively starting from approximately which month of pregnancy?",
+    "options": [
+      "The 1st month",
+      "The 3rd month",
+      "The 6th month",
+      "The 8th month"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 58,
+    "type": "mcq",
+    "stem": "The increase in clotting factors during pregnancy causes coagulation time to change from approximately 12 minutes to approximately how many minutes?",
+    "options": [
+      "10 minutes",
+      "8 minutes",
+      "5 minutes",
+      "2 minutes"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 59,
+    "type": "mcq",
+    "stem": "Serum cholesterol level increases during pregnancy by approximately what percentage, providing a ready supply of available energy for the fetus?",
+    "options": [
+      "10% to 20%",
+      "40% to 50%",
+      "90% to 100%",
+      "150% to 200%"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 60,
+    "type": "mcq",
+    "stem": "Levels of immunoglobulins IgA, IgG, and IgM decrease steadily during pregnancy from approximately which week to which week, then remain at these lower levels until term?",
+    "options": [
+      "The 2nd week to the 10th week",
+      "The 10th week to the 30th week",
+      "The 30th week to term only",
+      "They increase, rather than decrease, throughout pregnancy"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 61,
+    "type": "mcq",
+    "stem": "CASE SCENARIO: A pregnant client at 34 weeks lies flat on her back for a prolonged examination and suddenly reports dizziness, with a measured drop in blood pressure. The nurse recognizes this as most consistent with:",
+    "options": [
+      "Pre-eclampsia",
+      "Supine hypotension syndrome from vena caval compression",
+      "Normal physiological blood pressure changes of pregnancy requiring no action",
+      "Placental abruption"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 62,
+    "type": "mcq",
+    "stem": "CASE SCENARIO (continued): The nurse's IMMEDIATE priority action is to:",
+    "options": [
+      "Elevate the head of the bed to 90 degrees only",
+      "Reposition the client onto her left side",
+      "Administer intravenous antihypertensive medication",
+      "Continue the examination without repositioning"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 63,
+    "type": "mcq",
+    "stem": "CASE SCENARIO: A woman at 6 weeks gestation presents with vomiting occurring several times daily, occurring not only in the morning but throughout the day, along with reported weight loss. An ultrasound reveals a multiple pregnancy. The nurse understands the excessive vomiting in this case is most likely related to:",
+    "options": [
+      "A normal, expected pattern requiring no further evaluation",
+      "Excessive hormone levels associated with the multiple gestation",
+      "An unrelated gastrointestinal infection only",
+      "A sign of fetal demise"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 64,
+    "type": "mcq",
+    "stem": "CASE SCENARIO: A woman at 8 weeks gestation asks the nurse when a home urine pregnancy test would have been reliable, given that hCG must reach detectable thresholds. The nurse explains that hCG classically doubles approximately every how many hours in early pregnancy, allowing rapid rise to detectable levels?",
+    "options": [
+      "12 hours",
+      "24 hours",
+      "36 hours",
+      "60 hours"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 65,
+    "type": "mcq",
+    "stem": "CASE SCENARIO (continued): The client also asks why her urine glucose came back mildly positive despite normal blood sugar. The nurse explains this finding is consistent with physiological glucosuria of pregnancy, resulting from:",
+    "options": [
+      "Undiagnosed diabetes mellitus requiring immediate insulin therapy",
+      "Increased glomerular filtration overwhelming tubular reabsorption capacity",
+      "A laboratory error that should be disregarded entirely",
+      "Excessive dietary sugar intake exclusively"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 66,
+    "type": "mcq",
+    "stem": "CASE SCENARIO: A primigravida at 30 weeks reports recurrent burning urination and flank discomfort. The nurse recalls that hormone-induced dilation of the ureters and calyces, combined with uterine compression at the pelvic brim, predisposes pregnant women to which specific complication?",
+    "options": [
+      "Nephrotic syndrome",
+      "Pyelonephritis",
+      "Renal cell carcinoma",
+      "Polycystic kidney disease"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 67,
+    "type": "mcq",
+    "stem": "CASE SCENARIO: A woman at 12 weeks gestation reports intense anxiety about the possibility of miscarriage, sudden mood swings, and anger she cannot explain. The nurse recognizes these findings as most consistent with:",
+    "options": [
+      "An abnormal psychiatric disorder requiring immediate hospitalization",
+      "Expected first-trimester psychological changes of pregnancy",
+      "A sign of intimate partner violence exclusively",
+      "Evidence of substance use disorder"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 68,
+    "type": "mcq",
+    "stem": "CASE SCENARIO (continued): At a later visit, the same client reports persistent low mood lasting 9 weeks, poor appetite, early morning wakening, and passive thoughts of hopelessness. The nurse's BEST response is to:",
+    "options": [
+      "Reassure her that this is completely normal for all trimesters and requires no follow-up",
+      "Recognize this as an abnormal psychological disruption warranting further assessment",
+      "Advise her that these symptoms always resolve spontaneously by the third trimester",
+      "Attribute this solely to normal fatigue of pregnancy with no further action"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 69,
+    "type": "mcq",
+    "stem": "CASE SCENARIO: A woman requests to know why her doctor is not worried about her irregular, painless uterine tightenings at 32 weeks, distinct from true labour. The nurse explains these are most likely:",
+    "options": [
+      "Signs of preterm labour requiring tocolysis",
+      "Braxton Hicks contractions, a normal finding of pregnancy",
+      "Evidence of uterine rupture",
+      "A sign of chorioamnionitis"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 70,
+    "type": "mcq",
+    "stem": "CASE SCENARIO: A client asks why her gums bleed slightly when she brushes her teeth during pregnancy. The nurse's BEST explanation is that pregnancy hormones cause the gums to become:",
+    "options": [
+      "Fibrotic and rigid, resistant to bleeding",
+      "Oedematous, soft, and spongy",
+      "Completely atrophic with reduced blood supply",
+      "Calcified due to excess calcium deposition"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 71,
+    "type": "fitb",
+    "stem": "During pregnancy, minute ventilation increases progressively, peaking at approximately ___________% above normal levels around the ___________ trimester.",
+    "answer": "50; second",
+    "acceptableAnswers": [
+      "50; second"
+    ]
+  },
+  {
+    "id": 72,
+    "type": "fitb",
+    "stem": "The average arterial PaCO2 during most of gestation is approximately ___________ mmHg, and the average PaO2 is approximately ___________ mmHg.",
+    "answer": "32; 105",
+    "acceptableAnswers": [
+      "32; 105"
+    ]
+  },
+  {
+    "id": 73,
+    "type": "fitb",
+    "stem": "Maternal oxygen consumption rises by at least ___________% at term, and increases further by up to and over ___________% during labour.",
+    "answer": "20; 60",
+    "acceptableAnswers": [
+      "20; 60"
+    ]
+  },
+  {
+    "id": 74,
+    "type": "fitb",
+    "stem": "By late pregnancy, chest circumference increases by approximately ___________ cm, while the diaphragm is elevated by approximately ___________ cm.",
+    "answer": "6; 4",
+    "acceptableAnswers": [
+      "6; 4"
+    ]
+  },
+  {
+    "id": 75,
+    "type": "fitb",
+    "stem": "At term, renal plasma flow and glomerular filtration rate are approximately ___________% to ___________% higher than in the non-pregnant state.",
+    "answer": "50; 60",
+    "acceptableAnswers": [
+      "50; 60"
+    ]
+  },
+  {
+    "id": 76,
+    "type": "fitb",
+    "stem": "Renal blood flow may increase by as much as ___________% to ___________% by the second trimester of pregnancy.",
+    "answer": "70; 80",
+    "acceptableAnswers": [
+      "70; 80"
+    ]
+  },
+  {
+    "id": 77,
+    "type": "fitb",
+    "stem": "Throughout pregnancy, the body retains approximately ___________ litres of water and ___________ mmol of sodium.",
+    "answer": "7.5; 900",
+    "acceptableAnswers": [
+      "7.5; 900"
+    ]
+  },
+  {
+    "id": 78,
+    "type": "fitb",
+    "stem": "Mild glucosuria of ___________ to ___________ mg/day and proteinuria of up to ___________ mg/day can occur in normal pregnancy.",
+    "answer": "1; 10; 300",
+    "acceptableAnswers": [
+      "1; 10; 300"
+    ]
+  },
+  {
+    "id": 79,
+    "type": "fitb",
+    "stem": "Nausea and vomiting of pregnancy occurs in about ___________% of women, beginning around ___________ to ___________ weeks and usually continuing until ___________ to ___________ weeks.",
+    "answer": "70; 4; 8; 14; 16",
+    "acceptableAnswers": [
+      "70; 4; 8; 14; 16"
+    ]
+  },
+  {
+    "id": 80,
+    "type": "fitb",
+    "stem": "Excessive salivation in pregnancy is called ___________, while pathological craving for non-food substances is called ___________.",
+    "answer": "ptyalism; pica",
+    "acceptableAnswers": [
+      "ptyalism; pica"
+    ]
+  },
+  {
+    "id": 81,
+    "type": "fitb",
+    "stem": "hCG is secreted by the ___________ of the placenta and classically doubles every ___________ hours in early pregnancy.",
+    "answer": "syncytiotrophoblast; 36",
+    "acceptableAnswers": [
+      "syncytiotrophoblast; 36"
+    ]
+  },
+  {
+    "id": 82,
+    "type": "fitb",
+    "stem": "hCG peaks at approximately ___________ mIU/mL at 10 weeks gestation, then falls to approximately ___________ mIU/mL by mid-pregnancy.",
+    "answer": "100,000; 20,000",
+    "acceptableAnswers": [
+      "100,000; 20,000",
+      "100000; 20000"
+    ]
+  },
+  {
+    "id": 83,
+    "type": "fitb",
+    "stem": "The pituitary gland increases in weight by ___________% in first pregnancies and by ___________% in subsequent pregnancies, while prolactin rises to about ___________ to ___________ times non-pregnant levels.",
+    "answer": "30; 50; 10; 20",
+    "acceptableAnswers": [
+      "30; 50; 10; 20"
+    ]
+  },
+  {
+    "id": 84,
+    "type": "fitb",
+    "stem": "hCG and TSH share a common ___________-subunit, which explains transient TSH suppression in early pregnancy.",
+    "answer": "alpha",
+    "acceptableAnswers": [
+      "alpha"
+    ]
+  },
+  {
+    "id": 85,
+    "type": "fitb",
+    "stem": "Maternal total plasma calcium falls in pregnancy because of a fall in ___________, while ___________ (ionized) calcium remains unchanged.",
+    "answer": "albumin; unbound",
+    "acceptableAnswers": [
+      "albumin; unbound"
+    ]
+  },
+  {
+    "id": 86,
+    "type": "fitb",
+    "stem": "The trans-vaginal ultrasound discriminatory zone for detecting a gestational sac is approximately ___________ mIU/mL, compared to approximately ___________ mIU/mL for trans-abdominal scanning.",
+    "answer": "1,400; 6,500",
+    "acceptableAnswers": [
+      "1,400; 6,500",
+      "1400; 6500"
+    ]
+  },
+  {
+    "id": 87,
+    "type": "fitb",
+    "stem": "Sensitivity and specificity of urinary FSH testing to detect pregnancy were reported as approximately ___________% and ___________% respectively.",
+    "answer": "88.9; 89.3",
+    "acceptableAnswers": [
+      "88.9; 89.3"
+    ]
+  },
+  {
+    "id": 88,
+    "type": "fitb",
+    "stem": "Cardiac output rises from an average of ___________ litres/minute at 8-11 weeks to approximately ___________ litres/minute at 36-39 weeks, driven by a 30% rise in ___________ and a 15% rise in ___________.",
+    "answer": "6.1; 8.7; stroke volume; heart rate",
+    "acceptableAnswers": [
+      "6.1; 8.7; stroke volume; heart rate"
+    ]
+  },
+  {
+    "id": 89,
+    "type": "fitb",
+    "stem": "Uterine contraction during labour transfers approximately ___________ to ___________ mL of blood into the maternal circulation, and auto-transfusion after delivery can raise cardiac output by about ___________% above pre-delivery values.",
+    "answer": "300; 500; 50",
+    "acceptableAnswers": [
+      "300; 500; 50"
+    ]
+  },
+  {
+    "id": 90,
+    "type": "fitb",
+    "stem": "Plasma fibrinogen increases from about the ___________ month of pregnancy, changing coagulation time from about 12 minutes to about ___________ minutes, while serum cholesterol increases by about ___________% to ___________%.",
+    "answer": "3rd; 8; 90; 100",
+    "acceptableAnswers": [
+      "3rd; 8; 90; 100"
+    ]
+  },
+  {
+    "type": "fitb",
+    "stem": "Nasal congestion during pregnancy is attributed to increased levels of ___________.",
+    "answer": "oestrogen",
+    "acceptableAnswers": [
+      "oestrogen"
+    ],
+    "id": 91
+  },
+  {
+    "type": "fitb",
+    "stem": "Excessive salivation in pregnancy, thought to be a response to increased oestrogen, is called ___________.",
+    "answer": "ptyalism",
+    "acceptableAnswers": [
+      "ptyalism"
+    ],
+    "id": 92
+  },
+  {
+    "type": "fitb",
+    "stem": "A pregnancy-related craving for non-food substances such as coal or wall plaster is called ___________.",
+    "answer": "pica",
+    "acceptableAnswers": [
+      "pica"
+    ],
+    "id": 93
+  },
+  {
+    "type": "fitb",
+    "stem": "hCG inhibits ovarian follicle development by blunting the pituitary response to ___________ ___________ hormone (GnRH).",
+    "answer": "gonadotrophin-releasing",
+    "acceptableAnswers": [
+      "gonadotrophin-releasing",
+      "gonadotrophin releasing"
+    ],
+    "id": 94
+  },
+  {
+    "type": "fitb",
+    "stem": "Maternal total plasma calcium falls in pregnancy due to falling ___________ levels, while ionized calcium stays ___________.",
+    "answer": "albumin; unchanged",
+    "acceptableAnswers": [
+      "albumin; unchanged"
+    ],
+    "id": 95
+  },
+  {
+    "type": "fitb",
+    "stem": "Amenorrhoea becomes a significant clue to pregnancy after approximately ___________ weeks of missed menses.",
+    "answer": "4",
+    "acceptableAnswers": [
+      "4",
+      "four"
+    ],
+    "id": 96
+  },
+  {
+    "type": "fitb",
+    "stem": "A cervical smear should be taken during pelvic assessment for pregnancy if none has been done in the preceding ___________ years.",
+    "answer": "2",
+    "acceptableAnswers": [
+      "2",
+      "two"
+    ],
+    "id": 97
+  },
+  {
+    "type": "fitb",
+    "stem": "The mild grade I or II systolic murmur of pregnancy results from dilation across the ___________ valve.",
+    "answer": "tricuspid",
+    "acceptableAnswers": [
+      "tricuspid"
+    ],
+    "id": 98
+  },
+  {
+    "type": "fitb",
+    "stem": "___________ increase in pregnancy, enhancing the blood's phagocytic and bactericidal properties.",
+    "answer": "Neutrophils",
+    "acceptableAnswers": [
+      "Neutrophils"
+    ],
+    "id": 99
+  },
+  {
+    "type": "fitb",
+    "stem": "Total blood protein falls within the first ___________ weeks of pregnancy due to increased plasma volume, contributing to lower-limb ___________ in late pregnancy.",
+    "answer": "20; oedema",
+    "acceptableAnswers": [
+      "20; oedema"
+    ],
+    "id": 100
+  }
 ]
