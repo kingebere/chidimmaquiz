@@ -2,1115 +2,1111 @@
   {
     "id": 1,
     "type": "mcq",
-    "stem": "During pregnancy, upward displacement of the diaphragm by the gravid uterus causes an elevation of approximately how much?",
+    "stem": "Osteoarthritis (osteoarthrosis) is best classified pathologically as:",
     "options": [
-      "1 cm",
-      "4 cm",
-      "8 cm",
-      "12 cm"
+      "An autoimmune inflammatory disease",
+      "A degenerative, non-inflammatory disease",
+      "A bacterial infective process",
+      "A metabolic crystal deposition disease"
     ],
     "answer": "B"
   },
   {
     "id": 2,
     "type": "mcq",
-    "stem": "In pregnancy, breathing becomes more which type, compared to the predominantly thoracic pattern outside pregnancy?",
+    "stem": "The abnormal bony outgrowths that form at the edges of bones in osteoarthritis, resulting from ossification of abnormal cartilage growth, are called:",
     "options": [
-      "Costal",
-      "Diaphragmatic",
-      "Paradoxical",
-      "Apneustic"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 3,
-    "type": "mcq",
-    "stem": "Minute ventilation during pregnancy increases progressively, peaking at approximately what percentage above normal levels around the second trimester?",
-    "options": [
-      "10%",
-      "25%",
-      "50%",
-      "80%"
+      "Rheumatoid nodules",
+      "Tophi",
+      "Osteophytes",
+      "Pannus"
     ],
     "answer": "C"
   },
   {
-    "id": 4,
+    "id": 3,
     "type": "mcq",
-    "stem": "The increase in minute ventilation during pregnancy is achieved primarily through a 40% rise in tidal volume and an increase in respiratory rate of approximately how many breaths per minute?",
+    "stem": "Secondary osteoarthritis, as distinct from primary (idiopathic) osteoarthritis, occurs when a joint has been previously affected by which type of condition?",
     "options": [
-      "2 to 3 breaths/minute",
-      "6 to 8 breaths/minute",
-      "10 to 12 breaths/minute",
-      "15 to 20 breaths/minute"
+      "A prior abnormality such as trauma or gout",
+      "A completely unrelated cardiovascular disease",
+      "A congenital absence of the joint capsule",
+      "A vitamin deficiency exclusively"
     ],
     "answer": "A"
   },
   {
+    "id": 4,
+    "type": "mcq",
+    "stem": "Osteoarthritis typically develops in late middle age and characteristically affects which type of joints?",
+    "options": [
+      "Small, non-weight-bearing joints of the fingers exclusively",
+      "Large weight-bearing joints such as the hips, knees, and cervical/lumbar spine",
+      "Only the joints of the wrist and elbow",
+      "Exclusively the sacroiliac joints"
+    ],
+    "answer": "B"
+  },
+  {
     "id": 5,
     "type": "mcq",
-    "stem": "The average arterial PaCO2 that persists during most of gestation, reflecting the hyperventilation of pregnancy, is approximately:",
+    "stem": "In a traumatic joint dislocation, additional damage to intracapsular structures may occur by stretching. In the SHOULDER joint, which structure is specifically at risk?",
     "options": [
-      "25 mmHg",
-      "32 mmHg",
-      "40 mmHg",
-      "48 mmHg"
+      "The cruciate ligaments",
+      "The long head of the biceps muscle tendon",
+      "The ligament of the head of the femur",
+      "The medial meniscus"
     ],
     "answer": "B"
   },
   {
     "id": 6,
     "type": "mcq",
-    "stem": "The average arterial oxygen tension (PaO2) that persists during most of gestation is approximately:",
+    "stem": "In a traumatic dislocation of the KNEE joint, which intracapsular structures are specifically at risk of stretching injury?",
     "options": [
-      "75 mmHg",
-      "90 mmHg",
-      "105 mmHg",
-      "120 mmHg"
+      "The cruciate ligaments",
+      "The long head of biceps",
+      "The ligament of the head of the femur",
+      "The acromioclavicular ligament"
     ],
-    "answer": "C"
+    "answer": "A"
   },
   {
     "id": 7,
     "type": "mcq",
-    "stem": "Maternal oxygen consumption increases progressively during pregnancy, reaching a rise of at least what percentage at term?",
+    "stem": "In a traumatic dislocation of the HIP joint, which structure is specifically at risk of stretching injury?",
     "options": [
-      "5%",
-      "20%",
-      "40%",
-      "60%"
+      "The cruciate ligaments",
+      "The ligament of the head of the femur",
+      "The long head of biceps",
+      "The coracoacromial ligament"
     ],
     "answer": "B"
   },
   {
     "id": 8,
     "type": "mcq",
-    "stem": "During LABOUR specifically, oxygen consumption increases further, by up to and over what percentage, due to the exaggerated cardiac and respiratory workload?",
+    "stem": "Sprains, strains, and dislocations are distinguished from penetrating joint injuries by which key feature?",
     "options": [
-      "20%",
-      "40%",
-      "60%",
-      "100%"
+      "They always require surgical intervention",
+      "They damage soft tissues, tendons, and ligaments without penetrating the joint capsule",
+      "They never cause any loss of joint stability",
+      "They exclusively affect the axial skeleton"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 9,
     "type": "mcq",
-    "stem": "By late pregnancy, the circumference of the chest increases by approximately how much?",
+    "stem": "Healing of a penetrating joint injury may be delayed or made uneven by the presence of which factor?",
     "options": [
-      "2 cm",
-      "6 cm",
-      "10 cm",
-      "15 cm"
+      "Excess synovial fluid production alone",
+      "Fragments of damaged or torn joint tissue that cannot be removed or repaired by normal body mechanisms",
+      "An overabundance of hyaline cartilage regeneration",
+      "Complete absence of any inflammatory response"
     ],
     "answer": "B"
   },
   {
     "id": 10,
     "type": "mcq",
-    "stem": "Renal plasma flow and glomerular filtration rate (GFR) begin to increase progressively starting in which trimester of pregnancy?",
+    "stem": "Carpal tunnel syndrome results from compression of which nerve as it passes through the wrist?",
     "options": [
-      "First trimester",
-      "Second trimester only",
-      "Third trimester only",
-      "They remain unchanged throughout pregnancy"
+      "The ulnar nerve",
+      "The median nerve",
+      "The radial nerve",
+      "The musculocutaneous nerve"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 11,
     "type": "mcq",
-    "stem": "At term, renal plasma flow and GFR are approximately what percentage higher than the non-pregnant state?",
+    "stem": "Carpal tunnel syndrome is most common in which demographic group?",
     "options": [
-      "10% to 20%",
-      "25% to 35%",
-      "50% to 60%",
-      "80% to 90%"
+      "Men aged 50 to 70 years",
+      "Women aged 30 to 50 years",
+      "Children under 10 years",
+      "Adolescent males"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 12,
     "type": "mcq",
-    "stem": "By the second trimester, renal blood flow may increase by as much as what percentage, before decreasing slowly after 30 weeks?",
+    "stem": "The characteristic sensory disturbance of carpal tunnel syndrome affects the thumb, index and middle fingers, and half of which additional finger?",
     "options": [
-      "20% to 30%",
-      "40% to 50%",
-      "70% to 80%",
-      "100% to 120%"
+      "The little finger",
+      "The ring finger",
+      "The entire ring and little fingers",
+      "No additional finger is affected"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 13,
     "type": "mcq",
-    "stem": "In normal pregnancy, mild glucosuria may occur within which daily range, without necessarily indicating diabetes mellitus?",
+    "stem": "Carpal tunnel syndrome may occur secondary to which of the following systemic conditions?",
     "options": [
-      "1 to 10 mg/day",
-      "50 to 100 mg/day",
-      "200 to 500 mg/day",
-      "1 to 2 g/day"
+      "Rheumatoid arthritis, diabetes mellitus, and hypothyroidism",
+      "Osteoarthritis of the hip exclusively",
+      "Acute gouty attacks of the great toe only",
+      "Duchenne muscular dystrophy exclusively"
     ],
     "answer": "A"
   },
   {
     "id": 14,
     "type": "mcq",
-    "stem": "In normal pregnancy, proteinuria of up to what daily amount can occur without being considered pathological?",
+    "stem": "Repetitive activity implicated in causing or worsening carpal tunnel syndrome includes which specific behavior?",
     "options": [
-      "50 mg/day",
-      "150 mg/day",
-      "300 mg/day",
-      "500 mg/day"
+      "Prolonged standing",
+      "Prolonged flexion and extension of the wrist, such as extensive keyboard use",
+      "Occasional light stretching exercises",
+      "Infrequent, brief hand use"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 15,
     "type": "mcq",
-    "stem": "Enhanced tubular sodium reabsorption in pregnancy, needed to counteract the increased filtered sodium load, occurs primarily via increased secretion of which hormone through the renin-angiotensin mechanism?",
+    "stem": "Gout results from deposition of which crystal type in and around joints?",
     "options": [
-      "Cortisol",
-      "Aldosterone",
-      "Antidiuretic hormone",
-      "Atrial natriuretic peptide"
+      "Calcium pyrophosphate crystals",
+      "Sodium urate crystals",
+      "Cholesterol crystals",
+      "Calcium oxalate crystals"
     ],
     "answer": "B"
   },
   {
     "id": 16,
     "type": "mcq",
-    "stem": "Throughout the whole period of pregnancy, approximately how much water and sodium is retained, respectively?",
+    "stem": "Primary gout, the most common form, results from which underlying mechanism?",
     "options": [
-      "2.5 litres of water and 300 mmol of sodium",
-      "7.5 litres of water and 900 mmol of sodium",
-      "15 litres of water and 1500 mmol of sodium",
-      "1 litre of water and 100 mmol of sodium"
+      "High urate production or impaired urate excretion",
+      "Direct bacterial infection of the joint",
+      "Autoimmune destruction of the synovium",
+      "Congenital absence of the joint capsule"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 17,
     "type": "mcq",
-    "stem": "After the 12th week of gestation, progesterone induces dilation and atony of which structures, contributing to urinary stasis?",
+    "stem": "Secondary gout arises from raised urate levels resulting from another underlying disease, such as:",
     "options": [
-      "The bladder trigone only",
-      "The renal calyces and ureters",
-      "The urethral sphincter exclusively",
-      "The glomeruli directly"
+      "Kidney failure",
+      "Simple dehydration alone",
+      "A common cold",
+      "Vitamin D deficiency"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 18,
     "type": "mcq",
-    "stem": "Urinary stasis from ureteral compression and dilation during pregnancy specifically predisposes the woman to which complication?",
+    "stem": "Attacks of gout can be precipitated by which of the following factors?",
     "options": [
-      "Renal cell carcinoma",
-      "Pyelonephritis",
-      "Nephrotic syndrome",
-      "Diabetes insipidus"
+      "Trauma, alcohol, or certain drugs",
+      "Cold weather exclusively, with no other trigger",
+      "Vitamin C supplementation only",
+      "Mild aerobic exercise alone"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 19,
     "type": "mcq",
-    "stem": "Urinary frequency during pregnancy is characteristically most pronounced during which trimester(s)?",
+    "stem": "Repeated acute gouty attacks can eventually lead to which complication of the affected joint(s)?",
     "options": [
-      "Only the second trimester",
-      "The first and last (third) trimesters, due to uterine pressure on the bladder",
-      "It is constant and unchanged throughout all trimesters",
-      "Only immediately postpartum"
+      "Complete, permanent joint fusion in all cases",
+      "Loss of function of the affected joints",
+      "Spontaneous cure with no residual effect",
+      "Conversion to a purely inflammatory autoimmune process"
     ],
     "answer": "B"
   },
   {
     "id": 20,
     "type": "mcq",
-    "stem": "Nausea and vomiting of pregnancy ('morning sickness') typically occurs in what percentage of pregnant women, beginning around 4 to 8 weeks of gestation?",
+    "stem": "Gout is sometimes complicated by the development of which renal finding?",
     "options": [
-      "About 30%",
-      "About 50%",
-      "About 70%",
-      "About 95%"
+      "Renal calculi",
+      "Polycystic kidneys",
+      "Renal cell carcinoma",
+      "Horseshoe kidney"
     ],
-    "answer": "C"
+    "answer": "A"
   },
   {
     "id": 21,
     "type": "mcq",
-    "stem": "Nausea and vomiting of pregnancy typically continues until approximately which gestational week?",
+    "stem": "Systemic lupus erythematosus (SLE) is characterized by a distinctive skin finding described as a 'butterfly' rash typically distributed across which area?",
     "options": [
-      "8 to 10 weeks",
-      "14 to 16 weeks",
-      "20 to 24 weeks",
-      "28 to 30 weeks"
+      "The palms of the hands only",
+      "The face (across the nose and cheeks)",
+      "The soles of the feet exclusively",
+      "The scalp only"
     ],
     "answer": "B"
   },
   {
     "id": 22,
     "type": "mcq",
-    "stem": "Excessive vomiting in pregnancy is particularly associated with which two conditions, thought to result from excessive hormone levels?",
+    "stem": "SLE can result in renal involvement, most classically manifesting as:",
     "options": [
-      "Gestational diabetes and pre-eclampsia",
-      "Multiple pregnancy and hydatidiform mole",
-      "Placenta praevia and abruptio placentae",
-      "Oligohydramnios and IUGR"
+      "Glomerulonephritis, which may progress to chronic kidney disease",
+      "Renal cell carcinoma",
+      "Acute pyelonephritis exclusively",
+      "Polycystic kidney disease"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 23,
     "type": "mcq",
-    "stem": "Slower gallbladder emptying and bile stagnation in pregnancy, considered almost physiological, may predispose the woman to which two complications?",
+    "stem": "Systemic sclerosis (scleroderma) is characterized by progressive thickening of connective tissue due to increased production of which substance?",
     "options": [
-      "Cholecystitis and appendicitis",
-      "Pruritus and gallstone formation",
-      "Hepatitis and jaundice of the newborn",
-      "Peptic ulcer disease and GERD"
+      "Elastin",
+      "Collagen",
+      "Keratin",
+      "Melanin"
     ],
     "answer": "B"
   },
   {
     "id": 24,
     "type": "mcq",
-    "stem": "The hormone that serves as the classic biochemical signal of pregnancy, produced by the placenta, is:",
+    "stem": "In scleroderma, dermal fibrosis and tightness particularly impairs the function of which body part?",
     "options": [
-      "Human placental lactogen",
-      "Human chorionic gonadotrophin (hCG)",
-      "Progesterone",
-      "Relaxin"
+      "The scalp",
+      "The hands",
+      "The soles of the feet",
+      "The eyelids exclusively"
     ],
     "answer": "B"
   },
   {
     "id": 25,
     "type": "mcq",
-    "stem": "hCG is secreted by which specific placental cell layer?",
+    "stem": "Reiter's syndrome classically presents with a triad including polyarthritis, conjunctivitis, and:",
     "options": [
-      "The cytotrophoblast",
-      "The syncytiotrophoblast",
-      "The decidua basalis",
-      "The amnion"
+      "Nephritis",
+      "Urethritis",
+      "Otitis media",
+      "Pericarditis"
     ],
     "answer": "B"
   },
   {
     "id": 26,
     "type": "mcq",
-    "stem": "Classically, hCG levels double approximately every how many hours in early normal pregnancy?",
+    "stem": "Reiter's syndrome may be precipitated by infection with which organism?",
     "options": [
-      "12 hours",
-      "24 hours",
-      "36 hours",
-      "72 hours"
+      "Chlamydia trachomatis",
+      "Neisseria meningitidis",
+      "Streptococcus pyogenes",
+      "Helicobacter pylori"
     ],
-    "answer": "C"
+    "answer": "A"
   },
   {
     "id": 27,
     "type": "mcq",
-    "stem": "hCG levels peak at approximately what value around 10 weeks of gestation, before declining to a lower plateau?",
+    "stem": "Reiter's syndrome most commonly affects joints in which body region?",
     "options": [
-      "10,000 mIU/mL",
-      "50,000 mIU/mL",
-      "100,000 mIU/mL",
-      "500,000 mIU/mL"
+      "The lower limb joints",
+      "The joints of the cervical spine exclusively",
+      "The temporomandibular joint exclusively",
+      "The joints of the fingers exclusively"
     ],
-    "answer": "C"
+    "answer": "A"
   },
   {
     "id": 28,
     "type": "mcq",
-    "stem": "The pituitary gland increases in weight by approximately what percentage in a woman's FIRST pregnancy?",
+    "stem": "Rheumatoid arthritis (RA) is more common in females than males by approximately what ratio?",
     "options": [
-      "10%",
-      "30%",
-      "50%",
-      "70%"
+      "1.5 times",
+      "3 times",
+      "10 times",
+      "It is more common in males"
     ],
     "answer": "B"
   },
   {
     "id": 29,
     "type": "mcq",
-    "stem": "At term, maternal plasma prolactin levels may rise to approximately how many times higher than non-pregnant levels?",
+    "stem": "The autoantibody found in up to 90% of individuals affected by rheumatoid arthritis, especially early in the disease and associated with more severe, accelerated disease, is called:",
     "options": [
-      "2 to 3 times",
-      "10 to 20 times",
-      "50 to 60 times",
-      "100 times"
+      "Antinuclear antibody",
+      "Rheumatoid factor (RF)",
+      "Anti-dsDNA antibody",
+      "Anti-Smith antibody"
     ],
     "answer": "B"
   },
   {
     "id": 30,
     "type": "mcq",
-    "stem": "hCG may transiently suppress TSH in early pregnancy because the two hormones share a common:",
+    "stem": "The growth of inflammatory granulation tissue in RA, which distorts the joint and destroys articular cartilage, exposing the bone below, is called:",
     "options": [
-      "Beta-subunit",
-      "Alpha-subunit",
-      "Receptor-binding domain only, with no shared subunit",
-      "Glycosylation pattern exclusively"
+      "Osteophyte formation",
+      "Pannus",
+      "Tophus",
+      "Sequestrum"
     ],
     "answer": "B"
   },
   {
     "id": 31,
     "type": "mcq",
-    "stem": "While TOTAL plasma T3 and T4 levels are raised in pregnancy, FREE (unbound) T3 and T4 concentrations typically:",
+    "stem": "Fibrosis of the pannus in advanced rheumatoid arthritis specifically results in which functional consequence?",
     "options": [
-      "Rise dramatically above non-pregnant levels",
-      "Remain at levels similar to outside pregnancy",
-      "Fall to undetectable levels by mid-pregnancy",
-      "Become undetectable due to placental consumption"
+      "Increased joint mobility",
+      "Reduced joint mobility",
+      "Complete restoration of normal joint architecture",
+      "Spontaneous resolution of all symptoms"
     ],
     "answer": "B"
   },
   {
     "id": 32,
     "type": "mcq",
-    "stem": "Erythropoietin, a renal hormone, follows which pattern of change during pregnancy?",
+    "stem": "About one-third of RA patients, usually those with the most aggressive form of the disease, develop nodules of connective tissue, typically located in the forearm or elbow, called:",
     "options": [
-      "It falls steadily from conception to term",
-      "It rises in mid-gestation and falls somewhat thereafter",
-      "It remains completely unchanged throughout pregnancy",
-      "It is undetectable until the third trimester"
+      "Osteophytes",
+      "Rheumatoid nodules",
+      "Bouchard's nodes",
+      "Heberden's nodes"
     ],
     "answer": "B"
   },
   {
     "id": 33,
     "type": "mcq",
-    "stem": "During pregnancy, the size of the Islets of Langerhans and the number of beta-cells, as well as insulin receptor sites, characteristically:",
+    "stem": "Extra-articular manifestations of severe RA can include anaemia, peripheral neuropathy, cardiac abnormalities, pleurisy, and:",
     "options": [
-      "Decrease progressively",
-      "Increase",
-      "Remain completely unchanged",
-      "Are destroyed by autoimmune mechanisms"
+      "Vasculitis",
+      "Renal calculi exclusively",
+      "Cataracts exclusively",
+      "Achondroplasia"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 34,
     "type": "mcq",
-    "stem": "In the FIRST trimester, psychological changes commonly reported by pregnant women include anxiety and fears regarding delivery, anger, and:",
+    "stem": "Comparing osteoarthritis and rheumatoid arthritis by tissue affected: osteoarthritis primarily affects the articular cartilage, whereas rheumatoid arthritis primarily affects the:",
     "options": [
-      "Complete emotional stability with no mood variation",
-      "Sudden emotion swings",
-      "Total absence of any concern about the pregnancy",
-      "Only positive anticipatory emotions"
+      "Bone marrow",
+      "Synovial membrane",
+      "Periosteum",
+      "Epiphyseal growth plate"
     ],
     "answer": "B"
   },
   {
     "id": 35,
     "type": "mcq",
-    "stem": "In the SECOND trimester, a woman commonly becomes self-conscious about which specific change, according to the summarized psychological changes?",
+    "stem": "Comparing osteoarthritis and rheumatoid arthritis by joint distribution: osteoarthritis typically affects large weight-bearing joints such as the hip and knee, often a single joint, whereas rheumatoid arthritis typically affects:",
     "options": [
-      "Her weight",
-      "Her blood pressure readings",
-      "Her laboratory results",
-      "Her partner's income"
+      "The same large weight-bearing joints exclusively",
+      "Small joints such as the hands and feet, often affecting many joints",
+      "Only the spine",
+      "No joints at all, only muscles"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 36,
     "type": "mcq",
-    "stem": "In the THIRD trimester, common psychological experiences include anxiety about labour and birth, and often strange dreams about:",
+    "stem": "Ankylosing spondylitis tends to occur in which population and characteristically affects which joints?",
     "options": [
-      "Unrelated childhood memories only",
-      "Childbirth, the newborn baby, and life as a new mother",
-      "Financial planning exclusively",
-      "Career advancement only"
+      "Elderly women; the joints of the hands",
+      "Young adults; the joints of the spine, including the sacroiliac joint",
+      "Infants; the temporomandibular joint",
+      "Middle-aged men; the wrist and elbow only"
     ],
     "answer": "B"
   },
   {
     "id": 37,
     "type": "mcq",
-    "stem": "Which of the following psychological findings during pregnancy should be considered ABNORMAL, warranting further assessment, rather than a normal adjustment reaction?",
+    "stem": "In ankylosing spondylitis, calcification of the intervertebral joints and laying down of new bone results in which consequence?",
     "options": [
-      "Mild anxiety about the upcoming delivery",
-      "Panic attacks and thoughts of self-harm or suicide",
-      "Occasional worry about fetal movement patterns",
-      "Mild self-consciousness about weight gain"
+      "Increased spinal flexibility",
+      "Reduced spinal flexibility and permanent deformity",
+      "Complete resolution of symptoms without deformity",
+      "Isolated involvement of the fingers only"
     ],
     "answer": "B"
   },
   {
     "id": 38,
     "type": "mcq",
-    "stem": "A prolonged episode of low mood during pregnancy lasting longer than how many weeks should be flagged as a possible abnormal psychological disruption?",
+    "stem": "Psoriatic arthritis develops in approximately what percentage of people with psoriasis, and is more likely if which additional finding is present?",
     "options": [
-      "1 week",
-      "3 weeks",
-      "7 weeks",
-      "12 weeks"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": 39,
-    "type": "mcq",
-    "stem": "Amenorrhoea is classified as which category of pregnancy sign?",
-    "options": [
-      "A positive sign",
-      "A probable sign",
-      "A presumptive sign",
-      "A diagnostic sign requiring no further confirmation"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": 40,
-    "type": "mcq",
-    "stem": "Palpation of fetal parts is typically possible from approximately which gestational age onward, and is classified as which type of sign?",
-    "options": [
-      "12 weeks; a presumptive sign",
-      "20 weeks and above; a presumptive sign",
-      "20 weeks and above; a positive sign",
-      "8 weeks; a probable sign"
+      "1% to 2%; if the scalp is involved",
+      "5% to 10%; if the nails are involved",
+      "50% to 60%; if the elbows are involved",
+      "90% to 100%; in all cases of psoriasis"
     ],
     "answer": "B"
   },
   {
+    "id": 39,
+    "type": "mcq",
+    "stem": "Psoriatic arthritis most commonly affects which joints?",
+    "options": [
+      "The hip and shoulder joints",
+      "The finger and toe joints",
+      "The sacroiliac joint exclusively",
+      "The temporomandibular joint exclusively"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 40,
+    "type": "mcq",
+    "stem": "Rheumatic fever commonly presents with polyarthritis affecting which joints, in contrast to its PERMANENT cardiac effects?",
+    "options": [
+      "The wrist, elbows, knees, and ankles, with the arthritis itself usually resolving spontaneously without complications",
+      "Only the hip joint, with permanent joint destruction",
+      "The temporomandibular joint exclusively, with permanent deformity",
+      "The small joints of the hands exclusively, with permanent ankylosis"
+    ],
+    "answer": "A"
+  },
+  {
     "id": 41,
     "type": "mcq",
-    "stem": "Nausea and vomiting of pregnancy are considered UNRELIABLE as a sign of pregnancy specifically because they:",
+    "stem": "Myasthenia gravis is an autoimmune condition in which circulating autoantibodies bind to and block which receptors?",
     "options": [
-      "Never occur before the second trimester",
-      "May also result from other conditions such as GIT disorders, infection, or emotional stress",
-      "Only occur in multiparous women",
-      "Always resolve within 24 hours if truly caused by pregnancy"
+      "Muscarinic receptors in smooth muscle",
+      "Acetylcholine receptors at the neuromuscular junction",
+      "Beta-adrenergic receptors in cardiac muscle",
+      "Dopamine receptors in the basal ganglia"
     ],
     "answer": "B"
   },
   {
     "id": 42,
     "type": "mcq",
-    "stem": "The last menstrual period (LMP) is used clinically to calculate which important pregnancy parameter?",
+    "stem": "In myasthenia gravis, the muscles that move the eyeballs and eyelids are usually affected FIRST, causing which characteristic findings?",
     "options": [
-      "Maternal blood type",
-      "The expected date of delivery (EDD)",
-      "Fetal birth weight",
-      "The Apgar score"
+      "Nystagmus and miosis",
+      "Ptosis (drooping eyelid) or diplopia (double vision)",
+      "Complete blindness",
+      "Exophthalmos"
     ],
     "answer": "B"
   },
   {
     "id": 43,
     "type": "mcq",
-    "stem": "Sensitivity and specificity of urinary FSH testing to detect pregnancy in the post-ovulatory period were reported as approximately:",
+    "stem": "Relapses of myasthenia gravis can be precipitated by which of the following?",
     "options": [
-      "50% and 55%",
-      "70% and 75%",
-      "88.9% and 89.3%",
-      "99% and 99.9%"
+      "Strenuous exercise, infections, or pregnancy",
+      "Complete bed rest exclusively",
+      "Avoidance of all physical activity",
+      "Cold exposure exclusively, with no other trigger"
     ],
-    "answer": "C"
+    "answer": "A"
   },
   {
     "id": 44,
     "type": "mcq",
-    "stem": "Early pregnancy factor (EPF), one of the first pregnancy markers to appear in blood, is detected PRIOR to which other hormone?",
+    "stem": "Duchenne muscular dystrophy follows which pattern of inheritance?",
     "options": [
-      "Progesterone",
-      "hCG",
-      "Prolactin",
-      "Oestriol"
+      "Autosomal dominant",
+      "Autosomal recessive",
+      "Sex-linked (X-linked)",
+      "Mitochondrial inheritance"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 45,
     "type": "mcq",
-    "stem": "On trans-vaginal ultrasound, a chorionic gestational sac can typically be detected at a discriminatory hCG zone of approximately:",
+    "stem": "Signs and symptoms of Duchenne muscular dystrophy typically do not appear until approximately what age?",
     "options": [
-      "500 mIU/mL",
-      "1,400 mIU/mL",
-      "6,500 mIU/mL",
-      "20,000 mIU/mL"
+      "Birth",
+      "About 5 years of age",
+      "Adolescence",
+      "Middle adulthood"
     ],
     "answer": "B"
   },
   {
     "id": 46,
     "type": "mcq",
-    "stem": "On TRANS-ABDOMINAL ultrasound scanning, the discriminatory hCG zone for detecting a gestational sac is approximately:",
+    "stem": "In Duchenne muscular dystrophy, wasting and weakness begin in which muscle groups FIRST, before spreading?",
     "options": [
-      "1,400 mIU/mL",
-      "3,000 mIU/mL",
-      "6,500 mIU/mL",
-      "15,000 mIU/mL"
+      "Facial muscles",
+      "Lower limb muscles",
+      "Upper limb muscles",
+      "Muscles of the tongue"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 47,
     "type": "mcq",
-    "stem": "Despite the hypervolemia of pregnancy, blood pressure typically does NOT normally change significantly, largely due to which mechanism?",
+    "stem": "Death in Duchenne muscular dystrophy usually occurs during adolescence, often from which cause(s)?",
     "options": [
-      "A marked increase in peripheral resistance offsetting the increased volume",
-      "A reduction in peripheral resistance and relaxation/dilation of the arterial wall",
-      "Complete cessation of renin-angiotensin activity",
-      "A decrease in heart action counterbalancing the volume increase"
+      "Renal failure exclusively",
+      "Respiratory failure, cardiac arrhythmias, or cardiomyopathy",
+      "Gastrointestinal hemorrhage exclusively",
+      "Hepatic failure exclusively"
     ],
     "answer": "B"
   },
   {
     "id": 48,
     "type": "mcq",
-    "stem": "During the FIRST trimester, cardiac output is approximately what percentage higher than in the non-pregnant state?",
+    "stem": "Facioscapulohumeral dystrophy characteristically affects which muscle groups FIRST?",
     "options": [
-      "10% to 15%",
-      "30% to 40%",
-      "60% to 70%",
-      "90% to 100%"
+      "The muscles of the face and shoulders",
+      "The muscles of the lower limbs exclusively",
+      "The muscles of the tongue exclusively",
+      "The intercostal muscles exclusively"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 49,
     "type": "mcq",
-    "stem": "According to Doppler echocardiography data, cardiac output rises from an average of approximately 6.1 litres/minute at 8-11 weeks to approximately what value at 36-39 weeks?",
+    "stem": "Compared to Duchenne muscular dystrophy, facioscapulohumeral dystrophy is characterized by which prognosis?",
     "options": [
-      "6.5 litres/minute",
-      "7.2 litres/minute",
-      "8.7 litres/minute",
-      "10.5 litres/minute"
+      "A more rapid course with death in adolescence",
+      "A slowly progressing chronic condition with normal life expectancy",
+      "Immediate death within days of onset",
+      "Complete cure within one year"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 50,
     "type": "mcq",
-    "stem": "The increase in cardiac output during pregnancy is due primarily to an approximate 30% increase in stroke volume and, to a lesser extent, to an approximate what percentage increase in heart rate?",
+    "stem": "Myotonic dystrophy is characterized by prolonged muscle contraction with slow relaxation, causing sufferers difficulty in releasing an object held in the hand. Which muscles are affected FIRST in this condition?",
     "options": [
-      "5%",
-      "15%",
-      "35%",
-      "50%"
+      "Muscles of the tongue and face",
+      "Muscles of the lower limb exclusively",
+      "Muscles of the trunk exclusively",
+      "Respiratory muscles exclusively"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 51,
     "type": "mcq",
-    "stem": "During LABOUR, contraction of the uterus transfers approximately how much blood into the maternal venous system, increasing intravascular volume?",
+    "stem": "In addition to muscle involvement, myotonic dystrophy is also associated with which OTHER systemic complications?",
     "options": [
-      "50 to 100 mL",
-      "300 to 500 mL",
-      "800 to 1000 mL",
-      "1500 to 2000 mL"
+      "Cataracts, cardiac conduction abnormalities, and increased risk of diabetes mellitus",
+      "Renal calculi and gout exclusively",
+      "Osteoporosis exclusively, with no other systemic effect",
+      "Complete immunity to infection"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 52,
     "type": "mcq",
-    "stem": "Following delivery, auto-transfusion from the involuting uterus can further increase cardiac output by approximately what percentage above pre-delivery values?",
+    "stem": "Paget's disease of bone is characterized by disorganized bone remodelling that produces bone that is:",
     "options": [
-      "10%",
-      "25%",
-      "50%",
-      "80%"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": 53,
-    "type": "mcq",
-    "stem": "Aorto-caval compression from mid-pregnancy onward reduces venous return to the heart, leading to a fall in cardiac output. Most pregnant women compensate for this by increasing which TWO parameters?",
-    "options": [
-      "Stroke volume and central venous pressure only",
-      "Systemic vascular resistance and heart rate",
-      "Renal blood flow and glomerular filtration rate",
-      "Tidal volume and respiratory rate"
+      "Thin, brittle, and porous only",
+      "Enlarged, deformed, and weakened",
+      "Completely normal in structure but reduced in quantity",
+      "Replaced entirely by cartilage"
     ],
     "answer": "B"
   },
   {
+    "id": 53,
+    "type": "mcq",
+    "stem": "The average age at diagnosis of Paget's disease is approximately:",
+    "options": [
+      "30 years",
+      "50 years",
+      "70 years",
+      "90 years"
+    ],
+    "answer": "C"
+  },
+  {
     "id": 54,
     "type": "mcq",
-    "stem": "Venous distension during the course of gestation increases by approximately what percentage?",
+    "stem": "Paget's disease increases the risk of which secondary complications?",
     "options": [
-      "20%",
-      "50%",
-      "100%",
-      "150%"
+      "Secondary osteoarthritis and development of benign or malignant bone tumours",
+      "Immediate spontaneous fracture healing with no complications",
+      "Complete resolution without any increased disease risk",
+      "Only cardiovascular complications, with no skeletal risk"
     ],
-    "answer": "D"
+    "answer": "A"
   },
   {
     "id": 55,
     "type": "mcq",
-    "stem": "In supine hypotension syndrome, the weight of the gravid uterus presses on which vessel, obstructing venous return from the lower extremities?",
+    "stem": "Rickets and osteomalacia both result from inadequate bone mineralization, most commonly due to deficiency of which vitamin?",
     "options": [
-      "The abdominal aorta",
-      "The inferior vena cava",
-      "The superior vena cava",
-      "The common iliac artery bilaterally"
+      "Vitamin A",
+      "Vitamin D",
+      "Vitamin C",
+      "Vitamin K"
     ],
     "answer": "B"
   },
   {
     "id": 56,
     "type": "mcq",
-    "stem": "Supine hypotension syndrome is most effectively corrected or prevented by positioning the woman:",
+    "stem": "Rickets occurs specifically in which population, causing characteristic bowing deformity of the lower limbs?",
     "options": [
-      "Flat on her back with legs elevated",
-      "In a semi-sitting (Fowler's) position only",
-      "On her side, preferably the left side",
-      "Prone, with a pillow under the pelvis"
+      "Elderly adults with closed growth plates",
+      "Children whose bones are still growing",
+      "Postmenopausal women exclusively",
+      "Adult men exclusively"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 57,
     "type": "mcq",
-    "stem": "Plasma fibrinogen (clotting factor I) increases progressively starting from approximately which month of pregnancy?",
+    "stem": "In adults, vitamin D deficiency causing inadequate bone mineralization is termed:",
     "options": [
-      "The 1st month",
-      "The 3rd month",
-      "The 6th month",
-      "The 8th month"
+      "Rickets",
+      "Osteomalacia",
+      "Achondroplasia",
+      "Osteopetrosis"
     ],
     "answer": "B"
   },
   {
     "id": 58,
     "type": "mcq",
-    "stem": "The increase in clotting factors during pregnancy causes coagulation time to change from approximately 12 minutes to approximately how many minutes?",
+    "stem": "Vitamin D deficiency causing rickets/osteomalacia may result from poor diet, malabsorption, or limited exposure to which environmental factor?",
     "options": [
-      "10 minutes",
-      "8 minutes",
-      "5 minutes",
-      "2 minutes"
+      "Cold temperatures",
+      "Sunlight",
+      "High altitude",
+      "Humidity"
     ],
     "answer": "B"
   },
   {
     "id": 59,
     "type": "mcq",
-    "stem": "Serum cholesterol level increases during pregnancy by approximately what percentage, providing a ready supply of available energy for the fetus?",
+    "stem": "CASE SCENARIO: A 45-year-old woman presents with symmetrical pain and swelling of the small joints of both hands, worse in the morning, with visible deformity developing over several years and a positive rheumatoid factor. Which condition is MOST consistent with this presentation?",
     "options": [
-      "10% to 20%",
-      "40% to 50%",
-      "90% to 100%",
-      "150% to 200%"
+      "Osteoarthritis",
+      "Rheumatoid arthritis",
+      "Gouty arthritis",
+      "Osteomalacia"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 60,
     "type": "mcq",
-    "stem": "Levels of immunoglobulins IgA, IgG, and IgM decrease steadily during pregnancy from approximately which week to which week, then remain at these lower levels until term?",
+    "stem": "CASE SCENARIO (continued): On examination, the nurse notes firm nodules on the client's forearm near the elbow. These are most likely:",
     "options": [
-      "The 2nd week to the 10th week",
-      "The 10th week to the 30th week",
-      "The 30th week to term only",
-      "They increase, rather than decrease, throughout pregnancy"
+      "Osteophytes",
+      "Rheumatoid nodules",
+      "Tophi",
+      "Bouchard's nodes"
     ],
     "answer": "B"
   },
   {
     "id": 61,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A pregnant client at 34 weeks lies flat on her back for a prolonged examination and suddenly reports dizziness, with a measured drop in blood pressure. The nurse recognizes this as most consistent with:",
+    "stem": "CASE SCENARIO: A 68-year-old man reports gradually worsening right knee pain over several years, worse with activity and relieved by rest, with radiographs showing joint space narrowing and osteophyte formation but no systemic inflammatory markers. Which condition is MOST consistent with this presentation?",
     "options": [
-      "Pre-eclampsia",
-      "Supine hypotension syndrome from vena caval compression",
-      "Normal physiological blood pressure changes of pregnancy requiring no action",
-      "Placental abruption"
+      "Rheumatoid arthritis",
+      "Osteoarthritis",
+      "Reiter's syndrome",
+      "Ankylosing spondylitis"
     ],
     "answer": "B"
   },
   {
     "id": 62,
     "type": "mcq",
-    "stem": "CASE SCENARIO (continued): The nurse's IMMEDIATE priority action is to:",
+    "stem": "CASE SCENARIO: A 38-year-old woman who spends 8 hours daily typing reports numbness and tingling in her thumb, index, and middle fingers, worse at night. Which condition should the nurse suspect?",
     "options": [
-      "Elevate the head of the bed to 90 degrees only",
-      "Reposition the client onto her left side",
-      "Administer intravenous antihypertensive medication",
-      "Continue the examination without repositioning"
+      "Ulnar nerve entrapment",
+      "Carpal tunnel syndrome",
+      "Radial nerve palsy",
+      "Cervical radiculopathy at C8"
     ],
     "answer": "B"
   },
   {
     "id": 63,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A woman at 6 weeks gestation presents with vomiting occurring several times daily, occurring not only in the morning but throughout the day, along with reported weight loss. An ultrasound reveals a multiple pregnancy. The nurse understands the excessive vomiting in this case is most likely related to:",
+    "stem": "CASE SCENARIO (continued): The nurse should also ask about which underlying systemic conditions that are recognized secondary causes of this syndrome?",
     "options": [
-      "A normal, expected pattern requiring no further evaluation",
-      "Excessive hormone levels associated with the multiple gestation",
-      "An unrelated gastrointestinal infection only",
-      "A sign of fetal demise"
+      "Diabetes mellitus, rheumatoid arthritis, and hypothyroidism",
+      "Osteosarcoma exclusively",
+      "Achondroplasia exclusively",
+      "Duchenne muscular dystrophy exclusively"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 64,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A woman at 8 weeks gestation asks the nurse when a home urine pregnancy test would have been reliable, given that hCG must reach detectable thresholds. The nurse explains that hCG classically doubles approximately every how many hours in early pregnancy, allowing rapid rise to detectable levels?",
+    "stem": "CASE SCENARIO: A 55-year-old man presents with acute, severe pain, redness, and swelling of the first metatarsophalangeal joint (great toe), following a night of heavy alcohol consumption. Which condition is MOST consistent with this presentation?",
     "options": [
-      "12 hours",
-      "24 hours",
-      "36 hours",
-      "60 hours"
+      "Gout",
+      "Rheumatoid arthritis",
+      "Osteoarthritis",
+      "Septic arthritis of unknown cause"
     ],
-    "answer": "C"
+    "answer": "A"
   },
   {
     "id": 65,
     "type": "mcq",
-    "stem": "CASE SCENARIO (continued): The client also asks why her urine glucose came back mildly positive despite normal blood sugar. The nurse explains this finding is consistent with physiological glucosuria of pregnancy, resulting from:",
+    "stem": "CASE SCENARIO (continued): Laboratory investigation later reveals renal calculi in this same client. The nurse recognizes this as a recognized complication of which condition?",
     "options": [
-      "Undiagnosed diabetes mellitus requiring immediate insulin therapy",
-      "Increased glomerular filtration overwhelming tubular reabsorption capacity",
-      "A laboratory error that should be disregarded entirely",
-      "Excessive dietary sugar intake exclusively"
+      "Osteoarthritis",
+      "Gout",
+      "Ankylosing spondylitis",
+      "Reiter's syndrome"
     ],
     "answer": "B"
   },
   {
     "id": 66,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A primigravida at 30 weeks reports recurrent burning urination and flank discomfort. The nurse recalls that hormone-induced dilation of the ureters and calyces, combined with uterine compression at the pelvic brim, predisposes pregnant women to which specific complication?",
+    "stem": "CASE SCENARIO: A 28-year-old woman presents with a red rash across her nose and cheeks, joint pain, and proteinuria. Which condition is MOST consistent with this presentation?",
     "options": [
-      "Nephrotic syndrome",
-      "Pyelonephritis",
-      "Renal cell carcinoma",
-      "Polycystic kidney disease"
+      "Systemic sclerosis (scleroderma)",
+      "Systemic lupus erythematosus (SLE)",
+      "Reiter's syndrome",
+      "Ankylosing spondylitis"
     ],
     "answer": "B"
   },
   {
     "id": 67,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A woman at 12 weeks gestation reports intense anxiety about the possibility of miscarriage, sudden mood swings, and anger she cannot explain. The nurse recognizes these findings as most consistent with:",
+    "stem": "CASE SCENARIO: A young man develops conjunctivitis, urethritis, and polyarthritis of the lower limb joints several weeks after a chlamydial infection. Which condition is MOST consistent with this presentation?",
     "options": [
-      "An abnormal psychiatric disorder requiring immediate hospitalization",
-      "Expected first-trimester psychological changes of pregnancy",
-      "A sign of intimate partner violence exclusively",
-      "Evidence of substance use disorder"
+      "Rheumatic fever",
+      "Reiter's syndrome",
+      "Psoriatic arthritis",
+      "Gout"
     ],
     "answer": "B"
   },
   {
     "id": 68,
     "type": "mcq",
-    "stem": "CASE SCENARIO (continued): At a later visit, the same client reports persistent low mood lasting 9 weeks, poor appetite, early morning wakening, and passive thoughts of hopelessness. The nurse's BEST response is to:",
+    "stem": "CASE SCENARIO: A 30-year-old woman presents with progressive drooping of both eyelids and double vision that worsens through the day and improves with rest, with no other neurological deficit. Which condition is MOST consistent with this presentation?",
     "options": [
-      "Reassure her that this is completely normal for all trimesters and requires no follow-up",
-      "Recognize this as an abnormal psychological disruption warranting further assessment",
-      "Advise her that these symptoms always resolve spontaneously by the third trimester",
-      "Attribute this solely to normal fatigue of pregnancy with no further action"
+      "Duchenne muscular dystrophy",
+      "Myasthenia gravis",
+      "Myotonic dystrophy",
+      "Multiple sclerosis"
     ],
     "answer": "B"
   },
   {
     "id": 69,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A woman requests to know why her doctor is not worried about her irregular, painless uterine tightenings at 32 weeks, distinct from true labour. The nurse explains these are most likely:",
+    "stem": "CASE SCENARIO (continued): The client reports that her symptoms became markedly worse during a recent respiratory infection. The nurse recognizes this as consistent with which known feature of the condition?",
     "options": [
-      "Signs of preterm labour requiring tocolysis",
-      "Braxton Hicks contractions, a normal finding of pregnancy",
-      "Evidence of uterine rupture",
-      "A sign of chorioamnionitis"
+      "Relapses can be precipitated by infections, strenuous exercise, or pregnancy",
+      "The condition is entirely unaffected by any external factor",
+      "Infections always cure the underlying condition",
+      "This indicates the diagnosis is incorrect"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 70,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A client asks why her gums bleed slightly when she brushes her teeth during pregnancy. The nurse's BEST explanation is that pregnancy hormones cause the gums to become:",
+    "stem": "CASE SCENARIO: A 5-year-old boy presents with progressive lower limb weakness and difficulty climbing stairs, with a family history of a similar sex-linked condition in maternal uncles. Which condition is MOST consistent with this presentation?",
     "options": [
-      "Fibrotic and rigid, resistant to bleeding",
-      "Oedematous, soft, and spongy",
-      "Completely atrophic with reduced blood supply",
-      "Calcified due to excess calcium deposition"
+      "Facioscapulohumeral dystrophy",
+      "Duchenne muscular dystrophy",
+      "Myotonic dystrophy",
+      "Myasthenia gravis"
     ],
     "answer": "B"
   },
   {
     "id": 71,
     "type": "fitb",
-    "stem": "During pregnancy, minute ventilation increases progressively, peaking at approximately ___________% above normal levels around the ___________ trimester.",
-    "answer": "50; second",
+    "stem": "Osteoarthritis is a ___________ disease that causes pain and restricted movement, whereas rheumatoid arthritis is an ___________ and ___________ disease.",
+    "answer": "degenerative; inflammatory; autoimmune",
     "acceptableAnswers": [
-      "50; second"
+      "degenerative; inflammatory; autoimmune"
     ]
   },
   {
     "id": 72,
     "type": "fitb",
-    "stem": "The average arterial PaCO2 during most of gestation is approximately ___________ mmHg, and the average PaO2 is approximately ___________ mmHg.",
-    "answer": "32; 105",
+    "stem": "The abnormal bony outgrowths at joint margins in osteoarthritis are called ___________.",
+    "answer": "osteophytes",
     "acceptableAnswers": [
-      "32; 105"
+      "osteophytes"
     ]
   },
   {
     "id": 73,
     "type": "fitb",
-    "stem": "Maternal oxygen consumption rises by at least ___________% at term, and increases further by up to and over ___________% during labour.",
-    "answer": "20; 60",
+    "stem": "Carpal tunnel syndrome results from compression of the ___________ nerve, most commonly affecting women aged ___________ to ___________ years.",
+    "answer": "median; 30; 50",
     "acceptableAnswers": [
-      "20; 60"
+      "median; 30; 50"
     ]
   },
   {
     "id": 74,
     "type": "fitb",
-    "stem": "By late pregnancy, chest circumference increases by approximately ___________ cm, while the diaphragm is elevated by approximately ___________ cm.",
-    "answer": "6; 4",
+    "stem": "Gout results from deposition of ___________ ___________ crystals in and around the joints.",
+    "answer": "sodium urate",
     "acceptableAnswers": [
-      "6; 4"
+      "sodium urate"
     ]
   },
   {
     "id": 75,
     "type": "fitb",
-    "stem": "At term, renal plasma flow and glomerular filtration rate are approximately ___________% to ___________% higher than in the non-pregnant state.",
-    "answer": "50; 60",
+    "stem": "The characteristic 'butterfly' rash of systemic lupus erythematosus is typically found across the ___________, and the disease can cause ___________ leading to chronic kidney disease.",
+    "answer": "face; glomerulonephritis",
     "acceptableAnswers": [
-      "50; 60"
+      "face; glomerulonephritis"
     ]
   },
   {
     "id": 76,
     "type": "fitb",
-    "stem": "Renal blood flow may increase by as much as ___________% to ___________% by the second trimester of pregnancy.",
-    "answer": "70; 80",
+    "stem": "In rheumatoid arthritis, the inflammatory granulation tissue that destroys articular cartilage is called ___________, and the associated autoantibody found in up to 90% of patients is called ___________ ___________.",
+    "answer": "pannus; rheumatoid factor",
     "acceptableAnswers": [
-      "70; 80"
+      "pannus; rheumatoid factor"
     ]
   },
   {
     "id": 77,
     "type": "fitb",
-    "stem": "Throughout pregnancy, the body retains approximately ___________ litres of water and ___________ mmol of sodium.",
-    "answer": "7.5; 900",
+    "stem": "Myasthenia gravis is caused by autoantibodies blocking ___________ receptors at the ___________ ___________.",
+    "answer": "acetylcholine; neuromuscular junction",
     "acceptableAnswers": [
-      "7.5; 900"
+      "acetylcholine; neuromuscular junction"
     ]
   },
   {
     "id": 78,
     "type": "fitb",
-    "stem": "Mild glucosuria of ___________ to ___________ mg/day and proteinuria of up to ___________ mg/day can occur in normal pregnancy.",
-    "answer": "1; 10; 300",
+    "stem": "Duchenne muscular dystrophy follows a ___________-linked pattern of inheritance, with symptoms typically appearing around ___________ years of age, and death often occurring in ___________ from respiratory or cardiac failure.",
+    "answer": "sex; 5; adolescence",
     "acceptableAnswers": [
-      "1; 10; 300"
+      "sex; 5; adolescence"
     ]
   },
   {
     "id": 79,
     "type": "fitb",
-    "stem": "Nausea and vomiting of pregnancy occurs in about ___________% of women, beginning around ___________ to ___________ weeks and usually continuing until ___________ to ___________ weeks.",
-    "answer": "70; 4; 8; 14; 16",
+    "stem": "Paget's disease is a disorder of bone ___________ producing bone that is enlarged, deformed, and ___________, with an average age at diagnosis of ___________ years.",
+    "answer": "remodelling; weakened; 70",
     "acceptableAnswers": [
-      "70; 4; 8; 14; 16"
+      "remodelling; weakened; 70"
     ]
   },
   {
     "id": 80,
     "type": "fitb",
-    "stem": "Excessive salivation in pregnancy is called ___________, while pathological craving for non-food substances is called ___________.",
-    "answer": "ptyalism; pica",
+    "stem": "Rickets and osteomalacia both result from deficiency of vitamin ___________; in children this causes ___________, and in adults it is called ___________.",
+    "answer": "D; rickets; osteomalacia",
     "acceptableAnswers": [
-      "ptyalism; pica"
+      "D; rickets; osteomalacia"
     ]
   },
   {
     "id": 81,
     "type": "fitb",
-    "stem": "hCG is secreted by the ___________ of the placenta and classically doubles every ___________ hours in early pregnancy.",
-    "answer": "syncytiotrophoblast; 36",
+    "stem": "Achondroplasia prevents normal ossification of bones developing from ___________ models, resulting in short limbs and characteristic ___________.",
+    "answer": "cartilage; dwarfism",
     "acceptableAnswers": [
-      "syncytiotrophoblast; 36"
+      "cartilage; dwarfism"
     ]
   },
   {
     "id": 82,
     "type": "fitb",
-    "stem": "hCG peaks at approximately ___________ mIU/mL at 10 weeks gestation, then falls to approximately ___________ mIU/mL by mid-pregnancy.",
-    "answer": "100,000; 20,000",
+    "stem": "Osteogenesis imperfecta results from a congenital defect in ___________ synthesis, causing bones that fracture easily, and is popularly known as '___________ bone syndrome'.",
+    "answer": "collagen; brittle",
     "acceptableAnswers": [
-      "100,000; 20,000",
-      "100000; 20000"
+      "collagen; brittle"
     ]
   },
   {
     "id": 83,
     "type": "fitb",
-    "stem": "The pituitary gland increases in weight by ___________% in first pregnancies and by ___________% in subsequent pregnancies, while prolactin rises to about ___________ to ___________ times non-pregnant levels.",
-    "answer": "30; 50; 10; 20",
+    "stem": "The most common malignant bone tumours are ___________ tumours, arising from primary cancers of the breast, lungs, thyroid, kidneys, and ___________ gland.",
+    "answer": "metastatic; prostate",
     "acceptableAnswers": [
-      "30; 50; 10; 20"
+      "metastatic; prostate"
     ]
   },
   {
     "id": 84,
     "type": "fitb",
-    "stem": "hCG and TSH share a common ___________-subunit, which explains transient TSH suppression in early pregnancy.",
-    "answer": "alpha",
+    "stem": "___________ is a rapidly growing, highly malignant primary bone tumour most common in adolescence, typically arising in the medullary canal of the ___________.",
+    "answer": "Osteosarcoma; femur",
     "acceptableAnswers": [
-      "alpha"
+      "Osteosarcoma; femur"
     ]
   },
   {
     "id": 85,
     "type": "fitb",
-    "stem": "Maternal total plasma calcium falls in pregnancy because of a fall in ___________, while ___________ (ionized) calcium remains unchanged.",
-    "answer": "albumin; unbound",
+    "stem": "Osteoporosis occurs when bone deposition does not keep pace with bone ___________, resulting in reduced bone ___________ and increased fracture risk.",
+    "answer": "resorption; density",
     "acceptableAnswers": [
-      "albumin; unbound"
+      "resorption; density"
     ]
   },
   {
     "id": 86,
     "type": "fitb",
-    "stem": "The trans-vaginal ultrasound discriminatory zone for detecting a gestational sac is approximately ___________ mIU/mL, compared to approximately ___________ mIU/mL for trans-abdominal scanning.",
-    "answer": "1,400; 6,500",
+    "stem": "Immobilisation of a single joint after fracture causes ___________ osteoporotic change, while prolonged unconsciousness causes ___________ osteoporotic change throughout the skeleton.",
+    "answer": "local; uniform",
     "acceptableAnswers": [
-      "1,400; 6,500",
-      "1400; 6500"
+      "local; uniform"
     ]
   },
   {
     "id": 87,
     "type": "fitb",
-    "stem": "Sensitivity and specificity of urinary FSH testing to detect pregnancy were reported as approximately ___________% and ___________% respectively.",
-    "answer": "88.9; 89.3",
+    "stem": "Age-related bone thinning called ___________ begins between the ages of ___________ and ___________, due to a shift in balance toward osteoclast activity.",
+    "answer": "osteopenia; 30; 40",
     "acceptableAnswers": [
-      "88.9; 89.3"
+      "osteopenia; 30; 40"
     ]
   },
   {
     "id": 88,
     "type": "fitb",
-    "stem": "Cardiac output rises from an average of ___________ litres/minute at 8-11 weeks to approximately ___________ litres/minute at 36-39 weeks, driven by a 30% rise in ___________ and a 15% rise in ___________.",
-    "answer": "6.1; 8.7; stroke volume; heart rate",
+    "stem": "___________ maintains bone mass, giving pre-menopausal women a degree of protection against osteopenic changes compared to age-matched men.",
+    "answer": "Oestrogen",
     "acceptableAnswers": [
-      "6.1; 8.7; stroke volume; heart rate"
-    ]
-  },
-  {
-    "id": 89,
-    "type": "fitb",
-    "stem": "Uterine contraction during labour transfers approximately ___________ to ___________ mL of blood into the maternal circulation, and auto-transfusion after delivery can raise cardiac output by about ___________% above pre-delivery values.",
-    "answer": "300; 500; 50",
-    "acceptableAnswers": [
-      "300; 500; 50"
-    ]
-  },
-  {
-    "id": 90,
-    "type": "fitb",
-    "stem": "Plasma fibrinogen increases from about the ___________ month of pregnancy, changing coagulation time from about 12 minutes to about ___________ minutes, while serum cholesterol increases by about ___________% to ___________%.",
-    "answer": "3rd; 8; 90; 100",
-    "acceptableAnswers": [
-      "3rd; 8; 90; 100"
+      "Oestrogen"
     ]
   },
   {
     "type": "fitb",
-    "stem": "Nasal congestion during pregnancy is attributed to increased levels of ___________.",
-    "answer": "oestrogen",
+    "stem": "Secondary osteoarthritis develops when a joint is already affected by an abnormality such as ___________ or ___________.",
+    "answer": "trauma; gout",
     "acceptableAnswers": [
-      "oestrogen"
+      "trauma; gout"
+    ],
+    "id": 89
+  },
+  {
+    "type": "fitb",
+    "stem": "In a shoulder dislocation, the intracapsular structure at risk of stretch injury is the long head of ___________.",
+    "answer": "biceps",
+    "acceptableAnswers": [
+      "biceps",
+      "biceps muscle"
+    ],
+    "id": 90
+  },
+  {
+    "type": "fitb",
+    "stem": "In a hip dislocation, the intracapsular structure at risk of stretch injury is the ligament of the head of the ___________.",
+    "answer": "femur",
+    "acceptableAnswers": [
+      "femur"
     ],
     "id": 91
   },
   {
     "type": "fitb",
-    "stem": "Excessive salivation in pregnancy, thought to be a response to increased oestrogen, is called ___________.",
-    "answer": "ptyalism",
+    "stem": "Reiter's syndrome presents with the triad of polyarthritis, urethritis, and ___________, and may be precipitated by ___________ infection.",
+    "answer": "conjunctivitis; Chlamydia trachomatis",
     "acceptableAnswers": [
-      "ptyalism"
+      "conjunctivitis; Chlamydia trachomatis"
     ],
     "id": 92
   },
   {
     "type": "fitb",
-    "stem": "A pregnancy-related craving for non-food substances such as coal or wall plaster is called ___________.",
-    "answer": "pica",
+    "stem": "Ankylosing spondylitis affects young adults and characteristically involves the spine, including the ___________ joint.",
+    "answer": "sacroiliac",
     "acceptableAnswers": [
-      "pica"
+      "sacroiliac"
     ],
     "id": 93
   },
   {
     "type": "fitb",
-    "stem": "hCG inhibits ovarian follicle development by blunting the pituitary response to ___________ ___________ hormone (GnRH).",
-    "answer": "gonadotrophin-releasing",
+    "stem": "Psoriatic arthritis develops in about ___________% to ___________% of people with psoriasis and most commonly affects the finger and toe joints.",
+    "answer": "5; 10",
     "acceptableAnswers": [
-      "gonadotrophin-releasing",
-      "gonadotrophin releasing"
+      "5; 10"
     ],
     "id": 94
   },
   {
     "type": "fitb",
-    "stem": "Maternal total plasma calcium falls in pregnancy due to falling ___________ levels, while ionized calcium stays ___________.",
-    "answer": "albumin; unchanged",
+    "stem": "In myasthenia gravis, muscles moving the eyeballs and eyelids are usually affected first, causing ___________ or ___________.",
+    "answer": "ptosis; diplopia",
     "acceptableAnswers": [
-      "albumin; unchanged"
+      "ptosis; diplopia"
     ],
     "id": 95
   },
   {
     "type": "fitb",
-    "stem": "Amenorrhoea becomes a significant clue to pregnancy after approximately ___________ weeks of missed menses.",
-    "answer": "4",
+    "stem": "Facioscapulohumeral dystrophy affects the muscles of the ___________ and ___________ first, and generally allows a normal life expectancy.",
+    "answer": "face; shoulders",
     "acceptableAnswers": [
-      "4",
-      "four"
+      "face; shoulders"
     ],
     "id": 96
   },
   {
     "type": "fitb",
-    "stem": "A cervical smear should be taken during pelvic assessment for pregnancy if none has been done in the preceding ___________ years.",
-    "answer": "2",
+    "stem": "Myotonic dystrophy is associated with ___________, abnormalities of cardiac conduction, and increased risk of ___________.",
+    "answer": "cataracts; diabetes mellitus",
     "acceptableAnswers": [
-      "2",
-      "two"
+      "cataracts; diabetes mellitus"
     ],
     "id": 97
   },
   {
     "type": "fitb",
-    "stem": "The mild grade I or II systolic murmur of pregnancy results from dilation across the ___________ valve.",
-    "answer": "tricuspid",
+    "stem": "Osteomyelitis is most common in ___________ and, if untreated, may become chronic with fever, pain, and ___________ formation.",
+    "answer": "children; sinus",
     "acceptableAnswers": [
-      "tricuspid"
+      "children; sinus"
     ],
     "id": 98
   },
   {
     "type": "fitb",
-    "stem": "___________ increase in pregnancy, enhancing the blood's phagocytic and bactericidal properties.",
-    "answer": "Neutrophils",
+    "stem": "Two risk factors for decreased bone mass listed among lifestyle factors are lack of exercise/immobility and ___________ intake of alcohol.",
+    "answer": "excess",
     "acceptableAnswers": [
-      "Neutrophils"
+      "excess"
     ],
     "id": 99
   },
   {
     "type": "fitb",
-    "stem": "Total blood protein falls within the first ___________ weeks of pregnancy due to increased plasma volume, contributing to lower-limb ___________ in late pregnancy.",
-    "answer": "20; oedema",
+    "stem": "With ageing, cartilage and connective tissues stiffen and degenerate, reducing joint flexibility and predisposing to ___________.",
+    "answer": "osteoarthritis",
     "acceptableAnswers": [
-      "20; oedema"
+      "osteoarthritis"
     ],
     "id": 100
   }
