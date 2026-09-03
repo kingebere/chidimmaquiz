@@ -2,1111 +2,1116 @@
   {
     "id": 1,
     "type": "mcq",
-    "stem": "Osteoarthritis (osteoarthrosis) is best classified pathologically as:",
+    "stem": "Antenatal care (ANC) is best defined as care given to an expectant mother spanning which period?",
     "options": [
-      "An autoimmune inflammatory disease",
-      "A degenerative, non-inflammatory disease",
-      "A bacterial infective process",
-      "A metabolic crystal deposition disease"
+      "From the onset of labour until delivery",
+      "From the time conception is confirmed until the beginning of labour",
+      "Only during the third trimester",
+      "From delivery until six weeks postpartum"
     ],
     "answer": "B"
   },
   {
     "id": 2,
     "type": "mcq",
-    "stem": "The abnormal bony outgrowths that form at the edges of bones in osteoarthritis, resulting from ossification of abnormal cartilage growth, are called:",
+    "stem": "The ideal period for a woman's booking (initial) ANC visit is after the second missed period or approximately which gestational week?",
     "options": [
-      "Rheumatoid nodules",
-      "Tophi",
-      "Osteophytes",
-      "Pannus"
+      "6th week",
+      "10th week",
+      "16th week",
+      "20th week"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 3,
     "type": "mcq",
-    "stem": "Secondary osteoarthritis, as distinct from primary (idiopathic) osteoarthritis, occurs when a joint has been previously affected by which type of condition?",
+    "stem": "Early booking is emphasized in ANC primarily to enable the midwife to collect baseline recordings, such as BP and Hb, before which event occurs?",
     "options": [
-      "A prior abnormality such as trauma or gout",
-      "A completely unrelated cardiovascular disease",
-      "A congenital absence of the joint capsule",
-      "A vitamin deficiency exclusively"
+      "The woman experiences quickening",
+      "Much physiological change has started to take place",
+      "The woman reaches term",
+      "The placenta has fully formed"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 4,
     "type": "mcq",
-    "stem": "Osteoarthritis typically develops in late middle age and characteristically affects which type of joints?",
+    "stem": "Early booking is also emphasized because indiscriminate drug use, smoking, or infection can have the most profound effect on the fetus during which period?",
     "options": [
-      "Small, non-weight-bearing joints of the fingers exclusively",
-      "Large weight-bearing joints such as the hips, knees, and cervical/lumbar spine",
-      "Only the joints of the wrist and elbow",
-      "Exclusively the sacroiliac joints"
+      "The immediate postpartum period",
+      "Towards the end of the first trimester, when fetal organs are almost formed",
+      "Only during the second stage of labour",
+      "Only in the final week before delivery"
     ],
     "answer": "B"
   },
   {
     "id": 5,
     "type": "mcq",
-    "stem": "In a traumatic joint dislocation, additional damage to intracapsular structures may occur by stretching. In the SHOULDER joint, which structure is specifically at risk?",
+    "stem": "Which of the following is explicitly listed as an OBJECTIVE of the booking visit, distinct from simply performing a physical examination?",
     "options": [
-      "The cruciate ligaments",
-      "The long head of the biceps muscle tendon",
-      "The ligament of the head of the femur",
-      "The medial meniscus"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 6,
-    "type": "mcq",
-    "stem": "In a traumatic dislocation of the KNEE joint, which intracapsular structures are specifically at risk of stretching injury?",
-    "options": [
-      "The cruciate ligaments",
-      "The long head of biceps",
-      "The ligament of the head of the femur",
-      "The acromioclavicular ligament"
+      "To provide an opportunity for the woman and family to express concerns about the pregnancy",
+      "To immediately schedule a caesarean section for all women",
+      "To discharge the woman from further antenatal follow-up",
+      "To withhold information about the pregnancy from the family"
     ],
     "answer": "A"
   },
   {
-    "id": 7,
+    "id": 6,
     "type": "mcq",
-    "stem": "In a traumatic dislocation of the HIP joint, which structure is specifically at risk of stretching injury?",
+    "stem": "During history taking at booking, information about a woman's age at menarche, frequency, duration, and amount of menstrual flow falls under which history category?",
     "options": [
-      "The cruciate ligaments",
-      "The ligament of the head of the femur",
-      "The long head of biceps",
-      "The coracoacromial ligament"
+      "Obstetric history",
+      "Menstrual history",
+      "Social history",
+      "Surgical history"
     ],
     "answer": "B"
+  },
+  {
+    "id": 7,
+    "type": "mcq",
+    "stem": "A woman's marital status, occupation, religion, and habits such as smoking or alcohol use are documented under which history category?",
+    "options": [
+      "Medical history",
+      "Family history",
+      "Social history",
+      "Obstetric history"
+    ],
+    "answer": "C"
   },
   {
     "id": 8,
     "type": "mcq",
-    "stem": "Sprains, strains, and dislocations are distinguished from penetrating joint injuries by which key feature?",
+    "stem": "Documentation of DM in a first-degree relative, hypertension, or multiple pregnancy in relatives falls under which history category?",
     "options": [
-      "They always require surgical intervention",
-      "They damage soft tissues, tendons, and ligaments without penetrating the joint capsule",
-      "They never cause any loss of joint stability",
-      "They exclusively affect the axial skeleton"
+      "Family history",
+      "Surgical history",
+      "Social history",
+      "Present obstetric history"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 9,
     "type": "mcq",
-    "stem": "Healing of a penetrating joint injury may be delayed or made uneven by the presence of which factor?",
+    "stem": "The expected date of delivery (EDD) is calculated by adding how much time to the date of the last menstrual period (LMP)?",
     "options": [
-      "Excess synovial fluid production alone",
-      "Fragments of damaged or torn joint tissue that cannot be removed or repaired by normal body mechanisms",
-      "An overabundance of hyaline cartilage regeneration",
-      "Complete absence of any inflammatory response"
+      "3 calendar months and 7 days",
+      "6 calendar months and 14 days",
+      "9 calendar months and 7 days",
+      "12 calendar months and 7 days"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 10,
     "type": "mcq",
-    "stem": "Carpal tunnel syndrome results from compression of which nerve as it passes through the wrist?",
+    "stem": "Gravidity (gravida) refers specifically to which of the following?",
     "options": [
-      "The ulnar nerve",
-      "The median nerve",
-      "The radial nerve",
-      "The musculocutaneous nerve"
+      "The number of babies a woman has delivered alive",
+      "The number of times a woman has been pregnant, regardless of outcome or number of babies",
+      "The number of pregnancies that reached viability only",
+      "The number of times a woman has undergone caesarean section"
     ],
     "answer": "B"
   },
   {
     "id": 11,
     "type": "mcq",
-    "stem": "Carpal tunnel syndrome is most common in which demographic group?",
+    "stem": "A woman who conceives a single pregnancy that results in triplets is classified, until her next pregnancy, as:",
     "options": [
-      "Men aged 50 to 70 years",
-      "Women aged 30 to 50 years",
-      "Children under 10 years",
-      "Adolescent males"
+      "Gravida 3",
+      "Gravida 1",
+      "Multigravida based on the number of babies",
+      "Nulligravida because the pregnancy was multiple"
     ],
     "answer": "B"
   },
   {
     "id": 12,
     "type": "mcq",
-    "stem": "The characteristic sensory disturbance of carpal tunnel syndrome affects the thumb, index and middle fingers, and half of which additional finger?",
+    "stem": "Parity is determined by which factor, according to the standard definition?",
     "options": [
-      "The little finger",
-      "The ring finger",
-      "The entire ring and little fingers",
-      "No additional finger is affected"
+      "The number of babies born alive, regardless of gestational age",
+      "The number of pregnancies carried to the point of viability, regardless of whether the outcome was live birth or stillbirth",
+      "The total number of pregnancies a woman has ever had, including miscarriages before viability",
+      "The number of caesarean deliveries only"
     ],
     "answer": "B"
   },
   {
     "id": 13,
     "type": "mcq",
-    "stem": "Carpal tunnel syndrome may occur secondary to which of the following systemic conditions?",
+    "stem": "The point of fetal viability, used to determine parity, is generally considered to be which gestational age or fetal weight?",
     "options": [
-      "Rheumatoid arthritis, diabetes mellitus, and hypothyroidism",
-      "Osteoarthritis of the hip exclusively",
-      "Acute gouty attacks of the great toe only",
-      "Duchenne muscular dystrophy exclusively"
+      "16 weeks or 500g",
+      "20 weeks or 750g",
+      "24 weeks of gestation or 1.0 kg",
+      "28 weeks or 1.5 kg"
     ],
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 14,
     "type": "mcq",
-    "stem": "Repetitive activity implicated in causing or worsening carpal tunnel syndrome includes which specific behavior?",
+    "stem": "A woman who has given birth to a single fetus that reached the point of viability is termed a:",
     "options": [
-      "Prolonged standing",
-      "Prolonged flexion and extension of the wrist, such as extensive keyboard use",
-      "Occasional light stretching exercises",
-      "Infrequent, brief hand use"
+      "Multipara",
+      "Primipara",
+      "Grandmultipara",
+      "Nullipara"
     ],
     "answer": "B"
   },
   {
     "id": 15,
     "type": "mcq",
-    "stem": "Gout results from deposition of which crystal type in and around joints?",
+    "stem": "A woman who has given birth five times or more is classified as a:",
     "options": [
-      "Calcium pyrophosphate crystals",
-      "Sodium urate crystals",
-      "Cholesterol crystals",
-      "Calcium oxalate crystals"
+      "Multipara",
+      "Primipara",
+      "Grandmultipara",
+      "Nulligravida"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 16,
     "type": "mcq",
-    "stem": "Primary gout, the most common form, results from which underlying mechanism?",
+    "stem": "A woman who has never carried a pregnancy to the point of viability, though she may have been pregnant, is termed:",
     "options": [
-      "High urate production or impaired urate excretion",
-      "Direct bacterial infection of the joint",
-      "Autoimmune destruction of the synovium",
-      "Congenital absence of the joint capsule"
+      "Nulligravida",
+      "Nullipara",
+      "Primigravida",
+      "Primipara"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 17,
     "type": "mcq",
-    "stem": "Secondary gout arises from raised urate levels resulting from another underlying disease, such as:",
+    "stem": "A woman who has never been pregnant at all is correctly termed:",
     "options": [
-      "Kidney failure",
-      "Simple dehydration alone",
-      "A common cold",
-      "Vitamin D deficiency"
+      "Nullipara",
+      "Nulligravida",
+      "Primigravida",
+      "Multigravida"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 18,
     "type": "mcq",
-    "stem": "Attacks of gout can be precipitated by which of the following factors?",
+    "stem": "At booking, the general examination of the client is divided into which two components?",
     "options": [
-      "Trauma, alcohol, or certain drugs",
-      "Cold weather exclusively, with no other trigger",
-      "Vitamin C supplementation only",
-      "Mild aerobic exercise alone"
+      "Cardiac examination and neurological examination",
+      "Physical examination and abdominal examination",
+      "Only laboratory testing and ultrasound",
+      "Psychiatric evaluation and dietary assessment only"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 19,
     "type": "mcq",
-    "stem": "Repeated acute gouty attacks can eventually lead to which complication of the affected joint(s)?",
+    "stem": "During physical examination, assessment of a woman's breast for flat or inverted nipples, discharge, and skin/glandular changes is part of examining which body region?",
     "options": [
-      "Complete, permanent joint fusion in all cases",
-      "Loss of function of the affected joints",
-      "Spontaneous cure with no residual effect",
-      "Conversion to a purely inflammatory autoimmune process"
+      "The abdomen",
+      "The breast",
+      "The neck",
+      "The lower extremities"
     ],
     "answer": "B"
   },
   {
     "id": 20,
     "type": "mcq",
-    "stem": "Gout is sometimes complicated by the development of which renal finding?",
+    "stem": "Abdominal examination during ANC is aimed at assessing all of the following EXCEPT:",
     "options": [
-      "Renal calculi",
-      "Polycystic kidneys",
-      "Renal cell carcinoma",
-      "Horseshoe kidney"
+      "Fetal size and growth in relation to gestational age",
+      "The lie, presentation, and position of the fetus",
+      "Deviations from normal such as polyhydramnios or multiple pregnancy",
+      "The woman's serum electrolyte levels"
     ],
-    "answer": "A"
+    "answer": "D"
   },
   {
     "id": 21,
     "type": "mcq",
-    "stem": "Systemic lupus erythematosus (SLE) is characterized by a distinctive skin finding described as a 'butterfly' rash typically distributed across which area?",
+    "stem": "Abdominal examination in ANC comprises which THREE components, performed in sequence?",
     "options": [
-      "The palms of the hands only",
-      "The face (across the nose and cheeks)",
-      "The soles of the feet exclusively",
-      "The scalp only"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 22,
-    "type": "mcq",
-    "stem": "SLE can result in renal involvement, most classically manifesting as:",
-    "options": [
-      "Glomerulonephritis, which may progress to chronic kidney disease",
-      "Renal cell carcinoma",
-      "Acute pyelonephritis exclusively",
-      "Polycystic kidney disease"
+      "Inspection, palpation, and auscultation",
+      "Percussion, palpation, and radiography",
+      "Inspection, percussion, and biopsy",
+      "Auscultation, biopsy, and palpation"
     ],
     "answer": "A"
   },
   {
+    "id": 22,
+    "type": "mcq",
+    "stem": "Before beginning abdominal palpation, which preparatory step regarding the woman's bladder is required?",
+    "options": [
+      "The bladder should be full to aid palpation",
+      "The bladder should be empty",
+      "Bladder status is irrelevant to palpation",
+      "The woman should be catheterized routinely"
+    ],
+    "answer": "B"
+  },
+  {
     "id": 23,
     "type": "mcq",
-    "stem": "Systemic sclerosis (scleroderma) is characterized by progressive thickening of connective tissue due to increased production of which substance?",
+    "stem": "During abdominal palpation, the midwife should use which part of the hand to palpate, rather than the fingertips?",
     "options": [
-      "Elastin",
-      "Collagen",
-      "Keratin",
-      "Melanin"
+      "The dorsum of the hand",
+      "The flat palmar surface of the fingers",
+      "A clenched fist",
+      "The ulnar border of the hand only"
     ],
     "answer": "B"
   },
   {
     "id": 24,
     "type": "mcq",
-    "stem": "In scleroderma, dermal fibrosis and tightness particularly impairs the function of which body part?",
+    "stem": "Fundal palpation is specifically performed to determine which parameter?",
     "options": [
-      "The scalp",
-      "The hands",
-      "The soles of the feet",
-      "The eyelids exclusively"
+      "The fetal lie",
+      "The fundal height",
+      "The presenting part",
+      "The engagement of the fetal head"
     ],
     "answer": "B"
   },
   {
     "id": 25,
     "type": "mcq",
-    "stem": "Reiter's syndrome classically presents with a triad including polyarthritis, conjunctivitis, and:",
+    "stem": "When measuring fundal height by the finger method during an ASCENDING uterus, how many fingers' breadth represents 2 weeks of gestation?",
     "options": [
-      "Nephritis",
-      "Urethritis",
-      "Otitis media",
-      "Pericarditis"
+      "1 finger",
+      "2 fingers",
+      "3 fingers",
+      "4 fingers"
     ],
     "answer": "B"
   },
   {
     "id": 26,
     "type": "mcq",
-    "stem": "Reiter's syndrome may be precipitated by infection with which organism?",
+    "stem": "When measuring fundal height by the finger method during a DESCENDING uterus (late pregnancy), how many fingers' breadth represents 1 week?",
     "options": [
-      "Chlamydia trachomatis",
-      "Neisseria meningitidis",
-      "Streptococcus pyogenes",
-      "Helicobacter pylori"
+      "1 finger",
+      "2 fingers",
+      "3 fingers",
+      "4 fingers"
     ],
     "answer": "A"
   },
   {
     "id": 27,
     "type": "mcq",
-    "stem": "Reiter's syndrome most commonly affects joints in which body region?",
+    "stem": "When fundal height is measured by tape in centimeters from the symphysis pubis to the fundus, a gestational age of 30 weeks would typically correspond to approximately how many centimeters?",
     "options": [
-      "The lower limb joints",
-      "The joints of the cervical spine exclusively",
-      "The temporomandibular joint exclusively",
-      "The joints of the fingers exclusively"
+      "20 cm",
+      "25 cm",
+      "30 cm",
+      "40 cm"
     ],
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 28,
     "type": "mcq",
-    "stem": "Rheumatoid arthritis (RA) is more common in females than males by approximately what ratio?",
+    "stem": "Lateral palpation during abdominal examination is performed specifically to ascertain which fetal parameter?",
     "options": [
-      "1.5 times",
-      "3 times",
-      "10 times",
-      "It is more common in males"
+      "The fundal height",
+      "The position of the baby",
+      "The fetal heart rate",
+      "The maternal blood pressure"
     ],
     "answer": "B"
   },
   {
     "id": 29,
     "type": "mcq",
-    "stem": "The autoantibody found in up to 90% of individuals affected by rheumatoid arthritis, especially early in the disease and associated with more severe, accelerated disease, is called:",
+    "stem": "Pelvic palpation is performed to accomplish which of the following THREE objectives?",
     "options": [
-      "Antinuclear antibody",
-      "Rheumatoid factor (RF)",
-      "Anti-dsDNA antibody",
-      "Anti-Smith antibody"
+      "Determine the fundal height, assess maternal weight gain, and check for oedema",
+      "Determine the presentation, identify the lie, and check for engagement of the head in a cephalic presentation",
+      "Measure maternal blood pressure, assess urine protein, and check reflexes",
+      "Assess fetal heart rate, respiratory rate, and maternal pulse"
     ],
     "answer": "B"
   },
   {
     "id": 30,
     "type": "mcq",
-    "stem": "The growth of inflammatory granulation tissue in RA, which distorts the joint and destroys articular cartilage, exposing the bone below, is called:",
+    "stem": "Auscultation of the fetal heart during ANC is performed using a pinard stethoscope or electronic fetal heart monitor to detect fetal heart beats within which normal range?",
     "options": [
-      "Osteophyte formation",
-      "Pannus",
-      "Tophus",
-      "Sequestrum"
+      "60 to 100 beats per minute",
+      "100 to 120 beats per minute",
+      "120 to 160 beats per minute",
+      "160 to 200 beats per minute"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 31,
     "type": "mcq",
-    "stem": "Fibrosis of the pannus in advanced rheumatoid arthritis specifically results in which functional consequence?",
+    "stem": "A maternal height of over 160 cm at booking is generally considered indicative of:",
     "options": [
-      "Increased joint mobility",
-      "Reduced joint mobility",
-      "Complete restoration of normal joint architecture",
-      "Spontaneous resolution of all symptoms"
+      "An abnormally large pelvis requiring caesarean section",
+      "A normal pelvis",
+      "Cephalopelvic disproportion",
+      "Fetal macrosomia"
     ],
     "answer": "B"
   },
   {
     "id": 32,
     "type": "mcq",
-    "stem": "About one-third of RA patients, usually those with the most aggressive form of the disease, develop nodules of connective tissue, typically located in the forearm or elbow, called:",
+    "stem": "Reassessment of pelvic adequacy relative to fetal head size typically occurs at approximately which gestational week, when the fetus is almost fully grown?",
     "options": [
-      "Osteophytes",
-      "Rheumatoid nodules",
-      "Bouchard's nodes",
-      "Heberden's nodes"
+      "20th week",
+      "28th week",
+      "36th week",
+      "42nd week"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 33,
     "type": "mcq",
-    "stem": "Extra-articular manifestations of severe RA can include anaemia, peripheral neuropathy, cardiac abnormalities, pleurisy, and:",
+    "stem": "A pregnant woman is expected to gain approximately how much weight weekly after 20 weeks of gestation, under normal circumstances?",
     "options": [
-      "Vasculitis",
-      "Renal calculi exclusively",
-      "Cataracts exclusively",
-      "Achondroplasia"
+      "0.1 kg",
+      "0.5 kg",
+      "1.5 kg",
+      "3 kg"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 34,
     "type": "mcq",
-    "stem": "Comparing osteoarthritis and rheumatoid arthritis by tissue affected: osteoarthritis primarily affects the articular cartilage, whereas rheumatoid arthritis primarily affects the:",
+    "stem": "The total normal weight gain expected throughout an uncomplicated pregnancy is approximately:",
     "options": [
-      "Bone marrow",
-      "Synovial membrane",
-      "Periosteum",
-      "Epiphyseal growth plate"
+      "5 kg",
+      "8.5 kg",
+      "12.5 kg",
+      "20 kg"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 35,
     "type": "mcq",
-    "stem": "Comparing osteoarthritis and rheumatoid arthritis by joint distribution: osteoarthritis typically affects large weight-bearing joints such as the hip and knee, often a single joint, whereas rheumatoid arthritis typically affects:",
+    "stem": "A sudden, drastic increase in maternal weight, particularly when accompanied by proteinuria and oedema, should raise suspicion for which condition(s)?",
     "options": [
-      "The same large weight-bearing joints exclusively",
-      "Small joints such as the hands and feet, often affecting many joints",
-      "Only the spine",
-      "No joints at all, only muscles"
+      "Gestational diabetes or pre-eclampsia",
+      "Normal physiological weight gain requiring no action",
+      "Anaemia exclusively",
+      "Hyperemesis gravidarum"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 36,
     "type": "mcq",
-    "stem": "Ankylosing spondylitis tends to occur in which population and characteristically affects which joints?",
+    "stem": "A blood pressure reading of what value at the FIRST antenatal visit is considered indicative of hypertension?",
     "options": [
-      "Elderly women; the joints of the hands",
-      "Young adults; the joints of the spine, including the sacroiliac joint",
-      "Infants; the temporomandibular joint",
-      "Middle-aged men; the wrist and elbow only"
+      "120/80 mmHg",
+      "130/85 mmHg",
+      "140/90 mmHg",
+      "160/100 mmHg only"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 37,
     "type": "mcq",
-    "stem": "In ankylosing spondylitis, calcification of the intervertebral joints and laying down of new bone results in which consequence?",
+    "stem": "On urinalysis during ANC, the presence of protein in the urine, especially when accompanied by increased BP and/or oedema, is suggestive of:",
     "options": [
-      "Increased spinal flexibility",
-      "Reduced spinal flexibility and permanent deformity",
-      "Complete resolution of symptoms without deformity",
-      "Isolated involvement of the fingers only"
+      "Gestational diabetes",
+      "Pre-eclampsia",
+      "Urinary tract infection exclusively",
+      "Physiological glucosuria"
     ],
     "answer": "B"
   },
   {
     "id": 38,
     "type": "mcq",
-    "stem": "Psoriatic arthritis develops in approximately what percentage of people with psoriasis, and is more likely if which additional finding is present?",
+    "stem": "On urinalysis, the presence of glucose is often followed up with repeated random blood sugar testing or a glucose tolerance test to rule out which condition, even though it is commonly due to a low renal threshold in pregnancy?",
     "options": [
-      "1% to 2%; if the scalp is involved",
-      "5% to 10%; if the nails are involved",
-      "50% to 60%; if the elbows are involved",
-      "90% to 100%; in all cases of psoriasis"
+      "Pre-eclampsia",
+      "Diabetes mellitus",
+      "Urinary tract infection",
+      "Anaemia"
     ],
     "answer": "B"
   },
   {
     "id": 39,
     "type": "mcq",
-    "stem": "Psoriatic arthritis most commonly affects which joints?",
+    "stem": "Ketones may be detected on urinalysis particularly in a woman who is experiencing which symptom?",
     "options": [
-      "The hip and shoulder joints",
-      "The finger and toe joints",
-      "The sacroiliac joint exclusively",
-      "The temporomandibular joint exclusively"
+      "Excessive fluid intake",
+      "Vomiting",
+      "Mild oedema only",
+      "Increased urinary frequency alone"
     ],
     "answer": "B"
   },
   {
     "id": 40,
     "type": "mcq",
-    "stem": "Rheumatic fever commonly presents with polyarthritis affecting which joints, in contrast to its PERMANENT cardiac effects?",
+    "stem": "Bacteriological testing of urine at booking is performed specifically to detect asymptomatic bacteriuria, which if untreated can lead to which later complication?",
     "options": [
-      "The wrist, elbows, knees, and ankles, with the arthritis itself usually resolving spontaneously without complications",
-      "Only the hip joint, with permanent joint destruction",
-      "The temporomandibular joint exclusively, with permanent deformity",
-      "The small joints of the hands exclusively, with permanent ankylosis"
+      "Pyelonephritis",
+      "Renal cell carcinoma",
+      "Nephrotic syndrome",
+      "Bladder cancer"
     ],
     "answer": "A"
   },
   {
     "id": 41,
     "type": "mcq",
-    "stem": "Myasthenia gravis is an autoimmune condition in which circulating autoantibodies bind to and block which receptors?",
+    "stem": "A Rhesus-negative mother should be followed up to ensure she receives anti-D immunoglobulin within how many hours after delivery?",
     "options": [
-      "Muscarinic receptors in smooth muscle",
-      "Acetylcholine receptors at the neuromuscular junction",
-      "Beta-adrenergic receptors in cardiac muscle",
-      "Dopamine receptors in the basal ganglia"
+      "24 hours",
+      "48 hours",
+      "72 hours",
+      "1 week"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 42,
     "type": "mcq",
-    "stem": "In myasthenia gravis, the muscles that move the eyeballs and eyelids are usually affected FIRST, causing which characteristic findings?",
+    "stem": "The blood test performed at booking specifically to screen for sickle cell disease/trait is the:",
     "options": [
-      "Nystagmus and miosis",
-      "Ptosis (drooping eyelid) or diplopia (double vision)",
-      "Complete blindness",
-      "Exophthalmos"
+      "ABO grouping",
+      "Genotype test",
+      "VDRL test",
+      "Hepatitis B test"
     ],
     "answer": "B"
   },
   {
     "id": 43,
     "type": "mcq",
-    "stem": "Relapses of myasthenia gravis can be precipitated by which of the following?",
+    "stem": "The blood test performed at booking specifically to screen for syphilis is the:",
     "options": [
-      "Strenuous exercise, infections, or pregnancy",
-      "Complete bed rest exclusively",
-      "Avoidance of all physical activity",
-      "Cold exposure exclusively, with no other trigger"
+      "Genotype test",
+      "VDRL test",
+      "HIV test",
+      "Hb estimation"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 44,
     "type": "mcq",
-    "stem": "Duchenne muscular dystrophy follows which pattern of inheritance?",
+    "stem": "HIV testing is performed during ANC primarily to know the woman's status and to prevent which specific outcome?",
     "options": [
-      "Autosomal dominant",
-      "Autosomal recessive",
-      "Sex-linked (X-linked)",
-      "Mitochondrial inheritance"
+      "Postpartum haemorrhage",
+      "Mother-to-child transmission (MTCT)",
+      "Gestational diabetes",
+      "Pre-eclampsia"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 45,
     "type": "mcq",
-    "stem": "Signs and symptoms of Duchenne muscular dystrophy typically do not appear until approximately what age?",
+    "stem": "The THREE categories of routine drugs given to pregnant women during ANC are haematinics, anti-malaria drugs, and:",
     "options": [
-      "Birth",
-      "About 5 years of age",
-      "Adolescence",
-      "Middle adulthood"
+      "Antihypertensives",
+      "Tetanus toxoid (TT)",
+      "Broad-spectrum antibiotics",
+      "Corticosteroids"
     ],
     "answer": "B"
   },
   {
     "id": 46,
     "type": "mcq",
-    "stem": "In Duchenne muscular dystrophy, wasting and weakness begin in which muscle groups FIRST, before spreading?",
+    "stem": "Which of the following is listed as a component of the routine haematinics given during ANC?",
     "options": [
-      "Facial muscles",
-      "Lower limb muscles",
-      "Upper limb muscles",
-      "Muscles of the tongue"
+      "Fesolate 300mg tds",
+      "Amoxicillin 500mg tds",
+      "Paracetamol 500mg tds",
+      "Metronidazole 400mg tds"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 47,
     "type": "mcq",
-    "stem": "Death in Duchenne muscular dystrophy usually occurs during adolescence, often from which cause(s)?",
+    "stem": "The routine daily dose of folic acid given as part of ANC haematinics is:",
     "options": [
-      "Renal failure exclusively",
-      "Respiratory failure, cardiac arrhythmias, or cardiomyopathy",
-      "Gastrointestinal hemorrhage exclusively",
-      "Hepatic failure exclusively"
+      "1 mg once daily",
+      "5 mg once daily",
+      "50 mg once daily",
+      "500 mg once daily"
     ],
     "answer": "B"
   },
   {
     "id": 48,
     "type": "mcq",
-    "stem": "Facioscapulohumeral dystrophy characteristically affects which muscle groups FIRST?",
+    "stem": "The current standard regimen for malaria prevention in pregnancy, replacing older weekly chloroquine or daraprim regimens, is called:",
     "options": [
-      "The muscles of the face and shoulders",
-      "The muscles of the lower limbs exclusively",
-      "The muscles of the tongue exclusively",
-      "The intercostal muscles exclusively"
+      "Directly Observed Therapy (DOT)",
+      "Intermittent Preventive Treatment (IPT)",
+      "Continuous Suppressive Therapy (CST)",
+      "Emergency Malaria Prophylaxis (EMP)"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 49,
     "type": "mcq",
-    "stem": "Compared to Duchenne muscular dystrophy, facioscapulohumeral dystrophy is characterized by which prognosis?",
+    "stem": "The standard drug combination used for IPT in pregnancy is sulphadoxine-pyremethamine, with each single dose made up of how many tablets?",
     "options": [
-      "A more rapid course with death in adolescence",
-      "A slowly progressing chronic condition with normal life expectancy",
-      "Immediate death within days of onset",
-      "Complete cure within one year"
+      "1 tablet",
+      "3 tablets",
+      "5 tablets",
+      "10 tablets"
     ],
     "answer": "B"
   },
   {
     "id": 50,
     "type": "mcq",
-    "stem": "Myotonic dystrophy is characterized by prolonged muscle contraction with slow relaxation, causing sufferers difficulty in releasing an object held in the hand. Which muscles are affected FIRST in this condition?",
+    "stem": "Each single dose of sulphadoxine-pyremethamine (SP) for IPT contains sulphadoxine 500mg combined with how much pyremethamine?",
     "options": [
-      "Muscles of the tongue and face",
-      "Muscles of the lower limb exclusively",
-      "Muscles of the trunk exclusively",
-      "Respiratory muscles exclusively"
+      "10 mg",
+      "25 mg",
+      "50 mg",
+      "100 mg"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 51,
     "type": "mcq",
-    "stem": "In addition to muscle involvement, myotonic dystrophy is also associated with which OTHER systemic complications?",
+    "stem": "The first dose of SP for IPT in a normal pregnancy is given after how many weeks of gestation?",
     "options": [
-      "Cataracts, cardiac conduction abnormalities, and increased risk of diabetes mellitus",
-      "Renal calculi and gout exclusively",
-      "Osteoporosis exclusively, with no other systemic effect",
-      "Complete immunity to infection"
+      "8 weeks",
+      "16 weeks",
+      "24 weeks",
+      "32 weeks"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 52,
     "type": "mcq",
-    "stem": "Paget's disease of bone is characterized by disorganized bone remodelling that produces bone that is:",
+    "stem": "The second dose of SP is given at what interval after the first dose in a standard (non-HIV) pregnancy?",
     "options": [
-      "Thin, brittle, and porous only",
-      "Enlarged, deformed, and weakened",
-      "Completely normal in structure but reduced in quantity",
-      "Replaced entirely by cartilage"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 53,
-    "type": "mcq",
-    "stem": "The average age at diagnosis of Paget's disease is approximately:",
-    "options": [
-      "30 years",
-      "50 years",
-      "70 years",
-      "90 years"
+      "1 week after",
+      "2 weeks after",
+      "1 month after",
+      "3 months after"
     ],
     "answer": "C"
   },
   {
-    "id": 54,
+    "id": 53,
     "type": "mcq",
-    "stem": "Paget's disease increases the risk of which secondary complications?",
+    "stem": "In HIV-positive mothers, the number of SP doses that may be given during pregnancy can be increased to:",
     "options": [
-      "Secondary osteoarthritis and development of benign or malignant bone tumours",
-      "Immediate spontaneous fracture healing with no complications",
-      "Complete resolution without any increased disease risk",
-      "Only cardiovascular complications, with no skeletal risk"
-    ],
-    "answer": "A"
-  },
-  {
-    "id": 55,
-    "type": "mcq",
-    "stem": "Rickets and osteomalacia both result from inadequate bone mineralization, most commonly due to deficiency of which vitamin?",
-    "options": [
-      "Vitamin A",
-      "Vitamin D",
-      "Vitamin C",
-      "Vitamin K"
+      "Only 1 dose total",
+      "Up to 3 doses",
+      "Up to 6 doses",
+      "SP is entirely contraindicated"
     ],
     "answer": "B"
   },
   {
+    "id": 54,
+    "type": "mcq",
+    "stem": "In a normal pregnancy under the traditional appointment schedule, ANC visits are typically scheduled every 4 weeks until which gestational week?",
+    "options": [
+      "20 weeks",
+      "28 weeks",
+      "36 weeks",
+      "40 weeks"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 55,
+    "type": "mcq",
+    "stem": "Following the 4-weekly schedule, ANC visits then become 2-weekly until which gestational week, before becoming weekly until delivery?",
+    "options": [
+      "30 weeks",
+      "32 weeks",
+      "36 weeks",
+      "38 weeks"
+    ],
+    "answer": "C"
+  },
+  {
     "id": 56,
     "type": "mcq",
-    "stem": "Rickets occurs specifically in which population, causing characteristic bowing deformity of the lower limbs?",
+    "stem": "During SUBSEQUENT (non-booking) ANC visits, which blood test is routinely repeated?",
     "options": [
-      "Elderly adults with closed growth plates",
-      "Children whose bones are still growing",
-      "Postmenopausal women exclusively",
-      "Adult men exclusively"
+      "Full genotype re-testing at every visit",
+      "Only Hb or PCV",
+      "Repeat VDRL at every single visit",
+      "Full liver function tests routinely"
     ],
     "answer": "B"
   },
   {
     "id": 57,
     "type": "mcq",
-    "stem": "In adults, vitamin D deficiency causing inadequate bone mineralization is termed:",
+    "stem": "Focused Antenatal Care (FANC) is best described as:",
     "options": [
-      "Rickets",
-      "Osteomalacia",
-      "Achondroplasia",
-      "Osteopetrosis"
+      "A model requiring the maximum possible number of antenatal visits for every woman",
+      "A qualitative, individualised, and evidence-based care model given by skilled providers",
+      "A model that only applies to high-risk pregnancies",
+      "A purely administrative scheduling system with no clinical basis"
     ],
     "answer": "B"
   },
   {
     "id": 58,
     "type": "mcq",
-    "stem": "Vitamin D deficiency causing rickets/osteomalacia may result from poor diet, malabsorption, or limited exposure to which environmental factor?",
+    "stem": "Unlike the traditional ANC model, FANC does NOT classify pregnant women into risk categories because:",
     "options": [
-      "Cold temperatures",
-      "Sunlight",
-      "High altitude",
-      "Humidity"
+      "Risk categorization is always accurate and should be trusted completely",
+      "Complications can arise at any time in pregnancy, and risk-based prediction is unreliable",
+      "All pregnant women are automatically considered high risk under FANC",
+      "FANC eliminates the need for any antenatal visits at all"
     ],
     "answer": "B"
   },
   {
     "id": 59,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A 45-year-old woman presents with symmetrical pain and swelling of the small joints of both hands, worse in the morning, with visible deformity developing over several years and a positive rheumatoid factor. Which condition is MOST consistent with this presentation?",
+    "stem": "The goals of FANC are represented by the acronym PPDP, standing for Promotion, Prevention, Detection, and:",
     "options": [
-      "Osteoarthritis",
-      "Rheumatoid arthritis",
-      "Gouty arthritis",
-      "Osteomalacia"
+      "Prescription",
+      "Planning",
+      "Prognosis",
+      "Prophylaxis"
     ],
     "answer": "B"
   },
   {
     "id": 60,
     "type": "mcq",
-    "stem": "CASE SCENARIO (continued): On examination, the nurse notes firm nodules on the client's forearm near the elbow. These are most likely:",
+    "stem": "Under FANC, a minimum of how many antenatal visits is recommended throughout pregnancy?",
     "options": [
-      "Osteophytes",
-      "Rheumatoid nodules",
-      "Tophi",
-      "Bouchard's nodes"
+      "Two visits",
+      "Four visits",
+      "Eight visits",
+      "Twelve visits"
     ],
     "answer": "B"
   },
   {
     "id": 61,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A 68-year-old man reports gradually worsening right knee pain over several years, worse with activity and relieved by rest, with radiographs showing joint space narrowing and osteophyte formation but no systemic inflammatory markers. Which condition is MOST consistent with this presentation?",
+    "stem": "CASE SCENARIO: A woman presents for her first antenatal visit at 9 weeks gestation, reporting her LMP was exactly 9 weeks ago. Using Naegele's rule, the midwife calculates the EDD by adding to the LMP date:",
     "options": [
-      "Rheumatoid arthritis",
-      "Osteoarthritis",
-      "Reiter's syndrome",
-      "Ankylosing spondylitis"
+      "6 months and 14 days",
+      "9 calendar months and 7 days",
+      "3 months and 21 days",
+      "12 months exactly"
     ],
     "answer": "B"
   },
   {
     "id": 62,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A 38-year-old woman who spends 8 hours daily typing reports numbness and tingling in her thumb, index, and middle fingers, worse at night. Which condition should the nurse suspect?",
+    "stem": "CASE SCENARIO (continued): This client reports she has been pregnant three times previously: one pregnancy ended in miscarriage at 10 weeks, one resulted in twins delivered at term, and one resulted in a stillbirth at 30 weeks. Including her current pregnancy, her gravidity is:",
     "options": [
-      "Ulnar nerve entrapment",
-      "Carpal tunnel syndrome",
-      "Radial nerve palsy",
-      "Cervical radiculopathy at C8"
+      "Gravida 3",
+      "Gravida 4",
+      "Gravida 5",
+      "Gravida 6"
     ],
     "answer": "B"
   },
   {
     "id": 63,
     "type": "mcq",
-    "stem": "CASE SCENARIO (continued): The nurse should also ask about which underlying systemic conditions that are recognized secondary causes of this syndrome?",
+    "stem": "CASE SCENARIO (continued): Based on the same history, her parity (before the current pregnancy) is:",
     "options": [
-      "Diabetes mellitus, rheumatoid arthritis, and hypothyroidism",
-      "Osteosarcoma exclusively",
-      "Achondroplasia exclusively",
-      "Duchenne muscular dystrophy exclusively"
-    ],
-    "answer": "A"
-  },
-  {
-    "id": 64,
-    "type": "mcq",
-    "stem": "CASE SCENARIO: A 55-year-old man presents with acute, severe pain, redness, and swelling of the first metatarsophalangeal joint (great toe), following a night of heavy alcohol consumption. Which condition is MOST consistent with this presentation?",
-    "options": [
-      "Gout",
-      "Rheumatoid arthritis",
-      "Osteoarthritis",
-      "Septic arthritis of unknown cause"
-    ],
-    "answer": "A"
-  },
-  {
-    "id": 65,
-    "type": "mcq",
-    "stem": "CASE SCENARIO (continued): Laboratory investigation later reveals renal calculi in this same client. The nurse recognizes this as a recognized complication of which condition?",
-    "options": [
-      "Osteoarthritis",
-      "Gout",
-      "Ankylosing spondylitis",
-      "Reiter's syndrome"
+      "Para 0, since one pregnancy ended before viability",
+      "Para 2, counting the twin pregnancy and the stillbirth as pregnancies reaching viability",
+      "Para 3, counting all three prior pregnancies equally",
+      "Para 1, counting only the live twin birth"
     ],
     "answer": "B"
   },
   {
+    "id": 64,
+    "type": "mcq",
+    "stem": "CASE SCENARIO: A primigravida at booking has a height of 152 cm. The midwife's most appropriate initial consideration, without yet concluding a diagnosis, is that:",
+    "options": [
+      "This height automatically confirms cephalopelvic disproportion requiring immediate caesarean booking",
+      "Short stature may reflect a small-sized family/race or childhood nutritional stunting, warranting attention to pelvic adequacy as pregnancy progresses",
+      "Height has no bearing whatsoever on obstetric risk and requires no further consideration",
+      "This height is diagnostic of gestational diabetes"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 65,
+    "type": "mcq",
+    "stem": "CASE SCENARIO (continued): At 36 weeks, the midwife reassesses this client specifically to determine which finding, given her short stature?",
+    "options": [
+      "Whether the fetal head will engage in the pelvic brim without difficulty",
+      "Whether she has developed varicose veins",
+      "Her current hearing acuity",
+      "Her dental hygiene status"
+    ],
+    "answer": "A"
+  },
+  {
     "id": 66,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A 28-year-old woman presents with a red rash across her nose and cheeks, joint pain, and proteinuria. Which condition is MOST consistent with this presentation?",
+    "stem": "CASE SCENARIO: A woman at 32 weeks gestation has gained 4 kg in the past week, and urinalysis shows +2 protein with mild bilateral ankle oedema. The midwife's PRIORITY concern is:",
     "options": [
-      "Systemic sclerosis (scleroderma)",
-      "Systemic lupus erythematosus (SLE)",
-      "Reiter's syndrome",
-      "Ankylosing spondylitis"
+      "Normal physiological weight gain of pregnancy requiring no action",
+      "Possible pre-eclampsia",
+      "Simple dietary overindulgence requiring only counselling",
+      "A urinary tract infection with no further significance"
     ],
     "answer": "B"
   },
   {
     "id": 67,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A young man develops conjunctivitis, urethritis, and polyarthritis of the lower limb joints several weeks after a chlamydial infection. Which condition is MOST consistent with this presentation?",
+    "stem": "CASE SCENARIO (continued): Her blood pressure at this visit is recorded as 148/94 mmHg. Combined with the previous findings, the midwife should:",
     "options": [
-      "Rheumatic fever",
-      "Reiter's syndrome",
-      "Psoriatic arthritis",
-      "Gout"
+      "Reassure the client that this is a normal finding at 32 weeks and continue routine follow-up only",
+      "Recognize this combination of findings as concerning for a hypertensive disorder of pregnancy requiring further evaluation",
+      "Advise the client to restrict all fluid intake immediately without further assessment",
+      "Discharge the client from further antenatal care"
     ],
     "answer": "B"
   },
   {
     "id": 68,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A 30-year-old woman presents with progressive drooping of both eyelids and double vision that worsens through the day and improves with rest, with no other neurological deficit. Which condition is MOST consistent with this presentation?",
+    "stem": "CASE SCENARIO: A Rhesus-negative woman delivers a healthy baby. The midwife's priority action regarding Rh status is to ensure she receives anti-D immunoglobulin within which timeframe?",
     "options": [
-      "Duchenne muscular dystrophy",
-      "Myasthenia gravis",
-      "Myotonic dystrophy",
-      "Multiple sclerosis"
+      "Within 24 hours of delivery",
+      "Within 72 hours of delivery",
+      "Within 2 weeks of delivery",
+      "Anti-D is not required if the baby appears healthy"
     ],
     "answer": "B"
   },
   {
     "id": 69,
     "type": "mcq",
-    "stem": "CASE SCENARIO (continued): The client reports that her symptoms became markedly worse during a recent respiratory infection. The nurse recognizes this as consistent with which known feature of the condition?",
+    "stem": "CASE SCENARIO: An HIV-positive pregnant woman is due to begin malaria chemoprevention. Compared to an HIV-negative woman, the midwife anticipates she may receive:",
     "options": [
-      "Relapses can be precipitated by infections, strenuous exercise, or pregnancy",
-      "The condition is entirely unaffected by any external factor",
-      "Infections always cure the underlying condition",
-      "This indicates the diagnosis is incorrect"
+      "Fewer doses of SP than an HIV-negative woman",
+      "The same maximum of 2 doses as an HIV-negative woman",
+      "Up to 3 doses of SP, more than the standard 2 doses for an HIV-negative woman",
+      "No malaria chemoprevention at all due to her HIV status"
     ],
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 70,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A 5-year-old boy presents with progressive lower limb weakness and difficulty climbing stairs, with a family history of a similar sex-linked condition in maternal uncles. Which condition is MOST consistent with this presentation?",
+    "stem": "CASE SCENARIO: A woman at her booking visit asks why her midwife is not scheduling her for ten or more visits, as her friend experienced in another country. The midwife's BEST explanation, based on FANC principles, is that:",
     "options": [
-      "Facioscapulohumeral dystrophy",
-      "Duchenne muscular dystrophy",
-      "Myotonic dystrophy",
-      "Myasthenia gravis"
+      "More visits are always better and her friend's care was superior",
+      "Frequent visits do not necessarily improve pregnancy outcome, and FANC emphasizes quality, individualized care over quantity of visits",
+      "FANC is only used in under-resourced settings and is inferior care",
+      "Four visits are used only to save cost, with no evidence base"
     ],
     "answer": "B"
   },
   {
     "id": 71,
     "type": "fitb",
-    "stem": "Osteoarthritis is a ___________ disease that causes pain and restricted movement, whereas rheumatoid arthritis is an ___________ and ___________ disease.",
-    "answer": "degenerative; inflammatory; autoimmune",
+    "stem": "The ideal period for booking is after the second missed period or about the ___________ week of gestation.",
+    "answer": "10th",
     "acceptableAnswers": [
-      "degenerative; inflammatory; autoimmune"
+      "10th",
+      "tenth"
     ]
   },
   {
     "id": 72,
     "type": "fitb",
-    "stem": "The abnormal bony outgrowths at joint margins in osteoarthritis are called ___________.",
-    "answer": "osteophytes",
+    "stem": "The expected date of delivery is calculated by adding ___________ calendar months and ___________ days to the last menstrual period.",
+    "answer": "9; 7",
     "acceptableAnswers": [
-      "osteophytes"
+      "9; 7",
+      "nine; seven"
     ]
   },
   {
     "id": 73,
     "type": "fitb",
-    "stem": "Carpal tunnel syndrome results from compression of the ___________ nerve, most commonly affecting women aged ___________ to ___________ years.",
-    "answer": "median; 30; 50",
+    "stem": "The point of fetal viability used to define parity is ___________ weeks of gestation or a fetal weight of ___________ kg.",
+    "answer": "24; 1.0",
     "acceptableAnswers": [
-      "median; 30; 50"
+      "24; 1.0",
+      "24; 1"
     ]
   },
   {
     "id": 74,
     "type": "fitb",
-    "stem": "Gout results from deposition of ___________ ___________ crystals in and around the joints.",
-    "answer": "sodium urate",
+    "stem": "A woman who has given birth five times or more is called a ___________, while a woman who has never carried a pregnancy to viability is called a ___________.",
+    "answer": "grandmultipara; nullipara",
     "acceptableAnswers": [
-      "sodium urate"
+      "grandmultipara; nullipara"
     ]
   },
   {
     "id": 75,
     "type": "fitb",
-    "stem": "The characteristic 'butterfly' rash of systemic lupus erythematosus is typically found across the ___________, and the disease can cause ___________ leading to chronic kidney disease.",
-    "answer": "face; glomerulonephritis",
+    "stem": "Abdominal examination in ANC comprises three components performed in sequence: ___________, ___________, and ___________.",
+    "answer": "inspection; palpation; auscultation",
     "acceptableAnswers": [
-      "face; glomerulonephritis"
+      "inspection; palpation; auscultation"
     ]
   },
   {
     "id": 76,
     "type": "fitb",
-    "stem": "In rheumatoid arthritis, the inflammatory granulation tissue that destroys articular cartilage is called ___________, and the associated autoantibody found in up to 90% of patients is called ___________ ___________.",
-    "answer": "pannus; rheumatoid factor",
+    "stem": "___________ palpation determines fundal height, ___________ palpation ascertains fetal position, and ___________ palpation determines presentation and engagement.",
+    "answer": "Fundal; lateral; pelvic",
     "acceptableAnswers": [
-      "pannus; rheumatoid factor"
+      "Fundal; lateral; pelvic"
     ]
   },
   {
     "id": 77,
     "type": "fitb",
-    "stem": "Myasthenia gravis is caused by autoantibodies blocking ___________ receptors at the ___________ ___________.",
-    "answer": "acetylcholine; neuromuscular junction",
+    "stem": "The normal fetal heart rate range detected on auscultation is ___________ to ___________ beats per minute.",
+    "answer": "120; 160",
     "acceptableAnswers": [
-      "acetylcholine; neuromuscular junction"
+      "120; 160"
     ]
   },
   {
     "id": 78,
     "type": "fitb",
-    "stem": "Duchenne muscular dystrophy follows a ___________-linked pattern of inheritance, with symptoms typically appearing around ___________ years of age, and death often occurring in ___________ from respiratory or cardiac failure.",
-    "answer": "sex; 5; adolescence",
+    "stem": "A maternal height over ___________ cm is generally considered indicative of a normal pelvis.",
+    "answer": "160",
     "acceptableAnswers": [
-      "sex; 5; adolescence"
+      "160"
     ]
   },
   {
     "id": 79,
     "type": "fitb",
-    "stem": "Paget's disease is a disorder of bone ___________ producing bone that is enlarged, deformed, and ___________, with an average age at diagnosis of ___________ years.",
-    "answer": "remodelling; weakened; 70",
+    "stem": "A pregnant woman is expected to gain approximately ___________ kg weekly after 20 weeks, with a total normal weight gain of about ___________ kg across pregnancy.",
+    "answer": "0.5; 12.5",
     "acceptableAnswers": [
-      "remodelling; weakened; 70"
+      "0.5; 12.5"
     ]
   },
   {
     "id": 80,
     "type": "fitb",
-    "stem": "Rickets and osteomalacia both result from deficiency of vitamin ___________; in children this causes ___________, and in adults it is called ___________.",
-    "answer": "D; rickets; osteomalacia",
+    "stem": "A blood pressure of ___________/___________ mmHg at the first antenatal visit is considered indicative of hypertension.",
+    "answer": "140; 90",
     "acceptableAnswers": [
-      "D; rickets; osteomalacia"
+      "140; 90"
     ]
   },
   {
     "id": 81,
     "type": "fitb",
-    "stem": "Achondroplasia prevents normal ossification of bones developing from ___________ models, resulting in short limbs and characteristic ___________.",
-    "answer": "cartilage; dwarfism",
+    "stem": "A Rhesus-negative mother should receive anti-D immunoglobulin within ___________ hours after delivery.",
+    "answer": "72",
     "acceptableAnswers": [
-      "cartilage; dwarfism"
+      "72"
     ]
   },
   {
     "id": 82,
     "type": "fitb",
-    "stem": "Osteogenesis imperfecta results from a congenital defect in ___________ synthesis, causing bones that fracture easily, and is popularly known as '___________ bone syndrome'.",
-    "answer": "collagen; brittle",
+    "stem": "The three routine drug categories given during ANC are ___________, ___________, and tetanus toxoid.",
+    "answer": "haematinics; anti-malaria drugs",
     "acceptableAnswers": [
-      "collagen; brittle"
+      "haematinics; anti-malaria drugs"
     ]
   },
   {
     "id": 83,
     "type": "fitb",
-    "stem": "The most common malignant bone tumours are ___________ tumours, arising from primary cancers of the breast, lungs, thyroid, kidneys, and ___________ gland.",
-    "answer": "metastatic; prostate",
+    "stem": "The routine haematinics given in ANC include Fesolate ___________mg tds, Multivitamins ___________mg tds, and Folic acid ___________mg daily.",
+    "answer": "300; 200; 5",
     "acceptableAnswers": [
-      "metastatic; prostate"
+      "300; 200; 5"
     ]
   },
   {
     "id": 84,
     "type": "fitb",
-    "stem": "___________ is a rapidly growing, highly malignant primary bone tumour most common in adolescence, typically arising in the medullary canal of the ___________.",
-    "answer": "Osteosarcoma; femur",
+    "stem": "Each single dose of sulphadoxine-pyremethamine (SP) for IPT is made up of sulphadoxine ___________mg and pyremethamine ___________mg, given as ___________ tablets.",
+    "answer": "500; 25; 3",
     "acceptableAnswers": [
-      "Osteosarcoma; femur"
+      "500; 25; 3"
     ]
   },
   {
     "id": 85,
     "type": "fitb",
-    "stem": "Osteoporosis occurs when bone deposition does not keep pace with bone ___________, resulting in reduced bone ___________ and increased fracture risk.",
-    "answer": "resorption; density",
+    "stem": "The first dose of SP is given after ___________ weeks of gestation, and the second dose is given ___________ after the first.",
+    "answer": "16; 1 month",
     "acceptableAnswers": [
-      "resorption; density"
+      "16; 1 month"
     ]
   },
   {
     "id": 86,
     "type": "fitb",
-    "stem": "Immobilisation of a single joint after fracture causes ___________ osteoporotic change, while prolonged unconsciousness causes ___________ osteoporotic change throughout the skeleton.",
-    "answer": "local; uniform",
+    "stem": "In HIV-positive mothers, SP doses during pregnancy may be increased to up to ___________ doses.",
+    "answer": "3",
     "acceptableAnswers": [
-      "local; uniform"
+      "3",
+      "three"
     ]
   },
   {
     "id": 87,
     "type": "fitb",
-    "stem": "Age-related bone thinning called ___________ begins between the ages of ___________ and ___________, due to a shift in balance toward osteoclast activity.",
-    "answer": "osteopenia; 30; 40",
+    "stem": "The traditional appointment schedule is 4-weekly until ___________ weeks, 2-weekly until ___________ weeks, then weekly until delivery.",
+    "answer": "28; 36",
     "acceptableAnswers": [
-      "osteopenia; 30; 40"
+      "28; 36"
     ]
   },
   {
     "id": 88,
     "type": "fitb",
-    "stem": "___________ maintains bone mass, giving pre-menopausal women a degree of protection against osteopenic changes compared to age-matched men.",
-    "answer": "Oestrogen",
+    "stem": "The goals of FANC are represented by the acronym PPDP, standing for ___________, ___________, Detection, and ___________.",
+    "answer": "Promotion; Prevention; Planning",
     "acceptableAnswers": [
-      "Oestrogen"
+      "Promotion; Prevention; Planning"
+    ]
+  },
+  {
+    "id": 89,
+    "type": "fitb",
+    "stem": "Under FANC, a minimum of ___________ antenatal visits is recommended, occurring at approximately weeks ___________, ___________, ___________, and ___________.",
+    "answer": "4; 16; 24-28; 30-34; 36+",
+    "acceptableAnswers": [
+      "4; 16; 24-28; 30-34; 36+",
+      "four; 16; 24-28; 30-34; 36 and above"
+    ]
+  },
+  {
+    "id": 90,
+    "type": "fitb",
+    "stem": "Studies indicate that approximately ___________% of women will develop a life-threatening complication, which is why every woman and family should have a ___________ plan.",
+    "answer": "15; birth",
+    "acceptableAnswers": [
+      "15; birth"
     ]
   },
   {
     "type": "fitb",
-    "stem": "Secondary osteoarthritis develops when a joint is already affected by an abnormality such as ___________ or ___________.",
-    "answer": "trauma; gout",
+    "stem": "The objectives of booking include ascertaining baseline recording of weight, ___________, and ___________ for subsequent comparison.",
+    "answer": "BP; Hb",
     "acceptableAnswers": [
-      "trauma; gout"
-    ],
-    "id": 89
-  },
-  {
-    "type": "fitb",
-    "stem": "In a shoulder dislocation, the intracapsular structure at risk of stretch injury is the long head of ___________.",
-    "answer": "biceps",
-    "acceptableAnswers": [
-      "biceps",
-      "biceps muscle"
-    ],
-    "id": 90
-  },
-  {
-    "type": "fitb",
-    "stem": "In a hip dislocation, the intracapsular structure at risk of stretch injury is the ligament of the head of the ___________.",
-    "answer": "femur",
-    "acceptableAnswers": [
-      "femur"
+      "BP; Hb"
     ],
     "id": 91
   },
   {
     "type": "fitb",
-    "stem": "Reiter's syndrome presents with the triad of polyarthritis, urethritis, and ___________, and may be precipitated by ___________ infection.",
-    "answer": "conjunctivitis; Chlamydia trachomatis",
+    "stem": "History categories obtained at booking include social, menstrual, obstetric, medical, family, and ___________ history.",
+    "answer": "surgical",
     "acceptableAnswers": [
-      "conjunctivitis; Chlamydia trachomatis"
+      "surgical"
     ],
     "id": 92
   },
   {
     "type": "fitb",
-    "stem": "Ankylosing spondylitis affects young adults and characteristically involves the spine, including the ___________ joint.",
-    "answer": "sacroiliac",
+    "stem": "Blood tests done at booking include ABO grouping, Rhesus factor, genotype, and ___________ estimation to rule out anaemia.",
+    "answer": "Hb",
     "acceptableAnswers": [
-      "sacroiliac"
+      "Hb",
+      "haemoglobin"
     ],
     "id": 93
   },
   {
     "type": "fitb",
-    "stem": "Psoriatic arthritis develops in about ___________% to ___________% of people with psoriasis and most commonly affects the finger and toe joints.",
-    "answer": "5; 10",
+    "stem": "The VDRL test performed during ANC booking screens for ___________, while the HIV test aims to prevent ___________.",
+    "answer": "syphilis; mother-to-child transmission",
     "acceptableAnswers": [
-      "5; 10"
+      "syphilis; mother-to-child transmission"
     ],
     "id": 94
   },
   {
     "type": "fitb",
-    "stem": "In myasthenia gravis, muscles moving the eyeballs and eyelids are usually affected first, causing ___________ or ___________.",
-    "answer": "ptosis; diplopia",
+    "stem": "During subsequent ANC visits, the only blood test routinely repeated is ___________ or ___________.",
+    "answer": "Hb; PCV",
     "acceptableAnswers": [
-      "ptosis; diplopia"
+      "Hb; PCV"
     ],
     "id": 95
   },
   {
     "type": "fitb",
-    "stem": "Facioscapulohumeral dystrophy affects the muscles of the ___________ and ___________ first, and generally allows a normal life expectancy.",
-    "answer": "face; shoulders",
+    "stem": "FANC differs from traditional ANC by emphasizing ___________ of care over ___________ of visits.",
+    "answer": "quality; quantity",
     "acceptableAnswers": [
-      "face; shoulders"
+      "quality; quantity"
     ],
     "id": 96
   },
   {
     "type": "fitb",
-    "stem": "Myotonic dystrophy is associated with ___________, abnormalities of cardiac conduction, and increased risk of ___________.",
-    "answer": "cataracts; diabetes mellitus",
+    "stem": "During the first FANC visit at week ___________, the first dose of ___________ is administered.",
+    "answer": "16; tetanus toxoid",
     "acceptableAnswers": [
-      "cataracts; diabetes mellitus"
+      "16; tetanus toxoid"
     ],
     "id": 97
   },
   {
     "type": "fitb",
-    "stem": "Osteomyelitis is most common in ___________ and, if untreated, may become chronic with fever, pain, and ___________ formation.",
-    "answer": "children; sinus",
+    "stem": "During the fourth FANC visit at week ___________ and above, activities include haemoglobin estimation and ___________ scan.",
+    "answer": "36; ultrasound",
     "acceptableAnswers": [
-      "children; sinus"
+      "36; ultrasound"
     ],
     "id": 98
   },
   {
     "type": "fitb",
-    "stem": "Two risk factors for decreased bone mass listed among lifestyle factors are lack of exercise/immobility and ___________ intake of alcohol.",
-    "answer": "excess",
+    "stem": "Under the traditional (quantity) ANC model, visits occur two-weekly from ___________ to ___________ weeks, then every week from ___________ weeks till delivery.",
+    "answer": "28; 36; 36",
     "acceptableAnswers": [
-      "excess"
+      "28; 36; 36"
     ],
     "id": 99
   },
   {
     "type": "fitb",
-    "stem": "With ageing, cartilage and connective tissues stiffen and degenerate, reducing joint flexibility and predisposing to ___________.",
-    "answer": "osteoarthritis",
+    "stem": "A woman pregnant for the second time is termed gravida ___________, and if she becomes pregnant again thereafter she is termed a ___________.",
+    "answer": "2; multigravida",
     "acceptableAnswers": [
-      "osteoarthritis"
+      "2; multigravida"
     ],
     "id": 100
   }
