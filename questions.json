@@ -2,1116 +2,1113 @@
   {
     "id": 1,
     "type": "mcq",
-    "stem": "Antenatal care (ANC) is best defined as care given to an expectant mother spanning which period?",
+    "stem": "The Antepartum Risk Assessment (ARA) form is specially designed to monitor fetal growth and identify which TWO specific conditions?",
     "options": [
-      "From the onset of labour until delivery",
-      "From the time conception is confirmed until the beginning of labour",
-      "Only during the third trimester",
-      "From delivery until six weeks postpartum"
+      "Gestational diabetes and placenta praevia",
+      "Pregnancy-induced hypertension and anaemia",
+      "Preterm labour and postpartum haemorrhage",
+      "Multiple pregnancy and breech presentation"
     ],
-    "answer": "B"  
+    "answer": "B"
   },
   {
     "id": 2,
     "type": "mcq",
-    "stem": "The ideal period for a woman's booking (initial) ANC visit is after the second missed period or approximately which gestational week?",
+    "stem": "The ARA form is used by applying which structured four-part approach?",
     "options": [
-      "6th week",
-      "10th week",
-      "16th week",
-      "20th week"
+      "Assess, Diagnose, Plan, Evaluate",
+      "Ask and Listen, Look and Feel, Identify problems/needs, Take appropriate action",
+      "Inspect, Palpate, Percuss, Auscultate",
+      "Screen, Refer, Treat, Follow-up"
     ],
     "answer": "B"
   },
   {
     "id": 3,
     "type": "mcq",
-    "stem": "Early booking is emphasized in ANC primarily to enable the midwife to collect baseline recordings, such as BP and Hb, before which event occurs?",
+    "stem": "On the FIRST side of the ARA form, which information is specifically recorded, alongside the client's histories?",
     "options": [
-      "The woman experiences quickening",
-      "Much physiological change has started to take place",
-      "The woman reaches term",
-      "The placenta has fully formed"
+      "Fetal heart rate and blood pressure trends",
+      "The client's weight in kg and weeks of gestation",
+      "Albuminuria results and treatment given",
+      "X-ray pelvimetry findings"
     ],
     "answer": "B"
   },
   {
     "id": 4,
     "type": "mcq",
-    "stem": "Early booking is also emphasized because indiscriminate drug use, smoking, or infection can have the most profound effect on the fetus during which period?",
+    "stem": "On the SECOND side of the ARA form, physical findings recorded at each visit include fundal height, blood pressure, fetal heart rate, signs and symptoms, Hb, albuminuria, and:",
     "options": [
-      "The immediate postpartum period",
-      "Towards the end of the first trimester, when fetal organs are almost formed",
-      "Only during the second stage of labour",
-      "Only in the final week before delivery"
+      "Treatment and examiner's signature/date",
+      "The client's full obstetric history only",
+      "Only the client's home address",
+      "The client's shoe size"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 5,
     "type": "mcq",
-    "stem": "Which of the following is explicitly listed as an OBJECTIVE of the booking visit, distinct from simply performing a physical examination?",
+    "stem": "Which of the following is listed as a required piece of equipment for antepartum risk assessment, specifically for testing lower limb reflexes?",
     "options": [
-      "To provide an opportunity for the woman and family to express concerns about the pregnancy",
-      "To immediately schedule a caesarean section for all women",
-      "To discharge the woman from further antenatal follow-up",
-      "To withhold information about the pregnancy from the family"
-    ],
-    "answer": "A"
-  },
-  {
-    "id": 6,
-    "type": "mcq",
-    "stem": "During history taking at booking, information about a woman's age at menarche, frequency, duration, and amount of menstrual flow falls under which history category?",
-    "options": [
-      "Obstetric history",
-      "Menstrual history",
-      "Social history",
-      "Surgical history"
+      "An otoscope",
+      "A reflex hammer",
+      "A nasal speculum",
+      "A Pawlik grip device"
     ],
     "answer": "B"
   },
   {
-    "id": 7,
+    "id": 6,
     "type": "mcq",
-    "stem": "A woman's marital status, occupation, religion, and habits such as smoking or alcohol use are documented under which history category?",
+    "stem": "Below 20 weeks of gestation, fundal height is expected to grow at approximately what rate per week?",
     "options": [
-      "Medical history",
-      "Family history",
-      "Social history",
-      "Obstetric history"
+      "0.5 cm per week",
+      "1 cm per week",
+      "2 cm per week",
+      "3 cm per week"
     ],
     "answer": "C"
   },
   {
+    "id": 7,
+    "type": "mcq",
+    "stem": "Between 20 and 36 weeks of gestation, fundal height growth slows to approximately what rate per week?",
+    "options": [
+      "0.5 cm per week",
+      "1 cm per week",
+      "2 cm per week",
+      "4 cm per week"
+    ],
+    "answer": "B"
+  },
+  {
     "id": 8,
     "type": "mcq",
-    "stem": "Documentation of DM in a first-degree relative, hypertension, or multiple pregnancy in relatives falls under which history category?",
+    "stem": "At the 12th week of pregnancy, the uterine fundus is expected to be palpable at approximately which level?",
     "options": [
-      "Family history",
-      "Surgical history",
-      "Social history",
-      "Present obstetric history"
+      "The level of the umbilicus",
+      "Just at the level of the top of the symphysis pubis",
+      "Halfway to the xiphisternum",
+      "At the level of the xiphisternum"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 9,
     "type": "mcq",
-    "stem": "The expected date of delivery (EDD) is calculated by adding how much time to the date of the last menstrual period (LMP)?",
+    "stem": "The fundal height is typically felt at the level of the umbilicus at approximately which gestational age?",
     "options": [
-      "3 calendar months and 7 days",
-      "6 calendar months and 14 days",
-      "9 calendar months and 7 days",
-      "12 calendar months and 7 days"
+      "12 to 14 weeks",
+      "16 to 18 weeks",
+      "22 to 24 weeks",
+      "34 to 36 weeks"
     ],
     "answer": "C"
   },
   {
     "id": 10,
     "type": "mcq",
-    "stem": "Gravidity (gravida) refers specifically to which of the following?",
+    "stem": "The fundus reaches its highest level, coming into contact with the xiphisternum, at approximately which gestational week?",
     "options": [
-      "The number of babies a woman has delivered alive",
-      "The number of times a woman has been pregnant, regardless of outcome or number of babies",
-      "The number of pregnancies that reached viability only",
-      "The number of times a woman has undergone caesarean section"
+      "28th week",
+      "32nd week",
+      "36th week",
+      "40th week"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 11,
     "type": "mcq",
-    "stem": "A woman who conceives a single pregnancy that results in triplets is classified, until her next pregnancy, as:",
+    "stem": "At its highest point at 36 weeks, the fundal height measured by tape from the symphysis pubis is approximately:",
     "options": [
-      "Gravida 3",
-      "Gravida 1",
-      "Multigravida based on the number of babies",
-      "Nulligravida because the pregnancy was multiple"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 12,
-    "type": "mcq",
-    "stem": "Parity is determined by which factor, according to the standard definition?",
-    "options": [
-      "The number of babies born alive, regardless of gestational age",
-      "The number of pregnancies carried to the point of viability, regardless of whether the outcome was live birth or stillbirth",
-      "The total number of pregnancies a woman has ever had, including miscarriages before viability",
-      "The number of caesarean deliveries only"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 13,
-    "type": "mcq",
-    "stem": "The point of fetal viability, used to determine parity, is generally considered to be which gestational age or fetal weight?",
-    "options": [
-      "16 weeks or 500g",
-      "20 weeks or 750g",
-      "24 weeks of gestation or 1.0 kg",
-      "28 weeks or 1.5 kg"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": 14,
-    "type": "mcq",
-    "stem": "A woman who has given birth to a single fetus that reached the point of viability is termed a:",
-    "options": [
-      "Multipara",
-      "Primipara",
-      "Grandmultipara",
-      "Nullipara"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 15,
-    "type": "mcq",
-    "stem": "A woman who has given birth five times or more is classified as a:",
-    "options": [
-      "Multipara",
-      "Primipara",
-      "Grandmultipara",
-      "Nulligravida"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": 16,
-    "type": "mcq",
-    "stem": "A woman who has never carried a pregnancy to the point of viability, though she may have been pregnant, is termed:",
-    "options": [
-      "Nulligravida",
-      "Nullipara",
-      "Primigravida",
-      "Primipara"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 17,
-    "type": "mcq",
-    "stem": "A woman who has never been pregnant at all is correctly termed:",
-    "options": [
-      "Nullipara",
-      "Nulligravida",
-      "Primigravida",
-      "Multigravida"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 18,
-    "type": "mcq",
-    "stem": "At booking, the general examination of the client is divided into which two components?",
-    "options": [
-      "Cardiac examination and neurological examination",
-      "Physical examination and abdominal examination",
-      "Only laboratory testing and ultrasound",
-      "Psychiatric evaluation and dietary assessment only"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 19,
-    "type": "mcq",
-    "stem": "During physical examination, assessment of a woman's breast for flat or inverted nipples, discharge, and skin/glandular changes is part of examining which body region?",
-    "options": [
-      "The abdomen",
-      "The breast",
-      "The neck",
-      "The lower extremities"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 20,
-    "type": "mcq",
-    "stem": "Abdominal examination during ANC is aimed at assessing all of the following EXCEPT:",
-    "options": [
-      "Fetal size and growth in relation to gestational age",
-      "The lie, presentation, and position of the fetus",
-      "Deviations from normal such as polyhydramnios or multiple pregnancy",
-      "The woman's serum electrolyte levels"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": 21,
-    "type": "mcq",
-    "stem": "Abdominal examination in ANC comprises which THREE components, performed in sequence?",
-    "options": [
-      "Inspection, palpation, and auscultation",
-      "Percussion, palpation, and radiography",
-      "Inspection, percussion, and biopsy",
-      "Auscultation, biopsy, and palpation"
-    ],
-    "answer": "A"
-  },
-  {
-    "id": 22,
-    "type": "mcq",
-    "stem": "Before beginning abdominal palpation, which preparatory step regarding the woman's bladder is required?",
-    "options": [
-      "The bladder should be full to aid palpation",
-      "The bladder should be empty",
-      "Bladder status is irrelevant to palpation",
-      "The woman should be catheterized routinely"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 23,
-    "type": "mcq",
-    "stem": "During abdominal palpation, the midwife should use which part of the hand to palpate, rather than the fingertips?",
-    "options": [
-      "The dorsum of the hand",
-      "The flat palmar surface of the fingers",
-      "A clenched fist",
-      "The ulnar border of the hand only"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 24,
-    "type": "mcq",
-    "stem": "Fundal palpation is specifically performed to determine which parameter?",
-    "options": [
-      "The fetal lie",
-      "The fundal height",
-      "The presenting part",
-      "The engagement of the fetal head"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 25,
-    "type": "mcq",
-    "stem": "When measuring fundal height by the finger method during an ASCENDING uterus, how many fingers' breadth represents 2 weeks of gestation?",
-    "options": [
-      "1 finger",
-      "2 fingers",
-      "3 fingers",
-      "4 fingers"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 26,
-    "type": "mcq",
-    "stem": "When measuring fundal height by the finger method during a DESCENDING uterus (late pregnancy), how many fingers' breadth represents 1 week?",
-    "options": [
-      "1 finger",
-      "2 fingers",
-      "3 fingers",
-      "4 fingers"
-    ],
-    "answer": "A"
-  },
-  {
-    "id": 27,
-    "type": "mcq",
-    "stem": "When fundal height is measured by tape in centimeters from the symphysis pubis to the fundus, a gestational age of 30 weeks would typically correspond to approximately how many centimeters?",
-    "options": [
-      "20 cm",
-      "25 cm",
+      "18 cm",
+      "24 cm",
       "30 cm",
       "40 cm"
     ],
     "answer": "C"
   },
   {
-    "id": 28,
+    "id": 12,
     "type": "mcq",
-    "stem": "Lateral palpation during abdominal examination is performed specifically to ascertain which fetal parameter?",
+    "stem": "A woman who is 30 weeks pregnant should have a fundal height measurement from the symphysis pubis of approximately:",
     "options": [
-      "The fundal height",
-      "The position of the baby",
-      "The fetal heart rate",
-      "The maternal blood pressure"
+      "18 cm",
+      "24 cm",
+      "30 cm",
+      "36 cm"
     ],
     "answer": "B"
   },
   {
+    "id": 13,
+    "type": "mcq",
+    "stem": "After 36 weeks, fundal height typically begins to DROP to lower levels due to a process called lightening, which results from:",
+    "options": [
+      "Sudden fetal death",
+      "Sinking of the uterus following widening of the symphysis pubis and sagging of the relaxed pelvic floor",
+      "Reabsorption of amniotic fluid",
+      "Reversal of fetal growth"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 14,
+    "type": "mcq",
+    "stem": "If a fundal height measurement is found to be more than 2cm different (larger OR smaller) than expected for gestational age, which of the following should the midwife investigate?",
+    "options": [
+      "Wrong dates, polyhydramnios, twins, or abnormal presentation",
+      "Only the client's shoe size",
+      "Only the client's marital status",
+      "Only whether the client attended her last appointment"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 15,
+    "type": "mcq",
+    "stem": "If the fetus is found to be unusually large on fundal height assessment, the midwife should specifically check the mother for which underlying condition, given its risk of obstructed labour?",
+    "options": [
+      "Anaemia",
+      "Diabetes",
+      "Hypothyroidism",
+      "Vitamin D deficiency"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 16,
+    "type": "mcq",
+    "stem": "If no explanation can be found for an unexpected fundal height finding, the recommended action is to:",
+    "options": [
+      "Immediately refer for emergency caesarean section",
+      "Give the client a 1-week appointment and reassure her",
+      "Discharge the client from further antenatal care",
+      "Ignore the finding entirely"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 17,
+    "type": "mcq",
+    "stem": "During physical examination in the ANC clinic, while the patient is SITTING UP, which system assessment includes palpating lymph nodes on both sides of the neck and the thyroid gland?",
+    "options": [
+      "The back",
+      "The neck",
+      "The breast and armpit",
+      "The skin"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 18,
+    "type": "mcq",
+    "stem": "During the sitting examination, inspection of the eyes' internal structures with an ophthalmoscope is best performed under which condition?",
+    "options": [
+      "In a brightly lit room",
+      "In a darkened room",
+      "Only under direct sunlight",
+      "With the patient standing and moving"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 19,
+    "type": "mcq",
+    "stem": "While the patient is sitting, examination of the breast and armpit includes inspecting with the arms relaxed AND raised, assessing equality, retraction, and:",
+    "options": [
+      "Fundal height",
+      "Size",
+      "Blood pressure",
+      "Reflexes"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 20,
+    "type": "mcq",
+    "stem": "While the patient is LYING DOWN, auscultation of the heart is performed with the head in which position?",
+    "options": [
+      "Fully flat, with no elevation",
+      "Slightly raised",
+      "Turned fully to one side with the body prone",
+      "Hyperextended backward"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 21,
+    "type": "mcq",
+    "stem": "During abdominal examination while lying down, the woman should be advised to report feelings of weakness, dizziness, or nausea, as these may result from which physiological mechanism?",
+    "options": [
+      "Hyperventilation from anxiety alone",
+      "The pregnant uterus compressing the inferior vena cava and compromising venous return while supine",
+      "Excessive fetal movement",
+      "Normal fetal hiccups"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 22,
+    "type": "mcq",
+    "stem": "During the lying-down examination, palpation of fundal height is performed using the fingers or which anatomical border of the LEFT hand?",
+    "options": [
+      "The radial border",
+      "The ulnar border",
+      "The dorsal surface",
+      "The thenar eminence"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 23,
+    "type": "mcq",
+    "stem": "During examination of the rectum and anus, a digital rectal examination to rule out a mass is specifically recommended if the patient is over which age?",
+    "options": [
+      "25 years",
+      "30 years",
+      "40 years",
+      "60 years"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 24,
+    "type": "mcq",
+    "stem": "During examination of the reproductive organs, a specific test may be collected specifically to screen for Human Papilloma Virus (HPV). This test is called:",
+    "options": [
+      "A wet mount smear",
+      "A Pap smear",
+      "A KOH preparation",
+      "A Gram stain"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 25,
+    "type": "mcq",
+    "stem": "During the STANDING portion of the physical examination, the musculoskeletal system is assessed for the straightness of the spine and:",
+    "options": [
+      "Alignment of the legs and feet",
+      "The presence of dental caries",
+      "Fundal height",
+      "Cervical dilation"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 26,
+    "type": "mcq",
+    "stem": "During the standing examination, abnormally enlarged veins, usually seen in the legs, are noted and documented as:",
+    "options": [
+      "Telangiectasias",
+      "Varicose veins",
+      "Spider naevi",
+      "Petechiae"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 27,
+    "type": "mcq",
+    "stem": "Pelvic assessment (clinical pelvimetry) is defined as methods and observations that assess which relationship?",
+    "options": [
+      "The relationship between maternal blood pressure and gestational age",
+      "The capacity of the pelvis in relation to the size of the fetal head, for normal vaginal delivery",
+      "The relationship between maternal weight and fetal weight only",
+      "The relationship between maternal age and parity"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 28,
+    "type": "mcq",
+    "stem": "Pelvic assessment is typically performed twice during pregnancy, both times during which period, to help rule out cephalo-pelvic disproportion (CPD)?",
+    "options": [
+      "The first trimester (0-3 months)",
+      "The second trimester (4-6 months)",
+      "The last trimester (6-9 months)",
+      "Only in the immediate postpartum period"
+    ],
+    "answer": "C"
+  },
+  {
     "id": 29,
     "type": "mcq",
-    "stem": "Pelvic palpation is performed to accomplish which of the following THREE objectives?",
+    "stem": "The TWO broad methods of pelvic assessment listed are clinical assessment and:",
     "options": [
-      "Determine the fundal height, assess maternal weight gain, and check for oedema",
-      "Determine the presentation, identify the lie, and check for engagement of the head in a cephalic presentation",
-      "Measure maternal blood pressure, assess urine protein, and check reflexes",
-      "Assess fetal heart rate, respiratory rate, and maternal pulse"
+      "Ultrasound assessment exclusively",
+      "External measurements",
+      "Laboratory blood testing",
+      "Genetic testing"
     ],
     "answer": "B"
   },
   {
     "id": 30,
     "type": "mcq",
-    "stem": "Auscultation of the fetal heart during ANC is performed using a pinard stethoscope or electronic fetal heart monitor to detect fetal heart beats within which normal range?",
+    "stem": "Under CLINICAL assessment of the pelvis, which of the following is included as a component?",
     "options": [
-      "60 to 100 beats per minute",
-      "100 to 120 beats per minute",
-      "120 to 160 beats per minute",
-      "160 to 200 beats per minute"
+      "Complete blood count",
+      "The head fitting test",
+      "Rubella titre testing",
+      "Alpha-fetoprotein screening"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 31,
     "type": "mcq",
-    "stem": "A maternal height of over 160 cm at booking is generally considered indicative of:",
+    "stem": "As part of physical assessment for pelvic adequacy, a maternal height below which measurement is regarded as sub-average and associated with a likely short, contracted pelvis?",
     "options": [
-      "An abnormally large pelvis requiring caesarean section",
-      "A normal pelvis",
-      "Cephalopelvic disproportion",
-      "Fetal macrosomia"
+      "140 cm",
+      "150 cm",
+      "160 cm",
+      "170 cm"
     ],
     "answer": "B"
   },
   {
     "id": 32,
     "type": "mcq",
-    "stem": "Reassessment of pelvic adequacy relative to fetal head size typically occurs at approximately which gestational week, when the fetus is almost fully grown?",
+    "stem": "As part of physical assessment for pelvic adequacy, women who wear a shoe size of what value or less are considered likely to have a small pelvis, regardless of their height?",
     "options": [
-      "20th week",
-      "28th week",
-      "36th week",
-      "42nd week"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": 33,
-    "type": "mcq",
-    "stem": "A pregnant woman is expected to gain approximately how much weight weekly after 20 weeks of gestation, under normal circumstances?",
-    "options": [
-      "0.1 kg",
-      "0.5 kg",
-      "1.5 kg",
-      "3 kg"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 34,
-    "type": "mcq",
-    "stem": "The total normal weight gain expected throughout an uncomplicated pregnancy is approximately:",
-    "options": [
-      "5 kg",
-      "8.5 kg",
-      "12.5 kg",
-      "20 kg"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": 35,
-    "type": "mcq",
-    "stem": "A sudden, drastic increase in maternal weight, particularly when accompanied by proteinuria and oedema, should raise suspicion for which condition(s)?",
-    "options": [
-      "Gestational diabetes or pre-eclampsia",
-      "Normal physiological weight gain requiring no action",
-      "Anaemia exclusively",
-      "Hyperemesis gravidarum"
+      "Size 3",
+      "Size 5",
+      "Size 7",
+      "Size 9"
     ],
     "answer": "A"
   },
   {
+    "id": 33,
+    "type": "mcq",
+    "stem": "A limp gait observed during physical pelvic assessment is significant because it may be evidence of which underlying issue affecting pelvic capacity?",
+    "options": [
+      "A skeletal deformity",
+      "A urinary tract infection",
+      "Normal third-trimester discomfort only",
+      "Anaemia"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 34,
+    "type": "mcq",
+    "stem": "A woman with broad shoulders and small hips is described as having which pelvis type, associated with an increased likelihood of contracted pelvis?",
+    "options": [
+      "Gynaecoid pelvis",
+      "Android pelvis type",
+      "Platypelloid pelvis",
+      "Anthropoid pelvis"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 35,
+    "type": "mcq",
+    "stem": "A history of previous NORMAL vaginal delivery suggests that the maternal pelvis is adequate; however, this cannot entirely rule out disproportion in subsequent pregnancies because:",
+    "options": [
+      "Pelvic size decreases with each pregnancy",
+      "Subsequent babies tend to be bigger",
+      "The pelvis becomes narrower after each delivery",
+      "Previous delivery has no bearing on future risk whatsoever"
+    ],
+    "answer": "B"
+  },
+  {
     "id": 36,
     "type": "mcq",
-    "stem": "A blood pressure reading of what value at the FIRST antenatal visit is considered indicative of hypertension?",
+    "stem": "A history of repeated stillbirth or instrumental delivery in a woman's obstetric history sends a message that is MOST suggestive of:",
     "options": [
-      "120/80 mmHg",
-      "130/85 mmHg",
-      "140/90 mmHg",
-      "160/100 mmHg only"
+      "An entirely adequate pelvis with no further evaluation needed",
+      "An inadequate pelvis",
+      "A purely coincidental finding unrelated to pelvic capacity",
+      "Excellent fetal outcomes expected in future pregnancies"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 37,
     "type": "mcq",
-    "stem": "On urinalysis during ANC, the presence of protein in the urine, especially when accompanied by increased BP and/or oedema, is suggestive of:",
+    "stem": "The Head Fitting Test (HFT) is typically performed at approximately which gestational week, and on which group(s) of women?",
     "options": [
-      "Gestational diabetes",
-      "Pre-eclampsia",
-      "Urinary tract infection exclusively",
-      "Physiological glucosuria"
+      "28 weeks; primigravidae only",
+      "36 weeks; all primigravidae and multigravidae",
+      "40 weeks; multigravidae only",
+      "20 weeks; all pregnant women"
     ],
     "answer": "B"
   },
   {
     "id": 38,
     "type": "mcq",
-    "stem": "On urinalysis, the presence of glucose is often followed up with repeated random blood sugar testing or a glucose tolerance test to rule out which condition, even though it is commonly due to a low renal threshold in pregnancy?",
+    "stem": "36 weeks is considered the ideal time for the Head Fitting Test primarily because:",
     "options": [
-      "Pre-eclampsia",
-      "Diabetes mellitus",
-      "Urinary tract infection",
-      "Anaemia"
+      "The fetal head is not likely to grow much bigger after this point, allowing accurate assessment of fit",
+      "The cervix is always fully dilated by this time",
+      "The mother's pelvis is at its largest at this point",
+      "Labour always begins exactly at this gestational age"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 39,
     "type": "mcq",
-    "stem": "Ketones may be detected on urinalysis particularly in a woman who is experiencing which symptom?",
+    "stem": "During the Head Fitting Test, the fetal head is gently grasped using which specific grip technique?",
     "options": [
-      "Excessive fluid intake",
-      "Vomiting",
-      "Mild oedema only",
-      "Increased urinary frequency alone"
+      "The Leopold grip",
+      "The Pawlik grip",
+      "The Ritgen manoeuvre",
+      "The McRoberts manoeuvre"
     ],
     "answer": "B"
   },
   {
     "id": 40,
     "type": "mcq",
-    "stem": "Bacteriological testing of urine at booking is performed specifically to detect asymptomatic bacteriuria, which if untreated can lead to which later complication?",
+    "stem": "During the Head Fitting Test, as the woman breathes in and gradually sits up, leaning forward with assistance, what is being assessed?",
     "options": [
-      "Pyelonephritis",
-      "Renal cell carcinoma",
-      "Nephrotic syndrome",
-      "Bladder cancer"
+      "Whether the fetal head slips through the pelvic brim, ruling out disproportion",
+      "Whether the woman can tolerate labour pain",
+      "Whether the fetal heart rate is normal at rest only",
+      "Whether the placenta is correctly positioned"
     ],
     "answer": "A"
   },
   {
     "id": 41,
     "type": "mcq",
-    "stem": "A Rhesus-negative mother should be followed up to ensure she receives anti-D immunoglobulin within how many hours after delivery?",
+    "stem": "In the Head Fitting Test, if the woman lies back down after the head has engaged, what may occur?",
     "options": [
-      "24 hours",
-      "48 hours",
-      "72 hours",
-      "1 week"
+      "The head remains permanently engaged with no possibility of change",
+      "The head may disengage",
+      "Labour begins immediately",
+      "The cervix begins to dilate immediately"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 42,
     "type": "mcq",
-    "stem": "The blood test performed at booking specifically to screen for sickle cell disease/trait is the:",
+    "stem": "During the Head Fitting Test, the fetal heart should be auscultated at which point(s) in the procedure?",
     "options": [
-      "ABO grouping",
-      "Genotype test",
-      "VDRL test",
-      "Hepatitis B test"
+      "Only after the procedure is fully complete",
+      "Both before and after the procedure",
+      "Only if the woman reports pain",
+      "Auscultation is not required for this procedure"
     ],
     "answer": "B"
   },
   {
     "id": 43,
     "type": "mcq",
-    "stem": "The blood test performed at booking specifically to screen for syphilis is the:",
+    "stem": "Vaginal pelvic assessment is typically performed at approximately 36 weeks specifically on which group of women?",
     "options": [
-      "Genotype test",
-      "VDRL test",
-      "HIV test",
-      "Hb estimation"
+      "All multigravidae only",
+      "All primigravidae",
+      "Only women with a prior stillbirth",
+      "Only women scheduled for elective caesarean section"
     ],
     "answer": "B"
   },
   {
     "id": 44,
     "type": "mcq",
-    "stem": "HIV testing is performed during ANC primarily to know the woman's status and to prevent which specific outcome?",
+    "stem": "Vaginal pelvic assessment is considered most appropriate at 36 weeks specifically because:",
     "options": [
-      "Postpartum haemorrhage",
-      "Mother-to-child transmission (MTCT)",
-      "Gestational diabetes",
-      "Pre-eclampsia"
+      "The cervix is already fully dilated at this stage",
+      "Pregnancy hormones have fully softened and relaxed the pelvic floor, making the procedure less painful",
+      "The fetal head is smallest at this stage",
+      "This is the only time the woman is likely to consent to examination"
     ],
     "answer": "B"
   },
   {
     "id": 45,
     "type": "mcq",
-    "stem": "The THREE categories of routine drugs given to pregnant women during ANC are haematinics, anti-malaria drugs, and:",
+    "stem": "Vaginal pelvic assessment is fundamentally a doctor's procedure, but an experienced midwife may be expected to perform it under which circumstance(s)?",
     "options": [
-      "Antihypertensives",
-      "Tetanus toxoid (TT)",
-      "Broad-spectrum antibiotics",
-      "Corticosteroids"
+      "Whenever she personally prefers to do so, regardless of setting",
+      "In the community where she is in overall charge, or in unbooked cases if the doctor is not available",
+      "Only during a scheduled, non-urgent outpatient visit with a doctor present",
+      "Never, under any circumstance"
     ],
     "answer": "B"
   },
   {
     "id": 46,
     "type": "mcq",
-    "stem": "Which of the following is listed as a component of the routine haematinics given during ANC?",
+    "stem": "During vaginal pelvic assessment, the vulva is swabbed with which antiseptic solution before the examining fingers are introduced?",
     "options": [
-      "Fesolate 300mg tds",
-      "Amoxicillin 500mg tds",
-      "Paracetamol 500mg tds",
-      "Metronidazole 400mg tds"
+      "Povidone-iodine",
+      "Chlorhexidine solution",
+      "Hydrogen peroxide",
+      "Isopropyl alcohol"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 47,
     "type": "mcq",
-    "stem": "The routine daily dose of folic acid given as part of ANC haematinics is:",
+    "stem": "During vaginal pelvic assessment, which pelvic dimension is assessed by the examining finger pressing deeply and diagonally to detect if the sacral promontory can be easily reached?",
     "options": [
-      "1 mg once daily",
-      "5 mg once daily",
-      "50 mg once daily",
-      "500 mg once daily"
+      "The transverse diameter of the outlet",
+      "The diagonal conjugate",
+      "The inter-spinous diameter",
+      "The external conjugate"
     ],
     "answer": "B"
   },
   {
     "id": 48,
     "type": "mcq",
-    "stem": "The current standard regimen for malaria prevention in pregnancy, replacing older weekly chloroquine or daraprim regimens, is called:",
+    "stem": "During vaginal pelvic assessment, the width of the greater sciatic notch is assessed by seeing whether it accommodates two examining fingers. A NORMAL finding is that the notch is:",
     "options": [
-      "Directly Observed Therapy (DOT)",
-      "Intermittent Preventive Treatment (IPT)",
-      "Continuous Suppressive Therapy (CST)",
-      "Emergency Malaria Prophylaxis (EMP)"
+      "Narrow and deep",
+      "Wide and shallow",
+      "Completely absent",
+      "Sharply angled"
     ],
     "answer": "B"
   },
   {
     "id": 49,
     "type": "mcq",
-    "stem": "The standard drug combination used for IPT in pregnancy is sulphadoxine-pyremethamine, with each single dose made up of how many tablets?",
+    "stem": "During vaginal pelvic assessment, the ischial spines are palpated. A NORMAL, favorable finding is that they are:",
     "options": [
-      "1 tablet",
-      "3 tablets",
-      "5 tablets",
-      "10 tablets"
+      "Sharp and excessively prominent",
+      "Rounded and smooth",
+      "Completely absent",
+      "Fused to the sacrum"
     ],
     "answer": "B"
   },
   {
     "id": 50,
     "type": "mcq",
-    "stem": "Each single dose of sulphadoxine-pyremethamine (SP) for IPT contains sulphadoxine 500mg combined with how much pyremethamine?",
+    "stem": "After withdrawing the examining hand during vaginal pelvic assessment, the transverse diameter of the outlet is assessed EXTERNALLY by placing which structure between the ischial tuberosities?",
     "options": [
-      "10 mg",
-      "25 mg",
-      "50 mg",
-      "100 mg"
+      "A pelvimeter caliper only",
+      "The four knuckles of a clenched fist",
+      "A tape measure held taut",
+      "The flat palm of the hand"
     ],
     "answer": "B"
   },
   {
     "id": 51,
     "type": "mcq",
-    "stem": "The first dose of SP for IPT in a normal pregnancy is given after how many weeks of gestation?",
+    "stem": "X-ray pelvimetry is a specialized examination that must be ordered by which professional, and performed by a specialist in which field?",
     "options": [
-      "8 weeks",
-      "16 weeks",
-      "24 weeks",
-      "32 weeks"
+      "A midwife; performed by a nurse",
+      "A doctor; performed by a specialist in radiography",
+      "A pharmacist; performed by a laboratory technician",
+      "The patient herself; performed by any available staff"
     ],
     "answer": "B"
   },
   {
     "id": 52,
     "type": "mcq",
-    "stem": "The second dose of SP is given at what interval after the first dose in a standard (non-HIV) pregnancy?",
+    "stem": "During X-ray pelvimetry, in what position does the woman stand while the x-ray is taken?",
     "options": [
-      "1 week after",
-      "2 weeks after",
-      "1 month after",
-      "3 months after"
+      "Supine, with legs elevated",
+      "Standing, with the x-ray taken laterally",
+      "Prone, facing downward",
+      "Sitting with legs crossed"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 53,
     "type": "mcq",
-    "stem": "In HIV-positive mothers, the number of SP doses that may be given during pregnancy can be increased to:",
+    "stem": "External measurement of the pelvis, though rarely used today, is performed using which instrument?",
     "options": [
-      "Only 1 dose total",
-      "Up to 3 doses",
-      "Up to 6 doses",
-      "SP is entirely contraindicated"
+      "A sphygmomanometer",
+      "A pair of callipers",
+      "An otoscope",
+      "A Doppler probe"
     ],
     "answer": "B"
   },
   {
     "id": 54,
     "type": "mcq",
-    "stem": "In a normal pregnancy under the traditional appointment schedule, ANC visits are typically scheduled every 4 weeks until which gestational week?",
+    "stem": "The inter-spinous diameter, measured sideways from one anterior superior iliac spine to the posterior superior iliac spine on the other side, averages approximately:",
     "options": [
-      "20 weeks",
-      "28 weeks",
-      "36 weeks",
-      "40 weeks"
+      "11.4 cm",
+      "19 cm",
+      "25.4 cm",
+      "35 cm"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 55,
     "type": "mcq",
-    "stem": "Following the 4-weekly schedule, ANC visits then become 2-weekly until which gestational week, before becoming weekly until delivery?",
+    "stem": "The raw external conjugate measurement, taken from the tip of the symphysis pubis to a point 2.5cm above the fifth lumbar vertebra, measures approximately how much before correction for soft tissue thickness?",
     "options": [
-      "30 weeks",
-      "32 weeks",
-      "36 weeks",
-      "38 weeks"
+      "11 cm",
+      "15 cm",
+      "19 cm",
+      "25 cm"
     ],
     "answer": "C"
   },
   {
     "id": 56,
     "type": "mcq",
-    "stem": "During SUBSEQUENT (non-booking) ANC visits, which blood test is routinely repeated?",
+    "stem": "To obtain the true (corrected) external conjugate measurement from the raw measurement, approximately how much is subtracted to account for tissue thickness?",
     "options": [
-      "Full genotype re-testing at every visit",
-      "Only Hb or PCV",
-      "Repeat VDRL at every single visit",
-      "Full liver function tests routinely"
+      "2 cm",
+      "5 cm",
+      "8 cm",
+      "12 cm"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 57,
     "type": "mcq",
-    "stem": "Focused Antenatal Care (FANC) is best described as:",
+    "stem": "The transverse diameter of the pelvic outlet, measured between the ischial tuberosities using callipers or the four knuckles of a clenched fist, measures approximately:",
     "options": [
-      "A model requiring the maximum possible number of antenatal visits for every woman",
-      "A qualitative, individualised, and evidence-based care model given by skilled providers",
-      "A model that only applies to high-risk pregnancies",
-      "A purely administrative scheduling system with no clinical basis"
+      "9 cm",
+      "11.4 cm",
+      "19 cm",
+      "25.4 cm"
     ],
     "answer": "B"
   },
   {
     "id": 58,
     "type": "mcq",
-    "stem": "Unlike the traditional ANC model, FANC does NOT classify pregnant women into risk categories because:",
+    "stem": "During X-ray pelvimetry, information obtained includes the shape and size of the maternal pelvis, the relationship of the fetus to the maternal pelvis, and:",
     "options": [
-      "Risk categorization is always accurate and should be trusted completely",
-      "Complications can arise at any time in pregnancy, and risk-based prediction is unreliable",
-      "All pregnant women are automatically considered high risk under FANC",
-      "FANC eliminates the need for any antenatal visits at all"
+      "The anterior-posterior diameter of the brim, cavity, and outlet",
+      "The maternal serum electrolyte panel",
+      "The fetal blood type",
+      "The maternal EEG pattern"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 59,
     "type": "mcq",
-    "stem": "The goals of FANC are represented by the acronym PPDP, standing for Promotion, Prevention, Detection, and:",
+    "stem": "Which blood test performed during pregnancy screens specifically for German measles?",
     "options": [
-      "Prescription",
-      "Planning",
-      "Prognosis",
-      "Prophylaxis"
+      "VDRL",
+      "Rubella titre",
+      "Alpha-fetoprotein",
+      "Complete blood count"
     ],
     "answer": "B"
   },
   {
     "id": 60,
     "type": "mcq",
-    "stem": "Under FANC, a minimum of how many antenatal visits is recommended throughout pregnancy?",
+    "stem": "The VDRL test performed during pregnancy screens for which group of treatable conditions, according to the source material?",
     "options": [
-      "Two visits",
-      "Four visits",
-      "Eight visits",
-      "Twelve visits"
+      "Only viral hepatitis",
+      "Syphilis, gonorrhoea, and candidiasis",
+      "Only HIV/AIDS",
+      "Only tuberculosis"
     ],
     "answer": "B"
   },
   {
     "id": 61,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A woman presents for her first antenatal visit at 9 weeks gestation, reporting her LMP was exactly 9 weeks ago. Using Naegele's rule, the midwife calculates the EDD by adding to the LMP date:",
+    "stem": "CASE SCENARIO: At a routine antenatal visit, a midwife measures a client's fundal height at 28 weeks gestation by dates and finds it measures 33cm. Based on the expected 1cm-per-week growth rate at this gestational range, this finding represents a discrepancy of approximately how much above expected?",
     "options": [
-      "6 months and 14 days",
-      "9 calendar months and 7 days",
-      "3 months and 21 days",
-      "12 months exactly"
+      "1 cm, within normal variation",
+      "5 cm, warranting further investigation",
+      "10 cm, which is of no clinical significance",
+      "There is no discrepancy since fundal height does not correlate with weeks after 20 weeks"
     ],
     "answer": "B"
   },
   {
     "id": 62,
     "type": "mcq",
-    "stem": "CASE SCENARIO (continued): This client reports she has been pregnant three times previously: one pregnancy ended in miscarriage at 10 weeks, one resulted in twins delivered at term, and one resulted in a stillbirth at 30 weeks. Including her current pregnancy, her gravidity is:",
+    "stem": "CASE SCENARIO (continued): Given this discrepancy exceeds 2cm, the midwife should investigate for which of the following possible explanations?",
     "options": [
-      "Gravida 3",
-      "Gravida 4",
-      "Gravida 5",
-      "Gravida 6"
+      "Wrong dates, twins, polyhydramnios, or a large baby (with diabetes screening)",
+      "The client's marital status only",
+      "The client's blood type only",
+      "The client's shoe size only"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 63,
     "type": "mcq",
-    "stem": "CASE SCENARIO (continued): Based on the same history, her parity (before the current pregnancy) is:",
+    "stem": "CASE SCENARIO: A primigravida at 36 weeks gestation is scheduled for both a Head Fitting Test and a vaginal pelvic assessment on the same visit. The midwife explains that vaginal pelvic assessment is being done specifically because she is a primigravida, whereas the Head Fitting Test would be offered to:",
     "options": [
-      "Para 0, since one pregnancy ended before viability",
-      "Para 2, counting the twin pregnancy and the stillbirth as pregnancies reaching viability",
-      "Para 3, counting all three prior pregnancies equally",
-      "Para 1, counting only the live twin birth"
+      "Only multigravidae, never primigravidae",
+      "Both primigravidae and multigravidae",
+      "Only women with a prior caesarean section",
+      "No one, as it is an obsolete procedure"
     ],
     "answer": "B"
   },
   {
     "id": 64,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A primigravida at booking has a height of 152 cm. The midwife's most appropriate initial consideration, without yet concluding a diagnosis, is that:",
+    "stem": "CASE SCENARIO (continued): During the Head Fitting Test, the midwife asks the woman to breathe in and gradually sit up while leaning forward, after grasping the fetal head using the:",
     "options": [
-      "This height automatically confirms cephalopelvic disproportion requiring immediate caesarean booking",
-      "Short stature may reflect a small-sized family/race or childhood nutritional stunting, warranting attention to pelvic adequacy as pregnancy progresses",
-      "Height has no bearing whatsoever on obstetric risk and requires no further consideration",
-      "This height is diagnostic of gestational diabetes"
+      "Leopold manoeuvre",
+      "Pawlik grip",
+      "McRoberts position",
+      "Sims position"
     ],
     "answer": "B"
   },
   {
     "id": 65,
     "type": "mcq",
-    "stem": "CASE SCENARIO (continued): At 36 weeks, the midwife reassesses this client specifically to determine which finding, given her short stature?",
+    "stem": "CASE SCENARIO: A midwife working in a remote community with no doctor available performs a vaginal pelvic assessment on an unbooked primigravida presenting in early labour. This action is:",
     "options": [
-      "Whether the fetal head will engage in the pelvic brim without difficulty",
-      "Whether she has developed varicose veins",
-      "Her current hearing acuity",
-      "Her dental hygiene status"
+      "Outside the midwife's scope under any circumstance",
+      "Acceptable, since experienced midwives may perform this in the community when in overall charge or in unbooked cases without a doctor available",
+      "Only acceptable if the woman is over 40 years old",
+      "Only acceptable during X-ray pelvimetry"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 66,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A woman at 32 weeks gestation has gained 4 kg in the past week, and urinalysis shows +2 protein with mild bilateral ankle oedema. The midwife's PRIORITY concern is:",
+    "stem": "CASE SCENARIO (continued): During the assessment, the midwife notes the ischial spines feel sharp and unusually prominent. This finding is significant because it may:",
     "options": [
-      "Normal physiological weight gain of pregnancy requiring no action",
-      "Possible pre-eclampsia",
-      "Simple dietary overindulgence requiring only counselling",
-      "A urinary tract infection with no further significance"
+      "Indicate an excellent, roomy pelvis with no concerns",
+      "Reduce the pelvic canal diameter and predispose to obstructed labour",
+      "Have no bearing whatsoever on the mode of delivery",
+      "Confirm a normal gynaecoid pelvis definitively"
     ],
     "answer": "B"
   },
   {
     "id": 67,
     "type": "mcq",
-    "stem": "CASE SCENARIO (continued): Her blood pressure at this visit is recorded as 148/94 mmHg. Combined with the previous findings, the midwife should:",
+    "stem": "CASE SCENARIO: A woman lying flat on her back for abdominal examination at 34 weeks suddenly reports dizziness and nausea. The midwife's BEST understanding of this finding is that it results from:",
     "options": [
-      "Reassure the client that this is a normal finding at 32 weeks and continue routine follow-up only",
-      "Recognize this combination of findings as concerning for a hypertensive disorder of pregnancy requiring further evaluation",
-      "Advise the client to restrict all fluid intake immediately without further assessment",
-      "Discharge the client from further antenatal care"
+      "An unrelated cardiac arrhythmia requiring no positional change",
+      "Compression of the inferior vena cava by the gravid uterus, compromising venous return",
+      "Normal fetal movement with no maternal significance",
+      "A reaction to the stethoscope used during auscultation"
     ],
     "answer": "B"
   },
   {
     "id": 68,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A Rhesus-negative woman delivers a healthy baby. The midwife's priority action regarding Rh status is to ensure she receives anti-D immunoglobulin within which timeframe?",
+    "stem": "CASE SCENARIO (continued): The MOST appropriate immediate nursing action is to:",
     "options": [
-      "Within 24 hours of delivery",
-      "Within 72 hours of delivery",
-      "Within 2 weeks of delivery",
-      "Anti-D is not required if the baby appears healthy"
+      "Continue the examination in the same position without changes",
+      "Reposition the woman onto her side",
+      "Immediately administer oxygen without repositioning",
+      "Elevate her legs while keeping her flat on her back"
     ],
     "answer": "B"
   },
   {
     "id": 69,
     "type": "mcq",
-    "stem": "CASE SCENARIO: An HIV-positive pregnant woman is due to begin malaria chemoprevention. Compared to an HIV-negative woman, the midwife anticipates she may receive:",
+    "stem": "CASE SCENARIO: A 43-year-old pregnant client is undergoing a comprehensive physical examination during her ANC visit. Given her age, the midwife includes which additional specific examination not routinely required in younger clients?",
     "options": [
-      "Fewer doses of SP than an HIV-negative woman",
-      "The same maximum of 2 doses as an HIV-negative woman",
-      "Up to 3 doses of SP, more than the standard 2 doses for an HIV-negative woman",
-      "No malaria chemoprevention at all due to her HIV status"
+      "Otoscopic examination of the ears",
+      "A digital rectal examination to rule out a mass",
+      "Auscultation of breath sounds",
+      "Palpation of the thyroid gland"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 70,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A woman at her booking visit asks why her midwife is not scheduling her for ten or more visits, as her friend experienced in another country. The midwife's BEST explanation, based on FANC principles, is that:",
+    "stem": "CASE SCENARIO: A midwife measures a client's height at booking as 148cm and notes she wears a size 2 shoe. Based on physical pelvic assessment criteria, the midwife should be MOST concerned about which possibility?",
     "options": [
-      "More visits are always better and her friend's care was superior",
-      "Frequent visits do not necessarily improve pregnancy outcome, and FANC emphasizes quality, individualized care over quantity of visits",
-      "FANC is only used in under-resourced settings and is inferior care",
-      "Four visits are used only to save cost, with no evidence base"
+      "An unusually large, roomy pelvis",
+      "A small or contracted pelvis, given both findings are below the thresholds associated with adequate pelvic size",
+      "No concern at all, as height and shoe size are irrelevant to pelvic capacity",
+      "Definite need for immediate induction of labour regardless of other findings"
     ],
     "answer": "B"
   },
   {
     "id": 71,
     "type": "fitb",
-    "stem": "The ideal period for booking is after the second missed period or about the ___________ week of gestation.",
-    "answer": "10th",
+    "stem": "The ARA form is used to monitor fetal growth and identify ___________ and ___________.",
+    "answer": "pregnancy-induced hypertension; anaemia",
     "acceptableAnswers": [
-      "10th",
-      "tenth"
+      "pregnancy-induced hypertension; anaemia"
     ]
   },
   {
     "id": 72,
     "type": "fitb",
-    "stem": "The expected date of delivery is calculated by adding ___________ calendar months and ___________ days to the last menstrual period.",
-    "answer": "9; 7",
+    "stem": "The four-part approach used with the ARA form is: Ask and ___________, Look and ___________, Identify problems/needs, and Take appropriate action.",
+    "answer": "Listen; Feel",
     "acceptableAnswers": [
-      "9; 7",
-      "nine; seven"
+      "Listen; Feel"
     ]
   },
   {
     "id": 73,
     "type": "fitb",
-    "stem": "The point of fetal viability used to define parity is ___________ weeks of gestation or a fetal weight of ___________ kg.",
-    "answer": "24; 1.0",
+    "stem": "Below 20 weeks gestation, fundal height grows at about ___________ cm per week; between 20 and 36 weeks, it grows at about ___________ cm per week.",
+    "answer": "2; 1",
     "acceptableAnswers": [
-      "24; 1.0",
-      "24; 1"
+      "2; 1"
     ]
   },
   {
     "id": 74,
     "type": "fitb",
-    "stem": "A woman who has given birth five times or more is called a ___________, while a woman who has never carried a pregnancy to viability is called a ___________.",
-    "answer": "grandmultipara; nullipara",
+    "stem": "At 12 weeks, the fundus is felt at the level of the ___________; at 22-24 weeks, it is felt at the level of the ___________.",
+    "answer": "symphysis pubis; umbilicus",
     "acceptableAnswers": [
-      "grandmultipara; nullipara"
+      "symphysis pubis; umbilicus"
     ]
   },
   {
     "id": 75,
     "type": "fitb",
-    "stem": "Abdominal examination in ANC comprises three components performed in sequence: ___________, ___________, and ___________.",
-    "answer": "inspection; palpation; auscultation",
+    "stem": "The fundus reaches its highest level at ___________ weeks, in contact with the ___________, measuring about ___________ cm above the symphysis pubis.",
+    "answer": "36; xiphisternum; 30",
     "acceptableAnswers": [
-      "inspection; palpation; auscultation"
+      "36; xiphisternum; 30"
     ]
   },
   {
     "id": 76,
     "type": "fitb",
-    "stem": "___________ palpation determines fundal height, ___________ palpation ascertains fetal position, and ___________ palpation determines presentation and engagement.",
-    "answer": "Fundal; lateral; pelvic",
+    "stem": "After 36 weeks, fundal height drops due to a process called ___________, caused by sinking of the uterus and sagging of the relaxed ___________ ___________ muscles.",
+    "answer": "lightening; pelvic floor",
     "acceptableAnswers": [
-      "Fundal; lateral; pelvic"
+      "lightening; pelvic floor"
     ]
   },
   {
     "id": 77,
     "type": "fitb",
-    "stem": "The normal fetal heart rate range detected on auscultation is ___________ to ___________ beats per minute.",
-    "answer": "120; 160",
+    "stem": "If fundal height is unusually large, the mother should be checked for ___________, given the associated risk of ___________ labour.",
+    "answer": "diabetes; obstructed",
     "acceptableAnswers": [
-      "120; 160"
+      "diabetes; obstructed"
     ]
   },
   {
     "id": 78,
     "type": "fitb",
-    "stem": "A maternal height over ___________ cm is generally considered indicative of a normal pelvis.",
-    "answer": "160",
+    "stem": "During abdominal examination lying flat, a pregnant woman should be advised to report dizziness or nausea, which may result from the uterus compressing the ___________ ___________.",
+    "answer": "inferior vena cava",
     "acceptableAnswers": [
-      "160"
+      "inferior vena cava"
     ]
   },
   {
     "id": 79,
     "type": "fitb",
-    "stem": "A pregnant woman is expected to gain approximately ___________ kg weekly after 20 weeks, with a total normal weight gain of about ___________ kg across pregnancy.",
-    "answer": "0.5; 12.5",
+    "stem": "A digital rectal examination to rule out a mass is recommended if the antenatal patient is over ___________ years of age.",
+    "answer": "40",
     "acceptableAnswers": [
-      "0.5; 12.5"
+      "40"
     ]
   },
   {
     "id": 80,
     "type": "fitb",
-    "stem": "A blood pressure of ___________/___________ mmHg at the first antenatal visit is considered indicative of hypertension.",
-    "answer": "140; 90",
+    "stem": "Pelvic assessment is performed ___________ times during pregnancy, both during the ___________ trimester, to rule out cephalo-pelvic disproportion.",
+    "answer": "twice; last",
     "acceptableAnswers": [
-      "140; 90"
+      "twice; last"
     ]
   },
   {
     "id": 81,
     "type": "fitb",
-    "stem": "A Rhesus-negative mother should receive anti-D immunoglobulin within ___________ hours after delivery.",
-    "answer": "72",
+    "stem": "A maternal height below ___________ cm and a shoe size of ___________ or less are both associated with an increased likelihood of a contracted pelvis.",
+    "answer": "150; 3",
     "acceptableAnswers": [
-      "72"
+      "150; 3"
     ]
   },
   {
     "id": 82,
     "type": "fitb",
-    "stem": "The three routine drug categories given during ANC are ___________, ___________, and tetanus toxoid.",
-    "answer": "haematinics; anti-malaria drugs",
+    "stem": "The Head Fitting Test is performed at ___________ weeks of gestation using the ___________ grip to assess the fetal head.",
+    "answer": "36; Pawlik",
     "acceptableAnswers": [
-      "haematinics; anti-malaria drugs"
+      "36; Pawlik"
     ]
   },
   {
     "id": 83,
     "type": "fitb",
-    "stem": "The routine haematinics given in ANC include Fesolate ___________mg tds, Multivitamins ___________mg tds, and Folic acid ___________mg daily.",
-    "answer": "300; 200; 5",
+    "stem": "The fetal heart should be auscultated ___________ and ___________ the Head Fitting Test procedure.",
+    "answer": "before; after",
     "acceptableAnswers": [
-      "300; 200; 5"
+      "before; after"
     ]
   },
   {
     "id": 84,
     "type": "fitb",
-    "stem": "Each single dose of sulphadoxine-pyremethamine (SP) for IPT is made up of sulphadoxine ___________mg and pyremethamine ___________mg, given as ___________ tablets.",
-    "answer": "500; 25; 3",
+    "stem": "Vaginal pelvic assessment is performed at 36 weeks on all ___________, and the vulva is swabbed with ___________ solution before examination.",
+    "answer": "primigravidae; chlorhexidine",
     "acceptableAnswers": [
-      "500; 25; 3"
+      "primigravidae; chlorhexidine"
     ]
   },
   {
     "id": 85,
     "type": "fitb",
-    "stem": "The first dose of SP is given after ___________ weeks of gestation, and the second dose is given ___________ after the first.",
-    "answer": "16; 1 month",
+    "stem": "During vaginal pelvic assessment, the examining finger presses deeply and diagonally to assess the ___________ ___________, checking whether the sacral promontory can be reached.",
+    "answer": "diagonal conjugate",
     "acceptableAnswers": [
-      "16; 1 month"
+      "diagonal conjugate"
     ]
   },
   {
     "id": 86,
     "type": "fitb",
-    "stem": "In HIV-positive mothers, SP doses during pregnancy may be increased to up to ___________ doses.",
-    "answer": "3",
+    "stem": "A normal greater sciatic notch should be ___________ and ___________, accommodating two examining fingers.",
+    "answer": "wide; shallow",
     "acceptableAnswers": [
-      "3",
-      "three"
+      "wide; shallow"
     ]
   },
   {
     "id": 87,
     "type": "fitb",
-    "stem": "The traditional appointment schedule is 4-weekly until ___________ weeks, 2-weekly until ___________ weeks, then weekly until delivery.",
-    "answer": "28; 36",
+    "stem": "The transverse diameter of the pelvic outlet is assessed externally using the ___________ knuckles of a clenched fist, placed between the ___________.",
+    "answer": "four; ischial tuberosities",
     "acceptableAnswers": [
-      "28; 36"
+      "four; ischial tuberosities"
     ]
   },
   {
     "id": 88,
     "type": "fitb",
-    "stem": "The goals of FANC are represented by the acronym PPDP, standing for ___________, ___________, Detection, and ___________.",
-    "answer": "Promotion; Prevention; Planning",
+    "stem": "The inter-spinous diameter averages approximately ___________ cm, while the transverse diameter of the pelvic outlet averages approximately ___________ cm.",
+    "answer": "25.4; 11.4",
     "acceptableAnswers": [
-      "Promotion; Prevention; Planning"
+      "25.4; 11.4"
     ]
   },
   {
     "id": 89,
     "type": "fitb",
-    "stem": "Under FANC, a minimum of ___________ antenatal visits is recommended, occurring at approximately weeks ___________, ___________, ___________, and ___________.",
-    "answer": "4; 16; 24-28; 30-34; 36+",
+    "stem": "The raw external conjugate measures about ___________ cm, from which about ___________ cm is subtracted for tissue thickness to give a true value of about 11cm.",
+    "answer": "19; 8",
     "acceptableAnswers": [
-      "4; 16; 24-28; 30-34; 36+",
-      "four; 16; 24-28; 30-34; 36 and above"
+      "19; 8"
     ]
   },
   {
     "id": 90,
     "type": "fitb",
-    "stem": "Studies indicate that approximately ___________% of women will develop a life-threatening complication, which is why every woman and family should have a ___________ plan.",
-    "answer": "15; birth",
+    "stem": "X-ray pelvimetry must be ordered by a ___________ and performed by a specialist in ___________.",
+    "answer": "doctor; radiography",
     "acceptableAnswers": [
-      "15; birth"
+      "doctor; radiography"
+    ]
+  },
+  {
+    "id": 91,
+    "type": "fitb",
+    "stem": "The VDRL blood test screens for treatable STIs including syphilis, gonorrhoea, and ___________.",
+    "answer": "candidiasis",
+    "acceptableAnswers": [
+      "candidiasis"
+    ]
+  },
+  {
+    "id": 92,
+    "type": "fitb",
+    "stem": "A skin test performed during pregnancy investigations screens for ___________ infection.",
+    "answer": "tuberculosis",
+    "acceptableAnswers": [
+      "tuberculosis",
+      "TB"
+    ]
+  },
+  {
+    "id": 93,
+    "type": "fitb",
+    "stem": "In later pregnancy, a high alpha-fetoprotein level may indicate ___________, while a low level may indicate ___________.",
+    "answer": "a congenital abnormality; Down's syndrome",
+    "acceptableAnswers": [
+      "a congenital abnormality; Down's syndrome"
+    ]
+  },
+  {
+    "id": 94,
+    "type": "fitb",
+    "stem": "In later pregnancy, ___________ and ___________ blood glucose tests are repeated to rule out diabetes mellitus.",
+    "answer": "fasting; random",
+    "acceptableAnswers": [
+      "fasting; random"
     ]
   },
   {
     "type": "fitb",
-    "stem": "The objectives of booking include ascertaining baseline recording of weight, ___________, and ___________ for subsequent comparison.",
-    "answer": "BP; Hb",
+    "stem": "Required equipment for antepartum risk assessment includes a fetal stethoscope, adult weighing scales, and a ___________ tape to measure fundal height.",
+    "answer": "centimetre",
     "acceptableAnswers": [
-      "BP; Hb"
-    ],
-    "id": 91
-  },
-  {
-    "type": "fitb",
-    "stem": "History categories obtained at booking include social, menstrual, obstetric, medical, family, and ___________ history.",
-    "answer": "surgical",
-    "acceptableAnswers": [
-      "surgical"
-    ],
-    "id": 92
-  },
-  {
-    "type": "fitb",
-    "stem": "Blood tests done at booking include ABO grouping, Rhesus factor, genotype, and ___________ estimation to rule out anaemia.",
-    "answer": "Hb",
-    "acceptableAnswers": [
-      "Hb",
-      "haemoglobin"
-    ],
-    "id": 93
-  },
-  {
-    "type": "fitb",
-    "stem": "The VDRL test performed during ANC booking screens for ___________, while the HIV test aims to prevent ___________.",
-    "answer": "syphilis; mother-to-child transmission",
-    "acceptableAnswers": [
-      "syphilis; mother-to-child transmission"
-    ],
-    "id": 94
-  },
-  {
-    "type": "fitb",
-    "stem": "During subsequent ANC visits, the only blood test routinely repeated is ___________ or ___________.",
-    "answer": "Hb; PCV",
-    "acceptableAnswers": [
-      "Hb; PCV"
+      "centimetre",
+      "centimeter"
     ],
     "id": 95
   },
   {
     "type": "fitb",
-    "stem": "FANC differs from traditional ANC by emphasizing ___________ of care over ___________ of visits.",
-    "answer": "quality; quantity",
+    "stem": "During the sitting physical examination, the ears are inspected externally, with internal structures viewed using an ___________.",
+    "answer": "otoscope",
     "acceptableAnswers": [
-      "quality; quantity"
+      "otoscope"
     ],
     "id": 96
   },
   {
     "type": "fitb",
-    "stem": "During the first FANC visit at week ___________, the first dose of ___________ is administered.",
-    "answer": "16; tetanus toxoid",
+    "stem": "A woman with broad shoulders and small hips is described as having a(n) ___________ type pelvis.",
+    "answer": "android",
     "acceptableAnswers": [
-      "16; tetanus toxoid"
+      "android"
     ],
     "id": 97
   },
   {
     "type": "fitb",
-    "stem": "During the fourth FANC visit at week ___________ and above, activities include haemoglobin estimation and ___________ scan.",
-    "answer": "36; ultrasound",
+    "stem": "A history of repeated stillbirth or instrumental delivery suggests an ___________ pelvis, while a history of previous normal delivery suggests an ___________ pelvis.",
+    "answer": "inadequate; adequate",
     "acceptableAnswers": [
-      "36; ultrasound"
+      "inadequate; adequate"
     ],
     "id": 98
   },
   {
     "type": "fitb",
-    "stem": "Under the traditional (quantity) ANC model, visits occur two-weekly from ___________ to ___________ weeks, then every week from ___________ weeks till delivery.",
-    "answer": "28; 36; 36",
+    "stem": "During vaginal pelvic assessment, the ischial spines should feel ___________ and ___________, rather than sharp and prominent.",
+    "answer": "rounded; smooth",
     "acceptableAnswers": [
-      "28; 36; 36"
+      "rounded; smooth"
     ],
     "id": 99
   },
   {
     "type": "fitb",
-    "stem": "A woman pregnant for the second time is termed gravida ___________, and if she becomes pregnant again thereafter she is termed a ___________.",
-    "answer": "2; multigravida",
+    "stem": "During abdominal palpation, if fundal height differs by more than ___________ cm from the expected measurement, further investigation is warranted.",
+    "answer": "2",
     "acceptableAnswers": [
-      "2; multigravida"
+      "2",
+      "two"
     ],
     "id": 100
   }
