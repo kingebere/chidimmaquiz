@@ -2,1114 +2,1138 @@
   {
     "id": 1,
     "type": "mcq",
-    "stem": "The Antepartum Risk Assessment (ARA) form is specially designed to monitor fetal growth and identify which TWO specific conditions?",
+    "stem": "A patient develops an erythematous, pruritic rash confined to areas exposed to a detergent. Which mechanism BEST distinguishes irritant contact dermatitis from allergic contact dermatitis?",
     "options": [
-      "Gestational diabetes and placenta praevia",
-      "Pregnancy-induced hypertension and anaemia",
-      "Preterm labour and postpartum haemorrhage",
-      "Multiple pregnancy and breech presentation"
+      "Type I IgE-mediated mast-cell degranulation",
+      "Immune-complex deposition in dermal vessels",
+      "Delayed T-cell hypersensitivity requiring prior sensitization",
+      "Direct epidermal injury without prior sensitization"
     ],
-    "answer": "B"
+    "answer": "D"
   },
   {
     "id": 2,
     "type": "mcq",
-    "stem": "The ARA form is used by applying which structured four-part approach?",
+    "stem": "A nurse suspects allergic contact dermatitis rather than irritant dermatitis. Which historical feature is MOST supportive?",
     "options": [
-      "Assess, Diagnose, Plan, Evaluate",
-      "Ask and Listen, Look and Feel, Identify problems/needs, Take appropriate action",
-      "Inspect, Palpate, Percuss, Auscultate",
-      "Screen, Refer, Treat, Follow-up"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 3,
-    "type": "mcq",
-    "stem": "On the FIRST side of the ARA form, which information is specifically recorded, alongside the client's histories?",
-    "options": [
-      "Fetal heart rate and blood pressure trends",
-      "The client's weight in kg and weeks of gestation",
-      "Albuminuria results and treatment given",
-      "X-ray pelvimetry findings"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 4,
-    "type": "mcq",
-    "stem": "On the SECOND side of the ARA form, physical findings recorded at each visit include fundal height, blood pressure, fetal heart rate, signs and symptoms, Hb, albuminuria, and:",
-    "options": [
-      "Treatment and examiner's signature/date",
-      "The client's full obstetric history only",
-      "Only the client's home address",
-      "The client's shoe size"
-    ],
-    "answer": "A"
-  },
-  {
-    "id": 5,
-    "type": "mcq",
-    "stem": "Which of the following is listed as a required piece of equipment for antepartum risk assessment, specifically for testing lower limb reflexes?",
-    "options": [
-      "An otoscope",
-      "A reflex hammer",
-      "A nasal speculum",
-      "A Pawlik grip device"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 6,
-    "type": "mcq",
-    "stem": "Below 20 weeks of gestation, fundal height is expected to grow at approximately what rate per week?",
-    "options": [
-      "0.5 cm per week",
-      "1 cm per week",
-      "2 cm per week",
-      "3 cm per week"
+      "Immediate burning after first exposure to a strong acid",
+      "A rash limited only to pressure points",
+      "A previous sensitizing exposure followed by a delayed eczematous reaction",
+      "Absence of pruritus with chemical exposure"
     ],
     "answer": "C"
   },
   {
-    "id": 7,
+    "id": 3,
     "type": "mcq",
-    "stem": "Between 20 and 36 weeks of gestation, fundal height growth slows to approximately what rate per week?",
+    "stem": "Which exposure listed in the material is a COMMON trigger of contact dermatitis?",
     "options": [
-      "0.5 cm per week",
-      "1 cm per week",
-      "2 cm per week",
-      "4 cm per week"
+      "Vitamin D",
+      "Oral glucose",
+      "Normal saline",
+      "Detergents"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 4,
+    "type": "mcq",
+    "stem": "A patient with suspected allergic contact dermatitis undergoes diagnostic testing. Which test is MOST appropriate?",
+    "options": [
+      "Photopatch testing",
+      "Patch testing",
+      "Serum sodium level",
+      "Skin biopsy as first-line for every case"
     ],
     "answer": "B"
   },
   {
+    "id": 5,
+    "type": "mcq",
+    "stem": "A patient develops dermatitis only after exposure to a topical substance followed by sunlight. Which test best evaluates this pattern?",
+    "options": [
+      "Photopatch testing",
+      "Bone scan",
+      "Patch testing without light exposure",
+      "Tzanck smear"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 6,
+    "type": "mcq",
+    "stem": "Which finding is MOST characteristic of acute contact dermatitis?",
+    "options": [
+      "Erythema with vesicles or oozing and intense pruritus",
+      "Well-demarcated silvery plaques on extensor surfaces",
+      "Deep painless nodules with central necrosis",
+      "Honey-colored crusts around the mouth"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 7,
+    "type": "mcq",
+    "stem": "A patient with chronic contact dermatitis has lichenification. Which pathophysiologic process BEST explains this finding?",
+    "options": [
+      "Repeated rubbing and scratching causing epidermal thickening",
+      "Rapid destruction of melanocytes",
+      "Loss of all sebaceous activity",
+      "Bacterial invasion of the dermis"
+    ],
+    "answer": "A"
+  },
+  {
     "id": 8,
     "type": "mcq",
-    "stem": "At the 12th week of pregnancy, the uterine fundus is expected to be palpable at approximately which level?",
+    "stem": "Which nursing intervention is MOST appropriate for acute weeping contact dermatitis?",
     "options": [
-      "The level of the umbilicus",
-      "Just at the level of the top of the symphysis pubis",
-      "Halfway to the xiphisternum",
-      "At the level of the xiphisternum"
+      "Encourage vigorous scratching to remove scales",
+      "Use soothing wet compresses as prescribed and avoid the offending agent",
+      "Apply potent irritant cleansers to dry the lesion",
+      "Use occlusive dressings without assessment"
     ],
     "answer": "B"
   },
   {
     "id": 9,
     "type": "mcq",
-    "stem": "The fundal height is typically felt at the level of the umbilicus at approximately which gestational age?",
+    "stem": "Which statement about topical corticosteroids for dermatitis is MOST accurate based on the text?",
     "options": [
-      "12 to 14 weeks",
-      "16 to 18 weeks",
-      "22 to 24 weeks",
-      "34 to 36 weeks"
+      "Apply thickly over normal surrounding skin to prevent spread",
+      "Apply a thin layer to affected areas and avoid excessive prolonged use because of adverse effects",
+      "Use without regard to skin integrity or infection",
+      "Discontinue after one dose if itching persists"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 10,
     "type": "mcq",
-    "stem": "The fundus reaches its highest level, coming into contact with the xiphisternum, at approximately which gestational week?",
+    "stem": "A patient with dermatitis asks why avoiding the offending substance is emphasized even when topical therapy is effective. Which response is BEST?",
     "options": [
-      "28th week",
-      "32nd week",
-      "36th week",
-      "40th week"
+      "Topical therapy permanently prevents future reactions",
+      "Ongoing exposure can perpetuate inflammation despite symptomatic treatment",
+      "Exposure has no influence once medication is started",
+      "Avoidance is useful only in fungal disease"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 11,
     "type": "mcq",
-    "stem": "At its highest point at 36 weeks, the fundal height measured by tape from the symphysis pubis is approximately:",
+    "stem": "Which statement BEST characterizes psoriasis?",
     "options": [
-      "18 cm",
-      "24 cm",
-      "30 cm",
-      "40 cm"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": 12,
-    "type": "mcq",
-    "stem": "A woman who is 30 weeks pregnant should have a fundal height measurement from the symphysis pubis of approximately:",
-    "options": [
-      "18 cm",
-      "24 cm",
-      "30 cm",
-      "36 cm"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 13,
-    "type": "mcq",
-    "stem": "After 36 weeks, fundal height typically begins to DROP to lower levels due to a process called lightening, which results from:",
-    "options": [
-      "Sudden fetal death",
-      "Sinking of the uterus following widening of the symphysis pubis and sagging of the relaxed pelvic floor",
-      "Reabsorption of amniotic fluid",
-      "Reversal of fetal growth"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 14,
-    "type": "mcq",
-    "stem": "If a fundal height measurement is found to be more than 2cm different (larger OR smaller) than expected for gestational age, which of the following should the midwife investigate?",
-    "options": [
-      "Wrong dates, polyhydramnios, twins, or abnormal presentation",
-      "Only the client's shoe size",
-      "Only the client's marital status",
-      "Only whether the client attended her last appointment"
+      "A chronic noninfectious inflammatory skin disorder with markedly accelerated epidermal cell turnover",
+      "A fungal infection limited to intertriginous regions",
+      "An acute contagious bacterial disorder",
+      "A purely allergic disease caused by histamine alone"
     ],
     "answer": "A"
   },
   {
-    "id": 15,
+    "id": 12,
     "type": "mcq",
-    "stem": "If the fetus is found to be unusually large on fundal height assessment, the midwife should specifically check the mother for which underlying condition, given its risk of obstructed labour?",
+    "stem": "The epidermal turnover rate in psoriasis is described as being approximately how much faster than normal?",
     "options": [
-      "Anaemia",
-      "Diabetes",
-      "Hypothyroidism",
-      "Vitamin D deficiency"
+      "Six to nine times faster",
+      "Exactly equal to normal",
+      "Two times slower",
+      "Twenty to thirty times slower"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 13,
+    "type": "mcq",
+    "stem": "Which lesion pattern is MOST typical of psoriasis?",
+    "options": [
+      "Thin vesicles with honey-colored crusts",
+      "Diffuse urticaria with transient wheals only",
+      "Well-demarcated erythematous plaques with silvery scales",
+      "Single black eschar with surrounding edema"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 14,
+    "type": "mcq",
+    "stem": "Which body sites are classically associated with psoriasis in the material?",
+    "options": [
+      "Only mucous membranes",
+      "Extensor surfaces, scalp, and lumbosacral region",
+      "Only palms and soles",
+      "Only axillae and groin"
     ],
     "answer": "B"
+  },
+  {
+    "id": 15,
+    "type": "mcq",
+    "stem": "A patient with psoriasis develops pinpoint bleeding when scales are removed. Which sign is being described?",
+    "options": [
+      "Auspitz sign",
+      "Trousseau sign",
+      "Nikolsky sign",
+      "Kernig sign"
+    ],
+    "answer": "A"
   },
   {
     "id": 16,
     "type": "mcq",
-    "stem": "If no explanation can be found for an unexpected fundal height finding, the recommended action is to:",
+    "stem": "Which factor is listed as a possible precipitant of psoriasis exacerbation?",
     "options": [
-      "Immediately refer for emergency caesarean section",
-      "Give the client a 1-week appointment and reassure her",
-      "Discharge the client from further antenatal care",
-      "Ignore the finding entirely"
+      "Routine emollient use",
+      "Low environmental temperature as the sole cause",
+      "Excess hydration only",
+      "Psychological stress"
     ],
-    "answer": "B"
+    "answer": "D"
   },
   {
     "id": 17,
     "type": "mcq",
-    "stem": "During physical examination in the ANC clinic, while the patient is SITTING UP, which system assessment includes palpating lymph nodes on both sides of the neck and the thyroid gland?",
+    "stem": "Which medication class may trigger or worsen psoriasis according to the text?",
     "options": [
-      "The back",
-      "The neck",
-      "The breast and armpit",
-      "The skin"
+      "Beta-blockers",
+      "Simple saline drops",
+      "Antacids",
+      "Oral rehydration salts"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 18,
     "type": "mcq",
-    "stem": "During the sitting examination, inspection of the eyes' internal structures with an ophthalmoscope is best performed under which condition?",
+    "stem": "A patient with chronic psoriasis suddenly develops diffuse erythema involving most of the body surface with fever and fluid imbalance. Which complication is MOST likely?",
     "options": [
-      "In a brightly lit room",
-      "In a darkened room",
-      "Only under direct sunlight",
-      "With the patient standing and moving"
+      "Erythrodermic psoriasis",
+      "Localized irritant dermatitis",
+      "Simple impetigo",
+      "Isolated urticaria"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 19,
     "type": "mcq",
-    "stem": "While the patient is sitting, examination of the breast and armpit includes inspecting with the arms relaxed AND raised, assessing equality, retraction, and:",
+    "stem": "Why is erythrodermic psoriasis clinically dangerous?",
     "options": [
-      "Fundal height",
-      "Size",
-      "Blood pressure",
-      "Reflexes"
+      "Extensive skin involvement can impair thermoregulation and fluid-electrolyte balance",
+      "It affects only cosmetic appearance",
+      "It permanently suppresses all sweat glands",
+      "It is always asymptomatic"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 20,
     "type": "mcq",
-    "stem": "While the patient is LYING DOWN, auscultation of the heart is performed with the head in which position?",
+    "stem": "Which complication is associated with psoriasis and involves the joints?",
     "options": [
-      "Fully flat, with no elevation",
-      "Slightly raised",
-      "Turned fully to one side with the body prone",
-      "Hyperextended backward"
+      "Psoriatic arthritis",
+      "Septic bursitis in every case",
+      "Rheumatic fever",
+      "Osteomyelitis as the defining feature"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 21,
     "type": "mcq",
-    "stem": "During abdominal examination while lying down, the woman should be advised to report feelings of weakness, dizziness, or nausea, as these may result from which physiological mechanism?",
+    "stem": "Which treatment in the text is used to slow excessive epidermal turnover in psoriasis?",
     "options": [
-      "Hyperventilation from anxiety alone",
-      "The pregnant uterus compressing the inferior vena cava and compromising venous return while supine",
-      "Excessive fetal movement",
-      "Normal fetal hiccups"
+      "Pure alcohol rubs",
+      "Coal tar or anthralin",
+      "Topical anesthetic only",
+      "Systemic antibiotics for all patients"
     ],
     "answer": "B"
   },
   {
     "id": 22,
     "type": "mcq",
-    "stem": "During the lying-down examination, palpation of fundal height is performed using the fingers or which anatomical border of the LEFT hand?",
+    "stem": "Why should systemic corticosteroids be used cautiously in psoriasis?",
     "options": [
-      "The radial border",
-      "The ulnar border",
-      "The dorsal surface",
-      "The thenar eminence"
+      "Withdrawal may precipitate severe flare or erythrodermic disease",
+      "They are the only safe first-line treatment",
+      "They prevent all rebound disease",
+      "They always cure psoriasis permanently"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 23,
     "type": "mcq",
-    "stem": "During examination of the rectum and anus, a digital rectal examination to rule out a mass is specifically recommended if the patient is over which age?",
+    "stem": "Which phototherapy modality is described for psoriasis management?",
     "options": [
-      "25 years",
-      "30 years",
-      "40 years",
-      "60 years"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": 24,
-    "type": "mcq",
-    "stem": "During examination of the reproductive organs, a specific test may be collected specifically to screen for Human Papilloma Virus (HPV). This test is called:",
-    "options": [
-      "A wet mount smear",
-      "A Pap smear",
-      "A KOH preparation",
-      "A Gram stain"
+      "No light-based therapy is ever used",
+      "Narrow-band UVB or PUVA depending on regimen",
+      "Gamma irradiation",
+      "Infrared radiation only"
     ],
     "answer": "B"
   },
   {
+    "id": 24,
+    "type": "mcq",
+    "stem": "A patient receiving systemic retinoid therapy for psoriasis should receive which critical counseling?",
+    "options": [
+      "Expect no hepatic adverse effects",
+      "Increase alcohol intake to improve absorption",
+      "Strict pregnancy avoidance because of teratogenicity",
+      "No laboratory monitoring is needed"
+    ],
+    "answer": "C"
+  },
+  {
     "id": 25,
     "type": "mcq",
-    "stem": "During the STANDING portion of the physical examination, the musculoskeletal system is assessed for the straightness of the spine and:",
+    "stem": "Which adverse effect is associated with systemic retinoids such as acitretin?",
     "options": [
-      "Alignment of the legs and feet",
-      "The presence of dental caries",
-      "Fundal height",
-      "Cervical dilation"
+      "Hepatotoxicity",
+      "Guaranteed renal failure after one dose",
+      "Severe hypoglycemia",
+      "Permanent deafness"
     ],
     "answer": "A"
   },
   {
     "id": 26,
     "type": "mcq",
-    "stem": "During the standing examination, abnormally enlarged veins, usually seen in the legs, are noted and documented as:",
+    "stem": "A patient with mild localized psoriasis asks why emollients are prescribed. Which explanation is BEST?",
     "options": [
-      "Telangiectasias",
-      "Varicose veins",
-      "Spider naevi",
-      "Petechiae"
+      "They reverse psoriatic arthritis",
+      "They permanently suppress immune activity",
+      "They reduce dryness and scaling and improve barrier comfort",
+      "They eradicate bacterial colonization"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 27,
     "type": "mcq",
-    "stem": "Pelvic assessment (clinical pelvimetry) is defined as methods and observations that assess which relationship?",
+    "stem": "Which statement BEST differentiates psoriasis from impetigo?",
     "options": [
-      "The relationship between maternal blood pressure and gestational age",
-      "The capacity of the pelvis in relation to the size of the fetal head, for normal vaginal delivery",
-      "The relationship between maternal weight and fetal weight only",
-      "The relationship between maternal age and parity"
+      "Both are caused exclusively by fungi",
+      "Both are noninfectious inflammatory disorders",
+      "Psoriasis is always bacterial and impetigo is autoimmune",
+      "Psoriasis is chronic and noninfectious, whereas impetigo is a contagious bacterial infection"
     ],
-    "answer": "B"
+    "answer": "D"
   },
   {
     "id": 28,
     "type": "mcq",
-    "stem": "Pelvic assessment is typically performed twice during pregnancy, both times during which period, to help rule out cephalo-pelvic disproportion (CPD)?",
+    "stem": "Which description is MOST characteristic of impetigo?",
     "options": [
-      "The first trimester (0-3 months)",
-      "The second trimester (4-6 months)",
-      "The last trimester (6-9 months)",
-      "Only in the immediate postpartum period"
+      "Deep ulcers with black necrotic centers",
+      "Generalized wheals that resolve within hours",
+      "Vesicles or pustules that rupture and form honey-colored crusts",
+      "Silvery plaques with Auspitz sign"
     ],
     "answer": "C"
   },
   {
     "id": 29,
     "type": "mcq",
-    "stem": "The TWO broad methods of pelvic assessment listed are clinical assessment and:",
+    "stem": "Impetigo in children commonly affects which area?",
     "options": [
-      "Ultrasound assessment exclusively",
-      "External measurements",
-      "Laboratory blood testing",
-      "Genetic testing"
+      "Only the scalp",
+      "Only the trunk",
+      "Only the soles",
+      "Face, especially around the nose and mouth"
     ],
-    "answer": "B"
+    "answer": "D"
   },
   {
     "id": 30,
     "type": "mcq",
-    "stem": "Under CLINICAL assessment of the pelvis, which of the following is included as a component?",
+    "stem": "Why are antibiotics used in impetigo even though some cases may resolve spontaneously?",
     "options": [
-      "Complete blood count",
-      "The head fitting test",
-      "Rubella titre testing",
-      "Alpha-fetoprotein screening"
+      "They eliminate all future dermatitis",
+      "They prevent psoriasis",
+      "They shorten disease duration and reduce transmission",
+      "They are used only for pain control"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 31,
     "type": "mcq",
-    "stem": "As part of physical assessment for pelvic adequacy, a maternal height below which measurement is regarded as sub-average and associated with a likely short, contracted pelvis?",
+    "stem": "A child with impetigo has spreading lesions and household contacts at risk. Which nursing priority is MOST appropriate?",
     "options": [
-      "140 cm",
-      "150 cm",
-      "160 cm",
-      "170 cm"
+      "Cover all lesions with occlusive plastic indefinitely",
+      "Encourage scratching to remove crusts",
+      "Reinforce hygiene and reduce direct sharing/contact to limit spread",
+      "Stop antibiotics once lesions appear dry"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 32,
     "type": "mcq",
-    "stem": "As part of physical assessment for pelvic adequacy, women who wear a shoe size of what value or less are considered likely to have a small pelvis, regardless of their height?",
+    "stem": "The epidermis is composed primarily of what type of tissue?",
     "options": [
-      "Size 3",
-      "Size 5",
-      "Size 7",
-      "Size 9"
+      "Loose areolar tissue only",
+      "Keratinized stratified squamous epithelium",
+      "Cardiac muscle",
+      "Simple cuboidal epithelium"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 33,
     "type": "mcq",
-    "stem": "A limp gait observed during physical pelvic assessment is significant because it may be evidence of which underlying issue affecting pelvic capacity?",
+    "stem": "Which epidermal cells are chiefly responsible for producing keratin?",
     "options": [
-      "A skeletal deformity",
-      "A urinary tract infection",
-      "Normal third-trimester discomfort only",
-      "Anaemia"
+      "Langerhans cells only",
+      "Keratinocytes",
+      "Melanocytes",
+      "Fibroblasts"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 34,
     "type": "mcq",
-    "stem": "A woman with broad shoulders and small hips is described as having which pelvis type, associated with an increased likelihood of contracted pelvis?",
+    "stem": "Which cells produce melanin that contributes to skin pigmentation?",
     "options": [
-      "Gynaecoid pelvis",
-      "Android pelvis type",
-      "Platypelloid pelvis",
-      "Anthropoid pelvis"
+      "Keratinocytes only",
+      "Melanocytes",
+      "Sebocytes",
+      "Neutrophils"
     ],
     "answer": "B"
   },
   {
     "id": 35,
     "type": "mcq",
-    "stem": "A history of previous NORMAL vaginal delivery suggests that the maternal pelvis is adequate; however, this cannot entirely rule out disproportion in subsequent pregnancies because:",
+    "stem": "Differences in skin color among individuals are attributed mainly to differences in which melanocyte-related factor?",
     "options": [
-      "Pelvic size decreases with each pregnancy",
-      "Subsequent babies tend to be bigger",
-      "The pelvis becomes narrower after each delivery",
-      "Previous delivery has no bearing on future risk whatsoever"
+      "Complete absence or presence of epidermis",
+      "Number of sweat glands only",
+      "Amount of subcutaneous fat only",
+      "Size and distribution of melanosomes rather than large differences in melanocyte number"
     ],
-    "answer": "B"
+    "answer": "D"
   },
   {
     "id": 36,
     "type": "mcq",
-    "stem": "A history of repeated stillbirth or instrumental delivery in a woman's obstetric history sends a message that is MOST suggestive of:",
+    "stem": "Which structure is NOT normally present on the palms and soles?",
     "options": [
-      "An entirely adequate pelvis with no further evaluation needed",
-      "An inadequate pelvis",
-      "A purely coincidental finding unrelated to pelvic capacity",
-      "Excellent fetal outcomes expected in future pregnancies"
+      "Hair follicles",
+      "Eccrine sweat glands",
+      "Sensory nerve endings",
+      "Epidermis"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 37,
     "type": "mcq",
-    "stem": "The Head Fitting Test (HFT) is typically performed at approximately which gestational week, and on which group(s) of women?",
+    "stem": "Which gland secretes sebum into hair follicles?",
     "options": [
-      "28 weeks; primigravidae only",
-      "36 weeks; all primigravidae and multigravidae",
-      "40 weeks; multigravidae only",
-      "20 weeks; all pregnant women"
+      "Lacrimal gland",
+      "Apocrine gland",
+      "Eccrine gland",
+      "Sebaceous gland"
     ],
-    "answer": "B"
+    "answer": "D"
   },
   {
     "id": 38,
     "type": "mcq",
-    "stem": "36 weeks is considered the ideal time for the Head Fitting Test primarily because:",
+    "stem": "Sebum production becomes especially active under the influence of which hormones?",
     "options": [
-      "The fetal head is not likely to grow much bigger after this point, allowing accurate assessment of fit",
-      "The cervix is always fully dilated by this time",
-      "The mother's pelvis is at its largest at this point",
-      "Labour always begins exactly at this gestational age"
+      "Androgens",
+      "Thyroxine only",
+      "Calcitonin only",
+      "Insulin only"
     ],
     "answer": "A"
   },
   {
     "id": 39,
     "type": "mcq",
-    "stem": "During the Head Fitting Test, the fetal head is gently grasped using which specific grip technique?",
+    "stem": "Apocrine sweat glands are most commonly found in which locations?",
     "options": [
-      "The Leopold grip",
-      "The Pawlik grip",
-      "The Ritgen manoeuvre",
-      "The McRoberts manoeuvre"
+      "Palms and soles only",
+      "Axillae, areolae, groin, and perineal regions",
+      "Nail beds only",
+      "Cornea and conjunctiva"
     ],
     "answer": "B"
   },
   {
     "id": 40,
     "type": "mcq",
-    "stem": "During the Head Fitting Test, as the woman breathes in and gradually sits up, leaning forward with assistance, what is being assessed?",
+    "stem": "Apocrine secretions develop characteristic odor mainly because:",
     "options": [
-      "Whether the fetal head slips through the pelvic brim, ruling out disproportion",
-      "Whether the woman can tolerate labour pain",
-      "Whether the fetal heart rate is normal at rest only",
-      "Whether the placenta is correctly positioned"
+      "Skin bacteria act on initially odorless secretions",
+      "The secretion is inherently foul before reaching skin",
+      "The secretion contains melanin",
+      "The glands secrete ammonia directly"
     ],
     "answer": "A"
   },
   {
     "id": 41,
     "type": "mcq",
-    "stem": "In the Head Fitting Test, if the woman lies back down after the head has engaged, what may occur?",
+    "stem": "Which layer acts as the principal barrier limiting excessive water loss from the body?",
     "options": [
-      "The head remains permanently engaged with no possibility of change",
-      "The head may disengage",
-      "Labour begins immediately",
-      "The cervix begins to dilate immediately"
+      "Stratum corneum",
+      "Dermal papilla",
+      "Nail matrix",
+      "Subcutaneous fat only"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 42,
     "type": "mcq",
-    "stem": "During the Head Fitting Test, the fetal heart should be auscultated at which point(s) in the procedure?",
+    "stem": "Approximately how much insensible perspiration is described in the text for a normal adult?",
     "options": [
-      "Only after the procedure is fully complete",
-      "Both before and after the procedure",
-      "Only if the woman reports pain",
-      "Auscultation is not required for this procedure"
+      "About 3 L/hour",
+      "Exactly 10 mL/day",
+      "About 50 mL/day",
+      "About 600 mL/day"
     ],
-    "answer": "B"
+    "answer": "D"
   },
   {
     "id": 43,
     "type": "mcq",
-    "stem": "Vaginal pelvic assessment is typically performed at approximately 36 weeks specifically on which group of women?",
+    "stem": "Which vitamin-related function is performed by the skin after ultraviolet exposure?",
     "options": [
-      "All multigravidae only",
-      "All primigravidae",
-      "Only women with a prior stillbirth",
-      "Only women scheduled for elective caesarean section"
+      "Participation in vitamin D synthesis",
+      "Conversion of iron to ferritin",
+      "Production of vitamin B12",
+      "Synthesis of vitamin C"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 44,
     "type": "mcq",
-    "stem": "Vaginal pelvic assessment is considered most appropriate at 36 weeks specifically because:",
+    "stem": "Which mechanism contributes to heat loss by transfer of heat to a cooler object through direct contact?",
     "options": [
-      "The cervix is already fully dilated at this stage",
-      "Pregnancy hormones have fully softened and relaxed the pelvic floor, making the procedure less painful",
-      "The fetal head is smallest at this stage",
-      "This is the only time the woman is likely to consent to examination"
+      "Convection",
+      "Conduction",
+      "Evaporation",
+      "Radiation"
     ],
     "answer": "B"
   },
   {
     "id": 45,
     "type": "mcq",
-    "stem": "Vaginal pelvic assessment is fundamentally a doctor's procedure, but an experienced midwife may be expected to perform it under which circumstance(s)?",
+    "stem": "Which mechanism of heat loss involves bulk movement of air adjacent to the skin?",
     "options": [
-      "Whenever she personally prefers to do so, regardless of setting",
-      "In the community where she is in overall charge, or in unbooked cases if the doctor is not available",
-      "Only during a scheduled, non-urgent outpatient visit with a doctor present",
-      "Never, under any circumstance"
+      "Radiation",
+      "Conduction",
+      "Convection",
+      "Keratinization"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 46,
     "type": "mcq",
-    "stem": "During vaginal pelvic assessment, the vulva is swabbed with which antiseptic solution before the examining fingers are introduced?",
+    "stem": "Which heat-loss mechanism depends on emission of heat to a cooler object at a distance without direct contact?",
     "options": [
-      "Povidone-iodine",
-      "Chlorhexidine solution",
-      "Hydrogen peroxide",
-      "Isopropyl alcohol"
+      "Transcription",
+      "Radiation",
+      "Conduction",
+      "Convection"
     ],
     "answer": "B"
   },
   {
     "id": 47,
     "type": "mcq",
-    "stem": "During vaginal pelvic assessment, which pelvic dimension is assessed by the examining finger pressing deeply and diagonally to detect if the sacral promontory can be easily reached?",
+    "stem": "Heat loss from sweat changing from liquid to vapor is called:",
     "options": [
-      "The transverse diameter of the outlet",
-      "The diagonal conjugate",
-      "The inter-spinous diameter",
-      "The external conjugate"
+      "Convection",
+      "Conduction",
+      "Evaporation",
+      "Radiation"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 48,
     "type": "mcq",
-    "stem": "During vaginal pelvic assessment, the width of the greater sciatic notch is assessed by seeing whether it accommodates two examining fingers. A NORMAL finding is that the notch is:",
+    "stem": "Skin temperature depends strongly on which variable under neural control?",
     "options": [
-      "Narrow and deep",
-      "Wide and shallow",
-      "Completely absent",
-      "Sharply angled"
+      "Hair length only",
+      "Cutaneous blood flow",
+      "Nail growth rate",
+      "Melanin synthesis alone"
     ],
     "answer": "B"
   },
   {
     "id": 49,
     "type": "mcq",
-    "stem": "During vaginal pelvic assessment, the ischial spines are palpated. A NORMAL, favorable finding is that they are:",
+    "stem": "Which autonomic response would MOST directly conserve body heat?",
     "options": [
-      "Sharp and excessively prominent",
-      "Rounded and smooth",
-      "Completely absent",
-      "Fused to the sacrum"
+      "Increased sweat evaporation",
+      "Increased convection",
+      "Cutaneous vasodilation",
+      "Cutaneous vasoconstriction"
     ],
-    "answer": "B"
+    "answer": "D"
   },
   {
     "id": 50,
     "type": "mcq",
-    "stem": "After withdrawing the examining hand during vaginal pelvic assessment, the transverse diameter of the outlet is assessed EXTERNALLY by placing which structure between the ischial tuberosities?",
+    "stem": "Which response would MOST directly increase heat loss through skin?",
     "options": [
-      "A pelvimeter caliper only",
-      "The four knuckles of a clenched fist",
-      "A tape measure held taut",
-      "The flat palm of the hand"
+      "Cutaneous vasodilation",
+      "Reduced sweating",
+      "Cutaneous vasoconstriction",
+      "Piloerection"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 51,
     "type": "mcq",
-    "stem": "X-ray pelvimetry is a specialized examination that must be ordered by which professional, and performed by a specialist in which field?",
+    "stem": "During an inflammatory response, histamine can promote which vascular effect?",
     "options": [
-      "A midwife; performed by a nurse",
-      "A doctor; performed by a specialist in radiography",
-      "A pharmacist; performed by a laboratory technician",
-      "The patient herself; performed by any available staff"
+      "Complete suppression of leukocyte movement",
+      "Persistent vasoconstriction without leakage",
+      "Decreased local blood flow in all tissues",
+      "Vasodilation and increased vascular permeability"
     ],
-    "answer": "B"
+    "answer": "D"
   },
   {
     "id": 52,
     "type": "mcq",
-    "stem": "During X-ray pelvimetry, in what position does the woman stand while the x-ray is taken?",
+    "stem": "Which inflammatory mediator pair is associated with vasodilation in the material?",
     "options": [
-      "Supine, with legs elevated",
-      "Standing, with the x-ray taken laterally",
-      "Prone, facing downward",
-      "Sitting with legs crossed"
+      "Melanin and keratin",
+      "Insulin and glucagon",
+      "Aldosterone and cortisol only",
+      "Histamine and prostaglandins"
     ],
-    "answer": "B"
+    "answer": "D"
   },
   {
     "id": 53,
     "type": "mcq",
-    "stem": "External measurement of the pelvis, though rarely used today, is performed using which instrument?",
+    "stem": "Which event is central to acute inflammation after tissue injury?",
     "options": [
-      "A sphygmomanometer",
-      "A pair of callipers",
-      "An otoscope",
-      "A Doppler probe"
+      "Complete inhibition of complement",
+      "Permanent closure of all local capillaries",
+      "Increased vascular permeability allowing plasma proteins and leukocytes into tissues",
+      "Immediate fibrosis before leukocyte recruitment"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 54,
     "type": "mcq",
-    "stem": "The inter-spinous diameter, measured sideways from one anterior superior iliac spine to the posterior superior iliac spine on the other side, averages approximately:",
+    "stem": "Which immune components are described as participating in complement-related inflammatory activity?",
     "options": [
-      "11.4 cm",
-      "19 cm",
-      "25.4 cm",
-      "35 cm"
+      "Only erythropoietin",
+      "Only hemoglobin",
+      "C3 and C5-derived products",
+      "Only albumin"
     ],
     "answer": "C"
   },
   {
     "id": 55,
     "type": "mcq",
-    "stem": "The raw external conjugate measurement, taken from the tip of the symphysis pubis to a point 2.5cm above the fifth lumbar vertebra, measures approximately how much before correction for soft tissue thickness?",
+    "stem": "Bradykinin contributes to inflammation mainly by producing which effect?",
     "options": [
-      "11 cm",
-      "15 cm",
-      "19 cm",
-      "25 cm"
+      "Pain and increased vascular permeability",
+      "Keratin hardening",
+      "Sebum suppression",
+      "Immediate melanin synthesis"
     ],
-    "answer": "C"
+    "answer": "A"
   },
   {
     "id": 56,
     "type": "mcq",
-    "stem": "To obtain the true (corrected) external conjugate measurement from the raw measurement, approximately how much is subtracted to account for tissue thickness?",
+    "stem": "Which patient is MOST likely experiencing photoallergic dermatitis rather than phototoxic dermatitis?",
     "options": [
-      "2 cm",
-      "5 cm",
-      "8 cm",
-      "12 cm"
+      "A patient develops psoriasis after beta-blocker use",
+      "A patient develops impetigo after scratching",
+      "A previously sensitized person develops an eczematous delayed reaction after a chemical plus sunlight exposure",
+      "A patient develops a sunburn-like reaction on first exposure to a photosensitizing chemical"
     ],
     "answer": "C"
   },
   {
     "id": 57,
     "type": "mcq",
-    "stem": "The transverse diameter of the pelvic outlet, measured between the ischial tuberosities using callipers or the four knuckles of a clenched fist, measures approximately:",
+    "stem": "Which description BEST fits phototoxic dermatitis?",
     "options": [
-      "9 cm",
-      "11.4 cm",
-      "19 cm",
-      "25.4 cm"
+      "A contagious bacterial eruption",
+      "A nonimmune reaction resembling an exaggerated sunburn after a photosensitizing chemical and light exposure",
+      "A delayed T-cell reaction requiring prior sensitization",
+      "A chronic plaque disorder with silvery scale"
     ],
     "answer": "B"
   },
   {
     "id": 58,
     "type": "mcq",
-    "stem": "During X-ray pelvimetry, information obtained includes the shape and size of the maternal pelvis, the relationship of the fetus to the maternal pelvis, and:",
+    "stem": "A patient with contact dermatitis is advised to wear cotton clothing and avoid harsh detergents. What is the PRIMARY goal?",
     "options": [
-      "The anterior-posterior diameter of the brim, cavity, and outlet",
-      "The maternal serum electrolyte panel",
-      "The fetal blood type",
-      "The maternal EEG pattern"
+      "Promote bacterial growth",
+      "Increase occlusion and sweating",
+      "Reduce irritation, heat retention, and pruritus",
+      "Increase skin friction"
     ],
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 59,
     "type": "mcq",
-    "stem": "Which blood test performed during pregnancy screens specifically for German measles?",
+    "stem": "Why is a cool, humid environment sometimes recommended for severe dermatitis?",
     "options": [
-      "VDRL",
-      "Rubella titre",
-      "Alpha-fetoprotein",
-      "Complete blood count"
+      "It guarantees eradication of allergens",
+      "It accelerates epidermal turnover",
+      "It can reduce itching and excessive drying of inflamed skin",
+      "It increases transepidermal water loss"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 60,
     "type": "mcq",
-    "stem": "The VDRL test performed during pregnancy screens for which group of treatable conditions, according to the source material?",
+    "stem": "Which sign is more strongly associated with psoriasis than contact dermatitis?",
     "options": [
-      "Only viral hepatitis",
-      "Syphilis, gonorrhoea, and candidiasis",
-      "Only HIV/AIDS",
-      "Only tuberculosis"
+      "Linear rash exactly matching an irritant contact area",
+      "Auspitz sign",
+      "Immediate burning on first chemical exposure",
+      "Vesicular oozing after a new detergent exposure"
     ],
     "answer": "B"
   },
   {
     "id": 61,
     "type": "mcq",
-    "stem": "CASE SCENARIO: At a routine antenatal visit, a midwife measures a client's fundal height at 28 weeks gestation by dates and finds it measures 33cm. Based on the expected 1cm-per-week growth rate at this gestational range, this finding represents a discrepancy of approximately how much above expected?",
+    "stem": "Which statement is MOST accurate regarding biopsy in psoriasis?",
     "options": [
-      "1 cm, within normal variation",
-      "5 cm, warranting further investigation",
-      "10 cm, which is of no clinical significance",
-      "There is no discrepancy since fundal height does not correlate with weeks after 20 weeks"
+      "Biopsy is never permitted",
+      "Diagnosis is usually clinical; biopsy is rarely needed",
+      "Biopsy is mandatory in every patient",
+      "Biopsy is used only to diagnose impetigo"
     ],
     "answer": "B"
   },
   {
     "id": 62,
     "type": "mcq",
-    "stem": "CASE SCENARIO (continued): Given this discrepancy exceeds 2cm, the midwife should investigate for which of the following possible explanations?",
+    "stem": "Which of the following is a major long-term nursing concern in extensive psoriasis?",
     "options": [
-      "Wrong dates, twins, polyhydramnios, or a large baby (with diabetes screening)",
-      "The client's marital status only",
-      "The client's blood type only",
-      "The client's shoe size only"
-    ],
-    "answer": "A"
-  },
-  {
-    "id": 63,
-    "type": "mcq",
-    "stem": "CASE SCENARIO: A primigravida at 36 weeks gestation is scheduled for both a Head Fitting Test and a vaginal pelvic assessment on the same visit. The midwife explains that vaginal pelvic assessment is being done specifically because she is a primigravida, whereas the Head Fitting Test would be offered to:",
-    "options": [
-      "Only multigravidae, never primigravidae",
-      "Both primigravidae and multigravidae",
-      "Only women with a prior caesarean section",
-      "No one, as it is an obsolete procedure"
+      "Eliminating every sweat gland",
+      "Monitoring for fluid, electrolyte, and temperature regulation problems",
+      "Preventing all hair growth",
+      "Maintaining constant occlusive dressings"
     ],
     "answer": "B"
   },
   {
+    "id": 63,
+    "type": "mcq",
+    "stem": "A patient with psoriasis taking acitretin drinks alcohol regularly. Which concern is MOST important?",
+    "options": [
+      "Alcohol converts acitretin into a topical agent",
+      "Alcohol eliminates retinoid toxicity",
+      "Alcohol prevents pregnancy-related risk",
+      "Alcohol use can worsen safety concerns and should be discussed because retinoids have important hepatic and teratogenic risks"
+    ],
+    "answer": "D"
+  },
+  {
     "id": 64,
     "type": "mcq",
-    "stem": "CASE SCENARIO (continued): During the Head Fitting Test, the midwife asks the woman to breathe in and gradually sit up while leaning forward, after grasping the fetal head using the:",
+    "stem": "A patient with dermatitis has signs of secondary bacterial infection. Which principle is MOST appropriate?",
     "options": [
-      "Leopold manoeuvre",
-      "Pawlik grip",
-      "McRoberts position",
-      "Sims position"
+      "Use only emollients regardless of infection severity",
+      "Treat the infection while continuing to address the underlying dermatitis and trigger avoidance",
+      "Increase exposure to the offending agent to desensitize the skin",
+      "Ignore infection because dermatitis is noninfectious"
     ],
     "answer": "B"
   },
   {
     "id": 65,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A midwife working in a remote community with no doctor available performs a vaginal pelvic assessment on an unbooked primigravida presenting in early labour. This action is:",
+    "stem": "A patient with plaque psoriasis has severe psychosocial distress related to visible lesions. Which nursing intervention BEST addresses the whole-person approach?",
     "options": [
-      "Outside the midwife's scope under any circumstance",
-      "Acceptable, since experienced midwives may perform this in the community when in overall charge or in unbooked cases without a doctor available",
-      "Only acceptable if the woman is over 40 years old",
-      "Only acceptable during X-ray pelvimetry"
+      "Provide psychological support alongside skin care and education",
+      "Avoid discussing body image",
+      "Discourage family involvement",
+      "Focus only on scale removal"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 66,
     "type": "mcq",
-    "stem": "CASE SCENARIO (continued): During the assessment, the midwife notes the ischial spines feel sharp and unusually prominent. This finding is significant because it may:",
+    "stem": "Which statement BEST explains why thickened skin can develop in chronic dermatitis?",
     "options": [
-      "Indicate an excellent, roomy pelvis with no concerns",
-      "Reduce the pelvic canal diameter and predispose to obstructed labour",
-      "Have no bearing whatsoever on the mode of delivery",
-      "Confirm a normal gynaecoid pelvis definitively"
+      "Sweat glands become sebaceous glands",
+      "Melanocytes multiply uncontrollably",
+      "Persistent scratching and rubbing lead to lichenification",
+      "Dermal vessels disappear"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 67,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A woman lying flat on her back for abdominal examination at 34 weeks suddenly reports dizziness and nausea. The midwife's BEST understanding of this finding is that it results from:",
+    "stem": "A patient develops lesions on the palms and soles that are pustular and recurrent. Which psoriasis variant is MOST consistent?",
     "options": [
-      "An unrelated cardiac arrhythmia requiring no positional change",
-      "Compression of the inferior vena cava by the gravid uterus, compromising venous return",
-      "Normal fetal movement with no maternal significance",
-      "A reaction to the stethoscope used during auscultation"
+      "Irritant dermatitis only",
+      "Erythrodermic psoriasis",
+      "Guttate impetigo",
+      "Palmoplantar pustular psoriasis"
     ],
-    "answer": "B"
+    "answer": "D"
   },
   {
     "id": 68,
     "type": "mcq",
-    "stem": "CASE SCENARIO (continued): The MOST appropriate immediate nursing action is to:",
+    "stem": "Which feature MOST strongly favors psoriasis over impetigo in a school-aged child?",
     "options": [
-      "Continue the examination in the same position without changes",
-      "Reposition the woman onto her side",
-      "Immediately administer oxygen without repositioning",
-      "Elevate her legs while keeping her flat on her back"
+      "Primary bacterial etiology",
+      "Rapid spread among close contacts",
+      "Chronic recurrent well-demarcated plaques with silvery scale",
+      "Honey-colored crusting around the nose"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 69,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A 43-year-old pregnant client is undergoing a comprehensive physical examination during her ANC visit. Given her age, the midwife includes which additional specific examination not routinely required in younger clients?",
+    "stem": "A nurse is evaluating whether a prescribed dermatitis regimen is working. Which outcome is MOST appropriate?",
     "options": [
-      "Otoscopic examination of the ears",
-      "A digital rectal examination to rule out a mass",
-      "Auscultation of breath sounds",
-      "Palpation of the thyroid gland"
+      "More vesiculation after exposure",
+      "Progressive spread despite treatment",
+      "Reduced pruritus, inflammation, and new lesion formation with avoidance of triggers",
+      "Increased scratching and lichenification"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 70,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A midwife measures a client's height at booking as 148cm and notes she wears a size 2 shoe. Based on physical pelvic assessment criteria, the midwife should be MOST concerned about which possibility?",
+    "stem": "A patient with extensive psoriasis reports chills, malaise, and worsening generalized erythema after abrupt withdrawal of systemic corticosteroids. Which interpretation is MOST appropriate?",
     "options": [
-      "An unusually large, roomy pelvis",
-      "A small or contracted pelvis, given both findings are below the thresholds associated with adequate pelvic size",
-      "No concern at all, as height and shoe size are irrelevant to pelvic capacity",
-      "Definite need for immediate induction of labour regardless of other findings"
+      "The findings indicate normal resolution of psoriasis",
+      "The symptoms are best explained by allergic contact dermatitis alone",
+      "A severe rebound flare such as erythrodermic psoriasis should be considered",
+      "This pattern is typical of uncomplicated impetigo"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 71,
     "type": "fitb",
-    "stem": "The ARA form is used to monitor fetal growth and identify ___________ and ___________.",
-    "answer": "pregnancy-induced hypertension; anaemia",
+    "stem": "The outermost epidermal barrier that limits excessive water loss is the ___ ___.",
+    "answer": "stratum corneum",
     "acceptableAnswers": [
-      "pregnancy-induced hypertension; anaemia"
+      "stratum corneum"
     ]
   },
   {
     "id": 72,
     "type": "fitb",
-    "stem": "The four-part approach used with the ARA form is: Ask and ___________, Look and ___________, Identify problems/needs, and Take appropriate action.",
-    "answer": "Listen; Feel",
+    "stem": "The epidermal cells chiefly responsible for keratin production are ___.",
+    "answer": "keratinocytes",
     "acceptableAnswers": [
-      "Listen; Feel"
+      "keratinocytes",
+      "keratinocyte"
     ]
   },
   {
     "id": 73,
     "type": "fitb",
-    "stem": "Below 20 weeks gestation, fundal height grows at about ___________ cm per week; between 20 and 36 weeks, it grows at about ___________ cm per week.",
-    "answer": "2; 1",
+    "stem": "The pigment-producing cells of the epidermis are ___.",
+    "answer": "melanocytes",
     "acceptableAnswers": [
-      "2; 1"
+      "melanocytes",
+      "melanocyte"
     ]
   },
   {
     "id": 74,
     "type": "fitb",
-    "stem": "At 12 weeks, the fundus is felt at the level of the ___________; at 22-24 weeks, it is felt at the level of the ___________.",
-    "answer": "symphysis pubis; umbilicus",
+    "stem": "Skin color differences are influenced more by melanosome ___ and distribution than by large differences in melanocyte number.",
+    "answer": "size",
     "acceptableAnswers": [
-      "symphysis pubis; umbilicus"
+      "size",
+      "size and distribution"
     ]
   },
   {
     "id": 75,
     "type": "fitb",
-    "stem": "The fundus reaches its highest level at ___________ weeks, in contact with the ___________, measuring about ___________ cm above the symphysis pubis.",
-    "answer": "36; xiphisternum; 30",
+    "stem": "Sebaceous glands secrete ___ into hair follicles.",
+    "answer": "sebum",
     "acceptableAnswers": [
-      "36; xiphisternum; 30"
+      "sebum"
     ]
   },
   {
     "id": 76,
     "type": "fitb",
-    "stem": "After 36 weeks, fundal height drops due to a process called ___________, caused by sinking of the uterus and sagging of the relaxed ___________ ___________ muscles.",
-    "answer": "lightening; pelvic floor",
+    "stem": "Sebum production is stimulated strongly by ___.",
+    "answer": "androgens",
     "acceptableAnswers": [
-      "lightening; pelvic floor"
+      "androgens",
+      "androgen hormones"
     ]
   },
   {
     "id": 77,
     "type": "fitb",
-    "stem": "If fundal height is unusually large, the mother should be checked for ___________, given the associated risk of ___________ labour.",
-    "answer": "diabetes; obstructed",
+    "stem": "Apocrine glands are concentrated in the axillae, areolae, groin, and ___ regions.",
+    "answer": "perineal",
     "acceptableAnswers": [
-      "diabetes; obstructed"
+      "perineal",
+      "perineum"
     ]
   },
   {
     "id": 78,
     "type": "fitb",
-    "stem": "During abdominal examination lying flat, a pregnant woman should be advised to report dizziness or nausea, which may result from the uterus compressing the ___________ ___________.",
-    "answer": "inferior vena cava",
+    "stem": "Insensible perspiration in a normal adult is approximately ___ mL per day according to the text.",
+    "answer": "600",
     "acceptableAnswers": [
-      "inferior vena cava"
+      "600",
+      "about 600",
+      "approximately 600"
     ]
   },
   {
     "id": 79,
     "type": "fitb",
-    "stem": "A digital rectal examination to rule out a mass is recommended if the antenatal patient is over ___________ years of age.",
-    "answer": "40",
+    "stem": "Heat transfer by direct contact with a cooler object is called ___.",
+    "answer": "conduction",
     "acceptableAnswers": [
-      "40"
+      "conduction"
     ]
   },
   {
     "id": 80,
     "type": "fitb",
-    "stem": "Pelvic assessment is performed ___________ times during pregnancy, both during the ___________ trimester, to rule out cephalo-pelvic disproportion.",
-    "answer": "twice; last",
+    "stem": "Heat loss through bulk movement of air is called ___.",
+    "answer": "convection",
     "acceptableAnswers": [
-      "twice; last"
+      "convection"
     ]
   },
   {
     "id": 81,
     "type": "fitb",
-    "stem": "A maternal height below ___________ cm and a shoe size of ___________ or less are both associated with an increased likelihood of a contracted pelvis.",
-    "answer": "150; 3",
+    "stem": "Heat transfer to a cooler object at a distance is called ___.",
+    "answer": "radiation",
     "acceptableAnswers": [
-      "150; 3"
+      "radiation"
     ]
   },
   {
     "id": 82,
     "type": "fitb",
-    "stem": "The Head Fitting Test is performed at ___________ weeks of gestation using the ___________ grip to assess the fetal head.",
-    "answer": "36; Pawlik",
+    "stem": "Conversion of sweat from liquid to vapor produces heat loss by ___.",
+    "answer": "evaporation",
     "acceptableAnswers": [
-      "36; Pawlik"
+      "evaporation"
     ]
   },
   {
     "id": 83,
     "type": "fitb",
-    "stem": "The fetal heart should be auscultated ___________ and ___________ the Head Fitting Test procedure.",
-    "answer": "before; after",
+    "stem": "The skin participates in synthesis of vitamin ___ after ultraviolet exposure.",
+    "answer": "D",
     "acceptableAnswers": [
-      "before; after"
+      "D",
+      "vitamin D"
     ]
   },
   {
     "id": 84,
     "type": "fitb",
-    "stem": "Vaginal pelvic assessment is performed at 36 weeks on all ___________, and the vulva is swabbed with ___________ solution before examination.",
-    "answer": "primigravidae; chlorhexidine",
+    "stem": "In acute inflammation, histamine promotes vasodilation and increased vascular ___.",
+    "answer": "permeability",
     "acceptableAnswers": [
-      "primigravidae; chlorhexidine"
+      "permeability",
+      "vascular permeability"
     ]
   },
   {
     "id": 85,
     "type": "fitb",
-    "stem": "During vaginal pelvic assessment, the examining finger presses deeply and diagonally to assess the ___________ ___________, checking whether the sacral promontory can be reached.",
-    "answer": "diagonal conjugate",
+    "stem": "The inflammatory mediator strongly associated with pain is ___.",
+    "answer": "bradykinin",
     "acceptableAnswers": [
-      "diagonal conjugate"
+      "bradykinin"
     ]
   },
   {
     "id": 86,
     "type": "fitb",
-    "stem": "A normal greater sciatic notch should be ___________ and ___________, accommodating two examining fingers.",
-    "answer": "wide; shallow",
+    "stem": "Allergic contact dermatitis is typically a delayed, cell-mediated hypersensitivity reaction that requires prior ___.",
+    "answer": "sensitization",
     "acceptableAnswers": [
-      "wide; shallow"
+      "sensitization",
+      "prior sensitization"
     ]
   },
   {
     "id": 87,
     "type": "fitb",
-    "stem": "The transverse diameter of the pelvic outlet is assessed externally using the ___________ knuckles of a clenched fist, placed between the ___________.",
-    "answer": "four; ischial tuberosities",
+    "stem": "Direct epidermal injury without prior sensitization is more typical of ___ contact dermatitis.",
+    "answer": "irritant",
     "acceptableAnswers": [
-      "four; ischial tuberosities"
+      "irritant",
+      "irritant contact dermatitis"
     ]
   },
   {
     "id": 88,
     "type": "fitb",
-    "stem": "The inter-spinous diameter averages approximately ___________ cm, while the transverse diameter of the pelvic outlet averages approximately ___________ cm.",
-    "answer": "25.4; 11.4",
+    "stem": "Diagnostic testing for allergic contact dermatitis commonly uses a ___ test.",
+    "answer": "patch",
     "acceptableAnswers": [
-      "25.4; 11.4"
+      "patch",
+      "patch test"
     ]
   },
   {
     "id": 89,
     "type": "fitb",
-    "stem": "The raw external conjugate measures about ___________ cm, from which about ___________ cm is subtracted for tissue thickness to give a true value of about 11cm.",
-    "answer": "19; 8",
+    "stem": "When light exposure is incorporated to investigate photosensitivity, the test is called a ___ test.",
+    "answer": "photopatch",
     "acceptableAnswers": [
-      "19; 8"
+      "photopatch",
+      "photopatch test"
     ]
   },
   {
     "id": 90,
     "type": "fitb",
-    "stem": "X-ray pelvimetry must be ordered by a ___________ and performed by a specialist in ___________.",
-    "answer": "doctor; radiography",
+    "stem": "Chronic rubbing and scratching can produce skin thickening called ___.",
+    "answer": "lichenification",
     "acceptableAnswers": [
-      "doctor; radiography"
+      "lichenification"
     ]
   },
   {
     "id": 91,
     "type": "fitb",
-    "stem": "The VDRL blood test screens for treatable STIs including syphilis, gonorrhoea, and ___________.",
-    "answer": "candidiasis",
+    "stem": "Psoriasis is a chronic, noninfectious, ___ skin disorder.",
+    "answer": "inflammatory",
     "acceptableAnswers": [
-      "candidiasis"
+      "inflammatory",
+      "inflammatory disease"
     ]
   },
   {
     "id": 92,
     "type": "fitb",
-    "stem": "A skin test performed during pregnancy investigations screens for ___________ infection.",
-    "answer": "tuberculosis",
+    "stem": "In psoriasis, epidermal cell turnover may occur approximately ___ to ___ times faster than normal.",
+    "answer": "6; 9",
     "acceptableAnswers": [
-      "tuberculosis",
-      "TB"
+      "6; 9",
+      "6-9",
+      "6 to 9",
+      "six to nine"
     ]
   },
   {
     "id": 93,
     "type": "fitb",
-    "stem": "In later pregnancy, a high alpha-fetoprotein level may indicate ___________, while a low level may indicate ___________.",
-    "answer": "a congenital abnormality; Down's syndrome",
+    "stem": "Pinpoint bleeding after removal of psoriatic scale is called the ___ sign.",
+    "answer": "Auspitz",
     "acceptableAnswers": [
-      "a congenital abnormality; Down's syndrome"
+      "Auspitz",
+      "Auspitz sign"
     ]
   },
   {
     "id": 94,
     "type": "fitb",
-    "stem": "In later pregnancy, ___________ and ___________ blood glucose tests are repeated to rule out diabetes mellitus.",
-    "answer": "fasting; random",
+    "stem": "A potentially life-threatening generalized psoriatic flare involving most of the body surface is called ___ psoriasis.",
+    "answer": "erythrodermic",
     "acceptableAnswers": [
-      "fasting; random"
+      "erythrodermic",
+      "erythrodermic psoriasis"
     ]
   },
   {
+    "id": 95,
     "type": "fitb",
-    "stem": "Required equipment for antepartum risk assessment includes a fetal stethoscope, adult weighing scales, and a ___________ tape to measure fundal height.",
-    "answer": "centimetre",
+    "stem": "Joint involvement associated with psoriasis is called ___ arthritis.",
+    "answer": "psoriatic",
     "acceptableAnswers": [
-      "centimetre",
-      "centimeter"
-    ],
-    "id": 95
+      "psoriatic",
+      "psoriatic arthritis"
+    ]
   },
   {
+    "id": 96,
     "type": "fitb",
-    "stem": "During the sitting physical examination, the ears are inspected externally, with internal structures viewed using an ___________.",
-    "answer": "otoscope",
+    "stem": "Coal tar and anthralin are used in psoriasis to reduce excessive epidermal cell ___.",
+    "answer": "turnover",
     "acceptableAnswers": [
-      "otoscope"
-    ],
-    "id": 96
+      "turnover",
+      "proliferation",
+      "epidermal turnover"
+    ]
   },
   {
+    "id": 97,
     "type": "fitb",
-    "stem": "A woman with broad shoulders and small hips is described as having a(n) ___________ type pelvis.",
-    "answer": "android",
+    "stem": "A systemic retinoid used in psoriasis is ___.",
+    "answer": "acitretin",
     "acceptableAnswers": [
-      "android"
-    ],
-    "id": 97
+      "acitretin"
+    ]
   },
   {
+    "id": 98,
     "type": "fitb",
-    "stem": "A history of repeated stillbirth or instrumental delivery suggests an ___________ pelvis, while a history of previous normal delivery suggests an ___________ pelvis.",
-    "answer": "inadequate; adequate",
+    "stem": "A major reproductive safety concern with systemic retinoids is ___.",
+    "answer": "teratogenicity",
     "acceptableAnswers": [
-      "inadequate; adequate"
-    ],
-    "id": 98
+      "teratogenicity",
+      "birth defects",
+      "fetal malformations"
+    ]
   },
   {
+    "id": 99,
     "type": "fitb",
-    "stem": "During vaginal pelvic assessment, the ischial spines should feel ___________ and ___________, rather than sharp and prominent.",
-    "answer": "rounded; smooth",
+    "stem": "Impetigo lesions commonly rupture and form ___-colored crusts.",
+    "answer": "honey",
     "acceptableAnswers": [
-      "rounded; smooth"
-    ],
-    "id": 99
+      "honey",
+      "honey-colored",
+      "honey coloured"
+    ]
   },
   {
+    "id": 100,
     "type": "fitb",
-    "stem": "During abdominal palpation, if fundal height differs by more than ___________ cm from the expected measurement, further investigation is warranted.",
-    "answer": "2",
+    "stem": "Impetigo is a highly ___ bacterial skin infection, especially common in children.",
+    "answer": "contagious",
     "acceptableAnswers": [
-      "2",
-      "two"
-    ],
-    "id": 100
+      "contagious",
+      "communicable"
+    ]
   }
 ]
