@@ -2,1138 +2,1155 @@
   {
     "id": 1,
     "type": "mcq",
-    "stem": "A patient develops an erythematous, pruritic rash confined to areas exposed to a detergent. Which mechanism BEST distinguishes irritant contact dermatitis from allergic contact dermatitis?",
+    "stem": "At 8 weeks, a woman has mild nausea, occasional vomiting, normal hydration, and preserved activity. Which plan BEST follows the source?",
     "options": [
-      "Type I IgE-mediated mast-cell degranulation",
-      "Immune-complex deposition in dermal vessels",
-      "Delayed T-cell hypersensitivity requiring prior sensitization",
-      "Direct epidermal injury without prior sensitization"
+      "Small frequent non-fatty, high-calorie meals; adequate fluid not taken with food",
+      "Complete fasting until symptoms cease",
+      "Three large fatty meals with fluid during meals",
+      "Immediate admission for IV fluids and antiemetics"
     ],
-    "answer": "D"
+    "answer": "A"
   },
   {
     "id": 2,
     "type": "mcq",
-    "stem": "A nurse suspects allergic contact dermatitis rather than irritant dermatitis. Which historical feature is MOST supportive?",
+    "stem": "Which feature MOST strongly indicates hyperemesis gravidarum rather than ordinary morning sickness?",
     "options": [
-      "Immediate burning after first exposure to a strong acid",
-      "A rash limited only to pressure points",
-      "A previous sensitizing exposure followed by a delayed eczematous reaction",
-      "Absence of pruritus with chemical exposure"
+      "Frequent persistent vomiting with dehydration and ketosis",
+      "Nausea beginning at 6 weeks",
+      "Morning-predominant nausea with preserved intake",
+      "Vomiting relieved by a dry biscuit"
     ],
-    "answer": "C"
+    "answer": "A"
   },
   {
     "id": 3,
     "type": "mcq",
-    "stem": "Which exposure listed in the material is a COMMON trigger of contact dermatitis?",
+    "stem": "A twin pregnancy is associated with unusually severe nausea. Which proposed cause in the source BEST fits?",
     "options": [
-      "Vitamin D",
-      "Oral glucose",
-      "Normal saline",
-      "Detergents"
+      "Calcium deficiency",
+      "Higher HCG levels",
+      "Reduced progesterone",
+      "Inferior vena cava compression"
     ],
-    "answer": "D"
+    "answer": "B"
   },
   {
     "id": 4,
     "type": "mcq",
-    "stem": "A patient with suspected allergic contact dermatitis undergoes diagnostic testing. Which test is MOST appropriate?",
+    "stem": "When vomiting is precipitated by reflux, which source-based measure is MOST targeted?",
     "options": [
-      "Photopatch testing",
-      "Patch testing",
-      "Serum sodium level",
-      "Skin biopsy as first-line for every case"
+      "Salt restriction",
+      "Calamine lotion",
+      "Antacid use",
+      "Support tights"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 5,
     "type": "mcq",
-    "stem": "A patient develops dermatitis only after exposure to a topical substance followed by sunlight. Which test best evaluates this pattern?",
+    "stem": "Which statement about recurrence of morning sickness is specifically supported?",
     "options": [
-      "Photopatch testing",
-      "Bone scan",
-      "Patch testing without light exposure",
-      "Tzanck smear"
+      "It recurs in every subsequent pregnancy",
+      "It tends to recur in about one quarter of women in a subsequent pregnancy",
+      "It recurs only in molar pregnancy",
+      "It never recurs"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 6,
     "type": "mcq",
-    "stem": "Which finding is MOST characteristic of acute contact dermatitis?",
+    "stem": "Which mechanism BEST explains pregnancy heartburn?",
     "options": [
-      "Erythema with vesicles or oozing and intense pruritus",
-      "Well-demarcated silvery plaques on extensor surfaces",
-      "Deep painless nodules with central necrosis",
-      "Honey-colored crusts around the mouth"
+      "HCG contracts the lower oesophageal sphincter",
+      "Estrogen prevents gastric emptying by pyloric closure",
+      "Progesterone-mediated relaxation of gastric physiological sphincters permits acid reflux",
+      "Relaxin neutralizes gastric acid"
     ],
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 7,
     "type": "mcq",
-    "stem": "A patient with chronic contact dermatitis has lichenification. Which pathophysiologic process BEST explains this finding?",
+    "stem": "Which behavior is specifically described as aggravating heartburn?",
     "options": [
-      "Repeated rubbing and scratching causing epidermal thickening",
-      "Rapid destruction of melanocytes",
-      "Loss of all sebaceous activity",
-      "Bacterial invasion of the dermis"
+      "Avoiding greasy foods",
+      "Sleeping propped up",
+      "Smoking",
+      "Eating small frequent meals"
     ],
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 8,
     "type": "mcq",
-    "stem": "Which nursing intervention is MOST appropriate for acute weeping contact dermatitis?",
+    "stem": "Which advice is MOST appropriate immediately after meals for a woman with heartburn?",
     "options": [
-      "Encourage vigorous scratching to remove scales",
-      "Use soothing wet compresses as prescribed and avoid the offending agent",
-      "Apply potent irritant cleansers to dry the lesion",
-      "Use occlusive dressings without assessment"
+      "Lie flat",
+      "Take a large greasy snack",
+      "Avoid bending soon after eating",
+      "Wear tight clothing"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 9,
     "type": "mcq",
-    "stem": "Which statement about topical corticosteroids for dermatitis is MOST accurate based on the text?",
+    "stem": "Which bedtime change is recommended for pregnancy heartburn?",
     "options": [
-      "Apply thickly over normal surrounding skin to prevent spread",
-      "Apply a thin layer to affected areas and avoid excessive prolonged use because of adverse effects",
-      "Use without regard to skin integrity or infection",
-      "Discontinue after one dose if itching persists"
+      "Sleep propped up with an extra pillow",
+      "Elevate only the foot end of the bed",
+      "Sleep completely flat",
+      "Sleep prone after meals"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 10,
     "type": "mcq",
-    "stem": "A patient with dermatitis asks why avoiding the offending substance is emphasized even when topical therapy is effective. Which response is BEST?",
+    "stem": "In intractable pregnancy heartburn, which drug class is mentioned as an option?",
     "options": [
-      "Topical therapy permanently prevents future reactions",
-      "Ongoing exposure can perpetuate inflammation despite symptomatic treatment",
-      "Exposure has no influence once medication is started",
-      "Avoidance is useful only in fungal disease"
+      "Anticoagulant",
+      "Beta-blocker",
+      "Loop diuretic",
+      "H2 antagonist such as ranitidine"
     ],
-    "answer": "B"
+    "answer": "D"
   },
   {
     "id": 11,
     "type": "mcq",
-    "stem": "Which statement BEST characterizes psoriasis?",
+    "stem": "What is the PRIMARY biomechanical explanation for pregnancy-related backache in the source?",
     "options": [
-      "A chronic noninfectious inflammatory skin disorder with markedly accelerated epidermal cell turnover",
-      "A fungal infection limited to intertriginous regions",
-      "An acute contagious bacterial disorder",
-      "A purely allergic disease caused by histamine alone"
+      "Forward shift of the center of gravity with compensatory postural change",
+      "Inferior vena cava obstruction",
+      "Increased salivary production",
+      "Bladder compression by the fetal head"
     ],
     "answer": "A"
   },
   {
     "id": 12,
     "type": "mcq",
-    "stem": "The epidermal turnover rate in psoriasis is described as being approximately how much faster than normal?",
+    "stem": "Which postural adaptation is emphasized in pregnancy-related backache?",
     "options": [
-      "Six to nine times faster",
-      "Exactly equal to normal",
-      "Two times slower",
-      "Twenty to thirty times slower"
+      "Increased lumbar lordosis",
+      "Fixed thoracic flexion only",
+      "Loss of lumbar lordosis",
+      "Cervical kyphosis"
     ],
     "answer": "A"
   },
   {
     "id": 13,
     "type": "mcq",
-    "stem": "Which lesion pattern is MOST typical of psoriasis?",
+    "stem": "Which hormonal effect compounds the mechanical cause of backache?",
     "options": [
-      "Thin vesicles with honey-colored crusts",
-      "Diffuse urticaria with transient wheals only",
-      "Well-demarcated erythematous plaques with silvery scales",
-      "Single black eschar with surrounding edema"
+      "Estrogen causes median nerve oedema",
+      "Calcium causes nerve-root compression",
+      "HCG stiffens pelvic joints",
+      "Progesterone and relaxin relax ligaments and joints"
     ],
-    "answer": "C"
+    "answer": "D"
   },
   {
     "id": 14,
     "type": "mcq",
-    "stem": "Which body sites are classically associated with psoriasis in the material?",
+    "stem": "Which advice is LEAST consistent with the source for uncomplicated backache?",
     "options": [
-      "Only mucous membranes",
-      "Extensor surfaces, scalp, and lumbosacral region",
-      "Only palms and soles",
-      "Only axillae and groin"
+      "Use a mild analgesic as advised",
+      "Wear high heels to restore balance",
+      "Avoid high heels",
+      "Rest on a firm mattress"
     ],
     "answer": "B"
   },
   {
     "id": 15,
     "type": "mcq",
-    "stem": "A patient with psoriasis develops pinpoint bleeding when scales are removed. Which sign is being described?",
+    "stem": "The combination of exaggerated lumbar lordosis and relaxed ligaments produces pain primarily by:",
     "options": [
-      "Auspitz sign",
-      "Trousseau sign",
-      "Nikolsky sign",
-      "Kernig sign"
-    ],
-    "answer": "A"
-  },
-  {
-    "id": 16,
-    "type": "mcq",
-    "stem": "Which factor is listed as a possible precipitant of psoriasis exacerbation?",
-    "options": [
-      "Routine emollient use",
-      "Low environmental temperature as the sole cause",
-      "Excess hydration only",
-      "Psychological stress"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": 17,
-    "type": "mcq",
-    "stem": "Which medication class may trigger or worsen psoriasis according to the text?",
-    "options": [
-      "Beta-blockers",
-      "Simple saline drops",
-      "Antacids",
-      "Oral rehydration salts"
-    ],
-    "answer": "A"
-  },
-  {
-    "id": 18,
-    "type": "mcq",
-    "stem": "A patient with chronic psoriasis suddenly develops diffuse erythema involving most of the body surface with fever and fluid imbalance. Which complication is MOST likely?",
-    "options": [
-      "Erythrodermic psoriasis",
-      "Localized irritant dermatitis",
-      "Simple impetigo",
-      "Isolated urticaria"
-    ],
-    "answer": "A"
-  },
-  {
-    "id": 19,
-    "type": "mcq",
-    "stem": "Why is erythrodermic psoriasis clinically dangerous?",
-    "options": [
-      "Extensive skin involvement can impair thermoregulation and fluid-electrolyte balance",
-      "It affects only cosmetic appearance",
-      "It permanently suppresses all sweat glands",
-      "It is always asymptomatic"
-    ],
-    "answer": "A"
-  },
-  {
-    "id": 20,
-    "type": "mcq",
-    "stem": "Which complication is associated with psoriasis and involves the joints?",
-    "options": [
-      "Psoriatic arthritis",
-      "Septic bursitis in every case",
-      "Rheumatic fever",
-      "Osteomyelitis as the defining feature"
-    ],
-    "answer": "A"
-  },
-  {
-    "id": 21,
-    "type": "mcq",
-    "stem": "Which treatment in the text is used to slow excessive epidermal turnover in psoriasis?",
-    "options": [
-      "Pure alcohol rubs",
-      "Coal tar or anthralin",
-      "Topical anesthetic only",
-      "Systemic antibiotics for all patients"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 22,
-    "type": "mcq",
-    "stem": "Why should systemic corticosteroids be used cautiously in psoriasis?",
-    "options": [
-      "Withdrawal may precipitate severe flare or erythrodermic disease",
-      "They are the only safe first-line treatment",
-      "They prevent all rebound disease",
-      "They always cure psoriasis permanently"
-    ],
-    "answer": "A"
-  },
-  {
-    "id": 23,
-    "type": "mcq",
-    "stem": "Which phototherapy modality is described for psoriasis management?",
-    "options": [
-      "No light-based therapy is ever used",
-      "Narrow-band UVB or PUVA depending on regimen",
-      "Gamma irradiation",
-      "Infrared radiation only"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 24,
-    "type": "mcq",
-    "stem": "A patient receiving systemic retinoid therapy for psoriasis should receive which critical counseling?",
-    "options": [
-      "Expect no hepatic adverse effects",
-      "Increase alcohol intake to improve absorption",
-      "Strict pregnancy avoidance because of teratogenicity",
-      "No laboratory monitoring is needed"
+      "Reducing venous valve competence",
+      "Compressing the urinary bladder",
+      "Putting pressure on nerve roots",
+      "Increasing salivary flow"
     ],
     "answer": "C"
   },
   {
-    "id": 25,
+    "id": 16,
     "type": "mcq",
-    "stem": "Which adverse effect is associated with systemic retinoids such as acitretin?",
+    "stem": "Morning hand numbness and pins-and-needles in pregnancy are MOST consistent with which mechanism?",
     "options": [
-      "Hepatotoxicity",
-      "Guaranteed renal failure after one dose",
-      "Severe hypoglycemia",
-      "Permanent deafness"
+      "Fluid retention produces oedema and pressure on the median nerve",
+      "Calcium deficiency causes radial neuropathy",
+      "The uterus compresses the brachial plexus",
+      "Progesterone destroys the ulnar nerve"
     ],
     "answer": "A"
   },
   {
+    "id": 17,
+    "type": "mcq",
+    "stem": "Which intervention is MOST disorder-specific for pregnancy-related carpal tunnel syndrome?",
+    "options": [
+      "Warm milk at bedtime",
+      "Antacid after meals",
+      "Calamine lotion",
+      "Night splinting with the hands supported on pillows"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 18,
+    "type": "mcq",
+    "stem": "Which additional source-based measure is appropriate for carpal tunnel syndrome?",
+    "options": [
+      "Keep the hands dependent",
+      "Increase salt intake",
+      "Wear support tights on the hands",
+      "Restrict salt and flex the hands while the arm is held above the head"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 19,
+    "type": "mcq",
+    "stem": "Which prognosis is MOST accurate for pregnancy-related carpal tunnel syndrome?",
+    "options": [
+      "It always requires surgery",
+      "It worsens permanently postpartum",
+      "It implies underlying destructive neuropathy",
+      "It usually resolves spontaneously after delivery"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 20,
+    "type": "mcq",
+    "stem": "Which feature most strongly favors pregnancy-related carpal tunnel syndrome over pregnancy backache?",
+    "options": [
+      "Pain associated with increased lumbar lordosis",
+      "Pain from altered center of gravity",
+      "Morning paresthesia of the fingers and hands",
+      "Relief on a firm mattress"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 21,
+    "type": "mcq",
+    "stem": "Excessive salivation with intermittent spitting beginning around the eighth week is called:",
+    "options": [
+      "Leucorrhoea",
+      "Hyperemesis gravidarum",
+      "Gingivitis",
+      "Ptyalism"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 22,
+    "type": "mcq",
+    "stem": "Which source-based explanation is given for ptyalism?",
+    "options": [
+      "Urinary infection",
+      "Pelvic congestion",
+      "Inferior vena cava compression",
+      "Hormonal effect in pregnancy"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 23,
+    "type": "mcq",
+    "stem": "Which midwifery response is MOST appropriate for uncomplicated ptyalism?",
+    "options": [
+      "Admit for IV fluids",
+      "Apply support tights",
+      "Start an H2 antagonist",
+      "Explain the physiology and reassure"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 24,
+    "type": "mcq",
+    "stem": "Which practical measure is specifically suggested for ptyalism?",
+    "options": [
+      "Use a bitter chewing stick",
+      "Restrict all fluids",
+      "Elevate the foot of the bed 25 cm",
+      "Wear a wrist splint"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 25,
+    "type": "mcq",
+    "stem": "Which feature distinguishes ptyalism from hyperemesis in the source?",
+    "options": [
+      "Ptyalism requires IV fluids",
+      "Both are defined by ketosis",
+      "Hyperemesis begins only after 20 weeks",
+      "Increased saliva with intermittent spitting rather than persistent vomiting with dehydration and ketosis"
+    ],
+    "answer": "D"
+  },
+  {
     "id": 26,
     "type": "mcq",
-    "stem": "A patient with mild localized psoriasis asks why emollients are prescribed. Which explanation is BEST?",
+    "stem": "Constipation in pregnancy is attributed mainly to:",
     "options": [
-      "They reverse psoriatic arthritis",
-      "They permanently suppress immune activity",
-      "They reduce dryness and scaling and improve barrier comfort",
-      "They eradicate bacterial colonization"
+      "HCG increasing peristalsis",
+      "Calcium excess",
+      "Progesterone acting on intestinal smooth muscle",
+      "Inferior vena cava compression"
     ],
     "answer": "C"
   },
   {
     "id": 27,
     "type": "mcq",
-    "stem": "Which statement BEST differentiates psoriasis from impetigo?",
+    "stem": "Which other pregnancy disorder in the source shares a progesterone-related smooth-muscle mechanism?",
     "options": [
-      "Both are caused exclusively by fungi",
-      "Both are noninfectious inflammatory disorders",
-      "Psoriasis is always bacterial and impetigo is autoimmune",
-      "Psoriasis is chronic and noninfectious, whereas impetigo is a contagious bacterial infection"
+      "Varicosities",
+      "Leucorrhoea",
+      "Glossitis",
+      "Ptyalism"
     ],
-    "answer": "D"
+    "answer": "A"
   },
   {
     "id": 28,
     "type": "mcq",
-    "stem": "Which description is MOST characteristic of impetigo?",
+    "stem": "Why is constipation prevention particularly important in a woman with anal varicosities?",
     "options": [
-      "Deep ulcers with black necrotic centers",
-      "Generalized wheals that resolve within hours",
-      "Vesicles or pustules that rupture and form honey-colored crusts",
-      "Silvery plaques with Auspitz sign"
+      "It treats ptyalism",
+      "It prevents carpal tunnel syndrome",
+      "It may reduce aggravation of haemorrhoids",
+      "It prevents supine hypotension"
     ],
     "answer": "C"
   },
   {
     "id": 29,
     "type": "mcq",
-    "stem": "Impetigo in children commonly affects which area?",
+    "stem": "Which diet pattern is recommended for a woman prone to haemorrhoids?",
     "options": [
-      "Only the scalp",
-      "Only the trunk",
-      "Only the soles",
-      "Face, especially around the nose and mouth"
+      "High greasy-food intake",
+      "Adequate fibre and fluid intake",
+      "Salt loading",
+      "Low fibre and fluid restriction"
     ],
-    "answer": "D"
+    "answer": "B"
   },
   {
     "id": 30,
     "type": "mcq",
-    "stem": "Why are antibiotics used in impetigo even though some cases may resolve spontaneously?",
+    "stem": "A pregnant woman with constipation but no other pathology asks for the mechanism. Which statement is BEST?",
     "options": [
-      "They eliminate all future dermatitis",
-      "They prevent psoriasis",
-      "They shorten disease duration and reduce transmission",
-      "They are used only for pain control"
+      "Progesterone reduces smooth-muscle activity in the intestinal wall",
+      "Progesterone increases intestinal spasm",
+      "HCG directly obstructs the bowel",
+      "The fetal head always compresses the colon in early pregnancy"
     ],
-    "answer": "C"
+    "answer": "A"
   },
   {
     "id": 31,
     "type": "mcq",
-    "stem": "A child with impetigo has spreading lesions and household contacts at risk. Which nursing priority is MOST appropriate?",
+    "stem": "Which sequence BEST explains pregnancy varicosities?",
     "options": [
-      "Cover all lesions with occlusive plastic indefinitely",
-      "Encourage scratching to remove crusts",
-      "Reinforce hygiene and reduce direct sharing/contact to limit spread",
-      "Stop antibiotics once lesions appear dry"
+      "Increased lymphatic drainage â valve incompetence",
+      "Venous contraction â accelerated flow â valve rupture",
+      "Venous smooth-muscle relaxation â sluggish flow â valve inefficiency â dilated veins",
+      "Arterial spasm â venous hypertrophy"
     ],
     "answer": "C"
   },
   {
     "id": 32,
     "type": "mcq",
-    "stem": "The epidermis is composed primarily of what type of tissue?",
+    "stem": "Which woman has the strongest source-based risk profile for varicose veins?",
     "options": [
-      "Loose areolar tissue only",
-      "Keratinized stratified squamous epithelium",
-      "Cardiac muscle",
-      "Simple cuboidal epithelium"
+      "Short periods of sitting with regular movement",
+      "Family history plus work requiring long periods of standing",
+      "No family history and regular calf exercise",
+      "Frequent leg elevation and support tights"
     ],
     "answer": "B"
   },
   {
     "id": 33,
     "type": "mcq",
-    "stem": "Which epidermal cells are chiefly responsible for producing keratin?",
+    "stem": "Which exercise is specifically recommended for leg varicosities?",
     "options": [
-      "Langerhans cells only",
-      "Keratinocytes",
-      "Melanocytes",
-      "Fibroblasts"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 34,
-    "type": "mcq",
-    "stem": "Which cells produce melanin that contributes to skin pigmentation?",
-    "options": [
-      "Keratinocytes only",
-      "Melanocytes",
-      "Sebocytes",
-      "Neutrophils"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 35,
-    "type": "mcq",
-    "stem": "Differences in skin color among individuals are attributed mainly to differences in which melanocyte-related factor?",
-    "options": [
-      "Complete absence or presence of epidermis",
-      "Number of sweat glands only",
-      "Amount of subcutaneous fat only",
-      "Size and distribution of melanosomes rather than large differences in melanocyte number"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": 36,
-    "type": "mcq",
-    "stem": "Which structure is NOT normally present on the palms and soles?",
-    "options": [
-      "Hair follicles",
-      "Eccrine sweat glands",
-      "Sensory nerve endings",
-      "Epidermis"
+      "Rise onto the toes or make circular ankle movements",
+      "Keep the ankles immobile",
+      "Perform repeated wrist flexion",
+      "Lie supine for hours"
     ],
     "answer": "A"
   },
   {
+    "id": 34,
+    "type": "mcq",
+    "stem": "When should support tights preferably be applied?",
+    "options": [
+      "Before rising or after resting with the legs elevated",
+      "Only after meals",
+      "After prolonged standing",
+      "Only at bedtime"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 35,
+    "type": "mcq",
+    "stem": "Which statement about vulvar varicosities is MOST accurate?",
+    "options": [
+      "They are common and never bleed",
+      "They are rare but may rupture and bleed during delivery",
+      "They always require surgery",
+      "They never improve postpartum"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 36,
+    "type": "mcq",
+    "stem": "Early-pregnancy fainting is attributed in the source primarily to:",
+    "options": [
+      "Urinary infection",
+      "Inferior vena cava compression",
+      "Progesterone-related vasodilatation",
+      "Median nerve oedema"
+    ],
+    "answer": "C"
+  },
+  {
     "id": 37,
     "type": "mcq",
-    "stem": "Which gland secretes sebum into hair follicles?",
+    "stem": "Why may early-pregnancy fainting improve later?",
     "options": [
-      "Lacrimal gland",
-      "Apocrine gland",
-      "Eccrine gland",
-      "Sebaceous gland"
+      "Compensatory increase in blood volume",
+      "Increased pelvic congestion",
+      "Complete disappearance of progesterone",
+      "Fetal-head descent"
     ],
-    "answer": "D"
+    "answer": "A"
   },
   {
     "id": 38,
     "type": "mcq",
-    "stem": "Sebum production becomes especially active under the influence of which hormones?",
+    "stem": "Which findings must be excluded before fainting is treated as a minor pregnancy disorder?",
     "options": [
-      "Androgens",
-      "Thyroxine only",
-      "Calcitonin only",
-      "Insulin only"
+      "Vaginal bleeding and shock",
+      "Ptyalism and heartburn",
+      "Backache and cramps",
+      "Leucorrhoea and itching"
     ],
     "answer": "A"
   },
   {
     "id": 39,
     "type": "mcq",
-    "stem": "Apocrine sweat glands are most commonly found in which locations?",
+    "stem": "At 34 weeks a woman faints while supine and recovers on her side. Which mechanism BEST explains this?",
     "options": [
-      "Palms and soles only",
-      "Axillae, areolae, groin, and perineal regions",
-      "Nail beds only",
-      "Cornea and conjunctiva"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 40,
-    "type": "mcq",
-    "stem": "Apocrine secretions develop characteristic odor mainly because:",
-    "options": [
-      "Skin bacteria act on initially odorless secretions",
-      "The secretion is inherently foul before reaching skin",
-      "The secretion contains melanin",
-      "The glands secrete ammonia directly"
+      "Uterine compression of the inferior vena cava reduces venous return",
+      "The fetal head compresses the bladder",
+      "Progesterone causes acute intestinal relaxation",
+      "HCG causes acute bradycardia"
     ],
     "answer": "A"
   },
   {
+    "id": 40,
+    "type": "mcq",
+    "stem": "Which prevention advice is MOST specific to late-pregnancy supine faintness?",
+    "options": [
+      "Stand in the sun to increase blood pressure",
+      "Restrict fluids",
+      "Avoid lying on the back except when necessary for abdominal examination",
+      "Avoid all lateral positions"
+    ],
+    "answer": "C"
+  },
+  {
     "id": 41,
     "type": "mcq",
-    "stem": "Which layer acts as the principal barrier limiting excessive water loss from the body?",
+    "stem": "Which cause of uncomplicated pregnancy-related itching is specifically listed?",
     "options": [
-      "Stratum corneum",
-      "Dermal papilla",
-      "Nail matrix",
-      "Subcutaneous fat only"
+      "Striae gravidarum",
+      "Inferior vena cava compression",
+      "Lumbar lordosis",
+      "Median nerve compression"
     ],
     "answer": "A"
   },
   {
     "id": 42,
     "type": "mcq",
-    "stem": "Approximately how much insensible perspiration is described in the text for a normal adult?",
+    "stem": "Which simple treatment is described as soothing for pregnancy-related itching?",
     "options": [
-      "About 3 L/hour",
-      "Exactly 10 mL/day",
-      "About 50 mL/day",
-      "About 600 mL/day"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": 43,
-    "type": "mcq",
-    "stem": "Which vitamin-related function is performed by the skin after ultraviolet exposure?",
-    "options": [
-      "Participation in vitamin D synthesis",
-      "Conversion of iron to ferritin",
-      "Production of vitamin B12",
-      "Synthesis of vitamin C"
+      "Calamine lotion, talcum powder, and regular bathing",
+      "Antacid",
+      "Night splint",
+      "Support tights"
     ],
     "answer": "A"
   },
   {
+    "id": 43,
+    "type": "mcq",
+    "stem": "Pruritus vulvae should prompt consideration of which usual causes in the source?",
+    "options": [
+      "Malaria and typhoid",
+      "Hepatitis and influenza",
+      "Psoriasis and impetigo",
+      "Trichomonas and moniliasis"
+    ],
+    "answer": "D"
+  },
+  {
     "id": 44,
     "type": "mcq",
-    "stem": "Which mechanism contributes to heat loss by transfer of heat to a cooler object through direct contact?",
+    "stem": "Which factor can contribute to pruritus vulvae in addition to infection?",
     "options": [
-      "Convection",
-      "Conduction",
-      "Evaporation",
-      "Radiation"
+      "High calcium intake",
+      "Poor personal hygiene",
+      "Sleeping laterally",
+      "Excessive calf exercise"
     ],
     "answer": "B"
   },
   {
     "id": 45,
     "type": "mcq",
-    "stem": "Which mechanism of heat loss involves bulk movement of air adjacent to the skin?",
+    "stem": "Which presentation is LEAST consistent with a simple minor cause of itching and therefore should not be casually attributed to ordinary pregnancy discomfort?",
     "options": [
-      "Radiation",
-      "Conduction",
-      "Convection",
-      "Keratinization"
+      "Mild itching over striae",
+      "Heat rash relieved by simple skin care",
+      "Severe vulval itching with features suggesting infection",
+      "Minor skin irritation improved by bathing"
     ],
     "answer": "C"
   },
   {
     "id": 46,
     "type": "mcq",
-    "stem": "Which heat-loss mechanism depends on emission of heat to a cooler object at a distance without direct contact?",
+    "stem": "Which nutritional deficiencies are emphasized in glossitis and gingivitis during pregnancy?",
     "options": [
-      "Transcription",
-      "Radiation",
-      "Conduction",
-      "Convection"
+      "Vitamin B and calcium",
+      "Iron and iodine only",
+      "Vitamin C and sodium",
+      "Vitamin D and potassium"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 47,
     "type": "mcq",
-    "stem": "Heat loss from sweat changing from liquid to vapor is called:",
+    "stem": "Why can glossitis contribute indirectly to anaemia?",
     "options": [
-      "Convection",
-      "Conduction",
-      "Evaporation",
-      "Radiation"
+      "It causes uterine bleeding",
+      "Difficulty eating may lead to malnutrition",
+      "It causes haemolysis",
+      "It directly destroys red cells"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 48,
     "type": "mcq",
-    "stem": "Skin temperature depends strongly on which variable under neural control?",
+    "stem": "Which treatment is specifically described for glossitis?",
     "options": [
-      "Hair length only",
-      "Cutaneous blood flow",
-      "Nail growth rate",
-      "Melanin synthesis alone"
+      "Calamine lotion",
+      "Vitamin B complex plus foods/fruits rich in vitamin B and calcium",
+      "Support tights",
+      "H2 antagonist"
     ],
     "answer": "B"
   },
   {
     "id": 49,
     "type": "mcq",
-    "stem": "Which autonomic response would MOST directly conserve body heat?",
+    "stem": "What is the principal source-based measure for pregnancy gingivitis?",
     "options": [
-      "Increased sweat evaporation",
-      "Increased convection",
-      "Cutaneous vasodilation",
-      "Cutaneous vasoconstriction"
+      "Use a sedative",
+      "Restrict calcium",
+      "Improve oral hygiene",
+      "Avoid all fruit"
     ],
-    "answer": "D"
+    "answer": "C"
   },
   {
     "id": 50,
     "type": "mcq",
-    "stem": "Which response would MOST directly increase heat loss through skin?",
+    "stem": "Which symptom is specifically associated with glossitis/gingivitis in the source?",
     "options": [
-      "Cutaneous vasodilation",
-      "Reduced sweating",
-      "Cutaneous vasoconstriction",
-      "Piloerection"
+      "Poor tolerance of hot spicy foods",
+      "Supine faintness",
+      "Honey-colored discharge",
+      "Morning hand numbness"
     ],
     "answer": "A"
   },
   {
     "id": 51,
     "type": "mcq",
-    "stem": "During an inflammatory response, histamine can promote which vascular effect?",
+    "stem": "First-trimester urinary frequency is mainly due to:",
     "options": [
-      "Complete suppression of leukocyte movement",
-      "Persistent vasoconstriction without leakage",
-      "Decreased local blood flow in all tissues",
-      "Vasodilation and increased vascular permeability"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": 52,
-    "type": "mcq",
-    "stem": "Which inflammatory mediator pair is associated with vasodilation in the material?",
-    "options": [
-      "Melanin and keratin",
-      "Insulin and glucagon",
-      "Aldosterone and cortisol only",
-      "Histamine and prostaglandins"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": 53,
-    "type": "mcq",
-    "stem": "Which event is central to acute inflammation after tissue injury?",
-    "options": [
-      "Complete inhibition of complement",
-      "Permanent closure of all local capillaries",
-      "Increased vascular permeability allowing plasma proteins and leukocytes into tissues",
-      "Immediate fibrosis before leukocyte recruitment"
+      "Fetal-head descent",
+      "Inferior vena cava compression",
+      "Pressure of the gravid uterus on the bladder",
+      "Progesterone-induced glycosuria"
     ],
     "answer": "C"
   },
   {
+    "id": 52,
+    "type": "mcq",
+    "stem": "Why may urinary frequency improve after the first trimester?",
+    "options": [
+      "The uterus rises into the abdomen",
+      "Progesterone disappears",
+      "The fetal head descends",
+      "The bladder enlarges permanently"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 53,
+    "type": "mcq",
+    "stem": "Why can frequency recur late in pregnancy?",
+    "options": [
+      "The fetal head descends into the pelvis",
+      "HCG rises sharply again",
+      "The uterus leaves the abdomen",
+      "Blood volume falls"
+    ],
+    "answer": "A"
+  },
+  {
     "id": 54,
     "type": "mcq",
-    "stem": "Which immune components are described as participating in complement-related inflammatory activity?",
+    "stem": "Which condition should ALWAYS be ruled out before attributing frequency to pregnancy?",
     "options": [
-      "Only erythropoietin",
-      "Only hemoglobin",
-      "C3 and C5-derived products",
-      "Only albumin"
+      "Ptyalism",
+      "Psoriasis",
+      "Urinary tract infection",
+      "Varicosities"
     ],
     "answer": "C"
   },
   {
     "id": 55,
     "type": "mcq",
-    "stem": "Bradykinin contributes to inflammation mainly by producing which effect?",
+    "stem": "If UTI has been excluded and frequency is physiologic, which management is described?",
     "options": [
-      "Pain and increased vascular permeability",
-      "Keratin hardening",
-      "Sebum suppression",
-      "Immediate melanin synthesis"
+      "Reassurance",
+      "Fluid restriction",
+      "Routine antibiotics",
+      "Hospital admission"
     ],
     "answer": "A"
   },
   {
     "id": 56,
     "type": "mcq",
-    "stem": "Which patient is MOST likely experiencing photoallergic dermatitis rather than phototoxic dermatitis?",
+    "stem": "Physiological leucorrhoea is best defined as:",
     "options": [
-      "A patient develops psoriasis after beta-blocker use",
-      "A patient develops impetigo after scratching",
-      "A previously sensitized person develops an eczematous delayed reaction after a chemical plus sunlight exposure",
-      "A patient develops a sunburn-like reaction on first exposure to a photosensitizing chemical"
+      "Increased whitish, non-irritant vaginal discharge",
+      "Purulent painful discharge",
+      "Green discharge with fever",
+      "Bloody irritating discharge"
     ],
-    "answer": "C"
+    "answer": "A"
   },
   {
     "id": 57,
     "type": "mcq",
-    "stem": "Which description BEST fits phototoxic dermatitis?",
+    "stem": "Which hygiene advice BEST matches the source for physiological leucorrhoea?",
     "options": [
-      "A contagious bacterial eruption",
-      "A nonimmune reaction resembling an exaggerated sunburn after a photosensitizing chemical and light exposure",
-      "A delayed T-cell reaction requiring prior sensitization",
-      "A chronic plaque disorder with silvery scale"
+      "Use strong antiseptic douches hourly",
+      "Wear tight synthetic underwear",
+      "Avoid washing the vulva",
+      "Wash the vulva with plain water 3â4 times daily"
     ],
-    "answer": "B"
+    "answer": "D"
   },
   {
     "id": 58,
     "type": "mcq",
-    "stem": "A patient with contact dermatitis is advised to wear cotton clothing and avoid harsh detergents. What is the PRIMARY goal?",
+    "stem": "Which clothing advice is appropriate for leucorrhoea?",
     "options": [
-      "Promote bacterial growth",
-      "Increase occlusion and sweating",
-      "Reduce irritation, heat retention, and pruritus",
-      "Increase skin friction"
+      "Wear no underwear regardless of circumstances",
+      "Wear tight synthetic underwear",
+      "Wear cotton underwear and avoid tights",
+      "Use support tights as treatment"
     ],
     "answer": "C"
   },
   {
     "id": 59,
     "type": "mcq",
-    "stem": "Why is a cool, humid environment sometimes recommended for severe dermatitis?",
+    "stem": "Which infections should be excluded before labeling discharge physiological?",
     "options": [
-      "It guarantees eradication of allergens",
-      "It accelerates epidermal turnover",
-      "It can reduce itching and excessive drying of inflamed skin",
-      "It increases transepidermal water loss"
+      "Thrush and trichomoniasis",
+      "Pneumonia and influenza",
+      "Psoriasis and impetigo",
+      "Malaria and typhoid"
     ],
-    "answer": "C"
+    "answer": "A"
   },
   {
     "id": 60,
     "type": "mcq",
-    "stem": "Which sign is more strongly associated with psoriasis than contact dermatitis?",
+    "stem": "Which feature MOST strongly favors physiological leucorrhoea over infection?",
     "options": [
-      "Linear rash exactly matching an irritant contact area",
-      "Auspitz sign",
-      "Immediate burning on first chemical exposure",
-      "Vesicular oozing after a new detergent exposure"
+      "Features of trichomoniasis",
+      "Whitish non-irritant discharge",
+      "Marked vulval pruritus",
+      "Painful purulent discharge"
     ],
     "answer": "B"
   },
   {
     "id": 61,
     "type": "mcq",
-    "stem": "Which statement is MOST accurate regarding biopsy in psoriasis?",
+    "stem": "Which combination BEST explains late-pregnancy insomnia in the source?",
     "options": [
-      "Biopsy is never permitted",
-      "Diagnosis is usually clinical; biopsy is rarely needed",
-      "Biopsy is mandatory in every patient",
-      "Biopsy is used only to diagnose impetigo"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 62,
-    "type": "mcq",
-    "stem": "Which of the following is a major long-term nursing concern in extensive psoriasis?",
-    "options": [
-      "Eliminating every sweat gland",
-      "Monitoring for fluid, electrolyte, and temperature regulation problems",
-      "Preventing all hair growth",
-      "Maintaining constant occlusive dressings"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 63,
-    "type": "mcq",
-    "stem": "A patient with psoriasis taking acitretin drinks alcohol regularly. Which concern is MOST important?",
-    "options": [
-      "Alcohol converts acitretin into a topical agent",
-      "Alcohol eliminates retinoid toxicity",
-      "Alcohol prevents pregnancy-related risk",
-      "Alcohol use can worsen safety concerns and should be discussed because retinoids have important hepatic and teratogenic risks"
+      "Increased blood volume only",
+      "Ptyalism, hyperemesis, and backache only",
+      "Varicosities alone",
+      "Nocturnal frequency, fetal movement, anxiety, and discomfort while lying down"
     ],
     "answer": "D"
   },
   {
+    "id": 62,
+    "type": "mcq",
+    "stem": "Which bedtime measure is recommended for insomnia?",
+    "options": [
+      "A large greasy meal",
+      "High heels",
+      "A glass of warm milk",
+      "Prolonged standing"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 63,
+    "type": "mcq",
+    "stem": "Which positioning measure is recommended for sleep discomfort in late pregnancy?",
+    "options": [
+      "Flat supine position without support",
+      "Lateral position with a pillow tucked under the abdomen",
+      "Prone sleep",
+      "Standing sleep"
+    ],
+    "answer": "B"
+  },
+  {
     "id": 64,
     "type": "mcq",
-    "stem": "A patient with dermatitis has signs of secondary bacterial infection. Which principle is MOST appropriate?",
+    "stem": "Which intervention MOST directly addresses anxiety-related insomnia?",
     "options": [
-      "Use only emollients regardless of infection severity",
-      "Treat the infection while continuing to address the underlying dermatitis and trigger avoidance",
-      "Increase exposure to the offending agent to desensitize the skin",
-      "Ignore infection because dermatitis is noninfectious"
+      "Avoid all discussion of worries",
+      "Talk about fears and anxieties",
+      "Remain in a hot crowded room",
+      "Increase nocturnal fluid intake"
     ],
     "answer": "B"
   },
   {
     "id": 65,
     "type": "mcq",
-    "stem": "A patient with plaque psoriasis has severe psychosocial distress related to visible lesions. Which nursing intervention BEST addresses the whole-person approach?",
+    "stem": "When may a sedative be considered?",
     "options": [
-      "Provide psychological support alongside skin care and education",
-      "Avoid discussing body image",
-      "Discourage family involvement",
-      "Focus only on scale removal"
+      "If a doctor considers it necessary",
+      "Never, under any circumstance",
+      "As routine self-medication",
+      "Only after delivery"
     ],
     "answer": "A"
   },
   {
     "id": 66,
     "type": "mcq",
-    "stem": "Which statement BEST explains why thickened skin can develop in chronic dermatitis?",
+    "stem": "Which statement about pregnancy-related leg cramps is MOST accurate?",
     "options": [
-      "Sweat glands become sebaceous glands",
-      "Melanocytes multiply uncontrollably",
-      "Persistent scratching and rubbing lead to lichenification",
-      "Dermal vessels disappear"
+      "They are due to HCG excess",
+      "They always indicate thrombosis",
+      "They occur only in the arms",
+      "They are usually in the legs, often worst at night, and have an uncertain cause attributed to vitamin B and calcium deficiency"
     ],
-    "answer": "C"
+    "answer": "D"
   },
   {
     "id": 67,
     "type": "mcq",
-    "stem": "A patient develops lesions on the palms and soles that are pustular and recurrent. Which psoriasis variant is MOST consistent?",
+    "stem": "Which bedtime measure is recommended for recurrent leg cramps?",
     "options": [
-      "Irritant dermatitis only",
-      "Erythrodermic psoriasis",
-      "Guttate impetigo",
-      "Palmoplantar pustular psoriasis"
+      "High-heel walking",
+      "Complete leg immobilization",
+      "Head-end elevation only",
+      "Gentle leg movement in a warm bath before bed"
     ],
     "answer": "D"
   },
   {
     "id": 68,
     "type": "mcq",
-    "stem": "Which feature MOST strongly favors psoriasis over impetigo in a school-aged child?",
+    "stem": "What bed modification is recommended for leg cramps?",
     "options": [
-      "Primary bacterial etiology",
-      "Rapid spread among close contacts",
-      "Chronic recurrent well-demarcated plaques with silvery scale",
-      "Honey-colored crusting around the nose"
+      "No positional change is described",
+      "Elevate the foot end by about 20â25 cm",
+      "Elevate the head end by 20â25 cm",
+      "Lower the foot end"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 69,
     "type": "mcq",
-    "stem": "A nurse is evaluating whether a prescribed dermatitis regimen is working. Which outcome is MOST appropriate?",
+    "stem": "Which supplements are mentioned for leg cramps?",
     "options": [
-      "More vesiculation after exposure",
-      "Progressive spread despite treatment",
-      "Reduced pruritus, inflammation, and new lesion formation with avoidance of triggers",
-      "Increased scratching and lichenification"
+      "Vitamin A and iodine",
+      "HCG and progesterone",
+      "Vitamin C and sodium",
+      "Vitamin B complex and calcium"
     ],
-    "answer": "C"
+    "answer": "D"
   },
   {
     "id": 70,
     "type": "mcq",
-    "stem": "A patient with extensive psoriasis reports chills, malaise, and worsening generalized erythema after abrupt withdrawal of systemic corticosteroids. Which interpretation is MOST appropriate?",
+    "stem": "Which action is stated to abort an acute leg cramp?",
     "options": [
-      "The findings indicate normal resolution of psoriasis",
-      "The symptoms are best explained by allergic contact dermatitis alone",
-      "A severe rebound flare such as erythrodermic psoriasis should be considered",
-      "This pattern is typical of uncomplicated impetigo"
+      "Keep the muscle maximally shortened",
+      "Stretch the involved muscle",
+      "Remain standing without movement",
+      "Apply a wrist splint"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 71,
     "type": "fitb",
-    "stem": "The outermost epidermal barrier that limits excessive water loss is the ___ ___.",
-    "answer": "stratum corneum",
+    "stem": "Morning sickness may begin as early as ___ weeks' gestation and usually settles by about 13â14 weeks.",
+    "answer": "6",
     "acceptableAnswers": [
-      "stratum corneum"
+      "6",
+      "six",
+      "6 weeks",
+      "six weeks"
     ]
   },
   {
     "id": 72,
     "type": "fitb",
-    "stem": "The epidermal cells chiefly responsible for keratin production are ___.",
-    "answer": "keratinocytes",
+    "stem": "Persistent vomiting with dehydration and ketosis in pregnancy is called ___.",
+    "answer": "hyperemesis gravidarum",
     "acceptableAnswers": [
-      "keratinocytes",
-      "keratinocyte"
+      "hyperemesis gravidarum",
+      "hyperemesis"
     ]
   },
   {
     "id": 73,
     "type": "fitb",
-    "stem": "The pigment-producing cells of the epidermis are ___.",
-    "answer": "melanocytes",
+    "stem": "The hormone mentioned alongside estrogen as a possible contributor to morning sickness is ___.",
+    "answer": "HCG",
     "acceptableAnswers": [
-      "melanocytes",
-      "melanocyte"
+      "HCG",
+      "hCG",
+      "human chorionic gonadotropin",
+      "human chorionic gonadotrophin"
     ]
   },
   {
     "id": 74,
     "type": "fitb",
-    "stem": "Skin color differences are influenced more by melanosome ___ and distribution than by large differences in melanocyte number.",
-    "answer": "size",
+    "stem": "For ordinary morning sickness, adequate fluid is advised but preferably not taken with ___.",
+    "answer": "food",
     "acceptableAnswers": [
-      "size",
-      "size and distribution"
+      "food",
+      "meals"
     ]
   },
   {
     "id": 75,
     "type": "fitb",
-    "stem": "Sebaceous glands secrete ___ into hair follicles.",
-    "answer": "sebum",
+    "stem": "Pregnancy heartburn is linked to relaxation of gastric sphincters under the influence of elevated ___.",
+    "answer": "progesterone",
     "acceptableAnswers": [
-      "sebum"
+      "progesterone"
     ]
   },
   {
     "id": 76,
     "type": "fitb",
-    "stem": "Sebum production is stimulated strongly by ___.",
-    "answer": "androgens",
+    "stem": "The exaggerated spinal curvature associated with pregnancy-related backache is increased lumbar ___.",
+    "answer": "lordosis",
     "acceptableAnswers": [
-      "androgens",
-      "androgen hormones"
+      "lordosis",
+      "lumbar lordosis"
     ]
   },
   {
     "id": 77,
     "type": "fitb",
-    "stem": "Apocrine glands are concentrated in the axillae, areolae, groin, and ___ regions.",
-    "answer": "perineal",
+    "stem": "Pregnancy-related carpal tunnel symptoms result from oedema placing pressure on the ___ nerve.",
+    "answer": "median",
     "acceptableAnswers": [
-      "perineal",
-      "perineum"
+      "median",
+      "median nerve"
     ]
   },
   {
     "id": 78,
     "type": "fitb",
-    "stem": "Insensible perspiration in a normal adult is approximately ___ mL per day according to the text.",
-    "answer": "600",
+    "stem": "Excessive salivation with intermittent spitting beginning around the eighth week is called ___.",
+    "answer": "ptyalism",
     "acceptableAnswers": [
-      "600",
-      "about 600",
-      "approximately 600"
+      "ptyalism"
     ]
   },
   {
     "id": 79,
     "type": "fitb",
-    "stem": "Heat transfer by direct contact with a cooler object is called ___.",
-    "answer": "conduction",
+    "stem": "Constipation in pregnancy is attributed to progesterone acting on the ___ muscle of the intestinal wall.",
+    "answer": "smooth",
     "acceptableAnswers": [
-      "conduction"
+      "smooth",
+      "smooth muscle"
     ]
   },
   {
     "id": 80,
     "type": "fitb",
-    "stem": "Heat loss through bulk movement of air is called ___.",
-    "answer": "convection",
+    "stem": "Varicose veins may occur in the legs, vulva, and anus, where they are called ___.",
+    "answer": "haemorrhoids",
     "acceptableAnswers": [
-      "convection"
+      "haemorrhoids",
+      "hemorrhoids",
+      "haemorrhoid",
+      "hemorrhoid"
     ]
   },
   {
     "id": 81,
     "type": "fitb",
-    "stem": "Heat transfer to a cooler object at a distance is called ___.",
-    "answer": "radiation",
+    "stem": "A woman with leg varicosities may exercise the calf muscles by rising onto her ___.",
+    "answer": "toes",
     "acceptableAnswers": [
-      "radiation"
+      "toes",
+      "tiptoes",
+      "toe tips"
     ]
   },
   {
     "id": 82,
     "type": "fitb",
-    "stem": "Conversion of sweat from liquid to vapor produces heat loss by ___.",
-    "answer": "evaporation",
+    "stem": "Early-pregnancy fainting is attributed to vasodilatation under the influence of ___.",
+    "answer": "progesterone",
     "acceptableAnswers": [
-      "evaporation"
+      "progesterone"
     ]
   },
   {
     "id": 83,
     "type": "fitb",
-    "stem": "The skin participates in synthesis of vitamin ___ after ultraviolet exposure.",
-    "answer": "D",
+    "stem": "In late pregnancy, supine faintness may occur when the gravid uterus compresses the inferior ___ ___.",
+    "answer": "vena cava",
     "acceptableAnswers": [
-      "D",
-      "vitamin D"
+      "vena cava",
+      "inferior vena cava"
     ]
   },
   {
     "id": 84,
     "type": "fitb",
-    "stem": "In acute inflammation, histamine promotes vasodilation and increased vascular ___.",
-    "answer": "permeability",
+    "stem": "Before attributing fainting to a minor pregnancy disorder, vaginal bleeding and ___ should be excluded.",
+    "answer": "shock",
     "acceptableAnswers": [
-      "permeability",
-      "vascular permeability"
+      "shock"
     ]
   },
   {
     "id": 85,
     "type": "fitb",
-    "stem": "The inflammatory mediator strongly associated with pain is ___.",
-    "answer": "bradykinin",
+    "stem": "The two usual causes of pruritus vulvae named in the source are trichomonas and ___.",
+    "answer": "moniliasis",
     "acceptableAnswers": [
-      "bradykinin"
+      "moniliasis",
+      "candidiasis",
+      "candida"
     ]
   },
   {
     "id": 86,
     "type": "fitb",
-    "stem": "Allergic contact dermatitis is typically a delayed, cell-mediated hypersensitivity reaction that requires prior ___.",
-    "answer": "sensitization",
+    "stem": "Glossitis and gingivitis are linked to inadequate vitamin B and ___ intake plus poor oral hygiene.",
+    "answer": "calcium",
     "acceptableAnswers": [
-      "sensitization",
-      "prior sensitization"
+      "calcium",
+      "Ca"
     ]
   },
   {
     "id": 87,
     "type": "fitb",
-    "stem": "Direct epidermal injury without prior sensitization is more typical of ___ contact dermatitis.",
-    "answer": "irritant",
+    "stem": "First-trimester urinary frequency results from pressure of the gravid uterus on the urinary ___.",
+    "answer": "bladder",
     "acceptableAnswers": [
-      "irritant",
-      "irritant contact dermatitis"
+      "bladder",
+      "urinary bladder"
     ]
   },
   {
     "id": 88,
     "type": "fitb",
-    "stem": "Diagnostic testing for allergic contact dermatitis commonly uses a ___ test.",
-    "answer": "patch",
+    "stem": "Urinary frequency may recur late in pregnancy when the fetal ___ descends into the pelvis.",
+    "answer": "head",
     "acceptableAnswers": [
-      "patch",
-      "patch test"
+      "head",
+      "fetal head",
+      "foetal head"
     ]
   },
   {
     "id": 89,
     "type": "fitb",
-    "stem": "When light exposure is incorporated to investigate photosensitivity, the test is called a ___ test.",
-    "answer": "photopatch",
+    "stem": "Before physiological pregnancy-related urinary frequency is assumed, ___ should be ruled out.",
+    "answer": "UTI",
     "acceptableAnswers": [
-      "photopatch",
-      "photopatch test"
+      "UTI",
+      "urinary tract infection",
+      "urinary tract infections"
     ]
   },
   {
     "id": 90,
     "type": "fitb",
-    "stem": "Chronic rubbing and scratching can produce skin thickening called ___.",
-    "answer": "lichenification",
+    "stem": "The physiological term for increased whitish, non-irritant vaginal discharge in pregnancy is ___.",
+    "answer": "leucorrhoea",
     "acceptableAnswers": [
-      "lichenification"
+      "leucorrhoea",
+      "leukorrhea",
+      "leucorrhea"
     ]
   },
   {
     "id": 91,
     "type": "fitb",
-    "stem": "Psoriasis is a chronic, noninfectious, ___ skin disorder.",
-    "answer": "inflammatory",
+    "stem": "For troublesome physiological leucorrhoea, the vulva may be washed with plain water about ___ to ___ times daily.",
+    "answer": "3; 4",
     "acceptableAnswers": [
-      "inflammatory",
-      "inflammatory disease"
+      "3; 4",
+      "3-4",
+      "3 to 4",
+      "three to four"
     ]
   },
   {
     "id": 92,
     "type": "fitb",
-    "stem": "In psoriasis, epidermal cell turnover may occur approximately ___ to ___ times faster than normal.",
-    "answer": "6; 9",
+    "stem": "Before labeling discharge as physiological leucorrhoea, the source says to exclude thrush and ___.",
+    "answer": "trichomoniasis",
     "acceptableAnswers": [
-      "6; 9",
-      "6-9",
-      "6 to 9",
-      "six to nine"
+      "trichomoniasis",
+      "trichomonas"
     ]
   },
   {
     "id": 93,
     "type": "fitb",
-    "stem": "Pinpoint bleeding after removal of psoriatic scale is called the ___ sign.",
-    "answer": "Auspitz",
+    "stem": "Late-pregnancy insomnia may be worsened by nocturnal frequency, fetal movement, anxiety, and physical ___.",
+    "answer": "discomfort",
     "acceptableAnswers": [
-      "Auspitz",
-      "Auspitz sign"
+      "discomfort",
+      "discomfort while lying down"
     ]
   },
   {
     "id": 94,
     "type": "fitb",
-    "stem": "A potentially life-threatening generalized psoriatic flare involving most of the body surface is called ___ psoriasis.",
-    "answer": "erythrodermic",
+    "stem": "For insomnia, a pillow may be tucked under the abdomen while the woman lies in a ___ position.",
+    "answer": "lateral",
     "acceptableAnswers": [
-      "erythrodermic",
-      "erythrodermic psoriasis"
+      "lateral",
+      "side-lying",
+      "side lying"
     ]
   },
   {
     "id": 95,
     "type": "fitb",
-    "stem": "Joint involvement associated with psoriasis is called ___ arthritis.",
-    "answer": "psoriatic",
+    "stem": "Pregnancy-related leg cramps are described as being worst at ___.",
+    "answer": "night",
     "acceptableAnswers": [
-      "psoriatic",
-      "psoriatic arthritis"
+      "night",
+      "nighttime",
+      "night time"
     ]
   },
   {
     "id": 96,
     "type": "fitb",
-    "stem": "Coal tar and anthralin are used in psoriasis to reduce excessive epidermal cell ___.",
-    "answer": "turnover",
+    "stem": "The nutritional deficiencies associated with leg cramps in the source are vitamin B and ___.",
+    "answer": "calcium",
     "acceptableAnswers": [
-      "turnover",
-      "proliferation",
-      "epidermal turnover"
+      "calcium",
+      "Ca"
     ]
   },
   {
     "id": 97,
     "type": "fitb",
-    "stem": "A systemic retinoid used in psoriasis is ___.",
-    "answer": "acitretin",
+    "stem": "For recurrent leg cramps, the foot end of the bed may be elevated approximately ___ to ___ cm.",
+    "answer": "20; 25",
     "acceptableAnswers": [
-      "acitretin"
+      "20; 25",
+      "20-25",
+      "20 to 25",
+      "20â25"
     ]
   },
   {
     "id": 98,
     "type": "fitb",
-    "stem": "A major reproductive safety concern with systemic retinoids is ___.",
-    "answer": "teratogenicity",
+    "stem": "An acute leg cramp may be aborted by ___ the involved muscle.",
+    "answer": "stretching",
     "acceptableAnswers": [
-      "teratogenicity",
-      "birth defects",
-      "fetal malformations"
+      "stretching",
+      "stretch"
     ]
   },
   {
     "id": 99,
     "type": "fitb",
-    "stem": "Impetigo lesions commonly rupture and form ___-colored crusts.",
-    "answer": "honey",
+    "stem": "Most enlarged pregnancy-related varicose veins disappear after ___.",
+    "answer": "delivery",
     "acceptableAnswers": [
-      "honey",
-      "honey-colored",
-      "honey coloured"
+      "delivery",
+      "childbirth",
+      "birth"
     ]
   },
   {
     "id": 100,
     "type": "fitb",
-    "stem": "Impetigo is a highly ___ bacterial skin infection, especially common in children.",
-    "answer": "contagious",
+    "stem": "The general role of professionals caring for women with minor disorders is to offer advice and ___.",
+    "answer": "reassurance",
     "acceptableAnswers": [
-      "contagious",
-      "communicable"
+      "reassurance",
+      "reassure"
     ]
   }
 ]
