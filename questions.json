@@ -2,1155 +2,1149 @@
   {
     "id": 1,
     "type": "mcq",
-    "stem": "At 8 weeks, a woman has mild nausea, occasional vomiting, normal hydration, and preserved activity. Which plan BEST follows the source?",
+    "stem": "A student is given the description: education, immunization, PPE, and hazard control before disease begins. Which concept or condition is MOST precisely identified?",
     "options": [
-      "Small frequent non-fatty, high-calorie meals; adequate fluid not taken with food",
-      "Complete fasting until symptoms cease",
-      "Three large fatty meals with fluid during meals",
-      "Immediate admission for IV fluids and antiemetics"
+      "Primary prevention",
+      "Secondary prevention",
+      "Tertiary prevention",
+      "Rehabilitation"
     ],
     "answer": "A"
   },
   {
     "id": 2,
     "type": "mcq",
-    "stem": "Which feature MOST strongly indicates hyperemesis gravidarum rather than ordinary morning sickness?",
+    "stem": "Which statement is MOST specifically associated with Primary prevention in the notes?",
     "options": [
-      "Frequent persistent vomiting with dehydration and ketosis",
-      "Nausea beginning at 6 weeks",
-      "Morning-predominant nausea with preserved intake",
-      "Vomiting relieved by a dry biscuit"
+      "This instead describes secondary prevention.",
+      "education, immunization, PPE, and hazard control before disease begins",
+      "This instead describes rehabilitation.",
+      "This instead describes tertiary prevention."
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 3,
     "type": "mcq",
-    "stem": "A twin pregnancy is associated with unusually severe nausea. Which proposed cause in the source BEST fits?",
+    "stem": "A student is given the description: early detection, prompt treatment, and limitation of progression after disease has begun. Which concept or condition is MOST precisely identified?",
     "options": [
-      "Calcium deficiency",
-      "Higher HCG levels",
-      "Reduced progesterone",
-      "Inferior vena cava compression"
+      "Secondary prevention",
+      "Primary prevention",
+      "Health promotion only",
+      "Tertiary prevention"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 4,
     "type": "mcq",
-    "stem": "When vomiting is precipitated by reflux, which source-based measure is MOST targeted?",
+    "stem": "Which statement is MOST specifically associated with Secondary prevention in the notes?",
     "options": [
-      "Salt restriction",
-      "Calamine lotion",
-      "Antacid use",
-      "Support tights"
+      "early detection, prompt treatment, and limitation of progression after disease has begun",
+      "This instead describes health promotion only.",
+      "This instead describes tertiary prevention.",
+      "This instead describes primary prevention."
     ],
-    "answer": "C"
+    "answer": "A"
   },
   {
     "id": 5,
     "type": "mcq",
-    "stem": "Which statement about recurrence of morning sickness is specifically supported?",
+    "stem": "A student is given the description: rehabilitation and restoration of maximum possible function. Which concept or condition is MOST precisely identified?",
     "options": [
-      "It recurs in every subsequent pregnancy",
-      "It tends to recur in about one quarter of women in a subsequent pregnancy",
-      "It recurs only in molar pregnancy",
-      "It never recurs"
+      "Secondary prevention",
+      "Specific protection",
+      "Primary prevention",
+      "Tertiary prevention"
     ],
-    "answer": "B"
+    "answer": "D"
   },
   {
     "id": 6,
     "type": "mcq",
-    "stem": "Which mechanism BEST explains pregnancy heartburn?",
+    "stem": "Which statement is MOST specifically associated with Tertiary prevention in the notes?",
     "options": [
-      "HCG contracts the lower oesophageal sphincter",
-      "Estrogen prevents gastric emptying by pyloric closure",
-      "Progesterone-mediated relaxation of gastric physiological sphincters permits acid reflux",
-      "Relaxin neutralizes gastric acid"
+      "This instead describes primary prevention.",
+      "This instead describes specific protection.",
+      "rehabilitation and restoration of maximum possible function",
+      "This instead describes secondary prevention."
     ],
     "answer": "C"
   },
   {
     "id": 7,
     "type": "mcq",
-    "stem": "Which behavior is specifically described as aggravating heartburn?",
+    "stem": "A student is given the description: 50 workers or fewer. Which concept or condition is MOST precisely identified?",
     "options": [
-      "Avoiding greasy foods",
-      "Sleeping propped up",
-      "Smoking",
-      "Eating small frequent meals"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": 8,
-    "type": "mcq",
-    "stem": "Which advice is MOST appropriate immediately after meals for a woman with heartburn?",
-    "options": [
-      "Lie flat",
-      "Take a large greasy snack",
-      "Avoid bending soon after eating",
-      "Wear tight clothing"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": 9,
-    "type": "mcq",
-    "stem": "Which bedtime change is recommended for pregnancy heartburn?",
-    "options": [
-      "Sleep propped up with an extra pillow",
-      "Elevate only the foot end of the bed",
-      "Sleep completely flat",
-      "Sleep prone after meals"
-    ],
-    "answer": "A"
-  },
-  {
-    "id": 10,
-    "type": "mcq",
-    "stem": "In intractable pregnancy heartburn, which drug class is mentioned as an option?",
-    "options": [
-      "Anticoagulant",
-      "Beta-blocker",
-      "Loop diuretic",
-      "H2 antagonist such as ranitidine"
+      "exactly 5000 workers",
+      "51â1000 workers",
+      "more than 1000 workers",
+      "Small-scale industry"
     ],
     "answer": "D"
   },
   {
+    "id": 8,
+    "type": "mcq",
+    "stem": "Which statement is MOST specifically associated with Small-scale industry in the notes?",
+    "options": [
+      "50 workers or fewer",
+      "This instead describes exactly 5000 workers.",
+      "This instead describes 51â1000 workers.",
+      "This instead describes more than 1000 workers."
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 9,
+    "type": "mcq",
+    "stem": "A student is given the description: 51â1000 workers. Which concept or condition is MOST precisely identified?",
+    "options": [
+      "more than 1000 workers",
+      "only 100 workers",
+      "50 workers or fewer",
+      "Medium-scale industry"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 10,
+    "type": "mcq",
+    "stem": "Which statement is MOST specifically associated with Medium-scale industry in the notes?",
+    "options": [
+      "51â1000 workers",
+      "This instead describes only 100 workers.",
+      "This instead describes more than 1000 workers.",
+      "This instead describes 50 workers or fewer."
+    ],
+    "answer": "A"
+  },
+  {
     "id": 11,
     "type": "mcq",
-    "stem": "What is the PRIMARY biomechanical explanation for pregnancy-related backache in the source?",
+    "stem": "A student is given the description: more than 1000 workers. Which concept or condition is MOST precisely identified?",
     "options": [
-      "Forward shift of the center of gravity with compensatory postural change",
-      "Inferior vena cava obstruction",
-      "Increased salivary production",
-      "Bladder compression by the fetal head"
+      "Large-scale industry",
+      "exactly 1000 workers",
+      "51â1000 workers",
+      "50 workers or fewer"
     ],
     "answer": "A"
   },
   {
     "id": 12,
     "type": "mcq",
-    "stem": "Which postural adaptation is emphasized in pregnancy-related backache?",
+    "stem": "Which statement is MOST specifically associated with Large-scale industry in the notes?",
     "options": [
-      "Increased lumbar lordosis",
-      "Fixed thoracic flexion only",
-      "Loss of lumbar lordosis",
-      "Cervical kyphosis"
-    ],
-    "answer": "A"
-  },
-  {
-    "id": 13,
-    "type": "mcq",
-    "stem": "Which hormonal effect compounds the mechanical cause of backache?",
-    "options": [
-      "Estrogen causes median nerve oedema",
-      "Calcium causes nerve-root compression",
-      "HCG stiffens pelvic joints",
-      "Progesterone and relaxin relax ligaments and joints"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": 14,
-    "type": "mcq",
-    "stem": "Which advice is LEAST consistent with the source for uncomplicated backache?",
-    "options": [
-      "Use a mild analgesic as advised",
-      "Wear high heels to restore balance",
-      "Avoid high heels",
-      "Rest on a firm mattress"
+      "This instead describes exactly 1000 workers.",
+      "more than 1000 workers",
+      "This instead describes 51â1000 workers.",
+      "This instead describes 50 workers or fewer."
     ],
     "answer": "B"
   },
   {
-    "id": 15,
+    "id": 13,
     "type": "mcq",
-    "stem": "The combination of exaggerated lumbar lordosis and relaxed ligaments produces pain primarily by:",
+    "stem": "A student is given the description: a nurse moves among industries while doctors visit periodically. Which concept or condition is MOST precisely identified?",
     "options": [
-      "Reducing venous valve competence",
-      "Compressing the urinary bladder",
-      "Putting pressure on nerve roots",
-      "Increasing salivary flow"
+      "no clinic or nurse is used",
+      "workers attend one central clinic and the nurse does not visit industries",
+      "Area-type service",
+      "only doctors provide services"
     ],
     "answer": "C"
   },
   {
+    "id": 14,
+    "type": "mcq",
+    "stem": "Which statement is MOST specifically associated with Area-type service in the notes?",
+    "options": [
+      "a nurse moves among industries while doctors visit periodically",
+      "This instead describes only doctors provide services.",
+      "This instead describes no clinic or nurse is used.",
+      "This instead describes workers attend one central clinic and the nurse does not visit industries."
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 15,
+    "type": "mcq",
+    "stem": "A student is given the description: workers from different industries come to a clinic and the nurse does not visit the industries. Which concept or condition is MOST precisely identified?",
+    "options": [
+      "doctors visit each industry every day",
+      "a nurse moves from one industry to another",
+      "services are limited to agriculture",
+      "Estate-type service"
+    ],
+    "answer": "D"
+  },
+  {
     "id": 16,
     "type": "mcq",
-    "stem": "Morning hand numbness and pins-and-needles in pregnancy are MOST consistent with which mechanism?",
+    "stem": "Which statement is MOST specifically associated with Estate-type service in the notes?",
     "options": [
-      "Fluid retention produces oedema and pressure on the median nerve",
-      "Calcium deficiency causes radial neuropathy",
-      "The uterus compresses the brachial plexus",
-      "Progesterone destroys the ulnar nerve"
+      "workers from different industries come to a clinic and the nurse does not visit the industries",
+      "This instead describes services are limited to agriculture.",
+      "This instead describes a nurse moves from one industry to another.",
+      "This instead describes doctors visit each industry every day."
     ],
     "answer": "A"
   },
   {
     "id": 17,
     "type": "mcq",
-    "stem": "Which intervention is MOST disorder-specific for pregnancy-related carpal tunnel syndrome?",
+    "stem": "A student is given the description: gas, dust, vapour, or liquid exposure. Which concept or condition is MOST precisely identified?",
     "options": [
-      "Warm milk at bedtime",
-      "Antacid after meals",
-      "Calamine lotion",
-      "Night splinting with the hands supported on pillows"
+      "stress and interpersonal strain",
+      "noise and radiant energy",
+      "Chemical hazard",
+      "bacteria and fungi"
     ],
-    "answer": "D"
+    "answer": "C"
   },
   {
     "id": 18,
     "type": "mcq",
-    "stem": "Which additional source-based measure is appropriate for carpal tunnel syndrome?",
+    "stem": "Which statement is MOST specifically associated with Chemical hazard in the notes?",
     "options": [
-      "Keep the hands dependent",
-      "Increase salt intake",
-      "Wear support tights on the hands",
-      "Restrict salt and flex the hands while the arm is held above the head"
+      "This instead describes noise and radiant energy.",
+      "gas, dust, vapour, or liquid exposure",
+      "This instead describes bacteria and fungi.",
+      "This instead describes stress and interpersonal strain."
     ],
-    "answer": "D"
+    "answer": "B"
   },
   {
     "id": 19,
     "type": "mcq",
-    "stem": "Which prognosis is MOST accurate for pregnancy-related carpal tunnel syndrome?",
+    "stem": "A student is given the description: noise, temperature variation, radiant energy, electricity, or height. Which concept or condition is MOST precisely identified?",
     "options": [
-      "It always requires surgery",
-      "It worsens permanently postpartum",
-      "It implies underlying destructive neuropathy",
-      "It usually resolves spontaneously after delivery"
+      "bacteria and parasites",
+      "gases and vapours",
+      "emotional strain",
+      "Physical hazard"
     ],
     "answer": "D"
   },
   {
     "id": 20,
     "type": "mcq",
-    "stem": "Which feature most strongly favors pregnancy-related carpal tunnel syndrome over pregnancy backache?",
+    "stem": "Which statement is MOST specifically associated with Physical hazard in the notes?",
     "options": [
-      "Pain associated with increased lumbar lordosis",
-      "Pain from altered center of gravity",
-      "Morning paresthesia of the fingers and hands",
-      "Relief on a firm mattress"
+      "This instead describes gases and vapours.",
+      "This instead describes emotional strain.",
+      "This instead describes bacteria and parasites.",
+      "noise, temperature variation, radiant energy, electricity, or height"
     ],
-    "answer": "C"
+    "answer": "D"
   },
   {
     "id": 21,
     "type": "mcq",
-    "stem": "Excessive salivation with intermittent spitting beginning around the eighth week is called:",
+    "stem": "A student is given the description: pressure, physical strain, unsafe equipment, or excessive movement. Which concept or condition is MOST precisely identified?",
     "options": [
-      "Leucorrhoea",
-      "Hyperemesis gravidarum",
-      "Gingivitis",
-      "Ptyalism"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": 22,
-    "type": "mcq",
-    "stem": "Which source-based explanation is given for ptyalism?",
-    "options": [
-      "Urinary infection",
-      "Pelvic congestion",
-      "Inferior vena cava compression",
-      "Hormonal effect in pregnancy"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": 23,
-    "type": "mcq",
-    "stem": "Which midwifery response is MOST appropriate for uncomplicated ptyalism?",
-    "options": [
-      "Admit for IV fluids",
-      "Apply support tights",
-      "Start an H2 antagonist",
-      "Explain the physiology and reassure"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": 24,
-    "type": "mcq",
-    "stem": "Which practical measure is specifically suggested for ptyalism?",
-    "options": [
-      "Use a bitter chewing stick",
-      "Restrict all fluids",
-      "Elevate the foot of the bed 25 cm",
-      "Wear a wrist splint"
+      "Mechanical hazard",
+      "interpersonal conflict",
+      "fungi and viruses",
+      "chemical vapours only"
     ],
     "answer": "A"
   },
   {
-    "id": 25,
+    "id": 22,
     "type": "mcq",
-    "stem": "Which feature distinguishes ptyalism from hyperemesis in the source?",
+    "stem": "Which statement is MOST specifically associated with Mechanical hazard in the notes?",
     "options": [
-      "Ptyalism requires IV fluids",
-      "Both are defined by ketosis",
-      "Hyperemesis begins only after 20 weeks",
-      "Increased saliva with intermittent spitting rather than persistent vomiting with dehydration and ketosis"
+      "pressure, physical strain, unsafe equipment, or excessive movement",
+      "This instead describes fungi and viruses.",
+      "This instead describes interpersonal conflict.",
+      "This instead describes chemical vapours only."
     ],
-    "answer": "D"
+    "answer": "A"
   },
   {
-    "id": 26,
+    "id": 23,
     "type": "mcq",
-    "stem": "Constipation in pregnancy is attributed mainly to:",
+    "stem": "A student is given the description: bacteria, viruses, protozoa, fungi, or parasites. Which concept or condition is MOST precisely identified?",
     "options": [
-      "HCG increasing peristalsis",
-      "Calcium excess",
-      "Progesterone acting on intestinal smooth muscle",
-      "Inferior vena cava compression"
+      "Biological hazard",
+      "emotional strain",
+      "gases and vapours",
+      "noise and heat"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 24,
+    "type": "mcq",
+    "stem": "Which statement is MOST specifically associated with Biological hazard in the notes?",
+    "options": [
+      "This instead describes emotional strain.",
+      "bacteria, viruses, protozoa, fungi, or parasites",
+      "This instead describes gases and vapours.",
+      "This instead describes noise and heat."
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 25,
+    "type": "mcq",
+    "stem": "A student is given the description: stress, emotional strain, or interpersonal problems related to work. Which concept or condition is MOST precisely identified?",
+    "options": [
+      "radiant energy",
+      "dust and vapour",
+      "Psychosocial hazard",
+      "infectious organisms"
     ],
     "answer": "C"
   },
   {
+    "id": 26,
+    "type": "mcq",
+    "stem": "Which statement is MOST specifically associated with Psychosocial hazard in the notes?",
+    "options": [
+      "stress, emotional strain, or interpersonal problems related to work",
+      "This instead describes infectious organisms.",
+      "This instead describes dust and vapour.",
+      "This instead describes radiant energy."
+    ],
+    "answer": "A"
+  },
+  {
     "id": 27,
     "type": "mcq",
-    "stem": "Which other pregnancy disorder in the source shares a progesterone-related smooth-muscle mechanism?",
+    "stem": "A student is given the description: Clostridium tetani; incubation 4â28 days; prevention includes immunization and protective footwear/clothing. Which concept or condition is MOST precisely identified?",
     "options": [
-      "Varicosities",
-      "Leucorrhoea",
-      "Glossitis",
-      "Ptyalism"
+      "Tetanus",
+      "Bacillus anthracis disease",
+      "occupational deafness",
+      "hookworm infection"
     ],
     "answer": "A"
   },
   {
     "id": 28,
     "type": "mcq",
-    "stem": "Why is constipation prevention particularly important in a woman with anal varicosities?",
+    "stem": "Which statement is MOST specifically associated with Tetanus in the notes?",
     "options": [
-      "It treats ptyalism",
-      "It prevents carpal tunnel syndrome",
-      "It may reduce aggravation of haemorrhoids",
-      "It prevents supine hypotension"
+      "Clostridium tetani; incubation 4â28 days; prevention includes immunization and protective footwear/clothing",
+      "This instead describes hookworm infection.",
+      "This instead describes bacillus anthracis disease.",
+      "This instead describes occupational deafness."
     ],
-    "answer": "C"
+    "answer": "A"
   },
   {
     "id": 29,
     "type": "mcq",
-    "stem": "Which diet pattern is recommended for a woman prone to haemorrhoids?",
+    "stem": "A student is given the description: hearing loss from prolonged high-intensity noise exposure; assessed with audiometry. Which concept or condition is MOST precisely identified?",
     "options": [
-      "High greasy-food intake",
-      "Adequate fibre and fluid intake",
-      "Salt loading",
-      "Low fibre and fluid restriction"
+      "brucellosis",
+      "anthrax",
+      "Occupational deafness",
+      "tetanus"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 30,
     "type": "mcq",
-    "stem": "A pregnant woman with constipation but no other pathology asks for the mechanism. Which statement is BEST?",
+    "stem": "Which statement is MOST specifically associated with Occupational deafness in the notes?",
     "options": [
-      "Progesterone reduces smooth-muscle activity in the intestinal wall",
-      "Progesterone increases intestinal spasm",
-      "HCG directly obstructs the bowel",
-      "The fetal head always compresses the colon in early pregnancy"
+      "hearing loss from prolonged high-intensity noise exposure; assessed with audiometry",
+      "This instead describes tetanus.",
+      "This instead describes anthrax.",
+      "This instead describes brucellosis."
     ],
     "answer": "A"
   },
   {
     "id": 31,
     "type": "mcq",
-    "stem": "Which sequence BEST explains pregnancy varicosities?",
+    "stem": "A student is given the description: Bacillus anthracis; incubation 2â7 days; cutaneous, inhalational, or gastrointestinal routes. Which concept or condition is MOST precisely identified?",
     "options": [
-      "Increased lymphatic drainage â valve incompetence",
-      "Venous contraction â accelerated flow â valve rupture",
-      "Venous smooth-muscle relaxation â sluggish flow â valve inefficiency â dilated veins",
-      "Arterial spasm â venous hypertrophy"
+      "occupational deafness",
+      "Clostridium tetani infection",
+      "hookworm infection",
+      "Anthrax"
     ],
-    "answer": "C"
+    "answer": "D"
   },
   {
     "id": 32,
     "type": "mcq",
-    "stem": "Which woman has the strongest source-based risk profile for varicose veins?",
+    "stem": "Which statement is MOST specifically associated with Anthrax in the notes?",
     "options": [
-      "Short periods of sitting with regular movement",
-      "Family history plus work requiring long periods of standing",
-      "No family history and regular calf exercise",
-      "Frequent leg elevation and support tights"
+      "This instead describes clostridium tetani infection.",
+      "This instead describes occupational deafness.",
+      "This instead describes hookworm infection.",
+      "Bacillus anthracis; incubation 2â7 days; cutaneous, inhalational, or gastrointestinal routes"
     ],
-    "answer": "B"
+    "answer": "D"
   },
   {
     "id": 33,
     "type": "mcq",
-    "stem": "Which exercise is specifically recommended for leg varicosities?",
+    "stem": "A student is given the description: zoonotic infection linked to infected cattle, milk, or animal products. Which concept or condition is MOST precisely identified?",
     "options": [
-      "Rise onto the toes or make circular ankle movements",
-      "Keep the ankles immobile",
-      "Perform repeated wrist flexion",
-      "Lie supine for hours"
+      "mechanical injury",
+      "hookworm infection",
+      "occupational deafness",
+      "Brucellosis"
     ],
-    "answer": "A"
+    "answer": "D"
   },
   {
     "id": 34,
     "type": "mcq",
-    "stem": "When should support tights preferably be applied?",
+    "stem": "Which statement is MOST specifically associated with Brucellosis in the notes?",
     "options": [
-      "Before rising or after resting with the legs elevated",
-      "Only after meals",
-      "After prolonged standing",
-      "Only at bedtime"
+      "This instead describes occupational deafness.",
+      "This instead describes hookworm infection.",
+      "zoonotic infection linked to infected cattle, milk, or animal products",
+      "This instead describes mechanical injury."
     ],
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 35,
     "type": "mcq",
-    "stem": "Which statement about vulvar varicosities is MOST accurate?",
+    "stem": "A student is given the description: Ancylostoma duodenale; larvae penetrate unbroken skin, migrate via lungs, and adults attach to duodenal mucosa. Which concept or condition is MOST precisely identified?",
     "options": [
-      "They are common and never bleed",
-      "They are rare but may rupture and bleed during delivery",
-      "They always require surgery",
-      "They never improve postpartum"
+      "Tetanus",
+      "Hookworm",
+      "Anthrax",
+      "Brucellosis"
     ],
     "answer": "B"
   },
   {
     "id": 36,
     "type": "mcq",
-    "stem": "Early-pregnancy fainting is attributed in the source primarily to:",
+    "stem": "Which statement is MOST specifically associated with Hookworm in the notes?",
     "options": [
-      "Urinary infection",
-      "Inferior vena cava compression",
-      "Progesterone-related vasodilatation",
-      "Median nerve oedema"
+      "This instead describes anthrax.",
+      "Ancylostoma duodenale; larvae penetrate unbroken skin, migrate via lungs, and adults attach to duodenal mucosa",
+      "This instead describes brucellosis.",
+      "This instead describes tetanus."
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 37,
     "type": "mcq",
-    "stem": "Why may early-pregnancy fainting improve later?",
+    "stem": "A student is given the description: teaching on PPE, danger signs, first aid devices, reporting injuries, and avoiding excessive alcohol/tobacco. Which concept or condition is MOST precisely identified?",
     "options": [
-      "Compensatory increase in blood volume",
-      "Increased pelvic congestion",
-      "Complete disappearance of progesterone",
-      "Fetal-head descent"
+      "wage administration",
+      "Worker health education",
+      "industrial classification",
+      "rehabilitation only"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 38,
     "type": "mcq",
-    "stem": "Which findings must be excluded before fainting is treated as a minor pregnancy disorder?",
+    "stem": "Which statement is MOST specifically associated with Worker health education in the notes?",
     "options": [
-      "Vaginal bleeding and shock",
-      "Ptyalism and heartburn",
-      "Backache and cramps",
-      "Leucorrhoea and itching"
+      "teaching on PPE, danger signs, first aid devices, reporting injuries, and avoiding excessive alcohol/tobacco",
+      "This instead describes rehabilitation only.",
+      "This instead describes wage administration.",
+      "This instead describes industrial classification."
     ],
     "answer": "A"
   },
   {
     "id": 39,
     "type": "mcq",
-    "stem": "At 34 weeks a woman faints while supine and recovers on her side. Which mechanism BEST explains this?",
+    "stem": "A student is given the description: signage, fire extinguishers, waste control, ventilation, safe floors, exit routes, sanitation, water supply. Which concept or condition is MOST precisely identified?",
     "options": [
-      "Uterine compression of the inferior vena cava reduces venous return",
-      "The fetal head compresses the bladder",
-      "Progesterone causes acute intestinal relaxation",
-      "HCG causes acute bradycardia"
+      "salary review",
+      "family planning",
+      "case management only",
+      "Environmental control"
     ],
-    "answer": "A"
+    "answer": "D"
   },
   {
     "id": 40,
     "type": "mcq",
-    "stem": "Which prevention advice is MOST specific to late-pregnancy supine faintness?",
+    "stem": "Which statement is MOST specifically associated with Environmental control in the notes?",
     "options": [
-      "Stand in the sun to increase blood pressure",
-      "Restrict fluids",
-      "Avoid lying on the back except when necessary for abdominal examination",
-      "Avoid all lateral positions"
+      "This instead describes case management only.",
+      "This instead describes family planning.",
+      "This instead describes salary review.",
+      "signage, fire extinguishers, waste control, ventilation, safe floors, exit routes, sanitation, water supply"
     ],
-    "answer": "C"
+    "answer": "D"
   },
   {
     "id": 41,
     "type": "mcq",
-    "stem": "Which cause of uncomplicated pregnancy-related itching is specifically listed?",
+    "stem": "A student is given the description: training, protective devices, pre-employment screening, periodic exams, and emergency care. Which concept or condition is MOST precisely identified?",
     "options": [
-      "Striae gravidarum",
-      "Inferior vena cava compression",
-      "Lumbar lordosis",
-      "Median nerve compression"
+      "Worker care",
+      "canteen finance",
+      "industry classification",
+      "waste disposal only"
     ],
     "answer": "A"
   },
   {
     "id": 42,
     "type": "mcq",
-    "stem": "Which simple treatment is described as soothing for pregnancy-related itching?",
+    "stem": "Which statement is MOST specifically associated with Worker care in the notes?",
     "options": [
-      "Calamine lotion, talcum powder, and regular bathing",
-      "Antacid",
-      "Night splint",
-      "Support tights"
+      "training, protective devices, pre-employment screening, periodic exams, and emergency care",
+      "This instead describes waste disposal only.",
+      "This instead describes canteen finance.",
+      "This instead describes industry classification."
     ],
     "answer": "A"
   },
   {
     "id": 43,
     "type": "mcq",
-    "stem": "Pruritus vulvae should prompt consideration of which usual causes in the source?",
+    "stem": "A student is given the description: legal documentation and avoidance of unnecessary repetition of treatment. Which concept or condition is MOST precisely identified?",
     "options": [
-      "Malaria and typhoid",
-      "Hepatitis and influenza",
-      "Psoriasis and impetigo",
-      "Trichomonas and moniliasis"
+      "only attendance records",
+      "only injury compensation",
+      "Occupational health records",
+      "only payroll tracking"
     ],
-    "answer": "D"
+    "answer": "C"
   },
   {
     "id": 44,
     "type": "mcq",
-    "stem": "Which factor can contribute to pruritus vulvae in addition to infection?",
+    "stem": "Which statement is MOST specifically associated with Occupational health records in the notes?",
     "options": [
-      "High calcium intake",
-      "Poor personal hygiene",
-      "Sleeping laterally",
-      "Excessive calf exercise"
+      "This instead describes only attendance records.",
+      "legal documentation and avoidance of unnecessary repetition of treatment",
+      "This instead describes only payroll tracking.",
+      "This instead describes only injury compensation."
     ],
     "answer": "B"
   },
   {
     "id": 45,
     "type": "mcq",
-    "stem": "Which presentation is LEAST consistent with a simple minor cause of itching and therefore should not be casually attributed to ordinary pregnancy discomfort?",
+    "stem": "A student is given the description: infection, bronchitis, asthma, or bronchiolitis from dust/gas exposure. Which concept or condition is MOST precisely identified?",
     "options": [
-      "Mild itching over striae",
-      "Heat rash relieved by simple skin care",
-      "Severe vulval itching with features suggesting infection",
-      "Minor skin irritation improved by bathing"
+      "confusion and coma only",
+      "fractures only",
+      "infertility and sterility",
+      "Respiratory occupational effects"
     ],
-    "answer": "C"
+    "answer": "D"
   },
   {
     "id": 46,
     "type": "mcq",
-    "stem": "Which nutritional deficiencies are emphasized in glossitis and gingivitis during pregnancy?",
+    "stem": "Which statement is MOST specifically associated with Respiratory occupational effects in the notes?",
     "options": [
-      "Vitamin B and calcium",
-      "Iron and iodine only",
-      "Vitamin C and sodium",
-      "Vitamin D and potassium"
+      "This instead describes confusion and coma only.",
+      "infection, bronchitis, asthma, or bronchiolitis from dust/gas exposure",
+      "This instead describes infertility and sterility.",
+      "This instead describes fractures only."
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 47,
     "type": "mcq",
-    "stem": "Why can glossitis contribute indirectly to anaemia?",
+    "stem": "A student is given the description: crushed injuries, fractures, muscle hypertrophy or atrophy. Which concept or condition is MOST precisely identified?",
     "options": [
-      "It causes uterine bleeding",
-      "Difficulty eating may lead to malnutrition",
-      "It causes haemolysis",
-      "It directly destroys red cells"
+      "Musculoskeletal occupational effects",
+      "infertility only",
+      "hypertension only",
+      "bronchitis and asthma"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 48,
     "type": "mcq",
-    "stem": "Which treatment is specifically described for glossitis?",
+    "stem": "Which statement is MOST specifically associated with Musculoskeletal occupational effects in the notes?",
     "options": [
-      "Calamine lotion",
-      "Vitamin B complex plus foods/fruits rich in vitamin B and calcium",
-      "Support tights",
-      "H2 antagonist"
+      "This instead describes infertility only.",
+      "This instead describes hypertension only.",
+      "crushed injuries, fractures, muscle hypertrophy or atrophy",
+      "This instead describes bronchitis and asthma."
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 49,
     "type": "mcq",
-    "stem": "What is the principal source-based measure for pregnancy gingivitis?",
+    "stem": "A student is given the description: infertility, sterility, reduced sexual urge, and decreased libido. Which concept or condition is MOST precisely identified?",
     "options": [
-      "Use a sedative",
-      "Restrict calcium",
-      "Improve oral hygiene",
-      "Avoid all fruit"
+      "asthma and bronchitis",
+      "fractures and crush injuries",
+      "Reproductive occupational effects",
+      "confusion and coma"
     ],
     "answer": "C"
   },
   {
     "id": 50,
     "type": "mcq",
-    "stem": "Which symptom is specifically associated with glossitis/gingivitis in the source?",
+    "stem": "Which statement is MOST specifically associated with Reproductive occupational effects in the notes?",
     "options": [
-      "Poor tolerance of hot spicy foods",
-      "Supine faintness",
-      "Honey-colored discharge",
-      "Morning hand numbness"
-    ],
-    "answer": "A"
-  },
-  {
-    "id": 51,
-    "type": "mcq",
-    "stem": "First-trimester urinary frequency is mainly due to:",
-    "options": [
-      "Fetal-head descent",
-      "Inferior vena cava compression",
-      "Pressure of the gravid uterus on the bladder",
-      "Progesterone-induced glycosuria"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": 52,
-    "type": "mcq",
-    "stem": "Why may urinary frequency improve after the first trimester?",
-    "options": [
-      "The uterus rises into the abdomen",
-      "Progesterone disappears",
-      "The fetal head descends",
-      "The bladder enlarges permanently"
-    ],
-    "answer": "A"
-  },
-  {
-    "id": 53,
-    "type": "mcq",
-    "stem": "Why can frequency recur late in pregnancy?",
-    "options": [
-      "The fetal head descends into the pelvis",
-      "HCG rises sharply again",
-      "The uterus leaves the abdomen",
-      "Blood volume falls"
-    ],
-    "answer": "A"
-  },
-  {
-    "id": 54,
-    "type": "mcq",
-    "stem": "Which condition should ALWAYS be ruled out before attributing frequency to pregnancy?",
-    "options": [
-      "Ptyalism",
-      "Psoriasis",
-      "Urinary tract infection",
-      "Varicosities"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": 55,
-    "type": "mcq",
-    "stem": "If UTI has been excluded and frequency is physiologic, which management is described?",
-    "options": [
-      "Reassurance",
-      "Fluid restriction",
-      "Routine antibiotics",
-      "Hospital admission"
-    ],
-    "answer": "A"
-  },
-  {
-    "id": 56,
-    "type": "mcq",
-    "stem": "Physiological leucorrhoea is best defined as:",
-    "options": [
-      "Increased whitish, non-irritant vaginal discharge",
-      "Purulent painful discharge",
-      "Green discharge with fever",
-      "Bloody irritating discharge"
-    ],
-    "answer": "A"
-  },
-  {
-    "id": 57,
-    "type": "mcq",
-    "stem": "Which hygiene advice BEST matches the source for physiological leucorrhoea?",
-    "options": [
-      "Use strong antiseptic douches hourly",
-      "Wear tight synthetic underwear",
-      "Avoid washing the vulva",
-      "Wash the vulva with plain water 3â4 times daily"
+      "This instead describes fractures and crush injuries.",
+      "This instead describes confusion and coma.",
+      "This instead describes asthma and bronchitis.",
+      "infertility, sterility, reduced sexual urge, and decreased libido"
     ],
     "answer": "D"
   },
   {
+    "id": 51,
+    "type": "mcq",
+    "stem": "A student is given the description: confusion, shock, or coma. Which concept or condition is MOST precisely identified?",
+    "options": [
+      "hearing loss only",
+      "CNS occupational effects",
+      "constipation only",
+      "rashes only"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 52,
+    "type": "mcq",
+    "stem": "Which statement is MOST specifically associated with CNS occupational effects in the notes?",
+    "options": [
+      "This instead describes hearing loss only.",
+      "confusion, shock, or coma",
+      "This instead describes rashes only.",
+      "This instead describes constipation only."
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 53,
+    "type": "mcq",
+    "stem": "A student is given the description: stress-related conditions such as hypertension. Which concept or condition is MOST precisely identified?",
+    "options": [
+      "deafness only",
+      "hookworm anaemia only",
+      "Cardiovascular occupational effects",
+      "skin rash only"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 54,
+    "type": "mcq",
+    "stem": "Which statement is MOST specifically associated with Cardiovascular occupational effects in the notes?",
+    "options": [
+      "stress-related conditions such as hypertension",
+      "This instead describes hookworm anaemia only.",
+      "This instead describes skin rash only.",
+      "This instead describes deafness only."
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 55,
+    "type": "mcq",
+    "stem": "A student is given the description: immunization and use of PPE such as gloves. Which concept or condition is MOST precisely identified?",
+    "options": [
+      "return-to-work rehabilitation",
+      "Specific health protection",
+      "late disability care",
+      "post-injury compensation"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 56,
+    "type": "mcq",
+    "stem": "Which statement is MOST specifically associated with Specific health protection in the notes?",
+    "options": [
+      "This instead describes late disability care.",
+      "immunization and use of PPE such as gloves",
+      "This instead describes return-to-work rehabilitation.",
+      "This instead describes post-injury compensation."
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 57,
+    "type": "mcq",
+    "stem": "A student is given the description: education and measures that promote worker well-being before disease. Which concept or condition is MOST precisely identified?",
+    "options": [
+      "Health promotion",
+      "rehabilitation after disability",
+      "treatment after late disease",
+      "compensation only"
+    ],
+    "answer": "A"
+  },
+  {
     "id": 58,
     "type": "mcq",
-    "stem": "Which clothing advice is appropriate for leucorrhoea?",
+    "stem": "Which statement is MOST specifically associated with Health promotion in the notes?",
     "options": [
-      "Wear no underwear regardless of circumstances",
-      "Wear tight synthetic underwear",
-      "Wear cotton underwear and avoid tights",
-      "Use support tights as treatment"
+      "This instead describes rehabilitation after disability.",
+      "This instead describes compensation only.",
+      "education and measures that promote worker well-being before disease",
+      "This instead describes treatment after late disease."
     ],
     "answer": "C"
   },
   {
     "id": 59,
     "type": "mcq",
-    "stem": "Which infections should be excluded before labeling discharge physiological?",
+    "stem": "A student is given the description: keeping industrial noise low using sound-proof machinery and devices plus hearing protection. Which concept or condition is MOST precisely identified?",
     "options": [
-      "Thrush and trichomoniasis",
-      "Pneumonia and influenza",
-      "Psoriasis and impetigo",
-      "Malaria and typhoid"
+      "vaccinating against anthrax only",
+      "Sound control",
+      "increasing ventilation",
+      "using support stockings"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 60,
     "type": "mcq",
-    "stem": "Which feature MOST strongly favors physiological leucorrhoea over infection?",
+    "stem": "Which statement is MOST specifically associated with Sound control in the notes?",
     "options": [
-      "Features of trichomoniasis",
-      "Whitish non-irritant discharge",
-      "Marked vulval pruritus",
-      "Painful purulent discharge"
+      "This instead describes increasing ventilation.",
+      "keeping industrial noise low using sound-proof machinery and devices plus hearing protection",
+      "This instead describes vaccinating against anthrax only.",
+      "This instead describes using support stockings."
     ],
     "answer": "B"
   },
   {
     "id": 61,
     "type": "mcq",
-    "stem": "Which combination BEST explains late-pregnancy insomnia in the source?",
+    "stem": "A student is given the description: protective footwear, sanitation to prevent faecal contamination of streams, and treatment of infected persons. Which concept or condition is MOST precisely identified?",
     "options": [
-      "Increased blood volume only",
-      "Ptyalism, hyperemesis, and backache only",
-      "Varicosities alone",
-      "Nocturnal frequency, fetal movement, anxiety, and discomfort while lying down"
+      "Hookworm prevention",
+      "animal isolation only",
+      "ear muffs and audiometry",
+      "immunization only"
     ],
-    "answer": "D"
+    "answer": "A"
   },
   {
     "id": 62,
     "type": "mcq",
-    "stem": "Which bedtime measure is recommended for insomnia?",
+    "stem": "Which statement is MOST specifically associated with Hookworm prevention in the notes?",
     "options": [
-      "A large greasy meal",
-      "High heels",
-      "A glass of warm milk",
-      "Prolonged standing"
+      "protective footwear, sanitation to prevent faecal contamination of streams, and treatment of infected persons",
+      "This instead describes animal isolation only.",
+      "This instead describes ear muffs and audiometry.",
+      "This instead describes immunization only."
     ],
-    "answer": "C"
+    "answer": "A"
   },
   {
     "id": 63,
     "type": "mcq",
-    "stem": "Which positioning measure is recommended for sleep discomfort in late pregnancy?",
+    "stem": "A student is given the description: isolate suspected livestock and control contaminated animal exposure. Which concept or condition is MOST precisely identified?",
     "options": [
-      "Flat supine position without support",
-      "Lateral position with a pillow tucked under the abdomen",
-      "Prone sleep",
-      "Standing sleep"
+      "increase noise control",
+      "Anthrax control",
+      "avoid animal surveillance",
+      "encourage bare-foot work"
     ],
     "answer": "B"
   },
   {
     "id": 64,
     "type": "mcq",
-    "stem": "Which intervention MOST directly addresses anxiety-related insomnia?",
+    "stem": "Which statement is MOST specifically associated with Anthrax control in the notes?",
     "options": [
-      "Avoid all discussion of worries",
-      "Talk about fears and anxieties",
-      "Remain in a hot crowded room",
-      "Increase nocturnal fluid intake"
+      "This instead describes avoid animal surveillance.",
+      "isolate suspected livestock and control contaminated animal exposure",
+      "This instead describes encourage bare-foot work.",
+      "This instead describes increase noise control."
     ],
     "answer": "B"
   },
   {
     "id": 65,
     "type": "mcq",
-    "stem": "When may a sedative be considered?",
+    "stem": "A student is given the description: control infected animals and use protective clothing/gloves when handling animals or specimens. Which concept or condition is MOST precisely identified?",
     "options": [
-      "If a doctor considers it necessary",
-      "Never, under any circumstance",
-      "As routine self-medication",
-      "Only after delivery"
+      "Brucellosis control",
+      "avoid PPE",
+      "use ear plugs",
+      "increase dust exposure"
     ],
     "answer": "A"
   },
   {
     "id": 66,
     "type": "mcq",
-    "stem": "Which statement about pregnancy-related leg cramps is MOST accurate?",
+    "stem": "Which statement is MOST specifically associated with Brucellosis control in the notes?",
     "options": [
-      "They are due to HCG excess",
-      "They always indicate thrombosis",
-      "They occur only in the arms",
-      "They are usually in the legs, often worst at night, and have an uncertain cause attributed to vitamin B and calcium deficiency"
+      "This instead describes increase dust exposure.",
+      "This instead describes avoid ppe.",
+      "control infected animals and use protective clothing/gloves when handling animals or specimens",
+      "This instead describes use ear plugs."
     ],
-    "answer": "D"
+    "answer": "C"
   },
   {
     "id": 67,
     "type": "mcq",
-    "stem": "Which bedtime measure is recommended for recurrent leg cramps?",
+    "stem": "A student is given the description: promotive, preventive, curative, and rehabilitative care for workers. Which concept or condition is MOST precisely identified?",
     "options": [
-      "High-heel walking",
-      "Complete leg immobilization",
-      "Head-end elevation only",
-      "Gentle leg movement in a warm bath before bed"
+      "Occupational health objective",
+      "injury compensation only",
+      "curative care only",
+      "emergency care only"
     ],
-    "answer": "D"
+    "answer": "A"
   },
   {
     "id": 68,
     "type": "mcq",
-    "stem": "What bed modification is recommended for leg cramps?",
+    "stem": "Which statement is MOST specifically associated with Occupational health objective in the notes?",
     "options": [
-      "No positional change is described",
-      "Elevate the foot end by about 20â25 cm",
-      "Elevate the head end by 20â25 cm",
-      "Lower the foot end"
+      "promotive, preventive, curative, and rehabilitative care for workers",
+      "This instead describes injury compensation only.",
+      "This instead describes emergency care only.",
+      "This instead describes curative care only."
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 69,
     "type": "mcq",
-    "stem": "Which supplements are mentioned for leg cramps?",
+    "stem": "A student is given the description: identified in the notes as the first industrial nurse in 1888. Which concept or condition is MOST precisely identified?",
     "options": [
-      "Vitamin A and iodine",
-      "HCG and progesterone",
-      "Vitamin C and sodium",
-      "Vitamin B complex and calcium"
+      "Ada Mayo Stewart",
+      "Lillian Wald",
+      "Florence Nightingale",
+      "Clara Barton"
     ],
-    "answer": "D"
+    "answer": "A"
   },
   {
     "id": 70,
     "type": "mcq",
-    "stem": "Which action is stated to abort an acute leg cramp?",
+    "stem": "Which statement is MOST specifically associated with Ada Mayo Stewart in the notes?",
     "options": [
-      "Keep the muscle maximally shortened",
-      "Stretch the involved muscle",
-      "Remain standing without movement",
-      "Apply a wrist splint"
+      "This instead describes lillian wald.",
+      "This instead describes clara barton.",
+      "identified in the notes as the first industrial nurse in 1888",
+      "This instead describes florence nightingale."
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 71,
     "type": "fitb",
-    "stem": "Morning sickness may begin as early as ___ weeks' gestation and usually settles by about 13â14 weeks.",
-    "answer": "6",
+    "stem": "The prevention level used before disease begins is ___ prevention.",
+    "answer": "primary",
     "acceptableAnswers": [
-      "6",
-      "six",
-      "6 weeks",
-      "six weeks"
+      "primary",
+      "primary prevention"
     ]
   },
   {
     "id": 72,
     "type": "fitb",
-    "stem": "Persistent vomiting with dehydration and ketosis in pregnancy is called ___.",
-    "answer": "hyperemesis gravidarum",
+    "stem": "Early detection and prompt treatment are features of ___ prevention.",
+    "answer": "secondary",
     "acceptableAnswers": [
-      "hyperemesis gravidarum",
-      "hyperemesis"
+      "secondary",
+      "secondary prevention"
     ]
   },
   {
     "id": 73,
     "type": "fitb",
-    "stem": "The hormone mentioned alongside estrogen as a possible contributor to morning sickness is ___.",
-    "answer": "HCG",
+    "stem": "Rehabilitation and restoration of maximum function are features of ___ prevention.",
+    "answer": "tertiary",
     "acceptableAnswers": [
-      "HCG",
-      "hCG",
-      "human chorionic gonadotropin",
-      "human chorionic gonadotrophin"
+      "tertiary",
+      "tertiary prevention"
     ]
   },
   {
     "id": 74,
     "type": "fitb",
-    "stem": "For ordinary morning sickness, adequate fluid is advised but preferably not taken with ___.",
-    "answer": "food",
+    "stem": "An industry with 50 workers or fewer is classified as ___ scale.",
+    "answer": "small",
     "acceptableAnswers": [
-      "food",
-      "meals"
+      "small",
+      "small scale"
     ]
   },
   {
     "id": 75,
     "type": "fitb",
-    "stem": "Pregnancy heartburn is linked to relaxation of gastric sphincters under the influence of elevated ___.",
-    "answer": "progesterone",
+    "stem": "An industry with 51â1000 workers is classified as ___ scale.",
+    "answer": "medium",
     "acceptableAnswers": [
-      "progesterone"
+      "medium",
+      "medium scale"
     ]
   },
   {
     "id": 76,
     "type": "fitb",
-    "stem": "The exaggerated spinal curvature associated with pregnancy-related backache is increased lumbar ___.",
-    "answer": "lordosis",
+    "stem": "An industry with more than 1000 workers is classified as ___ scale.",
+    "answer": "large",
     "acceptableAnswers": [
-      "lordosis",
-      "lumbar lordosis"
+      "large",
+      "large scale"
     ]
   },
   {
     "id": 77,
     "type": "fitb",
-    "stem": "Pregnancy-related carpal tunnel symptoms result from oedema placing pressure on the ___ nerve.",
-    "answer": "median",
+    "stem": "The two group occupational health-service models are ___ type and ___ type.",
+    "answer": "area; estate",
     "acceptableAnswers": [
-      "median",
-      "median nerve"
+      "area; estate",
+      "area and estate",
+      "area, estate"
     ]
   },
   {
     "id": 78,
     "type": "fitb",
-    "stem": "Excessive salivation with intermittent spitting beginning around the eighth week is called ___.",
-    "answer": "ptyalism",
+    "stem": "Gas, dust, vapour, and liquid exposures are classified as ___ hazards.",
+    "answer": "chemical",
     "acceptableAnswers": [
-      "ptyalism"
+      "chemical",
+      "chemical hazards"
     ]
   },
   {
     "id": 79,
     "type": "fitb",
-    "stem": "Constipation in pregnancy is attributed to progesterone acting on the ___ muscle of the intestinal wall.",
-    "answer": "smooth",
+    "stem": "Noise, temperature variation, radiant energy, electricity, and height are ___ hazards.",
+    "answer": "physical",
     "acceptableAnswers": [
-      "smooth",
-      "smooth muscle"
+      "physical",
+      "physical hazards"
     ]
   },
   {
     "id": 80,
     "type": "fitb",
-    "stem": "Varicose veins may occur in the legs, vulva, and anus, where they are called ___.",
-    "answer": "haemorrhoids",
+    "stem": "Pressure, strain, unsafe equipment, and excessive movement are ___ hazards.",
+    "answer": "mechanical",
     "acceptableAnswers": [
-      "haemorrhoids",
-      "hemorrhoids",
-      "haemorrhoid",
-      "hemorrhoid"
+      "mechanical",
+      "mechanical hazards"
     ]
   },
   {
     "id": 81,
     "type": "fitb",
-    "stem": "A woman with leg varicosities may exercise the calf muscles by rising onto her ___.",
-    "answer": "toes",
+    "stem": "Bacteria, viruses, fungi, protozoa, and parasites are ___ hazards.",
+    "answer": "biological",
     "acceptableAnswers": [
-      "toes",
-      "tiptoes",
-      "toe tips"
+      "biological",
+      "biological hazards"
     ]
   },
   {
     "id": 82,
     "type": "fitb",
-    "stem": "Early-pregnancy fainting is attributed to vasodilatation under the influence of ___.",
-    "answer": "progesterone",
+    "stem": "Stress, emotional strain, and interpersonal problems are ___ hazards.",
+    "answer": "psychosocial",
     "acceptableAnswers": [
-      "progesterone"
+      "psychosocial",
+      "psychosocial hazards"
     ]
   },
   {
     "id": 83,
     "type": "fitb",
-    "stem": "In late pregnancy, supine faintness may occur when the gravid uterus compresses the inferior ___ ___.",
-    "answer": "vena cava",
+    "stem": "The causative organism of tetanus is ___ ___.",
+    "answer": "Clostridium tetani",
     "acceptableAnswers": [
-      "vena cava",
-      "inferior vena cava"
+      "Clostridium tetani",
+      "C. tetani"
     ]
   },
   {
     "id": 84,
     "type": "fitb",
-    "stem": "Before attributing fainting to a minor pregnancy disorder, vaginal bleeding and ___ should be excluded.",
-    "answer": "shock",
+    "stem": "The incubation period for tetanus given in the notes is ___ to ___ days.",
+    "answer": "4; 28",
     "acceptableAnswers": [
-      "shock"
+      "4; 28",
+      "4-28",
+      "4 to 28",
+      "4â28"
     ]
   },
   {
     "id": 85,
     "type": "fitb",
-    "stem": "The two usual causes of pruritus vulvae named in the source are trichomonas and ___.",
-    "answer": "moniliasis",
+    "stem": "The test used to determine the degree of occupational deafness is an ___ test.",
+    "answer": "audiometric",
     "acceptableAnswers": [
-      "moniliasis",
-      "candidiasis",
-      "candida"
+      "audiometric",
+      "audiometry",
+      "audiometric test"
     ]
   },
   {
     "id": 86,
     "type": "fitb",
-    "stem": "Glossitis and gingivitis are linked to inadequate vitamin B and ___ intake plus poor oral hygiene.",
-    "answer": "calcium",
+    "stem": "The causative organism of anthrax is ___ ___.",
+    "answer": "Bacillus anthracis",
     "acceptableAnswers": [
-      "calcium",
-      "Ca"
+      "Bacillus anthracis",
+      "B. anthracis"
     ]
   },
   {
     "id": 87,
     "type": "fitb",
-    "stem": "First-trimester urinary frequency results from pressure of the gravid uterus on the urinary ___.",
-    "answer": "bladder",
+    "stem": "The incubation period for anthrax listed in the notes is ___ to ___ days.",
+    "answer": "2; 7",
     "acceptableAnswers": [
-      "bladder",
-      "urinary bladder"
+      "2; 7",
+      "2-7",
+      "2 to 7",
+      "2â7"
     ]
   },
   {
     "id": 88,
     "type": "fitb",
-    "stem": "Urinary frequency may recur late in pregnancy when the fetal ___ descends into the pelvis.",
-    "answer": "head",
+    "stem": "Inhalational anthrax in wool workers is referred to as ___ sorters' disease.",
+    "answer": "wool",
     "acceptableAnswers": [
-      "head",
-      "fetal head",
-      "foetal head"
+      "wool",
+      "wool sorters"
     ]
   },
   {
     "id": 89,
     "type": "fitb",
-    "stem": "Before physiological pregnancy-related urinary frequency is assumed, ___ should be ruled out.",
-    "answer": "UTI",
+    "stem": "Brucellosis may be acquired from infected cattle through infected ___ or animal products.",
+    "answer": "milk",
     "acceptableAnswers": [
-      "UTI",
-      "urinary tract infection",
-      "urinary tract infections"
+      "milk",
+      "infected milk"
     ]
   },
   {
     "id": 90,
     "type": "fitb",
-    "stem": "The physiological term for increased whitish, non-irritant vaginal discharge in pregnancy is ___.",
-    "answer": "leucorrhoea",
+    "stem": "Hookworm disease is caused by ___ ___.",
+    "answer": "Ancylostoma duodenale",
     "acceptableAnswers": [
-      "leucorrhoea",
-      "leukorrhea",
-      "leucorrhea"
+      "Ancylostoma duodenale",
+      "A. duodenale"
     ]
   },
   {
     "id": 91,
     "type": "fitb",
-    "stem": "For troublesome physiological leucorrhoea, the vulva may be washed with plain water about ___ to ___ times daily.",
-    "answer": "3; 4",
+    "stem": "Hookworm larvae enter the body by penetrating ___ skin.",
+    "answer": "unbroken",
     "acceptableAnswers": [
-      "3; 4",
-      "3-4",
-      "3 to 4",
-      "three to four"
+      "unbroken",
+      "intact",
+      "unbroken skin"
     ]
   },
   {
     "id": 92,
     "type": "fitb",
-    "stem": "Before labeling discharge as physiological leucorrhoea, the source says to exclude thrush and ___.",
-    "answer": "trichomoniasis",
+    "stem": "Adult hookworms attach to the mucosa of the ___.",
+    "answer": "duodenum",
     "acceptableAnswers": [
-      "trichomoniasis",
-      "trichomonas"
+      "duodenum",
+      "duodenal mucosa"
     ]
   },
   {
     "id": 93,
     "type": "fitb",
-    "stem": "Late-pregnancy insomnia may be worsened by nocturnal frequency, fetal movement, anxiety, and physical ___.",
-    "answer": "discomfort",
+    "stem": "A key personal protection measure against hookworm is protective ___.",
+    "answer": "footwear",
     "acceptableAnswers": [
-      "discomfort",
-      "discomfort while lying down"
+      "footwear",
+      "shoes",
+      "protective footwear"
     ]
   },
   {
     "id": 94,
     "type": "fitb",
-    "stem": "For insomnia, a pillow may be tucked under the abdomen while the woman lies in a ___ position.",
-    "answer": "lateral",
+    "stem": "The first industrial nurse named in the notes is ___ Mayo Stewart.",
+    "answer": "Ada",
     "acceptableAnswers": [
-      "lateral",
-      "side-lying",
-      "side lying"
+      "Ada",
+      "Ada Mayo Stewart"
     ]
   },
   {
     "id": 95,
     "type": "fitb",
-    "stem": "Pregnancy-related leg cramps are described as being worst at ___.",
-    "answer": "night",
+    "stem": "Occupational health records are maintained partly for ___ reasons.",
+    "answer": "legal",
     "acceptableAnswers": [
-      "night",
-      "nighttime",
-      "night time"
+      "legal",
+      "legal reasons"
     ]
   },
   {
     "id": 96,
     "type": "fitb",
-    "stem": "The nutritional deficiencies associated with leg cramps in the source are vitamin B and ___.",
-    "answer": "calcium",
+    "stem": "Provision of gloves and immunization are examples of specific health ___.",
+    "answer": "protection",
     "acceptableAnswers": [
-      "calcium",
-      "Ca"
+      "protection",
+      "health protection"
     ]
   },
   {
     "id": 97,
     "type": "fitb",
-    "stem": "For recurrent leg cramps, the foot end of the bed may be elevated approximately ___ to ___ cm.",
-    "answer": "20; 25",
+    "stem": "A worker who develops confusion, shock, or coma is showing occupational effects involving the ___.",
+    "answer": "CNS",
     "acceptableAnswers": [
-      "20; 25",
-      "20-25",
-      "20 to 25",
-      "20â25"
+      "CNS",
+      "central nervous system"
     ]
   },
   {
     "id": 98,
     "type": "fitb",
-    "stem": "An acute leg cramp may be aborted by ___ the involved muscle.",
-    "answer": "stretching",
+    "stem": "Infertility, sterility, and decreased libido are listed under the ___ system.",
+    "answer": "reproductive",
     "acceptableAnswers": [
-      "stretching",
-      "stretch"
+      "reproductive",
+      "reproductive system"
     ]
   },
   {
     "id": 99,
     "type": "fitb",
-    "stem": "Most enlarged pregnancy-related varicose veins disappear after ___.",
-    "answer": "delivery",
+    "stem": "Bronchitis and asthma from dust and gas exposure involve the ___ system.",
+    "answer": "respiratory",
     "acceptableAnswers": [
-      "delivery",
-      "childbirth",
-      "birth"
+      "respiratory",
+      "respiratory system"
     ]
   },
   {
     "id": 100,
     "type": "fitb",
-    "stem": "The general role of professionals caring for women with minor disorders is to offer advice and ___.",
-    "answer": "reassurance",
+    "stem": "Proper placement of signboards, ventilation, safe floors, exit routes, sanitation, and water supply are ___ control measures.",
+    "answer": "environmental",
     "acceptableAnswers": [
-      "reassurance",
-      "reassure"
+      "environmental",
+      "environmental control"
     ]
   }
 ]
