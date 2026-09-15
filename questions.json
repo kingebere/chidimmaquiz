@@ -2,1149 +2,1130 @@
   {
     "id": 1,
     "type": "mcq",
-    "stem": "A student is given the description: education, immunization, PPE, and hazard control before disease begins. Which concept or condition is MOST precisely identified?",
+    "stem": "A coal-tar derivative causes no reaction initially but dermatitis after repeated exposure. How is it classified?",
     "options": [
-      "Primary prevention",
-      "Secondary prevention",
-      "Tertiary prevention",
-      "Rehabilitation"
-    ],
-    "answer": "A"
-  },
-  {
-    "id": 2,
-    "type": "mcq",
-    "stem": "Which statement is MOST specifically associated with Primary prevention in the notes?",
-    "options": [
-      "This instead describes secondary prevention.",
-      "education, immunization, PPE, and hazard control before disease begins",
-      "This instead describes rehabilitation.",
-      "This instead describes tertiary prevention."
+      "Primary irritant",
+      "Secondary sensitizer",
+      "Physical factor",
+      "Mechanical factor"
     ],
     "answer": "B"
   },
   {
+    "id": 2,
+    "type": "mcq",
+    "stem": "Which pairing is inconsistent with the notes?",
+    "options": [
+      "Strong alkali—primary irritation",
+      "Friction—mechanical trauma",
+      "Artificial UV—physical injury",
+      "Bacteria—secondary chemical sensitization"
+    ],
+    "answer": "D"
+  },
+  {
     "id": 3,
     "type": "mcq",
-    "stem": "A student is given the description: early detection, prompt treatment, and limitation of progression after disease has begun. Which concept or condition is MOST precisely identified?",
+    "stem": "An acute-like occupational skin disease in a worker handling petroleum oils and grease is most consistent with:",
     "options": [
-      "Secondary prevention",
-      "Primary prevention",
-      "Health promotion only",
-      "Tertiary prevention"
+      "Acne-like skin disease",
+      "Byssinosis",
+      "Ionizing disease",
+      "Lead poisoning"
     ],
     "answer": "A"
   },
   {
     "id": 4,
     "type": "mcq",
-    "stem": "Which statement is MOST specifically associated with Secondary prevention in the notes?",
+    "stem": "Which exposure combination is specifically linked with occupational pigment change?",
     "options": [
-      "early detection, prompt treatment, and limitation of progression after disease has begun",
-      "This instead describes health promotion only.",
-      "This instead describes tertiary prevention.",
-      "This instead describes primary prevention."
+      "Chemical oils and sunlight",
+      "Cotton and coal dust",
+      "Heat and friction only",
+      "Ammonia and CO"
     ],
     "answer": "A"
   },
   {
     "id": 5,
     "type": "mcq",
-    "stem": "A student is given the description: rehabilitation and restoration of maximum possible function. Which concept or condition is MOST precisely identified?",
+    "stem": "Sunlight, X-ray, tar and arsenic trioxide share which serious skin consequence in the notes?",
     "options": [
-      "Secondary prevention",
-      "Specific protection",
-      "Primary prevention",
-      "Tertiary prevention"
+      "Cancer",
+      "Wrist drop",
+      "Cataract only",
+      "Sterility"
     ],
-    "answer": "D"
+    "answer": "A"
   },
   {
     "id": 6,
     "type": "mcq",
-    "stem": "Which statement is MOST specifically associated with Tertiary prevention in the notes?",
+    "stem": "Which dermatitis control changes the process rather than merely protecting the worker?",
     "options": [
-      "This instead describes primary prevention.",
-      "This instead describes specific protection.",
-      "rehabilitation and restoration of maximum possible function",
-      "This instead describes secondary prevention."
+      "Barrier cream",
+      "Periodic examination",
+      "Enclosure/substitution",
+      "Prompt abrasion treatment"
     ],
     "answer": "C"
   },
   {
     "id": 7,
     "type": "mcq",
-    "stem": "A student is given the description: 50 workers or fewer. Which concept or condition is MOST precisely identified?",
+    "stem": "Which worker is explicitly at risk of ionizing radiation disease?",
     "options": [
-      "exactly 5000 workers",
-      "51â1000 workers",
-      "more than 1000 workers",
-      "Small-scale industry"
+      "Radiographer",
+      "Textile worker",
+      "Sugar worker",
+      "Cocoa farmer"
     ],
-    "answer": "D"
+    "answer": "A"
   },
   {
     "id": 8,
     "type": "mcq",
-    "stem": "Which statement is MOST specifically associated with Small-scale industry in the notes?",
+    "stem": "Radiation-induced gonadal fibrosis may result in:",
     "options": [
-      "50 workers or fewer",
-      "This instead describes exactly 5000 workers.",
-      "This instead describes 51â1000 workers.",
-      "This instead describes more than 1000 workers."
+      "Sterility",
+      "Cataract",
+      "Sarcoma",
+      "Leukaemia"
     ],
     "answer": "A"
   },
   {
     "id": 9,
     "type": "mcq",
-    "stem": "A student is given the description: 51â1000 workers. Which concept or condition is MOST precisely identified?",
+    "stem": "Which radiation effect is correctly matched?",
     "options": [
-      "more than 1000 workers",
-      "only 100 workers",
-      "50 workers or fewer",
-      "Medium-scale industry"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": 10,
-    "type": "mcq",
-    "stem": "Which statement is MOST specifically associated with Medium-scale industry in the notes?",
-    "options": [
-      "51â1000 workers",
-      "This instead describes only 100 workers.",
-      "This instead describes more than 1000 workers.",
-      "This instead describes 50 workers or fewer."
+      "Bone—sarcoma",
+      "Eye—leukaemia",
+      "Blood—cataract",
+      "Lung—sterility"
     ],
     "answer": "A"
   },
   {
+    "id": 10,
+    "type": "mcq",
+    "stem": "What surveillance is recommended after a radiation-exposed worker leaves the job?",
+    "options": [
+      "Stop examinations",
+      "Continue medical examinations",
+      "Screen only if symptomatic",
+      "Use barrier cream"
+    ],
+    "answer": "B"
+  },
+  {
     "id": 11,
     "type": "mcq",
-    "stem": "A student is given the description: more than 1000 workers. Which concept or condition is MOST precisely identified?",
+    "stem": "Which PPE is specifically listed against penetration of radiation?",
     "options": [
-      "Large-scale industry",
-      "exactly 1000 workers",
-      "51â1000 workers",
-      "50 workers or fewer"
+      "Lead apron",
+      "Respirator",
+      "Rubber boot",
+      "Barrier cream"
     ],
     "answer": "A"
   },
   {
     "id": 12,
     "type": "mcq",
-    "stem": "Which statement is MOST specifically associated with Large-scale industry in the notes?",
+    "stem": "Colicky cramps, constipation, anemia and a firm abdomen in a battery worker suggest:",
     "options": [
-      "This instead describes exactly 1000 workers.",
-      "more than 1000 workers",
-      "This instead describes 51â1000 workers.",
-      "This instead describes 50 workers or fewer."
+      "Inorganic lead poisoning",
+      "Organic lead poisoning",
+      "Mercury poisoning",
+      "CO poisoning"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 13,
     "type": "mcq",
-    "stem": "A student is given the description: a nurse moves among industries while doctors visit periodically. Which concept or condition is MOST precisely identified?",
+    "stem": "Which finding is described as a rare classical sign of inorganic lead poisoning?",
     "options": [
-      "no clinic or nurse is used",
-      "workers attend one central clinic and the nurse does not visit industries",
-      "Area-type service",
-      "only doctors provide services"
+      "Wrist drop",
+      "Diplopia",
+      "Cherry-red skin",
+      "Bronchial spasm"
     ],
-    "answer": "C"
+    "answer": "A"
   },
   {
     "id": 14,
     "type": "mcq",
-    "stem": "Which statement is MOST specifically associated with Area-type service in the notes?",
+    "stem": "A petrol-storage-tank cleaner develops insomnia, metallic taste, headache and diplopia. The likely agent is:",
     "options": [
-      "a nurse moves among industries while doctors visit periodically",
-      "This instead describes only doctors provide services.",
-      "This instead describes no clinic or nurse is used.",
-      "This instead describes workers attend one central clinic and the nurse does not visit industries."
+      "Tetra-ethyl lead",
+      "Silica",
+      "Beryllium",
+      "Chlorine"
     ],
     "answer": "A"
   },
   {
     "id": 15,
     "type": "mcq",
-    "stem": "A student is given the description: workers from different industries come to a clinic and the nurse does not visit the industries. Which concept or condition is MOST precisely identified?",
+    "stem": "Which finding favors the organic lead syndrome described in the notes?",
     "options": [
-      "doctors visit each industry every day",
-      "a nurse moves from one industry to another",
-      "services are limited to agriculture",
-      "Estate-type service"
+      "Fall in BP and body temperature",
+      "Blue gum line",
+      "Colicky constipation",
+      "Firm abdomen"
     ],
-    "answer": "D"
+    "answer": "A"
   },
   {
     "id": 16,
     "type": "mcq",
-    "stem": "Which statement is MOST specifically associated with Estate-type service in the notes?",
+    "stem": "Which engineering measure removes lead dust/fume near its source?",
     "options": [
-      "workers from different industries come to a clinic and the nurse does not visit the industries",
-      "This instead describes services are limited to agriculture.",
-      "This instead describes a nurse moves from one industry to another.",
-      "This instead describes doctors visit each industry every day."
+      "Local exhaust ventilation",
+      "Calcium-rich diet",
+      "Medical examination",
+      "Protective clothing"
     ],
     "answer": "A"
   },
   {
     "id": 17,
     "type": "mcq",
-    "stem": "A student is given the description: gas, dust, vapour, or liquid exposure. Which concept or condition is MOST precisely identified?",
+    "stem": "Which measure suppresses lead dust during smelting?",
     "options": [
-      "stress and interpersonal strain",
-      "noise and radiant energy",
-      "Chemical hazard",
-      "bacteria and fungi"
+      "Damping/wetting floors",
+      "UV shielding",
+      "Barrier cream",
+      "Room cooling"
     ],
-    "answer": "C"
+    "answer": "A"
   },
   {
     "id": 18,
     "type": "mcq",
-    "stem": "Which statement is MOST specifically associated with Chemical hazard in the notes?",
+    "stem": "What dietary provision is listed for lead-exposed workers?",
     "options": [
-      "This instead describes noise and radiant energy.",
-      "gas, dust, vapour, or liquid exposure",
-      "This instead describes bacteria and fungi.",
-      "This instead describes stress and interpersonal strain."
+      "Calcium-rich diet",
+      "Iron-free diet",
+      "High-fat diet",
+      "Low-protein diet"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 19,
     "type": "mcq",
-    "stem": "A student is given the description: noise, temperature variation, radiant energy, electricity, or height. Which concept or condition is MOST precisely identified?",
+    "stem": "Which occupation-cancer association appears in the notes?",
     "options": [
-      "bacteria and parasites",
-      "gases and vapours",
-      "emotional strain",
-      "Physical hazard"
+      "Chimney sweeps—scrotal cancer",
+      "Cotton workers—bladder cancer",
+      "Coal miners—liver cancer",
+      "Potters—nasal cancer"
     ],
-    "answer": "D"
+    "answer": "A"
   },
   {
     "id": 20,
     "type": "mcq",
-    "stem": "Which statement is MOST specifically associated with Physical hazard in the notes?",
+    "stem": "Radioactive metal, nickel, chromate, asbestos and iron-ore exposure is linked with cancer of the:",
     "options": [
-      "This instead describes gases and vapours.",
-      "This instead describes emotional strain.",
-      "This instead describes bacteria and parasites.",
-      "noise, temperature variation, radiant energy, electricity, or height"
+      "Lung",
+      "Bladder",
+      "Liver",
+      "Nasal sinus"
     ],
-    "answer": "D"
+    "answer": "A"
   },
   {
     "id": 21,
     "type": "mcq",
-    "stem": "A student is given the description: pressure, physical strain, unsafe equipment, or excessive movement. Which concept or condition is MOST precisely identified?",
+    "stem": "Aromatic amines used in plastic industries are listed as causative agents of:",
     "options": [
-      "Mechanical hazard",
-      "interpersonal conflict",
-      "fungi and viruses",
-      "chemical vapours only"
+      "Bladder cancer",
+      "Liver cancer",
+      "Skin cancer",
+      "Bone cancer"
     ],
     "answer": "A"
   },
   {
     "id": 22,
     "type": "mcq",
-    "stem": "Which statement is MOST specifically associated with Mechanical hazard in the notes?",
+    "stem": "Which workers are listed with dye and pharmaceutical workers under bladder cancer risk?",
     "options": [
-      "pressure, physical strain, unsafe equipment, or excessive movement",
-      "This instead describes fungi and viruses.",
-      "This instead describes interpersonal conflict.",
-      "This instead describes chemical vapours only."
+      "Rubber and plastic-material workers",
+      "Coal miners",
+      "Farmers",
+      "Radiographers"
     ],
     "answer": "A"
   },
   {
     "id": 23,
     "type": "mcq",
-    "stem": "A student is given the description: bacteria, viruses, protozoa, fungi, or parasites. Which concept or condition is MOST precisely identified?",
+    "stem": "Wood dust and nickel are associated with cancer of the:",
     "options": [
-      "Biological hazard",
-      "emotional strain",
-      "gases and vapours",
-      "noise and heat"
+      "Nasal sinus",
+      "Liver",
+      "Bladder",
+      "Skin"
     ],
     "answer": "A"
   },
   {
     "id": 24,
     "type": "mcq",
-    "stem": "Which statement is MOST specifically associated with Biological hazard in the notes?",
+    "stem": "Benzidine and arsenical insecticide exposure are associated with:",
     "options": [
-      "This instead describes emotional strain.",
-      "bacteria, viruses, protozoa, fungi, or parasites",
-      "This instead describes gases and vapours.",
-      "This instead describes noise and heat."
+      "Liver cancer",
+      "Nasal sinus cancer",
+      "Bone cancer",
+      "Scrotal cancer"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 25,
     "type": "mcq",
-    "stem": "A student is given the description: stress, emotional strain, or interpersonal problems related to work. Which concept or condition is MOST precisely identified?",
+    "stem": "The notes divide dust-induced occupational lung disorders into:",
     "options": [
-      "radiant energy",
-      "dust and vapour",
-      "Psychosocial hazard",
-      "infectious organisms"
+      "Pneumoconiosis, byssinosis, extrinsic allergic alveolitis",
+      "Silicosis, asthma, anthrax",
+      "Asbestosis, bronchitis, emphysema",
+      "Bagassosis, siderosis, cancer"
     ],
-    "answer": "C"
+    "answer": "A"
   },
   {
     "id": 26,
     "type": "mcq",
-    "stem": "Which statement is MOST specifically associated with Psychosocial hazard in the notes?",
+    "stem": "Pneumoconiosis is characterized in the notes primarily by:",
     "options": [
-      "stress, emotional strain, or interpersonal problems related to work",
-      "This instead describes infectious organisms.",
-      "This instead describes dust and vapour.",
-      "This instead describes radiant energy."
+      "Chronic fibrotic change from mineral dust",
+      "Acute bacterial alveolitis",
+      "Chemical skin sensitization",
+      "Solvent narcosis"
     ],
     "answer": "A"
   },
   {
     "id": 27,
     "type": "mcq",
-    "stem": "A student is given the description: Clostridium tetani; incubation 4â28 days; prevention includes immunization and protective footwear/clothing. Which concept or condition is MOST precisely identified?",
+    "stem": "Free-silica inhalation among sandstone cutters and pottery workers causes:",
     "options": [
-      "Tetanus",
-      "Bacillus anthracis disease",
-      "occupational deafness",
-      "hookworm infection"
+      "Silicosis",
+      "Asbestosis",
+      "Siderosis",
+      "Byssinosis"
     ],
     "answer": "A"
   },
   {
     "id": 28,
     "type": "mcq",
-    "stem": "Which statement is MOST specifically associated with Tetanus in the notes?",
+    "stem": "Coal-dust inhalation among coal miners is associated with:",
     "options": [
-      "Clostridium tetani; incubation 4â28 days; prevention includes immunization and protective footwear/clothing",
-      "This instead describes hookworm infection.",
-      "This instead describes bacillus anthracis disease.",
-      "This instead describes occupational deafness."
+      "Coal miner pneumoconiosis",
+      "Bagassosis",
+      "Stannosis",
+      "Farmer lung"
     ],
     "answer": "A"
   },
   {
     "id": 29,
     "type": "mcq",
-    "stem": "A student is given the description: hearing loss from prolonged high-intensity noise exposure; assessed with audiometry. Which concept or condition is MOST precisely identified?",
+    "stem": "Silica plus other irritant dust such as coal or iron dust among welders may produce:",
     "options": [
-      "brucellosis",
-      "anthrax",
-      "Occupational deafness",
-      "tetanus"
+      "Mixed dust disease",
+      "Pure asbestosis",
+      "Byssinosis",
+      "Bagassosis"
     ],
-    "answer": "C"
+    "answer": "A"
   },
   {
     "id": 30,
     "type": "mcq",
-    "stem": "Which statement is MOST specifically associated with Occupational deafness in the notes?",
+    "stem": "Peroxide exposure in ink, glass and insecticide industries is linked in the notes to:",
     "options": [
-      "hearing loss from prolonged high-intensity noise exposure; assessed with audiometry",
-      "This instead describes tetanus.",
-      "This instead describes anthrax.",
-      "This instead describes brucellosis."
+      "Baritosis",
+      "Stannosis",
+      "Siderosis",
+      "Silicosis"
     ],
     "answer": "A"
   },
   {
     "id": 31,
     "type": "mcq",
-    "stem": "A student is given the description: Bacillus anthracis; incubation 2â7 days; cutaneous, inhalational, or gastrointestinal routes. Which concept or condition is MOST precisely identified?",
+    "stem": "Tin deposition in lungs among mirror-manufacturing workers is:",
     "options": [
-      "occupational deafness",
-      "Clostridium tetani infection",
-      "hookworm infection",
-      "Anthrax"
+      "Stannosis",
+      "Siderosis",
+      "Baritosis",
+      "Asbestosis"
     ],
-    "answer": "D"
+    "answer": "A"
   },
   {
     "id": 32,
     "type": "mcq",
-    "stem": "Which statement is MOST specifically associated with Anthrax in the notes?",
+    "stem": "Iron-dust inhalation among steel and iron workers causes:",
     "options": [
-      "This instead describes clostridium tetani infection.",
-      "This instead describes occupational deafness.",
-      "This instead describes hookworm infection.",
-      "Bacillus anthracis; incubation 2â7 days; cutaneous, inhalational, or gastrointestinal routes"
+      "Siderosis",
+      "Silicosis",
+      "Byssinosis",
+      "Bagassosis"
     ],
-    "answer": "D"
+    "answer": "A"
   },
   {
     "id": 33,
     "type": "mcq",
-    "stem": "A student is given the description: zoonotic infection linked to infected cattle, milk, or animal products. Which concept or condition is MOST precisely identified?",
+    "stem": "An asthma-like disorder after years of cotton-dust exposure is:",
     "options": [
-      "mechanical injury",
-      "hookworm infection",
-      "occupational deafness",
-      "Brucellosis"
+      "Byssinosis",
+      "Bagassosis",
+      "Farmer lung",
+      "Asbestosis"
     ],
-    "answer": "D"
+    "answer": "A"
   },
   {
     "id": 34,
     "type": "mcq",
-    "stem": "Which statement is MOST specifically associated with Brucellosis in the notes?",
+    "stem": "Extrinsic allergic alveolitis is described as dust-induced alveolitis causing:",
     "options": [
-      "This instead describes occupational deafness.",
-      "This instead describes hookworm infection.",
-      "zoonotic infection linked to infected cattle, milk, or animal products",
-      "This instead describes mechanical injury."
+      "Reduced gas transfer across the blood barrier",
+      "Skin ulceration",
+      "Wrist drop",
+      "Bone sarcoma"
     ],
-    "answer": "C"
+    "answer": "A"
   },
   {
     "id": 35,
     "type": "mcq",
-    "stem": "A student is given the description: Ancylostoma duodenale; larvae penetrate unbroken skin, migrate via lungs, and adults attach to duodenal mucosa. Which concept or condition is MOST precisely identified?",
+    "stem": "Mouldy bagasse dust after sugar-cane juice extraction causes:",
     "options": [
-      "Tetanus",
-      "Hookworm",
-      "Anthrax",
-      "Brucellosis"
+      "Bagassosis",
+      "Byssinosis",
+      "Siderosis",
+      "Silicosis"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 36,
     "type": "mcq",
-    "stem": "Which statement is MOST specifically associated with Hookworm in the notes?",
+    "stem": "Spore-laden dust from mouldy hay and straw is associated with:",
     "options": [
-      "This instead describes anthrax.",
-      "Ancylostoma duodenale; larvae penetrate unbroken skin, migrate via lungs, and adults attach to duodenal mucosa",
-      "This instead describes brucellosis.",
-      "This instead describes tetanus."
+      "Farmer lung",
+      "Bagassosis",
+      "Baritosis",
+      "Stannosis"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 37,
     "type": "mcq",
-    "stem": "A student is given the description: teaching on PPE, danger signs, first aid devices, reporting injuries, and avoiding excessive alcohol/tobacco. Which concept or condition is MOST precisely identified?",
+    "stem": "Which control prevents occupational dust from becoming airborne?",
     "options": [
-      "wage administration",
-      "Worker health education",
-      "industrial classification",
-      "rehabilitation only"
+      "Wetting",
+      "Periodic examination",
+      "Medical treatment",
+      "Barrier cream"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 38,
     "type": "mcq",
-    "stem": "Which statement is MOST specifically associated with Worker health education in the notes?",
+    "stem": "Which control prevents dust from escaping into the general atmosphere?",
     "options": [
-      "teaching on PPE, danger signs, first aid devices, reporting injuries, and avoiding excessive alcohol/tobacco",
-      "This instead describes rehabilitation only.",
-      "This instead describes wage administration.",
-      "This instead describes industrial classification."
+      "Isolation in an enclosed room",
+      "Periodic examination",
+      "Calcium supplementation",
+      "Worker rotation only"
     ],
     "answer": "A"
   },
   {
     "id": 39,
     "type": "mcq",
-    "stem": "A student is given the description: signage, fire extinguishers, waste control, ventilation, safe floors, exit routes, sanitation, water supply. Which concept or condition is MOST precisely identified?",
+    "stem": "A chlorinated hydrocarbon insecticide absorbed through skin and harmful to the kidney is:",
     "options": [
-      "salary review",
-      "family planning",
-      "case management only",
-      "Environmental control"
+      "Aldrin",
+      "Ammonia",
+      "Beryllium",
+      "Toluene"
     ],
-    "answer": "D"
+    "answer": "A"
   },
   {
     "id": 40,
     "type": "mcq",
-    "stem": "Which statement is MOST specifically associated with Environmental control in the notes?",
+    "stem": "A fertilizer worker develops sudden bronchial spasm after inhaling a pungent gas. Which agent?",
     "options": [
-      "This instead describes case management only.",
-      "This instead describes family planning.",
-      "This instead describes salary review.",
-      "signage, fire extinguishers, waste control, ventilation, safe floors, exit routes, sanitation, water supply"
+      "Ammonia",
+      "CO",
+      "Mercury",
+      "Toluene"
     ],
-    "answer": "D"
+    "answer": "A"
   },
   {
     "id": 41,
     "type": "mcq",
-    "stem": "A student is given the description: training, protective devices, pre-employment screening, periodic exams, and emergency care. Which concept or condition is MOST precisely identified?",
+    "stem": "A pleasant-smelling volatile solvent causes dizziness, vomiting, unconsciousness, anemia and bone-marrow toxicity. Which?",
     "options": [
-      "Worker care",
-      "canteen finance",
-      "industry classification",
-      "waste disposal only"
+      "Benzene",
+      "Toluene",
+      "Chlorine",
+      "Lindane"
     ],
     "answer": "A"
   },
   {
     "id": 42,
     "type": "mcq",
-    "stem": "Which statement is MOST specifically associated with Worker care in the notes?",
+    "stem": "Which agent used in fluorescent lighting/nonferrous alloys can cause severe dermatitis and lung disease?",
     "options": [
-      "training, protective devices, pre-employment screening, periodic exams, and emergency care",
-      "This instead describes waste disposal only.",
-      "This instead describes canteen finance.",
-      "This instead describes industry classification."
+      "Beryllium",
+      "Aldrin",
+      "Paraquat",
+      "Sulphur dioxide"
     ],
     "answer": "A"
   },
   {
     "id": 43,
     "type": "mcq",
-    "stem": "A student is given the description: legal documentation and avoidance of unnecessary repetition of treatment. Which concept or condition is MOST precisely identified?",
+    "stem": "Chronic dermal absorption causing degenerative liver, kidney and intestinal-mucosa changes is linked to:",
     "options": [
-      "only attendance records",
-      "only injury compensation",
-      "Occupational health records",
-      "only payroll tracking"
+      "Chlordane",
+      "DDT",
+      "Lindane",
+      "Ammonia"
     ],
-    "answer": "C"
+    "answer": "A"
   },
   {
     "id": 44,
     "type": "mcq",
-    "stem": "Which statement is MOST specifically associated with Occupational health records in the notes?",
+    "stem": "A heavy greenish inflammable gas used in bleaching-powder manufacture is:",
     "options": [
-      "This instead describes only attendance records.",
-      "legal documentation and avoidance of unnecessary repetition of treatment",
-      "This instead describes only payroll tracking.",
-      "This instead describes only injury compensation."
+      "Chlorine",
+      "Phosgene",
+      "CO",
+      "Hydrogen cyanide"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 45,
     "type": "mcq",
-    "stem": "A student is given the description: infection, bronchitis, asthma, or bronchiolitis from dust/gas exposure. Which concept or condition is MOST precisely identified?",
+    "stem": "Incomplete combustion produces a colorless odorless gas causing headache, chest tightness and nausea. Which?",
     "options": [
-      "confusion and coma only",
-      "fractures only",
-      "infertility and sterility",
-      "Respiratory occupational effects"
+      "Carbon monoxide",
+      "Hydrogen sulphide",
+      "Ammonia",
+      "Sulphur dioxide"
     ],
-    "answer": "D"
+    "answer": "A"
   },
   {
     "id": 46,
     "type": "mcq",
-    "stem": "Which statement is MOST specifically associated with Respiratory occupational effects in the notes?",
+    "stem": "Which treatment mixture is specifically stated for acute CO exposure?",
     "options": [
-      "This instead describes confusion and coma only.",
-      "infection, bronchitis, asthma, or bronchiolitis from dust/gas exposure",
-      "This instead describes infertility and sterility.",
-      "This instead describes fractures only."
+      "95% O2 + 5% CO2",
+      "50% O2 + 50% CO2",
+      "100% CO2",
+      "Room air"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 47,
     "type": "mcq",
-    "stem": "A student is given the description: crushed injuries, fractures, muscle hypertrophy or atrophy. Which concept or condition is MOST precisely identified?",
+    "stem": "Which insecticide is stated to affect the CNS and liver?",
     "options": [
-      "Musculoskeletal occupational effects",
-      "infertility only",
-      "hypertension only",
-      "bronchitis and asthma"
+      "DDT",
+      "Aldrin",
+      "Lindane",
+      "Parathion"
     ],
     "answer": "A"
   },
   {
     "id": 48,
     "type": "mcq",
-    "stem": "Which statement is MOST specifically associated with Musculoskeletal occupational effects in the notes?",
+    "stem": "Gammadi-20, used by cocoa farmers, refers to:",
     "options": [
-      "This instead describes infertility only.",
-      "This instead describes hypertension only.",
-      "crushed injuries, fractures, muscle hypertrophy or atrophy",
-      "This instead describes bronchitis and asthma."
+      "Lindane",
+      "DDT",
+      "Parathion",
+      "Chlordane"
     ],
-    "answer": "C"
+    "answer": "A"
   },
   {
     "id": 49,
     "type": "mcq",
-    "stem": "A student is given the description: infertility, sterility, reduced sexual urge, and decreased libido. Which concept or condition is MOST precisely identified?",
+    "stem": "A steel-industry chemical that interferes with respiration and produces asphyxia is:",
     "options": [
-      "asthma and bronchitis",
-      "fractures and crush injuries",
-      "Reproductive occupational effects",
-      "confusion and coma"
+      "Hydrogen cyanide",
+      "Hydrogen sulphide",
+      "CO",
+      "Ammonia"
     ],
-    "answer": "C"
+    "answer": "A"
   },
   {
     "id": 50,
     "type": "mcq",
-    "stem": "Which statement is MOST specifically associated with Reproductive occupational effects in the notes?",
+    "stem": "A sewage worker collapses after inhaling a colorless rotten-egg-smelling gas. Which?",
     "options": [
-      "This instead describes fractures and crush injuries.",
-      "This instead describes confusion and coma.",
-      "This instead describes asthma and bronchitis.",
-      "infertility, sterility, reduced sexual urge, and decreased libido"
+      "Hydrogen sulphide",
+      "Hydrogen cyanide",
+      "CO",
+      "Phosgene"
     ],
-    "answer": "D"
+    "answer": "A"
   },
   {
     "id": 51,
     "type": "mcq",
-    "stem": "A student is given the description: confusion, shock, or coma. Which concept or condition is MOST precisely identified?",
+    "stem": "Tremor, oral mucosal irritation and excessive salivation are linked to:",
     "options": [
-      "hearing loss only",
-      "CNS occupational effects",
-      "constipation only",
-      "rashes only"
+      "Mercury",
+      "Benzene",
+      "Toluene",
+      "Aldrin"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 52,
     "type": "mcq",
-    "stem": "Which statement is MOST specifically associated with CNS occupational effects in the notes?",
+    "stem": "Inhalation of which vapor may cause fatal fume fever according to the notes?",
     "options": [
-      "This instead describes hearing loss only.",
-      "confusion, shock, or coma",
-      "This instead describes rashes only.",
-      "This instead describes constipation only."
+      "Mercury",
+      "Lead",
+      "Nickel",
+      "Iron"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 53,
     "type": "mcq",
-    "stem": "A student is given the description: stress-related conditions such as hypertension. Which concept or condition is MOST precisely identified?",
+    "stem": "Which highly toxic organophosphate insecticide is described as banned/restricted in many countries?",
     "options": [
-      "deafness only",
-      "hookworm anaemia only",
-      "Cardiovascular occupational effects",
-      "skin rash only"
+      "Parathion",
+      "Paraquat",
+      "DDT",
+      "Lindane"
     ],
-    "answer": "C"
+    "answer": "A"
   },
   {
     "id": 54,
     "type": "mcq",
-    "stem": "Which statement is MOST specifically associated with Cardiovascular occupational effects in the notes?",
+    "stem": "Burning mouth/throat followed by hepatic and renal failure after ingestion suggests:",
     "options": [
-      "stress-related conditions such as hypertension",
-      "This instead describes hookworm anaemia only.",
-      "This instead describes skin rash only.",
-      "This instead describes deafness only."
+      "Paraquat",
+      "Parathion",
+      "Aldrin",
+      "Chlordane"
     ],
     "answer": "A"
   },
   {
     "id": 55,
     "type": "mcq",
-    "stem": "A student is given the description: immunization and use of PPE such as gloves. Which concept or condition is MOST precisely identified?",
+    "stem": "Carbonyl chloride is another name for:",
     "options": [
-      "return-to-work rehabilitation",
-      "Specific health protection",
-      "late disability care",
-      "post-injury compensation"
+      "Phosgene",
+      "Chlorine",
+      "Hydrogen sulphide",
+      "Ammonia"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 56,
     "type": "mcq",
-    "stem": "Which statement is MOST specifically associated with Specific health protection in the notes?",
+    "stem": "Vomiting, dry throat, chest pain, bronchial irritation and dyspnea after fire-extinguisher-related exposure suggest:",
     "options": [
-      "This instead describes late disability care.",
-      "immunization and use of PPE such as gloves",
-      "This instead describes return-to-work rehabilitation.",
-      "This instead describes post-injury compensation."
+      "Phosgene",
+      "CO",
+      "Toluene",
+      "Mercury"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 57,
     "type": "mcq",
-    "stem": "A student is given the description: education and measures that promote worker well-being before disease. Which concept or condition is MOST precisely identified?",
+    "stem": "Which practice is advised during local garri/fufu production to reduce prussic-acid exposure?",
     "options": [
-      "Health promotion",
-      "rehabilitation after disability",
-      "treatment after late disease",
-      "compensation only"
+      "Open-space production with adequate ventilation",
+      "Closed-room processing",
+      "Lead apron use",
+      "Wetting floors only"
     ],
     "answer": "A"
   },
   {
     "id": 58,
     "type": "mcq",
-    "stem": "Which statement is MOST specifically associated with Health promotion in the notes?",
+    "stem": "A white solid causing severe dermatitis, CNS symptoms, convulsions and possible sudden death is:",
     "options": [
-      "This instead describes rehabilitation after disability.",
-      "This instead describes compensation only.",
-      "education and measures that promote worker well-being before disease",
-      "This instead describes treatment after late disease."
+      "Sodium cyanide",
+      "Beryllium",
+      "Benzene",
+      "Mercury"
     ],
-    "answer": "C"
+    "answer": "A"
   },
   {
     "id": 59,
     "type": "mcq",
-    "stem": "A student is given the description: keeping industrial noise low using sound-proof machinery and devices plus hearing protection. Which concept or condition is MOST precisely identified?",
+    "stem": "Which first-aid sequence is stated for sodium cyanide exposure?",
     "options": [
-      "vaccinating against anthrax only",
-      "Sound control",
-      "increasing ventilation",
-      "using support stockings"
+      "CO2, warmth, immediate hospital transfer",
+      "Calcium diet, rest, discharge",
+      "Barrier cream and observation",
+      "Induced vomiting only"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 60,
     "type": "mcq",
-    "stem": "Which statement is MOST specifically associated with Sound control in the notes?",
+    "stem": "A pungent irritant gas smelling of burnt matches and affecting the upper respiratory tract is:",
     "options": [
-      "This instead describes increasing ventilation.",
-      "keeping industrial noise low using sound-proof machinery and devices plus hearing protection",
-      "This instead describes vaccinating against anthrax only.",
-      "This instead describes using support stockings."
+      "Sulphur dioxide",
+      "Hydrogen sulphide",
+      "Ammonia",
+      "Phosgene"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 61,
     "type": "mcq",
-    "stem": "A student is given the description: protective footwear, sanitation to prevent faecal contamination of streams, and treatment of infected persons. Which concept or condition is MOST precisely identified?",
+    "stem": "Which detergent/cleaning chemical reduces surface tension and has strong affinity for water?",
     "options": [
-      "Hookworm prevention",
-      "animal isolation only",
-      "ear muffs and audiometry",
-      "immunization only"
+      "Sulphonic acid",
+      "Benzene",
+      "Aldrin",
+      "Chlordane"
     ],
     "answer": "A"
   },
   {
     "id": 62,
     "type": "mcq",
-    "stem": "Which statement is MOST specifically associated with Hookworm prevention in the notes?",
+    "stem": "Methylbenzene is:",
     "options": [
-      "protective footwear, sanitation to prevent faecal contamination of streams, and treatment of infected persons",
-      "This instead describes animal isolation only.",
-      "This instead describes ear muffs and audiometry.",
-      "This instead describes immunization only."
+      "Toluene",
+      "Benzene",
+      "Phosgene",
+      "Parathion"
     ],
     "answer": "A"
   },
   {
     "id": 63,
     "type": "mcq",
-    "stem": "A student is given the description: isolate suspected livestock and control contaminated animal exposure. Which concept or condition is MOST precisely identified?",
+    "stem": "Narcosis, headache, nausea, vomiting and unconsciousness after methylbenzene exposure indicate:",
     "options": [
-      "increase noise control",
-      "Anthrax control",
-      "avoid animal surveillance",
-      "encourage bare-foot work"
+      "Toluene poisoning",
+      "Lead poisoning",
+      "Mercury poisoning",
+      "Silicosis"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 64,
     "type": "mcq",
-    "stem": "Which statement is MOST specifically associated with Anthrax control in the notes?",
+    "stem": "Which sequence correctly maps exposure to disease?",
     "options": [
-      "This instead describes avoid animal surveillance.",
-      "isolate suspected livestock and control contaminated animal exposure",
-      "This instead describes encourage bare-foot work.",
-      "This instead describes increase noise control."
+      "Cotton—byssinosis; mouldy bagasse—bagassosis; iron dust—siderosis",
+      "Cotton—silicosis; bagasse—stannosis; iron—asbestosis",
+      "Cotton—siderosis; bagasse—byssinosis; iron—farmer lung",
+      "Cotton—bagassosis; bagasse—silicosis; iron—byssinosis"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 65,
     "type": "mcq",
-    "stem": "A student is given the description: control infected animals and use protective clothing/gloves when handling animals or specimens. Which concept or condition is MOST precisely identified?",
+    "stem": "Which pair belongs entirely to extrinsic allergic alveolitis in the notes?",
     "options": [
-      "Brucellosis control",
-      "avoid PPE",
-      "use ear plugs",
-      "increase dust exposure"
+      "Bagassosis and farmer lung",
+      "Byssinosis and silicosis",
+      "Siderosis and stannosis",
+      "Asbestosis and coal miner pneumoconiosis"
     ],
     "answer": "A"
   },
   {
     "id": 66,
     "type": "mcq",
-    "stem": "Which statement is MOST specifically associated with Brucellosis control in the notes?",
+    "stem": "Which set contains only pneumoconioses named in the notes?",
     "options": [
-      "This instead describes increase dust exposure.",
-      "This instead describes avoid ppe.",
-      "control infected animals and use protective clothing/gloves when handling animals or specimens",
-      "This instead describes use ear plugs."
+      "Asbestosis, silicosis, siderosis",
+      "Byssinosis, bagassosis, farmer lung",
+      "Anthrax, silicosis, byssinosis",
+      "Bagassosis, stannosis, farmer lung"
     ],
-    "answer": "C"
+    "answer": "A"
   },
   {
     "id": 67,
     "type": "mcq",
-    "stem": "A student is given the description: promotive, preventive, curative, and rehabilitative care for workers. Which concept or condition is MOST precisely identified?",
+    "stem": "A worker has chronic fibrotic lung change, but the exposure is cotton rather than mineral dust. The notes point toward:",
     "options": [
-      "Occupational health objective",
-      "injury compensation only",
-      "curative care only",
-      "emergency care only"
+      "Byssinosis rather than pneumoconiosis",
+      "Siderosis",
+      "Stannosis",
+      "Baritosis"
     ],
     "answer": "A"
   },
   {
     "id": 68,
     "type": "mcq",
-    "stem": "Which statement is MOST specifically associated with Occupational health objective in the notes?",
+    "stem": "Which sequence moves from source control to environmental control to worker surveillance?",
     "options": [
-      "promotive, preventive, curative, and rehabilitative care for workers",
-      "This instead describes injury compensation only.",
-      "This instead describes emergency care only.",
-      "This instead describes curative care only."
+      "Substitution → ventilation → periodic examination",
+      "Respirator → substitution → wetting",
+      "Examination → isolation → substitution",
+      "Protective clothing → examination → ventilation"
     ],
     "answer": "A"
   },
   {
     "id": 69,
     "type": "mcq",
-    "stem": "A student is given the description: identified in the notes as the first industrial nurse in 1888. Which concept or condition is MOST precisely identified?",
+    "stem": "Which pair is mismatched?",
     "options": [
-      "Ada Mayo Stewart",
-      "Lillian Wald",
-      "Florence Nightingale",
-      "Clara Barton"
+      "Beryllium—fluorescent lighting",
+      "Lindane—cocoa farming",
+      "Hydrogen sulphide—sewage disposal",
+      "Paraquat—organophosphate insecticide"
     ],
-    "answer": "A"
+    "answer": "D"
   },
   {
     "id": 70,
     "type": "mcq",
-    "stem": "Which statement is MOST specifically associated with Ada Mayo Stewart in the notes?",
+    "stem": "Which pair is mismatched according to the supplied material?",
     "options": [
-      "This instead describes lillian wald.",
-      "This instead describes clara barton.",
-      "identified in the notes as the first industrial nurse in 1888",
-      "This instead describes florence nightingale."
+      "Wood dust—nasal sinus cancer",
+      "Aromatic amines—bladder cancer",
+      "Benzidine—liver cancer",
+      "Cotton dust—lung cancer"
     ],
-    "answer": "C"
+    "answer": "D"
   },
   {
     "id": 71,
     "type": "fitb",
-    "stem": "The prevention level used before disease begins is ___ prevention.",
-    "answer": "primary",
+    "stem": "A delayed chemical reaction after repeated exposure is termed __________ sensitization.",
+    "answer": "secondary",
     "acceptableAnswers": [
-      "primary",
-      "primary prevention"
+      "secondary",
+      "secondary sensitization"
     ]
   },
   {
     "id": 72,
     "type": "fitb",
-    "stem": "Early detection and prompt treatment are features of ___ prevention.",
-    "answer": "secondary",
+    "stem": "Repeated friction or pressure may produce abrasion or __________.",
+    "answer": "callosity",
     "acceptableAnswers": [
-      "secondary",
-      "secondary prevention"
+      "callosity",
+      "callosities"
     ]
   },
   {
     "id": 73,
     "type": "fitb",
-    "stem": "Rehabilitation and restoration of maximum function are features of ___ prevention.",
-    "answer": "tertiary",
+    "stem": "Radiation-induced fibrosis of the gonads may cause __________.",
+    "answer": "sterility",
     "acceptableAnswers": [
-      "tertiary",
-      "tertiary prevention"
+      "sterility"
     ]
   },
   {
     "id": 74,
     "type": "fitb",
-    "stem": "An industry with 50 workers or fewer is classified as ___ scale.",
-    "answer": "small",
+    "stem": "Radiation exposure is associated with anemia and __________ in the blood.",
+    "answer": "leukaemia",
     "acceptableAnswers": [
-      "small",
-      "small scale"
+      "leukaemia",
+      "leukemia"
     ]
   },
   {
     "id": 75,
     "type": "fitb",
-    "stem": "An industry with 51â1000 workers is classified as ___ scale.",
-    "answer": "medium",
+    "stem": "The rare classical neurological sign of inorganic lead poisoning is __________ drop.",
+    "answer": "wrist",
     "acceptableAnswers": [
-      "medium",
-      "medium scale"
+      "wrist",
+      "wrist drop"
     ]
   },
   {
     "id": 76,
     "type": "fitb",
-    "stem": "An industry with more than 1000 workers is classified as ___ scale.",
-    "answer": "large",
+    "stem": "The volatile anti-knocking petrol additive is __________-__________ lead.",
+    "answer": "tetra-ethyl",
     "acceptableAnswers": [
-      "large",
-      "large scale"
+      "tetra-ethyl",
+      "tetraethyl",
+      "tetra-ethyl lead",
+      "tetraethyl lead"
     ]
   },
   {
     "id": 77,
     "type": "fitb",
-    "stem": "The two group occupational health-service models are ___ type and ___ type.",
-    "answer": "area; estate",
+    "stem": "Aromatic amines are associated with occupational cancer of the __________.",
+    "answer": "bladder",
     "acceptableAnswers": [
-      "area; estate",
-      "area and estate",
-      "area, estate"
+      "bladder"
     ]
   },
   {
     "id": 78,
     "type": "fitb",
-    "stem": "Gas, dust, vapour, and liquid exposures are classified as ___ hazards.",
-    "answer": "chemical",
+    "stem": "Wood dust and nickel are associated with cancer of the __________ __________.",
+    "answer": "nasal sinus",
     "acceptableAnswers": [
-      "chemical",
-      "chemical hazards"
+      "nasal sinus",
+      "nasal sinuses"
     ]
   },
   {
     "id": 79,
     "type": "fitb",
-    "stem": "Noise, temperature variation, radiant energy, electricity, and height are ___ hazards.",
-    "answer": "physical",
+    "stem": "Benzidine and arsenical insecticide exposure are associated with cancer of the __________.",
+    "answer": "liver",
     "acceptableAnswers": [
-      "physical",
-      "physical hazards"
+      "liver"
     ]
   },
   {
     "id": 80,
     "type": "fitb",
-    "stem": "Pressure, strain, unsafe equipment, and excessive movement are ___ hazards.",
-    "answer": "mechanical",
+    "stem": "Mineral-dust diseases characterized by chronic fibrotic lung change are collectively called __________.",
+    "answer": "pneumoconiosis",
     "acceptableAnswers": [
-      "mechanical",
-      "mechanical hazards"
+      "pneumoconiosis"
     ]
   },
   {
     "id": 81,
     "type": "fitb",
-    "stem": "Bacteria, viruses, fungi, protozoa, and parasites are ___ hazards.",
-    "answer": "biological",
+    "stem": "Free-silica inhalation may produce __________.",
+    "answer": "silicosis",
     "acceptableAnswers": [
-      "biological",
-      "biological hazards"
+      "silicosis"
     ]
   },
   {
     "id": 82,
     "type": "fitb",
-    "stem": "Stress, emotional strain, and interpersonal problems are ___ hazards.",
-    "answer": "psychosocial",
+    "stem": "Tin deposition in the lungs is called __________.",
+    "answer": "stannosis",
     "acceptableAnswers": [
-      "psychosocial",
-      "psychosocial hazards"
+      "stannosis"
     ]
   },
   {
     "id": 83,
     "type": "fitb",
-    "stem": "The causative organism of tetanus is ___ ___.",
-    "answer": "Clostridium tetani",
+    "stem": "Iron-dust inhalation may produce __________.",
+    "answer": "siderosis",
     "acceptableAnswers": [
-      "Clostridium tetani",
-      "C. tetani"
+      "siderosis"
     ]
   },
   {
     "id": 84,
     "type": "fitb",
-    "stem": "The incubation period for tetanus given in the notes is ___ to ___ days.",
-    "answer": "4; 28",
+    "stem": "Cotton-dust-associated occupational asthma is called __________.",
+    "answer": "byssinosis",
     "acceptableAnswers": [
-      "4; 28",
-      "4-28",
-      "4 to 28",
-      "4â28"
+      "byssinosis"
     ]
   },
   {
     "id": 85,
     "type": "fitb",
-    "stem": "The test used to determine the degree of occupational deafness is an ___ test.",
-    "answer": "audiometric",
+    "stem": "Mouldy bagasse dust causes __________.",
+    "answer": "bagassosis",
     "acceptableAnswers": [
-      "audiometric",
-      "audiometry",
-      "audiometric test"
+      "bagassosis"
     ]
   },
   {
     "id": 86,
     "type": "fitb",
-    "stem": "The causative organism of anthrax is ___ ___.",
-    "answer": "Bacillus anthracis",
+    "stem": "Spore-laden mouldy hay/straw exposure causes __________ __________.",
+    "answer": "farmer lung",
     "acceptableAnswers": [
-      "Bacillus anthracis",
-      "B. anthracis"
+      "farmer lung",
+      "farmer's lung",
+      "farmers lung"
     ]
   },
   {
     "id": 87,
     "type": "fitb",
-    "stem": "The incubation period for anthrax listed in the notes is ___ to ___ days.",
-    "answer": "2; 7",
+    "stem": "The chlorinated hydrocarbon insecticide absorbed through skin and harmful to the kidney is __________.",
+    "answer": "Aldrin",
     "acceptableAnswers": [
-      "2; 7",
-      "2-7",
-      "2 to 7",
-      "2â7"
+      "Aldrin",
+      "aldrin"
     ]
   },
   {
     "id": 88,
     "type": "fitb",
-    "stem": "Inhalational anthrax in wool workers is referred to as ___ sorters' disease.",
-    "answer": "wool",
+    "stem": "The fertilizer-manufacturing gas capable of causing bronchial spasm is __________.",
+    "answer": "ammonia",
     "acceptableAnswers": [
-      "wool",
-      "wool sorters"
+      "ammonia"
     ]
   },
   {
     "id": 89,
     "type": "fitb",
-    "stem": "Brucellosis may be acquired from infected cattle through infected ___ or animal products.",
-    "answer": "milk",
+    "stem": "The volatile solvent associated with bone-marrow toxicity is __________.",
+    "answer": "benzene",
     "acceptableAnswers": [
-      "milk",
-      "infected milk"
+      "benzene"
     ]
   },
   {
     "id": 90,
     "type": "fitb",
-    "stem": "Hookworm disease is caused by ___ ___.",
-    "answer": "Ancylostoma duodenale",
+    "stem": "The fluorescent-light/nonferrous-alloy exposure causing dermatitis and lung disease is __________.",
+    "answer": "beryllium",
     "acceptableAnswers": [
-      "Ancylostoma duodenale",
-      "A. duodenale"
+      "beryllium"
     ]
   },
   {
     "id": 91,
     "type": "fitb",
-    "stem": "Hookworm larvae enter the body by penetrating ___ skin.",
-    "answer": "unbroken",
+    "stem": "The heavy greenish gas used in bleaching-powder manufacture is __________.",
+    "answer": "chlorine",
     "acceptableAnswers": [
-      "unbroken",
-      "intact",
-      "unbroken skin"
+      "chlorine"
     ]
   },
   {
     "id": 92,
     "type": "fitb",
-    "stem": "Adult hookworms attach to the mucosa of the ___.",
-    "answer": "duodenum",
+    "stem": "The colorless odorless gas from incomplete combustion is __________ __________.",
+    "answer": "carbon monoxide",
     "acceptableAnswers": [
-      "duodenum",
-      "duodenal mucosa"
+      "carbon monoxide",
+      "CO"
     ]
   },
   {
     "id": 93,
     "type": "fitb",
-    "stem": "A key personal protection measure against hookworm is protective ___.",
-    "answer": "footwear",
+    "stem": "DDT means __________-__________-__________.",
+    "answer": "dichloro-diphenyl-trichloroethane",
     "acceptableAnswers": [
-      "footwear",
-      "shoes",
-      "protective footwear"
+      "dichloro-diphenyl-trichloroethane",
+      "dichlorodiphenyltrichloroethane"
     ]
   },
   {
     "id": 94,
     "type": "fitb",
-    "stem": "The first industrial nurse named in the notes is ___ Mayo Stewart.",
-    "answer": "Ada",
+    "stem": "Gammadi-20 refers to __________.",
+    "answer": "Lindane",
     "acceptableAnswers": [
-      "Ada",
-      "Ada Mayo Stewart"
+      "Lindane",
+      "lindane",
+      "hexachlorocyclohexane"
     ]
   },
   {
     "id": 95,
     "type": "fitb",
-    "stem": "Occupational health records are maintained partly for ___ reasons.",
-    "answer": "legal",
+    "stem": "The rotten-egg-smelling gas from decomposing organic material is __________ __________.",
+    "answer": "hydrogen sulphide",
     "acceptableAnswers": [
-      "legal",
-      "legal reasons"
+      "hydrogen sulphide",
+      "hydrogen sulfide",
+      "H2S"
     ]
   },
   {
     "id": 96,
     "type": "fitb",
-    "stem": "Provision of gloves and immunization are examples of specific health ___.",
-    "answer": "protection",
+    "stem": "The highly toxic organophosphate insecticide described as banned/restricted is __________.",
+    "answer": "parathion",
     "acceptableAnswers": [
-      "protection",
-      "health protection"
+      "parathion"
     ]
   },
   {
     "id": 97,
     "type": "fitb",
-    "stem": "A worker who develops confusion, shock, or coma is showing occupational effects involving the ___.",
-    "answer": "CNS",
+    "stem": "The herbicide whose ingestion may cause hepatic and renal failure is __________.",
+    "answer": "paraquat",
     "acceptableAnswers": [
-      "CNS",
-      "central nervous system"
+      "paraquat"
     ]
   },
   {
     "id": 98,
     "type": "fitb",
-    "stem": "Infertility, sterility, and decreased libido are listed under the ___ system.",
-    "answer": "reproductive",
+    "stem": "Carbonyl chloride is also called __________.",
+    "answer": "phosgene",
     "acceptableAnswers": [
-      "reproductive",
-      "reproductive system"
+      "phosgene"
     ]
   },
   {
     "id": 99,
     "type": "fitb",
-    "stem": "Bronchitis and asthma from dust and gas exposure involve the ___ system.",
-    "answer": "respiratory",
+    "stem": "Prussic acid is another name for __________ acid.",
+    "answer": "hydrocyanic",
     "acceptableAnswers": [
-      "respiratory",
-      "respiratory system"
+      "hydrocyanic",
+      "hydrocyanic acid",
+      "hydrogen cyanide"
     ]
   },
   {
     "id": 100,
     "type": "fitb",
-    "stem": "Proper placement of signboards, ventilation, safe floors, exit routes, sanitation, and water supply are ___ control measures.",
-    "answer": "environmental",
+    "stem": "Methylbenzene is another name for __________.",
+    "answer": "toluene",
     "acceptableAnswers": [
-      "environmental",
-      "environmental control"
+      "toluene"
     ]
   }
 ]
