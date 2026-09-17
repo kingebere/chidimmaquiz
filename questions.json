@@ -2,34 +2,1141 @@
   {
     "id": 1,
     "type": "mcq",
-    "stem": "Which layer of the skin contains blood vessels, nerve endings, hair follicles, sweat glands and sebaceous glands?",
+    "stem": "A patient sustains a superficial skin injury involving an avascular layer that contains melanocytes and keratinocytes but no blood vessels. Which layer is affected?",
     "options": [
-      "Epidermis",
       "Dermis",
-      "Stratum corneum",
-      "Hypodermis"
+      "Epidermis",
+      "Hypodermis",
+      "Subcutaneous fascia"
     ],
     "answer": "B"
   },
   {
     "id": 2,
     "type": "mcq",
-    "stem": "A patient develops intense itching, redness and vesicles only where a piece of jewellery contacted the skin. Which condition is most likely?",
+    "stem": "Which combination is CORRECTLY matched according to the notes?",
     "options": [
-      "Atopic dermatitis",
-      "Acne vulgaris",
-      "Contact dermatitis",
-      "Xerosis"
+      "Melanocyte — keratin production — mechanical strength",
+      "Keratinocyte — melanin production — UV protection",
+      "Melanocyte — melanin production — skin colour and UV protection",
+      "Keratinocyte — sebum production — hair lubrication"
     ],
     "answer": "C"
   },
   {
     "id": 3,
+    "type": "mcq",
+    "stem": "A pigment is described as brown to black and conferring stronger protection from ultraviolet radiation. Which pigment is this?",
+    "options": [
+      "Pheomelanin",
+      "Eumelanin",
+      "Keratin",
+      "Sebum"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 4,
+    "type": "mcq",
+    "stem": "Which statement BEST distinguishes pheomelanin from eumelanin in the supplied notes?",
+    "options": [
+      "Pheomelanin is brown-black and provides stronger UV protection.",
+      "Pheomelanin is yellow-reddish and provides less UV protection.",
+      "Pheomelanin is produced by keratinocytes rather than melanocytes.",
+      "Pheomelanin occurs only within hair follicles."
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 5,
+    "type": "mcq",
+    "stem": "Which site is NOT specifically listed in the notes as containing melanocytes?",
+    "options": [
+      "Epidermis",
+      "Hair follicles",
+      "Iris",
+      "Nail bed"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 6,
+    "type": "mcq",
+    "stem": "A cell originates from the stratum basale, progressively matures, becomes flattened and dead, and contributes to the outer protective layer. Which cell is being described?",
+    "options": [
+      "Melanocyte",
+      "Keratinocyte",
+      "Adipocyte",
+      "Sebocyte"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 7,
+    "type": "mcq",
+    "stem": "The epidermis receives nutrients from the dermis primarily because the epidermis:",
+    "options": [
+      "Contains no keratin",
+      "Contains no blood vessels",
+      "Contains no melanocytes",
+      "Cannot synthesize vitamin D"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 8,
+    "type": "mcq",
+    "stem": "An injury damages blood vessels, nerve endings, hair follicles, sweat glands, sebaceous glands, collagen and elastin fibres. Which skin layer has been injured?",
+    "options": [
+      "Stratum corneum",
+      "Dermis",
+      "Epidermis",
+      "Hypodermis only"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 9,
+    "type": "mcq",
+    "stem": "Which two structural components of the dermis are MOST directly associated with strength and elasticity?",
+    "options": [
+      "Keratin and melanin",
+      "Collagen and elastin",
+      "Sebum and adipose tissue",
+      "Keratin and sebum"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 10,
+    "type": "mcq",
+    "stem": "Which function is LEAST consistent with the hypodermis as described in the notes?",
+    "options": [
+      "Cushioning underlying organs",
+      "Storage of energy as fat",
+      "Insulation",
+      "Vitamin D synthesis"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 11,
+    "type": "mcq",
+    "stem": "Which description MOST accurately identifies the hypodermis?",
+    "options": [
+      "The outer keratinized layer of skin",
+      "The deepest layer composed mainly of adipose and connective tissue",
+      "The middle layer containing only sensory receptors",
+      "The avascular layer containing melanocytes"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 12,
+    "type": "mcq",
+    "stem": "Which component of hair lies above the skin surface and consists of dead keratinized cells?",
+    "options": [
+      "Hair root",
+      "Hair bulb",
+      "Hair shaft",
+      "Dermal papilla"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 13,
+    "type": "mcq",
+    "stem": "The enlarged portion of the hair root containing actively dividing cells responsible for growth is the:",
+    "options": [
+      "Hair bulb",
+      "Hair cortex",
+      "Hair cuticle",
+      "Hair medulla"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 14,
+    "type": "mcq",
+    "stem": "Which structure is a small connective-tissue projection at the base of the hair bulb containing blood vessels?",
+    "options": [
+      "Dermal papilla",
+      "Hair cuticle",
+      "Medulla",
+      "Sebaceous duct"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 15,
+    "type": "mcq",
+    "stem": "Which sequence correctly arranges the layers of the hair shaft from outermost to innermost?",
+    "options": [
+      "Cortex → Cuticle → Medulla",
+      "Cuticle → Cortex → Medulla",
+      "Medulla → Cortex → Cuticle",
+      "Cuticle → Medulla → Cortex"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 16,
+    "type": "mcq",
+    "stem": "Damage to the hair-shaft layer containing keratin and melanin would MOST directly alter:",
+    "options": [
+      "Sweat production",
+      "Hair strength and colour",
+      "Sebum production",
+      "Nail growth"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 17,
+    "type": "mcq",
+    "stem": "Which hair-shaft layer is described as being present mainly in thick hair?",
+    "options": [
+      "Cuticle",
+      "Cortex",
+      "Medulla",
+      "Follicle"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 18,
+    "type": "mcq",
+    "stem": "Which nail structure is the visible hard portion of the nail?",
+    "options": [
+      "Nail bed",
+      "Nail plate",
+      "Lunula",
+      "Hyponychium"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 19,
+    "type": "mcq",
+    "stem": "Which nail structure forms a thin seal between skin and nail and helps prevent infection?",
+    "options": [
+      "Lunula",
+      "Hyponychium",
+      "Eponychium",
+      "Nail bed"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 20,
+    "type": "mcq",
+    "stem": "A lesion affects the thickened skin directly beneath the free edge of a nail. Which structure is involved?",
+    "options": [
+      "Lunula",
+      "Nail bed",
+      "Hyponychium",
+      "Eponychium"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 21,
+    "type": "mcq",
+    "stem": "Which structure is the skin beneath the nail plate that supports and nourishes the nail?",
+    "options": [
+      "Nail bed",
+      "Lunula",
+      "Cuticle",
+      "Hyponychium"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 22,
+    "type": "mcq",
+    "stem": "A gland associated with a hair follicle produces a substance that lubricates the hair. Which combination is CORRECT?",
+    "options": [
+      "Eccrine gland — watery sweat",
+      "Apocrine gland — thick milky sweat",
+      "Sebaceous gland — sebum",
+      "Sebaceous gland — keratin"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 23,
+    "type": "mcq",
+    "stem": "Which sweat gland is found widely over the body and is especially prominent on the palms, soles and forehead?",
+    "options": [
+      "Apocrine gland",
+      "Eccrine gland",
+      "Sebaceous gland",
+      "Ceruminous gland"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 24,
+    "type": "mcq",
+    "stem": "Which profile MOST accurately identifies an apocrine sweat gland?",
+    "options": [
+      "Small, widely distributed, producing watery sweat",
+      "Larger, located in areas such as the axilla and groin, producing thick milky sweat",
+      "Associated mainly with palms and soles",
+      "Associated with hair follicles and producing sebum"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 25,
+    "type": "mcq",
+    "stem": "According to the notes, characteristic body odour from apocrine secretion develops principally because:",
+    "options": [
+      "The sweat contains melanin.",
+      "Bacteria break down the secretion.",
+      "The secretion becomes keratinized.",
+      "Sebum mixes with the sweat."
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 26,
+    "type": "mcq",
+    "stem": "Which sweat glands are specifically described as becoming active during puberty?",
+    "options": [
+      "Eccrine glands",
+      "Apocrine glands",
+      "Sebaceous glands",
+      "Dermal papillae"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 27,
+    "type": "mcq",
+    "stem": "Heat loss from the body to another object of lower temperature situated at a distance is called:",
+    "options": [
+      "Conduction",
+      "Convection",
+      "Radiation",
+      "Insulation"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 28,
+    "type": "mcq",
+    "stem": "Transfer of heat from the body to a cooler object in direct physical contact is:",
+    "options": [
+      "Radiation",
+      "Conduction",
+      "Convection",
+      "Metabolism"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 29,
+    "type": "mcq",
+    "stem": "The movement of warm air molecules away from the body is described as:",
+    "options": [
+      "Conduction",
+      "Convection",
+      "Radiation",
+      "Keratinization"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 30,
+    "type": "mcq",
+    "stem": "Which part of the epidermis is specifically linked to prevention of excessive water and electrolyte loss?",
+    "options": [
+      "Stratum basale",
+      "Stratum corneum",
+      "Dermal papilla",
+      "Hair cortex"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 31,
+    "type": "mcq",
+    "stem": "Recognition of touch, pressure, pain and temperature by cutaneous nerve endings represents which skin function?",
+    "options": [
+      "Water balance",
+      "Sensory function",
+      "Vitamin D synthesis",
+      "Energy storage"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 32,
+    "type": "mcq",
+    "stem": "According to the notes, sunlight-dependent synthesis of vitamin D occurs in the:",
+    "options": [
+      "Dermis",
+      "Hypodermis",
+      "Epidermis",
+      "Hair follicle"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 33,
+    "type": "mcq",
+    "stem": "A teenager presents with pimples, blackheads and whiteheads involving the pilosebaceous unit. Which diagnosis BEST fits?",
+    "options": [
+      "Contact dermatitis",
+      "Atopic dermatitis",
+      "Acne vulgaris",
+      "Xerosis"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 34,
+    "type": "mcq",
+    "stem": "Which sequence is MOST consistent with acne pathogenesis described in the notes?",
+    "options": [
+      "Reduced androgen activity → reduced sebum → follicular blockage",
+      "Increased androgen activity → excessive sebum → follicular blockage",
+      "Environmental allergen → IgE reduction → sebum loss",
+      "Excessive sweating → melanocyte activation → comedones"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 35,
+    "type": "mcq",
+    "stem": "Hyperkeratinization contributes to acne principally by causing:",
+    "options": [
+      "Excessive sweat production",
+      "Blockage of hair follicles by dead skin cells",
+      "Loss of dermal collagen",
+      "Reduction of androgen activity"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 36,
+    "type": "mcq",
+    "stem": "Which bacterium is specifically named as being associated with acne in the notes?",
+    "options": [
+      "Staphylococcus aureus",
+      "Cutibacterium acnes",
+      "Streptococcus pyogenes",
+      "Candida albicans"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 37,
+    "type": "mcq",
+    "stem": "Which history item is specifically included in the diagnostic evaluation of acne?",
+    "options": [
+      "Menstrual cycle",
+      "Occupational radiation exposure",
+      "Patch-test result",
+      "Serum IgE level"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 38,
+    "type": "mcq",
+    "stem": "Which assessment combination is specifically recommended during physical examination of acne?",
+    "options": [
+      "Type, number, scarring and pigmentation",
+      "Pruritus, serum IgE and patch-test result",
+      "Sweat volume, temperature and nail colour",
+      "Hair length, texture and dermal thickness"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 39,
+    "type": "mcq",
+    "stem": "Which intervention belongs to NON-pharmacological acne management?",
+    "options": [
+      "Topical tretinoin",
+      "Benzoyl peroxide",
+      "Avoid squeezing or picking pimples",
+      "Oral doxycycline"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 40,
+    "type": "mcq",
+    "stem": "Which acne-management instruction is intended to reduce exposure to products capable of worsening follicular blockage?",
+    "options": [
+      "Avoid comedogenic skin-care products.",
+      "Avoid mild facial cleansers.",
+      "Avoid all moisturizers.",
+      "Avoid balanced meals."
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 41,
+    "type": "mcq",
+    "stem": "Which pair consists ONLY of topical pharmacological acne treatments listed in the notes?",
+    "options": [
+      "Benzoyl peroxide and topical retinoid",
+      "Doxycycline and stress reduction",
+      "Prednisolone and loratadine",
+      "Balanced diet and azelaic acid"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 42,
+    "type": "mcq",
+    "stem": "Which two drugs are specifically named as topical retinoids?",
+    "options": [
+      "Hydrocortisone and clobetasol",
+      "Adapalene and tretinoin",
+      "Cetirizine and loratadine",
+      "Doxycycline and benzoyl peroxide"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 43,
+    "type": "mcq",
+    "stem": "Which systemic antibiotic example is specifically provided for acne treatment?",
+    "options": [
+      "Doxycycline",
+      "Prednisolone",
+      "Cetirizine",
+      "Clobetasol"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 44,
+    "type": "mcq",
+    "stem": "Which condition is NOT listed as a complication of acne in the supplied notes?",
+    "options": [
+      "Permanent acne scars",
+      "Post-inflammatory hyperpigmentation",
+      "Skin infections",
+      "Cataract formation"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 45,
+    "type": "mcq",
+    "stem": "A patient develops inflammation after direct skin contact with an irritating cleaning agent. Which disorder BEST fits?",
+    "options": [
+      "Atopic dermatitis",
+      "Contact dermatitis",
+      "Acne vulgaris",
+      "Xerosis"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 46,
+    "type": "mcq",
+    "stem": "Which statement BEST distinguishes irritant contact dermatitis from allergic contact dermatitis according to the notes?",
+    "options": [
+      "Irritant dermatitis occurs only in genetically predisposed patients.",
+      "Irritant dermatitis results from direct damage by an irritating substance, whereas allergic dermatitis occurs after exposure to an allergen to which the person is sensitive.",
+      "Allergic dermatitis is caused only by cosmetics.",
+      "Irritant dermatitis is always associated with vesicles."
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 47,
+    "type": "mcq",
+    "stem": "Which substance is specifically included among possible causes of contact dermatitis?",
+    "options": [
+      "Poison ivy or poison oak",
+      "Cotton dust",
+      "Excess androgen",
+      "Low serum IgE"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 48,
+    "type": "mcq",
+    "stem": "Which manifestation is particularly associated with allergic contact dermatitis in the notes?",
+    "options": [
+      "Blackheads",
+      "Blisters or vesicles",
+      "Hair loss",
+      "Whiteheads"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 49,
+    "type": "mcq",
+    "stem": "A rash occurs only where a bracelet contacts a patient's wrist. Which feature of contact dermatitis does this MOST strongly illustrate?",
+    "options": [
+      "Rash limited to the exposed contact area",
+      "Generalized extensor involvement",
+      "Flexural involvement independent of exposure",
+      "Pilosebaceous obstruction"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 50,
+    "type": "mcq",
+    "stem": "Which investigation is described as BEST for confirming contact allergy and identifying the specific allergen?",
+    "options": [
+      "Serum IgE level",
+      "Patch test",
+      "Skin biopsy",
+      "Complete blood count"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 51,
+    "type": "mcq",
+    "stem": "Which group contains ONLY topical corticosteroids listed for contact dermatitis?",
+    "options": [
+      "Hydrocortisone, betamethasone, clobetasol",
+      "Cetirizine, loratadine, chlorpheniramine",
+      "Adapalene, tretinoin, doxycycline",
+      "Benzoyl peroxide, azelaic acid, prednisolone"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 52,
+    "type": "mcq",
+    "stem": "Which group contains ONLY oral antihistamines listed for relief of itching?",
+    "options": [
+      "Cetirizine, loratadine, chlorpheniramine",
+      "Hydrocortisone, clobetasol, betamethasone",
+      "Adapalene, tretinoin, azelaic acid",
+      "Prednisolone, benzoyl peroxide, doxycycline"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 53,
+    "type": "mcq",
+    "stem": "What is the principal purpose of moisturizers in contact dermatitis management according to the notes?",
+    "options": [
+      "Identify the allergen.",
+      "Restore the skin barrier and prevent scaling, dryness and cracking.",
+      "Reduce sebum production.",
+      "Increase melanin production."
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 54,
+    "type": "mcq",
+    "stem": "Which medication is specifically listed for severe contact dermatitis to stop the reaction?",
+    "options": [
+      "Oral prednisolone",
+      "Oral doxycycline",
+      "Topical tretinoin",
+      "Cetirizine cream"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 55,
+    "type": "mcq",
+    "stem": "The use of antibiotics in contact dermatitis is intended primarily to:",
+    "options": [
+      "Stop or prevent secondary infection.",
+      "Reduce sebaceous activity.",
+      "Identify the specific allergen.",
+      "Restore melanin production."
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 56,
+    "type": "mcq",
+    "stem": "Which activity belongs specifically to nursing management of contact dermatitis?",
+    "options": [
+      "Assess the extent of lesions.",
+      "Perform the patch test as the only intervention.",
+      "Measure androgen activity.",
+      "Assess the hair medulla."
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 57,
+    "type": "mcq",
+    "stem": "A patient has a chronic, relapsing inflammatory condition marked by intense itching, dry skin and redness. Which diagnosis is MOST consistent?",
+    "options": [
+      "Contact dermatitis",
+      "Atopic dermatitis",
+      "Acne vulgaris",
+      "Sebaceous hyperplasia"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 58,
+    "type": "mcq",
+    "stem": "Which factor is NOT listed as an association with atopic dermatitis?",
+    "options": [
+      "Genetic factors",
+      "Defect in the skin barrier causing excess water loss",
+      "Environmental triggers",
+      "A single established bacterial cause"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 59,
+    "type": "mcq",
+    "stem": "Thickened skin resulting from repeated chronic itching in atopic dermatitis is called:",
+    "options": [
+      "Xerosis",
+      "Lichenification",
+      "Erythema",
+      "Oedema"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 60,
+    "type": "mcq",
+    "stem": "Which combination is MOST characteristic of atopic dermatitis according to the notes?",
+    "options": [
+      "Pruritus, xerosis, red inflamed patches, scaling and crusting",
+      "Blackheads, whiteheads and comedones only",
+      "Localized chemical burns without itching",
+      "Nail thickening and alopecia"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 61,
+    "type": "mcq",
+    "stem": "Which statement regarding atopic dermatitis is explicitly stated in the notes?",
+    "options": [
+      "It is highly contagious.",
+      "It is not contagious.",
+      "It is contagious only during crusting.",
+      "It is contagious only in infants."
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 62,
+    "type": "mcq",
+    "stem": "Which distribution is MOST typical of atopic dermatitis in infants according to the notes?",
+    "options": [
+      "Face, scalp and extensor surfaces",
+      "Flexor surfaces only",
+      "Palms and soles only",
+      "Groin and axilla only"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 63,
+    "type": "mcq",
+    "stem": "Which distribution is MOST typical of atopic dermatitis in children and adults?",
+    "options": [
+      "Face, scalp and extensor surfaces exclusively",
+      "Flexor areas, neck, wrist and ankles",
+      "Palms and soles exclusively",
+      "Hair follicles only"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 64,
+    "type": "mcq",
+    "stem": "Which history finding supports assessment for atopic dermatitis?",
+    "options": [
+      "Personal or family history of asthma, allergic rhinitis or eczema",
+      "Occupational radiation exposure",
+      "High androgen production only",
+      "History of chemical burns only"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 65,
+    "type": "mcq",
+    "stem": "Which test or laboratory assessment is specifically mentioned in the diagnosis of atopic dermatitis?",
+    "options": [
+      "Serum IgE level or allergy tests",
+      "Audiometry",
+      "Blood lead concentration",
+      "Serum androgen level"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 66,
+    "type": "mcq",
+    "stem": "Which treatment-purpose pairing is CORRECT for atopic dermatitis?",
+    "options": [
+      "Topical corticosteroid — reduce inflammation",
+      "Antihistamine — increase pruritus",
+      "Antibacterial — increase dryness",
+      "Serum IgE testing — reduce scaling"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 67,
+    "type": "mcq",
+    "stem": "Which complication is common to BOTH the contact dermatitis and atopic dermatitis sections?",
+    "options": [
+      "Secondary bacterial infection",
+      "Permanent acne scars",
+      "Comedone formation",
+      "Follicular hyperkeratinization"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 68,
+    "type": "mcq",
+    "stem": "A 22-year-old patient has chronic intense itching, dry rough skin, lichenification and lesions concentrated in the flexures behind the knees. Which diagnosis is MOST consistent?",
+    "options": [
+      "Acne vulgaris",
+      "Atopic dermatitis",
+      "Contact dermatitis",
+      "Sebaceous-gland disorder"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 69,
+    "type": "mcq",
+    "stem": "A patient develops erythema, oedema, intense itching and vesicles exactly beneath a piece of jewellery. Which disorder is MOST likely?",
+    "options": [
+      "Atopic dermatitis",
+      "Contact dermatitis",
+      "Acne vulgaris",
+      "Xerosis"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 70,
+    "type": "mcq",
+    "stem": "Which investigation MOST clearly distinguishes evaluation of allergic contact dermatitis from the routine assessment of atopic dermatitis described in the notes?",
+    "options": [
+      "Patch testing to identify the specific allergen",
+      "History taking",
+      "Physical examination",
+      "Assessment of redness"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 71,
     "type": "fitb",
-    "stem": "The thickening of the skin caused by chronic itching is called ______.",
+    "stem": "The deepest layer of the epidermis named in the notes is the stratum __________.",
+    "answer": "basale",
+    "acceptableAnswers": [
+      "basale",
+      "stratum basale",
+      "basal layer"
+    ]
+  },
+  {
+    "id": 72,
+    "type": "fitb",
+    "stem": "The brown-to-black pigment that provides stronger ultraviolet protection is __________.",
+    "answer": "eumelanin",
+    "acceptableAnswers": [
+      "eumelanin"
+    ]
+  },
+  {
+    "id": 73,
+    "type": "fitb",
+    "stem": "The yellow-to-reddish melanin pigment associated with fair skin, red hair and freckles is __________.",
+    "answer": "pheomelanin",
+    "acceptableAnswers": [
+      "pheomelanin"
+    ]
+  },
+  {
+    "id": 74,
+    "type": "fitb",
+    "stem": "Because the epidermis contains no blood vessels, it receives nutrients from the __________.",
+    "answer": "dermis",
+    "acceptableAnswers": [
+      "dermis"
+    ]
+  },
+  {
+    "id": 75,
+    "type": "fitb",
+    "stem": "The deepest layer of skin, composed mainly of adipose and connective tissue, is the __________.",
+    "answer": "hypodermis",
+    "acceptableAnswers": [
+      "hypodermis",
+      "subcutaneous tissue",
+      "subcutaneous tissue (hypodermis)"
+    ]
+  },
+  {
+    "id": 76,
+    "type": "fitb",
+    "stem": "The small connective-tissue projection containing blood vessels at the base of the hair bulb is the dermal __________.",
+    "answer": "papilla",
+    "acceptableAnswers": [
+      "papilla",
+      "dermal papilla"
+    ]
+  },
+  {
+    "id": 77,
+    "type": "fitb",
+    "stem": "The outer protective layer of the hair shaft is the __________.",
+    "answer": "cuticle",
+    "acceptableAnswers": [
+      "cuticle",
+      "hair cuticle"
+    ]
+  },
+  {
+    "id": 78,
+    "type": "fitb",
+    "stem": "The middle and thickest layer of the hair shaft, containing keratin and melanin, is the __________.",
+    "answer": "cortex",
+    "acceptableAnswers": [
+      "cortex",
+      "hair cortex"
+    ]
+  },
+  {
+    "id": 79,
+    "type": "fitb",
+    "stem": "The innermost hair-shaft layer present mainly in thick hair is the __________.",
+    "answer": "medulla",
+    "acceptableAnswers": [
+      "medulla",
+      "hair medulla"
+    ]
+  },
+  {
+    "id": 80,
+    "type": "fitb",
+    "stem": "The visible hard portion of the nail is called the nail __________.",
+    "answer": "plate",
+    "acceptableAnswers": [
+      "plate",
+      "nail plate",
+      "nail plate body"
+    ]
+  },
+  {
+    "id": 81,
+    "type": "fitb",
+    "stem": "The white crescent-shaped area at the base of the nail is the __________.",
+    "answer": "lunula",
+    "acceptableAnswers": [
+      "lunula"
+    ]
+  },
+  {
+    "id": 82,
+    "type": "fitb",
+    "stem": "The thickened skin beneath the free edge of the nail is called the __________.",
+    "answer": "hyponychium",
+    "acceptableAnswers": [
+      "hyponychium"
+    ]
+  },
+  {
+    "id": 83,
+    "type": "fitb",
+    "stem": "The thin layer of skin that seals the space between the nail and surrounding skin is the __________.",
+    "answer": "eponychium",
+    "acceptableAnswers": [
+      "eponychium",
+      "cuticle",
+      "eponychium/cuticle"
+    ]
+  },
+  {
+    "id": 84,
+    "type": "fitb",
+    "stem": "The gland that secretes sebum into the space associated with the hair follicle is the __________ gland.",
+    "answer": "sebaceous",
+    "acceptableAnswers": [
+      "sebaceous",
+      "sebaceous gland"
+    ]
+  },
+  {
+    "id": 85,
+    "type": "fitb",
+    "stem": "The sweat gland that produces watery secretion and is especially prominent on the palms, soles and forehead is the __________ gland.",
+    "answer": "eccrine",
+    "acceptableAnswers": [
+      "eccrine",
+      "eccrine sweat gland"
+    ]
+  },
+  {
+    "id": 86,
+    "type": "fitb",
+    "stem": "The larger sweat gland producing thick milky secretion and becoming active during puberty is the __________ gland.",
+    "answer": "apocrine",
+    "acceptableAnswers": [
+      "apocrine",
+      "apocrine sweat gland"
+    ]
+  },
+  {
+    "id": 87,
+    "type": "fitb",
+    "stem": "Heat transfer from the body to an object in direct contact with it is called __________.",
+    "answer": "conduction",
+    "acceptableAnswers": [
+      "conduction"
+    ]
+  },
+  {
+    "id": 88,
+    "type": "fitb",
+    "stem": "Heat loss to another object of lower temperature situated at a distance is called __________.",
+    "answer": "radiation",
+    "acceptableAnswers": [
+      "radiation"
+    ]
+  },
+  {
+    "id": 89,
+    "type": "fitb",
+    "stem": "Movement of warm air molecules away from the body is called __________.",
+    "answer": "convection",
+    "acceptableAnswers": [
+      "convection"
+    ]
+  },
+  {
+    "id": 90,
+    "type": "fitb",
+    "stem": "The process in acne whereby dead skin cells block the hair follicle is called __________.",
+    "answer": "hyperkeratinization",
+    "acceptableAnswers": [
+      "hyperkeratinization",
+      "hyperkeratinisation"
+    ]
+  },
+  {
+    "id": 91,
+    "type": "fitb",
+    "stem": "The bacterium named in the acne section is __________ __________.",
+    "answer": "Cutibacterium acnes",
+    "acceptableAnswers": [
+      "Cutibacterium acnes",
+      "cutibacterium acnes",
+      "C. acnes"
+    ]
+  },
+  {
+    "id": 92,
+    "type": "fitb",
+    "stem": "The test described as best for confirming and identifying a specific contact allergen is the __________ test.",
+    "answer": "patch",
+    "acceptableAnswers": [
+      "patch",
+      "patch test"
+    ]
+  },
+  {
+    "id": 93,
+    "type": "fitb",
+    "stem": "The medical term used in the notes for redness is __________.",
+    "answer": "erythema",
+    "acceptableAnswers": [
+      "erythema"
+    ]
+  },
+  {
+    "id": 94,
+    "type": "fitb",
+    "stem": "The medical term used in the notes for swelling is __________.",
+    "answer": "oedema",
+    "acceptableAnswers": [
+      "oedema",
+      "edema"
+    ]
+  },
+  {
+    "id": 95,
+    "type": "fitb",
+    "stem": "Dry, rough skin associated with atopic dermatitis is called __________.",
+    "answer": "xerosis",
+    "acceptableAnswers": [
+      "xerosis"
+    ]
+  },
+  {
+    "id": 96,
+    "type": "fitb",
+    "stem": "Thickening of the skin resulting from chronic itching is termed __________.",
     "answer": "lichenification",
     "acceptableAnswers": [
       "lichenification"
+    ]
+  },
+  {
+    "id": 97,
+    "type": "fitb",
+    "stem": "The serum marker mentioned as part of diagnostic evaluation of atopic dermatitis is __________.",
+    "answer": "IgE",
+    "acceptableAnswers": [
+      "IgE",
+      "serum IgE",
+      "IgE level",
+      "serum IgE level"
+    ]
+  },
+  {
+    "id": 98,
+    "type": "fitb",
+    "stem": "In infants, atopic dermatitis commonly affects the face, scalp and __________ surfaces.",
+    "answer": "extensor",
+    "acceptableAnswers": [
+      "extensor",
+      "extensor surfaces"
+    ]
+  },
+  {
+    "id": 99,
+    "type": "fitb",
+    "stem": "In children and adults, atopic dermatitis commonly affects __________ areas such as the elbows and behind the knees.",
+    "answer": "flexor",
+    "acceptableAnswers": [
+      "flexor",
+      "flexor areas",
+      "flexural",
+      "flexural areas"
+    ]
+  },
+  {
+    "id": 100,
+    "type": "fitb",
+    "stem": "The topical acne medications specifically named as retinoids are __________ and __________.",
+    "answer": "adapalene; tretinoin",
+    "acceptableAnswers": [
+      "adapalene; tretinoin",
+      "adapalene and tretinoin",
+      "adapalene, tretinoin",
+      "tretinoin and adapalene"
     ]
   }
 ]
