@@ -2,1141 +2,1035 @@
   {
     "id": 1,
     "type": "mcq",
-    "stem": "A patient sustains a superficial skin injury involving an avascular layer that contains melanocytes and keratinocytes but no blood vessels. Which layer is affected?",
-    "options": [
-      "Dermis",
-      "Epidermis",
-      "Hypodermis",
-      "Subcutaneous fascia"
-    ],
+    "stem": "A patient has thick, well-defined raised red plaques covered by silvery-white scales. The lesions are concentrated on the elbows, knees and scalp. Which diagnosis is MOST consistent with the notes?",
+    "options": ["Ringworm", "Psoriasis", "Impetigo", "Herpes zoster"],
     "answer": "B"
   },
   {
     "id": 2,
     "type": "mcq",
-    "stem": "Which combination is CORRECTLY matched according to the notes?",
+    "stem": "Which mechanism BEST explains the characteristic plaques of psoriasis according to the notes?",
     "options": [
-      "Melanocyte — keratin production — mechanical strength",
-      "Keratinocyte — melanin production — UV protection",
-      "Melanocyte — melanin production — skin colour and UV protection",
-      "Keratinocyte — sebum production — hair lubrication"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": 3,
-    "type": "mcq",
-    "stem": "A pigment is described as brown to black and conferring stronger protection from ultraviolet radiation. Which pigment is this?",
-    "options": [
-      "Pheomelanin",
-      "Eumelanin",
-      "Keratin",
-      "Sebum"
+      "Destruction of sensory ganglia by bacteria",
+      "Rapid proliferation of epidermal cells",
+      "Invasion of hair follicles by dermatophytes only",
+      "Reactivation of dormant bacteria"
     ],
     "answer": "B"
   },
   {
+    "id": 3,
+    "type": "mcq",
+    "stem": "Epidermal cells in psoriasis are stated to multiply approximately how much faster than normal?",
+    "options": ["2–3 times", "4–5 times", "6–9 times", "10–15 times"],
+    "answer": "C"
+  },
+  {
     "id": 4,
     "type": "mcq",
-    "stem": "Which statement BEST distinguishes pheomelanin from eumelanin in the supplied notes?",
+    "stem": "Which description of psoriasis is CORRECT according to the notes?",
     "options": [
-      "Pheomelanin is brown-black and provides stronger UV protection.",
-      "Pheomelanin is yellow-reddish and provides less UV protection.",
-      "Pheomelanin is produced by keratinocytes rather than melanocytes.",
-      "Pheomelanin occurs only within hair follicles."
+      "Acute contagious bacterial disease",
+      "Chronic non-contagious autoimmune inflammatory skin disease",
+      "Chronic contagious fungal disease",
+      "Acute viral disease caused by VZV"
     ],
     "answer": "B"
   },
   {
     "id": 5,
     "type": "mcq",
-    "stem": "Which site is NOT specifically listed in the notes as containing melanocytes?",
+    "stem": "Which combination contains ONLY factors associated with psoriasis in the notes?",
     "options": [
-      "Epidermis",
-      "Hair follicles",
-      "Iris",
-      "Nail bed"
+      "Autoimmune dysfunction, genetic predisposition, environmental factors",
+      "Dermatophytes, poor hygiene, animal exposure",
+      "VZV, increasing age, sensory ganglia",
+      "S. aureus, S. pyogenes, crowded housing"
     ],
-    "answer": "D"
+    "answer": "A"
   },
   {
     "id": 6,
     "type": "mcq",
-    "stem": "A cell originates from the stratum basale, progressively matures, becomes flattened and dead, and contributes to the outer protective layer. Which cell is being described?",
+    "stem": "Which infection is specifically mentioned as an environmental trigger associated with psoriasis?",
     "options": [
-      "Melanocyte",
-      "Keratinocyte",
-      "Adipocyte",
-      "Sebocyte"
+      "Streptococcal throat infection",
+      "Varicella infection",
+      "Dermatophyte nail infection",
+      "Staphylococcal wound infection"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 7,
     "type": "mcq",
-    "stem": "The epidermis receives nutrients from the dermis primarily because the epidermis:",
+    "stem": "Which group contains ONLY drugs listed as possible environmental/drug-related factors associated with psoriasis?",
     "options": [
-      "Contains no keratin",
-      "Contains no blood vessels",
-      "Contains no melanocytes",
-      "Cannot synthesize vitamin D"
+      "Lithium, beta-blockers, chloroquine",
+      "Acyclovir, valacyclovir, famciclovir",
+      "Terbinafine, griseofulvin, fluconazole",
+      "Flucloxacillin, cephalexin, erythromycin"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 8,
     "type": "mcq",
-    "stem": "An injury damages blood vessels, nerve endings, hair follicles, sweat glands, sebaceous glands, collagen and elastin fibres. Which skin layer has been injured?",
+    "stem": "A patient with a chronic scaly plaque disorder develops joint pain and stiffness. According to the notes, this complication is specifically termed:",
     "options": [
-      "Stratum corneum",
-      "Dermis",
-      "Epidermis",
-      "Hypodermis only"
+      "Postherpetic neuralgia",
+      "Psoriatic arthritis",
+      "Post-streptococcal glomerulonephritis",
+      "Cellulitis"
     ],
     "answer": "B"
   },
   {
     "id": 9,
     "type": "mcq",
-    "stem": "Which two structural components of the dermis are MOST directly associated with strength and elasticity?",
+    "stem": "Which nail finding is MOST consistent with psoriasis?",
     "options": [
-      "Keratin and melanin",
-      "Collagen and elastin",
-      "Sebum and adipose tissue",
-      "Keratin and sebum"
+      "Only complete nail loss",
+      "Thickened, pitted or discoloured nails",
+      "Honey-coloured nail crusts",
+      "Fluid-filled nail vesicles"
     ],
     "answer": "B"
   },
   {
     "id": 10,
     "type": "mcq",
-    "stem": "Which function is LEAST consistent with the hypodermis as described in the notes?",
+    "stem": "Which distribution MOST strongly supports psoriasis rather than the other disorders described in these notes?",
     "options": [
-      "Cushioning underlying organs",
-      "Storage of energy as fat",
-      "Insulation",
-      "Vitamin D synthesis"
+      "Elbows, knees, scalp, lower back and nails",
+      "Around the nose and mouth only",
+      "A unilateral sensory dermatome",
+      "Between the toes only"
     ],
-    "answer": "D"
+    "answer": "A"
   },
   {
     "id": 11,
     "type": "mcq",
-    "stem": "Which description MOST accurately identifies the hypodermis?",
-    "options": [
-      "The outer keratinized layer of skin",
-      "The deepest layer composed mainly of adipose and connective tissue",
-      "The middle layer containing only sensory receptors",
-      "The avascular layer containing melanocytes"
-    ],
-    "answer": "B"
+    "stem": "A patient has suspected psoriasis, but the clinical appearance is inconclusive. Which investigation is specifically indicated in the notes when the diagnosis is uncertain?",
+    "options": ["PCR", "KOH examination", "Skin biopsy", "Swab culture"],
+    "answer": "C"
   },
   {
     "id": 12,
     "type": "mcq",
-    "stem": "Which component of hair lies above the skin surface and consists of dead keratinized cells?",
+    "stem": "Which statement about laboratory testing for psoriasis is supported by the notes?",
     "options": [
-      "Hair root",
-      "Hair bulb",
-      "Hair shaft",
-      "Dermal papilla"
+      "PCR is the specific confirmatory test.",
+      "KOH is the specific confirmatory test.",
+      "There is no specific laboratory test.",
+      "Fungal culture is mandatory."
     ],
     "answer": "C"
   },
   {
     "id": 13,
     "type": "mcq",
-    "stem": "The enlarged portion of the hair root containing actively dividing cells responsible for growth is the:",
-    "options": [
-      "Hair bulb",
-      "Hair cortex",
-      "Hair cuticle",
-      "Hair medulla"
-    ],
+    "stem": "Which topical agent is specifically described as helping to soften and remove scales in psoriasis?",
+    "options": ["Salicylic acid", "Mupirocin", "Acyclovir", "Terbinafine"],
     "answer": "A"
   },
   {
     "id": 14,
     "type": "mcq",
-    "stem": "Which structure is a small connective-tissue projection at the base of the hair bulb containing blood vessels?",
+    "stem": "Which treatment pairing is INCORRECT according to the psoriasis section?",
     "options": [
-      "Dermal papilla",
-      "Hair cuticle",
-      "Medulla",
-      "Sebaceous duct"
+      "Salicylic acid — soften and remove scales",
+      "Calcipotriol — vitamin D treatment",
+      "PUVA — severe cases",
+      "Mupirocin — systemic psoriasis therapy"
     ],
-    "answer": "A"
+    "answer": "D"
   },
   {
     "id": 15,
     "type": "mcq",
-    "stem": "Which sequence correctly arranges the layers of the hair shaft from outermost to innermost?",
+    "stem": "PUVA therapy described for severe psoriasis combines:",
     "options": [
-      "Cortex → Cuticle → Medulla",
-      "Cuticle → Cortex → Medulla",
-      "Medulla → Cortex → Cuticle",
-      "Cuticle → Medulla → Cortex"
+      "Psoralen and UVA",
+      "Prednisolone and UVB",
+      "Psoralen and UVB",
+      "Calcipotriol and UVA"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 16,
     "type": "mcq",
-    "stem": "Damage to the hair-shaft layer containing keratin and melanin would MOST directly alter:",
+    "stem": "Which group contains ONLY systemic drugs listed for psoriasis?",
     "options": [
-      "Sweat production",
-      "Hair strength and colour",
-      "Sebum production",
-      "Nail growth"
+      "Methotrexate, cyclosporine, acitretin",
+      "Mupirocin, fusidic acid, methotrexate",
+      "Acyclovir, cyclosporine, terbinafine",
+      "Calcipotriol, salicylic acid, acitretin"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 17,
     "type": "mcq",
-    "stem": "Which hair-shaft layer is described as being present mainly in thick hair?",
+    "stem": "Which complication listed for psoriasis extends beyond the skin and joints into long-term systemic health risk?",
     "options": [
-      "Cuticle",
-      "Cortex",
-      "Medulla",
-      "Follicle"
+      "Increased cardiovascular disease and metabolic syndrome risk",
+      "Post-streptococcal glomerulonephritis only",
+      "Postherpetic neuralgia",
+      "Abscess formation"
     ],
-    "answer": "C"
+    "answer": "A"
   },
   {
     "id": 18,
     "type": "mcq",
-    "stem": "Which nail structure is the visible hard portion of the nail?",
-    "options": [
-      "Nail bed",
-      "Nail plate",
-      "Lunula",
-      "Hyponychium"
-    ],
+    "stem": "A child develops highly contagious facial sores that rupture and subsequently form honey-coloured crusts. Which diagnosis is MOST consistent?",
+    "options": ["Psoriasis", "Impetigo", "Herpes zoster", "Tinea corporis"],
     "answer": "B"
   },
   {
     "id": 19,
     "type": "mcq",
-    "stem": "Which nail structure forms a thin seal between skin and nail and helps prevent infection?",
+    "stem": "Which organism is identified as the MOST common bacterial cause of impetigo?",
     "options": [
-      "Lunula",
-      "Hyponychium",
-      "Eponychium",
-      "Nail bed"
+      "Streptococcus pyogenes",
+      "Staphylococcus aureus",
+      "Trichophyton",
+      "Varicella-Zoster Virus"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 20,
     "type": "mcq",
-    "stem": "A lesion affects the thickened skin directly beneath the free edge of a nail. Which structure is involved?",
+    "stem": "Which pair of organisms is associated with impetigo in the notes?",
     "options": [
-      "Lunula",
-      "Nail bed",
-      "Hyponychium",
-      "Eponychium"
+      "S. aureus and S. pyogenes",
+      "Trichophyton and Microsporum",
+      "VZV and S. aureus",
+      "Microsporum and Epidermophyton"
     ],
-    "answer": "C"
+    "answer": "A"
   },
   {
     "id": 21,
     "type": "mcq",
-    "stem": "Which structure is the skin beneath the nail plate that supports and nourishes the nail?",
+    "stem": "Which combination contains ONLY predisposing factors for impetigo listed in the notes?",
     "options": [
-      "Nail bed",
-      "Lunula",
-      "Cuticle",
-      "Hyponychium"
+      "Poor hygiene, warm humid climate, crowded living environment",
+      "Older age, chemotherapy, emotional stress",
+      "Diabetes, tight shoes, excessive sweating",
+      "Lithium, beta-blockers, antimalarial drugs"
     ],
     "answer": "A"
   },
   {
     "id": 22,
     "type": "mcq",
-    "stem": "A gland associated with a hair follicle produces a substance that lubricates the hair. Which combination is CORRECT?",
+    "stem": "Why can minor cuts, abrasions and insect bites predispose a person to impetigo according to the notes?",
     "options": [
-      "Eccrine gland — watery sweat",
-      "Apocrine gland — thick milky sweat",
-      "Sebaceous gland — sebum",
-      "Sebaceous gland — keratin"
+      "They reactivate VZV.",
+      "They provide a route of entry.",
+      "They accelerate epidermal proliferation.",
+      "They produce fungal spores."
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 23,
     "type": "mcq",
-    "stem": "Which sweat gland is found widely over the body and is especially prominent on the palms, soles and forehead?",
+    "stem": "Which statement about the age distribution of impetigo is MOST consistent with the notes?",
     "options": [
-      "Apocrine gland",
-      "Eccrine gland",
-      "Sebaceous gland",
-      "Ceruminous gland"
+      "It occurs exclusively in adults older than 50.",
+      "It mainly affects infants and children but can occur at any age.",
+      "It occurs exclusively from birth to age 10.",
+      "It occurs only after puberty."
     ],
     "answer": "B"
   },
   {
     "id": 24,
     "type": "mcq",
-    "stem": "Which profile MOST accurately identifies an apocrine sweat gland?",
-    "options": [
-      "Small, widely distributed, producing watery sweat",
-      "Larger, located in areas such as the axilla and groin, producing thick milky sweat",
-      "Associated mainly with palms and soles",
-      "Associated with hair follicles and producing sebum"
-    ],
-    "answer": "B"
+    "stem": "Approximately what proportion of impetigo cases is attributed to the non-bullous type in the notes?",
+    "options": ["30%", "50%", "70%", "90%"],
+    "answer": "C"
   },
   {
     "id": 25,
     "type": "mcq",
-    "stem": "According to the notes, characteristic body odour from apocrine secretion develops principally because:",
+    "stem": "Which description MOST accurately distinguishes non-bullous from bullous impetigo?",
     "options": [
-      "The sweat contains melanin.",
-      "Bacteria break down the secretion.",
-      "The secretion becomes keratinized.",
-      "Sebum mixes with the sweat."
+      "Non-bullous produces small vesicles or pustules forming honey-coloured crusts after rupture; bullous produces large fluid-filled bullae.",
+      "Non-bullous follows a dermatome; bullous produces silvery scales.",
+      "Non-bullous is fungal; bullous is viral.",
+      "Non-bullous affects nails; bullous affects joints."
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 26,
     "type": "mcq",
-    "stem": "Which sweat glands are specifically described as becoming active during puberty?",
+    "stem": "Bullous impetigo is described as being caused mainly by:",
     "options": [
-      "Eccrine glands",
-      "Apocrine glands",
-      "Sebaceous glands",
-      "Dermal papillae"
+      "Staphylococcus aureus",
+      "Streptococcus pyogenes",
+      "Trichophyton",
+      "Varicella-Zoster Virus"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 27,
     "type": "mcq",
-    "stem": "Heat loss from the body to another object of lower temperature situated at a distance is called:",
+    "stem": "Which feature is described as the classic sign of impetigo?",
     "options": [
-      "Conduction",
-      "Convection",
-      "Radiation",
-      "Insulation"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": 28,
-    "type": "mcq",
-    "stem": "Transfer of heat from the body to a cooler object in direct physical contact is:",
-    "options": [
-      "Radiation",
-      "Conduction",
-      "Convection",
-      "Metabolism"
+      "Silvery-white scales",
+      "Honey-coloured crusts",
+      "Clear-centred rings",
+      "Unilateral dermatomal vesicles"
     ],
     "answer": "B"
   },
   {
+    "id": 28,
+    "type": "mcq",
+    "stem": "Which anatomical distribution is specifically described for impetigo?",
+    "options": [
+      "Face around the nose and mouth, hands and legs",
+      "Elbows, knees and lower back exclusively",
+      "Chest and abdomen along one dermatome only",
+      "Groin and interdigital spaces exclusively"
+    ],
+    "answer": "A"
+  },
+  {
     "id": 29,
     "type": "mcq",
-    "stem": "The movement of warm air molecules away from the body is described as:",
-    "options": [
-      "Conduction",
-      "Convection",
-      "Radiation",
-      "Keratinization"
-    ],
+    "stem": "A patient has red sores, pustules, honey-coloured crusts, pruritus and swollen lymph nodes around the affected area. Which diagnosis is BEST supported?",
+    "options": ["Ringworm", "Impetigo", "Psoriasis", "Herpes zoster"],
     "answer": "B"
   },
   {
     "id": 30,
     "type": "mcq",
-    "stem": "Which part of the epidermis is specifically linked to prevention of excessive water and electrolyte loss?",
-    "options": [
-      "Stratum basale",
-      "Stratum corneum",
-      "Dermal papilla",
-      "Hair cortex"
-    ],
+    "stem": "Which laboratory procedure may be performed in impetigo even though the notes state that no investigation is specifically diagnostic?",
+    "options": ["KOH examination", "Swab culture", "PCR of vesicle fluid", "Skin biopsy"],
     "answer": "B"
   },
   {
     "id": 31,
     "type": "mcq",
-    "stem": "Recognition of touch, pressure, pain and temperature by cutaneous nerve endings represents which skin function?",
+    "stem": "Which pair contains ONLY topical antibiotics listed for impetigo?",
     "options": [
-      "Water balance",
-      "Sensory function",
-      "Vitamin D synthesis",
-      "Energy storage"
+      "Mupirocin and fusidic acid",
+      "Flucloxacillin and cephalexin",
+      "Terbinafine and griseofulvin",
+      "Acyclovir and valacyclovir"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 32,
     "type": "mcq",
-    "stem": "According to the notes, sunlight-dependent synthesis of vitamin D occurs in the:",
-    "options": [
-      "Dermis",
-      "Hypodermis",
-      "Epidermis",
-      "Hair follicle"
-    ],
-    "answer": "C"
+    "stem": "Which medication is NOT listed among the oral antibiotics for impetigo?",
+    "options": ["Cephalexin", "Azithromycin", "Flucloxacillin", "Famciclovir"],
+    "answer": "D"
   },
   {
     "id": 33,
     "type": "mcq",
-    "stem": "A teenager presents with pimples, blackheads and whiteheads involving the pilosebaceous unit. Which diagnosis BEST fits?",
+    "stem": "Which set contains ONLY oral antibiotics listed for impetigo?",
     "options": [
-      "Contact dermatitis",
-      "Atopic dermatitis",
-      "Acne vulgaris",
-      "Xerosis"
+      "Flucloxacillin, cephalexin, amoxicillin-clavulanate",
+      "Mupirocin, fusidic acid, erythromycin",
+      "Acyclovir, erythromycin, azithromycin",
+      "Terbinafine, fluconazole, cephalexin"
     ],
-    "answer": "C"
+    "answer": "A"
   },
   {
     "id": 34,
     "type": "mcq",
-    "stem": "Which sequence is MOST consistent with acne pathogenesis described in the notes?",
+    "stem": "Which nursing action is specifically included in the management of impetigo?",
     "options": [
-      "Reduced androgen activity → reduced sebum → follicular blockage",
-      "Increased androgen activity → excessive sebum → follicular blockage",
-      "Environmental allergen → IgE reduction → sebum loss",
-      "Excessive sweating → melanocyte activation → comedones"
+      "Monitor vital signs and signs of improvement or complications.",
+      "Perform PUVA therapy routinely.",
+      "Keep the patient continuously exposed to sunlight.",
+      "Apply KOH to lesions as treatment."
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 35,
     "type": "mcq",
-    "stem": "Hyperkeratinization contributes to acne principally by causing:",
+    "stem": "Which complication of impetigo is specifically associated by name with Streptococcus?",
     "options": [
-      "Excessive sweat production",
-      "Blockage of hair follicles by dead skin cells",
-      "Loss of dermal collagen",
-      "Reduction of androgen activity"
+      "Postherpetic neuralgia",
+      "Post-streptococcal glomerulonephritis",
+      "Psoriatic arthritis",
+      "Onychomycosis"
     ],
     "answer": "B"
   },
   {
     "id": 36,
     "type": "mcq",
-    "stem": "Which bacterium is specifically named as being associated with acne in the notes?",
+    "stem": "Which combination contains ONLY complications of impetigo listed in the notes?",
     "options": [
-      "Staphylococcus aureus",
-      "Cutibacterium acnes",
-      "Streptococcus pyogenes",
-      "Candida albicans"
+      "Abscess formation, cellulitis, post-streptococcal glomerulonephritis",
+      "Psoriatic arthritis, cellulitis, vision loss",
+      "Postherpetic neuralgia, abscess, nail deformity",
+      "Metabolic syndrome, cellulitis, encephalitis"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 37,
     "type": "mcq",
-    "stem": "Which history item is specifically included in the diagnostic evaluation of acne?",
+    "stem": "A patient had chickenpox years ago and now develops a painful unilateral band of vesicles. What process BEST explains the new disease according to the notes?",
     "options": [
-      "Menstrual cycle",
-      "Occupational radiation exposure",
-      "Patch-test result",
-      "Serum IgE level"
+      "New infection with dermatophytes",
+      "Reactivation of dormant Varicella-Zoster Virus",
+      "Rapid autoimmune epidermal proliferation",
+      "Secondary infection with S. pyogenes"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 38,
     "type": "mcq",
-    "stem": "Which assessment combination is specifically recommended during physical examination of acne?",
+    "stem": "After recovery from chickenpox, Varicella-Zoster Virus is described as remaining dormant in the:",
     "options": [
-      "Type, number, scarring and pigmentation",
-      "Pruritus, serum IgE and patch-test result",
-      "Sweat volume, temperature and nail colour",
-      "Hair length, texture and dermal thickness"
+      "Epidermal stratum corneum",
+      "Sensory nerve ganglia",
+      "Sebaceous glands",
+      "Nail matrix"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 39,
     "type": "mcq",
-    "stem": "Which intervention belongs to NON-pharmacological acne management?",
+    "stem": "Which sequence MOST accurately represents herpes zoster progression described in the notes?",
     "options": [
-      "Topical tretinoin",
-      "Benzoyl peroxide",
-      "Avoid squeezing or picking pimples",
-      "Oral doxycycline"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": 40,
-    "type": "mcq",
-    "stem": "Which acne-management instruction is intended to reduce exposure to products capable of worsening follicular blockage?",
-    "options": [
-      "Avoid comedogenic skin-care products.",
-      "Avoid mild facial cleansers.",
-      "Avoid all moisturizers.",
-      "Avoid balanced meals."
+      "Pain/tingling → red rash → clustered vesicles → vesicles burst and crust",
+      "Honey crust → pain → silvery scales → bullae",
+      "Ring-shaped lesion → joint pain → vesicles → crust",
+      "Pustules → clear centre → unilateral numbness → plaques"
     ],
     "answer": "A"
   },
   {
+    "id": 40,
+    "type": "mcq",
+    "stem": "Which feature MOST strongly distinguishes herpes zoster from the other conditions in these notes?",
+    "options": [
+      "Pruritus",
+      "Redness",
+      "Unilateral rash following a sensory nerve distribution",
+      "Crusting"
+    ],
+    "answer": "C"
+  },
+  {
     "id": 41,
     "type": "mcq",
-    "stem": "Which pair consists ONLY of topical pharmacological acne treatments listed in the notes?",
-    "options": [
-      "Benzoyl peroxide and topical retinoid",
-      "Doxycycline and stress reduction",
-      "Prednisolone and loratadine",
-      "Balanced diet and azelaic acid"
-    ],
+    "stem": "The distribution followed by a typical herpes zoster rash is called a:",
+    "options": ["Dermatome", "Plaque", "Bulla", "Tinea"],
     "answer": "A"
   },
   {
     "id": 42,
     "type": "mcq",
-    "stem": "Which two drugs are specifically named as topical retinoids?",
+    "stem": "Which symptom may precede the visible herpes zoster rash?",
     "options": [
-      "Hydrocortisone and clobetasol",
-      "Adapalene and tretinoin",
-      "Cetirizine and loratadine",
-      "Doxycycline and benzoyl peroxide"
+      "Pain, burning, tingling, numbness or sensitivity",
+      "Honey-coloured crusting",
+      "Nail pitting only",
+      "Clear-centred scaling only"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 43,
     "type": "mcq",
-    "stem": "Which systemic antibiotic example is specifically provided for acne treatment?",
+    "stem": "Which group contains ONLY common sites for herpes zoster identified in the notes?",
     "options": [
-      "Doxycycline",
-      "Prednisolone",
-      "Cetirizine",
-      "Clobetasol"
+      "Chest, abdomen, back, face and neck",
+      "Palms, soles and nails only",
+      "Elbows, knees and lower back only",
+      "Groin, beard and scalp only"
     ],
     "answer": "A"
   },
   {
     "id": 44,
     "type": "mcq",
-    "stem": "Which condition is NOT listed as a complication of acne in the supplied notes?",
+    "stem": "Which patient has a risk factor profile MOST consistent with herpes zoster?",
     "options": [
-      "Permanent acne scars",
-      "Post-inflammatory hyperpigmentation",
-      "Skin infections",
-      "Cataract formation"
+      "Older adult receiving chemotherapy",
+      "Child with only tight footwear",
+      "Healthy adult sharing a towel",
+      "Young patient with isolated poor hygiene"
     ],
-    "answer": "D"
+    "answer": "A"
   },
   {
     "id": 45,
     "type": "mcq",
-    "stem": "A patient develops inflammation after direct skin contact with an irritating cleaning agent. Which disorder BEST fits?",
+    "stem": "Which factor is NOT listed as a risk factor for herpes zoster?",
     "options": [
-      "Atopic dermatitis",
-      "Contact dermatitis",
-      "Acne vulgaris",
-      "Xerosis"
+      "Increasing age",
+      "Immunosuppressive medication",
+      "Physical or emotional stress",
+      "Wearing damp clothes"
     ],
-    "answer": "B"
+    "answer": "D"
   },
   {
     "id": 46,
     "type": "mcq",
-    "stem": "Which statement BEST distinguishes irritant contact dermatitis from allergic contact dermatitis according to the notes?",
+    "stem": "For confirmatory PCR testing of suspected herpes zoster, which specimen is specifically described in the notes?",
     "options": [
-      "Irritant dermatitis occurs only in genetically predisposed patients.",
-      "Irritant dermatitis results from direct damage by an irritating substance, whereas allergic dermatitis occurs after exposure to an allergen to which the person is sensitive.",
-      "Allergic dermatitis is caused only by cosmetics.",
-      "Irritant dermatitis is always associated with vesicles."
+      "Fluid collected from a vesicle",
+      "Nail scraping",
+      "Hair sample",
+      "Salicylic-acid-treated plaque"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 47,
     "type": "mcq",
-    "stem": "Which substance is specifically included among possible causes of contact dermatitis?",
-    "options": [
-      "Poison ivy or poison oak",
-      "Cotton dust",
-      "Excess androgen",
-      "Low serum IgE"
-    ],
-    "answer": "A"
+    "stem": "Which diagnostic method detects genetic material of a specific microorganism and is described as confirmatory for herpes zoster?",
+    "options": ["KOH examination", "PCR", "Skin biopsy", "Patch testing"],
+    "answer": "B"
   },
   {
     "id": 48,
     "type": "mcq",
-    "stem": "Which manifestation is particularly associated with allergic contact dermatitis in the notes?",
+    "stem": "Which group contains ONLY antiviral drugs listed for herpes zoster?",
     "options": [
-      "Blackheads",
-      "Blisters or vesicles",
-      "Hair loss",
-      "Whiteheads"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 49,
-    "type": "mcq",
-    "stem": "A rash occurs only where a bracelet contacts a patient's wrist. Which feature of contact dermatitis does this MOST strongly illustrate?",
-    "options": [
-      "Rash limited to the exposed contact area",
-      "Generalized extensor involvement",
-      "Flexural involvement independent of exposure",
-      "Pilosebaceous obstruction"
+      "Acyclovir, valacyclovir, famciclovir",
+      "Acyclovir, fluconazole, famciclovir",
+      "Mupirocin, valacyclovir, acyclovir",
+      "Terbinafine, acyclovir, griseofulvin"
     ],
     "answer": "A"
   },
   {
+    "id": 49,
+    "type": "mcq",
+    "stem": "According to the notes, antiviral therapy has the greatest stated benefit in reducing shingles severity when commenced within:",
+    "options": ["12 hours", "24 hours", "48 hours", "72 hours"],
+    "answer": "D"
+  },
+  {
     "id": 50,
     "type": "mcq",
-    "stem": "Which investigation is described as BEST for confirming contact allergy and identifying the specific allergen?",
-    "options": [
-      "Serum IgE level",
-      "Patch test",
-      "Skin biopsy",
-      "Complete blood count"
-    ],
-    "answer": "B"
+    "stem": "Which drug listed under herpes zoster management is used for pain rather than as an antiviral?",
+    "options": ["Valacyclovir", "Famciclovir", "Gabapentin", "Acyclovir"],
+    "answer": "C"
   },
   {
     "id": 51,
     "type": "mcq",
-    "stem": "Which group contains ONLY topical corticosteroids listed for contact dermatitis?",
+    "stem": "Which combination contains one antiviral and one pain medication listed for herpes zoster?",
     "options": [
-      "Hydrocortisone, betamethasone, clobetasol",
-      "Cetirizine, loratadine, chlorpheniramine",
-      "Adapalene, tretinoin, doxycycline",
-      "Benzoyl peroxide, azelaic acid, prednisolone"
+      "Valacyclovir and gabapentin",
+      "Terbinafine and gabapentin",
+      "Mupirocin and acyclovir",
+      "Methotrexate and paracetamol"
     ],
     "answer": "A"
   },
   {
     "id": 52,
     "type": "mcq",
-    "stem": "Which group contains ONLY oral antihistamines listed for relief of itching?",
+    "stem": "Which instruction is NOT consistent with the skin-care measures listed for herpes zoster?",
     "options": [
-      "Cetirizine, loratadine, chlorpheniramine",
-      "Hydrocortisone, clobetasol, betamethasone",
-      "Adapalene, tretinoin, azelaic acid",
-      "Prednisolone, benzoyl peroxide, doxycycline"
+      "Avoid scratching.",
+      "Keep the lesion clean and dry.",
+      "Wear loose clothes.",
+      "Keep the lesion continuously moist."
     ],
-    "answer": "A"
+    "answer": "D"
   },
   {
     "id": 53,
     "type": "mcq",
-    "stem": "What is the principal purpose of moisturizers in contact dermatitis management according to the notes?",
-    "options": [
-      "Identify the allergen.",
-      "Restore the skin barrier and prevent scaling, dryness and cracking.",
-      "Reduce sebum production.",
-      "Increase melanin production."
-    ],
+    "stem": "According to the notes, transmission of VZV from a shingles patient to a susceptible person who has never had chickenpox or vaccination would cause that person to develop:",
+    "options": ["Shingles", "Chickenpox", "Psoriasis", "Impetigo"],
     "answer": "B"
   },
   {
     "id": 54,
     "type": "mcq",
-    "stem": "Which medication is specifically listed for severe contact dermatitis to stop the reaction?",
+    "stem": "Persistent nerve pain in the affected area after a herpes zoster rash has disappeared is:",
     "options": [
-      "Oral prednisolone",
-      "Oral doxycycline",
-      "Topical tretinoin",
-      "Cetirizine cream"
+      "Psoriatic arthritis",
+      "Postherpetic neuralgia",
+      "Cellulitis",
+      "Dermatophytosis"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 55,
     "type": "mcq",
-    "stem": "The use of antibiotics in contact dermatitis is intended primarily to:",
+    "stem": "Which herpes zoster complication is described as being more common in older adults?",
     "options": [
-      "Stop or prevent secondary infection.",
-      "Reduce sebaceous activity.",
-      "Identify the specific allergen.",
-      "Restore melanin production."
+      "Postherpetic neuralgia",
+      "Onychomycosis",
+      "Post-streptococcal glomerulonephritis",
+      "Psoriatic arthritis"
     ],
     "answer": "A"
   },
   {
     "id": 56,
     "type": "mcq",
-    "stem": "Which activity belongs specifically to nursing management of contact dermatitis?",
+    "stem": "Herpes zoster involving which structure is associated with the vision-loss complication specified in the notes?",
     "options": [
-      "Assess the extent of lesions.",
-      "Perform the patch test as the only intervention.",
-      "Measure androgen activity.",
-      "Assess the hair medulla."
+      "Ophthalmic branch of the trigeminal nerve",
+      "Sciatic nerve",
+      "Dermal papilla",
+      "Facial sebaceous gland"
     ],
     "answer": "A"
   },
   {
     "id": 57,
     "type": "mcq",
-    "stem": "A patient has a chronic, relapsing inflammatory condition marked by intense itching, dry skin and redness. Which diagnosis is MOST consistent?",
+    "stem": "Which group contains ONLY neurological complications of herpes zoster specifically listed in the notes?",
     "options": [
-      "Contact dermatitis",
-      "Atopic dermatitis",
-      "Acne vulgaris",
-      "Sebaceous hyperplasia"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 58,
-    "type": "mcq",
-    "stem": "Which factor is NOT listed as an association with atopic dermatitis?",
-    "options": [
-      "Genetic factors",
-      "Defect in the skin barrier causing excess water loss",
-      "Environmental triggers",
-      "A single established bacterial cause"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": 59,
-    "type": "mcq",
-    "stem": "Thickened skin resulting from repeated chronic itching in atopic dermatitis is called:",
-    "options": [
-      "Xerosis",
-      "Lichenification",
-      "Erythema",
-      "Oedema"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 60,
-    "type": "mcq",
-    "stem": "Which combination is MOST characteristic of atopic dermatitis according to the notes?",
-    "options": [
-      "Pruritus, xerosis, red inflamed patches, scaling and crusting",
-      "Blackheads, whiteheads and comedones only",
-      "Localized chemical burns without itching",
-      "Nail thickening and alopecia"
+      "Encephalitis, facial paralysis, hearing or balance problems",
+      "Cellulitis, abscess, encephalitis",
+      "Arthritis, nail deformity, facial paralysis",
+      "Glomerulonephritis, hearing loss, cellulitis"
     ],
     "answer": "A"
   },
   {
-    "id": 61,
+    "id": 58,
     "type": "mcq",
-    "stem": "Which statement regarding atopic dermatitis is explicitly stated in the notes?",
+    "stem": "A patient has an annular red scaly lesion with a raised border and relatively clear centre. Which diagnosis BEST matches the notes?",
+    "options": ["Psoriasis", "Ringworm", "Impetigo", "Herpes zoster"],
+    "answer": "B"
+  },
+  {
+    "id": 59,
+    "type": "mcq",
+    "stem": "Ringworm is also referred to in the notes as:",
     "options": [
-      "It is highly contagious.",
-      "It is not contagious.",
-      "It is contagious only during crusting.",
-      "It is contagious only in infants."
+      "Tinea or dermatophytosis",
+      "Shingles or dermatophytosis",
+      "Psoriasis or tinea",
+      "Impetigo or tinea"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 60,
+    "type": "mcq",
+    "stem": "Which statement correctly describes the cause of ringworm?",
+    "options": [
+      "It is caused by a worm invading the skin.",
+      "It is a fungal infection caused by dermatophytes.",
+      "It is caused by reactivated VZV.",
+      "It is an autoimmune bacterial disease."
     ],
     "answer": "B"
   },
   {
+    "id": 61,
+    "type": "mcq",
+    "stem": "Which dermatophyte genus is identified as the MOST common cause of ringworm in the notes?",
+    "options": ["Microsporum", "Epidermophyton", "Trichophyton", "Staphylococcus"],
+    "answer": "C"
+  },
+  {
     "id": 62,
     "type": "mcq",
-    "stem": "Which distribution is MOST typical of atopic dermatitis in infants according to the notes?",
+    "stem": "Which group contains ONLY genera listed as causes of ringworm?",
     "options": [
-      "Face, scalp and extensor surfaces",
-      "Flexor surfaces only",
-      "Palms and soles only",
-      "Groin and axilla only"
+      "Trichophyton, Microsporum, Epidermophyton",
+      "Staphylococcus, Trichophyton, Microsporum",
+      "Epidermophyton, Streptococcus, Trichophyton",
+      "Varicella, Microsporum, Epidermophyton"
     ],
     "answer": "A"
   },
   {
     "id": 63,
     "type": "mcq",
-    "stem": "Which distribution is MOST typical of atopic dermatitis in children and adults?",
+    "stem": "Which tinea-location pairing is CORRECT?",
     "options": [
-      "Face, scalp and extensor surfaces exclusively",
-      "Flexor areas, neck, wrist and ankles",
-      "Palms and soles exclusively",
-      "Hair follicles only"
+      "Tinea corporis — body",
+      "Tinea capitis — groin",
+      "Tinea cruris — scalp",
+      "Tinea barbae — feet"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 64,
     "type": "mcq",
-    "stem": "Which history finding supports assessment for atopic dermatitis?",
+    "stem": "Which set of tinea-location pairings is entirely CORRECT according to the notes?",
     "options": [
-      "Personal or family history of asthma, allergic rhinitis or eczema",
-      "Occupational radiation exposure",
-      "High androgen production only",
-      "History of chemical burns only"
+      "Capitis–scalp; pedis–feet; cruris–groin",
+      "Capitis–body; pedis–palm; cruris–beard",
+      "Corporis–nails; manuum–scalp; barbae–feet",
+      "Unguium–groin; corporis–beard; pedis–nails"
     ],
     "answer": "A"
   },
   {
     "id": 65,
     "type": "mcq",
-    "stem": "Which test or laboratory assessment is specifically mentioned in the diagnosis of atopic dermatitis?",
-    "options": [
-      "Serum IgE level or allergy tests",
-      "Audiometry",
-      "Blood lead concentration",
-      "Serum androgen level"
-    ],
+    "stem": "Tinea manuum affects the:",
+    "options": ["Palm", "Scalp", "Beard", "Nails"],
     "answer": "A"
   },
   {
     "id": 66,
     "type": "mcq",
-    "stem": "Which treatment-purpose pairing is CORRECT for atopic dermatitis?",
-    "options": [
-      "Topical corticosteroid — reduce inflammation",
-      "Antihistamine — increase pruritus",
-      "Antibacterial — increase dryness",
-      "Serum IgE testing — reduce scaling"
-    ],
-    "answer": "A"
+    "stem": "Tinea unguium, also identified in the notes as onychomycosis, affects the:",
+    "options": ["Groin", "Nails", "Beard", "Scalp"],
+    "answer": "B"
   },
   {
     "id": 67,
     "type": "mcq",
-    "stem": "Which complication is common to BOTH the contact dermatitis and atopic dermatitis sections?",
-    "options": [
-      "Secondary bacterial infection",
-      "Permanent acne scars",
-      "Comedone formation",
-      "Follicular hyperkeratinization"
-    ],
-    "answer": "A"
+    "stem": "A patient develops itching, stinging, burning, blistering, peeling and foul odour between the toes, with spread toward the sole. Which form of ringworm is MOST likely?",
+    "options": ["Tinea capitis", "Tinea pedis", "Tinea barbae", "Tinea manuum"],
+    "answer": "B"
   },
   {
     "id": 68,
     "type": "mcq",
-    "stem": "A 22-year-old patient has chronic intense itching, dry rough skin, lichenification and lesions concentrated in the flexures behind the knees. Which diagnosis is MOST consistent?",
-    "options": [
-      "Acne vulgaris",
-      "Atopic dermatitis",
-      "Contact dermatitis",
-      "Sebaceous-gland disorder"
-    ],
+    "stem": "Which form of ringworm is described as more common in males and begins with discoloration in the area between the leg and where the body meets?",
+    "options": ["Tinea corporis", "Tinea cruris", "Tinea capitis", "Tinea unguium"],
     "answer": "B"
   },
   {
     "id": 69,
     "type": "mcq",
-    "stem": "A patient develops erythema, oedema, intense itching and vesicles exactly beneath a piece of jewellery. Which disorder is MOST likely?",
+    "stem": "Which combination contains ONLY risk factors for ringworm listed in the notes?",
     "options": [
-      "Atopic dermatitis",
-      "Contact dermatitis",
-      "Acne vulgaris",
-      "Xerosis"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 70,
-    "type": "mcq",
-    "stem": "Which investigation MOST clearly distinguishes evaluation of allergic contact dermatitis from the routine assessment of atopic dermatitis described in the notes?",
-    "options": [
-      "Patch testing to identify the specific allergen",
-      "History taking",
-      "Physical examination",
-      "Assessment of redness"
+      "Warm humid environment, damp clothes, excessive sweating",
+      "Older age, lithium use, emotional stress",
+      "Chemotherapy, beta-blockers, throat infection",
+      "Crowded housing, insect bites, VZV"
     ],
     "answer": "A"
   },
   {
+    "id": 70,
+    "type": "mcq",
+    "stem": "Which transmission route is NOT listed for ringworm?",
+    "options": [
+      "Human to human",
+      "Animal to human",
+      "Object to human",
+      "Airborne droplet transmission"
+    ],
+    "answer": "D"
+  },
+  {
     "id": 71,
-    "type": "fitb",
-    "stem": "The deepest layer of the epidermis named in the notes is the stratum __________.",
-    "answer": "basale",
-    "acceptableAnswers": [
-      "basale",
-      "stratum basale",
-      "basal layer"
-    ]
+    "type": "mcq",
+    "stem": "Which set contains all four modes of ringworm transmission given in the notes?",
+    "options": [
+      "Human-human, animal-human, object-human, soil-human",
+      "Human-human, airborne-human, water-human, insect-human",
+      "Animal-human, blood-human, soil-human, droplet-human",
+      "Object-human, food-human, blood-human, human-human"
+    ],
+    "answer": "A"
   },
   {
     "id": 72,
-    "type": "fitb",
-    "stem": "The brown-to-black pigment that provides stronger ultraviolet protection is __________.",
-    "answer": "eumelanin",
-    "acceptableAnswers": [
-      "eumelanin"
-    ]
+    "type": "mcq",
+    "stem": "Hair loss in an affected area is particularly relevant when ringworm involves the:",
+    "options": ["Scalp", "Groin", "Feet", "Palm"],
+    "answer": "A"
   },
   {
     "id": 73,
-    "type": "fitb",
-    "stem": "The yellow-to-reddish melanin pigment associated with fair skin, red hair and freckles is __________.",
-    "answer": "pheomelanin",
-    "acceptableAnswers": [
-      "pheomelanin"
-    ]
+    "type": "mcq",
+    "stem": "Thickened, brittle or discoloured nails in a patient with dermatophytosis MOST strongly indicate:",
+    "options": ["Tinea corporis", "Tinea unguium", "Tinea cruris", "Tinea barbae"],
+    "answer": "B"
   },
   {
     "id": 74,
-    "type": "fitb",
-    "stem": "Because the epidermis contains no blood vessels, it receives nutrients from the __________.",
-    "answer": "dermis",
-    "acceptableAnswers": [
-      "dermis"
-    ]
+    "type": "mcq",
+    "stem": "During a KOH examination for suspected ringworm, potassium hydroxide is applied to scraped affected skin primarily to:",
+    "options": [
+      "Break down skin cells to make fungal elements easier to view microscopically.",
+      "Identify the exact bacterial species.",
+      "Detect viral DNA directly.",
+      "Produce a honey-coloured crust."
+    ],
+    "answer": "A"
   },
   {
     "id": 75,
-    "type": "fitb",
-    "stem": "The deepest layer of skin, composed mainly of adipose and connective tissue, is the __________.",
-    "answer": "hypodermis",
-    "acceptableAnswers": [
-      "hypodermis",
-      "subcutaneous tissue",
-      "subcutaneous tissue (hypodermis)"
-    ]
+    "type": "mcq",
+    "stem": "Which investigation is used to identify the specific fungus in ringworm?",
+    "options": ["Fungal culture", "PCR only", "Swab culture for bacteria", "PUVA"],
+    "answer": "A"
   },
   {
     "id": 76,
-    "type": "fitb",
-    "stem": "The small connective-tissue projection containing blood vessels at the base of the hair bulb is the dermal __________.",
-    "answer": "papilla",
-    "acceptableAnswers": [
-      "papilla",
-      "dermal papilla"
-    ]
+    "type": "mcq",
+    "stem": "Which diagnostic procedure for ringworm is described as rarely done?",
+    "options": ["History taking", "Physical examination", "Skin biopsy", "KOH examination"],
+    "answer": "C"
   },
   {
     "id": 77,
-    "type": "fitb",
-    "stem": "The outer protective layer of the hair shaft is the __________.",
-    "answer": "cuticle",
-    "acceptableAnswers": [
-      "cuticle",
-      "hair cuticle"
-    ]
+    "type": "mcq",
+    "stem": "Which nursing instruction would CONTRADICT the ringworm management described in the notes?",
+    "options": [
+      "Keep affected areas clean and dry.",
+      "Avoid sharing towels and clothing.",
+      "Regularly wash clothes and bed sheets.",
+      "Keep affected areas persistently damp."
+    ],
+    "answer": "D"
   },
   {
     "id": 78,
-    "type": "fitb",
-    "stem": "The middle and thickest layer of the hair shaft, containing keratin and melanin, is the __________.",
-    "answer": "cortex",
-    "acceptableAnswers": [
-      "cortex",
-      "hair cortex"
-    ]
+    "type": "mcq",
+    "stem": "A household member has ringworm and pets are also present. Which combination of instructions is specifically supported by the notes?",
+    "options": [
+      "Hand hygiene and disinfecting the pet area",
+      "Share towels but disinfect shoes",
+      "Avoid washing bed sheets during treatment",
+      "Scratch lesions before medication"
+    ],
+    "answer": "A"
   },
   {
     "id": 79,
-    "type": "fitb",
-    "stem": "The innermost hair-shaft layer present mainly in thick hair is the __________.",
-    "answer": "medulla",
-    "acceptableAnswers": [
-      "medulla",
-      "hair medulla"
-    ]
+    "type": "mcq",
+    "stem": "Which oral antifungal is specifically noted as commonly used for tinea capitis?",
+    "options": ["Griseofulvin", "Mupirocin", "Acyclovir", "Methotrexate"],
+    "answer": "A"
   },
   {
     "id": 80,
-    "type": "fitb",
-    "stem": "The visible hard portion of the nail is called the nail __________.",
-    "answer": "plate",
-    "acceptableAnswers": [
-      "plate",
-      "nail plate",
-      "nail plate body"
-    ]
+    "type": "mcq",
+    "stem": "Which group contains ONLY oral antifungal drugs listed for ringworm?",
+    "options": [
+      "Terbinafine, griseofulvin, itraconazole",
+      "Fluconazole, mupirocin, terbinafine",
+      "Ketoconazole, acyclovir, itraconazole",
+      "Griseofulvin, cephalexin, fluconazole"
+    ],
+    "answer": "A"
   },
   {
     "id": 81,
-    "type": "fitb",
-    "stem": "The white crescent-shaped area at the base of the nail is the __________.",
-    "answer": "lunula",
-    "acceptableAnswers": [
-      "lunula"
-    ]
+    "type": "mcq",
+    "stem": "A patient presents with scaling and pruritus. Which additional finding would MOST specifically favor ringworm over psoriasis using the notes?",
+    "options": [
+      "A clear centre with a raised scaly border",
+      "Silvery-white scales",
+      "Joint stiffness",
+      "Nail pitting"
+    ],
+    "answer": "A"
   },
   {
     "id": 82,
-    "type": "fitb",
-    "stem": "The thickened skin beneath the free edge of the nail is called the __________.",
-    "answer": "hyponychium",
-    "acceptableAnswers": [
-      "hyponychium"
-    ]
+    "type": "mcq",
+    "stem": "A patient presents with crusted skin lesions. Which finding would MOST specifically favor impetigo rather than herpes zoster?",
+    "options": [
+      "Honey-coloured crusts following rupture of pustules",
+      "Pain before rash appearance",
+      "Unilateral dermatomal distribution",
+      "History of previous chickenpox"
+    ],
+    "answer": "A"
   },
   {
     "id": 83,
-    "type": "fitb",
-    "stem": "The thin layer of skin that seals the space between the nail and surrounding skin is the __________.",
-    "answer": "eponychium",
-    "acceptableAnswers": [
-      "eponychium",
-      "cuticle",
-      "eponychium/cuticle"
-    ]
+    "type": "mcq",
+    "stem": "A patient presents with vesicles. Which feature MOST strongly favors herpes zoster rather than bullous impetigo?",
+    "options": [
+      "Unilateral distribution following a sensory nerve",
+      "Fluid-filled lesions",
+      "Lesions that eventually rupture",
+      "Possible crust formation"
+    ],
+    "answer": "A"
   },
   {
     "id": 84,
-    "type": "fitb",
-    "stem": "The gland that secretes sebum into the space associated with the hair follicle is the __________ gland.",
-    "answer": "sebaceous",
-    "acceptableAnswers": [
-      "sebaceous",
-      "sebaceous gland"
-    ]
+    "type": "mcq",
+    "stem": "Which disorder-treatment pair is INCORRECT according to the supplied notes?",
+    "options": [
+      "Herpes zoster — valacyclovir",
+      "Ringworm — terbinafine",
+      "Impetigo — mupirocin",
+      "Psoriasis — flucloxacillin as systemic psoriasis therapy"
+    ],
+    "answer": "D"
   },
   {
     "id": 85,
-    "type": "fitb",
-    "stem": "The sweat gland that produces watery secretion and is especially prominent on the palms, soles and forehead is the __________ gland.",
-    "answer": "eccrine",
-    "acceptableAnswers": [
-      "eccrine",
-      "eccrine sweat gland"
-    ]
+    "type": "mcq",
+    "stem": "Which diagnostic test-disease pairing is CORRECT?",
+    "options": [
+      "Herpes zoster — PCR of vesicle fluid",
+      "Ringworm — PUVA",
+      "Psoriasis — KOH as the specific test",
+      "Impetigo — PCR as the required confirmatory test"
+    ],
+    "answer": "A"
   },
   {
     "id": 86,
-    "type": "fitb",
-    "stem": "The larger sweat gland producing thick milky secretion and becoming active during puberty is the __________ gland.",
-    "answer": "apocrine",
-    "acceptableAnswers": [
-      "apocrine",
-      "apocrine sweat gland"
-    ]
+    "type": "mcq",
+    "stem": "Which combination correctly matches each condition to a particularly characteristic finding?",
+    "options": [
+      "Psoriasis–silvery scales; impetigo–honey crusts; ringworm–clear-centred ring; zoster–unilateral dermatome",
+      "Psoriasis–honey crusts; impetigo–dermatome; ringworm–silvery scales; zoster–clear centre",
+      "Psoriasis–clear centre; impetigo–silvery scales; ringworm–dermatome; zoster–honey crust",
+      "Psoriasis–bullae; impetigo–joint stiffness; ringworm–neuralgia; zoster–nail pitting"
+    ],
+    "answer": "A"
   },
   {
     "id": 87,
-    "type": "fitb",
-    "stem": "Heat transfer from the body to an object in direct contact with it is called __________.",
-    "answer": "conduction",
-    "acceptableAnswers": [
-      "conduction"
-    ]
+    "type": "mcq",
+    "stem": "Which disease-pathogen category pairing is entirely CORRECT?",
+    "options": [
+      "Impetigo–bacterial; ringworm–fungal; herpes zoster–viral; psoriasis–autoimmune inflammatory",
+      "Impetigo–fungal; ringworm–viral; herpes zoster–bacterial; psoriasis–parasitic",
+      "Impetigo–viral; ringworm–autoimmune; herpes zoster–fungal; psoriasis–bacterial",
+      "Impetigo–autoimmune; ringworm–bacterial; herpes zoster–parasitic; psoriasis–viral"
+    ],
+    "answer": "A"
   },
   {
     "id": 88,
-    "type": "fitb",
-    "stem": "Heat loss to another object of lower temperature situated at a distance is called __________.",
-    "answer": "radiation",
-    "acceptableAnswers": [
-      "radiation"
-    ]
+    "type": "mcq",
+    "stem": "A skin lesion follows trauma and later develops into thick red plaques with silvery scales rather than a contagious infection. Which disease in the notes explicitly lists skin injury/trauma among associated environmental factors?",
+    "options": ["Psoriasis", "Impetigo", "Ringworm", "Herpes zoster"],
+    "answer": "A"
   },
   {
     "id": 89,
-    "type": "fitb",
-    "stem": "Movement of warm air molecules away from the body is called __________.",
-    "answer": "convection",
-    "acceptableAnswers": [
-      "convection"
-    ]
+    "type": "mcq",
+    "stem": "Which statement MOST accurately differentiates psoriasis from ringworm?",
+    "options": [
+      "Psoriasis is non-contagious and autoimmune inflammatory, whereas ringworm is a contagious dermatophyte infection.",
+      "Both are bacterial infections.",
+      "Psoriasis is fungal whereas ringworm is autoimmune.",
+      "Both result from dormant VZV."
+    ],
+    "answer": "A"
   },
   {
     "id": 90,
-    "type": "fitb",
-    "stem": "The process in acne whereby dead skin cells block the hair follicle is called __________.",
-    "answer": "hyperkeratinization",
-    "acceptableAnswers": [
-      "hyperkeratinization",
-      "hyperkeratinisation"
-    ]
+    "type": "mcq",
+    "stem": "A burn is defined in the notes as injury to skin or other tissues caused by which set of agents?",
+    "options": [
+      "Heat, chemicals, electricity, radiation or friction",
+      "Heat, bacteria, fungi, allergens or pressure",
+      "Electricity, fungi, viruses, radiation or pressure",
+      "Chemicals, autoimmunity, infection, stress or friction"
+    ],
+    "answer": "A"
   },
   {
     "id": 91,
-    "type": "fitb",
-    "stem": "The bacterium named in the acne section is __________ __________.",
-    "answer": "Cutibacterium acnes",
-    "acceptableAnswers": [
-      "Cutibacterium acnes",
-      "cutibacterium acnes",
-      "C. acnes"
-    ]
+    "type": "mcq",
+    "stem": "Which cause-example pairing for burns is INCORRECT according to the notes?",
+    "options": [
+      "Electrical — electrical current",
+      "Thermal — hot liquids or steam",
+      "Chemical — acid or alkali",
+      "Radiation — repeated rubbing of skin on a surface"
+    ],
+    "answer": "D"
   },
   {
     "id": 92,
-    "type": "fitb",
-    "stem": "The test described as best for confirming and identifying a specific contact allergen is the __________ test.",
-    "answer": "patch",
-    "acceptableAnswers": [
-      "patch",
-      "patch test"
-    ]
+    "type": "mcq",
+    "stem": "A patient is injured by hot steam. Under the classification of causes presented in the notes, this is a:",
+    "options": ["Chemical burn", "Thermal burn", "Radiation burn", "Friction burn"],
+    "answer": "B"
   },
   {
     "id": 93,
-    "type": "fitb",
-    "stem": "The medical term used in the notes for redness is __________.",
-    "answer": "erythema",
-    "acceptableAnswers": [
-      "erythema"
-    ]
+    "type": "mcq",
+    "stem": "Repeated rubbing of skin against a surface produces which type of burn according to the notes?",
+    "options": ["Thermal", "Chemical", "Friction", "Radiation"],
+    "answer": "C"
   },
   {
     "id": 94,
-    "type": "fitb",
-    "stem": "The medical term used in the notes for swelling is __________.",
-    "answer": "oedema",
-    "acceptableAnswers": [
-      "oedema",
-      "edema"
-    ]
+    "type": "mcq",
+    "stem": "Sunlight and radiation therapy are listed as examples of which burn cause?",
+    "options": ["Radiation", "Chemical", "Thermal", "Electrical"],
+    "answer": "A"
   },
   {
     "id": 95,
-    "type": "fitb",
-    "stem": "Dry, rough skin associated with atopic dermatitis is called __________.",
-    "answer": "xerosis",
-    "acceptableAnswers": [
-      "xerosis"
-    ]
+    "type": "mcq",
+    "stem": "The visible portion of the burns classification in the supplied notes states that burns may be classified on the basis of:",
+    "options": [
+      "Depth and extent of body surface area involved",
+      "Pathogen and incubation period",
+      "Age and immune status only",
+      "Pain and bacterial culture only"
+    ],
+    "answer": "A"
   },
   {
     "id": 96,
     "type": "fitb",
-    "stem": "Thickening of the skin resulting from chronic itching is termed __________.",
-    "answer": "lichenification",
-    "acceptableAnswers": [
-      "lichenification"
-    ]
+    "stem": "The persistent nerve pain that remains after a herpes zoster rash has disappeared is called __________.",
+    "answer": "postherpetic neuralgia",
+    "acceptableAnswers": ["postherpetic neuralgia", "post-herpetic neuralgia"]
   },
   {
     "id": 97,
     "type": "fitb",
-    "stem": "The serum marker mentioned as part of diagnostic evaluation of atopic dermatitis is __________.",
-    "answer": "IgE",
+    "stem": "The three dermatophyte genera listed as causes of ringworm are __________, __________ and __________.",
+    "answer": "Trichophyton; Microsporum; Epidermophyton",
     "acceptableAnswers": [
-      "IgE",
-      "serum IgE",
-      "IgE level",
-      "serum IgE level"
+      "Trichophyton, Microsporum and Epidermophyton",
+      "Trichophyton; Microsporum; Epidermophyton",
+      "Trichophyton, Microsporum, Epidermophyton"
     ]
   },
   {
     "id": 98,
     "type": "fitb",
-    "stem": "In infants, atopic dermatitis commonly affects the face, scalp and __________ surfaces.",
-    "answer": "extensor",
-    "acceptableAnswers": [
-      "extensor",
-      "extensor surfaces"
-    ]
+    "stem": "The classic crust colour associated with impetigo is __________-coloured.",
+    "answer": "honey",
+    "acceptableAnswers": ["honey", "honey-coloured", "honey colored"]
   },
   {
     "id": 99,
     "type": "fitb",
-    "stem": "In children and adults, atopic dermatitis commonly affects __________ areas such as the elbows and behind the knees.",
-    "answer": "flexor",
-    "acceptableAnswers": [
-      "flexor",
-      "flexor areas",
-      "flexural",
-      "flexural areas"
-    ]
+    "stem": "The psoriasis phototherapy that combines psoralen with ultraviolet A is abbreviated __________.",
+    "answer": "PUVA",
+    "acceptableAnswers": ["PUVA", "puva"]
   },
   {
     "id": 100,
     "type": "fitb",
-    "stem": "The topical acne medications specifically named as retinoids are __________ and __________.",
-    "answer": "adapalene; tretinoin",
-    "acceptableAnswers": [
-      "adapalene; tretinoin",
-      "adapalene and tretinoin",
-      "adapalene, tretinoin",
-      "tretinoin and adapalene"
-    ]
+    "stem": "The potassium hydroxide examination used to facilitate microscopic visualization of fungi in scraped skin is abbreviated __________.",
+    "answer": "KOH",
+    "acceptableAnswers": ["KOH", "KOH exam", "KOH examination", "potassium hydroxide examination"]
   }
 ]
