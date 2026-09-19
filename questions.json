@@ -1,102 +1,1194 @@
 [
-  {"id": 1, "type": "mcq", "stem": "Conductive hearing loss occurs when sound transmission is disrupted between the external auditory canal and the inner ear, while which structures remain completely intact?", "options": ["The tympanic membrane exclusively", "The inner ear structures and the acoustic nerve", "Only the ossicles", "Only the Organ of Corti"], "answer": "B"},
-  {"id": 2, "type": "mcq", "stem": "Sensorineural hearing loss (SNHL) results from damage to the cochlea, hair cells within the Organ of Corti, or which cranial nerve?", "options": ["Cranial Nerve VII", "Cranial Nerve VIII", "Cranial Nerve IX", "Cranial Nerve V"], "answer": "B"},
-  {"id": 3, "type": "mcq", "stem": "In sensorineural hearing loss, sound transmission through the middle ear is unhindered, but which process is specifically impaired?", "options": ["Neural conversion or transmission of sound", "Cerumen production", "Tympanic membrane vibration exclusively", "Eustachian tube ventilation exclusively"], "answer": "A"},
-  {"id": 4, "type": "mcq", "stem": "Mixed hearing loss is best described as:", "options": ["A purely central auditory processing disorder with normal peripheral structures", "A combination of conductive and sensorineural pathologies coexisting in the same ear", "A condition exclusively affecting children", "A condition that only affects one ear at a time by definition"], "answer": "B"},
-  {"id": 5, "type": "mcq", "stem": "A patient with age-related nerve degeneration who ALSO develops a severe middle ear infection is a classic example of which type of hearing loss?", "options": ["Pure conductive hearing loss", "Pure sensorineural hearing loss", "Mixed hearing loss", "Functional/central hearing loss"], "answer": "C"},
-  {"id": 6, "type": "mcq", "stem": "Functional (central) hearing loss is characterized by which combination of findings?", "options": ["Damaged peripheral ear structures with normal central auditory processing", "Normal peripheral ear structures but impaired central nervous system/auditory cortex processing of sound", "Complete absence of the cochlea", "Bilateral tympanic membrane perforation"], "answer": "B"},
-  {"id": 7, "type": "mcq", "stem": "Which of the following is listed as a cause of CONDUCTIVE hearing loss specifically?", "options": ["Presbycusis", "Cerumen impaction or foreign bodies", "Acoustic neuroma", "Meniere's disease"], "answer": "B"},
-  {"id": 8, "type": "mcq", "stem": "Otosclerosis, a recognized cause of conductive hearing loss, results specifically from which pathological process?", "options": ["Degeneration of the Organ of Corti", "Fixation of the stapes", "Damage to Cranial Nerve VIII", "Perforation of the round window"], "answer": "B"},
-  {"id": 9, "type": "mcq", "stem": "Which of the following is listed as a cause of SENSORINEURAL hearing loss specifically?", "options": ["Otitis media", "Tympanic membrane perforation", "Prolonged exposure to loud noise", "Cerumen impaction"], "answer": "C"},
-  {"id": 10, "type": "mcq", "stem": "Presbycusis is best described as:", "options": ["A conductive hearing loss caused by cerumen accumulation", "Age-related sensorineural degeneration", "A form of central hearing loss exclusively", "A reversible form of hearing loss caused by ear infection"], "answer": "B"},
-  {"id": 11, "type": "mcq", "stem": "In a patient with CONDUCTIVE hearing loss, the Weber test will characteristically lateralize to which ear?", "options": ["The unaffected (good) ear", "The affected (bad) ear", "Neither ear; it remains midline", "Both ears equally, with no lateralization"], "answer": "B"},
-  {"id": 12, "type": "mcq", "stem": "In a patient with SENSORINEURAL hearing loss, the Weber test will characteristically lateralize to which ear?", "options": ["The affected (bad) ear", "The unaffected (good) ear", "It cannot lateralize in sensorineural loss", "Both ears equally"], "answer": "B"},
-  {"id": 13, "type": "mcq", "stem": "A NEGATIVE Rinne test result, where bone conduction is greater than or equal to air conduction (BC >= AC), is characteristic of which type of hearing loss?", "options": ["Sensorineural hearing loss", "Conductive hearing loss", "Functional hearing loss", "Normal hearing"], "answer": "B"},
-  {"id": 14, "type": "mcq", "stem": "A POSITIVE Rinne test result in a patient with sensorineural hearing loss shows air conduction greater than bone conduction (AC > BC), but with which additional characteristic?", "options": ["The overall time for both is normal and unremarkable", "The overall time is reduced compared to a normal ear", "Bone conduction is completely absent", "Air conduction is completely absent"], "answer": "B"},
-  {"id": 15, "type": "mcq", "stem": "Regarding reversibility, conductive hearing loss is generally described as:", "options": ["Always permanent regardless of treatment", "Often reversible with medical or surgical intervention", "Only manageable with cochlear implants", "Untreatable in all cases"], "answer": "B"},
-  {"id": 16, "type": "mcq", "stem": "Regarding reversibility, sensorineural hearing loss is generally described as:", "options": ["Typically permanent, managed with assistive devices", "Always reversible with antibiotic therapy", "Fully curable with tympanoplasty", "Resolving spontaneously within weeks"], "answer": "A"},
-  {"id": 17, "type": "mcq", "stem": "Nurses bear primary accountability for monitoring which specific adverse effect associated with certain high-risk medication classes affecting hearing?", "options": ["Hepatotoxicity", "Ototoxicity", "Nephrotoxicity exclusively, with no ear-specific concern", "Cardiotoxicity"], "answer": "B"},
-  {"id": 18, "type": "mcq", "stem": "Which class of antibiotics is specifically listed as ototoxic, capable of permanently destroying cochlear hair cells?", "options": ["Penicillins", "Aminoglycosides", "Macrolides", "Tetracyclines"], "answer": "B"},
-  {"id": 19, "type": "mcq", "stem": "Among the aminoglycosides listed as ototoxic, which of the following is included?", "options": ["Amoxicillin", "Gentamicin", "Ciprofloxacin", "Doxycycline"], "answer": "B"},
-  {"id": 20, "type": "mcq", "stem": "Which class of diuretics is specifically noted to be highly ototoxic if infused too rapidly intravenously?", "options": ["Thiazide diuretics", "Potassium-sparing diuretics", "Loop diuretics", "Osmotic diuretics"], "answer": "C"},
-  {"id": 21, "type": "mcq", "stem": "Furosemide, a loop diuretic listed as ototoxic, poses the greatest risk of ototoxicity under which specific administration condition?", "options": ["When given orally over several days", "When infused too rapidly intravenously", "When given as a single low-dose tablet", "When administered with food"], "answer": "B"},
-  {"id": 22, "type": "mcq", "stem": "Which class of chemotherapeutic agents is specifically listed as ototoxic?", "options": ["Alkylating agents such as cyclophosphamide", "Platinum-based agents such as Cisplatin and Carboplatin", "Antimetabolites such as methotrexate", "Taxanes such as paclitaxel"], "answer": "B"},
-  {"id": 23, "type": "mcq", "stem": "Chronic high-dose aspirin use, as an ototoxic agent, typically manifests with which characteristic and often REVERSIBLE symptom?", "options": ["Permanent profound deafness", "Tinnitus", "Vertigo lasting for years", "Complete loss of the vestibular reflex"], "answer": "B"},
-  {"id": 24, "type": "mcq", "stem": "Which of the following is described as one of the common EARLY signs of hearing loss?", "options": ["Complete inability to hear any sound at all", "Frequently asking others to repeat themselves or stating that people are 'mumbling'", "Sudden, complete deafness with no warning", "Immediate need for a cochlear implant"], "answer": "B"},
-  {"id": 25, "type": "mcq", "stem": "Inability to hear high-pitched sounds is described as the common FIRST sign of which specific condition?", "options": ["Otitis media", "Presbycusis", "Cerumen impaction", "Tympanic membrane perforation"], "answer": "B"},
-  {"id": 26, "type": "mcq", "stem": "A patient with hearing loss may exhibit which characteristic change in their own speech pattern?", "options": ["Speaking in an unusually loud or flat monotone voice", "Speaking only in a whisper at all times", "Complete loss of the ability to speak", "Speaking exclusively in a high-pitched tone"], "answer": "A"},
-  {"id": 27, "type": "mcq", "stem": "Social isolation resulting from unaddressed hearing loss is specifically linked to which secondary consequence?", "options": ["Increased cognitive stimulation", "Decreased cognitive stimulation", "Improved mental health outcomes", "Enhanced social engagement over time"], "answer": "B"},
-  {"id": 28, "type": "mcq", "stem": "An emerging and critical link has been established between unaddressed hearing loss in older adults and which condition?", "options": ["Accelerated cognitive decline", "Improved memory retention", "Decreased risk of dementia", "Enhanced sensory integration"], "answer": "A"},
-  {"id": 29, "type": "mcq", "stem": "When optimizing the environment for communicating with a hearing-impaired patient, the nurse should FIRST:", "options": ["Turn on background music to create a calming atmosphere", "Ensure the patient's full attention before speaking and minimize background noise", "Begin speaking immediately regardless of the patient's attention", "Increase the volume of the television to compensate"], "answer": "B"},
-  {"id": 30, "type": "mcq", "stem": "When positioning to communicate with a hearing-impaired patient, the nurse should ensure the face is:", "options": ["Turned away while speaking to avoid startling the patient", "Well-lit and not in shadow, facing the patient directly", "Partially covered by a hand while speaking", "Positioned above the patient's line of sight only"], "answer": "B"},
-  {"id": 31, "type": "mcq", "stem": "When communicating with a hearing-impaired patient, the nurse should specifically AVOID which behavior?", "options": ["Facing the patient directly", "Chewing gum or covering the mouth while speaking", "Speaking at a natural pace", "Using written instructions when needed"], "answer": "B"},
-  {"id": 32, "type": "mcq", "stem": "When adjusting tone and pitch to communicate with a hearing-impaired patient, the nurse should NOT shout, primarily because shouting:", "options": ["Lowers the pitch of the voice, making it easier to understand", "Raises the pitch of the voice, making it harder to understand and distorting lip movements", "Has no effect on pitch or lip movement at all", "Only affects patients with conductive hearing loss, never sensorineural"], "answer": "B"},
-  {"id": 33, "type": "mcq", "stem": "If a hearing-impaired patient does not understand a spoken phrase, the recommended nursing strategy is to:", "options": ["Repeat the exact same phrase, only louder", "Rephrase the sentence using simpler or different words", "Write nothing down and simply gesture instead", "Abandon the communication attempt entirely"], "answer": "B"},
-  {"id": 34, "type": "mcq", "stem": "For conveying crucial educational information, such as medication timing, to a hearing-impaired patient, the nurse should utilize:", "options": ["Only verbal communication at a louder volume", "Visual supplements such as whiteboards, communication boards, or written instructions", "Sign language only, without any visual aids", "No supplementary aids, relying solely on lip reading"], "answer": "B"},
-  {"id": 35, "type": "mcq", "stem": "When cleaning a patient's hearing aid, the nurse should use a dry, soft cloth and specifically avoid which practice?", "options": ["Wiping the ear mold gently", "Submerging the device in water or using harsh chemical solvents", "Cleaning it once daily", "Storing it in a labeled container"], "answer": "B"},
-  {"id": 36, "type": "mcq", "stem": "At bedtime, when a hearing aid is not in use, the nurse should take which action to preserve battery life?", "options": ["Leave the device on continuously", "Turn it off and open the battery compartment", "Submerge the battery compartment in water", "Remove the battery and discard it immediately"], "answer": "B"},
-  {"id": 37, "type": "mcq", "stem": "A high-pitched whistling noise (feedback) emitted from a patient's hearing aid while in the ear usually indicates which problem?", "options": ["The battery is fully charged and functioning optimally", "The ear mold is not inserted properly or is loose", "The device requires no further attention", "The patient's hearing has fully returned to normal"], "answer": "B"},
-  {"id": 38, "type": "mcq", "stem": "For safe storage of a hearing aid not currently in use, the nurse should place it:", "options": ["Loose on the patient's meal tray for easy access", "In a labeled container inside the patient's bedside drawer", "On the patient's bedsheets for convenience", "Inside a tissue box at the bedside"], "answer": "B"},
-  {"id": 39, "type": "mcq", "stem": "Storing a hearing aid loose on a meal tray, bedsheet, or tissue box poses which specific risk?", "options": ["It will automatically recharge itself", "It can easily be discarded accidentally", "It will improve battery life", "It has no associated risk"], "answer": "B"},
-  {"id": 40, "type": "mcq", "stem": "Cochlear implants function by which mechanism?", "options": ["Amplifying sound waves entering the external auditory canal only", "Bypassing damaged hair cells in the cochlea to directly stimulate the auditory nerve", "Reconstructing the tympanic membrane", "Removing the stapes footplate"], "answer": "B"},
-  {"id": 41, "type": "mcq", "stem": "Cochlear implants are indicated specifically for patients with which type and severity of hearing loss who derive no benefit from traditional hearing aids?", "options": ["Mild unilateral conductive hearing loss", "Profound, bilateral sensorineural hearing loss", "Temporary conductive hearing loss from cerumen impaction", "Functional hearing loss with normal peripheral structures"], "answer": "B"},
-  {"id": 42, "type": "mcq", "stem": "Tympanoplasty is a surgical procedure aimed at which specific reconstruction?", "options": ["Reconstruction of the cochlea", "Reconstruction of the tympanic membrane to restore anatomy and improve conductive hearing", "Reconstruction of the auditory cortex", "Removal of the entire external ear"], "answer": "B"},
-  {"id": 43, "type": "mcq", "stem": "Stapedectomy involves removal of the stapes footplate and insertion of which replacement structure?", "options": ["A cochlear implant electrode array", "A tissue graft or prosthesis", "A hearing aid microphone", "A tympanic membrane patch only, without prosthesis"], "answer": "B"},
-  {"id": 44, "type": "mcq", "stem": "Stapedectomy is considered the gold standard surgical intervention for treating which specific condition?", "options": ["Presbycusis", "Otosclerosis", "Acoustic neuroma", "Meniere's disease"], "answer": "B"},
-  {"id": 45, "type": "mcq", "stem": "Following ear surgery, the nurse should instruct the patient to avoid which specific action to prevent increased middle ear pressure?", "options": ["Gentle chewing during meals", "Blowing the nose forcefully, coughing, or sneezing with a closed mouth", "Speaking in a normal conversational tone", "Sitting upright in bed"], "answer": "B"},
-  {"id": 46, "type": "mcq", "stem": "If a post-operative ear surgery patient must sneeze, the nurse should instruct them to:", "options": ["Hold their breath and keep the mouth tightly closed", "Keep their mouth open during the sneeze to avoid sudden pressure spikes in the middle ear", "Pinch the nose shut while sneezing", "Lie flat on the operative side during the sneeze"], "answer": "B"},
-  {"id": 47, "type": "mcq", "stem": "Following ear surgery, the patient should be positioned with which ear facing down, to prevent pressure accumulation and graft displacement on the surgical side?", "options": ["The affected (operated) ear", "The unaffected (good) ear", "Neither ear; the patient should remain supine at all times", "It does not matter which side, as positioning has no effect"], "answer": "B"},
-  {"id": 48, "type": "mcq", "stem": "Post-operative water precautions after ear surgery include keeping the ear dressing and canal dry, and during showers, using which specific protective measure in the outer ear?", "options": ["A dry cotton ball only, with no additional barrier", "A cotton ball saturated with petroleum jelly", "A waterproof adhesive bandage placed directly over the ear canal opening", "No protection is needed at any time"], "answer": "B"},
-  {"id": 49, "type": "mcq", "stem": "Post-operative water precautions after ear surgery should be maintained until:", "options": ["The patient feels ready to stop them, regardless of medical clearance", "Cleared by the surgeon", "Exactly 24 hours have passed, with no further individualization", "The dressing falls off on its own"], "answer": "B"},
-  {"id": 50, "type": "mcq", "stem": "Post-operatively, the nurse should monitor for severe vertigo, nausea, vomiting, or sudden complete hearing loss, as these findings could indicate:", "options": ["A normal, expected post-operative recovery pattern requiring no action", "Inner ear injury or displacement of a prosthesis", "Simple anesthesia-related nausea with no further significance", "Improved surgical outcome"], "answer": "B"},
-  {"id": 51, "type": "mcq", "stem": "According to the comparative table, the PRIMARY anatomical site involved in sensorineural hearing loss is the inner ear, cochlea, and:", "options": ["The tympanic membrane", "Cranial Nerve VIII", "The external auditory canal", "The ossicular chain exclusively"], "answer": "B"},
-  {"id": 52, "type": "mcq", "stem": "Which condition is listed among the causes of sensorineural hearing loss, alongside Meniere's disease, involving a benign tumor affecting the vestibulocochlear nerve?", "options": ["Otosclerosis", "Acoustic neuroma", "Otitis media", "Tympanic membrane perforation"], "answer": "B"},
-  {"id": 53, "type": "mcq", "stem": "A key distinguishing feature separating conductive from sensorineural hearing loss on the Weber test is that lateralization occurs to the BAD ear in conductive loss, whereas in sensorineural loss it lateralizes to the:", "options": ["Same bad ear, identically to conductive loss", "Good (unaffected) ear", "Neither ear, remaining midline in both conditions", "It cannot be tested in sensorineural loss at all"], "answer": "B"},
-  {"id": 54, "type": "mcq", "stem": "Depression and mental fatigue in patients with hearing loss are specifically attributed to which mechanism, according to the psychosocial impact discussion?", "options": ["Direct damage to mood-regulating brain centers by the hearing loss itself", "The constant strain of trying to decode conversations", "Medication side effects exclusively, unrelated to hearing status", "Unrelated coincidental psychiatric comorbidity in all cases"], "answer": "B"},
-  {"id": 55, "type": "mcq", "stem": "CASE SCENARIO: A patient undergoes Weber and Rinne testing. The Weber test lateralizes to the patient's LEFT ear, and the Rinne test on the left ear shows bone conduction greater than air conduction. These findings are MOST consistent with which diagnosis?", "options": ["Sensorineural hearing loss in the left ear", "Conductive hearing loss in the left ear", "Normal hearing bilaterally", "Sensorineural hearing loss in the right ear"], "answer": "B"},
-  {"id": 56, "type": "mcq", "stem": "CASE SCENARIO (continued): Given this diagnosis, which of the following is the MOST likely underlying cause?", "options": ["Presbycusis", "Cerumen impaction or otosclerosis", "Acoustic neuroma", "Ototoxic medication use"], "answer": "B"},
-  {"id": 57, "type": "mcq", "stem": "CASE SCENARIO: A different patient's Weber test lateralizes to the RIGHT ear, and Rinne testing on the LEFT ear shows air conduction greater than bone conduction, but with an overall reduced duration compared to normal. Which ear is affected, and by which type of hearing loss?", "options": ["The right ear, with sensorineural hearing loss", "The left ear, with sensorineural hearing loss", "The left ear, with conductive hearing loss", "The right ear, with conductive hearing loss"], "answer": "B"},
-  {"id": 58, "type": "mcq", "stem": "CASE SCENARIO: A hospitalized patient is receiving IV gentamicin and IV furosemide concurrently for a severe infection with fluid overload. The nurse's PRIORITY concern related to hearing is:", "options": ["Neither medication carries any ototoxic risk", "The combined ototoxic risk of both medications, especially if furosemide is infused too rapidly", "Only furosemide carries risk; gentamicin is completely safe for hearing", "Only gentamicin carries risk; furosemide has no auditory effects"], "answer": "B"},
-  {"id": 59, "type": "mcq", "stem": "CASE SCENARIO (continued): The nurse should specifically monitor this patient for which early warning signs of ototoxicity?", "options": ["Improved hearing acuity and resolution of tinnitus", "Tinnitus, vertigo, or new difficulty hearing", "Increased appetite and improved mood", "Decreased urine output exclusively, with no auditory relevance"], "answer": "B"},
-  {"id": 60, "type": "mcq", "stem": "CASE SCENARIO: An elderly patient's family reports that he frequently asks people to repeat themselves, keeps the television volume very loud, and has started avoiding family gatherings. The nurse should recognize these findings as consistent with:", "options": ["Normal age-related behavior requiring no further assessment", "Early signs of hearing loss with psychosocial withdrawal", "Definitive signs of dementia unrelated to hearing", "A normal grief reaction requiring no intervention"], "answer": "B"},
-  {"id": 61, "type": "mcq", "stem": "CASE SCENARIO (continued): The family also mentions he seems increasingly forgetful and less mentally sharp in recent months. The nurse understands this may reflect which established link discussed in the hearing loss literature?", "options": ["A link between unaddressed hearing loss and accelerated cognitive decline", "A completely unrelated coincidence with no evidence base", "Definitive proof of early-stage Alzheimer's disease", "A normal and reversible finding requiring no follow-up"], "answer": "A"},
-  {"id": 62, "type": "mcq", "stem": "CASE SCENARIO: A nurse enters a hearing-impaired patient's room with the television on loudly and begins speaking to the patient from across the room while looking down at the chart. This approach violates several communication principles. Which correction should be made FIRST?", "options": ["Speak even louder to compensate for the noise", "Minimize background noise (turn off the TV) and ensure the patient's full attention before speaking", "Continue as is, since the approach is already correct", "Ask a family member to relay the message instead of engaging directly"], "answer": "B"},
-  {"id": 63, "type": "mcq", "stem": "CASE SCENARIO (continued): When the patient still does not understand a particular phrase, the nurse should:", "options": ["Repeat the identical phrase more loudly", "Rephrase the sentence with simpler or different words", "Give up and document that the patient is non-compliant", "Shout the phrase directly into the patient's ear"], "answer": "B"},
-  {"id": 64, "type": "mcq", "stem": "CASE SCENARIO: A patient's hearing aid is found lying loose on the bedside meal tray after breakfast. The nurse's BEST corrective action going forward is to:", "options": ["Leave it there since it is convenient for the patient", "Store it in a labeled container inside the bedside drawer when not in use", "Place it inside the patient's water pitcher for safekeeping", "Give it to a random visitor for safekeeping"], "answer": "B"},
-  {"id": 65, "type": "mcq", "stem": "CASE SCENARIO (continued): The patient later reports the hearing aid is producing a high-pitched whistling sound while worn. The nurse's BEST initial action is to:", "options": ["Assume the battery needs replacing without further assessment", "Check that the ear mold is properly and snugly inserted", "Discard the hearing aid immediately", "Submerge the device in water to clean it"], "answer": "B"},
-  {"id": 66, "type": "mcq", "stem": "CASE SCENARIO: A patient is 2 days post-stapedectomy and reports the urge to sneeze. The nurse should instruct the patient to:", "options": ["Pinch the nose and close the mouth tightly during the sneeze", "Keep the mouth open during the sneeze", "Hold the sneeze in completely without any release", "Lie flat on the operative ear during the sneeze"], "answer": "B"},
-  {"id": 67, "type": "mcq", "stem": "CASE SCENARIO (continued): For post-operative positioning, the nurse should place this patient with which ear down?", "options": ["The operated (surgical) ear", "The unaffected (good) ear", "Either ear, since positioning does not matter after stapedectomy", "The patient should remain strictly upright at all times, never lying down"], "answer": "B"},
-  {"id": 68, "type": "mcq", "stem": "CASE SCENARIO: On post-operative day 3 after tympanoplasty, a patient suddenly develops severe vertigo, nausea, and reports complete loss of hearing in the operated ear. The nurse's PRIORITY action is to:", "options": ["Reassure the patient that this is an expected part of recovery and continue routine care", "Recognize this as a possible sign of inner ear injury or prosthesis displacement and notify the surgeon promptly", "Administer an antiemetic only and defer further assessment until the next shift", "Encourage the patient to blow their nose to relieve pressure"], "answer": "B"},
-  {"id": 69, "type": "mcq", "stem": "CASE SCENARIO: A patient with profound, bilateral sensorineural hearing loss has tried multiple hearing aids without any benefit. Which intervention is MOST appropriate for this patient?", "options": ["A repeat trial of a different standard hearing aid", "A cochlear implant", "Tympanoplasty", "Stapedectomy"], "answer": "B"},
-  {"id": 70, "type": "mcq", "stem": "CASE SCENARIO (continued): The nurse explains to the patient's family that this device works by which mechanism, distinct from a conventional hearing aid?", "options": ["It simply amplifies sound entering the ear canal, like a hearing aid", "It bypasses the damaged hair cells and directly stimulates the auditory nerve", "It reconstructs the tympanic membrane", "It replaces the stapes footplate with a prosthesis"], "answer": "B"},
-  {"id": 71, "type": "fitb", "stem": "Conductive hearing loss disrupts sound transmission between the external auditory canal and the inner ear, while the inner ear structures and the ___________ ___________ remain completely intact.", "answer": "acoustic nerve", "acceptableAnswers": ["acoustic nerve"]},
-  {"id": 72, "type": "fitb", "stem": "Sensorineural hearing loss results from damage to the cochlea, hair cells of the ___________ ___________, or Cranial Nerve ___________.", "answer": "Organ of Corti; VIII", "acceptableAnswers": ["Organ of Corti; VIII"]},
-  {"id": 73, "type": "fitb", "stem": "In conductive hearing loss, the Weber test lateralizes to the ___________ ear, whereas in sensorineural hearing loss it lateralizes to the ___________ ear.", "answer": "affected (bad); unaffected (good)", "acceptableAnswers": ["affected (bad); unaffected (good)", "bad; good", "affected; unaffected"]},
-  {"id": 74, "type": "fitb", "stem": "A negative Rinne test shows bone conduction ___________ air conduction, and is characteristic of ___________ hearing loss.", "answer": "greater than or equal to; conductive", "acceptableAnswers": ["greater than or equal to; conductive", ">= ; conductive"]},
-  {"id": 75, "type": "fitb", "stem": "Ototoxic drug classes include aminoglycosides, loop diuretics, ___________ agents such as cisplatin, and NSAIDs/___________ such as chronic high-dose aspirin.", "answer": "chemotherapeutic; salicylates", "acceptableAnswers": ["chemotherapeutic; salicylates"]},
-  {"id": 76, "type": "fitb", "stem": "Loop diuretics such as furosemide are highly ototoxic if infused too ___________ ___________.", "answer": "rapidly intravenously", "acceptableAnswers": ["rapidly intravenously", "rapidly IV"]},
-  {"id": 77, "type": "fitb", "stem": "Chronic high-dose aspirin use as an ototoxic agent typically manifests as reversible ___________.", "answer": "tinnitus", "acceptableAnswers": ["tinnitus"]},
-  {"id": 78, "type": "fitb", "stem": "Inability to hear high-pitched sounds is the common first sign of ___________.", "answer": "presbycusis", "acceptableAnswers": ["presbycusis"]},
-  {"id": 79, "type": "fitb", "stem": "Unaddressed hearing loss in older adults has been linked to accelerated ___________ ___________.", "answer": "cognitive decline", "acceptableAnswers": ["cognitive decline"]},
-  {"id": 80, "type": "fitb", "stem": "When communicating with a hearing-impaired patient, the nurse should never ___________, since this raises the pitch of the voice and distorts ___________ movements.", "answer": "shout; lip", "acceptableAnswers": ["shout; lip"]},
-  {"id": 81, "type": "fitb", "stem": "Rather than repeating an unclear phrase, the nurse should ___________ the sentence using simpler or different words.", "answer": "rephrase", "acceptableAnswers": ["rephrase"]},
-  {"id": 82, "type": "fitb", "stem": "A hearing aid ear mold should be cleaned daily with a ___________, ___________ cloth, and never submerged in water.", "answer": "dry; soft", "acceptableAnswers": ["dry; soft"]},
-  {"id": 83, "type": "fitb", "stem": "At bedtime, a hearing aid not in use should be turned ___________ and its battery compartment ___________ to preserve battery life.", "answer": "off; opened", "acceptableAnswers": ["off; opened", "off; open"]},
-  {"id": 84, "type": "fitb", "stem": "A high-pitched whistling noise from a hearing aid, called ___________, usually indicates the ear mold is not inserted properly or is ___________.", "answer": "feedback; loose", "acceptableAnswers": ["feedback; loose"]},
-  {"id": 85, "type": "fitb", "stem": "A hearing aid not in use should be stored in a ___________ container inside the patient's bedside ___________.", "answer": "labeled; drawer", "acceptableAnswers": ["labeled; drawer"]},
-  {"id": 86, "type": "fitb", "stem": "Cochlear implants bypass damaged hair cells in the cochlea to directly stimulate the ___________ ___________.", "answer": "auditory nerve", "acceptableAnswers": ["auditory nerve"]},
-  {"id": 87, "type": "fitb", "stem": "Cochlear implants are indicated for patients with ___________, bilateral sensorineural hearing loss who derive no benefit from ___________ ___________.", "answer": "profound; traditional hearing aids", "acceptableAnswers": ["profound; traditional hearing aids"]},
-  {"id": 88, "type": "fitb", "stem": "___________ is the surgical reconstruction of the tympanic membrane to restore anatomy and improve conductive hearing.", "answer": "Tympanoplasty", "acceptableAnswers": ["Tympanoplasty"]},
-  {"id": 89, "type": "fitb", "stem": "___________ involves removal of the stapes footplate and insertion of a tissue graft or prosthesis, and is the gold standard treatment for ___________.", "answer": "Stapedectomy; otosclerosis", "acceptableAnswers": ["Stapedectomy; otosclerosis"]},
-  {"id": 90, "type": "fitb", "stem": "Post-operatively, ear surgery patients should avoid blowing the nose forcefully, coughing, or sneezing with a ___________ mouth, to prevent increased ___________ ear pressure.", "answer": "closed; middle", "acceptableAnswers": ["closed; middle"]},
-  {"id": 91, "type": "fitb", "stem": "If a post-operative ear surgery patient must sneeze, they should keep the mouth ___________ to avoid sudden pressure spikes.", "answer": "open", "acceptableAnswers": ["open"]},
-  {"id": 92, "type": "fitb", "stem": "After ear surgery, the patient should be positioned with the ___________ ear down, to prevent pressure accumulation and graft displacement on the surgical side.", "answer": "unaffected (good)", "acceptableAnswers": ["unaffected (good)", "good", "unaffected"]},
-  {"id": 93, "type": "fitb", "stem": "During showers after ear surgery, a cotton ball saturated with ___________ ___________ should be placed in the outer ear until cleared by the surgeon.", "answer": "petroleum jelly", "acceptableAnswers": ["petroleum jelly"]},
-  {"id": 94, "type": "fitb", "stem": "Post-operative severe vertigo, nausea, vomiting, or sudden complete hearing loss may indicate ___________ ___________ injury or displacement of a ___________.", "answer": "inner ear; prosthesis", "acceptableAnswers": ["inner ear; prosthesis"]},
-  {"id": 95, "type": "fitb", "stem": "Mixed hearing loss is a combination of ___________ and ___________ pathologies coexisting in the same ear.", "answer": "conductive; sensorineural", "acceptableAnswers": ["conductive; sensorineural"]},
-  {"id": 96, "type": "fitb", "stem": "Functional (central) hearing loss involves normal ___________ ear structures but impaired ___________ processing of sound.", "answer": "peripheral; central", "acceptableAnswers": ["peripheral; central"]},
-  {"id": 97, "type": "fitb", "stem": "Social isolation from hearing loss leads to decreased ___________ ___________, while constant listening strain contributes to mental fatigue and ___________.", "answer": "cognitive stimulation; depression", "acceptableAnswers": ["cognitive stimulation; depression"]},
-  {"id": 98, "type": "fitb", "stem": "Otosclerosis, a cause of conductive hearing loss, involves fixation of the ___________.", "answer": "stapes", "acceptableAnswers": ["stapes"]},
-  {"id": 99, "type": "fitb", "stem": "Acoustic neuroma and ___________ disease are listed as causes of sensorineural hearing loss.", "answer": "Meniere's", "acceptableAnswers": ["Meniere's", "Menieres"]},
-  {"id": 100, "type": "fitb", "stem": "A patient with hearing loss may change their own speech pattern to become unusually ___________ or a flat ___________ voice.", "answer": "loud; monotone", "acceptableAnswers": ["loud; monotone"]}
+  {
+    "id": 1,
+    "type": "mcq",
+    "stem": "A patient can hear a tuning fork through bone longer than through air in the affected ear. Weber testing sends the sound toward that same ear. Which mechanism BEST explains the findings?",
+    "options": [
+      "Impaired cortical decoding despite intact peripheral structures",
+      "Disruption of sound transmission through the external or middle ear",
+      "Damage to cochlear hair cells with intact middle-ear transmission",
+      "Damage confined to Cranial Nerve VIII with normal cochlear function"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 2,
+    "type": "mcq",
+    "stem": "Which combination of findings is MOST internally consistent with sensorineural hearing loss?",
+    "options": [
+      "Weber to affected ear; BC ≥ AC; cerumen impaction",
+      "Weber to unaffected ear; AC > BC with reduced overall time; cochlear damage",
+      "Weber to affected ear; AC > BC; otosclerosis",
+      "Weber to unaffected ear; BC ≥ AC; tympanic membrane perforation"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 3,
+    "type": "mcq",
+    "stem": "A patient's external auditory canal, tympanic membrane, middle ear and cochlea are structurally normal, but the patient cannot appropriately interpret incoming auditory information. Which classification BEST fits?",
+    "options": [
+      "Conductive hearing loss",
+      "Sensorineural hearing loss",
+      "Mixed hearing loss",
+      "Functional / central hearing loss"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 4,
+    "type": "mcq",
+    "stem": "Which patient BEST illustrates mixed hearing loss as defined in the notes?",
+    "options": [
+      "A patient with isolated cerumen impaction",
+      "A patient with age-related nerve degeneration who develops severe middle-ear infection",
+      "A patient with normal peripheral structures but impaired auditory cortical processing",
+      "A patient with isolated cochlear hair-cell destruction"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 5,
+    "type": "mcq",
+    "stem": "Which structure is expected to remain intact in a purely conductive hearing loss?",
+    "options": [
+      "External auditory canal only",
+      "Middle ear only",
+      "Inner ear structures and acoustic nerves",
+      "Tympanic membrane in every case"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 6,
+    "type": "mcq",
+    "stem": "A patient has unobstructed transmission of sound through the middle ear but impaired conversion or neural transmission of the signal. Which structures should the nurse suspect?",
+    "options": [
+      "External canal and tympanic membrane only",
+      "Cochlea, Organ of Corti hair cells, or Cranial Nerve VIII",
+      "Stapes and external auditory canal only",
+      "Tympanic membrane and ossicles exclusively"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 7,
+    "type": "mcq",
+    "stem": "Which etiologic grouping contains ONLY causes of conductive hearing loss from the notes?",
+    "options": [
+      "Cerumen impaction, otitis media, tympanic membrane perforation, otosclerosis",
+      "Presbycusis, otitis media, acoustic neuroma, otosclerosis",
+      "Cerumen impaction, Meniere's disease, foreign body, presbycusis",
+      "Ototoxic medications, loud noise, otosclerosis, tympanic membrane perforation"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 8,
+    "type": "mcq",
+    "stem": "Which etiologic grouping contains ONLY causes of sensorineural hearing loss listed in the notes?",
+    "options": [
+      "Presbycusis, ototoxic medications, prolonged loud-noise exposure, acoustic neuroma",
+      "Presbycusis, cerumen impaction, Meniere's disease, acoustic neuroma",
+      "Otosclerosis, Meniere's disease, loud-noise exposure, otitis media",
+      "Tympanic membrane perforation, presbycusis, ototoxic medications, foreign body"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 9,
+    "type": "mcq",
+    "stem": "Which disorder is specifically associated with fixation of the stapes?",
+    "options": [
+      "Presbycusis",
+      "Otosclerosis",
+      "Meniere's disease",
+      "Acoustic neuroma"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 10,
+    "type": "mcq",
+    "stem": "Which anatomical pairing is CORRECT?",
+    "options": [
+      "Conductive — cochlea and CN VIII",
+      "Sensorineural — external auditory canal and middle ear",
+      "Conductive — external and middle ear",
+      "Central — stapes and tympanic membrane"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 11,
+    "type": "mcq",
+    "stem": "A Weber test lateralizes to the patient's right ear. A Rinne test on the right demonstrates BC ≥ AC. Which interpretation BEST fits the supplied material?",
+    "options": [
+      "Right sensorineural hearing loss",
+      "Left conductive hearing loss",
+      "Right conductive hearing loss",
+      "Left central hearing loss"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 12,
+    "type": "mcq",
+    "stem": "A Weber test lateralizes to the left ear because the right ear has sensorineural impairment. Which ear is functioning better?",
+    "options": [
+      "Right",
+      "Left",
+      "Both equally",
+      "Cannot be determined from Weber testing"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 13,
+    "type": "mcq",
+    "stem": "A patient has left-sided sensorineural hearing loss. Which Weber result would be expected?",
+    "options": [
+      "Lateralization to the left ear",
+      "Lateralization to the right ear",
+      "BC ≥ AC on the right automatically",
+      "Sound absent in both ears"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 14,
+    "type": "mcq",
+    "stem": "A patient has right-sided conductive hearing loss. Which combination is expected?",
+    "options": [
+      "Weber → left; right Rinne AC > BC",
+      "Weber → right; right Rinne BC ≥ AC",
+      "Weber → left; right Rinne BC ≥ AC",
+      "Weber → right; right Rinne AC > BC with reduced overall time"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 15,
+    "type": "mcq",
+    "stem": "Which statement regarding the Rinne test in sensorineural hearing loss is MOST accurate according to the supplied material?",
+    "options": [
+      "BC exceeds AC because the external canal is obstructed.",
+      "AC remains greater than BC, although overall hearing time is reduced.",
+      "BC and AC are necessarily equal.",
+      "Neither air nor bone conduction can occur."
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 16,
+    "type": "mcq",
+    "stem": "A negative Rinne result is defined in these notes as:",
+    "options": [
+      "AC > BC",
+      "BC ≥ AC",
+      "AC = 0",
+      "BC = 0"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 17,
+    "type": "mcq",
+    "stem": "Which combination would create a contradiction in the assessment of a single uncomplicated ear disorder based strictly on the comparison table?",
+    "options": [
+      "Otosclerosis + negative Rinne",
+      "Presbycusis + positive Rinne with reduced overall time",
+      "Cerumen impaction + Weber lateralizing to affected ear",
+      "Tympanic membrane perforation + Weber lateralizing to unaffected ear as an SNHL pattern"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 18,
+    "type": "mcq",
+    "stem": "Which type of hearing loss is described as often reversible through medical or surgical intervention?",
+    "options": [
+      "Conductive",
+      "Sensorineural",
+      "Central",
+      "All are described as equally reversible"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 19,
+    "type": "mcq",
+    "stem": "Which hearing loss is described as typically permanent and managed with assistive devices?",
+    "options": [
+      "Conductive",
+      "Sensorineural",
+      "Temporary central",
+      "Cerumen-related"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 20,
+    "type": "mcq",
+    "stem": "A nurse reviews four medication orders. Which combination contains ONLY drug classes specifically identified as potentially ototoxic?",
+    "options": [
+      "Aminoglycosides, loop diuretics, chemotherapeutic agents, NSAIDs/salicylates",
+      "Aminoglycosides, beta-blockers, corticosteroids, salicylates",
+      "Loop diuretics, antihistamines, chemotherapeutic agents, opioids",
+      "NSAIDs, penicillins, aminoglycosides, proton-pump inhibitors"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 21,
+    "type": "mcq",
+    "stem": "Which medication-class pairing is INCORRECT?",
+    "options": [
+      "Gentamicin — aminoglycoside",
+      "Bumetanide — loop diuretic",
+      "Cisplatin — chemotherapeutic agent",
+      "Neomycin — loop diuretic"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 22,
+    "type": "mcq",
+    "stem": "Which set contains ONLY aminoglycosides specifically named in the notes?",
+    "options": [
+      "Gentamicin, tobramycin, neomycin",
+      "Gentamicin, bumetanide, neomycin",
+      "Tobramycin, cisplatin, gentamicin",
+      "Neomycin, carboplatin, tobramycin"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 23,
+    "type": "mcq",
+    "stem": "Which set contains ONLY medications identified as loop diuretics in the supplied material?",
+    "options": [
+      "Furosemide and bumetanide",
+      "Furosemide and cisplatin",
+      "Bumetanide and aspirin",
+      "Gentamicin and furosemide"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 24,
+    "type": "mcq",
+    "stem": "Which pair represents the chemotherapeutic agents specifically identified as ototoxic?",
+    "options": [
+      "Cisplatin and carboplatin",
+      "Gentamicin and cisplatin",
+      "Carboplatin and bumetanide",
+      "Aspirin and cisplatin"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 25,
+    "type": "mcq",
+    "stem": "A patient receiving IV furosemide develops auditory symptoms shortly after an unusually rapid infusion. Which fact from the notes makes this particularly concerning?",
+    "options": [
+      "Furosemide becomes highly ototoxic when infused too rapidly IV.",
+      "Furosemide causes conductive blockage of the auditory canal.",
+      "Furosemide causes otosclerosis.",
+      "Furosemide directly perforates the tympanic membrane."
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 26,
+    "type": "mcq",
+    "stem": "Which ototoxic exposure in the notes is specifically associated with tinnitus that is typically reversible?",
+    "options": [
+      "Chronic high-dose aspirin",
+      "Cisplatin",
+      "Gentamicin",
+      "Carboplatin"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 27,
+    "type": "mcq",
+    "stem": "The primary structures at risk of permanent destruction from certain ototoxic medications include the:",
+    "options": [
+      "Cochlear hair cells",
+      "Tympanic membrane only",
+      "External auditory canal only",
+      "Stapes footplate exclusively"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 28,
+    "type": "mcq",
+    "stem": "Which additional system can be damaged by ototoxic medications besides cochlear hearing structures?",
+    "options": [
+      "Vestibular system",
+      "Integumentary system only",
+      "Olfactory system only",
+      "Visual cortex exclusively"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 29,
+    "type": "mcq",
+    "stem": "A 76-year-old repeatedly complains that others mumble and particularly struggles to hear high-frequency sounds. Which etiology is MOST consistent with the notes?",
+    "options": [
+      "Presbycusis",
+      "Cerumen impaction by definition",
+      "Tympanic membrane perforation",
+      "Otosclerosis by definition"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 30,
+    "type": "mcq",
+    "stem": "Which manifestation is identified as a common first sign of presbycusis?",
+    "options": [
+      "Inability to hear high-pitched sounds",
+      "Inability to hear only low-pitched sounds",
+      "Sudden tympanic membrane perforation",
+      "High-pitched hearing-aid feedback"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 31,
+    "type": "mcq",
+    "stem": "Which behavioral observation could indicate hearing impairment even if the patient denies difficulty hearing?",
+    "options": [
+      "Setting television volume at levels uncomfortable for others",
+      "Speaking more quietly than everyone else in all circumstances",
+      "Avoiding all visual communication",
+      "Closing the eyes while listening"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 32,
+    "type": "mcq",
+    "stem": "A patient begins avoiding social conversations because understanding speech requires continuous effort. Which sequence BEST reflects the psychosocial concerns described?",
+    "options": [
+      "Listening strain → withdrawal → social isolation → decreased cognitive stimulation",
+      "Listening strain → increased social activity → increased cognitive stimulation",
+      "Hearing loss → otosclerosis → depression → tympanic perforation",
+      "Withdrawal → improved auditory processing → reduced mental fatigue"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 33,
+    "type": "mcq",
+    "stem": "Which psychosocial consequence is specifically attributed to the constant effort required to decode conversations?",
+    "options": [
+      "Mental fatigue",
+      "Middle-ear pressure",
+      "Stapes fixation",
+      "Cochlear implantation"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 34,
+    "type": "mcq",
+    "stem": "The notes identify an emerging critical association between unaddressed hearing loss in older adults and:",
+    "options": [
+      "Accelerated cognitive decline",
+      "Improved visual processing",
+      "Reversible otosclerosis",
+      "Reduced social isolation"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 35,
+    "type": "mcq",
+    "stem": "A hearing-impaired patient says, 'I didn't understand that.' Which response BEST follows the recommended communication strategy?",
+    "options": [
+      "Repeat exactly the same sentence at a much louder volume.",
+      "Rephrase the information using simpler or different words.",
+      "Turn away and speak slowly toward the chart.",
+      "Raise the pitch while repeating each word."
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 36,
+    "type": "mcq",
+    "stem": "Why is shouting specifically discouraged when communicating with a patient with sensorineural hearing loss?",
+    "options": [
+      "It raises voice pitch and can make understanding harder while distorting lip movements.",
+      "It causes immediate tympanic membrane perforation.",
+      "It converts sensorineural loss into conductive loss.",
+      "It suppresses Cranial Nerve VIII."
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 37,
+    "type": "mcq",
+    "stem": "A nurse speaks loudly while covering the mouth and looking down at a medication chart. Which TWO communication principles are most directly violated?",
+    "options": [
+      "Appropriate pitch/tone and visible facial positioning",
+      "Battery preservation and safe storage",
+      "Water precautions and operative positioning",
+      "Cochlear stimulation and middle-ear pressure control"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 38,
+    "type": "mcq",
+    "stem": "Before providing complex discharge instructions to a patient with hearing impairment, the nurse's FIRST environmental priority should be to:",
+    "options": [
+      "Gain the patient's full attention and minimize background noise.",
+      "Increase television volume.",
+      "Stand behind the patient.",
+      "Dim the light around the nurse's face."
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 39,
+    "type": "mcq",
+    "stem": "Which environmental modification is LEAST consistent with effective communication?",
+    "options": [
+      "Turning off the television",
+      "Closing the door",
+      "Ensuring the nurse's face is well-lit",
+      "Increasing background sound to stimulate hearing"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 40,
+    "type": "mcq",
+    "stem": "Which action BEST preserves visual speech cues?",
+    "options": [
+      "Face the patient directly with the face well-lit.",
+      "Stand behind the patient's good ear.",
+      "Look down while speaking.",
+      "Chew gum while exaggerating words."
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 41,
+    "type": "mcq",
+    "stem": "Which nurse behavior should be avoided because it interferes specifically with the patient's ability to observe mouth movements?",
+    "options": [
+      "Using written instructions",
+      "Covering the mouth while speaking",
+      "Closing the door",
+      "Rephrasing misunderstood information"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 42,
+    "type": "mcq",
+    "stem": "Which strategy is MOST appropriate when communicating crucial medication times to a patient whose hearing impairment makes verbal instruction unreliable?",
+    "options": [
+      "Use written or visual supplements.",
+      "Shout each medication time.",
+      "Repeat the same phrase until understood.",
+      "Provide the information while facing away."
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 43,
+    "type": "mcq",
+    "stem": "Which combination consists entirely of visual communication supplements mentioned in the notes?",
+    "options": [
+      "Whiteboards, communication boards, pictograms, written instructions",
+      "Hearing aids, cochlear implants, tuning forks, written instructions",
+      "Pictograms, stapedectomy, whiteboards, ear molds",
+      "Communication boards, otoscopes, cochlear implants, pictograms"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 44,
+    "type": "mcq",
+    "stem": "Which approach BEST combines the recommended environmental, positional and vocal techniques?",
+    "options": [
+      "Quiet room, face patient directly, well-lit face, clear natural speech",
+      "Television on, stand behind patient, shout slowly",
+      "Darkened face, cover mouth, increase pitch",
+      "Face chart, repeat identical sentences, increase volume"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 45,
+    "type": "mcq",
+    "stem": "A patient misunderstands 'Take this tablet after breakfast.' Which response BEST follows the rephrasing principle?",
+    "options": [
+      "Say the identical sentence more loudly.",
+      "Say, 'After you eat breakfast, take this medicine.'",
+      "Turn away and repeat it.",
+      "Raise the pitch and spell every word verbally."
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 46,
+    "type": "mcq",
+    "stem": "Which hearing-aid cleaning technique is appropriate?",
+    "options": [
+      "Clean the ear mold daily with a dry, soft cloth.",
+      "Submerge the entire device in water.",
+      "Clean the device with harsh chemical solvent.",
+      "Soak the battery compartment overnight."
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 47,
+    "type": "mcq",
+    "stem": "Which action creates the GREATEST conflict with the hearing-aid maintenance instructions?",
+    "options": [
+      "Using a dry soft cloth",
+      "Keeping spare batteries available",
+      "Submerging the device in water for cleaning",
+      "Opening the battery compartment at bedtime"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 48,
+    "type": "mcq",
+    "stem": "At bedtime, which combination BEST preserves hearing-aid battery life?",
+    "options": [
+      "Leave it on and close the battery compartment.",
+      "Turn it off and open the battery compartment.",
+      "Turn it on and remove the ear mold.",
+      "Submerge it in water and remove the battery."
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 49,
+    "type": "mcq",
+    "stem": "A hearing aid suddenly produces a high-pitched whistling sound while in the patient's ear. What should the nurse suspect FIRST according to the notes?",
+    "options": [
+      "The ear mold is loose or improperly inserted.",
+      "The patient has developed acute otosclerosis.",
+      "The battery is necessarily overcharged.",
+      "The tympanic membrane has ruptured."
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 50,
+    "type": "mcq",
+    "stem": "Which storage location BEST reduces the risk that a hospitalized patient's hearing aid will be accidentally discarded?",
+    "options": [
+      "Wrapped in tissue on the bedside table",
+      "Inside the patient's meal tray",
+      "In a labeled container inside the bedside drawer",
+      "Loose between the bedsheets"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 51,
+    "type": "mcq",
+    "stem": "Which location is NOT specifically identified as unsafe for leaving a hearing aid loose?",
+    "options": [
+      "Meal tray",
+      "Bedsheets",
+      "Tissue box",
+      "Labeled container in bedside drawer"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 52,
+    "type": "mcq",
+    "stem": "A nurse finds a patient's hearing aid wrapped in tissue on a meal tray. Which risk is MOST directly addressed by the storage recommendation?",
+    "options": [
+      "Accidental disposal of the device",
+      "Immediate cochlear hair-cell destruction",
+      "Middle-ear pressure accumulation",
+      "Development of presbycusis"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 53,
+    "type": "mcq",
+    "stem": "Which intervention bypasses damaged cochlear hair cells and directly stimulates the auditory nerve?",
+    "options": [
+      "Tympanoplasty",
+      "Stapedectomy",
+      "Cochlear implant",
+      "Traditional hearing aid"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 54,
+    "type": "mcq",
+    "stem": "Which patient MOST closely meets the indication for cochlear implantation given in the notes?",
+    "options": [
+      "Patient with unilateral cerumen impaction",
+      "Patient with profound bilateral sensorineural loss and no benefit from traditional hearing aids",
+      "Patient with isolated tympanic membrane perforation",
+      "Patient with otosclerosis responsive to conductive amplification"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 55,
+    "type": "mcq",
+    "stem": "The therapeutic logic of a cochlear implant is BEST summarized as:",
+    "options": [
+      "Repair the tympanic membrane so sound reaches the middle ear.",
+      "Remove the stapes to eliminate all neural transmission.",
+      "Bypass damaged cochlear hair cells and stimulate the auditory nerve.",
+      "Restore auditory-cortex processing by increasing middle-ear pressure."
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 56,
+    "type": "mcq",
+    "stem": "Which surgical procedure reconstructs the tympanic membrane?",
+    "options": [
+      "Stapedectomy",
+      "Tympanoplasty",
+      "Cochlear implantation",
+      "Otosclerosis"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 57,
+    "type": "mcq",
+    "stem": "The principal hearing-loss category targeted by tympanoplasty in the supplied material is:",
+    "options": [
+      "Conductive",
+      "Central",
+      "Pure sensorineural",
+      "Cortical"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 58,
+    "type": "mcq",
+    "stem": "Which procedure involves removal of the stapes footplate followed by insertion of a tissue graft or prosthesis?",
+    "options": [
+      "Tympanoplasty",
+      "Stapedectomy",
+      "Cochlear implantation",
+      "Auditory cortical reconstruction"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 59,
+    "type": "mcq",
+    "stem": "The gold-standard surgical intervention identified for otosclerosis is:",
+    "options": [
+      "Tympanoplasty",
+      "Stapedectomy",
+      "Cochlear implantation",
+      "Myringotomy"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 60,
+    "type": "mcq",
+    "stem": "Which disease-mechanism-procedure sequence is CORRECT?",
+    "options": [
+      "Otosclerosis → stapes fixation → stapedectomy",
+      "Presbycusis → tympanic perforation → tympanoplasty",
+      "Cerumen impaction → cochlear hair-cell destruction → cochlear implant",
+      "Central hearing loss → stapes fixation → stapedectomy"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 61,
+    "type": "mcq",
+    "stem": "A patient undergoes reconstruction specifically to restore the anatomy of a perforated tympanic membrane and improve hearing. Which procedure was most likely performed?",
+    "options": [
+      "Tympanoplasty",
+      "Stapedectomy",
+      "Cochlear implantation",
+      "Vestibular stimulation"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 62,
+    "type": "mcq",
+    "stem": "Following ear surgery, which instruction BEST prevents sudden increases in middle-ear pressure?",
+    "options": [
+      "Sneeze with the mouth closed.",
+      "Blow the nose forcefully to clear secretions.",
+      "Keep the mouth open when sneezing.",
+      "Suppress every cough by closing the mouth."
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 63,
+    "type": "mcq",
+    "stem": "A postoperative ear-surgery patient feels an unavoidable sneeze coming. Which action should the nurse reinforce?",
+    "options": [
+      "Pinch the nose and close the mouth.",
+      "Keep the mouth open while sneezing.",
+      "Lie immediately on the operative ear.",
+      "Blow the nose immediately afterward."
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 64,
+    "type": "mcq",
+    "stem": "Why are forceful nose blowing, closed-mouth coughing and closed-mouth sneezing discouraged after ear surgery?",
+    "options": [
+      "They may create sudden middle-ear pressure spikes.",
+      "They permanently increase auditory-cortex activity.",
+      "They reduce battery life in hearing aids.",
+      "They cause age-related cochlear degeneration."
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 65,
+    "type": "mcq",
+    "stem": "A patient has surgery on the LEFT ear. Which immediate postoperative positioning is consistent with the supplied instructions?",
+    "options": [
+      "Left side down",
+      "Right side down",
+      "Operative ear directly against the pillow",
+      "Either side because positioning has no relevance"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 66,
+    "type": "mcq",
+    "stem": "Why is a postoperative patient positioned with the good ear down?",
+    "options": [
+      "To prevent pressure accumulation and graft displacement on the surgical side",
+      "To increase pressure against the operative ear",
+      "To improve cochlear hair-cell regeneration",
+      "To produce a negative Rinne test"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 67,
+    "type": "mcq",
+    "stem": "Which postoperative positioning order should the nurse QUESTION for a patient who has just undergone right-ear surgery?",
+    "options": [
+      "Position on the left side.",
+      "Keep the unaffected ear down.",
+      "Position the right operative ear directly downward.",
+      "Avoid pressure on the surgical side."
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 68,
+    "type": "mcq",
+    "stem": "Which showering precaution is specifically recommended following ear surgery?",
+    "options": [
+      "Allow water into the canal to clean the wound.",
+      "Place a petroleum-jelly-saturated cotton ball in the outer ear.",
+      "Submerge the operative ear briefly after each shower.",
+      "Remove all protection so the canal can drain water."
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 69,
+    "type": "mcq",
+    "stem": "The postoperative ear dressing and canal should remain:",
+    "options": [
+      "Moist",
+      "Dry",
+      "Open to shower water",
+      "Submerged daily"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 70,
+    "type": "mcq",
+    "stem": "Which postoperative finding should trigger the GREATEST concern for inner-ear injury or prosthesis displacement based on the notes?",
+    "options": [
+      "Patient requests written medication instructions.",
+      "Sudden complete hearing loss with severe vertigo.",
+      "Patient asks the nurse to repeat a sentence.",
+      "Hearing aid battery is depleted."
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 71,
+    "type": "mcq",
+    "stem": "Which group contains ONLY postoperative warning findings specifically identified in the notes?",
+    "options": [
+      "Severe vertigo, nausea, vomiting, sudden complete hearing loss",
+      "Tinnitus, cerumen, loneliness, high-pitched speech",
+      "Mild fatigue, depression, social withdrawal, nausea",
+      "Foreign body, otitis media, vomiting, presbycusis"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 72,
+    "type": "mcq",
+    "stem": "Severe vertigo and sudden complete hearing loss after stapes surgery may indicate:",
+    "options": [
+      "Inner-ear injury or displacement of the prosthesis",
+      "Normal adaptation to the hearing aid",
+      "Expected presbycusis",
+      "Central auditory improvement"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 73,
+    "type": "mcq",
+    "stem": "A patient has stapes fixation, Weber lateralization toward the affected ear, and BC ≥ AC. Which complete diagnostic-treatment pairing BEST integrates these findings?",
+    "options": [
+      "Otosclerosis → conductive loss → stapedectomy",
+      "Presbycusis → sensorineural loss → tympanoplasty",
+      "Acoustic neuroma → conductive loss → stapedectomy",
+      "Central loss → conductive loss → cochlear implant"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 74,
+    "type": "mcq",
+    "stem": "A patient has prolonged loud-noise exposure, Weber lateralization away from the affected ear, and AC > BC despite reduced hearing duration. Which classification BEST integrates all three findings?",
+    "options": [
+      "Conductive hearing loss",
+      "Sensorineural hearing loss",
+      "Mixed loss caused solely by middle-ear disease",
+      "Functional loss caused solely by cortical dysfunction"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 75,
+    "type": "mcq",
+    "stem": "Which scenario MOST strongly suggests conductive rather than sensorineural hearing loss?",
+    "options": [
+      "Cisplatin exposure with Weber lateralizing to the good ear",
+      "Presbycusis with difficulty hearing high-pitched sounds",
+      "Middle-ear fluid with Weber lateralizing to the affected ear",
+      "Prolonged loud-noise exposure with reduced hearing duration"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 76,
+    "type": "mcq",
+    "stem": "Which scenario MOST strongly suggests sensorineural rather than conductive hearing loss?",
+    "options": [
+      "Cerumen obstruction with BC ≥ AC",
+      "Stapes fixation with Weber toward the bad ear",
+      "Cisplatin exposure with Weber toward the good ear",
+      "Tympanic membrane perforation with negative Rinne"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 77,
+    "type": "mcq",
+    "stem": "A patient has normal peripheral auditory anatomy but difficulty decoding auditory signals. Which finding would MOST directly distinguish this mechanism from the two major peripheral types?",
+    "options": [
+      "The problem lies in CNS/auditory-cortex processing.",
+      "The problem lies in fixation of the stapes.",
+      "The problem lies in cochlear hair-cell destruction.",
+      "The problem lies in obstruction of the external canal."
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 78,
+    "type": "mcq",
+    "stem": "Which chain contains NO mismatch?",
+    "options": [
+      "Cerumen → conductive → affected-ear Weber lateralization → often reversible",
+      "Presbycusis → conductive → negative Rinne → often reversible",
+      "Otosclerosis → sensorineural → unaffected-ear Weber lateralization → permanent",
+      "Cisplatin → conductive → affected-ear Weber lateralization → stapedectomy"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 79,
+    "type": "mcq",
+    "stem": "Which chain contains NO mismatch?",
+    "options": [
+      "Prolonged loud noise → SNHL → cochlear involvement → typically permanent",
+      "Otitis media → SNHL → CN VIII destruction → typically permanent",
+      "Tympanic perforation → central loss → impaired cortical decoding",
+      "Acoustic neuroma → conductive loss → stapes fixation"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 80,
+    "type": "mcq",
+    "stem": "A patient with severe age-related sensorineural degeneration develops fluid-filled otitis media in the same ear. The resulting hearing deficit should be classified as:",
+    "options": [
+      "Pure conductive",
+      "Pure sensorineural",
+      "Mixed",
+      "Central"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 81,
+    "type": "mcq",
+    "stem": "A nurse must choose the MOST inappropriate communication technique for a patient with sensorineural hearing loss. Which should be avoided?",
+    "options": [
+      "Speaking naturally and clearly",
+      "Rephrasing misunderstood statements",
+      "Shouting to maximize loudness",
+      "Providing written medication instructions"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 82,
+    "type": "mcq",
+    "stem": "Which patient statement after teaching indicates a NEED for further instruction?",
+    "options": [
+      "\"I will ask people to face me when speaking.\"",
+      "\"Reducing background noise may help me understand speech.\"",
+      "\"If I don't understand, they should shout the exact same words repeatedly.\"",
+      "\"Written instructions may help with important medication information.\""
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 83,
+    "type": "mcq",
+    "stem": "Which hearing-aid statement indicates a NEED for further teaching?",
+    "options": [
+      "\"I'll keep spare batteries available.\"",
+      "\"I'll open the battery compartment when the aid is off at bedtime.\"",
+      "\"I'll use a dry soft cloth to clean the ear mold.\"",
+      "\"I'll soak the whole device in water for a thorough cleaning.\""
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 84,
+    "type": "mcq",
+    "stem": "Which post-ear-surgery statement indicates CORRECT understanding?",
+    "options": [
+      "\"I'll close my mouth tightly whenever I sneeze.\"",
+      "\"I'll blow my nose forcefully if my ears feel blocked.\"",
+      "\"I'll keep my mouth open if I have to sneeze.\"",
+      "\"I'll allow shower water into the canal to prevent dryness.\""
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 85,
+    "type": "mcq",
+    "stem": "Which post-ear-surgery statement indicates a NEED for immediate correction?",
+    "options": [
+      "\"I will protect the ear from water.\"",
+      "\"I'll sleep with my unaffected ear down as instructed.\"",
+      "\"If I sneeze, I'll keep my mouth open.\"",
+      "\"If the ear feels pressured, I'll blow my nose forcefully.\""
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 86,
+    "type": "mcq",
+    "stem": "A patient has profound bilateral SNHL, no benefit from conventional hearing aids, and damaged cochlear hair cells. Which intervention and mechanism are correctly paired?",
+    "options": [
+      "Tympanoplasty — directly stimulates CN VIII",
+      "Stapedectomy — bypasses cochlear hair cells",
+      "Cochlear implant — bypasses damaged hair cells and directly stimulates the auditory nerve",
+      "Hearing aid — reconstructs the tympanic membrane"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 87,
+    "type": "mcq",
+    "stem": "Which finding would make a cochlear implant indication LESS consistent with the specific indication described in the notes?",
+    "options": [
+      "Profound hearing loss",
+      "Bilateral sensorineural loss",
+      "No benefit from traditional hearing aids",
+      "Isolated reversible conductive obstruction from cerumen"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 88,
+    "type": "mcq",
+    "stem": "A patient's hearing loss results from otosclerosis. Which sequence MOST logically follows the notes?",
+    "options": [
+      "Stapes fixation → conductive deficit → negative Rinne → possible stapedectomy",
+      "Hair-cell destruction → sensorineural deficit → negative Rinne → tympanoplasty",
+      "Auditory-cortex dysfunction → conductive deficit → stapedectomy",
+      "CN VIII damage → conductive deficit → cochlear implant"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 89,
+    "type": "mcq",
+    "stem": "Which statement is FALSE based on the supplied material?",
+    "options": [
+      "Sensorineural loss can involve the cochlea or CN VIII.",
+      "Conductive loss may result from middle-ear fluid.",
+      "Functional/central loss requires abnormal peripheral ear structures.",
+      "Mixed loss combines conductive and sensorineural pathology."
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 90,
+    "type": "mcq",
+    "stem": "Which statement is FALSE regarding hearing-aid care?",
+    "options": [
+      "A loose ear mold may produce feedback.",
+      "Opening the battery compartment when not in use can preserve battery life.",
+      "The device should be stored in a labeled container.",
+      "Harsh chemical solvents are recommended for routine cleaning."
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 91,
+    "type": "mcq",
+    "stem": "Which statement is FALSE regarding postoperative ear care?",
+    "options": [
+      "The ear canal should be protected from water.",
+      "The patient should avoid sudden increases in middle-ear pressure.",
+      "The operative ear should routinely be positioned downward to stabilize the graft.",
+      "Severe vertigo should be monitored as a possible complication."
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 92,
+    "type": "mcq",
+    "stem": "A patient has left-ear hearing loss. Weber lateralizes LEFT and left Rinne is negative. Another patient has left-ear hearing loss, Weber lateralizes RIGHT and left Rinne remains positive with reduced overall duration. What are their respective classifications?",
+    "options": [
+      "First sensorineural; second conductive",
+      "First conductive; second sensorineural",
+      "Both conductive",
+      "Both sensorineural"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 93,
+    "type": "mcq",
+    "stem": "Patient A has middle-ear fluid. Patient B has cisplatin-related cochlear damage. Which comparison is MOST consistent with the notes?",
+    "options": [
+      "A: Weber to bad ear, BC ≥ AC; B: Weber to good ear, AC > BC with reduced time",
+      "A: Weber to good ear, AC > BC; B: Weber to bad ear, BC ≥ AC",
+      "Both: Weber to bad ear and BC ≥ AC",
+      "Both: Weber to good ear and AC > BC"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 94,
+    "type": "mcq",
+    "stem": "A nurse assesses four patients. Which patient presents the clearest medication-related risk for sensorineural damage based strictly on the supplied notes?",
+    "options": [
+      "A patient receiving gentamicin",
+      "A patient with a foreign body in the ear canal",
+      "A patient with stapes fixation",
+      "A patient with a perforated tympanic membrane"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 95,
+    "type": "mcq",
+    "stem": "Which integrated statement is MOST accurate?",
+    "options": [
+      "Conductive loss disrupts mechanical sound passage while leaving inner-ear structures and acoustic nerves intact.",
+      "Sensorineural loss blocks sound exclusively in the external auditory canal.",
+      "Central loss results specifically from fixation of the stapes.",
+      "Mixed loss means bilateral conductive loss without neural involvement."
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 96,
+    "type": "fitb",
+    "stem": "In conductive hearing loss, the Weber test lateralizes toward the __________ ear.",
+    "answer": "affected",
+    "acceptableAnswers": ["affected", "affected ear", "bad ear"]
+  },
+  {
+    "id": 97,
+    "type": "fitb",
+    "stem": "A negative Rinne test is represented by the relationship __________.",
+    "answer": "BC ≥ AC",
+    "acceptableAnswers": [
+      "BC ≥ AC",
+      "BC>=AC",
+      "bone conduction ≥ air conduction",
+      "bone conduction greater than or equal to air conduction"
+    ]
+  },
+  {
+    "id": 98,
+    "type": "fitb",
+    "stem": "The cranial nerve implicated in sensorineural hearing loss in these notes is Cranial Nerve __________.",
+    "answer": "VIII",
+    "acceptableAnswers": [
+      "VIII",
+      "8",
+      "CN VIII",
+      "cranial nerve VIII",
+      "vestibulocochlear nerve"
+    ]
+  },
+  {
+    "id": 99,
+    "type": "fitb",
+    "stem": "The gold-standard surgical procedure identified in the notes for otosclerosis is __________.",
+    "answer": "stapedectomy",
+    "acceptableAnswers": ["stapedectomy"]
+  },
+  {
+    "id": 100,
+    "type": "fitb",
+    "stem": "Following ear surgery, the patient should be positioned on the __________ side, with the good ear down.",
+    "answer": "unaffected",
+    "acceptableAnswers": [
+      "unaffected",
+      "unaffected side",
+      "good side",
+      "non-operative side",
+      "nonoperative side"
+    ]
+  }
 ]
