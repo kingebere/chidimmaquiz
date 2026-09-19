@@ -2,1035 +2,1114 @@
   {
     "id": 1,
     "type": "mcq",
-    "stem": "A patient has thick, well-defined raised red plaques covered by silvery-white scales. The lesions are concentrated on the elbows, knees and scalp. Which diagnosis is MOST consistent with the notes?",
-    "options": ["Ringworm", "Psoriasis", "Impetigo", "Herpes zoster"],
+    "stem": "A burn is best defined as an injury to the skin or other tissues caused by heat, chemicals, electricity, radiation, or:",
+    "options": [
+      "Osmotic pressure changes",
+      "Friction",
+      "Hypoxia alone",
+      "Bacterial toxins alone"
+    ],
     "answer": "B"
   },
   {
     "id": 2,
     "type": "mcq",
-    "stem": "Which mechanism BEST explains the characteristic plaques of psoriasis according to the notes?",
+    "stem": "A burn resulting from hot liquids or steam is more precisely classified under which causative category?",
     "options": [
-      "Destruction of sensory ganglia by bacteria",
-      "Rapid proliferation of epidermal cells",
-      "Invasion of hair follicles by dermatophytes only",
-      "Reactivation of dormant bacteria"
+      "Chemical burn",
+      "Thermal burn (scald)",
+      "Electrical burn",
+      "Friction burn"
     ],
     "answer": "B"
   },
   {
     "id": 3,
     "type": "mcq",
-    "stem": "Epidermal cells in psoriasis are stated to multiply approximately how much faster than normal?",
-    "options": ["2–3 times", "4–5 times", "6–9 times", "10–15 times"],
-    "answer": "C"
+    "stem": "A burn resulting from prolonged sun exposure is classified under which causative category?",
+    "options": [
+      "Thermal burn",
+      "Radiation burn",
+      "Chemical burn",
+      "Friction burn"
+    ],
+    "answer": "B"
   },
   {
     "id": 4,
     "type": "mcq",
-    "stem": "Which description of psoriasis is CORRECT according to the notes?",
+    "stem": "A burn caused by repeated rubbing of the skin against a surface is classified as:",
     "options": [
-      "Acute contagious bacterial disease",
-      "Chronic non-contagious autoimmune inflammatory skin disease",
-      "Chronic contagious fungal disease",
-      "Acute viral disease caused by VZV"
+      "A chemical burn",
+      "A friction burn",
+      "An electrical burn",
+      "A radiation burn"
     ],
     "answer": "B"
   },
   {
     "id": 5,
     "type": "mcq",
-    "stem": "Which combination contains ONLY factors associated with psoriasis in the notes?",
+    "stem": "Burns are classified along TWO major axes. These are the depth of the burn and:",
     "options": [
-      "Autoimmune dysfunction, genetic predisposition, environmental factors",
-      "Dermatophytes, poor hygiene, animal exposure",
-      "VZV, increasing age, sensory ganglia",
-      "S. aureus, S. pyogenes, crowded housing"
+      "The causative agent's temperature in degrees Celsius exclusively",
+      "The extent of body surface area (percentage of total body surface area) affected",
+      "The patient's age exclusively",
+      "The time of day the burn occurred"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 6,
     "type": "mcq",
-    "stem": "Which infection is specifically mentioned as an environmental trigger associated with psoriasis?",
+    "stem": "A superficial (first-degree) burn affects only which skin layer?",
     "options": [
-      "Streptococcal throat infection",
-      "Varicella infection",
-      "Dermatophyte nail infection",
-      "Staphylococcal wound infection"
+      "The dermis only",
+      "The epidermis only",
+      "The subcutaneous fat only",
+      "The epidermis, dermis, and subcutaneous fat"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 7,
     "type": "mcq",
-    "stem": "Which group contains ONLY drugs listed as possible environmental/drug-related factors associated with psoriasis?",
+    "stem": "A superficial (first-degree) burn characteristically presents with erythema, dry skin, pain, and which finding on pressure?",
     "options": [
-      "Lithium, beta-blockers, chloroquine",
-      "Acyclovir, valacyclovir, famciclovir",
-      "Terbinafine, griseofulvin, fluconazole",
-      "Flucloxacillin, cephalexin, erythromycin"
+      "No blanching at all",
+      "Blanching of the skin",
+      "Immediate blister formation",
+      "Complete absence of sensation"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 8,
     "type": "mcq",
-    "stem": "A patient with a chronic scaly plaque disorder develops joint pain and stiffness. According to the notes, this complication is specifically termed:",
+    "stem": "A superficial (first-degree) burn typically heals within which timeframe, usually without scarring?",
     "options": [
-      "Postherpetic neuralgia",
-      "Psoriatic arthritis",
-      "Post-streptococcal glomerulonephritis",
-      "Cellulitis"
+      "1 to 2 days",
+      "3 to 7 days",
+      "10 to 21 days",
+      "More than 3 weeks"
     ],
     "answer": "B"
   },
   {
     "id": 9,
     "type": "mcq",
-    "stem": "Which nail finding is MOST consistent with psoriasis?",
+    "stem": "Superficial PARTIAL thickness (second-degree) burns affect the epidermis and which layer of the dermis?",
     "options": [
-      "Only complete nail loss",
-      "Thickened, pitted or discoloured nails",
-      "Honey-coloured nail crusts",
-      "Fluid-filled nail vesicles"
+      "The reticular layer",
+      "The papillary layer",
+      "The subcutaneous layer",
+      "No dermal layer is involved"
     ],
     "answer": "B"
   },
   {
     "id": 10,
     "type": "mcq",
-    "stem": "Which distribution MOST strongly supports psoriasis rather than the other disorders described in these notes?",
+    "stem": "Superficial partial thickness burns characteristically present as red, moist wounds with fluid-filled blisters that, on pressure, will:",
     "options": [
-      "Elbows, knees, scalp, lower back and nails",
-      "Around the nose and mouth only",
-      "A unilateral sensory dermatome",
-      "Between the toes only"
+      "Not blanch at all",
+      "Blanch (turn white)",
+      "Immediately turn black",
+      "Show no visible change"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 11,
     "type": "mcq",
-    "stem": "A patient has suspected psoriasis, but the clinical appearance is inconclusive. Which investigation is specifically indicated in the notes when the diagnosis is uncertain?",
-    "options": ["PCR", "KOH examination", "Skin biopsy", "Swab culture"],
-    "answer": "C"
+    "stem": "Superficial partial thickness burns are typically described in terms of pain as:",
+    "options": [
+      "Completely painless",
+      "Usually very painful",
+      "Only mildly uncomfortable",
+      "Painful only after 48 hours"
+    ],
+    "answer": "B"
   },
   {
     "id": 12,
     "type": "mcq",
-    "stem": "Which statement about laboratory testing for psoriasis is supported by the notes?",
+    "stem": "Superficial partial thickness burns typically heal within which timeframe?",
     "options": [
-      "PCR is the specific confirmatory test.",
-      "KOH is the specific confirmatory test.",
-      "There is no specific laboratory test.",
-      "Fungal culture is mandatory."
+      "1 to 3 days",
+      "10 to 21 days",
+      "More than 6 weeks",
+      "They never heal without grafting"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 13,
     "type": "mcq",
-    "stem": "Which topical agent is specifically described as helping to soften and remove scales in psoriasis?",
-    "options": ["Salicylic acid", "Mupirocin", "Acyclovir", "Terbinafine"],
-    "answer": "A"
+    "stem": "Deep partial thickness burns extend into which dermal layer, distinguishing them from superficial partial thickness burns?",
+    "options": [
+      "The papillary layer only",
+      "The reticular layer",
+      "No dermal involvement at all",
+      "Only the epidermal basal layer"
+    ],
+    "answer": "B"
   },
   {
     "id": 14,
     "type": "mcq",
-    "stem": "Which treatment pairing is INCORRECT according to the psoriasis section?",
+    "stem": "Compared to superficial partial thickness burns, deep partial thickness burns are characterized by which pain finding?",
     "options": [
-      "Salicylic acid — soften and remove scales",
-      "Calcipotriol — vitamin D treatment",
-      "PUVA — severe cases",
-      "Mupirocin — systemic psoriasis therapy"
+      "Greater pain than superficial partial thickness burns",
+      "Lesser pain, due to greater nerve ending damage",
+      "Identical pain intensity in all cases",
+      "Complete absence of any pain"
     ],
-    "answer": "D"
+    "answer": "B"
   },
   {
     "id": 15,
     "type": "mcq",
-    "stem": "PUVA therapy described for severe psoriasis combines:",
+    "stem": "Deep partial thickness burns typically take how long to heal, and are likely to result in:",
     "options": [
-      "Psoralen and UVA",
-      "Prednisolone and UVB",
-      "Psoralen and UVB",
-      "Calcipotriol and UVA"
+      "Less than a week; no scarring",
+      "More than 3 weeks; likely scarring",
+      "Exactly 10 days; guaranteed no scarring",
+      "They heal spontaneously within 24 hours with no scarring"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 16,
     "type": "mcq",
-    "stem": "Which group contains ONLY systemic drugs listed for psoriasis?",
+    "stem": "On examination, deep partial thickness burns characteristically show which finding on pressure, distinguishing them from superficial partial thickness burns?",
     "options": [
-      "Methotrexate, cyclosporine, acitretin",
-      "Mupirocin, fusidic acid, methotrexate",
-      "Acyclovir, cyclosporine, terbinafine",
-      "Calcipotriol, salicylic acid, acitretin"
+      "Prompt blanching, identical to superficial partial thickness",
+      "Does NOT blanch on pressure",
+      "Immediate eschar formation",
+      "Complete absence of blisters in all cases"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 17,
     "type": "mcq",
-    "stem": "Which complication listed for psoriasis extends beyond the skin and joints into long-term systemic health risk?",
+    "stem": "Full thickness (third-degree) burns affect the entire epidermis and dermis, extending to which additional tissue layer?",
     "options": [
-      "Increased cardiovascular disease and metabolic syndrome risk",
-      "Post-streptococcal glomerulonephritis only",
-      "Postherpetic neuralgia",
-      "Abscess formation"
+      "Bone",
+      "Subcutaneous fat",
+      "Muscle only, sparing fat",
+      "Tendons only"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 18,
     "type": "mcq",
-    "stem": "A child develops highly contagious facial sores that rupture and subsequently form honey-coloured crusts. Which diagnosis is MOST consistent?",
-    "options": ["Psoriasis", "Impetigo", "Herpes zoster", "Tinea corporis"],
+    "stem": "Full thickness burns characteristically appear hard, leathery, and dry, in colors described as white, gray, brown, or charred black. This dead tissue is termed:",
+    "options": [
+      "Granulation tissue",
+      "Eschar",
+      "Slough only",
+      "Keloid"
+    ],
     "answer": "B"
   },
   {
     "id": 19,
     "type": "mcq",
-    "stem": "Which organism is identified as the MOST common bacterial cause of impetigo?",
+    "stem": "Full thickness burns typically require which intervention for wound healing to occur?",
     "options": [
-      "Streptococcus pyogenes",
-      "Staphylococcus aureus",
-      "Trichophyton",
-      "Varicella-Zoster Virus"
+      "Simple daily dressing changes alone, with spontaneous healing expected",
+      "Skin grafting",
+      "No intervention, as they heal faster than partial thickness burns",
+      "Topical antihistamines alone"
     ],
     "answer": "B"
   },
   {
     "id": 20,
     "type": "mcq",
-    "stem": "Which pair of organisms is associated with impetigo in the notes?",
+    "stem": "Fourth-degree burns extend beyond the skin and subcutaneous fat to involve which additional structures?",
     "options": [
-      "S. aureus and S. pyogenes",
-      "Trichophyton and Microsporum",
-      "VZV and S. aureus",
-      "Microsporum and Epidermophyton"
+      "Only the epidermis, more extensively than third-degree burns",
+      "Fascia, muscles, tendons, and bones",
+      "Only the hair follicles and sweat glands",
+      "Only the superficial capillary network"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 21,
     "type": "mcq",
-    "stem": "Which combination contains ONLY predisposing factors for impetigo listed in the notes?",
+    "stem": "Fourth-degree burns are characteristically described as black, charred, dry, necrotic, and:",
     "options": [
-      "Poor hygiene, warm humid climate, crowded living environment",
-      "Older age, chemotherapy, emotional stress",
-      "Diabetes, tight shoes, excessive sweating",
-      "Lithium, beta-blockers, antimalarial drugs"
+      "Extremely painful due to intact nerve endings",
+      "Completely painless, due to destruction of nerve endings",
+      "Mildly tender only",
+      "Associated with intense itching"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 22,
     "type": "mcq",
-    "stem": "Why can minor cuts, abrasions and insect bites predispose a person to impetigo according to the notes?",
+    "stem": "Management of fourth-degree burns typically requires which intervention(s)?",
     "options": [
-      "They reactivate VZV.",
-      "They provide a route of entry.",
-      "They accelerate epidermal proliferation.",
-      "They produce fungal spores."
+      "Simple observation only, as they heal without scarring",
+      "Extensive surgery and amputation",
+      "Topical corticosteroid cream alone",
+      "Oral antihistamines exclusively"
     ],
     "answer": "B"
   },
   {
     "id": 23,
     "type": "mcq",
-    "stem": "Which statement about the age distribution of impetigo is MOST consistent with the notes?",
+    "stem": "The extent of a burn injury, expressed as a percentage of total body surface area, can be estimated using the Rules of Nine chart or which other method?",
     "options": [
-      "It occurs exclusively in adults older than 50.",
-      "It mainly affects infants and children but can occur at any age.",
-      "It occurs exclusively from birth to age 10.",
-      "It occurs only after puberty."
+      "The Glasgow Coma Scale",
+      "The Lund and Browder chart",
+      "The Apgar score",
+      "The Bishop score"
     ],
     "answer": "B"
   },
   {
     "id": 24,
     "type": "mcq",
-    "stem": "Approximately what proportion of impetigo cases is attributed to the non-bullous type in the notes?",
-    "options": ["30%", "50%", "70%", "90%"],
-    "answer": "C"
+    "stem": "According to the adult Rules of Nine chart, the head and neck together represent approximately what percentage of total body surface area?",
+    "options": [
+      "1%",
+      "9%",
+      "18%",
+      "36%"
+    ],
+    "answer": "B"
   },
   {
     "id": 25,
     "type": "mcq",
-    "stem": "Which description MOST accurately distinguishes non-bullous from bullous impetigo?",
+    "stem": "According to the adult Rules of Nine chart, EACH upper limb (arm) represents approximately what percentage of total body surface area?",
     "options": [
-      "Non-bullous produces small vesicles or pustules forming honey-coloured crusts after rupture; bullous produces large fluid-filled bullae.",
-      "Non-bullous follows a dermatome; bullous produces silvery scales.",
-      "Non-bullous is fungal; bullous is viral.",
-      "Non-bullous affects nails; bullous affects joints."
+      "4.5%",
+      "9%",
+      "13.5%",
+      "18%"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 26,
     "type": "mcq",
-    "stem": "Bullous impetigo is described as being caused mainly by:",
+    "stem": "According to the adult Rules of Nine chart, the anterior trunk (front) represents approximately what percentage of total body surface area?",
     "options": [
-      "Staphylococcus aureus",
-      "Streptococcus pyogenes",
-      "Trichophyton",
-      "Varicella-Zoster Virus"
+      "9%",
+      "13.5%",
+      "18%",
+      "27%"
     ],
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 27,
     "type": "mcq",
-    "stem": "Which feature is described as the classic sign of impetigo?",
+    "stem": "According to the adult Rules of Nine chart, EACH lower limb (leg) represents approximately what percentage of total body surface area?",
     "options": [
-      "Silvery-white scales",
-      "Honey-coloured crusts",
-      "Clear-centred rings",
-      "Unilateral dermatomal vesicles"
+      "9%",
+      "13.5%",
+      "18%",
+      "27%"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 28,
     "type": "mcq",
-    "stem": "Which anatomical distribution is specifically described for impetigo?",
+    "stem": "According to the adult Rules of Nine chart, the perineum (genital area) represents approximately what percentage of total body surface area, the only region NOT assigned a multiple of 9%?",
     "options": [
-      "Face around the nose and mouth, hands and legs",
-      "Elbows, knees and lower back exclusively",
-      "Chest and abdomen along one dermatome only",
-      "Groin and interdigital spaces exclusively"
+      "0.5%",
+      "1%",
+      "2%",
+      "4.5%"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 29,
     "type": "mcq",
-    "stem": "A patient has red sores, pustules, honey-coloured crusts, pruritus and swollen lymph nodes around the affected area. Which diagnosis is BEST supported?",
-    "options": ["Ringworm", "Impetigo", "Psoriasis", "Herpes zoster"],
-    "answer": "B"
+    "stem": "Summing the adult Rules of Nine percentages (head/neck 9%, each arm 9%, anterior trunk 18%, posterior trunk 18%, each leg 18%, perineum 1%) gives a grand total of:",
+    "options": [
+      "90%",
+      "95%",
+      "100%",
+      "108%"
+    ],
+    "answer": "C"
   },
   {
     "id": 30,
     "type": "mcq",
-    "stem": "Which laboratory procedure may be performed in impetigo even though the notes state that no investigation is specifically diagnostic?",
-    "options": ["KOH examination", "Swab culture", "PCR of vesicle fluid", "Skin biopsy"],
+    "stem": "The Rules of Nine chart is considered LESS accurate specifically when applied to which patient population?",
+    "options": [
+      "Adult males",
+      "Children",
+      "Elderly adults over 65",
+      "Pregnant women"
+    ],
     "answer": "B"
   },
   {
     "id": 31,
     "type": "mcq",
-    "stem": "Which pair contains ONLY topical antibiotics listed for impetigo?",
+    "stem": "The Lund and Browder chart is considered MORE accurate than the Rules of Nine chart, especially in children, primarily because it accounts for:",
     "options": [
-      "Mupirocin and fusidic acid",
-      "Flucloxacillin and cephalexin",
-      "Terbinafine and griseofulvin",
-      "Acyclovir and valacyclovir"
+      "The patient's ethnicity",
+      "Differences in body proportion that change with age",
+      "The patient's blood type",
+      "The time elapsed since injury"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 32,
     "type": "mcq",
-    "stem": "Which medication is NOT listed among the oral antibiotics for impetigo?",
-    "options": ["Cephalexin", "Azithromycin", "Flucloxacillin", "Famciclovir"],
-    "answer": "D"
+    "stem": "According to the Lund and Browder chart, the percentage of body surface area assigned to the HEAD changes significantly with age. In a newborn infant (0 years), the head represents approximately what percentage?",
+    "options": [
+      "7%",
+      "13%",
+      "19%",
+      "25%"
+    ],
+    "answer": "C"
   },
   {
     "id": 33,
     "type": "mcq",
-    "stem": "Which set contains ONLY oral antibiotics listed for impetigo?",
+    "stem": "According to the Lund and Browder chart, by adulthood, the head represents approximately what percentage of body surface area, reflecting the proportional DECREASE from infancy?",
     "options": [
-      "Flucloxacillin, cephalexin, amoxicillin-clavulanate",
-      "Mupirocin, fusidic acid, erythromycin",
-      "Acyclovir, erythromycin, azithromycin",
-      "Terbinafine, fluconazole, cephalexin"
+      "7%",
+      "13%",
+      "17%",
+      "19%"
     ],
     "answer": "A"
   },
   {
     "id": 34,
     "type": "mcq",
-    "stem": "Which nursing action is specifically included in the management of impetigo?",
+    "stem": "According to the Lund and Browder chart, which body region's percentage REMAINS CONSTANT (2%) across all age groups from infancy to adulthood?",
     "options": [
-      "Monitor vital signs and signs of improvement or complications.",
-      "Perform PUVA therapy routinely.",
-      "Keep the patient continuously exposed to sunlight.",
-      "Apply KOH to lesions as treatment."
+      "The head",
+      "The neck",
+      "Each thigh",
+      "Each lower leg"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 35,
     "type": "mcq",
-    "stem": "Which complication of impetigo is specifically associated by name with Streptococcus?",
+    "stem": "According to the Lund and Browder chart, the genitalia are assigned a CONSTANT percentage across all ages, similar to the perineum in the Rules of Nine. This percentage is:",
     "options": [
-      "Postherpetic neuralgia",
-      "Post-streptococcal glomerulonephritis",
-      "Psoriatic arthritis",
-      "Onychomycosis"
+      "0.5%",
+      "1%",
+      "2.5%",
+      "9%"
     ],
     "answer": "B"
   },
   {
     "id": 36,
     "type": "mcq",
-    "stem": "Which combination contains ONLY complications of impetigo listed in the notes?",
+    "stem": "According to the Lund and Browder chart, EACH arm is assigned a CONSTANT percentage across all age groups, unlike the head or thigh. This percentage is:",
     "options": [
-      "Abscess formation, cellulitis, post-streptococcal glomerulonephritis",
-      "Psoriatic arthritis, cellulitis, vision loss",
-      "Postherpetic neuralgia, abscess, nail deformity",
-      "Metabolic syndrome, cellulitis, encephalitis"
-    ],
-    "answer": "A"
-  },
-  {
-    "id": 37,
-    "type": "mcq",
-    "stem": "A patient had chickenpox years ago and now develops a painful unilateral band of vesicles. What process BEST explains the new disease according to the notes?",
-    "options": [
-      "New infection with dermatophytes",
-      "Reactivation of dormant Varicella-Zoster Virus",
-      "Rapid autoimmune epidermal proliferation",
-      "Secondary infection with S. pyogenes"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 38,
-    "type": "mcq",
-    "stem": "After recovery from chickenpox, Varicella-Zoster Virus is described as remaining dormant in the:",
-    "options": [
-      "Epidermal stratum corneum",
-      "Sensory nerve ganglia",
-      "Sebaceous glands",
-      "Nail matrix"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 39,
-    "type": "mcq",
-    "stem": "Which sequence MOST accurately represents herpes zoster progression described in the notes?",
-    "options": [
-      "Pain/tingling → red rash → clustered vesicles → vesicles burst and crust",
-      "Honey crust → pain → silvery scales → bullae",
-      "Ring-shaped lesion → joint pain → vesicles → crust",
-      "Pustules → clear centre → unilateral numbness → plaques"
-    ],
-    "answer": "A"
-  },
-  {
-    "id": 40,
-    "type": "mcq",
-    "stem": "Which feature MOST strongly distinguishes herpes zoster from the other conditions in these notes?",
-    "options": [
-      "Pruritus",
-      "Redness",
-      "Unilateral rash following a sensory nerve distribution",
-      "Crusting"
+      "4.5%",
+      "9%",
+      "9.5%",
+      "13%"
     ],
     "answer": "C"
   },
   {
+    "id": 37,
+    "type": "mcq",
+    "stem": "According to the Lund and Browder chart, EACH thigh's assigned percentage INCREASES with age, from approximately 5.5% in infancy to what percentage in adulthood?",
+    "options": [
+      "6.5%",
+      "8%",
+      "9.5%",
+      "13%"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 38,
+    "type": "mcq",
+    "stem": "According to the Lund and Browder chart, EACH lower leg's assigned percentage increases with age, from approximately 5% in infancy to what percentage in adulthood?",
+    "options": [
+      "5.5%",
+      "6%",
+      "7%",
+      "9%"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 39,
+    "type": "mcq",
+    "stem": "According to the Lund and Browder chart, EACH foot is assigned a CONSTANT percentage across all age groups. This percentage is:",
+    "options": [
+      "2.5%",
+      "3.5%",
+      "5%",
+      "7%"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 40,
+    "type": "mcq",
+    "stem": "Regardless of total body surface area involved, particular attention should be paid to burns involving the face, hands, feet, major joints, or:",
+    "options": [
+      "The scalp exclusively",
+      "The genital areas",
+      "The forearms exclusively",
+      "The earlobes exclusively"
+    ],
+    "answer": "B"
+  },
+  {
     "id": 41,
     "type": "mcq",
-    "stem": "The distribution followed by a typical herpes zoster rash is called a:",
-    "options": ["Dermatome", "Plaque", "Bulla", "Tinea"],
-    "answer": "A"
+    "stem": "In pre-hospital emergency management of a THERMAL burn, the affected area or clothing should be wetted with water for approximately how long?",
+    "options": [
+      "5 minutes",
+      "20 minutes",
+      "45 minutes",
+      "2 hours"
+    ],
+    "answer": "B"
   },
   {
     "id": 42,
     "type": "mcq",
-    "stem": "Which symptom may precede the visible herpes zoster rash?",
+    "stem": "For a thermal burn, cooling should be performed using water. Which substance should specifically be AVOIDED for cooling?",
     "options": [
-      "Pain, burning, tingling, numbness or sensitivity",
-      "Honey-coloured crusting",
-      "Nail pitting only",
-      "Clear-centred scaling only"
+      "Room-temperature water",
+      "Ice",
+      "Clean cloth soaked in water",
+      "Saline solution"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 43,
     "type": "mcq",
-    "stem": "Which group contains ONLY common sites for herpes zoster identified in the notes?",
+    "stem": "For a CHEMICAL burn, the emergency management priority is to:",
     "options": [
-      "Chest, abdomen, back, face and neck",
-      "Palms, soles and nails only",
-      "Elbows, knees and lower back only",
-      "Groin, beard and scalp only"
+      "Apply a neutralizing chemical agent immediately",
+      "Rinse off the chemical thoroughly using cool water",
+      "Cover the area with an occlusive dressing before any rinsing",
+      "Apply ice directly to the affected area"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 44,
     "type": "mcq",
-    "stem": "Which patient has a risk factor profile MOST consistent with herpes zoster?",
+    "stem": "If the EYES are affected in a chemical burn, the recommended irrigation fluid is:",
     "options": [
-      "Older adult receiving chemotherapy",
-      "Child with only tight footwear",
-      "Healthy adult sharing a towel",
-      "Young patient with isolated poor hygiene"
+      "Undiluted bleach solution",
+      "Ringer's solution or any similar fluid",
+      "Concentrated saline only, never a balanced solution",
+      "Vinegar to neutralize the chemical"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 45,
     "type": "mcq",
-    "stem": "Which factor is NOT listed as a risk factor for herpes zoster?",
+    "stem": "In an ELECTRICAL burn scenario, the FIRST safety priority before touching the victim is to:",
     "options": [
-      "Increasing age",
-      "Immunosuppressive medication",
-      "Physical or emotional stress",
-      "Wearing damp clothes"
+      "Immediately begin CPR regardless of ongoing electrical contact",
+      "Ensure the power source is switched off",
+      "Pour water on the victim to disperse the current",
+      "Remove the victim's clothing while the current is still active"
     ],
-    "answer": "D"
+    "answer": "B"
   },
   {
     "id": 46,
     "type": "mcq",
-    "stem": "For confirmatory PCR testing of suspected herpes zoster, which specimen is specifically described in the notes?",
+    "stem": "Emergency wound care for a burn victim includes covering the wound with a sterile dressing or clean, dry cloth, and specifically avoiding which action regarding blisters?",
     "options": [
-      "Fluid collected from a vesicle",
-      "Nail scraping",
-      "Hair sample",
-      "Salicylic-acid-treated plaque"
+      "Elevating the affected limb",
+      "Deliberately breaking the blisters",
+      "Assessing blister size",
+      "Documenting blister location"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 47,
     "type": "mcq",
-    "stem": "Which diagnostic method detects genetic material of a specific microorganism and is described as confirmatory for herpes zoster?",
-    "options": ["KOH examination", "PCR", "Skin biopsy", "Patch testing"],
+    "stem": "The basic life-saving approach applied in emergency burn management, following the ABC mnemonic, stands for:",
+    "options": [
+      "Airway, Bleeding, Consciousness",
+      "Airways, Breathing, and Circulation",
+      "Analgesia, Bandaging, Compression",
+      "Assessment, Burn depth, Coverage"
+    ],
     "answer": "B"
   },
   {
     "id": 48,
     "type": "mcq",
-    "stem": "Which group contains ONLY antiviral drugs listed for herpes zoster?",
+    "stem": "A burn victim should be placed NPO (nil per oral) during emergency transport primarily to prevent which complication?",
     "options": [
-      "Acyclovir, valacyclovir, famciclovir",
-      "Acyclovir, fluconazole, famciclovir",
-      "Mupirocin, valacyclovir, acyclovir",
-      "Terbinafine, acyclovir, griseofulvin"
+      "Hypoglycemia",
+      "Aspiration of vomitus",
+      "Dehydration",
+      "Electrolyte imbalance"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 49,
     "type": "mcq",
-    "stem": "According to the notes, antiviral therapy has the greatest stated benefit in reducing shingles severity when commenced within:",
-    "options": ["12 hours", "24 hours", "48 hours", "72 hours"],
-    "answer": "D"
+    "stem": "Upon hospital arrival, a burn patient with an uncertain immunization history should be administered which prophylactic immunization?",
+    "options": [
+      "Hepatitis B vaccine",
+      "Tetanus toxoid",
+      "MMR vaccine",
+      "Rabies vaccine"
+    ],
+    "answer": "B"
   },
   {
     "id": 50,
     "type": "mcq",
-    "stem": "Which drug listed under herpes zoster management is used for pain rather than as an antiviral?",
-    "options": ["Valacyclovir", "Famciclovir", "Gabapentin", "Acyclovir"],
-    "answer": "C"
+    "stem": "Hospital management of a burn patient includes wound dressing and debridement, specifically to remove which tissue?",
+    "options": [
+      "Healthy granulation tissue",
+      "Necrotic burned tissue",
+      "Intact epidermis surrounding the burn",
+      "Unaffected subcutaneous fat"
+    ],
+    "answer": "B"
   },
   {
     "id": 51,
     "type": "mcq",
-    "stem": "Which combination contains one antiviral and one pain medication listed for herpes zoster?",
+    "stem": "The MAIN overarching goal of burn management, encompassing all specific interventions, is to preserve life, prevent further injury, control pain, prevent infection, promote wound healing, prevent complications, and:",
     "options": [
-      "Valacyclovir and gabapentin",
-      "Terbinafine and gabapentin",
-      "Mupirocin and acyclovir",
-      "Methotrexate and paracetamol"
+      "Maximize hospital revenue",
+      "Restore function",
+      "Minimize documentation time",
+      "Eliminate the need for follow-up care"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 52,
     "type": "mcq",
-    "stem": "Which instruction is NOT consistent with the skin-care measures listed for herpes zoster?",
+    "stem": "Nursing management of a burn patient includes evaluating respiration and administering oxygen, reflecting priority concern for which body system, especially in burns involving smoke inhalation?",
     "options": [
-      "Avoid scratching.",
-      "Keep the lesion clean and dry.",
-      "Wear loose clothes.",
-      "Keep the lesion continuously moist."
+      "The renal system",
+      "The respiratory system",
+      "The musculoskeletal system",
+      "The integumentary system exclusively"
     ],
-    "answer": "D"
+    "answer": "B"
   },
   {
     "id": 53,
     "type": "mcq",
-    "stem": "According to the notes, transmission of VZV from a shingles patient to a susceptible person who has never had chickenpox or vaccination would cause that person to develop:",
-    "options": ["Shingles", "Chickenpox", "Psoriasis", "Impetigo"],
+    "stem": "Nutritional support for a burn patient specifically emphasizes a diet high in which nutrients?",
+    "options": [
+      "Low protein, low fluid",
+      "High protein, vitamins, and fluid",
+      "High fat, low protein",
+      "Low calorie, high fiber"
+    ],
     "answer": "B"
   },
   {
     "id": 54,
     "type": "mcq",
-    "stem": "Persistent nerve pain in the affected area after a herpes zoster rash has disappeared is:",
+    "stem": "Passive and active range-of-motion exercises are performed in burn nursing care specifically to prevent which complication?",
     "options": [
-      "Psoriatic arthritis",
-      "Postherpetic neuralgia",
-      "Cellulitis",
-      "Dermatophytosis"
+      "Pressure ulcers exclusively",
+      "Flexion contracture",
+      "Deep vein thrombosis exclusively",
+      "Hypertension"
     ],
     "answer": "B"
   },
   {
     "id": 55,
     "type": "mcq",
-    "stem": "Which herpes zoster complication is described as being more common in older adults?",
+    "stem": "Strict aseptic technique during wound dressing in burn care is emphasized primarily to prevent which complication?",
     "options": [
-      "Postherpetic neuralgia",
-      "Onychomycosis",
-      "Post-streptococcal glomerulonephritis",
-      "Psoriatic arthritis"
+      "Contracture",
+      "Infection",
+      "Hypernatremia",
+      "Anaemia"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 56,
     "type": "mcq",
-    "stem": "Herpes zoster involving which structure is associated with the vision-loss complication specified in the notes?",
+    "stem": "Counseling a burn patient to verbalize fear and monitoring for signs of depression addresses which dimension of burn nursing care?",
     "options": [
-      "Ophthalmic branch of the trigeminal nerve",
-      "Sciatic nerve",
-      "Dermal papilla",
-      "Facial sebaceous gland"
+      "The purely physiological dimension only",
+      "The psychological dimension",
+      "The financial dimension only",
+      "The legal dimension only"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 57,
     "type": "mcq",
-    "stem": "Which group contains ONLY neurological complications of herpes zoster specifically listed in the notes?",
+    "stem": "The nursing diagnosis 'Impaired gas exchange related to inhalation of smoke evidenced by dyspnoea' is MOST relevant to which type of burn exposure?",
     "options": [
-      "Encephalitis, facial paralysis, hearing or balance problems",
-      "Cellulitis, abscess, encephalitis",
-      "Arthritis, nail deformity, facial paralysis",
-      "Glomerulonephritis, hearing loss, cellulitis"
+      "An isolated superficial sunburn",
+      "A burn sustained in an enclosed space fire with smoke inhalation",
+      "A chemical burn to the hand only",
+      "A friction burn to the knee"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 58,
     "type": "mcq",
-    "stem": "A patient has an annular red scaly lesion with a raised border and relatively clear centre. Which diagnosis BEST matches the notes?",
-    "options": ["Psoriasis", "Ringworm", "Impetigo", "Herpes zoster"],
+    "stem": "The nursing diagnosis 'Fluid volume deficit related to fluid loss' in a burn patient is typically evidenced by which finding?",
+    "options": [
+      "Weight gain",
+      "Loss of weight",
+      "Bradycardia exclusively",
+      "Hypertension exclusively"
+    ],
     "answer": "B"
   },
   {
     "id": 59,
     "type": "mcq",
-    "stem": "Ringworm is also referred to in the notes as:",
+    "stem": "The nursing diagnosis 'Pain related to exposure of nerve endings' would be LEAST applicable to which type of burn, given the pathophysiology of nerve destruction?",
     "options": [
-      "Tinea or dermatophytosis",
-      "Shingles or dermatophytosis",
-      "Psoriasis or tinea",
-      "Impetigo or tinea"
+      "A superficial (first-degree) burn",
+      "A superficial partial thickness burn",
+      "A fourth-degree burn, where nerve endings are destroyed",
+      "A deep partial thickness burn"
     ],
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 60,
     "type": "mcq",
-    "stem": "Which statement correctly describes the cause of ringworm?",
+    "stem": "CASE SCENARIO: A 6-year-old child sustains a scald burn from spilled hot soup covering the entire anterior trunk. Using the Lund and Browder chart rather than the adult Rules of Nine, the nurse understands that at this age, the anterior trunk percentage assignment is:",
     "options": [
-      "It is caused by a worm invading the skin.",
-      "It is a fungal infection caused by dermatophytes.",
-      "It is caused by reactivated VZV.",
-      "It is an autoimmune bacterial disease."
+      "Identical to that used for a newborn infant and an adult, since anterior trunk percentage does not change with age in this chart",
+      "Calculated using an entirely separate scale unrelated to any age group",
+      "Impossible to estimate using any chart",
+      "Only applicable to burns above 50% TBSA"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 61,
     "type": "mcq",
-    "stem": "Which dermatophyte genus is identified as the MOST common cause of ringworm in the notes?",
-    "options": ["Microsporum", "Epidermophyton", "Trichophyton", "Staphylococcus"],
-    "answer": "C"
+    "stem": "CASE SCENARIO (continued): The nurse explains to the parents that the Lund and Browder chart is preferred over the adult Rules of Nine chart for this child primarily because:",
+    "options": [
+      "It is faster to calculate in an emergency",
+      "It accounts for the child's differing body proportions compared to an adult",
+      "It requires no training to use",
+      "It eliminates the need for any burn depth assessment"
+    ],
+    "answer": "B"
   },
   {
     "id": 62,
     "type": "mcq",
-    "stem": "Which group contains ONLY genera listed as causes of ringworm?",
+    "stem": "CASE SCENARIO: A patient sustains a burn from spilled battery acid on the forearm. The FIRST priority action, according to emergency burn management principles, is to:",
     "options": [
-      "Trichophyton, Microsporum, Epidermophyton",
-      "Staphylococcus, Trichophyton, Microsporum",
-      "Epidermophyton, Streptococcus, Trichophyton",
-      "Varicella, Microsporum, Epidermophyton"
+      "Apply ice directly to neutralize the chemical",
+      "Rinse the area thoroughly with cool water",
+      "Cover the wound immediately without any rinsing",
+      "Apply a neutralizing alkali solution directly to the skin"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 63,
     "type": "mcq",
-    "stem": "Which tinea-location pairing is CORRECT?",
+    "stem": "CASE SCENARIO (continued): Several hours later, this same patient develops fluid-filled blisters that blanch on pressure and reports significant pain at the site. Based on this presentation, the burn is MOST consistent with which depth classification?",
     "options": [
-      "Tinea corporis — body",
-      "Tinea capitis — groin",
-      "Tinea cruris — scalp",
-      "Tinea barbae — feet"
+      "Superficial (first-degree)",
+      "Superficial partial thickness (second-degree)",
+      "Full thickness (third-degree)",
+      "Fourth-degree"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 64,
     "type": "mcq",
-    "stem": "Which set of tinea-location pairings is entirely CORRECT according to the notes?",
+    "stem": "CASE SCENARIO: A construction worker contacts a live electrical wire and remains in contact with it, unable to release his grip. A bystander rushes to help. The FIRST and most critical action for the bystander is to:",
     "options": [
-      "Capitis–scalp; pedis–feet; cruris–groin",
-      "Capitis–body; pedis–palm; cruris–beard",
-      "Corporis–nails; manuum–scalp; barbae–feet",
-      "Unguium–groin; corporis–beard; pedis–nails"
+      "Immediately grab the worker's arm to pull him away",
+      "Ensure the power source is switched off before making any contact",
+      "Pour water on the worker to disperse the current",
+      "Begin CPR while the worker is still in contact with the live wire"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 65,
     "type": "mcq",
-    "stem": "Tinea manuum affects the:",
-    "options": ["Palm", "Scalp", "Beard", "Nails"],
-    "answer": "A"
+    "stem": "CASE SCENARIO (continued): Once safely removed from the electrical source, examination reveals a burn wound that is black, charred, dry, and completely painless, extending down to visible muscle and tendon. This is MOST consistent with which degree of burn?",
+    "options": [
+      "Superficial (first-degree)",
+      "Superficial partial thickness (second-degree)",
+      "Full thickness (third-degree)",
+      "Fourth-degree"
+    ],
+    "answer": "D"
   },
   {
     "id": 66,
     "type": "mcq",
-    "stem": "Tinea unguium, also identified in the notes as onychomycosis, affects the:",
-    "options": ["Groin", "Nails", "Beard", "Scalp"],
+    "stem": "CASE SCENARIO: A patient with extensive burns covering 40% of total body surface area develops absent bowel sounds and abdominal distension on day 2 post-injury. The nurse recognizes this as most consistent with which complication?",
+    "options": [
+      "Contracture",
+      "Paralytic ileus",
+      "Renal failure",
+      "Skin infection"
+    ],
     "answer": "B"
   },
   {
     "id": 67,
     "type": "mcq",
-    "stem": "A patient develops itching, stinging, burning, blistering, peeling and foul odour between the toes, with spread toward the sole. Which form of ringworm is MOST likely?",
-    "options": ["Tinea capitis", "Tinea pedis", "Tinea barbae", "Tinea manuum"],
+    "stem": "CASE SCENARIO (continued): The same patient's urine output has dropped significantly, and serum creatinine is rising. The nurse understands this is most likely secondary to which mechanism?",
+    "options": [
+      "Direct thermal injury to the renal tubules from the burn itself",
+      "Reduced renal blood flow secondary to hypovolemic shock",
+      "Excessive fluid resuscitation causing renal overload exclusively",
+      "A pre-existing, unrelated congenital renal anomaly"
+    ],
     "answer": "B"
   },
   {
     "id": 68,
     "type": "mcq",
-    "stem": "Which form of ringworm is described as more common in males and begins with discoloration in the area between the leg and where the body meets?",
-    "options": ["Tinea corporis", "Tinea cruris", "Tinea capitis", "Tinea unguium"],
+    "stem": "CASE SCENARIO: A patient recovering from extensive hand burns is noted to be avoiding movement of the fingers due to pain, keeping the hand in a flexed position for several days. The nurse's PRIORITY intervention to prevent a long-term complication is to:",
+    "options": [
+      "Continue to keep the hand immobilized to reduce pain",
+      "Encourage passive and active range-of-motion exercises to prevent flexion contracture",
+      "Apply a tight circumferential dressing to maintain position",
+      "Withhold all analgesia to encourage voluntary movement"
+    ],
     "answer": "B"
   },
   {
     "id": 69,
     "type": "mcq",
-    "stem": "Which combination contains ONLY risk factors for ringworm listed in the notes?",
+    "stem": "CASE SCENARIO: A patient burned in a house fire presents with singed nasal hairs, soot around the mouth, hoarseness, and dyspnoea. The nurse's PRIORITY nursing diagnosis is:",
     "options": [
-      "Warm humid environment, damp clothes, excessive sweating",
-      "Older age, lithium use, emotional stress",
-      "Chemotherapy, beta-blockers, throat infection",
-      "Crowded housing, insect bites, VZV"
+      "Impaired physical mobility related to pain",
+      "Impaired gas exchange related to inhalation of smoke",
+      "Impaired nutrition related to GIT disturbances",
+      "High risk for infection related to wound contamination"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 70,
     "type": "mcq",
-    "stem": "Which transmission route is NOT listed for ringworm?",
+    "stem": "CASE SCENARIO (continued): Given this presentation, the nurse's IMMEDIATE priority action is to:",
     "options": [
-      "Human to human",
-      "Animal to human",
-      "Object to human",
-      "Airborne droplet transmission"
+      "Begin high-protein nutritional supplementation first",
+      "Evaluate respiration and administer oxygen",
+      "Apply topical antibiotic cream to the face first",
+      "Proceed directly to wound debridement before airway assessment"
     ],
-    "answer": "D"
+    "answer": "B"
   },
   {
     "id": 71,
-    "type": "mcq",
-    "stem": "Which set contains all four modes of ringworm transmission given in the notes?",
-    "options": [
-      "Human-human, animal-human, object-human, soil-human",
-      "Human-human, airborne-human, water-human, insect-human",
-      "Animal-human, blood-human, soil-human, droplet-human",
-      "Object-human, food-human, blood-human, human-human"
-    ],
-    "answer": "A"
-  },
-  {
-    "id": 72,
-    "type": "mcq",
-    "stem": "Hair loss in an affected area is particularly relevant when ringworm involves the:",
-    "options": ["Scalp", "Groin", "Feet", "Palm"],
-    "answer": "A"
-  },
-  {
-    "id": 73,
-    "type": "mcq",
-    "stem": "Thickened, brittle or discoloured nails in a patient with dermatophytosis MOST strongly indicate:",
-    "options": ["Tinea corporis", "Tinea unguium", "Tinea cruris", "Tinea barbae"],
-    "answer": "B"
-  },
-  {
-    "id": 74,
-    "type": "mcq",
-    "stem": "During a KOH examination for suspected ringworm, potassium hydroxide is applied to scraped affected skin primarily to:",
-    "options": [
-      "Break down skin cells to make fungal elements easier to view microscopically.",
-      "Identify the exact bacterial species.",
-      "Detect viral DNA directly.",
-      "Produce a honey-coloured crust."
-    ],
-    "answer": "A"
-  },
-  {
-    "id": 75,
-    "type": "mcq",
-    "stem": "Which investigation is used to identify the specific fungus in ringworm?",
-    "options": ["Fungal culture", "PCR only", "Swab culture for bacteria", "PUVA"],
-    "answer": "A"
-  },
-  {
-    "id": 76,
-    "type": "mcq",
-    "stem": "Which diagnostic procedure for ringworm is described as rarely done?",
-    "options": ["History taking", "Physical examination", "Skin biopsy", "KOH examination"],
-    "answer": "C"
-  },
-  {
-    "id": 77,
-    "type": "mcq",
-    "stem": "Which nursing instruction would CONTRADICT the ringworm management described in the notes?",
-    "options": [
-      "Keep affected areas clean and dry.",
-      "Avoid sharing towels and clothing.",
-      "Regularly wash clothes and bed sheets.",
-      "Keep affected areas persistently damp."
-    ],
-    "answer": "D"
-  },
-  {
-    "id": 78,
-    "type": "mcq",
-    "stem": "A household member has ringworm and pets are also present. Which combination of instructions is specifically supported by the notes?",
-    "options": [
-      "Hand hygiene and disinfecting the pet area",
-      "Share towels but disinfect shoes",
-      "Avoid washing bed sheets during treatment",
-      "Scratch lesions before medication"
-    ],
-    "answer": "A"
-  },
-  {
-    "id": 79,
-    "type": "mcq",
-    "stem": "Which oral antifungal is specifically noted as commonly used for tinea capitis?",
-    "options": ["Griseofulvin", "Mupirocin", "Acyclovir", "Methotrexate"],
-    "answer": "A"
-  },
-  {
-    "id": 80,
-    "type": "mcq",
-    "stem": "Which group contains ONLY oral antifungal drugs listed for ringworm?",
-    "options": [
-      "Terbinafine, griseofulvin, itraconazole",
-      "Fluconazole, mupirocin, terbinafine",
-      "Ketoconazole, acyclovir, itraconazole",
-      "Griseofulvin, cephalexin, fluconazole"
-    ],
-    "answer": "A"
-  },
-  {
-    "id": 81,
-    "type": "mcq",
-    "stem": "A patient presents with scaling and pruritus. Which additional finding would MOST specifically favor ringworm over psoriasis using the notes?",
-    "options": [
-      "A clear centre with a raised scaly border",
-      "Silvery-white scales",
-      "Joint stiffness",
-      "Nail pitting"
-    ],
-    "answer": "A"
-  },
-  {
-    "id": 82,
-    "type": "mcq",
-    "stem": "A patient presents with crusted skin lesions. Which finding would MOST specifically favor impetigo rather than herpes zoster?",
-    "options": [
-      "Honey-coloured crusts following rupture of pustules",
-      "Pain before rash appearance",
-      "Unilateral dermatomal distribution",
-      "History of previous chickenpox"
-    ],
-    "answer": "A"
-  },
-  {
-    "id": 83,
-    "type": "mcq",
-    "stem": "A patient presents with vesicles. Which feature MOST strongly favors herpes zoster rather than bullous impetigo?",
-    "options": [
-      "Unilateral distribution following a sensory nerve",
-      "Fluid-filled lesions",
-      "Lesions that eventually rupture",
-      "Possible crust formation"
-    ],
-    "answer": "A"
-  },
-  {
-    "id": 84,
-    "type": "mcq",
-    "stem": "Which disorder-treatment pair is INCORRECT according to the supplied notes?",
-    "options": [
-      "Herpes zoster — valacyclovir",
-      "Ringworm — terbinafine",
-      "Impetigo — mupirocin",
-      "Psoriasis — flucloxacillin as systemic psoriasis therapy"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": 85,
-    "type": "mcq",
-    "stem": "Which diagnostic test-disease pairing is CORRECT?",
-    "options": [
-      "Herpes zoster — PCR of vesicle fluid",
-      "Ringworm — PUVA",
-      "Psoriasis — KOH as the specific test",
-      "Impetigo — PCR as the required confirmatory test"
-    ],
-    "answer": "A"
-  },
-  {
-    "id": 86,
-    "type": "mcq",
-    "stem": "Which combination correctly matches each condition to a particularly characteristic finding?",
-    "options": [
-      "Psoriasis–silvery scales; impetigo–honey crusts; ringworm–clear-centred ring; zoster–unilateral dermatome",
-      "Psoriasis–honey crusts; impetigo–dermatome; ringworm–silvery scales; zoster–clear centre",
-      "Psoriasis–clear centre; impetigo–silvery scales; ringworm–dermatome; zoster–honey crust",
-      "Psoriasis–bullae; impetigo–joint stiffness; ringworm–neuralgia; zoster–nail pitting"
-    ],
-    "answer": "A"
-  },
-  {
-    "id": 87,
-    "type": "mcq",
-    "stem": "Which disease-pathogen category pairing is entirely CORRECT?",
-    "options": [
-      "Impetigo–bacterial; ringworm–fungal; herpes zoster–viral; psoriasis–autoimmune inflammatory",
-      "Impetigo–fungal; ringworm–viral; herpes zoster–bacterial; psoriasis–parasitic",
-      "Impetigo–viral; ringworm–autoimmune; herpes zoster–fungal; psoriasis–bacterial",
-      "Impetigo–autoimmune; ringworm–bacterial; herpes zoster–parasitic; psoriasis–viral"
-    ],
-    "answer": "A"
-  },
-  {
-    "id": 88,
-    "type": "mcq",
-    "stem": "A skin lesion follows trauma and later develops into thick red plaques with silvery scales rather than a contagious infection. Which disease in the notes explicitly lists skin injury/trauma among associated environmental factors?",
-    "options": ["Psoriasis", "Impetigo", "Ringworm", "Herpes zoster"],
-    "answer": "A"
-  },
-  {
-    "id": 89,
-    "type": "mcq",
-    "stem": "Which statement MOST accurately differentiates psoriasis from ringworm?",
-    "options": [
-      "Psoriasis is non-contagious and autoimmune inflammatory, whereas ringworm is a contagious dermatophyte infection.",
-      "Both are bacterial infections.",
-      "Psoriasis is fungal whereas ringworm is autoimmune.",
-      "Both result from dormant VZV."
-    ],
-    "answer": "A"
-  },
-  {
-    "id": 90,
-    "type": "mcq",
-    "stem": "A burn is defined in the notes as injury to skin or other tissues caused by which set of agents?",
-    "options": [
-      "Heat, chemicals, electricity, radiation or friction",
-      "Heat, bacteria, fungi, allergens or pressure",
-      "Electricity, fungi, viruses, radiation or pressure",
-      "Chemicals, autoimmunity, infection, stress or friction"
-    ],
-    "answer": "A"
-  },
-  {
-    "id": 91,
-    "type": "mcq",
-    "stem": "Which cause-example pairing for burns is INCORRECT according to the notes?",
-    "options": [
-      "Electrical — electrical current",
-      "Thermal — hot liquids or steam",
-      "Chemical — acid or alkali",
-      "Radiation — repeated rubbing of skin on a surface"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": 92,
-    "type": "mcq",
-    "stem": "A patient is injured by hot steam. Under the classification of causes presented in the notes, this is a:",
-    "options": ["Chemical burn", "Thermal burn", "Radiation burn", "Friction burn"],
-    "answer": "B"
-  },
-  {
-    "id": 93,
-    "type": "mcq",
-    "stem": "Repeated rubbing of skin against a surface produces which type of burn according to the notes?",
-    "options": ["Thermal", "Chemical", "Friction", "Radiation"],
-    "answer": "C"
-  },
-  {
-    "id": 94,
-    "type": "mcq",
-    "stem": "Sunlight and radiation therapy are listed as examples of which burn cause?",
-    "options": ["Radiation", "Chemical", "Thermal", "Electrical"],
-    "answer": "A"
-  },
-  {
-    "id": 95,
-    "type": "mcq",
-    "stem": "The visible portion of the burns classification in the supplied notes states that burns may be classified on the basis of:",
-    "options": [
-      "Depth and extent of body surface area involved",
-      "Pathogen and incubation period",
-      "Age and immune status only",
-      "Pain and bacterial culture only"
-    ],
-    "answer": "A"
-  },
-  {
-    "id": 96,
     "type": "fitb",
-    "stem": "The persistent nerve pain that remains after a herpes zoster rash has disappeared is called __________.",
-    "answer": "postherpetic neuralgia",
-    "acceptableAnswers": ["postherpetic neuralgia", "post-herpetic neuralgia"]
-  },
-  {
-    "id": 97,
-    "type": "fitb",
-    "stem": "The three dermatophyte genera listed as causes of ringworm are __________, __________ and __________.",
-    "answer": "Trichophyton; Microsporum; Epidermophyton",
+    "stem": "A superficial (first-degree) burn affects only the ___________ and heals within ___________ to ___________ days without scarring.",
+    "answer": "epidermis; 3; 7",
     "acceptableAnswers": [
-      "Trichophyton, Microsporum and Epidermophyton",
-      "Trichophyton; Microsporum; Epidermophyton",
-      "Trichophyton, Microsporum, Epidermophyton"
+      "epidermis; 3; 7"
     ]
   },
   {
-    "id": 98,
+    "id": 72,
     "type": "fitb",
-    "stem": "The classic crust colour associated with impetigo is __________-coloured.",
-    "answer": "honey",
-    "acceptableAnswers": ["honey", "honey-coloured", "honey colored"]
+    "stem": "Superficial partial thickness burns affect the epidermis and the ___________ layer of the dermis, healing within ___________ to ___________ days.",
+    "answer": "papillary; 10; 21",
+    "acceptableAnswers": [
+      "papillary; 10; 21"
+    ]
   },
   {
-    "id": 99,
+    "id": 73,
     "type": "fitb",
-    "stem": "The psoriasis phototherapy that combines psoralen with ultraviolet A is abbreviated __________.",
-    "answer": "PUVA",
-    "acceptableAnswers": ["PUVA", "puva"]
+    "stem": "Deep partial thickness burns extend into the ___________ layer of the dermis, take more than ___________ weeks to heal, and are likely to result in a ___________.",
+    "answer": "reticular; 3; scar",
+    "acceptableAnswers": [
+      "reticular; 3; scar"
+    ]
   },
   {
-    "id": 100,
+    "id": 74,
     "type": "fitb",
-    "stem": "The potassium hydroxide examination used to facilitate microscopic visualization of fungi in scraped skin is abbreviated __________.",
-    "answer": "KOH",
-    "acceptableAnswers": ["KOH", "KOH exam", "KOH examination", "potassium hydroxide examination"]
+    "stem": "Full thickness (third-degree) burns extend through the epidermis and dermis into the ___________, and the resulting dead tissue is called ___________.",
+    "answer": "subcutaneous fat; eschar",
+    "acceptableAnswers": [
+      "subcutaneous fat; eschar"
+    ]
+  },
+  {
+    "id": 75,
+    "type": "fitb",
+    "stem": "Fourth-degree burns extend into the fascia, muscles, tendons, and bones, and are characteristically black, charred, dry, necrotic, and ___________.",
+    "answer": "painless",
+    "acceptableAnswers": [
+      "painless",
+      "completely painless"
+    ]
+  },
+  {
+    "id": 76,
+    "type": "fitb",
+    "stem": "In the adult Rules of Nine chart, the head and neck represent ___________%, each arm represents ___________%, and each leg represents ___________%.",
+    "answer": "9; 9; 18",
+    "acceptableAnswers": [
+      "9; 9; 18"
+    ]
+  },
+  {
+    "id": 77,
+    "type": "fitb",
+    "stem": "In the adult Rules of Nine chart, the anterior trunk represents ___________%, the posterior trunk represents ___________%, and the perineum represents ___________%.",
+    "answer": "18; 18; 1",
+    "acceptableAnswers": [
+      "18; 18; 1"
+    ]
+  },
+  {
+    "id": 78,
+    "type": "fitb",
+    "stem": "The Rules of Nine chart is less accurate in ___________ because their body proportions differ from those of an ___________.",
+    "answer": "children; adult",
+    "acceptableAnswers": [
+      "children; adult"
+    ]
+  },
+  {
+    "id": 79,
+    "type": "fitb",
+    "stem": "The ___________ and ___________ chart is more accurate than the Rules of Nine, especially in children, because it accounts for body proportion changes with age.",
+    "answer": "Lund; Browder",
+    "acceptableAnswers": [
+      "Lund; Browder"
+    ]
+  },
+  {
+    "id": 80,
+    "type": "fitb",
+    "stem": "On the Lund and Browder chart, the head represents ___________% of body surface area in a newborn infant, decreasing to ___________% in an adult.",
+    "answer": "19; 7",
+    "acceptableAnswers": [
+      "19; 7"
+    ]
+  },
+  {
+    "id": 81,
+    "type": "fitb",
+    "stem": "On the Lund and Browder chart, the neck is assigned a constant ___________% across all ages, and the genitalia are assigned a constant ___________%.",
+    "answer": "2; 1",
+    "acceptableAnswers": [
+      "2; 1"
+    ]
+  },
+  {
+    "id": 82,
+    "type": "fitb",
+    "stem": "On the Lund and Browder chart, each arm is assigned a constant ___________% across all ages, and each foot is assigned a constant ___________%.",
+    "answer": "9.5; 3.5",
+    "acceptableAnswers": [
+      "9.5; 3.5"
+    ]
+  },
+  {
+    "id": 83,
+    "type": "fitb",
+    "stem": "Special attention should be paid in burns involving the face, hands, feet, major joints, or ___________ areas.",
+    "answer": "genital",
+    "acceptableAnswers": [
+      "genital"
+    ]
+  },
+  {
+    "id": 84,
+    "type": "fitb",
+    "stem": "For a thermal burn, the affected area should be wetted with water for about ___________ minutes; ___________ should not be used for cooling.",
+    "answer": "20; ice",
+    "acceptableAnswers": [
+      "20; ice"
+    ]
+  },
+  {
+    "id": 85,
+    "type": "fitb",
+    "stem": "For a chemical burn affecting the eyes, the recommended irrigation fluid is ___________ solution.",
+    "answer": "Ringer's",
+    "acceptableAnswers": [
+      "Ringer's",
+      "Ringers"
+    ]
+  },
+  {
+    "id": 86,
+    "type": "fitb",
+    "stem": "In an electrical burn, the rescuer must not touch the victim until the ___________ ___________ has been switched off.",
+    "answer": "power source",
+    "acceptableAnswers": [
+      "power source"
+    ]
+  },
+  {
+    "id": 87,
+    "type": "fitb",
+    "stem": "The basic life-saving approach in emergency burn management follows the ABC mnemonic: ___________, ___________, and Circulation.",
+    "answer": "Airways; Breathing",
+    "acceptableAnswers": [
+      "Airways; Breathing"
+    ]
+  },
+  {
+    "id": 88,
+    "type": "fitb",
+    "stem": "A burn victim should be kept ___________ ___________ (nil per oral) during transport to prevent aspiration of vomitus.",
+    "answer": "nil per oral",
+    "acceptableAnswers": [
+      "nil per oral",
+      "NPO"
+    ]
+  },
+  {
+    "id": 89,
+    "type": "fitb",
+    "stem": "The overarching goals of burn management are to preserve life, prevent further injury, control ___________, prevent ___________, promote wound healing, prevent complications, and restore function.",
+    "answer": "pain; infection",
+    "acceptableAnswers": [
+      "pain; infection"
+    ]
+  },
+  {
+    "id": 90,
+    "type": "fitb",
+    "stem": "Complications of severe burns include paralytic ileus, infection, ___________ shock, contracture, loss of body part, ___________ failure, and anaemia.",
+    "answer": "hypovolemic; renal",
+    "acceptableAnswers": [
+      "hypovolemic; renal"
+    ]
+  },
+  {
+    "type": "fitb",
+    "stem": "A burn caused by acid or alkali exposure is classified as a ___________ burn.",
+    "answer": "chemical",
+    "acceptableAnswers": [
+      "chemical"
+    ],
+    "id": 91
+  },
+  {
+    "type": "fitb",
+    "stem": "Fourth-degree burns typically require extensive ___________ and possible ___________.",
+    "answer": "surgery; amputation",
+    "acceptableAnswers": [
+      "surgery; amputation"
+    ],
+    "id": 92
+  },
+  {
+    "type": "fitb",
+    "stem": "On the Lund and Browder chart, each thigh increases from about ___________% in infancy to ___________% in adulthood.",
+    "answer": "5.5; 9.5",
+    "acceptableAnswers": [
+      "5.5; 9.5"
+    ],
+    "id": 93
+  },
+  {
+    "type": "fitb",
+    "stem": "On the Lund and Browder chart, each lower leg increases from about ___________% in infancy to ___________% in adulthood.",
+    "answer": "5; 7",
+    "acceptableAnswers": [
+      "5; 7"
+    ],
+    "id": 94
+  },
+  {
+    "type": "fitb",
+    "stem": "Hospital management of burns includes administering ___________ toxoid, IV or IM analgesics, wound debridement, and IV or IM ___________.",
+    "answer": "tetanus; antibiotics",
+    "acceptableAnswers": [
+      "tetanus; antibiotics"
+    ],
+    "id": 95
+  },
+  {
+    "type": "fitb",
+    "stem": "Nutritional support for burn patients emphasizes a diet high in ___________, vitamins, and ___________.",
+    "answer": "protein; fluid",
+    "acceptableAnswers": [
+      "protein; fluid"
+    ],
+    "id": 96
+  },
+  {
+    "type": "fitb",
+    "stem": "Passive and active motion exercises in burn care are performed specifically to prevent ___________ contracture.",
+    "answer": "flexion",
+    "acceptableAnswers": [
+      "flexion"
+    ],
+    "id": 97
+  },
+  {
+    "type": "fitb",
+    "stem": "The nursing diagnosis of impaired gas exchange in a burn patient is related to inhalation of ___________, evidenced by ___________.",
+    "answer": "smoke; dyspnoea",
+    "acceptableAnswers": [
+      "smoke; dyspnoea"
+    ],
+    "id": 98
+  },
+  {
+    "type": "fitb",
+    "stem": "Renal failure as a burn complication occurs due to ___________ reducing blood flow to the ___________.",
+    "answer": "shock; kidney",
+    "acceptableAnswers": [
+      "shock; kidney"
+    ],
+    "id": 99
+  },
+  {
+    "type": "fitb",
+    "stem": "For a chemical burn (other than the eyes), the skin should be rinsed thoroughly using ___________ water.",
+    "answer": "cool",
+    "acceptableAnswers": [
+      "cool"
+    ],
+    "id": 100
   }
 ]
