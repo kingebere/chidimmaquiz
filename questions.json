@@ -2,1154 +2,1163 @@
   {
     "id": 1,
     "type": "mcq",
-    "stem": "A patient with Ménière's disease suddenly develops intense vertigo after increasing aural pressure. Which event most directly explains the abrupt onset of the attack?",
+    "stem": "A passenger reading inside a moving ship reports epigastric warmth followed by dizziness and nausea. Which physiological conflict most directly initiated these symptoms?",
     "options": [
-      "Progressive fibrosis of the tympanic membrane",
-      "Rupture of Reissner membrane with mixing of endolymph and perilymph",
-      "Gradual degeneration of the vestibular nerve",
-      "Obstruction of the external auditory canal"
+      "Proprioceptors signal acceleration while the vestibular system signals complete immobility",
+      "The vestibular system detects acceleration and tilting while visual fixation on the cabin signals stillness",
+      "The visual system detects acceleration while both vestibular and proprioceptive systems are inactive",
+      "The vomiting center generates contradictory signals that subsequently activate the vestibular apparatus"
     ],
     "answer": "B"
   },
   {
     "id": 2,
     "type": "mcq",
-    "stem": "Which sequence most accurately represents the pathophysiologic progression of an acute Ménière's attack?",
+    "stem": "Which sequence most accurately represents the pathophysiology of motion sickness described in the notes?",
     "options": [
-      "Endolymph depletion → membrane collapse → sodium loss → cochlear stimulation",
-      "Perilymph overproduction → tympanic rupture → potassium depletion → neural excitation",
-      "Endolymph accumulation → increased hydrostatic pressure → membrane rupture → abnormal electrolyte mixing → neural blockade",
-      "Vestibular nerve degeneration → middle-ear pressure → membrane rupture → endolymph drainage"
+      "Visual stimulation → cochlear activation → cortical inhibition → vomiting",
+      "Proprioceptive suppression → vestibular paralysis → CTZ inhibition → nausea",
+      "Sensory mismatch → vestibular nuclei disruption → vestibulocerebellar signaling → CTZ/vomiting-center stimulation → autonomic activation",
+      "Autonomic activation → sensory mismatch → visual suppression → vestibular adaptation"
     ],
     "answer": "C"
   },
   {
     "id": 3,
     "type": "mcq",
-    "stem": "A student states that the recurrent nature of Ménière's attacks means the cochlear and vestibular structures completely recover after each episode. Which finding most strongly disproves this interpretation?",
+    "stem": "A patient develops nausea while using a flight simulator despite remaining physically stationary. Which theory best explains this?",
     "options": [
-      "Repeated membrane ruptures eventually produce permanent hair-cell destruction",
-      "Aural fullness can precede an attack",
-      "Vertigo can last several hours",
-      "Nystagmus occurs during acute episodes"
+      "Sensory Conflict Theory",
+      "Endolymphatic Hydrops Theory",
+      "Peripheral Fatigue Theory",
+      "Cochlear Recruitment Theory"
     ],
     "answer": "A"
   },
   {
     "id": 4,
     "type": "mcq",
-    "stem": "The abnormal fluid accumulation responsible for endolymphatic hydrops occurs primarily within the:",
+    "stem": "Which sensory pathway is NOT included in the sensory triad responsible for maintaining spatial orientation in the lecture notes?",
     "options": [
-      "Middle-ear cavity",
-      "External auditory canal",
-      "Perilymphatic space exclusively",
-      "Membranous labyrinth"
+      "Visual",
+      "Vestibular",
+      "Proprioceptive",
+      "Auditory"
     ],
     "answer": "D"
   },
   {
     "id": 5,
     "type": "mcq",
-    "stem": "Which electrolyte relationship becomes clinically important when Reissner membrane ruptures?",
+    "stem": "A traveler sits inside a ship cabin and stares continuously at a stationary wall. Why can this worsen motion sickness?",
     "options": [
-      "Potassium-rich endolymph mixes with sodium-rich perilymph",
-      "Sodium-rich endolymph mixes with potassium-rich perilymph",
-      "Calcium-rich perilymph mixes with sodium-rich endolymph",
-      "Potassium-rich perilymph mixes with calcium-rich endolymph"
+      "The visual system reports stillness while the vestibular system detects movement",
+      "The eyes stimulate excessive endolymph production",
+      "The stationary wall suppresses proprioception",
+      "Visual fixation directly activates the CTZ independently of vestibular input"
     ],
     "answer": "A"
   },
   {
     "id": 6,
     "type": "mcq",
-    "stem": "Why can hearing fluctuate during the earlier course of Ménière's disease yet become permanently impaired later?",
+    "stem": "Which anatomical structures provide the vestibular component of the sensory triad?",
     "options": [
-      "The auditory nerve regenerates between early attacks but loses this ability with age",
-      "Early membrane healing can restore the pressure gradient, whereas repeated ruptures progressively destroy hair cells",
-      "The tympanic membrane repeatedly perforates and eventually becomes scarred",
-      "Early disease is conductive and later disease becomes purely central"
+      "Cochlea and Organ of Corti",
+      "Semicircular canals and otoliths",
+      "Retina and optic nerve",
+      "Muscles and joint receptors"
     ],
     "answer": "B"
   },
   {
     "id": 7,
     "type": "mcq",
-    "stem": "A patient reports recurrent spinning attacks lasting approximately 90 minutes, roaring tinnitus, fluctuating hearing, and pressure in one ear. Which additional finding during an attack would be most consistent with the notes?",
+    "stem": "Somatosensory receptors in muscles and joints contribute to motion perception primarily through which system?",
     "options": [
-      "Loss of consciousness",
-      "Hyperreflexia",
-      "Nystagmus",
-      "Fixed dilated pupils"
+      "Vestibular",
+      "Visual",
+      "Proprioceptive",
+      "Auditory"
     ],
     "answer": "C"
   },
   {
     "id": 8,
     "type": "mcq",
-    "stem": "Which feature best distinguishes the early hearing pattern of Ménière's disease from the high-frequency loss commonly associated with presbycusis?",
+    "stem": "Following sensory mismatch, vestibular signals ultimately stimulate which structures responsible for nausea and vomiting?",
     "options": [
-      "Early preferential impairment of low-frequency tones",
-      "Complete bilateral deafness at onset",
-      "Conductive hearing loss during vertigo",
-      "Selective loss of speech comprehension with normal audiometry"
-    ],
-    "answer": "A"
-  },
-  {
-    "id": 9,
-    "type": "mcq",
-    "stem": "A patient describes a 'roaring ocean' sound that becomes more intense shortly before severe vertigo. Which manifestation is being described?",
-    "options": [
-      "Aural fullness",
-      "Vestibular paresis",
-      "Tinnitus",
-      "Nystagmus"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": 10,
-    "type": "mcq",
-    "stem": "A sensation of weight, pressure, or a stuffed ear in Ménière's disease is most directly attributed to:",
-    "options": [
-      "Reduced cerebral blood flow",
-      "Increased fluid volume within the labyrinth",
-      "Auditory cortical suppression",
-      "Stapes fixation"
+      "Auditory cortex and cochlear nuclei",
+      "CTZ and vomiting center in the medulla",
+      "Hypothalamus and pituitary gland",
+      "Spinal cord and peripheral ganglia"
     ],
     "answer": "B"
   },
   {
+    "id": 9,
+    "type": "mcq",
+    "stem": "The prominent pallor, diaphoresis, salivation, and cardiovascular changes of motion sickness are best explained by:",
+    "options": [
+      "Autonomic activation following vestibular mismatch",
+      "Acute cochlear destruction",
+      "Suppression of the medullary vomiting center",
+      "Loss of proprioceptive receptors"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 10,
+    "type": "mcq",
+    "stem": "Which receptor combination provides the strongest pharmacologic rationale for the medications emphasized in the lecture?",
+    "options": [
+      "Dopamine D2 and serotonin 5-HT3",
+      "Beta-1 and alpha-1",
+      "Histamine H1 and muscarinic acetylcholine",
+      "GABA and opioid"
+    ],
+    "answer": "C"
+  },
+  {
     "id": 11,
     "type": "mcq",
-    "stem": "Which symptom cluster most strongly supports Ménière's disease according to the lecture notes?",
+    "stem": "A researcher selectively blocks muscarinic signaling within the vestibular nuclei. Which medication from the lecture most closely produces this effect clinically?",
     "options": [
-      "Continuous vertigo, conductive hearing loss, pulsatile tinnitus, ear drainage",
-      "Episodic vertigo, fluctuating sensorineural hearing loss, tinnitus, aural fullness",
-      "Syncope, high-frequency conductive loss, tinnitus, headache",
-      "Brief positional dizziness, normal hearing, ear pain, fever"
+      "Caffeine",
+      "Scopolamine",
+      "Ephedrine",
+      "Ginger"
     ],
     "answer": "B"
   },
   {
     "id": 12,
     "type": "mcq",
-    "stem": "Which patient history would be least consistent with the characteristic vertigo described in the notes?",
+    "stem": "Why are first-generation antihistamines useful for motion sickness according to the notes?",
     "options": [
-      "Severe spinning lasting 45 minutes",
-      "A two-hour episode accompanied by vomiting",
-      "A sudden episode accompanied by pallor and diaphoresis",
-      "A spinning sensation lasting three seconds with no other auditory symptoms"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": 13,
-    "type": "mcq",
-    "stem": "During early Ménière's disease, pure-tone audiometry is expected to show which configuration?",
-    "options": [
-      "Upward-sloping sensory configuration reflecting low-frequency impairment",
-      "Flat conductive loss caused by ossicular fixation",
-      "Downward-sloping pattern caused exclusively by high-frequency destruction",
-      "Normal thresholds despite complete vestibular failure"
+      "They block H1 histamine and central cholinergic pathways",
+      "They permanently suppress otolith activity",
+      "They stimulate the medullary vomiting center until adaptation occurs",
+      "They selectively increase proprioceptive signaling"
     ],
     "answer": "A"
   },
   {
+    "id": 13,
+    "type": "mcq",
+    "stem": "Which patient falls within the age range described as having peak susceptibility to motion sickness?",
+    "options": [
+      "A 35-year-old",
+      "A 67-year-old",
+      "An 8-year-old",
+      "A 19-year-old"
+    ],
+    "answer": "C"
+  },
+  {
     "id": 14,
     "type": "mcq",
-    "stem": "The early audiometric pattern in Ménière's disease reflects preferential dysfunction involving sound processing in which cochlear region?",
+    "stem": "Which epidemiological pattern is most consistent with the lecture notes?",
     "options": [
-      "Base",
-      "Apex",
-      "Round window",
-      "Vestibular nerve"
+      "Susceptibility increases progressively throughout adulthood",
+      "Motion sickness peaks during late childhood/early adolescence and tends to decline in adulthood",
+      "Infants and adults over 70 are the exclusive high-risk populations",
+      "Age has no relationship to susceptibility"
     ],
     "answer": "B"
   },
   {
     "id": 15,
     "type": "mcq",
-    "stem": "ENG/VNG testing demonstrates a reduced response after caloric stimulation of the symptomatic ear. This finding is most consistent with:",
+    "stem": "Which patient characteristic would increase susceptibility according to the lecture?",
     "options": [
-      "Vestibular paresis on the affected side",
-      "Normal vestibular function",
-      "Conductive deafness",
-      "Contralateral cochlear hyperactivity"
+      "Pregnancy",
+      "Male sex alone",
+      "Advanced adulthood without vestibular disease",
+      "Absence of migraine history"
     ],
     "answer": "A"
   },
   {
     "id": 16,
     "type": "mcq",
-    "stem": "A patient receives oral osmotic glycerol and demonstrates transient improvement in hearing thresholds two hours later. Which mechanism does this finding support?",
+    "stem": "A woman reports substantially worse carsickness during menstruation. Which explanation is most consistent with the notes?",
     "options": [
-      "Ossicular fixation",
-      "Endolymphatic hydrops",
-      "Auditory cortical dysfunction",
-      "Tympanic membrane perforation"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 17,
-    "type": "mcq",
-    "stem": "Which response to a glycerol dehydration test would support the diagnosis described in the notes?",
-    "options": [
-      "Permanent hearing normalization after 24 hours",
-      "Transient improvement in hearing thresholds 1–3 hours after glycerol",
-      "Immediate induction of conductive hearing loss",
-      "Complete elimination of tinnitus without threshold change"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 18,
-    "type": "mcq",
-    "stem": "Which assessment detail would be most useful for identifying a possible aura preceding a Ménière's attack?",
-    "options": [
-      "Whether the patient experiences rising ear fullness or localized pressure",
-      "Whether the patient develops fever after eating",
-      "Whether hearing improves permanently after sleep",
-      "Whether the patient has external-ear tenderness"
+      "Hormonal influences can increase susceptibility in women",
+      "Menstruation causes permanent vestibular destruction",
+      "Blood loss directly stimulates the CTZ",
+      "Menstruation eliminates proprioceptive compensation"
     ],
     "answer": "A"
   },
   {
+    "id": 17,
+    "type": "mcq",
+    "stem": "Which comorbidity would make a history of severe motion sickness less surprising?",
+    "options": [
+      "Migraine",
+      "Isolated dermatitis",
+      "Otosclerosis only",
+      "Myopia"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 18,
+    "type": "mcq",
+    "stem": "Which vestibular disorder is specifically identified as associated with increased motion-sickness susceptibility?",
+    "options": [
+      "Otitis externa",
+      "Ménière's disease",
+      "Cerumen impaction",
+      "Tympanic perforation"
+    ],
+    "answer": "B"
+  },
+  {
     "id": 19,
     "type": "mcq",
-    "stem": "A patient suddenly falls violently to the floor but remains fully conscious. The patient has known Ménière's disease. Which complication should the nurse suspect?",
+    "stem": "A patient reports an unusual hollow, warm sensation in the stomach before nausea begins. How should the nurse interpret this finding?",
     "options": [
-      "Syncope",
-      "Tumarkin's otolithic crisis",
-      "Generalized seizure",
-      "Acute acoustic neuroma"
+      "A late sign of volume depletion",
+      "An early manifestation called epigastric awareness",
+      "Evidence of gastrointestinal infection",
+      "A contraindication to antihistamines"
     ],
     "answer": "B"
   },
   {
     "id": 20,
     "type": "mcq",
-    "stem": "Which feature is essential for distinguishing the drop attack described in the notes from an episode involving true loss of consciousness?",
+    "stem": "Which finding represents an early rather than advanced manifestation?",
     "options": [
-      "Severe tinnitus is absent",
-      "The patient remains conscious",
-      "Hearing immediately becomes normal",
-      "Vertigo must last more than six hours"
+      "Progressive intense nausea",
+      "Extreme weakness",
+      "Epigastric awareness",
+      "Hyperosmia triggering emesis"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 21,
     "type": "mcq",
-    "stem": "The mechanical event underlying Tumarkin's crisis involves sudden deformation of the:",
+    "stem": "A patient develops profound drowsiness and lethargy during prolonged motion exposure before vomiting. Which term from the notes describes this manifestation?",
     "options": [
-      "Otolith organs",
-      "Tympanic membrane",
-      "Auditory cortex",
-      "Ossicular chain"
+      "Sopite syndrome",
+      "Otolithic crisis",
+      "Hydrops syndrome",
+      "Central vestibular blockade"
     ],
     "answer": "A"
   },
   {
     "id": 22,
     "type": "mcq",
-    "stem": "Which nursing priority is most important for a patient with a history of Tumarkin drop attacks?",
+    "stem": "A motion-sick passenger suddenly finds perfume and food odors intolerably intense and immediately becomes more nauseated. Which advanced symptom is present?",
     "options": [
-      "Restrict speech",
-      "Institute rigorous fall precautions",
-      "Increase sodium intake before ambulation",
-      "Encourage independent walking during attacks"
+      "Hypoesthesia",
+      "Hyperosmia",
+      "Photophobia",
+      "Dysgeusia"
     ],
     "answer": "B"
   },
   {
     "id": 23,
     "type": "mcq",
-    "stem": "A patient in an acute Ménière's crisis receives meclizine. Which therapeutic mechanism best explains its use?",
+    "stem": "Which combination contains only objective clinical signs described in the lecture?",
     "options": [
-      "It permanently destroys vestibular hair cells",
-      "It depresses CNS and labyrinthine excitability",
-      "It drains endolymph through a surgical shunt",
-      "It restores damaged cochlear hair cells"
+      "Headache, nausea, weakness",
+      "Dizziness, lethargy, epigastric awareness",
+      "Pallor, cold diaphoresis, hypersalivation",
+      "Hyperosmia, nausea, headache"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 24,
     "type": "mcq",
-    "stem": "Which medication is paired correctly with its class in acute Ménière's management?",
+    "stem": "Which gastrointestinal observation indicates increasing autonomic activation before or during vomiting?",
     "options": [
-      "Diazepam — benzodiazepine vestibular suppressant",
-      "Ondansetron — diuretic",
-      "Hydrochlorothiazide — antihistamine",
-      "Betahistine — aminoglycoside"
+      "Reduced swallowing and xerostomia",
+      "Hypersalivation and frequent swallowing",
+      "Constipation and abdominal rigidity",
+      "Absent gag reflex"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 25,
     "type": "mcq",
-    "stem": "A patient receives diazepam during a severe vertigo episode. Which assessment cluster is most directly related to the nursing concerns in the notes?",
+    "stem": "Which heart-rate sequence is described during progression of motion sickness?",
     "options": [
-      "Hyperglycemia, hypertension, and tinnitus",
-      "Sedation, respiratory depression, and gait unsteadiness",
-      "Hearing improvement, polyuria, and bradycardia",
-      "Hyperreflexia, insomnia, and hypertension"
+      "Initial tachycardia followed invariably by profound bradycardia",
+      "Initial bradycardia followed by tachycardia during active distress",
+      "Persistent bradycardia without variation",
+      "Heart rate remains unaffected"
     ],
     "answer": "B"
   },
   {
     "id": 26,
     "type": "mcq",
-    "stem": "A patient is vomiting repeatedly during an acute attack. Which medication from the notes is intended primarily to control this manifestation rather than vestibular excitability?",
+    "stem": "Which respiratory alteration can accompany motion sickness?",
     "options": [
-      "Meclizine",
-      "Hydrochlorothiazide",
-      "Ondansetron",
-      "Betahistine"
+      "Hyperventilation or sighing respirations",
+      "Obligatory apnea",
+      "Kussmaul breathing exclusively",
+      "Permanent respiratory paralysis"
     ],
-    "answer": "C"
+    "answer": "A"
   },
   {
     "id": 27,
     "type": "mcq",
-    "stem": "Which medication-monitoring pair is correctly matched?",
+    "stem": "Why does the lecture emphasize prevention before motion exposure?",
     "options": [
-      "Ondansetron — QT prolongation",
-      "Meclizine — serum potassium depletion as its primary listed concern",
-      "Hydrochlorothiazide — extrapyramidal symptoms",
-      "Betahistine — respiratory depression"
+      "Interventions become substantially less effective after the vomiting center is fully activated",
+      "Motion sickness becomes permanently incurable after one episode of vomiting",
+      "Antihistamines work only after dehydration occurs",
+      "The vestibular apparatus is destroyed once vomiting starts"
     ],
     "answer": "A"
   },
   {
     "id": 28,
     "type": "mcq",
-    "stem": "Which adverse effect should the nurse particularly monitor after administering prochlorperazine during an acute crisis?",
+    "stem": "A patient asks for scopolamine after vomiting has already become severe. Which principle explains why earlier administration would have been preferable?",
     "options": [
-      "Endolymphatic rupture",
-      "Extrapyramidal symptoms",
-      "Permanent vestibular ablation",
-      "Cochlear fibrosis"
+      "Preventive therapy is crucial because treatment is less effective once vomiting begins",
+      "Scopolamine requires active vomiting for absorption",
+      "The medication works only after vestibular destruction",
+      "Muscarinic receptors disappear once nausea develops"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 29,
     "type": "mcq",
-    "stem": "Which drug is used for long-term reduction of extracellular and endolymphatic fluid volume rather than immediate suppression of an acute attack?",
+    "stem": "Where should a transdermal scopolamine patch be applied according to the notes?",
     "options": [
-      "Diazepam",
-      "Ondansetron",
-      "Hydrochlorothiazide",
-      "Prochlorperazine"
+      "Directly over the sternum",
+      "To a hairless area behind the ear",
+      "To the forehead",
+      "Inside the external auditory canal"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 30,
     "type": "mcq",
-    "stem": "A patient receiving maintenance diuretic therapy requires monitoring of which combination according to the notes?",
+    "stem": "A traveler will depart at 2:00 PM. Based strictly on the notes, by approximately what time should the scopolamine patch already be applied?",
     "options": [
-      "Serum potassium, blood pressure, hydration status",
-      "Visual acuity, intracranial pressure, respiratory rate",
-      "Calcium, pupil response, speech pattern",
-      "Audiometry every hour, QT interval, respiratory depth"
+      "1:30 PM",
+      "2:00 PM",
+      "10:00 AM or earlier",
+      "Only after nausea begins"
     ],
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 31,
     "type": "mcq",
-    "stem": "Which combination consists entirely of maintenance diuretics identified in the notes?",
+    "stem": "A patient applies a scopolamine patch correctly. When should it generally be replaced according to the lecture?",
     "options": [
-      "Hydrochlorothiazide and triamterene",
-      "Diazepam and amiloride",
-      "Meclizine and hydrochlorothiazide",
-      "Betahistine and triamterene"
+      "Every 12 hours",
+      "Every 24 hours",
+      "Every 48 hours",
+      "Every 72 hours"
     ],
-    "answer": "A"
+    "answer": "D"
   },
   {
     "id": 32,
     "type": "mcq",
-    "stem": "Betahistine is used in the notes primarily because it is intended to:",
+    "stem": "Which cluster is most consistent with scopolamine's listed adverse effects?",
     "options": [
-      "Ablate vestibular hair cells",
-      "Improve inner-ear microcirculation and facilitate endolymph drainage",
-      "Directly suppress vomiting through dopamine blockade",
-      "Remove the endolymphatic sac"
+      "Diarrhea, miosis, salivation, insomnia",
+      "Dry mouth, blurred vision, urinary retention, drowsiness",
+      "Polyuria, hypertension, hyperreflexia, sweating",
+      "Hearing loss, tinnitus, vertigo, otorrhea"
     ],
     "answer": "B"
   },
   {
     "id": 33,
     "type": "mcq",
-    "stem": "Which instruction is specifically associated with betahistine administration?",
+    "stem": "Which history should cause the nurse to question a scopolamine prescription most strongly?",
     "options": [
-      "Administer on an empty stomach",
-      "Administer with food to reduce GI upset",
-      "Administer only during drop attacks",
-      "Administer intratympanically"
+      "Migraine",
+      "Narrow-angle glaucoma",
+      "Previous seasickness",
+      "Pregnancy-related susceptibility"
     ],
     "answer": "B"
   },
   {
     "id": 34,
     "type": "mcq",
-    "stem": "Which prescription belongs to acute crisis termination rather than prophylactic maintenance?",
+    "stem": "The contraindication of scopolamine in narrow-angle glaucoma is most logically related to its:",
     "options": [
-      "Triamterene",
-      "Amiloride",
-      "Meclizine",
-      "Betahistine"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": 35,
-    "type": "mcq",
-    "stem": "Which medication-purpose pairing is incorrect?",
-    "options": [
-      "Meclizine — vestibular suppression",
-      "Ondansetron — control of nausea and vomiting",
-      "Hydrochlorothiazide — reduction of fluid volume",
-      "Gentamicin — preservation of vestibular hair cells"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": 36,
-    "type": "mcq",
-    "stem": "A patient reports eating very little sodium most days but consuming a very high-sodium meal every weekend. Why is this pattern problematic according to the notes?",
-    "options": [
-      "Sodium spikes can draw fluid back into the labyrinth and precipitate a crisis",
-      "Low sodium permanently destroys vestibular hair cells",
-      "High sodium suppresses endolymph production completely",
-      "Variable sodium causes tympanic membrane perforation"
+      "Anticholinergic pharmacology",
+      "H1-selective pharmacology",
+      "Sympatholytic effect",
+      "Proprioceptive stimulation"
     ],
     "answer": "A"
   },
   {
+    "id": 35,
+    "type": "mcq",
+    "stem": "A patient accidentally touches the eye immediately after handling a scopolamine patch. Which complication specifically mentioned in the education section is the nurse trying to prevent by emphasizing handwashing?",
+    "options": [
+      "Mydriasis",
+      "Miosis",
+      "Retinal hemorrhage",
+      "Cataract formation"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 36,
+    "type": "mcq",
+    "stem": "Which medication belongs to the first-generation antihistamine group used for motion sickness?",
+    "options": [
+      "Ephedrine",
+      "Scopolamine",
+      "Dimenhydrinate",
+      "Caffeine"
+    ],
+    "answer": "C"
+  },
+  {
     "id": 37,
     "type": "mcq",
-    "stem": "Which daily sodium range is recommended in the lecture notes?",
+    "stem": "A patient wants an antihistamine with a longer duration and comparatively less sedation than dimenhydrinate. Which medication best fits the lecture?",
     "options": [
-      "500–750 mg",
-      "1,500–2,000 mg",
-      "2,500–3,500 mg",
-      "4,000–5,000 mg"
+      "Meclizine",
+      "Scopolamine",
+      "Ephedrine",
+      "Caffeine"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 38,
     "type": "mcq",
-    "stem": "Which dietary behavior most directly violates the fluid-consistency recommendation?",
+    "stem": "How long before travel should oral dimenhydrinate or meclizine generally be administered according to the notes?",
     "options": [
-      "Distributing fluids evenly across waking hours",
-      "Drinking a massive quantity of fluid at one time",
-      "Maintaining a consistent intake pattern",
-      "Avoiding large fluid boluses"
+      "5–10 minutes",
+      "30–60 minutes",
+      "4–6 hours",
+      "24 hours"
     ],
     "answer": "B"
   },
   {
     "id": 39,
     "type": "mcq",
-    "stem": "Why is nicotine specifically prohibited in the notes?",
+    "stem": "Which patient statement after receiving a first-generation antihistamine indicates a need for further education?",
     "options": [
-      "It causes vestibular nerve transection",
-      "Its vasoconstrictive effect reduces labyrinthine blood flow",
-      "It increases cochlear potassium excretion",
-      "It directly ruptures Reissner membrane"
+      "I will avoid alcohol.",
+      "I will avoid operating heavy machinery.",
+      "I can combine the medication with alcohol because both reduce vestibular activity.",
+      "I understand that the medication may cause sedation."
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 40,
     "type": "mcq",
-    "stem": "Caffeine and alcohol are restricted primarily because the notes describe them as:",
+    "stem": "Which comparison between meclizine and dimenhydrinate is supported by the notes?",
     "options": [
-      "Ototoxic aminoglycosides",
-      "Stimulants and diuretics capable of disrupting baseline fluid balance",
-      "Direct causes of otolith deformation",
-      "Agents that permanently block Cranial Nerve VIII"
+      "Dimenhydrinate lasts longer and is less sedating.",
+      "Meclizine lasts longer and is less sedating.",
+      "Meclizine is an anticholinergic without H1 activity.",
+      "Dimenhydrinate is a sympathomimetic."
     ],
     "answer": "B"
   },
   {
     "id": 41,
     "type": "mcq",
-    "stem": "During an acute vertigo attack, which positioning intervention is recommended?",
+    "stem": "A military traveler receives an antihistamine plus ephedrine. Why might ephedrine be included?",
     "options": [
-      "Upright walking with assistance",
-      "Flat recumbent positioning",
-      "Trendelenburg with rapid head turning",
-      "Prone positioning with eyes closed"
+      "To intensify central nervous system depression",
+      "To counteract profound drowsiness and CNS depression",
+      "To block muscarinic receptors in the vestibular nuclei",
+      "To prevent all autonomic activation"
     ],
     "answer": "B"
   },
   {
     "id": 42,
     "type": "mcq",
-    "stem": "A patient experiencing severe spinning asks whether closing the eyes will help. According to the notes, the nurse should instead encourage the patient to:",
+    "stem": "Which adverse-effect combination is most relevant when sympathomimetics are used as adjuncts?",
     "options": [
-      "Close the eyes tightly and rotate the head slowly",
-      "Look straight ahead at a fixed object",
-      "Sit upright and repeatedly turn the head",
-      "Walk to recalibrate vestibular feedback"
+      "Bradycardia and hypotension",
+      "Tachycardia and hypertension",
+      "Urinary retention and blurred vision",
+      "Miosis and hypersalivation"
     ],
     "answer": "B"
   },
   {
     "id": 43,
     "type": "mcq",
-    "stem": "Why should unnecessary head movement be minimized during an acute attack?",
+    "stem": "Which medication combination is described as being used primarily in specialized or military settings?",
     "options": [
-      "It may worsen the spinning sensation",
-      "It causes permanent cochlear destruction immediately",
-      "It raises serum potassium",
-      "It prevents antiemetics from working"
+      "Antihistamine with ephedrine or caffeine",
+      "Scopolamine with ginger",
+      "Meclizine with acupressure",
+      "Dimenhydrinate with clear fluids"
     ],
     "answer": "A"
   },
   {
     "id": 44,
     "type": "mcq",
-    "stem": "Which environmental arrangement is most appropriate during a severe attack?",
+    "stem": "A passenger begins feeling nauseated while reading in a moving car. Which immediate behavioral change most directly reduces the sensory mismatch?",
     "options": [
-      "Bright lights, television on, frequent visitors",
-      "Darkened quiet room with minimal sensory stimulation",
-      "Continuous visual stimulation to retrain balance",
-      "Bright room with rapid positional changes"
+      "Close the eyes and bend forward",
+      "Look at a stable point on the horizon",
+      "Continue reading while lying sideways",
+      "Focus on an object moving inside the car"
     ],
     "answer": "B"
   },
   {
     "id": 45,
     "type": "mcq",
-    "stem": "Which combination represents the most complete fall-safety protocol described in the notes?",
+    "stem": "Why does looking toward the horizon help reduce motion sickness?",
     "options": [
-      "Bed elevated, rails down, independent ambulation",
-      "Bed lowest position, side rails up, call light accessible, assistance with ambulation",
-      "Bed lowest position, eyes closed, unrestricted ambulation",
-      "Side rails up only during sleep"
+      "It suppresses acetylcholine production completely.",
+      "It realigns visual and vestibular inputs.",
+      "It prevents otolith movement.",
+      "It directly inhibits gastric motility."
     ],
     "answer": "B"
   },
   {
     "id": 46,
     "type": "mcq",
-    "stem": "Why should a patient with severe acute Ménière's vertigo receive assistance with all ambulation?",
+    "stem": "Which seat should a motion-sensitive passenger preferentially select in a car according to the notes?",
     "options": [
-      "Auditory processing is completely absent",
-      "Proprioceptive and vestibular feedback are severely compromised",
-      "The patient necessarily loses consciousness",
-      "Ambulation causes permanent rupture of the tympanic membrane"
+      "Rear-facing rear seat",
+      "Front seat",
+      "Any seat with no outside view",
+      "Seat requiring frequent head rotation"
     ],
     "answer": "B"
   },
   {
     "id": 47,
     "type": "mcq",
-    "stem": "A patient with recurrent unpredictable attacks stops attending work functions and avoids friends. Which nursing assessment domain is most directly indicated?",
+    "stem": "A motion-sensitive traveler is choosing a seat on an airplane. Which location is recommended?",
     "options": [
-      "Anxiety, depression, and social withdrawal",
-      "Hyperthyroidism and glucose intolerance",
-      "Tympanic perforation and otitis externa",
-      "Language aphasia and visual neglect"
-    ],
-    "answer": "A"
-  },
-  {
-    "id": 48,
-    "type": "mcq",
-    "stem": "Which statement best explains why psychosocial assessment is important in Ménière's disease?",
-    "options": [
-      "Attacks are predictable and therefore rarely affect daily life",
-      "The unpredictable and incapacitating nature of attacks can disrupt career, social life, and emotional well-being",
-      "The disease affects hearing but never social functioning",
-      "Psychosocial effects occur only after surgery"
+      "At the extreme tail",
+      "Over the wings",
+      "At the furthest rear window",
+      "Any location without visual access outside"
     ],
     "answer": "B"
   },
   {
+    "id": 48,
+    "type": "mcq",
+    "stem": "Where should a passenger prone to seasickness preferentially position themselves on a ship?",
+    "options": [
+      "High on the bow",
+      "At the stern above deck",
+      "Mid-ship near the waterline",
+      "Inside a windowless cabin at the highest level"
+    ],
+    "answer": "C"
+  },
+  {
     "id": 49,
     "type": "mcq",
-    "stem": "A patient has refractory vertigo despite appropriate conservative therapy. Intratympanic gentamicin is proposed. What is the intended therapeutic target?",
+    "stem": "Which environmental intervention accompanies positioning in an area of minimal motion?",
     "options": [
-      "Cochlear hair-cell regeneration",
-      "Destruction of vestibular hair cells to suppress vertigo",
-      "Repair of Reissner membrane",
-      "Expansion of the endolymphatic sac"
+      "Warm stagnant air",
+      "Continuous cool, fresh moving air",
+      "Strong perfume to mask nausea",
+      "Tobacco smoke to reduce vestibular input"
     ],
     "answer": "B"
   },
   {
     "id": 50,
     "type": "mcq",
-    "stem": "The major trade-off of intratympanic gentamicin therapy is:",
+    "stem": "Which pre-travel meal is most inconsistent with the lecture's dietary recommendations?",
     "options": [
-      "Excellent hearing restoration but persistent vertigo",
-      "Vertigo control at the risk of permanent hearing loss",
-      "Temporary conductive loss without vestibular effects",
-      "Guaranteed preservation of both hearing and vestibular function"
+      "Dry crackers with small sips of clear fluid",
+      "A small amount of bland carbohydrate",
+      "A heavy greasy high-protein meal",
+      "A light bland snack"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 51,
     "type": "mcq",
-    "stem": "Which intratympanic therapy is described as reducing inflammation without intentionally damaging hearing?",
+    "stem": "Which food choice is most appropriate for a patient susceptible to motion sickness?",
     "options": [
-      "Gentamicin",
-      "Dexamethasone",
-      "Hydrochlorothiazide",
-      "Diazepam"
+      "Greasy fried meat",
+      "Spicy high-protein meal",
+      "Dry bland crackers",
+      "Large fatty meal"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 52,
     "type": "mcq",
-    "stem": "Which procedure attempts to control hydrops while preserving remaining hearing by creating room for expansion or drainage of the endolymphatic sac?",
+    "stem": "Which fluid-consumption strategy is recommended during travel?",
     "options": [
-      "Labyrinthectomy",
-      "Vestibular nerve sectioning",
-      "Endolymphatic sac decompression",
-      "Chemical vestibular ablation"
+      "Small sips of clear fluids",
+      "Large volumes of heavy beverages at once",
+      "No fluid under any circumstances",
+      "Alcohol before departure"
     ],
-    "answer": "C"
+    "answer": "A"
   },
   {
     "id": 53,
     "type": "mcq",
-    "stem": "During endolymphatic sac decompression, which action is described in the notes?",
+    "stem": "Which complementary intervention is described as reducing gastric dysrhythmias?",
     "options": [
-      "Removal of cochlear hair cells",
-      "Removal of bone overlying the sac, with possible shunt placement",
-      "Transection of the cochlear branch of CN VIII",
-      "Excision of all labyrinthine contents"
+      "Ginger",
+      "Nicotine",
+      "Caffeine",
+      "Ephedrine"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 54,
     "type": "mcq",
-    "stem": "Which intervention controls vertigo by surgically cutting a specific branch of Cranial Nerve VIII while attempting to preserve cochlear hearing?",
+    "stem": "A patient prefers an acupressure wristband. Which anatomical target should the nurse identify from the lecture?",
     "options": [
-      "Labyrinthectomy",
-      "Endolymphatic sac decompression",
-      "Vestibular nerve sectioning",
-      "Intratympanic dexamethasone"
+      "P6 Neiguan point",
+      "C7 spinous process",
+      "H1 vestibular point",
+      "CN VIII mastoid point"
     ],
-    "answer": "C"
+    "answer": "A"
   },
   {
     "id": 55,
     "type": "mcq",
-    "stem": "Which major procedural requirement distinguishes vestibular nerve sectioning in the notes?",
+    "stem": "A patient with repeated vomiting becomes weak after several hours. Which complication should the nurse specifically assess for?",
     "options": [
-      "It requires a craniotomy approach",
-      "It requires complete pre-existing deafness",
-      "It is performed through oral glycerol administration",
-      "It requires destruction of the entire labyrinth"
+      "Fluid volume depletion",
+      "Permanent cochlear damage",
+      "Tympanic membrane rupture",
+      "Endolymphatic hydrops"
     ],
     "answer": "A"
   },
   {
     "id": 56,
     "type": "mcq",
-    "stem": "Which advanced intervention provides absolute vertigo relief at the cost of complete permanent hearing destruction in the treated ear?",
+    "stem": "Which nursing diagnosis is directly supported by protracted intractable vomiting?",
     "options": [
-      "Endolymphatic sac decompression",
-      "Intratympanic dexamethasone",
-      "Labyrinthectomy",
-      "Betahistine therapy"
+      "Risk for Fluid Volume Deficit",
+      "Impaired Skin Integrity",
+      "Chronic Confusion",
+      "Impaired Gas Exchange"
     ],
-    "answer": "C"
+    "answer": "A"
   },
   {
     "id": 57,
     "type": "mcq",
-    "stem": "Which patient is the most appropriate candidate for labyrinthectomy according to the notes?",
+    "stem": "Which nursing diagnosis is most appropriate for a patient who repeatedly becomes ill because preventive measures are initiated only after vomiting begins?",
     "options": [
-      "A patient with useful hearing who has had one mild attack",
-      "A patient whose affected ear already has completely non-functional hearing and refractory vertigo",
-      "A patient with normal hearing and isolated tinnitus",
-      "A patient whose symptoms are fully controlled by sodium restriction"
+      "Deficient Knowledge regarding motion sickness prevention",
+      "Impaired Verbal Communication",
+      "Disturbed Body Image",
+      "Ineffective Airway Clearance"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 58,
     "type": "mcq",
-    "stem": "A patient with useful residual hearing requires advanced treatment for refractory vertigo. Which option is specifically described as preserving remaining hearing through decompression rather than neural transection or labyrinth destruction?",
+    "stem": "Before a patient undergoes a diagnostic procedure involving significant motion or simulated motion, the nurse should first:",
     "options": [
-      "Labyrinthectomy",
-      "Endolymphatic sac decompression",
-      "Intratympanic gentamicin",
-      "Complete labyrinth ablation"
+      "Assess for a history of motion sickness",
+      "Automatically administer ephedrine",
+      "Restrict all fluid for 24 hours",
+      "Place the patient supine facing backward"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 59,
     "type": "mcq",
-    "stem": "Which comparison between intratympanic gentamicin and dexamethasone is accurate?",
+    "stem": "Which transport posture is specifically recommended in the patient-education checklist?",
     "options": [
-      "Both intentionally destroy vestibular hair cells.",
-      "Gentamicin chemically ablates vestibular hair cells; dexamethasone reduces inflammation without damaging hearing.",
-      "Dexamethasone destroys cochlear hair cells; gentamicin preserves them.",
-      "Both require craniotomy."
+      "Reclined and backward-facing",
+      "Upright and forward-facing",
+      "Prone with the head turned",
+      "Supine with the eyes covered"
     ],
     "answer": "B"
   },
   {
     "id": 60,
     "type": "mcq",
-    "stem": "Which intervention-mechanism-outcome sequence contains no mismatch?",
+    "stem": "Why should tobacco smoke and exhaust fumes be minimized around a motion-sick patient?",
     "options": [
-      "Labyrinthectomy → excision of labyrinthine contents → complete permanent hearing destruction in that ear",
-      "Sac decompression → vestibular nerve transection → complete deafness",
-      "Gentamicin → anti-inflammatory action → guaranteed hearing preservation",
-      "Vestibular nerve section → cochlear branch transection → preservation of vertigo"
+      "Offensive odors can precipitate emesis",
+      "They permanently destroy proprioceptors",
+      "They inhibit the medullary vomiting center",
+      "They prevent scopolamine absorption"
     ],
     "answer": "A"
   },
   {
     "id": 61,
     "type": "mcq",
-    "stem": "Which intervention-mechanism pairing is incorrect?",
+    "stem": "A passenger reports stomach warmth and mild dizziness but has not developed nausea or vomiting. Which interpretation should guide nursing intervention?",
     "options": [
-      "Gentamicin — vestibular hair-cell destruction",
-      "Endolymphatic sac decompression — facilitates expansion/drainage",
-      "Vestibular nerve sectioning — cuts vestibular branch of CN VIII",
-      "Labyrinthectomy — selectively preserves all hearing while removing only middle-ear structures"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": 62,
-    "type": "mcq",
-    "stem": "A patient asks why the disease can affect both balance and hearing. Which explanation best follows the notes?",
-    "options": [
-      "Endolymphatic hydrops disrupts structures involved in both vestibular and auditory function",
-      "The disorder is confined to the tympanic membrane but secondarily causes anxiety",
-      "The disorder exclusively damages the auditory cortex",
-      "The disease affects the external auditory canal and visual system"
+      "These are early symptoms, making prompt preventive intervention particularly valuable.",
+      "These findings indicate irreversible autonomic collapse.",
+      "Medication should be withheld until active vomiting occurs.",
+      "These symptoms exclude motion sickness."
     ],
     "answer": "A"
   },
   {
+    "id": 62,
+    "type": "mcq",
+    "stem": "Which patient demonstrates the most advanced symptom progression?",
+    "options": [
+      "Mild headache and epigastric awareness",
+      "Mild dizziness and lethargy",
+      "Progressive intense nausea, extreme weakness, and hyperosmia",
+      "Isolated drowsiness before travel"
+    ],
+    "answer": "C"
+  },
+  {
     "id": 63,
     "type": "mcq",
-    "stem": "A patient experiences worsening roaring tinnitus and increasing aural pressure followed by severe spinning, vomiting, pallor, diaphoresis, and nystagmus. Which interpretation best integrates these findings?",
+    "stem": "A patient has severe motion sickness but no vomiting yet. The nurse notes pallor, cold sweats, hypersalivation, and frequent swallowing. These findings most strongly indicate:",
     "options": [
-      "A characteristic acute Ménière's attack preceded by auditory/pressure changes",
-      "An isolated conductive hearing disorder",
-      "A Tumarkin crisis because loss of consciousness is expected",
-      "Permanent vestibular destruction without an acute episode"
+      "Progressing autonomic activation",
+      "Vestibular recovery",
+      "Scopolamine toxicity",
+      "Fluid overload"
     ],
     "answer": "A"
   },
   {
     "id": 64,
     "type": "mcq",
-    "stem": "Which finding most directly reflects chemical intoxication of vestibular and cochlear hair cells after membrane rupture?",
+    "stem": "A traveler uses meclizine and then plans to drive heavy machinery after drinking alcohol. Which concern is most consistent with the lecture?",
     "options": [
-      "Abnormal mixing of potassium-rich endolymph with perilymph causing depolarization and neural blockade",
-      "Mechanical fixation of the stapes",
-      "Reduced sodium intake causing tympanic collapse",
-      "Obstruction of the external canal by endolymph"
+      "The combination may worsen CNS impairment and sedation-related safety risk.",
+      "Alcohol reverses the antihistamine's action and causes glaucoma.",
+      "Meclizine produces no sedation, so there is no concern.",
+      "Alcohol is recommended to enhance vestibular adaptation."
     ],
     "answer": "A"
   },
   {
     "id": 65,
     "type": "mcq",
-    "stem": "A patient has recurrent attacks but returns toward baseline between episodes. Which pathophysiologic event most directly accounts for this temporary recovery?",
+    "stem": "Which intervention acts most directly at muscarinic receptors within the vestibular nuclei?",
     "options": [
-      "Permanent destruction of all vestibular hair cells",
-      "Healing of the ruptured membrane with resetting of the pressure gradient",
-      "Surgical decompression of the endolymphatic sac",
-      "Permanent transection of CN VIII"
+      "Ginger",
+      "Scopolamine",
+      "Caffeine",
+      "Acupressure"
     ],
     "answer": "B"
   },
   {
     "id": 66,
     "type": "mcq",
-    "stem": "Which clinical trajectory is most consistent with untreated progressive Ménière's disease as described?",
+    "stem": "Which intervention attempts to reduce motion sickness by changing sensory input rather than pharmacologically blocking neurotransmitter receptors?",
     "options": [
-      "Permanent hearing loss at the first episode followed by complete recovery over years",
-      "Fluctuating hearing impairment early, followed by progressively permanent hearing loss after repeated injury",
-      "Pure conductive loss progressing to tympanic membrane rupture",
-      "Low-frequency impairment early followed by guaranteed complete vestibular recovery"
+      "Scopolamine patch",
+      "Meclizine",
+      "Fixing the gaze on the horizon",
+      "Dimenhydrinate"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 67,
     "type": "mcq",
-    "stem": "A hospitalized patient receives diazepam during a severe attack and becomes drowsy and unsteady. Which nursing intervention from the notes becomes especially important?",
+    "stem": "A passenger chooses a windowless cabin, reads continuously, eats a large greasy meal, and waits until vomiting starts before requesting medication. Which change addresses the central sensory mechanism rather than merely a gastrointestinal trigger or treatment timing?",
     "options": [
-      "Encourage unassisted ambulation to assess treatment response",
-      "Keep bed rails up and monitor respiratory status",
-      "Increase environmental stimulation",
-      "Administer a high-sodium snack"
+      "Choose dry crackers",
+      "Take small sips of clear fluid",
+      "Look toward a stable point on the horizon",
+      "Avoid the greasy meal"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 68,
     "type": "mcq",
-    "stem": "Which treatment strategy most directly modifies the hydrops itself rather than simply controlling nausea or suppressing vestibular symptoms during an attack?",
+    "stem": "Which medication-mechanism pair contains a mismatch?",
     "options": [
-      "Ondansetron",
-      "Prochlorperazine",
-      "Maintenance diuretic therapy",
-      "Diazepam"
+      "Scopolamine — muscarinic receptor blockade",
+      "Meclizine — H1 and central cholinergic pathway blockade",
+      "Ephedrine — counteracts CNS depression",
+      "Caffeine — blocks vestibular muscarinic receptors as its listed primary mechanism"
     ],
-    "answer": "C"
+    "answer": "D"
   },
   {
     "id": 69,
     "type": "mcq",
-    "stem": "A patient has useful cochlear hearing but disabling refractory vertigo. Which procedure achieves vertigo relief by interrupting vestibular neural transmission while specifically preserving cochlear hearing?",
+    "stem": "A patient with narrow-angle glaucoma needs preventive counseling for an upcoming trip. Which prescribed option would require the greatest concern based strictly on the notes?",
     "options": [
-      "Labyrinthectomy",
-      "Vestibular nerve sectioning",
-      "Intratympanic gentamicin",
-      "Chemical cochlear ablation"
+      "Scopolamine patch",
+      "Ginger tea",
+      "P6 acupressure wristband",
+      "Visual fixation"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 70,
     "type": "mcq",
-    "stem": "Which patient situation represents the greatest immediate physical-safety concern described in the lecture?",
+    "stem": "Which integrated prevention plan best follows the lecture?",
     "options": [
-      "A patient reporting mild aural fullness before an attack",
-      "A patient with chronic low-frequency hearing impairment",
-      "A patient experiencing sudden Tumarkin drop attacks without loss of consciousness",
-      "A patient taking betahistine with food"
+      "Wait for vomiting, eat a high-protein meal, sit backward, and focus on nearby stationary objects.",
+      "Initiate medication before exposure, face forward, minimize motion, view the horizon, use cool fresh air, and avoid heavy meals.",
+      "Use medication only after vomiting, close the eyes, consume alcohol, and sit where motion is greatest.",
+      "Apply scopolamine after departure, eat greasy food, and avoid outside visual references."
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 71,
     "type": "fitb",
-    "stem": "The abnormal accumulation of endolymph producing increased hydrostatic pressure in Ménière's disease is termed __________.",
-    "answer": "endolymphatic hydrops",
+    "stem": "The clinical term for motion sickness is __________.",
+    "answer": "kinetosis",
     "acceptableAnswers": [
-      "endolymphatic hydrops",
-      "hydrops"
+      "kinetosis"
     ]
   },
   {
     "id": 72,
     "type": "fitb",
-    "stem": "The delicate membrane described as separating potassium-rich endolymph from sodium-rich perilymph is the __________ membrane.",
-    "answer": "Reissner",
+    "stem": "The physiological framework explaining motion sickness through contradictory sensory information is called the __________ Theory.",
+    "answer": "Sensory Conflict",
     "acceptableAnswers": [
-      "Reissner",
-      "Reissner membrane",
-      "Reissner's membrane"
+      "Sensory Conflict",
+      "Sensory Conflict Theory",
+      "Neural Mismatch",
+      "Neural Mismatch Theory"
     ]
   },
   {
     "id": 73,
     "type": "fitb",
-    "stem": "The electrolyte described as being present in high concentration in endolymph is __________.",
-    "answer": "potassium",
+    "stem": "The three sensory systems integrated for spatial orientation are vestibular, visual, and __________.",
+    "answer": "proprioceptive",
     "acceptableAnswers": [
-      "potassium",
-      "K+",
-      "K"
+      "proprioceptive",
+      "proprioception",
+      "proprioceptive system"
     ]
   },
   {
     "id": 74,
     "type": "fitb",
-    "stem": "The electrolyte described as being present in high concentration in perilymph is __________.",
-    "answer": "sodium",
+    "stem": "The vestibular sensory components specifically identified in the lecture are the semicircular canals and the __________.",
+    "answer": "otoliths",
     "acceptableAnswers": [
-      "sodium",
-      "Na+",
-      "Na"
+      "otoliths",
+      "otolith organs",
+      "otolith"
     ]
   },
   {
     "id": 75,
     "type": "fitb",
-    "stem": "Repeated membrane rupture eventually produces permanent destruction of cochlear and vestibular __________.",
-    "answer": "hair cells",
+    "stem": "Mismatched vestibular signals can stimulate the Chemoreceptor Trigger Zone, abbreviated __________.",
+    "answer": "CTZ",
     "acceptableAnswers": [
-      "hair cells",
-      "sensory hair cells"
+      "CTZ",
+      "Chemoreceptor Trigger Zone"
     ]
   },
   {
     "id": 76,
     "type": "fitb",
-    "stem": "Early Ménière's disease preferentially impairs __________-frequency hearing.",
-    "answer": "low",
+    "stem": "The vomiting center involved in motion sickness is located in the __________ oblongata.",
+    "answer": "medulla",
     "acceptableAnswers": [
-      "low",
-      "low frequency",
-      "low-frequency"
+      "medulla",
+      "medulla oblongata"
     ]
   },
   {
     "id": 77,
     "type": "fitb",
-    "stem": "The cochlear region associated in the notes with early low-frequency impairment is the __________.",
-    "answer": "apex",
+    "stem": "The two receptor systems emphasized as major pharmacological targets are histamine H1 and __________ acetylcholine receptors.",
+    "answer": "muscarinic",
     "acceptableAnswers": [
-      "apex",
-      "cochlear apex",
-      "apex of the cochlea"
+      "muscarinic",
+      "ACh muscarinic",
+      "muscarinic acetylcholine"
     ]
   },
   {
     "id": 78,
     "type": "fitb",
-    "stem": "A reduced or blunted vestibular response on ENG/VNG is termed vestibular __________.",
-    "answer": "paresis",
+    "stem": "The early sensation of warmth or hollowness in the stomach is termed __________ awareness.",
+    "answer": "epigastric",
     "acceptableAnswers": [
-      "paresis",
-      "vestibular paresis"
+      "epigastric",
+      "epigastric awareness"
     ]
   },
   {
     "id": 79,
     "type": "fitb",
-    "stem": "Transient improvement in hearing thresholds 1–3 hours after oral osmotic __________ supports underlying endolymphatic hydrops.",
-    "answer": "glycerol",
+    "stem": "Severe drowsiness or lethargy occurring with motion sickness is sometimes termed the __________ syndrome.",
+    "answer": "sopite",
     "acceptableAnswers": [
-      "glycerol",
-      "osmotic glycerol"
+      "sopite",
+      "sopite syndrome"
     ]
   },
   {
     "id": 80,
     "type": "fitb",
-    "stem": "The sudden drop attack in which a Ménière's patient may be violently thrown to the floor without losing consciousness is called __________.",
-    "answer": "Tumarkin's otolithic crisis",
+    "stem": "Acute excessive sensitivity to smells that may trigger vomiting is called __________.",
+    "answer": "hyperosmia",
     "acceptableAnswers": [
-      "Tumarkin's otolithic crisis",
-      "Tumarkin otolithic crisis",
-      "Tumarkin's crisis",
-      "Tumarkin crisis",
-      "Tumarkin drop attack"
+      "hyperosmia"
     ]
   },
   {
     "id": 81,
     "type": "fitb",
-    "stem": "The structures undergoing sudden mechanical deformation during Tumarkin's crisis are the __________ organs.",
-    "answer": "otolith",
+    "stem": "The characteristic cold sweating associated with autonomic activation is termed cold __________.",
+    "answer": "diaphoresis",
     "acceptableAnswers": [
-      "otolith",
-      "otolith organs",
-      "otolithic"
+      "diaphoresis",
+      "cold diaphoresis"
     ]
   },
   {
     "id": 82,
     "type": "fitb",
-    "stem": "The antihistamine vestibular suppressant listed for acute attacks is __________.",
-    "answer": "meclizine",
+    "stem": "Excessive salivation preceding or accompanying vomiting is termed __________.",
+    "answer": "hypersalivation",
     "acceptableAnswers": [
-      "meclizine"
+      "hypersalivation",
+      "increased salivation"
     ]
   },
   {
     "id": 83,
     "type": "fitb",
-    "stem": "The benzodiazepine listed for acute vestibular suppression is __________.",
-    "answer": "diazepam",
+    "stem": "The transdermal anticholinergic used to prevent motion sickness is __________.",
+    "answer": "scopolamine",
     "acceptableAnswers": [
-      "diazepam"
+      "scopolamine",
+      "Transderm Scop",
+      "Transderm Scōp"
     ]
   },
   {
     "id": 84,
     "type": "fitb",
-    "stem": "The antiemetic in the notes requiring monitoring for QT prolongation is __________.",
-    "answer": "ondansetron",
+    "stem": "A scopolamine patch should be applied at least __________ hours before motion exposure.",
+    "answer": "4",
     "acceptableAnswers": [
-      "ondansetron"
+      "4",
+      "four",
+      "4 hours",
+      "four hours"
     ]
   },
   {
     "id": 85,
     "type": "fitb",
-    "stem": "The acute antiemetic associated in the notes with monitoring for extrapyramidal symptoms is __________.",
-    "answer": "prochlorperazine",
+    "stem": "A scopolamine patch is replaced every __________ hours according to the lecture.",
+    "answer": "72",
     "acceptableAnswers": [
-      "prochlorperazine"
+      "72",
+      "72 hours",
+      "seventy-two hours",
+      "three days",
+      "3 days"
     ]
   },
   {
     "id": 86,
     "type": "fitb",
-    "stem": "Maintenance diuretics decrease the severity of hydrops by reducing total extracellular and __________ fluid volume.",
-    "answer": "endolymphatic",
+    "stem": "Scopolamine is contraindicated in __________-angle glaucoma.",
+    "answer": "narrow",
     "acceptableAnswers": [
-      "endolymphatic",
-      "endolymph"
+      "narrow",
+      "narrow-angle",
+      "narrow angle"
     ]
   },
   {
     "id": 87,
     "type": "fitb",
-    "stem": "A maintenance vasodilator described as improving inner-ear microcirculation and facilitating endolymph drainage is __________.",
-    "answer": "betahistine",
+    "stem": "Accidental ocular contamination after handling scopolamine may produce __________.",
+    "answer": "mydriasis",
     "acceptableAnswers": [
-      "betahistine"
+      "mydriasis",
+      "pupil dilation",
+      "pupillary dilation"
     ]
   },
   {
     "id": 88,
     "type": "fitb",
-    "stem": "The recommended daily sodium limit in the notes is __________ mg per day.",
-    "answer": "1,500–2,000",
+    "stem": "The first-generation antihistamine sold under the example brand Dramamine is __________.",
+    "answer": "dimenhydrinate",
     "acceptableAnswers": [
-      "1,500–2,000",
-      "1500–2000",
-      "1500-2000",
-      "1,500-2,000",
-      "1500 to 2000",
-      "1,500 to 2,000"
+      "dimenhydrinate",
+      "Dramamine"
     ]
   },
   {
     "id": 89,
     "type": "fitb",
-    "stem": "During an acute attack, the patient should look straight ahead at a __________ object rather than closing the eyes.",
-    "answer": "fixed",
+    "stem": "The antihistamine described as having a longer duration and being less sedating than dimenhydrinate is __________.",
+    "answer": "meclizine",
     "acceptableAnswers": [
-      "fixed",
-      "fixed object",
-      "stationary object"
+      "meclizine",
+      "Antivert"
     ]
   },
   {
     "id": 90,
     "type": "fitb",
-    "stem": "During an acute vertigo attack, the room should be kept __________ and quiet to minimize sensory stimulation.",
-    "answer": "darkened",
+    "stem": "Oral antihistamines should generally be administered __________ minutes before travel.",
+    "answer": "30–60",
     "acceptableAnswers": [
-      "darkened",
-      "dark",
-      "dim"
+      "30–60",
+      "30-60",
+      "30 to 60",
+      "30–60 minutes",
+      "30-60 minutes"
     ]
   },
   {
     "id": 91,
     "type": "fitb",
-    "stem": "Nicotine is prohibited because its __________ effect reduces labyrinthine blood flow.",
-    "answer": "vasoconstrictive",
+    "stem": "The sympathomimetic adjuncts listed in the lecture are ephedrine and __________.",
+    "answer": "caffeine",
     "acceptableAnswers": [
-      "vasoconstrictive",
-      "vasoconstriction"
+      "caffeine"
     ]
   },
   {
     "id": 92,
     "type": "fitb",
-    "stem": "The ototoxic aminoglycoside injected intratympanically to destroy vestibular hair cells in refractory Ménière's disease is __________.",
-    "answer": "gentamicin",
+    "stem": "Sympathomimetic adjunct therapy requires monitoring for tachycardia and __________.",
+    "answer": "hypertension",
     "acceptableAnswers": [
-      "gentamicin",
-      "intratympanic gentamicin"
+      "hypertension",
+      "high blood pressure"
     ]
   },
   {
     "id": 93,
     "type": "fitb",
-    "stem": "The intratympanic medication described as reducing inflammation without damaging hearing is __________.",
-    "answer": "dexamethasone",
+    "stem": "Looking at a stable point on the __________ helps realign visual and vestibular inputs.",
+    "answer": "horizon",
     "acceptableAnswers": [
-      "dexamethasone",
-      "intratympanic dexamethasone"
+      "horizon",
+      "the horizon"
     ]
   },
   {
     "id": 94,
     "type": "fitb",
-    "stem": "Removal of bone overlying the endolymphatic sac to permit expansion or drainage is called endolymphatic sac __________.",
-    "answer": "decompression",
+    "stem": "On an airplane, a motion-sensitive passenger should preferentially sit over the __________ to minimize motion.",
+    "answer": "wings",
     "acceptableAnswers": [
-      "decompression",
-      "endolymphatic sac decompression"
+      "wings",
+      "wing",
+      "airplane wings"
     ]
   },
   {
     "id": 95,
     "type": "fitb",
-    "stem": "Surgical interruption of the vestibular branch of Cranial Nerve VIII is called vestibular nerve __________.",
-    "answer": "sectioning",
+    "stem": "On a ship, an area of relatively minimal motion identified in the notes is __________ at the waterline.",
+    "answer": "mid-ship",
     "acceptableAnswers": [
-      "sectioning",
-      "vestibular nerve sectioning",
-      "nerve section"
+      "mid-ship",
+      "midship",
+      "mid ship"
     ]
   },
   {
     "id": 96,
     "type": "fitb",
-    "stem": "Vestibular nerve sectioning requires a __________ approach according to the notes.",
-    "answer": "craniotomy",
+    "stem": "The herbal complementary therapy described as reducing gastric dysrhythmias is __________.",
+    "answer": "ginger",
     "acceptableAnswers": [
-      "craniotomy",
-      "craniotomy approach"
+      "ginger",
+      "Zingiber officinale"
     ]
   },
   {
     "id": 97,
     "type": "fitb",
-    "stem": "Surgical excision of the labyrinthine contents is termed __________.",
-    "answer": "labyrinthectomy",
+    "stem": "Acupressure wristbands for motion sickness target the __________ point.",
+    "answer": "P6",
     "acceptableAnswers": [
-      "labyrinthectomy"
+      "P6",
+      "P6 Neiguan",
+      "Neiguan",
+      "P6 (Neiguan)"
     ]
   },
   {
     "id": 98,
     "type": "fitb",
-    "stem": "Because labyrinthectomy causes complete permanent hearing destruction, it is reserved for an ear in which hearing is already completely __________.",
-    "answer": "non-functional",
+    "stem": "Protracted vomiting places the patient at risk for __________ volume deficit.",
+    "answer": "fluid",
     "acceptableAnswers": [
-      "non-functional",
-      "nonfunctional",
-      "non functional",
-      "absent",
-      "lost"
+      "fluid",
+      "fluid volume",
+      "Fluid Volume Deficit"
     ]
   },
   {
     "id": 99,
     "type": "fitb",
-    "stem": "The branch of Cranial Nerve VIII deliberately cut during nerve sectioning is the __________ branch.",
-    "answer": "vestibular",
+    "stem": "During transportation, the patient should maintain an upright and __________-facing position.",
+    "answer": "forward",
     "acceptableAnswers": [
-      "vestibular",
-      "vestibular branch"
+      "forward",
+      "forward-facing",
+      "forward facing"
     ]
   },
   {
     "id": 100,
     "type": "fitb",
-    "stem": "In the pathophysiologic sequence of an acute attack, abnormal electrolyte mixing causes immediate hair-cell depolarization followed by neural __________.",
-    "answer": "blockade",
+    "stem": "Exhaust fumes and tobacco smoke should be avoided because offensive __________ can induce emesis.",
+    "answer": "odors",
     "acceptableAnswers": [
-      "blockade",
-      "neural blockade"
+      "odors",
+      "odours",
+      "offensive odors",
+      "offensive odours",
+      "smells"
     ]
   }
 ]
