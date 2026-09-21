@@ -2,1193 +2,1154 @@
   {
     "id": 1,
     "type": "mcq",
-    "stem": "A patient can hear a tuning fork through bone longer than through air in the affected ear. Weber testing sends the sound toward that same ear. Which mechanism BEST explains the findings?",
+    "stem": "A patient with Ménière's disease suddenly develops intense vertigo after increasing aural pressure. Which event most directly explains the abrupt onset of the attack?",
     "options": [
-      "Impaired cortical decoding despite intact peripheral structures",
-      "Disruption of sound transmission through the external or middle ear",
-      "Damage to cochlear hair cells with intact middle-ear transmission",
-      "Damage confined to Cranial Nerve VIII with normal cochlear function"
+      "Progressive fibrosis of the tympanic membrane",
+      "Rupture of Reissner membrane with mixing of endolymph and perilymph",
+      "Gradual degeneration of the vestibular nerve",
+      "Obstruction of the external auditory canal"
     ],
     "answer": "B"
   },
   {
     "id": 2,
     "type": "mcq",
-    "stem": "Which combination of findings is MOST internally consistent with sensorineural hearing loss?",
+    "stem": "Which sequence most accurately represents the pathophysiologic progression of an acute Ménière's attack?",
     "options": [
-      "Weber to affected ear; BC ≥ AC; cerumen impaction",
-      "Weber to unaffected ear; AC > BC with reduced overall time; cochlear damage",
-      "Weber to affected ear; AC > BC; otosclerosis",
-      "Weber to unaffected ear; BC ≥ AC; tympanic membrane perforation"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 3,
-    "type": "mcq",
-    "stem": "A patient's external auditory canal, tympanic membrane, middle ear and cochlea are structurally normal, but the patient cannot appropriately interpret incoming auditory information. Which classification BEST fits?",
-    "options": [
-      "Conductive hearing loss",
-      "Sensorineural hearing loss",
-      "Mixed hearing loss",
-      "Functional / central hearing loss"
-    ],
-    "answer": "D"
-  },
-  {
-    "id": 4,
-    "type": "mcq",
-    "stem": "Which patient BEST illustrates mixed hearing loss as defined in the notes?",
-    "options": [
-      "A patient with isolated cerumen impaction",
-      "A patient with age-related nerve degeneration who develops severe middle-ear infection",
-      "A patient with normal peripheral structures but impaired auditory cortical processing",
-      "A patient with isolated cochlear hair-cell destruction"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 5,
-    "type": "mcq",
-    "stem": "Which structure is expected to remain intact in a purely conductive hearing loss?",
-    "options": [
-      "External auditory canal only",
-      "Middle ear only",
-      "Inner ear structures and acoustic nerves",
-      "Tympanic membrane in every case"
+      "Endolymph depletion → membrane collapse → sodium loss → cochlear stimulation",
+      "Perilymph overproduction → tympanic rupture → potassium depletion → neural excitation",
+      "Endolymph accumulation → increased hydrostatic pressure → membrane rupture → abnormal electrolyte mixing → neural blockade",
+      "Vestibular nerve degeneration → middle-ear pressure → membrane rupture → endolymph drainage"
     ],
     "answer": "C"
   },
   {
+    "id": 3,
+    "type": "mcq",
+    "stem": "A student states that the recurrent nature of Ménière's attacks means the cochlear and vestibular structures completely recover after each episode. Which finding most strongly disproves this interpretation?",
+    "options": [
+      "Repeated membrane ruptures eventually produce permanent hair-cell destruction",
+      "Aural fullness can precede an attack",
+      "Vertigo can last several hours",
+      "Nystagmus occurs during acute episodes"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 4,
+    "type": "mcq",
+    "stem": "The abnormal fluid accumulation responsible for endolymphatic hydrops occurs primarily within the:",
+    "options": [
+      "Middle-ear cavity",
+      "External auditory canal",
+      "Perilymphatic space exclusively",
+      "Membranous labyrinth"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 5,
+    "type": "mcq",
+    "stem": "Which electrolyte relationship becomes clinically important when Reissner membrane ruptures?",
+    "options": [
+      "Potassium-rich endolymph mixes with sodium-rich perilymph",
+      "Sodium-rich endolymph mixes with potassium-rich perilymph",
+      "Calcium-rich perilymph mixes with sodium-rich endolymph",
+      "Potassium-rich perilymph mixes with calcium-rich endolymph"
+    ],
+    "answer": "A"
+  },
+  {
     "id": 6,
     "type": "mcq",
-    "stem": "A patient has unobstructed transmission of sound through the middle ear but impaired conversion or neural transmission of the signal. Which structures should the nurse suspect?",
+    "stem": "Why can hearing fluctuate during the earlier course of Ménière's disease yet become permanently impaired later?",
     "options": [
-      "External canal and tympanic membrane only",
-      "Cochlea, Organ of Corti hair cells, or Cranial Nerve VIII",
-      "Stapes and external auditory canal only",
-      "Tympanic membrane and ossicles exclusively"
+      "The auditory nerve regenerates between early attacks but loses this ability with age",
+      "Early membrane healing can restore the pressure gradient, whereas repeated ruptures progressively destroy hair cells",
+      "The tympanic membrane repeatedly perforates and eventually becomes scarred",
+      "Early disease is conductive and later disease becomes purely central"
     ],
     "answer": "B"
   },
   {
     "id": 7,
     "type": "mcq",
-    "stem": "Which etiologic grouping contains ONLY causes of conductive hearing loss from the notes?",
+    "stem": "A patient reports recurrent spinning attacks lasting approximately 90 minutes, roaring tinnitus, fluctuating hearing, and pressure in one ear. Which additional finding during an attack would be most consistent with the notes?",
     "options": [
-      "Cerumen impaction, otitis media, tympanic membrane perforation, otosclerosis",
-      "Presbycusis, otitis media, acoustic neuroma, otosclerosis",
-      "Cerumen impaction, Meniere's disease, foreign body, presbycusis",
-      "Ototoxic medications, loud noise, otosclerosis, tympanic membrane perforation"
+      "Loss of consciousness",
+      "Hyperreflexia",
+      "Nystagmus",
+      "Fixed dilated pupils"
     ],
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 8,
     "type": "mcq",
-    "stem": "Which etiologic grouping contains ONLY causes of sensorineural hearing loss listed in the notes?",
+    "stem": "Which feature best distinguishes the early hearing pattern of Ménière's disease from the high-frequency loss commonly associated with presbycusis?",
     "options": [
-      "Presbycusis, ototoxic medications, prolonged loud-noise exposure, acoustic neuroma",
-      "Presbycusis, cerumen impaction, Meniere's disease, acoustic neuroma",
-      "Otosclerosis, Meniere's disease, loud-noise exposure, otitis media",
-      "Tympanic membrane perforation, presbycusis, ototoxic medications, foreign body"
+      "Early preferential impairment of low-frequency tones",
+      "Complete bilateral deafness at onset",
+      "Conductive hearing loss during vertigo",
+      "Selective loss of speech comprehension with normal audiometry"
     ],
     "answer": "A"
   },
   {
     "id": 9,
     "type": "mcq",
-    "stem": "Which disorder is specifically associated with fixation of the stapes?",
+    "stem": "A patient describes a 'roaring ocean' sound that becomes more intense shortly before severe vertigo. Which manifestation is being described?",
     "options": [
-      "Presbycusis",
-      "Otosclerosis",
-      "Meniere's disease",
-      "Acoustic neuroma"
+      "Aural fullness",
+      "Vestibular paresis",
+      "Tinnitus",
+      "Nystagmus"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 10,
     "type": "mcq",
-    "stem": "Which anatomical pairing is CORRECT?",
+    "stem": "A sensation of weight, pressure, or a stuffed ear in Ménière's disease is most directly attributed to:",
     "options": [
-      "Conductive — cochlea and CN VIII",
-      "Sensorineural — external auditory canal and middle ear",
-      "Conductive — external and middle ear",
-      "Central — stapes and tympanic membrane"
+      "Reduced cerebral blood flow",
+      "Increased fluid volume within the labyrinth",
+      "Auditory cortical suppression",
+      "Stapes fixation"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 11,
     "type": "mcq",
-    "stem": "A Weber test lateralizes to the patient's right ear. A Rinne test on the right demonstrates BC ≥ AC. Which interpretation BEST fits the supplied material?",
+    "stem": "Which symptom cluster most strongly supports Ménière's disease according to the lecture notes?",
     "options": [
-      "Right sensorineural hearing loss",
-      "Left conductive hearing loss",
-      "Right conductive hearing loss",
-      "Left central hearing loss"
+      "Continuous vertigo, conductive hearing loss, pulsatile tinnitus, ear drainage",
+      "Episodic vertigo, fluctuating sensorineural hearing loss, tinnitus, aural fullness",
+      "Syncope, high-frequency conductive loss, tinnitus, headache",
+      "Brief positional dizziness, normal hearing, ear pain, fever"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 12,
     "type": "mcq",
-    "stem": "A Weber test lateralizes to the left ear because the right ear has sensorineural impairment. Which ear is functioning better?",
+    "stem": "Which patient history would be least consistent with the characteristic vertigo described in the notes?",
     "options": [
-      "Right",
-      "Left",
-      "Both equally",
-      "Cannot be determined from Weber testing"
+      "Severe spinning lasting 45 minutes",
+      "A two-hour episode accompanied by vomiting",
+      "A sudden episode accompanied by pallor and diaphoresis",
+      "A spinning sensation lasting three seconds with no other auditory symptoms"
     ],
-    "answer": "B"
+    "answer": "D"
   },
   {
     "id": 13,
     "type": "mcq",
-    "stem": "A patient has left-sided sensorineural hearing loss. Which Weber result would be expected?",
+    "stem": "During early Ménière's disease, pure-tone audiometry is expected to show which configuration?",
     "options": [
-      "Lateralization to the left ear",
-      "Lateralization to the right ear",
-      "BC ≥ AC on the right automatically",
-      "Sound absent in both ears"
+      "Upward-sloping sensory configuration reflecting low-frequency impairment",
+      "Flat conductive loss caused by ossicular fixation",
+      "Downward-sloping pattern caused exclusively by high-frequency destruction",
+      "Normal thresholds despite complete vestibular failure"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 14,
     "type": "mcq",
-    "stem": "A patient has right-sided conductive hearing loss. Which combination is expected?",
+    "stem": "The early audiometric pattern in Ménière's disease reflects preferential dysfunction involving sound processing in which cochlear region?",
     "options": [
-      "Weber → left; right Rinne AC > BC",
-      "Weber → right; right Rinne BC ≥ AC",
-      "Weber → left; right Rinne BC ≥ AC",
-      "Weber → right; right Rinne AC > BC with reduced overall time"
+      "Base",
+      "Apex",
+      "Round window",
+      "Vestibular nerve"
     ],
     "answer": "B"
   },
   {
     "id": 15,
     "type": "mcq",
-    "stem": "Which statement regarding the Rinne test in sensorineural hearing loss is MOST accurate according to the supplied material?",
+    "stem": "ENG/VNG testing demonstrates a reduced response after caloric stimulation of the symptomatic ear. This finding is most consistent with:",
     "options": [
-      "BC exceeds AC because the external canal is obstructed.",
-      "AC remains greater than BC, although overall hearing time is reduced.",
-      "BC and AC are necessarily equal.",
-      "Neither air nor bone conduction can occur."
+      "Vestibular paresis on the affected side",
+      "Normal vestibular function",
+      "Conductive deafness",
+      "Contralateral cochlear hyperactivity"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 16,
     "type": "mcq",
-    "stem": "A negative Rinne result is defined in these notes as:",
+    "stem": "A patient receives oral osmotic glycerol and demonstrates transient improvement in hearing thresholds two hours later. Which mechanism does this finding support?",
     "options": [
-      "AC > BC",
-      "BC ≥ AC",
-      "AC = 0",
-      "BC = 0"
+      "Ossicular fixation",
+      "Endolymphatic hydrops",
+      "Auditory cortical dysfunction",
+      "Tympanic membrane perforation"
     ],
     "answer": "B"
   },
   {
     "id": 17,
     "type": "mcq",
-    "stem": "Which combination would create a contradiction in the assessment of a single uncomplicated ear disorder based strictly on the comparison table?",
+    "stem": "Which response to a glycerol dehydration test would support the diagnosis described in the notes?",
     "options": [
-      "Otosclerosis + negative Rinne",
-      "Presbycusis + positive Rinne with reduced overall time",
-      "Cerumen impaction + Weber lateralizing to affected ear",
-      "Tympanic membrane perforation + Weber lateralizing to unaffected ear as an SNHL pattern"
+      "Permanent hearing normalization after 24 hours",
+      "Transient improvement in hearing thresholds 1–3 hours after glycerol",
+      "Immediate induction of conductive hearing loss",
+      "Complete elimination of tinnitus without threshold change"
     ],
-    "answer": "D"
+    "answer": "B"
   },
   {
     "id": 18,
     "type": "mcq",
-    "stem": "Which type of hearing loss is described as often reversible through medical or surgical intervention?",
+    "stem": "Which assessment detail would be most useful for identifying a possible aura preceding a Ménière's attack?",
     "options": [
-      "Conductive",
-      "Sensorineural",
-      "Central",
-      "All are described as equally reversible"
+      "Whether the patient experiences rising ear fullness or localized pressure",
+      "Whether the patient develops fever after eating",
+      "Whether hearing improves permanently after sleep",
+      "Whether the patient has external-ear tenderness"
     ],
     "answer": "A"
   },
   {
     "id": 19,
     "type": "mcq",
-    "stem": "Which hearing loss is described as typically permanent and managed with assistive devices?",
+    "stem": "A patient suddenly falls violently to the floor but remains fully conscious. The patient has known Ménière's disease. Which complication should the nurse suspect?",
     "options": [
-      "Conductive",
-      "Sensorineural",
-      "Temporary central",
-      "Cerumen-related"
+      "Syncope",
+      "Tumarkin's otolithic crisis",
+      "Generalized seizure",
+      "Acute acoustic neuroma"
     ],
     "answer": "B"
   },
   {
     "id": 20,
     "type": "mcq",
-    "stem": "A nurse reviews four medication orders. Which combination contains ONLY drug classes specifically identified as potentially ototoxic?",
+    "stem": "Which feature is essential for distinguishing the drop attack described in the notes from an episode involving true loss of consciousness?",
     "options": [
-      "Aminoglycosides, loop diuretics, chemotherapeutic agents, NSAIDs/salicylates",
-      "Aminoglycosides, beta-blockers, corticosteroids, salicylates",
-      "Loop diuretics, antihistamines, chemotherapeutic agents, opioids",
-      "NSAIDs, penicillins, aminoglycosides, proton-pump inhibitors"
+      "Severe tinnitus is absent",
+      "The patient remains conscious",
+      "Hearing immediately becomes normal",
+      "Vertigo must last more than six hours"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 21,
     "type": "mcq",
-    "stem": "Which medication-class pairing is INCORRECT?",
+    "stem": "The mechanical event underlying Tumarkin's crisis involves sudden deformation of the:",
     "options": [
-      "Gentamicin — aminoglycoside",
-      "Bumetanide — loop diuretic",
-      "Cisplatin — chemotherapeutic agent",
-      "Neomycin — loop diuretic"
+      "Otolith organs",
+      "Tympanic membrane",
+      "Auditory cortex",
+      "Ossicular chain"
     ],
-    "answer": "D"
+    "answer": "A"
   },
   {
     "id": 22,
     "type": "mcq",
-    "stem": "Which set contains ONLY aminoglycosides specifically named in the notes?",
+    "stem": "Which nursing priority is most important for a patient with a history of Tumarkin drop attacks?",
     "options": [
-      "Gentamicin, tobramycin, neomycin",
-      "Gentamicin, bumetanide, neomycin",
-      "Tobramycin, cisplatin, gentamicin",
-      "Neomycin, carboplatin, tobramycin"
+      "Restrict speech",
+      "Institute rigorous fall precautions",
+      "Increase sodium intake before ambulation",
+      "Encourage independent walking during attacks"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 23,
     "type": "mcq",
-    "stem": "Which set contains ONLY medications identified as loop diuretics in the supplied material?",
+    "stem": "A patient in an acute Ménière's crisis receives meclizine. Which therapeutic mechanism best explains its use?",
     "options": [
-      "Furosemide and bumetanide",
-      "Furosemide and cisplatin",
-      "Bumetanide and aspirin",
-      "Gentamicin and furosemide"
+      "It permanently destroys vestibular hair cells",
+      "It depresses CNS and labyrinthine excitability",
+      "It drains endolymph through a surgical shunt",
+      "It restores damaged cochlear hair cells"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 24,
     "type": "mcq",
-    "stem": "Which pair represents the chemotherapeutic agents specifically identified as ototoxic?",
+    "stem": "Which medication is paired correctly with its class in acute Ménière's management?",
     "options": [
-      "Cisplatin and carboplatin",
-      "Gentamicin and cisplatin",
-      "Carboplatin and bumetanide",
-      "Aspirin and cisplatin"
+      "Diazepam — benzodiazepine vestibular suppressant",
+      "Ondansetron — diuretic",
+      "Hydrochlorothiazide — antihistamine",
+      "Betahistine — aminoglycoside"
     ],
     "answer": "A"
   },
   {
     "id": 25,
     "type": "mcq",
-    "stem": "A patient receiving IV furosemide develops auditory symptoms shortly after an unusually rapid infusion. Which fact from the notes makes this particularly concerning?",
+    "stem": "A patient receives diazepam during a severe vertigo episode. Which assessment cluster is most directly related to the nursing concerns in the notes?",
     "options": [
-      "Furosemide becomes highly ototoxic when infused too rapidly IV.",
-      "Furosemide causes conductive blockage of the auditory canal.",
-      "Furosemide causes otosclerosis.",
-      "Furosemide directly perforates the tympanic membrane."
+      "Hyperglycemia, hypertension, and tinnitus",
+      "Sedation, respiratory depression, and gait unsteadiness",
+      "Hearing improvement, polyuria, and bradycardia",
+      "Hyperreflexia, insomnia, and hypertension"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 26,
     "type": "mcq",
-    "stem": "Which ototoxic exposure in the notes is specifically associated with tinnitus that is typically reversible?",
+    "stem": "A patient is vomiting repeatedly during an acute attack. Which medication from the notes is intended primarily to control this manifestation rather than vestibular excitability?",
     "options": [
-      "Chronic high-dose aspirin",
-      "Cisplatin",
-      "Gentamicin",
-      "Carboplatin"
+      "Meclizine",
+      "Hydrochlorothiazide",
+      "Ondansetron",
+      "Betahistine"
     ],
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 27,
     "type": "mcq",
-    "stem": "The primary structures at risk of permanent destruction from certain ototoxic medications include the:",
+    "stem": "Which medication-monitoring pair is correctly matched?",
     "options": [
-      "Cochlear hair cells",
-      "Tympanic membrane only",
-      "External auditory canal only",
-      "Stapes footplate exclusively"
+      "Ondansetron — QT prolongation",
+      "Meclizine — serum potassium depletion as its primary listed concern",
+      "Hydrochlorothiazide — extrapyramidal symptoms",
+      "Betahistine — respiratory depression"
     ],
     "answer": "A"
   },
   {
     "id": 28,
     "type": "mcq",
-    "stem": "Which additional system can be damaged by ototoxic medications besides cochlear hearing structures?",
+    "stem": "Which adverse effect should the nurse particularly monitor after administering prochlorperazine during an acute crisis?",
     "options": [
-      "Vestibular system",
-      "Integumentary system only",
-      "Olfactory system only",
-      "Visual cortex exclusively"
+      "Endolymphatic rupture",
+      "Extrapyramidal symptoms",
+      "Permanent vestibular ablation",
+      "Cochlear fibrosis"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 29,
     "type": "mcq",
-    "stem": "A 76-year-old repeatedly complains that others mumble and particularly struggles to hear high-frequency sounds. Which etiology is MOST consistent with the notes?",
+    "stem": "Which drug is used for long-term reduction of extracellular and endolymphatic fluid volume rather than immediate suppression of an acute attack?",
     "options": [
-      "Presbycusis",
-      "Cerumen impaction by definition",
-      "Tympanic membrane perforation",
-      "Otosclerosis by definition"
+      "Diazepam",
+      "Ondansetron",
+      "Hydrochlorothiazide",
+      "Prochlorperazine"
     ],
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 30,
     "type": "mcq",
-    "stem": "Which manifestation is identified as a common first sign of presbycusis?",
+    "stem": "A patient receiving maintenance diuretic therapy requires monitoring of which combination according to the notes?",
     "options": [
-      "Inability to hear high-pitched sounds",
-      "Inability to hear only low-pitched sounds",
-      "Sudden tympanic membrane perforation",
-      "High-pitched hearing-aid feedback"
+      "Serum potassium, blood pressure, hydration status",
+      "Visual acuity, intracranial pressure, respiratory rate",
+      "Calcium, pupil response, speech pattern",
+      "Audiometry every hour, QT interval, respiratory depth"
     ],
     "answer": "A"
   },
   {
     "id": 31,
     "type": "mcq",
-    "stem": "Which behavioral observation could indicate hearing impairment even if the patient denies difficulty hearing?",
+    "stem": "Which combination consists entirely of maintenance diuretics identified in the notes?",
     "options": [
-      "Setting television volume at levels uncomfortable for others",
-      "Speaking more quietly than everyone else in all circumstances",
-      "Avoiding all visual communication",
-      "Closing the eyes while listening"
+      "Hydrochlorothiazide and triamterene",
+      "Diazepam and amiloride",
+      "Meclizine and hydrochlorothiazide",
+      "Betahistine and triamterene"
     ],
     "answer": "A"
   },
   {
     "id": 32,
     "type": "mcq",
-    "stem": "A patient begins avoiding social conversations because understanding speech requires continuous effort. Which sequence BEST reflects the psychosocial concerns described?",
+    "stem": "Betahistine is used in the notes primarily because it is intended to:",
     "options": [
-      "Listening strain → withdrawal → social isolation → decreased cognitive stimulation",
-      "Listening strain → increased social activity → increased cognitive stimulation",
-      "Hearing loss → otosclerosis → depression → tympanic perforation",
-      "Withdrawal → improved auditory processing → reduced mental fatigue"
-    ],
-    "answer": "A"
-  },
-  {
-    "id": 33,
-    "type": "mcq",
-    "stem": "Which psychosocial consequence is specifically attributed to the constant effort required to decode conversations?",
-    "options": [
-      "Mental fatigue",
-      "Middle-ear pressure",
-      "Stapes fixation",
-      "Cochlear implantation"
-    ],
-    "answer": "A"
-  },
-  {
-    "id": 34,
-    "type": "mcq",
-    "stem": "The notes identify an emerging critical association between unaddressed hearing loss in older adults and:",
-    "options": [
-      "Accelerated cognitive decline",
-      "Improved visual processing",
-      "Reversible otosclerosis",
-      "Reduced social isolation"
-    ],
-    "answer": "A"
-  },
-  {
-    "id": 35,
-    "type": "mcq",
-    "stem": "A hearing-impaired patient says, 'I didn't understand that.' Which response BEST follows the recommended communication strategy?",
-    "options": [
-      "Repeat exactly the same sentence at a much louder volume.",
-      "Rephrase the information using simpler or different words.",
-      "Turn away and speak slowly toward the chart.",
-      "Raise the pitch while repeating each word."
+      "Ablate vestibular hair cells",
+      "Improve inner-ear microcirculation and facilitate endolymph drainage",
+      "Directly suppress vomiting through dopamine blockade",
+      "Remove the endolymphatic sac"
     ],
     "answer": "B"
   },
   {
+    "id": 33,
+    "type": "mcq",
+    "stem": "Which instruction is specifically associated with betahistine administration?",
+    "options": [
+      "Administer on an empty stomach",
+      "Administer with food to reduce GI upset",
+      "Administer only during drop attacks",
+      "Administer intratympanically"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 34,
+    "type": "mcq",
+    "stem": "Which prescription belongs to acute crisis termination rather than prophylactic maintenance?",
+    "options": [
+      "Triamterene",
+      "Amiloride",
+      "Meclizine",
+      "Betahistine"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 35,
+    "type": "mcq",
+    "stem": "Which medication-purpose pairing is incorrect?",
+    "options": [
+      "Meclizine — vestibular suppression",
+      "Ondansetron — control of nausea and vomiting",
+      "Hydrochlorothiazide — reduction of fluid volume",
+      "Gentamicin — preservation of vestibular hair cells"
+    ],
+    "answer": "D"
+  },
+  {
     "id": 36,
     "type": "mcq",
-    "stem": "Why is shouting specifically discouraged when communicating with a patient with sensorineural hearing loss?",
+    "stem": "A patient reports eating very little sodium most days but consuming a very high-sodium meal every weekend. Why is this pattern problematic according to the notes?",
     "options": [
-      "It raises voice pitch and can make understanding harder while distorting lip movements.",
-      "It causes immediate tympanic membrane perforation.",
-      "It converts sensorineural loss into conductive loss.",
-      "It suppresses Cranial Nerve VIII."
+      "Sodium spikes can draw fluid back into the labyrinth and precipitate a crisis",
+      "Low sodium permanently destroys vestibular hair cells",
+      "High sodium suppresses endolymph production completely",
+      "Variable sodium causes tympanic membrane perforation"
     ],
     "answer": "A"
   },
   {
     "id": 37,
     "type": "mcq",
-    "stem": "A nurse speaks loudly while covering the mouth and looking down at a medication chart. Which TWO communication principles are most directly violated?",
+    "stem": "Which daily sodium range is recommended in the lecture notes?",
     "options": [
-      "Appropriate pitch/tone and visible facial positioning",
-      "Battery preservation and safe storage",
-      "Water precautions and operative positioning",
-      "Cochlear stimulation and middle-ear pressure control"
+      "500–750 mg",
+      "1,500–2,000 mg",
+      "2,500–3,500 mg",
+      "4,000–5,000 mg"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 38,
     "type": "mcq",
-    "stem": "Before providing complex discharge instructions to a patient with hearing impairment, the nurse's FIRST environmental priority should be to:",
+    "stem": "Which dietary behavior most directly violates the fluid-consistency recommendation?",
     "options": [
-      "Gain the patient's full attention and minimize background noise.",
-      "Increase television volume.",
-      "Stand behind the patient.",
-      "Dim the light around the nurse's face."
+      "Distributing fluids evenly across waking hours",
+      "Drinking a massive quantity of fluid at one time",
+      "Maintaining a consistent intake pattern",
+      "Avoiding large fluid boluses"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 39,
     "type": "mcq",
-    "stem": "Which environmental modification is LEAST consistent with effective communication?",
+    "stem": "Why is nicotine specifically prohibited in the notes?",
     "options": [
-      "Turning off the television",
-      "Closing the door",
-      "Ensuring the nurse's face is well-lit",
-      "Increasing background sound to stimulate hearing"
+      "It causes vestibular nerve transection",
+      "Its vasoconstrictive effect reduces labyrinthine blood flow",
+      "It increases cochlear potassium excretion",
+      "It directly ruptures Reissner membrane"
     ],
-    "answer": "D"
+    "answer": "B"
   },
   {
     "id": 40,
     "type": "mcq",
-    "stem": "Which action BEST preserves visual speech cues?",
+    "stem": "Caffeine and alcohol are restricted primarily because the notes describe them as:",
     "options": [
-      "Face the patient directly with the face well-lit.",
-      "Stand behind the patient's good ear.",
-      "Look down while speaking.",
-      "Chew gum while exaggerating words."
+      "Ototoxic aminoglycosides",
+      "Stimulants and diuretics capable of disrupting baseline fluid balance",
+      "Direct causes of otolith deformation",
+      "Agents that permanently block Cranial Nerve VIII"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 41,
     "type": "mcq",
-    "stem": "Which nurse behavior should be avoided because it interferes specifically with the patient's ability to observe mouth movements?",
+    "stem": "During an acute vertigo attack, which positioning intervention is recommended?",
     "options": [
-      "Using written instructions",
-      "Covering the mouth while speaking",
-      "Closing the door",
-      "Rephrasing misunderstood information"
+      "Upright walking with assistance",
+      "Flat recumbent positioning",
+      "Trendelenburg with rapid head turning",
+      "Prone positioning with eyes closed"
     ],
     "answer": "B"
   },
   {
     "id": 42,
     "type": "mcq",
-    "stem": "Which strategy is MOST appropriate when communicating crucial medication times to a patient whose hearing impairment makes verbal instruction unreliable?",
+    "stem": "A patient experiencing severe spinning asks whether closing the eyes will help. According to the notes, the nurse should instead encourage the patient to:",
     "options": [
-      "Use written or visual supplements.",
-      "Shout each medication time.",
-      "Repeat the same phrase until understood.",
-      "Provide the information while facing away."
+      "Close the eyes tightly and rotate the head slowly",
+      "Look straight ahead at a fixed object",
+      "Sit upright and repeatedly turn the head",
+      "Walk to recalibrate vestibular feedback"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 43,
     "type": "mcq",
-    "stem": "Which combination consists entirely of visual communication supplements mentioned in the notes?",
+    "stem": "Why should unnecessary head movement be minimized during an acute attack?",
     "options": [
-      "Whiteboards, communication boards, pictograms, written instructions",
-      "Hearing aids, cochlear implants, tuning forks, written instructions",
-      "Pictograms, stapedectomy, whiteboards, ear molds",
-      "Communication boards, otoscopes, cochlear implants, pictograms"
+      "It may worsen the spinning sensation",
+      "It causes permanent cochlear destruction immediately",
+      "It raises serum potassium",
+      "It prevents antiemetics from working"
     ],
     "answer": "A"
   },
   {
     "id": 44,
     "type": "mcq",
-    "stem": "Which approach BEST combines the recommended environmental, positional and vocal techniques?",
+    "stem": "Which environmental arrangement is most appropriate during a severe attack?",
     "options": [
-      "Quiet room, face patient directly, well-lit face, clear natural speech",
-      "Television on, stand behind patient, shout slowly",
-      "Darkened face, cover mouth, increase pitch",
-      "Face chart, repeat identical sentences, increase volume"
+      "Bright lights, television on, frequent visitors",
+      "Darkened quiet room with minimal sensory stimulation",
+      "Continuous visual stimulation to retrain balance",
+      "Bright room with rapid positional changes"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 45,
     "type": "mcq",
-    "stem": "A patient misunderstands 'Take this tablet after breakfast.' Which response BEST follows the rephrasing principle?",
+    "stem": "Which combination represents the most complete fall-safety protocol described in the notes?",
     "options": [
-      "Say the identical sentence more loudly.",
-      "Say, 'After you eat breakfast, take this medicine.'",
-      "Turn away and repeat it.",
-      "Raise the pitch and spell every word verbally."
+      "Bed elevated, rails down, independent ambulation",
+      "Bed lowest position, side rails up, call light accessible, assistance with ambulation",
+      "Bed lowest position, eyes closed, unrestricted ambulation",
+      "Side rails up only during sleep"
     ],
     "answer": "B"
   },
   {
     "id": 46,
     "type": "mcq",
-    "stem": "Which hearing-aid cleaning technique is appropriate?",
+    "stem": "Why should a patient with severe acute Ménière's vertigo receive assistance with all ambulation?",
     "options": [
-      "Clean the ear mold daily with a dry, soft cloth.",
-      "Submerge the entire device in water.",
-      "Clean the device with harsh chemical solvent.",
-      "Soak the battery compartment overnight."
+      "Auditory processing is completely absent",
+      "Proprioceptive and vestibular feedback are severely compromised",
+      "The patient necessarily loses consciousness",
+      "Ambulation causes permanent rupture of the tympanic membrane"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 47,
     "type": "mcq",
-    "stem": "Which action creates the GREATEST conflict with the hearing-aid maintenance instructions?",
+    "stem": "A patient with recurrent unpredictable attacks stops attending work functions and avoids friends. Which nursing assessment domain is most directly indicated?",
     "options": [
-      "Using a dry soft cloth",
-      "Keeping spare batteries available",
-      "Submerging the device in water for cleaning",
-      "Opening the battery compartment at bedtime"
+      "Anxiety, depression, and social withdrawal",
+      "Hyperthyroidism and glucose intolerance",
+      "Tympanic perforation and otitis externa",
+      "Language aphasia and visual neglect"
     ],
-    "answer": "C"
+    "answer": "A"
   },
   {
     "id": 48,
     "type": "mcq",
-    "stem": "At bedtime, which combination BEST preserves hearing-aid battery life?",
+    "stem": "Which statement best explains why psychosocial assessment is important in Ménière's disease?",
     "options": [
-      "Leave it on and close the battery compartment.",
-      "Turn it off and open the battery compartment.",
-      "Turn it on and remove the ear mold.",
-      "Submerge it in water and remove the battery."
+      "Attacks are predictable and therefore rarely affect daily life",
+      "The unpredictable and incapacitating nature of attacks can disrupt career, social life, and emotional well-being",
+      "The disease affects hearing but never social functioning",
+      "Psychosocial effects occur only after surgery"
     ],
     "answer": "B"
   },
   {
     "id": 49,
     "type": "mcq",
-    "stem": "A hearing aid suddenly produces a high-pitched whistling sound while in the patient's ear. What should the nurse suspect FIRST according to the notes?",
+    "stem": "A patient has refractory vertigo despite appropriate conservative therapy. Intratympanic gentamicin is proposed. What is the intended therapeutic target?",
     "options": [
-      "The ear mold is loose or improperly inserted.",
-      "The patient has developed acute otosclerosis.",
-      "The battery is necessarily overcharged.",
-      "The tympanic membrane has ruptured."
+      "Cochlear hair-cell regeneration",
+      "Destruction of vestibular hair cells to suppress vertigo",
+      "Repair of Reissner membrane",
+      "Expansion of the endolymphatic sac"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 50,
     "type": "mcq",
-    "stem": "Which storage location BEST reduces the risk that a hospitalized patient's hearing aid will be accidentally discarded?",
+    "stem": "The major trade-off of intratympanic gentamicin therapy is:",
     "options": [
-      "Wrapped in tissue on the bedside table",
-      "Inside the patient's meal tray",
-      "In a labeled container inside the bedside drawer",
-      "Loose between the bedsheets"
+      "Excellent hearing restoration but persistent vertigo",
+      "Vertigo control at the risk of permanent hearing loss",
+      "Temporary conductive loss without vestibular effects",
+      "Guaranteed preservation of both hearing and vestibular function"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 51,
     "type": "mcq",
-    "stem": "Which location is NOT specifically identified as unsafe for leaving a hearing aid loose?",
+    "stem": "Which intratympanic therapy is described as reducing inflammation without intentionally damaging hearing?",
     "options": [
-      "Meal tray",
-      "Bedsheets",
-      "Tissue box",
-      "Labeled container in bedside drawer"
+      "Gentamicin",
+      "Dexamethasone",
+      "Hydrochlorothiazide",
+      "Diazepam"
     ],
-    "answer": "D"
+    "answer": "B"
   },
   {
     "id": 52,
     "type": "mcq",
-    "stem": "A nurse finds a patient's hearing aid wrapped in tissue on a meal tray. Which risk is MOST directly addressed by the storage recommendation?",
+    "stem": "Which procedure attempts to control hydrops while preserving remaining hearing by creating room for expansion or drainage of the endolymphatic sac?",
     "options": [
-      "Accidental disposal of the device",
-      "Immediate cochlear hair-cell destruction",
-      "Middle-ear pressure accumulation",
-      "Development of presbycusis"
+      "Labyrinthectomy",
+      "Vestibular nerve sectioning",
+      "Endolymphatic sac decompression",
+      "Chemical vestibular ablation"
     ],
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 53,
     "type": "mcq",
-    "stem": "Which intervention bypasses damaged cochlear hair cells and directly stimulates the auditory nerve?",
+    "stem": "During endolymphatic sac decompression, which action is described in the notes?",
     "options": [
-      "Tympanoplasty",
-      "Stapedectomy",
-      "Cochlear implant",
-      "Traditional hearing aid"
+      "Removal of cochlear hair cells",
+      "Removal of bone overlying the sac, with possible shunt placement",
+      "Transection of the cochlear branch of CN VIII",
+      "Excision of all labyrinthine contents"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 54,
     "type": "mcq",
-    "stem": "Which patient MOST closely meets the indication for cochlear implantation given in the notes?",
+    "stem": "Which intervention controls vertigo by surgically cutting a specific branch of Cranial Nerve VIII while attempting to preserve cochlear hearing?",
     "options": [
-      "Patient with unilateral cerumen impaction",
-      "Patient with profound bilateral sensorineural loss and no benefit from traditional hearing aids",
-      "Patient with isolated tympanic membrane perforation",
-      "Patient with otosclerosis responsive to conductive amplification"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 55,
-    "type": "mcq",
-    "stem": "The therapeutic logic of a cochlear implant is BEST summarized as:",
-    "options": [
-      "Repair the tympanic membrane so sound reaches the middle ear.",
-      "Remove the stapes to eliminate all neural transmission.",
-      "Bypass damaged cochlear hair cells and stimulate the auditory nerve.",
-      "Restore auditory-cortex processing by increasing middle-ear pressure."
+      "Labyrinthectomy",
+      "Endolymphatic sac decompression",
+      "Vestibular nerve sectioning",
+      "Intratympanic dexamethasone"
     ],
     "answer": "C"
   },
   {
-    "id": 56,
+    "id": 55,
     "type": "mcq",
-    "stem": "Which surgical procedure reconstructs the tympanic membrane?",
+    "stem": "Which major procedural requirement distinguishes vestibular nerve sectioning in the notes?",
     "options": [
-      "Stapedectomy",
-      "Tympanoplasty",
-      "Cochlear implantation",
-      "Otosclerosis"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 57,
-    "type": "mcq",
-    "stem": "The principal hearing-loss category targeted by tympanoplasty in the supplied material is:",
-    "options": [
-      "Conductive",
-      "Central",
-      "Pure sensorineural",
-      "Cortical"
+      "It requires a craniotomy approach",
+      "It requires complete pre-existing deafness",
+      "It is performed through oral glycerol administration",
+      "It requires destruction of the entire labyrinth"
     ],
     "answer": "A"
   },
   {
+    "id": 56,
+    "type": "mcq",
+    "stem": "Which advanced intervention provides absolute vertigo relief at the cost of complete permanent hearing destruction in the treated ear?",
+    "options": [
+      "Endolymphatic sac decompression",
+      "Intratympanic dexamethasone",
+      "Labyrinthectomy",
+      "Betahistine therapy"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 57,
+    "type": "mcq",
+    "stem": "Which patient is the most appropriate candidate for labyrinthectomy according to the notes?",
+    "options": [
+      "A patient with useful hearing who has had one mild attack",
+      "A patient whose affected ear already has completely non-functional hearing and refractory vertigo",
+      "A patient with normal hearing and isolated tinnitus",
+      "A patient whose symptoms are fully controlled by sodium restriction"
+    ],
+    "answer": "B"
+  },
+  {
     "id": 58,
     "type": "mcq",
-    "stem": "Which procedure involves removal of the stapes footplate followed by insertion of a tissue graft or prosthesis?",
+    "stem": "A patient with useful residual hearing requires advanced treatment for refractory vertigo. Which option is specifically described as preserving remaining hearing through decompression rather than neural transection or labyrinth destruction?",
     "options": [
-      "Tympanoplasty",
-      "Stapedectomy",
-      "Cochlear implantation",
-      "Auditory cortical reconstruction"
+      "Labyrinthectomy",
+      "Endolymphatic sac decompression",
+      "Intratympanic gentamicin",
+      "Complete labyrinth ablation"
     ],
     "answer": "B"
   },
   {
     "id": 59,
     "type": "mcq",
-    "stem": "The gold-standard surgical intervention identified for otosclerosis is:",
+    "stem": "Which comparison between intratympanic gentamicin and dexamethasone is accurate?",
     "options": [
-      "Tympanoplasty",
-      "Stapedectomy",
-      "Cochlear implantation",
-      "Myringotomy"
+      "Both intentionally destroy vestibular hair cells.",
+      "Gentamicin chemically ablates vestibular hair cells; dexamethasone reduces inflammation without damaging hearing.",
+      "Dexamethasone destroys cochlear hair cells; gentamicin preserves them.",
+      "Both require craniotomy."
     ],
     "answer": "B"
   },
   {
     "id": 60,
     "type": "mcq",
-    "stem": "Which disease-mechanism-procedure sequence is CORRECT?",
+    "stem": "Which intervention-mechanism-outcome sequence contains no mismatch?",
     "options": [
-      "Otosclerosis → stapes fixation → stapedectomy",
-      "Presbycusis → tympanic perforation → tympanoplasty",
-      "Cerumen impaction → cochlear hair-cell destruction → cochlear implant",
-      "Central hearing loss → stapes fixation → stapedectomy"
+      "Labyrinthectomy → excision of labyrinthine contents → complete permanent hearing destruction in that ear",
+      "Sac decompression → vestibular nerve transection → complete deafness",
+      "Gentamicin → anti-inflammatory action → guaranteed hearing preservation",
+      "Vestibular nerve section → cochlear branch transection → preservation of vertigo"
     ],
     "answer": "A"
   },
   {
     "id": 61,
     "type": "mcq",
-    "stem": "A patient undergoes reconstruction specifically to restore the anatomy of a perforated tympanic membrane and improve hearing. Which procedure was most likely performed?",
+    "stem": "Which intervention-mechanism pairing is incorrect?",
     "options": [
-      "Tympanoplasty",
-      "Stapedectomy",
-      "Cochlear implantation",
-      "Vestibular stimulation"
+      "Gentamicin — vestibular hair-cell destruction",
+      "Endolymphatic sac decompression — facilitates expansion/drainage",
+      "Vestibular nerve sectioning — cuts vestibular branch of CN VIII",
+      "Labyrinthectomy — selectively preserves all hearing while removing only middle-ear structures"
     ],
-    "answer": "A"
+    "answer": "D"
   },
   {
     "id": 62,
     "type": "mcq",
-    "stem": "Following ear surgery, which instruction BEST prevents sudden increases in middle-ear pressure?",
+    "stem": "A patient asks why the disease can affect both balance and hearing. Which explanation best follows the notes?",
     "options": [
-      "Sneeze with the mouth closed.",
-      "Blow the nose forcefully to clear secretions.",
-      "Keep the mouth open when sneezing.",
-      "Suppress every cough by closing the mouth."
+      "Endolymphatic hydrops disrupts structures involved in both vestibular and auditory function",
+      "The disorder is confined to the tympanic membrane but secondarily causes anxiety",
+      "The disorder exclusively damages the auditory cortex",
+      "The disease affects the external auditory canal and visual system"
     ],
-    "answer": "C"
+    "answer": "A"
   },
   {
     "id": 63,
     "type": "mcq",
-    "stem": "A postoperative ear-surgery patient feels an unavoidable sneeze coming. Which action should the nurse reinforce?",
+    "stem": "A patient experiences worsening roaring tinnitus and increasing aural pressure followed by severe spinning, vomiting, pallor, diaphoresis, and nystagmus. Which interpretation best integrates these findings?",
     "options": [
-      "Pinch the nose and close the mouth.",
-      "Keep the mouth open while sneezing.",
-      "Lie immediately on the operative ear.",
-      "Blow the nose immediately afterward."
+      "A characteristic acute Ménière's attack preceded by auditory/pressure changes",
+      "An isolated conductive hearing disorder",
+      "A Tumarkin crisis because loss of consciousness is expected",
+      "Permanent vestibular destruction without an acute episode"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 64,
     "type": "mcq",
-    "stem": "Why are forceful nose blowing, closed-mouth coughing and closed-mouth sneezing discouraged after ear surgery?",
+    "stem": "Which finding most directly reflects chemical intoxication of vestibular and cochlear hair cells after membrane rupture?",
     "options": [
-      "They may create sudden middle-ear pressure spikes.",
-      "They permanently increase auditory-cortex activity.",
-      "They reduce battery life in hearing aids.",
-      "They cause age-related cochlear degeneration."
+      "Abnormal mixing of potassium-rich endolymph with perilymph causing depolarization and neural blockade",
+      "Mechanical fixation of the stapes",
+      "Reduced sodium intake causing tympanic collapse",
+      "Obstruction of the external canal by endolymph"
     ],
     "answer": "A"
   },
   {
     "id": 65,
     "type": "mcq",
-    "stem": "A patient has surgery on the LEFT ear. Which immediate postoperative positioning is consistent with the supplied instructions?",
+    "stem": "A patient has recurrent attacks but returns toward baseline between episodes. Which pathophysiologic event most directly accounts for this temporary recovery?",
     "options": [
-      "Left side down",
-      "Right side down",
-      "Operative ear directly against the pillow",
-      "Either side because positioning has no relevance"
+      "Permanent destruction of all vestibular hair cells",
+      "Healing of the ruptured membrane with resetting of the pressure gradient",
+      "Surgical decompression of the endolymphatic sac",
+      "Permanent transection of CN VIII"
     ],
     "answer": "B"
   },
   {
     "id": 66,
     "type": "mcq",
-    "stem": "Why is a postoperative patient positioned with the good ear down?",
+    "stem": "Which clinical trajectory is most consistent with untreated progressive Ménière's disease as described?",
     "options": [
-      "To prevent pressure accumulation and graft displacement on the surgical side",
-      "To increase pressure against the operative ear",
-      "To improve cochlear hair-cell regeneration",
-      "To produce a negative Rinne test"
-    ],
-    "answer": "A"
-  },
-  {
-    "id": 67,
-    "type": "mcq",
-    "stem": "Which postoperative positioning order should the nurse QUESTION for a patient who has just undergone right-ear surgery?",
-    "options": [
-      "Position on the left side.",
-      "Keep the unaffected ear down.",
-      "Position the right operative ear directly downward.",
-      "Avoid pressure on the surgical side."
-    ],
-    "answer": "C"
-  },
-  {
-    "id": 68,
-    "type": "mcq",
-    "stem": "Which showering precaution is specifically recommended following ear surgery?",
-    "options": [
-      "Allow water into the canal to clean the wound.",
-      "Place a petroleum-jelly-saturated cotton ball in the outer ear.",
-      "Submerge the operative ear briefly after each shower.",
-      "Remove all protection so the canal can drain water."
+      "Permanent hearing loss at the first episode followed by complete recovery over years",
+      "Fluctuating hearing impairment early, followed by progressively permanent hearing loss after repeated injury",
+      "Pure conductive loss progressing to tympanic membrane rupture",
+      "Low-frequency impairment early followed by guaranteed complete vestibular recovery"
     ],
     "answer": "B"
   },
   {
+    "id": 67,
+    "type": "mcq",
+    "stem": "A hospitalized patient receives diazepam during a severe attack and becomes drowsy and unsteady. Which nursing intervention from the notes becomes especially important?",
+    "options": [
+      "Encourage unassisted ambulation to assess treatment response",
+      "Keep bed rails up and monitor respiratory status",
+      "Increase environmental stimulation",
+      "Administer a high-sodium snack"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 68,
+    "type": "mcq",
+    "stem": "Which treatment strategy most directly modifies the hydrops itself rather than simply controlling nausea or suppressing vestibular symptoms during an attack?",
+    "options": [
+      "Ondansetron",
+      "Prochlorperazine",
+      "Maintenance diuretic therapy",
+      "Diazepam"
+    ],
+    "answer": "C"
+  },
+  {
     "id": 69,
     "type": "mcq",
-    "stem": "The postoperative ear dressing and canal should remain:",
+    "stem": "A patient has useful cochlear hearing but disabling refractory vertigo. Which procedure achieves vertigo relief by interrupting vestibular neural transmission while specifically preserving cochlear hearing?",
     "options": [
-      "Moist",
-      "Dry",
-      "Open to shower water",
-      "Submerged daily"
+      "Labyrinthectomy",
+      "Vestibular nerve sectioning",
+      "Intratympanic gentamicin",
+      "Chemical cochlear ablation"
     ],
     "answer": "B"
   },
   {
     "id": 70,
     "type": "mcq",
-    "stem": "Which postoperative finding should trigger the GREATEST concern for inner-ear injury or prosthesis displacement based on the notes?",
+    "stem": "Which patient situation represents the greatest immediate physical-safety concern described in the lecture?",
     "options": [
-      "Patient requests written medication instructions.",
-      "Sudden complete hearing loss with severe vertigo.",
-      "Patient asks the nurse to repeat a sentence.",
-      "Hearing aid battery is depleted."
+      "A patient reporting mild aural fullness before an attack",
+      "A patient with chronic low-frequency hearing impairment",
+      "A patient experiencing sudden Tumarkin drop attacks without loss of consciousness",
+      "A patient taking betahistine with food"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 71,
-    "type": "mcq",
-    "stem": "Which group contains ONLY postoperative warning findings specifically identified in the notes?",
-    "options": [
-      "Severe vertigo, nausea, vomiting, sudden complete hearing loss",
-      "Tinnitus, cerumen, loneliness, high-pitched speech",
-      "Mild fatigue, depression, social withdrawal, nausea",
-      "Foreign body, otitis media, vomiting, presbycusis"
-    ],
-    "answer": "A"
+    "type": "fitb",
+    "stem": "The abnormal accumulation of endolymph producing increased hydrostatic pressure in Ménière's disease is termed __________.",
+    "answer": "endolymphatic hydrops",
+    "acceptableAnswers": [
+      "endolymphatic hydrops",
+      "hydrops"
+    ]
   },
   {
     "id": 72,
-    "type": "mcq",
-    "stem": "Severe vertigo and sudden complete hearing loss after stapes surgery may indicate:",
-    "options": [
-      "Inner-ear injury or displacement of the prosthesis",
-      "Normal adaptation to the hearing aid",
-      "Expected presbycusis",
-      "Central auditory improvement"
-    ],
-    "answer": "A"
+    "type": "fitb",
+    "stem": "The delicate membrane described as separating potassium-rich endolymph from sodium-rich perilymph is the __________ membrane.",
+    "answer": "Reissner",
+    "acceptableAnswers": [
+      "Reissner",
+      "Reissner membrane",
+      "Reissner's membrane"
+    ]
   },
   {
     "id": 73,
-    "type": "mcq",
-    "stem": "A patient has stapes fixation, Weber lateralization toward the affected ear, and BC ≥ AC. Which complete diagnostic-treatment pairing BEST integrates these findings?",
-    "options": [
-      "Otosclerosis → conductive loss → stapedectomy",
-      "Presbycusis → sensorineural loss → tympanoplasty",
-      "Acoustic neuroma → conductive loss → stapedectomy",
-      "Central loss → conductive loss → cochlear implant"
-    ],
-    "answer": "A"
+    "type": "fitb",
+    "stem": "The electrolyte described as being present in high concentration in endolymph is __________.",
+    "answer": "potassium",
+    "acceptableAnswers": [
+      "potassium",
+      "K+",
+      "K"
+    ]
   },
   {
     "id": 74,
-    "type": "mcq",
-    "stem": "A patient has prolonged loud-noise exposure, Weber lateralization away from the affected ear, and AC > BC despite reduced hearing duration. Which classification BEST integrates all three findings?",
-    "options": [
-      "Conductive hearing loss",
-      "Sensorineural hearing loss",
-      "Mixed loss caused solely by middle-ear disease",
-      "Functional loss caused solely by cortical dysfunction"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "The electrolyte described as being present in high concentration in perilymph is __________.",
+    "answer": "sodium",
+    "acceptableAnswers": [
+      "sodium",
+      "Na+",
+      "Na"
+    ]
   },
   {
     "id": 75,
-    "type": "mcq",
-    "stem": "Which scenario MOST strongly suggests conductive rather than sensorineural hearing loss?",
-    "options": [
-      "Cisplatin exposure with Weber lateralizing to the good ear",
-      "Presbycusis with difficulty hearing high-pitched sounds",
-      "Middle-ear fluid with Weber lateralizing to the affected ear",
-      "Prolonged loud-noise exposure with reduced hearing duration"
-    ],
-    "answer": "C"
+    "type": "fitb",
+    "stem": "Repeated membrane rupture eventually produces permanent destruction of cochlear and vestibular __________.",
+    "answer": "hair cells",
+    "acceptableAnswers": [
+      "hair cells",
+      "sensory hair cells"
+    ]
   },
   {
     "id": 76,
-    "type": "mcq",
-    "stem": "Which scenario MOST strongly suggests sensorineural rather than conductive hearing loss?",
-    "options": [
-      "Cerumen obstruction with BC ≥ AC",
-      "Stapes fixation with Weber toward the bad ear",
-      "Cisplatin exposure with Weber toward the good ear",
-      "Tympanic membrane perforation with negative Rinne"
-    ],
-    "answer": "C"
+    "type": "fitb",
+    "stem": "Early Ménière's disease preferentially impairs __________-frequency hearing.",
+    "answer": "low",
+    "acceptableAnswers": [
+      "low",
+      "low frequency",
+      "low-frequency"
+    ]
   },
   {
     "id": 77,
-    "type": "mcq",
-    "stem": "A patient has normal peripheral auditory anatomy but difficulty decoding auditory signals. Which finding would MOST directly distinguish this mechanism from the two major peripheral types?",
-    "options": [
-      "The problem lies in CNS/auditory-cortex processing.",
-      "The problem lies in fixation of the stapes.",
-      "The problem lies in cochlear hair-cell destruction.",
-      "The problem lies in obstruction of the external canal."
-    ],
-    "answer": "A"
+    "type": "fitb",
+    "stem": "The cochlear region associated in the notes with early low-frequency impairment is the __________.",
+    "answer": "apex",
+    "acceptableAnswers": [
+      "apex",
+      "cochlear apex",
+      "apex of the cochlea"
+    ]
   },
   {
     "id": 78,
-    "type": "mcq",
-    "stem": "Which chain contains NO mismatch?",
-    "options": [
-      "Cerumen → conductive → affected-ear Weber lateralization → often reversible",
-      "Presbycusis → conductive → negative Rinne → often reversible",
-      "Otosclerosis → sensorineural → unaffected-ear Weber lateralization → permanent",
-      "Cisplatin → conductive → affected-ear Weber lateralization → stapedectomy"
-    ],
-    "answer": "A"
+    "type": "fitb",
+    "stem": "A reduced or blunted vestibular response on ENG/VNG is termed vestibular __________.",
+    "answer": "paresis",
+    "acceptableAnswers": [
+      "paresis",
+      "vestibular paresis"
+    ]
   },
   {
     "id": 79,
-    "type": "mcq",
-    "stem": "Which chain contains NO mismatch?",
-    "options": [
-      "Prolonged loud noise → SNHL → cochlear involvement → typically permanent",
-      "Otitis media → SNHL → CN VIII destruction → typically permanent",
-      "Tympanic perforation → central loss → impaired cortical decoding",
-      "Acoustic neuroma → conductive loss → stapes fixation"
-    ],
-    "answer": "A"
+    "type": "fitb",
+    "stem": "Transient improvement in hearing thresholds 1–3 hours after oral osmotic __________ supports underlying endolymphatic hydrops.",
+    "answer": "glycerol",
+    "acceptableAnswers": [
+      "glycerol",
+      "osmotic glycerol"
+    ]
   },
   {
     "id": 80,
-    "type": "mcq",
-    "stem": "A patient with severe age-related sensorineural degeneration develops fluid-filled otitis media in the same ear. The resulting hearing deficit should be classified as:",
-    "options": [
-      "Pure conductive",
-      "Pure sensorineural",
-      "Mixed",
-      "Central"
-    ],
-    "answer": "C"
+    "type": "fitb",
+    "stem": "The sudden drop attack in which a Ménière's patient may be violently thrown to the floor without losing consciousness is called __________.",
+    "answer": "Tumarkin's otolithic crisis",
+    "acceptableAnswers": [
+      "Tumarkin's otolithic crisis",
+      "Tumarkin otolithic crisis",
+      "Tumarkin's crisis",
+      "Tumarkin crisis",
+      "Tumarkin drop attack"
+    ]
   },
   {
     "id": 81,
-    "type": "mcq",
-    "stem": "A nurse must choose the MOST inappropriate communication technique for a patient with sensorineural hearing loss. Which should be avoided?",
-    "options": [
-      "Speaking naturally and clearly",
-      "Rephrasing misunderstood statements",
-      "Shouting to maximize loudness",
-      "Providing written medication instructions"
-    ],
-    "answer": "C"
+    "type": "fitb",
+    "stem": "The structures undergoing sudden mechanical deformation during Tumarkin's crisis are the __________ organs.",
+    "answer": "otolith",
+    "acceptableAnswers": [
+      "otolith",
+      "otolith organs",
+      "otolithic"
+    ]
   },
   {
     "id": 82,
-    "type": "mcq",
-    "stem": "Which patient statement after teaching indicates a NEED for further instruction?",
-    "options": [
-      "\"I will ask people to face me when speaking.\"",
-      "\"Reducing background noise may help me understand speech.\"",
-      "\"If I don't understand, they should shout the exact same words repeatedly.\"",
-      "\"Written instructions may help with important medication information.\""
-    ],
-    "answer": "C"
+    "type": "fitb",
+    "stem": "The antihistamine vestibular suppressant listed for acute attacks is __________.",
+    "answer": "meclizine",
+    "acceptableAnswers": [
+      "meclizine"
+    ]
   },
   {
     "id": 83,
-    "type": "mcq",
-    "stem": "Which hearing-aid statement indicates a NEED for further teaching?",
-    "options": [
-      "\"I'll keep spare batteries available.\"",
-      "\"I'll open the battery compartment when the aid is off at bedtime.\"",
-      "\"I'll use a dry soft cloth to clean the ear mold.\"",
-      "\"I'll soak the whole device in water for a thorough cleaning.\""
-    ],
-    "answer": "D"
+    "type": "fitb",
+    "stem": "The benzodiazepine listed for acute vestibular suppression is __________.",
+    "answer": "diazepam",
+    "acceptableAnswers": [
+      "diazepam"
+    ]
   },
   {
     "id": 84,
-    "type": "mcq",
-    "stem": "Which post-ear-surgery statement indicates CORRECT understanding?",
-    "options": [
-      "\"I'll close my mouth tightly whenever I sneeze.\"",
-      "\"I'll blow my nose forcefully if my ears feel blocked.\"",
-      "\"I'll keep my mouth open if I have to sneeze.\"",
-      "\"I'll allow shower water into the canal to prevent dryness.\""
-    ],
-    "answer": "C"
+    "type": "fitb",
+    "stem": "The antiemetic in the notes requiring monitoring for QT prolongation is __________.",
+    "answer": "ondansetron",
+    "acceptableAnswers": [
+      "ondansetron"
+    ]
   },
   {
     "id": 85,
-    "type": "mcq",
-    "stem": "Which post-ear-surgery statement indicates a NEED for immediate correction?",
-    "options": [
-      "\"I will protect the ear from water.\"",
-      "\"I'll sleep with my unaffected ear down as instructed.\"",
-      "\"If I sneeze, I'll keep my mouth open.\"",
-      "\"If the ear feels pressured, I'll blow my nose forcefully.\""
-    ],
-    "answer": "D"
+    "type": "fitb",
+    "stem": "The acute antiemetic associated in the notes with monitoring for extrapyramidal symptoms is __________.",
+    "answer": "prochlorperazine",
+    "acceptableAnswers": [
+      "prochlorperazine"
+    ]
   },
   {
     "id": 86,
-    "type": "mcq",
-    "stem": "A patient has profound bilateral SNHL, no benefit from conventional hearing aids, and damaged cochlear hair cells. Which intervention and mechanism are correctly paired?",
-    "options": [
-      "Tympanoplasty — directly stimulates CN VIII",
-      "Stapedectomy — bypasses cochlear hair cells",
-      "Cochlear implant — bypasses damaged hair cells and directly stimulates the auditory nerve",
-      "Hearing aid — reconstructs the tympanic membrane"
-    ],
-    "answer": "C"
+    "type": "fitb",
+    "stem": "Maintenance diuretics decrease the severity of hydrops by reducing total extracellular and __________ fluid volume.",
+    "answer": "endolymphatic",
+    "acceptableAnswers": [
+      "endolymphatic",
+      "endolymph"
+    ]
   },
   {
     "id": 87,
-    "type": "mcq",
-    "stem": "Which finding would make a cochlear implant indication LESS consistent with the specific indication described in the notes?",
-    "options": [
-      "Profound hearing loss",
-      "Bilateral sensorineural loss",
-      "No benefit from traditional hearing aids",
-      "Isolated reversible conductive obstruction from cerumen"
-    ],
-    "answer": "D"
+    "type": "fitb",
+    "stem": "A maintenance vasodilator described as improving inner-ear microcirculation and facilitating endolymph drainage is __________.",
+    "answer": "betahistine",
+    "acceptableAnswers": [
+      "betahistine"
+    ]
   },
   {
     "id": 88,
-    "type": "mcq",
-    "stem": "A patient's hearing loss results from otosclerosis. Which sequence MOST logically follows the notes?",
-    "options": [
-      "Stapes fixation → conductive deficit → negative Rinne → possible stapedectomy",
-      "Hair-cell destruction → sensorineural deficit → negative Rinne → tympanoplasty",
-      "Auditory-cortex dysfunction → conductive deficit → stapedectomy",
-      "CN VIII damage → conductive deficit → cochlear implant"
-    ],
-    "answer": "A"
+    "type": "fitb",
+    "stem": "The recommended daily sodium limit in the notes is __________ mg per day.",
+    "answer": "1,500–2,000",
+    "acceptableAnswers": [
+      "1,500–2,000",
+      "1500–2000",
+      "1500-2000",
+      "1,500-2,000",
+      "1500 to 2000",
+      "1,500 to 2,000"
+    ]
   },
   {
     "id": 89,
-    "type": "mcq",
-    "stem": "Which statement is FALSE based on the supplied material?",
-    "options": [
-      "Sensorineural loss can involve the cochlea or CN VIII.",
-      "Conductive loss may result from middle-ear fluid.",
-      "Functional/central loss requires abnormal peripheral ear structures.",
-      "Mixed loss combines conductive and sensorineural pathology."
-    ],
-    "answer": "C"
+    "type": "fitb",
+    "stem": "During an acute attack, the patient should look straight ahead at a __________ object rather than closing the eyes.",
+    "answer": "fixed",
+    "acceptableAnswers": [
+      "fixed",
+      "fixed object",
+      "stationary object"
+    ]
   },
   {
     "id": 90,
-    "type": "mcq",
-    "stem": "Which statement is FALSE regarding hearing-aid care?",
-    "options": [
-      "A loose ear mold may produce feedback.",
-      "Opening the battery compartment when not in use can preserve battery life.",
-      "The device should be stored in a labeled container.",
-      "Harsh chemical solvents are recommended for routine cleaning."
-    ],
-    "answer": "D"
+    "type": "fitb",
+    "stem": "During an acute vertigo attack, the room should be kept __________ and quiet to minimize sensory stimulation.",
+    "answer": "darkened",
+    "acceptableAnswers": [
+      "darkened",
+      "dark",
+      "dim"
+    ]
   },
   {
     "id": 91,
-    "type": "mcq",
-    "stem": "Which statement is FALSE regarding postoperative ear care?",
-    "options": [
-      "The ear canal should be protected from water.",
-      "The patient should avoid sudden increases in middle-ear pressure.",
-      "The operative ear should routinely be positioned downward to stabilize the graft.",
-      "Severe vertigo should be monitored as a possible complication."
-    ],
-    "answer": "C"
+    "type": "fitb",
+    "stem": "Nicotine is prohibited because its __________ effect reduces labyrinthine blood flow.",
+    "answer": "vasoconstrictive",
+    "acceptableAnswers": [
+      "vasoconstrictive",
+      "vasoconstriction"
+    ]
   },
   {
     "id": 92,
-    "type": "mcq",
-    "stem": "A patient has left-ear hearing loss. Weber lateralizes LEFT and left Rinne is negative. Another patient has left-ear hearing loss, Weber lateralizes RIGHT and left Rinne remains positive with reduced overall duration. What are their respective classifications?",
-    "options": [
-      "First sensorineural; second conductive",
-      "First conductive; second sensorineural",
-      "Both conductive",
-      "Both sensorineural"
-    ],
-    "answer": "B"
+    "type": "fitb",
+    "stem": "The ototoxic aminoglycoside injected intratympanically to destroy vestibular hair cells in refractory Ménière's disease is __________.",
+    "answer": "gentamicin",
+    "acceptableAnswers": [
+      "gentamicin",
+      "intratympanic gentamicin"
+    ]
   },
   {
     "id": 93,
-    "type": "mcq",
-    "stem": "Patient A has middle-ear fluid. Patient B has cisplatin-related cochlear damage. Which comparison is MOST consistent with the notes?",
-    "options": [
-      "A: Weber to bad ear, BC ≥ AC; B: Weber to good ear, AC > BC with reduced time",
-      "A: Weber to good ear, AC > BC; B: Weber to bad ear, BC ≥ AC",
-      "Both: Weber to bad ear and BC ≥ AC",
-      "Both: Weber to good ear and AC > BC"
-    ],
-    "answer": "A"
+    "type": "fitb",
+    "stem": "The intratympanic medication described as reducing inflammation without damaging hearing is __________.",
+    "answer": "dexamethasone",
+    "acceptableAnswers": [
+      "dexamethasone",
+      "intratympanic dexamethasone"
+    ]
   },
   {
     "id": 94,
-    "type": "mcq",
-    "stem": "A nurse assesses four patients. Which patient presents the clearest medication-related risk for sensorineural damage based strictly on the supplied notes?",
-    "options": [
-      "A patient receiving gentamicin",
-      "A patient with a foreign body in the ear canal",
-      "A patient with stapes fixation",
-      "A patient with a perforated tympanic membrane"
-    ],
-    "answer": "A"
+    "type": "fitb",
+    "stem": "Removal of bone overlying the endolymphatic sac to permit expansion or drainage is called endolymphatic sac __________.",
+    "answer": "decompression",
+    "acceptableAnswers": [
+      "decompression",
+      "endolymphatic sac decompression"
+    ]
   },
   {
     "id": 95,
-    "type": "mcq",
-    "stem": "Which integrated statement is MOST accurate?",
-    "options": [
-      "Conductive loss disrupts mechanical sound passage while leaving inner-ear structures and acoustic nerves intact.",
-      "Sensorineural loss blocks sound exclusively in the external auditory canal.",
-      "Central loss results specifically from fixation of the stapes.",
-      "Mixed loss means bilateral conductive loss without neural involvement."
-    ],
-    "answer": "A"
+    "type": "fitb",
+    "stem": "Surgical interruption of the vestibular branch of Cranial Nerve VIII is called vestibular nerve __________.",
+    "answer": "sectioning",
+    "acceptableAnswers": [
+      "sectioning",
+      "vestibular nerve sectioning",
+      "nerve section"
+    ]
   },
   {
     "id": 96,
     "type": "fitb",
-    "stem": "In conductive hearing loss, the Weber test lateralizes toward the __________ ear.",
-    "answer": "affected",
-    "acceptableAnswers": ["affected", "affected ear", "bad ear"]
+    "stem": "Vestibular nerve sectioning requires a __________ approach according to the notes.",
+    "answer": "craniotomy",
+    "acceptableAnswers": [
+      "craniotomy",
+      "craniotomy approach"
+    ]
   },
   {
     "id": 97,
     "type": "fitb",
-    "stem": "A negative Rinne test is represented by the relationship __________.",
-    "answer": "BC ≥ AC",
+    "stem": "Surgical excision of the labyrinthine contents is termed __________.",
+    "answer": "labyrinthectomy",
     "acceptableAnswers": [
-      "BC ≥ AC",
-      "BC>=AC",
-      "bone conduction ≥ air conduction",
-      "bone conduction greater than or equal to air conduction"
+      "labyrinthectomy"
     ]
   },
   {
     "id": 98,
     "type": "fitb",
-    "stem": "The cranial nerve implicated in sensorineural hearing loss in these notes is Cranial Nerve __________.",
-    "answer": "VIII",
+    "stem": "Because labyrinthectomy causes complete permanent hearing destruction, it is reserved for an ear in which hearing is already completely __________.",
+    "answer": "non-functional",
     "acceptableAnswers": [
-      "VIII",
-      "8",
-      "CN VIII",
-      "cranial nerve VIII",
-      "vestibulocochlear nerve"
+      "non-functional",
+      "nonfunctional",
+      "non functional",
+      "absent",
+      "lost"
     ]
   },
   {
     "id": 99,
     "type": "fitb",
-    "stem": "The gold-standard surgical procedure identified in the notes for otosclerosis is __________.",
-    "answer": "stapedectomy",
-    "acceptableAnswers": ["stapedectomy"]
+    "stem": "The branch of Cranial Nerve VIII deliberately cut during nerve sectioning is the __________ branch.",
+    "answer": "vestibular",
+    "acceptableAnswers": [
+      "vestibular",
+      "vestibular branch"
+    ]
   },
   {
     "id": 100,
     "type": "fitb",
-    "stem": "Following ear surgery, the patient should be positioned on the __________ side, with the good ear down.",
-    "answer": "unaffected",
+    "stem": "In the pathophysiologic sequence of an acute attack, abnormal electrolyte mixing causes immediate hair-cell depolarization followed by neural __________.",
+    "answer": "blockade",
     "acceptableAnswers": [
-      "unaffected",
-      "unaffected side",
-      "good side",
-      "non-operative side",
-      "nonoperative side"
+      "blockade",
+      "neural blockade"
     ]
   }
 ]
