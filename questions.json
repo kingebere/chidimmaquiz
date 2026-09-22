@@ -2,1163 +2,1145 @@
   {
     "id": 1,
     "type": "mcq",
-    "stem": "A passenger reading inside a moving ship reports epigastric warmth followed by dizziness and nausea. Which physiological conflict most directly initiated these symptoms?",
+    "stem": "A nursing school deliberately organizes instruction around predetermined objectives, a fixed timetable, a prescribed syllabus, and periodic examinations. Which feature most decisively distinguishes this learning arrangement from informal education?",
     "options": [
-      "Proprioceptors signal acceleration while the vestibular system signals complete immobility",
-      "The vestibular system detects acceleration and tilting while visual fixation on the cabin signals stillness",
-      "The visual system detects acceleration while both vestibular and proprioceptive systems are inactive",
-      "The vomiting center generates contradictory signals that subsequently activate the vestibular apparatus"
+      "Learning can occur throughout life",
+      "Learning is structured, sequential, and prearranged",
+      "Learners may acquire attitudes and skills",
+      "Knowledge can influence behavior"
     ],
     "answer": "B"
   },
   {
     "id": 2,
     "type": "mcq",
-    "stem": "Which sequence most accurately represents the pathophysiology of motion sickness described in the notes?",
+    "stem": "A learner develops communication skills primarily through repeated interactions with family members, friends, and coworkers without enrollment in a program. According to the notes, this is best classified as:",
     "options": [
-      "Visual stimulation → cochlear activation → cortical inhibition → vomiting",
-      "Proprioceptive suppression → vestibular paralysis → CTZ inhibition → nausea",
-      "Sensory mismatch → vestibular nuclei disruption → vestibulocerebellar signaling → CTZ/vomiting-center stimulation → autonomic activation",
-      "Autonomic activation → sensory mismatch → visual suppression → vestibular adaptation"
+      "Formal education because communication is a teachable skill",
+      "Non-formal education because no certificate is awarded",
+      "Informal education because learning occurs naturally through daily experience",
+      "Formal education because the outcome can be evaluated"
     ],
     "answer": "C"
   },
   {
     "id": 3,
     "type": "mcq",
-    "stem": "A patient develops nausea while using a flight simulator despite remaining physically stationary. Which theory best explains this?",
+    "stem": "Which situation best represents non-formal rather than informal education?",
     "options": [
-      "Sensory Conflict Theory",
-      "Endolymphatic Hydrops Theory",
-      "Peripheral Fatigue Theory",
-      "Cochlear Recruitment Theory"
+      "A child learns manners from family interactions",
+      "A nurse learns empathy from years of patient encounters",
+      "Adults attend an organized community literacy program outside the traditional school system",
+      "A student unintentionally learns slang from friends"
     ],
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 4,
     "type": "mcq",
-    "stem": "Which sensory pathway is NOT included in the sensory triad responsible for maintaining spatial orientation in the lecture notes?",
+    "stem": "A six-week community health workshop has planned objectives and an adjustable timetable but operates outside a conventional school. Which classification is most appropriate?",
     "options": [
-      "Visual",
-      "Vestibular",
-      "Proprioceptive",
-      "Auditory"
+      "Informal education",
+      "Non-formal education",
+      "Formal education",
+      "Incidental education only"
     ],
-    "answer": "D"
+    "answer": "B"
   },
   {
     "id": 5,
     "type": "mcq",
-    "stem": "A traveler sits inside a ship cabin and stares continuously at a stationary wall. Why can this worsen motion sickness?",
+    "stem": "Which pairing correctly distinguishes formal from informal education according to the comparison presented in the notes?",
     "options": [
-      "The visual system reports stillness while the vestibular system detects movement",
-      "The eyes stimulate excessive endolymph production",
-      "The stationary wall suppresses proprioception",
-      "Visual fixation directly activates the CTZ independently of vestibular input"
+      "Formal—voluntary; Informal—compulsory",
+      "Formal—non-sequential; Informal—sequential",
+      "Formal—usually prearranged; Informal—spontaneous",
+      "Formal—everywhere; Informal—usually at school"
     ],
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 6,
     "type": "mcq",
-    "stem": "Which anatomical structures provide the vestibular component of the sensory triad?",
+    "stem": "Which characteristic would provide the strongest evidence that an educational activity is formal?",
     "options": [
-      "Cochlea and Organ of Corti",
-      "Semicircular canals and otoliths",
-      "Retina and optic nerve",
-      "Muscles and joint receptors"
+      "Learning occurs through experience",
+      "The learner receives a formally recognized certificate after organized assessment",
+      "Participation is voluntary",
+      "Learning occurs outside school"
     ],
     "answer": "B"
   },
   {
     "id": 7,
     "type": "mcq",
-    "stem": "Somatosensory receptors in muscles and joints contribute to motion perception primarily through which system?",
+    "stem": "Which characteristic is shared more directly by informal and non-formal education than by formal education in the comparison table?",
     "options": [
-      "Vestibular",
-      "Visual",
-      "Proprioceptive",
-      "Auditory"
+      "Both are always teacher-led",
+      "Both are compulsory",
+      "Both are voluntary",
+      "Both require predetermined syllabi"
     ],
     "answer": "C"
   },
   {
     "id": 8,
     "type": "mcq",
-    "stem": "Following sensory mismatch, vestibular signals ultimately stimulate which structures responsible for nausea and vomiting?",
+    "stem": "Which statement best differentiates non-formal education from informal education?",
     "options": [
-      "Auditory cortex and cochlear nuclei",
-      "CTZ and vomiting center in the medulla",
-      "Hypothalamus and pituitary gland",
-      "Spinal cord and peripheral ganglia"
+      "Non-formal education cannot teach skills.",
+      "Non-formal education may be structured and organized despite occurring outside the traditional school system.",
+      "Informal education always awards certificates.",
+      "Informal education must involve a trained teacher."
     ],
     "answer": "B"
   },
   {
     "id": 9,
     "type": "mcq",
-    "stem": "The prominent pallor, diaphoresis, salivation, and cardiovascular changes of motion sickness are best explained by:",
+    "stem": "A workshop has planned learning activities but modifies its timetable to accommodate participants. Which property of non-formal education does this illustrate?",
     "options": [
-      "Autonomic activation following vestibular mismatch",
-      "Acute cochlear destruction",
-      "Suppression of the medullary vomiting center",
-      "Loss of proprioceptive receptors"
+      "Its timetable and syllabus can be adjustable",
+      "It is always spontaneous",
+      "It must be sequential",
+      "It requires formal examinations"
     ],
     "answer": "A"
   },
   {
     "id": 10,
     "type": "mcq",
-    "stem": "Which receptor combination provides the strongest pharmacologic rationale for the medications emphasized in the lecture?",
+    "stem": "Which learning situation is least consistent with formal education?",
     "options": [
-      "Dopamine D2 and serotonin 5-HT3",
-      "Beta-1 and alpha-1",
-      "Histamine H1 and muscarinic acetylcholine",
-      "GABA and opioid"
+      "Learning guided by trained personnel",
+      "A curriculum completed within a specific time period",
+      "Spontaneous learning without a definite syllabus",
+      "Intermediate and final assessment"
     ],
     "answer": "C"
   },
   {
     "id": 11,
     "type": "mcq",
-    "stem": "A researcher selectively blocks muscarinic signaling within the vestibular nuclei. Which medication from the lecture most closely produces this effect clinically?",
+    "stem": "The statement that education is a lifelong process beginning from birth and continuing until death is most closely associated in the notes with:",
     "options": [
-      "Caffeine",
-      "Scopolamine",
-      "Ephedrine",
-      "Ginger"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 12,
-    "type": "mcq",
-    "stem": "Why are first-generation antihistamines useful for motion sickness according to the notes?",
-    "options": [
-      "They block H1 histamine and central cholinergic pathways",
-      "They permanently suppress otolith activity",
-      "They stimulate the medullary vomiting center until adaptation occurs",
-      "They selectively increase proprioceptive signaling"
+      "The broad perspective of education",
+      "Vocational education only",
+      "Formal education only",
+      "Certification theory"
     ],
     "answer": "A"
   },
   {
+    "id": 12,
+    "type": "mcq",
+    "stem": "A definition restricts education to activities occurring within institutions under organized instruction. Compared with the broad perspective in the notes, this definition is:",
+    "options": [
+      "More consistent with informal education",
+      "Narrower in scope",
+      "Identical to lifelong education",
+      "More inclusive of accidental learning"
+    ],
+    "answer": "B"
+  },
+  {
     "id": 13,
     "type": "mcq",
-    "stem": "Which patient falls within the age range described as having peak susceptibility to motion sickness?",
+    "stem": "Which statement best reflects the broad perspective of education presented in the notes?",
     "options": [
-      "A 35-year-old",
-      "A 67-year-old",
-      "An 8-year-old",
-      "A 19-year-old"
+      "Education occurs only when a trained teacher is present.",
+      "Education includes experiences acquired through home life, friendship, travel, recreation, and other activities.",
+      "Education is limited to acquisition of certificates.",
+      "Education begins when a learner enters school."
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 14,
     "type": "mcq",
-    "stem": "Which epidemiological pattern is most consistent with the lecture notes?",
+    "stem": "Which Latin-derived term in the notes conveys the idea of drawing out or leading forth?",
     "options": [
-      "Susceptibility increases progressively throughout adulthood",
-      "Motion sickness peaks during late childhood/early adolescence and tends to decline in adulthood",
-      "Infants and adults over 70 are the exclusive high-risk populations",
-      "Age has no relationship to susceptibility"
+      "Educare",
+      "Educere",
+      "Educatum",
+      "Educatio"
     ],
     "answer": "B"
   },
   {
     "id": 15,
     "type": "mcq",
-    "stem": "Which patient characteristic would increase susceptibility according to the lecture?",
+    "stem": "Which concept emphasizes education as nourishment or training that helps develop the learner?",
     "options": [
-      "Pregnancy",
-      "Male sex alone",
-      "Advanced adulthood without vestibular disease",
-      "Absence of migraine history"
-    ],
-    "answer": "A"
-  },
-  {
-    "id": 16,
-    "type": "mcq",
-    "stem": "A woman reports substantially worse carsickness during menstruation. Which explanation is most consistent with the notes?",
-    "options": [
-      "Hormonal influences can increase susceptibility in women",
-      "Menstruation causes permanent vestibular destruction",
-      "Blood loss directly stimulates the CTZ",
-      "Menstruation eliminates proprioceptive compensation"
-    ],
-    "answer": "A"
-  },
-  {
-    "id": 17,
-    "type": "mcq",
-    "stem": "Which comorbidity would make a history of severe motion sickness less surprising?",
-    "options": [
-      "Migraine",
-      "Isolated dermatitis",
-      "Otosclerosis only",
-      "Myopia"
-    ],
-    "answer": "A"
-  },
-  {
-    "id": 18,
-    "type": "mcq",
-    "stem": "Which vestibular disorder is specifically identified as associated with increased motion-sickness susceptibility?",
-    "options": [
-      "Otitis externa",
-      "Ménière's disease",
-      "Cerumen impaction",
-      "Tympanic perforation"
+      "Educere",
+      "Educare",
+      "Reconstruction",
+      "Certification"
     ],
     "answer": "B"
   },
   {
+    "id": 16,
+    "type": "mcq",
+    "stem": "Socrates' definition of education in the notes emphasizes:",
+    "options": [
+      "Preparation exclusively for employment",
+      "Bringing out ideas latent in the mind",
+      "Memorizing predetermined facts",
+      "Awarding recognized qualifications"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 17,
+    "type": "mcq",
+    "stem": "Which philosopher's view describes education as reconstruction or reorganization of experience that adds meaning to experience?",
+    "options": [
+      "Plato",
+      "Herbert Spencer",
+      "John Dewey",
+      "Rousseau"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 18,
+    "type": "mcq",
+    "stem": "A curriculum designer argues that education should develop the intellectual, moral, and physical dimensions of the learner. Which philosophical position from the notes most closely supports this?",
+    "options": [
+      "Aristotle's conception",
+      "The informal education model",
+      "The certification model",
+      "The non-formal timetable principle"
+    ],
+    "answer": "A"
+  },
+  {
     "id": 19,
     "type": "mcq",
-    "stem": "A patient reports an unusual hollow, warm sensation in the stomach before nausea begins. How should the nurse interpret this finding?",
+    "stem": "Which philosopher emphasized harmonious development of physical, intellectual, and moral powers according to the laws of nature?",
     "options": [
-      "A late sign of volume depletion",
-      "An early manifestation called epigastric awareness",
-      "Evidence of gastrointestinal infection",
-      "A contraindication to antihistamines"
+      "John Dewey",
+      "Rousseau",
+      "Socrates",
+      "Herbert Spencer"
     ],
     "answer": "B"
   },
   {
     "id": 20,
     "type": "mcq",
-    "stem": "Which finding represents an early rather than advanced manifestation?",
+    "stem": "Herbert Spencer's conception of education places particular emphasis on preparing individuals for:",
     "options": [
-      "Progressive intense nausea",
-      "Extreme weakness",
-      "Epigastric awareness",
-      "Hyperosmia triggering emesis"
+      "Examinations alone",
+      "A full, productive, and responsible life",
+      "Informal learning alone",
+      "Religious instruction exclusively"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 21,
     "type": "mcq",
-    "stem": "A patient develops profound drowsiness and lethargy during prolonged motion exposure before vomiting. Which term from the notes describes this manifestation?",
+    "stem": "Which of the following is most directly associated with Herbert Spencer's conception of complete living?",
     "options": [
-      "Sopite syndrome",
-      "Otolithic crisis",
-      "Hydrops syndrome",
-      "Central vestibular blockade"
+      "Self-preservation and earning a livelihood",
+      "Avoidance of social participation",
+      "Elimination of practical skills",
+      "Learning only through formal schools"
     ],
     "answer": "A"
   },
   {
     "id": 22,
     "type": "mcq",
-    "stem": "A motion-sick passenger suddenly finds perfume and food odors intolerably intense and immediately becomes more nauseated. Which advanced symptom is present?",
+    "stem": "A program teaches health maintenance, occupational skills, parenting responsibilities, citizenship, and leisure. Which philosophical conception does this combination most closely reflect?",
     "options": [
-      "Hypoesthesia",
-      "Hyperosmia",
-      "Photophobia",
-      "Dysgeusia"
+      "Spencer's preparation for major activities of life",
+      "Socrates' latent-ideas definition only",
+      "Informal education exclusively",
+      "Non-formal certification theory"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 23,
     "type": "mcq",
-    "stem": "Which combination contains only objective clinical signs described in the lecture?",
+    "stem": "Which statement best captures the individual aim of education described in the notes?",
     "options": [
-      "Headache, nausea, weakness",
-      "Dizziness, lethargy, epigastric awareness",
-      "Pallor, cold diaphoresis, hypersalivation",
-      "Hyperosmia, nausea, headache"
+      "Education should primarily preserve institutions regardless of individual development.",
+      "Education emphasizes development of the individual's personality and potential.",
+      "Education should eliminate personal interests.",
+      "Education should focus only on economic productivity."
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 24,
     "type": "mcq",
-    "stem": "Which gastrointestinal observation indicates increasing autonomic activation before or during vomiting?",
+    "stem": "Which outcome most directly reflects the social aim of education?",
     "options": [
-      "Reduced swallowing and xerostomia",
-      "Hypersalivation and frequent swallowing",
-      "Constipation and abdominal rigidity",
-      "Absent gag reflex"
+      "Developing the individual's ability to interact with and contribute to society",
+      "Maximizing examination scores without social participation",
+      "Learning exclusively for personal recreation",
+      "Avoiding community responsibility"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 25,
     "type": "mcq",
-    "stem": "Which heart-rate sequence is described during progression of motion sickness?",
+    "stem": "A program teaches job-specific competencies so learners can become economically self-sufficient. Which aim of education is dominant?",
     "options": [
-      "Initial tachycardia followed invariably by profound bradycardia",
-      "Initial bradycardia followed by tachycardia during active distress",
-      "Persistent bradycardia without variation",
-      "Heart rate remains unaffected"
+      "Cultural aim",
+      "Moral aim",
+      "Vocational aim",
+      "Individual recreational aim"
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 26,
     "type": "mcq",
-    "stem": "Which respiratory alteration can accompany motion sickness?",
+    "stem": "Which aim of education emphasizes acquisition of knowledge for its own sake and considers knowledge important for intellectual development?",
     "options": [
-      "Hyperventilation or sighing respirations",
-      "Obligatory apnea",
-      "Kussmaul breathing exclusively",
-      "Permanent respiratory paralysis"
+      "Knowledge aim",
+      "Vocational aim",
+      "Social aim",
+      "Physical aim"
     ],
     "answer": "A"
   },
   {
     "id": 27,
     "type": "mcq",
-    "stem": "Why does the lecture emphasize prevention before motion exposure?",
+    "stem": "A curriculum deliberately introduces learners to traditions, perspectives, and artistic heritage from multiple societies. Which educational aim is most directly being pursued?",
     "options": [
-      "Interventions become substantially less effective after the vomiting center is fully activated",
-      "Motion sickness becomes permanently incurable after one episode of vomiting",
-      "Antihistamines work only after dehydration occurs",
-      "The vestibular apparatus is destroyed once vomiting starts"
+      "Vocational",
+      "Cultural",
+      "Certification",
+      "Institutional"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 28,
     "type": "mcq",
-    "stem": "A patient asks for scopolamine after vomiting has already become severe. Which principle explains why earlier administration would have been preferable?",
+    "stem": "The cultural aim of education extends beyond learning about one's own culture primarily by promoting:",
     "options": [
-      "Preventive therapy is crucial because treatment is less effective once vomiting begins",
-      "Scopolamine requires active vomiting for absorption",
-      "The medication works only after vestibular destruction",
-      "Muscarinic receptors disappear once nausea develops"
+      "Cultural diversity, equity, and harmony",
+      "Uniform rejection of other traditions",
+      "Only occupational specialization",
+      "Only formal assessment"
     ],
     "answer": "A"
   },
   {
     "id": 29,
     "type": "mcq",
-    "stem": "Where should a transdermal scopolamine patch be applied according to the notes?",
+    "stem": "Which aim of education is most directly concerned with developing character, integrity, commitment to ethical conduct, and informed moral judgment?",
     "options": [
-      "Directly over the sternum",
-      "To a hairless area behind the ear",
-      "To the forehead",
-      "Inside the external auditory canal"
+      "Moral aim",
+      "Vocational aim",
+      "Knowledge aim",
+      "Formal aim"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 30,
     "type": "mcq",
-    "stem": "A traveler will depart at 2:00 PM. Based strictly on the notes, by approximately what time should the scopolamine patch already be applied?",
+    "stem": "A learner is taught to consider moral factors in different situations, understand ethical concepts, and make informed judgments independently. This most directly represents:",
     "options": [
-      "1:30 PM",
-      "2:00 PM",
-      "10:00 AM or earlier",
-      "Only after nausea begins"
+      "Cultural preservation",
+      "Moral education",
+      "Informal certification",
+      "Vocational preparation"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 31,
     "type": "mcq",
-    "stem": "A patient applies a scopolamine patch correctly. When should it generally be replaced according to the lecture?",
+    "stem": "Which educational objective is most closely associated with spiritual development in the notes?",
     "options": [
-      "Every 12 hours",
-      "Every 24 hours",
-      "Every 48 hours",
-      "Every 72 hours"
+      "Cultivating virtues such as honesty, patience, compassion, and selflessness",
+      "Increasing examination frequency",
+      "Promoting competition for certificates",
+      "Eliminating reflection and meditation"
     ],
-    "answer": "D"
+    "answer": "A"
   },
   {
     "id": 32,
     "type": "mcq",
-    "stem": "Which cluster is most consistent with scopolamine's listed adverse effects?",
+    "stem": "Which statement most accurately describes the interdependence of forms of education?",
     "options": [
-      "Diarrhea, miosis, salivation, insomnia",
-      "Dry mouth, blurred vision, urinary retention, drowsiness",
-      "Polyuria, hypertension, hyperreflexia, sweating",
-      "Hearing loss, tinnitus, vertigo, otorrhea"
+      "Each form develops independently and should remain isolated.",
+      "Human personality develops through the combined contribution of different forms of education.",
+      "Informal education should eventually replace formal education.",
+      "Only formal education contributes to personality development."
     ],
     "answer": "B"
   },
   {
     "id": 33,
     "type": "mcq",
-    "stem": "Which history should cause the nurse to question a scopolamine prescription most strongly?",
+    "stem": "A child attends school, learns cooperation during community sports, and acquires social habits from family life. Which principle is best illustrated?",
     "options": [
-      "Migraine",
-      "Narrow-angle glaucoma",
-      "Previous seasickness",
-      "Pregnancy-related susceptibility"
+      "Interdependence of forms of education",
+      "Formal education eliminates informal learning",
+      "Non-formal education must be compulsory",
+      "Educational forms cannot coexist"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 34,
     "type": "mcq",
-    "stem": "The contraindication of scopolamine in narrow-angle glaucoma is most logically related to its:",
+    "stem": "Which feature of formal education most directly promotes orderly progression from one academic level to another?",
     "options": [
-      "Anticholinergic pharmacology",
-      "H1-selective pharmacology",
-      "Sympatholytic effect",
-      "Proprioceptive stimulation"
+      "Intermediate and final assessments",
+      "Absence of timetables",
+      "Spontaneous learning",
+      "Lack of predetermined content"
     ],
     "answer": "A"
   },
   {
     "id": 35,
     "type": "mcq",
-    "stem": "A patient accidentally touches the eye immediately after handling a scopolamine patch. Which complication specifically mentioned in the education section is the nurse trying to prevent by emphasizing handwashing?",
+    "stem": "A student completes predetermined subjects under trained teachers, passes final assessments, and receives a recognized qualification. Which classification is unequivocally supported?",
     "options": [
-      "Mydriasis",
-      "Miosis",
-      "Retinal hemorrhage",
-      "Cataract formation"
+      "Informal education",
+      "Formal education",
+      "Incidental learning",
+      "Non-formal learning only"
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 36,
     "type": "mcq",
-    "stem": "Which medication belongs to the first-generation antihistamine group used for motion sickness?",
+    "stem": "Which is an advantage of formal education identified in the notes?",
     "options": [
-      "Ephedrine",
-      "Scopolamine",
-      "Dimenhydrinate",
-      "Caffeine"
+      "There is no specific time span.",
+      "Students acquire knowledge from trained and professional teachers.",
+      "Learning is always voluntary.",
+      "There is no need for assessment."
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 37,
     "type": "mcq",
-    "stem": "A patient wants an antihistamine with a longer duration and comparatively less sedation than dimenhydrinate. Which medication best fits the lecture?",
+    "stem": "Which feature is simultaneously an organizational strength of formal education and a potential source of inflexibility?",
     "options": [
-      "Meclizine",
-      "Scopolamine",
-      "Ephedrine",
-      "Caffeine"
+      "Predetermined structure and timetable",
+      "Absence of teachers",
+      "Spontaneous content",
+      "Learning from family conversations"
     ],
     "answer": "A"
   },
   {
     "id": 38,
     "type": "mcq",
-    "stem": "How long before travel should oral dimenhydrinate or meclizine generally be administered according to the notes?",
+    "stem": "According to the notes, slow learners may be disadvantaged in formal education because:",
     "options": [
-      "5–10 minutes",
-      "30–60 minutes",
-      "4–6 hours",
-      "24 hours"
+      "Formal education has no curriculum.",
+      "They may fail to learn properly within the pace imposed by the professional trainer.",
+      "Formal education does not use teachers.",
+      "Formal education prohibits assessment."
     ],
     "answer": "B"
   },
   {
     "id": 39,
     "type": "mcq",
-    "stem": "Which patient statement after receiving a first-generation antihistamine indicates a need for further education?",
+    "stem": "Which criticism of formal education concerns progression rules rather than instructional quality?",
     "options": [
-      "I will avoid alcohol.",
-      "I will avoid operating heavy machinery.",
-      "I can combine the medication with alcohol because both reduce vestibular activity.",
-      "I understand that the medication may cause sedation."
+      "Students may be forced to wait until the academic session ends before promotion.",
+      "Teachers may possess professional training.",
+      "Courses may follow organized content.",
+      "Learning may be systematically assessed."
     ],
-    "answer": "C"
+    "answer": "A"
   },
   {
     "id": 40,
     "type": "mcq",
-    "stem": "Which comparison between meclizine and dimenhydrinate is supported by the notes?",
+    "stem": "Which disadvantage is specifically associated with formal education in the notes?",
     "options": [
-      "Dimenhydrinate lasts longer and is less sedating.",
-      "Meclizine lasts longer and is less sedating.",
-      "Meclizine is an anticholinergic without H1 activity.",
-      "Dimenhydrinate is a sympathomimetic."
+      "It is always unstructured.",
+      "It may be costly and rigid compared with other forms of learning.",
+      "It never results in certification.",
+      "It cannot use trained personnel."
     ],
     "answer": "B"
   },
   {
     "id": 41,
     "type": "mcq",
-    "stem": "A military traveler receives an antihistamine plus ephedrine. Why might ephedrine be included?",
+    "stem": "Which scenario best illustrates a characteristic of informal education?",
     "options": [
-      "To intensify central nervous system depression",
-      "To counteract profound drowsiness and CNS depression",
-      "To block muscarinic receptors in the vestibular nuclei",
-      "To prevent all autonomic activation"
+      "A student follows a semester syllabus.",
+      "A child learns basic numeric characters through everyday experiences.",
+      "A trainee follows an organized workshop curriculum.",
+      "A nursing student completes a compulsory clinical examination."
     ],
     "answer": "B"
   },
   {
     "id": 42,
     "type": "mcq",
-    "stem": "Which adverse-effect combination is most relevant when sympathomimetics are used as adjuncts?",
+    "stem": "Which combination is most consistent with informal education?",
     "options": [
-      "Bradycardia and hypotension",
-      "Tachycardia and hypertension",
-      "Urinary retention and blurred vision",
-      "Miosis and hypersalivation"
+      "Predetermined syllabus, fixed timetable, certification",
+      "Independent learning, no definite syllabus, no fixed timetable",
+      "Compulsory attendance, examinations, teacher-led sequence",
+      "Institutional curriculum, formal assessment, certification"
     ],
     "answer": "B"
   },
   {
     "id": 43,
     "type": "mcq",
-    "stem": "Which medication combination is described as being used primarily in specialized or military settings?",
+    "stem": "A learner acquires knowledge from television, radio, books, friends, and family. Which feature of informal education is demonstrated?",
     "options": [
-      "Antihistamine with ephedrine or caffeine",
-      "Scopolamine with ginger",
-      "Meclizine with acupressure",
-      "Dimenhydrinate with clear fluids"
+      "Learning can arise from many different sources.",
+      "Learning must be school-based.",
+      "Learning requires professional instructors.",
+      "Learning follows a predetermined sequence."
     ],
     "answer": "A"
   },
   {
     "id": 44,
     "type": "mcq",
-    "stem": "A passenger begins feeling nauseated while reading in a moving car. Which immediate behavioral change most directly reduces the sensory mismatch?",
+    "stem": "Which statement represents an advantage rather than a disadvantage of informal education?",
     "options": [
-      "Close the eyes and bend forward",
-      "Look at a stable point on the horizon",
-      "Continue reading while lying sideways",
-      "Focus on an object moving inside the car"
+      "Information acquired may be incorrect.",
+      "There may be no proper schedule.",
+      "Learning can occur naturally anywhere and at any time.",
+      "The learner may lack confidence."
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 45,
     "type": "mcq",
-    "stem": "Why does looking toward the horizon help reduce motion sickness?",
+    "stem": "Why can informal education be considered cost- and time-efficient according to the notes?",
     "options": [
-      "It suppresses acetylcholine production completely.",
-      "It realigns visual and vestibular inputs.",
-      "It prevents otolith movement.",
-      "It directly inhibits gastric motility."
+      "It always guarantees employment.",
+      "It has no specific time span and can occur through ordinary experiences and accessible sources.",
+      "It requires expensive professional teachers.",
+      "It requires standardized examinations."
     ],
     "answer": "B"
   },
   {
     "id": 46,
     "type": "mcq",
-    "stem": "Which seat should a motion-sensitive passenger preferentially select in a car according to the notes?",
+    "stem": "A learner obtains medical information from an unreliable social-media post and accepts it without verification. Which disadvantage of informal education is most directly illustrated?",
     "options": [
-      "Rear-facing rear seat",
-      "Front seat",
-      "Any seat with no outside view",
-      "Seat requiring frequent head rotation"
+      "Rigid curriculum",
+      "Risk of acquiring wrong information",
+      "Excessive formal assessment",
+      "Compulsory attendance"
     ],
     "answer": "B"
   },
   {
     "id": 47,
     "type": "mcq",
-    "stem": "A motion-sensitive traveler is choosing a seat on an airplane. Which location is recommended?",
+    "stem": "Which disadvantage of informal education relates most directly to the absence of structured educational planning?",
     "options": [
-      "At the extreme tail",
-      "Over the wings",
-      "At the furthest rear window",
-      "Any location without visual access outside"
+      "No proper schedule or time span",
+      "Compulsory examinations",
+      "Excessive certification",
+      "Predetermined syllabus"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 48,
     "type": "mcq",
-    "stem": "Where should a passenger prone to seasickness preferentially position themselves on a ship?",
+    "stem": "A learner has acquired useful knowledge independently but hesitates to demonstrate it publicly because no recognized instructor or institution validated it. Which disadvantage in the notes most closely applies?",
     "options": [
-      "High on the bow",
-      "At the stern above deck",
-      "Mid-ship near the waterline",
-      "Inside a windowless cabin at the highest level"
+      "Lack of confidence in the learner",
+      "Excessive teacher control",
+      "Rigid certification procedures",
+      "High tuition cost"
     ],
-    "answer": "C"
+    "answer": "A"
   },
   {
     "id": 49,
     "type": "mcq",
-    "stem": "Which environmental intervention accompanies positioning in an area of minimal motion?",
+    "stem": "Which example belongs most clearly to non-formal education?",
     "options": [
-      "Warm stagnant air",
-      "Continuous cool, fresh moving air",
-      "Strong perfume to mask nausea",
-      "Tobacco smoke to reduce vestibular input"
+      "A university degree program",
+      "A workshop or seminar conducted outside the traditional school system",
+      "A child learning table manners at home",
+      "Unplanned learning from television"
     ],
     "answer": "B"
   },
   {
     "id": 50,
     "type": "mcq",
-    "stem": "Which pre-travel meal is most inconsistent with the lecture's dietary recommendations?",
+    "stem": "Which is NOT listed as an example of non-formal education?",
     "options": [
-      "Dry crackers with small sips of clear fluid",
-      "A small amount of bland carbohydrate",
-      "A heavy greasy high-protein meal",
-      "A light bland snack"
+      "Youth clubs and after-school programs",
+      "Community-based adult education courses",
+      "Sports or fitness programs",
+      "A compulsory university degree curriculum"
     ],
-    "answer": "C"
+    "answer": "D"
   },
   {
     "id": 51,
     "type": "mcq",
-    "stem": "Which food choice is most appropriate for a patient susceptible to motion sickness?",
+    "stem": "Which characteristic separates non-formal education from a purely spontaneous informal learning event?",
     "options": [
-      "Greasy fried meat",
-      "Spicy high-protein meal",
-      "Dry bland crackers",
-      "Large fatty meal"
-    ],
-    "answer": "C"
-  },
-  {
-    "id": 52,
-    "type": "mcq",
-    "stem": "Which fluid-consumption strategy is recommended during travel?",
-    "options": [
-      "Small sips of clear fluids",
-      "Large volumes of heavy beverages at once",
-      "No fluid under any circumstances",
-      "Alcohol before departure"
+      "It can be planned and organized.",
+      "It cannot teach practical skills.",
+      "It must occur in a university.",
+      "It is always compulsory."
     ],
     "answer": "A"
   },
   {
+    "id": 52,
+    "type": "mcq",
+    "stem": "A vocational training program changes its timetable according to participants' employment schedules. Which non-formal education principle is demonstrated?",
+    "options": [
+      "Rigidity",
+      "Flexibility in age, curriculum, and time",
+      "Compulsory sequencing",
+      "Dependence on formal certification"
+    ],
+    "answer": "B"
+  },
+  {
     "id": 53,
     "type": "mcq",
-    "stem": "Which complementary intervention is described as reducing gastric dysrhythmias?",
+    "stem": "Which advantage of non-formal education is most directly demonstrated when adults learn job skills through practical workshops?",
     "options": [
-      "Ginger",
-      "Nicotine",
-      "Caffeine",
-      "Ephedrine"
+      "Literacy and vocational training skill acquisition are incorporated into practice.",
+      "Learning must result in a degree.",
+      "Participation becomes compulsory.",
+      "Learning becomes exclusively teacher-led."
     ],
     "answer": "A"
   },
   {
     "id": 54,
     "type": "mcq",
-    "stem": "A patient prefers an acupressure wristband. Which anatomical target should the nurse identify from the lecture?",
+    "stem": "Which characteristic of non-formal education encourages participants to take responsibility for their own learning?",
     "options": [
-      "P6 Neiguan point",
-      "C7 spinous process",
-      "H1 vestibular point",
-      "CN VIII mastoid point"
+      "Self-learning is encouraged.",
+      "All content is rigidly teacher-controlled.",
+      "Final examinations are compulsory.",
+      "Participation is restricted to school-age children."
     ],
     "answer": "A"
   },
   {
     "id": 55,
     "type": "mcq",
-    "stem": "A patient with repeated vomiting becomes weak after several hours. Which complication should the nurse specifically assess for?",
+    "stem": "Which statement about non-formal education is supported by the notes?",
     "options": [
-      "Fluid volume depletion",
-      "Permanent cochlear damage",
-      "Tympanic membrane rupture",
-      "Endolymphatic hydrops"
+      "It requires regular examinations and recognized certificates.",
+      "It can involve both public and private sectors.",
+      "Its curriculum can never be adjusted.",
+      "Attendance is always compulsory."
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 56,
     "type": "mcq",
-    "stem": "Which nursing diagnosis is directly supported by protracted intractable vomiting?",
+    "stem": "Which problem may reduce the effectiveness of a non-formal educational program despite appropriate content?",
     "options": [
-      "Risk for Fluid Volume Deficit",
-      "Impaired Skin Integrity",
-      "Chronic Confusion",
-      "Impaired Gas Exchange"
+      "Unsteady attendance of participants",
+      "Compulsory final examinations",
+      "Excessive recognized certification",
+      "Permanent school-based structure"
     ],
     "answer": "A"
   },
   {
     "id": 57,
     "type": "mcq",
-    "stem": "Which nursing diagnosis is most appropriate for a patient who repeatedly becomes ill because preventive measures are initiated only after vomiting begins?",
+    "stem": "A community program has no examination requirement, and some participants therefore perceive it as less important and fail to attend consistently. Which disadvantage from the notes does this reflect?",
     "options": [
-      "Deficient Knowledge regarding motion sickness prevention",
-      "Impaired Verbal Communication",
-      "Disturbed Body Image",
-      "Ineffective Airway Clearance"
+      "The absence of exams can contribute to wasted training effort and poor participation.",
+      "Non-formal education is necessarily too expensive.",
+      "All non-formal education is academically rigid.",
+      "Non-formal programs prohibit practical learning."
     ],
     "answer": "A"
   },
   {
     "id": 58,
     "type": "mcq",
-    "stem": "Before a patient undergoes a diagnostic procedure involving significant motion or simulated motion, the nurse should first:",
+    "stem": "Which potential problem of non-formal education concerns the qualifications of those providing instruction?",
     "options": [
-      "Assess for a history of motion sickness",
-      "Automatically administer ephedrine",
-      "Restrict all fluid for 24 hours",
-      "Place the patient supine facing backward"
+      "There may or may not be professional and trained teachers.",
+      "Every instructor must hold a doctorate.",
+      "Teachers cannot participate.",
+      "Only family members can teach."
     ],
     "answer": "A"
   },
   {
     "id": 59,
     "type": "mcq",
-    "stem": "Which transport posture is specifically recommended in the patient-education checklist?",
+    "stem": "Which disadvantage of non-formal education relates specifically to credentials?",
     "options": [
-      "Reclined and backward-facing",
-      "Upright and forward-facing",
-      "Prone with the head turned",
-      "Supine with the eyes covered"
-    ],
-    "answer": "B"
-  },
-  {
-    "id": 60,
-    "type": "mcq",
-    "stem": "Why should tobacco smoke and exhaust fumes be minimized around a motion-sick patient?",
-    "options": [
-      "Offensive odors can precipitate emesis",
-      "They permanently destroy proprioceptors",
-      "They inhibit the medullary vomiting center",
-      "They prevent scopolamine absorption"
+      "There may be a tendency for fake certificate issuance by some organizations.",
+      "Certificates are legally prohibited.",
+      "Every participant receives a university degree.",
+      "Credentials are always nationally standardized."
     ],
     "answer": "A"
   },
   {
+    "id": 60,
+    "type": "mcq",
+    "stem": "Which distinction in the comparison table is correct?",
+    "options": [
+      "Formal education is non-sequential; informal education is sequential.",
+      "Informal education is usually learner-led, while formal education is teacher-led.",
+      "Non-formal education must always be teacher-led.",
+      "Formal education is spontaneous."
+    ],
+    "answer": "B"
+  },
+  {
     "id": 61,
     "type": "mcq",
-    "stem": "A passenger reports stomach warmth and mild dizziness but has not developed nausea or vomiting. Which interpretation should guide nursing intervention?",
+    "stem": "Which statement most accurately compares evaluation across the three forms of education?",
     "options": [
-      "These are early symptoms, making prompt preventive intervention particularly valuable.",
-      "These findings indicate irreversible autonomic collapse.",
-      "Medication should be withheld until active vomiting occurs.",
-      "These symptoms exclude motion sickness."
+      "Formal learning is evaluated; informal learning is generally not evaluated; non-formal learning may or may not be evaluated.",
+      "All three forms require standardized evaluation.",
+      "Only informal learning is evaluated.",
+      "Non-formal learning is always evaluated more rigorously than formal learning."
     ],
     "answer": "A"
   },
   {
     "id": 62,
     "type": "mcq",
-    "stem": "Which patient demonstrates the most advanced symptom progression?",
+    "stem": "Which comparison regarding syllabi is most consistent with the table?",
     "options": [
-      "Mild headache and epigastric awareness",
-      "Mild dizziness and lethargy",
-      "Progressive intense nausea, extreme weakness, and hyperosmia",
-      "Isolated drowsiness before travel"
+      "Formal education follows a syllabus, informal education does not, and non-formal education may follow one.",
+      "All three must follow identical syllabi.",
+      "Informal education follows the strictest syllabus.",
+      "Formal education cannot use a syllabus."
     ],
-    "answer": "C"
+    "answer": "A"
   },
   {
     "id": 63,
     "type": "mcq",
-    "stem": "A patient has severe motion sickness but no vomiting yet. The nurse notes pallor, cold sweats, hypersalivation, and frequent swallowing. These findings most strongly indicate:",
+    "stem": "Which listed importance of education most directly supports an individual's capacity to choose among alternatives after considering consequences?",
     "options": [
-      "Progressing autonomic activation",
-      "Vestibular recovery",
-      "Scopolamine toxicity",
-      "Fluid overload"
+      "Ability to make decisions",
+      "Ability to imitate others",
+      "Ability to avoid communication",
+      "Ability to eliminate cultural differences"
     ],
     "answer": "A"
   },
   {
     "id": 64,
     "type": "mcq",
-    "stem": "A traveler uses meclizine and then plans to drive heavy machinery after drinking alcohol. Which concern is most consistent with the lecture?",
+    "stem": "A learner becomes capable of distinguishing right from wrong and acting according to civic values. Which importance of education is most directly represented?",
     "options": [
-      "The combination may worsen CNS impairment and sedation-related safety risk.",
-      "Alcohol reverses the antihistamine's action and causes glaucoma.",
-      "Meclizine produces no sedation, so there is no concern.",
-      "Alcohol is recommended to enhance vestibular adaptation."
+      "Moral and civic values develop through education.",
+      "Education eliminates personal responsibility.",
+      "Education is limited to career development.",
+      "Education discourages ethical judgment."
     ],
     "answer": "A"
   },
   {
     "id": 65,
     "type": "mcq",
-    "stem": "Which intervention acts most directly at muscarinic receptors within the vestibular nuclei?",
+    "stem": "Which educational benefit is most directly demonstrated when a person analyzes a complex problem, considers alternatives, and identifies a solution?",
     "options": [
-      "Ginger",
-      "Scopolamine",
-      "Caffeine",
-      "Acupressure"
+      "Increased ability to perceive, analyze, and proffer solutions",
+      "Dependence on authority",
+      "Reduction of intellectual independence",
+      "Avoidance of decision-making"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 66,
     "type": "mcq",
-    "stem": "Which intervention attempts to reduce motion sickness by changing sensory input rather than pharmacologically blocking neurotransmitter receptors?",
+    "stem": "A nurse explains a medication regimen using appropriate verbal and non-verbal techniques until the patient can safely follow it. Which purpose of nursing education is most directly demonstrated?",
     "options": [
-      "Scopolamine patch",
-      "Meclizine",
-      "Fixing the gaze on the horizon",
-      "Dimenhydrinate"
+      "Enhancement of communication skills and patient compliance",
+      "Replacement of clinical care with classroom teaching",
+      "Elimination of patient participation",
+      "Restriction of nurses to formal education"
     ],
-    "answer": "C"
+    "answer": "A"
   },
   {
     "id": 67,
     "type": "mcq",
-    "stem": "A passenger chooses a windowless cabin, reads continuously, eats a large greasy meal, and waits until vomiting starts before requesting medication. Which change addresses the central sensory mechanism rather than merely a gastrointestinal trigger or treatment timing?",
+    "stem": "Which purpose of nursing education most directly connects teaching with improved recovery and reduced complications?",
     "options": [
-      "Choose dry crackers",
-      "Take small sips of clear fluid",
-      "Look toward a stable point on the horizon",
-      "Avoid the greasy meal"
+      "Improving patient outcomes through effective education",
+      "Increasing the number of examinations",
+      "Replacing patient self-care with dependence",
+      "Reducing nurses' communication responsibilities"
     ],
-    "answer": "C"
+    "answer": "A"
   },
   {
     "id": 68,
     "type": "mcq",
-    "stem": "Which medication-mechanism pair contains a mismatch?",
+    "stem": "A nurse educator teaches students how to educate families and communities about disease prevention. Which purpose of including nursing education in the curriculum is most directly fulfilled?",
     "options": [
-      "Scopolamine — muscarinic receptor blockade",
-      "Meclizine — H1 and central cholinergic pathway blockade",
-      "Ephedrine — counteracts CNS depression",
-      "Caffeine — blocks vestibular muscarinic receptors as its listed primary mechanism"
+      "Equipping student nurses with knowledge and skills needed to educate others",
+      "Restricting education to nursing students themselves",
+      "Eliminating community participation",
+      "Separating health education from nursing practice"
     ],
-    "answer": "D"
+    "answer": "A"
   },
   {
     "id": 69,
     "type": "mcq",
-    "stem": "A patient with narrow-angle glaucoma needs preventive counseling for an upcoming trip. Which prescribed option would require the greatest concern based strictly on the notes?",
+    "stem": "Which statement best demonstrates the relationship between nursing education and evidence-based practice described in the notes?",
     "options": [
-      "Scopolamine patch",
-      "Ginger tea",
-      "P6 acupressure wristband",
-      "Visual fixation"
+      "Nurses learn to interpret and share current scientific evidence with patients and colleagues.",
+      "Nursing education discourages use of current evidence.",
+      "Evidence-based practice applies only to physicians.",
+      "Scientific evidence should not influence quality of care."
     ],
     "answer": "A"
   },
   {
     "id": 70,
     "type": "mcq",
-    "stem": "Which integrated prevention plan best follows the lecture?",
+    "stem": "A nursing curriculum develops teaching competence, communication ability, patient-education skills, professional growth, and evidence-based practice. Which conclusion is most consistent with the notes?",
     "options": [
-      "Wait for vomiting, eat a high-protein meal, sit backward, and focus on nearby stationary objects.",
-      "Initiate medication before exposure, face forward, minimize motion, view the horizon, use cool fresh air, and avoid heavy meals.",
-      "Use medication only after vomiting, close the eyes, consume alcohol, and sit where motion is greatest.",
-      "Apply scopolamine after departure, eat greasy food, and avoid outside visual references."
+      "Educational competence is integrated into multiple dimensions of nursing practice.",
+      "Nursing education is useful only for nurses who become classroom teachers.",
+      "Patient education has no relationship to outcomes.",
+      "Educational competence is separate from professional nursing responsibility."
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 71,
     "type": "fitb",
-    "stem": "The clinical term for motion sickness is __________.",
-    "answer": "kinetosis",
+    "stem": "Education in its broad perspective is described as a __________ process that continues from __________ to death.",
+    "answer": ["lifelong", "birth"],
     "acceptableAnswers": [
-      "kinetosis"
+      ["lifelong", "birth"],
+      ["life-long", "birth"]
     ]
   },
   {
     "id": 72,
     "type": "fitb",
-    "stem": "The physiological framework explaining motion sickness through contradictory sensory information is called the __________ Theory.",
-    "answer": "Sensory Conflict",
+    "stem": "The three forms of education discussed in the notes are formal, __________, and __________ education.",
+    "answer": ["informal", "non-formal"],
     "acceptableAnswers": [
-      "Sensory Conflict",
-      "Sensory Conflict Theory",
-      "Neural Mismatch",
-      "Neural Mismatch Theory"
+      ["informal", "non-formal"],
+      ["informal", "nonformal"]
     ]
   },
   {
     "id": 73,
     "type": "fitb",
-    "stem": "The three sensory systems integrated for spatial orientation are vestibular, visual, and __________.",
-    "answer": "proprioceptive",
+    "stem": "Formal education is generally __________ and sequential, whereas informal education is __________ and non-sequential.",
+    "answer": ["structured", "unstructured"],
     "acceptableAnswers": [
-      "proprioceptive",
-      "proprioception",
-      "proprioceptive system"
+      ["structured", "unstructured"]
     ]
   },
   {
     "id": 74,
     "type": "fitb",
-    "stem": "The vestibular sensory components specifically identified in the lecture are the semicircular canals and the __________.",
-    "answer": "otoliths",
+    "stem": "Formal education is usually __________, while informal education is generally __________ rather than predetermined.",
+    "answer": ["prearranged", "spontaneous"],
     "acceptableAnswers": [
-      "otoliths",
-      "otolith organs",
-      "otolith"
+      ["prearranged", "spontaneous"],
+      ["pre-arranged", "spontaneous"]
     ]
   },
   {
     "id": 75,
     "type": "fitb",
-    "stem": "Mismatched vestibular signals can stimulate the Chemoreceptor Trigger Zone, abbreviated __________.",
-    "answer": "CTZ",
+    "stem": "Formal education is generally __________-led, whereas informal education is usually __________-led.",
+    "answer": ["teacher", "learner"],
     "acceptableAnswers": [
-      "CTZ",
-      "Chemoreceptor Trigger Zone"
+      ["teacher", "learner"],
+      ["teacher-led", "learner-led"]
     ]
   },
   {
     "id": 76,
     "type": "fitb",
-    "stem": "The vomiting center involved in motion sickness is located in the __________ oblongata.",
-    "answer": "medulla",
+    "stem": "Formal learning is generally __________, while informal learning is generally not __________.",
+    "answer": ["evaluated", "evaluated"],
     "acceptableAnswers": [
-      "medulla",
-      "medulla oblongata"
+      ["evaluated", "evaluated"],
+      ["assessed", "assessed"]
     ]
   },
   {
     "id": 77,
     "type": "fitb",
-    "stem": "The two receptor systems emphasized as major pharmacological targets are histamine H1 and __________ acetylcholine receptors.",
-    "answer": "muscarinic",
+    "stem": "Formal education follows a __________, whereas informal education generally does not follow a __________.",
+    "answer": ["syllabus", "syllabus"],
     "acceptableAnswers": [
-      "muscarinic",
-      "ACh muscarinic",
-      "muscarinic acetylcholine"
+      ["syllabus", "syllabus"],
+      ["curriculum", "curriculum"]
     ]
   },
   {
     "id": 78,
     "type": "fitb",
-    "stem": "The early sensation of warmth or hollowness in the stomach is termed __________ awareness.",
-    "answer": "epigastric",
+    "stem": "The Latin term __________ conveys the idea of nourishing or bringing up, while __________ conveys the idea of leading or drawing out.",
+    "answer": ["Educare", "Educere"],
     "acceptableAnswers": [
-      "epigastric",
-      "epigastric awareness"
+      ["Educare", "Educere"],
+      ["educare", "educere"]
     ]
   },
   {
     "id": 79,
     "type": "fitb",
-    "stem": "Severe drowsiness or lethargy occurring with motion sickness is sometimes termed the __________ syndrome.",
-    "answer": "sopite",
+    "stem": "According to Socrates, education involves bringing out __________ that are latent in the __________.",
+    "answer": ["ideas", "mind"],
     "acceptableAnswers": [
-      "sopite",
-      "sopite syndrome"
+      ["ideas", "mind"]
     ]
   },
   {
     "id": 80,
     "type": "fitb",
-    "stem": "Acute excessive sensitivity to smells that may trigger vomiting is called __________.",
-    "answer": "hyperosmia",
+    "stem": "John Dewey described education as the reconstruction or reorganization of __________ that adds meaning to __________.",
+    "answer": ["experience", "experience"],
     "acceptableAnswers": [
-      "hyperosmia"
+      ["experience", "experience"],
+      ["experiences", "experience"]
     ]
   },
   {
     "id": 81,
     "type": "fitb",
-    "stem": "The characteristic cold sweating associated with autonomic activation is termed cold __________.",
-    "answer": "diaphoresis",
+    "stem": "The individual aim emphasizes development of the learner's __________, while the social aim emphasizes the individual's ability to contribute to __________.",
+    "answer": ["personality", "society"],
     "acceptableAnswers": [
-      "diaphoresis",
-      "cold diaphoresis"
+      ["personality", "society"],
+      ["individuality", "society"]
     ]
   },
   {
     "id": 82,
     "type": "fitb",
-    "stem": "Excessive salivation preceding or accompanying vomiting is termed __________.",
-    "answer": "hypersalivation",
+    "stem": "The __________ aim prepares learners with job-related skills, while the __________ aim emphasizes acquisition of knowledge for its own sake.",
+    "answer": ["vocational", "knowledge"],
     "acceptableAnswers": [
-      "hypersalivation",
-      "increased salivation"
+      ["vocational", "knowledge"]
     ]
   },
   {
     "id": 83,
     "type": "fitb",
-    "stem": "The transdermal anticholinergic used to prevent motion sickness is __________.",
-    "answer": "scopolamine",
+    "stem": "The cultural aim promotes cultural __________ and harmony, while the moral aim seeks development of character and __________.",
+    "answer": ["diversity", "integrity"],
     "acceptableAnswers": [
-      "scopolamine",
-      "Transderm Scop",
-      "Transderm Scōp"
+      ["diversity", "integrity"],
+      ["diversity", "moral character"]
     ]
   },
   {
     "id": 84,
     "type": "fitb",
-    "stem": "A scopolamine patch should be applied at least __________ hours before motion exposure.",
-    "answer": "4",
+    "stem": "Formal education usually occurs in the __________ and is provided according to a predetermined __________.",
+    "answer": ["classroom", "curriculum"],
     "acceptableAnswers": [
-      "4",
-      "four",
-      "4 hours",
-      "four hours"
+      ["classroom", "curriculum"],
+      ["school", "curriculum"],
+      ["classroom", "syllabus"]
     ]
   },
   {
     "id": 85,
     "type": "fitb",
-    "stem": "A scopolamine patch is replaced every __________ hours according to the lecture.",
-    "answer": "72",
+    "stem": "Formal education uses intermediate and final __________ to determine advancement and can lead to a formally recognized __________.",
+    "answer": ["assessments", "certificate"],
     "acceptableAnswers": [
-      "72",
-      "72 hours",
-      "seventy-two hours",
-      "three days",
-      "3 days"
+      ["assessments", "certificate"],
+      ["examinations", "certificate"],
+      ["assessments", "qualification"]
     ]
   },
   {
     "id": 86,
     "type": "fitb",
-    "stem": "Scopolamine is contraindicated in __________-angle glaucoma.",
-    "answer": "narrow",
+    "stem": "Two disadvantages of formal education identified in the notes are that it may be relatively __________ and __________ compared with other forms of learning.",
+    "answer": ["costly", "rigid"],
     "acceptableAnswers": [
-      "narrow",
-      "narrow-angle",
-      "narrow angle"
+      ["costly", "rigid"],
+      ["expensive", "rigid"]
     ]
   },
   {
     "id": 87,
     "type": "fitb",
-    "stem": "Accidental ocular contamination after handling scopolamine may produce __________.",
-    "answer": "mydriasis",
+    "stem": "Informal education has no definite __________ and no fixed __________.",
+    "answer": ["syllabus", "timetable"],
     "acceptableAnswers": [
-      "mydriasis",
-      "pupil dilation",
-      "pupillary dilation"
+      ["syllabus", "timetable"],
+      ["curriculum", "timetable"],
+      ["syllabus", "schedule"]
     ]
   },
   {
     "id": 88,
     "type": "fitb",
-    "stem": "The first-generation antihistamine sold under the example brand Dramamine is __________.",
-    "answer": "dimenhydrinate",
+    "stem": "Informal education can occur through daily __________ and by learning new __________.",
+    "answer": ["experience", "things"],
     "acceptableAnswers": [
-      "dimenhydrinate",
-      "Dramamine"
+      ["experience", "things"],
+      ["experiences", "things"]
     ]
   },
   {
     "id": 89,
     "type": "fitb",
-    "stem": "The antihistamine described as having a longer duration and being less sedating than dimenhydrinate is __________.",
-    "answer": "meclizine",
+    "stem": "Informal education does not normally award __________ or __________.",
+    "answer": ["certificates", "degrees"],
     "acceptableAnswers": [
-      "meclizine",
-      "Antivert"
+      ["certificates", "degrees"],
+      ["certificate", "degree"],
+      ["certificates", "diplomas"]
     ]
   },
   {
     "id": 90,
     "type": "fitb",
-    "stem": "Oral antihistamines should generally be administered __________ minutes before travel.",
-    "answer": "30–60",
+    "stem": "Two possible disadvantages of informal education are acquisition of __________ information and absence of a proper __________.",
+    "answer": ["wrong", "schedule"],
     "acceptableAnswers": [
-      "30–60",
-      "30-60",
-      "30 to 60",
-      "30–60 minutes",
-      "30-60 minutes"
+      ["wrong", "schedule"],
+      ["incorrect", "schedule"],
+      ["wrong", "time span"]
     ]
   },
   {
     "id": 91,
     "type": "fitb",
-    "stem": "The sympathomimetic adjuncts listed in the lecture are ephedrine and __________.",
-    "answer": "caffeine",
+    "stem": "Non-formal education occurs outside the traditional __________ system and is generally more __________ in nature.",
+    "answer": ["school", "flexible"],
     "acceptableAnswers": [
-      "caffeine"
+      ["school", "flexible"],
+      ["schooling", "flexible"]
     ]
   },
   {
     "id": 92,
     "type": "fitb",
-    "stem": "Sympathomimetic adjunct therapy requires monitoring for tachycardia and __________.",
-    "answer": "hypertension",
+    "stem": "Examples of non-formal education given in the notes include __________ or seminars and community-based __________ education courses.",
+    "answer": ["workshops", "adult"],
     "acceptableAnswers": [
-      "hypertension",
-      "high blood pressure"
+      ["workshops", "adult"],
+      ["workshop", "adult"]
     ]
   },
   {
     "id": 93,
     "type": "fitb",
-    "stem": "Looking at a stable point on the __________ helps realign visual and vestibular inputs.",
-    "answer": "horizon",
+    "stem": "Non-formal education may have an adjustable __________ and __________ rather than the rigid arrangements associated with formal education.",
+    "answer": ["timetable", "syllabus"],
     "acceptableAnswers": [
-      "horizon",
-      "the horizon"
+      ["timetable", "syllabus"],
+      ["schedule", "syllabus"],
+      ["timetable", "curriculum"]
     ]
   },
   {
     "id": 94,
     "type": "fitb",
-    "stem": "On an airplane, a motion-sensitive passenger should preferentially sit over the __________ to minimize motion.",
-    "answer": "wings",
+    "stem": "Two advantages of non-formal education are that __________-learning is encouraged and there is flexibility in age, curriculum, and __________.",
+    "answer": ["self", "time"],
     "acceptableAnswers": [
-      "wings",
-      "wing",
-      "airplane wings"
+      ["self", "time"],
+      ["self-learning", "time"]
     ]
   },
   {
     "id": 95,
     "type": "fitb",
-    "stem": "On a ship, an area of relatively minimal motion identified in the notes is __________ at the waterline.",
-    "answer": "mid-ship",
+    "stem": "Two disadvantages of non-formal education identified in the notes are unsteady participant __________ and the possible absence of professional and trained __________.",
+    "answer": ["attendance", "teachers"],
     "acceptableAnswers": [
-      "mid-ship",
-      "midship",
-      "mid ship"
+      ["attendance", "teachers"],
+      ["attendance", "instructors"]
     ]
   },
   {
     "id": 96,
     "type": "fitb",
-    "stem": "The herbal complementary therapy described as reducing gastric dysrhythmias is __________.",
-    "answer": "ginger",
+    "stem": "Education helps an individual develop the ability to make __________ and distinguish between __________ and wrong.",
+    "answer": ["decisions", "right"],
     "acceptableAnswers": [
-      "ginger",
-      "Zingiber officinale"
+      ["decisions", "right"],
+      ["decision", "right"]
     ]
   },
   {
     "id": 97,
     "type": "fitb",
-    "stem": "Acupressure wristbands for motion sickness target the __________ point.",
-    "answer": "P6",
+    "stem": "Education helps in building a __________ and working toward a well-defined __________.",
+    "answer": ["career", "goal"],
     "acceptableAnswers": [
-      "P6",
-      "P6 Neiguan",
-      "Neiguan",
-      "P6 (Neiguan)"
+      ["career", "goal"],
+      ["career", "objective"]
     ]
   },
   {
     "id": 98,
     "type": "fitb",
-    "stem": "Protracted vomiting places the patient at risk for __________ volume deficit.",
-    "answer": "fluid",
+    "stem": "Nursing education develops effective __________ skills and supports improved patient __________.",
+    "answer": ["communication", "compliance"],
     "acceptableAnswers": [
-      "fluid",
-      "fluid volume",
-      "Fluid Volume Deficit"
+      ["communication", "compliance"],
+      ["communication", "outcomes"]
     ]
   },
   {
     "id": 99,
     "type": "fitb",
-    "stem": "During transportation, the patient should maintain an upright and __________-facing position.",
-    "answer": "forward",
+    "stem": "Through nursing education, nurses learn to interpret current scientific __________ and use it to improve the quality of __________.",
+    "answer": ["evidence", "care"],
     "acceptableAnswers": [
-      "forward",
-      "forward-facing",
-      "forward facing"
+      ["evidence", "care"],
+      ["research evidence", "care"]
     ]
   },
   {
     "id": 100,
     "type": "fitb",
-    "stem": "Exhaust fumes and tobacco smoke should be avoided because offensive __________ can induce emesis.",
-    "answer": "odors",
+    "stem": "The interdependence of educational forms means that __________ personality develops through contributions from different forms of education and may lead to the sustainable development of the __________.",
+    "answer": ["learner", "society"],
     "acceptableAnswers": [
-      "odors",
-      "odours",
-      "offensive odors",
-      "offensive odours",
-      "smells"
+      ["learner", "society"],
+      ["the learner's", "society"],
+      ["human", "society"]
     ]
   }
 ]
