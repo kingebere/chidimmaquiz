@@ -2,1145 +2,1130 @@
   {
     "id": 1,
     "type": "mcq",
-    "stem": "A nursing school deliberately organizes instruction around predetermined objectives, a fixed timetable, a prescribed syllabus, and periodic examinations. Which feature most decisively distinguishes this learning arrangement from informal education?",
+    "stem": "Educational philosophy is BEST defined as which of the following?",
     "options": [
-      "Learning can occur throughout life",
-      "Learning is structured, sequential, and prearranged",
-      "Learners may acquire attitudes and skills",
-      "Knowledge can influence behavior"
+      "A random collection of teaching tips with no theoretical basis",
+      "A set of principles that guides the purpose, content, and methods of education",
+      "A government policy document restricted to curriculum pricing",
+      "A synonym for classroom discipline techniques only"
     ],
     "answer": "B"
   },
   {
     "id": 2,
     "type": "mcq",
-    "stem": "A learner develops communication skills primarily through repeated interactions with family members, friends, and coworkers without enrollment in a program. According to the notes, this is best classified as:",
+    "stem": "The relationship between philosophy and education is BEST described as which of the following?",
     "options": [
-      "Formal education because communication is a teachable skill",
-      "Non-formal education because no certificate is awarded",
-      "Informal education because learning occurs naturally through daily experience",
-      "Formal education because the outcome can be evaluated"
+      "Philosophy determines fee structures while education determines grading only",
+      "Philosophy provides the theoretical foundation while education is the practical application of philosophical principles",
+      "Philosophy and education share no meaningful connection",
+      "Education precedes philosophy chronologically and philosophy has no further role"
     ],
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 3,
     "type": "mcq",
-    "stem": "Which situation best represents non-formal rather than informal education?",
+    "stem": "Which statement BEST distinguishes idealism from realism as schools of philosophy?",
     "options": [
-      "A child learns manners from family interactions",
-      "A nurse learns empathy from years of patient encounters",
-      "Adults attend an organized community literacy program outside the traditional school system",
-      "A student unintentionally learns slang from friends"
+      "Idealism emphasizes ideas and mind as ultimate reality while realism emphasizes the material world as it exists independent of the mind",
+      "Idealism emphasizes the material world while realism emphasizes ideas",
+      "Both schools deny the existence of a physical world",
+      "Both schools reject the role of a teacher entirely"
     ],
-    "answer": "C"
+    "answer": "A"
   },
   {
     "id": 4,
     "type": "mcq",
-    "stem": "A six-week community health workshop has planned objectives and an adjustable timetable but operates outside a conventional school. Which classification is most appropriate?",
+    "stem": "Idealism in educational philosophy traces its roots MOST directly to which philosopher?",
     "options": [
-      "Informal education",
-      "Non-formal education",
-      "Formal education",
-      "Incidental education only"
+      "Plato",
+      "John Dewey",
+      "B.F. Skinner",
+      "Ivan Pavlov"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 5,
     "type": "mcq",
-    "stem": "Which pairing correctly distinguishes formal from informal education according to the comparison presented in the notes?",
+    "stem": "According to Idealism, the ultimate aim of education is BEST described as achievement of which triad?",
     "options": [
-      "Formal—voluntary; Informal—compulsory",
-      "Formal—non-sequential; Informal—sequential",
-      "Formal—usually prearranged; Informal—spontaneous",
-      "Formal—everywhere; Informal—usually at school"
+      "Truth, Beauty, and Goodness",
+      "Speed, Strength, and Stamina",
+      "Profit, Growth, and Expansion",
+      "Memorization, Repetition, and Recall"
     ],
-    "answer": "C"
+    "answer": "A"
   },
   {
     "id": 6,
     "type": "mcq",
-    "stem": "Which characteristic would provide the strongest evidence that an educational activity is formal?",
+    "stem": "Idealist education emphasizes self-realization through which core focus?",
     "options": [
-      "Learning occurs through experience",
-      "The learner receives a formally recognized certificate after organized assessment",
-      "Participation is voluntary",
-      "Learning occurs outside school"
+      "Developing the rational mind and inner spiritual self of the learner",
+      "Developing only manual and vocational skill sets",
+      "Developing physical strength as the highest priority",
+      "Developing compliance with external authority alone"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 7,
     "type": "mcq",
-    "stem": "Which characteristic is shared more directly by informal and non-formal education than by formal education in the comparison table?",
+    "stem": "Which teaching method is MOST closely associated with the Idealist school of philosophy?",
     "options": [
-      "Both are always teacher-led",
-      "Both are compulsory",
-      "Both are voluntary",
-      "Both require predetermined syllabi"
+      "The Socratic (dialectical) method of questioning to draw out latent knowledge",
+      "Operant conditioning using a Skinner box",
+      "Randomized controlled experimentation",
+      "Strict rote drilling with no discussion"
     ],
-    "answer": "C"
+    "answer": "A"
   },
   {
     "id": 8,
     "type": "mcq",
-    "stem": "Which statement best differentiates non-formal education from informal education?",
+    "stem": "Imitation and modeling as an Idealist teaching approach relies MOST on which practice?",
     "options": [
-      "Non-formal education cannot teach skills.",
-      "Non-formal education may be structured and organized despite occurring outside the traditional school system.",
-      "Informal education always awards certificates.",
-      "Informal education must involve a trained teacher."
+      "The teacher presenting an ideal example or model for the learner to emulate",
+      "The learner working in complete isolation with no example given",
+      "The learner designing the curriculum independently",
+      "Random trial and error with no guidance"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 9,
     "type": "mcq",
-    "stem": "A workshop has planned learning activities but modifies its timetable to accommodate participants. Which property of non-formal education does this illustrate?",
+    "stem": "A commonly cited demerit of Idealism in nursing education is which of the following?",
     "options": [
-      "Its timetable and syllabus can be adjustable",
-      "It is always spontaneous",
-      "It must be sequential",
-      "It requires formal examinations"
+      "It can be overly abstract and may neglect practical, hands-on clinical skill development",
+      "It focuses exclusively on laboratory experimentation",
+      "It rejects the use of moral or ethical reasoning",
+      "It eliminates the role of the teacher completely"
     ],
     "answer": "A"
   },
   {
     "id": 10,
     "type": "mcq",
-    "stem": "Which learning situation is least consistent with formal education?",
+    "stem": "Realism in educational philosophy traces its roots MOST directly to which philosopher?",
     "options": [
-      "Learning guided by trained personnel",
-      "A curriculum completed within a specific time period",
-      "Spontaneous learning without a definite syllabus",
-      "Intermediate and final assessment"
+      "Aristotle",
+      "Plato",
+      "Charles Sanders Peirce",
+      "Jean Piaget"
     ],
-    "answer": "C"
+    "answer": "A"
   },
   {
     "id": 11,
     "type": "mcq",
-    "stem": "The statement that education is a lifelong process beginning from birth and continuing until death is most closely associated in the notes with:",
+    "stem": "Realist philosophy holds that reality exists BEST described as which of the following?",
     "options": [
-      "The broad perspective of education",
-      "Vocational education only",
-      "Formal education only",
-      "Certification theory"
+      "Independently of the mind, in the material and observable world",
+      "Only as a construct of individual imagination",
+      "Only within religious doctrine",
+      "As an illusion with no verifiable existence"
     ],
     "answer": "A"
   },
   {
     "id": 12,
     "type": "mcq",
-    "stem": "A definition restricts education to activities occurring within institutions under organized instruction. Compared with the broad perspective in the notes, this definition is:",
+    "stem": "Which curricular emphasis is MOST characteristic of the Realist school of philosophy?",
     "options": [
-      "More consistent with informal education",
-      "Narrower in scope",
-      "Identical to lifelong education",
-      "More inclusive of accidental learning"
+      "Science and mathematics grounded in observation and experimentation",
+      "Poetry and abstract metaphysical dialogue only",
+      "Pure memorization of scripture",
+      "Exclusive focus on athletic training"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 13,
     "type": "mcq",
-    "stem": "Which statement best reflects the broad perspective of education presented in the notes?",
+    "stem": "In nursing education, Realism is MOST evident in which teaching approach?",
     "options": [
-      "Education occurs only when a trained teacher is present.",
-      "Education includes experiences acquired through home life, friendship, travel, recreation, and other activities.",
-      "Education is limited to acquisition of certificates.",
-      "Education begins when a learner enters school."
+      "Using direct observation, laboratory experimentation, and evidence-based demonstration of clinical skills",
+      "Relying solely on Socratic dialectic with no demonstration",
+      "Using operant conditioning boxes exclusively",
+      "Prohibiting any use of scientific equipment"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 14,
     "type": "mcq",
-    "stem": "Which Latin-derived term in the notes conveys the idea of drawing out or leading forth?",
+    "stem": "A commonly cited demerit of Realism as an educational philosophy is which of the following?",
     "options": [
-      "Educare",
-      "Educere",
-      "Educatum",
-      "Educatio"
+      "It may underemphasize creativity, values, and abstract moral reasoning in favor of pure fact",
+      "It overemphasizes fictional literature",
+      "It eliminates the use of laboratories",
+      "It rejects the use of the scientific method"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 15,
     "type": "mcq",
-    "stem": "Which concept emphasizes education as nourishment or training that helps develop the learner?",
+    "stem": "Pragmatism as a school of philosophy is BEST understood as an offshoot of which broader philosophy?",
     "options": [
-      "Educere",
-      "Educare",
-      "Reconstruction",
-      "Certification"
+      "Scientific realism",
+      "Classical idealism",
+      "Behaviorist conditioning theory",
+      "Religious dogmatism"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 16,
     "type": "mcq",
-    "stem": "Socrates' definition of education in the notes emphasizes:",
+    "stem": "Which of the following philosophers is MOST closely associated with the founding of Pragmatism?",
     "options": [
-      "Preparation exclusively for employment",
-      "Bringing out ideas latent in the mind",
-      "Memorizing predetermined facts",
-      "Awarding recognized qualifications"
+      "Charles Sanders Peirce",
+      "Plato",
+      "Aristotle",
+      "B.F. Skinner"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 17,
     "type": "mcq",
-    "stem": "Which philosopher's view describes education as reconstruction or reorganization of experience that adds meaning to experience?",
+    "stem": "John Dewey, a leading Pragmatist, is MOST associated with which educational concept?",
     "options": [
-      "Plato",
-      "Herbert Spencer",
-      "John Dewey",
-      "Rousseau"
+      "Learning by doing through practical, experience-based education",
+      "Rigid memorization of classical texts",
+      "Strict corporal discipline as the primary teaching tool",
+      "Rejection of all experimentation"
     ],
-    "answer": "C"
+    "answer": "A"
   },
   {
     "id": 18,
     "type": "mcq",
-    "stem": "A curriculum designer argues that education should develop the intellectual, moral, and physical dimensions of the learner. Which philosophical position from the notes most closely supports this?",
+    "stem": "Pragmatism is closely linked with which of the following related concepts?",
     "options": [
-      "Aristotle's conception",
-      "The informal education model",
-      "The certification model",
-      "The non-formal timetable principle"
+      "Instrumentalism, experimentalism, and progressivism",
+      "Divine revelation and dogma",
+      "Fixed innate ideas with no experiential basis",
+      "Rote memorization without application"
     ],
     "answer": "A"
   },
   {
     "id": 19,
     "type": "mcq",
-    "stem": "Which philosopher emphasized harmonious development of physical, intellectual, and moral powers according to the laws of nature?",
+    "stem": "The project method, a hallmark of Pragmatist teaching, is BEST described as which of the following?",
     "options": [
-      "John Dewey",
-      "Rousseau",
-      "Socrates",
-      "Herbert Spencer"
+      "Learners undertake a purposeful, real-world task that integrates knowledge and problem-solving",
+      "Learners copy text verbatim from a textbook",
+      "Learners are tested only through multiple-choice exams",
+      "Learners are excluded from any hands-on activity"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 20,
     "type": "mcq",
-    "stem": "Herbert Spencer's conception of education places particular emphasis on preparing individuals for:",
+    "stem": "A recognized merit of Pragmatism in nursing education is which of the following?",
     "options": [
-      "Examinations alone",
-      "A full, productive, and responsible life",
-      "Informal learning alone",
-      "Religious instruction exclusively"
+      "It connects theoretical content to real clinical practice through learning by doing",
+      "It removes all clinical practicums from the curriculum",
+      "It discourages any form of problem-solving",
+      "It rejects experimentation of any kind"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 21,
     "type": "mcq",
-    "stem": "Which of the following is most directly associated with Herbert Spencer's conception of complete living?",
+    "stem": "A commonly cited demerit of Pragmatism as an educational philosophy is which of the following?",
     "options": [
-      "Self-preservation and earning a livelihood",
-      "Avoidance of social participation",
-      "Elimination of practical skills",
-      "Learning only through formal schools"
+      "It may deemphasize systematic, structured content mastery in favor of experience alone",
+      "It over-relies on rote memorization",
+      "It rejects experiential learning entirely",
+      "It eliminates critical thinking"
     ],
     "answer": "A"
   },
   {
     "id": 22,
     "type": "mcq",
-    "stem": "A program teaches health maintenance, occupational skills, parenting responsibilities, citizenship, and leisure. Which philosophical conception does this combination most closely reflect?",
+    "stem": "Eclecticism in educational philosophy is BEST defined as which of the following?",
     "options": [
-      "Spencer's preparation for major activities of life",
-      "Socrates' latent-ideas definition only",
-      "Informal education exclusively",
-      "Non-formal certification theory"
+      "Selecting and combining the best elements from multiple philosophies rather than adhering to only one",
+      "Strict adherence to a single rigid philosophy",
+      "Rejection of all philosophical frameworks",
+      "A philosophy exclusive to behaviorist psychology"
     ],
     "answer": "A"
   },
   {
     "id": 23,
     "type": "mcq",
-    "stem": "Which statement best captures the individual aim of education described in the notes?",
+    "stem": "A recognized merit of the Eclectic approach to teaching is which of the following?",
     "options": [
-      "Education should primarily preserve institutions regardless of individual development.",
-      "Education emphasizes development of the individual's personality and potential.",
-      "Education should eliminate personal interests.",
-      "Education should focus only on economic productivity."
+      "It offers variety and flexibility by drawing on the strengths of multiple philosophies",
+      "It forces rigid conformity to one single teaching method",
+      "It removes the teacher's role in lesson planning",
+      "It eliminates the need for any theoretical grounding"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 24,
     "type": "mcq",
-    "stem": "Which outcome most directly reflects the social aim of education?",
+    "stem": "A commonly cited demerit of the Eclectic approach to teaching is which of the following?",
     "options": [
-      "Developing the individual's ability to interact with and contribute to society",
-      "Maximizing examination scores without social participation",
-      "Learning exclusively for personal recreation",
-      "Avoiding community responsibility"
+      "It may create gaps or inconsistency in learning due to lack of a unifying framework",
+      "It guarantees perfectly unified instruction with no gaps",
+      "It eliminates flexibility completely",
+      "It requires exclusive use of one philosophy only"
     ],
     "answer": "A"
   },
   {
     "id": 25,
     "type": "mcq",
-    "stem": "A program teaches job-specific competencies so learners can become economically self-sufficient. Which aim of education is dominant?",
+    "stem": "Existentialism, briefly noted among philosophies of education, emphasizes MOST which concept?",
     "options": [
-      "Cultural aim",
-      "Moral aim",
-      "Vocational aim",
-      "Individual recreational aim"
+      "Individual freedom, choice, and personal responsibility in learning",
+      "Strict obedience to external authority with no personal choice",
+      "Elimination of individuality in favor of the group",
+      "Pure rote memorization with no reflection"
     ],
-    "answer": "C"
+    "answer": "A"
   },
   {
     "id": 26,
     "type": "mcq",
-    "stem": "Which aim of education emphasizes acquisition of knowledge for its own sake and considers knowledge important for intellectual development?",
+    "stem": "Humanism, briefly noted among philosophies of education, emphasizes MOST which concept?",
     "options": [
-      "Knowledge aim",
-      "Vocational aim",
-      "Social aim",
-      "Physical aim"
+      "The inherent worth, dignity, and self-actualization potential of the learner",
+      "The learner as a passive recipient with no inherent worth",
+      "Strict punishment as the primary motivator",
+      "Rejection of any emotional or psychological consideration"
     ],
     "answer": "A"
   },
   {
     "id": 27,
     "type": "mcq",
-    "stem": "A curriculum deliberately introduces learners to traditions, perspectives, and artistic heritage from multiple societies. Which educational aim is most directly being pursued?",
+    "stem": "Which of the following is ALSO generally recognized as one of the five widely accepted theories of learning, alongside Behaviorism?",
     "options": [
-      "Vocational",
-      "Cultural",
-      "Certification",
-      "Institutional"
+      "Behaviorism",
+      "Idealism",
+      "Realism",
+      "Eclecticism"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 28,
     "type": "mcq",
-    "stem": "The cultural aim of education extends beyond learning about one's own culture primarily by promoting:",
+    "stem": "Which of the following is generally recognized as one of the five widely accepted theories of learning?",
     "options": [
-      "Cultural diversity, equity, and harmony",
-      "Uniform rejection of other traditions",
-      "Only occupational specialization",
-      "Only formal assessment"
+      "Cognitive learning theory",
+      "Pragmatism",
+      "Existentialism",
+      "Humanism as a philosophy of education"
     ],
     "answer": "A"
   },
   {
     "id": 29,
     "type": "mcq",
-    "stem": "Which aim of education is most directly concerned with developing character, integrity, commitment to ethical conduct, and informed moral judgment?",
+    "stem": "Behaviorism as a learning theory is MOST closely associated with which set of theorists?",
     "options": [
-      "Moral aim",
-      "Vocational aim",
-      "Knowledge aim",
-      "Formal aim"
+      "Watson, Skinner, and Pavlov",
+      "Plato, Aristotle, and Peirce",
+      "Piaget, Dewey, and James",
+      "Freud, Jung, and Erikson"
     ],
     "answer": "A"
   },
   {
     "id": 30,
     "type": "mcq",
-    "stem": "A learner is taught to consider moral factors in different situations, understand ethical concepts, and make informed judgments independently. This most directly represents:",
+    "stem": "Classical conditioning, as demonstrated by Pavlov's dogs, is BEST described as which process?",
     "options": [
-      "Cultural preservation",
-      "Moral education",
-      "Informal certification",
-      "Vocational preparation"
+      "Learning through an association formed between a neutral stimulus and an unconditioned stimulus until the neutral stimulus alone elicits the response",
+      "Learning solely through internal cognitive restructuring with no external stimulus",
+      "Learning by imitating a model with no reinforcement involved",
+      "Learning that occurs only in group settings"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 31,
     "type": "mcq",
-    "stem": "Which educational objective is most closely associated with spiritual development in the notes?",
+    "stem": "Operant conditioning, as demonstrated in the Skinner box experiment, is BEST described as which process?",
     "options": [
-      "Cultivating virtues such as honesty, patience, compassion, and selflessness",
-      "Increasing examination frequency",
-      "Promoting competition for certificates",
-      "Eliminating reflection and meditation"
+      "Learning in which the consequences that follow a behavior increase or decrease the likelihood of that behavior recurring",
+      "Learning that occurs purely through observation with no consequence involved",
+      "Learning that is entirely unconscious and unmeasurable",
+      "Learning that requires no behavior at all"
     ],
     "answer": "A"
   },
   {
     "id": 32,
     "type": "mcq",
-    "stem": "Which statement most accurately describes the interdependence of forms of education?",
+    "stem": "Positive reinforcement in Behaviorism is BEST defined as which of the following?",
     "options": [
-      "Each form develops independently and should remain isolated.",
-      "Human personality develops through the combined contribution of different forms of education.",
-      "Informal education should eventually replace formal education.",
-      "Only formal education contributes to personality development."
+      "Adding a pleasant stimulus after a behavior to increase the likelihood the behavior recurs",
+      "Removing an unpleasant stimulus to increase a behavior",
+      "Adding an unpleasant stimulus to decrease a behavior",
+      "Removing a pleasant stimulus to decrease a behavior"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 33,
     "type": "mcq",
-    "stem": "A child attends school, learns cooperation during community sports, and acquires social habits from family life. Which principle is best illustrated?",
+    "stem": "Negative reinforcement in Behaviorism is BEST defined as which of the following?",
     "options": [
-      "Interdependence of forms of education",
-      "Formal education eliminates informal learning",
-      "Non-formal education must be compulsory",
-      "Educational forms cannot coexist"
+      "Removing an unpleasant stimulus after a behavior to increase the likelihood the behavior recurs",
+      "Adding a pleasant stimulus to increase a behavior",
+      "Adding an unpleasant stimulus to decrease a behavior",
+      "Removing a pleasant stimulus to decrease a behavior"
     ],
     "answer": "A"
   },
   {
     "id": 34,
     "type": "mcq",
-    "stem": "Which feature of formal education most directly promotes orderly progression from one academic level to another?",
+    "stem": "Which statement CORRECTLY clarifies the relationship between negative reinforcement and positive reinforcement?",
     "options": [
-      "Intermediate and final assessments",
-      "Absence of timetables",
-      "Spontaneous learning",
-      "Lack of predetermined content"
+      "Negative reinforcement is NOT the opposite of positive reinforcement; both are intended to increase the likelihood of a desired behavior",
+      "Negative reinforcement is exactly the opposite of positive reinforcement and always decreases behavior",
+      "Negative reinforcement and punishment are identical concepts",
+      "Negative reinforcement removes a pleasant stimulus to strengthen behavior"
     ],
     "answer": "A"
   },
   {
     "id": 35,
     "type": "mcq",
-    "stem": "A student completes predetermined subjects under trained teachers, passes final assessments, and receives a recognized qualification. Which classification is unequivocally supported?",
+    "stem": "Punishment in Behaviorist learning theory is BEST defined as which of the following?",
     "options": [
-      "Informal education",
-      "Formal education",
-      "Incidental learning",
-      "Non-formal learning only"
+      "A consequence applied after a behavior that is intended to decrease the likelihood of that behavior recurring",
+      "A consequence applied to increase the likelihood of a behavior recurring",
+      "The removal of an unpleasant stimulus to strengthen behavior",
+      "A synonym for positive reinforcement"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 36,
     "type": "mcq",
-    "stem": "Which is an advantage of formal education identified in the notes?",
+    "stem": "Imitation and modeling as a Behaviorist teaching strategy relies MOST on which mechanism?",
     "options": [
-      "There is no specific time span.",
-      "Students acquire knowledge from trained and professional teachers.",
-      "Learning is always voluntary.",
-      "There is no need for assessment."
+      "The learner observing and reproducing a demonstrated behavior performed by the instructor or a model",
+      "The learner receiving no external example whatsoever",
+      "The learner being conditioned exclusively through punishment",
+      "The learner working only with abstract metaphysical concepts"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 37,
     "type": "mcq",
-    "stem": "Which feature is simultaneously an organizational strength of formal education and a potential source of inflexibility?",
+    "stem": "Repetition and practice, as applied in Behaviorist teaching, are used MOST to achieve which outcome?",
     "options": [
-      "Predetermined structure and timetable",
-      "Absence of teachers",
-      "Spontaneous content",
-      "Learning from family conversations"
+      "Strengthening and reinforcing a learned behavior or skill through repeated performance",
+      "Eliminating the need for any reinforcement",
+      "Replacing the need for feedback entirely",
+      "Preventing skill retention"
     ],
     "answer": "A"
   },
   {
     "id": 38,
     "type": "mcq",
-    "stem": "According to the notes, slow learners may be disadvantaged in formal education because:",
+    "stem": "Shaping, as a Behaviorist teaching technique, is BEST described as which of the following?",
     "options": [
-      "Formal education has no curriculum.",
-      "They may fail to learn properly within the pace imposed by the professional trainer.",
-      "Formal education does not use teachers.",
-      "Formal education prohibits assessment."
+      "Reinforcing successive approximations of a target behavior until the full behavior is achieved",
+      "Punishing every attempt until the learner stops trying",
+      "Ignoring all learner behavior until the correct response spontaneously appears",
+      "Presenting the complete final behavior with no intermediate steps"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 39,
     "type": "mcq",
-    "stem": "Which criticism of formal education concerns progression rules rather than instructional quality?",
+    "stem": "Feedback and correction, as a Behaviorist teaching strategy, primarily serve which purpose?",
     "options": [
-      "Students may be forced to wait until the academic session ends before promotion.",
-      "Teachers may possess professional training.",
-      "Courses may follow organized content.",
-      "Learning may be systematically assessed."
+      "Informing the learner about the accuracy of a response so behavior can be adjusted and reinforced appropriately",
+      "Preventing the learner from ever knowing whether a response was correct",
+      "Replacing the need for any reinforcement schedule",
+      "Eliminating the teacher's role in the learning process"
     ],
     "answer": "A"
   },
   {
     "id": 40,
     "type": "mcq",
-    "stem": "Which disadvantage is specifically associated with formal education in the notes?",
+    "stem": "Cognitive learning theory is MOST closely associated with which theorist?",
     "options": [
-      "It is always unstructured.",
-      "It may be costly and rigid compared with other forms of learning.",
-      "It never results in certification.",
-      "It cannot use trained personnel."
+      "Jean Piaget",
+      "B.F. Skinner",
+      "Ivan Pavlov",
+      "John B. Watson"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 41,
     "type": "mcq",
-    "stem": "Which scenario best illustrates a characteristic of informal education?",
+    "stem": "Cognitive learning theory emphasizes learning as occurring MOST through which internal processes?",
     "options": [
-      "A student follows a semester syllabus.",
-      "A child learns basic numeric characters through everyday experiences.",
-      "A trainee follows an organized workshop curriculum.",
-      "A nursing student completes a compulsory clinical examination."
+      "Receiving, organizing, processing, and retrieving information mentally",
+      "Purely external stimulus-response associations with no mental activity",
+      "Random chance with no identifiable mental process",
+      "Physical reflexes alone"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 42,
     "type": "mcq",
-    "stem": "Which combination is most consistent with informal education?",
+    "stem": "Discovery learning, a Cognitive teaching strategy, is BEST described as which of the following?",
     "options": [
-      "Predetermined syllabus, fixed timetable, certification",
-      "Independent learning, no definite syllabus, no fixed timetable",
-      "Compulsory attendance, examinations, teacher-led sequence",
-      "Institutional curriculum, formal assessment, certification"
+      "Learners actively explore and uncover concepts and relationships for themselves rather than being told directly",
+      "Learners are given every answer in advance with no exploration",
+      "Learners are punished for asking questions",
+      "Learners memorize content with no conceptual understanding"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 43,
     "type": "mcq",
-    "stem": "A learner acquires knowledge from television, radio, books, friends, and family. Which feature of informal education is demonstrated?",
+    "stem": "The use of concrete materials in Cognitive teaching strategy is intended MOST to achieve which purpose?",
     "options": [
-      "Learning can arise from many different sources.",
-      "Learning must be school-based.",
-      "Learning requires professional instructors.",
-      "Learning follows a predetermined sequence."
+      "Helping learners build understanding of abstract concepts through tangible, hands-on objects",
+      "Preventing learners from engaging with abstract ideas at all",
+      "Replacing the need for any instructor guidance",
+      "Eliminating the need for group interaction"
     ],
     "answer": "A"
   },
   {
     "id": 44,
     "type": "mcq",
-    "stem": "Which statement represents an advantage rather than a disadvantage of informal education?",
+    "stem": "Encouraging critical thinking, a Cognitive teaching strategy, is BEST described as which of the following?",
     "options": [
-      "Information acquired may be incorrect.",
-      "There may be no proper schedule.",
-      "Learning can occur naturally anywhere and at any time.",
-      "The learner may lack confidence."
+      "Prompting learners to analyze, evaluate, and question information rather than accept it passively",
+      "Requiring learners to accept all information without question",
+      "Preventing learners from forming independent judgments",
+      "Discouraging any form of reflection"
     ],
-    "answer": "C"
+    "answer": "A"
   },
   {
     "id": 45,
     "type": "mcq",
-    "stem": "Why can informal education be considered cost- and time-efficient according to the notes?",
+    "stem": "Teaching according to developmental level, a Cognitive teaching principle, means MOST which of the following?",
     "options": [
-      "It always guarantees employment.",
-      "It has no specific time span and can occur through ordinary experiences and accessible sources.",
-      "It requires expensive professional teachers.",
-      "It requires standardized examinations."
+      "Matching instructional content and complexity to the learner's current stage of cognitive development",
+      "Teaching identical content to every learner regardless of developmental stage",
+      "Ignoring the learner's cognitive readiness entirely",
+      "Teaching only the most advanced material to beginners"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 46,
     "type": "mcq",
-    "stem": "A learner obtains medical information from an unreliable social-media post and accepts it without verification. Which disadvantage of informal education is most directly illustrated?",
+    "stem": "Allowing mistakes as part of the learning process, per Cognitive learning theory, serves MOST which purpose?",
     "options": [
-      "Rigid curriculum",
-      "Risk of acquiring wrong information",
-      "Excessive formal assessment",
-      "Compulsory attendance"
+      "Providing an opportunity for learners to identify errors and reconstruct correct understanding",
+      "Punishing the learner immediately for any incorrect response",
+      "Preventing any further attempt at the task",
+      "Eliminating the value of feedback"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 47,
     "type": "mcq",
-    "stem": "Which disadvantage of informal education relates most directly to the absence of structured educational planning?",
+    "stem": "Interleaving topics, a Cognitive learning strategy, is BEST described as which of the following?",
     "options": [
-      "No proper schedule or time span",
-      "Compulsory examinations",
-      "Excessive certification",
-      "Predetermined syllabus"
+      "Mixing different topics or types of problems during study rather than practicing one in isolation",
+      "Studying a single topic repeatedly with no variation",
+      "Avoiding review of previously learned material",
+      "Removing all structure from a study session"
     ],
     "answer": "A"
   },
   {
     "id": 48,
     "type": "mcq",
-    "stem": "A learner has acquired useful knowledge independently but hesitates to demonstrate it publicly because no recognized instructor or institution validated it. Which disadvantage in the notes most closely applies?",
+    "stem": "Spacing out learning activities, a Cognitive learning strategy, is BEST described as which of the following?",
     "options": [
-      "Lack of confidence in the learner",
-      "Excessive teacher control",
-      "Rigid certification procedures",
-      "High tuition cost"
+      "Distributing study sessions over time rather than massing them into one session",
+      "Concentrating all study into a single continuous session",
+      "Eliminating repetition of material entirely",
+      "Studying only once with no follow-up review"
     ],
     "answer": "A"
   },
   {
     "id": 49,
     "type": "mcq",
-    "stem": "Which example belongs most clearly to non-formal education?",
+    "stem": "Elaboration, a Cognitive learning strategy, is BEST described as which of the following?",
     "options": [
-      "A university degree program",
-      "A workshop or seminar conducted outside the traditional school system",
-      "A child learning table manners at home",
-      "Unplanned learning from television"
+      "Connecting new information to existing knowledge by explaining and expanding on it",
+      "Memorizing information with no connection to prior knowledge",
+      "Avoiding any explanation of new material",
+      "Presenting information in isolation from context"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 50,
     "type": "mcq",
-    "stem": "Which is NOT listed as an example of non-formal education?",
+    "stem": "Generating examples of outcomes, a Cognitive learning strategy, primarily helps learners to do which of the following?",
     "options": [
-      "Youth clubs and after-school programs",
-      "Community-based adult education courses",
-      "Sports or fitness programs",
-      "A compulsory university degree curriculum"
+      "Apply abstract concepts to concrete situations, reinforcing understanding through application",
+      "Avoid any application of the concept learned",
+      "Memorize definitions with no context",
+      "Eliminate the need for practice retrieval"
     ],
-    "answer": "D"
+    "answer": "A"
   },
   {
     "id": 51,
     "type": "mcq",
-    "stem": "Which characteristic separates non-formal education from a purely spontaneous informal learning event?",
+    "stem": "Practice retrieval, a Cognitive learning strategy, is BEST described as which of the following?",
     "options": [
-      "It can be planned and organized.",
-      "It cannot teach practical skills.",
-      "It must occur in a university.",
-      "It is always compulsory."
+      "Actively recalling previously learned information from memory rather than simply re-reading it",
+      "Passively re-reading notes with no active recall",
+      "Avoiding any form of self-testing",
+      "Relying solely on external reinforcement schedules"
     ],
     "answer": "A"
   },
   {
     "id": 52,
     "type": "mcq",
-    "stem": "A vocational training program changes its timetable according to participants' employment schedules. Which non-formal education principle is demonstrated?",
+    "stem": "Constructivism, briefly noted among learning theories, holds that learners BEST construct knowledge through which process?",
     "options": [
-      "Rigidity",
-      "Flexibility in age, curriculum, and time",
-      "Compulsory sequencing",
-      "Dependence on formal certification"
+      "Building new understanding upon their prior knowledge and experience",
+      "Passively absorbing knowledge with no prior experience involved",
+      "Receiving knowledge exclusively through reinforcement schedules",
+      "Memorizing isolated facts unrelated to prior learning"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 53,
     "type": "mcq",
-    "stem": "Which advantage of non-formal education is most directly demonstrated when adults learn job skills through practical workshops?",
+    "stem": "Jean Piaget is often referred to as the 'father' of which learning theory?",
     "options": [
-      "Literacy and vocational training skill acquisition are incorporated into practice.",
-      "Learning must result in a degree.",
-      "Participation becomes compulsory.",
-      "Learning becomes exclusively teacher-led."
+      "Constructivism",
+      "Behaviorism",
+      "Idealism",
+      "Realism"
     ],
     "answer": "A"
   },
   {
     "id": 54,
     "type": "mcq",
-    "stem": "Which characteristic of non-formal education encourages participants to take responsibility for their own learning?",
+    "stem": "Group interaction, a Cognitive teaching strategy, is used MOST to achieve which purpose?",
     "options": [
-      "Self-learning is encouraged.",
-      "All content is rigidly teacher-controlled.",
-      "Final examinations are compulsory.",
-      "Participation is restricted to school-age children."
+      "Allowing learners to exchange perspectives and co-construct understanding through discussion",
+      "Isolating learners from any peer contact",
+      "Preventing collaborative problem-solving",
+      "Replacing the need for individual reflection"
     ],
     "answer": "A"
   },
   {
     "id": 55,
     "type": "mcq",
-    "stem": "Which statement about non-formal education is supported by the notes?",
+    "stem": "Questioning, as a Cognitive teaching strategy, is used MOST to achieve which purpose?",
     "options": [
-      "It requires regular examinations and recognized certificates.",
-      "It can involve both public and private sectors.",
-      "Its curriculum can never be adjusted.",
-      "Attendance is always compulsory."
+      "Stimulating learner thinking and revealing gaps in understanding through targeted inquiry",
+      "Discouraging learner participation entirely",
+      "Replacing the need for any explanation",
+      "Preventing the instructor from assessing comprehension"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 56,
     "type": "mcq",
-    "stem": "Which problem may reduce the effectiveness of a non-formal educational program despite appropriate content?",
+    "stem": "Active learning, as emphasized in Cognitive learning theory, is BEST described as which of the following?",
     "options": [
-      "Unsteady attendance of participants",
-      "Compulsory final examinations",
-      "Excessive recognized certification",
-      "Permanent school-based structure"
+      "Learners engaging directly with material through tasks, discussion, or problem-solving rather than passive listening",
+      "Learners sitting silently while the instructor lectures continuously",
+      "Learners avoiding any interaction with course content",
+      "Learners memorizing content with no engagement"
     ],
     "answer": "A"
   },
   {
     "id": 57,
     "type": "mcq",
-    "stem": "A community program has no examination requirement, and some participants therefore perceive it as less important and fail to attend consistently. Which disadvantage from the notes does this reflect?",
+    "stem": "Learning through experience, a Cognitive learning strategy, is BEST described as which of the following?",
     "options": [
-      "The absence of exams can contribute to wasted training effort and poor participation.",
-      "Non-formal education is necessarily too expensive.",
-      "All non-formal education is academically rigid.",
-      "Non-formal programs prohibit practical learning."
+      "Gaining understanding by directly engaging in and reflecting on real or simulated situations",
+      "Gaining understanding exclusively from textbook definitions with no practical exposure",
+      "Avoiding any reflection on prior activities",
+      "Relying solely on reinforcement schedules for learning"
     ],
     "answer": "A"
   },
   {
     "id": 58,
     "type": "mcq",
-    "stem": "Which potential problem of non-formal education concerns the qualifications of those providing instruction?",
+    "stem": "Regular review, as a teaching strategy under Behaviorism and Cognitive theory alike, primarily helps to achieve which outcome?",
     "options": [
-      "There may or may not be professional and trained teachers.",
-      "Every instructor must hold a doctorate.",
-      "Teachers cannot participate.",
-      "Only family members can teach."
+      "Strengthening retention of learned material over time through repeated exposure",
+      "Eliminating the need for any future practice",
+      "Preventing retention of previously learned material",
+      "Replacing the need for feedback"
     ],
     "answer": "A"
   },
   {
     "id": 59,
     "type": "mcq",
-    "stem": "Which disadvantage of non-formal education relates specifically to credentials?",
+    "stem": "Which of the following BEST distinguishes Idealism from Pragmatism in educational philosophy?",
     "options": [
-      "There may be a tendency for fake certificate issuance by some organizations.",
-      "Certificates are legally prohibited.",
-      "Every participant receives a university degree.",
-      "Credentials are always nationally standardized."
+      "Idealism emphasizes abstract truth and ideas while Pragmatism emphasizes practical experience and learning by doing",
+      "Idealism emphasizes practical experience while Pragmatism emphasizes abstract ideas",
+      "Both philosophies reject the role of experience in learning",
+      "Both philosophies are identical in their curricular focus"
     ],
     "answer": "A"
   },
   {
     "id": 60,
     "type": "mcq",
-    "stem": "Which distinction in the comparison table is correct?",
+    "stem": "Which of the following BEST distinguishes Behaviorism from Cognitive learning theory?",
     "options": [
-      "Formal education is non-sequential; informal education is sequential.",
-      "Informal education is usually learner-led, while formal education is teacher-led.",
-      "Non-formal education must always be teacher-led.",
-      "Formal education is spontaneous."
+      "Behaviorism focuses on observable stimulus-response behavior while Cognitive theory focuses on internal mental processes",
+      "Behaviorism focuses on internal mental processes while Cognitive theory focuses only on observable behavior",
+      "Both theories reject the role of the environment in learning",
+      "Both theories are identical in their approach to teaching"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 61,
     "type": "mcq",
-    "stem": "Which statement most accurately compares evaluation across the three forms of education?",
+    "stem": "Charles Sanders Peirce, William James, and John Dewey are all associated with founding or advancing which school of philosophy?",
     "options": [
-      "Formal learning is evaluated; informal learning is generally not evaluated; non-formal learning may or may not be evaluated.",
-      "All three forms require standardized evaluation.",
-      "Only informal learning is evaluated.",
-      "Non-formal learning is always evaluated more rigorously than formal learning."
+      "Pragmatism",
+      "Idealism",
+      "Realism",
+      "Behaviorism"
     ],
     "answer": "A"
   },
   {
     "id": 62,
     "type": "mcq",
-    "stem": "Which comparison regarding syllabi is most consistent with the table?",
+    "stem": "Which of the following is the BEST example of applying Realist philosophy in a nursing skills laboratory?",
     "options": [
-      "Formal education follows a syllabus, informal education does not, and non-formal education may follow one.",
-      "All three must follow identical syllabi.",
-      "Informal education follows the strictest syllabus.",
-      "Formal education cannot use a syllabus."
+      "Students directly observe and practice a procedure on a manikin using evidence-based technique",
+      "Students discuss abstract metaphysical theories with no hands-on practice",
+      "Students are conditioned using only a reward-and-punishment schedule",
+      "Students are excluded from any equipment use"
     ],
     "answer": "A"
   },
   {
     "id": 63,
     "type": "mcq",
-    "stem": "Which listed importance of education most directly supports an individual's capacity to choose among alternatives after considering consequences?",
+    "stem": "Which of the following is the BEST example of Pragmatist 'learning by doing' in a nursing program?",
     "options": [
-      "Ability to make decisions",
-      "Ability to imitate others",
-      "Ability to avoid communication",
-      "Ability to eliminate cultural differences"
+      "A student completes a supervised clinical placement applying classroom theory to real patient care",
+      "A student memorizes a textbook chapter with no clinical exposure",
+      "A student is conditioned using a Skinner box apparatus",
+      "A student engages only in abstract philosophical debate"
     ],
     "answer": "A"
   },
   {
     "id": 64,
     "type": "mcq",
-    "stem": "A learner becomes capable of distinguishing right from wrong and acting according to civic values. Which importance of education is most directly represented?",
+    "stem": "Which of the following BEST reflects the Eclectic approach applied by a nurse educator?",
     "options": [
-      "Moral and civic values develop through education.",
-      "Education eliminates personal responsibility.",
-      "Education is limited to career development.",
-      "Education discourages ethical judgment."
+      "Combining Socratic questioning, hands-on demonstration, and reflective case discussion in a single lesson",
+      "Using only one teaching method for every lesson regardless of content",
+      "Rejecting all forms of assessment",
+      "Refusing to use any theoretical framework"
     ],
     "answer": "A"
   },
   {
     "id": 65,
     "type": "mcq",
-    "stem": "Which educational benefit is most directly demonstrated when a person analyzes a complex problem, considers alternatives, and identifies a solution?",
+    "stem": "Which of the following statements about the five widely accepted learning theories is MOST accurate?",
     "options": [
-      "Increased ability to perceive, analyze, and proffer solutions",
-      "Dependence on authority",
-      "Reduction of intellectual independence",
-      "Avoidance of decision-making"
+      "They commonly include Behaviorism, Cognitive theory, Constructivism, Humanism, and Connectivism",
+      "They are limited strictly to Idealism and Realism",
+      "They exclude any theory related to conditioning",
+      "They are identical to the philosophies of education"
     ],
     "answer": "A"
   },
   {
     "id": 66,
     "type": "mcq",
-    "stem": "A nurse explains a medication regimen using appropriate verbal and non-verbal techniques until the patient can safely follow it. Which purpose of nursing education is most directly demonstrated?",
+    "stem": "CASE SCENARIO: A nurse educator dilutes a lecture on wound care with repeated firm verbal praise every time a student correctly demonstrates sterile technique, and the students begin performing the technique correctly more often. Which learning concept is being applied?",
     "options": [
-      "Enhancement of communication skills and patient compliance",
-      "Replacement of clinical care with classroom teaching",
-      "Elimination of patient participation",
-      "Restriction of nurses to formal education"
+      "Positive reinforcement",
+      "Negative reinforcement",
+      "Punishment",
+      "Classical conditioning"
     ],
     "answer": "A"
   },
   {
     "id": 67,
     "type": "mcq",
-    "stem": "Which purpose of nursing education most directly connects teaching with improved recovery and reduced complications?",
+    "stem": "CASE SCENARIO: A nursing student feels anxious every time a clinical instructor stops observing their injection technique, because the instructor only walks away once the technique is performed correctly. Over time the student performs the technique correctly more often to make the instructor leave sooner. Which learning concept is being applied?",
     "options": [
-      "Improving patient outcomes through effective education",
-      "Increasing the number of examinations",
-      "Replacing patient self-care with dependence",
-      "Reducing nurses' communication responsibilities"
+      "Negative reinforcement",
+      "Positive reinforcement",
+      "Classical conditioning",
+      "Shaping alone with no reinforcement"
     ],
     "answer": "A"
   },
   {
     "id": 68,
     "type": "mcq",
-    "stem": "A nurse educator teaches students how to educate families and communities about disease prevention. Which purpose of including nursing education in the curriculum is most directly fulfilled?",
+    "stem": "CASE SCENARIO: A pre-clinical student always feels a wave of nausea upon hearing the specific alarm tone of the manikin simulator, because that tone was repeatedly paired with a stressful, high-stakes mock code during training. Which learning concept BEST explains this response?",
     "options": [
-      "Equipping student nurses with knowledge and skills needed to educate others",
-      "Restricting education to nursing students themselves",
-      "Eliminating community participation",
-      "Separating health education from nursing practice"
+      "Classical conditioning",
+      "Operant conditioning",
+      "Discovery learning",
+      "Elaboration"
     ],
     "answer": "A"
   },
   {
     "id": 69,
     "type": "mcq",
-    "stem": "Which statement best demonstrates the relationship between nursing education and evidence-based practice described in the notes?",
+    "stem": "CASE SCENARIO: A nurse educator uses a case study depicting a woman in labor to help students identify which philosophy of education is reflected when the instructor allows the students to discover the correct nursing action themselves through guided questioning rather than lecturing the answer directly. Which philosophy is BEST reflected here?",
     "options": [
-      "Nurses learn to interpret and share current scientific evidence with patients and colleagues.",
-      "Nursing education discourages use of current evidence.",
-      "Evidence-based practice applies only to physicians.",
-      "Scientific evidence should not influence quality of care."
+      "Idealism, through the Socratic method of guided questioning",
+      "Behaviorism, through operant conditioning",
+      "Realism, through laboratory experimentation alone",
+      "Pragmatism, through the project method alone"
     ],
     "answer": "A"
   },
   {
     "id": 70,
     "type": "mcq",
-    "stem": "A nursing curriculum develops teaching competence, communication ability, patient-education skills, professional growth, and evidence-based practice. Which conclusion is most consistent with the notes?",
+    "stem": "CASE SCENARIO: A nurse educator has students complete a semester-long community health outreach project that requires applying multiple theoretical concepts to a real population's needs, then reflecting on the outcomes. Which philosophy of education is MOST clearly demonstrated?",
     "options": [
-      "Educational competence is integrated into multiple dimensions of nursing practice.",
-      "Nursing education is useful only for nurses who become classroom teachers.",
-      "Patient education has no relationship to outcomes.",
-      "Educational competence is separate from professional nursing responsibility."
+      "Pragmatism, through the project method and learning by doing",
+      "Idealism, through pure abstract dialogue with no application",
+      "Behaviorism, through classical conditioning alone",
+      "Realism, through rote memorization of facts"
     ],
     "answer": "A"
   },
   {
     "id": 71,
     "type": "fitb",
-    "stem": "Education in its broad perspective is described as a __________ process that continues from __________ to death.",
-    "answer": ["lifelong", "birth"],
+    "stem": "Educational philosophy provides the ___ foundation upon which educational practice is built.",
+    "answer": "theoretical",
     "acceptableAnswers": [
-      ["lifelong", "birth"],
-      ["life-long", "birth"]
+      "theoretical",
+      "philosophical"
     ]
   },
   {
     "id": 72,
     "type": "fitb",
-    "stem": "The three forms of education discussed in the notes are formal, __________, and __________ education.",
-    "answer": ["informal", "non-formal"],
+    "stem": "Idealism holds that ___ and mind constitute ultimate reality.",
+    "answer": "ideas",
     "acceptableAnswers": [
-      ["informal", "non-formal"],
-      ["informal", "nonformal"]
+      "ideas",
+      "the mind"
     ]
   },
   {
     "id": 73,
     "type": "fitb",
-    "stem": "Formal education is generally __________ and sequential, whereas informal education is __________ and non-sequential.",
-    "answer": ["structured", "unstructured"],
+    "stem": "The Idealist aim of education is the pursuit of Truth, Beauty, and ___.",
+    "answer": "Goodness",
     "acceptableAnswers": [
-      ["structured", "unstructured"]
+      "Goodness",
+      "goodness"
     ]
   },
   {
     "id": 74,
     "type": "fitb",
-    "stem": "Formal education is usually __________, while informal education is generally __________ rather than predetermined.",
-    "answer": ["prearranged", "spontaneous"],
+    "stem": "The ___ method, associated with Idealism, uses structured questioning to draw out latent knowledge.",
+    "answer": "Socratic",
     "acceptableAnswers": [
-      ["prearranged", "spontaneous"],
-      ["pre-arranged", "spontaneous"]
+      "Socratic",
+      "dialectical"
     ]
   },
   {
     "id": 75,
     "type": "fitb",
-    "stem": "Formal education is generally __________-led, whereas informal education is usually __________-led.",
-    "answer": ["teacher", "learner"],
+    "stem": "Realism holds that the material world exists independently of the ___.",
+    "answer": "mind",
     "acceptableAnswers": [
-      ["teacher", "learner"],
-      ["teacher-led", "learner-led"]
+      "mind",
+      "observer"
     ]
   },
   {
     "id": 76,
     "type": "fitb",
-    "stem": "Formal learning is generally __________, while informal learning is generally not __________.",
-    "answer": ["evaluated", "evaluated"],
+    "stem": "Realist curricula emphasize science and ___ grounded in observation.",
+    "answer": "mathematics",
     "acceptableAnswers": [
-      ["evaluated", "evaluated"],
-      ["assessed", "assessed"]
+      "mathematics",
+      "math"
     ]
   },
   {
     "id": 77,
     "type": "fitb",
-    "stem": "Formal education follows a __________, whereas informal education generally does not follow a __________.",
-    "answer": ["syllabus", "syllabus"],
+    "stem": "Pragmatism is considered an offshoot of scientific ___.",
+    "answer": "realism",
     "acceptableAnswers": [
-      ["syllabus", "syllabus"],
-      ["curriculum", "curriculum"]
+      "realism"
     ]
   },
   {
     "id": 78,
     "type": "fitb",
-    "stem": "The Latin term __________ conveys the idea of nourishing or bringing up, while __________ conveys the idea of leading or drawing out.",
-    "answer": ["Educare", "Educere"],
+    "stem": "John Dewey's Pragmatist approach is summarized by the phrase 'learning by ___.'",
+    "answer": "doing",
     "acceptableAnswers": [
-      ["Educare", "Educere"],
-      ["educare", "educere"]
+      "doing"
     ]
   },
   {
     "id": 79,
     "type": "fitb",
-    "stem": "According to Socrates, education involves bringing out __________ that are latent in the __________.",
-    "answer": ["ideas", "mind"],
+    "stem": "The ___ method, a Pragmatist strategy, has learners complete a purposeful real-world task.",
+    "answer": "project",
     "acceptableAnswers": [
-      ["ideas", "mind"]
+      "project"
     ]
   },
   {
     "id": 80,
     "type": "fitb",
-    "stem": "John Dewey described education as the reconstruction or reorganization of __________ that adds meaning to __________.",
-    "answer": ["experience", "experience"],
+    "stem": "Eclecticism involves selecting the best elements from ___ philosophies rather than following only one.",
+    "answer": "multiple",
     "acceptableAnswers": [
-      ["experience", "experience"],
-      ["experiences", "experience"]
+      "multiple",
+      "several",
+      "many"
     ]
   },
   {
     "id": 81,
     "type": "fitb",
-    "stem": "The individual aim emphasizes development of the learner's __________, while the social aim emphasizes the individual's ability to contribute to __________.",
-    "answer": ["personality", "society"],
+    "stem": "A demerit of Eclecticism is that it may create ___ or inconsistency in learning.",
+    "answer": "gaps",
     "acceptableAnswers": [
-      ["personality", "society"],
-      ["individuality", "society"]
+      "gaps",
+      "a gap"
     ]
   },
   {
     "id": 82,
     "type": "fitb",
-    "stem": "The __________ aim prepares learners with job-related skills, while the __________ aim emphasizes acquisition of knowledge for its own sake.",
-    "answer": ["vocational", "knowledge"],
+    "stem": "___ , briefly noted among philosophies of education, emphasizes individual freedom and personal choice.",
+    "answer": "Existentialism",
     "acceptableAnswers": [
-      ["vocational", "knowledge"]
+      "Existentialism"
     ]
   },
   {
     "id": 83,
     "type": "fitb",
-    "stem": "The cultural aim promotes cultural __________ and harmony, while the moral aim seeks development of character and __________.",
-    "answer": ["diversity", "integrity"],
+    "stem": "___ , briefly noted among philosophies of education, emphasizes the inherent worth and dignity of the learner.",
+    "answer": "Humanism",
     "acceptableAnswers": [
-      ["diversity", "integrity"],
-      ["diversity", "moral character"]
+      "Humanism"
     ]
   },
   {
     "id": 84,
     "type": "fitb",
-    "stem": "Formal education usually occurs in the __________ and is provided according to a predetermined __________.",
-    "answer": ["classroom", "curriculum"],
+    "stem": "Behaviorism is closely associated with Watson, Skinner, and ___.",
+    "answer": "Pavlov",
     "acceptableAnswers": [
-      ["classroom", "curriculum"],
-      ["school", "curriculum"],
-      ["classroom", "syllabus"]
+      "Pavlov"
     ]
   },
   {
     "id": 85,
     "type": "fitb",
-    "stem": "Formal education uses intermediate and final __________ to determine advancement and can lead to a formally recognized __________.",
-    "answer": ["assessments", "certificate"],
+    "stem": "Pavlov's experiment with dogs demonstrated ___ conditioning.",
+    "answer": "classical",
     "acceptableAnswers": [
-      ["assessments", "certificate"],
-      ["examinations", "certificate"],
-      ["assessments", "qualification"]
+      "classical"
     ]
   },
   {
     "id": 86,
     "type": "fitb",
-    "stem": "Two disadvantages of formal education identified in the notes are that it may be relatively __________ and __________ compared with other forms of learning.",
-    "answer": ["costly", "rigid"],
+    "stem": "Skinner's box experiment demonstrated ___ conditioning.",
+    "answer": "operant",
     "acceptableAnswers": [
-      ["costly", "rigid"],
-      ["expensive", "rigid"]
+      "operant"
     ]
   },
   {
     "id": 87,
     "type": "fitb",
-    "stem": "Informal education has no definite __________ and no fixed __________.",
-    "answer": ["syllabus", "timetable"],
+    "stem": "Positive reinforcement involves adding a ___ stimulus to increase a behavior.",
+    "answer": "pleasant",
     "acceptableAnswers": [
-      ["syllabus", "timetable"],
-      ["curriculum", "timetable"],
-      ["syllabus", "schedule"]
+      "pleasant",
+      "desirable",
+      "rewarding"
     ]
   },
   {
     "id": 88,
     "type": "fitb",
-    "stem": "Informal education can occur through daily __________ and by learning new __________.",
-    "answer": ["experience", "things"],
+    "stem": "Negative reinforcement involves removing an ___ stimulus to increase a behavior.",
+    "answer": "unpleasant",
     "acceptableAnswers": [
-      ["experience", "things"],
-      ["experiences", "things"]
+      "unpleasant",
+      "aversive"
     ]
   },
   {
     "id": 89,
     "type": "fitb",
-    "stem": "Informal education does not normally award __________ or __________.",
-    "answer": ["certificates", "degrees"],
+    "stem": "Negative reinforcement is not the opposite of positive reinforcement; the goal of both is to ___ the likelihood of a desired behavior.",
+    "answer": "increase",
     "acceptableAnswers": [
-      ["certificates", "degrees"],
-      ["certificate", "degree"],
-      ["certificates", "diplomas"]
+      "increase"
     ]
   },
   {
     "id": 90,
     "type": "fitb",
-    "stem": "Two possible disadvantages of informal education are acquisition of __________ information and absence of a proper __________.",
-    "answer": ["wrong", "schedule"],
+    "stem": "Punishment is intended to ___ the likelihood of a behavior recurring.",
+    "answer": "decrease",
     "acceptableAnswers": [
-      ["wrong", "schedule"],
-      ["incorrect", "schedule"],
-      ["wrong", "time span"]
+      "decrease",
+      "reduce"
     ]
   },
   {
     "id": 91,
     "type": "fitb",
-    "stem": "Non-formal education occurs outside the traditional __________ system and is generally more __________ in nature.",
-    "answer": ["school", "flexible"],
+    "stem": "___ , a Behaviorist technique, reinforces successive approximations of a target behavior.",
+    "answer": "Shaping",
     "acceptableAnswers": [
-      ["school", "flexible"],
-      ["schooling", "flexible"]
+      "Shaping"
     ]
   },
   {
     "id": 92,
     "type": "fitb",
-    "stem": "Examples of non-formal education given in the notes include __________ or seminars and community-based __________ education courses.",
-    "answer": ["workshops", "adult"],
+    "stem": "Cognitive learning theory is most closely associated with the theorist ___.",
+    "answer": "Piaget",
     "acceptableAnswers": [
-      ["workshops", "adult"],
-      ["workshop", "adult"]
+      "Piaget",
+      "Jean Piaget"
     ]
   },
   {
     "id": 93,
     "type": "fitb",
-    "stem": "Non-formal education may have an adjustable __________ and __________ rather than the rigid arrangements associated with formal education.",
-    "answer": ["timetable", "syllabus"],
+    "stem": "___ learning allows learners to actively explore and uncover concepts for themselves.",
+    "answer": "Discovery",
     "acceptableAnswers": [
-      ["timetable", "syllabus"],
-      ["schedule", "syllabus"],
-      ["timetable", "curriculum"]
+      "Discovery"
     ]
   },
   {
     "id": 94,
     "type": "fitb",
-    "stem": "Two advantages of non-formal education are that __________-learning is encouraged and there is flexibility in age, curriculum, and __________.",
-    "answer": ["self", "time"],
+    "stem": "Interleaving involves mixing different ___ during study rather than practicing one in isolation.",
+    "answer": "topics",
     "acceptableAnswers": [
-      ["self", "time"],
-      ["self-learning", "time"]
+      "topics",
+      "subjects"
     ]
   },
   {
     "id": 95,
     "type": "fitb",
-    "stem": "Two disadvantages of non-formal education identified in the notes are unsteady participant __________ and the possible absence of professional and trained __________.",
-    "answer": ["attendance", "teachers"],
+    "stem": "Spacing involves distributing study sessions over ___ rather than massing them into one session.",
+    "answer": "time",
     "acceptableAnswers": [
-      ["attendance", "teachers"],
-      ["attendance", "instructors"]
+      "time"
     ]
   },
   {
     "id": 96,
     "type": "fitb",
-    "stem": "Education helps an individual develop the ability to make __________ and distinguish between __________ and wrong.",
-    "answer": ["decisions", "right"],
+    "stem": "Elaboration involves connecting new information to ___ knowledge.",
+    "answer": "existing",
     "acceptableAnswers": [
-      ["decisions", "right"],
-      ["decision", "right"]
+      "existing",
+      "prior"
     ]
   },
   {
     "id": 97,
     "type": "fitb",
-    "stem": "Education helps in building a __________ and working toward a well-defined __________.",
-    "answer": ["career", "goal"],
+    "stem": "Practice retrieval involves actively ___ information from memory rather than simply re-reading it.",
+    "answer": "recalling",
     "acceptableAnswers": [
-      ["career", "goal"],
-      ["career", "objective"]
+      "recalling",
+      "retrieving"
     ]
   },
   {
     "id": 98,
     "type": "fitb",
-    "stem": "Nursing education develops effective __________ skills and supports improved patient __________.",
-    "answer": ["communication", "compliance"],
+    "stem": "Constructivism holds that learners build new knowledge upon their ___ knowledge and experience.",
+    "answer": "prior",
     "acceptableAnswers": [
-      ["communication", "compliance"],
-      ["communication", "outcomes"]
+      "prior",
+      "existing"
     ]
   },
   {
     "id": 99,
     "type": "fitb",
-    "stem": "Through nursing education, nurses learn to interpret current scientific __________ and use it to improve the quality of __________.",
-    "answer": ["evidence", "care"],
+    "stem": "___ is often referred to as the father of Constructivism.",
+    "answer": "Piaget",
     "acceptableAnswers": [
-      ["evidence", "care"],
-      ["research evidence", "care"]
+      "Piaget",
+      "Jean Piaget"
     ]
   },
   {
     "id": 100,
     "type": "fitb",
-    "stem": "The interdependence of educational forms means that __________ personality develops through contributions from different forms of education and may lead to the sustainable development of the __________.",
-    "answer": ["learner", "society"],
+    "stem": "The five widely accepted theories of learning commonly include Behaviorism, Cognitive theory, Constructivism, Humanism, and ___.",
+    "answer": "Connectivism",
     "acceptableAnswers": [
-      ["learner", "society"],
-      ["the learner's", "society"],
-      ["human", "society"]
+      "Connectivism"
     ]
   }
 ]
