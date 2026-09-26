@@ -2,1049 +2,1041 @@
   {
     "id": 1,
     "type": "mcq",
-    "stem": "Educational philosophy is BEST defined as which of the following?",
+    "stem": "Which form of teaching intervention involves verbal presentation of information by the teacher to learners with minimal learner interaction?",
     "options": [
-      "A random collection of teaching tips with no theoretical basis",
-      "A set of principles that guides the purpose, content, and methods of education",
-      "A government policy document restricted to curriculum pricing",
-      "A synonym for classroom discipline techniques only"
+      "Lecture",
+      "Role play",
+      "Peer teaching",
+      "Discussion"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 2,
     "type": "mcq",
-    "stem": "The relationship between philosophy and education is BEST described as which of the following?",
+    "stem": "Which form of teaching intervention is BEST described as an instructional form where the teacher shows learners how to perform a particular skill or procedure?",
     "options": [
-      "Philosophy determines fee structures while education determines grading only",
-      "Philosophy provides the theoretical foundation while education is the practical application of philosophical principles",
-      "Philosophy and education share no meaningful connection",
-      "Education precedes philosophy chronologically and philosophy has no further role"
+      "Demonstration",
+      "Lecture",
+      "Video instruction",
+      "Discussion"
     ],
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 3,
     "type": "mcq",
-    "stem": "Which statement BEST distinguishes idealism from realism as schools of philosophy?",
+    "stem": "Which form of teaching intervention entails teacher and learners exchanging ideas, opinions, and experiences about a topic?",
     "options": [
-      "Idealism emphasizes ideas and mind as ultimate reality while realism emphasizes the material world as it exists independent of the mind",
-      "Idealism emphasizes the material world while realism emphasizes ideas",
-      "Both schools deny the existence of a physical world",
-      "Both schools reject the role of a teacher entirely"
+      "Discussion",
+      "Demonstration",
+      "Role play",
+      "Video instruction"
     ],
     "answer": "A"
   },
   {
     "id": 4,
     "type": "mcq",
-    "stem": "Idealism in educational philosophy traces its roots MOST directly to which philosopher?",
+    "stem": "Which form of teaching intervention is a form of instruction whereby learners act out specific roles or situations to develop practical, communication, and interpersonal skills?",
     "options": [
-      "Plato",
-      "John Dewey",
-      "B.F. Skinner",
-      "Ivan Pavlov"
+      "Role play",
+      "Lecture",
+      "Peer teaching",
+      "Demonstration"
     ],
     "answer": "A"
   },
   {
     "id": 5,
     "type": "mcq",
-    "stem": "According to Idealism, the ultimate aim of education is BEST described as achievement of which triad?",
+    "stem": "Which form of teaching intervention involves learners teaching or assisting one another under the supervision of the teacher?",
     "options": [
-      "Truth, Beauty, and Goodness",
-      "Speed, Strength, and Stamina",
-      "Profit, Growth, and Expansion",
-      "Memorization, Repetition, and Recall"
+      "Peer teaching",
+      "Video instruction",
+      "Lecture",
+      "Discussion"
     ],
     "answer": "A"
   },
   {
     "id": 6,
     "type": "mcq",
-    "stem": "Idealist education emphasizes self-realization through which core focus?",
+    "stem": "Which form of teaching intervention involves delivering learning materials through recorded instructional videos to enable learners to watch and review?",
     "options": [
-      "Developing the rational mind and inner spiritual self of the learner",
-      "Developing only manual and vocational skill sets",
-      "Developing physical strength as the highest priority",
-      "Developing compliance with external authority alone"
+      "Video instruction",
+      "Peer teaching",
+      "Role play",
+      "Demonstration"
     ],
     "answer": "A"
   },
   {
     "id": 7,
     "type": "mcq",
-    "stem": "Which teaching method is MOST closely associated with the Idealist school of philosophy?",
+    "stem": "Teaching interventions are BEST defined as which of the following?",
     "options": [
-      "The Socratic (dialectical) method of questioning to draw out latent knowledge",
-      "Operant conditioning using a Skinner box",
-      "Randomized controlled experimentation",
-      "Strict rote drilling with no discussion"
+      "Planned activities or strategies used by a teacher to facilitate learners' acquisition of knowledge, skills, attitudes, or competencies",
+      "Unplanned, spontaneous remarks made by a teacher with no learning objective",
+      "A punitive measure applied when a learner fails an examination",
+      "A synonym for grading rubrics only"
     ],
     "answer": "A"
   },
   {
     "id": 8,
     "type": "mcq",
-    "stem": "Imitation and modeling as an Idealist teaching approach relies MOST on which practice?",
+    "stem": "Client education is BEST defined as which of the following?",
     "options": [
-      "The teacher presenting an ideal example or model for the learner to emulate",
-      "The learner working in complete isolation with no example given",
-      "The learner designing the curriculum independently",
-      "Random trial and error with no guidance"
+      "The process of helping clients gain the knowledge and skills needed to maintain health, prevent illness, and manage their health conditions effectively",
+      "A legal contract between a nurse and a client with no educational content",
+      "A one-time event that never requires follow-up or reinforcement",
+      "A punitive process used to penalize non-compliant clients"
     ],
     "answer": "A"
   },
   {
     "id": 9,
     "type": "mcq",
-    "stem": "A commonly cited demerit of Idealism in nursing education is which of the following?",
+    "stem": "Which principle of client education in nursing involves determining the client's age, educational level, health condition, previous knowledge, learning needs, and readiness to learn?",
     "options": [
-      "It can be overly abstract and may neglect practical, hands-on clinical skill development",
-      "It focuses exclusively on laboratory experimentation",
-      "It rejects the use of moral or ethical reasoning",
-      "It eliminates the role of the teacher completely"
+      "Assessment of the learner",
+      "Documentation of teaching",
+      "Control of environment",
+      "Time planning"
     ],
     "answer": "A"
   },
   {
     "id": 10,
     "type": "mcq",
-    "stem": "Realism in educational philosophy traces its roots MOST directly to which philosopher?",
+    "stem": "Which principle of client education involves creating a trusting, respectful, and comfortable relationship with the client before teaching?",
     "options": [
-      "Aristotle",
-      "Plato",
-      "Charles Sanders Peirce",
-      "Jean Piaget"
+      "Establishment of rapport",
+      "Set objectives",
+      "Evaluate learning",
+      "Communicate in simple language"
     ],
     "answer": "A"
   },
   {
     "id": 11,
     "type": "mcq",
-    "stem": "Realist philosophy holds that reality exists BEST described as which of the following?",
+    "stem": "Which principle of client education involves using objectives as a guide to evaluate teaching?",
     "options": [
-      "Independently of the mind, in the material and observable world",
-      "Only as a construct of individual imagination",
-      "Only within religious doctrine",
-      "As an illusion with no verifiable existence"
+      "Set objectives as a guide to evaluate teaching",
+      "Control of environment",
+      "Time planning",
+      "Respect confidentiality and dignity"
     ],
     "answer": "A"
   },
   {
     "id": 12,
     "type": "mcq",
-    "stem": "Which curricular emphasis is MOST characteristic of the Realist school of philosophy?",
+    "stem": "Which principle of client education requires ensuring the environment is devoid of noise and distractions?",
     "options": [
-      "Science and mathematics grounded in observation and experimentation",
-      "Poetry and abstract metaphysical dialogue only",
-      "Pure memorization of scripture",
-      "Exclusive focus on athletic training"
+      "Control of environment",
+      "Establishment of rapport",
+      "Assessment of the learner",
+      "Document the teaching"
     ],
     "answer": "A"
   },
   {
     "id": 13,
     "type": "mcq",
-    "stem": "In nursing education, Realism is MOST evident in which teaching approach?",
+    "stem": "Which principle of client education involves planning the time to suit the client and the environment?",
     "options": [
-      "Using direct observation, laboratory experimentation, and evidence-based demonstration of clinical skills",
-      "Relying solely on Socratic dialectic with no demonstration",
-      "Using operant conditioning boxes exclusively",
-      "Prohibiting any use of scientific equipment"
+      "Time planning",
+      "Set objectives",
+      "Evaluate learning",
+      "Consider individual differences"
     ],
     "answer": "A"
   },
   {
     "id": 14,
     "type": "mcq",
-    "stem": "A commonly cited demerit of Realism as an educational philosophy is which of the following?",
+    "stem": "Which principle of client education instructs the nurse to avoid medical jargon and explain information in terms the client can easily understand?",
     "options": [
-      "It may underemphasize creativity, values, and abstract moral reasoning in favor of pure fact",
-      "It overemphasizes fictional literature",
-      "It eliminates the use of laboratories",
-      "It rejects the use of the scientific method"
+      "Communicate in simple, clear language",
+      "Provide repetition and reinforcement",
+      "Document the teaching",
+      "Respect confidentiality and dignity"
     ],
     "answer": "A"
   },
   {
     "id": 15,
     "type": "mcq",
-    "stem": "Pragmatism as a school of philosophy is BEST understood as an offshoot of which broader philosophy?",
+    "stem": "Which principle of client education requires adapting teaching to the client's age, culture, beliefs, language, abilities, and preferred way of learning?",
     "options": [
-      "Scientific realism",
-      "Classical idealism",
-      "Behaviorist conditioning theory",
-      "Religious dogmatism"
+      "Consider individual differences",
+      "Control of environment",
+      "Set objectives",
+      "Document the teaching"
     ],
     "answer": "A"
   },
   {
     "id": 16,
     "type": "mcq",
-    "stem": "Which of the following philosophers is MOST closely associated with the founding of Pragmatism?",
+    "stem": "Which principle of client education involves beginning with basic information before introducing more difficult concepts or skills?",
     "options": [
-      "Charles Sanders Peirce",
-      "Plato",
-      "Aristotle",
-      "B.F. Skinner"
+      "Proceed from simple to complex",
+      "Time planning",
+      "Respect confidentiality and dignity",
+      "Establish rapport"
     ],
     "answer": "A"
   },
   {
     "id": 17,
     "type": "mcq",
-    "stem": "John Dewey, a leading Pragmatist, is MOST associated with which educational concept?",
+    "stem": "Which principle of client education involves allowing the client to ask questions, practice skills, and participate in decision-making?",
     "options": [
-      "Learning by doing through practical, experience-based education",
-      "Rigid memorization of classical texts",
-      "Strict corporal discipline as the primary teaching tool",
-      "Rejection of all experimentation"
+      "Encourage active participation",
+      "Control of environment",
+      "Assessment of the learner",
+      "Documentation"
     ],
     "answer": "A"
   },
   {
     "id": 18,
     "type": "mcq",
-    "stem": "Pragmatism is closely linked with which of the following related concepts?",
+    "stem": "Which principle of client education involves repeating important information to improve understanding and retention?",
     "options": [
-      "Instrumentalism, experimentalism, and progressivism",
-      "Divine revelation and dogma",
-      "Fixed innate ideas with no experiential basis",
-      "Rote memorization without application"
+      "Provide repetition and reinforcement",
+      "Set objectives",
+      "Time planning",
+      "Establish rapport"
     ],
     "answer": "A"
   },
   {
     "id": 19,
     "type": "mcq",
-    "stem": "The project method, a hallmark of Pragmatist teaching, is BEST described as which of the following?",
+    "stem": "Which principle of client education involves giving the client enough time to understand, ask questions, practice, and clarify doubts?",
     "options": [
-      "Learners undertake a purposeful, real-world task that integrates knowledge and problem-solving",
-      "Learners copy text verbatim from a textbook",
-      "Learners are tested only through multiple-choice exams",
-      "Learners are excluded from any hands-on activity"
+      "Allow adequate time",
+      "Consider individual differences",
+      "Control of environment",
+      "Document the teaching"
     ],
     "answer": "A"
   },
   {
     "id": 20,
     "type": "mcq",
-    "stem": "A recognized merit of Pragmatism in nursing education is which of the following?",
+    "stem": "Which principle of client education involves determining whether the client has achieved intended learning objectives through questioning, observation, or return demonstration?",
     "options": [
-      "It connects theoretical content to real clinical practice through learning by doing",
-      "It removes all clinical practicums from the curriculum",
-      "It discourages any form of problem-solving",
-      "It rejects experimentation of any kind"
+      "Evaluate learning",
+      "Assessment of the learner",
+      "Provide repetition and reinforcement",
+      "Communicate in simple language"
     ],
     "answer": "A"
   },
   {
     "id": 21,
     "type": "mcq",
-    "stem": "A commonly cited demerit of Pragmatism as an educational philosophy is which of the following?",
+    "stem": "Which principle of client education requires maintaining privacy and treating the client with respect throughout the teaching process?",
     "options": [
-      "It may deemphasize systematic, structured content mastery in favor of experience alone",
-      "It over-relies on rote memorization",
-      "It rejects experiential learning entirely",
-      "It eliminates critical thinking"
+      "Respect confidentiality and dignity",
+      "Control of environment",
+      "Set objectives",
+      "Time planning"
     ],
     "answer": "A"
   },
   {
     "id": 22,
     "type": "mcq",
-    "stem": "Eclecticism in educational philosophy is BEST defined as which of the following?",
+    "stem": "Which principle of client education requires recording the content taught, the teaching method used, and the client's response and level of understanding?",
     "options": [
-      "Selecting and combining the best elements from multiple philosophies rather than adhering to only one",
-      "Strict adherence to a single rigid philosophy",
-      "Rejection of all philosophical frameworks",
-      "A philosophy exclusive to behaviorist psychology"
+      "Document the teaching",
+      "Establishment of rapport",
+      "Consider individual differences",
+      "Allow adequate time"
     ],
     "answer": "A"
   },
   {
     "id": 23,
     "type": "mcq",
-    "stem": "A recognized merit of the Eclectic approach to teaching is which of the following?",
+    "stem": "The ASSURE model, attributed to Kega (1993), is used MOST for which purpose in nursing education?",
     "options": [
-      "It offers variety and flexibility by drawing on the strengths of multiple philosophies",
-      "It forces rigid conformity to one single teaching method",
-      "It removes the teacher's role in lesson planning",
-      "It eliminates the need for any theoretical grounding"
+      "To provide a useful paradigm to assist nurses in organizing and carrying out the education process",
+      "To calculate medication dosages for pediatric clients",
+      "To classify types of surgical wound infections",
+      "To determine staffing ratios on a nursing unit"
     ],
     "answer": "A"
   },
   {
     "id": 24,
     "type": "mcq",
-    "stem": "A commonly cited demerit of the Eclectic approach to teaching is which of the following?",
+    "stem": "In the ASSURE model, the letter 'A' in the FIRST step stands for which of the following?",
     "options": [
-      "It may create gaps or inconsistency in learning due to lack of a unifying framework",
-      "It guarantees perfectly unified instruction with no gaps",
-      "It eliminates flexibility completely",
-      "It requires exclusive use of one philosophy only"
+      "Analyze the learner (age, knowledge background, readiness to learn)",
+      "Assess vital signs only",
+      "Administer medication",
+      "Apply restraints"
     ],
     "answer": "A"
   },
   {
     "id": 25,
     "type": "mcq",
-    "stem": "Existentialism, briefly noted among philosophies of education, emphasizes MOST which concept?",
+    "stem": "In the ASSURE model, the letter 'S' in the second step stands for which of the following?",
     "options": [
-      "Individual freedom, choice, and personal responsibility in learning",
-      "Strict obedience to external authority with no personal choice",
-      "Elimination of individuality in favor of the group",
-      "Pure rote memorization with no reflection"
+      "State objectives",
+      "Select staff",
+      "Schedule surgery",
+      "Sterilize supplies"
     ],
     "answer": "A"
   },
   {
     "id": 26,
     "type": "mcq",
-    "stem": "Humanism, briefly noted among philosophies of education, emphasizes MOST which concept?",
+    "stem": "In the ASSURE model, the letter 'S' in the third step stands for which of the following?",
     "options": [
-      "The inherent worth, dignity, and self-actualization potential of the learner",
-      "The learner as a passive recipient with no inherent worth",
-      "Strict punishment as the primary motivator",
-      "Rejection of any emotional or psychological consideration"
+      "Select instructional methods",
+      "Sedate the client",
+      "Sign consent",
+      "Suction the airway"
     ],
     "answer": "A"
   },
   {
     "id": 27,
     "type": "mcq",
-    "stem": "Which of the following is ALSO generally recognized as one of the five widely accepted theories of learning, alongside Behaviorism?",
+    "stem": "In the ASSURE model, the letter 'U' stands for which of the following?",
     "options": [
-      "Behaviorism",
-      "Idealism",
-      "Realism",
-      "Eclecticism"
+      "Use appropriate teaching materials and tools",
+      "Undertake surgery",
+      "Utilize restraints",
+      "Undress the client"
     ],
     "answer": "A"
   },
   {
     "id": 28,
     "type": "mcq",
-    "stem": "Which of the following is generally recognized as one of the five widely accepted theories of learning?",
+    "stem": "In the ASSURE model, the letter 'R' stands for which of the following?",
     "options": [
-      "Cognitive learning theory",
-      "Pragmatism",
-      "Existentialism",
-      "Humanism as a philosophy of education"
+      "Require learner performance",
+      "Restrict fluids",
+      "Record vital signs only",
+      "Refer to a specialist automatically"
     ],
     "answer": "A"
   },
   {
     "id": 29,
     "type": "mcq",
-    "stem": "Behaviorism as a learning theory is MOST closely associated with which set of theorists?",
+    "stem": "In the ASSURE model, the final letter 'E' stands for which of the following?",
     "options": [
-      "Watson, Skinner, and Pavlov",
-      "Plato, Aristotle, and Peirce",
-      "Piaget, Dewey, and James",
-      "Freud, Jung, and Erikson"
+      "Evaluate",
+      "Educate physicians only",
+      "Eliminate the teaching plan",
+      "Exclude the learner from feedback"
     ],
     "answer": "A"
   },
   {
     "id": 30,
     "type": "mcq",
-    "stem": "Classical conditioning, as demonstrated by Pavlov's dogs, is BEST described as which process?",
+    "stem": "Connectionism, a theory of learning developed by the American psychologist Edward Thorndike, is BEST described as being based on which principle?",
     "options": [
-      "Learning through an association formed between a neutral stimulus and an unconditioned stimulus until the neutral stimulus alone elicits the response",
-      "Learning solely through internal cognitive restructuring with no external stimulus",
-      "Learning by imitating a model with no reinforcement involved",
-      "Learning that occurs only in group settings"
+      "Active learning through trial-and-error and the formation of associations between stimulus and response",
+      "Passive absorption of knowledge with no active engagement",
+      "Learning that occurs exclusively through social media networks",
+      "Learning that requires no observable behavior change"
     ],
     "answer": "A"
   },
   {
     "id": 31,
     "type": "mcq",
-    "stem": "Operant conditioning, as demonstrated in the Skinner box experiment, is BEST described as which process?",
+    "stem": "Thorndike's classic experiment supporting Connectionism theory involved which of the following?",
     "options": [
-      "Learning in which the consequences that follow a behavior increase or decrease the likelihood of that behavior recurring",
-      "Learning that occurs purely through observation with no consequence involved",
-      "Learning that is entirely unconscious and unmeasurable",
-      "Learning that requires no behavior at all"
+      "A hungry cat placed in a puzzle box that could only be opened by manipulating a latch",
+      "A dog salivating in response to a bell paired with food",
+      "A child observing an adult model aggressive behavior toward a doll",
+      "A pigeon pecking a disk to receive a food pellet on a fixed schedule"
     ],
     "answer": "A"
   },
   {
     "id": 32,
     "type": "mcq",
-    "stem": "Positive reinforcement in Behaviorism is BEST defined as which of the following?",
+    "stem": "In Thorndike's puzzle box experiment, the smell of fish placed outside the box served MOST as which of the following?",
     "options": [
-      "Adding a pleasant stimulus after a behavior to increase the likelihood the behavior recurs",
-      "Removing an unpleasant stimulus to increase a behavior",
-      "Adding an unpleasant stimulus to decrease a behavior",
-      "Removing a pleasant stimulus to decrease a behavior"
+      "A motivator for the cat to escape the box",
+      "A conditioned stimulus for classical conditioning",
+      "A form of punishment",
+      "An irrelevant distractor with no effect on behavior"
     ],
     "answer": "A"
   },
   {
     "id": 33,
     "type": "mcq",
-    "stem": "Negative reinforcement in Behaviorism is BEST defined as which of the following?",
+    "stem": "According to Thorndike's Connectionism theory, learning that occurs gradually through the cat's repeated attempts, discarding ineffective responses until the latch is opened, illustrates which process?",
     "options": [
-      "Removing an unpleasant stimulus after a behavior to increase the likelihood the behavior recurs",
-      "Adding a pleasant stimulus to increase a behavior",
-      "Adding an unpleasant stimulus to decrease a behavior",
-      "Removing a pleasant stimulus to decrease a behavior"
+      "Trial-and-error learning",
+      "Classical conditioning",
+      "Discovery learning through group interaction",
+      "Observational modeling"
     ],
     "answer": "A"
   },
   {
     "id": 34,
     "type": "mcq",
-    "stem": "Which statement CORRECTLY clarifies the relationship between negative reinforcement and positive reinforcement?",
+    "stem": "The Law of Readiness, one of Thorndike's laws of learning, states that learning is facilitated MOST under which condition?",
     "options": [
-      "Negative reinforcement is NOT the opposite of positive reinforcement; both are intended to increase the likelihood of a desired behavior",
-      "Negative reinforcement is exactly the opposite of positive reinforcement and always decreases behavior",
-      "Negative reinforcement and punishment are identical concepts",
-      "Negative reinforcement removes a pleasant stimulus to strengthen behavior"
+      "When there is interest on the side of the learner in the task at hand",
+      "When the learner is punished repeatedly before the task begins",
+      "When the learner has no motivation to complete the task",
+      "When the task is assigned without the learner's knowledge"
     ],
     "answer": "A"
   },
   {
     "id": 35,
     "type": "mcq",
-    "stem": "Punishment in Behaviorist learning theory is BEST defined as which of the following?",
+    "stem": "According to the Law of Readiness, teaching a client to quit smoking when he has NOT decided to do so is MOST likely to result in which outcome?",
     "options": [
-      "A consequence applied after a behavior that is intended to decrease the likelihood of that behavior recurring",
-      "A consequence applied to increase the likelihood of a behavior recurring",
-      "The removal of an unpleasant stimulus to strengthen behavior",
-      "A synonym for positive reinforcement"
+      "The client will not be interested and the connection between stimulus and response will be weak",
+      "The client will instantly master the new behavior",
+      "The client will develop classical conditioning to the cigarette",
+      "The client will need no further reinforcement"
     ],
     "answer": "A"
   },
   {
     "id": 36,
     "type": "mcq",
-    "stem": "Imitation and modeling as a Behaviorist teaching strategy relies MOST on which mechanism?",
+    "stem": "The Law of Exercise, one of Thorndike's laws of learning, states that learning becomes weaker under which condition?",
     "options": [
-      "The learner observing and reproducing a demonstrated behavior performed by the instructor or a model",
-      "The learner receiving no external example whatsoever",
-      "The learner being conditioned exclusively through punishment",
-      "The learner working only with abstract metaphysical concepts"
+      "When practice of what was learnt is discontinued",
+      "When practice is continued indefinitely without rest",
+      "When the learner receives constant positive reinforcement",
+      "When the learner is intrinsically motivated"
     ],
     "answer": "A"
   },
   {
     "id": 37,
     "type": "mcq",
-    "stem": "Repetition and practice, as applied in Behaviorist teaching, are used MOST to achieve which outcome?",
+    "stem": "The Law of Effect, one of Thorndike's laws of learning, states that learning is strengthened under which condition?",
     "options": [
-      "Strengthening and reinforcing a learned behavior or skill through repeated performance",
-      "Eliminating the need for any reinforcement",
-      "Replacing the need for feedback entirely",
-      "Preventing skill retention"
+      "When the result of trial and error is satisfying to the learner",
+      "When the result of trial and error is annoying to the learner",
+      "When no result follows the learner's effort at all",
+      "When the learner is unaware that learning has occurred"
     ],
     "answer": "A"
   },
   {
     "id": 38,
     "type": "mcq",
-    "stem": "Shaping, as a Behaviorist teaching technique, is BEST described as which of the following?",
+    "stem": "According to the Law of Effect, an obese client who fails to see any reduction in weight despite months at the gym is MOST likely to experience which outcome?",
     "options": [
-      "Reinforcing successive approximations of a target behavior until the full behavior is achieved",
-      "Punishing every attempt until the learner stops trying",
-      "Ignoring all learner behavior until the correct response spontaneously appears",
-      "Presenting the complete final behavior with no intermediate steps"
+      "Demoralization, weakening the connection between the exercise behavior and continued effort",
+      "An automatic increase in motivation regardless of outcome",
+      "Immediate development of classical conditioning to exercise",
+      "No effect on future exercise behavior whatsoever"
     ],
     "answer": "A"
   },
   {
     "id": 39,
     "type": "mcq",
-    "stem": "Feedback and correction, as a Behaviorist teaching strategy, primarily serve which purpose?",
+    "stem": "Teaching is BEST defined as which of the following complex concepts?",
     "options": [
-      "Informing the learner about the accuracy of a response so behavior can be adjusted and reinforced appropriately",
-      "Preventing the learner from ever knowing whether a response was correct",
-      "Replacing the need for any reinforcement schedule",
-      "Eliminating the teacher's role in the learning process"
+      "An activity by which a teacher imparts knowledge and develops understanding and skills in the learner",
+      "A punitive process with no communicative element",
+      "A single isolated event unrelated to learner behavior",
+      "A process that occurs only in formal classroom settings"
     ],
     "answer": "A"
   },
   {
     "id": 40,
     "type": "mcq",
-    "stem": "Cognitive learning theory is MOST closely associated with which theorist?",
+    "stem": "Constructivism learning theory, with Jean Piaget regarded as its 'father,' is grounded MOST in which background discipline of Piaget?",
     "options": [
-      "Jean Piaget",
-      "B.F. Skinner",
-      "Ivan Pavlov",
-      "John B. Watson"
+      "Biology, in observing how an organism adapts to the environment and how previous mental knowledge contributes to behaviors",
+      "Chemistry, in studying molecular bonding",
+      "Physics, in studying mechanical motion",
+      "Astronomy, in studying planetary orbits"
     ],
     "answer": "A"
   },
   {
     "id": 41,
     "type": "mcq",
-    "stem": "Cognitive learning theory emphasizes learning as occurring MOST through which internal processes?",
+    "stem": "Constructivism theory states that learners construct knowledge through their previous experience RATHER than which alternative process?",
     "options": [
-      "Receiving, organizing, processing, and retrieving information mentally",
-      "Purely external stimulus-response associations with no mental activity",
-      "Random chance with no identifiable mental process",
-      "Physical reflexes alone"
+      "Passively taking in information with no active engagement",
+      "Actively engaging with real-world problems",
+      "Discussing topics in collaborative groups",
+      "Reflecting on what was learnt and what could be improved"
     ],
     "answer": "A"
   },
   {
     "id": 42,
     "type": "mcq",
-    "stem": "Discovery learning, a Cognitive teaching strategy, is BEST described as which of the following?",
+    "stem": "Problem-based learning, a Constructivist teaching strategy, is BEST described as which of the following?",
     "options": [
-      "Learners actively explore and uncover concepts and relationships for themselves rather than being told directly",
-      "Learners are given every answer in advance with no exploration",
-      "Learners are punished for asking questions",
-      "Learners memorize content with no conceptual understanding"
+      "Students are given real-life problems and encouraged to find solutions, incorporating knowledge within their preexisting conception of the problem area",
+      "Students memorize a list of facts with no application to real problems",
+      "Students are punished for attempting to solve a problem incorrectly",
+      "Students receive no guidance whatsoever from the teacher"
     ],
     "answer": "A"
   },
   {
     "id": 43,
     "type": "mcq",
-    "stem": "The use of concrete materials in Cognitive teaching strategy is intended MOST to achieve which purpose?",
+    "stem": "Discovery learning, a Constructivist teaching strategy, allows students to gain knowledge MOST through which process?",
     "options": [
-      "Helping learners build understanding of abstract concepts through tangible, hands-on objects",
-      "Preventing learners from engaging with abstract ideas at all",
-      "Replacing the need for any instructor guidance",
-      "Eliminating the need for group interaction"
+      "Exploring a topic through investigation and their own experiences",
+      "Being told the correct answer before any investigation begins",
+      "Repeating a memorized script with no exploration",
+      "Receiving punishment for any incorrect discovery"
     ],
     "answer": "A"
   },
   {
     "id": 44,
     "type": "mcq",
-    "stem": "Encouraging critical thinking, a Cognitive teaching strategy, is BEST described as which of the following?",
+    "stem": "Collaborative learning, a Constructivist teaching strategy, is BEST illustrated by which classroom example?",
     "options": [
-      "Prompting learners to analyze, evaluate, and question information rather than accept it passively",
-      "Requiring learners to accept all information without question",
-      "Preventing learners from forming independent judgments",
-      "Discouraging any form of reflection"
+      "Students work together in groups to develop a nursing care plan, exchanging ideas and experiences",
+      "Students work in complete isolation with no group interaction",
+      "Students are graded solely on individual silent seatwork",
+      "Students are prohibited from exchanging any ideas with peers"
     ],
     "answer": "A"
   },
   {
     "id": 45,
     "type": "mcq",
-    "stem": "Teaching according to developmental level, a Cognitive teaching principle, means MOST which of the following?",
+    "stem": "Reflective learning, a Constructivist teaching strategy, requires students to think about which of the following?",
     "options": [
-      "Matching instructional content and complexity to the learner's current stage of cognitive development",
-      "Teaching identical content to every learner regardless of developmental stage",
-      "Ignoring the learner's cognitive readiness entirely",
-      "Teaching only the most advanced material to beginners"
+      "What they have learned, what they experienced, what went well, and what they could improve",
+      "Only the final grade received on an examination",
+      "Nothing beyond memorized facts",
+      "The teacher's personal opinions only"
     ],
     "answer": "A"
   },
   {
     "id": 46,
     "type": "mcq",
-    "stem": "Allowing mistakes as part of the learning process, per Cognitive learning theory, serves MOST which purpose?",
+    "stem": "Use of prior knowledge, a Constructivist teaching strategy, involves the teacher doing which of the following?",
     "options": [
-      "Providing an opportunity for learners to identify errors and reconstruct correct understanding",
-      "Punishing the learner immediately for any incorrect response",
-      "Preventing any further attempt at the task",
-      "Eliminating the value of feedback"
+      "Connecting new information to what students already know or have experienced",
+      "Ignoring anything the student already knows",
+      "Presenting new information with no reference to prior learning",
+      "Preventing students from using any previous experience"
     ],
     "answer": "A"
   },
   {
     "id": 47,
     "type": "mcq",
-    "stem": "Interleaving topics, a Cognitive learning strategy, is BEST described as which of the following?",
+    "stem": "Teacher questioning, a Constructivist teaching strategy, uses open-ended questions MOST to achieve which purpose?",
     "options": [
-      "Mixing different topics or types of problems during study rather than practicing one in isolation",
-      "Studying a single topic repeatedly with no variation",
-      "Avoiding review of previously learned material",
-      "Removing all structure from a study session"
+      "Encouraging students to explain their reasoning and develop critical thinking",
+      "Requiring only single-word yes/no responses",
+      "Preventing students from expressing their own reasoning",
+      "Replacing the need for any student engagement"
     ],
     "answer": "A"
   },
   {
     "id": 48,
     "type": "mcq",
-    "stem": "Spacing out learning activities, a Cognitive learning strategy, is BEST described as which of the following?",
+    "stem": "Under Constructivism, the role of the teacher is BEST described as which of the following?",
     "options": [
-      "Distributing study sessions over time rather than massing them into one session",
-      "Concentrating all study into a single continuous session",
-      "Eliminating repetition of material entirely",
-      "Studying only once with no follow-up review"
+      "A guide or facilitator rather than the sole source of knowledge",
+      "The sole and unquestionable authority who never allows student input",
+      "An observer with absolutely no interaction with students",
+      "A disciplinarian focused only on punishment"
     ],
     "answer": "A"
   },
   {
     "id": 49,
     "type": "mcq",
-    "stem": "Elaboration, a Cognitive learning strategy, is BEST described as which of the following?",
+    "stem": "Humanistic learning theory was developed MOST notably by which theorists?",
     "options": [
-      "Connecting new information to existing knowledge by explaining and expanding on it",
-      "Memorizing information with no connection to prior knowledge",
-      "Avoiding any explanation of new material",
-      "Presenting information in isolation from context"
+      "Abraham Maslow and Carl Rogers",
+      "Ivan Pavlov and John Watson",
+      "Edward Thorndike and B.F. Skinner",
+      "Jean Piaget and Lev Vygotsky"
     ],
     "answer": "A"
   },
   {
     "id": 50,
     "type": "mcq",
-    "stem": "Generating examples of outcomes, a Cognitive learning strategy, primarily helps learners to do which of the following?",
+    "stem": "Humanistic learning theory emphasizes learning MOST through which lens?",
     "options": [
-      "Apply abstract concepts to concrete situations, reinforcing understanding through application",
-      "Avoid any application of the concept learned",
-      "Memorize definitions with no context",
-      "Eliminate the need for practice retrieval"
+      "The freedom and autonomy of the learner",
+      "Strict external control with no learner freedom",
+      "Conditioned reflexes with no conscious awareness",
+      "Punishment as the primary motivator for learning"
     ],
     "answer": "A"
   },
   {
     "id": 51,
     "type": "mcq",
-    "stem": "Practice retrieval, a Cognitive learning strategy, is BEST described as which of the following?",
+    "stem": "Humanistic learning theory connects the ability to learn with which of the following?",
     "options": [
-      "Actively recalling previously learned information from memory rather than simply re-reading it",
-      "Passively re-reading notes with no active recall",
-      "Avoiding any form of self-testing",
-      "Relying solely on external reinforcement schedules"
+      "The fulfilment of other needs, building on Maslow's hierarchy of needs",
+      "Complete deprivation of all physiological needs",
+      "Random chance with no relationship to needs",
+      "External conditioning schedules alone"
     ],
     "answer": "A"
   },
   {
     "id": 52,
     "type": "mcq",
-    "stem": "Constructivism, briefly noted among learning theories, holds that learners BEST construct knowledge through which process?",
+    "stem": "According to Humanists, the ultimate goal of the learner is BEST described as which of the following?",
     "options": [
-      "Building new understanding upon their prior knowledge and experience",
-      "Passively absorbing knowledge with no prior experience involved",
-      "Receiving knowledge exclusively through reinforcement schedules",
-      "Memorizing isolated facts unrelated to prior learning"
+      "Self-actualization",
+      "Rote memorization of facts",
+      "Avoidance of all social interaction",
+      "Strict obedience to external authority"
     ],
     "answer": "A"
   },
   {
     "id": 53,
     "type": "mcq",
-    "stem": "Jean Piaget is often referred to as the 'father' of which learning theory?",
+    "stem": "Humanists believe that an upset, sad, or distressed learner is MOST likely to experience which outcome regarding learning?",
     "options": [
-      "Constructivism",
-      "Behaviorism",
-      "Idealism",
-      "Realism"
+      "The learner is less likely to focus on learning",
+      "The learner will automatically learn faster",
+      "The learner's distress has no bearing on learning at all",
+      "The learner will require no supportive environment"
     ],
     "answer": "A"
   },
   {
     "id": 54,
     "type": "mcq",
-    "stem": "Group interaction, a Cognitive teaching strategy, is used MOST to achieve which purpose?",
+    "stem": "Learner-centred teaching, a Humanistic teaching strategy, places MOST emphasis on which of the following?",
     "options": [
-      "Allowing learners to exchange perspectives and co-construct understanding through discussion",
-      "Isolating learners from any peer contact",
-      "Preventing collaborative problem-solving",
-      "Replacing the need for individual reflection"
+      "The learner's needs, interests, abilities, and experiences at the centre of the learning process",
+      "The teacher's convenience above all else",
+      "A single rigid curriculum applied identically to every learner",
+      "Standardized testing with no regard for individual learners"
     ],
     "answer": "A"
   },
   {
     "id": 55,
     "type": "mcq",
-    "stem": "Questioning, as a Cognitive teaching strategy, is used MOST to achieve which purpose?",
+    "stem": "Self-directed learning, a Humanistic teaching strategy, allows students to take responsibility MOST for which of the following?",
     "options": [
-      "Stimulating learner thinking and revealing gaps in understanding through targeted inquiry",
-      "Discouraging learner participation entirely",
-      "Replacing the need for any explanation",
-      "Preventing the instructor from assessing comprehension"
+      "Setting learning goals and deciding how to achieve them",
+      "Following an externally imposed schedule with no input",
+      "Avoiding all responsibility for their own learning",
+      "Relying exclusively on classical conditioning"
     ],
     "answer": "A"
   },
   {
     "id": 56,
     "type": "mcq",
-    "stem": "Active learning, as emphasized in Cognitive learning theory, is BEST described as which of the following?",
+    "stem": "Discussion and dialogue, a Humanistic teaching strategy, encourages MOST which of the following?",
     "options": [
-      "Learners engaging directly with material through tasks, discussion, or problem-solving rather than passive listening",
-      "Learners sitting silently while the instructor lectures continuously",
-      "Learners avoiding any interaction with course content",
-      "Learners memorizing content with no engagement"
+      "Open communication where students can express their opinions, feelings, and ideas freely",
+      "Complete silence with no verbal exchange permitted",
+      "Punishment for expressing personal opinions",
+      "A single correct answer dictated by the teacher with no discussion"
     ],
     "answer": "A"
   },
   {
     "id": 57,
     "type": "mcq",
-    "stem": "Learning through experience, a Cognitive learning strategy, is BEST described as which of the following?",
+    "stem": "Self-assessment, a Humanistic teaching strategy, allows students to do which of the following?",
     "options": [
-      "Gaining understanding by directly engaging in and reflecting on real or simulated situations",
-      "Gaining understanding exclusively from textbook definitions with no practical exposure",
-      "Avoiding any reflection on prior activities",
-      "Relying solely on reinforcement schedules for learning"
+      "Evaluate their own learning, strengths, weaknesses, and progress",
+      "Avoid any reflection on their own performance",
+      "Rely solely on the teacher's judgment with no self-reflection",
+      "Be excluded from any role in the evaluation process"
     ],
     "answer": "A"
   },
   {
     "id": 58,
     "type": "mcq",
-    "stem": "Regular review, as a teaching strategy under Behaviorism and Cognitive theory alike, primarily helps to achieve which outcome?",
+    "stem": "Positive reinforcement and encouragement, a Humanistic teaching strategy, is used MOST to achieve which purpose?",
     "options": [
-      "Strengthening retention of learned material over time through repeated exposure",
-      "Eliminating the need for any future practice",
-      "Preventing retention of previously learned material",
-      "Replacing the need for feedback"
+      "Building students' confidence and self-esteem through constructive feedback",
+      "Undermining student confidence through harsh criticism",
+      "Eliminating the need for any feedback whatsoever",
+      "Punishing every incorrect response harshly"
     ],
     "answer": "A"
   },
   {
     "id": 59,
     "type": "mcq",
-    "stem": "Which of the following BEST distinguishes Idealism from Pragmatism in educational philosophy?",
+    "stem": "Individualized instruction, a Humanistic teaching strategy, adapts teaching MOST to which of the following?",
     "options": [
-      "Idealism emphasizes abstract truth and ideas while Pragmatism emphasizes practical experience and learning by doing",
-      "Idealism emphasizes practical experience while Pragmatism emphasizes abstract ideas",
-      "Both philosophies reject the role of experience in learning",
-      "Both philosophies are identical in their curricular focus"
+      "The individual learner's abilities, needs, interests, and learning pace",
+      "A single fixed pace applied identically to every learner regardless of ability",
+      "The teacher's personal preference with no regard for the learner",
+      "External conditioning schedules with no learner input"
     ],
     "answer": "A"
   },
   {
     "id": 60,
     "type": "mcq",
-    "stem": "Which of the following BEST distinguishes Behaviorism from Cognitive learning theory?",
+    "stem": "Use of Maslow's hierarchy of needs, a Humanistic teaching strategy, requires teachers to do which of the following?",
     "options": [
-      "Behaviorism focuses on observable stimulus-response behavior while Cognitive theory focuses on internal mental processes",
-      "Behaviorism focuses on internal mental processes while Cognitive theory focuses only on observable behavior",
-      "Both theories reject the role of the environment in learning",
-      "Both theories are identical in their approach to teaching"
+      "Recognize that learners' basic needs should be addressed before they can fully concentrate on learning",
+      "Ignore physiological and safety needs entirely",
+      "Address self-actualization needs before any physiological needs",
+      "Assume all learners have identical needs regardless of circumstance"
     ],
     "answer": "A"
   },
   {
     "id": 61,
     "type": "mcq",
-    "stem": "Charles Sanders Peirce, William James, and John Dewey are all associated with founding or advancing which school of philosophy?",
+    "stem": "Which theorist emphasized that a classroom atmosphere characterized by respect, acceptance, trust, empathy, and freedom from unnecessary fear supports Humanistic learning?",
     "options": [
-      "Pragmatism",
-      "Idealism",
-      "Realism",
-      "Behaviorism"
+      "Carl Rogers",
+      "Ivan Pavlov",
+      "Edward Thorndike",
+      "B.F. Skinner"
     ],
     "answer": "A"
   },
   {
     "id": 62,
     "type": "mcq",
-    "stem": "Which of the following is the BEST example of applying Realist philosophy in a nursing skills laboratory?",
+    "stem": "Which of the following BEST distinguishes Constructivism from Connectionism (Thorndike's theory)?",
     "options": [
-      "Students directly observe and practice a procedure on a manikin using evidence-based technique",
-      "Students discuss abstract metaphysical theories with no hands-on practice",
-      "Students are conditioned using only a reward-and-punishment schedule",
-      "Students are excluded from any equipment use"
+      "Constructivism emphasizes learners actively building knowledge from prior experience, while Connectionism emphasizes trial-and-error stimulus-response association",
+      "Constructivism emphasizes trial-and-error learning while Connectionism emphasizes building on prior experience",
+      "Both theories are identical in their approach to learning",
+      "Both theories reject any role for the learner's own activity"
     ],
     "answer": "A"
   },
   {
     "id": 63,
     "type": "mcq",
-    "stem": "Which of the following is the BEST example of Pragmatist 'learning by doing' in a nursing program?",
+    "stem": "Which of the following BEST distinguishes Humanistic learning theory from Connectionism (Thorndike's theory)?",
     "options": [
-      "A student completes a supervised clinical placement applying classroom theory to real patient care",
-      "A student memorizes a textbook chapter with no clinical exposure",
-      "A student is conditioned using a Skinner box apparatus",
-      "A student engages only in abstract philosophical debate"
+      "Humanistic theory emphasizes the learner's freedom, autonomy, and self-actualization while Connectionism emphasizes reinforcement through trial-and-error",
+      "Humanistic theory emphasizes rigid external conditioning while Connectionism emphasizes learner autonomy",
+      "Both theories are identical in their view of motivation",
+      "Neither theory addresses the learner's internal experience"
     ],
     "answer": "A"
   },
   {
     "id": 64,
     "type": "mcq",
-    "stem": "Which of the following BEST reflects the Eclectic approach applied by a nurse educator?",
+    "stem": "Which of the following is the BEST example of applying the ASSURE model when teaching a newly diagnosed diabetic client to self-administer insulin?",
     "options": [
-      "Combining Socratic questioning, hands-on demonstration, and reflective case discussion in a single lesson",
-      "Using only one teaching method for every lesson regardless of content",
-      "Rejecting all forms of assessment",
-      "Refusing to use any theoretical framework"
+      "Analyzing the client's age and readiness, stating a clear objective, selecting a demonstration method, using an insulin pen model, having the client perform a return demonstration, then evaluating accuracy",
+      "Handing the client a pamphlet with no assessment, objective, or evaluation",
+      "Administering the insulin for the client indefinitely with no teaching",
+      "Assuming the client already knows the procedure with no assessment"
     ],
     "answer": "A"
   },
   {
     "id": 65,
     "type": "mcq",
-    "stem": "Which of the following statements about the five widely accepted learning theories is MOST accurate?",
+    "stem": "Which of the following is the BEST example of a nurse applying the client education principle of 'proceeding from simple to complex' during discharge teaching?",
     "options": [
-      "They commonly include Behaviorism, Cognitive theory, Constructivism, Humanism, and Connectivism",
-      "They are limited strictly to Idealism and Realism",
-      "They exclude any theory related to conditioning",
-      "They are identical to the philosophies of education"
+      "Teaching basic wound cleaning first before introducing complex dressing change techniques",
+      "Teaching the most advanced surgical technique first, before any basic explanation",
+      "Skipping all basic information entirely",
+      "Providing no structured order to the information given"
     ],
     "answer": "A"
   },
   {
     "id": 66,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A nurse educator dilutes a lecture on wound care with repeated firm verbal praise every time a student correctly demonstrates sterile technique, and the students begin performing the technique correctly more often. Which learning concept is being applied?",
+    "stem": "CASE SCENARIO: A nurse educator is teaching a newly diagnosed hypertensive client about home blood pressure monitoring. The nurse first checks the client's age, literacy level, and prior experience with monitors before choosing a demonstration method with a real device, then has the client return-demonstrate the technique before ending the session. Which structured model is the nurse MOST clearly following?",
     "options": [
-      "Positive reinforcement",
-      "Negative reinforcement",
-      "Punishment",
-      "Classical conditioning"
+      "The ASSURE model",
+      "Thorndike's Connectionism theory",
+      "Classical conditioning",
+      "Operant conditioning using a Skinner box"
     ],
     "answer": "A"
   },
   {
     "id": 67,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A nursing student feels anxious every time a clinical instructor stops observing their injection technique, because the instructor only walks away once the technique is performed correctly. Over time the student performs the technique correctly more often to make the instructor leave sooner. Which learning concept is being applied?",
+    "stem": "CASE SCENARIO: A student nurse repeatedly practices inserting a nasogastric tube on a manikin, and after several failed attempts finally finds the correct angle that meets no resistance; the student then continues to use that same successful angle on subsequent attempts, gradually eliminating unsuccessful movements. Which learning theory BEST explains this pattern?",
     "options": [
-      "Negative reinforcement",
-      "Positive reinforcement",
-      "Classical conditioning",
-      "Shaping alone with no reinforcement"
+      "Thorndike's Connectionism (trial-and-error learning)",
+      "Humanistic learning theory",
+      "Constructivism learning theory",
+      "Classical conditioning"
     ],
     "answer": "A"
   },
   {
     "id": 68,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A pre-clinical student always feels a wave of nausea upon hearing the specific alarm tone of the manikin simulator, because that tone was repeatedly paired with a stressful, high-stakes mock code during training. Which learning concept BEST explains this response?",
+    "stem": "CASE SCENARIO: A nursing instructor allows students to set their own study goals, choose their own pace for mastering a skill, and reflect afterward on their own strengths and weaknesses, while the instructor maintains a classroom climate of trust, empathy, and freedom from unnecessary fear. Which theory of learning is MOST clearly being applied?",
     "options": [
+      "Humanistic learning theory",
+      "Thorndike's Connectionism",
       "Classical conditioning",
-      "Operant conditioning",
-      "Discovery learning",
-      "Elaboration"
+      "Operant conditioning"
     ],
     "answer": "A"
   },
   {
     "id": 69,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A nurse educator uses a case study depicting a woman in labor to help students identify which philosophy of education is reflected when the instructor allows the students to discover the correct nursing action themselves through guided questioning rather than lecturing the answer directly. Which philosophy is BEST reflected here?",
+    "stem": "CASE SCENARIO: A group of nursing students is given a real clinical case and asked to work together to develop a nursing care plan, drawing on what each student already knows from prior clinical placements, with the instructor acting as a facilitator rather than lecturing. Which learning theory is MOST clearly reflected here?",
     "options": [
-      "Idealism, through the Socratic method of guided questioning",
-      "Behaviorism, through operant conditioning",
-      "Realism, through laboratory experimentation alone",
-      "Pragmatism, through the project method alone"
+      "Constructivism learning theory",
+      "Thorndike's Connectionism",
+      "Humanistic learning theory practiced without a facilitator",
+      "Classical conditioning"
     ],
     "answer": "A"
   },
   {
     "id": 70,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A nurse educator has students complete a semester-long community health outreach project that requires applying multiple theoretical concepts to a real population's needs, then reflecting on the outcomes. Which philosophy of education is MOST clearly demonstrated?",
+    "stem": "CASE SCENARIO: A client attends the gym regularly for months hoping to lose weight but sees no measurable change on the scale, and subsequently stops attending altogether, reporting that the effort felt pointless. Which of Thorndike's laws of learning BEST explains why the client stopped this health behavior?",
     "options": [
-      "Pragmatism, through the project method and learning by doing",
-      "Idealism, through pure abstract dialogue with no application",
-      "Behaviorism, through classical conditioning alone",
-      "Realism, through rote memorization of facts"
+      "The Law of Effect, because the unsatisfying outcome weakened the connection between the behavior and continued effort",
+      "The Law of Readiness, because the client was never interested in exercise at all",
+      "The Law of Exercise, because the client practiced too frequently",
+      "Classical conditioning, because the gym became a conditioned stimulus"
     ],
     "answer": "A"
   },
   {
     "id": 71,
     "type": "fitb",
-    "stem": "Educational philosophy provides the ___ foundation upon which educational practice is built.",
-    "answer": "theoretical",
+    "stem": "___ involves verbal presentation of information by the teacher to learners.",
+    "answer": "Lecture",
     "acceptableAnswers": [
-      "theoretical",
-      "philosophical"
+      "Lecture"
     ]
   },
   {
     "id": 72,
     "type": "fitb",
-    "stem": "Idealism holds that ___ and mind constitute ultimate reality.",
-    "answer": "ideas",
+    "stem": "___ is a teaching intervention in which the teacher shows learners how to perform a particular skill or procedure.",
+    "answer": "Demonstration",
     "acceptableAnswers": [
-      "ideas",
-      "the mind"
+      "Demonstration"
     ]
   },
   {
     "id": 73,
     "type": "fitb",
-    "stem": "The Idealist aim of education is the pursuit of Truth, Beauty, and ___.",
-    "answer": "Goodness",
+    "stem": "___ teaching involves learners teaching or assisting one another under the supervision of the teacher.",
+    "answer": "Peer",
     "acceptableAnswers": [
-      "Goodness",
-      "goodness"
+      "Peer",
+      "Peer teaching"
     ]
   },
   {
     "id": 74,
     "type": "fitb",
-    "stem": "The ___ method, associated with Idealism, uses structured questioning to draw out latent knowledge.",
-    "answer": "Socratic",
+    "stem": "Client education is the process of helping clients gain the knowledge and ___ needed to maintain health.",
+    "answer": "skills",
     "acceptableAnswers": [
-      "Socratic",
-      "dialectical"
+      "skills"
     ]
   },
   {
     "id": 75,
     "type": "fitb",
-    "stem": "Realism holds that the material world exists independently of the ___.",
-    "answer": "mind",
+    "stem": "The client education principle of establishment of ___ involves creating a trusting, respectful relationship with the client.",
+    "answer": "rapport",
     "acceptableAnswers": [
-      "mind",
-      "observer"
+      "rapport"
     ]
   },
   {
     "id": 76,
     "type": "fitb",
-    "stem": "Realist curricula emphasize science and ___ grounded in observation.",
-    "answer": "mathematics",
+    "stem": "The client education principle of control of ___ ensures the setting is devoid of noise and distractions.",
+    "answer": "environment",
     "acceptableAnswers": [
-      "mathematics",
-      "math"
+      "environment"
     ]
   },
   {
     "id": 77,
     "type": "fitb",
-    "stem": "Pragmatism is considered an offshoot of scientific ___.",
-    "answer": "realism",
+    "stem": "The ASSURE model was described by ___ in 1993.",
+    "answer": "Kega",
     "acceptableAnswers": [
-      "realism"
+      "Kega"
     ]
   },
   {
     "id": 78,
     "type": "fitb",
-    "stem": "John Dewey's Pragmatist approach is summarized by the phrase 'learning by ___.'",
-    "answer": "doing",
+    "stem": "In the ASSURE model, the first step is to ___ the learner.",
+    "answer": "analyze",
     "acceptableAnswers": [
-      "doing"
+      "analyze",
+      "Analyze"
     ]
   },
   {
     "id": 79,
     "type": "fitb",
-    "stem": "The ___ method, a Pragmatist strategy, has learners complete a purposeful real-world task.",
-    "answer": "project",
+    "stem": "In the ASSURE model, the second step is to state ___.",
+    "answer": "objectives",
     "acceptableAnswers": [
-      "project"
+      "objectives"
     ]
   },
   {
     "id": 80,
     "type": "fitb",
-    "stem": "Eclecticism involves selecting the best elements from ___ philosophies rather than following only one.",
-    "answer": "multiple",
+    "stem": "In the ASSURE model, the final step is to ___ the teaching.",
+    "answer": "evaluate",
     "acceptableAnswers": [
-      "multiple",
-      "several",
-      "many"
+      "evaluate",
+      "Evaluate"
     ]
   },
   {
     "id": 81,
     "type": "fitb",
-    "stem": "A demerit of Eclecticism is that it may create ___ or inconsistency in learning.",
-    "answer": "gaps",
+    "stem": "Connectionism theory of learning was developed by the American psychologist ___.",
+    "answer": "Thorndike",
     "acceptableAnswers": [
-      "gaps",
-      "a gap"
+      "Thorndike",
+      "Edward Thorndike"
     ]
   },
   {
     "id": 82,
     "type": "fitb",
-    "stem": "___ , briefly noted among philosophies of education, emphasizes individual freedom and personal choice.",
-    "answer": "Existentialism",
+    "stem": "Thorndike's classic experiment used a hungry ___ placed in a puzzle box.",
+    "answer": "cat",
     "acceptableAnswers": [
-      "Existentialism"
+      "cat"
     ]
   },
   {
     "id": 83,
     "type": "fitb",
-    "stem": "___ , briefly noted among philosophies of education, emphasizes the inherent worth and dignity of the learner.",
-    "answer": "Humanism",
+    "stem": "In Thorndike's experiment, the puzzle box could be opened only by manipulating a ___.",
+    "answer": "latch",
     "acceptableAnswers": [
-      "Humanism"
+      "latch",
+      "lock"
     ]
   },
   {
     "id": 84,
     "type": "fitb",
-    "stem": "Behaviorism is closely associated with Watson, Skinner, and ___.",
-    "answer": "Pavlov",
+    "stem": "The smell of ___ outside the puzzle box acted as a motivator for the cat.",
+    "answer": "fish",
     "acceptableAnswers": [
-      "Pavlov"
+      "fish"
     ]
   },
   {
     "id": 85,
     "type": "fitb",
-    "stem": "Pavlov's experiment with dogs demonstrated ___ conditioning.",
-    "answer": "classical",
+    "stem": "Thorndike identified three fundamental laws of learning: the Law of Readiness, the Law of Exercise, and the Law of ___.",
+    "answer": "Effect",
     "acceptableAnswers": [
-      "classical"
+      "Effect"
     ]
   },
   {
     "id": 86,
     "type": "fitb",
-    "stem": "Skinner's box experiment demonstrated ___ conditioning.",
-    "answer": "operant",
+    "stem": "The Law of ___ states that learning is facilitated when there is interest on the part of the learner.",
+    "answer": "Readiness",
     "acceptableAnswers": [
-      "operant"
+      "Readiness"
     ]
   },
   {
     "id": 87,
     "type": "fitb",
-    "stem": "Positive reinforcement involves adding a ___ stimulus to increase a behavior.",
-    "answer": "pleasant",
+    "stem": "The Law of Exercise has two parts: the Law of Use and the Law of ___.",
+    "answer": "Disuse",
     "acceptableAnswers": [
-      "pleasant",
-      "desirable",
-      "rewarding"
+      "Disuse"
     ]
   },
   {
     "id": 88,
     "type": "fitb",
-    "stem": "Negative reinforcement involves removing an ___ stimulus to increase a behavior.",
-    "answer": "unpleasant",
+    "stem": "The Law of ___ suggests that the stimulus-response connection is strengthened by occurrence, use, or practice.",
+    "answer": "Use",
     "acceptableAnswers": [
-      "unpleasant",
-      "aversive"
+      "Use"
     ]
   },
   {
     "id": 89,
     "type": "fitb",
-    "stem": "Negative reinforcement is not the opposite of positive reinforcement; the goal of both is to ___ the likelihood of a desired behavior.",
-    "answer": "increase",
+    "stem": "The Law of Disuse suggests that lack of practice leads to ___.",
+    "answer": "forgetting",
     "acceptableAnswers": [
-      "increase"
+      "forgetting"
     ]
   },
   {
     "id": 90,
     "type": "fitb",
-    "stem": "Punishment is intended to ___ the likelihood of a behavior recurring.",
-    "answer": "decrease",
+    "stem": "The Law of Effect states that learning is strengthened when the result of trial and error is ___ to the learner.",
+    "answer": "satisfying",
     "acceptableAnswers": [
-      "decrease",
-      "reduce"
+      "satisfying"
     ]
   },
   {
     "id": 91,
     "type": "fitb",
-    "stem": "___ , a Behaviorist technique, reinforces successive approximations of a target behavior.",
-    "answer": "Shaping",
+    "stem": "Teaching is a science because the activity can be based on a body of systematically derived ___, converted to principles.",
+    "answer": "knowledge",
     "acceptableAnswers": [
-      "Shaping"
+      "knowledge"
     ]
   },
   {
     "id": 92,
     "type": "fitb",
-    "stem": "Cognitive learning theory is most closely associated with the theorist ___.",
+    "stem": "Constructivism learning theory regards Jean ___ as its father.",
     "answer": "Piaget",
     "acceptableAnswers": [
       "Piaget",
@@ -1054,78 +1046,76 @@
   {
     "id": 93,
     "type": "fitb",
-    "stem": "___ learning allows learners to actively explore and uncover concepts for themselves.",
+    "stem": "Constructivism states that learners construct knowledge through their previous ___ rather than passively taking in information.",
+    "answer": "experience",
+    "acceptableAnswers": [
+      "experience"
+    ]
+  },
+  {
+    "id": 94,
+    "type": "fitb",
+    "stem": "___ learning, a Constructivist strategy, gives students real-life problems and encourages them to find solutions.",
+    "answer": "Problem-based",
+    "acceptableAnswers": [
+      "Problem-based",
+      "Problem based"
+    ]
+  },
+  {
+    "id": 95,
+    "type": "fitb",
+    "stem": "___ learning, a Constructivist strategy, allows students to explore a topic through investigation and their own experiences.",
     "answer": "Discovery",
     "acceptableAnswers": [
       "Discovery"
     ]
   },
   {
-    "id": 94,
-    "type": "fitb",
-    "stem": "Interleaving involves mixing different ___ during study rather than practicing one in isolation.",
-    "answer": "topics",
-    "acceptableAnswers": [
-      "topics",
-      "subjects"
-    ]
-  },
-  {
-    "id": 95,
-    "type": "fitb",
-    "stem": "Spacing involves distributing study sessions over ___ rather than massing them into one session.",
-    "answer": "time",
-    "acceptableAnswers": [
-      "time"
-    ]
-  },
-  {
     "id": 96,
     "type": "fitb",
-    "stem": "Elaboration involves connecting new information to ___ knowledge.",
-    "answer": "existing",
+    "stem": "___ learning, a Constructivist strategy, has students work in groups and exchange ideas and experiences.",
+    "answer": "Collaborative",
     "acceptableAnswers": [
-      "existing",
-      "prior"
+      "Collaborative"
     ]
   },
   {
     "id": 97,
     "type": "fitb",
-    "stem": "Practice retrieval involves actively ___ information from memory rather than simply re-reading it.",
-    "answer": "recalling",
+    "stem": "Under Constructivism, teachers act as a guide or ___ rather than the sole source of knowledge.",
+    "answer": "facilitator",
     "acceptableAnswers": [
-      "recalling",
-      "retrieving"
+      "facilitator"
     ]
   },
   {
     "id": 98,
     "type": "fitb",
-    "stem": "Constructivism holds that learners build new knowledge upon their ___ knowledge and experience.",
-    "answer": "prior",
+    "stem": "Humanistic learning theory was developed by Abraham Maslow, Carl Rogers, and others in the early ___.",
+    "answer": "1900s",
     "acceptableAnswers": [
-      "prior",
-      "existing"
+      "1900s",
+      "1900's"
     ]
   },
   {
     "id": 99,
     "type": "fitb",
-    "stem": "___ is often referred to as the father of Constructivism.",
-    "answer": "Piaget",
+    "stem": "Humanistic learning theory connects the ability to learn with the fulfilment of other needs, building on Maslow's hierarchy of ___.",
+    "answer": "needs",
     "acceptableAnswers": [
-      "Piaget",
-      "Jean Piaget"
+      "needs"
     ]
   },
   {
     "id": 100,
     "type": "fitb",
-    "stem": "The five widely accepted theories of learning commonly include Behaviorism, Cognitive theory, Constructivism, Humanism, and ___.",
-    "answer": "Connectivism",
+    "stem": "According to Humanists, the ultimate goal of the learner is self-___.",
+    "answer": "actualization",
     "acceptableAnswers": [
-      "Connectivism"
+      "actualization",
+      "self-actualization"
     ]
   }
 ]
