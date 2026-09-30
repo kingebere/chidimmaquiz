@@ -2,1120 +2,1120 @@
   {
     "id": 1,
     "type": "mcq",
-    "stem": "Which form of teaching intervention involves verbal presentation of information by the teacher to learners with minimal learner interaction?",
+    "stem": "Evaluation of teaching and learning is BEST described as which of the following?",
     "options": [
-      "Lecture",
-      "Role play",
-      "Peer teaching",
-      "Discussion"
+      "The last phase of the teaching process, an ongoing appraisal of the patient's learning progress",
+      "A step that occurs only before teaching begins",
+      "A punitive measure with no relationship to learning outcomes",
+      "A process that has no bearing on instructional effectiveness"
     ],
     "answer": "A"
   },
   {
     "id": 2,
     "type": "mcq",
-    "stem": "Which form of teaching intervention is BEST described as an instructional form where the teacher shows learners how to perform a particular skill or procedure?",
+    "stem": "Formative evaluation is used PRIMARILY to achieve which of the following?",
     "options": [
-      "Demonstration",
-      "Lecture",
-      "Video instruction",
-      "Discussion"
+      "Monitor the learning progress of students or clients during the period of instruction and provide continuous feedback",
+      "Assign a final grade at the end of a course only",
+      "Determine promotion to the next higher class exclusively",
+      "Certify that a learner has met externally determined standards only"
     ],
     "answer": "A"
   },
   {
     "id": 3,
     "type": "mcq",
-    "stem": "Which form of teaching intervention entails teacher and learners exchanging ideas, opinions, and experiences about a topic?",
+    "stem": "Which characteristic BEST describes formative evaluation?",
     "options": [
-      "Discussion",
-      "Demonstration",
-      "Role play",
-      "Video instruction"
+      "It occurs frequently during the course of instruction and its results are made immediately known to learners",
+      "It occurs only once, at the very end of a course of instruction",
+      "It is judgmental in character and views evaluation as a product",
+      "It is used exclusively for promotion or certification purposes"
     ],
     "answer": "A"
   },
   {
     "id": 4,
     "type": "mcq",
-    "stem": "Which form of teaching intervention is a form of instruction whereby learners act out specific roles or situations to develop practical, communication, and interpersonal skills?",
+    "stem": "Which of the following is a recognized function of formative evaluation?",
     "options": [
-      "Role play",
-      "Lecture",
-      "Peer teaching",
-      "Demonstration"
+      "Diagnosing the most appropriate method or instructional materials conducive to learning",
+      "Assigning final grades at course completion",
+      "Selecting learners for further studies after course completion",
+      "Certifying that a learner meets previously determined external standards"
     ],
     "answer": "A"
   },
   {
     "id": 5,
     "type": "mcq",
-    "stem": "Which form of teaching intervention involves learners teaching or assisting one another under the supervision of the teacher?",
+    "stem": "The 'monitoring' function of formative evaluation is concerned MOST with which of the following?",
     "options": [
-      "Peer teaching",
-      "Video instruction",
-      "Lecture",
-      "Discussion"
+      "Keeping track of the day-to-day progress of learners and pointing out changes necessary in teaching strategies",
+      "Assigning a final course grade",
+      "Promoting a student to a higher class",
+      "Certifying achievement of predetermined standards"
     ],
     "answer": "A"
   },
   {
     "id": 6,
     "type": "mcq",
-    "stem": "Which form of teaching intervention involves delivering learning materials through recorded instructional videos to enable learners to watch and review?",
+    "stem": "The 'placement' function of formative evaluation is concerned MOST with which of the following?",
     "options": [
-      "Video instruction",
-      "Peer teaching",
-      "Role play",
-      "Demonstration"
+      "Finding out the position of an individual in the curriculum from which he has to start learning",
+      "Determining a final examination score",
+      "Selecting learners for further studies after a course",
+      "Diagnosing appropriate instructional materials only"
     ],
     "answer": "A"
   },
   {
     "id": 7,
     "type": "mcq",
-    "stem": "Teaching interventions are BEST defined as which of the following?",
+    "stem": "Summative evaluation is BEST described as which of the following?",
     "options": [
-      "Planned activities or strategies used by a teacher to facilitate learners' acquisition of knowledge, skills, attitudes, or competencies",
-      "Unplanned, spontaneous remarks made by a teacher with no learning objective",
-      "A punitive measure applied when a learner fails an examination",
-      "A synonym for grading rubrics only"
+      "Evaluation done at the end of a course of instruction to ascertain the extent of accomplishment of set objectives",
+      "Evaluation done exclusively before instruction begins",
+      "A form of evaluation with no relationship to grading",
+      "A continuous process occurring only during instruction"
     ],
     "answer": "A"
   },
   {
     "id": 8,
     "type": "mcq",
-    "stem": "Client education is BEST defined as which of the following?",
+    "stem": "Which characteristic BEST distinguishes summative evaluation from formative evaluation?",
     "options": [
-      "The process of helping clients gain the knowledge and skills needed to maintain health, prevent illness, and manage their health conditions effectively",
-      "A legal contract between a nurse and a client with no educational content",
-      "A one-time event that never requires follow-up or reinforcement",
-      "A punitive process used to penalize non-compliant clients"
+      "Summative evaluation is judgmental in character because its chief concern is to point out the level of attainment",
+      "Summative evaluation occurs frequently throughout instruction with immediate feedback",
+      "Summative evaluation cannot be based on standardized tests",
+      "Summative evaluation is never used for grading purposes"
     ],
     "answer": "A"
   },
   {
     "id": 9,
     "type": "mcq",
-    "stem": "Which principle of client education in nursing involves determining the client's age, educational level, health condition, previous knowledge, learning needs, and readiness to learn?",
+    "stem": "Which of the following is an example of a summative evaluation activity?",
     "options": [
-      "Assessment of the learner",
-      "Documentation of teaching",
-      "Control of environment",
-      "Time planning"
+      "End of term or semester examination",
+      "Daily observation of a return demonstration",
+      "A single question asked mid-lecture",
+      "A quick checklist used during a single teaching session"
     ],
     "answer": "A"
   },
   {
     "id": 10,
     "type": "mcq",
-    "stem": "Which principle of client education involves creating a trusting, respectful, and comfortable relationship with the client before teaching?",
+    "stem": "The 'crediting' function of summative evaluation is concerned MOST with which of the following?",
     "options": [
-      "Establishment of rapport",
-      "Set objectives",
-      "Evaluate learning",
-      "Communicate in simple language"
+      "Collecting evidence that a learner has achieved some instructional goals in contents with respect to a defined curricular programme",
+      "Determining the position of a learner in the curriculum before instruction begins",
+      "Monitoring day-to-day learner progress",
+      "Diagnosing instructional materials conducive to learning"
     ],
     "answer": "A"
   },
   {
     "id": 11,
     "type": "mcq",
-    "stem": "Which principle of client education involves using objectives as a guide to evaluate teaching?",
+    "stem": "The 'certifying' function of summative evaluation is concerned MOST with which of the following?",
     "options": [
-      "Set objectives as a guide to evaluate teaching",
-      "Control of environment",
-      "Time planning",
-      "Respect confidentiality and dignity"
+      "Giving evidence that the learner is able to perform a job according to previously determined standards",
+      "Promoting a pupil to the next higher class",
+      "Selecting learners for further studies after completion of a course",
+      "Monitoring the day-to-day progress of a learner"
     ],
     "answer": "A"
   },
   {
     "id": 12,
     "type": "mcq",
-    "stem": "Which principle of client education requires ensuring the environment is devoid of noise and distractions?",
+    "stem": "In client teaching, the teach-back method is BEST described as which of the following?",
     "options": [
-      "Control of environment",
-      "Establishment of rapport",
-      "Assessment of the learner",
-      "Document the teaching"
+      "Confirming the patient's understanding of the information the care provider has imparted by having the patient explain it back in their own words",
+      "A method that assumes patient understanding without verification",
+      "A written examination administered only at hospital discharge",
+      "A method used exclusively to assess a nurse's own teaching skill and never the patient's understanding"
     ],
     "answer": "A"
   },
   {
     "id": 13,
     "type": "mcq",
-    "stem": "Which principle of client education involves planning the time to suit the client and the environment?",
+    "stem": "If a patient has trouble explaining or recalling material during teach-back, which nursing action is MOST appropriate?",
     "options": [
-      "Time planning",
-      "Set objectives",
-      "Evaluate learning",
-      "Consider individual differences"
+      "Repeat, clarify, or modify the teaching and reassess the patient's understanding and recall, possibly over several cycles",
+      "Document that the patient understood and move on without further clarification",
+      "Discharge the patient regardless of comprehension",
+      "Avoid re-teaching because repetition confuses patients further"
     ],
     "answer": "A"
   },
   {
     "id": 14,
     "type": "mcq",
-    "stem": "Which principle of client education instructs the nurse to avoid medical jargon and explain information in terms the client can easily understand?",
+    "stem": "Which of the following BEST reflects why the teach-back method 'is not a test' of the patient?",
     "options": [
-      "Communicate in simple, clear language",
-      "Provide repetition and reinforcement",
-      "Document the teaching",
-      "Respect confidentiality and dignity"
+      "It re-enforces what was taught because the patient has to put the teaching into their own words, confirming the teacher's effectiveness rather than the patient's intelligence",
+      "It is designed to penalize patients who fail to recall information correctly",
+      "It assigns the patient a numerical grade for later reference",
+      "It replaces the need for any further nursing documentation"
     ],
     "answer": "A"
   },
   {
     "id": 15,
     "type": "mcq",
-    "stem": "Which principle of client education requires adapting teaching to the client's age, culture, beliefs, language, abilities, and preferred way of learning?",
+    "stem": "The return demonstration method of evaluating client teaching is BEST described as which of the following?",
     "options": [
-      "Consider individual differences",
-      "Control of environment",
-      "Set objectives",
-      "Document the teaching"
+      "Having the patient perform the skill that the nurse taught, enabling the nurse to evaluate how well the patient follows the correct steps",
+      "Having the patient answer only written multiple-choice questions",
+      "Having the nurse perform the skill while the patient watches passively with no participation",
+      "A method used only for evaluating community-wide health campaigns"
     ],
     "answer": "A"
   },
   {
     "id": 16,
     "type": "mcq",
-    "stem": "Which principle of client education involves beginning with basic information before introducing more difficult concepts or skills?",
+    "stem": "Measurement of behavioral change as an outcome goal of client teaching evaluation is BEST illustrated by which of the following examples?",
     "options": [
-      "Proceed from simple to complex",
-      "Time planning",
-      "Respect confidentiality and dignity",
-      "Establish rapport"
+      "A documented return of target blood glucose levels to normal over time as an indicator of successful diet teaching",
+      "A patient's self-reported satisfaction with the hospital food service",
+      "The number of pamphlets distributed to a patient",
+      "The length of time a teaching session lasted"
     ],
     "answer": "A"
   },
   {
     "id": 17,
     "type": "mcq",
-    "stem": "Which principle of client education involves allowing the client to ask questions, practice skills, and participate in decision-making?",
+    "stem": "Documentation of client/patient teaching is BEST described as which of the following?",
     "options": [
-      "Encourage active participation",
-      "Control of environment",
-      "Assessment of the learner",
-      "Documentation"
+      "The manual or electronic recording of health education, the client's response, and the outcome of the teaching process",
+      "A verbal-only report given to the next shift with no written record",
+      "An optional step performed only if time permits",
+      "A record maintained exclusively by the patient's family"
     ],
     "answer": "A"
   },
   {
     "id": 18,
     "type": "mcq",
-    "stem": "Which principle of client education involves repeating important information to improve understanding and retention?",
+    "stem": "Which of the following is a primary purpose of documenting patient teaching?",
     "options": [
-      "Provide repetition and reinforcement",
-      "Set objectives",
-      "Time planning",
-      "Establish rapport"
+      "Promoting communication about the patient's progress among all members of the health care team and maintaining continuity of care",
+      "Providing entertainment reading material for the patient",
+      "Replacing the need for verbal communication among staff entirely",
+      "Avoiding the need for any further patient teaching sessions"
     ],
     "answer": "A"
   },
   {
     "id": 19,
     "type": "mcq",
-    "stem": "Which principle of client education involves giving the client enough time to understand, ask questions, practice, and clarify doubts?",
+    "stem": "Which of the following pieces of information should a nurse include when documenting client teaching?",
     "options": [
-      "Allow adequate time",
-      "Consider individual differences",
-      "Control of environment",
-      "Document the teaching"
+      "Date and time of teaching, topic/content taught, and teaching method used",
+      "The patient's unrelated personal opinions about hospital food",
+      "The nurse's personal schedule for the following week",
+      "Only the patient's insurance information"
     ],
     "answer": "A"
   },
   {
     "id": 20,
     "type": "mcq",
-    "stem": "Which principle of client education involves determining whether the client has achieved intended learning objectives through questioning, observation, or return demonstration?",
+    "stem": "Which of the following is a recommended guideline for HOW to document patient teaching?",
     "options": [
-      "Evaluate learning",
-      "Assessment of the learner",
-      "Provide repetition and reinforcement",
-      "Communicate in simple language"
+      "Record the patient's name and include the time and date on all entries, and write legibly",
+      "Use pencil so entries can later be erased if needed",
+      "Record subjective personal bias about the patient",
+      "Leave entries unsigned to save time"
     ],
     "answer": "A"
   },
   {
     "id": 21,
     "type": "mcq",
-    "stem": "Which principle of client education requires maintaining privacy and treating the client with respect throughout the teaching process?",
+    "stem": "Which of the following is a recommended guideline for documenting patient teaching accurately?",
     "options": [
-      "Respect confidentiality and dignity",
-      "Control of environment",
-      "Set objectives",
-      "Time planning"
+      "Be accurate and truthful while discussing facts and events",
+      "Exaggerate outcomes to make the teaching appear more successful",
+      "Omit any details that reflect the patient's difficulty understanding",
+      "Record assumptions about the patient's future behavior with no evidence"
     ],
     "answer": "A"
   },
   {
     "id": 22,
     "type": "mcq",
-    "stem": "Which principle of client education requires recording the content taught, the teaching method used, and the client's response and level of understanding?",
+    "stem": "Community health education is BEST defined as which of the following?",
     "options": [
-      "Document the teaching",
-      "Establishment of rapport",
-      "Consider individual differences",
-      "Allow adequate time"
+      "The process of teaching individuals and populations how to improve, maintain, and restore their health",
+      "A process limited strictly to hospital inpatients",
+      "A process that excludes consideration of lifestyle factors",
+      "A one-time lecture with no follow-up evaluation"
     ],
     "answer": "A"
   },
   {
     "id": 23,
     "type": "mcq",
-    "stem": "The ASSURE model, attributed to Kega (1993), is used MOST for which purpose in nursing education?",
+    "stem": "A Community Health Education program is targeted MOST at positively influencing which of the following?",
     "options": [
-      "To provide a useful paradigm to assist nurses in organizing and carrying out the education process",
-      "To calculate medication dosages for pediatric clients",
-      "To classify types of surgical wound infections",
-      "To determine staffing ratios on a nursing unit"
+      "The health behavior of individuals, families, and groups in the communities",
+      "Only the health behavior of hospital employees",
+      "Only the profitability of local pharmacies",
+      "Only the architectural design of clinics"
     ],
     "answer": "A"
   },
   {
     "id": 24,
     "type": "mcq",
-    "stem": "In the ASSURE model, the letter 'A' in the FIRST step stands for which of the following?",
+    "stem": "Which of the following is the FIRST step in the community health education process?",
     "options": [
-      "Analyze the learner (age, knowledge background, readiness to learn)",
-      "Assess vital signs only",
-      "Administer medication",
-      "Apply restraints"
+      "Assessment",
+      "Diagnosis",
+      "Planning",
+      "Evaluation"
     ],
     "answer": "A"
   },
   {
     "id": 25,
     "type": "mcq",
-    "stem": "In the ASSURE model, the letter 'S' in the second step stands for which of the following?",
+    "stem": "During the assessment step of community health education, the nurse should do which of the following?",
     "options": [
-      "State objectives",
-      "Select staff",
-      "Schedule surgery",
-      "Sterilize supplies"
+      "Collect data on the community's demographics, health status, and resources",
+      "Design the program layout and timelines exclusively",
+      "Deliver the educational program using verbal communication only",
+      "Measure whether the community met the set objectives"
     ],
     "answer": "A"
   },
   {
     "id": 26,
     "type": "mcq",
-    "stem": "In the ASSURE model, the letter 'S' in the third step stands for which of the following?",
+    "stem": "During the diagnosis step of community health education, the nurse should do which of the following?",
     "options": [
-      "Select instructional methods",
-      "Sedate the client",
-      "Sign consent",
-      "Suction the airway"
+      "Analyze the collected data to pinpoint specific community health problems",
+      "Distribute educational materials to community members",
+      "Gather data on community demographics for the first time",
+      "Revise future teaching sessions based on program results"
     ],
     "answer": "A"
   },
   {
     "id": 27,
     "type": "mcq",
-    "stem": "In the ASSURE model, the letter 'U' stands for which of the following?",
+    "stem": "During the planning step of community health education, the nurse should do which of the following?",
     "options": [
-      "Use appropriate teaching materials and tools",
-      "Undertake surgery",
-      "Utilize restraints",
-      "Undress the client"
+      "Establish clear, measurable short-term and long-term learning objectives",
+      "Analyze collected data to identify community health problems for the first time",
+      "Deliver the educational program to the community",
+      "Gather feedback from community members after program delivery"
     ],
     "answer": "A"
   },
   {
     "id": 28,
     "type": "mcq",
-    "stem": "In the ASSURE model, the letter 'R' stands for which of the following?",
+    "stem": "During the implementation step of community health education, the nurse should do which of the following?",
     "options": [
-      "Require learner performance",
-      "Restrict fluids",
-      "Record vital signs only",
-      "Refer to a specialist automatically"
+      "Deliver the educational program using clear verbal and non-verbal communication and encourage active participation",
+      "Collect demographic data on the community for the first time",
+      "Formulate community nursing diagnoses for the first time",
+      "Revise the program timeline before any data collection"
     ],
     "answer": "A"
   },
   {
     "id": 29,
     "type": "mcq",
-    "stem": "In the ASSURE model, the final letter 'E' stands for which of the following?",
+    "stem": "During the evaluation step of community health education, the nurse should do which of the following?",
     "options": [
-      "Evaluate",
-      "Educate physicians only",
-      "Eliminate the teaching plan",
-      "Exclude the learner from feedback"
+      "Measure whether the community met the set objectives and gained knowledge",
+      "Collect initial demographic data on the community",
+      "Formulate nursing diagnoses that target knowledge deficits",
+      "Design the program layout and assign responsibilities for the first time"
     ],
     "answer": "A"
   },
   {
     "id": 30,
     "type": "mcq",
-    "stem": "Connectionism, a theory of learning developed by the American psychologist Edward Thorndike, is BEST described as being based on which principle?",
+    "stem": "Which of the following is a teaching method commonly utilized in community health education?",
     "options": [
-      "Active learning through trial-and-error and the formation of associations between stimulus and response",
-      "Passive absorption of knowledge with no active engagement",
-      "Learning that occurs exclusively through social media networks",
-      "Learning that requires no observable behavior change"
+      "Health talks, group discussion, demonstration, role play, and drama",
+      "Only individual bedside teaching with no group methods",
+      "Exclusively written multiple-choice examinations",
+      "Only computer-based instruction with no in-person contact"
     ],
     "answer": "A"
   },
   {
     "id": 31,
     "type": "mcq",
-    "stem": "Thorndike's classic experiment supporting Connectionism theory involved which of the following?",
+    "stem": "Group teaching in nursing education is BEST described as which of the following?",
     "options": [
-      "A hungry cat placed in a puzzle box that could only be opened by manipulating a latch",
-      "A dog salivating in response to a bell paired with food",
-      "A child observing an adult model aggressive behavior toward a doll",
-      "A pigeon pecking a disk to receive a food pellet on a fixed schedule"
+      "An instructional approach that involves learners working together in groups of 5 to 10 and increases student retention, teamwork ability, communication skills, and peer-peer interaction",
+      "A method restricted to individual, one-on-one instruction only",
+      "A method that discourages any peer interaction",
+      "A method used exclusively for summative testing"
     ],
     "answer": "A"
   },
   {
     "id": 32,
     "type": "mcq",
-    "stem": "In Thorndike's puzzle box experiment, the smell of fish placed outside the box served MOST as which of the following?",
+    "stem": "The model of group teaching commonly referenced in nursing education, developed to establish small group teaching sessions, is associated with which name?",
     "options": [
-      "A motivator for the cat to escape the box",
-      "A conditioned stimulus for classical conditioning",
-      "A form of punishment",
-      "An irrelevant distractor with no effect on behavior"
+      "Tuckman's model",
+      "Maslow's model",
+      "Piaget's model",
+      "Thorndike's model"
     ],
     "answer": "A"
   },
   {
     "id": 33,
     "type": "mcq",
-    "stem": "According to Thorndike's Connectionism theory, learning that occurs gradually through the cat's repeated attempts, discarding ineffective responses until the latch is opened, illustrates which process?",
+    "stem": "In Tuckman's group development model, the 'Forming' stage is BEST characterized by which of the following?",
     "options": [
-      "Trial-and-error learning",
-      "Classical conditioning",
-      "Discovery learning through group interaction",
-      "Observational modeling"
+      "Members of the team know each other, exchange information, and understand how they respond",
+      "Identification of the topic or problem to be solved",
+      "Institution of specific aims, objectives, and a mutual plan",
+      "The team functions to implement the plan"
     ],
     "answer": "A"
   },
   {
     "id": 34,
     "type": "mcq",
-    "stem": "The Law of Readiness, one of Thorndike's laws of learning, states that learning is facilitated MOST under which condition?",
+    "stem": "In Tuckman's group development model, the 'Storming' stage is BEST characterized by which of the following?",
     "options": [
-      "When there is interest on the side of the learner in the task at hand",
-      "When the learner is punished repeatedly before the task begins",
-      "When the learner has no motivation to complete the task",
-      "When the task is assigned without the learner's knowledge"
+      "Identification of the topic or problem to be solved",
+      "Members getting to know each other for the first time",
+      "The team functioning to implement an agreed plan",
+      "Institution of specific aims and a mutual plan"
     ],
     "answer": "A"
   },
   {
     "id": 35,
     "type": "mcq",
-    "stem": "According to the Law of Readiness, teaching a client to quit smoking when he has NOT decided to do so is MOST likely to result in which outcome?",
+    "stem": "In Tuckman's group development model, the 'Norming' stage is BEST characterized by which of the following?",
     "options": [
-      "The client will not be interested and the connection between stimulus and response will be weak",
-      "The client will instantly master the new behavior",
-      "The client will develop classical conditioning to the cigarette",
-      "The client will need no further reinforcement"
+      "Institution of specific aims, objectives, and a mutual plan",
+      "Members getting to know each other for the first time",
+      "Identification of the topic or problem to be solved",
+      "The team functioning to implement the plan"
     ],
     "answer": "A"
   },
   {
     "id": 36,
     "type": "mcq",
-    "stem": "The Law of Exercise, one of Thorndike's laws of learning, states that learning becomes weaker under which condition?",
+    "stem": "In Tuckman's group development model, the 'Performing' stage is BEST characterized by which of the following?",
     "options": [
-      "When practice of what was learnt is discontinued",
-      "When practice is continued indefinitely without rest",
-      "When the learner receives constant positive reinforcement",
-      "When the learner is intrinsically motivated"
+      "The team functions to implement the plan",
+      "Members getting to know each other for the first time",
+      "Identification of the topic or problem to be solved",
+      "Institution of specific aims and objectives only"
     ],
     "answer": "A"
   },
   {
     "id": 37,
     "type": "mcq",
-    "stem": "The Law of Effect, one of Thorndike's laws of learning, states that learning is strengthened under which condition?",
+    "stem": "Which of the following is a recognized advantage of group teaching?",
     "options": [
-      "When the result of trial and error is satisfying to the learner",
-      "When the result of trial and error is annoying to the learner",
-      "When no result follows the learner's effort at all",
-      "When the learner is unaware that learning has occurred"
+      "It facilitates sharing of knowledge and skills and provides opportunity for exchange of information",
+      "It guarantees equal participation from every member with no risk of imbalance",
+      "It eliminates the need for a facilitator entirely",
+      "It removes any possibility of conflict among members"
     ],
     "answer": "A"
   },
   {
     "id": 38,
     "type": "mcq",
-    "stem": "According to the Law of Effect, an obese client who fails to see any reduction in weight despite months at the gym is MOST likely to experience which outcome?",
+    "stem": "Which of the following is a recognized disadvantage of group teaching?",
     "options": [
-      "Demoralization, weakening the connection between the exercise behavior and continued effort",
-      "An automatic increase in motivation regardless of outcome",
-      "Immediate development of classical conditioning to exercise",
-      "No effect on future exercise behavior whatsoever"
+      "There may be unequal support from the instructor and conflict over roles and responsibilities may arise",
+      "It always produces perfectly equal participation among all members",
+      "It requires no debriefing or evaluation at the end of the session",
+      "It guarantees improved outcomes with no risk of unequal participation"
     ],
     "answer": "A"
   },
   {
     "id": 39,
     "type": "mcq",
-    "stem": "Teaching is BEST defined as which of the following complex concepts?",
+    "stem": "The problem-solving method of teaching is BEST described as which of the following?",
     "options": [
-      "An activity by which a teacher imparts knowledge and develops understanding and skills in the learner",
-      "A punitive process with no communicative element",
-      "A single isolated event unrelated to learner behavior",
-      "A process that occurs only in formal classroom settings"
+      "A learner-centered approach in which students are presented with real-world problems and encouraged to use their own knowledge and skills to come up with solutions",
+      "A method in which the teacher provides the only correct answer with no learner input",
+      "A method that discourages critical thinking",
+      "A method used exclusively for summative examinations"
     ],
     "answer": "A"
   },
   {
     "id": 40,
     "type": "mcq",
-    "stem": "Constructivism learning theory, with Jean Piaget regarded as its 'father,' is grounded MOST in which background discipline of Piaget?",
+    "stem": "Which of the following is a recognized benefit of the problem-solving method of teaching?",
     "options": [
-      "Biology, in observing how an organism adapts to the environment and how previous mental knowledge contributes to behaviors",
-      "Chemistry, in studying molecular bonding",
-      "Physics, in studying mechanical motion",
-      "Astronomy, in studying planetary orbits"
+      "It enhances critical thinking by forcing students to think critically about a situation and come up with their own solutions",
+      "It removes any need for creativity",
+      "It discourages real-world application of knowledge",
+      "It guarantees a single correct answer for every problem presented"
     ],
     "answer": "A"
   },
   {
     "id": 41,
     "type": "mcq",
-    "stem": "Constructivism theory states that learners construct knowledge through their previous experience RATHER than which alternative process?",
+    "stem": "Which of the following BEST describes how the problem-solving method fosters creativity?",
     "options": [
-      "Passively taking in information with no active engagement",
-      "Actively engaging with real-world problems",
-      "Discussing topics in collaborative groups",
-      "Reflecting on what was learnt and what could be improved"
+      "There is often no one right answer, so students are free to come up with unique solutions",
+      "It requires students to memorize a single fixed solution",
+      "It eliminates the need for critical thinking entirely",
+      "It restricts students to only one predetermined method of solving a problem"
     ],
     "answer": "A"
   },
   {
     "id": 42,
     "type": "mcq",
-    "stem": "Problem-based learning, a Constructivist teaching strategy, is BEST described as which of the following?",
+    "stem": "Which of the following is the FIRST step in the problem-solving method of teaching?",
     "options": [
-      "Students are given real-life problems and encouraged to find solutions, incorporating knowledge within their preexisting conception of the problem area",
-      "Students memorize a list of facts with no application to real problems",
-      "Students are punished for attempting to solve a problem incorrectly",
-      "Students receive no guidance whatsoever from the teacher"
+      "Identifying the problem",
+      "Generating possible solutions",
+      "Implementing the solution",
+      "Evaluating the results"
     ],
     "answer": "A"
   },
   {
     "id": 43,
     "type": "mcq",
-    "stem": "Discovery learning, a Constructivist teaching strategy, allows students to gain knowledge MOST through which process?",
+    "stem": "During the 'understanding the problem' step of the problem-solving method, students should do which of the following?",
     "options": [
-      "Exploring a topic through investigation and their own experiences",
-      "Being told the correct answer before any investigation begins",
-      "Repeating a memorized script with no exploration",
-      "Receiving punishment for any incorrect discovery"
+      "Break the problem down into smaller parts and gather more information about the problem",
+      "Immediately implement a solution with no analysis",
+      "Skip directly to evaluating results",
+      "Avoid gathering any additional information"
     ],
     "answer": "A"
   },
   {
     "id": 44,
     "type": "mcq",
-    "stem": "Collaborative learning, a Constructivist teaching strategy, is BEST illustrated by which classroom example?",
+    "stem": "During the 'generating possible solutions' step of the problem-solving method, students may use which of the following techniques?",
     "options": [
-      "Students work together in groups to develop a nursing care plan, exchanging ideas and experiences",
-      "Students work in complete isolation with no group interaction",
-      "Students are graded solely on individual silent seatwork",
-      "Students are prohibited from exchanging any ideas with peers"
+      "Brainstorming or problem-solving techniques such as root cause analysis or the decision matrix",
+      "Immediate implementation with no solution generation",
+      "Skipping directly to evaluation with no plan developed",
+      "Avoiding any analysis of the problem"
     ],
     "answer": "A"
   },
   {
     "id": 45,
     "type": "mcq",
-    "stem": "Reflective learning, a Constructivist teaching strategy, requires students to think about which of the following?",
+    "stem": "If a chosen solution is not successful during the problem-solving method of teaching, students should do which of the following?",
     "options": [
-      "What they have learned, what they experienced, what went well, and what they could improve",
-      "Only the final grade received on an examination",
-      "Nothing beyond memorized facts",
-      "The teacher's personal opinions only"
+      "Go back to step 3 (generating possible solutions) and develop new solutions",
+      "Abandon the problem entirely with no further attempt",
+      "Immediately conclude that the method has failed permanently",
+      "Repeat the exact same unsuccessful solution without modification"
     ],
     "answer": "A"
   },
   {
     "id": 46,
     "type": "mcq",
-    "stem": "Use of prior knowledge, a Constructivist teaching strategy, involves the teacher doing which of the following?",
+    "stem": "Behavior modification instructional method is BEST described as which of the following?",
     "options": [
-      "Connecting new information to what students already know or have experienced",
-      "Ignoring anything the student already knows",
-      "Presenting new information with no reference to prior learning",
-      "Preventing students from using any previous experience"
+      "An approach that tries to change the pattern of human behavior by using various motivated techniques such as reinforcement, extinction, fading, shaping, and chaining",
+      "A method that relies exclusively on lecture with no behavioral techniques",
+      "A method that has no basis in behavioral research",
+      "A method used only in classroom settings with no clinical application"
     ],
     "answer": "A"
   },
   {
     "id": 47,
     "type": "mcq",
-    "stem": "Teacher questioning, a Constructivist teaching strategy, uses open-ended questions MOST to achieve which purpose?",
+    "stem": "Which of the following BEST defines reinforcement in behavior modification?",
     "options": [
-      "Encouraging students to explain their reasoning and develop critical thinking",
-      "Requiring only single-word yes/no responses",
-      "Preventing students from expressing their own reasoning",
-      "Replacing the need for any student engagement"
+      "Anything that increases the likelihood that a learner will repeat a behavior",
+      "Anything that decreases the likelihood a behavior will occur again",
+      "The complete removal of a behavior from the learner's repertoire",
+      "A punishment applied to discourage a behavior"
     ],
     "answer": "A"
   },
   {
     "id": 48,
     "type": "mcq",
-    "stem": "Under Constructivism, the role of the teacher is BEST described as which of the following?",
+    "stem": "Which of the following is the BEST example of reinforcement decreasing the chance an action or behavior will be repeated, according to behaviorist principles?",
     "options": [
-      "A guide or facilitator rather than the sole source of knowledge",
-      "The sole and unquestionable authority who never allows student input",
-      "An observer with absolutely no interaction with students",
-      "A disciplinarian focused only on punishment"
+      "If the consequences of an action or behavior are unfavorable",
+      "If the consequences of an action or behavior are favorable",
+      "If the behavior is ignored entirely with no consequence",
+      "If the behavior is paired with an unrelated neutral stimulus"
     ],
     "answer": "A"
   },
   {
     "id": 49,
     "type": "mcq",
-    "stem": "Humanistic learning theory was developed MOST notably by which theorists?",
+    "stem": "Extinction in behavior modification is BEST described as which of the following?",
     "options": [
-      "Abraham Maslow and Carl Rogers",
-      "Ivan Pavlov and John Watson",
-      "Edward Thorndike and B.F. Skinner",
-      "Jean Piaget and Lev Vygotsky"
+      "A behavior becomes extinct when a stimulus or reinforcer is removed",
+      "A behavior that is strengthened through repeated reinforcement",
+      "A behavior that occurs only once and is never repeated regardless of consequence",
+      "A behavior that is punished harshly to increase its frequency"
     ],
     "answer": "A"
   },
   {
     "id": 50,
     "type": "mcq",
-    "stem": "Humanistic learning theory emphasizes learning MOST through which lens?",
+    "stem": "Which of the following is the BEST clinical example of extinction as described in behavior modification?",
     "options": [
-      "The freedom and autonomy of the learner",
-      "Strict external control with no learner freedom",
-      "Conditioned reflexes with no conscious awareness",
-      "Punishment as the primary motivator for learning"
+      "A hysteric patient who was accustomed to getting a bottle of soft drink if he discovers the giver stopped providing it and no longer displays vomiting to obtain a soft drink, the behavior eventually becomes extinct",
+      "A patient who receives verbal praise every time sterile technique is performed correctly and repeats the behavior more often",
+      "A child who is gradually reinforced with small steps toward walking independently",
+      "A patient who follows several stages of wound dressing taught in sequence"
     ],
     "answer": "A"
   },
   {
     "id": 51,
     "type": "mcq",
-    "stem": "Humanistic learning theory connects the ability to learn with which of the following?",
+    "stem": "Shaping in behavior modification is BEST described as which of the following?",
     "options": [
-      "The fulfilment of other needs, building on Maslow's hierarchy of needs",
-      "Complete deprivation of all physiological needs",
-      "Random chance with no relationship to needs",
-      "External conditioning schedules alone"
+      "Reinforcing behaviors that are closer to a desired behavior than the current disposition",
+      "Removing all reinforcement to eliminate a behavior entirely",
+      "Teaching an entire complex task in a single step with no incremental reinforcement",
+      "Punishing every attempt until the desired behavior spontaneously appears"
     ],
     "answer": "A"
   },
   {
     "id": 52,
     "type": "mcq",
-    "stem": "According to Humanists, the ultimate goal of the learner is BEST described as which of the following?",
+    "stem": "Which of the following is the BEST clinical example of shaping in behavior modification?",
     "options": [
-      "Self-actualization",
-      "Rote memorization of facts",
-      "Avoidance of all social interaction",
-      "Strict obedience to external authority"
+      "A child learning to walk is reinforced through several stages such as sitting, crowing, standing, and walking, with the parent reinforcing each new step",
+      "A patient stops vomiting once a reinforcing soft drink is withdrawn",
+      "A parent rewards a child with money for good grades and later replaces the reward with praise",
+      "Gathering equipment and skin preparation are taught separately before the main procedure"
     ],
     "answer": "A"
   },
   {
     "id": 53,
     "type": "mcq",
-    "stem": "Humanists believe that an upset, sad, or distressed learner is MOST likely to experience which outcome regarding learning?",
+    "stem": "Fading, as a behavior modification technique, is BEST described as which of the following?",
     "options": [
-      "The learner is less likely to focus on learning",
-      "The learner will automatically learn faster",
-      "The learner's distress has no bearing on learning at all",
-      "The learner will require no supportive environment"
+      "Gradually shifting from one stimulus to another, such as replacing an old stimulus with a new one that reflects a desired outcome",
+      "Immediately withdrawing all forms of reinforcement with no gradual transition",
+      "Punishing a behavior repeatedly until it disappears entirely",
+      "Teaching an entire behavior chain in a single uninterrupted step"
     ],
     "answer": "A"
   },
   {
     "id": 54,
     "type": "mcq",
-    "stem": "Learner-centred teaching, a Humanistic teaching strategy, places MOST emphasis on which of the following?",
+    "stem": "Which of the following is the BEST clinical example of fading in behavior modification?",
     "options": [
-      "The learner's needs, interests, abilities, and experiences at the centre of the learning process",
-      "The teacher's convenience above all else",
-      "A single rigid curriculum applied identically to every learner",
-      "Standardized testing with no regard for individual learners"
+      "A parent rewards a child's good grades with money and gradually seeks to find a more sustainable stimulus, such as praise, to replace the money",
+      "A patient's vomiting behavior becomes extinct once the reinforcing drink is withdrawn",
+      "A child is reinforced through the stages of sitting, crawling, and walking",
+      "A complex behavior is broken down into simplest steps for easier achievement"
     ],
     "answer": "A"
   },
   {
     "id": 55,
     "type": "mcq",
-    "stem": "Self-directed learning, a Humanistic teaching strategy, allows students to take responsibility MOST for which of the following?",
+    "stem": "Behavior chaining, as a behavior modification technique, is BEST described as which of the following?",
     "options": [
-      "Setting learning goals and deciding how to achieve them",
-      "Following an externally imposed schedule with no input",
-      "Avoiding all responsibility for their own learning",
-      "Relying exclusively on classical conditioning"
+      "Breaking down a complex task into its simplest steps to make the behavior more consistently achievable",
+      "Removing a behavior from a learner's repertoire entirely with no incremental steps",
+      "Reinforcing every step of a task identically with no sequential structure",
+      "Gradually replacing one stimulus with another unrelated stimulus"
     ],
     "answer": "A"
   },
   {
     "id": 56,
     "type": "mcq",
-    "stem": "Discussion and dialogue, a Humanistic teaching strategy, encourages MOST which of the following?",
+    "stem": "Which of the following is the BEST clinical example of behavior chaining in nursing education?",
     "options": [
-      "Open communication where students can express their opinions, feelings, and ideas freely",
-      "Complete silence with no verbal exchange permitted",
-      "Punishment for expressing personal opinions",
-      "A single correct answer dictated by the teacher with no discussion"
+      "Activities involved in teaching insulin administration, such as gathering equipment and skin preparation, are taught separately and followed by the main procedure",
+      "A hysteric patient's vomiting behavior becomes extinct after a reinforcing drink is withdrawn",
+      "A parent replaces a monetary reward with verbal praise for good grades",
+      "A child is reinforced through successive approximations of walking"
     ],
     "answer": "A"
   },
   {
     "id": 57,
     "type": "mcq",
-    "stem": "Self-assessment, a Humanistic teaching strategy, allows students to do which of the following?",
+    "stem": "Trans-cultural teaching is a style of teaching that aims MOST to achieve which of the following?",
     "options": [
-      "Evaluate their own learning, strengths, weaknesses, and progress",
-      "Avoid any reflection on their own performance",
-      "Rely solely on the teacher's judgment with no self-reflection",
-      "Be excluded from any role in the evaluation process"
+      "Engaging learners from different cultures and knowledge traditions in a way that respects differences, acknowledges a common goal, and seeks to co-create new knowledge",
+      "Ignoring cultural differences entirely to maintain a single standardized approach",
+      "Excluding learners whose culture differs from the teacher's own background",
+      "Focusing exclusively on the teacher's own cultural traditions with no learner input"
     ],
     "answer": "A"
   },
   {
     "id": 58,
     "type": "mcq",
-    "stem": "Positive reinforcement and encouragement, a Humanistic teaching strategy, is used MOST to achieve which purpose?",
+    "stem": "Which of the following is a recognized element of a culturally inclusive teaching plan?",
     "options": [
-      "Building students' confidence and self-esteem through constructive feedback",
-      "Undermining student confidence through harsh criticism",
-      "Eliminating the need for any feedback whatsoever",
-      "Punishing every incorrect response harshly"
+      "Gather demographic information on students' or clients' background and language spoken",
+      "Avoid any acknowledgment of a student's cultural background",
+      "Exclude cultural traditions or holidays from classroom activities entirely",
+      "Assume the teacher's own personal biases are universally shared"
     ],
     "answer": "A"
   },
   {
     "id": 59,
     "type": "mcq",
-    "stem": "Individualized instruction, a Humanistic teaching strategy, adapts teaching MOST to which of the following?",
+    "stem": "Culturally responsive teaching attempts to bridge the gap between teacher and student by helping the teacher understand which of the following?",
     "options": [
-      "The individual learner's abilities, needs, interests, and learning pace",
-      "A single fixed pace applied identically to every learner regardless of ability",
-      "The teacher's personal preference with no regard for the learner",
-      "External conditioning schedules with no learner input"
+      "Cultural differences that may cause a relationship to break down which ultimately affects student achievement",
+      "Only the teacher's own personal preferences",
+      "The financial background of the institution with no reference to the learner",
+      "Standardized test scores exclusively"
     ],
     "answer": "A"
   },
   {
     "id": 60,
     "type": "mcq",
-    "stem": "Use of Maslow's hierarchy of needs, a Humanistic teaching strategy, requires teachers to do which of the following?",
+    "stem": "Computer-assisted instruction (CAI) is BEST defined as which of the following?",
     "options": [
-      "Recognize that learners' basic needs should be addressed before they can fully concentrate on learning",
-      "Ignore physiological and safety needs entirely",
-      "Address self-actualization needs before any physiological needs",
-      "Assume all learners have identical needs regardless of circumstance"
+      "Any teaching-learning activity or remediation presented on a computer to enhance student understanding or facilitate learning and improve instructional qualities",
+      "A method that requires no computer or digital device whatsoever",
+      "A method used exclusively for grading with no instructional content",
+      "A method restricted only to community health settings"
     ],
     "answer": "A"
   },
   {
     "id": 61,
     "type": "mcq",
-    "stem": "Which theorist emphasized that a classroom atmosphere characterized by respect, acceptance, trust, empathy, and freedom from unnecessary fear supports Humanistic learning?",
+    "stem": "Which of the following is a characteristic of an effective teacher?",
     "options": [
-      "Carl Rogers",
-      "Ivan Pavlov",
-      "Edward Thorndike",
-      "B.F. Skinner"
+      "Having adequate skills about the teaching/learning process and broad knowledge of the content of the curriculum",
+      "Frequently losing temper in class to maintain discipline",
+      "Avoiding the use of any board or teaching aids",
+      "Maintaining a distant, unfriendly relationship with learners"
     ],
     "answer": "A"
   },
   {
     "id": 62,
     "type": "mcq",
-    "stem": "Which of the following BEST distinguishes Constructivism from Connectionism (Thorndike's theory)?",
+    "stem": "Which of the following BEST reflects a recognized rule for teaching a lesson effectively?",
     "options": [
-      "Constructivism emphasizes learners actively building knowledge from prior experience, while Connectionism emphasizes trial-and-error stimulus-response association",
-      "Constructivism emphasizes trial-and-error learning while Connectionism emphasizes building on prior experience",
-      "Both theories are identical in their approach to learning",
-      "Both theories reject any role for the learner's own activity"
+      "Teaching a lesson proceeds from the known to the unknown and from the simple to the complex",
+      "Teaching a lesson should proceed from the unfamiliar to the familiar with no prior grounding",
+      "Teaching a lesson should proceed from abstract to concrete exclusively with no concrete grounding",
+      "Teaching a lesson should proceed from complex to simple exclusively"
     ],
     "answer": "A"
   },
   {
     "id": 63,
     "type": "mcq",
-    "stem": "Which of the following BEST distinguishes Humanistic learning theory from Connectionism (Thorndike's theory)?",
+    "stem": "Which of the following BEST reflects the 'whole to parts' rule of teaching?",
     "options": [
-      "Humanistic theory emphasizes the learner's freedom, autonomy, and self-actualization while Connectionism emphasizes reinforcement through trial-and-error",
-      "Humanistic theory emphasizes rigid external conditioning while Connectionism emphasizes learner autonomy",
-      "Both theories are identical in their view of motivation",
-      "Neither theory addresses the learner's internal experience"
+      "Presenting an overview before details",
+      "Presenting details before any overview is given",
+      "Presenting only isolated facts with no overview at all",
+      "Avoiding any structured sequence in a lesson"
     ],
     "answer": "A"
   },
   {
     "id": 64,
     "type": "mcq",
-    "stem": "Which of the following is the BEST example of applying the ASSURE model when teaching a newly diagnosed diabetic client to self-administer insulin?",
+    "stem": "Which of the following BEST reflects the 'concrete to abstract' rule of teaching?",
     "options": [
-      "Analyzing the client's age and readiness, stating a clear objective, selecting a demonstration method, using an insulin pen model, having the client perform a return demonstration, then evaluating accuracy",
-      "Handing the client a pamphlet with no assessment, objective, or evaluation",
-      "Administering the insulin for the client indefinitely with no teaching",
-      "Assuming the client already knows the procedure with no assessment"
+      "Beginning instruction with tangible examples before introducing abstract concepts",
+      "Beginning instruction with abstract theory before any concrete example",
+      "Avoiding concrete examples entirely throughout instruction",
+      "Presenting abstract and concrete content in no particular order"
     ],
     "answer": "A"
   },
   {
     "id": 65,
     "type": "mcq",
-    "stem": "Which of the following is the BEST example of a nurse applying the client education principle of 'proceeding from simple to complex' during discharge teaching?",
+    "stem": "Which of the following factors is recognized as affecting the teaching and learning process?",
     "options": [
-      "Teaching basic wound cleaning first before introducing complex dressing change techniques",
-      "Teaching the most advanced surgical technique first, before any basic explanation",
-      "Skipping all basic information entirely",
-      "Providing no structured order to the information given"
+      "Maturity, age, motivation, previous learning, intelligence, mental health, physical need, diet and nutrition, and attention and interest",
+      "Only the color of the classroom walls",
+      "Only the brand of writing materials used",
+      "Only the time of day with no other contributing factor"
     ],
     "answer": "A"
   },
   {
     "id": 66,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A nurse educator is teaching a newly diagnosed hypertensive client about home blood pressure monitoring. The nurse first checks the client's age, literacy level, and prior experience with monitors before choosing a demonstration method with a real device, then has the client return-demonstrate the technique before ending the session. Which structured model is the nurse MOST clearly following?",
+    "stem": "CASE SCENARIO: A nurse teaches a patient about insulin self-injection, then asks the patient to explain the procedure back in their own words. The patient describes the steps but omits checking the expiration date. The nurse re-explains this single point and asks the patient to repeat the explanation again. Which evaluation method is being used, and is this method a test of the patient?",
     "options": [
-      "The ASSURE model",
-      "Thorndike's Connectionism theory",
-      "Classical conditioning",
-      "Operant conditioning using a Skinner box"
+      "Teach-back method; it is not a test of the patient but a check of the effectiveness of the teaching",
+      "Return demonstration method; it is a graded test of the patient's manual dexterity",
+      "Summative evaluation; it assigns the patient a final course grade",
+      "Formative evaluation; it is used only for placement purposes"
     ],
     "answer": "A"
   },
   {
     "id": 67,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A student nurse repeatedly practices inserting a nasogastric tube on a manikin, and after several failed attempts finally finds the correct angle that meets no resistance; the student then continues to use that same successful angle on subsequent attempts, gradually eliminating unsuccessful movements. Which learning theory BEST explains this pattern?",
+    "stem": "CASE SCENARIO: A community health nurse collects demographic data, health status information, and identifies learning gaps in a rural community, then prioritizes health problems based on urgency and severity before designing an educational program with clear objectives. Which two steps of the community health education process are being demonstrated in this sequence?",
     "options": [
-      "Thorndike's Connectionism (trial-and-error learning)",
-      "Humanistic learning theory",
-      "Constructivism learning theory",
-      "Classical conditioning"
+      "Assessment followed by diagnosis",
+      "Implementation followed by evaluation",
+      "Evaluation followed by assessment",
+      "Diagnosis followed by assessment"
     ],
     "answer": "A"
   },
   {
     "id": 68,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A nursing instructor allows students to set their own study goals, choose their own pace for mastering a skill, and reflect afterward on their own strengths and weaknesses, while the instructor maintains a classroom climate of trust, empathy, and freedom from unnecessary fear. Which theory of learning is MOST clearly being applied?",
+    "stem": "CASE SCENARIO: A hysteric client was accustomed to receiving a bottle of soft drink whenever she vomited. Once her family stops giving her the drink in response to vomiting, the vomiting behavior gradually stops occurring. Which behavior modification principle is BEST demonstrated?",
     "options": [
-      "Humanistic learning theory",
-      "Thorndike's Connectionism",
-      "Classical conditioning",
-      "Operant conditioning"
+      "Extinction, because removal of the reinforcer caused the behavior to stop",
+      "Shaping, because the behavior was reinforced in successive steps",
+      "Fading, because one stimulus was gradually replaced by another",
+      "Chaining, because a complex task was broken into simple steps"
     ],
     "answer": "A"
   },
   {
     "id": 69,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A group of nursing students is given a real clinical case and asked to work together to develop a nursing care plan, drawing on what each student already knows from prior clinical placements, with the instructor acting as a facilitator rather than lecturing. Which learning theory is MOST clearly reflected here?",
+    "stem": "CASE SCENARIO: A nurse educator organizes a class of 40 nursing students into groups of 8 to discuss a complex case study. Initially the group members introduce themselves and exchange background information, then disagreements arise over which approach to the case is correct, followed eventually by the group agreeing on a shared plan and completing the assignment together. Which of Tuckman's stages have been demonstrated, in order?",
     "options": [
-      "Constructivism learning theory",
-      "Thorndike's Connectionism",
-      "Humanistic learning theory practiced without a facilitator",
-      "Classical conditioning"
+      "Forming, Storming, Norming, and Performing",
+      "Performing, Norming, Storming, and Forming",
+      "Storming, Forming, Performing, and Norming",
+      "Norming, Performing, Forming, and Storming"
     ],
     "answer": "A"
   },
   {
     "id": 70,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A client attends the gym regularly for months hoping to lose weight but sees no measurable change on the scale, and subsequently stops attending altogether, reporting that the effort felt pointless. Which of Thorndike's laws of learning BEST explains why the client stopped this health behavior?",
+    "stem": "CASE SCENARIO: A nurse teaching insulin administration to a new diabetic patient first teaches the patient to gather supplies and clean the injection site as a separate step, then teaches drawing up the correct dose separately, and finally combines both into the complete procedure. Which behavior modification technique is BEST demonstrated?",
     "options": [
-      "The Law of Effect, because the unsatisfying outcome weakened the connection between the behavior and continued effort",
-      "The Law of Readiness, because the client was never interested in exercise at all",
-      "The Law of Exercise, because the client practiced too frequently",
-      "Classical conditioning, because the gym became a conditioned stimulus"
+      "Behavior chaining",
+      "Extinction",
+      "Fading",
+      "Classical conditioning"
     ],
     "answer": "A"
   },
   {
     "id": 71,
     "type": "fitb",
-    "stem": "___ involves verbal presentation of information by the teacher to learners.",
-    "answer": "Lecture",
+    "stem": "Evaluation is the ___ phase of the teaching process.",
+    "answer": "last",
     "acceptableAnswers": [
-      "Lecture"
+      "last",
+      "final"
     ]
   },
   {
     "id": 72,
     "type": "fitb",
-    "stem": "___ is a teaching intervention in which the teacher shows learners how to perform a particular skill or procedure.",
-    "answer": "Demonstration",
+    "stem": "___ evaluation is used to monitor the learning progress of students during the period of instruction.",
+    "answer": "Formative",
     "acceptableAnswers": [
-      "Demonstration"
+      "Formative"
     ]
   },
   {
     "id": 73,
     "type": "fitb",
-    "stem": "___ teaching involves learners teaching or assisting one another under the supervision of the teacher.",
-    "answer": "Peer",
+    "stem": "___ evaluation is done at the end of a course of instruction to ascertain the extent of accomplishment of set objectives.",
+    "answer": "Summative",
     "acceptableAnswers": [
-      "Peer",
-      "Peer teaching"
+      "Summative"
     ]
   },
   {
     "id": 74,
     "type": "fitb",
-    "stem": "Client education is the process of helping clients gain the knowledge and ___ needed to maintain health.",
-    "answer": "skills",
+    "stem": "The diagnosing function of formative evaluation is concerned with determining the most appropriate method or instructional ___ conducive to learning.",
+    "answer": "materials",
     "acceptableAnswers": [
-      "skills"
+      "materials"
     ]
   },
   {
     "id": 75,
     "type": "fitb",
-    "stem": "The client education principle of establishment of ___ involves creating a trusting, respectful relationship with the client.",
-    "answer": "rapport",
+    "stem": "The placement function of formative evaluation finds out the ___ of an individual in the curriculum from which he has to start learning.",
+    "answer": "position",
     "acceptableAnswers": [
-      "rapport"
+      "position"
     ]
   },
   {
     "id": 76,
     "type": "fitb",
-    "stem": "The client education principle of control of ___ ensures the setting is devoid of noise and distractions.",
-    "answer": "environment",
+    "stem": "The crediting function of summative evaluation is concerned with collecting evidence that a learner has achieved instructional ___.",
+    "answer": "goals",
     "acceptableAnswers": [
-      "environment"
+      "goals"
     ]
   },
   {
     "id": 77,
     "type": "fitb",
-    "stem": "The ASSURE model was described by ___ in 1993.",
-    "answer": "Kega",
+    "stem": "The certifying function of summative evaluation gives evidence that the learner is able to perform a job according to previously determined ___.",
+    "answer": "standards",
     "acceptableAnswers": [
-      "Kega"
+      "standards"
     ]
   },
   {
     "id": 78,
     "type": "fitb",
-    "stem": "In the ASSURE model, the first step is to ___ the learner.",
-    "answer": "analyze",
+    "stem": "The teach-back method confirms the patient's ___ of the information the care provider has imparted.",
+    "answer": "understanding",
     "acceptableAnswers": [
-      "analyze",
-      "Analyze"
+      "understanding"
     ]
   },
   {
     "id": 79,
     "type": "fitb",
-    "stem": "In the ASSURE model, the second step is to state ___.",
+    "stem": "In teach-back, if a patient has trouble explaining the material, the nurse should repeat, clarify, or ___ the teaching.",
+    "answer": "modify",
+    "acceptableAnswers": [
+      "modify"
+    ]
+  },
+  {
+    "id": 80,
+    "type": "fitb",
+    "stem": "The ___ demonstration method has the patient perform the skill taught to evaluate how well the patient follows correct steps.",
+    "answer": "return",
+    "acceptableAnswers": [
+      "return",
+      "Return"
+    ]
+  },
+  {
+    "id": 81,
+    "type": "fitb",
+    "stem": "Documentation of client teaching promotes ___ about the patient's progress among all health care team members.",
+    "answer": "communication",
+    "acceptableAnswers": [
+      "communication"
+    ]
+  },
+  {
+    "id": 82,
+    "type": "fitb",
+    "stem": "Good documentation of patient teaching helps maintain continuity of care and avoids ___ of teaching.",
+    "answer": "duplication",
+    "acceptableAnswers": [
+      "duplication"
+    ]
+  },
+  {
+    "id": 83,
+    "type": "fitb",
+    "stem": "When documenting patient teaching, the nurse should record the date and ___ of the teaching.",
+    "answer": "time",
+    "acceptableAnswers": [
+      "time"
+    ]
+  },
+  {
+    "id": 84,
+    "type": "fitb",
+    "stem": "When documenting patient teaching, the nurse should be accurate and ___ while discussing facts and events.",
+    "answer": "truthful",
+    "acceptableAnswers": [
+      "truthful"
+    ]
+  },
+  {
+    "id": 85,
+    "type": "fitb",
+    "stem": "Community health education is the process of teaching individuals and populations how to improve, maintain, and ___ their health.",
+    "answer": "restore",
+    "acceptableAnswers": [
+      "restore"
+    ]
+  },
+  {
+    "id": 86,
+    "type": "fitb",
+    "stem": "The first step in the community health education process is ___.",
+    "answer": "assessment",
+    "acceptableAnswers": [
+      "assessment",
+      "Assessment"
+    ]
+  },
+  {
+    "id": 87,
+    "type": "fitb",
+    "stem": "During the diagnosis step of community health education, the nurse formulates community nursing ___ that target knowledge or behavior deficits.",
+    "answer": "diagnoses",
+    "acceptableAnswers": [
+      "diagnoses",
+      "diagnosis"
+    ]
+  },
+  {
+    "id": 88,
+    "type": "fitb",
+    "stem": "During the planning step of community health education, the nurse establishes clear, measurable short-term and long-term learning ___.",
     "answer": "objectives",
     "acceptableAnswers": [
       "objectives"
     ]
   },
   {
-    "id": 80,
-    "type": "fitb",
-    "stem": "In the ASSURE model, the final step is to ___ the teaching.",
-    "answer": "evaluate",
-    "acceptableAnswers": [
-      "evaluate",
-      "Evaluate"
-    ]
-  },
-  {
-    "id": 81,
-    "type": "fitb",
-    "stem": "Connectionism theory of learning was developed by the American psychologist ___.",
-    "answer": "Thorndike",
-    "acceptableAnswers": [
-      "Thorndike",
-      "Edward Thorndike"
-    ]
-  },
-  {
-    "id": 82,
-    "type": "fitb",
-    "stem": "Thorndike's classic experiment used a hungry ___ placed in a puzzle box.",
-    "answer": "cat",
-    "acceptableAnswers": [
-      "cat"
-    ]
-  },
-  {
-    "id": 83,
-    "type": "fitb",
-    "stem": "In Thorndike's experiment, the puzzle box could be opened only by manipulating a ___.",
-    "answer": "latch",
-    "acceptableAnswers": [
-      "latch",
-      "lock"
-    ]
-  },
-  {
-    "id": 84,
-    "type": "fitb",
-    "stem": "The smell of ___ outside the puzzle box acted as a motivator for the cat.",
-    "answer": "fish",
-    "acceptableAnswers": [
-      "fish"
-    ]
-  },
-  {
-    "id": 85,
-    "type": "fitb",
-    "stem": "Thorndike identified three fundamental laws of learning: the Law of Readiness, the Law of Exercise, and the Law of ___.",
-    "answer": "Effect",
-    "acceptableAnswers": [
-      "Effect"
-    ]
-  },
-  {
-    "id": 86,
-    "type": "fitb",
-    "stem": "The Law of ___ states that learning is facilitated when there is interest on the part of the learner.",
-    "answer": "Readiness",
-    "acceptableAnswers": [
-      "Readiness"
-    ]
-  },
-  {
-    "id": 87,
-    "type": "fitb",
-    "stem": "The Law of Exercise has two parts: the Law of Use and the Law of ___.",
-    "answer": "Disuse",
-    "acceptableAnswers": [
-      "Disuse"
-    ]
-  },
-  {
-    "id": 88,
-    "type": "fitb",
-    "stem": "The Law of ___ suggests that the stimulus-response connection is strengthened by occurrence, use, or practice.",
-    "answer": "Use",
-    "acceptableAnswers": [
-      "Use"
-    ]
-  },
-  {
     "id": 89,
     "type": "fitb",
-    "stem": "The Law of Disuse suggests that lack of practice leads to ___.",
-    "answer": "forgetting",
+    "stem": "Group teaching in nursing education typically involves learners working together in groups of ___ to 10.",
+    "answer": "5",
     "acceptableAnswers": [
-      "forgetting"
+      "5",
+      "five"
     ]
   },
   {
     "id": 90,
     "type": "fitb",
-    "stem": "The Law of Effect states that learning is strengthened when the result of trial and error is ___ to the learner.",
-    "answer": "satisfying",
+    "stem": "The model of group teaching commonly established in small group teaching sessions was developed by ___.",
+    "answer": "Tuckman",
     "acceptableAnswers": [
-      "satisfying"
+      "Tuckman",
+      "Tuckman's"
     ]
   },
   {
     "id": 91,
     "type": "fitb",
-    "stem": "Teaching is a science because the activity can be based on a body of systematically derived ___, converted to principles.",
-    "answer": "knowledge",
+    "stem": "In Tuckman's model, the ___ stage involves members getting to know each other and exchanging information.",
+    "answer": "Forming",
     "acceptableAnswers": [
-      "knowledge"
+      "Forming"
     ]
   },
   {
     "id": 92,
     "type": "fitb",
-    "stem": "Constructivism learning theory regards Jean ___ as its father.",
-    "answer": "Piaget",
+    "stem": "In Tuckman's model, the ___ stage involves identification of the topic or problem to be solved.",
+    "answer": "Storming",
     "acceptableAnswers": [
-      "Piaget",
-      "Jean Piaget"
+      "Storming"
     ]
   },
   {
     "id": 93,
     "type": "fitb",
-    "stem": "Constructivism states that learners construct knowledge through their previous ___ rather than passively taking in information.",
-    "answer": "experience",
+    "stem": "___ , at the end of a group teaching session, summarizes and clarifies what has been learnt.",
+    "answer": "Debriefing",
     "acceptableAnswers": [
-      "experience"
+      "Debriefing"
     ]
   },
   {
     "id": 94,
     "type": "fitb",
-    "stem": "___ learning, a Constructivist strategy, gives students real-life problems and encourages them to find solutions.",
-    "answer": "Problem-based",
+    "stem": "The problem-solving method of teaching is a ___-centered approach to learning.",
+    "answer": "learner",
     "acceptableAnswers": [
-      "Problem-based",
-      "Problem based"
+      "learner",
+      "student"
     ]
   },
   {
     "id": 95,
     "type": "fitb",
-    "stem": "___ learning, a Constructivist strategy, allows students to explore a topic through investigation and their own experiences.",
-    "answer": "Discovery",
+    "stem": "The first step of the problem-solving method of teaching is identifying the ___.",
+    "answer": "problem",
     "acceptableAnswers": [
-      "Discovery"
+      "problem"
     ]
   },
   {
     "id": 96,
     "type": "fitb",
-    "stem": "___ learning, a Constructivist strategy, has students work in groups and exchange ideas and experiences.",
-    "answer": "Collaborative",
+    "stem": "In behavior modification, ___ is anything that increases the likelihood that a learner will repeat a behavior.",
+    "answer": "reinforcement",
     "acceptableAnswers": [
-      "Collaborative"
+      "reinforcement",
+      "Reinforcement"
     ]
   },
   {
     "id": 97,
     "type": "fitb",
-    "stem": "Under Constructivism, teachers act as a guide or ___ rather than the sole source of knowledge.",
-    "answer": "facilitator",
+    "stem": "A behavior becomes ___ when a stimulus or reinforcer is removed and the behavior stops occurring.",
+    "answer": "extinct",
     "acceptableAnswers": [
-      "facilitator"
+      "extinct"
     ]
   },
   {
     "id": 98,
     "type": "fitb",
-    "stem": "Humanistic learning theory was developed by Abraham Maslow, Carl Rogers, and others in the early ___.",
-    "answer": "1900s",
+    "stem": "___ involves reinforcing behaviors that are closer to a desired behavior than the current disposition.",
+    "answer": "Shaping",
     "acceptableAnswers": [
-      "1900s",
-      "1900's"
+      "Shaping"
     ]
   },
   {
     "id": 99,
     "type": "fitb",
-    "stem": "Humanistic learning theory connects the ability to learn with the fulfilment of other needs, building on Maslow's hierarchy of ___.",
-    "answer": "needs",
+    "stem": "___ involves gradually shifting from one stimulus to another that reflects a desired outcome.",
+    "answer": "Fading",
     "acceptableAnswers": [
-      "needs"
+      "Fading"
     ]
   },
   {
     "id": 100,
     "type": "fitb",
-    "stem": "According to Humanists, the ultimate goal of the learner is self-___.",
-    "answer": "actualization",
+    "stem": "Behavior ___ involves breaking down a complex task into its simplest steps to make the behavior more achievable.",
+    "answer": "chaining",
     "acceptableAnswers": [
-      "actualization",
-      "self-actualization"
+      "chaining",
+      "chains"
     ]
   }
 ]
