@@ -2,1120 +2,1116 @@
   {
     "id": 1,
     "type": "mcq",
-    "stem": "Evaluation of teaching and learning is BEST described as which of the following?",
+    "stem": "Theories of aging are grouped into which four broad categories?",
     "options": [
-      "The last phase of the teaching process, an ongoing appraisal of the patient's learning progress",
-      "A step that occurs only before teaching begins",
-      "A punitive measure with no relationship to learning outcomes",
-      "A process that has no bearing on instructional effectiveness"
+      "Stochastic, genetic, psychological, and sociological theories",
+      "Only biological and chemical theories",
+      "Only economic and political theories",
+      "Only nutritional and environmental theories"
     ],
     "answer": "A"
   },
   {
     "id": 2,
     "type": "mcq",
-    "stem": "Formative evaluation is used PRIMARILY to achieve which of the following?",
+    "stem": "Stochastic theories of aging are BEST described as being based on which assumption?",
     "options": [
-      "Monitor the learning progress of students or clients during the period of instruction and provide continuous feedback",
-      "Assign a final grade at the end of a course only",
-      "Determine promotion to the next higher class exclusively",
-      "Certify that a learner has met externally determined standards only"
+      "The cumulative effects of environmental assaults eventually become incompatible with life",
+      "Aging is entirely programmed by a single gene with no environmental influence",
+      "Aging results exclusively from social role changes",
+      "Aging is caused only by psychological adjustment to retirement"
     ],
     "answer": "A"
   },
   {
     "id": 3,
     "type": "mcq",
-    "stem": "Which characteristic BEST describes formative evaluation?",
+    "stem": "The somatic mutation theory, a stochastic theory of aging, holds that aging results MOST from which of the following?",
     "options": [
-      "It occurs frequently during the course of instruction and its results are made immediately known to learners",
-      "It occurs only once, at the very end of a course of instruction",
-      "It is judgmental in character and views evaluation as a product",
-      "It is used exclusively for promotion or certification purposes"
+      "Prolonged exposure to background radiation causing cell mutations that eventually lead to death",
+      "A genetically programmed decline in hormone secretion",
+      "A decline in self-actualization needs",
+      "A loss of social roles following retirement"
     ],
     "answer": "A"
   },
   {
     "id": 4,
     "type": "mcq",
-    "stem": "Which of the following is a recognized function of formative evaluation?",
+    "stem": "The error theory, a stochastic theory of aging, is based on the belief that aging results MOST from which of the following?",
     "options": [
-      "Diagnosing the most appropriate method or instructional materials conducive to learning",
-      "Assigning final grades at course completion",
-      "Selecting learners for further studies after course completion",
-      "Certifying that a learner meets previously determined external standards"
+      "Environmental changes that interfere with cell function and reproduction, causing errors that multiply in a geometric progression until cells are no longer viable",
+      "A single programmed genetic switch that activates at a fixed age",
+      "Social disengagement from society",
+      "A decline in satisfaction of interpersonal relationships"
     ],
     "answer": "A"
   },
   {
     "id": 5,
     "type": "mcq",
-    "stem": "The 'monitoring' function of formative evaluation is concerned MOST with which of the following?",
+    "stem": "The free radical theory of aging is based on the belief that aging is caused MOST by which of the following?",
     "options": [
-      "Keeping track of the day-to-day progress of learners and pointing out changes necessary in teaching strategies",
-      "Assigning a final course grade",
-      "Promoting a student to a higher class",
-      "Certifying achievement of predetermined standards"
+      "Damage caused by the action of free radicals, which are highly chemically reactive by-products of metabolism",
+      "A fixed genetic clock located exclusively in the hypothalamus",
+      "A decline in social roles and responsibilities",
+      "A conscious choice to withdraw from society"
     ],
     "answer": "A"
   },
   {
     "id": 6,
     "type": "mcq",
-    "stem": "The 'placement' function of formative evaluation is concerned MOST with which of the following?",
+    "stem": "According to the free radical theory, free radicals are normally destroyed by which of the following?",
     "options": [
-      "Finding out the position of an individual in the curriculum from which he has to start learning",
-      "Determining a final examination score",
-      "Selecting learners for further studies after a course",
-      "Diagnosing appropriate instructional materials only"
+      "Protective enzyme systems within the body",
+      "External antibiotic therapy alone",
+      "Deliberate caloric restriction only",
+      "Increased exposure to background radiation"
     ],
     "answer": "A"
   },
   {
     "id": 7,
     "type": "mcq",
-    "stem": "Summative evaluation is BEST described as which of the following?",
+    "stem": "Genetic theories of aging are based MOST on the assumption that aging is which of the following?",
     "options": [
-      "Evaluation done at the end of a course of instruction to ascertain the extent of accomplishment of set objectives",
-      "Evaluation done exclusively before instruction begins",
-      "A form of evaluation with no relationship to grading",
-      "A continuous process occurring only during instruction"
+      "A part of the developmental process with differences in that process genetically programmed from conception",
+      "Caused entirely by cumulative environmental assaults with no genetic component",
+      "Caused entirely by social role loss",
+      "A product of psychological adjustment with no biological basis"
     ],
     "answer": "A"
   },
   {
     "id": 8,
     "type": "mcq",
-    "stem": "Which characteristic BEST distinguishes summative evaluation from formative evaluation?",
+    "stem": "The neuroendocrine theory, a genetic theory of aging, holds that aging is the result of which of the following?",
     "options": [
-      "Summative evaluation is judgmental in character because its chief concern is to point out the level of attainment",
-      "Summative evaluation occurs frequently throughout instruction with immediate feedback",
-      "Summative evaluation cannot be based on standardized tests",
-      "Summative evaluation is never used for grading purposes"
+      "Functional decrements in neurons and their associated hormones",
+      "Random environmental radiation exposure",
+      "Social withdrawal from previously held roles",
+      "A decline in self-actualization needs"
     ],
     "answer": "A"
   },
   {
     "id": 9,
     "type": "mcq",
-    "stem": "Which of the following is an example of a summative evaluation activity?",
+    "stem": "The intrinsic mutagenesis theory, a genetic theory of aging, holds that each person has a genetic constitution that regulates which of the following?",
     "options": [
-      "End of term or semester examination",
-      "Daily observation of a return demonstration",
-      "A single question asked mid-lecture",
-      "A quick checklist used during a single teaching session"
+      "The replication of genetic materials, which over time creates mutations that result in the effects of aging",
+      "Only the color of a person's hair with no other effect",
+      "Only the rate of a person's social disengagement",
+      "Only psychological adjustment to retirement"
     ],
     "answer": "A"
   },
   {
     "id": 10,
     "type": "mcq",
-    "stem": "The 'crediting' function of summative evaluation is concerned MOST with which of the following?",
+    "stem": "The immunological theory, a genetic theory of aging, holds that aging is a function of which of the following?",
     "options": [
-      "Collecting evidence that a learner has achieved some instructional goals in contents with respect to a defined curricular programme",
-      "Determining the position of a learner in the curriculum before instruction begins",
-      "Monitoring day-to-day learner progress",
-      "Diagnosing instructional materials conducive to learning"
+      "Changes in the body's immune system as people age, as the body's immunological mechanisms perceive their own cells as foreign and destroy them",
+      "A purely psychological process of self-actualization",
+      "A decline in interpersonal trust during adolescence",
+      "A single fixed hormonal switch with no immune component"
     ],
     "answer": "A"
   },
   {
     "id": 11,
     "type": "mcq",
-    "stem": "The 'certifying' function of summative evaluation is concerned MOST with which of the following?",
+    "stem": "Among psychological theories of aging, the Jungian psychoanalytic theory regards aging MOST as which of the following?",
     "options": [
-      "Giving evidence that the learner is able to perform a job according to previously determined standards",
-      "Promoting a pupil to the next higher class",
-      "Selecting learners for further studies after completion of a course",
-      "Monitoring the day-to-day progress of a learner"
+      "A time of developing self-awareness through reflective activity",
+      "A time of complete social withdrawal with no reflective component",
+      "A time defined exclusively by hormonal decline",
+      "A time of increasing interpersonal insecurity with no self-awareness"
     ],
     "answer": "A"
   },
   {
     "id": 12,
     "type": "mcq",
-    "stem": "In client teaching, the teach-back method is BEST described as which of the following?",
+    "stem": "Harry-Stack Sullivan's interpersonal theory, a psychological theory of aging, is developmental in nature and involves which of the following?",
     "options": [
-      "Confirming the patient's understanding of the information the care provider has imparted by having the patient explain it back in their own words",
-      "A method that assumes patient understanding without verification",
-      "A written examination administered only at hospital discharge",
-      "A method used exclusively to assess a nurse's own teaching skill and never the patient's understanding"
+      "The development of satisfactory interpersonal relationships over time",
+      "The exclusive study of hormonal secretion patterns",
+      "A theory concerned only with genetic mutation rates",
+      "A theory concerned only with free radical accumulation"
     ],
     "answer": "A"
   },
   {
     "id": 13,
     "type": "mcq",
-    "stem": "If a patient has trouble explaining or recalling material during teach-back, which nursing action is MOST appropriate?",
+    "stem": "According to Harry-Stack Sullivan's interpersonal theory, the loss of these relationships over time is believed to result in which of the following?",
     "options": [
-      "Repeat, clarify, or modify the teaching and reassess the patient's understanding and recall, possibly over several cycles",
-      "Document that the patient understood and move on without further clarification",
-      "Discharge the patient regardless of comprehension",
-      "Avoid re-teaching because repetition confuses patients further"
+      "A loss of interpersonal security and the consequent psychological aspect of aging",
+      "An automatic increase in self-actualization",
+      "A decrease in chronic disease prevalence",
+      "An immediate reversal of biological aging"
     ],
     "answer": "A"
   },
   {
     "id": 14,
     "type": "mcq",
-    "stem": "Which of the following BEST reflects why the teach-back method 'is not a test' of the patient?",
+    "stem": "Abraham Maslow's human needs theory, as applied to psychological aging, suggests that the greatest difficulty in meeting basic needs correlates MOST with which of the following?",
     "options": [
-      "It re-enforces what was taught because the patient has to put the teaching into their own words, confirming the teacher's effectiveness rather than the patient's intelligence",
-      "It is designed to penalize patients who fail to recall information correctly",
-      "It assigns the patient a numerical grade for later reference",
-      "It replaces the need for any further nursing documentation"
+      "The greater impact on the individual as they age",
+      "A complete absence of impact regardless of age",
+      "An impact limited strictly to adolescence",
+      "An impact limited strictly to early adulthood"
     ],
     "answer": "A"
   },
   {
     "id": 15,
     "type": "mcq",
-    "stem": "The return demonstration method of evaluating client teaching is BEST described as which of the following?",
+    "stem": "Erik Erickson's theory of psychosocial development, applied to the aging adult, suggests that the degree of success experienced in accomplishing developmental tasks across which stages influences the accomplishment of the task of the older adult?",
     "options": [
-      "Having the patient perform the skill that the nurse taught, enabling the nurse to evaluate how well the patient follows the correct steps",
-      "Having the patient answer only written multiple-choice questions",
-      "Having the nurse perform the skill while the patient watches passively with no participation",
-      "A method used only for evaluating community-wide health campaigns"
+      "Stages 1 through 7",
+      "Only stage 1",
+      "Only stage 8",
+      "Stages 9 through 12"
     ],
     "answer": "A"
   },
   {
     "id": 16,
     "type": "mcq",
-    "stem": "Measurement of behavioral change as an outcome goal of client teaching evaluation is BEST illustrated by which of the following examples?",
+    "stem": "Sociological theories of aging focus MOST on which of the following?",
     "options": [
-      "A documented return of target blood glucose levels to normal over time as an indicator of successful diet teaching",
-      "A patient's self-reported satisfaction with the hospital food service",
-      "The number of pamphlets distributed to a patient",
-      "The length of time a teaching session lasted"
+      "The relationship at which individuals participate in their later years and adaptation to accepted social values",
+      "Exclusively the biochemical mechanisms of cellular aging",
+      "Exclusively the genetic mutation rate within cells",
+      "Exclusively the accumulation of free radicals in tissue"
     ],
     "answer": "A"
   },
   {
     "id": 17,
     "type": "mcq",
-    "stem": "Documentation of client/patient teaching is BEST described as which of the following?",
+    "stem": "The disengagement theory, a sociological theory of aging, proposes that aging is a developmental task that involves which of the following?",
     "options": [
-      "The manual or electronic recording of health education, the client's response, and the outcome of the teaching process",
-      "A verbal-only report given to the next shift with no written record",
-      "An optional step performed only if time permits",
-      "A record maintained exclusively by the patient's family"
+      "A process of withdrawal from society that permits the individual to enjoy old age and prepare for death without causing social disruption",
+      "Continued engagement with society at the same level as before",
+      "A process of continually acquiring new social roles",
+      "A rejection of all previously held personality traits"
     ],
     "answer": "A"
   },
   {
     "id": 18,
     "type": "mcq",
-    "stem": "Which of the following is a primary purpose of documenting patient teaching?",
+    "stem": "The continuity theory, a sociological theory of aging, posits that an individual's behavior over time MOST reflects which of the following?",
     "options": [
-      "Promoting communication about the patient's progress among all members of the health care team and maintaining continuity of care",
-      "Providing entertainment reading material for the patient",
-      "Replacing the need for verbal communication among staff entirely",
-      "Avoiding the need for any further patient teaching sessions"
+      "Continued engagement with society and the assumption of new roles and functions despite inability to engage with societal roles and functions",
+      "An abrupt and complete withdrawal from all social engagement",
+      "A total loss of personality traits acquired earlier in life",
+      "A fixed, unchanging behavior pattern from birth that requires no adaptation"
     ],
     "answer": "A"
   },
   {
     "id": 19,
     "type": "mcq",
-    "stem": "Which of the following pieces of information should a nurse include when documenting client teaching?",
+    "stem": "Which theory of aging holds that individuals change very little over time and that active, outgoing people when younger will behave in exactly the same way as they age?",
     "options": [
-      "Date and time of teaching, topic/content taught, and teaching method used",
-      "The patient's unrelated personal opinions about hospital food",
-      "The nurse's personal schedule for the following week",
-      "Only the patient's insurance information"
+      "Continuity theory",
+      "Disengagement theory",
+      "Activity theory",
+      "Age stratification theory"
     ],
     "answer": "A"
   },
   {
     "id": 20,
     "type": "mcq",
-    "stem": "Which of the following is a recommended guideline for HOW to document patient teaching?",
+    "stem": "The activity theory of aging holds that an older person, aware of certain failing skills, must make all the more effort to do which of the following?",
     "options": [
-      "Record the patient's name and include the time and date on all entries, and write legibly",
-      "Use pencil so entries can later be erased if needed",
-      "Record subjective personal bias about the patient",
-      "Leave entries unsigned to save time"
+      "Counter this deterioration by remaining active on others to maintain a sense of purpose and satisfaction",
+      "Withdraw completely from all social roles",
+      "Accept decline passively with no compensatory effort",
+      "Disengage from society to avoid social disruption"
     ],
     "answer": "A"
   },
   {
     "id": 21,
     "type": "mcq",
-    "stem": "Which of the following is a recommended guideline for documenting patient teaching accurately?",
+    "stem": "According to activity theory, what is said to be a sign of 'healthy ageing'?",
     "options": [
-      "Be accurate and truthful while discussing facts and events",
-      "Exaggerate outcomes to make the teaching appear more successful",
-      "Omit any details that reflect the patient's difficulty understanding",
-      "Record assumptions about the patient's future behavior with no evidence"
+      "Remaining active in a manner that is the opposite of the disengagement theory",
+      "Complete withdrawal from society",
+      "A fixed, unchanging personality with no compensatory activity",
+      "Total loss of personal roles with no replacement activity"
     ],
     "answer": "A"
   },
   {
     "id": 22,
     "type": "mcq",
-    "stem": "Community health education is BEST defined as which of the following?",
+    "stem": "The age stratification theory of aging focuses MOST on which of the following?",
     "options": [
-      "The process of teaching individuals and populations how to improve, maintain, and restore their health",
-      "A process limited strictly to hospital inpatients",
-      "A process that excludes consideration of lifestyle factors",
-      "A one-time lecture with no follow-up evaluation"
+      "The interdependence between older adults and society, and how aging is viewed by others",
+      "Exclusively the biochemical mechanisms of free radical accumulation",
+      "Exclusively genetic mutation rates in somatic cells",
+      "Exclusively hormone secretion from the pituitary gland"
     ],
     "answer": "A"
   },
   {
     "id": 23,
     "type": "mcq",
-    "stem": "A Community Health Education program is targeted MOST at positively influencing which of the following?",
+    "stem": "According to age stratification theory, it is society that determines which of the following?",
     "options": [
-      "The health behavior of individuals, families, and groups in the communities",
-      "Only the health behavior of hospital employees",
-      "Only the profitability of local pharmacies",
-      "Only the architectural design of clinics"
+      "Whether one is considered elderly or not, based on productivity used to define a person's age",
+      "The exact biochemical rate of free radical accumulation",
+      "The precise genetic mutation rate within an individual's cells",
+      "The exact hormonal decline curve of the neuroendocrine system"
     ],
     "answer": "A"
   },
   {
     "id": 24,
     "type": "mcq",
-    "stem": "Which of the following is the FIRST step in the community health education process?",
+    "stem": "Which myth/misconception about older adults is dispelled by the fact that aging affects each individual differently, with some playing golf and driving at age 85 while others do not?",
     "options": [
-      "Assessment",
-      "Diagnosis",
-      "Planning",
-      "Evaluation"
+      "Chronologic age determines oldness and aging is a uniform process",
+      "Old age is a time of tranquility and decreased resources",
+      "Older adults cannot live independently",
+      "Older adults are resistant to change"
     ],
     "answer": "A"
   },
   {
     "id": 25,
     "type": "mcq",
-    "stem": "During the assessment step of community health education, the nurse should do which of the following?",
+    "stem": "Which myth/misconception about older adults is dispelled by evidence that most elderly retain mental faculties well beyond the ninth decade of life, with cognitive deficits typically caused by specific physical health risk factors rather than age alone?",
     "options": [
-      "Collect data on the community's demographics, health status, and resources",
-      "Design the program layout and timelines exclusively",
-      "Deliver the educational program using verbal communication only",
-      "Measure whether the community met the set objectives"
+      "Most elderly persons have diminished intellectual capacity or are senile",
+      "Older adults cannot live independently",
+      "Old age is a time of tranquility",
+      "Chronologic age determines oldness"
     ],
     "answer": "A"
   },
   {
     "id": 26,
     "type": "mcq",
-    "stem": "During the diagnosis step of community health education, the nurse should do which of the following?",
+    "stem": "Senility, a term widely used to denote deteriorating mental faculties associated with old age, is affected by what percentage of people aged 65 years?",
     "options": [
-      "Analyze the collected data to pinpoint specific community health problems",
-      "Distribute educational materials to community members",
-      "Gather data on community demographics for the first time",
-      "Revise future teaching sessions based on program results"
+      "Less than 1%",
+      "50%",
+      "75%",
+      "100%"
     ],
     "answer": "A"
   },
   {
     "id": 27,
     "type": "mcq",
-    "stem": "During the planning step of community health education, the nurse should do which of the following?",
+    "stem": "Which of the following is cited as a treatable cause of cognitive impairment or dementia-like symptoms in older adults, according to the notes?",
     "options": [
-      "Establish clear, measurable short-term and long-term learning objectives",
-      "Analyze collected data to identify community health problems for the first time",
-      "Deliver the educational program to the community",
-      "Gather feedback from community members after program delivery"
+      "Drug toxicity, metabolic disorders, depression, or hyperthyroidism",
+      "An irreversible fixed genetic mutation with no treatable component",
+      "A permanent and untreatable decline in crystallized intelligence",
+      "An untreatable decline in vocabulary and judgement"
     ],
     "answer": "A"
   },
   {
     "id": 28,
     "type": "mcq",
-    "stem": "During the implementation step of community health education, the nurse should do which of the following?",
+    "stem": "According to research cited in the notes, which type of intelligence or ability is reported to actually IMPROVE with age?",
     "options": [
-      "Deliver the educational program using clear verbal and non-verbal communication and encourage active participation",
-      "Collect demographic data on the community for the first time",
-      "Formulate community nursing diagnoses for the first time",
-      "Revise the program timeline before any data collection"
+      "Wisdom, judgement, vocabulary, creativity, common sense, coordination of facts and ideas, and breadth of knowledge and experiences",
+      "Reaction time speed",
+      "Short-term memory for novel information only",
+      "Visual acuity for fine print"
     ],
     "answer": "A"
   },
   {
     "id": 29,
     "type": "mcq",
-    "stem": "During the evaluation step of community health education, the nurse should do which of the following?",
+    "stem": "Which myth/misconception about older adults is dispelled by evidence that healthy older people usually remain productive, active, and involved rather than disengaging or isolating themselves?",
     "options": [
-      "Measure whether the community met the set objectives and gained knowledge",
-      "Collect initial demographic data on the community",
-      "Formulate nursing diagnoses that target knowledge deficits",
-      "Design the program layout and assign responsibilities for the first time"
+      "Older adults cannot be productive or active",
+      "Old age is defined purely by chronologic age",
+      "Senility affects 100% of people above age 65",
+      "Older adults are universally resistant to change"
     ],
     "answer": "A"
   },
   {
     "id": 30,
     "type": "mcq",
-    "stem": "Which of the following is a teaching method commonly utilized in community health education?",
+    "stem": "Which myth/misconception about older adults is addressed by the observation that many are forced to retire at a specific age despite continued productivity, and continue contributing through volunteer or artistic endeavors?",
     "options": [
-      "Health talks, group discussion, demonstration, role play, and drama",
-      "Only individual bedside teaching with no group methods",
-      "Exclusively written multiple-choice examinations",
-      "Only computer-based instruction with no in-person contact"
+      "Older adults cannot be productive or active",
+      "Chronologic age determines oldness uniformly for all individuals",
+      "Senility is an inevitable and universal consequence of aging",
+      "Most older adults are resistant to change"
     ],
     "answer": "A"
   },
   {
     "id": 31,
     "type": "mcq",
-    "stem": "Group teaching in nursing education is BEST described as which of the following?",
+    "stem": "Which myth/misconception about older adults is dispelled by the observation that resistance to change tends to be a lifelong, relative personality characteristic rather than a trait acquired specifically in old age?",
     "options": [
-      "An instructional approach that involves learners working together in groups of 5 to 10 and increases student retention, teamwork ability, communication skills, and peer-peer interaction",
-      "A method restricted to individual, one-on-one instruction only",
-      "A method that discourages any peer interaction",
-      "A method used exclusively for summative testing"
+      "All older adults are resistant to change",
+      "Chronologic age determines oldness",
+      "Senility affects most elderly people",
+      "Older adults cannot live independently"
     ],
     "answer": "A"
   },
   {
     "id": 32,
     "type": "mcq",
-    "stem": "The model of group teaching commonly referenced in nursing education, developed to establish small group teaching sessions, is associated with which name?",
+    "stem": "According to the notes, approximately what percentage of older adults live independently in the community, outside formal facilities?",
     "options": [
-      "Tuckman's model",
-      "Maslow's model",
-      "Piaget's model",
-      "Thorndike's model"
+      "94%",
+      "50%",
+      "25%",
+      "6%"
     ],
     "answer": "A"
   },
   {
     "id": 33,
     "type": "mcq",
-    "stem": "In Tuckman's group development model, the 'Forming' stage is BEST characterized by which of the following?",
+    "stem": "According to the notes, approximately what percentage of older adults live in institutions such as nursing homes or extended care facilities?",
     "options": [
-      "Members of the team know each other, exchange information, and understand how they respond",
-      "Identification of the topic or problem to be solved",
-      "Institution of specific aims, objectives, and a mutual plan",
-      "The team functions to implement the plan"
+      "6%",
+      "50%",
+      "75%",
+      "94%"
     ],
     "answer": "A"
   },
   {
     "id": 34,
     "type": "mcq",
-    "stem": "In Tuckman's group development model, the 'Storming' stage is BEST characterized by which of the following?",
+    "stem": "Which physical characteristic of old age is described as marked by 'thinning and shrinkage,' resulting in a loss of height of about two inches by age 80?",
     "options": [
-      "Identification of the topic or problem to be solved",
-      "Members getting to know each other for the first time",
-      "The team functioning to implement an agreed plan",
-      "Institution of specific aims and a mutual plan"
+      "Bone and joint changes",
+      "Digestive system changes",
+      "Eyesight changes",
+      "Voice changes"
     ],
     "answer": "A"
   },
   {
     "id": 35,
     "type": "mcq",
-    "stem": "In Tuckman's group development model, the 'Norming' stage is BEST characterized by which of the following?",
+    "stem": "Which chronic condition related to bone and joint changes is commonly associated with a stooping posture and greater susceptibility to home and joint diseases in older adults?",
     "options": [
-      "Institution of specific aims, objectives, and a mutual plan",
-      "Members getting to know each other for the first time",
-      "Identification of the topic or problem to be solved",
-      "The team functioning to implement the plan"
+      "Osteoarthritis and osteoporosis",
+      "Presbyopia and cataracts",
+      "Chronic mucus hypersecretion",
+      "Dysphagia and constipation"
     ],
     "answer": "A"
   },
   {
     "id": 36,
     "type": "mcq",
-    "stem": "In Tuckman's group development model, the 'Performing' stage is BEST characterized by which of the following?",
+    "stem": "Chronic mucus hypersecretion (CMH) in older adults is defined MOST as which of the following?",
     "options": [
-      "The team functions to implement the plan",
-      "Members getting to know each other for the first time",
-      "Identification of the topic or problem to be solved",
-      "Institution of specific aims and objectives only"
+      "Coughing and bringing up sputum, a common respiratory symptom in elderly persons",
+      "A disorder exclusively of the digestive system",
+      "A disorder exclusively of the reproductive system",
+      "A disorder exclusively affecting the eyes"
     ],
     "answer": "A"
   },
   {
     "id": 37,
     "type": "mcq",
-    "stem": "Which of the following is a recognized advantage of group teaching?",
+    "stem": "Dental problems in older adults MOST increase the chance of which of the following?",
     "options": [
-      "It facilitates sharing of knowledge and skills and provides opportunity for exchange of information",
-      "It guarantees equal participation from every member with no risk of imbalance",
-      "It eliminates the need for a facilitator entirely",
-      "It removes any possibility of conflict among members"
+      "Tooth decay and infection due to less saliva and reduced ability for oral hygiene",
+      "Improved digestion with no complications",
+      "Enhanced sense of taste with no complications",
+      "Reduced risk of falls"
     ],
     "answer": "A"
   },
   {
     "id": 38,
     "type": "mcq",
-    "stem": "Which of the following is a recognized disadvantage of group teaching?",
+    "stem": "Which digestive system change is commonly noted in old age, marked by difficulty in swallowing and inability to eat enough?",
     "options": [
-      "There may be unequal support from the instructor and conflict over roles and responsibilities may arise",
-      "It always produces perfectly equal participation among all members",
-      "It requires no debriefing or evaluation at the end of the session",
-      "It guarantees improved outcomes with no risk of unequal participation"
+      "Difficulty in swallowing, inability to eat enough, constipation, and bloating",
+      "Improved absorption of all nutrients with age",
+      "Enhanced salivation with age",
+      "A complete absence of any digestive change"
     ],
     "answer": "A"
   },
   {
     "id": 39,
     "type": "mcq",
-    "stem": "The problem-solving method of teaching is BEST described as which of the following?",
+    "stem": "Presbyopia, an eyesight change common in old age, is marked MOST by which of the following?",
     "options": [
-      "A learner-centered approach in which students are presented with real-world problems and encouraged to use their own knowledge and skills to come up with solutions",
-      "A method in which the teacher provides the only correct answer with no learner input",
-      "A method that discourages critical thinking",
-      "A method used exclusively for summative examinations"
+      "Difficulty in reading especially small print in low lighting and difficulty locating objects also impaired by age 80",
+      "Improved near vision with age",
+      "Enhanced night vision with age",
+      "A complete absence of visual change with age"
     ],
     "answer": "A"
   },
   {
     "id": 40,
     "type": "mcq",
-    "stem": "Which of the following is a recognized benefit of the problem-solving method of teaching?",
+    "stem": "Older adults are at increased risk of injury from falls MOST because of which of the following?",
     "options": [
-      "It enhances critical thinking by forcing students to think critically about a situation and come up with their own solutions",
-      "It removes any need for creativity",
-      "It discourages real-world application of knowledge",
-      "It guarantees a single correct answer for every problem presented"
+      "Falls that might not cause injury to a younger person can cause injury to older people and are a leading cause of injury and death",
+      "Falls affect only younger populations and spare the elderly entirely",
+      "Falls in old age never result in fracture or death",
+      "Falls are unrelated to bone and joint changes in old age"
     ],
     "answer": "A"
   },
   {
     "id": 41,
     "type": "mcq",
-    "stem": "Which of the following BEST describes how the problem-solving method fosters creativity?",
+    "stem": "Voice changes in old age are marked MOST by which of the following?",
     "options": [
-      "There is often no one right answer, so students are free to come up with unique solutions",
-      "It requires students to memorize a single fixed solution",
-      "It eliminates the need for critical thinking entirely",
-      "It restricts students to only one predetermined method of solving a problem"
+      "Vocal cords weakening and vibrating more slowly, resulting in a breathy voice sometimes called 'old person's voice'",
+      "An increase in vocal pitch with no change in breathiness",
+      "Complete loss of the ability to vocalize at any age over 65",
+      "An unrelated change confined only to younger populations"
     ],
     "answer": "A"
   },
   {
     "id": 42,
     "type": "mcq",
-    "stem": "Which of the following is the FIRST step in the problem-solving method of teaching?",
+    "stem": "According to Cox, Abramson, Devine, and Hollon (2012), which factor is cited as a risk factor for depression among older people when internalized?",
     "options": [
-      "Identifying the problem",
-      "Generating possible solutions",
-      "Implementing the solution",
-      "Evaluating the results"
+      "Prejudice from others, known as 'anti-elderly prejudice,' turning inward and causing depression",
+      "A lack of any social contact whatsoever",
+      "Exclusively genetic mutation of neurons",
+      "Exclusively free radical accumulation in the brain"
     ],
     "answer": "A"
   },
   {
     "id": 43,
     "type": "mcq",
-    "stem": "During the 'understanding the problem' step of the problem-solving method, students should do which of the following?",
+    "stem": "Old age depression is associated with which notable statistic regarding suicide, according to the notes?",
     "options": [
-      "Break the problem down into smaller parts and gather more information about the problem",
-      "Immediately implement a solution with no analysis",
-      "Skip directly to evaluating results",
-      "Avoid gathering any additional information"
+      "The over-65 population has the highest suicide rate among age groups",
+      "The over-65 population has the lowest suicide rate among all age groups",
+      "Suicide rates are identical across all age groups with no variation",
+      "Suicide risk decreases to zero after retirement"
     ],
     "answer": "A"
   },
   {
     "id": 44,
     "type": "mcq",
-    "stem": "During the 'generating possible solutions' step of the problem-solving method, students may use which of the following techniques?",
+    "stem": "The 'slowness behavior' described in old age refers MOST to which of the following?",
     "options": [
-      "Brainstorming or problem-solving techniques such as root cause analysis or the decision matrix",
-      "Immediate implementation with no solution generation",
-      "Skipping directly to evaluation with no plan developed",
-      "Avoiding any analysis of the problem"
+      "A correlation between advancing age and slowness of reaction and physical and mental task performance",
+      "An increase in reaction speed with advancing age",
+      "A phenomenon unrelated to physical or mental task performance",
+      "A decrease in age correlating with increased slowness"
     ],
     "answer": "A"
   },
   {
     "id": 45,
     "type": "mcq",
-    "stem": "If a chosen solution is not successful during the problem-solving method of teaching, students should do which of the following?",
+    "stem": "Psychological ageing refers MOST to which of the following?",
     "options": [
-      "Go back to step 3 (generating possible solutions) and develop new solutions",
-      "Abandon the problem entirely with no further attempt",
-      "Immediately conclude that the method has failed permanently",
-      "Repeat the exact same unsuccessful solution without modification"
+      "Behavior changes, alteration in self-perception, and reactions to the biological changes of the body over time, giving rise to the concept of 'youth at heart'",
+      "Exclusively the biochemical process of cellular senescence",
+      "Exclusively the social roles assigned to an individual by society",
+      "Exclusively the chronological number of years a person has lived"
     ],
     "answer": "A"
   },
   {
     "id": 46,
     "type": "mcq",
-    "stem": "Behavior modification instructional method is BEST described as which of the following?",
+    "stem": "Sociological ageing refers MOST to which of the following?",
     "options": [
-      "An approach that tries to change the pattern of human behavior by using various motivated techniques such as reinforcement, extinction, fading, shaping, and chaining",
-      "A method that relies exclusively on lecture with no behavioral techniques",
-      "A method that has no basis in behavioral research",
-      "A method used only in classroom settings with no clinical application"
+      "The roles and social habits of the individual in society, closely related to functional ageing",
+      "Exclusively the biochemical process of free radical accumulation",
+      "Exclusively the number of chromosomes within a cell",
+      "Exclusively the pattern of hormone secretion from the pituitary gland"
     ],
     "answer": "A"
   },
   {
     "id": 47,
     "type": "mcq",
-    "stem": "Which of the following BEST defines reinforcement in behavior modification?",
+    "stem": "Senescence, as defined in the notes, is BEST described as which of the following?",
     "options": [
-      "Anything that increases the likelihood that a learner will repeat a behavior",
-      "Anything that decreases the likelihood a behavior will occur again",
-      "The complete removal of a behavior from the learner's repertoire",
-      "A punishment applied to discourage a behavior"
+      "A process of aging and a multidimensional process of physical, psychological, and social change",
+      "A fixed event that occurs only at a specific birthday",
+      "A process confined strictly to the reproductive system",
+      "A term synonymous exclusively with chronological age"
     ],
     "answer": "A"
   },
   {
     "id": 48,
     "type": "mcq",
-    "stem": "Which of the following is the BEST example of reinforcement decreasing the chance an action or behavior will be repeated, according to behaviorist principles?",
+    "stem": "Biological ageing refers MOST to which of the following?",
     "options": [
-      "If the consequences of an action or behavior are unfavorable",
-      "If the consequences of an action or behavior are favorable",
-      "If the behavior is ignored entirely with no consequence",
-      "If the behavior is paired with an unrelated neutral stimulus"
+      "Changes to structures and functions of the body that occur over the life span due to biological activities of the cells, tissues, and organs",
+      "Exclusively the social roles assigned to an individual",
+      "Exclusively the number of years since birth with no biological component",
+      "Exclusively the psychological reaction to retirement"
     ],
     "answer": "A"
   },
   {
     "id": 49,
     "type": "mcq",
-    "stem": "Extinction in behavior modification is BEST described as which of the following?",
+    "stem": "Functional ageing refers MOST to which of the following?",
     "options": [
-      "A behavior becomes extinct when a stimulus or reinforcer is removed",
-      "A behavior that is strengthened through repeated reinforcement",
-      "A behavior that occurs only once and is never repeated regardless of consequence",
-      "A behavior that is punished harshly to increase its frequency"
+      "The capacities of an individual to function in society compared with others of the same age",
+      "Exclusively the number of chromosomes within a cell",
+      "Exclusively the accumulation of free radicals in tissue",
+      "Exclusively the genetic mutation rate of somatic cells"
     ],
     "answer": "A"
   },
   {
     "id": 50,
     "type": "mcq",
-    "stem": "Which of the following is the BEST clinical example of extinction as described in behavior modification?",
+    "stem": "In developed nations, the chronological age most commonly cited as roughly equivalent to retirement age and the beginning of old age is which of the following?",
     "options": [
-      "A hysteric patient who was accustomed to getting a bottle of soft drink if he discovers the giver stopped providing it and no longer displays vomiting to obtain a soft drink, the behavior eventually becomes extinct",
-      "A patient who receives verbal praise every time sterile technique is performed correctly and repeats the behavior more often",
-      "A child who is gradually reinforced with small steps toward walking independently",
-      "A patient who follows several stages of wound dressing taught in sequence"
+      "60 or 65 years",
+      "25 years",
+      "35 years",
+      "45 years"
     ],
     "answer": "A"
   },
   {
     "id": 51,
     "type": "mcq",
-    "stem": "Shaping in behavior modification is BEST described as which of the following?",
+    "stem": "Chronological ageing is BEST described as which of the following?",
     "options": [
-      "Reinforcing behaviors that are closer to a desired behavior than the current disposition",
-      "Removing all reinforcement to eliminate a behavior entirely",
-      "Teaching an entire complex task in a single step with no incremental reinforcement",
-      "Punishing every attempt until the desired behavior spontaneously appears"
+      "How old a person is, referring to the actual amount of time a person has been alive, regardless of how healthy a lifestyle they lead",
+      "A measure exclusively of psychological adjustment",
+      "A measure exclusively of social role change",
+      "A measure exclusively of free radical accumulation"
     ],
     "answer": "A"
   },
   {
     "id": 52,
     "type": "mcq",
-    "stem": "Which of the following is the BEST clinical example of shaping in behavior modification?",
+    "stem": "Universal ageing, a distinction in ageing, refers MOST to which of the following?",
     "options": [
-      "A child learning to walk is reinforced through several stages such as sitting, crowing, standing, and walking, with the parent reinforcing each new step",
-      "A patient stops vomiting once a reinforcing soft drink is withdrawn",
-      "A parent rewards a child with money for good grades and later replaces the reward with praise",
-      "Gathering equipment and skin preparation are taught separately before the main procedure"
+      "Age change that all people share",
+      "Age change experienced only by a subset of the population, such as those with a specific disease",
+      "A localized age-based effect that comes from the recent past",
+      "An age-based difference traced back to a cause early in a person's life"
     ],
     "answer": "A"
   },
   {
     "id": 53,
     "type": "mcq",
-    "stem": "Fading, as a behavior modification technique, is BEST described as which of the following?",
+    "stem": "Probabilistic ageing, a distinction in ageing, refers MOST to which of the following?",
     "options": [
-      "Gradually shifting from one stimulus to another, such as replacing an old stimulus with a new one that reflects a desired outcome",
-      "Immediately withdrawing all forms of reinforcement with no gradual transition",
-      "Punishing a behavior repeatedly until it disappears entirely",
-      "Teaching an entire behavior chain in a single uninterrupted step"
+      "Age changes that may happen to some, but not all people as they grow older, such as the onset of type two diabetes",
+      "Age change that all people share with no exception",
+      "The actual amount of time a person has been alive with no variability",
+      "An age-based difference traced back to childhood poliomyelitis"
     ],
     "answer": "A"
   },
   {
     "id": 54,
     "type": "mcq",
-    "stem": "Which of the following is the BEST clinical example of fading in behavior modification?",
+    "stem": "Proximal ageing, a distinction in ageing, refers MOST to which of the following?",
     "options": [
-      "A parent rewards a child's good grades with money and gradually seeks to find a more sustainable stimulus, such as praise, to replace the money",
-      "A patient's vomiting behavior becomes extinct once the reinforcing drink is withdrawn",
-      "A child is reinforced through the stages of sitting, crawling, and walking",
-      "A complex behavior is broken down into simplest steps for easier achievement"
+      "Age-based effects that come from a recent cause",
+      "Age-based effects that come from a cause early in a person's life, such as childhood poliomyelitis",
+      "Age change shared universally by all people",
+      "The actual chronological number of years since birth"
     ],
     "answer": "A"
   },
   {
     "id": 55,
     "type": "mcq",
-    "stem": "Behavior chaining, as a behavior modification technique, is BEST described as which of the following?",
+    "stem": "Distal ageing, a distinction in ageing, refers MOST to which of the following?",
     "options": [
-      "Breaking down a complex task into its simplest steps to make the behavior more consistently achievable",
-      "Removing a behavior from a learner's repertoire entirely with no incremental steps",
-      "Reinforcing every step of a task identically with no sequential structure",
-      "Gradually replacing one stimulus with another unrelated stimulus"
+      "Age-based difference that can be traced back to a cause early in a person's life, such as childhood poliomyelitis",
+      "Age-based effects that come from a recent cause only",
+      "Age change shared universally with no individual variation",
+      "A measure exclusively of chronological years since birth"
     ],
     "answer": "A"
   },
   {
     "id": 56,
     "type": "mcq",
-    "stem": "Which of the following is the BEST clinical example of behavior chaining in nursing education?",
+    "stem": "Which of the following is listed as a genetic factor affecting the process of ageing?",
     "options": [
-      "Activities involved in teaching insulin administration, such as gathering equipment and skin preparation, are taught separately and followed by the main procedure",
-      "A hysteric patient's vomiting behavior becomes extinct after a reinforcing drink is withdrawn",
-      "A parent replaces a monetary reward with verbal praise for good grades",
-      "A child is reinforced through successive approximations of walking"
+      "Gene variations affecting telomere length, with shorter telomeres associated with earlier cellular senescence",
+      "Only the climate of the region a person lives in",
+      "Only the type of job a person holds",
+      "Only the frequency of medical check-ups"
     ],
     "answer": "A"
   },
   {
     "id": 57,
     "type": "mcq",
-    "stem": "Trans-cultural teaching is a style of teaching that aims MOST to achieve which of the following?",
+    "stem": "Telomeres, cited in the notes as biological timers related to the genetic factor of ageing, are located MOST where within the cell?",
     "options": [
-      "Engaging learners from different cultures and knowledge traditions in a way that respects differences, acknowledges a common goal, and seeks to co-create new knowledge",
-      "Ignoring cultural differences entirely to maintain a single standardized approach",
-      "Excluding learners whose culture differs from the teacher's own background",
-      "Focusing exclusively on the teacher's own cultural traditions with no learner input"
+      "In the nucleus of each cell, at the fourth pair of the twenty-three pairs of human chromosomes",
+      "Exclusively within the mitochondria with no nuclear component",
+      "Exclusively within the cell membrane",
+      "Exclusively within the Golgi apparatus"
     ],
     "answer": "A"
   },
   {
     "id": 58,
     "type": "mcq",
-    "stem": "Which of the following is a recognized element of a culturally inclusive teaching plan?",
+    "stem": "According to the notes, people with shorter telomeres are at risk of which of the following?",
     "options": [
-      "Gather demographic information on students' or clients' background and language spoken",
-      "Avoid any acknowledgment of a student's cultural background",
-      "Exclude cultural traditions or holidays from classroom activities entirely",
-      "Assume the teacher's own personal biases are universally shared"
+      "Early ageing, because their telomeres diminish more quickly or because they were born with a shorter version of these genes",
+      "Delayed ageing with no increased cellular senescence risk",
+      "No change whatsoever in cellular senescence",
+      "An automatic increase in lifespan regardless of telomere length"
     ],
     "answer": "A"
   },
   {
     "id": 59,
     "type": "mcq",
-    "stem": "Culturally responsive teaching attempts to bridge the gap between teacher and student by helping the teacher understand which of the following?",
+    "stem": "Which of the following is listed as a non-genetic factor affecting the process of ageing?",
     "options": [
-      "Cultural differences that may cause a relationship to break down which ultimately affects student achievement",
-      "Only the teacher's own personal preferences",
-      "The financial background of the institution with no reference to the learner",
-      "Standardized test scores exclusively"
+      "Family background, life style, nature of job, and environment",
+      "Exclusively the length of telomeres within chromosomes",
+      "Exclusively the presence of gene variations",
+      "Exclusively biological timers within the nucleus"
     ],
     "answer": "A"
   },
   {
     "id": 60,
     "type": "mcq",
-    "stem": "Computer-assisted instruction (CAI) is BEST defined as which of the following?",
+    "stem": "According to the notes, a nonstop pregnancy-lactation cycle, cited under fertility process as a factor affecting ageing, is believed to do which of the following?",
     "options": [
-      "Any teaching-learning activity or remediation presented on a computer to enhance student understanding or facilitate learning and improve instructional qualities",
-      "A method that requires no computer or digital device whatsoever",
-      "A method used exclusively for grading with no instructional content",
-      "A method restricted only to community health settings"
+      "Deprive the woman of nutritional reserve necessary for healthy living",
+      "Enhance nutritional reserve with no depletion whatsoever",
+      "Have no bearing whatsoever on a woman's ageing process",
+      "Exclusively affect bone density with no effect on nutritional reserve"
     ],
     "answer": "A"
   },
   {
     "id": 61,
     "type": "mcq",
-    "stem": "Which of the following is a characteristic of an effective teacher?",
+    "stem": "According to the notes, early termination of menstruation through removal of the ovaries via total abdominal hysterectomy leads MOST to which of the following?",
     "options": [
-      "Having adequate skills about the teaching/learning process and broad knowledge of the content of the curriculum",
-      "Frequently losing temper in class to maintain discipline",
-      "Avoiding the use of any board or teaching aids",
-      "Maintaining a distant, unfriendly relationship with learners"
+      "Premature menopause and therefore hastens the ageing process due to lack of or insufficient hormones to support oestrogen",
+      "Delayed menopause with no hormonal consequence",
+      "An automatic increase in oestrogen production",
+      "No change whatsoever in the ageing process"
     ],
     "answer": "A"
   },
   {
     "id": 62,
     "type": "mcq",
-    "stem": "Which of the following BEST reflects a recognized rule for teaching a lesson effectively?",
+    "stem": "Poor personal and environmental hygiene, cited as a factor affecting the ageing process, includes which of the following examples?",
     "options": [
-      "Teaching a lesson proceeds from the known to the unknown and from the simple to the complex",
-      "Teaching a lesson should proceed from the unfamiliar to the familiar with no prior grounding",
-      "Teaching a lesson should proceed from abstract to concrete exclusively with no concrete grounding",
-      "Teaching a lesson should proceed from complex to simple exclusively"
+      "Irregular bathing, improper care of the teeth, drinking unclean water, and leaving a dirty home environment",
+      "Regular bathing with clean water only",
+      "Routine dental cleaning with no adverse effect",
+      "A spotless home environment with no adverse effect"
     ],
     "answer": "A"
   },
   {
     "id": 63,
     "type": "mcq",
-    "stem": "Which of the following BEST reflects the 'whole to parts' rule of teaching?",
+    "stem": "Lack of exercise, cited as a factor affecting the ageing process, is believed to affect ageing MOST by which of the following mechanisms?",
     "options": [
-      "Presenting an overview before details",
-      "Presenting details before any overview is given",
-      "Presenting only isolated facts with no overview at all",
-      "Avoiding any structured sequence in a lesson"
+      "Regular exercise keeps the body active, aids nerve excitation, and keeps joints free from stiffness",
+      "Exercise has no bearing whatsoever on joint stiffness",
+      "Exercise exclusively affects dental health with no joint benefit",
+      "Exercise accelerates joint stiffness regardless of frequency"
     ],
     "answer": "A"
   },
   {
     "id": 64,
     "type": "mcq",
-    "stem": "Which of the following BEST reflects the 'concrete to abstract' rule of teaching?",
+    "stem": "Which of the following is listed among the ways to gracefully age, according to the notes?",
     "options": [
-      "Beginning instruction with tangible examples before introducing abstract concepts",
-      "Beginning instruction with abstract theory before any concrete example",
-      "Avoiding concrete examples entirely throughout instruction",
-      "Presenting abstract and concrete content in no particular order"
+      "Adoption of healthy lifestyles, good habit formation, regular exercise, and a balanced diet",
+      "Complete avoidance of all physical activity",
+      "Irregular medical check-ups with no adverse consequence",
+      "Poor habit formation with no adverse consequence"
     ],
     "answer": "A"
   },
   {
     "id": 65,
     "type": "mcq",
-    "stem": "Which of the following factors is recognized as affecting the teaching and learning process?",
+    "stem": "Which of the following statements BEST reflects how socially constructed meanings of old age vary across developing nations, according to the notes?",
     "options": [
-      "Maturity, age, motivation, previous learning, intelligence, mental health, physical need, diet and nutrition, and attention and interest",
-      "Only the color of the classroom walls",
-      "Only the brand of writing materials used",
-      "Only the time of day with no other contributing factor"
+      "In many parts of the developing world, chronological time plays little or no importance in the meaning of old age, with roles and physical decline playing a more significant part",
+      "Chronological age plays an identical role in defining old age in every developing nation with no variation",
+      "Old age is defined purely by retirement age in every society without exception",
+      "Old age has no social construction whatsoever in any society"
     ],
     "answer": "A"
   },
   {
     "id": 66,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A nurse teaches a patient about insulin self-injection, then asks the patient to explain the procedure back in their own words. The patient describes the steps but omits checking the expiration date. The nurse re-explains this single point and asks the patient to repeat the explanation again. Which evaluation method is being used, and is this method a test of the patient?",
+    "stem": "CASE SCENARIO: An 82-year-old client who was a reserved, solitary person throughout adulthood continues to prefer quiet solitary activities in the nursing home and shows no interest in group events, which she also avoided decades earlier. Which theory of aging BEST explains this client's stable pattern of behavior over time?",
     "options": [
-      "Teach-back method; it is not a test of the patient but a check of the effectiveness of the teaching",
-      "Return demonstration method; it is a graded test of the patient's manual dexterity",
-      "Summative evaluation; it assigns the patient a final course grade",
-      "Formative evaluation; it is used only for placement purposes"
+      "Continuity theory",
+      "Disengagement theory",
+      "Activity theory",
+      "Age stratification theory"
     ],
     "answer": "A"
   },
   {
     "id": 67,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A community health nurse collects demographic data, health status information, and identifies learning gaps in a rural community, then prioritizes health problems based on urgency and severity before designing an educational program with clear objectives. Which two steps of the community health education process are being demonstrated in this sequence?",
+    "stem": "CASE SCENARIO: A 78-year-old retired teacher, aware that his short-term memory is not as sharp as before, deliberately joins a community book club, volunteers twice weekly, and maintains an active social calendar to compensate and remain fulfilled. Which theory of aging is MOST clearly being demonstrated?",
     "options": [
-      "Assessment followed by diagnosis",
-      "Implementation followed by evaluation",
-      "Evaluation followed by assessment",
-      "Diagnosis followed by assessment"
+      "Activity theory",
+      "Disengagement theory",
+      "Age stratification theory",
+      "Somatic mutation theory"
     ],
     "answer": "A"
   },
   {
     "id": 68,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A hysteric client was accustomed to receiving a bottle of soft drink whenever she vomited. Once her family stops giving her the drink in response to vomiting, the vomiting behavior gradually stops occurring. Which behavior modification principle is BEST demonstrated?",
+    "stem": "CASE SCENARIO: A 70-year-old woman had a total abdominal hysterectomy with removal of both ovaries at age 40 due to a gynecological condition, and her family notes that she appears to have developed osteoporosis and other signs of aging earlier than her peers. Which factor affecting the ageing process BEST explains this client's accelerated changes?",
     "options": [
-      "Extinction, because removal of the reinforcer caused the behavior to stop",
-      "Shaping, because the behavior was reinforced in successive steps",
-      "Fading, because one stimulus was gradually replaced by another",
-      "Chaining, because a complex task was broken into simple steps"
+      "Early termination of menstruation leading to premature menopause and insufficient oestrogen",
+      "A purely genetic telomere-length effect unrelated to her surgical history",
+      "An unrelated effect of chronic mucus hypersecretion",
+      "An unrelated effect of chronic joint disease"
     ],
     "answer": "A"
   },
   {
     "id": 69,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A nurse educator organizes a class of 40 nursing students into groups of 8 to discuss a complex case study. Initially the group members introduce themselves and exchange background information, then disagreements arise over which approach to the case is correct, followed eventually by the group agreeing on a shared plan and completing the assignment together. Which of Tuckman's stages have been demonstrated, in order?",
+    "stem": "CASE SCENARIO: A community health nurse is asked to explain why two 70-year-old clients from the same neighborhood appear markedly different in physical ability, noting that one still plays golf and drives independently while the other requires full assistance with activities of daily living. Which concept BEST explains this difference despite identical chronological age?",
     "options": [
-      "Forming, Storming, Norming, and Performing",
-      "Performing, Norming, Storming, and Forming",
-      "Storming, Forming, Performing, and Norming",
-      "Norming, Performing, Forming, and Storming"
+      "Functional ageing varies between individuals of the same chronological age due to differing genetic, lifestyle, and health factors",
+      "Chronological ageing guarantees identical functional capacity for people of the same age",
+      "Universal ageing ensures all people experience decline at exactly the same rate",
+      "Distal ageing has no bearing on functional capacity in older adults"
     ],
     "answer": "A"
   },
   {
     "id": 70,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A nurse teaching insulin administration to a new diabetic patient first teaches the patient to gather supplies and clean the injection site as a separate step, then teaches drawing up the correct dose separately, and finally combines both into the complete procedure. Which behavior modification technique is BEST demonstrated?",
+    "stem": "CASE SCENARIO: An elderly client tells the nurse, 'Everyone treats me like I'm invisible and incompetent just because of my age, and lately I've started believing it myself and feeling hopeless.' Which concept from the notes BEST explains the psychological risk illustrated in this statement?",
     "options": [
-      "Behavior chaining",
-      "Extinction",
-      "Fading",
-      "Classical conditioning"
+      "Internalized anti-elderly prejudice as a risk factor for depression in older adults",
+      "The somatic mutation theory of aging",
+      "The age stratification theory's purely sociological mechanism with no psychological component",
+      "The free radical theory of aging"
     ],
     "answer": "A"
   },
   {
     "id": 71,
     "type": "fitb",
-    "stem": "Evaluation is the ___ phase of the teaching process.",
-    "answer": "last",
+    "stem": "Theories of aging fall into four categories: stochastic, genetic, psychological, and ___ theories.",
+    "answer": "sociological",
     "acceptableAnswers": [
-      "last",
-      "final"
+      "sociological"
     ]
   },
   {
     "id": 72,
     "type": "fitb",
-    "stem": "___ evaluation is used to monitor the learning progress of students during the period of instruction.",
-    "answer": "Formative",
+    "stem": "The somatic mutation theory holds that prolonged exposure to background ___ causes cell mutations leading to death.",
+    "answer": "radiation",
     "acceptableAnswers": [
-      "Formative"
+      "radiation"
     ]
   },
   {
     "id": 73,
     "type": "fitb",
-    "stem": "___ evaluation is done at the end of a course of instruction to ascertain the extent of accomplishment of set objectives.",
-    "answer": "Summative",
+    "stem": "The free radical theory holds that aging is caused by damage from highly chemically reactive by-products of ___.",
+    "answer": "metabolism",
     "acceptableAnswers": [
-      "Summative"
+      "metabolism"
     ]
   },
   {
     "id": 74,
     "type": "fitb",
-    "stem": "The diagnosing function of formative evaluation is concerned with determining the most appropriate method or instructional ___ conducive to learning.",
-    "answer": "materials",
+    "stem": "The neuroendocrine theory of aging holds that aging results from functional decrements in neurons and their associated ___.",
+    "answer": "hormones",
     "acceptableAnswers": [
-      "materials"
+      "hormones"
     ]
   },
   {
     "id": 75,
     "type": "fitb",
-    "stem": "The placement function of formative evaluation finds out the ___ of an individual in the curriculum from which he has to start learning.",
-    "answer": "position",
+    "stem": "The immunological theory of aging holds that the body's immune mechanisms perceive their own cells as ___ and destroy them.",
+    "answer": "foreign",
     "acceptableAnswers": [
-      "position"
+      "foreign"
     ]
   },
   {
     "id": 76,
     "type": "fitb",
-    "stem": "The crediting function of summative evaluation is concerned with collecting evidence that a learner has achieved instructional ___.",
-    "answer": "goals",
+    "stem": "The Jungian psychoanalytic theory regards aging as a time of developing self-awareness through ___ activity.",
+    "answer": "reflective",
     "acceptableAnswers": [
-      "goals"
+      "reflective"
     ]
   },
   {
     "id": 77,
     "type": "fitb",
-    "stem": "The certifying function of summative evaluation gives evidence that the learner is able to perform a job according to previously determined ___.",
-    "answer": "standards",
+    "stem": "Harry-Stack Sullivan's interpersonal theory is developmental in nature, involving the development of satisfactory ___ relationships.",
+    "answer": "interpersonal",
     "acceptableAnswers": [
-      "standards"
+      "interpersonal"
     ]
   },
   {
     "id": 78,
     "type": "fitb",
-    "stem": "The teach-back method confirms the patient's ___ of the information the care provider has imparted.",
-    "answer": "understanding",
+    "stem": "Erik Erickson's theory of psychosocial development links the success of stages 1 through 7 to the accomplishment of the developmental task of stage ___.",
+    "answer": "8",
     "acceptableAnswers": [
-      "understanding"
+      "8",
+      "eight"
     ]
   },
   {
     "id": 79,
     "type": "fitb",
-    "stem": "In teach-back, if a patient has trouble explaining the material, the nurse should repeat, clarify, or ___ the teaching.",
-    "answer": "modify",
+    "stem": "The ___ theory proposes that aging involves withdrawal from society to permit the individual to prepare for death without social disruption.",
+    "answer": "disengagement",
     "acceptableAnswers": [
-      "modify"
+      "disengagement"
     ]
   },
   {
     "id": 80,
     "type": "fitb",
-    "stem": "The ___ demonstration method has the patient perform the skill taught to evaluate how well the patient follows correct steps.",
-    "answer": "return",
+    "stem": "The continuity theory holds that individuals change very ___ over time as they age.",
+    "answer": "little",
     "acceptableAnswers": [
-      "return",
-      "Return"
+      "little"
     ]
   },
   {
     "id": 81,
     "type": "fitb",
-    "stem": "Documentation of client teaching promotes ___ about the patient's progress among all health care team members.",
-    "answer": "communication",
+    "stem": "The ___ theory holds that an older person must remain active to counter deteriorating skills, the opposite of the disengagement theory.",
+    "answer": "activity",
     "acceptableAnswers": [
-      "communication"
+      "activity"
     ]
   },
   {
     "id": 82,
     "type": "fitb",
-    "stem": "Good documentation of patient teaching helps maintain continuity of care and avoids ___ of teaching.",
-    "answer": "duplication",
+    "stem": "Age ___ theory proposes that it is society that determines whether one is considered elderly or not.",
+    "answer": "stratification",
     "acceptableAnswers": [
-      "duplication"
+      "stratification"
     ]
   },
   {
     "id": 83,
     "type": "fitb",
-    "stem": "When documenting patient teaching, the nurse should record the date and ___ of the teaching.",
-    "answer": "time",
+    "stem": "According to the notes, approximately ___ percent of older adults cannot live independently and reside in institutions.",
+    "answer": "6",
     "acceptableAnswers": [
-      "time"
+      "6",
+      "six"
     ]
   },
   {
     "id": 84,
     "type": "fitb",
-    "stem": "When documenting patient teaching, the nurse should be accurate and ___ while discussing facts and events.",
-    "answer": "truthful",
+    "stem": "Bone and joint changes in old age are marked by thinning and ___, resulting in a loss of height by age 80.",
+    "answer": "shrinkage",
     "acceptableAnswers": [
-      "truthful"
+      "shrinkage"
     ]
   },
   {
     "id": 85,
     "type": "fitb",
-    "stem": "Community health education is the process of teaching individuals and populations how to improve, maintain, and ___ their health.",
-    "answer": "restore",
+    "stem": "Presbyopia causes difficulty in reading small print, especially in ___ lighting.",
+    "answer": "low",
     "acceptableAnswers": [
-      "restore"
+      "low"
     ]
   },
   {
     "id": 86,
     "type": "fitb",
-    "stem": "The first step in the community health education process is ___.",
-    "answer": "assessment",
+    "stem": "A breathy voice in old age, caused by weakening and slower vibration of the vocal cords, is sometimes called 'old person's ___.'",
+    "answer": "voice",
     "acceptableAnswers": [
-      "assessment",
-      "Assessment"
+      "voice"
     ]
   },
   {
     "id": 87,
     "type": "fitb",
-    "stem": "During the diagnosis step of community health education, the nurse formulates community nursing ___ that target knowledge or behavior deficits.",
-    "answer": "diagnoses",
+    "stem": "The over 65 population has the highest ___ rate compared with other age groups, according to the notes.",
+    "answer": "suicide",
     "acceptableAnswers": [
-      "diagnoses",
-      "diagnosis"
+      "suicide"
     ]
   },
   {
     "id": 88,
     "type": "fitb",
-    "stem": "During the planning step of community health education, the nurse establishes clear, measurable short-term and long-term learning ___.",
-    "answer": "objectives",
+    "stem": "Senescence is a multidimensional process of physical, psychological, and ___ change.",
+    "answer": "social",
     "acceptableAnswers": [
-      "objectives"
+      "social"
     ]
   },
   {
     "id": 89,
     "type": "fitb",
-    "stem": "Group teaching in nursing education typically involves learners working together in groups of ___ to 10.",
-    "answer": "5",
+    "stem": "Biological ageing refers to changes in structure and function due to biological activities of cells, tissues, and ___.",
+    "answer": "organs",
     "acceptableAnswers": [
-      "5",
-      "five"
+      "organs"
     ]
   },
   {
     "id": 90,
     "type": "fitb",
-    "stem": "The model of group teaching commonly established in small group teaching sessions was developed by ___.",
-    "answer": "Tuckman",
+    "stem": "In developed nations, old age is often considered to begin around age 60 or ___ years, roughly equivalent to retirement age.",
+    "answer": "65",
     "acceptableAnswers": [
-      "Tuckman",
-      "Tuckman's"
+      "65"
     ]
   },
   {
     "id": 91,
     "type": "fitb",
-    "stem": "In Tuckman's model, the ___ stage involves members getting to know each other and exchanging information.",
-    "answer": "Forming",
+    "stem": "___ ageing refers to age change that all people share, such as the universal decline in certain physiological functions.",
+    "answer": "Universal",
     "acceptableAnswers": [
-      "Forming"
+      "Universal"
     ]
   },
   {
     "id": 92,
     "type": "fitb",
-    "stem": "In Tuckman's model, the ___ stage involves identification of the topic or problem to be solved.",
-    "answer": "Storming",
+    "stem": "___ ageing refers to age changes that may happen to some, but not all, people as they grow older, such as type two diabetes.",
+    "answer": "Probabilistic",
     "acceptableAnswers": [
-      "Storming"
+      "Probabilistic"
     ]
   },
   {
     "id": 93,
     "type": "fitb",
-    "stem": "___ , at the end of a group teaching session, summarizes and clarifies what has been learnt.",
-    "answer": "Debriefing",
+    "stem": "Distal ageing refers to an age-based difference that can be traced back to a cause early in a person's life, such as childhood ___.",
+    "answer": "poliomyelitis",
     "acceptableAnswers": [
-      "Debriefing"
+      "poliomyelitis",
+      "polio"
     ]
   },
   {
     "id": 94,
     "type": "fitb",
-    "stem": "The problem-solving method of teaching is a ___-centered approach to learning.",
-    "answer": "learner",
+    "stem": "Telomeres are located at the fourth pair of the twenty-three pairs of human ___.",
+    "answer": "chromosomes",
     "acceptableAnswers": [
-      "learner",
-      "student"
+      "chromosomes"
     ]
   },
   {
     "id": 95,
     "type": "fitb",
-    "stem": "The first step of the problem-solving method of teaching is identifying the ___.",
-    "answer": "problem",
+    "stem": "People with ___ telomeres are at risk of early ageing due to more rapid cellular senescence.",
+    "answer": "shorter",
     "acceptableAnswers": [
-      "problem"
+      "shorter"
     ]
   },
   {
     "id": 96,
     "type": "fitb",
-    "stem": "In behavior modification, ___ is anything that increases the likelihood that a learner will repeat a behavior.",
-    "answer": "reinforcement",
+    "stem": "A nonstop pregnancy-lactation cycle deprives a woman of the ___ reserve necessary for healthy living.",
+    "answer": "nutritional",
     "acceptableAnswers": [
-      "reinforcement",
-      "Reinforcement"
+      "nutritional"
     ]
   },
   {
     "id": 97,
     "type": "fitb",
-    "stem": "A behavior becomes ___ when a stimulus or reinforcer is removed and the behavior stops occurring.",
-    "answer": "extinct",
+    "stem": "Early termination of menstruation through total abdominal hysterectomy leads to premature ___, hastening the ageing process.",
+    "answer": "menopause",
     "acceptableAnswers": [
-      "extinct"
+      "menopause"
     ]
   },
   {
     "id": 98,
     "type": "fitb",
-    "stem": "___ involves reinforcing behaviors that are closer to a desired behavior than the current disposition.",
-    "answer": "Shaping",
+    "stem": "The medical study of disease processes that afflict the elderly is called ___.",
+    "answer": "geriatrics",
     "acceptableAnswers": [
-      "Shaping"
+      "geriatrics",
+      "Geriatrics"
     ]
   },
   {
     "id": 99,
     "type": "fitb",
-    "stem": "___ involves gradually shifting from one stimulus to another that reflects a desired outcome.",
-    "answer": "Fading",
+    "stem": "The study of the aging process itself is called ___.",
+    "answer": "gerontology",
     "acceptableAnswers": [
-      "Fading"
+      "gerontology",
+      "Gerontology"
     ]
   },
   {
     "id": 100,
     "type": "fitb",
-    "stem": "Behavior ___ involves breaking down a complex task into its simplest steps to make the behavior more achievable.",
-    "answer": "chaining",
+    "stem": "A person's ___ is often an important event used as a marker of the aging process.",
+    "answer": "birthday",
     "acceptableAnswers": [
-      "chaining",
-      "chains"
+      "birthday"
     ]
   }
 ]
