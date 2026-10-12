@@ -2,1136 +2,1129 @@
   {
     "id": 1,
     "type": "mcq",
-    "stem": "During an abdominal examination in labour, which of the following is MOST likely to give a false impression of foetal size?",
+    "stem": "An exceptional child is referred to as either a child who is a genius academically, manually, or physically, or which OTHER type of child?",
     "options": [
-      "A full bladder, distended colon, or maternal obesity",
-      "A well-flexed foetal head",
-      "Normal liquor amnii volume",
-      "A longitudinal lie"
+      "A child who is handicapped",
+      "A child who is exactly average in all domains",
+      "A child who has never been assessed",
+      "A child who attends only private school"
     ],
     "answer": "A"
   },
   {
     "id": 2,
     "type": "mcq",
-    "stem": "What position should the woman assume for an abdominal examination to relax her abdominal muscles?",
+    "stem": "Into how many main classifications is the exceptional child divided?",
     "options": [
-      "A comfortable position with her arms by her sides",
-      "Arms raised above her head",
-      "Lying flat with legs crossed",
-      "Standing with arms folded across the chest"
+      "Two",
+      "Four",
+      "Six",
+      "One, with no further subdivision"
     ],
     "answer": "A"
   },
   {
     "id": 3,
     "type": "mcq",
-    "stem": "If the foetal lie is transverse, how does the shape of the uterus typically appear on inspection?",
+    "stem": "Children who are exceptionally good or exceptionally up to date physically, manually, and academically are referred to as what?",
     "options": [
-      "Shorter but broader",
-      "Longer and narrower",
-      "Perfectly ovoid regardless of lie",
-      "Unchanged from a longitudinal lie"
+      "Gifted children",
+      "Maladjusted children",
+      "Educationally subnormal children",
+      "Imbecile children"
     ],
     "answer": "A"
   },
   {
     "id": 4,
     "type": "mcq",
-    "stem": "What is a characteristic finding on inspection of the abdomen in a multiparous woman compared to a primigravida?",
+    "stem": "Children who are exceptionally poor educationally, physically, and manually are referred to as what?",
     "options": [
-      "The multiparous uterus may lack the snug ovoid shape of the primigravid uterus",
-      "The multiparous uterus is always shorter than broad",
-      "The multiparous uterus cannot be inspected for foetal back or limbs",
-      "The multiparous uterus shows no foetal movements"
+      "Handicapped children",
+      "Gifted children",
+      "Average school children",
+      "Bright school children"
     ],
     "answer": "A"
   },
   {
     "id": 5,
     "type": "mcq",
-    "stem": "Which of the following is something the midwife may observe during inspection of the abdomen in labour?",
+    "stem": "Handicapped children can be further divided into which two groups?",
     "options": [
-      "Foetal movements",
-      "The exact foetal blood group",
-      "The exact amount of amniotic fluid in millilitres",
-      "The woman's cervical dilatation in centimetres"
+      "Mentally handicapped children and maladjusted children",
+      "Gifted children and average children",
+      "Physically fit children and physically unfit children",
+      "Rural children and urban children"
     ],
     "answer": "A"
   },
   {
     "id": 6,
     "type": "mcq",
-    "stem": "During abdominal palpation, which part of the hand should be used, and why?",
+    "stem": "Which of the following conditions is classified under mentally handicapped children?",
     "options": [
-      "The pads of the fingers, not the tips, should be used for greater sensitivity",
-      "The tips of the fingers only, for precision",
-      "The back of the hand, to avoid discomfort",
-      "The whole fist, to apply firm pressure"
+      "Mongolism, imbecility, moron, and educationally subnormal",
+      "Only visual impairment",
+      "Only locomotive handicap",
+      "Only communication handicap"
     ],
     "answer": "A"
   },
   {
     "id": 7,
     "type": "mcq",
-    "stem": "How should the midwife's hands move during abdominal palpation to avoid causing contractions?",
+    "stem": "According to the definition given, the term 'handicap' refers to which of the following?",
     "options": [
-      "Smoothly over the abdomen in a stroking motion",
-      "Rapidly tapping over the abdomen",
-      "Pressing firmly and holding static for one minute",
-      "Kneading the abdomen vigorously"
+      "Any disability of the body, intelligence, or personality which is likely to interfere with the individual's growth and development and, at times, their capacity to learn",
+      "A temporary condition that always resolves without intervention",
+      "A condition found only in children over the age of 15",
+      "A term used exclusively for physical sporting ability"
     ],
     "answer": "A"
   },
   {
     "id": 8,
     "type": "mcq",
-    "stem": "Descent of the foetal head in labour is measured by which method?",
+    "stem": "The causes of the exceptional child can be broadly divided into which two categories?",
     "options": [
-      "The number of fifths of the head palpable above the pelvic brim",
-      "The number of centimetres the cervix has dilated",
-      "The duration of contractions in seconds",
-      "The woman's reported sensation of pressure"
+      "Congenital/hereditary and acquired",
+      "Mild and severe",
+      "Treatable and untreatable",
+      "Urban and rural"
     ],
     "answer": "A"
   },
   {
     "id": 9,
     "type": "mcq",
-    "stem": "Where should the findings on descent of the foetal head be recorded?",
+    "stem": "Acquired causes of exceptionality are described as secondary to which of the following?",
     "options": [
-      "In the partograph",
-      "In the birth plan only",
-      "Verbally to the woman's family only",
-      "Nowhere, as this is not a required record"
+      "Other conditions such as infections or drugs",
+      "The child's own personality traits",
+      "The family's socioeconomic status alone",
+      "The school curriculum"
     ],
     "answer": "A"
   },
   {
     "id": 10,
     "type": "mcq",
-    "stem": "A birth plan provides an opportunity for the midwife to do which of the following?",
+    "stem": "Congenital/hereditary causes can be due to congenital aetiological causes or which other type of factor?",
     "options": [
-      "Discuss with the woman and her partner any plans about the type of birth they would like, with support from their midwife",
-      "Avoid discussing pain relief options",
-      "Decide unilaterally on the woman's behalf without her input",
-      "Finalize the mode of delivery regardless of clinical findings"
+      "Acquired aetiological factors",
+      "Postnatal aetiological factors only",
+      "Environmental factors occurring after age five",
+      "Factors related solely to maternal occupation"
     ],
     "answer": "A"
   },
   {
     "id": 11,
     "type": "mcq",
-    "stem": "Which pain-relief strategies for labour might a woman record preferences for in her birth plan?",
+    "stem": "'Congenital' causes, as defined in this classification, refer to abnormalities of which structures?",
     "options": [
-      "Water immersion, massage, or pharmacological pain relief",
-      "Only general anaesthesia",
-      "No pain relief options exist for labour",
-      "Only strategies chosen by the midwife without consultation"
+      "The genes or chromosomes",
+      "The placenta only",
+      "The umbilical cord only",
+      "The maternal pelvis"
     ],
     "answer": "A"
   },
   {
     "id": 12,
     "type": "mcq",
-    "stem": "A woman's birth plan may include her preference regarding the THIRD stage of labour. Which choice reflects this?",
+    "stem": "Which condition is listed as resulting from a congenital (genetic/chromosomal) cause?",
     "options": [
-      "Expectant or actively managed third stage",
-      "The length of the first stage of labour",
-      "The dose of antibiotics to be given postnatally",
-      "The brand of infant formula to be used"
+      "Down syndrome",
+      "Birth asphyxia",
+      "Electrolyte imbalance",
+      "Poisoning"
     ],
     "answer": "A"
   },
   {
     "id": 13,
     "type": "mcq",
-    "stem": "Before the midwife's initial physical examination of a woman in labour, what must occur FIRST?",
+    "stem": "Which inborn error of metabolism is specifically listed as a congenital cause of exceptionality?",
     "options": [
-      "Explanation of the proposed examination and its significance should be given, and verbal consent obtained and recorded in the notes",
-      "The examination should begin immediately without discussion",
-      "The woman's partner must sign a consent form on her behalf",
-      "A caesarean section consent form must be completed"
+      "Phenylketonuria",
+      "Hypoglycemia",
+      "Respiratory acidosis",
+      "Metabolic acidosis"
     ],
     "answer": "A"
   },
   {
     "id": 14,
     "type": "mcq",
-    "stem": "As part of the midwife's initial physical examination, what should the woman be asked to do regarding urine?",
+    "stem": "Besides Down syndrome and phenylketonuria, which of the following is ALSO listed as a congenital cause?",
     "options": [
-      "Empty her bladder, and a specimen should be tested for protein, glucose, and ketones",
-      "Retain her urine for 24 hours before testing",
-      "Provide a stool sample instead",
-      "Avoid urinating until after the birth"
+      "Microcephaly, muscular dystrophy, and sickle cell",
+      "Cord prolapse",
+      "Maternal haemorrhage",
+      "Birth asphyxia"
     ],
     "answer": "A"
   },
   {
     "id": 15,
     "type": "mcq",
-    "stem": "When should temperature and pulse rate NOT be checked during the initial physical examination, and why?",
+    "stem": "'Prenatal' causes are described as factors affecting the already formed foetus in utero, especially during which period?",
     "options": [
-      "Not during a uterine contraction, because this increases the heart rate slightly",
-      "Only after the baby is born, because vital signs are irrelevant in labour",
-      "Never, because vital signs are not part of the initial examination",
-      "Only before admission, because vital signs cannot be measured in labour"
+      "The first trimester",
+      "The final week before delivery only",
+      "The neonatal period",
+      "Early childhood"
     ],
     "answer": "A"
   },
   {
     "id": 16,
     "type": "mcq",
-    "stem": "Which situation may contribute to an EARLY rupture of the membranes?",
+    "stem": "Prenatal causes of exceptionality are also referred to by which alternative term?",
     "options": [
-      "A badly fitting presenting part and forewaters that are not separated effectively from the hindwaters",
-      "A well-flexed foetal head with clearly separated forewaters and hindwaters",
-      "A fully dilated cervix at the end of the first stage",
-      "A multiparous woman with a snug ovoid uterus"
+      "Environmental causes",
+      "Genetic causes",
+      "Hereditary causes",
+      "Chromosomal causes"
     ],
     "answer": "A"
   },
   {
     "id": 17,
     "type": "mcq",
-    "stem": "What term describes membranes that remain intact even in the second stage of labour, appearing at the vulva as a sac covering the foetal head as it is born?",
+    "stem": "Thalidomide is given as an example of which type of prenatal cause?",
     "options": [
-      "A caul",
-      "A show",
-      "A retraction ring",
-      "An operculum"
+      "A drug cause",
+      "An infection cause",
+      "A dietary cause",
+      "A radiation cause"
     ],
     "answer": "A"
   },
   {
     "id": 18,
     "type": "mcq",
-    "stem": "Early rupture of membranes may lead to an increased incidence of which finding on cardiotocography (CTG), potentially increasing caesarean section rates if fetal blood sampling is unavailable?",
+    "stem": "Malaria and German measles are given as examples of which type of prenatal cause?",
     "options": [
-      "Variable decelerations",
-      "Early decelerations only",
-      "A smooth, flat baseline with no variability",
-      "Accelerations with every contraction"
+      "Infections",
+      "Maternal antibodies",
+      "Dietary factors",
+      "Drugs"
     ],
     "answer": "A"
   },
   {
     "id": 19,
     "type": "mcq",
-    "stem": "Before performing an Artificial Rupture of Membranes (ARM), what is required of the midwife?",
+    "stem": "Besides drugs and infections, which of the following are ALSO listed as prenatal (environmental) causes?",
     "options": [
-      "All women are required to give consent for this intervention, and the midwife should have a clear indication, recorded in the labour records",
-      "No consent is required since ARM is considered a minor procedure",
-      "Only verbal agreement from the woman's partner is needed",
-      "Documentation is optional as long as the procedure is performed competently"
+      "Maternal antibodies, maternal toxemia, dietary factors, and radiation",
+      "Postnatal poisoning and trauma",
+      "Birth asphyxia and cord prolapse",
+      "Old age and malnutrition occurring after birth"
     ],
     "answer": "A"
   },
   {
     "id": 20,
     "type": "mcq",
-    "stem": "Fetal axis pressure becomes much more significant under which circumstances?",
+    "stem": "Acquired aetiological factors are subdivided into which two categories?",
     "options": [
-      "After rupture of the membranes and during the second stage of labour",
-      "Before labour begins, while membranes are intact",
-      "Only during the latent phase of the first stage",
-      "Only when the woman is lying supine"
+      "Perinatal/natal causes and postnatal causes",
+      "Congenital causes and prenatal causes",
+      "Primary and secondary prevention",
+      "Mild and severe handicap"
     ],
     "answer": "A"
   },
   {
     "id": 21,
     "type": "mcq",
-    "stem": "On admission of a woman in labour, which piece of information is of particular relevance for the midwife to obtain, alongside the birth plan?",
+    "stem": "Perinatal or natal causes are described as defects due to which of the following?",
     "options": [
-      "Parity and age, and the character and outcome of any previous labour",
-      "The woman's favourite colour",
-      "The make of her mobile phone",
-      "Her preferred television programme"
+      "Complications of delivery, which can cause handicap, for example trauma",
+      "Abnormalities of the genes and chromosomes",
+      "Factors affecting the foetus during the first trimester",
+      "Infections occurring years after birth"
     ],
     "answer": "A"
   },
   {
     "id": 22,
     "type": "mcq",
-    "stem": "What is Bandl's ring, also known as a pathological uterine ring?",
+    "stem": "Fetal anoxia, as a perinatal cause of handicap, is specifically due to which of the following?",
     "options": [
-      "A constriction between a woman's thickened upper contractile uterine segment and the thinned lower uterine segment (LUS) during labour",
-      "A normal finding present in all labouring women at full dilation",
-      "A ring of scar tissue from a previous caesarean section only",
-      "A term for the cervical os at the start of labour"
+      "Either maternal haemorrhage or cord prolapse",
+      "Maternal rubella infection only",
+      "Thalidomide exposure only",
+      "Dietary deficiency in the third trimester only"
     ],
     "answer": "A"
   },
   {
     "id": 23,
     "type": "mcq",
-    "stem": "Regarding the relationship between dystocia and Bandl's ring, which statement is correct?",
+    "stem": "Besides fetal anoxia and trauma, which of the following are ALSO listed as perinatal/natal causes?",
     "options": [
-      "Dystocia has been implicated as both a cause and an effect of Bandl's ring",
-      "Dystocia is always the sole cause and never a result of Bandl's ring",
-      "Bandl's ring has no documented relationship with dystocia",
-      "Dystocia only occurs after Bandl's ring resolves completely"
+      "Hypoglycemia, respiratory or metabolic acidosis, and birth asphyxia",
+      "Microcephaly and muscular dystrophy",
+      "Thalidomide and radiation exposure",
+      "Measles and poisoning"
     ],
     "answer": "A"
   },
   {
     "id": 24,
     "type": "mcq",
-    "stem": "What is released as a result of dilatation of the cervix, producing a finding known as a 'show'?",
+    "stem": "Postnatal causes of handicap are defined as causes that occur in which time period?",
     "options": [
-      "The operculum, which formed the cervical plug during pregnancy",
-      "The entire bag of forewaters",
-      "The placenta prematurely",
-      "The foetal scalp hair"
+      "After delivery",
+      "Only during the first trimester",
+      "Only during the second trimester",
+      "Before conception"
     ],
     "answer": "A"
   },
   {
     "id": 25,
     "type": "mcq",
-    "stem": "Which statement correctly distinguishes a normal 'show' from an abnormal finding in early labour?",
+    "stem": "Which infection is specifically listed as a postnatal cause of handicap?",
     "options": [
-      "A small loss of bright red blood, referred to as a show, is not the norm at this early stage and warrants assessment, whereas frank fresh bleeding is not expected",
-      "Frank, fresh bleeding is always a normal and expected part of early labour",
-      "A show and frank bleeding are clinically identical and require no distinction",
-      "Only a greenish show is considered normal"
+      "Measles",
+      "German measles (prenatally)",
+      "Malaria (prenatally)",
+      "Congenital rubella syndrome"
     ],
     "answer": "A"
   },
   {
     "id": 26,
     "type": "mcq",
-    "stem": "During the TRANSITIONAL phase of the first stage, a small loss of bright red blood may occur. What does this typically herald?",
+    "stem": "Besides infection and trauma, which of the following are ALSO listed as postnatal causes of handicap?",
     "options": [
-      "The onset of the second stage of labour",
-      "The end of pregnancy at 42 weeks",
-      "A need for immediate caesarean section",
-      "Resolution of all uterine contractions"
+      "Poisoning, electrolyte imbalance, malnutrition, and radiation",
+      "Maternal antibodies and maternal toxemia",
+      "Chromosomal abnormalities and inborn errors of metabolism",
+      "Cord prolapse and maternal haemorrhage"
     ],
     "answer": "A"
   },
   {
     "id": 27,
     "type": "mcq",
-    "stem": "How does a well-flexed foetal head contribute to the formation of forewaters and hindwaters?",
+    "stem": "Prevention of handicap is organized into which three levels?",
     "options": [
-      "It fits snugly into the cervix and cuts off the amniotic fluid in front of the head from that surrounding the body, forming two separate pools",
-      "It prevents any fluid from ever forming around the foetus",
-      "It causes the hindwaters to leak out immediately",
-      "It has no effect on the distribution of amniotic fluid"
+      "Primary, secondary, and tertiary prevention",
+      "Mild, moderate, and severe prevention",
+      "Congenital, perinatal, and postnatal prevention",
+      "Hospital, community, and home-based prevention"
     ],
     "answer": "A"
   },
   {
     "id": 28,
     "type": "mcq",
-    "stem": "What is 'general fluid pressure' during labour while the membranes remain intact?",
+    "stem": "Genetic counselling, a form of primary prevention, is described as an attempt to determine which of the following?",
     "options": [
-      "The pressure of uterine contractions exerted on the incompressible amniotic fluid, which is equalized throughout the uterus and over the foetal body",
-      "The pressure exerted only on the maternal bladder",
-      "A term describing pressure that exists only after the membranes rupture",
-      "The pressure of the midwife's hand during abdominal palpation"
+      "The risk of occurrence or reoccurrence of specific genetic or chromosomal disorders",
+      "The exact IQ the unborn child will have",
+      "The child's eventual career aptitude",
+      "The family's eligibility for scholarships"
     ],
     "answer": "A"
   },
   {
     "id": 29,
     "type": "mcq",
-    "stem": "What happens to foetal oxygen supply when the membranes rupture and a quantity of fluid emerges?",
+    "stem": "What is the purpose of genetic counselling in terms of parental decision-making?",
     "options": [
-      "The foetal head, placenta, and umbilical cord are compressed between the uterine wall and the foetus during contractions, reducing oxygen supply",
-      "Oxygen supply to the foetus improves immediately and permanently",
-      "There is no change in oxygen supply at any point in labour",
-      "Oxygen supply is only affected by maternal position, never by membrane rupture"
+      "To allow parents to make an informed choice regarding the risk of having a retarded child",
+      "To mandate termination of all high-risk pregnancies",
+      "To remove the need for any further antenatal care",
+      "To guarantee a gifted child will be born"
     ],
     "answer": "A"
   },
   {
     "id": 30,
     "type": "mcq",
-    "stem": "How is the UPPER uterine segment formed, and what is its primary function during labour?",
+    "stem": "Which immunization is specifically listed as a form of primary prevention of handicap?",
     "options": [
-      "It is formed from the body of the fundus and is mainly concerned with contraction and retraction; it is thick and muscular",
-      "It is formed from the cervix and is concerned only with dilation, being thin and fibrous",
-      "It is formed from the isthmus and never contracts",
-      "It forms only during the second stage of labour"
+      "Immunization for maternal rubella",
+      "Immunization against tetanus in adolescents only",
+      "Immunization against poliomyelitis in adulthood only",
+      "Immunization against malaria"
     ],
     "answer": "A"
   },
   {
     "id": 31,
     "type": "mcq",
-    "stem": "What is the lower uterine segment specifically prepared for during labour?",
+    "stem": "Adequate maternal nutrition, as a primary prevention measure, is said to lay a foundation for which of the following?",
     "options": [
-      "Distension and dilatation",
-      "Contraction and retraction only",
-      "Permanent fixation with no change in shape",
-      "Expulsion of the placenta exclusively"
+      "A sound metabolic foundation for later child-bearing",
+      "An immediate increase in the mother's own IQ",
+      "A guaranteed reduction in labour duration",
+      "A permanent cure for existing handicaps"
     ],
     "answer": "A"
   },
   {
     "id": 32,
     "type": "mcq",
-    "stem": "Is there a distinct, strict anatomical division between the upper and lower uterine segments?",
+    "stem": "Family planning, as a primary prevention measure, can affect specific causal agents through which factors?",
     "options": [
-      "No; there is no distinct clear or strict division, and the muscle content gradually reduces from the fundus to the cervix, where it is thinner",
-      "Yes; there is a sharp, visible line that separates the two segments in every woman",
-      "Yes; the division is marked by a permanent surgical scar in all women",
-      "No; the two segments are entirely identical in muscle content"
+      "Size, appropriate spacing, and age of parents",
+      "The family's choice of school for existing children",
+      "The family's religious affiliation",
+      "The family's geographic location only"
     ],
     "answer": "A"
   },
   {
     "id": 33,
     "type": "mcq",
-    "stem": "What is the 'retraction ring' that develops during labour?",
+    "stem": "Secondary prevention of handicap involves early detection and treatment of which type of disorders?",
     "options": [
-      "A ridge between the upper and lower uterine segments, which gradually rises as the upper segment contracts and retracts while the lower segment thins",
-      "A permanent ring of scar tissue present before pregnancy begins",
-      "A ring found only in the cervix after full dilation",
-      "A structure that forms exclusively during the third stage"
+      "Preventable disorders such as phenylketonuria and hypothyroidism",
+      "Only disorders that are already irreversible",
+      "Only disorders diagnosed after age 18",
+      "Only disorders affecting vision"
     ],
     "answer": "A"
   },
   {
     "id": 34,
     "type": "mcq",
-    "stem": "In extreme cases of mechanically obstructed labour, what name is given to the physiological retraction ring when it becomes visible above the symphysis pubis?",
+    "stem": "Phenylketonuria and hypothyroidism, if detected early, can be effectively treated at an early stage using which approach?",
     "options": [
-      "Bandl's ring",
-      "The Ferguson reflex",
-      "The operculum",
-      "The caul"
+      "Dietary control and hormone replacement therapy",
+      "Surgical correction alone",
+      "Radiation therapy alone",
+      "No treatment is possible even with early detection"
     ],
     "answer": "A"
   },
   {
     "id": 35,
     "type": "mcq",
-    "stem": "What is 'polarity' in the physiology of uterine action during labour?",
+    "stem": "Early detection of the presence of mental retardation is important because a delay in diagnosis may cause which outcome?",
     "options": [
-      "The neuromuscular harmony that prevails between the two poles or segments of the uterus throughout labour",
-      "The electrical charge measured on a cardiotocograph",
-      "A term describing only the direction of foetal lie",
-      "A measure of the woman's psychological state during labour"
+      "An unfortunate delay in rehabilitation",
+      "An automatic improvement in the child's IQ",
+      "A guaranteed cure without further intervention",
+      "No measurable effect on the child's development"
     ],
     "answer": "A"
   },
   {
     "id": 36,
     "type": "mcq",
-    "stem": "What is the consequence of disorganization of polarity during labour?",
+    "stem": "Psychiatric treatment, under secondary prevention, is primarily aimed at addressing which difficulties?",
     "options": [
-      "Inhibition of labour",
-      "Immediate and painless delivery",
-      "Permanent dilation of the cervix regardless of contractions",
-      "Spontaneous resolution of Bandl's ring"
+      "Emotional and behavioural difficulties",
+      "Only physical locomotive difficulties",
+      "Only visual difficulties",
+      "Only communication difficulties arising from deafness"
     ],
     "answer": "A"
   },
   {
     "id": 37,
     "type": "mcq",
-    "stem": "How does retraction assist in the progressive expulsion of the foetus?",
+    "stem": "Tertiary prevention of handicap involves rehabilitation in which areas?",
     "options": [
-      "The upper segment of the uterus becomes gradually shorter and thicker, and its cavity diminishes",
-      "The upper segment becomes progressively longer and thinner with each contraction",
-      "The lower segment becomes thicker while the upper segment thins",
-      "The uterine cavity increases in size throughout labour"
+      "Vocational, physical, and social areas",
+      "Only academic areas",
+      "Only recreational areas",
+      "Only financial areas"
     ],
     "answer": "A"
   },
   {
     "id": 38,
     "type": "mcq",
-    "stem": "Before labour becomes established, how often do uterine contractions typically occur, and what is their intensity?",
+    "stem": "Rehabilitation under tertiary prevention is aimed at achieving which outcome for a child with mental retardation?",
     "options": [
-      "Every 15 to 20 minutes, lasting about 30 seconds, and fairly weak, often not perceived by the mother",
-      "Every 2 to 3 minutes, lasting 60 seconds, and extremely powerful",
-      "Continuously, with no rest interval between contractions",
-      "Only once every several hours, lasting several minutes each"
+      "Reducing disability and providing optimal functioning",
+      "Completely reversing all genetic abnormalities",
+      "Eliminating the need for any further assessment",
+      "Guaranteeing admission to a mainstream university"
     ],
     "answer": "A"
   },
   {
     "id": 39,
     "type": "mcq",
-    "stem": "What happens to the length and strength of uterine contractions as labour progresses from the latent into the active phase?",
+    "stem": "What is the standard formula used to calculate Intelligence Quotient (IQ)?",
     "options": [
-      "They gradually increase in both length and strength",
-      "They gradually decrease in both length and strength",
-      "They remain completely unchanged throughout the first stage",
-      "They increase in length but decrease in strength"
+      "Mental age multiplied by 100, divided by real (chronological) age",
+      "Real age multiplied by 100, divided by mental age",
+      "Mental age divided by 100, multiplied by real age",
+      "Real age minus mental age, multiplied by 100"
     ],
     "answer": "A"
   },
   {
     "id": 40,
     "type": "mcq",
-    "stem": "Effacement of the cervix is believed to take place in which direction?",
+    "stem": "A child aged 10 years has a mental age of 12 years. Using the standard IQ formula, what is this child's IQ?",
     "options": [
-      "From above downward, as muscle fibres around the cervical os are drawn upward by the retracted upper segment",
-      "From below upward only, with no involvement of the upper segment",
-      "Randomly, with no consistent directional pattern",
-      "Only from the external os inward, never involving the internal os"
+      "120%",
+      "100%",
+      "83%",
+      "12%"
     ],
     "answer": "A"
   },
   {
     "id": 41,
     "type": "mcq",
-    "stem": "During effacement, what happens at the level of the internal os compared to the external os?",
+    "stem": "According to the IQ formula and classification given, what IQ percentage should a NORMAL child have?",
     "options": [
-      "The cervical canal widens at the internal os, while the state of the external os remains largely unchanged",
-      "The external os widens dramatically while the internal os stays closed",
-      "Both the internal and external os remain completely unchanged throughout effacement",
-      "The internal os closes completely while the external os widens"
+      "100%",
+      "50%",
+      "150%",
+      "0%"
     ],
     "answer": "A"
   },
   {
     "id": 42,
     "type": "mcq",
-    "stem": "What is 'cervical dilatation'?",
+    "stem": "A gifted child, according to the classification given, could have an IQ of what value or higher?",
     "options": [
-      "The process of enlargement of the os uteri from a tightly closed aperture to an opening large enough to permit passage of the foetus",
-      "The process of thinning of the cervical canal with no change in diameter",
-      "A term synonymous with foetal descent through the pelvis",
-      "The closure of the cervix after the second stage"
+      "More than 120%",
+      "Exactly 50%",
+      "Less than 55%",
+      "Exactly 90%"
     ],
     "answer": "A"
   },
   {
     "id": 43,
     "type": "mcq",
-    "stem": "Cervical dilatation is assessed in which unit, and what value represents full dilatation at term?",
+    "stem": "An IQ of between 120 and 125 corresponds to which classification?",
     "options": [
-      "Centimetres, with full dilatation equating to 10 cm",
-      "Millimetres, with full dilatation equating to 100 mm exactly matching centimetre measurement in practice but stated differently",
-      "Inches, with full dilatation equating to 4 inches",
-      "Percentage only, with full dilatation equating to 50 percent"
+      "A very brilliant child",
+      "A bright school child",
+      "An average school child",
+      "A retarded school child"
     ],
     "answer": "A"
   },
   {
     "id": 44,
     "type": "mcq",
-    "stem": "A well-flexed foetal head closely applied to the cervix tends to favour which outcome?",
+    "stem": "An IQ of between 115 and 120 corresponds to which classification?",
     "options": [
-      "Good or efficient cervical dilatation",
-      "Delayed effacement with no effect on dilatation",
-      "Immediate rupture of membranes in all cases",
-      "A transverse lie"
+      "A bright school child",
+      "A very brilliant child",
+      "A retarded school child",
+      "A severe educational subnormal child"
     ],
     "answer": "A"
   },
   {
     "id": 45,
     "type": "mcq",
-    "stem": "What is 'fundal dominance' in uterine action during labour?",
+    "stem": "An IQ of between 90 and 115 corresponds to which classification?",
     "options": [
-      "Each uterine action starts from the fundus near one of the cornua and spreads across and downward",
-      "Each contraction starts at the cervix and spreads upward to the fundus",
-      "Contractions occur with equal strength starting simultaneously at every point in the uterus",
-      "The fundus never participates in uterine contractions"
+      "An average school child",
+      "A bright school child",
+      "A retarded school child",
+      "A very brilliant child"
     ],
     "answer": "A"
   },
   {
     "id": 46,
     "type": "mcq",
-    "stem": "Why does the contraction last longest and feel most intense in the fundus, even though the peak is reached simultaneously over the whole uterus?",
+    "stem": "An IQ of between 80 and 90 corresponds to which classification?",
     "options": [
-      "This is the normal pattern of fundal dominance, where the contraction also fades from all parts of the uterus together",
-      "Because the fundus is the only part of the uterus capable of contracting",
-      "Because the cervix contracts before the fundus in every labour",
-      "Because the lower segment contracts more intensely than the fundus"
+      "A retarded school child",
+      "An average school child",
+      "A bright school child",
+      "A very brilliant child"
     ],
     "answer": "A"
   },
   {
     "id": 47,
     "type": "mcq",
-    "stem": "Which structural factor related to the birth canal can influence the course of labour?",
+    "stem": "An IQ of between 55 and 90 corresponds to which classification, according to the ranges given?",
     "options": [
-      "The size, shape, and resistance of the bony pelvis, cervix uteri, vagina, and pelvic floor",
-      "The colour of the woman's eyes",
-      "The woman's shoe size",
-      "The time of day labour begins"
+      "An educationally subnormal child",
+      "A very brilliant child",
+      "A bright school child",
+      "An average school child"
     ],
     "answer": "A"
   },
   {
     "id": 48,
     "type": "mcq",
-    "stem": "If the factors affecting labour are favourable, along with maternal confidence in all involved in the process, what is the expected outcome?",
+    "stem": "An IQ of less than 50 corresponds to which classification?",
     "options": [
-      "Progress of labour should be normal and accomplished within 24 hours",
-      "Labour will always last longer than 48 hours regardless of other factors",
-      "Labour will stop entirely until the woman is sedated",
-      "The need for a caesarean section becomes certain"
+      "A severe educational subnormal child",
+      "A very brilliant child",
+      "An average school child",
+      "A bright school child"
     ],
     "answer": "A"
   },
   {
     "id": 49,
     "type": "mcq",
-    "stem": "How can anxiety affect the progress of labour?",
+    "stem": "Which of the following is listed as a type of handicap?",
     "options": [
-      "Anxiety can increase the production of adrenaline, which inhibits uterine activity and may prolong labour",
-      "Anxiety has no physiological effect on uterine activity",
-      "Anxiety always shortens labour by increasing uterine activity",
-      "Anxiety only affects the second stage, never the first"
+      "Locomotive handicap",
+      "Nutritional handicap",
+      "Financial handicap",
+      "Geographic handicap"
     ],
     "answer": "A"
   },
   {
     "id": 50,
     "type": "mcq",
-    "stem": "The first stage of labour is described as occurring in which three phases?",
+    "stem": "Besides locomotive handicap, which of the following are ALSO listed as types of handicap?",
     "options": [
-      "Latent, active, and transitional",
-      "Early, middle, and late",
-      "Induction, augmentation, and expulsion",
-      "Primary, secondary, and tertiary"
+      "Communication, visual, intellectual, emotional, social, visceral, and invisible handicap",
+      "Only academic and athletic handicap",
+      "Only rural and urban handicap",
+      "Only seasonal and chronic handicap"
     ],
     "answer": "A"
   },
   {
     "id": 51,
     "type": "mcq",
-    "stem": "What characterizes the ACTIVE phase of the first stage of labour?",
+    "stem": "The management of an exceptional child DIFFERS depending on which factor?",
     "options": [
-      "The cervix undergoes rapid dilatation, beginning when the cervix is 4 cm dilated with rhythmic contractions, progressing to 10 cm or full cervical dilatation",
-      "It is defined as the period before any uterine contractions begin",
-      "It always lasts less than 30 minutes regardless of parity",
-      "It is characterized by complete absence of cervical change"
+      "Whether the child is gifted or handicapped",
+      "The child's favourite subject in school",
+      "The time of year the child was born",
+      "The child's birth order within the family"
     ],
     "answer": "A"
   },
   {
     "id": 52,
     "type": "mcq",
-    "stem": "What characterizes the TRANSITIONAL phase of the first stage of labour?",
+    "stem": "For gifted children, what type of recognition is given to this group both nationally and internationally?",
     "options": [
-      "The stage from about 8 cm dilated until full dilatation, or until expulsive contractions are felt in the second stage, often with a brief lull in the intensity of uterine activity",
-      "The stage from 0 to 4 cm dilatation only",
-      "A stage that occurs exclusively after the placenta is delivered",
-      "A stage characterized by a sudden, permanent increase in contraction intensity with no lull"
+      "Special performance awards such as scholarships",
+      "Mandatory enrolment in vocational training only",
+      "Referral to special care centres only",
+      "No recognition is given at any level"
     ],
     "answer": "A"
   },
   {
     "id": 53,
     "type": "mcq",
-    "stem": "What is the generally expected rate of cervical dilatation in labour, according to one guideline?",
+    "stem": "Scholarships awarded to gifted children serve what specific purpose?",
     "options": [
-      "1 cm per hour",
-      "5 cm per hour",
-      "10 cm per hour",
-      "0.1 cm per hour"
+      "To enable them to face the right challenge that is commensurate with their IQ level",
+      "To cover only the cost of school uniforms",
+      "To fund unrelated extracurricular travel",
+      "To replace the need for any further assessment"
     ],
     "answer": "A"
   },
   {
     "id": 54,
     "type": "mcq",
-    "stem": "What is 'lightening', a premonitory sign of labour?",
+    "stem": "For handicapped children, careful assessment of their potentials is done for what purpose?",
     "options": [
-      "A drop in fundal height as the foetus sinks into the lower uterine segment, making the uterus look almost pendulous",
-      "A sudden rise in fundal height just before labour",
-      "The moment the cervix reaches full dilatation",
-      "A sign that occurs only after the baby is born"
+      "To know where to fix them, either to refer them to special care centres for advice or to proper rehabilitation centres",
+      "To determine their eligibility for international scholarships only",
+      "To rank them against gifted children",
+      "To decide whether they should repeat a school grade only"
     ],
     "answer": "A"
   },
   {
     "id": 55,
     "type": "mcq",
-    "stem": "Lightening allows the mother to breathe more easily. Why does this occur?",
+    "stem": "Which of the following is listed as a main element in the comprehensive service for mentally retarded individuals and their families?",
     "options": [
-      "Because the fundus uteri no longer causes elevation of the diaphragm and diminution of the area occupied by the lungs",
-      "Because the foetus stops moving entirely at this point",
-      "Because amniotic fluid volume increases dramatically",
-      "Because the cervix closes completely at this stage"
+      "Prevention and early detection of mental handicaps",
+      "Only financial compensation for the family",
+      "Only cosmetic surgical correction",
+      "Only long-term hospitalization with no community involvement"
     ],
     "answer": "A"
   },
   {
     "id": 56,
     "type": "mcq",
-    "stem": "Why does FREQUENT MICTURITION occur as a premonitory sign of labour?",
+    "stem": "Which element of the comprehensive service specifically addresses the needs of families of mentally retarded individuals?",
     "options": [
-      "Because of the pressure of the foetal head on the bladder, which is closely related to the lower uterine segment",
-      "Because the kidneys stop functioning temporarily in late pregnancy",
-      "Because the woman is drinking excessive fluids deliberately",
-      "Because the bladder is displaced upward away from the pelvis"
+      "Advice, support, and practical measures for families",
+      "Mandatory removal of the child from the family home",
+      "Financial penalties for families who seek support",
+      "Exclusion of families from all care planning"
     ],
     "answer": "A"
   },
   {
     "id": 57,
     "type": "mcq",
-    "stem": "Why might intensified Braxton Hicks contractions and associated backache cause a woman to erroneously believe she is in true labour?",
+    "stem": "Which element of the comprehensive service addresses education and occupation for the handicapped person?",
     "options": [
-      "Because the increased intensity and discomfort can closely mimic the sensations of true labour",
-      "Because Braxton Hicks contractions always dilate the cervix fully",
-      "Because Braxton Hicks contractions are indistinguishable from rupture of membranes under all circumstances",
-      "Because they always occur exactly at 40 weeks gestation"
+      "Provision for education, training, occupation, or work appropriate for each handicapped person",
+      "Guaranteed employment in any field regardless of ability",
+      "Complete exclusion from the workforce",
+      "Education limited strictly to religious instruction"
     ],
     "answer": "A"
   },
   {
     "id": 58,
     "type": "mcq",
-    "stem": "As a premonitory sign, what change occurs in the cervix and pelvic floor shortly before labour?",
+    "stem": "Which element of the comprehensive service addresses living arrangements and self-care?",
     "options": [
-      "The cervix becomes soft and almost effaced, the os admits one or two fingertips, and the pelvic floor and perineal muscles relax",
-      "The cervix becomes rigid and completely closed",
-      "The pelvic floor muscles tighten maximally and permanently",
-      "The cervix calcifies and cannot be assessed digitally"
+      "Housing and social support to enable self care",
+      "Permanent institutionalization with no self-care goals",
+      "Housing provided only to families, never to the individual",
+      "No housing provision is included in the comprehensive service"
     ],
     "answer": "A"
   },
   {
     "id": 59,
     "type": "mcq",
-    "stem": "Between which gestational weeks is normal labour considered to occur?",
+    "stem": "Which element of the comprehensive service covers medical and nursing needs across different care settings?",
     "options": [
-      "Between 37 and 42 weeks gestation",
-      "Between 20 and 28 weeks gestation",
-      "Between 44 and 48 weeks gestation",
-      "Only at exactly 40 weeks gestation, never before or after"
+      "Medical, nursing, and other services for those who require them as outpatients, day patients, or inpatients",
+      "Medical services provided only to inpatients, never outpatients",
+      "Nursing services excluded entirely from the comprehensive service",
+      "Medical services limited strictly to emergency care"
     ],
     "answer": "A"
   },
   {
     "id": 60,
     "type": "mcq",
-    "stem": "Progress of labour is measured by which TWO parameters?",
+    "stem": "Which element of the comprehensive service addresses the mental health needs of the mentally retarded individual?",
     "options": [
-      "Descent of the head and dilatation of the cervix",
-      "Maternal blood pressure and pulse rate only",
-      "The woman's pain score and the time of day",
-      "The colour of the liquor and the partner's presence"
+      "Psychiatric and psychological services",
+      "Dental services exclusively",
+      "Orthopaedic surgical services exclusively",
+      "Dietary services exclusively"
     ],
     "answer": "A"
   },
   {
     "id": 61,
     "type": "mcq",
-    "stem": "Birth is described as a physiologic process with what kind of influence on the individual, family, and society?",
+    "stem": "Besides the main elements already listed, general provision for handicapped individuals ALSO includes which of the following?",
     "options": [
-      "A dynamic, transforming influence that can profoundly affect the lives of all involved",
-      "A static process with no effect beyond the delivery room",
-      "An influence limited strictly to the mother, never the family or society",
-      "A process that has been fully standardized with no variation between women"
+      "Vocational training, parent counselling, and nursing management",
+      "Only sporting competitions",
+      "Only annual medical check-ups with no other service",
+      "Only academic scholarships"
     ],
     "answer": "A"
   },
   {
     "id": 62,
     "type": "mcq",
-    "stem": "What range of roles is the midwife expected to fulfil during the process of birth?",
+    "stem": "Among the care and rehabilitative measures listed, which pairing BEST reflects two measures mentioned together?",
     "options": [
-      "Caring supporter, advocate, skilled practitioner, vigilant observer, and accurate recorder of facts",
-      "Solely a recorder of facts, with no clinical or supportive role",
-      "Solely an advocate, with no requirement for clinical skill",
-      "A passive bystander with no active role in the woman's care"
+      "Prompt assessment and corrective measure",
+      "Permanent isolation and denial of education",
+      "Financial penalty and exclusion from healthcare",
+      "Mandatory relocation and loss of citizenship"
     ],
     "answer": "A"
   },
   {
     "id": 63,
     "type": "mcq",
-    "stem": "According to the WHO definition cited, what characterizes a NORMAL labour?",
+    "stem": "Which TWO measures, listed together among the care and rehabilitative measures, combine treatment with teaching?",
     "options": [
-      "One that is low risk throughout, spontaneous in onset, with the foetus presenting by the vertex, culminating in the mother and baby being in good condition following birth",
-      "One that requires induction in every case",
-      "One that is high risk throughout but ends well",
-      "One defined solely by the duration of the second stage"
+      "Curative measure and educational treatment",
+      "Vocational training and housing provision only",
+      "Genetic counselling and immunization only",
+      "Family planning and dietary control only"
     ],
     "answer": "A"
   },
   {
     "id": 64,
     "type": "mcq",
-    "stem": "What criticism is made of definitions of normality in labour such as the WHO and Burvil definitions?",
+    "stem": "Which TWO measures, listed together among the care and rehabilitative measures, relate to work and occupation?",
     "options": [
-      "They considered the physical aspects of labour while ignoring the psychological dimensions",
-      "They focused exclusively on psychological dimensions while ignoring physical aspects",
-      "They were never used in clinical practice",
-      "They applied only to multiparous women"
+      "Vocational training and provision of employment",
+      "Centre for guidance and counselling only",
+      "Designing special gadgets only",
+      "Prompt assessment only"
     ],
     "answer": "A"
   },
   {
     "id": 65,
     "type": "mcq",
-    "stem": "Within the first stage of labour, which three phases are recognized, reflecting the psychological as well as physical aspects of labour?",
+    "stem": "Which TWO measures, listed together among the care and rehabilitative measures, focus on guidance and family involvement?",
     "options": [
-      "Latent, active, and transitional phases",
-      "Induction, consolidation, and resolution phases",
-      "Admission, assessment, and discharge phases",
-      "Early, middle, and late pregnancy phases"
+      "Centre for guidance and counselling, and counselling handicapped persons and their parents or family",
+      "Provision of employment and designing special gadgets only",
+      "Genetic counselling and family planning only",
+      "Immunization and maternal nutrition only"
     ],
     "answer": "A"
   },
   {
     "id": 66,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A primigravida at 39 weeks reports that, over the past week, she feels her bump has 'dropped,' she is breathing more easily, but is now passing urine far more often. On abdominal inspection the uterus looks almost pendulous. Which set of findings BEST explains this presentation?",
+    "stem": "CASE SCENARIO: A 9-year-old child is found on testing to have a mental age of 7.2 years. Using the standard IQ formula, which classification BEST fits this child, and what underlying cause category should the nurse consider exploring FIRST in the child's history?",
     "options": [
-      "Lightening has occurred, with the foetal head sinking into the lower uterine segment, relieving pressure on the diaphragm while increasing pressure on the bladder",
-      "These findings indicate the membranes have already ruptured and labour is established",
-      "These findings indicate a transverse lie and a saucer-like depression at the umbilicus",
-      "These findings are diagnostic of Bandl's ring and require emergency caesarean section"
+      "An IQ of 80% places the child at the boundary of a retarded school child; the nurse should first explore both congenital/hereditary and acquired (prenatal, perinatal, postnatal) causes in the history",
+      "An IQ of 80% automatically confirms Down syndrome regardless of other findings",
+      "An IQ of 80% indicates the child is gifted and requires only a scholarship referral",
+      "An IQ of 80% is clinically meaningless and requires no further history-taking"
     ],
     "answer": "A"
   },
   {
     "id": 67,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A woman in the active phase of the first stage, 6 cm dilated, suddenly experiences a trickle of clear fluid. The midwife notes the uterus rises forward with each contraction and the force is transmitted down the long axis of the foetus. Vaginal examination confirms ruptured membranes with clear liquor and a stable foetal heart rate. What should the midwife prioritize next?",
+    "stem": "CASE SCENARIO: A mother who took an unspecified drug during the first trimester of pregnancy delivers a child later found to have a limb abnormality, with no family history of similar conditions and no chromosomal abnormality on testing. Which category of cause is MOST consistent with this presentation?",
     "options": [
-      "Confirming there is no significant change in the foetal heart rate suggestive of cord prolapse and that the liquor remains clear, not meconium-stained, while noting that fetal axis pressure is now more significant",
-      "Performing an immediate artificial rupture of the remaining membranes to speed up labour",
-      "Discontinuing all further fetal heart rate monitoring since the membranes have ruptured spontaneously",
-      "Reassuring the woman that fetal axis pressure no longer applies once membranes rupture"
+      "A prenatal (environmental) cause, similar to the known effect of thalidomide taken during the first trimester",
+      "A postnatal cause, since the exposure occurred during pregnancy rather than after birth",
+      "A perinatal/natal cause, since the abnormality was identified at the time of delivery",
+      "A purely congenital/genetic cause, since no environmental exposure can produce limb abnormalities"
     ],
     "answer": "A"
   },
   {
     "id": 68,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A multigravida in strong labour is noted on palpation to have a ridge rising progressively higher across her abdomen, approaching the level of the umbilicus, in the context of a prolonged obstructed labour with a persistent occipitoposterior position. Which finding should the midwife suspect, and what is the associated risk?",
+    "stem": "CASE SCENARIO: A neonate experiences a prolonged difficult delivery complicated by cord prolapse, followed by documented hypoglycemia and respiratory acidosis in the first hours of life. The family asks the nurse which prevention strategy would have been relevant BEFORE this pregnancy, versus which is relevant NOW. Which response is MOST accurate?",
     "options": [
-      "A pathological Bandl's ring, with risk of severe trauma to the foetus and possible uterine rupture if obstruction is not relieved",
-      "A normal physiological show, with no associated risk",
-      "A caul, indicating an entirely normal and low-risk labour",
-      "Lightening, indicating that birth is imminent and no intervention is required"
+      "Genetic counselling and adequate maternal nutrition are primary prevention measures relevant before and during pregnancy; early detection and rehabilitation now fall under secondary and tertiary prevention",
+      "Genetic counselling is irrelevant to this case because the causes were entirely perinatal, not genetic",
+      "Only tertiary prevention measures exist for any case involving perinatal complications",
+      "Immunization for maternal rubella would have fully prevented the cord prolapse and hypoglycemia"
     ],
     "answer": "A"
   },
   {
     "id": 69,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A woman at 8 cm cervical dilatation suddenly reports that her contractions, previously every 2 to 3 minutes and very powerful, now feel briefly less intense, though she describes a strong urge that is not yet present. Which phase is she MOST likely in, and what should the midwife do?",
+    "stem": "CASE SCENARIO: A child with a diagnosed mobility impairment that limits independent movement, but with normal intellectual and social functioning, is being classified by the community health team. Which type of handicap BEST describes this child, and how does it differ from a child with an intellectual handicap?",
     "options": [
-      "The transitional phase, where a brief lull in uterine activity is recognized before full dilatation or the onset of expulsive contractions; the midwife should continue close observation rather than assume labour has slowed permanently",
-      "The latent phase, meaning labour has only just begun and she should be sent home",
-      "The second stage, meaning the baby has already been delivered",
-      "A sign of fetal distress requiring immediate caesarean section regardless of other findings"
+      "A locomotive handicap, which affects mobility specifically, in contrast to an intellectual handicap, which affects cognitive and learning capacity",
+      "A visceral handicap, since all handicaps affecting the body are classified as visceral",
+      "An invisible handicap, since mobility impairments are never visible to others",
+      "A communication handicap, since all physical impairments are classified under communication"
     ],
     "answer": "A"
   },
   {
     "id": 70,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A woman declines an artificial rupture of membranes offered to accelerate her slow labour, stating she prefers to wait for spontaneous rupture as noted in her birth plan. Her cervix is dilating at approximately 1 cm per hour with a normal foetal heart rate. What is the MOST appropriate midwifery response?",
+    "stem": "CASE SCENARIO: Two children are being discussed at a community health planning meeting: one has an IQ of 122 and excels academically, the other has an IQ of 45 and requires significant support with daily activities. Which pairing of management approaches is MOST appropriate for each child respectively?",
     "options": [
-      "Respect her right to decline the intervention without requiring a reason, document the discussion and her preference, and continue monitoring since her dilatation rate is within the accepted normal parameter",
-      "Perform the artificial rupture of membranes regardless of her wishes, since it is considered routine practice",
-      "Tell her that a dilatation rate of 1 cm per hour is abnormally slow and insist on immediate caesarean section",
-      "Refuse to continue caring for her unless she agrees to the procedure"
+      "The first child should be considered for scholarships and tasks commensurate with her IQ level; the second child requires careful assessment of potentials and referral to special care or rehabilitation centres",
+      "Both children should receive identical scholarship awards regardless of their differing needs",
+      "The first child should be referred to a rehabilitation centre, while the second child should receive a scholarship",
+      "Neither child requires any further assessment once their IQ has been documented"
     ],
     "answer": "A"
   },
   {
     "id": 71,
     "type": "fitb",
-    "stem": "A full bladder, distended colon, or obesity may give a false impression of ___ size.",
-    "answer": "foetal",
+    "stem": "An exceptional child is referred to as either a genius academically, manually, physically, or a child who is ___.",
+    "answer": "handicapped",
     "acceptableAnswers": [
-      "foetal",
-      "fetal",
-      "foetal (baby) size",
-      "the foetus"
+      "handicapped",
+      "a handicapped child"
     ]
   },
   {
     "id": 72,
     "type": "fitb",
-    "stem": "Only the area of the abdomen to be ___ should be exposed during an abdominal examination.",
-    "answer": "examined",
+    "stem": "The exceptionally good or up to date child is referred to as a ___ child.",
+    "answer": "gifted",
     "acceptableAnswers": [
-      "examined",
-      "assessed"
+      "gifted"
     ]
   },
   {
     "id": 73,
     "type": "fitb",
-    "stem": "If the foetus is in an occipitoposterior position, a ___-like depression may be seen at or below the umbilicus.",
-    "answer": "saucer",
+    "stem": "The exceptionally poor child, educationally, physically and manually, is referred to as a ___ child.",
+    "answer": "handicapped",
     "acceptableAnswers": [
-      "saucer",
-      "saucer shaped",
-      "saucer-shaped"
+      "handicapped"
     ]
   },
   {
     "id": 74,
     "type": "fitb",
-    "stem": "The midwife's hands should be clean and ___ for palpation, since cold hands do not have the necessary sense of touch.",
-    "answer": "warm",
+    "stem": "Handicapped children can be divided into mentally handicapped children and ___ children.",
+    "answer": "maladjusted",
     "acceptableAnswers": [
-      "warm"
+      "maladjusted"
     ]
   },
   {
     "id": 75,
     "type": "fitb",
-    "stem": "During palpation, the ___ of the fingers, not the tips, should be used.",
-    "answer": "pads",
+    "stem": "The causes of the exceptional child can be broadly divided into congenital/hereditary and ___ causes.",
+    "answer": "acquired",
     "acceptableAnswers": [
-      "pads",
-      "pad"
+      "acquired"
     ]
   },
   {
     "id": 76,
     "type": "fitb",
-    "stem": "Descent of the foetal head is measured by the number of ___ palpable above the pelvic brim.",
-    "answer": "fifths",
+    "stem": "Congenital causes refer to abnormalities of the ___ or chromosomes.",
+    "answer": "genes",
     "acceptableAnswers": [
-      "fifths",
-      "fifth's",
-      "fifths of the head"
+      "genes",
+      "gene"
     ]
   },
   {
     "id": 77,
     "type": "fitb",
-    "stem": "Findings on descent of the foetal head should be recorded in the ___.",
-    "answer": "partograph",
+    "stem": "Down syndrome, inborn errors of metabolism, microcephaly, muscular dystrophy, and ___ are listed as congenital causes.",
+    "answer": "sickle cell",
     "acceptableAnswers": [
-      "partograph"
+      "sickle cell",
+      "sickle cell disease",
+      "sickle cell anaemia"
     ]
   },
   {
     "id": 78,
     "type": "fitb",
-    "stem": "A birth plan gives the midwife and the woman an opportunity to discuss her ___ for labour and birth.",
-    "answer": "preferences",
+    "stem": "Prenatal causes affect the already formed foetus in utero, especially during the ___ trimester.",
+    "answer": "first",
     "acceptableAnswers": [
-      "preferences",
-      "plans",
-      "wishes"
+      "first",
+      "1st"
     ]
   },
   {
     "id": 79,
     "type": "fitb",
-    "stem": "A competent woman has the right to ___ any treatment, regardless of the consequences, without any obligation to give reasons.",
-    "answer": "refuse",
+    "stem": "Prenatal causes are also referred to as ___ causes.",
+    "answer": "environmental",
     "acceptableAnswers": [
-      "refuse",
-      "decline"
+      "environmental"
     ]
   },
   {
     "id": 80,
     "type": "fitb",
-    "stem": "On admission, a urine specimen is tested for protein, ___, and ketones.",
-    "answer": "glucose",
+    "stem": "___ is given as an example of a drug causing a prenatal handicap.",
+    "answer": "Thalidomide",
     "acceptableAnswers": [
-      "glucose",
-      "sugar"
+      "thalidomide",
+      "Thalidomide"
     ]
   },
   {
     "id": 81,
     "type": "fitb",
-    "stem": "Temperature and pulse rate are not checked during a uterine ___, as this increases the heart rate slightly.",
-    "answer": "contraction",
+    "stem": "Malaria and ___ are given as examples of infections causing prenatal handicap.",
+    "answer": "german measles",
     "acceptableAnswers": [
-      "contraction",
-      "contractions"
+      "german measles",
+      "German measles",
+      "rubella"
     ]
   },
   {
     "id": 82,
     "type": "fitb",
-    "stem": "Membranes that remain intact over the foetal head as it is born are described as a ___.",
-    "answer": "caul",
+    "stem": "Acquired aetiological factors are subdivided into perinatal/natal causes and ___ causes.",
+    "answer": "postnatal",
     "acceptableAnswers": [
-      "caul"
+      "postnatal",
+      "post natal",
+      "post-natal"
     ]
   },
   {
     "id": 83,
     "type": "fitb",
-    "stem": "Early rupture of membranes may lead to an increased incidence of ___ decelerations on CTG.",
-    "answer": "variable",
+    "stem": "Fetal anoxia, as a perinatal cause, is due to either maternal haemorrhage or ___.",
+    "answer": "cord prolapse",
     "acceptableAnswers": [
-      "variable"
+      "cord prolapse"
     ]
   },
   {
     "id": 84,
     "type": "fitb",
-    "stem": "All women are required to give ___ for an Artificial Rupture of Membranes (ARM).",
-    "answer": "consent",
+    "stem": "Postnatal causes of handicap occur ___ delivery.",
+    "answer": "after",
     "acceptableAnswers": [
-      "consent"
+      "after"
     ]
   },
   {
     "id": 85,
     "type": "fitb",
-    "stem": "Bandl's ring is a constriction between the upper contractile segment and the ___ lower uterine segment.",
-    "answer": "thinned",
+    "stem": "___ is specifically listed as an infection causing a postnatal handicap.",
+    "answer": "Measles",
     "acceptableAnswers": [
-      "thinned",
-      "thin"
+      "measles",
+      "Measles"
     ]
   },
   {
     "id": 86,
     "type": "fitb",
-    "stem": "A 'show' is released as a result of dilatation of the cervix and consists of the ___, which formed the cervical plug in pregnancy.",
-    "answer": "operculum",
+    "stem": "Prevention of handicap is organized into primary, secondary, and ___ prevention.",
+    "answer": "tertiary",
     "acceptableAnswers": [
-      "operculum"
+      "tertiary"
     ]
   },
   {
     "id": 87,
     "type": "fitb",
-    "stem": "The lower uterine segment is formed from the ___ and the cervix, and is about 8 to 10 cm long.",
-    "answer": "isthmus",
+    "stem": "Genetic counselling is an attempt to determine the risk of occurrence or ___ of specific genetic or chromosomal disorders.",
+    "answer": "reoccurrence",
     "acceptableAnswers": [
-      "isthmus"
+      "reoccurrence",
+      "re-occurrence",
+      "recurrence"
     ]
   },
   {
     "id": 88,
     "type": "fitb",
-    "stem": "Polarity is the ___ harmony that prevails between the two poles of the uterus throughout labour.",
-    "answer": "neuromuscular",
+    "stem": "Immunization for maternal ___ is listed as a primary prevention measure.",
+    "answer": "rubella",
     "acceptableAnswers": [
-      "neuromuscular"
+      "rubella"
     ]
   },
   {
     "id": 89,
     "type": "fitb",
-    "stem": "Disorganization of polarity results in ___ of labour.",
-    "answer": "inhibition",
+    "stem": "Secondary prevention involves early detection and treatment of preventable disorders such as phenylketonuria and ___.",
+    "answer": "hypothyroidism",
     "acceptableAnswers": [
-      "inhibition",
-      "an inhibition"
+      "hypothyroidism"
     ]
   },
   {
     "id": 90,
     "type": "fitb",
-    "stem": "In uterine muscle, contraction does not pass off entirely because the fibres retain some shortening; this is termed ___.",
-    "answer": "retraction",
+    "stem": "Tertiary prevention involves rehabilitation in vocational, physical, and ___ areas.",
+    "answer": "social",
     "acceptableAnswers": [
-      "retraction"
+      "social"
     ]
   },
   {
     "id": 91,
     "type": "fitb",
-    "stem": "Each uterine action starts near one of the ___ and spreads across and downward, a pattern known as fundal dominance.",
-    "answer": "cornua",
+    "stem": "The formula for IQ is mental age multiplied by 100, divided by ___ age.",
+    "answer": "real",
     "acceptableAnswers": [
-      "cornua",
-      "cornu"
+      "real",
+      "chronological"
     ]
   },
   {
     "id": 92,
     "type": "fitb",
-    "stem": "Anxiety can increase the production of ___, which inhibits uterine activity and may prolong labour.",
-    "answer": "adrenaline",
+    "stem": "A child of 10 years whose mental age is 12 years has an IQ of ___ percent.",
+    "answer": "120",
     "acceptableAnswers": [
-      "adrenaline",
-      "epinephrine"
+      "120",
+      "120%"
     ]
   },
   {
     "id": 93,
     "type": "fitb",
-    "stem": "The first stage of labour is divided into the latent, ___, and transitional phases.",
-    "answer": "active",
+    "stem": "A normal child should have an IQ of ___ percent.",
+    "answer": "100",
     "acceptableAnswers": [
-      "active"
+      "100",
+      "100%"
     ]
   },
   {
     "id": 94,
     "type": "fitb",
-    "stem": "Frequent micturition in late pregnancy occurs because of pressure of the foetal head on the ___.",
-    "answer": "bladder",
+    "stem": "An IQ of between 120 and 125 indicates a ___ brilliant child.",
+    "answer": "very",
     "acceptableAnswers": [
-      "bladder"
+      "very"
     ]
   },
   {
     "id": 95,
     "type": "fitb",
-    "stem": "Loss of weight towards the end of pregnancy is believed to be a result of a reduction in ___ at term.",
-    "answer": "liquor amnii",
+    "stem": "An IQ of between ___ and ___ indicates a bright school child.",
+    "answer": "115; 120",
     "acceptableAnswers": [
-      "liquor amnii",
-      "amniotic fluid",
-      "liquor"
+      "115; 120"
     ]
   },
   {
     "id": 96,
     "type": "fitb",
-    "stem": "Progress of labour is measured by descent of the ___ and ___ of the cervix.",
-    "answer": "head; dilatation",
+    "stem": "An IQ of less than ___ indicates a severe educational subnormal child.",
+    "answer": "50",
     "acceptableAnswers": [
-      "head; dilatation",
-      "the head; dilatation",
-      "foetal head; dilatation"
+      "50"
     ]
   },
   {
     "id": 97,
     "type": "fitb",
-    "stem": "The upper uterine segment is formed from the body of the ___ and is concerned mainly with contraction and retraction.",
-    "answer": "fundus",
+    "stem": "The IQ ranges given are just guidelines, as ___ occur in grouping.",
+    "answer": "exceptions",
     "acceptableAnswers": [
-      "fundus"
+      "exceptions"
     ]
   },
   {
     "id": 98,
     "type": "fitb",
-    "stem": "Effacement of the cervix is believed to take place from ___ downward.",
-    "answer": "above",
+    "stem": "Types of handicap include locomotive, communication, visual, intellectual, emotional, social, visceral, and ___ handicap.",
+    "answer": "invisible",
     "acceptableAnswers": [
-      "above"
+      "invisible"
     ]
   },
   {
     "id": 99,
     "type": "fitb",
-    "stem": "In the active phase, the cervix dilates rapidly from ___ cm to full dilatation of 10 cm.",
-    "answer": "4",
+    "stem": "Gifted children are given special performance awards such as ___, both nationally and internationally.",
+    "answer": "scholarships",
     "acceptableAnswers": [
-      "4",
-      "four"
+      "scholarships",
+      "scholarship"
     ]
   },
   {
     "id": 100,
     "type": "fitb",
-    "stem": "One guideline accepts a cervical dilatation rate of ___ cm per hour as a parameter for normal labour, as an alternative to the commonly cited 1 cm per hour.",
-    "answer": "0.5",
+    "stem": "All handicapped children must be carefully assessed as regards their ___, to know where to fix them.",
+    "answer": "potentials",
     "acceptableAnswers": [
-      "0.5",
-      "half a",
-      "point five"
+      "potentials",
+      "potential"
     ]
   }
 ]
