@@ -2,1129 +2,1133 @@
   {
     "id": 1,
     "type": "mcq",
-    "stem": "An exceptional child is referred to as either a child who is a genius academically, manually, or physically, or which OTHER type of child?",
+    "stem": "How is 'blindness' defined in terms of its effect on daily living?",
     "options": [
-      "A child who is handicapped",
-      "A child who is exactly average in all domains",
-      "A child who has never been assessed",
-      "A child who attends only private school"
+      "The complete or almost complete loss of vision that cannot be corrected by glasses, contact lenses, medication, or surgery, to the extent that it significantly impairs a person's ability to perform activities of daily living using sight alone",
+      "Any reduction in visual acuity that can be fully corrected with spectacles",
+      "A temporary reduction in vision lasting less than 24 hours",
+      "A condition that affects only the ability to read small print"
     ],
     "answer": "A"
   },
   {
     "id": 2,
     "type": "mcq",
-    "stem": "Into how many main classifications is the exceptional child divided?",
+    "stem": "According to the WHO Classification of Visual Impairment, what visual acuity range in the better eye defines Normal/mild impairment?",
     "options": [
-      "Two",
-      "Four",
-      "Six",
-      "One, with no further subdivision"
+      "6/6 to 6/18",
+      "Less than 6/18 to 6/60",
+      "Less than 6/60 to 3/60",
+      "Less than 3/60"
     ],
     "answer": "A"
   },
   {
     "id": 3,
     "type": "mcq",
-    "stem": "Children who are exceptionally good or exceptionally up to date physically, manually, and academically are referred to as what?",
+    "stem": "According to the WHO Classification, what visual acuity range in the better eye defines Moderate visual impairment?",
     "options": [
-      "Gifted children",
-      "Maladjusted children",
-      "Educationally subnormal children",
-      "Imbecile children"
+      "Less than 6/18 to 6/60",
+      "6/6 to 6/18",
+      "Less than 3/60 to no light perception",
+      "Less than 6/60 to 3/60"
     ],
     "answer": "A"
   },
   {
     "id": 4,
     "type": "mcq",
-    "stem": "Children who are exceptionally poor educationally, physically, and manually are referred to as what?",
+    "stem": "According to the WHO Classification, what visual acuity range in the better eye defines Severe visual impairment?",
     "options": [
-      "Handicapped children",
-      "Gifted children",
-      "Average school children",
-      "Bright school children"
+      "Less than 6/60 to 3/60",
+      "6/6 to 6/18",
+      "Less than 6/18 to 6/60",
+      "No light perception only"
     ],
     "answer": "A"
   },
   {
     "id": 5,
     "type": "mcq",
-    "stem": "Handicapped children can be further divided into which two groups?",
+    "stem": "According to the WHO Classification, blindness is defined as visual acuity of less than 3/60, OR which alternative criterion?",
     "options": [
-      "Mentally handicapped children and maladjusted children",
-      "Gifted children and average children",
-      "Physically fit children and physically unfit children",
-      "Rural children and urban children"
+      "A visual field of less than 10 degrees around central fixation",
+      "A visual field of more than 90 degrees around central fixation",
+      "Any visual acuity below 6/6",
+      "Inability to read newsprint at 40 cm"
     ],
     "answer": "A"
   },
   {
     "id": 6,
     "type": "mcq",
-    "stem": "Which of the following conditions is classified under mentally handicapped children?",
+    "stem": "The term 'low vision' is commonly used to describe which category of visual impairment?",
     "options": [
-      "Mongolism, imbecility, moron, and educationally subnormal",
-      "Only visual impairment",
-      "Only locomotive handicap",
-      "Only communication handicap"
+      "Moderate visual impairment, which is worse than 6/18 but better than blindness, even with best correction",
+      "Total and complete loss of all light perception",
+      "Visual acuity of exactly 6/6 in both eyes",
+      "A visual field defect affecting only peripheral vision with normal central acuity"
     ],
     "answer": "A"
   },
   {
     "id": 7,
     "type": "mcq",
-    "stem": "According to the definition given, the term 'handicap' refers to which of the following?",
+    "stem": "Blindness can be classified by avoidability. What does 'preventable blindness' refer to?",
     "options": [
-      "Any disability of the body, intelligence, or personality which is likely to interfere with the individual's growth and development and, at times, their capacity to learn",
-      "A temporary condition that always resolves without intervention",
-      "A condition found only in children over the age of 15",
-      "A term used exclusively for physical sporting ability"
+      "Blindness that could have been avoided through health promotion and prevention, such as trachoma, vitamin A deficiency, ophthalmia neonatorum, and trauma",
+      "Blindness that is always curable once it occurs",
+      "Blindness that occurs only in adults over age 60",
+      "Blindness caused exclusively by genetic mutations"
     ],
     "answer": "A"
   },
   {
     "id": 8,
     "type": "mcq",
-    "stem": "The causes of the exceptional child can be broadly divided into which two categories?",
+    "stem": "What does 'curable/treatable blindness' refer to, under the classification of blindness by avoidability?",
     "options": [
-      "Congenital/hereditary and acquired",
-      "Mild and severe",
-      "Treatable and untreatable",
-      "Urban and rural"
+      "Blindness that is reversible with timely treatment, such as cataract and some cases of corneal opacity or refractive error",
+      "Blindness that can never be reversed under any circumstances",
+      "Blindness present from birth in all cases",
+      "Blindness that affects only one eye"
     ],
     "answer": "A"
   },
   {
     "id": 9,
     "type": "mcq",
-    "stem": "Acquired causes of exceptionality are described as secondary to which of the following?",
+    "stem": "'Avoidable blindness' is best described as the sum of which two categories?",
     "options": [
-      "Other conditions such as infections or drugs",
-      "The child's own personality traits",
-      "The family's socioeconomic status alone",
-      "The school curriculum"
+      "Preventable blindness and curable/treatable blindness",
+      "Congenital blindness and acquired blindness",
+      "Unilateral blindness and bilateral blindness",
+      "Moderate visual impairment and severe visual impairment"
     ],
     "answer": "A"
   },
   {
     "id": 10,
     "type": "mcq",
-    "stem": "Congenital/hereditary causes can be due to congenital aetiological causes or which other type of factor?",
+    "stem": "Avoidable blindness is considered the major target of which type of programme?",
     "options": [
-      "Acquired aetiological factors",
-      "Postnatal aetiological factors only",
-      "Environmental factors occurring after age five",
-      "Factors related solely to maternal occupation"
+      "Blindness-prevention programmes",
+      "Programmes for congenital heart disease screening",
+      "General nutrition programmes unrelated to eye health",
+      "Maternal mortality reduction programmes"
     ],
     "answer": "A"
   },
   {
     "id": 11,
     "type": "mcq",
-    "stem": "'Congenital' causes, as defined in this classification, refer to abnormalities of which structures?",
+    "stem": "'Unavoidable blindness' refers to blindness that cannot currently be prevented or cured, giving which example?",
     "options": [
-      "The genes or chromosomes",
-      "The placenta only",
-      "The umbilical cord only",
-      "The maternal pelvis"
+      "Advanced optic atrophy or some inherited retinal dystrophies",
+      "Cataract diagnosed early in a community eye camp",
+      "Refractive error correctable with spectacles",
+      "Conjunctivitis treated promptly at a primary health centre"
     ],
     "answer": "A"
   },
   {
     "id": 12,
     "type": "mcq",
-    "stem": "Which condition is listed as resulting from a congenital (genetic/chromosomal) cause?",
+    "stem": "Blindness can also be classified by onset. What is 'congenital blindness'?",
     "options": [
-      "Down syndrome",
-      "Birth asphyxia",
-      "Electrolyte imbalance",
-      "Poisoning"
+      "Blindness present at or shortly after birth",
+      "Blindness that develops after the age of 60 only",
+      "Blindness that results exclusively from trauma in adulthood",
+      "Blindness that is always temporary and resolves spontaneously"
     ],
     "answer": "A"
   },
   {
     "id": 13,
     "type": "mcq",
-    "stem": "Which inborn error of metabolism is specifically listed as a congenital cause of exceptionality?",
+    "stem": "What is 'acquired blindness', as distinguished from congenital blindness?",
     "options": [
-      "Phenylketonuria",
-      "Hypoglycemia",
-      "Respiratory acidosis",
-      "Metabolic acidosis"
+      "Blindness developing later in life from disease, trauma, or degeneration",
+      "Blindness present at birth only",
+      "Blindness caused solely by inherited chromosomal abnormalities",
+      "Blindness that cannot be classified by onset at all"
     ],
     "answer": "A"
   },
   {
     "id": 14,
     "type": "mcq",
-    "stem": "Besides Down syndrome and phenylketonuria, which of the following is ALSO listed as a congenital cause?",
+    "stem": "Blindness can also be classified by laterality. What distinguishes 'unilateral' from 'bilateral' blindness?",
     "options": [
-      "Microcephaly, muscular dystrophy, and sickle cell",
-      "Cord prolapse",
-      "Maternal haemorrhage",
-      "Birth asphyxia"
+      "Unilateral blindness affects one eye, while bilateral blindness affects both eyes",
+      "Unilateral blindness is always congenital, while bilateral blindness is always acquired",
+      "Unilateral blindness is always curable, while bilateral blindness is always unavoidable",
+      "There is no distinction; the terms are interchangeable"
     ],
     "answer": "A"
   },
   {
     "id": 15,
     "type": "mcq",
-    "stem": "'Prenatal' causes are described as factors affecting the already formed foetus in utero, especially during which period?",
+    "stem": "The Nigeria National Blindness and Visual Impairment Survey, conducted over 2005 to 2007, is notable for which feature?",
     "options": [
-      "The first trimester",
-      "The final week before delivery only",
-      "The neonatal period",
-      "Early childhood"
+      "It was the largest population-based eye survey in the country, examining over 13,500 adults aged 40 years and above",
+      "It examined only children under five years of age",
+      "It was conducted exclusively in urban hospital settings",
+      "It surveyed fewer than 500 participants nationwide"
     ],
     "answer": "A"
   },
   {
     "id": 16,
     "type": "mcq",
-    "stem": "Prenatal causes of exceptionality are also referred to by which alternative term?",
+    "stem": "According to the Nigeria National Blindness and Visual Impairment Survey, what was the estimated prevalence of blindness (presenting vision) among adults aged 40 years and above?",
     "options": [
-      "Environmental causes",
-      "Genetic causes",
-      "Hereditary causes",
-      "Chromosomal causes"
+      "4.2%, translating to an estimated 1.13 million blind adults",
+      "0.2%, translating to fewer than 50,000 blind adults",
+      "25%, translating to over 10 million blind adults",
+      "4.2% among children under five only"
     ],
     "answer": "A"
   },
   {
     "id": 17,
     "type": "mcq",
-    "stem": "Thalidomide is given as an example of which type of prenatal cause?",
+    "stem": "In which geopolitical zone of Nigeria was blindness prevalence found to be HIGHEST, also carrying the largest share of the country's blind population?",
     "options": [
-      "A drug cause",
-      "An infection cause",
-      "A dietary cause",
-      "A radiation cause"
+      "The North-West geopolitical zone",
+      "The South-West geopolitical zone only",
+      "The South-South geopolitical zone only",
+      "The Federal Capital Territory exclusively"
     ],
     "answer": "A"
   },
   {
     "id": 18,
     "type": "mcq",
-    "stem": "Malaria and German measles are given as examples of which type of prenatal cause?",
+    "stem": "Blindness prevalence in Nigeria was found to be significantly higher among which groups?",
     "options": [
-      "Infections",
-      "Maternal antibodies",
-      "Dietary factors",
-      "Drugs"
+      "Women, illiterate persons, and people in poorer households",
+      "Only men with tertiary education",
+      "Only children under the age of five",
+      "Only residents of the wealthiest urban households"
     ],
     "answer": "A"
   },
   {
     "id": 19,
     "type": "mcq",
-    "stem": "Besides drugs and infections, which of the following are ALSO listed as prenatal (environmental) causes?",
+    "stem": "More recent state-level Rapid Assessment of Avoidable Blindness (RAAB) surveys, such as in Kogi State, found blindness prevalence in which range, confirming the burden remained substantial?",
     "options": [
-      "Maternal antibodies, maternal toxemia, dietary factors, and radiation",
-      "Postnatal poisoning and trauma",
-      "Birth asphyxia and cord prolapse",
-      "Old age and malnutrition occurring after birth"
+      "Around 3.0% to 3.7%",
+      "Around 0.1% to 0.5%",
+      "Around 25% to 30%",
+      "Around 50% to 60%"
     ],
     "answer": "A"
   },
   {
     "id": 20,
     "type": "mcq",
-    "stem": "Acquired aetiological factors are subdivided into which two categories?",
+    "stem": "Nigeria's National Eye Health Programme more recently cited an estimated national blindness figure of how many people?",
     "options": [
-      "Perinatal/natal causes and postnatal causes",
-      "Congenital causes and prenatal causes",
-      "Primary and secondary prevention",
-      "Mild and severe handicap"
+      "About 1.3 million people currently blind",
+      "About 13,000 people currently blind",
+      "About 130 million people currently blind",
+      "About 1,300 people currently blind"
     ],
     "answer": "A"
   },
   {
     "id": 21,
     "type": "mcq",
-    "stem": "Perinatal or natal causes are described as defects due to which of the following?",
+    "stem": "According to the National Blindness and Visual Impairment Survey, approximately what percentage of blindness in Nigeria is avoidable (preventable or treatable)?",
     "options": [
-      "Complications of delivery, which can cause handicap, for example trauma",
-      "Abnormalities of the genes and chromosomes",
-      "Factors affecting the foetus during the first trimester",
-      "Infections occurring years after birth"
+      "Approximately 84%",
+      "Approximately 8%",
+      "Approximately 50%",
+      "Approximately 100%, with no exceptions"
     ],
     "answer": "A"
   },
   {
     "id": 22,
     "type": "mcq",
-    "stem": "Fetal anoxia, as a perinatal cause of handicap, is specifically due to which of the following?",
+    "stem": "What is the SINGLE leading cause of blindness in Nigeria, accounting for roughly 43% of cases?",
     "options": [
-      "Either maternal haemorrhage or cord prolapse",
-      "Maternal rubella infection only",
-      "Thalidomide exposure only",
-      "Dietary deficiency in the third trimester only"
+      "Cataract",
+      "Glaucoma",
+      "Trachoma",
+      "Onchocerciasis"
     ],
     "answer": "A"
   },
   {
     "id": 23,
     "type": "mcq",
-    "stem": "Besides fetal anoxia and trauma, which of the following are ALSO listed as perinatal/natal causes?",
+    "stem": "What is the leading cause of IRREVERSIBLE blindness in Nigeria, accounting for roughly 16.7% of cases?",
     "options": [
-      "Hypoglycemia, respiratory or metabolic acidosis, and birth asphyxia",
-      "Microcephaly and muscular dystrophy",
-      "Thalidomide and radiation exposure",
-      "Measles and poisoning"
+      "Glaucoma",
+      "Cataract",
+      "Uncorrected refractive error",
+      "Corneal opacity"
     ],
     "answer": "A"
   },
   {
     "id": 24,
     "type": "mcq",
-    "stem": "Postnatal causes of handicap are defined as causes that occur in which time period?",
+    "stem": "What does 'uncorrected aphakia', a cause of blindness in Nigeria, specifically refer to?",
     "options": [
-      "After delivery",
-      "Only during the first trimester",
-      "Only during the second trimester",
-      "Before conception"
+      "An unoperated or complicated cataract surgery performed without a replacement lens",
+      "A refractive error correctable by simple reading glasses",
+      "A tumour of the orbit in adults",
+      "A genetic condition present at birth"
     ],
     "answer": "A"
   },
   {
     "id": 25,
     "type": "mcq",
-    "stem": "Which infection is specifically listed as a postnatal cause of handicap?",
+    "stem": "Corneal opacity/scarring, a cause of blindness in Nigeria accounting for roughly 7.9% of cases, most commonly results from which causes?",
     "options": [
-      "Measles",
-      "German measles (prenatally)",
-      "Malaria (prenatally)",
-      "Congenital rubella syndrome"
+      "Trauma, infection, or harmful traditional eye medicine",
+      "Normal ageing alone, with no other contributing factor",
+      "Vitamin overdose exclusively",
+      "Excessive screen time alone"
     ],
     "answer": "A"
   },
   {
     "id": 26,
     "type": "mcq",
-    "stem": "Besides infection and trauma, which of the following are ALSO listed as postnatal causes of handicap?",
+    "stem": "In the same Nigerian survey population, uncorrected refractive error, while rarely a cause of outright blindness, is responsible for the majority of which condition?",
     "options": [
-      "Poisoning, electrolyte imbalance, malnutrition, and radiation",
-      "Maternal antibodies and maternal toxemia",
-      "Chromosomal abnormalities and inborn errors of metabolism",
-      "Cord prolapse and maternal haemorrhage"
+      "Moderate visual impairment",
+      "Severe systemic hypertension",
+      "Childhood malnutrition",
+      "Congenital heart disease"
     ],
     "answer": "A"
   },
   {
     "id": 27,
     "type": "mcq",
-    "stem": "Prevention of handicap is organized into which three levels?",
+    "stem": "Globally, which condition is considered the single commonest cause of visual impairment worldwide?",
     "options": [
-      "Primary, secondary, and tertiary prevention",
-      "Mild, moderate, and severe prevention",
-      "Congenital, perinatal, and postnatal prevention",
-      "Hospital, community, and home-based prevention"
+      "Uncorrected refractive error",
+      "Retinoblastoma",
+      "Ocular surface squamous neoplasia",
+      "Ophthalmia neonatorum"
     ],
     "answer": "A"
   },
   {
     "id": 28,
     "type": "mcq",
-    "stem": "Genetic counselling, a form of primary prevention, is described as an attempt to determine which of the following?",
+    "stem": "Which infectious cause of blindness is caused by Chlamydia trachomatis, spread by flies and poor hygiene, leading to inward-turned eyelashes that scratch the cornea?",
     "options": [
-      "The risk of occurrence or reoccurrence of specific genetic or chromosomal disorders",
-      "The exact IQ the unborn child will have",
-      "The child's eventual career aptitude",
-      "The family's eligibility for scholarships"
+      "Trachoma",
+      "Onchocerciasis",
+      "Ophthalmia neonatorum",
+      "Retinoblastoma"
     ],
     "answer": "A"
   },
   {
     "id": 29,
     "type": "mcq",
-    "stem": "What is the purpose of genetic counselling in terms of parental decision-making?",
+    "stem": "What term describes the inward-turning of the eyelashes caused by repeated trachoma infection, which then scratches the cornea?",
     "options": [
-      "To allow parents to make an informed choice regarding the risk of having a retarded child",
-      "To mandate termination of all high-risk pregnancies",
-      "To remove the need for any further antenatal care",
-      "To guarantee a gifted child will be born"
+      "Trichiasis",
+      "Leukocoria",
+      "Phthisis bulbi",
+      "Xerophthalmia"
     ],
     "answer": "A"
   },
   {
     "id": 30,
     "type": "mcq",
-    "stem": "Which immunization is specifically listed as a form of primary prevention of handicap?",
+    "stem": "Onchocerciasis ('river blindness') is caused by which organism?",
     "options": [
-      "Immunization for maternal rubella",
-      "Immunization against tetanus in adolescents only",
-      "Immunization against poliomyelitis in adulthood only",
-      "Immunization against malaria"
+      "The filarial worm Onchocerca volvulus",
+      "Chlamydia trachomatis",
+      "Neisseria gonorrhoeae",
+      "Vitamin A deficiency"
     ],
     "answer": "A"
   },
   {
     "id": 31,
     "type": "mcq",
-    "stem": "Adequate maternal nutrition, as a primary prevention measure, is said to lay a foundation for which of the following?",
+    "stem": "Onchocerciasis is transmitted by which vector, which breeds in fast-flowing rivers?",
     "options": [
-      "A sound metabolic foundation for later child-bearing",
-      "An immediate increase in the mother's own IQ",
-      "A guaranteed reduction in labour duration",
-      "A permanent cure for existing handicaps"
+      "The blackfly (Simulium)",
+      "The mosquito (Anopheles)",
+      "The tsetse fly",
+      "The housefly (Musca domestica)"
     ],
     "answer": "A"
   },
   {
     "id": 32,
     "type": "mcq",
-    "stem": "Family planning, as a primary prevention measure, can affect specific causal agents through which factors?",
+    "stem": "Corneal ulcers, as a cause of eye problems, most often follow which of the following?",
     "options": [
-      "Size, appropriate spacing, and age of parents",
-      "The family's choice of school for existing children",
-      "The family's religious affiliation",
-      "The family's geographic location only"
+      "Trauma, exposure, or scratches from unorthodox/traditional eye medicines",
+      "Routine use of prescribed spectacles",
+      "Adequate vitamin A intake",
+      "Immunization against rubella"
     ],
     "answer": "A"
   },
   {
     "id": 33,
     "type": "mcq",
-    "stem": "Secondary prevention of handicap involves early detection and treatment of which type of disorders?",
+    "stem": "Ophthalmia neonatorum is usually caused by which maternal infections transmitted during delivery?",
     "options": [
-      "Preventable disorders such as phenylketonuria and hypothyroidism",
-      "Only disorders that are already irreversible",
-      "Only disorders diagnosed after age 18",
-      "Only disorders affecting vision"
+      "Maternal gonococcal or chlamydial infection",
+      "Maternal vitamin A deficiency",
+      "Maternal diabetes mellitus",
+      "Maternal iron-deficiency anaemia"
     ],
     "answer": "A"
   },
   {
     "id": 34,
     "type": "mcq",
-    "stem": "Phenylketonuria and hypothyroidism, if detected early, can be effectively treated at an early stage using which approach?",
+    "stem": "If left untreated, ophthalmia neonatorum can rapidly progress to cause which serious complication?",
     "options": [
-      "Dietary control and hormone replacement therapy",
-      "Surgical correction alone",
-      "Radiation therapy alone",
-      "No treatment is possible even with early detection"
+      "Corneal perforation and blindness",
+      "Complete resolution without any treatment required",
+      "Improved visual acuity compared to baseline",
+      "A benign, self-limiting rash with no ocular involvement"
     ],
     "answer": "A"
   },
   {
     "id": 35,
     "type": "mcq",
-    "stem": "Early detection of the presence of mental retardation is important because a delay in diagnosis may cause which outcome?",
+    "stem": "Vitamin A deficiency (VAD), as a nutritional cause of eye problems, can lead to night blindness, conjunctival/corneal xerosis, Bitot's spots, and which severe complication?",
     "options": [
-      "An unfortunate delay in rehabilitation",
-      "An automatic improvement in the child's IQ",
-      "A guaranteed cure without further intervention",
-      "No measurable effect on the child's development"
+      "Keratomalacia (corneal melting)",
+      "Retinoblastoma",
+      "Pterygium",
+      "Diabetic retinopathy"
     ],
     "answer": "A"
   },
   {
     "id": 36,
     "type": "mcq",
-    "stem": "Psychiatric treatment, under secondary prevention, is primarily aimed at addressing which difficulties?",
+    "stem": "Vitamin A deficiency and its ocular complications are especially significant in which population group?",
     "options": [
-      "Emotional and behavioural difficulties",
-      "Only physical locomotive difficulties",
-      "Only visual difficulties",
-      "Only communication difficulties arising from deafness"
+      "Malnourished children under the age of five",
+      "Adults over the age of 80 exclusively",
+      "Pregnant women in the third trimester exclusively",
+      "Healthy, well-nourished adolescents"
     ],
     "answer": "A"
   },
   {
     "id": 37,
     "type": "mcq",
-    "stem": "Tertiary prevention of handicap involves rehabilitation in which areas?",
+    "stem": "Cataract, a degenerative and age-related condition, refers to which pathological process?",
     "options": [
-      "Vocational, physical, and social areas",
-      "Only academic areas",
-      "Only recreational areas",
-      "Only financial areas"
+      "Clouding of the lens",
+      "Clouding of the cornea only",
+      "Scarring of the conjunctiva",
+      "Inflammation of the eyelid margin"
     ],
     "answer": "A"
   },
   {
     "id": 38,
     "type": "mcq",
-    "stem": "Rehabilitation under tertiary prevention is aimed at achieving which outcome for a child with mental retardation?",
+    "stem": "Besides being strongly age-related, cataract can also be which of the following?",
     "options": [
-      "Reducing disability and providing optimal functioning",
-      "Completely reversing all genetic abnormalities",
-      "Eliminating the need for any further assessment",
-      "Guaranteeing admission to a mainstream university"
+      "Congenital, traumatic, or secondary to diabetes or steroid use",
+      "Exclusively inherited, with no other possible cause",
+      "Caused only by excessive reading",
+      "Entirely reversible without any surgical intervention"
     ],
     "answer": "A"
   },
   {
     "id": 39,
     "type": "mcq",
-    "stem": "What is the standard formula used to calculate Intelligence Quotient (IQ)?",
+    "stem": "Glaucoma is best described as which pathological process?",
     "options": [
-      "Mental age multiplied by 100, divided by real (chronological) age",
-      "Real age multiplied by 100, divided by mental age",
-      "Mental age divided by 100, multiplied by real age",
-      "Real age minus mental age, multiplied by 100"
+      "Progressive optic nerve damage, usually associated with raised intraocular pressure",
+      "Clouding of the lens due to ageing",
+      "A wing-shaped growth on the corneal surface",
+      "An infection of the conjunctiva caused by bacteria"
     ],
     "answer": "A"
   },
   {
     "id": 40,
     "type": "mcq",
-    "stem": "A child aged 10 years has a mental age of 12 years. Using the standard IQ formula, what is this child's IQ?",
+    "stem": "Why is glaucoma sometimes referred to as 'the silent thief of sight'?",
     "options": [
-      "120%",
-      "100%",
-      "83%",
-      "12%"
+      "Because it often remains asymptomatic until the disease is advanced",
+      "Because it always causes sudden, severe pain from the very first symptom",
+      "Because it exclusively affects children under five years old",
+      "Because it is always accompanied by a visible white pupillary reflex"
     ],
     "answer": "A"
   },
   {
     "id": 41,
     "type": "mcq",
-    "stem": "According to the IQ formula and classification given, what IQ percentage should a NORMAL child have?",
+    "stem": "Diabetic retinopathy results from which underlying process?",
     "options": [
-      "100%",
-      "50%",
-      "150%",
-      "0%"
+      "Damage to retinal blood vessels from long-standing, poorly controlled diabetes mellitus",
+      "A congenital abnormality of the optic nerve present at birth",
+      "An allergic reaction to pollen and dust",
+      "A bacterial infection of the eyelid margin"
     ],
     "answer": "A"
   },
   {
     "id": 42,
     "type": "mcq",
-    "stem": "A gifted child, according to the classification given, could have an IQ of what value or higher?",
+    "stem": "Ocular trauma, as a cause of blindness, commonly arises from which activities, particularly in farming communities?",
     "options": [
-      "More than 120%",
-      "Exactly 50%",
-      "Less than 55%",
-      "Exactly 90%"
+      "Accidents, domestic violence, sports, and agricultural tools",
+      "Routine antenatal check-ups",
+      "Scheduled eye screening clinics",
+      "Vitamin A supplementation programmes"
     ],
     "answer": "A"
   },
   {
     "id": 43,
     "type": "mcq",
-    "stem": "An IQ of between 120 and 125 corresponds to which classification?",
+    "stem": "Retinopathy of prematurity, a congenital/genetic category cause of blindness, is specifically associated with which exposure in preterm or low-birth-weight babies?",
     "options": [
-      "A very brilliant child",
-      "A bright school child",
-      "An average school child",
-      "A retarded school child"
+      "Uncontrolled oxygen therapy",
+      "Excessive vitamin A supplementation",
+      "Maternal rubella infection in the third trimester only",
+      "Routine newborn eye prophylaxis with antibiotic ointment"
     ],
     "answer": "A"
   },
   {
     "id": 44,
     "type": "mcq",
-    "stem": "An IQ of between 115 and 120 corresponds to which classification?",
+    "stem": "Which harmful practice involves instilling breast milk, urine, or plant/herbal concoctions into the eye for 'cleansing' or treatment of red eye, and is a well-documented cause of corneal ulceration and blindness in Nigeria?",
     "options": [
-      "A bright school child",
-      "A very brilliant child",
-      "A retarded school child",
-      "A severe educational subnormal child"
+      "Harmful traditional and self-medication eye practices",
+      "Standard pharmacological eye drop therapy prescribed by an ophthalmologist",
+      "Routine use of artificial tears for dry eye",
+      "Use of UV-protective sunglasses"
     ],
     "answer": "A"
   },
   {
     "id": 45,
     "type": "mcq",
-    "stem": "An IQ of between 90 and 115 corresponds to which classification?",
+    "stem": "Retinoblastoma, a tumour affecting children, presents classically with which finding?",
     "options": [
-      "An average school child",
-      "A bright school child",
-      "A retarded school child",
-      "A very brilliant child"
+      "A white pupillary reflex, described as 'leukocoria' or 'cat's eye reflex'",
+      "A red, painful eye with purulent discharge",
+      "A wing-shaped growth on the cornea",
+      "Complete absence of the eyeball at birth"
     ],
     "answer": "A"
   },
   {
     "id": 46,
     "type": "mcq",
-    "stem": "An IQ of between 80 and 90 corresponds to which classification?",
+    "stem": "Ocular surface squamous neoplasia, a tumour affecting adults, is particularly associated with which infection?",
     "options": [
-      "A retarded school child",
-      "An average school child",
-      "A bright school child",
-      "A very brilliant child"
+      "HIV infection",
+      "Vitamin A deficiency",
+      "Onchocerciasis",
+      "Ophthalmia neonatorum"
     ],
     "answer": "A"
   },
   {
     "id": 47,
     "type": "mcq",
-    "stem": "An IQ of between 55 and 90 corresponds to which classification, according to the ranges given?",
+    "stem": "In the Nigerian context, cataract is described as the single leading cause of blindness, with a large backlog of untreated cases due to which combination of factors?",
     "options": [
-      "An educationally subnormal child",
-      "A very brilliant child",
-      "A bright school child",
-      "An average school child"
+      "Poor awareness, cost, distance to surgical services, and fear of surgery",
+      "Universal free access to surgery with no remaining backlog",
+      "Excess surgical capacity with too few patients to treat",
+      "A complete absence of any surgical treatment option"
     ],
     "answer": "A"
   },
   {
     "id": 48,
     "type": "mcq",
-    "stem": "An IQ of less than 50 corresponds to which classification?",
+    "stem": "In the Nigerian context, glaucoma is described as the second leading cause of blindness, noted for which clinical course in populations of African descent?",
     "options": [
-      "A severe educational subnormal child",
-      "A very brilliant child",
-      "An average school child",
-      "A bright school child"
+      "A more aggressive course, often asymptomatic until advanced",
+      "A course that is always mild and self-limiting",
+      "A course that exclusively affects people under 10 years old",
+      "A course that resolves spontaneously without any treatment"
     ],
     "answer": "A"
   },
   {
     "id": 49,
     "type": "mcq",
-    "stem": "Which of the following is listed as a type of handicap?",
+    "stem": "In the Nigerian context, uncorrected refractive error is described as the leading cause of which category of visual impairment?",
     "options": [
-      "Locomotive handicap",
-      "Nutritional handicap",
-      "Financial handicap",
-      "Geographic handicap"
+      "Moderate visual impairment",
+      "Total, irreversible blindness in the majority of cases",
+      "Congenital blindness exclusively",
+      "Unilateral traumatic blindness exclusively"
     ],
     "answer": "A"
   },
   {
     "id": 50,
     "type": "mcq",
-    "stem": "Besides locomotive handicap, which of the following are ALSO listed as types of handicap?",
+    "stem": "Trachoma, as an eye condition in the Nigerian context, is noted to be endemic in which part of the country, and is targeted for elimination as a neglected tropical disease?",
     "options": [
-      "Communication, visual, intellectual, emotional, social, visceral, and invisible handicap",
-      "Only academic and athletic handicap",
-      "Only rural and urban handicap",
-      "Only seasonal and chronic handicap"
+      "Some northern states",
+      "Exclusively the Niger Delta region",
+      "Exclusively Lagos State",
+      "Exclusively the Federal Capital Territory"
     ],
     "answer": "A"
   },
   {
     "id": 51,
     "type": "mcq",
-    "stem": "The management of an exceptional child DIFFERS depending on which factor?",
+    "stem": "Onchocerciasis (river blindness) in Nigeria is endemic along river basins in which parts of the country?",
     "options": [
-      "Whether the child is gifted or handicapped",
-      "The child's favourite subject in school",
-      "The time of year the child was born",
-      "The child's birth order within the family"
+      "North-Central, South-South, and South-East Nigeria",
+      "Exclusively the extreme North-East",
+      "Exclusively coastal Lagos",
+      "Exclusively the Federal Capital Territory"
     ],
     "answer": "A"
   },
   {
     "id": 52,
     "type": "mcq",
-    "stem": "For gifted children, what type of recognition is given to this group both nationally and internationally?",
+    "stem": "Onchocerciasis is controlled in endemic Nigerian communities through which community-based strategy?",
     "options": [
-      "Special performance awards such as scholarships",
-      "Mandatory enrolment in vocational training only",
-      "Referral to special care centres only",
-      "No recognition is given at any level"
+      "Community-directed treatment with ivermectin (CDTI)",
+      "Mandatory enucleation of affected eyes",
+      "Universal corneal transplantation",
+      "Annual mass vitamin A megadose campaigns exclusively"
     ],
     "answer": "A"
   },
   {
     "id": 53,
     "type": "mcq",
-    "stem": "Scholarships awarded to gifted children serve what specific purpose?",
+    "stem": "Vitamin A deficiency/xerophthalmia, as a significant cause of childhood blindness in Nigeria, is linked to which factors?",
     "options": [
-      "To enable them to face the right challenge that is commensurate with their IQ level",
-      "To cover only the cost of school uniforms",
-      "To fund unrelated extracurricular travel",
-      "To replace the need for any further assessment"
+      "Poverty, poor complementary feeding, and low uptake of vitamin A supplementation",
+      "Excessive maternal vitamin A intake during pregnancy",
+      "Universal, complete vitamin A supplementation coverage nationwide",
+      "Only children from the wealthiest households"
     ],
     "answer": "A"
   },
   {
     "id": 54,
     "type": "mcq",
-    "stem": "For handicapped children, careful assessment of their potentials is done for what purpose?",
+    "stem": "Pterygium, a common eye condition in Nigeria, is best described as which pathological finding?",
     "options": [
-      "To know where to fix them, either to refer them to special care centres for advice or to proper rehabilitation centres",
-      "To determine their eligibility for international scholarships only",
-      "To rank them against gifted children",
-      "To decide whether they should repeat a school grade only"
+      "A wing-shaped fibrovascular growth on the cornea associated with chronic ultraviolet light and dust exposure",
+      "A clouding of the lens associated with ageing",
+      "A tumour of the orbit associated with HIV infection",
+      "A congenital abnormality of the eyelid present at birth"
     ],
     "answer": "A"
   },
   {
     "id": 55,
     "type": "mcq",
-    "stem": "Which of the following is listed as a main element in the comprehensive service for mentally retarded individuals and their families?",
+    "stem": "Allergic conjunctivitis, a common presenting complaint at the primary health centre level in Nigeria, is particularly worsened by which environmental factors?",
     "options": [
-      "Prevention and early detection of mental handicaps",
-      "Only financial compensation for the family",
-      "Only cosmetic surgical correction",
-      "Only long-term hospitalization with no community involvement"
+      "Dust and harmattan",
+      "Cold, humid weather only",
+      "Excessive hand hygiene",
+      "High-altitude living only"
     ],
     "answer": "A"
   },
   {
     "id": 56,
     "type": "mcq",
-    "stem": "Which element of the comprehensive service specifically addresses the needs of families of mentally retarded individuals?",
+    "stem": "Ophthalmia neonatorum is still seen in Nigeria due to which gaps in care?",
     "options": [
-      "Advice, support, and practical measures for families",
-      "Mandatory removal of the child from the family home",
-      "Financial penalties for families who seek support",
-      "Exclusion of families from all care planning"
+      "Poor antenatal screening and treatment of maternal sexually transmitted infections, and inadequate eye prophylaxis at birth",
+      "Excessive, unnecessary antibiotic eye prophylaxis given to every newborn",
+      "Universal, complete antenatal STI screening with no remaining gaps",
+      "Overuse of vitamin A supplementation in neonates"
     ],
     "answer": "A"
   },
   {
     "id": 57,
     "type": "mcq",
-    "stem": "Which element of the comprehensive service addresses education and occupation for the handicapped person?",
+    "stem": "What is Primary Eye Care (PEC)?",
     "options": [
-      "Provision for education, training, occupation, or work appropriate for each handicapped person",
-      "Guaranteed employment in any field regardless of ability",
-      "Complete exclusion from the workforce",
-      "Education limited strictly to religious instruction"
+      "The integration of essential eye health services into the general primary health care system",
+      "A specialist tertiary hospital service available only in major cities",
+      "A programme limited strictly to cataract surgery",
+      "A private insurance scheme covering only spectacles"
     ],
     "answer": "A"
   },
   {
     "id": 58,
     "type": "mcq",
-    "stem": "Which element of the comprehensive service addresses living arrangements and self-care?",
+    "stem": "Primary Eye Care (PEC) aims to deliver promotive, preventive, and basic curative eye care as close as possible to which setting?",
     "options": [
-      "Housing and social support to enable self care",
-      "Permanent institutionalization with no self-care goals",
-      "Housing provided only to families, never to the individual",
-      "No housing provision is included in the comprehensive service"
+      "Where people live and work",
+      "Only within specialist tertiary hospitals located in state capitals",
+      "Only within private ophthalmology clinics",
+      "Only within research laboratories"
     ],
     "answer": "A"
   },
   {
     "id": 59,
     "type": "mcq",
-    "stem": "Which element of the comprehensive service covers medical and nursing needs across different care settings?",
+    "stem": "Primary Eye Care is usually delivered by which non-specialist category of health worker, with a functional referral pathway to secondary and tertiary levels?",
     "options": [
-      "Medical, nursing, and other services for those who require them as outpatients, day patients, or inpatients",
-      "Medical services provided only to inpatients, never outpatients",
-      "Nursing services excluded entirely from the comprehensive service",
-      "Medical services limited strictly to emergency care"
+      "Community health officers, primary health care nurses, and community health extension workers (CHEWs)",
+      "Consultant ophthalmologists exclusively",
+      "Pharmaceutical company representatives exclusively",
+      "Hospital administrators exclusively"
     ],
     "answer": "A"
   },
   {
     "id": 60,
     "type": "mcq",
-    "stem": "Which element of the comprehensive service addresses the mental health needs of the mentally retarded individual?",
+    "stem": "The WHO African Region has developed a package of Primary Eye Care interventions built around which core components?",
     "options": [
-      "Psychiatric and psychological services",
-      "Dental services exclusively",
-      "Orthopaedic surgical services exclusively",
-      "Dietary services exclusively"
+      "Health promotion, screening/early detection, basic treatment, and prompt referral of sight-threatening cases",
+      "Advanced laser surgery performed at the community level by lay volunteers",
+      "Exclusively the distribution of free spectacles with no further services",
+      "Exclusively hospital-based tertiary interventions with no community component"
     ],
     "answer": "A"
   },
   {
     "id": 61,
     "type": "mcq",
-    "stem": "Besides the main elements already listed, general provision for handicapped individuals ALSO includes which of the following?",
+    "stem": "The concept of Primary Eye Care underlies which national programme and global initiative?",
     "options": [
-      "Vocational training, parent counselling, and nursing management",
-      "Only sporting competitions",
-      "Only annual medical check-ups with no other service",
-      "Only academic scholarships"
+      "The National Eye Health Policy and the VISION 2020: The Right to Sight programme",
+      "The National Blood Transfusion Policy exclusively",
+      "The National Immunization Policy exclusively",
+      "The National Malaria Elimination Programme exclusively"
     ],
     "answer": "A"
   },
   {
     "id": 62,
     "type": "mcq",
-    "stem": "Among the care and rehabilitative measures listed, which pairing BEST reflects two measures mentioned together?",
+    "stem": "Both the National Eye Health Policy and VISION 2020 depend on which category of workers to identify eye problems early, educate, and refer appropriately?",
     "options": [
-      "Prompt assessment and corrective measure",
-      "Permanent isolation and denial of education",
-      "Financial penalty and exclusion from healthcare",
-      "Mandatory relocation and loss of citizenship"
+      "Nurses and other primary health care workers",
+      "Only tertiary hospital consultants",
+      "Only traditional birth attendants",
+      "Only pharmaceutical sales representatives"
     ],
     "answer": "A"
   },
   {
     "id": 63,
     "type": "mcq",
-    "stem": "Which TWO measures, listed together among the care and rehabilitative measures, combine treatment with teaching?",
+    "stem": "Which risk factor is noted to be markedly higher among the poorest households, affecting both cataract surgical coverage and spectacle wear?",
     "options": [
-      "Curative measure and educational treatment",
-      "Vocational training and housing provision only",
-      "Genetic counselling and immunization only",
-      "Family planning and dietary control only"
+      "Poverty",
+      "High household income",
+      "Advanced university education",
+      "Urban residence with easy access to eye clinics"
     ],
     "answer": "A"
   },
   {
     "id": 64,
     "type": "mcq",
-    "stem": "Which TWO measures, listed together among the care and rehabilitative measures, relate to work and occupation?",
+    "stem": "Gender is identified as a risk factor for blindness in Nigeria because women bear a disproportionate burden of which condition, often linked to poorer access to surgical services?",
     "options": [
-      "Vocational training and provision of employment",
-      "Centre for guidance and counselling only",
-      "Designing special gadgets only",
-      "Prompt assessment only"
+      "Cataract-related blindness",
+      "Congenital glaucoma exclusively",
+      "Retinoblastoma exclusively",
+      "Ophthalmia neonatorum exclusively"
     ],
     "answer": "A"
   },
   {
     "id": 65,
     "type": "mcq",
-    "stem": "Which TWO measures, listed together among the care and rehabilitative measures, focus on guidance and family involvement?",
+    "stem": "Rural residence is identified as a risk factor for blindness in Nigeria primarily because of which barrier?",
     "options": [
-      "Centre for guidance and counselling, and counselling handicapped persons and their parents or family",
-      "Provision of employment and designing special gadgets only",
-      "Genetic counselling and family planning only",
-      "Immunization and maternal nutrition only"
+      "Geographic and economic barriers to reaching eye care facilities",
+      "An oversupply of ophthalmologists in rural areas",
+      "Free, unlimited transportation to urban eye hospitals",
+      "Mandatory annual eye screening in every rural village"
     ],
     "answer": "A"
   },
   {
     "id": 66,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A 9-year-old child is found on testing to have a mental age of 7.2 years. Using the standard IQ formula, which classification BEST fits this child, and what underlying cause category should the nurse consider exploring FIRST in the child's history?",
+    "stem": "CASE SCENARIO: A 65-year-old farmer from a rural North-Western Nigerian community presents with gradually worsening bilateral blurred vision over two years. Visual acuity in the better eye is 2/60. He reports no pain and attributes the change to 'old age,' never having sought care due to cost and distance to the nearest eye clinic. Which classification and likely leading cause BEST fit this presentation?",
     "options": [
-      "An IQ of 80% places the child at the boundary of a retarded school child; the nurse should first explore both congenital/hereditary and acquired (prenatal, perinatal, postnatal) causes in the history",
-      "An IQ of 80% automatically confirms Down syndrome regardless of other findings",
-      "An IQ of 80% indicates the child is gifted and requires only a scholarship referral",
-      "An IQ of 80% is clinically meaningless and requires no further history-taking"
+      "He meets the WHO criterion for blindness (less than 3/60), and given the epidemiological pattern described, cataract is the single most likely leading cause, with poverty and distance identified as key risk factors",
+      "He is classified as having normal visual acuity, since 2/60 falls within the 6/6 to 6/18 range",
+      "He has unavoidable blindness, since all blindness in elderly farmers is classified as unavoidable by definition",
+      "His presentation is diagnostic of retinoblastoma, which is a childhood tumour"
     ],
     "answer": "A"
   },
   {
     "id": 67,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A mother who took an unspecified drug during the first trimester of pregnancy delivers a child later found to have a limb abnormality, with no family history of similar conditions and no chromosomal abnormality on testing. Which category of cause is MOST consistent with this presentation?",
+    "stem": "CASE SCENARIO: A community health extension worker (CHEW) at a rural primary health centre sees a child under five with night blindness, dry conjunctiva, and small foamy white spots on the conjunctiva. The mother reports the child's diet is mostly starchy staples with little variety. Which diagnosis and health system response BEST fit this case?",
     "options": [
-      "A prenatal (environmental) cause, similar to the known effect of thalidomide taken during the first trimester",
-      "A postnatal cause, since the exposure occurred during pregnancy rather than after birth",
-      "A perinatal/natal cause, since the abnormality was identified at the time of delivery",
-      "A purely congenital/genetic cause, since no environmental exposure can produce limb abnormalities"
+      "Vitamin A deficiency (xerophthalmia) with Bitot's spots; this falls within the scope of Primary Eye Care, requiring prompt supplementation and dietary counselling, with referral if keratomalacia develops",
+      "Glaucoma, requiring immediate laser surgery only available at tertiary level",
+      "Retinopathy of prematurity, which only affects preterm neonates and is unrelated to this child's age or diet",
+      "Pterygium, which requires no nutritional intervention of any kind"
     ],
     "answer": "A"
   },
   {
     "id": 68,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A neonate experiences a prolonged difficult delivery complicated by cord prolapse, followed by documented hypoglycemia and respiratory acidosis in the first hours of life. The family asks the nurse which prevention strategy would have been relevant BEFORE this pregnancy, versus which is relevant NOW. Which response is MOST accurate?",
+    "stem": "CASE SCENARIO: A newborn develops bilateral purulent eye discharge and swollen eyelids on day 3 of life. The mother's antenatal records show no documented screening or treatment for sexually transmitted infections. Which condition is MOST likely, and what is the urgency of referral?",
     "options": [
-      "Genetic counselling and adequate maternal nutrition are primary prevention measures relevant before and during pregnancy; early detection and rehabilitation now fall under secondary and tertiary prevention",
-      "Genetic counselling is irrelevant to this case because the causes were entirely perinatal, not genetic",
-      "Only tertiary prevention measures exist for any case involving perinatal complications",
-      "Immunization for maternal rubella would have fully prevented the cord prolapse and hypoglycemia"
+      "Ophthalmia neonatorum, most likely from maternal gonococcal or chlamydial infection; this is an emergency requiring prompt treatment and referral, since delay can rapidly cause corneal perforation and blindness",
+      "Allergic conjunctivitis from harmattan dust, which can safely be observed for several weeks before any treatment",
+      "Congenital cataract, which requires no treatment until school age",
+      "A normal newborn finding requiring no further action or referral"
     ],
     "answer": "A"
   },
   {
     "id": 69,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A child with a diagnosed mobility impairment that limits independent movement, but with normal intellectual and social functioning, is being classified by the community health team. Which type of handicap BEST describes this child, and how does it differ from a child with an intellectual handicap?",
+    "stem": "CASE SCENARIO: A 40-year-old woman living along a river basin in South-South Nigeria presents with intensely itchy skin nodules and progressive visual field loss, in a community where many neighbours have similar symptoms and where mass ivermectin distribution has not reached in recent years. Which condition and causative organism BEST fit this picture?",
     "options": [
-      "A locomotive handicap, which affects mobility specifically, in contrast to an intellectual handicap, which affects cognitive and learning capacity",
-      "A visceral handicap, since all handicaps affecting the body are classified as visceral",
-      "An invisible handicap, since mobility impairments are never visible to others",
-      "A communication handicap, since all physical impairments are classified under communication"
+      "Onchocerciasis (river blindness), caused by the filarial worm Onchocerca volvulus and transmitted by the blackfly Simulium, which breeds in the fast-flowing river nearby",
+      "Trachoma, caused by Chlamydia trachomatis and spread by flies in dry, dusty northern communities",
+      "Diabetic retinopathy, caused by long-standing poorly controlled diabetes mellitus unrelated to her location",
+      "Ocular surface squamous neoplasia, associated with HIV infection rather than river exposure"
     ],
     "answer": "A"
   },
   {
     "id": 70,
     "type": "mcq",
-    "stem": "CASE SCENARIO: Two children are being discussed at a community health planning meeting: one has an IQ of 122 and excels academically, the other has an IQ of 45 and requires significant support with daily activities. Which pairing of management approaches is MOST appropriate for each child respectively?",
+    "stem": "CASE SCENARIO: A primary health care nurse at a rural clinic is asked to design a basic eye care service for her catchment population, in line with national eye health policy. Which combination of activities BEST reflects the core components of Primary Eye Care she should include?",
     "options": [
-      "The first child should be considered for scholarships and tasks commensurate with her IQ level; the second child requires careful assessment of potentials and referral to special care or rehabilitation centres",
-      "Both children should receive identical scholarship awards regardless of their differing needs",
-      "The first child should be referred to a rehabilitation centre, while the second child should receive a scholarship",
-      "Neither child requires any further assessment once their IQ has been documented"
+      "Health promotion and education, screening and early detection of common conditions, basic treatment within her scope of practice, and a functional referral pathway to secondary and tertiary eye care for sight-threatening cases",
+      "Performing cataract surgery herself at the primary health centre without any referral pathway",
+      "Referring every single patient directly to a tertiary teaching hospital regardless of severity, with no local screening or treatment",
+      "Distributing spectacles only, with no health promotion, screening, or referral component"
     ],
     "answer": "A"
   },
   {
     "id": 71,
     "type": "fitb",
-    "stem": "An exceptional child is referred to as either a genius academically, manually, physically, or a child who is ___.",
-    "answer": "handicapped",
+    "stem": "Blindness is the complete or almost complete loss of vision that cannot be corrected by glasses, contact lenses, medication, or ___.",
+    "answer": "surgery",
     "acceptableAnswers": [
-      "handicapped",
-      "a handicapped child"
+      "surgery"
     ]
   },
   {
     "id": 72,
     "type": "fitb",
-    "stem": "The exceptionally good or up to date child is referred to as a ___ child.",
-    "answer": "gifted",
+    "stem": "According to the WHO Classification, blindness is defined as visual acuity of less than ___ in the better eye.",
+    "answer": "3/60",
     "acceptableAnswers": [
-      "gifted"
+      "3/60"
     ]
   },
   {
     "id": 73,
     "type": "fitb",
-    "stem": "The exceptionally poor child, educationally, physically and manually, is referred to as a ___ child.",
-    "answer": "handicapped",
+    "stem": "'Low vision' is commonly used to describe moderate to severe visual impairment that is worse than 6/18 but better than ___, even with best correction.",
+    "answer": "blindness",
     "acceptableAnswers": [
-      "handicapped"
+      "blindness"
     ]
   },
   {
     "id": 74,
     "type": "fitb",
-    "stem": "Handicapped children can be divided into mentally handicapped children and ___ children.",
-    "answer": "maladjusted",
+    "stem": "Avoidable blindness is the sum of preventable blindness and ___ blindness.",
+    "answer": "curable/treatable",
     "acceptableAnswers": [
-      "maladjusted"
+      "curable/treatable",
+      "curable",
+      "treatable",
+      "curable or treatable"
     ]
   },
   {
     "id": 75,
     "type": "fitb",
-    "stem": "The causes of the exceptional child can be broadly divided into congenital/hereditary and ___ causes.",
-    "answer": "acquired",
+    "stem": "Blindness can be classified by onset as ___ or acquired.",
+    "answer": "congenital",
     "acceptableAnswers": [
-      "acquired"
+      "congenital"
     ]
   },
   {
     "id": 76,
     "type": "fitb",
-    "stem": "Congenital causes refer to abnormalities of the ___ or chromosomes.",
-    "answer": "genes",
+    "stem": "Blindness can be classified by laterality as unilateral (one eye) or ___ (both eyes).",
+    "answer": "bilateral",
     "acceptableAnswers": [
-      "genes",
-      "gene"
+      "bilateral"
     ]
   },
   {
     "id": 77,
     "type": "fitb",
-    "stem": "Down syndrome, inborn errors of metabolism, microcephaly, muscular dystrophy, and ___ are listed as congenital causes.",
-    "answer": "sickle cell",
+    "stem": "The Nigeria National Blindness and Visual Impairment Survey was conducted over the period ___ to ___.",
+    "answer": "2005; 2007",
     "acceptableAnswers": [
-      "sickle cell",
-      "sickle cell disease",
-      "sickle cell anaemia"
+      "2005; 2007"
     ]
   },
   {
     "id": 78,
     "type": "fitb",
-    "stem": "Prenatal causes affect the already formed foetus in utero, especially during the ___ trimester.",
-    "answer": "first",
+    "stem": "The survey estimated the prevalence of blindness among adults aged 40 years and above at ___ percent.",
+    "answer": "4.2",
     "acceptableAnswers": [
-      "first",
-      "1st"
+      "4.2",
+      "4.2%"
     ]
   },
   {
     "id": 79,
     "type": "fitb",
-    "stem": "Prenatal causes are also referred to as ___ causes.",
-    "answer": "environmental",
+    "stem": "Blindness prevalence in Nigeria was found to be highest in the ___ geopolitical zone.",
+    "answer": "North-West",
     "acceptableAnswers": [
-      "environmental"
+      "North-West",
+      "North West",
+      "northwest"
     ]
   },
   {
     "id": 80,
     "type": "fitb",
-    "stem": "___ is given as an example of a drug causing a prenatal handicap.",
-    "answer": "Thalidomide",
+    "stem": "More recent state-level ___ surveys continue to find blindness prevalence in a similar range, confirming that the burden has remained substantial.",
+    "answer": "Rapid Assessment of Avoidable Blindness (RAAB)",
     "acceptableAnswers": [
-      "thalidomide",
-      "Thalidomide"
+      "Rapid Assessment of Avoidable Blindness (RAAB)",
+      "RAAB",
+      "Rapid Assessment of Avoidable Blindness"
     ]
   },
   {
     "id": 81,
     "type": "fitb",
-    "stem": "Malaria and ___ are given as examples of infections causing prenatal handicap.",
-    "answer": "german measles",
+    "stem": "Nigeria's National Eye Health Programme has more recently cited an estimated ___ million people currently blind nationally.",
+    "answer": "1.3",
     "acceptableAnswers": [
-      "german measles",
-      "German measles",
-      "rubella"
+      "1.3"
     ]
   },
   {
     "id": 82,
     "type": "fitb",
-    "stem": "Acquired aetiological factors are subdivided into perinatal/natal causes and ___ causes.",
-    "answer": "postnatal",
+    "stem": "Approximately ___ percent of blindness in Nigeria is avoidable, that is, preventable or treatable.",
+    "answer": "84",
     "acceptableAnswers": [
-      "postnatal",
-      "post natal",
-      "post-natal"
+      "84",
+      "84%"
     ]
   },
   {
     "id": 83,
     "type": "fitb",
-    "stem": "Fetal anoxia, as a perinatal cause, is due to either maternal haemorrhage or ___.",
-    "answer": "cord prolapse",
+    "stem": "___ is the single leading cause of blindness in Nigeria, accounting for approximately 43% of cases.",
+    "answer": "Cataract",
     "acceptableAnswers": [
-      "cord prolapse"
+      "Cataract",
+      "cataract"
     ]
   },
   {
     "id": 84,
     "type": "fitb",
-    "stem": "Postnatal causes of handicap occur ___ delivery.",
-    "answer": "after",
+    "stem": "___ is the leading cause of irreversible blindness in Nigeria, accounting for approximately 16.7% of cases.",
+    "answer": "Glaucoma",
     "acceptableAnswers": [
-      "after"
+      "Glaucoma",
+      "glaucoma"
     ]
   },
   {
     "id": 85,
     "type": "fitb",
-    "stem": "___ is specifically listed as an infection causing a postnatal handicap.",
-    "answer": "Measles",
+    "stem": "Uncorrected ___ refers to an unoperated or complicated cataract surgery performed without a replacement lens.",
+    "answer": "aphakia",
     "acceptableAnswers": [
-      "measles",
-      "Measles"
+      "aphakia"
     ]
   },
   {
     "id": 86,
     "type": "fitb",
-    "stem": "Prevention of handicap is organized into primary, secondary, and ___ prevention.",
-    "answer": "tertiary",
+    "stem": "Globally, ___ is considered the single commonest cause of visual impairment worldwide.",
+    "answer": "uncorrected refractive error",
     "acceptableAnswers": [
-      "tertiary"
+      "uncorrected refractive error",
+      "refractive error"
     ]
   },
   {
     "id": 87,
     "type": "fitb",
-    "stem": "Genetic counselling is an attempt to determine the risk of occurrence or ___ of specific genetic or chromosomal disorders.",
-    "answer": "reoccurrence",
+    "stem": "Trachoma is caused by ___, and is spread by flies and poor hygiene.",
+    "answer": "Chlamydia trachomatis",
     "acceptableAnswers": [
-      "reoccurrence",
-      "re-occurrence",
-      "recurrence"
+      "Chlamydia trachomatis",
+      "chlamydia trachomatis"
     ]
   },
   {
     "id": 88,
     "type": "fitb",
-    "stem": "Immunization for maternal ___ is listed as a primary prevention measure.",
-    "answer": "rubella",
+    "stem": "The inward-turning of the eyelashes caused by repeated trachoma infection is called ___.",
+    "answer": "trichiasis",
     "acceptableAnswers": [
-      "rubella"
+      "trichiasis"
     ]
   },
   {
     "id": 89,
     "type": "fitb",
-    "stem": "Secondary prevention involves early detection and treatment of preventable disorders such as phenylketonuria and ___.",
-    "answer": "hypothyroidism",
+    "stem": "Onchocerciasis is caused by the filarial worm ___ and is transmitted by the blackfly.",
+    "answer": "Onchocerca volvulus",
     "acceptableAnswers": [
-      "hypothyroidism"
+      "Onchocerca volvulus",
+      "onchocerca volvulus"
     ]
   },
   {
     "id": 90,
     "type": "fitb",
-    "stem": "Tertiary prevention involves rehabilitation in vocational, physical, and ___ areas.",
-    "answer": "social",
+    "stem": "The blackfly vector of onchocerciasis, known as ___, breeds in fast-flowing rivers.",
+    "answer": "Simulium",
     "acceptableAnswers": [
-      "social"
+      "Simulium",
+      "simulium"
     ]
   },
   {
     "id": 91,
     "type": "fitb",
-    "stem": "The formula for IQ is mental age multiplied by 100, divided by ___ age.",
-    "answer": "real",
+    "stem": "Ophthalmia neonatorum is usually caused by maternal gonococcal or ___ infection transmitted during delivery.",
+    "answer": "chlamydial",
     "acceptableAnswers": [
-      "real",
-      "chronological"
+      "chlamydial",
+      "Chlamydial"
     ]
   },
   {
     "id": 92,
     "type": "fitb",
-    "stem": "A child of 10 years whose mental age is 12 years has an IQ of ___ percent.",
-    "answer": "120",
+    "stem": "Severe vitamin A deficiency can cause corneal melting, known as ___.",
+    "answer": "keratomalacia",
     "acceptableAnswers": [
-      "120",
-      "120%"
+      "keratomalacia"
     ]
   },
   {
     "id": 93,
     "type": "fitb",
-    "stem": "A normal child should have an IQ of ___ percent.",
-    "answer": "100",
+    "stem": "Retinoblastoma in children presents classically with a white pupillary reflex, described as ___ or 'cat's eye reflex'.",
+    "answer": "leukocoria",
     "acceptableAnswers": [
-      "100",
-      "100%"
+      "leukocoria",
+      "leucocoria"
     ]
   },
   {
     "id": 94,
     "type": "fitb",
-    "stem": "An IQ of between 120 and 125 indicates a ___ brilliant child.",
-    "answer": "very",
+    "stem": "Glaucoma is sometimes called 'the ___ thief of sight' because it is often asymptomatic until advanced.",
+    "answer": "silent",
     "acceptableAnswers": [
-      "very"
+      "silent"
     ]
   },
   {
     "id": 95,
     "type": "fitb",
-    "stem": "An IQ of between ___ and ___ indicates a bright school child.",
-    "answer": "115; 120",
+    "stem": "Diabetic retinopathy results from damage to ___ blood vessels caused by long-standing, poorly controlled diabetes mellitus.",
+    "answer": "retinal",
     "acceptableAnswers": [
-      "115; 120"
+      "retinal"
     ]
   },
   {
     "id": 96,
     "type": "fitb",
-    "stem": "An IQ of less than ___ indicates a severe educational subnormal child.",
-    "answer": "50",
+    "stem": "Retinopathy of prematurity is associated with uncontrolled ___ therapy in preterm or low-birth-weight babies.",
+    "answer": "oxygen",
     "acceptableAnswers": [
-      "50"
+      "oxygen"
     ]
   },
   {
     "id": 97,
     "type": "fitb",
-    "stem": "The IQ ranges given are just guidelines, as ___ occur in grouping.",
-    "answer": "exceptions",
+    "stem": "Onchocerciasis in Nigeria is controlled through community-directed treatment with ___.",
+    "answer": "ivermectin",
     "acceptableAnswers": [
-      "exceptions"
+      "ivermectin"
     ]
   },
   {
     "id": 98,
     "type": "fitb",
-    "stem": "Types of handicap include locomotive, communication, visual, intellectual, emotional, social, visceral, and ___ handicap.",
-    "answer": "invisible",
+    "stem": "Pterygium is a wing-shaped fibrovascular growth on the cornea associated with chronic ___ light and dust exposure.",
+    "answer": "ultraviolet",
     "acceptableAnswers": [
-      "invisible"
+      "ultraviolet",
+      "UV"
     ]
   },
   {
     "id": 99,
     "type": "fitb",
-    "stem": "Gifted children are given special performance awards such as ___, both nationally and internationally.",
-    "answer": "scholarships",
+    "stem": "Primary Eye Care is the integration of essential eye health services into the general ___ system.",
+    "answer": "primary health care",
     "acceptableAnswers": [
-      "scholarships",
-      "scholarship"
+      "primary health care",
+      "PHC",
+      "primary healthcare"
     ]
   },
   {
     "id": 100,
     "type": "fitb",
-    "stem": "All handicapped children must be carefully assessed as regards their ___, to know where to fix them.",
-    "answer": "potentials",
+    "stem": "The concept of Primary Eye Care underlies the National Eye Health Policy and the ___ programme.",
+    "answer": "VISION 2020: The Right to Sight",
     "acceptableAnswers": [
-      "potentials",
-      "potential"
+      "VISION 2020: The Right to Sight",
+      "VISION 2020",
+      "Vision 2020"
     ]
   }
 ]
