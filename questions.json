@@ -2,1133 +2,1124 @@
   {
     "id": 1,
     "type": "mcq",
-    "stem": "How is 'blindness' defined in terms of its effect on daily living?",
+    "stem": "Laryngitis is defined as inflammation of which structure?",
     "options": [
-      "The complete or almost complete loss of vision that cannot be corrected by glasses, contact lenses, medication, or surgery, to the extent that it significantly impairs a person's ability to perform activities of daily living using sight alone",
-      "Any reduction in visual acuity that can be fully corrected with spectacles",
-      "A temporary reduction in vision lasting less than 24 hours",
-      "A condition that affects only the ability to read small print"
+      "The larynx (voice box)",
+      "The pharynx only",
+      "The trachea only",
+      "The epiglottis exclusively"
     ],
     "answer": "A"
   },
   {
     "id": 2,
     "type": "mcq",
-    "stem": "According to the WHO Classification of Visual Impairment, what visual acuity range in the better eye defines Normal/mild impairment?",
+    "stem": "The characteristic swelling of laryngitis affects which structures, resulting in hoarseness and voice changes?",
     "options": [
-      "6/6 to 6/18",
-      "Less than 6/18 to 6/60",
-      "Less than 6/60 to 3/60",
-      "Less than 3/60"
+      "The vocal cords",
+      "The tonsils",
+      "The adenoids",
+      "The thyroid gland"
     ],
     "answer": "A"
   },
   {
     "id": 3,
     "type": "mcq",
-    "stem": "According to the WHO Classification, what visual acuity range in the better eye defines Moderate visual impairment?",
+    "stem": "Beyond hoarseness, which combination of symptoms is also characteristic of laryngitis?",
     "options": [
-      "Less than 6/18 to 6/60",
-      "6/6 to 6/18",
-      "Less than 3/60 to no light perception",
-      "Less than 6/60 to 3/60"
+      "Loss of voice, sore throat, and a dry cough",
+      "Severe abdominal pain and vomiting",
+      "Painless swelling of the ankles",
+      "Sudden loss of hearing"
     ],
     "answer": "A"
   },
   {
     "id": 4,
     "type": "mcq",
-    "stem": "According to the WHO Classification, what visual acuity range in the better eye defines Severe visual impairment?",
+    "stem": "At what duration does laryngitis begin to be classified as chronic rather than acute?",
     "options": [
-      "Less than 6/60 to 3/60",
-      "6/6 to 6/18",
-      "Less than 6/18 to 6/60",
-      "No light perception only"
+      "More than three weeks",
+      "More than three days",
+      "More than three hours",
+      "More than three months"
     ],
     "answer": "A"
   },
   {
     "id": 5,
     "type": "mcq",
-    "stem": "According to the WHO Classification, blindness is defined as visual acuity of less than 3/60, OR which alternative criterion?",
+    "stem": "Acute laryngitis is typically characterized by which onset and course?",
     "options": [
-      "A visual field of less than 10 degrees around central fixation",
-      "A visual field of more than 90 degrees around central fixation",
-      "Any visual acuity below 6/6",
-      "Inability to read newsprint at 40 cm"
+      "Sudden onset, often due to viral infections, typically resolving within a few days to three weeks",
+      "Gradual onset over several years with no identifiable trigger",
+      "Onset exclusively in neonates, never in adults",
+      "An onset that always requires surgical intervention within 24 hours"
     ],
     "answer": "A"
   },
   {
     "id": 6,
     "type": "mcq",
-    "stem": "The term 'low vision' is commonly used to describe which category of visual impairment?",
+    "stem": "Acute laryngitis is most commonly associated with which clinical context?",
     "options": [
-      "Moderate visual impairment, which is worse than 6/18 but better than blindness, even with best correction",
-      "Total and complete loss of all light perception",
-      "Visual acuity of exactly 6/6 in both eyes",
-      "A visual field defect affecting only peripheral vision with normal central acuity"
+      "Upper respiratory tract infections, being usually self-limiting",
+      "Lower gastrointestinal infections",
+      "Chronic kidney disease",
+      "Peripheral vascular disease"
     ],
     "answer": "A"
   },
   {
     "id": 7,
     "type": "mcq",
-    "stem": "Blindness can be classified by avoidability. What does 'preventable blindness' refer to?",
+    "stem": "Chronic laryngitis is most strongly associated with which pattern of exposure?",
     "options": [
-      "Blindness that could have been avoided through health promotion and prevention, such as trachoma, vitamin A deficiency, ophthalmia neonatorum, and trauma",
-      "Blindness that is always curable once it occurs",
-      "Blindness that occurs only in adults over age 60",
-      "Blindness caused exclusively by genetic mutations"
+      "Prolonged exposure to irritants such as smoking, environmental pollutants, or gastroesophageal reflux",
+      "A single, brief viral illness lasting less than 24 hours",
+      "One-time exposure to cold air during a single winter day",
+      "Strict avoidance of all vocal activity for more than a year"
     ],
     "answer": "A"
   },
   {
     "id": 8,
     "type": "mcq",
-    "stem": "What does 'curable/treatable blindness' refer to, under the classification of blindness by avoidability?",
+    "stem": "Chronic laryngitis may cause which lasting change, distinguishing it from most cases of acute laryngitis?",
     "options": [
-      "Blindness that is reversible with timely treatment, such as cataract and some cases of corneal opacity or refractive error",
-      "Blindness that can never be reversed under any circumstances",
-      "Blindness present from birth in all cases",
-      "Blindness that affects only one eye"
+      "Lasting changes in vocal cord structure and function",
+      "Complete and permanent loss of the sense of smell",
+      "Permanent paralysis of the diaphragm",
+      "Irreversible loss of taste buds on the tongue"
     ],
     "answer": "A"
   },
   {
     "id": 9,
     "type": "mcq",
-    "stem": "'Avoidable blindness' is best described as the sum of which two categories?",
+    "stem": "Among infectious causes of laryngitis, which category is described as the MOST common?",
     "options": [
-      "Preventable blindness and curable/treatable blindness",
-      "Congenital blindness and acquired blindness",
-      "Unilateral blindness and bilateral blindness",
-      "Moderate visual impairment and severe visual impairment"
+      "Viral causes, including rhinovirus, influenza virus, parainfluenza, and adenovirus",
+      "Bacterial causes, including Streptococcus pneumoniae",
+      "Fungal causes, including Candida species",
+      "Parasitic causes, including intestinal helminths"
     ],
     "answer": "A"
   },
   {
     "id": 10,
     "type": "mcq",
-    "stem": "Avoidable blindness is considered the major target of which type of programme?",
+    "stem": "Which bacterial organisms are specifically listed as LESS common infectious causes of laryngitis?",
     "options": [
-      "Blindness-prevention programmes",
-      "Programmes for congenital heart disease screening",
-      "General nutrition programmes unrelated to eye health",
-      "Maternal mortality reduction programmes"
+      "Streptococcus pneumoniae and Haemophilus influenzae",
+      "Rhinovirus and adenovirus",
+      "Candida species exclusively",
+      "Mycobacterium tuberculosis exclusively"
     ],
     "answer": "A"
   },
   {
     "id": 11,
     "type": "mcq",
-    "stem": "'Unavoidable blindness' refers to blindness that cannot currently be prevented or cured, giving which example?",
+    "stem": "Fungal laryngitis, caused by Candida species, is particularly associated with which patient population or exposure?",
     "options": [
-      "Advanced optic atrophy or some inherited retinal dystrophies",
-      "Cataract diagnosed early in a community eye camp",
-      "Refractive error correctable with spectacles",
-      "Conjunctivitis treated promptly at a primary health centre"
+      "Immunocompromised individuals or those with prolonged corticosteroid inhaler use",
+      "Healthy young athletes with no medication use",
+      "Patients who have never used any inhaled medication",
+      "Patients with a recent uncomplicated viral cold only"
     ],
     "answer": "A"
   },
   {
     "id": 12,
     "type": "mcq",
-    "stem": "Blindness can also be classified by onset. What is 'congenital blindness'?",
+    "stem": "Vocal overuse or misuse, such as excessive shouting or singing, is classified as which type of cause of laryngitis?",
     "options": [
-      "Blindness present at or shortly after birth",
-      "Blindness that develops after the age of 60 only",
-      "Blindness that results exclusively from trauma in adulthood",
-      "Blindness that is always temporary and resolves spontaneously"
+      "A non-infectious cause",
+      "A viral infectious cause",
+      "A bacterial infectious cause",
+      "A fungal infectious cause"
     ],
     "answer": "A"
   },
   {
     "id": 13,
     "type": "mcq",
-    "stem": "What is 'acquired blindness', as distinguished from congenital blindness?",
+    "stem": "Besides vocal overuse, which lifestyle factors are listed among the non-infectious causes of laryngitis?",
     "options": [
-      "Blindness developing later in life from disease, trauma, or degeneration",
-      "Blindness present at birth only",
-      "Blindness caused solely by inherited chromosomal abnormalities",
-      "Blindness that cannot be classified by onset at all"
+      "Smoking and alcohol consumption",
+      "Regular moderate exercise",
+      "Adequate daily water intake",
+      "Routine annual dental checkups"
     ],
     "answer": "A"
   },
   {
     "id": 14,
     "type": "mcq",
-    "stem": "Blindness can also be classified by laterality. What distinguishes 'unilateral' from 'bilateral' blindness?",
+    "stem": "Which digestive condition is specifically listed as a non-infectious cause of laryngitis?",
     "options": [
-      "Unilateral blindness affects one eye, while bilateral blindness affects both eyes",
-      "Unilateral blindness is always congenital, while bilateral blindness is always acquired",
-      "Unilateral blindness is always curable, while bilateral blindness is always unavoidable",
-      "There is no distinction; the terms are interchangeable"
+      "Gastroesophageal reflux disease (GERD)",
+      "Irritable bowel syndrome",
+      "Peptic ulcer disease unrelated to reflux",
+      "Appendicitis"
     ],
     "answer": "A"
   },
   {
     "id": 15,
     "type": "mcq",
-    "stem": "The Nigeria National Blindness and Visual Impairment Survey, conducted over 2005 to 2007, is notable for which feature?",
+    "stem": "Allergies and post-nasal drip are classified under which category of laryngitis causes?",
     "options": [
-      "It was the largest population-based eye survey in the country, examining over 13,500 adults aged 40 years and above",
-      "It examined only children under five years of age",
-      "It was conducted exclusively in urban hospital settings",
-      "It surveyed fewer than 500 participants nationwide"
+      "Non-infectious causes",
+      "Viral infectious causes",
+      "Bacterial infectious causes",
+      "Fungal infectious causes"
     ],
     "answer": "A"
   },
   {
     "id": 16,
     "type": "mcq",
-    "stem": "According to the Nigeria National Blindness and Visual Impairment Survey, what was the estimated prevalence of blindness (presenting vision) among adults aged 40 years and above?",
+    "stem": "Which autoimmune conditions are specifically listed as non-infectious causes of laryngitis?",
     "options": [
-      "4.2%, translating to an estimated 1.13 million blind adults",
-      "0.2%, translating to fewer than 50,000 blind adults",
-      "25%, translating to over 10 million blind adults",
-      "4.2% among children under five only"
+      "Rheumatoid arthritis and sarcoidosis",
+      "Type 1 diabetes mellitus and Hashimoto's thyroiditis",
+      "Systemic lupus erythematosus and multiple sclerosis",
+      "Celiac disease and Crohn's disease"
     ],
     "answer": "A"
   },
   {
     "id": 17,
     "type": "mcq",
-    "stem": "In which geopolitical zone of Nigeria was blindness prevalence found to be HIGHEST, also carrying the largest share of the country's blind population?",
+    "stem": "Which occupational group is specifically identified as being at higher risk for laryngitis due to high vocal demand?",
     "options": [
-      "The North-West geopolitical zone",
-      "The South-West geopolitical zone only",
-      "The South-South geopolitical zone only",
-      "The Federal Capital Territory exclusively"
+      "Teachers, singers, and public speakers",
+      "Accountants and data entry clerks",
+      "Night-shift security guards",
+      "Long-distance truck drivers"
     ],
     "answer": "A"
   },
   {
     "id": 18,
     "type": "mcq",
-    "stem": "Blindness prevalence in Nigeria was found to be significantly higher among which groups?",
+    "stem": "Where is the larynx located, and what structures does it house?",
     "options": [
-      "Women, illiterate persons, and people in poorer households",
-      "Only men with tertiary education",
-      "Only children under the age of five",
-      "Only residents of the wealthiest urban households"
+      "In the upper part of the respiratory tract, housing the vocal cords",
+      "In the lower gastrointestinal tract, housing the appendix",
+      "In the middle ear, housing the ossicles",
+      "In the abdominal cavity, housing the pancreas"
     ],
     "answer": "A"
   },
   {
     "id": 19,
     "type": "mcq",
-    "stem": "More recent state-level Rapid Assessment of Avoidable Blindness (RAAB) surveys, such as in Kogi State, found blindness prevalence in which range, confirming the burden remained substantial?",
+    "stem": "In the pathophysiology of laryngitis, inflammation causes swelling and irritation of which structure?",
     "options": [
-      "Around 3.0% to 3.7%",
-      "Around 0.1% to 0.5%",
-      "Around 25% to 30%",
-      "Around 50% to 60%"
+      "The mucosa lining the larynx",
+      "The outer skin of the neck only",
+      "The cartilage of the external ear",
+      "The lens of the eye"
     ],
     "answer": "A"
   },
   {
     "id": 20,
     "type": "mcq",
-    "stem": "Nigeria's National Eye Health Programme more recently cited an estimated national blindness figure of how many people?",
+    "stem": "This swelling and irritation of the laryngeal mucosa leads to which functional change?",
     "options": [
-      "About 1.3 million people currently blind",
-      "About 13,000 people currently blind",
-      "About 130 million people currently blind",
-      "About 1,300 people currently blind"
+      "Altered vibration of the vocal cords and changes in voice quality",
+      "An immediate and complete loss of the gag reflex only",
+      "A permanent increase in vocal pitch with no other change",
+      "Enhanced, clearer voice production in all cases"
     ],
     "answer": "A"
   },
   {
     "id": 21,
     "type": "mcq",
-    "stem": "According to the National Blindness and Visual Impairment Survey, approximately what percentage of blindness in Nigeria is avoidable (preventable or treatable)?",
+    "stem": "Chronic inflammation in laryngitis may lead to which structural changes on the vocal cords, impairing normal phonation?",
     "options": [
-      "Approximately 84%",
-      "Approximately 8%",
-      "Approximately 50%",
-      "Approximately 100%, with no exceptions"
+      "Thickening, nodules, or polyps",
+      "Calcification of the entire trachea",
+      "Complete absence of the vocal cords",
+      "Fusion of the vocal cords with the epiglottis"
     ],
     "answer": "A"
   },
   {
     "id": 22,
     "type": "mcq",
-    "stem": "What is the SINGLE leading cause of blindness in Nigeria, accounting for roughly 43% of cases?",
+    "stem": "Which clinical manifestation describes a COMPLETE loss of voice in laryngitis?",
     "options": [
-      "Cataract",
-      "Glaucoma",
-      "Trachoma",
-      "Onchocerciasis"
+      "Aphonia",
+      "Dysphagia",
+      "Dyspnea",
+      "Dysuria"
     ],
     "answer": "A"
   },
   {
     "id": 23,
     "type": "mcq",
-    "stem": "What is the leading cause of IRREVERSIBLE blindness in Nigeria, accounting for roughly 16.7% of cases?",
+    "stem": "Besides hoarseness and aphonia, which throat-related symptom is characteristic of laryngitis?",
     "options": [
-      "Glaucoma",
-      "Cataract",
-      "Uncorrected refractive error",
-      "Corneal opacity"
+      "Dry, scratchy, or sore throat",
+      "Severe unilateral ear pain only",
+      "Painless swelling of the tongue only",
+      "Loss of sensation in the throat only"
     ],
     "answer": "A"
   },
   {
     "id": 24,
     "type": "mcq",
-    "stem": "What does 'uncorrected aphakia', a cause of blindness in Nigeria, specifically refer to?",
+    "stem": "The dry cough associated with laryngitis is typically described as being worse at which time?",
     "options": [
-      "An unoperated or complicated cataract surgery performed without a replacement lens",
-      "A refractive error correctable by simple reading glasses",
-      "A tumour of the orbit in adults",
-      "A genetic condition present at birth"
+      "At night",
+      "Only immediately after waking in the morning",
+      "Only during vigorous exercise",
+      "Only while eating solid food"
     ],
     "answer": "A"
   },
   {
     "id": 25,
     "type": "mcq",
-    "stem": "Corneal opacity/scarring, a cause of blindness in Nigeria accounting for roughly 7.9% of cases, most commonly results from which causes?",
+    "stem": "Besides a dry cough, which other symptom related to speech is characteristic of laryngitis?",
     "options": [
-      "Trauma, infection, or harmful traditional eye medicine",
-      "Normal ageing alone, with no other contributing factor",
-      "Vitamin overdose exclusively",
-      "Excessive screen time alone"
+      "Difficulty speaking or vocal fatigue",
+      "Sudden, complete paralysis of the tongue",
+      "Permanent loss of the ability to swallow liquids",
+      "Immediate, irreversible loss of hearing"
     ],
     "answer": "A"
   },
   {
     "id": 26,
     "type": "mcq",
-    "stem": "In the same Nigerian survey population, uncorrected refractive error, while rarely a cause of outright blindness, is responsible for the majority of which condition?",
+    "stem": "Swollen lymph nodes in the neck, when seen in laryngitis, are typically associated with which underlying process?",
     "options": [
-      "Moderate visual impairment",
-      "Severe systemic hypertension",
-      "Childhood malnutrition",
-      "Congenital heart disease"
+      "An associated infection",
+      "A purely non-infectious, allergic cause only",
+      "Vocal overuse in the complete absence of any infection",
+      "Chronic GERD exclusively, with no infectious component"
     ],
     "answer": "A"
   },
   {
     "id": 27,
     "type": "mcq",
-    "stem": "Globally, which condition is considered the single commonest cause of visual impairment worldwide?",
+    "stem": "Fever and malaise, when present in laryngitis, are typically seen in which form of the condition?",
     "options": [
-      "Uncorrected refractive error",
-      "Retinoblastoma",
-      "Ocular surface squamous neoplasia",
-      "Ophthalmia neonatorum"
+      "Infectious forms",
+      "Purely non-infectious, vocal-overuse forms only",
+      "Purely allergic forms only",
+      "Purely GERD-related forms only"
     ],
     "answer": "A"
   },
   {
     "id": 28,
     "type": "mcq",
-    "stem": "Which infectious cause of blindness is caused by Chlamydia trachomatis, spread by flies and poor hygiene, leading to inward-turned eyelashes that scratch the cornea?",
+    "stem": "Which diagnostic procedure is used to directly visualize the vocal cords and assess for structural abnormalities in laryngitis?",
     "options": [
-      "Trachoma",
-      "Onchocerciasis",
-      "Ophthalmia neonatorum",
-      "Retinoblastoma"
+      "Laryngoscopy",
+      "Abdominal ultrasound",
+      "Electrocardiography",
+      "Lumbar puncture"
     ],
     "answer": "A"
   },
   {
     "id": 29,
     "type": "mcq",
-    "stem": "What term describes the inward-turning of the eyelashes caused by repeated trachoma infection, which then scratches the cornea?",
+    "stem": "Throat swabs are obtained in the diagnostic workup of laryngitis primarily to identify which type of causative organism?",
     "options": [
-      "Trichiasis",
-      "Leukocoria",
-      "Phthisis bulbi",
-      "Xerophthalmia"
+      "Bacterial or fungal organisms, via culture",
+      "Only autoimmune markers",
+      "Only serum electrolyte abnormalities",
+      "Only blood glucose levels"
     ],
     "answer": "A"
   },
   {
     "id": 30,
     "type": "mcq",
-    "stem": "Onchocerciasis ('river blindness') is caused by which organism?",
+    "stem": "Imaging studies such as CT or MRI are indicated in the workup of laryngitis when which complication is suspected?",
     "options": [
-      "The filarial worm Onchocerca volvulus",
-      "Chlamydia trachomatis",
-      "Neisseria gonorrhoeae",
-      "Vitamin A deficiency"
+      "Malignancy or a structural issue",
+      "A routine, uncomplicated viral cold with no red flag symptoms",
+      "Simple, self-limiting acute laryngitis lasting less than one week",
+      "A single episode of mild hoarseness with no other symptoms"
     ],
     "answer": "A"
   },
   {
     "id": 31,
     "type": "mcq",
-    "stem": "Onchocerciasis is transmitted by which vector, which breeds in fast-flowing rivers?",
+    "stem": "Referral to an ENT specialist for voice assessment is particularly recommended for which presentation of laryngitis?",
     "options": [
-      "The blackfly (Simulium)",
-      "The mosquito (Anopheles)",
-      "The tsetse fly",
-      "The housefly (Musca domestica)"
+      "Chronic or recurrent laryngitis",
+      "A single mild episode lasting less than three days",
+      "Laryngitis occurring only once in a lifetime with full resolution",
+      "Laryngitis that resolves completely within 24 hours without treatment"
     ],
     "answer": "A"
   },
   {
     "id": 32,
     "type": "mcq",
-    "stem": "Corneal ulcers, as a cause of eye problems, most often follow which of the following?",
+    "stem": "As part of supportive treatment for laryngitis, what instruction should be given regarding whispering?",
     "options": [
-      "Trauma, exposure, or scratches from unorthodox/traditional eye medicines",
-      "Routine use of prescribed spectacles",
-      "Adequate vitamin A intake",
-      "Immunization against rubella"
+      "Patients should avoid whispering, since it strains the vocal cords",
+      "Patients should whisper constantly instead of speaking at a normal volume",
+      "Whispering has no effect on the vocal cords and may be used freely",
+      "Whispering is the preferred method of complete voice rest"
     ],
     "answer": "A"
   },
   {
     "id": 33,
     "type": "mcq",
-    "stem": "Ophthalmia neonatorum is usually caused by which maternal infections transmitted during delivery?",
+    "stem": "Adequate hydration is recommended in laryngitis management for which specific purpose?",
     "options": [
-      "Maternal gonococcal or chlamydial infection",
-      "Maternal vitamin A deficiency",
-      "Maternal diabetes mellitus",
-      "Maternal iron-deficiency anaemia"
+      "To thin mucus and soothe irritated mucosa",
+      "To directly cure any underlying bacterial infection without antibiotics",
+      "To eliminate the need for voice rest entirely",
+      "To permanently reverse chronic vocal cord nodules"
     ],
     "answer": "A"
   },
   {
     "id": 34,
     "type": "mcq",
-    "stem": "If left untreated, ophthalmia neonatorum can rapidly progress to cause which serious complication?",
+    "stem": "Humidified air is recommended in laryngitis management to achieve which effect?",
     "options": [
-      "Corneal perforation and blindness",
-      "Complete resolution without any treatment required",
-      "Improved visual acuity compared to baseline",
-      "A benign, self-limiting rash with no ocular involvement"
+      "To help relieve dryness and irritation",
+      "To directly kill any viral pathogens present",
+      "To permanently increase vocal pitch",
+      "To replace the need for any fluid intake"
     ],
     "answer": "A"
   },
   {
     "id": 35,
     "type": "mcq",
-    "stem": "Vitamin A deficiency (VAD), as a nutritional cause of eye problems, can lead to night blindness, conjunctival/corneal xerosis, Bitot's spots, and which severe complication?",
+    "stem": "Warm saline gargles are recommended in laryngitis management primarily for which purpose?",
     "options": [
-      "Keratomalacia (corneal melting)",
-      "Retinoblastoma",
-      "Pterygium",
-      "Diabetic retinopathy"
+      "Throat comfort",
+      "Definitive eradication of fungal infection",
+      "Permanent structural repair of vocal cord nodules",
+      "Replacement of prescribed antibiotic therapy"
     ],
     "answer": "A"
   },
   {
     "id": 36,
     "type": "mcq",
-    "stem": "Vitamin A deficiency and its ocular complications are especially significant in which population group?",
+    "stem": "Which class of medications is recommended in laryngitis for pain and fever control, such as paracetamol or ibuprofen?",
     "options": [
-      "Malnourished children under the age of five",
-      "Adults over the age of 80 exclusively",
-      "Pregnant women in the third trimester exclusively",
-      "Healthy, well-nourished adolescents"
+      "Analgesics and antipyretics",
+      "Antifungals",
+      "Proton pump inhibitors",
+      "Corticosteroid inhalers exclusively"
     ],
     "answer": "A"
   },
   {
     "id": 37,
     "type": "mcq",
-    "stem": "Cataract, a degenerative and age-related condition, refers to which pathological process?",
+    "stem": "Antibiotics are indicated in the pharmacological management of laryngitis under which specific condition?",
     "options": [
-      "Clouding of the lens",
-      "Clouding of the cornea only",
-      "Scarring of the conjunctiva",
-      "Inflammation of the eyelid margin"
+      "Only if bacterial infection is confirmed",
+      "In every single case of laryngitis, regardless of cause",
+      "Only for cases caused by vocal overuse",
+      "Only for cases caused by allergies"
     ],
     "answer": "A"
   },
   {
     "id": 38,
     "type": "mcq",
-    "stem": "Besides being strongly age-related, cataract can also be which of the following?",
+    "stem": "Antifungal medications are indicated in laryngitis management for which confirmed cause?",
     "options": [
-      "Congenital, traumatic, or secondary to diabetes or steroid use",
-      "Exclusively inherited, with no other possible cause",
-      "Caused only by excessive reading",
-      "Entirely reversible without any surgical intervention"
+      "Confirmed fungal laryngitis",
+      "Confirmed viral laryngitis",
+      "Confirmed GERD-related laryngitis",
+      "Confirmed vocal-overuse laryngitis"
     ],
     "answer": "A"
   },
   {
     "id": 39,
     "type": "mcq",
-    "stem": "Glaucoma is best described as which pathological process?",
+    "stem": "Antihistamines, used in allergy-induced laryngitis, must be used with which precaution?",
     "options": [
-      "Progressive optic nerve damage, usually associated with raised intraocular pressure",
-      "Clouding of the lens due to ageing",
-      "A wing-shaped growth on the corneal surface",
-      "An infection of the conjunctiva caused by bacteria"
+      "Cautiously, to avoid drying the mucosa",
+      "Only in combination with high-dose corticosteroids at all times",
+      "Without any precaution, as they have no drying effect",
+      "Only intravenously, never orally"
     ],
     "answer": "A"
   },
   {
     "id": 40,
     "type": "mcq",
-    "stem": "Why is glaucoma sometimes referred to as 'the silent thief of sight'?",
+    "stem": "Proton pump inhibitors (PPIs) are indicated in laryngitis management when the cause is related to which condition?",
     "options": [
-      "Because it often remains asymptomatic until the disease is advanced",
-      "Because it always causes sudden, severe pain from the very first symptom",
-      "Because it exclusively affects children under five years old",
-      "Because it is always accompanied by a visible white pupillary reflex"
+      "Gastroesophageal reflux disease (GERD)",
+      "Viral upper respiratory infection",
+      "Vocal cord nodules from overuse alone",
+      "Allergic rhinitis alone"
     ],
     "answer": "A"
   },
   {
     "id": 41,
     "type": "mcq",
-    "stem": "Diabetic retinopathy results from which underlying process?",
+    "stem": "Corticosteroids, used short-term in laryngitis, are indicated for which situations?",
     "options": [
-      "Damage to retinal blood vessels from long-standing, poorly controlled diabetes mellitus",
-      "A congenital abnormality of the optic nerve present at birth",
-      "An allergic reaction to pollen and dust",
-      "A bacterial infection of the eyelid margin"
+      "Severe inflammation or professional voice users",
+      "Mild, self-limiting cases requiring no other treatment",
+      "Confirmed fungal laryngitis as first-line therapy",
+      "Routine prophylaxis in all patients regardless of severity"
     ],
     "answer": "A"
   },
   {
     "id": 42,
     "type": "mcq",
-    "stem": "Ocular trauma, as a cause of blindness, commonly arises from which activities, particularly in farming communities?",
+    "stem": "Surgical management of laryngitis is reserved for which specific situations?",
     "options": [
-      "Accidents, domestic violence, sports, and agricultural tools",
-      "Routine antenatal check-ups",
-      "Scheduled eye screening clinics",
-      "Vitamin A supplementation programmes"
+      "Persistent structural lesions such as nodules, polyps, or granulomas affecting the vocal cords",
+      "Every single case of acute viral laryngitis",
+      "Mild hoarseness lasting less than three days",
+      "Uncomplicated allergy-induced laryngitis responding to antihistamines"
     ],
     "answer": "A"
   },
   {
     "id": 43,
     "type": "mcq",
-    "stem": "Retinopathy of prematurity, a congenital/genetic category cause of blindness, is specifically associated with which exposure in preterm or low-birth-weight babies?",
+    "stem": "In the nursing assessment of a patient with laryngitis, which vocal parameters should be monitored?",
     "options": [
-      "Uncontrolled oxygen therapy",
-      "Excessive vitamin A supplementation",
-      "Maternal rubella infection in the third trimester only",
-      "Routine newborn eye prophylaxis with antibiotic ointment"
+      "Voice quality, frequency, and duration of symptoms",
+      "Only the patient's handwriting legibility",
+      "Only the patient's gait pattern",
+      "Only the patient's appetite for solid food"
     ],
     "answer": "A"
   },
   {
     "id": 44,
     "type": "mcq",
-    "stem": "Which harmful practice involves instilling breast milk, urine, or plant/herbal concoctions into the eye for 'cleansing' or treatment of red eye, and is a well-documented cause of corneal ulceration and blindness in Nigeria?",
+    "stem": "A critical safety component of nursing assessment in laryngitis is evaluating for which potentially serious signs?",
     "options": [
-      "Harmful traditional and self-medication eye practices",
-      "Standard pharmacological eye drop therapy prescribed by an ophthalmologist",
-      "Routine use of artificial tears for dry eye",
-      "Use of UV-protective sunglasses"
+      "Signs of airway obstruction, stridor, or respiratory distress",
+      "Signs of ingrown toenails",
+      "Signs of seasonal hay fever only",
+      "Signs of mild sunburn"
     ],
     "answer": "A"
   },
   {
     "id": 45,
     "type": "mcq",
-    "stem": "Retinoblastoma, a tumour affecting children, presents classically with which finding?",
+    "stem": "Besides monitoring voice and airway status, nursing assessment in laryngitis should also evaluate which physiological parameter?",
     "options": [
-      "A white pupillary reflex, described as 'leukocoria' or 'cat's eye reflex'",
-      "A red, painful eye with purulent discharge",
-      "A wing-shaped growth on the cornea",
-      "Complete absence of the eyeball at birth"
+      "Hydration status and fluid intake",
+      "Visual acuity using a Snellen chart",
+      "Deep tendon reflexes in the lower limbs",
+      "Peripheral pulses in all four limbs"
     ],
     "answer": "A"
   },
   {
     "id": 46,
     "type": "mcq",
-    "stem": "Ocular surface squamous neoplasia, a tumour affecting adults, is particularly associated with which infection?",
+    "stem": "Nursing assessment in laryngitis should also include identifying and documenting which information?",
     "options": [
-      "HIV infection",
-      "Vitamin A deficiency",
-      "Onchocerciasis",
-      "Ophthalmia neonatorum"
+      "Possible causative or exacerbating factors",
+      "The patient's preferred television programme",
+      "The patient's choice of clothing colour",
+      "The patient's favourite type of music"
     ],
     "answer": "A"
   },
   {
     "id": 47,
     "type": "mcq",
-    "stem": "In the Nigerian context, cataract is described as the single leading cause of blindness, with a large backlog of untreated cases due to which combination of factors?",
+    "stem": "Which nursing intervention directly addresses vocal strain in a patient with laryngitis?",
     "options": [
-      "Poor awareness, cost, distance to surgical services, and fear of surgery",
-      "Universal free access to surgery with no remaining backlog",
-      "Excess surgical capacity with too few patients to treat",
-      "A complete absence of any surgical treatment option"
+      "Encouraging complete voice rest and educating the patient to avoid whispering and throat clearing",
+      "Encouraging the patient to shout loudly to 'exercise' the vocal cords",
+      "Encouraging frequent, prolonged singing sessions",
+      "Encouraging constant whispering as a substitute for normal speech"
     ],
     "answer": "A"
   },
   {
     "id": 48,
     "type": "mcq",
-    "stem": "In the Nigerian context, glaucoma is described as the second leading cause of blindness, noted for which clinical course in populations of African descent?",
+    "stem": "Which nursing intervention helps ease breathing and soothe the throat in a patient with laryngitis?",
     "options": [
-      "A more aggressive course, often asymptomatic until advanced",
-      "A course that is always mild and self-limiting",
-      "A course that exclusively affects people under 10 years old",
-      "A course that resolves spontaneously without any treatment"
+      "Providing humidified oxygen or using a room humidifier",
+      "Administering dry, unheated, low-humidity air exclusively",
+      "Restricting all fluid intake to less than 500 mL per day",
+      "Encouraging the patient to breathe exclusively through the mouth in cold, dry air"
     ],
     "answer": "A"
   },
   {
     "id": 49,
     "type": "mcq",
-    "stem": "In the Nigerian context, uncorrected refractive error is described as the leading cause of which category of visual impairment?",
+    "stem": "Which type of fluids are specifically recommended as a nursing intervention to encourage intake in laryngitis?",
     "options": [
-      "Moderate visual impairment",
-      "Total, irreversible blindness in the majority of cases",
-      "Congenital blindness exclusively",
-      "Unilateral traumatic blindness exclusively"
+      "Warm fluids, such as herbal teas and soups",
+      "Ice-cold carbonated beverages exclusively",
+      "Caffeinated energy drinks exclusively",
+      "Undiluted citrus juice exclusively"
     ],
     "answer": "A"
   },
   {
     "id": 50,
     "type": "mcq",
-    "stem": "Trachoma, as an eye condition in the Nigerian context, is noted to be endemic in which part of the country, and is targeted for elimination as a neglected tropical disease?",
+    "stem": "Which nursing responsibility involves giving prescribed laryngitis medications correctly and watching for adverse effects?",
     "options": [
-      "Some northern states",
-      "Exclusively the Niger Delta region",
-      "Exclusively Lagos State",
-      "Exclusively the Federal Capital Territory"
+      "Administering prescribed medications accurately and observing for side effects",
+      "Allowing the patient to self-adjust all medication doses without supervision",
+      "Withholding all prescribed medications until symptoms fully resolve",
+      "Administering only herbal remedies instead of prescribed medications"
     ],
     "answer": "A"
   },
   {
     "id": 51,
     "type": "mcq",
-    "stem": "Onchocerciasis (river blindness) in Nigeria is endemic along river basins in which parts of the country?",
+    "stem": "Which lifestyle modification should the nurse instruct a patient with laryngitis to avoid?",
     "options": [
-      "North-Central, South-South, and South-East Nigeria",
-      "Exclusively the extreme North-East",
-      "Exclusively coastal Lagos",
-      "Exclusively the Federal Capital Territory"
+      "Smoking, alcohol, and environmental pollutants",
+      "Drinking adequate water throughout the day",
+      "Resting the voice as much as possible",
+      "Using a room humidifier at night"
     ],
     "answer": "A"
   },
   {
     "id": 52,
     "type": "mcq",
-    "stem": "Onchocerciasis is controlled in endemic Nigerian communities through which community-based strategy?",
+    "stem": "For a patient whose laryngitis is related to GERD, which dietary modification should the nurse educate on?",
     "options": [
-      "Community-directed treatment with ivermectin (CDTI)",
-      "Mandatory enucleation of affected eyes",
-      "Universal corneal transplantation",
-      "Annual mass vitamin A megadose campaigns exclusively"
+      "Avoiding spicy and acidic foods",
+      "Increasing intake of citrus fruits and spicy peppers",
+      "Eliminating all fluid intake entirely",
+      "Eating only immediately before lying down to sleep"
     ],
     "answer": "A"
   },
   {
     "id": 53,
     "type": "mcq",
-    "stem": "Vitamin A deficiency/xerophthalmia, as a significant cause of childhood blindness in Nigeria, is linked to which factors?",
+    "stem": "Promoting respiratory and hand hygiene in a patient with laryngitis primarily serves which purpose?",
     "options": [
-      "Poverty, poor complementary feeding, and low uptake of vitamin A supplementation",
-      "Excessive maternal vitamin A intake during pregnancy",
-      "Universal, complete vitamin A supplementation coverage nationwide",
-      "Only children from the wealthiest households"
+      "To prevent the spread of infection",
+      "To permanently cure chronic vocal cord nodules",
+      "To replace the need for any pharmacological treatment",
+      "To eliminate the need for voice rest"
     ],
     "answer": "A"
   },
   {
     "id": 54,
     "type": "mcq",
-    "stem": "Pterygium, a common eye condition in Nigeria, is best described as which pathological finding?",
+    "stem": "Referral to which specialist is recommended for persistent vocal issues in laryngitis?",
     "options": [
-      "A wing-shaped fibrovascular growth on the cornea associated with chronic ultraviolet light and dust exposure",
-      "A clouding of the lens associated with ageing",
-      "A tumour of the orbit associated with HIV infection",
-      "A congenital abnormality of the eyelid present at birth"
+      "A speech-language therapist",
+      "An orthopaedic surgeon",
+      "A nephrologist",
+      "A dermatologist"
     ],
     "answer": "A"
   },
   {
     "id": 55,
     "type": "mcq",
-    "stem": "Allergic conjunctivitis, a common presenting complaint at the primary health centre level in Nigeria, is particularly worsened by which environmental factors?",
+    "stem": "Which of the following is listed as a potential complication of laryngitis involving the vocal cords themselves?",
     "options": [
-      "Dust and harmattan",
-      "Cold, humid weather only",
-      "Excessive hand hygiene",
-      "High-altitude living only"
+      "Vocal cord nodules, polyps, or cysts",
+      "Permanent blindness",
+      "Complete loss of taste on the tongue",
+      "Irreversible hearing loss in both ears"
     ],
     "answer": "A"
   },
   {
     "id": 56,
     "type": "mcq",
-    "stem": "Ophthalmia neonatorum is still seen in Nigeria due to which gaps in care?",
+    "stem": "Laryngeal stenosis or granuloma formation is listed as a complication of which condition?",
     "options": [
-      "Poor antenatal screening and treatment of maternal sexually transmitted infections, and inadequate eye prophylaxis at birth",
-      "Excessive, unnecessary antibiotic eye prophylaxis given to every newborn",
-      "Universal, complete antenatal STI screening with no remaining gaps",
-      "Overuse of vitamin A supplementation in neonates"
+      "Laryngitis",
+      "Appendicitis",
+      "Otitis media",
+      "Conjunctivitis"
     ],
     "answer": "A"
   },
   {
     "id": 57,
     "type": "mcq",
-    "stem": "What is Primary Eye Care (PEC)?",
+    "stem": "Airway obstruction, as a complication of laryngitis, is noted to be especially concerning in which patient populations?",
     "options": [
-      "The integration of essential eye health services into the general primary health care system",
-      "A specialist tertiary hospital service available only in major cities",
-      "A programme limited strictly to cataract surgery",
-      "A private insurance scheme covering only spectacles"
+      "Children or immunocompromised patients",
+      "Healthy adult athletes only",
+      "Patients with no history of respiratory illness",
+      "Patients who have never smoked"
     ],
     "answer": "A"
   },
   {
     "id": 58,
     "type": "mcq",
-    "stem": "Primary Eye Care (PEC) aims to deliver promotive, preventive, and basic curative eye care as close as possible to which setting?",
+    "stem": "Secondary bacterial infection is listed as a potential complication following which initial process in laryngitis?",
     "options": [
-      "Where people live and work",
-      "Only within specialist tertiary hospitals located in state capitals",
-      "Only within private ophthalmology clinics",
-      "Only within research laboratories"
+      "An initial viral or other inflammatory process affecting the larynx",
+      "A fully resolved, asymptomatic episode with no ongoing inflammation",
+      "A single dose of a properly indicated antibiotic",
+      "A routine dental cleaning unrelated to the larynx"
     ],
     "answer": "A"
   },
   {
     "id": 59,
     "type": "mcq",
-    "stem": "Primary Eye Care is usually delivered by which non-specialist category of health worker, with a functional referral pathway to secondary and tertiary levels?",
+    "stem": "As part of health education, patients should be encouraged to seek early medical consultation for hoarseness persisting beyond which duration?",
     "options": [
-      "Community health officers, primary health care nurses, and community health extension workers (CHEWs)",
-      "Consultant ophthalmologists exclusively",
-      "Pharmaceutical company representatives exclusively",
-      "Hospital administrators exclusively"
+      "More than three weeks",
+      "More than three hours",
+      "More than three minutes",
+      "More than three years"
     ],
     "answer": "A"
   },
   {
     "id": 60,
     "type": "mcq",
-    "stem": "The WHO African Region has developed a package of Primary Eye Care interventions built around which core components?",
+    "stem": "Health education for laryngitis prevention includes avoiding which behaviour related to the voice?",
     "options": [
-      "Health promotion, screening/early detection, basic treatment, and prompt referral of sight-threatening cases",
-      "Advanced laser surgery performed at the community level by lay volunteers",
-      "Exclusively the distribution of free spectacles with no further services",
-      "Exclusively hospital-based tertiary interventions with no community component"
+      "Voice overuse and vocal strain",
+      "Deep breathing exercises",
+      "Adequate hydration",
+      "Hand hygiene practices"
     ],
     "answer": "A"
   },
   {
     "id": 61,
     "type": "mcq",
-    "stem": "The concept of Primary Eye Care underlies which national programme and global initiative?",
+    "stem": "What is the general prognosis for ACUTE laryngitis with supportive care?",
     "options": [
-      "The National Eye Health Policy and the VISION 2020: The Right to Sight programme",
-      "The National Blood Transfusion Policy exclusively",
-      "The National Immunization Policy exclusively",
-      "The National Malaria Elimination Programme exclusively"
+      "A favorable prognosis, resolving within a few days to a couple of weeks",
+      "A universally fatal outcome without surgery",
+      "Permanent, irreversible loss of voice in all cases",
+      "A prognosis identical to untreated laryngeal cancer"
     ],
     "answer": "A"
   },
   {
     "id": 62,
     "type": "mcq",
-    "stem": "Both the National Eye Health Policy and VISION 2020 depend on which category of workers to identify eye problems early, educate, and refer appropriately?",
+    "stem": "What does the prognosis of CHRONIC laryngitis typically require, in contrast to most cases of acute laryngitis?",
     "options": [
-      "Nurses and other primary health care workers",
-      "Only tertiary hospital consultants",
-      "Only traditional birth attendants",
-      "Only pharmaceutical sales representatives"
+      "Management of underlying causes, possibly including voice therapy or surgical intervention for structural complications",
+      "No management whatsoever, since it always resolves spontaneously within days",
+      "Immediate, mandatory laryngectomy in every case",
+      "Only a single dose of antihistamine with no further follow-up"
     ],
     "answer": "A"
   },
   {
     "id": 63,
     "type": "mcq",
-    "stem": "Which risk factor is noted to be markedly higher among the poorest households, affecting both cataract surgical coverage and spectacle wear?",
+    "stem": "According to the prognosis discussion, what can minimize complications of laryngitis?",
     "options": [
-      "Poverty",
-      "High household income",
-      "Advanced university education",
-      "Urban residence with easy access to eye clinics"
+      "Early diagnosis and preventive measures",
+      "Delaying all medical evaluation for several years",
+      "Avoiding any form of hydration",
+      "Increasing, rather than resting, vocal activity during acute illness"
     ],
     "answer": "A"
   },
   {
     "id": 64,
     "type": "mcq",
-    "stem": "Gender is identified as a risk factor for blindness in Nigeria because women bear a disproportionate burden of which condition, often linked to poorer access to surgical services?",
+    "stem": "Which statement correctly distinguishes the TYPICAL infectious cause pattern of acute laryngitis from chronic laryngitis?",
     "options": [
-      "Cataract-related blindness",
-      "Congenital glaucoma exclusively",
-      "Retinoblastoma exclusively",
-      "Ophthalmia neonatorum exclusively"
+      "Acute laryngitis is often due to viral infection, while chronic laryngitis is more often linked to prolonged irritant exposure such as smoking or GERD rather than a single infection",
+      "Acute laryngitis is always bacterial, while chronic laryngitis is always fungal",
+      "Acute and chronic laryngitis share an identical, single infectious cause in all cases",
+      "Chronic laryngitis is always caused by a single untreated viral infection lasting exactly three weeks"
     ],
     "answer": "A"
   },
   {
     "id": 65,
     "type": "mcq",
-    "stem": "Rural residence is identified as a risk factor for blindness in Nigeria primarily because of which barrier?",
+    "stem": "Why should antihistamines be used cautiously in allergy-induced laryngitis despite potentially relieving allergic symptoms?",
     "options": [
-      "Geographic and economic barriers to reaching eye care facilities",
-      "An oversupply of ophthalmologists in rural areas",
-      "Free, unlimited transportation to urban eye hospitals",
-      "Mandatory annual eye screening in every rural village"
+      "Because they can dry the mucosa, which may worsen irritation of an already inflamed larynx",
+      "Because they always cause immediate, severe airway obstruction in every patient",
+      "Because they are completely ineffective for any allergic condition",
+      "Because they permanently cure chronic vocal cord nodules on their own"
     ],
     "answer": "A"
   },
   {
     "id": 66,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A 65-year-old farmer from a rural North-Western Nigerian community presents with gradually worsening bilateral blurred vision over two years. Visual acuity in the better eye is 2/60. He reports no pain and attributes the change to 'old age,' never having sought care due to cost and distance to the nearest eye clinic. Which classification and likely leading cause BEST fit this presentation?",
+    "stem": "CASE SCENARIO: A secondary school teacher presents with hoarseness that has persisted for five weeks, worse by the end of each teaching day, with no fever and no recent cold symptoms. She reports frequent heartburn at night. Which type of laryngitis and most likely contributing causes BEST fit this presentation?",
     "options": [
-      "He meets the WHO criterion for blindness (less than 3/60), and given the epidemiological pattern described, cataract is the single most likely leading cause, with poverty and distance identified as key risk factors",
-      "He is classified as having normal visual acuity, since 2/60 falls within the 6/6 to 6/18 range",
-      "He has unavoidable blindness, since all blindness in elderly farmers is classified as unavoidable by definition",
-      "His presentation is diagnostic of retinoblastoma, which is a childhood tumour"
+      "Chronic laryngitis, most likely related to her high vocal demand occupation and underlying gastroesophageal reflux disease rather than an acute infection",
+      "Acute viral laryngitis, since all laryngitis lasting more than a few days is classified as viral",
+      "Fungal laryngitis, since all teachers who use corticosteroid inhalers develop Candida infection",
+      "A normal voice change requiring no further assessment, since hoarseness lasting five weeks is within expected limits for teachers"
     ],
     "answer": "A"
   },
   {
     "id": 67,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A community health extension worker (CHEW) at a rural primary health centre sees a child under five with night blindness, dry conjunctiva, and small foamy white spots on the conjunctiva. The mother reports the child's diet is mostly starchy staples with little variety. Which diagnosis and health system response BEST fit this case?",
+    "stem": "CASE SCENARIO: A 4-year-old child with sudden-onset hoarseness and a barking, worsening cough develops audible stridor and visible chest retractions over several hours. Which nursing priority is MOST appropriate at this point?",
     "options": [
-      "Vitamin A deficiency (xerophthalmia) with Bitot's spots; this falls within the scope of Primary Eye Care, requiring prompt supplementation and dietary counselling, with referral if keratomalacia develops",
-      "Glaucoma, requiring immediate laser surgery only available at tertiary level",
-      "Retinopathy of prematurity, which only affects preterm neonates and is unrelated to this child's age or diet",
-      "Pterygium, which requires no nutritional intervention of any kind"
+      "Urgent assessment and escalation for signs of airway obstruction and respiratory distress, since this age group is specifically noted to be at higher risk of this complication of laryngitis",
+      "Reassurance that stridor and retractions are expected, harmless findings requiring no further action",
+      "Immediate administration of antihistamines alone, since allergy is the only possible cause of stridor in children",
+      "Discharge home with voice rest instructions only, with no further monitoring required"
     ],
     "answer": "A"
   },
   {
     "id": 68,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A newborn develops bilateral purulent eye discharge and swollen eyelids on day 3 of life. The mother's antenatal records show no documented screening or treatment for sexually transmitted infections. Which condition is MOST likely, and what is the urgency of referral?",
+    "stem": "CASE SCENARIO: An adult with confirmed fungal laryngitis on throat swab has a history of long-term inhaled corticosteroid use for asthma, with no systemic immunosuppressive illness identified. Which management approach is MOST appropriate?",
     "options": [
-      "Ophthalmia neonatorum, most likely from maternal gonococcal or chlamydial infection; this is an emergency requiring prompt treatment and referral, since delay can rapidly cause corneal perforation and blindness",
-      "Allergic conjunctivitis from harmattan dust, which can safely be observed for several weeks before any treatment",
-      "Congenital cataract, which requires no treatment until school age",
-      "A normal newborn finding requiring no further action or referral"
+      "Antifungal therapy directed at the confirmed Candida infection, along with review of inhaler technique and rinsing the mouth after corticosteroid inhaler use",
+      "Antibiotics alone, since all throat infections are treated identically regardless of the organism identified",
+      "Antihistamines alone, since fungal laryngitis is managed identically to allergy-induced laryngitis",
+      "No treatment at all, since fungal laryngitis in inhaler users always resolves without intervention"
     ],
     "answer": "A"
   },
   {
     "id": 69,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A 40-year-old woman living along a river basin in South-South Nigeria presents with intensely itchy skin nodules and progressive visual field loss, in a community where many neighbours have similar symptoms and where mass ivermectin distribution has not reached in recent years. Which condition and causative organism BEST fit this picture?",
+    "stem": "CASE SCENARIO: A professional singer develops hoarseness after a series of back-to-back performances with inadequate rest between shows, but has no fever, no recent infection, and no reflux symptoms. Laryngoscopy reveals early, mild thickening of the vocal cords. Which combination of interventions is MOST appropriate at this stage?",
     "options": [
-      "Onchocerciasis (river blindness), caused by the filarial worm Onchocerca volvulus and transmitted by the blackfly Simulium, which breeds in the fast-flowing river nearby",
-      "Trachoma, caused by Chlamydia trachomatis and spread by flies in dry, dusty northern communities",
-      "Diabetic retinopathy, caused by long-standing poorly controlled diabetes mellitus unrelated to her location",
-      "Ocular surface squamous neoplasia, associated with HIV infection rather than river exposure"
+      "Voice rest, hydration, humidified air, and avoidance of further vocal strain, with surgical referral reserved only if persistent structural lesions such as nodules or polyps develop despite conservative management",
+      "Immediate surgical excision of the vocal cords as first-line treatment before any conservative measures are tried",
+      "A full course of antibiotics as first-line treatment, since all vocal cord changes require antimicrobial therapy",
+      "Encouragement to continue singing at full volume, since vocal rest is unnecessary for professional performers"
     ],
     "answer": "A"
   },
   {
     "id": 70,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A primary health care nurse at a rural clinic is asked to design a basic eye care service for her catchment population, in line with national eye health policy. Which combination of activities BEST reflects the core components of Primary Eye Care she should include?",
+    "stem": "CASE SCENARIO: A nurse is evaluating two patients with hoarseness: Patient 1 has had symptoms for four days following a cold, with mild throat discomfort and no red-flag signs; Patient 2 has had progressive hoarseness for four months with no infectious symptoms and a long smoking history. Which plan of care correctly matches each patient?",
     "options": [
-      "Health promotion and education, screening and early detection of common conditions, basic treatment within her scope of practice, and a functional referral pathway to secondary and tertiary eye care for sight-threatening cases",
-      "Performing cataract surgery herself at the primary health centre without any referral pathway",
-      "Referring every single patient directly to a tertiary teaching hospital regardless of severity, with no local screening or treatment",
-      "Distributing spectacles only, with no health promotion, screening, or referral component"
+      "Patient 1 is most consistent with acute, self-limiting viral laryngitis managed with supportive care; Patient 2's prolonged hoarseness and smoking history warrant ENT referral and laryngoscopy to exclude structural disease or malignancy",
+      "Both patients should be managed identically with voice rest alone and require no further evaluation of any kind",
+      "Patient 1 requires urgent laryngoscopy and possible biopsy, while Patient 2 requires only reassurance with no further action",
+      "Neither patient requires any assessment beyond reassurance, since hoarseness is never associated with underlying disease"
     ],
     "answer": "A"
   },
   {
     "id": 71,
     "type": "fitb",
-    "stem": "Blindness is the complete or almost complete loss of vision that cannot be corrected by glasses, contact lenses, medication, or ___.",
-    "answer": "surgery",
+    "stem": "Laryngitis is the inflammation of the ___, characterized by swelling of the vocal cords.",
+    "answer": "larynx",
     "acceptableAnswers": [
-      "surgery"
+      "larynx",
+      "larynx (voice box)",
+      "voice box"
     ]
   },
   {
     "id": 72,
     "type": "fitb",
-    "stem": "According to the WHO Classification, blindness is defined as visual acuity of less than ___ in the better eye.",
-    "answer": "3/60",
+    "stem": "Laryngitis may present as an acute, short-term condition or as chronic inflammation lasting more than ___ weeks.",
+    "answer": "three",
     "acceptableAnswers": [
-      "3/60"
+      "three",
+      "3"
     ]
   },
   {
     "id": 73,
     "type": "fitb",
-    "stem": "'Low vision' is commonly used to describe moderate to severe visual impairment that is worse than 6/18 but better than ___, even with best correction.",
-    "answer": "blindness",
+    "stem": "Acute laryngitis is common in ___ respiratory tract infections and is usually self-limiting.",
+    "answer": "upper",
     "acceptableAnswers": [
-      "blindness"
+      "upper"
     ]
   },
   {
     "id": 74,
     "type": "fitb",
-    "stem": "Avoidable blindness is the sum of preventable blindness and ___ blindness.",
-    "answer": "curable/treatable",
+    "stem": "Chronic laryngitis is associated with prolonged exposure to irritants such as smoking, environmental pollutants, or ___.",
+    "answer": "gastroesophageal reflux disease",
     "acceptableAnswers": [
-      "curable/treatable",
-      "curable",
-      "treatable",
-      "curable or treatable"
+      "gastroesophageal reflux disease",
+      "GERD",
+      "gastroesophageal reflux"
     ]
   },
   {
     "id": 75,
     "type": "fitb",
-    "stem": "Blindness can be classified by onset as ___ or acquired.",
-    "answer": "congenital",
+    "stem": "Among viral causes of laryngitis, rhinovirus, influenza virus, parainfluenza, and ___ are the most common.",
+    "answer": "adenovirus",
     "acceptableAnswers": [
-      "congenital"
+      "adenovirus"
     ]
   },
   {
     "id": 76,
     "type": "fitb",
-    "stem": "Blindness can be classified by laterality as unilateral (one eye) or ___ (both eyes).",
-    "answer": "bilateral",
+    "stem": "Among bacterial causes of laryngitis, Streptococcus pneumoniae and ___ are less common.",
+    "answer": "Haemophilus influenzae",
     "acceptableAnswers": [
-      "bilateral"
+      "Haemophilus influenzae",
+      "H. influenzae"
     ]
   },
   {
     "id": 77,
     "type": "fitb",
-    "stem": "The Nigeria National Blindness and Visual Impairment Survey was conducted over the period ___ to ___.",
-    "answer": "2005; 2007",
+    "stem": "Fungal laryngitis is particularly caused by ___ species, especially in immunocompromised individuals.",
+    "answer": "Candida",
     "acceptableAnswers": [
-      "2005; 2007"
+      "Candida",
+      "candida"
     ]
   },
   {
     "id": 78,
     "type": "fitb",
-    "stem": "The survey estimated the prevalence of blindness among adults aged 40 years and above at ___ percent.",
-    "answer": "4.2",
+    "stem": "Non-infectious causes of laryngitis include vocal overuse or misuse, such as excessive shouting or ___.",
+    "answer": "singing",
     "acceptableAnswers": [
-      "4.2",
-      "4.2%"
+      "singing"
     ]
   },
   {
     "id": 79,
     "type": "fitb",
-    "stem": "Blindness prevalence in Nigeria was found to be highest in the ___ geopolitical zone.",
-    "answer": "North-West",
+    "stem": "High vocal demand occupations such as teachers, singers, and ___ are risk factors for laryngitis.",
+    "answer": "public speakers",
     "acceptableAnswers": [
-      "North-West",
-      "North West",
-      "northwest"
+      "public speakers"
     ]
   },
   {
     "id": 80,
     "type": "fitb",
-    "stem": "More recent state-level ___ surveys continue to find blindness prevalence in a similar range, confirming that the burden has remained substantial.",
-    "answer": "Rapid Assessment of Avoidable Blindness (RAAB)",
+    "stem": "The larynx, located in the upper part of the respiratory tract, houses the ___.",
+    "answer": "vocal cords",
     "acceptableAnswers": [
-      "Rapid Assessment of Avoidable Blindness (RAAB)",
-      "RAAB",
-      "Rapid Assessment of Avoidable Blindness"
+      "vocal cords"
     ]
   },
   {
     "id": 81,
     "type": "fitb",
-    "stem": "Nigeria's National Eye Health Programme has more recently cited an estimated ___ million people currently blind nationally.",
-    "answer": "1.3",
+    "stem": "Inflammation in laryngitis causes swelling and irritation of the ___ lining the larynx.",
+    "answer": "mucosa",
     "acceptableAnswers": [
-      "1.3"
+      "mucosa"
     ]
   },
   {
     "id": 82,
     "type": "fitb",
-    "stem": "Approximately ___ percent of blindness in Nigeria is avoidable, that is, preventable or treatable.",
-    "answer": "84",
+    "stem": "Chronic inflammation in laryngitis may lead to thickening, nodules, or ___ on the vocal cords.",
+    "answer": "polyps",
     "acceptableAnswers": [
-      "84",
-      "84%"
+      "polyps"
     ]
   },
   {
     "id": 83,
     "type": "fitb",
-    "stem": "___ is the single leading cause of blindness in Nigeria, accounting for approximately 43% of cases.",
-    "answer": "Cataract",
+    "stem": "Complete loss of voice in laryngitis is medically termed ___.",
+    "answer": "aphonia",
     "acceptableAnswers": [
-      "Cataract",
-      "cataract"
+      "aphonia"
     ]
   },
   {
     "id": 84,
     "type": "fitb",
-    "stem": "___ is the leading cause of irreversible blindness in Nigeria, accounting for approximately 16.7% of cases.",
-    "answer": "Glaucoma",
+    "stem": "The dry cough of laryngitis is often worse at ___.",
+    "answer": "night",
     "acceptableAnswers": [
-      "Glaucoma",
-      "glaucoma"
+      "night"
     ]
   },
   {
     "id": 85,
     "type": "fitb",
-    "stem": "Uncorrected ___ refers to an unoperated or complicated cataract surgery performed without a replacement lens.",
-    "answer": "aphakia",
+    "stem": "___ is used to directly visualize the vocal cords and assess for structural abnormalities in laryngitis.",
+    "answer": "Laryngoscopy",
     "acceptableAnswers": [
-      "aphakia"
+      "Laryngoscopy",
+      "laryngoscopy"
     ]
   },
   {
     "id": 86,
     "type": "fitb",
-    "stem": "Globally, ___ is considered the single commonest cause of visual impairment worldwide.",
-    "answer": "uncorrected refractive error",
+    "stem": "Imaging studies such as CT or ___ are used if malignancy or structural issues are suspected in laryngitis.",
+    "answer": "MRI",
     "acceptableAnswers": [
-      "uncorrected refractive error",
-      "refractive error"
+      "MRI"
     ]
   },
   {
     "id": 87,
     "type": "fitb",
-    "stem": "Trachoma is caused by ___, and is spread by flies and poor hygiene.",
-    "answer": "Chlamydia trachomatis",
+    "stem": "Patients with laryngitis should be advised to rest their voice and avoid ___, which strains the vocal cords.",
+    "answer": "whispering",
     "acceptableAnswers": [
-      "Chlamydia trachomatis",
-      "chlamydia trachomatis"
+      "whispering"
     ]
   },
   {
     "id": 88,
     "type": "fitb",
-    "stem": "The inward-turning of the eyelashes caused by repeated trachoma infection is called ___.",
-    "answer": "trichiasis",
+    "stem": "Adequate hydration in laryngitis management helps to thin mucus and ___ irritated mucosa.",
+    "answer": "soothe",
     "acceptableAnswers": [
-      "trichiasis"
+      "soothe"
     ]
   },
   {
     "id": 89,
     "type": "fitb",
-    "stem": "Onchocerciasis is caused by the filarial worm ___ and is transmitted by the blackfly.",
-    "answer": "Onchocerca volvulus",
+    "stem": "___ gargles are recommended in laryngitis management for throat comfort.",
+    "answer": "Warm saline",
     "acceptableAnswers": [
-      "Onchocerca volvulus",
-      "onchocerca volvulus"
+      "Warm saline",
+      "warm saline"
     ]
   },
   {
     "id": 90,
     "type": "fitb",
-    "stem": "The blackfly vector of onchocerciasis, known as ___, breeds in fast-flowing rivers.",
-    "answer": "Simulium",
+    "stem": "Antibiotics are only indicated in laryngitis management if ___ infection is confirmed.",
+    "answer": "bacterial",
     "acceptableAnswers": [
-      "Simulium",
-      "simulium"
+      "bacterial"
     ]
   },
   {
     "id": 91,
     "type": "fitb",
-    "stem": "Ophthalmia neonatorum is usually caused by maternal gonococcal or ___ infection transmitted during delivery.",
-    "answer": "chlamydial",
+    "stem": "___ inhibitors are indicated for laryngitis related to gastroesophageal reflux disease.",
+    "answer": "Proton pump",
     "acceptableAnswers": [
-      "chlamydial",
-      "Chlamydial"
+      "Proton pump",
+      "proton pump"
     ]
   },
   {
     "id": 92,
     "type": "fitb",
-    "stem": "Severe vitamin A deficiency can cause corneal melting, known as ___.",
-    "answer": "keratomalacia",
+    "stem": "Corticosteroids may be used short-term in laryngitis for severe inflammation or in ___ voice users.",
+    "answer": "professional",
     "acceptableAnswers": [
-      "keratomalacia"
+      "professional"
     ]
   },
   {
     "id": 93,
     "type": "fitb",
-    "stem": "Retinoblastoma in children presents classically with a white pupillary reflex, described as ___ or 'cat's eye reflex'.",
-    "answer": "leukocoria",
+    "stem": "Surgical management of laryngitis is reserved for persistent structural lesions such as nodules, polyps, or ___.",
+    "answer": "granulomas",
     "acceptableAnswers": [
-      "leukocoria",
-      "leucocoria"
+      "granulomas"
     ]
   },
   {
     "id": 94,
     "type": "fitb",
-    "stem": "Glaucoma is sometimes called 'the ___ thief of sight' because it is often asymptomatic until advanced.",
-    "answer": "silent",
+    "stem": "Nursing assessment of laryngitis includes evaluating for signs of airway obstruction, ___, or respiratory distress.",
+    "answer": "stridor",
     "acceptableAnswers": [
-      "silent"
+      "stridor"
     ]
   },
   {
     "id": 95,
     "type": "fitb",
-    "stem": "Diabetic retinopathy results from damage to ___ blood vessels caused by long-standing, poorly controlled diabetes mellitus.",
-    "answer": "retinal",
+    "stem": "Nursing interventions for laryngitis include encouraging intake of warm fluids such as herbal teas and ___.",
+    "answer": "soups",
     "acceptableAnswers": [
-      "retinal"
+      "soups"
     ]
   },
   {
     "id": 96,
     "type": "fitb",
-    "stem": "Retinopathy of prematurity is associated with uncontrolled ___ therapy in preterm or low-birth-weight babies.",
-    "answer": "oxygen",
+    "stem": "Patients with GERD-related laryngitis should be educated to avoid spicy and ___ foods.",
+    "answer": "acidic",
     "acceptableAnswers": [
-      "oxygen"
+      "acidic"
     ]
   },
   {
     "id": 97,
     "type": "fitb",
-    "stem": "Onchocerciasis in Nigeria is controlled through community-directed treatment with ___.",
-    "answer": "ivermectin",
+    "stem": "Referral to a ___ therapist is recommended for persistent vocal issues in laryngitis.",
+    "answer": "speech-language",
     "acceptableAnswers": [
-      "ivermectin"
+      "speech-language",
+      "speech language"
     ]
   },
   {
     "id": 98,
     "type": "fitb",
-    "stem": "Pterygium is a wing-shaped fibrovascular growth on the cornea associated with chronic ___ light and dust exposure.",
-    "answer": "ultraviolet",
+    "stem": "Airway obstruction, a complication of laryngitis, is especially concerning in children or ___ patients.",
+    "answer": "immunocompromised",
     "acceptableAnswers": [
-      "ultraviolet",
-      "UV"
+      "immunocompromised"
     ]
   },
   {
     "id": 99,
     "type": "fitb",
-    "stem": "Primary Eye Care is the integration of essential eye health services into the general ___ system.",
-    "answer": "primary health care",
+    "stem": "Patients should be encouraged to seek early medical consultation for hoarseness persisting more than ___ weeks.",
+    "answer": "three",
     "acceptableAnswers": [
-      "primary health care",
-      "PHC",
-      "primary healthcare"
+      "three",
+      "3"
     ]
   },
   {
     "id": 100,
     "type": "fitb",
-    "stem": "The concept of Primary Eye Care underlies the National Eye Health Policy and the ___ programme.",
-    "answer": "VISION 2020: The Right to Sight",
+    "stem": "Acute laryngitis generally has a ___ prognosis and resolves within a few days to a couple of weeks with supportive care.",
+    "answer": "favorable",
     "acceptableAnswers": [
-      "VISION 2020: The Right to Sight",
-      "VISION 2020",
-      "Vision 2020"
+      "favorable",
+      "favourable"
     ]
   }
 ]
