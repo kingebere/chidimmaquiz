@@ -2,1124 +2,1119 @@
   {
     "id": 1,
     "type": "mcq",
-    "stem": "Laryngitis is defined as inflammation of which structure?",
+    "stem": "Labyrinthitis is best defined as which of the following?",
     "options": [
-      "The larynx (voice box)",
-      "The pharynx only",
-      "The trachea only",
-      "The epiglottis exclusively"
+      "An inner ear disorder characterized by inflammation or infection of the labyrinth, a structure responsible for balance and hearing",
+      "An outer ear disorder characterized by infection of the pinna",
+      "A disorder of the optic nerve affecting visual acuity",
+      "A disorder of the oral mucosa affecting taste perception"
     ],
     "answer": "A"
   },
   {
     "id": 2,
     "type": "mcq",
-    "stem": "The characteristic swelling of laryngitis affects which structures, resulting in hoarseness and voice changes?",
+    "stem": "Among infectious causes of labyrinthitis, which category is described as MOST common?",
     "options": [
-      "The vocal cords",
-      "The tonsils",
-      "The adenoids",
-      "The thyroid gland"
+      "Viral causes, such as herpes simplex, influenza, measles, and mumps",
+      "Bacterial causes spread from otitis media",
+      "Fungal causes from Candida species",
+      "Parasitic causes from intestinal helminths"
     ],
     "answer": "A"
   },
   {
     "id": 3,
     "type": "mcq",
-    "stem": "Beyond hoarseness, which combination of symptoms is also characteristic of laryngitis?",
+    "stem": "Bacterial labyrinthitis typically arises from spread of infection from which conditions?",
     "options": [
-      "Loss of voice, sore throat, and a dry cough",
-      "Severe abdominal pain and vomiting",
-      "Painless swelling of the ankles",
-      "Sudden loss of hearing"
+      "Otitis media or meningitis",
+      "Appendicitis or cholecystitis",
+      "Urinary tract infection or pyelonephritis",
+      "Peptic ulcer disease or gastritis"
     ],
     "answer": "A"
   },
   {
     "id": 4,
     "type": "mcq",
-    "stem": "At what duration does laryngitis begin to be classified as chronic rather than acute?",
+    "stem": "Besides infectious causes, which non-infectious causes of labyrinthitis are specifically listed?",
     "options": [
-      "More than three weeks",
-      "More than three days",
-      "More than three hours",
-      "More than three months"
+      "Autoimmune conditions and allergic reactions",
+      "Chronic kidney disease and nephrotic syndrome",
+      "Osteoarthritis and gout",
+      "Peripheral vascular disease and varicose veins"
     ],
     "answer": "A"
   },
   {
     "id": 5,
     "type": "mcq",
-    "stem": "Acute laryngitis is typically characterized by which onset and course?",
+    "stem": "The pathophysiology of labyrinthitis describes disruption of the normal function of which two systems?",
     "options": [
-      "Sudden onset, often due to viral infections, typically resolving within a few days to three weeks",
-      "Gradual onset over several years with no identifiable trigger",
-      "Onset exclusively in neonates, never in adults",
-      "An onset that always requires surgical intervention within 24 hours"
+      "The cochlea (hearing) and the vestibular system (balance)",
+      "The retina (vision) and the optic nerve",
+      "The olfactory bulb (smell) and the trigeminal nerve",
+      "The tongue (taste) and the facial nerve"
     ],
     "answer": "A"
   },
   {
     "id": 6,
     "type": "mcq",
-    "stem": "Acute laryngitis is most commonly associated with which clinical context?",
+    "stem": "In the pathophysiology of labyrinthitis, which triggering events are described as leading to inflammation?",
     "options": [
-      "Upper respiratory tract infections, being usually self-limiting",
-      "Lower gastrointestinal infections",
-      "Chronic kidney disease",
-      "Peripheral vascular disease"
+      "Direct viral or bacterial invasion of the labyrinth, or autoimmune/allergic immune responses",
+      "Only mechanical trauma from a blow to the head",
+      "Only prolonged exposure to loud noise",
+      "Only congenital malformation of the cochlea"
     ],
     "answer": "A"
   },
   {
     "id": 7,
     "type": "mcq",
-    "stem": "Chronic laryngitis is most strongly associated with which pattern of exposure?",
+    "stem": "Inflammation in labyrinthitis affects which specific inner ear structures?",
     "options": [
-      "Prolonged exposure to irritants such as smoking, environmental pollutants, or gastroesophageal reflux",
-      "A single, brief viral illness lasting less than 24 hours",
-      "One-time exposure to cold air during a single winter day",
-      "Strict avoidance of all vocal activity for more than a year"
+      "The semicircular canals, utricle, saccule, and cochlea",
+      "The tympanic membrane and ossicles only",
+      "The pinna and external auditory canal only",
+      "The eustachian tube only"
     ],
     "answer": "A"
   },
   {
     "id": 8,
     "type": "mcq",
-    "stem": "Chronic laryngitis may cause which lasting change, distinguishing it from most cases of acute laryngitis?",
+    "stem": "Inflammation of the labyrinth leads to which immediate physiological changes?",
     "options": [
-      "Lasting changes in vocal cord structure and function",
-      "Complete and permanent loss of the sense of smell",
-      "Permanent paralysis of the diaphragm",
-      "Irreversible loss of taste buds on the tongue"
+      "Swelling, increased fluid production, and disruption of normal function",
+      "Immediate and permanent calcification of the cochlea",
+      "A sudden, isolated increase in taste sensitivity",
+      "A compensatory increase in visual acuity"
     ],
     "answer": "A"
   },
   {
     "id": 9,
     "type": "mcq",
-    "stem": "Among infectious causes of laryngitis, which category is described as the MOST common?",
+    "stem": "In the disruption of vestibular function seen in labyrinthitis, what causes symptoms such as vertigo, imbalance, and nystagmus?",
     "options": [
-      "Viral causes, including rhinovirus, influenza virus, parainfluenza, and adenovirus",
-      "Bacterial causes, including Streptococcus pneumoniae",
-      "Fungal causes, including Candida species",
-      "Parasitic causes, including intestinal helminths"
+      "A mismatch between vestibular signals, visual input, and proprioception",
+      "A complete and isolated loss of the sense of smell",
+      "An isolated increase in blood pressure with no sensory component",
+      "A purely psychological reaction with no physiological basis"
     ],
     "answer": "A"
   },
   {
     "id": 10,
     "type": "mcq",
-    "stem": "Which bacterial organisms are specifically listed as LESS common infectious causes of laryngitis?",
+    "stem": "Inflammation of the cochlea in labyrinthitis interferes with auditory signal transmission, resulting in which findings?",
     "options": [
-      "Streptococcus pneumoniae and Haemophilus influenzae",
-      "Rhinovirus and adenovirus",
-      "Candida species exclusively",
-      "Mycobacterium tuberculosis exclusively"
+      "Hearing loss (usually unilateral) and tinnitus",
+      "Bilateral loss of the sense of taste",
+      "Complete, permanent loss of the sense of touch",
+      "An isolated increase in hearing sensitivity with no other change"
     ],
     "answer": "A"
   },
   {
     "id": 11,
     "type": "mcq",
-    "stem": "Fungal laryngitis, caused by Candida species, is particularly associated with which patient population or exposure?",
+    "stem": "Inflammatory mediators and fluid buildup in labyrinthitis irritate which cranial nerve?",
     "options": [
-      "Immunocompromised individuals or those with prolonged corticosteroid inhaler use",
-      "Healthy young athletes with no medication use",
-      "Patients who have never used any inhaled medication",
-      "Patients with a recent uncomplicated viral cold only"
+      "Cranial nerve VIII (the vestibulocochlear nerve)",
+      "Cranial nerve II (the optic nerve)",
+      "Cranial nerve VII (the facial nerve) exclusively, with no effect on hearing or balance",
+      "Cranial nerve X (the vagus nerve)"
     ],
     "answer": "A"
   },
   {
     "id": 12,
     "type": "mcq",
-    "stem": "Vocal overuse or misuse, such as excessive shouting or singing, is classified as which type of cause of laryngitis?",
+    "stem": "What may happen if the inflammation of labyrinthitis resolves appropriately?",
     "options": [
-      "A non-infectious cause",
-      "A viral infectious cause",
-      "A bacterial infectious cause",
-      "A fungal infectious cause"
+      "Normal function may return",
+      "Permanent, irreversible deafness always occurs regardless of resolution",
+      "The patient will always develop chronic bacterial meningitis",
+      "Vision will permanently improve beyond baseline"
     ],
     "answer": "A"
   },
   {
     "id": 13,
     "type": "mcq",
-    "stem": "Besides vocal overuse, which lifestyle factors are listed among the non-infectious causes of laryngitis?",
+    "stem": "Prolonged or severe inflammation, particularly in bacterial labyrinthitis, can lead to which outcome?",
     "options": [
-      "Smoking and alcohol consumption",
-      "Regular moderate exercise",
-      "Adequate daily water intake",
-      "Routine annual dental checkups"
+      "Permanent hearing loss or vestibular dysfunction",
+      "A guaranteed full recovery within 24 hours in every case",
+      "Spontaneous resolution with no risk of any lasting effect",
+      "Improved baseline hearing compared to before the illness"
     ],
     "answer": "A"
   },
   {
     "id": 14,
     "type": "mcq",
-    "stem": "Which digestive condition is specifically listed as a non-infectious cause of laryngitis?",
+    "stem": "The severe vertigo of labyrinthitis is typically described with which onset and duration pattern?",
     "options": [
-      "Gastroesophageal reflux disease (GERD)",
-      "Irritable bowel syndrome",
-      "Peptic ulcer disease unrelated to reflux",
-      "Appendicitis"
+      "Often sudden onset, lasting hours to days",
+      "Always gradual onset over several years",
+      "Lasting only a few seconds with no further recurrence ever",
+      "Present continuously and unchanged for decades before diagnosis"
     ],
     "answer": "A"
   },
   {
     "id": 15,
     "type": "mcq",
-    "stem": "Allergies and post-nasal drip are classified under which category of laryngitis causes?",
+    "stem": "Besides severe vertigo, which gastrointestinal symptoms are commonly associated with labyrinthitis?",
     "options": [
-      "Non-infectious causes",
-      "Viral infectious causes",
-      "Bacterial infectious causes",
-      "Fungal infectious causes"
+      "Nausea and vomiting",
+      "Chronic constipation unrelated to vertigo",
+      "Bloody diarrhea with abdominal cramping",
+      "Dysphagia to solids only, with no vertigo-related symptoms"
     ],
     "answer": "A"
   },
   {
     "id": 16,
     "type": "mcq",
-    "stem": "Which autoimmune conditions are specifically listed as non-infectious causes of laryngitis?",
+    "stem": "Besides nausea, vomiting, and vertigo, which additional vestibular symptom is listed for labyrinthitis?",
     "options": [
-      "Rheumatoid arthritis and sarcoidosis",
-      "Type 1 diabetes mellitus and Hashimoto's thyroiditis",
-      "Systemic lupus erythematosus and multiple sclerosis",
-      "Celiac disease and Crohn's disease"
+      "Loss of balance or unsteadiness",
+      "Sudden, isolated weight gain",
+      "Chronic, isolated joint pain in the knees",
+      "Progressive loss of the sense of smell"
     ],
     "answer": "A"
   },
   {
     "id": 17,
     "type": "mcq",
-    "stem": "Which occupational group is specifically identified as being at higher risk for laryngitis due to high vocal demand?",
+    "stem": "Auditory symptoms of labyrinthitis include hearing loss and which other finding?",
     "options": [
-      "Teachers, singers, and public speakers",
-      "Accountants and data entry clerks",
-      "Night-shift security guards",
-      "Long-distance truck drivers"
+      "Tinnitus (ringing in the ears)",
+      "Complete, isolated loss of taste",
+      "Persistent nasal congestion with no ear involvement",
+      "Chronic dry eyes with no auditory symptoms"
     ],
     "answer": "A"
   },
   {
     "id": 18,
     "type": "mcq",
-    "stem": "Where is the larynx located, and what structures does it house?",
+    "stem": "Fever, as an associated symptom of labyrinthitis, is typically seen in which circumstance?",
     "options": [
-      "In the upper part of the respiratory tract, housing the vocal cords",
-      "In the lower gastrointestinal tract, housing the appendix",
-      "In the middle ear, housing the ossicles",
-      "In the abdominal cavity, housing the pancreas"
+      "If the cause is infectious",
+      "Only in purely autoimmune cases with no infection",
+      "Only in cases caused by allergic reactions, never infection",
+      "Only after full recovery, never during active illness"
     ],
     "answer": "A"
   },
   {
     "id": 19,
     "type": "mcq",
-    "stem": "In the pathophysiology of laryngitis, inflammation causes swelling and irritation of which structure?",
+    "stem": "Headache, as an associated symptom of labyrinthitis, is typically related to which underlying process?",
     "options": [
-      "The mucosa lining the larynx",
-      "The outer skin of the neck only",
-      "The cartilage of the external ear",
-      "The lens of the eye"
+      "A systemic infection",
+      "A completely unrelated dental abscess",
+      "A chronic skin condition with no systemic involvement",
+      "A pre-existing visual refractive error only"
     ],
     "answer": "A"
   },
   {
     "id": 20,
     "type": "mcq",
-    "stem": "This swelling and irritation of the laryngeal mucosa leads to which functional change?",
+    "stem": "In the diagnostic clinical history for labyrinthitis, which features are typically sought?",
     "options": [
-      "Altered vibration of the vocal cords and changes in voice quality",
-      "An immediate and complete loss of the gag reflex only",
-      "A permanent increase in vocal pitch with no other change",
-      "Enhanced, clearer voice production in all cases"
+      "Recent viral or bacterial infection, with sudden onset of vertigo and hearing loss",
+      "A decades-long history of gradually progressive joint stiffness only",
+      "A family history of a single, unrelated skin condition only",
+      "A history of chronic, stable visual impairment since childhood only"
     ],
     "answer": "A"
   },
   {
     "id": 21,
     "type": "mcq",
-    "stem": "Chronic inflammation in laryngitis may lead to which structural changes on the vocal cords, impairing normal phonation?",
+    "stem": "During physical examination for suspected labyrinthitis, the head impulse test is used to assess for which finding?",
     "options": [
-      "Thickening, nodules, or polyps",
-      "Calcification of the entire trachea",
-      "Complete absence of the vocal cords",
-      "Fusion of the vocal cords with the epiglottis"
+      "Abnormal eye movements indicating vestibular dysfunction",
+      "Abnormal reflexes in the lower limbs only",
+      "Abnormal pupillary constriction to light only",
+      "Abnormal skin turgor indicating dehydration only"
     ],
     "answer": "A"
   },
   {
     "id": 22,
     "type": "mcq",
-    "stem": "Which clinical manifestation describes a COMPLETE loss of voice in laryngitis?",
+    "stem": "Besides the head impulse test, which other physical examination component is used in suspected labyrinthitis?",
     "options": [
-      "Aphonia",
-      "Dysphagia",
-      "Dyspnea",
-      "Dysuria"
+      "Gait and balance tests",
+      "Fundoscopic examination of the retina only",
+      "Palpation of the abdomen for organomegaly only",
+      "Auscultation of bowel sounds only"
     ],
     "answer": "A"
   },
   {
     "id": 23,
     "type": "mcq",
-    "stem": "Besides hoarseness and aphonia, which throat-related symptom is characteristic of laryngitis?",
+    "stem": "Audiometry is used in the special testing of labyrinthitis to assess which parameter?",
     "options": [
-      "Dry, scratchy, or sore throat",
-      "Severe unilateral ear pain only",
-      "Painless swelling of the tongue only",
-      "Loss of sensation in the throat only"
+      "Hearing loss",
+      "Visual acuity",
+      "Blood glucose level",
+      "Renal function"
     ],
     "answer": "A"
   },
   {
     "id": 24,
     "type": "mcq",
-    "stem": "The dry cough associated with laryngitis is typically described as being worse at which time?",
+    "stem": "Which vestibular function tests are specifically listed for the special testing of labyrinthitis?",
     "options": [
-      "At night",
-      "Only immediately after waking in the morning",
-      "Only during vigorous exercise",
-      "Only while eating solid food"
+      "Caloric testing and videonystagmography",
+      "Spirometry and peak flow measurement",
+      "Electrocardiography and echocardiography",
+      "Colonoscopy and upper endoscopy"
     ],
     "answer": "A"
   },
   {
     "id": 25,
     "type": "mcq",
-    "stem": "Besides a dry cough, which other symptom related to speech is characteristic of laryngitis?",
+    "stem": "Imaging studies such as MRI or CT are used in the workup of labyrinthitis primarily to exclude which other conditions?",
     "options": [
-      "Difficulty speaking or vocal fatigue",
-      "Sudden, complete paralysis of the tongue",
-      "Permanent loss of the ability to swallow liquids",
-      "Immediate, irreversible loss of hearing"
+      "Acoustic neuroma or stroke",
+      "A simple, uncomplicated common cold",
+      "A minor, superficial skin abrasion",
+      "A routine dental cavity"
     ],
     "answer": "A"
   },
   {
     "id": 26,
     "type": "mcq",
-    "stem": "Swollen lymph nodes in the neck, when seen in laryngitis, are typically associated with which underlying process?",
+    "stem": "Which differential diagnosis for labyrinthitis is specifically characterized by vertigo WITHOUT hearing loss?",
     "options": [
-      "An associated infection",
-      "A purely non-infectious, allergic cause only",
-      "Vocal overuse in the complete absence of any infection",
-      "Chronic GERD exclusively, with no infectious component"
+      "Vestibular neuritis",
+      "Meniere's disease",
+      "Acoustic neuroma",
+      "Bacterial labyrinthitis"
     ],
     "answer": "A"
   },
   {
     "id": 27,
     "type": "mcq",
-    "stem": "Fever and malaise, when present in laryngitis, are typically seen in which form of the condition?",
+    "stem": "Which differential diagnosis for labyrinthitis is characterized by episodic vertigo, hearing loss, AND tinnitus together?",
     "options": [
-      "Infectious forms",
-      "Purely non-infectious, vocal-overuse forms only",
-      "Purely allergic forms only",
-      "Purely GERD-related forms only"
+      "Meniere's disease",
+      "Vestibular neuritis",
+      "A simple tension headache",
+      "Uncomplicated otitis externa"
     ],
     "answer": "A"
   },
   {
     "id": 28,
     "type": "mcq",
-    "stem": "Which diagnostic procedure is used to directly visualize the vocal cords and assess for structural abnormalities in laryngitis?",
+    "stem": "Besides vestibular neuritis and Meniere's disease, which other conditions are listed in the differential diagnosis of labyrinthitis?",
     "options": [
-      "Laryngoscopy",
-      "Abdominal ultrasound",
-      "Electrocardiography",
-      "Lumbar puncture"
+      "Acoustic neuroma, and stroke or transient ischemic attack (TIA)",
+      "Appendicitis and cholecystitis only",
+      "Peptic ulcer disease and pancreatitis only",
+      "Gout and rheumatoid arthritis only"
     ],
     "answer": "A"
   },
   {
     "id": 29,
     "type": "mcq",
-    "stem": "Throat swabs are obtained in the diagnostic workup of laryngitis primarily to identify which type of causative organism?",
+    "stem": "Which supportive care measures are recommended for the general management of labyrinthitis?",
     "options": [
-      "Bacterial or fungal organisms, via culture",
-      "Only autoimmune markers",
-      "Only serum electrolyte abnormalities",
-      "Only blood glucose levels"
+      "Bed rest and hydration",
+      "Strenuous aerobic exercise and fluid restriction",
+      "Complete fasting and strict bed confinement with no fluids at all",
+      "Prolonged standing exercises in bright, flashing light"
     ],
     "answer": "A"
   },
   {
     "id": 30,
     "type": "mcq",
-    "stem": "Imaging studies such as CT or MRI are indicated in the workup of laryngitis when which complication is suspected?",
+    "stem": "In the acute phase of medical therapy for labyrinthitis, which class of medication is used specifically for inflammation?",
     "options": [
-      "Malignancy or a structural issue",
-      "A routine, uncomplicated viral cold with no red flag symptoms",
-      "Simple, self-limiting acute laryngitis lasting less than one week",
-      "A single episode of mild hoarseness with no other symptoms"
+      "Corticosteroids, such as prednisone",
+      "Insulin",
+      "Loop diuretics",
+      "Anticoagulants"
     ],
     "answer": "A"
   },
   {
     "id": 31,
     "type": "mcq",
-    "stem": "Referral to an ENT specialist for voice assessment is particularly recommended for which presentation of laryngitis?",
+    "stem": "Antiviral drugs are indicated in the management of labyrinthitis under which circumstance?",
     "options": [
-      "Chronic or recurrent laryngitis",
-      "A single mild episode lasting less than three days",
-      "Laryngitis occurring only once in a lifetime with full resolution",
-      "Laryngitis that resolves completely within 24 hours without treatment"
+      "If a viral cause is suspected",
+      "In every single case regardless of suspected cause",
+      "Only for cases with no vertigo at all",
+      "Only after complete resolution of all symptoms"
     ],
     "answer": "A"
   },
   {
     "id": 32,
     "type": "mcq",
-    "stem": "As part of supportive treatment for laryngitis, what instruction should be given regarding whispering?",
+    "stem": "Antibiotics are indicated in the management of labyrinthitis under which circumstance?",
     "options": [
-      "Patients should avoid whispering, since it strains the vocal cords",
-      "Patients should whisper constantly instead of speaking at a normal volume",
-      "Whispering has no effect on the vocal cords and may be used freely",
-      "Whispering is the preferred method of complete voice rest"
+      "If bacterial infection is confirmed",
+      "In every single case regardless of suspected cause",
+      "Only for purely autoimmune labyrinthitis",
+      "Only for allergic labyrinthitis"
     ],
     "answer": "A"
   },
   {
     "id": 33,
     "type": "mcq",
-    "stem": "Adequate hydration is recommended in laryngitis management for which specific purpose?",
+    "stem": "Which medication class, such as promethazine, is used for symptomatic relief of nausea in labyrinthitis?",
     "options": [
-      "To thin mucus and soothe irritated mucosa",
-      "To directly cure any underlying bacterial infection without antibiotics",
-      "To eliminate the need for voice rest entirely",
-      "To permanently reverse chronic vocal cord nodules"
+      "Antiemetics",
+      "Antihypertensives",
+      "Anticoagulants",
+      "Bronchodilators"
     ],
     "answer": "A"
   },
   {
     "id": 34,
     "type": "mcq",
-    "stem": "Humidified air is recommended in laryngitis management to achieve which effect?",
+    "stem": "Which medication class, such as meclizine or benzodiazepines, is used to manage vertigo in labyrinthitis?",
     "options": [
-      "To help relieve dryness and irritation",
-      "To directly kill any viral pathogens present",
-      "To permanently increase vocal pitch",
-      "To replace the need for any fluid intake"
+      "Vestibular suppressants",
+      "Loop diuretics",
+      "Proton pump inhibitors",
+      "Antifungal agents"
     ],
     "answer": "A"
   },
   {
     "id": 35,
     "type": "mcq",
-    "stem": "Warm saline gargles are recommended in laryngitis management primarily for which purpose?",
+    "stem": "What is the purpose of vestibular rehabilitation therapy (VRT) in the management of labyrinthitis?",
     "options": [
-      "Throat comfort",
-      "Definitive eradication of fungal infection",
-      "Permanent structural repair of vocal cord nodules",
-      "Replacement of prescribed antibiotic therapy"
+      "Exercises to restore balance",
+      "Surgical removal of the inflamed labyrinth in every case",
+      "Permanent avoidance of all physical activity indefinitely",
+      "Replacement of the need for any medical therapy"
     ],
     "answer": "A"
   },
   {
     "id": 36,
     "type": "mcq",
-    "stem": "Which class of medications is recommended in laryngitis for pain and fever control, such as paracetamol or ibuprofen?",
+    "stem": "Hearing aids are indicated in the management of labyrinthitis for which specific situation?",
     "options": [
-      "Analgesics and antipyretics",
-      "Antifungals",
-      "Proton pump inhibitors",
-      "Corticosteroid inhalers exclusively"
+      "Persistent hearing loss",
+      "Acute vertigo occurring without any hearing involvement",
+      "Fever occurring without any auditory symptoms",
+      "Nausea occurring without any auditory symptoms"
     ],
     "answer": "A"
   },
   {
     "id": 37,
     "type": "mcq",
-    "stem": "Antibiotics are indicated in the pharmacological management of laryngitis under which specific condition?",
+    "stem": "What is the typical prognosis for VIRAL labyrinthitis, in terms of recovery?",
     "options": [
-      "Only if bacterial infection is confirmed",
-      "In every single case of laryngitis, regardless of cause",
-      "Only for cases caused by vocal overuse",
-      "Only for cases caused by allergies"
+      "Recovery is typically complete, but may take weeks to months",
+      "Recovery never occurs under any circumstances",
+      "Recovery is always instantaneous, within minutes of symptom onset",
+      "Recovery is impossible without surgical intervention in every case"
     ],
     "answer": "A"
   },
   {
     "id": 38,
     "type": "mcq",
-    "stem": "Antifungal medications are indicated in laryngitis management for which confirmed cause?",
+    "stem": "What is the prognosis concern specifically associated with BACTERIAL labyrinthitis if not treated promptly?",
     "options": [
-      "Confirmed fungal laryngitis",
-      "Confirmed viral laryngitis",
-      "Confirmed GERD-related laryngitis",
-      "Confirmed vocal-overuse laryngitis"
+      "It may lead to permanent hearing loss or balance issues",
+      "It always resolves spontaneously without any treatment or consequence",
+      "It has no risk of any lasting complication under any circumstance",
+      "It exclusively affects taste, never hearing or balance"
     ],
     "answer": "A"
   },
   {
     "id": 39,
     "type": "mcq",
-    "stem": "Antihistamines, used in allergy-induced laryngitis, must be used with which precaution?",
+    "stem": "Which of the following is listed as a potential complication of labyrinthitis affecting balance long-term?",
     "options": [
-      "Cautiously, to avoid drying the mucosa",
-      "Only in combination with high-dose corticosteroids at all times",
-      "Without any precaution, as they have no drying effect",
-      "Only intravenously, never orally"
+      "Chronic imbalance",
+      "Permanent loss of the sense of smell",
+      "Chronic constipation",
+      "Permanent loss of taste on the tongue"
     ],
     "answer": "A"
   },
   {
     "id": 40,
     "type": "mcq",
-    "stem": "Proton pump inhibitors (PPIs) are indicated in laryngitis management when the cause is related to which condition?",
+    "stem": "Besides chronic imbalance and persistent hearing loss, which psychological complication is listed for labyrinthitis?",
     "options": [
-      "Gastroesophageal reflux disease (GERD)",
-      "Viral upper respiratory infection",
-      "Vocal cord nodules from overuse alone",
-      "Allergic rhinitis alone"
+      "Anxiety or depression from prolonged symptoms",
+      "Permanent, isolated loss of short-term memory only",
+      "A specific phobia of heights only",
+      "Obsessive-compulsive disorder exclusively"
     ],
     "answer": "A"
   },
   {
     "id": 41,
     "type": "mcq",
-    "stem": "Corticosteroids, used short-term in laryngitis, are indicated for which situations?",
+    "stem": "Which vaccination is specifically listed as a preventive measure against labyrinthitis, by preventing mumps?",
     "options": [
-      "Severe inflammation or professional voice users",
-      "Mild, self-limiting cases requiring no other treatment",
-      "Confirmed fungal laryngitis as first-line therapy",
-      "Routine prophylaxis in all patients regardless of severity"
+      "The MMR vaccine",
+      "The tetanus vaccine",
+      "The yellow fever vaccine",
+      "The oral polio vaccine"
     ],
     "answer": "A"
   },
   {
     "id": 42,
     "type": "mcq",
-    "stem": "Surgical management of laryngitis is reserved for which specific situations?",
+    "stem": "Besides vaccination, which other measure is listed for the prevention of labyrinthitis?",
     "options": [
-      "Persistent structural lesions such as nodules, polyps, or granulomas affecting the vocal cords",
-      "Every single case of acute viral laryngitis",
-      "Mild hoarseness lasting less than three days",
-      "Uncomplicated allergy-induced laryngitis responding to antihistamines"
+      "Prompt treatment of otitis media and upper respiratory infections",
+      "Avoidance of all forms of physical exercise indefinitely",
+      "Routine use of antibiotics in every healthy individual regardless of infection",
+      "Avoidance of all dietary protein intake"
     ],
     "answer": "A"
   },
   {
     "id": 43,
     "type": "mcq",
-    "stem": "In the nursing assessment of a patient with laryngitis, which vocal parameters should be monitored?",
+    "stem": "For patients with a suspected allergic trigger, which preventive measure is recommended for labyrinthitis?",
     "options": [
-      "Voice quality, frequency, and duration of symptoms",
-      "Only the patient's handwriting legibility",
-      "Only the patient's gait pattern",
-      "Only the patient's appetite for solid food"
+      "Avoidance of known allergens",
+      "Daily high-dose antihistamine use regardless of allergen exposure",
+      "Complete avoidance of all fluid intake",
+      "Permanent bed rest regardless of symptom status"
     ],
     "answer": "A"
   },
   {
     "id": 44,
     "type": "mcq",
-    "stem": "A critical safety component of nursing assessment in laryngitis is evaluating for which potentially serious signs?",
+    "stem": "In the nursing assessment of a patient with labyrinthitis, which vital sign findings should specifically be monitored?",
     "options": [
-      "Signs of airway obstruction, stridor, or respiratory distress",
-      "Signs of ingrown toenails",
-      "Signs of seasonal hay fever only",
-      "Signs of mild sunburn"
+      "Fever, hypotension, or signs of dehydration",
+      "Only the patient's pupillary response to light",
+      "Only the patient's deep tendon reflexes",
+      "Only the patient's skin color on the lower extremities"
     ],
     "answer": "A"
   },
   {
     "id": 45,
     "type": "mcq",
-    "stem": "Besides monitoring voice and airway status, nursing assessment in laryngitis should also evaluate which physiological parameter?",
+    "stem": "Besides vital signs, nursing assessment of labyrinthitis should evaluate the severity and duration of which specific symptoms?",
     "options": [
-      "Hydration status and fluid intake",
-      "Visual acuity using a Snellen chart",
-      "Deep tendon reflexes in the lower limbs",
-      "Peripheral pulses in all four limbs"
+      "Vertigo, hearing loss, and tinnitus",
+      "Joint swelling and morning stiffness",
+      "Skin rash distribution and pruritus",
+      "Urinary frequency and dysuria"
     ],
     "answer": "A"
   },
   {
     "id": 46,
     "type": "mcq",
-    "stem": "Nursing assessment in laryngitis should also include identifying and documenting which information?",
+    "stem": "Why should the nurse closely evaluate the intensity of nausea and vomiting in a patient with labyrinthitis?",
     "options": [
-      "Possible causative or exacerbating factors",
-      "The patient's preferred television programme",
-      "The patient's choice of clothing colour",
-      "The patient's favourite type of music"
+      "To prevent dehydration",
+      "Because nausea and vomiting in labyrinthitis have no clinical significance",
+      "Because nausea and vomiting always indicate an unrelated gastrointestinal infection requiring separate treatment",
+      "Because nausea and vomiting are the only symptoms that ever require nursing documentation"
     ],
     "answer": "A"
   },
   {
     "id": 47,
     "type": "mcq",
-    "stem": "Which nursing intervention directly addresses vocal strain in a patient with laryngitis?",
+    "stem": "Besides physical symptoms, nursing assessment of labyrinthitis should also observe for signs of which psychological state?",
     "options": [
-      "Encouraging complete voice rest and educating the patient to avoid whispering and throat clearing",
-      "Encouraging the patient to shout loudly to 'exercise' the vocal cords",
-      "Encouraging frequent, prolonged singing sessions",
-      "Encouraging constant whispering as a substitute for normal speech"
+      "Anxiety or distress due to vertigo and sensory changes",
+      "Excessive euphoria with no other mood change",
+      "Complete absence of any emotional response in all patients",
+      "Overconfidence in balance abilities during acute vertigo"
     ],
     "answer": "A"
   },
   {
     "id": 48,
     "type": "mcq",
-    "stem": "Which nursing intervention helps ease breathing and soothe the throat in a patient with laryngitis?",
+    "stem": "Reviewing the patient's medical history in labyrinthitis assessment should specifically include which information?",
     "options": [
-      "Providing humidified oxygen or using a room humidifier",
-      "Administering dry, unheated, low-humidity air exclusively",
-      "Restricting all fluid intake to less than 500 mL per day",
-      "Encouraging the patient to breathe exclusively through the mouth in cold, dry air"
+      "Recent infections or ear conditions",
+      "Only the patient's childhood vaccination record for unrelated illnesses",
+      "Only the patient's dental history",
+      "Only the patient's family history of unrelated skin conditions"
     ],
     "answer": "A"
   },
   {
     "id": 49,
     "type": "mcq",
-    "stem": "Which type of fluids are specifically recommended as a nursing intervention to encourage intake in laryngitis?",
+    "stem": "During the acute phase of labyrinthitis, why should the patient be encouraged to remain in bed during severe vertigo episodes?",
     "options": [
-      "Warm fluids, such as herbal teas and soups",
-      "Ice-cold carbonated beverages exclusively",
-      "Caffeinated energy drinks exclusively",
-      "Undiluted citrus juice exclusively"
+      "To avoid falls",
+      "Because bed rest cures the underlying infection without any further treatment",
+      "Because standing permanently worsens hearing regardless of vertigo status",
+      "Because bed rest eliminates the need for any medication"
     ],
     "answer": "A"
   },
   {
     "id": 50,
     "type": "mcq",
-    "stem": "Which nursing responsibility involves giving prescribed laryngitis medications correctly and watching for adverse effects?",
+    "stem": "As part of creating a safe environment for a patient with acute labyrinthitis, what should the nurse do regarding the patient's surroundings?",
     "options": [
-      "Administering prescribed medications accurately and observing for side effects",
-      "Allowing the patient to self-adjust all medication doses without supervision",
-      "Withholding all prescribed medications until symptoms fully resolve",
-      "Administering only herbal remedies instead of prescribed medications"
+      "Remove obstacles and ensure a clutter-free environment",
+      "Rearrange furniture frequently to keep the patient alert",
+      "Encourage the patient to walk in a dimly lit, obstacle-filled hallway unassisted",
+      "Leave all mobility aids out of reach to encourage independence prematurely"
     ],
     "answer": "A"
   },
   {
     "id": 51,
     "type": "mcq",
-    "stem": "Which lifestyle modification should the nurse instruct a patient with laryngitis to avoid?",
+    "stem": "Why should the nurse assist with mobility, especially during episodes of dizziness, in a patient with labyrinthitis?",
     "options": [
-      "Smoking, alcohol, and environmental pollutants",
-      "Drinking adequate water throughout the day",
-      "Resting the voice as much as possible",
-      "Using a room humidifier at night"
+      "To reduce the risk of falls during unsteady movement",
+      "Because mobility assistance has no effect on fall risk in labyrinthitis",
+      "Because the patient should always be left to mobilize completely unsupervised during acute vertigo",
+      "Because mobility assistance is only relevant after full recovery, never during acute symptoms"
     ],
     "answer": "A"
   },
   {
     "id": 52,
     "type": "mcq",
-    "stem": "For a patient whose laryngitis is related to GERD, which dietary modification should the nurse educate on?",
+    "stem": "Promoting rest and comfort for a patient with acute labyrinthitis includes which environmental intervention?",
     "options": [
-      "Avoiding spicy and acidic foods",
-      "Increasing intake of citrus fruits and spicy peppers",
-      "Eliminating all fluid intake entirely",
-      "Eating only immediately before lying down to sleep"
+      "Positioning the patient in a quiet, darkened room to reduce stimuli",
+      "Positioning the patient near bright, flashing lights to stimulate alertness",
+      "Encouraging loud background music to distract from vertigo",
+      "Encouraging frequent rapid head turning to 'test' the vestibular system"
     ],
     "answer": "A"
   },
   {
     "id": 53,
     "type": "mcq",
-    "stem": "Promoting respiratory and hand hygiene in a patient with laryngitis primarily serves which purpose?",
+    "stem": "Encouraging the use of a supportive pillow in acute labyrinthitis care serves which specific purpose?",
     "options": [
-      "To prevent the spread of infection",
-      "To permanently cure chronic vocal cord nodules",
-      "To replace the need for any pharmacological treatment",
-      "To eliminate the need for voice rest"
+      "To keep the head stable",
+      "To increase neck flexibility through frequent stretching",
+      "To elevate the feet above the level of the heart for venous return",
+      "To replace the need for any vestibular suppressant medication"
     ],
     "answer": "A"
   },
   {
     "id": 54,
     "type": "mcq",
-    "stem": "Referral to which specialist is recommended for persistent vocal issues in laryngitis?",
+    "stem": "Ensuring hydration in the nursing management of labyrinthitis includes monitoring which parameter?",
     "options": [
-      "A speech-language therapist",
-      "An orthopaedic surgeon",
-      "A nephrologist",
-      "A dermatologist"
+      "Fluid intake and output",
+      "Only the patient's dietary fiber intake",
+      "Only the patient's daily step count",
+      "Only the patient's screen time"
     ],
     "answer": "A"
   },
   {
     "id": 55,
     "type": "mcq",
-    "stem": "Which of the following is listed as a potential complication of laryngitis involving the vocal cords themselves?",
+    "stem": "In the subacute phase of labyrinthitis recovery, how should mobility be approached?",
     "options": [
-      "Vocal cord nodules, polyps, or cysts",
-      "Permanent blindness",
-      "Complete loss of taste on the tongue",
-      "Irreversible hearing loss in both ears"
+      "Mobility should be encouraged as tolerated, gradually introducing activities to regain confidence in balance",
+      "The patient should remain in strict bed rest indefinitely with no gradual increase in activity",
+      "The patient should immediately resume unrestricted vigorous exercise with no gradual progression",
+      "Mobility should be permanently avoided to prevent any further vertigo"
     ],
     "answer": "A"
   },
   {
     "id": 56,
     "type": "mcq",
-    "stem": "Laryngeal stenosis or granuloma formation is listed as a complication of which condition?",
+    "stem": "If hearing loss affects a patient's understanding during the subacute phase of labyrinthitis, what should the nurse facilitate?",
     "options": [
-      "Laryngitis",
-      "Appendicitis",
-      "Otitis media",
-      "Conjunctivitis"
+      "Communication, using alternative communication methods",
+      "Complete cessation of all communication attempts",
+      "Exclusive use of written communication in a language the patient cannot read",
+      "Avoidance of any explanation about the patient's condition"
     ],
     "answer": "A"
   },
   {
     "id": 57,
     "type": "mcq",
-    "stem": "Airway obstruction, as a complication of laryngitis, is noted to be especially concerning in which patient populations?",
+    "stem": "Patient and family education in the subacute phase of labyrinthitis should include teaching about which topics?",
     "options": [
-      "Children or immunocompromised patients",
-      "Healthy adult athletes only",
-      "Patients with no history of respiratory illness",
-      "Patients who have never smoked"
+      "The condition, its causes, and the importance of adhering to prescribed treatments",
+      "Only unrelated dietary recipes with no connection to the illness",
+      "Only the hospital's visiting hours policy",
+      "Only the names of unrelated hospital staff members"
     ],
     "answer": "A"
   },
   {
     "id": 58,
     "type": "mcq",
-    "stem": "Secondary bacterial infection is listed as a potential complication following which initial process in laryngitis?",
+    "stem": "When educating about medications such as antibiotics or antivirals for labyrinthitis, what key adherence point should the nurse emphasize?",
     "options": [
-      "An initial viral or other inflammatory process affecting the larynx",
-      "A fully resolved, asymptomatic episode with no ongoing inflammation",
-      "A single dose of a properly indicated antibiotic",
-      "A routine dental cleaning unrelated to the larynx"
+      "The importance of completing the full course of therapy",
+      "That the medication may be stopped as soon as symptoms improve even slightly",
+      "That doubling the dose will speed up recovery",
+      "That the medication has no possible side effects whatsoever"
     ],
     "answer": "A"
   },
   {
     "id": 59,
     "type": "mcq",
-    "stem": "As part of health education, patients should be encouraged to seek early medical consultation for hoarseness persisting beyond which duration?",
+    "stem": "Reinforcing vestibular rehabilitation exercises in labyrinthitis recovery serves which purpose?",
     "options": [
-      "More than three weeks",
-      "More than three hours",
-      "More than three minutes",
-      "More than three years"
+      "To improve balance and reduce dizziness, as directed by the rehabilitation team",
+      "To permanently eliminate the need for any follow-up care",
+      "To replace the need for antiviral or antibiotic therapy entirely",
+      "To increase, rather than reduce, vertigo symptoms over time"
     ],
     "answer": "A"
   },
   {
     "id": 60,
     "type": "mcq",
-    "stem": "Health education for laryngitis prevention includes avoiding which behaviour related to the voice?",
+    "stem": "In long-term care for labyrinthitis, the nurse should monitor for which persistent complications?",
     "options": [
-      "Voice overuse and vocal strain",
-      "Deep breathing exercises",
-      "Adequate hydration",
-      "Hand hygiene practices"
+      "Persistent hearing loss, chronic dizziness, or psychological effects such as anxiety or depression",
+      "Only unrelated changes in appetite with no connection to the ear",
+      "Only changes in handwriting legibility",
+      "Only changes in favorite leisure activities"
     ],
     "answer": "A"
   },
   {
     "id": 61,
     "type": "mcq",
-    "stem": "What is the general prognosis for ACUTE laryngitis with supportive care?",
+    "stem": "Promoting follow-up care in long-term labyrinthitis management includes encouraging regular visits to which specialists?",
     "options": [
-      "A favorable prognosis, resolving within a few days to a couple of weeks",
-      "A universally fatal outcome without surgery",
-      "Permanent, irreversible loss of voice in all cases",
-      "A prognosis identical to untreated laryngeal cancer"
+      "Audiologists or ENT specialists",
+      "Only a podiatrist",
+      "Only a dermatologist",
+      "Only a dentist"
     ],
     "answer": "A"
   },
   {
     "id": 62,
     "type": "mcq",
-    "stem": "What does the prognosis of CHRONIC laryngitis typically require, in contrast to most cases of acute laryngitis?",
+    "stem": "Supporting psychosocial well-being in long-term labyrinthitis care includes providing which type of support?",
     "options": [
-      "Management of underlying causes, possibly including voice therapy or surgical intervention for structural complications",
-      "No management whatsoever, since it always resolves spontaneously within days",
-      "Immediate, mandatory laryngectomy in every case",
-      "Only a single dose of antihistamine with no further follow-up"
+      "Reassurance and emotional support, with referral to counseling services if needed",
+      "Strict isolation from family and friends to promote independence",
+      "Discouragement of any discussion about the patient's symptoms or feelings",
+      "Withholding all information about the condition from the patient"
     ],
     "answer": "A"
   },
   {
     "id": 63,
     "type": "mcq",
-    "stem": "According to the prognosis discussion, what can minimize complications of laryngitis?",
+    "stem": "Which of the following is listed as a primary NURSING GOAL in the care of a patient with labyrinthitis?",
     "options": [
-      "Early diagnosis and preventive measures",
-      "Delaying all medical evaluation for several years",
-      "Avoiding any form of hydration",
-      "Increasing, rather than resting, vocal activity during acute illness"
+      "Preventing complications like falls and dehydration",
+      "Maximizing the patient's exposure to loud noise",
+      "Encouraging rapid, unsupervised ambulation during acute vertigo",
+      "Discontinuing all medications as soon as the patient is admitted"
     ],
     "answer": "A"
   },
   {
     "id": 64,
     "type": "mcq",
-    "stem": "Which statement correctly distinguishes the TYPICAL infectious cause pattern of acute laryngitis from chronic laryngitis?",
+    "stem": "Besides preventing falls and dehydration, which other nursing goal is identified for labyrinthitis care?",
     "options": [
-      "Acute laryngitis is often due to viral infection, while chronic laryngitis is more often linked to prolonged irritant exposure such as smoking or GERD rather than a single infection",
-      "Acute laryngitis is always bacterial, while chronic laryngitis is always fungal",
-      "Acute and chronic laryngitis share an identical, single infectious cause in all cases",
-      "Chronic laryngitis is always caused by a single untreated viral infection lasting exactly three weeks"
+      "Promoting symptom relief and comfort, and supporting the patient in regaining independence and confidence",
+      "Ensuring the patient receives no education about coping strategies",
+      "Ensuring the patient avoids all follow-up appointments after discharge",
+      "Ensuring the patient discontinues vestibular rehabilitation exercises immediately"
     ],
     "answer": "A"
   },
   {
     "id": 65,
     "type": "mcq",
-    "stem": "Why should antihistamines be used cautiously in allergy-induced laryngitis despite potentially relieving allergic symptoms?",
+    "stem": "A nursing goal of educating on coping strategies and adherence to treatment plans in labyrinthitis primarily supports which outcome?",
     "options": [
-      "Because they can dry the mucosa, which may worsen irritation of an already inflamed larynx",
-      "Because they always cause immediate, severe airway obstruction in every patient",
-      "Because they are completely ineffective for any allergic condition",
-      "Because they permanently cure chronic vocal cord nodules on their own"
+      "Long-term recovery and prevention of complications",
+      "Immediate, permanent cure within the first hour of admission",
+      "Complete avoidance of any future medical follow-up",
+      "Replacement of medical therapy with coping strategies alone"
     ],
     "answer": "A"
   },
   {
     "id": 66,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A secondary school teacher presents with hoarseness that has persisted for five weeks, worse by the end of each teaching day, with no fever and no recent cold symptoms. She reports frequent heartburn at night. Which type of laryngitis and most likely contributing causes BEST fit this presentation?",
+    "stem": "CASE SCENARIO: A 34-year-old man develops sudden severe vertigo, nausea, vomiting, and unilateral hearing loss with tinnitus, two days after resolving a bout of influenza. He has no prior ear surgery and no history of recurrent episodic vertigo. Which diagnosis is MOST consistent with this presentation, and which differential should be ruled out given the hearing loss?",
     "options": [
-      "Chronic laryngitis, most likely related to her high vocal demand occupation and underlying gastroesophageal reflux disease rather than an acute infection",
-      "Acute viral laryngitis, since all laryngitis lasting more than a few days is classified as viral",
-      "Fungal laryngitis, since all teachers who use corticosteroid inhalers develop Candida infection",
-      "A normal voice change requiring no further assessment, since hoarseness lasting five weeks is within expected limits for teachers"
+      "Viral labyrinthitis is most consistent, given the preceding viral illness and combined vestibular and auditory symptoms; Meniere's disease should be considered but is typically episodic and recurrent rather than a single acute event",
+      "Vestibular neuritis is most consistent, since it always presents with hearing loss identical to labyrinthitis",
+      "Acoustic neuroma is confirmed by this presentation alone, with no further imaging required",
+      "This presentation requires no further evaluation, since vertigo following influenza is never clinically significant"
     ],
     "answer": "A"
   },
   {
     "id": 67,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A 4-year-old child with sudden-onset hoarseness and a barking, worsening cough develops audible stridor and visible chest retractions over several hours. Which nursing priority is MOST appropriate at this point?",
+    "stem": "CASE SCENARIO: A patient hospitalized with labyrinthitis following untreated otitis media develops worsening vertigo, high fever, and increasing unilateral hearing loss over several days despite supportive care. Which concern should the nurse prioritize, and why?",
     "options": [
-      "Urgent assessment and escalation for signs of airway obstruction and respiratory distress, since this age group is specifically noted to be at higher risk of this complication of laryngitis",
-      "Reassurance that stridor and retractions are expected, harmless findings requiring no further action",
-      "Immediate administration of antihistamines alone, since allergy is the only possible cause of stridor in children",
-      "Discharge home with voice rest instructions only, with no further monitoring required"
+      "Concern for bacterial labyrinthitis progressing toward permanent hearing loss or vestibular dysfunction if not treated promptly, warranting urgent reassessment and likely antibiotic therapy",
+      "No concern is warranted, since all labyrinthitis resolves spontaneously regardless of cause or treatment",
+      "The nurse should discontinue all monitoring, since fever in labyrinthitis is never clinically significant",
+      "The worsening symptoms confirm a diagnosis of Meniere's disease, which requires no further intervention"
     ],
     "answer": "A"
   },
   {
     "id": 68,
     "type": "mcq",
-    "stem": "CASE SCENARIO: An adult with confirmed fungal laryngitis on throat swab has a history of long-term inhaled corticosteroid use for asthma, with no systemic immunosuppressive illness identified. Which management approach is MOST appropriate?",
+    "stem": "CASE SCENARIO: A patient in the acute phase of labyrinthitis attempts to walk unassisted to the bathroom during a severe vertigo episode in a dimly lit, cluttered room. Which nursing priority BEST reflects safe, evidence-based care for this patient?",
     "options": [
-      "Antifungal therapy directed at the confirmed Candida infection, along with review of inhaler technique and rinsing the mouth after corticosteroid inhaler use",
-      "Antibiotics alone, since all throat infections are treated identically regardless of the organism identified",
-      "Antihistamines alone, since fungal laryngitis is managed identically to allergy-induced laryngitis",
-      "No treatment at all, since fungal laryngitis in inhaler users always resolves without intervention"
+      "Assist with mobility, remove obstacles, and ensure a clutter-free, safe environment to reduce the risk of falls during vertigo episodes",
+      "Encourage the patient to continue walking unassisted to promote independence regardless of fall risk",
+      "Leave the room as is, since environmental modification has no role in labyrinthitis care",
+      "Increase room lighting to maximum brightness and add background music to stimulate alertness"
     ],
     "answer": "A"
   },
   {
     "id": 69,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A professional singer develops hoarseness after a series of back-to-back performances with inadequate rest between shows, but has no fever, no recent infection, and no reflux symptoms. Laryngoscopy reveals early, mild thickening of the vocal cords. Which combination of interventions is MOST appropriate at this stage?",
+    "stem": "CASE SCENARIO: A patient recovering from labyrinthitis reports persistent dizziness and difficulty regaining confidence in walking several weeks after the acute illness resolved, alongside low mood related to the prolonged symptoms. Which combination of interventions is MOST appropriate at this stage?",
     "options": [
-      "Voice rest, hydration, humidified air, and avoidance of further vocal strain, with surgical referral reserved only if persistent structural lesions such as nodules or polyps develop despite conservative management",
-      "Immediate surgical excision of the vocal cords as first-line treatment before any conservative measures are tried",
-      "A full course of antibiotics as first-line treatment, since all vocal cord changes require antimicrobial therapy",
-      "Encouragement to continue singing at full volume, since vocal rest is unnecessary for professional performers"
+      "Vestibular rehabilitation therapy with gradually introduced activity, along with reassurance, emotional support, and referral to counseling services if distress is significant",
+      "Strict indefinite bed rest with no vestibular rehabilitation or emotional support of any kind",
+      "Immediate discontinuation of all follow-up care, since persistent dizziness after labyrinthitis is never clinically relevant",
+      "Exclusive reliance on high-dose antibiotics alone, with no rehabilitation or psychosocial component"
     ],
     "answer": "A"
   },
   {
     "id": 70,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A nurse is evaluating two patients with hoarseness: Patient 1 has had symptoms for four days following a cold, with mild throat discomfort and no red-flag signs; Patient 2 has had progressive hoarseness for four months with no infectious symptoms and a long smoking history. Which plan of care correctly matches each patient?",
+    "stem": "CASE SCENARIO: A patient with confirmed viral labyrinthitis is prescribed an antiviral agent and a short course of meclizine, and is counseled to avoid driving. Three days later the patient reports feeling much better and wants to stop all medication and resume full activity immediately. Which nursing response is MOST appropriate?",
     "options": [
-      "Patient 1 is most consistent with acute, self-limiting viral laryngitis managed with supportive care; Patient 2's prolonged hoarseness and smoking history warrant ENT referral and laryngoscopy to exclude structural disease or malignancy",
-      "Both patients should be managed identically with voice rest alone and require no further evaluation of any kind",
-      "Patient 1 requires urgent laryngoscopy and possible biopsy, while Patient 2 requires only reassurance with no further action",
-      "Neither patient requires any assessment beyond reassurance, since hoarseness is never associated with underlying disease"
+      "Reinforce the importance of completing the prescribed course of therapy and gradually, rather than abruptly, resuming activity, since recovery from viral labyrinthitis can take weeks to months even when symptoms improve early",
+      "Agree that all medication should be stopped immediately once the patient feels subjectively better",
+      "Advise the patient to double the antiviral dose to accelerate full recovery",
+      "Tell the patient that full, unrestricted activity should resume immediately, since three days of improvement guarantees complete resolution"
     ],
     "answer": "A"
   },
   {
     "id": 71,
     "type": "fitb",
-    "stem": "Laryngitis is the inflammation of the ___, characterized by swelling of the vocal cords.",
-    "answer": "larynx",
+    "stem": "Labyrinthitis is inflammation or infection of the ___, a part of the inner ear responsible for balance and hearing.",
+    "answer": "labyrinth",
     "acceptableAnswers": [
-      "larynx",
-      "larynx (voice box)",
-      "voice box"
+      "labyrinth"
     ]
   },
   {
     "id": 72,
     "type": "fitb",
-    "stem": "Laryngitis may present as an acute, short-term condition or as chronic inflammation lasting more than ___ weeks.",
-    "answer": "three",
+    "stem": "Among infectious causes of labyrinthitis, ___ causes such as herpes simplex, influenza, measles, and mumps are the most common.",
+    "answer": "viral",
     "acceptableAnswers": [
-      "three",
-      "3"
+      "viral"
     ]
   },
   {
     "id": 73,
     "type": "fitb",
-    "stem": "Acute laryngitis is common in ___ respiratory tract infections and is usually self-limiting.",
-    "answer": "upper",
+    "stem": "Bacterial labyrinthitis can spread from otitis media or ___.",
+    "answer": "meningitis",
     "acceptableAnswers": [
-      "upper"
+      "meningitis"
     ]
   },
   {
     "id": 74,
     "type": "fitb",
-    "stem": "Chronic laryngitis is associated with prolonged exposure to irritants such as smoking, environmental pollutants, or ___.",
-    "answer": "gastroesophageal reflux disease",
+    "stem": "Labyrinthitis pathophysiology disrupts the normal function of the cochlea and the ___ system.",
+    "answer": "vestibular",
     "acceptableAnswers": [
-      "gastroesophageal reflux disease",
-      "GERD",
-      "gastroesophageal reflux"
+      "vestibular"
     ]
   },
   {
     "id": 75,
     "type": "fitb",
-    "stem": "Among viral causes of laryngitis, rhinovirus, influenza virus, parainfluenza, and ___ are the most common.",
-    "answer": "adenovirus",
+    "stem": "Inflammation in labyrinthitis affects the semicircular canals, utricle, saccule, and ___.",
+    "answer": "cochlea",
     "acceptableAnswers": [
-      "adenovirus"
+      "cochlea"
     ]
   },
   {
     "id": 76,
     "type": "fitb",
-    "stem": "Among bacterial causes of laryngitis, Streptococcus pneumoniae and ___ are less common.",
-    "answer": "Haemophilus influenzae",
+    "stem": "A mismatch between vestibular signals, visual input, and ___ causes symptoms like vertigo, imbalance, and nystagmus.",
+    "answer": "proprioception",
     "acceptableAnswers": [
-      "Haemophilus influenzae",
-      "H. influenzae"
+      "proprioception"
     ]
   },
   {
     "id": 77,
     "type": "fitb",
-    "stem": "Fungal laryngitis is particularly caused by ___ species, especially in immunocompromised individuals.",
-    "answer": "Candida",
+    "stem": "Inflammation of the cochlea in labyrinthitis results in hearing loss, usually ___, and tinnitus.",
+    "answer": "unilateral",
     "acceptableAnswers": [
-      "Candida",
-      "candida"
+      "unilateral"
     ]
   },
   {
     "id": 78,
     "type": "fitb",
-    "stem": "Non-infectious causes of laryngitis include vocal overuse or misuse, such as excessive shouting or ___.",
-    "answer": "singing",
+    "stem": "Inflammatory mediators and fluid buildup in labyrinthitis irritate the vestibulocochlear nerve, also known as cranial nerve ___.",
+    "answer": "VIII",
     "acceptableAnswers": [
-      "singing"
+      "VIII",
+      "8",
+      "eight"
     ]
   },
   {
     "id": 79,
     "type": "fitb",
-    "stem": "High vocal demand occupations such as teachers, singers, and ___ are risk factors for laryngitis.",
-    "answer": "public speakers",
+    "stem": "Severe vertigo in labyrinthitis is often of sudden onset, lasting ___ to days.",
+    "answer": "hours",
     "acceptableAnswers": [
-      "public speakers"
+      "hours"
     ]
   },
   {
     "id": 80,
     "type": "fitb",
-    "stem": "The larynx, located in the upper part of the respiratory tract, houses the ___.",
-    "answer": "vocal cords",
+    "stem": "The head impulse test, used in diagnosing labyrinthitis, assesses for abnormal ___ indicating vestibular dysfunction.",
+    "answer": "eye movements",
     "acceptableAnswers": [
-      "vocal cords"
+      "eye movements",
+      "eye movement"
     ]
   },
   {
     "id": 81,
     "type": "fitb",
-    "stem": "Inflammation in laryngitis causes swelling and irritation of the ___ lining the larynx.",
-    "answer": "mucosa",
+    "stem": "___ is the special test used to assess hearing loss in suspected labyrinthitis.",
+    "answer": "Audiometry",
     "acceptableAnswers": [
-      "mucosa"
+      "Audiometry",
+      "audiometry"
     ]
   },
   {
     "id": 82,
     "type": "fitb",
-    "stem": "Chronic inflammation in laryngitis may lead to thickening, nodules, or ___ on the vocal cords.",
-    "answer": "polyps",
+    "stem": "Caloric testing and ___ are vestibular function tests used in diagnosing labyrinthitis.",
+    "answer": "videonystagmography",
     "acceptableAnswers": [
-      "polyps"
+      "videonystagmography"
     ]
   },
   {
     "id": 83,
     "type": "fitb",
-    "stem": "Complete loss of voice in laryngitis is medically termed ___.",
-    "answer": "aphonia",
+    "stem": "MRI or CT imaging is used in labyrinthitis workup to exclude acoustic neuroma or ___.",
+    "answer": "stroke",
     "acceptableAnswers": [
-      "aphonia"
+      "stroke"
     ]
   },
   {
     "id": 84,
     "type": "fitb",
-    "stem": "The dry cough of laryngitis is often worse at ___.",
-    "answer": "night",
+    "stem": "___ is a differential diagnosis for labyrinthitis characterized by vertigo without hearing loss.",
+    "answer": "Vestibular neuritis",
     "acceptableAnswers": [
-      "night"
+      "Vestibular neuritis"
     ]
   },
   {
     "id": 85,
     "type": "fitb",
-    "stem": "___ is used to directly visualize the vocal cords and assess for structural abnormalities in laryngitis.",
-    "answer": "Laryngoscopy",
+    "stem": "___ disease is a differential diagnosis for labyrinthitis characterized by episodic vertigo, hearing loss, and tinnitus.",
+    "answer": "Meniere's",
     "acceptableAnswers": [
-      "Laryngoscopy",
-      "laryngoscopy"
+      "Meniere's",
+      "Menieres",
+      "Meniere"
     ]
   },
   {
     "id": 86,
     "type": "fitb",
-    "stem": "Imaging studies such as CT or ___ are used if malignancy or structural issues are suspected in laryngitis.",
-    "answer": "MRI",
+    "stem": "Supportive care for labyrinthitis includes bed rest and ___.",
+    "answer": "hydration",
     "acceptableAnswers": [
-      "MRI"
+      "hydration"
     ]
   },
   {
     "id": 87,
     "type": "fitb",
-    "stem": "Patients with laryngitis should be advised to rest their voice and avoid ___, which strains the vocal cords.",
-    "answer": "whispering",
+    "stem": "In the acute phase, ___ such as prednisone are used to reduce inflammation in labyrinthitis.",
+    "answer": "corticosteroids",
     "acceptableAnswers": [
-      "whispering"
+      "corticosteroids"
     ]
   },
   {
     "id": 88,
     "type": "fitb",
-    "stem": "Adequate hydration in laryngitis management helps to thin mucus and ___ irritated mucosa.",
-    "answer": "soothe",
+    "stem": "___ such as promethazine are used for symptomatic relief of nausea in labyrinthitis.",
+    "answer": "Antiemetics",
     "acceptableAnswers": [
-      "soothe"
+      "Antiemetics",
+      "antiemetics"
     ]
   },
   {
     "id": 89,
     "type": "fitb",
-    "stem": "___ gargles are recommended in laryngitis management for throat comfort.",
-    "answer": "Warm saline",
+    "stem": "Vestibular suppressants such as meclizine and ___ are used to manage vertigo in labyrinthitis.",
+    "answer": "benzodiazepines",
     "acceptableAnswers": [
-      "Warm saline",
-      "warm saline"
+      "benzodiazepines"
     ]
   },
   {
     "id": 90,
     "type": "fitb",
-    "stem": "Antibiotics are only indicated in laryngitis management if ___ infection is confirmed.",
-    "answer": "bacterial",
+    "stem": "Vestibular rehabilitation therapy (VRT) consists of exercises to restore ___.",
+    "answer": "balance",
     "acceptableAnswers": [
-      "bacterial"
+      "balance"
     ]
   },
   {
     "id": 91,
     "type": "fitb",
-    "stem": "___ inhibitors are indicated for laryngitis related to gastroesophageal reflux disease.",
-    "answer": "Proton pump",
+    "stem": "Recovery is typically complete for viral labyrinthitis but may take ___ to months.",
+    "answer": "weeks",
     "acceptableAnswers": [
-      "Proton pump",
-      "proton pump"
+      "weeks"
     ]
   },
   {
     "id": 92,
     "type": "fitb",
-    "stem": "Corticosteroids may be used short-term in laryngitis for severe inflammation or in ___ voice users.",
-    "answer": "professional",
+    "stem": "Bacterial labyrinthitis may lead to permanent hearing loss or balance issues if not treated ___.",
+    "answer": "promptly",
     "acceptableAnswers": [
-      "professional"
+      "promptly"
     ]
   },
   {
     "id": 93,
     "type": "fitb",
-    "stem": "Surgical management of laryngitis is reserved for persistent structural lesions such as nodules, polyps, or ___.",
-    "answer": "granulomas",
+    "stem": "___ or depression from prolonged symptoms is a listed complication of labyrinthitis.",
+    "answer": "Anxiety",
     "acceptableAnswers": [
-      "granulomas"
+      "Anxiety",
+      "anxiety"
     ]
   },
   {
     "id": 94,
     "type": "fitb",
-    "stem": "Nursing assessment of laryngitis includes evaluating for signs of airway obstruction, ___, or respiratory distress.",
-    "answer": "stridor",
+    "stem": "The ___ vaccine is listed as a preventive measure against labyrinthitis caused by mumps.",
+    "answer": "MMR",
     "acceptableAnswers": [
-      "stridor"
+      "MMR"
     ]
   },
   {
     "id": 95,
     "type": "fitb",
-    "stem": "Nursing interventions for laryngitis include encouraging intake of warm fluids such as herbal teas and ___.",
-    "answer": "soups",
+    "stem": "Nursing assessment of labyrinthitis includes monitoring vital signs for fever, hypotension, or signs of ___.",
+    "answer": "dehydration",
     "acceptableAnswers": [
-      "soups"
+      "dehydration"
     ]
   },
   {
     "id": 96,
     "type": "fitb",
-    "stem": "Patients with GERD-related laryngitis should be educated to avoid spicy and ___ foods.",
-    "answer": "acidic",
+    "stem": "During the acute phase, the patient should be positioned in a quiet, ___ room to reduce stimuli.",
+    "answer": "darkened",
     "acceptableAnswers": [
-      "acidic"
+      "darkened"
     ]
   },
   {
     "id": 97,
     "type": "fitb",
-    "stem": "Referral to a ___ therapist is recommended for persistent vocal issues in laryngitis.",
-    "answer": "speech-language",
+    "stem": "Ensuring hydration in labyrinthitis nursing care includes monitoring fluid ___ and output.",
+    "answer": "intake",
     "acceptableAnswers": [
-      "speech-language",
-      "speech language"
+      "intake"
     ]
   },
   {
     "id": 98,
     "type": "fitb",
-    "stem": "Airway obstruction, a complication of laryngitis, is especially concerning in children or ___ patients.",
-    "answer": "immunocompromised",
+    "stem": "In the subacute phase, mobility should be encouraged as ___, gradually introducing activities to regain confidence in balance.",
+    "answer": "tolerated",
     "acceptableAnswers": [
-      "immunocompromised"
+      "tolerated"
     ]
   },
   {
     "id": 99,
     "type": "fitb",
-    "stem": "Patients should be encouraged to seek early medical consultation for hoarseness persisting more than ___ weeks.",
-    "answer": "three",
+    "stem": "Long-term care for labyrinthitis includes promoting follow-up visits to audiologists or ___ specialists.",
+    "answer": "ENT",
     "acceptableAnswers": [
-      "three",
-      "3"
+      "ENT"
     ]
   },
   {
     "id": 100,
     "type": "fitb",
-    "stem": "Acute laryngitis generally has a ___ prognosis and resolves within a few days to a couple of weeks with supportive care.",
-    "answer": "favorable",
+    "stem": "A key nursing goal in labyrinthitis care is preventing complications such as falls and ___.",
+    "answer": "dehydration",
     "acceptableAnswers": [
-      "favorable",
-      "favourable"
+      "dehydration"
     ]
   }
 ]
