@@ -2,1119 +2,1115 @@
   {
     "id": 1,
     "type": "mcq",
-    "stem": "Labyrinthitis is best defined as which of the following?",
+    "stem": "The nursing process is best described as which of the following?",
     "options": [
-      "An inner ear disorder characterized by inflammation or infection of the labyrinth, a structure responsible for balance and hearing",
-      "An outer ear disorder characterized by infection of the pinna",
-      "A disorder of the optic nerve affecting visual acuity",
-      "A disorder of the oral mucosa affecting taste perception"
+      "The totality of actions and inactions toward achieving the purpose of quality nursing care",
+      "A single, isolated task performed only once per patient admission",
+      "A purely administrative billing procedure with no clinical relevance",
+      "A legal document used only in cases of malpractice litigation"
     ],
     "answer": "A"
   },
   {
     "id": 2,
     "type": "mcq",
-    "stem": "Among infectious causes of labyrinthitis, which category is described as MOST common?",
+    "stem": "Which of the following is explicitly listed as a purpose of the nursing process?",
     "options": [
-      "Viral causes, such as herpes simplex, influenza, measles, and mumps",
-      "Bacterial causes spread from otitis media",
-      "Fungal causes from Candida species",
-      "Parasitic causes from intestinal helminths"
+      "Maintaining the client's health",
+      "Maximizing hospital bed turnover regardless of client outcome",
+      "Eliminating the need for any physician involvement in care",
+      "Reducing the number of nurses required per shift"
     ],
     "answer": "A"
   },
   {
     "id": 3,
     "type": "mcq",
-    "stem": "Bacterial labyrinthitis typically arises from spread of infection from which conditions?",
+    "stem": "Besides maintaining health, the nursing process also aims to provide care that returns the client to a state of health OR helps them achieve which outcome?",
     "options": [
-      "Otitis media or meningitis",
-      "Appendicitis or cholecystitis",
-      "Urinary tract infection or pyelonephritis",
-      "Peptic ulcer disease or gastritis"
+      "A peaceful death",
+      "An extended, medically futile resuscitation regardless of client wishes",
+      "Permanent dependence on hospital services",
+      "Complete isolation from family members"
     ],
     "answer": "A"
   },
   {
     "id": 4,
     "type": "mcq",
-    "stem": "Besides infectious causes, which non-infectious causes of labyrinthitis are specifically listed?",
+    "stem": "Maximizing quality of life within the nursing process purposes involves improving the client's resources and doing what else?",
     "options": [
-      "Autoimmune conditions and allergic reactions",
-      "Chronic kidney disease and nephrotic syndrome",
-      "Osteoarthritis and gout",
-      "Peripheral vascular disease and varicose veins"
+      "Making appropriate referrals for community health",
+      "Withholding all referrals until the client specifically requests them in writing",
+      "Limiting all care strictly to the hospital setting with no community involvement",
+      "Avoiding any discussion of resources with the client or family"
     ],
     "answer": "A"
   },
   {
     "id": 5,
     "type": "mcq",
-    "stem": "The pathophysiology of labyrinthitis describes disruption of the normal function of which two systems?",
+    "stem": "Which nursing theorist's framework is specifically listed among the theoretical foundations of the nursing process, based on a hierarchy of needs?",
     "options": [
-      "The cochlea (hearing) and the vestibular system (balance)",
-      "The retina (vision) and the optic nerve",
-      "The olfactory bulb (smell) and the trigeminal nerve",
-      "The tongue (taste) and the facial nerve"
+      "Maslow",
+      "Florence Nightingale",
+      "Virginia Henderson",
+      "Dorothy Orem"
     ],
     "answer": "A"
   },
   {
     "id": 6,
     "type": "mcq",
-    "stem": "In the pathophysiology of labyrinthitis, which triggering events are described as leading to inflammation?",
+    "stem": "Which theoretical foundation of the nursing process is specifically based on 14 fundamental needs?",
     "options": [
-      "Direct viral or bacterial invasion of the labyrinth, or autoimmune/allergic immune responses",
-      "Only mechanical trauma from a blow to the head",
-      "Only prolonged exposure to loud noise",
-      "Only congenital malformation of the cochlea"
+      "Virginia Henderson's component model",
+      "Florence Nightingale's environmental model",
+      "Sister Callista Roy's Adaptation model",
+      "Gordon Marjory's Patterns of Human Responses"
     ],
     "answer": "A"
   },
   {
     "id": 7,
     "type": "mcq",
-    "stem": "Inflammation in labyrinthitis affects which specific inner ear structures?",
+    "stem": "Which theoretical foundation of the nursing process is specifically known as the Adaptation model?",
     "options": [
-      "The semicircular canals, utricle, saccule, and cochlea",
-      "The tympanic membrane and ossicles only",
-      "The pinna and external auditory canal only",
-      "The eustachian tube only"
+      "Sister Callista Roy's model",
+      "Dorothy Orem's theory",
+      "Gordon Marjory's framework",
+      "Florence Nightingale's model"
     ],
     "answer": "A"
   },
   {
     "id": 8,
     "type": "mcq",
-    "stem": "Inflammation of the labyrinth leads to which immediate physiological changes?",
+    "stem": "According to one definition given, the nursing process is a structured approach to nursing practice and its evaluation, based on which overall method?",
     "options": [
-      "Swelling, increased fluid production, and disruption of normal function",
-      "Immediate and permanent calcification of the cochlea",
-      "A sudden, isolated increase in taste sensitivity",
-      "A compensatory increase in visual acuity"
+      "A problem-solving approach",
+      "A purely intuitive, unstructured approach with no method at all",
+      "An approach based exclusively on physician orders with no independent nursing judgment",
+      "An approach limited strictly to documentation with no direct patient contact"
     ],
     "answer": "A"
   },
   {
     "id": 9,
     "type": "mcq",
-    "stem": "In the disruption of vestibular function seen in labyrinthitis, what causes symptoms such as vertigo, imbalance, and nystagmus?",
+    "stem": "According to the definitions given, nursing process focuses on treating the unique responses of individuals or groups to which type of occurrence?",
     "options": [
-      "A mismatch between vestibular signals, visual input, and proprioception",
-      "A complete and isolated loss of the sense of smell",
-      "An isolated increase in blood pressure with no sensory component",
-      "A purely psychological reaction with no physiological basis"
+      "Potential alteration in health",
+      "Routine administrative scheduling only",
+      "Unrelated financial transactions only",
+      "Weather-related facility closures only"
     ],
     "answer": "A"
   },
   {
     "id": 10,
     "type": "mcq",
-    "stem": "Inflammation of the cochlea in labyrinthitis interferes with auditory signal transmission, resulting in which findings?",
+    "stem": "The six steps or components of the nursing process are often remembered using which acronym?",
     "options": [
-      "Hearing loss (usually unilateral) and tinnitus",
-      "Bilateral loss of the sense of taste",
-      "Complete, permanent loss of the sense of touch",
-      "An isolated increase in hearing sensitivity with no other change"
+      "ADPIE",
+      "SOAPIE",
+      "PQRST",
+      "SBAR"
     ],
     "answer": "A"
   },
   {
     "id": 11,
     "type": "mcq",
-    "stem": "Inflammatory mediators and fluid buildup in labyrinthitis irritate which cranial nerve?",
+    "stem": "Nursing assessment is defined as which type of collection of data used to evaluate a client's health status?",
     "options": [
-      "Cranial nerve VIII (the vestibulocochlear nerve)",
-      "Cranial nerve II (the optic nerve)",
-      "Cranial nerve VII (the facial nerve) exclusively, with no effect on hearing or balance",
-      "Cranial nerve X (the vagus nerve)"
+      "A logical, systematic, and orderly collection of data",
+      "A random, unstructured collection of anecdotes with no method",
+      "A collection of data obtained exclusively from laboratory results with no interview",
+      "A collection of data obtained only after discharge"
     ],
     "answer": "A"
   },
   {
     "id": 12,
     "type": "mcq",
-    "stem": "What may happen if the inflammation of labyrinthitis resolves appropriately?",
+    "stem": "Assessment provides the baseline data for formulating which subsequent step of the nursing process?",
     "options": [
-      "Normal function may return",
-      "Permanent, irreversible deafness always occurs regardless of resolution",
-      "The patient will always develop chronic bacterial meningitis",
-      "Vision will permanently improve beyond baseline"
+      "Nursing diagnosis and planning the care",
+      "Only the hospital billing department's invoice",
+      "Only the discharge paperwork, with no bearing on diagnosis",
+      "Only the visitor log at the nurses' station"
     ],
     "answer": "A"
   },
   {
     "id": 13,
     "type": "mcq",
-    "stem": "Prolonged or severe inflammation, particularly in bacterial labyrinthitis, can lead to which outcome?",
+    "stem": "Which TWO types of assessment are specifically listed in the nursing process overview?",
     "options": [
-      "Permanent hearing loss or vestibular dysfunction",
-      "A guaranteed full recovery within 24 hours in every case",
-      "Spontaneous resolution with no risk of any lasting effect",
-      "Improved baseline hearing compared to before the illness"
+      "Initial (comprehensive) assessment and problem-focused assessment",
+      "Pre-admission assessment and post-mortem assessment only",
+      "Financial assessment and insurance eligibility assessment only",
+      "Weather assessment and transportation assessment only"
     ],
     "answer": "A"
   },
   {
     "id": 14,
     "type": "mcq",
-    "stem": "The severe vertigo of labyrinthitis is typically described with which onset and duration pattern?",
+    "stem": "The PRIMARY source of data in nursing assessment is usually which of the following?",
     "options": [
-      "Often sudden onset, lasting hours to days",
-      "Always gradual onset over several years",
-      "Lasting only a few seconds with no further recurrence ever",
-      "Present continuously and unchanged for decades before diagnosis"
+      "The patient, as the direct source",
+      "The hospital's billing department",
+      "The facility's maintenance staff",
+      "Unrelated media reports about the patient's neighborhood"
     ],
     "answer": "A"
   },
   {
     "id": 15,
     "type": "mcq",
-    "stem": "Besides severe vertigo, which gastrointestinal symptoms are commonly associated with labyrinthitis?",
+    "stem": "Secondary sources of data in nursing assessment include which of the following?",
     "options": [
-      "Nausea and vomiting",
-      "Chronic constipation unrelated to vertigo",
-      "Bloody diarrhea with abdominal cramping",
-      "Dysphagia to solids only, with no vertigo-related symptoms"
+      "Family members and client records",
+      "Only the patient themselves",
+      "Only anonymous internet forums",
+      "Only the hospital cafeteria menu"
     ],
     "answer": "A"
   },
   {
     "id": 16,
     "type": "mcq",
-    "stem": "Besides nausea, vomiting, and vertigo, which additional vestibular symptom is listed for labyrinthitis?",
+    "stem": "Objective data in nursing assessment, also referred to as signs or overt data, includes which examples?",
     "options": [
-      "Loss of balance or unsteadiness",
-      "Sudden, isolated weight gain",
-      "Chronic, isolated joint pain in the knees",
-      "Progressive loss of the sense of smell"
+      "Blood pressure and skin discoloration",
+      "The patient's reported feeling of worry",
+      "The patient's reported sensation of itching",
+      "The patient's subjective report of pain intensity alone"
     ],
     "answer": "A"
   },
   {
     "id": 17,
     "type": "mcq",
-    "stem": "Auditory symptoms of labyrinthitis include hearing loss and which other finding?",
+    "stem": "Which of the following is explicitly listed as a source of information for nursing assessment, alongside health history and physical examination?",
     "options": [
-      "Tinnitus (ringing in the ears)",
-      "Complete, isolated loss of taste",
-      "Persistent nasal congestion with no ear involvement",
-      "Chronic dry eyes with no auditory symptoms"
+      "Diagnostic and laboratory investigation",
+      "The patient's personal social media activity",
+      "The hospital's parking lot occupancy rate",
+      "The nurse's personal daily schedule"
     ],
     "answer": "A"
   },
   {
     "id": 18,
     "type": "mcq",
-    "stem": "Fever, as an associated symptom of labyrinthitis, is typically seen in which circumstance?",
+    "stem": "Most data obtained from history taking is subjective, and can be validated during which subsequent process?",
     "options": [
-      "If the cause is infectious",
-      "Only in purely autoimmune cases with no infection",
-      "Only in cases caused by allergic reactions, never infection",
-      "Only after full recovery, never during active illness"
+      "Physical examination",
+      "Discharge planning exclusively",
+      "Billing reconciliation exclusively",
+      "Visitor registration exclusively"
     ],
     "answer": "A"
   },
   {
     "id": 19,
     "type": "mcq",
-    "stem": "Headache, as an associated symptom of labyrinthitis, is typically related to which underlying process?",
+    "stem": "Nursing history interview questions should progress in which direction?",
     "options": [
-      "A systemic infection",
-      "A completely unrelated dental abscess",
-      "A chronic skin condition with no systemic involvement",
-      "A pre-existing visual refractive error only"
+      "From general to specific",
+      "From specific to general exclusively, with no flexibility",
+      "Randomly, with no logical progression at all",
+      "Only in a strict yes/no format with no open-ended questions"
     ],
     "answer": "A"
   },
   {
     "id": 20,
     "type": "mcq",
-    "stem": "In the diagnostic clinical history for labyrinthitis, which features are typically sought?",
+    "stem": "The interview session used in history taking is divided into which three phases?",
     "options": [
-      "Recent viral or bacterial infection, with sudden onset of vertigo and hearing loss",
-      "A decades-long history of gradually progressive joint stiffness only",
-      "A family history of a single, unrelated skin condition only",
-      "A history of chronic, stable visual impairment since childhood only"
+      "Introduction (joining), working, and termination phases",
+      "Billing, coding, and discharge phases",
+      "Preoperative, intraoperative, and postoperative phases",
+      "Morning, afternoon, and night shift phases"
     ],
     "answer": "A"
   },
   {
     "id": 21,
     "type": "mcq",
-    "stem": "During physical examination for suspected labyrinthitis, the head impulse test is used to assess for which finding?",
+    "stem": "During which phase of the nursing interview is the BULK of the patient information obtained?",
     "options": [
-      "Abnormal eye movements indicating vestibular dysfunction",
-      "Abnormal reflexes in the lower limbs only",
-      "Abnormal pupillary constriction to light only",
-      "Abnormal skin turgor indicating dehydration only"
+      "The working phase",
+      "The introduction (joining) phase",
+      "The termination phase",
+      "A phase that does not exist in the standard three-phase structure"
     ],
     "answer": "A"
   },
   {
     "id": 22,
     "type": "mcq",
-    "stem": "Besides the head impulse test, which other physical examination component is used in suspected labyrinthitis?",
+    "stem": "During the termination phase of the nursing interview, what specifically occurs?",
     "options": [
-      "Gait and balance tests",
-      "Fundoscopic examination of the retina only",
-      "Palpation of the abdomen for organomegaly only",
-      "Auscultation of bowel sounds only"
+      "A summary of the discussion is presented so both patient and nurse can validate the perception of what occurred and what decisions were made",
+      "The nurse and patient meet for the very first time",
+      "All physical examination techniques are performed for the first time",
+      "The patient is discharged immediately with no further care planning"
     ],
     "answer": "A"
   },
   {
     "id": 23,
     "type": "mcq",
-    "stem": "Audiometry is used in the special testing of labyrinthitis to assess which parameter?",
+    "stem": "Comprehensive physical examination is accomplished via which four techniques?",
     "options": [
-      "Hearing loss",
-      "Visual acuity",
-      "Blood glucose level",
-      "Renal function"
+      "Inspection, palpation, percussion, and auscultation",
+      "Interviewing, billing, coding, and discharging",
+      "Charting, scheduling, filing, and archiving",
+      "Weighing, measuring height, checking ID, and signing consent"
     ],
     "answer": "A"
   },
   {
     "id": 24,
     "type": "mcq",
-    "stem": "Which vestibular function tests are specifically listed for the special testing of labyrinthitis?",
+    "stem": "Inspection, as a physical examination technique, involves which combination of senses?",
     "options": [
-      "Caloric testing and videonystagmography",
-      "Spirometry and peak flow measurement",
-      "Electrocardiography and echocardiography",
-      "Colonoscopy and upper endoscopy"
+      "Vision, hearing, and smell",
+      "Taste and touch exclusively",
+      "Only the sense of smell, with no visual component",
+      "Only the sense of hearing, with no visual component"
     ],
     "answer": "A"
   },
   {
     "id": 25,
     "type": "mcq",
-    "stem": "Imaging studies such as MRI or CT are used in the workup of labyrinthitis primarily to exclude which other conditions?",
+    "stem": "Percussion, as a physical examination technique, involves tapping the body to elicit sounds indicating which property of the underlying tissue?",
     "options": [
-      "Acoustic neuroma or stroke",
-      "A simple, uncomplicated common cold",
-      "A minor, superficial skin abrasion",
-      "A routine dental cavity"
+      "Density",
+      "Temperature",
+      "Color",
+      "Taste"
     ],
     "answer": "A"
   },
   {
     "id": 26,
     "type": "mcq",
-    "stem": "Which differential diagnosis for labyrinthitis is specifically characterized by vertigo WITHOUT hearing loss?",
+    "stem": "Which percussion sound is described as a high-pitched, hollow sound typically heard over the stomach and bowel?",
     "options": [
-      "Vestibular neuritis",
-      "Meniere's disease",
-      "Acoustic neuroma",
-      "Bacterial labyrinthitis"
+      "Tympany",
+      "Resonance",
+      "Dullness",
+      "Flatness"
     ],
     "answer": "A"
   },
   {
     "id": 27,
     "type": "mcq",
-    "stem": "Which differential diagnosis for labyrinthitis is characterized by episodic vertigo, hearing loss, AND tinnitus together?",
+    "stem": "Which percussion sound is described as a low-pitched sound typically heard over the lungs?",
     "options": [
-      "Meniere's disease",
-      "Vestibular neuritis",
-      "A simple tension headache",
-      "Uncomplicated otitis externa"
+      "Resonance",
+      "Tympany",
+      "Flatness",
+      "Dullness"
     ],
     "answer": "A"
   },
   {
     "id": 28,
     "type": "mcq",
-    "stem": "Besides vestibular neuritis and Meniere's disease, which other conditions are listed in the differential diagnosis of labyrinthitis?",
+    "stem": "Which percussion sound, of short duration, is typically heard over solid organs such as the liver?",
     "options": [
-      "Acoustic neuroma, and stroke or transient ischemic attack (TIA)",
-      "Appendicitis and cholecystitis only",
-      "Peptic ulcer disease and pancreatitis only",
-      "Gout and rheumatoid arthritis only"
+      "Flat sound",
+      "Tympany",
+      "Resonance",
+      "Dull sound exclusively, never flat"
     ],
     "answer": "A"
   },
   {
     "id": 29,
     "type": "mcq",
-    "stem": "Which supportive care measures are recommended for the general management of labyrinthitis?",
+    "stem": "Auscultation, as a physical examination technique, is usually performed with the aid of which instrument?",
     "options": [
-      "Bed rest and hydration",
-      "Strenuous aerobic exercise and fluid restriction",
-      "Complete fasting and strict bed confinement with no fluids at all",
-      "Prolonged standing exercises in bright, flashing light"
+      "A stethoscope",
+      "A percussion hammer",
+      "A reflex hammer exclusively, with no stethoscope",
+      "A tongue depressor exclusively"
     ],
     "answer": "A"
   },
   {
     "id": 30,
     "type": "mcq",
-    "stem": "In the acute phase of medical therapy for labyrinthitis, which class of medication is used specifically for inflammation?",
+    "stem": "Physical examination should be conducted systematically in which overall pattern?",
     "options": [
-      "Corticosteroids, such as prednisone",
-      "Insulin",
-      "Loop diuretics",
-      "Anticoagulants"
+      "From head to toe",
+      "Randomly, examining whichever body part is most convenient first",
+      "Only the chest and abdomen, omitting all other regions",
+      "Only the extremities, omitting the trunk and head"
     ],
     "answer": "A"
   },
   {
     "id": 31,
     "type": "mcq",
-    "stem": "Antiviral drugs are indicated in the management of labyrinthitis under which circumstance?",
+    "stem": "Under the concept of primary health care, which simple diagnostic tests can be requested directly by the nurse?",
     "options": [
-      "If a viral cause is suspected",
-      "In every single case regardless of suspected cause",
-      "Only for cases with no vertigo at all",
-      "Only after complete resolution of all symptoms"
+      "Hb (hemoglobin), PCV (packed cell volume), blood grouping, and microscopic examination",
+      "Only full genomic sequencing",
+      "Only advanced cardiac catheterization studies",
+      "Only specialized nuclear medicine scans"
     ],
     "answer": "A"
   },
   {
     "id": 32,
     "type": "mcq",
-    "stem": "Antibiotics are indicated in the management of labyrinthitis under which circumstance?",
+    "stem": "Gordon's Functional Health Pattern framework is specifically used to guide assessment that supports nurses in determining which type of diagnosis?",
     "options": [
-      "If bacterial infection is confirmed",
-      "In every single case regardless of suspected cause",
-      "Only for purely autoimmune labyrinthitis",
-      "Only for allergic labyrinthitis"
+      "NANDA-I nursing diagnoses",
+      "Final medical diagnoses made exclusively by physicians",
+      "Insurance billing codes exclusively",
+      "Pharmacy inventory classifications exclusively"
     ],
     "answer": "A"
   },
   {
     "id": 33,
     "type": "mcq",
-    "stem": "Which medication class, such as promethazine, is used for symptomatic relief of nausea in labyrinthitis?",
+    "stem": "Gordon's Functional Health Pattern assessment is usually performed at which point in a client's care?",
     "options": [
-      "Antiemetics",
-      "Antihypertensives",
-      "Anticoagulants",
-      "Bronchodilators"
+      "When admitting a patient to a hospital or home care service",
+      "Only at the moment of discharge, never at admission",
+      "Only during a routine annual health fair unrelated to admission",
+      "Only after the patient has already been discharged for several months"
     ],
     "answer": "A"
   },
   {
     "id": 34,
     "type": "mcq",
-    "stem": "Which medication class, such as meclizine or benzodiazepines, is used to manage vertigo in labyrinthitis?",
+    "stem": "Nursing diagnosis is described as which numbered step of the nursing process?",
     "options": [
-      "Vestibular suppressants",
-      "Loop diuretics",
-      "Proton pump inhibitors",
-      "Antifungal agents"
+      "The second step",
+      "The first step",
+      "The fifth step",
+      "The sixth and final step"
     ],
     "answer": "A"
   },
   {
     "id": 35,
     "type": "mcq",
-    "stem": "What is the purpose of vestibular rehabilitation therapy (VRT) in the management of labyrinthitis?",
+    "stem": "According to the ANA definition cited, nursing diagnosis is a clinical judgment about the client's response to which of the following?",
     "options": [
-      "Exercises to restore balance",
-      "Surgical removal of the inflamed labyrinth in every case",
-      "Permanent avoidance of all physical activity indefinitely",
-      "Replacement of the need for any medical therapy"
+      "Actual or potential health conditions or needs",
+      "The hospital's cafeteria menu choices",
+      "The weather forecast for the discharge date",
+      "The facility's visitor parking policy"
     ],
     "answer": "A"
   },
   {
     "id": 36,
     "type": "mcq",
-    "stem": "Hearing aids are indicated in the management of labyrinthitis for which specific situation?",
+    "stem": "Which of the following is explicitly listed as a PURPOSE of nursing diagnosis?",
     "options": [
-      "Persistent hearing loss",
-      "Acute vertigo occurring without any hearing involvement",
-      "Fever occurring without any auditory symptoms",
-      "Nausea occurring without any auditory symptoms"
+      "Providing a common frame of reference and standardization of nursing language",
+      "Eliminating the need for any further assessment ever again",
+      "Replacing the physician's medical diagnosis entirely in every clinical scenario",
+      "Determining the hospital's annual operating budget"
     ],
     "answer": "A"
   },
   {
     "id": 37,
     "type": "mcq",
-    "stem": "What is the typical prognosis for VIRAL labyrinthitis, in terms of recovery?",
+    "stem": "The NANDA-I taxonomy organizes nursing diagnoses into how many domains and how many classes?",
     "options": [
-      "Recovery is typically complete, but may take weeks to months",
-      "Recovery never occurs under any circumstances",
-      "Recovery is always instantaneous, within minutes of symptom onset",
-      "Recovery is impossible without surgical intervention in every case"
+      "13 domains and 47 classes",
+      "3 domains and 7 classes",
+      "100 domains and 500 classes",
+      "1 domain and 1 class"
     ],
     "answer": "A"
   },
   {
     "id": 38,
     "type": "mcq",
-    "stem": "What is the prognosis concern specifically associated with BACTERIAL labyrinthitis if not treated promptly?",
+    "stem": "Within the NANDA-I taxonomy, a 'domain' is best described as which of the following?",
     "options": [
-      "It may lead to permanent hearing loss or balance issues",
-      "It always resolves spontaneously without any treatment or consequence",
-      "It has no risk of any lasting complication under any circumstance",
-      "It exclusively affects taste, never hearing or balance"
+      "An area of interest, such as activity/rest, coping, or nutrition",
+      "A single, isolated patient symptom with no broader category",
+      "A billing code used exclusively for insurance purposes",
+      "A specific hospital ward location"
     ],
     "answer": "A"
   },
   {
     "id": 39,
     "type": "mcq",
-    "stem": "Which of the following is listed as a potential complication of labyrinthitis affecting balance long-term?",
+    "stem": "A problem-focused nursing diagnosis has which four components?",
     "options": [
-      "Chronic imbalance",
-      "Permanent loss of the sense of smell",
-      "Chronic constipation",
-      "Permanent loss of taste on the tongue"
+      "Label, definition, defining characteristics, and related factors",
+      "Billing code, insurance provider, co-pay amount, and deductible",
+      "Admission date, discharge date, room number, and bed number",
+      "Physician name, nurse name, ward name, and shift time"
     ],
     "answer": "A"
   },
   {
     "id": 40,
     "type": "mcq",
-    "stem": "Besides chronic imbalance and persistent hearing loss, which psychological complication is listed for labyrinthitis?",
+    "stem": "In a nursing diagnosis, the 'label' or 'modifier' is best described as which part of speech, describing the human response?",
     "options": [
-      "Anxiety or depression from prolonged symptoms",
-      "Permanent, isolated loss of short-term memory only",
-      "A specific phobia of heights only",
-      "Obsessive-compulsive disorder exclusively"
+      "An adjective, such as impaired, ineffective, deficient, or imbalanced",
+      "A proper noun naming a specific hospital",
+      "A numeral indicating bed number",
+      "A verb describing a surgical procedure"
     ],
     "answer": "A"
   },
   {
     "id": 41,
     "type": "mcq",
-    "stem": "Which vaccination is specifically listed as a preventive measure against labyrinthitis, by preventing mumps?",
+    "stem": "In a nursing diagnosis, 'defining characteristics' are best described as which of the following?",
     "options": [
-      "The MMR vaccine",
-      "The tetanus vaccine",
-      "The yellow fever vaccine",
-      "The oral polio vaccine"
+      "Observable cues, such as signs, symptoms, or patient statements, that validate the existence of the problem",
+      "Unrelated demographic data such as the patient's occupation before illness",
+      "The exact dosage of medication prescribed",
+      "The specific brand name of medical equipment used"
     ],
     "answer": "A"
   },
   {
     "id": 42,
     "type": "mcq",
-    "stem": "Besides vaccination, which other measure is listed for the prevention of labyrinthitis?",
+    "stem": "In writing a problem-focused nursing diagnosis, the human response and the related factor are joined by which phrase?",
     "options": [
-      "Prompt treatment of otitis media and upper respiratory infections",
-      "Avoidance of all forms of physical exercise indefinitely",
-      "Routine use of antibiotics in every healthy individual regardless of infection",
-      "Avoidance of all dietary protein intake"
+      "'Related to'",
+      "'In spite of'",
+      "'Regardless of'",
+      "'Unrelated to'"
     ],
     "answer": "A"
   },
   {
     "id": 43,
     "type": "mcq",
-    "stem": "For patients with a suspected allergic trigger, which preventive measure is recommended for labyrinthitis?",
+    "stem": "In writing a problem-focused nursing diagnosis, the related factor and the defining characteristics are joined by which phrase?",
     "options": [
-      "Avoidance of known allergens",
-      "Daily high-dose antihistamine use regardless of allergen exposure",
-      "Complete avoidance of all fluid intake",
-      "Permanent bed rest regardless of symptom status"
+      "'As evidenced by'",
+      "'Related to'",
+      "'In contrast to'",
+      "'Despite the fact that'"
     ],
     "answer": "A"
   },
   {
     "id": 44,
     "type": "mcq",
-    "stem": "In the nursing assessment of a patient with labyrinthitis, which vital sign findings should specifically be monitored?",
+    "stem": "A risk nursing diagnosis has which three components, differing from the four components of a problem-focused diagnosis?",
     "options": [
-      "Fever, hypotension, or signs of dehydration",
-      "Only the patient's pupillary response to light",
-      "Only the patient's deep tendon reflexes",
-      "Only the patient's skin color on the lower extremities"
+      "Label, definition, and risk factors",
+      "Label, defining characteristics, and related factors only, with no definition",
+      "Only a label, with no definition or risk factors at all",
+      "Admission date, discharge date, and room number"
     ],
     "answer": "A"
   },
   {
     "id": 45,
     "type": "mcq",
-    "stem": "Besides vital signs, nursing assessment of labyrinthitis should evaluate the severity and duration of which specific symptoms?",
+    "stem": "A health promotion nursing diagnosis is a clinical judgment concerning which of the following?",
     "options": [
-      "Vertigo, hearing loss, and tinnitus",
-      "Joint swelling and morning stiffness",
-      "Skin rash distribution and pruritus",
-      "Urinary frequency and dysuria"
+      "Motivation and desire to increase well-being and actualize health potential",
+      "An already fully resolved health problem requiring no further action",
+      "A purely financial goal unrelated to health status",
+      "A diagnosis that can never apply to a healthy individual or group"
     ],
     "answer": "A"
   },
   {
     "id": 46,
     "type": "mcq",
-    "stem": "Why should the nurse closely evaluate the intensity of nausea and vomiting in a patient with labyrinthitis?",
+    "stem": "A syndrome nursing diagnosis is a clinical judgment concerning which of the following?",
     "options": [
-      "To prevent dehydration",
-      "Because nausea and vomiting in labyrinthitis have no clinical significance",
-      "Because nausea and vomiting always indicate an unrelated gastrointestinal infection requiring separate treatment",
-      "Because nausea and vomiting are the only symptoms that ever require nursing documentation"
+      "A specific cluster of nursing diagnoses that occur together and are best addressed through similar interventions",
+      "A single, isolated symptom with no relationship to any other diagnosis",
+      "A diagnosis that applies only to community-level assessments, never individuals",
+      "A diagnosis used exclusively in pediatric patients"
     ],
     "answer": "A"
   },
   {
     "id": 47,
     "type": "mcq",
-    "stem": "Besides physical symptoms, nursing assessment of labyrinthitis should also observe for signs of which psychological state?",
+    "stem": "Chronic pain syndrome, as an example of a syndrome nursing diagnosis, includes chronic pain PLUS which additional diagnoses?",
     "options": [
-      "Anxiety or distress due to vertigo and sensory changes",
-      "Excessive euphoria with no other mood change",
-      "Complete absence of any emotional response in all patients",
-      "Overconfidence in balance abilities during acute vertigo"
+      "Disturbed sleep pattern, fatigue, impaired physical mobility, or social isolation",
+      "Only an unrelated diagnosis of acute appendicitis",
+      "Only a diagnosis of seasonal allergic rhinitis",
+      "Only a diagnosis of dental caries"
     ],
     "answer": "A"
   },
   {
     "id": 48,
     "type": "mcq",
-    "stem": "Reviewing the patient's medical history in labyrinthitis assessment should specifically include which information?",
+    "stem": "A nursing diagnosis typically contains which two parts?",
     "options": [
-      "Recent infections or ear conditions",
-      "Only the patient's childhood vaccination record for unrelated illnesses",
-      "Only the patient's dental history",
-      "Only the patient's family history of unrelated skin conditions"
+      "A descriptor/modifier and the focus of the diagnosis",
+      "A billing code and an insurance authorization number",
+      "A room number and a bed number",
+      "A physician's signature and a notary stamp"
     ],
     "answer": "A"
   },
   {
     "id": 49,
     "type": "mcq",
-    "stem": "During the acute phase of labyrinthitis, why should the patient be encouraged to remain in bed during severe vertigo episodes?",
+    "stem": "A problem-focused diagnosis should NOT automatically be viewed as more important than which other type of diagnosis, according to the material?",
     "options": [
-      "To avoid falls",
-      "Because bed rest cures the underlying infection without any further treatment",
-      "Because standing permanently worsens hearing regardless of vertigo status",
-      "Because bed rest eliminates the need for any medication"
+      "A risk diagnosis",
+      "A diagnosis made solely by a physician",
+      "A diagnosis unrelated to the patient's actual condition",
+      "A diagnosis based purely on billing considerations"
     ],
     "answer": "A"
   },
   {
     "id": 50,
     "type": "mcq",
-    "stem": "As part of creating a safe environment for a patient with acute labyrinthitis, what should the nurse do regarding the patient's surroundings?",
+    "stem": "Formulating a nursing diagnosis consists of which four activities?",
     "options": [
-      "Remove obstacles and ensure a clutter-free environment",
-      "Rearrange furniture frequently to keep the patient alert",
-      "Encourage the patient to walk in a dimly lit, obstacle-filled hallway unassisted",
-      "Leave all mobility aids out of reach to encourage independence prematurely"
+      "Collecting data, interpreting data, clustering information, and naming the cluster",
+      "Billing, coding, auditing, and archiving",
+      "Admitting, transferring, discharging, and readmitting",
+      "Scheduling, rescheduling, canceling, and rebooking"
     ],
     "answer": "A"
   },
   {
     "id": 51,
     "type": "mcq",
-    "stem": "Why should the nurse assist with mobility, especially during episodes of dizziness, in a patient with labyrinthitis?",
+    "stem": "Expected outcomes, identified during the outcome identification step, are best described as which type of goals?",
     "options": [
-      "To reduce the risk of falls during unsteady movement",
-      "Because mobility assistance has no effect on fall risk in labyrinthitis",
-      "Because the patient should always be left to mobilize completely unsupervised during acute vertigo",
-      "Because mobility assistance is only relevant after full recovery, never during acute symptoms"
+      "Measurable, patient-focused goals derived from the patient's nursing diagnosis",
+      "Vague, immeasurable goals with no specific timeframe",
+      "Goals determined exclusively by hospital administration with no reference to diagnosis",
+      "Goals that are never reviewed or evaluated once written"
     ],
     "answer": "A"
   },
   {
     "id": 52,
     "type": "mcq",
-    "stem": "Promoting rest and comfort for a patient with acute labyrinthitis includes which environmental intervention?",
+    "stem": "Short-term goals, as described in outcome identification, are best characterized by which feature?",
     "options": [
-      "Positioning the patient in a quiet, darkened room to reduce stimuli",
-      "Positioning the patient near bright, flashing lights to stimulate alertness",
-      "Encouraging loud background music to distract from vertigo",
-      "Encouraging frequent rapid head turning to 'test' the vestibular system"
+      "They are of immediate concern and can be achieved quickly",
+      "They always take several years to achieve",
+      "They are never measurable in any way",
+      "They exclusively involve long-term rehabilitation"
     ],
     "answer": "A"
   },
   {
     "id": 53,
     "type": "mcq",
-    "stem": "Encouraging the use of a supportive pillow in acute labyrinthitis care serves which specific purpose?",
+    "stem": "Planning, as a phase of the nursing process, is described as a deliberative, systematic phase involving which two processes?",
     "options": [
-      "To keep the head stable",
-      "To increase neck flexibility through frequent stretching",
-      "To elevate the feet above the level of the heart for venous return",
-      "To replace the need for any vestibular suppressant medication"
+      "Decision making and problem solving",
+      "Billing and coding exclusively",
+      "Transportation scheduling and parking assignment exclusively",
+      "Visitor check-in and check-out exclusively"
     ],
     "answer": "A"
   },
   {
     "id": 54,
     "type": "mcq",
-    "stem": "Ensuring hydration in the nursing management of labyrinthitis includes monitoring which parameter?",
+    "stem": "Initial planning in the nursing process develops the initial comprehensive plan of care based on which assessment?",
     "options": [
-      "Fluid intake and output",
-      "Only the patient's dietary fiber intake",
-      "Only the patient's daily step count",
-      "Only the patient's screen time"
+      "The admission assessment",
+      "A discharge assessment performed after the patient has already left",
+      "An assessment performed exclusively by a billing clerk",
+      "An assessment performed only by a hospital volunteer"
     ],
     "answer": "A"
   },
   {
     "id": 55,
     "type": "mcq",
-    "stem": "In the subacute phase of labyrinthitis recovery, how should mobility be approached?",
+    "stem": "Ongoing planning in the nursing process occurs under which circumstance?",
     "options": [
-      "Mobility should be encouraged as tolerated, gradually introducing activities to regain confidence in balance",
-      "The patient should remain in strict bed rest indefinitely with no gradual increase in activity",
-      "The patient should immediately resume unrestricted vigorous exercise with no gradual progression",
-      "Mobility should be permanently avoided to prevent any further vertigo"
+      "If the client's health status changes, requiring the nurse to set priorities for the shift",
+      "Only once, immediately before discharge, and never again before that point",
+      "Only when the hospital billing cycle changes",
+      "Only when the hospital changes its visiting hours policy"
     ],
     "answer": "A"
   },
   {
     "id": 56,
     "type": "mcq",
-    "stem": "If hearing loss affects a patient's understanding during the subacute phase of labyrinthitis, what should the nurse facilitate?",
+    "stem": "A care plan may be standardized, OR it may be individualized to address which of the following?",
     "options": [
-      "Communication, using alternative communication methods",
-      "Complete cessation of all communication attempts",
-      "Exclusive use of written communication in a language the patient cannot read",
-      "Avoidance of any explanation about the patient's condition"
+      "Client needs that are not addressed by the standardized care plan",
+      "Only the hospital's billing requirements",
+      "Only the facility's parking allocation",
+      "Only the nurse's personal preferences, with no reference to the client at all"
     ],
     "answer": "A"
   },
   {
     "id": 57,
     "type": "mcq",
-    "stem": "Patient and family education in the subacute phase of labyrinthitis should include teaching about which topics?",
+    "stem": "Which THREE activities make up the planning process, according to the material?",
     "options": [
-      "The condition, its causes, and the importance of adhering to prescribed treatments",
-      "Only unrelated dietary recipes with no connection to the illness",
-      "Only the hospital's visiting hours policy",
-      "Only the names of unrelated hospital staff members"
+      "Setting priorities, establishing goals/objectives, and selecting nursing interventions and activities",
+      "Billing, coding, and auditing",
+      "Admission, transfer, and discharge paperwork only",
+      "Ordering supplies, scheduling maintenance, and managing payroll"
     ],
     "answer": "A"
   },
   {
     "id": 58,
     "type": "mcq",
-    "stem": "When educating about medications such as antibiotics or antivirals for labyrinthitis, what key adherence point should the nurse emphasize?",
+    "stem": "Implementation, as a phase of the nursing process, is best described as which of the following?",
     "options": [
-      "The importance of completing the full course of therapy",
-      "That the medication may be stopped as soon as symptoms improve even slightly",
-      "That doubling the dose will speed up recovery",
-      "That the medication has no possible side effects whatsoever"
+      "The action phase in which the nurse carries out the plan of care",
+      "A phase that occurs only before assessment, never after planning",
+      "A purely theoretical phase with no direct patient contact",
+      "A phase limited exclusively to documentation with no direct care given"
     ],
     "answer": "A"
   },
   {
     "id": 59,
     "type": "mcq",
-    "stem": "Reinforcing vestibular rehabilitation exercises in labyrinthitis recovery serves which purpose?",
+    "stem": "If a nurse assigns some nursing actions to other staff members during implementation, what remains the assigning nurse's responsibility?",
     "options": [
-      "To improve balance and reduce dizziness, as directed by the rehabilitation team",
-      "To permanently eliminate the need for any follow-up care",
-      "To replace the need for antiviral or antibiotic therapy entirely",
-      "To increase, rather than reduce, vertigo symptoms over time"
+      "Ensuring that the care is given according to the nursing orders in the nursing process",
+      "Nothing further, since all responsibility transfers completely to the assigned staff member",
+      "Only completing unrelated billing paperwork",
+      "Only scheduling the next shift's staffing"
     ],
     "answer": "A"
   },
   {
     "id": 60,
     "type": "mcq",
-    "stem": "In long-term care for labyrinthitis, the nurse should monitor for which persistent complications?",
+    "stem": "Which THREE nurse roles are specifically listed within the implementation phase of the nursing process?",
     "options": [
-      "Persistent hearing loss, chronic dizziness, or psychological effects such as anxiety or depression",
-      "Only unrelated changes in appetite with no connection to the ear",
-      "Only changes in handwriting legibility",
-      "Only changes in favorite leisure activities"
+      "Independent, dependent, and interdependent roles",
+      "Supervisory, administrative, and clerical roles only",
+      "Surgical, anesthetic, and radiological roles only",
+      "Financial, legal, and marketing roles only"
     ],
     "answer": "A"
   },
   {
     "id": 61,
     "type": "mcq",
-    "stem": "Promoting follow-up care in long-term labyrinthitis management includes encouraging regular visits to which specialists?",
+    "stem": "Which of the following is explicitly listed as an importance of documentation in the nursing process?",
     "options": [
-      "Audiologists or ENT specialists",
-      "Only a podiatrist",
-      "Only a dermatologist",
-      "Only a dentist"
+      "It provides evidence for evaluating purposes and ensures continuity of care",
+      "It eliminates the need for any further nursing assessment ever again",
+      "It replaces the need for direct patient communication entirely",
+      "It serves only as a record for the hospital's marketing department"
     ],
     "answer": "A"
   },
   {
     "id": 62,
     "type": "mcq",
-    "stem": "Supporting psychosocial well-being in long-term labyrinthitis care includes providing which type of support?",
+    "stem": "Evaluation, the final step of the nursing process, is defined as which of the following?",
     "options": [
-      "Reassurance and emotional support, with referral to counseling services if needed",
-      "Strict isolation from family and friends to promote independence",
-      "Discouragement of any discussion about the patient's symptoms or feelings",
-      "Withholding all information about the condition from the patient"
+      "A planned, systematic comparison of the client's health status with the goals/expected outcomes",
+      "An unplanned, random comparison performed only once per year",
+      "A process performed exclusively by hospital administrators with no nurse involvement",
+      "A process that occurs only before the care plan is written"
     ],
     "answer": "A"
   },
   {
     "id": 63,
     "type": "mcq",
-    "stem": "Which of the following is listed as a primary NURSING GOAL in the care of a patient with labyrinthitis?",
+    "stem": "Which of the following is explicitly listed among the evaluation indices of the nursing process?",
     "options": [
-      "Preventing complications like falls and dehydration",
-      "Maximizing the patient's exposure to loud noise",
-      "Encouraging rapid, unsupervised ambulation during acute vertigo",
-      "Discontinuing all medications as soon as the patient is admitted"
+      "Determining the client's progress toward achievement of the stated goals/expected outcomes",
+      "Calculating the hospital's total annual revenue",
+      "Assessing the facility's parking lot capacity",
+      "Reviewing the nurse's personal attendance record"
     ],
     "answer": "A"
   },
   {
     "id": 64,
     "type": "mcq",
-    "stem": "Besides preventing falls and dehydration, which other nursing goal is identified for labyrinthitis care?",
+    "stem": "In evaluating progress toward goal achievement, which THREE possible conclusions may be reached?",
     "options": [
-      "Promoting symptom relief and comfort, and supporting the patient in regaining independence and confidence",
-      "Ensuring the patient receives no education about coping strategies",
-      "Ensuring the patient avoids all follow-up appointments after discharge",
-      "Ensuring the patient discontinues vestibular rehabilitation exercises immediately"
+      "The goal was met, partially met, or not met",
+      "The goal was billed, coded, or archived",
+      "The goal was admitted, transferred, or discharged",
+      "The goal was scheduled, rescheduled, or canceled"
     ],
     "answer": "A"
   },
   {
     "id": 65,
     "type": "mcq",
-    "stem": "A nursing goal of educating on coping strategies and adherence to treatment plans in labyrinthitis primarily supports which outcome?",
+    "stem": "The nursing process is described as a systematic process, meaning it proceeds in which manner?",
     "options": [
-      "Long-term recovery and prevention of complications",
-      "Immediate, permanent cure within the first hour of admission",
-      "Complete avoidance of any future medical follow-up",
-      "Replacement of medical therapy with coping strategies alone"
+      "Step by step",
+      "Entirely at random, with no fixed order",
+      "Only in reverse order, starting from evaluation",
+      "Only when convenient for hospital billing cycles"
     ],
     "answer": "A"
   },
   {
     "id": 66,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A 34-year-old man develops sudden severe vertigo, nausea, vomiting, and unilateral hearing loss with tinnitus, two days after resolving a bout of influenza. He has no prior ear surgery and no history of recurrent episodic vertigo. Which diagnosis is MOST consistent with this presentation, and which differential should be ruled out given the hearing loss?",
+    "stem": "CASE SCENARIO: A newly admitted client reports sunken eyes, dry lips, dry skin, and loss of skin turgor, following several days of vomiting and reduced oral intake. Which of the following is correctly written as a problem-focused nursing diagnosis for this client, using the proper format?",
     "options": [
-      "Viral labyrinthitis is most consistent, given the preceding viral illness and combined vestibular and auditory symptoms; Meniere's disease should be considered but is typically episodic and recurrent rather than a single acute event",
-      "Vestibular neuritis is most consistent, since it always presents with hearing loss identical to labyrinthitis",
-      "Acoustic neuroma is confirmed by this presentation alone, with no further imaging required",
-      "This presentation requires no further evaluation, since vertigo following influenza is never clinically significant"
+      "Deficient fluid volume related to active fluid loss as evidenced by sunken eyes, loss of skin turgor, dry lips, and dry skin",
+      "Deficient fluid volume as evidenced by active fluid loss related to sunken eyes and dry skin",
+      "Risk for deficient fluid volume related to sunken eyes and dry lips",
+      "Active fluid loss related to deficient fluid volume as evidenced by vomiting"
     ],
     "answer": "A"
   },
   {
     "id": 67,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A patient hospitalized with labyrinthitis following untreated otitis media develops worsening vertigo, high fever, and increasing unilateral hearing loss over several days despite supportive care. Which concern should the nurse prioritize, and why?",
+    "stem": "CASE SCENARIO: A client newly admitted to a skilled nursing facility has nursing diagnoses of decreased activity tolerance, impaired memory, readiness for enhanced health management, and risk for falls, with identified risk factors including poor vision, gait difficulty, and anxiety with relocation. Which diagnosis should the nurse prioritize FIRST, and why?",
     "options": [
-      "Concern for bacterial labyrinthitis progressing toward permanent hearing loss or vestibular dysfunction if not treated promptly, warranting urgent reassessment and likely antibiotic therapy",
-      "No concern is warranted, since all labyrinthitis resolves spontaneously regardless of cause or treatment",
-      "The nurse should discontinue all monitoring, since fever in labyrinthitis is never clinically significant",
-      "The worsening symptoms confirm a diagnosis of Meniere's disease, which requires no further intervention"
+      "Risk for falls, because the identified risk factors combined with new admission and relocation create an immediate safety concern, even though it is a risk rather than a problem-focused diagnosis",
+      "Decreased activity tolerance, because problem-focused diagnoses are always ranked above risk diagnoses regardless of context",
+      "Readiness for enhanced health management, because health promotion diagnoses always take priority over safety concerns",
+      "Impaired memory, because cognitive diagnoses always outrank safety-related risk diagnoses"
     ],
     "answer": "A"
   },
   {
     "id": 68,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A patient in the acute phase of labyrinthitis attempts to walk unassisted to the bathroom during a severe vertigo episode in a dimly lit, cluttered room. Which nursing priority BEST reflects safe, evidence-based care for this patient?",
+    "stem": "CASE SCENARIO: During an admission interview, a nurse spends the first few minutes exchanging names, explaining her role, and helping the client feel comfortable before asking any health-related questions. Which phase of the nursing interview is this, and what is it intended to establish?",
     "options": [
-      "Assist with mobility, remove obstacles, and ensure a clutter-free, safe environment to reduce the risk of falls during vertigo episodes",
-      "Encourage the patient to continue walking unassisted to promote independence regardless of fall risk",
-      "Leave the room as is, since environmental modification has no role in labyrinthitis care",
-      "Increase room lighting to maximum brightness and add background music to stimulate alertness"
+      "The introduction (joining) phase, intended to establish rapport and trust before the bulk of information is gathered in the working phase",
+      "The working phase, during which the bulk of clinical information is always obtained first",
+      "The termination phase, during which decisions made during the interview are summarized",
+      "A phase that does not exist in the standard three-phase structure of the nursing interview"
     ],
     "answer": "A"
   },
   {
     "id": 69,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A patient recovering from labyrinthitis reports persistent dizziness and difficulty regaining confidence in walking several weeks after the acute illness resolved, alongside low mood related to the prolonged symptoms. Which combination of interventions is MOST appropriate at this stage?",
+    "stem": "CASE SCENARIO: A nurse auscultates a client's lungs and hears a low-pitched sound consistent with normal lung tissue, then percusses over a area of suspected pneumonia and hears a dull sound. The nurse also palpates the abdomen to assess liver size and location. Which set of techniques and corresponding findings is correctly matched?",
     "options": [
-      "Vestibular rehabilitation therapy with gradually introduced activity, along with reassurance, emotional support, and referral to counseling services if distress is significant",
-      "Strict indefinite bed rest with no vestibular rehabilitation or emotional support of any kind",
-      "Immediate discontinuation of all follow-up care, since persistent dizziness after labyrinthitis is never clinically relevant",
-      "Exclusive reliance on high-dose antibiotics alone, with no rehabilitation or psychosocial component"
+      "Auscultation revealed resonance consistent with normal lung tissue; percussion over the consolidated area revealed dullness consistent with pneumonia; palpation was used to assess the liver's size and location",
+      "Percussion revealed resonance; auscultation over the consolidated area revealed dullness; inspection was used to assess the liver's size and location",
+      "Palpation revealed tympany over the lungs; percussion assessed the liver by listening with a stethoscope; auscultation assessed organ size by touch",
+      "Inspection revealed a dull sound over the lungs; palpation revealed resonance over the liver; percussion was used to listen to heart sounds"
     ],
     "answer": "A"
   },
   {
     "id": 70,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A patient with confirmed viral labyrinthitis is prescribed an antiviral agent and a short course of meclizine, and is counseled to avoid driving. Three days later the patient reports feeling much better and wants to stop all medication and resume full activity immediately. Which nursing response is MOST appropriate?",
+    "stem": "CASE SCENARIO: A client is being discharged home after a surgical admission. The nurse arranges for a home health aide to assist with wound care and schedules a follow-up home visit by a community health nurse. Which TYPE of planning does this represent, and at what point in the nurse-client relationship does this type of planning typically occur?",
     "options": [
-      "Reinforce the importance of completing the prescribed course of therapy and gradually, rather than abruptly, resuming activity, since recovery from viral labyrinthitis can take weeks to months even when symptoms improve early",
-      "Agree that all medication should be stopped immediately once the patient feels subjectively better",
-      "Advise the patient to double the antiviral dose to accelerate full recovery",
-      "Tell the patient that full, unrestricted activity should resume immediately, since three days of improvement guarantees complete resolution"
+      "Discharge planning, which involves prescribing nursing intervention at home by caregivers or through a home visit, typically occurring as the nurse-client relationship in the acute setting is ending",
+      "Initial planning, which is based solely on the admission assessment and occurs only on the first day of hospitalization",
+      "Ongoing planning, which occurs only if the client's health status changes during a single shift",
+      "A type of planning that is not recognized within the nursing process and has no defined timing"
     ],
     "answer": "A"
   },
   {
     "id": 71,
     "type": "fitb",
-    "stem": "Labyrinthitis is inflammation or infection of the ___, a part of the inner ear responsible for balance and hearing.",
-    "answer": "labyrinth",
+    "stem": "The nursing process is the totality of actions and inactions toward achieving the purpose of quality ___ care.",
+    "answer": "nursing",
     "acceptableAnswers": [
-      "labyrinth"
+      "nursing"
     ]
   },
   {
     "id": 72,
     "type": "fitb",
-    "stem": "Among infectious causes of labyrinthitis, ___ causes such as herpes simplex, influenza, measles, and mumps are the most common.",
-    "answer": "viral",
+    "stem": "The six steps of the nursing process are commonly remembered using the acronym ___.",
+    "answer": "ADPIE",
     "acceptableAnswers": [
-      "viral"
+      "ADPIE"
     ]
   },
   {
     "id": 73,
     "type": "fitb",
-    "stem": "Bacterial labyrinthitis can spread from otitis media or ___.",
-    "answer": "meningitis",
+    "stem": "Nursing assessment is a logical, systematic, and orderly collection of ___ used to evaluate the health status of a client.",
+    "answer": "data",
     "acceptableAnswers": [
-      "meningitis"
+      "data"
     ]
   },
   {
     "id": 74,
     "type": "fitb",
-    "stem": "Labyrinthitis pathophysiology disrupts the normal function of the cochlea and the ___ system.",
-    "answer": "vestibular",
+    "stem": "The two types of assessment listed are initial (comprehensive) assessment and ___ assessment.",
+    "answer": "problem focused",
     "acceptableAnswers": [
-      "vestibular"
+      "problem focused",
+      "problem-focused"
     ]
   },
   {
     "id": 75,
     "type": "fitb",
-    "stem": "Inflammation in labyrinthitis affects the semicircular canals, utricle, saccule, and ___.",
-    "answer": "cochlea",
+    "stem": "The primary source of data in nursing assessment is usually the ___ directly.",
+    "answer": "patient",
     "acceptableAnswers": [
-      "cochlea"
+      "patient"
     ]
   },
   {
     "id": 76,
     "type": "fitb",
-    "stem": "A mismatch between vestibular signals, visual input, and ___ causes symptoms like vertigo, imbalance, and nystagmus.",
-    "answer": "proprioception",
+    "stem": "Subjective data in nursing assessment is also referred to as symptoms or ___ data.",
+    "answer": "covert",
     "acceptableAnswers": [
-      "proprioception"
+      "covert"
     ]
   },
   {
     "id": 77,
     "type": "fitb",
-    "stem": "Inflammation of the cochlea in labyrinthitis results in hearing loss, usually ___, and tinnitus.",
-    "answer": "unilateral",
+    "stem": "Objective data in nursing assessment is also referred to as signs or ___ data.",
+    "answer": "overt",
     "acceptableAnswers": [
-      "unilateral"
+      "overt"
     ]
   },
   {
     "id": 78,
     "type": "fitb",
-    "stem": "Inflammatory mediators and fluid buildup in labyrinthitis irritate the vestibulocochlear nerve, also known as cranial nerve ___.",
-    "answer": "VIII",
+    "stem": "The nursing interview is divided into three phases: introduction (joining), working, and ___ phases.",
+    "answer": "termination",
     "acceptableAnswers": [
-      "VIII",
-      "8",
-      "eight"
+      "termination"
     ]
   },
   {
     "id": 79,
     "type": "fitb",
-    "stem": "Severe vertigo in labyrinthitis is often of sudden onset, lasting ___ to days.",
-    "answer": "hours",
+    "stem": "Comprehensive physical examination is accomplished via inspection, palpation, percussion, and ___.",
+    "answer": "auscultation",
     "acceptableAnswers": [
-      "hours"
+      "auscultation"
     ]
   },
   {
     "id": 80,
     "type": "fitb",
-    "stem": "The head impulse test, used in diagnosing labyrinthitis, assesses for abnormal ___ indicating vestibular dysfunction.",
-    "answer": "eye movements",
+    "stem": "___ is tapping of areas of the body to elicit sounds that indicate the density of the tissue.",
+    "answer": "Percussion",
     "acceptableAnswers": [
-      "eye movements",
-      "eye movement"
+      "Percussion",
+      "percussion"
     ]
   },
   {
     "id": 81,
     "type": "fitb",
-    "stem": "___ is the special test used to assess hearing loss in suspected labyrinthitis.",
-    "answer": "Audiometry",
+    "stem": "A high-pitched, hollow percussion sound heard over the stomach and bowel is called ___.",
+    "answer": "tympany",
     "acceptableAnswers": [
-      "Audiometry",
-      "audiometry"
+      "tympany"
     ]
   },
   {
     "id": 82,
     "type": "fitb",
-    "stem": "Caloric testing and ___ are vestibular function tests used in diagnosing labyrinthitis.",
-    "answer": "videonystagmography",
+    "stem": "Auscultation is usually performed with the aid of a ___.",
+    "answer": "stethoscope",
     "acceptableAnswers": [
-      "videonystagmography"
+      "stethoscope"
     ]
   },
   {
     "id": 83,
     "type": "fitb",
-    "stem": "MRI or CT imaging is used in labyrinthitis workup to exclude acoustic neuroma or ___.",
-    "answer": "stroke",
+    "stem": "Physical examination should be conducted systematically from ___ to toe.",
+    "answer": "head",
     "acceptableAnswers": [
-      "stroke"
+      "head"
     ]
   },
   {
     "id": 84,
     "type": "fitb",
-    "stem": "___ is a differential diagnosis for labyrinthitis characterized by vertigo without hearing loss.",
-    "answer": "Vestibular neuritis",
+    "stem": "___'s Functional Health Pattern framework guides assessment that supports nurses in determining NANDA-I nursing diagnoses.",
+    "answer": "Gordon",
     "acceptableAnswers": [
-      "Vestibular neuritis"
+      "Gordon",
+      "Gordon's"
     ]
   },
   {
     "id": 85,
     "type": "fitb",
-    "stem": "___ disease is a differential diagnosis for labyrinthitis characterized by episodic vertigo, hearing loss, and tinnitus.",
-    "answer": "Meniere's",
+    "stem": "According to NANDA, nursing diagnosis is a clinical judgment about responses to an actual or potential health problem or ___ process.",
+    "answer": "life",
     "acceptableAnswers": [
-      "Meniere's",
-      "Menieres",
-      "Meniere"
+      "life"
     ]
   },
   {
     "id": 86,
     "type": "fitb",
-    "stem": "Supportive care for labyrinthitis includes bed rest and ___.",
-    "answer": "hydration",
+    "stem": "The NANDA-I taxonomy organizes nursing diagnoses into 13 domains and ___ classes.",
+    "answer": "47",
     "acceptableAnswers": [
-      "hydration"
+      "47"
     ]
   },
   {
     "id": 87,
     "type": "fitb",
-    "stem": "In the acute phase, ___ such as prednisone are used to reduce inflammation in labyrinthitis.",
-    "answer": "corticosteroids",
+    "stem": "A problem-focused nursing diagnosis has four components: label, definition, defining characteristics, and ___ factors.",
+    "answer": "related",
     "acceptableAnswers": [
-      "corticosteroids"
+      "related"
     ]
   },
   {
     "id": 88,
     "type": "fitb",
-    "stem": "___ such as promethazine are used for symptomatic relief of nausea in labyrinthitis.",
-    "answer": "Antiemetics",
+    "stem": "In a nursing diagnosis, the human response and the related factor are joined by the phrase 'related ___'.",
+    "answer": "to",
     "acceptableAnswers": [
-      "Antiemetics",
-      "antiemetics"
+      "to"
     ]
   },
   {
     "id": 89,
     "type": "fitb",
-    "stem": "Vestibular suppressants such as meclizine and ___ are used to manage vertigo in labyrinthitis.",
-    "answer": "benzodiazepines",
+    "stem": "In a nursing diagnosis, the related factor and defining characteristics are joined by the phrase 'as ___ by'.",
+    "answer": "evidenced",
     "acceptableAnswers": [
-      "benzodiazepines"
+      "evidenced"
     ]
   },
   {
     "id": 90,
     "type": "fitb",
-    "stem": "Vestibular rehabilitation therapy (VRT) consists of exercises to restore ___.",
-    "answer": "balance",
+    "stem": "A risk nursing diagnosis has three components: label, definition, and ___ factors.",
+    "answer": "risk",
     "acceptableAnswers": [
-      "balance"
+      "risk"
     ]
   },
   {
     "id": 91,
     "type": "fitb",
-    "stem": "Recovery is typically complete for viral labyrinthitis but may take ___ to months.",
-    "answer": "weeks",
+    "stem": "For a health promotion diagnosis, two cues should be present: desire for a higher level of wellness and ___ present status.",
+    "answer": "effective",
     "acceptableAnswers": [
-      "weeks"
+      "effective"
     ]
   },
   {
     "id": 92,
     "type": "fitb",
-    "stem": "Bacterial labyrinthitis may lead to permanent hearing loss or balance issues if not treated ___.",
-    "answer": "promptly",
+    "stem": "Chronic pain syndrome, a syndrome nursing diagnosis, includes chronic pain plus disturbed sleep pattern, fatigue, impaired physical mobility, or ___.",
+    "answer": "social isolation",
     "acceptableAnswers": [
-      "promptly"
+      "social isolation"
     ]
   },
   {
     "id": 93,
     "type": "fitb",
-    "stem": "___ or depression from prolonged symptoms is a listed complication of labyrinthitis.",
-    "answer": "Anxiety",
+    "stem": "A nursing diagnosis typically contains two parts: a descriptor/modifier and the ___ of the diagnosis.",
+    "answer": "focus",
     "acceptableAnswers": [
-      "Anxiety",
-      "anxiety"
+      "focus"
     ]
   },
   {
     "id": 94,
     "type": "fitb",
-    "stem": "The ___ vaccine is listed as a preventive measure against labyrinthitis caused by mumps.",
-    "answer": "MMR",
+    "stem": "Formulating a nursing diagnosis consists of four activities: collecting data, interpreting data, clustering information, and ___ the cluster.",
+    "answer": "naming",
     "acceptableAnswers": [
-      "MMR"
+      "naming"
     ]
   },
   {
     "id": 95,
     "type": "fitb",
-    "stem": "Nursing assessment of labyrinthitis includes monitoring vital signs for fever, hypotension, or signs of ___.",
-    "answer": "dehydration",
+    "stem": "Expected outcomes are measurable, patient-focused goals derived from the patient's nursing ___.",
+    "answer": "diagnosis",
     "acceptableAnswers": [
-      "dehydration"
+      "diagnosis"
     ]
   },
   {
     "id": 96,
     "type": "fitb",
-    "stem": "During the acute phase, the patient should be positioned in a quiet, ___ room to reduce stimuli.",
-    "answer": "darkened",
+    "stem": "The three types of planning in the nursing process are initial planning, ongoing planning, and ___ planning.",
+    "answer": "discharge",
     "acceptableAnswers": [
-      "darkened"
+      "discharge"
     ]
   },
   {
     "id": 97,
     "type": "fitb",
-    "stem": "Ensuring hydration in labyrinthitis nursing care includes monitoring fluid ___ and output.",
-    "answer": "intake",
+    "stem": "The planning process involves setting priorities, establishing goals/objectives, and selecting nursing ___ and activities.",
+    "answer": "interventions",
     "acceptableAnswers": [
-      "intake"
+      "interventions",
+      "intervention"
     ]
   },
   {
     "id": 98,
     "type": "fitb",
-    "stem": "In the subacute phase, mobility should be encouraged as ___, gradually introducing activities to regain confidence in balance.",
-    "answer": "tolerated",
+    "stem": "The three nurse roles in implementation are independent, dependent, and ___.",
+    "answer": "interdependent",
     "acceptableAnswers": [
-      "tolerated"
+      "interdependent"
     ]
   },
   {
     "id": 99,
     "type": "fitb",
-    "stem": "Long-term care for labyrinthitis includes promoting follow-up visits to audiologists or ___ specialists.",
-    "answer": "ENT",
+    "stem": "Evaluation is a planned, systematic comparison of the client's health status with the goals or expected ___.",
+    "answer": "outcomes",
     "acceptableAnswers": [
-      "ENT"
+      "outcomes"
     ]
   },
   {
     "id": 100,
     "type": "fitb",
-    "stem": "A key nursing goal in labyrinthitis care is preventing complications such as falls and ___.",
-    "answer": "dehydration",
+    "stem": "In evaluating progress toward goal achievement, there are three possible conclusions: the goal was met, partially met, or ___ met.",
+    "answer": "not",
     "acceptableAnswers": [
-      "dehydration"
+      "not"
     ]
   }
 ]
