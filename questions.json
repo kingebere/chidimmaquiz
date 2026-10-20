@@ -2,1115 +2,1127 @@
   {
     "id": 1,
     "type": "mcq",
-    "stem": "The nursing process is best described as which of the following?",
+    "stem": "Primary Eye Care (PEC) is best described as which of the following?",
     "options": [
-      "The totality of actions and inactions toward achieving the purpose of quality nursing care",
-      "A single, isolated task performed only once per patient admission",
-      "A purely administrative billing procedure with no clinical relevance",
-      "A legal document used only in cases of malpractice litigation"
+      "The integration of essential eye health services into the general primary health care (PHC) system",
+      "A specialist tertiary service available only in teaching hospitals",
+      "A private insurance product covering only spectacles",
+      "A research programme with no direct patient-care component"
     ],
     "answer": "A"
   },
   {
     "id": 2,
     "type": "mcq",
-    "stem": "Which of the following is explicitly listed as a purpose of the nursing process?",
+    "stem": "Primary Eye Care is usually delivered by which category of health workers, with a functional referral pathway to secondary and tertiary eye units?",
     "options": [
-      "Maintaining the client's health",
-      "Maximizing hospital bed turnover regardless of client outcome",
-      "Eliminating the need for any physician involvement in care",
-      "Reducing the number of nurses required per shift"
+      "Non-specialist health workers such as community health officers, PHC nurses, and community health extension workers (CHEWs)",
+      "Consultant ophthalmologists exclusively",
+      "Pharmaceutical sales representatives exclusively",
+      "Hospital administrators exclusively"
     ],
     "answer": "A"
   },
   {
     "id": 3,
     "type": "mcq",
-    "stem": "Besides maintaining health, the nursing process also aims to provide care that returns the client to a state of health OR helps them achieve which outcome?",
+    "stem": "The WHO African Region package of primary eye care interventions is built around health promotion, basic treatment, prompt referral, and which other core component?",
     "options": [
-      "A peaceful death",
-      "An extended, medically futile resuscitation regardless of client wishes",
-      "Permanent dependence on hospital services",
-      "Complete isolation from family members"
+      "Screening/early detection",
+      "Advanced laser surgery performed by lay community volunteers",
+      "Exclusive distribution of free spectacles with no other service",
+      "Tertiary-level organ transplantation"
     ],
     "answer": "A"
   },
   {
     "id": 4,
     "type": "mcq",
-    "stem": "Maximizing quality of life within the nursing process purposes involves improving the client's resources and doing what else?",
+    "stem": "In Nigeria, the concept of Primary Eye Care underlies the National Eye Health Policy and which global programme?",
     "options": [
-      "Making appropriate referrals for community health",
-      "Withholding all referrals until the client specifically requests them in writing",
-      "Limiting all care strictly to the hospital setting with no community involvement",
-      "Avoiding any discussion of resources with the client or family"
+      "VISION 2020: The Right to Sight",
+      "The National Malaria Elimination Programme",
+      "The Expanded Programme on Immunization exclusively",
+      "The National Blood Transfusion Policy"
     ],
     "answer": "A"
   },
   {
     "id": 5,
     "type": "mcq",
-    "stem": "Which nursing theorist's framework is specifically listed among the theoretical foundations of the nursing process, based on a hierarchy of needs?",
+    "stem": "Refractive errors such as myopia, hypermetropia, astigmatism, and presbyopia are considered the single commonest cause of visual impairment worldwide, yet remain widely uncorrected in low-resource settings for which reason?",
     "options": [
-      "Maslow",
-      "Florence Nightingale",
-      "Virginia Henderson",
-      "Dorothy Orem"
+      "Poor access to refraction and optical services",
+      "Universal, complete access to free spectacles in every community",
+      "A complete absence of any demand for corrective lenses",
+      "Refractive error being untreatable with existing technology"
     ],
     "answer": "A"
   },
   {
     "id": 6,
     "type": "mcq",
-    "stem": "Which theoretical foundation of the nursing process is specifically based on 14 fundamental needs?",
+    "stem": "Repeated trachoma infection scars the eyelid and causes the eyelashes to turn inward, a condition known as which of the following?",
     "options": [
-      "Virginia Henderson's component model",
-      "Florence Nightingale's environmental model",
-      "Sister Callista Roy's Adaptation model",
-      "Gordon Marjory's Patterns of Human Responses"
+      "Trichiasis",
+      "Leukocoria",
+      "Xerophthalmia",
+      "Phacomorphic glaucoma"
     ],
     "answer": "A"
   },
   {
     "id": 7,
     "type": "mcq",
-    "stem": "Which theoretical foundation of the nursing process is specifically known as the Adaptation model?",
+    "stem": "Onchocerciasis (river blindness) is transmitted by which vector, which breeds in fast-flowing rivers?",
     "options": [
-      "Sister Callista Roy's model",
-      "Dorothy Orem's theory",
-      "Gordon Marjory's framework",
-      "Florence Nightingale's model"
+      "The blackfly (Simulium)",
+      "The mosquito (Anopheles)",
+      "The housefly (Musca domestica)",
+      "The tsetse fly"
     ],
     "answer": "A"
   },
   {
     "id": 8,
     "type": "mcq",
-    "stem": "According to one definition given, the nursing process is a structured approach to nursing practice and its evaluation, based on which overall method?",
+    "stem": "Vitamin A deficiency can progress to keratomalacia, which refers to which process?",
     "options": [
-      "A problem-solving approach",
-      "A purely intuitive, unstructured approach with no method at all",
-      "An approach based exclusively on physician orders with no independent nursing judgment",
-      "An approach limited strictly to documentation with no direct patient contact"
+      "Corneal melting",
+      "Thickening of the eyelid margin",
+      "Clouding of the lens",
+      "Retinal detachment"
     ],
     "answer": "A"
   },
   {
     "id": 9,
     "type": "mcq",
-    "stem": "According to the definitions given, nursing process focuses on treating the unique responses of individuals or groups to which type of occurrence?",
+    "stem": "Retinopathy of prematurity, a congenital/genetic cause of blindness, is specifically associated with which exposure in preterm or low-birth-weight babies?",
     "options": [
-      "Potential alteration in health",
-      "Routine administrative scheduling only",
-      "Unrelated financial transactions only",
-      "Weather-related facility closures only"
+      "Uncontrolled oxygen therapy",
+      "Excessive maternal vitamin A supplementation during the third trimester",
+      "Routine antibiotic eye prophylaxis at birth",
+      "Breastfeeding exclusively for the first six months"
     ],
     "answer": "A"
   },
   {
     "id": 10,
     "type": "mcq",
-    "stem": "The six steps or components of the nursing process are often remembered using which acronym?",
+    "stem": "Retinoblastoma in children presents classically with which finding?",
     "options": [
-      "ADPIE",
-      "SOAPIE",
-      "PQRST",
-      "SBAR"
+      "A white pupillary reflex, described as leukocoria or 'cat's eye reflex'",
+      "A wing-shaped growth extending onto the cornea",
+      "A red, painful eye with purulent discharge",
+      "Complete absence of the globe at birth"
     ],
     "answer": "A"
   },
   {
     "id": 11,
     "type": "mcq",
-    "stem": "Nursing assessment is defined as which type of collection of data used to evaluate a client's health status?",
+    "stem": "In the Nigerian context, cataract is described as the single leading cause of blindness, with a large backlog of untreated cases due to which combination of factors?",
     "options": [
-      "A logical, systematic, and orderly collection of data",
-      "A random, unstructured collection of anecdotes with no method",
-      "A collection of data obtained exclusively from laboratory results with no interview",
-      "A collection of data obtained only after discharge"
+      "Poor awareness, cost, distance to surgical services, and fear of surgery",
+      "Universal free access to surgery with no remaining backlog",
+      "An oversupply of surgeons relative to patients needing care",
+      "A complete absence of any surgical option nationwide"
     ],
     "answer": "A"
   },
   {
     "id": 12,
     "type": "mcq",
-    "stem": "Assessment provides the baseline data for formulating which subsequent step of the nursing process?",
+    "stem": "Glaucoma, the second leading cause of blindness in Nigeria, is sometimes called 'the silent thief of sight' because it is often which of the following?",
     "options": [
-      "Nursing diagnosis and planning the care",
-      "Only the hospital billing department's invoice",
-      "Only the discharge paperwork, with no bearing on diagnosis",
-      "Only the visitor log at the nurses' station"
+      "Asymptomatic until advanced",
+      "Always accompanied by severe pain from the very first symptom",
+      "Exclusively a disease of childhood",
+      "Always visible to an observer as a white pupil"
     ],
     "answer": "A"
   },
   {
     "id": 13,
     "type": "mcq",
-    "stem": "Which TWO types of assessment are specifically listed in the nursing process overview?",
+    "stem": "According to the WHO classification of visual impairment based on presenting visual acuity in the better eye, blindness is defined as visual acuity less than 3/60, OR which alternative criterion?",
     "options": [
-      "Initial (comprehensive) assessment and problem-focused assessment",
-      "Pre-admission assessment and post-mortem assessment only",
-      "Financial assessment and insurance eligibility assessment only",
-      "Weather assessment and transportation assessment only"
+      "A visual field of less than 10 degrees around central fixation",
+      "A visual field of more than 90 degrees around central fixation",
+      "Any visual acuity below 6/6",
+      "Complete inability to perceive color"
     ],
     "answer": "A"
   },
   {
     "id": 14,
     "type": "mcq",
-    "stem": "The PRIMARY source of data in nursing assessment is usually which of the following?",
+    "stem": "'Low vision' is commonly used to describe which category of visual impairment?",
     "options": [
-      "The patient, as the direct source",
-      "The hospital's billing department",
-      "The facility's maintenance staff",
-      "Unrelated media reports about the patient's neighborhood"
+      "Moderate to severe visual impairment, worse than 6/18 but better than the blindness threshold, even with best correction",
+      "Total and complete loss of all light perception",
+      "Visual acuity of exactly 6/6 in both eyes",
+      "A visual field defect affecting only peripheral vision with normal central acuity"
     ],
     "answer": "A"
   },
   {
     "id": 15,
     "type": "mcq",
-    "stem": "Secondary sources of data in nursing assessment include which of the following?",
+    "stem": "'Avoidable blindness' is best described as the sum of which two categories?",
     "options": [
-      "Family members and client records",
-      "Only the patient themselves",
-      "Only anonymous internet forums",
-      "Only the hospital cafeteria menu"
+      "Preventable blindness and curable/treatable blindness",
+      "Congenital blindness and acquired blindness",
+      "Unilateral blindness and bilateral blindness",
+      "Moderate visual impairment and severe visual impairment"
     ],
     "answer": "A"
   },
   {
     "id": 16,
     "type": "mcq",
-    "stem": "Objective data in nursing assessment, also referred to as signs or overt data, includes which examples?",
+    "stem": "According to the Nigeria National Blindness and Visual Impairment Survey (2005-2007), what was the estimated prevalence of blindness among adults aged 40 years and above?",
     "options": [
-      "Blood pressure and skin discoloration",
-      "The patient's reported feeling of worry",
-      "The patient's reported sensation of itching",
-      "The patient's subjective report of pain intensity alone"
+      "4.2%, translating to an estimated 1.13 million blind adults",
+      "0.2%, translating to fewer than 50,000 blind adults",
+      "25%, translating to over 10 million blind adults",
+      "42%, affecting nearly half the adult population"
     ],
     "answer": "A"
   },
   {
     "id": 17,
     "type": "mcq",
-    "stem": "Which of the following is explicitly listed as a source of information for nursing assessment, alongside health history and physical examination?",
+    "stem": "Blindness prevalence in Nigeria was found to be highest in which geopolitical zone, which also carries the largest share of the country's blind population?",
     "options": [
-      "Diagnostic and laboratory investigation",
-      "The patient's personal social media activity",
-      "The hospital's parking lot occupancy rate",
-      "The nurse's personal daily schedule"
+      "The North-West geopolitical zone",
+      "The South-West geopolitical zone only",
+      "The South-South geopolitical zone only",
+      "The Federal Capital Territory exclusively"
     ],
     "answer": "A"
   },
   {
     "id": 18,
     "type": "mcq",
-    "stem": "Most data obtained from history taking is subjective, and can be validated during which subsequent process?",
+    "stem": "Approximately what percentage of blindness in Nigeria is avoidable, that is, preventable or treatable, according to the national survey?",
     "options": [
-      "Physical examination",
-      "Discharge planning exclusively",
-      "Billing reconciliation exclusively",
-      "Visitor registration exclusively"
+      "Approximately 84%",
+      "Approximately 8%",
+      "Approximately 50%",
+      "Approximately 100%, with no exceptions whatsoever"
     ],
     "answer": "A"
   },
   {
     "id": 19,
     "type": "mcq",
-    "stem": "Nursing history interview questions should progress in which direction?",
+    "stem": "According to the national survey data cited, approximately what percentage of blindness in Nigeria is attributed to cataract, making it the single leading cause?",
     "options": [
-      "From general to specific",
-      "From specific to general exclusively, with no flexibility",
-      "Randomly, with no logical progression at all",
-      "Only in a strict yes/no format with no open-ended questions"
+      "Approximately 43%",
+      "Approximately 4.3%",
+      "Approximately 93%",
+      "Approximately 16.7%"
     ],
     "answer": "A"
   },
   {
     "id": 20,
     "type": "mcq",
-    "stem": "The interview session used in history taking is divided into which three phases?",
+    "stem": "Which of the following is explicitly listed as a risk factor contributing to the causes of blindness in Nigeria, related to household wealth?",
     "options": [
-      "Introduction (joining), working, and termination phases",
-      "Billing, coding, and discharge phases",
-      "Preoperative, intraoperative, and postoperative phases",
-      "Morning, afternoon, and night shift phases"
+      "Poverty, since cataract surgical coverage and spectacle wear are both lowest among the poor",
+      "High household income exceeding national averages",
+      "Urban residence with easy access to tertiary eye hospitals",
+      "Advanced postgraduate education in ophthalmology"
     ],
     "answer": "A"
   },
   {
     "id": 21,
     "type": "mcq",
-    "stem": "During which phase of the nursing interview is the BULK of the patient information obtained?",
+    "stem": "Which of the following is listed as a leading cause specifically of CHILDHOOD blindness in Nigeria, alongside congenital cataract and congenital glaucoma?",
     "options": [
-      "The working phase",
-      "The introduction (joining) phase",
-      "The termination phase",
-      "A phase that does not exist in the standard three-phase structure"
+      "Corneal scarring from vitamin A deficiency and measles",
+      "Age-related macular degeneration",
+      "Diabetic retinopathy from long-standing adult-onset diabetes",
+      "Primary open-angle glaucoma of late adulthood"
     ],
     "answer": "A"
   },
   {
     "id": 22,
     "type": "mcq",
-    "stem": "During the termination phase of the nursing interview, what specifically occurs?",
+    "stem": "Which level of prevention is aimed at preventing an eye problem from occurring at all?",
     "options": [
-      "A summary of the discussion is presented so both patient and nurse can validate the perception of what occurred and what decisions were made",
-      "The nurse and patient meet for the very first time",
-      "All physical examination techniques are performed for the first time",
-      "The patient is discharged immediately with no further care planning"
+      "Primary prevention",
+      "Secondary prevention",
+      "Tertiary prevention",
+      "Quaternary prevention"
     ],
     "answer": "A"
   },
   {
     "id": 23,
     "type": "mcq",
-    "stem": "Comprehensive physical examination is accomplished via which four techniques?",
+    "stem": "Health education on eye hygiene, such as 'face-washing' to reduce trachoma transmission, falls under which level of prevention?",
     "options": [
-      "Inspection, palpation, percussion, and auscultation",
-      "Interviewing, billing, coding, and discharging",
-      "Charting, scheduling, filing, and archiving",
-      "Weighing, measuring height, checking ID, and signing consent"
+      "Primary prevention",
+      "Secondary prevention",
+      "Tertiary prevention",
+      "None of these levels, as hygiene education is unrelated to prevention"
     ],
     "answer": "A"
   },
   {
     "id": 24,
     "type": "mcq",
-    "stem": "Inspection, as a physical examination technique, involves which combination of senses?",
+    "stem": "Instillation of prophylactic eye drops or ointment, such as tetracycline, into every newborn's eyes immediately after delivery is a primary prevention measure aimed at preventing which condition?",
     "options": [
-      "Vision, hearing, and smell",
-      "Taste and touch exclusively",
-      "Only the sense of smell, with no visual component",
-      "Only the sense of hearing, with no visual component"
+      "Ophthalmia neonatorum",
+      "Retinoblastoma",
+      "Pterygium",
+      "Age-related macular degeneration"
     ],
     "answer": "A"
   },
   {
     "id": 25,
     "type": "mcq",
-    "stem": "Percussion, as a physical examination technique, involves tapping the body to elicit sounds indicating which property of the underlying tissue?",
+    "stem": "Which primary prevention measure specifically targets onchocerciasis through vector and parasite control?",
     "options": [
-      "Density",
-      "Temperature",
-      "Color",
-      "Taste"
+      "Community-directed treatment with ivermectin (CDTI) and environmental control of blackfly breeding sites",
+      "Routine cataract surgery outreach camps",
+      "Genetic counselling for inherited retinal dystrophies",
+      "Provision of low-vision magnifying devices"
     ],
     "answer": "A"
   },
   {
     "id": 26,
     "type": "mcq",
-    "stem": "Which percussion sound is described as a high-pitched, hollow sound typically heard over the stomach and bowel?",
+    "stem": "Which level of prevention involves early detection and prompt treatment to limit progression or complications of an eye condition?",
     "options": [
-      "Tympany",
-      "Resonance",
-      "Dullness",
-      "Flatness"
+      "Secondary prevention",
+      "Primary prevention",
+      "Tertiary prevention",
+      "There is no such level described in the material"
     ],
     "answer": "A"
   },
   {
     "id": 27,
     "type": "mcq",
-    "stem": "Which percussion sound is described as a low-pitched sound typically heard over the lungs?",
+    "stem": "Intraocular pressure checks for adults over 40 or those with a family history of glaucoma, and regular fundus examination for diabetics and hypertensives, are examples of which level of prevention?",
     "options": [
-      "Resonance",
-      "Tympany",
-      "Flatness",
-      "Dullness"
+      "Secondary prevention, through screening of high-risk groups",
+      "Primary prevention, through health education alone",
+      "Tertiary prevention, through surgical intervention alone",
+      "A level of prevention not addressed anywhere in the material"
     ],
     "answer": "A"
   },
   {
     "id": 28,
     "type": "mcq",
-    "stem": "Which percussion sound, of short duration, is typically heard over solid organs such as the liver?",
+    "stem": "Training primary health workers and community volunteers to recognise 'red flag' eye conditions requiring urgent referral is an example of which level of prevention?",
     "options": [
-      "Flat sound",
-      "Tympany",
-      "Resonance",
-      "Dull sound exclusively, never flat"
+      "Secondary prevention",
+      "Primary prevention exclusively",
+      "Tertiary prevention exclusively",
+      "A purely administrative task unrelated to any level of prevention"
     ],
     "answer": "A"
   },
   {
     "id": 29,
     "type": "mcq",
-    "stem": "Auscultation, as a physical examination technique, is usually performed with the aid of which instrument?",
+    "stem": "Which of the following is specifically listed as a 'red flag' eye condition requiring urgent referral?",
     "options": [
-      "A stethoscope",
-      "A percussion hammer",
-      "A reflex hammer exclusively, with no stethoscope",
-      "A tongue depressor exclusively"
+      "A white pupil in a child",
+      "Mild, chronic dry eye with no other symptoms",
+      "A fully corrected refractive error with normal vision",
+      "A healed, non-infected corneal scar with stable vision"
     ],
     "answer": "A"
   },
   {
     "id": 30,
     "type": "mcq",
-    "stem": "Physical examination should be conducted systematically in which overall pattern?",
+    "stem": "Case-finding and referral of cataract patients for surgery BEFORE complications such as phacomorphic glaucoma develop is an example of which level of prevention?",
     "options": [
-      "From head to toe",
-      "Randomly, examining whichever body part is most convenient first",
-      "Only the chest and abdomen, omitting all other regions",
-      "Only the extremities, omitting the trunk and head"
+      "Secondary prevention",
+      "Primary prevention",
+      "A form of tertiary prevention exclusively, with no secondary component",
+      "Not a recognised prevention activity at all"
     ],
     "answer": "A"
   },
   {
     "id": 31,
     "type": "mcq",
-    "stem": "Under the concept of primary health care, which simple diagnostic tests can be requested directly by the nurse?",
+    "stem": "Which level of prevention involves treatment and rehabilitation to limit disability once eye damage has already occurred?",
     "options": [
-      "Hb (hemoglobin), PCV (packed cell volume), blood grouping, and microscopic examination",
-      "Only full genomic sequencing",
-      "Only advanced cardiac catheterization studies",
-      "Only specialized nuclear medicine scans"
+      "Tertiary prevention",
+      "Primary prevention",
+      "Secondary prevention",
+      "There is no tertiary level described in the material"
     ],
     "answer": "A"
   },
   {
     "id": 32,
     "type": "mcq",
-    "stem": "Gordon's Functional Health Pattern framework is specifically used to guide assessment that supports nurses in determining which type of diagnosis?",
+    "stem": "Cataract surgery, including outreach and free surgical camps to reach the rural poor, is an example of which level of prevention?",
     "options": [
-      "NANDA-I nursing diagnoses",
-      "Final medical diagnoses made exclusively by physicians",
-      "Insurance billing codes exclusively",
-      "Pharmacy inventory classifications exclusively"
+      "Tertiary prevention",
+      "Primary prevention exclusively",
+      "Secondary prevention exclusively",
+      "A level of prevention not mentioned in the material"
     ],
     "answer": "A"
   },
   {
     "id": 33,
     "type": "mcq",
-    "stem": "Gordon's Functional Health Pattern assessment is usually performed at which point in a client's care?",
+    "stem": "Provision of low-vision services, such as magnifying devices and optical aids, for those with irreversible visual impairment falls under which level of prevention?",
     "options": [
-      "When admitting a patient to a hospital or home care service",
-      "Only at the moment of discharge, never at admission",
-      "Only during a routine annual health fair unrelated to admission",
-      "Only after the patient has already been discharged for several months"
+      "Tertiary prevention",
+      "Primary prevention",
+      "Secondary prevention",
+      "None of these levels"
     ],
     "answer": "A"
   },
   {
     "id": 34,
     "type": "mcq",
-    "stem": "Nursing diagnosis is described as which numbered step of the nursing process?",
+    "stem": "VISION 2020: The Right to Sight is a global initiative launched in which year?",
     "options": [
-      "The second step",
-      "The first step",
-      "The fifth step",
-      "The sixth and final step"
+      "1999",
+      "1949",
+      "2020 exactly, matching its name",
+      "2009"
     ],
     "answer": "A"
   },
   {
     "id": 35,
     "type": "mcq",
-    "stem": "According to the ANA definition cited, nursing diagnosis is a clinical judgment about the client's response to which of the following?",
+    "stem": "VISION 2020 aims to eliminate avoidable blindness through which THREE core strategies?",
     "options": [
-      "Actual or potential health conditions or needs",
-      "The hospital's cafeteria menu choices",
-      "The weather forecast for the discharge date",
-      "The facility's visitor parking policy"
+      "Disease control, human resource development, and infrastructure/technology development",
+      "Taxation reform, immigration policy, and trade agreements",
+      "Military intervention, border security, and customs enforcement",
+      "Currency devaluation, interest rate control, and stock market regulation"
     ],
     "answer": "A"
   },
   {
     "id": 36,
     "type": "mcq",
-    "stem": "Which of the following is explicitly listed as a PURPOSE of nursing diagnosis?",
+    "stem": "The SAFE strategy for trachoma control stands for Surgery, Antibiotics, Facial cleanliness, and which other component?",
     "options": [
-      "Providing a common frame of reference and standardization of nursing language",
-      "Eliminating the need for any further assessment ever again",
-      "Replacing the physician's medical diagnosis entirely in every clinical scenario",
-      "Determining the hospital's annual operating budget"
+      "Environmental improvement",
+      "Emergency evacuation",
+      "Economic empowerment",
+      "Educational examination only, with no environmental component"
     ],
     "answer": "A"
   },
   {
     "id": 37,
     "type": "mcq",
-    "stem": "The NANDA-I taxonomy organizes nursing diagnoses into how many domains and how many classes?",
+    "stem": "In the SAFE strategy for trachoma, the 'S' specifically refers to surgery for which complication?",
     "options": [
-      "13 domains and 47 classes",
-      "3 domains and 7 classes",
-      "100 domains and 500 classes",
-      "1 domain and 1 class"
+      "Trichiasis",
+      "Cataract",
+      "Retinal detachment",
+      "Pterygium"
     ],
     "answer": "A"
   },
   {
     "id": 38,
     "type": "mcq",
-    "stem": "Within the NANDA-I taxonomy, a 'domain' is best described as which of the following?",
+    "stem": "Community-Directed Treatment with Ivermectin (CDTI) is specifically used to control which eye disease in endemic Nigerian communities?",
     "options": [
-      "An area of interest, such as activity/rest, coping, or nutrition",
-      "A single, isolated patient symptom with no broader category",
-      "A billing code used exclusively for insurance purposes",
-      "A specific hospital ward location"
+      "Onchocerciasis",
+      "Trachoma",
+      "Cataract",
+      "Diabetic retinopathy"
     ],
     "answer": "A"
   },
   {
     "id": 39,
     "type": "mcq",
-    "stem": "A problem-focused nursing diagnosis has which four components?",
+    "stem": "Which of the following is explicitly listed as part of the nurse's role in the PREVENTION of blindness?",
     "options": [
-      "Label, definition, defining characteristics, and related factors",
-      "Billing code, insurance provider, co-pay amount, and deductible",
-      "Admission date, discharge date, room number, and bed number",
-      "Physician name, nurse name, ward name, and shift time"
+      "Conducting basic visual acuity screening and recognising danger signs requiring urgent referral",
+      "Performing definitive cataract surgery independently without any referral",
+      "Prescribing systemic chemotherapy for ocular tumours without specialist input",
+      "Issuing final legal disability certifications without any multidisciplinary input"
     ],
     "answer": "A"
   },
   {
     "id": 40,
     "type": "mcq",
-    "stem": "In a nursing diagnosis, the 'label' or 'modifier' is best described as which part of speech, describing the human response?",
+    "stem": "Besides visual acuity screening, which other activity is listed as part of the nurse's role in prevention of blindness, related to newborns?",
     "options": [
-      "An adjective, such as impaired, ineffective, deficient, or imbalanced",
-      "A proper noun naming a specific hospital",
-      "A numeral indicating bed number",
-      "A verb describing a surgical procedure"
+      "Administering prophylactic eye care to newborns",
+      "Performing corneal transplantation on newborns",
+      "Prescribing long-term systemic steroids to all newborns",
+      "Discharging newborns without any eye assessment whatsoever"
     ],
     "answer": "A"
   },
   {
     "id": 41,
     "type": "mcq",
-    "stem": "In a nursing diagnosis, 'defining characteristics' are best described as which of the following?",
+    "stem": "The nurse's role in prevention of blindness includes participating in which public health activities?",
     "options": [
-      "Observable cues, such as signs, symptoms, or patient statements, that validate the existence of the problem",
-      "Unrelated demographic data such as the patient's occupation before illness",
-      "The exact dosage of medication prescribed",
-      "The specific brand name of medical equipment used"
+      "Mass drug administration (ivermectin) and immunisation campaigns",
+      "Setting national pharmaceutical pricing policy",
+      "Conducting independent clinical drug trials without ethical oversight",
+      "Managing the hospital's financial investment portfolio"
     ],
     "answer": "A"
   },
   {
     "id": 42,
     "type": "mcq",
-    "stem": "In writing a problem-focused nursing diagnosis, the human response and the related factor are joined by which phrase?",
+    "stem": "What is the PRIMARY purpose of health education for blind persons, according to the stated goals?",
     "options": [
-      "'Related to'",
-      "'In spite of'",
-      "'Regardless of'",
-      "'Unrelated to'"
+      "To help the individual understand and accept their condition, and to prepare for rehabilitation and reintegration",
+      "To permanently discourage the individual from seeking any further medical care",
+      "To isolate the individual from family and community as a protective measure",
+      "To replace all medical follow-up with health education alone"
     ],
     "answer": "A"
   },
   {
     "id": 43,
     "type": "mcq",
-    "stem": "In writing a problem-focused nursing diagnosis, the related factor and the defining characteristics are joined by which phrase?",
+    "stem": "A goal of health education for the blind is to prevent further deterioration of remaining vision and prevent complications in which structure, where relevant?",
     "options": [
-      "'As evidenced by'",
-      "'Related to'",
-      "'In contrast to'",
-      "'Despite the fact that'"
+      "The fellow/remaining eye",
+      "The unrelated contralateral limb",
+      "The unrelated auditory system exclusively",
+      "The unrelated gastrointestinal tract exclusively"
     ],
     "answer": "A"
   },
   {
     "id": 44,
     "type": "mcq",
-    "stem": "A risk nursing diagnosis has which three components, differing from the four components of a problem-focused diagnosis?",
+    "stem": "A goal of health education for the blind is to reduce dependency by teaching which skills?",
     "options": [
-      "Label, definition, and risk factors",
-      "Label, defining characteristics, and related factors only, with no definition",
-      "Only a label, with no definition or risk factors at all",
-      "Admission date, discharge date, and room number"
+      "Self-care and orientation/mobility skills",
+      "Only advanced calculus and higher mathematics",
+      "Only competitive sports techniques unrelated to daily living",
+      "Only foreign language acquisition unrelated to daily living"
     ],
     "answer": "A"
   },
   {
     "id": 45,
     "type": "mcq",
-    "stem": "A health promotion nursing diagnosis is a clinical judgment concerning which of the following?",
+    "stem": "A goal of health education for the blind is to correct misconceptions, stigma, and harmful cultural beliefs about blindness within which groups?",
     "options": [
-      "Motivation and desire to increase well-being and actualize health potential",
-      "An already fully resolved health problem requiring no further action",
-      "A purely financial goal unrelated to health status",
-      "A diagnosis that can never apply to a healthy individual or group"
+      "The family and community",
+      "Only unrelated government regulatory bodies",
+      "Only international trade organisations",
+      "Only the individual's employer, excluding family and community"
     ],
     "answer": "A"
   },
   {
     "id": 46,
     "type": "mcq",
-    "stem": "A syndrome nursing diagnosis is a clinical judgment concerning which of the following?",
+    "stem": "Within the content areas of health education for the blind, a person blind from glaucoma in one eye specifically needs education on which point?",
     "options": [
-      "A specific cluster of nursing diagnoses that occur together and are best addressed through similar interventions",
-      "A single, isolated symptom with no relationship to any other diagnosis",
-      "A diagnosis that applies only to community-level assessments, never individuals",
-      "A diagnosis used exclusively in pediatric patients"
+      "Protecting and monitoring the other (fellow) eye",
+      "Discontinuing all follow-up care for the affected eye permanently",
+      "Avoiding any further contact with health care providers",
+      "Ignoring any new symptoms in the unaffected eye"
     ],
     "answer": "A"
   },
   {
     "id": 47,
     "type": "mcq",
-    "stem": "Chronic pain syndrome, as an example of a syndrome nursing diagnosis, includes chronic pain PLUS which additional diagnoses?",
+    "stem": "Which content area of health education for the blind addresses arranging furniture and objects consistently and marking hazards such as steps and hot surfaces?",
     "options": [
-      "Disturbed sleep pattern, fatigue, impaired physical mobility, or social isolation",
-      "Only an unrelated diagnosis of acute appendicitis",
-      "Only a diagnosis of seasonal allergic rhinitis",
-      "Only a diagnosis of dental caries"
+      "Home and environmental safety",
+      "Legal rights and social welfare schemes",
+      "Sexuality and reproductive health education",
+      "Vocational assessment"
     ],
     "answer": "A"
   },
   {
     "id": 48,
     "type": "mcq",
-    "stem": "A nursing diagnosis typically contains which two parts?",
+    "stem": "Nutrition, as a content area of health education for the blind, is particularly emphasised when which underlying cause contributed to the blindness?",
     "options": [
-      "A descriptor/modifier and the focus of the diagnosis",
-      "A billing code and an insurance authorization number",
-      "A room number and a bed number",
-      "A physician's signature and a notary stamp"
+      "Nutritional deficiency, such as vitamin A deficiency",
+      "A purely traumatic cause with no nutritional component",
+      "A purely congenital cause present since birth",
+      "A purely genetic cause with no modifiable component"
     ],
     "answer": "A"
   },
   {
     "id": 49,
     "type": "mcq",
-    "stem": "A problem-focused diagnosis should NOT automatically be viewed as more important than which other type of diagnosis, according to the material?",
+    "stem": "Which content area of health education for the blind includes the white cane, guide dog, braille materials, and talking devices?",
     "options": [
-      "A risk diagnosis",
-      "A diagnosis made solely by a physician",
-      "A diagnosis unrelated to the patient's actual condition",
-      "A diagnosis based purely on billing considerations"
+      "Use of assistive devices",
+      "Legal rights and welfare schemes",
+      "Psychosocial adjustment",
+      "Family and caregiver education"
     ],
     "answer": "A"
   },
   {
     "id": 50,
     "type": "mcq",
-    "stem": "Formulating a nursing diagnosis consists of which four activities?",
+    "stem": "Psychosocial adjustment, as a content area of health education for the blind, involves coping with which experiences?",
     "options": [
-      "Collecting data, interpreting data, clustering information, and naming the cluster",
-      "Billing, coding, auditing, and archiving",
-      "Admitting, transferring, discharging, and readmitting",
-      "Scheduling, rescheduling, canceling, and rebooking"
+      "Grief/loss of vision, depression, anxiety, and social withdrawal",
+      "Only unrelated financial budgeting concerns",
+      "Only unrelated travel logistics",
+      "Only unrelated academic examination scheduling"
     ],
     "answer": "A"
   },
   {
     "id": 51,
     "type": "mcq",
-    "stem": "Expected outcomes, identified during the outcome identification step, are best described as which type of goals?",
+    "stem": "Family and caregiver education, as a content area for the blind, includes addressing which harmful belief that fuels stigma?",
     "options": [
-      "Measurable, patient-focused goals derived from the patient's nursing diagnosis",
-      "Vague, immeasurable goals with no specific timeframe",
-      "Goals determined exclusively by hospital administration with no reference to diagnosis",
-      "Goals that are never reviewed or evaluated once written"
+      "That blindness is a curse or punishment",
+      "That blindness can be fully corrected with simple reading glasses in every case",
+      "That blindness always resolves spontaneously within one year",
+      "That blindness is a normal and universal part of ageing requiring no support"
     ],
     "answer": "A"
   },
   {
     "id": 52,
     "type": "mcq",
-    "stem": "Short-term goals, as described in outcome identification, are best characterized by which feature?",
+    "stem": "Which principle of teaching a blind person emphasises that visual demonstration is not possible, so instructions should instead be given how?",
     "options": [
-      "They are of immediate concern and can be achieved quickly",
-      "They always take several years to achieve",
-      "They are never measurable in any way",
-      "They exclusively involve long-term rehabilitation"
+      "Through detailed, step-by-step verbal explanation",
+      "Through silent written instructions only, with no verbal component",
+      "Through brief, vague gestures with no further explanation",
+      "Through exclusively visual diagrams with no verbal component"
     ],
     "answer": "A"
   },
   {
     "id": 53,
     "type": "mcq",
-    "stem": "Planning, as a phase of the nursing process, is described as a deliberative, systematic phase involving which two processes?",
+    "stem": "The 'hand-under-hand' technique, used in teaching a blind person, is an example of which teaching method?",
     "options": [
-      "Decision making and problem solving",
-      "Billing and coding exclusively",
-      "Transportation scheduling and parking assignment exclusively",
-      "Visitor check-in and check-out exclusively"
+      "A touch (tactile) method, guiding the person's hands to feel objects, equipment, or layouts",
+      "A purely visual demonstration method",
+      "A purely auditory method using only recorded lectures",
+      "A purely olfactory method using only scent cues"
     ],
     "answer": "A"
   },
   {
     "id": 54,
     "type": "mcq",
-    "stem": "Initial planning in the nursing process develops the initial comprehensive plan of care based on which assessment?",
+    "stem": "When teaching a blind person, what should the nurse always do before touching the person or their environment?",
     "options": [
-      "The admission assessment",
-      "A discharge assessment performed after the patient has already left",
-      "An assessment performed exclusively by a billing clerk",
-      "An assessment performed only by a hospital volunteer"
+      "Announce their presence and identify themselves, and explain what they are about to do",
+      "Begin the task immediately without any verbal announcement",
+      "Wait for the patient to initiate all physical contact first in every instance",
+      "Avoid any verbal communication throughout the entire session"
     ],
     "answer": "A"
   },
   {
     "id": 55,
     "type": "mcq",
-    "stem": "Ongoing planning in the nursing process occurs under which circumstance?",
+    "stem": "Teaching skills to a blind person in their own real environment, wherever possible, serves which purpose?",
     "options": [
-      "If the client's health status changes, requiring the nurse to set priorities for the shift",
-      "Only once, immediately before discharge, and never again before that point",
-      "Only when the hospital billing cycle changes",
-      "Only when the hospital changes its visiting hours policy"
+      "So that skills learned are directly applicable",
+      "So that the nurse can avoid any documentation of the teaching session",
+      "So that family members are excluded from the process entirely",
+      "So that the session can be shortened to less than one minute"
     ],
     "answer": "A"
   },
   {
     "id": 56,
     "type": "mcq",
-    "stem": "A care plan may be standardized, OR it may be individualized to address which of the following?",
+    "stem": "Rehabilitation of the blind is best defined as the process of helping the individual regain maximum possible independence in which domains?",
     "options": [
-      "Client needs that are not addressed by the standardized care plan",
-      "Only the hospital's billing requirements",
-      "Only the facility's parking allocation",
-      "Only the nurse's personal preferences, with no reference to the client at all"
+      "Physical, psychological, social, educational, and economic domains",
+      "Only financial domains, with no reference to physical or social function",
+      "Only religious domains, with no reference to physical or social function",
+      "Only recreational domains, with no reference to physical or social function"
     ],
     "answer": "A"
   },
   {
     "id": 57,
     "type": "mcq",
-    "stem": "Which THREE activities make up the planning process, according to the material?",
+    "stem": "Which of the following is explicitly listed as a GOAL of rehabilitation of the blind?",
     "options": [
-      "Setting priorities, establishing goals/objectives, and selecting nursing interventions and activities",
-      "Billing, coding, and auditing",
-      "Admission, transfer, and discharge paperwork only",
-      "Ordering supplies, scheduling maintenance, and managing payroll"
+      "Restoring the individual's confidence and self-esteem",
+      "Ensuring permanent social isolation from family and community",
+      "Eliminating the need for any further medical follow-up whatsoever",
+      "Guaranteeing complete restoration of normal vision in every case"
     ],
     "answer": "A"
   },
   {
     "id": 58,
     "type": "mcq",
-    "stem": "Implementation, as a phase of the nursing process, is best described as which of the following?",
+    "stem": "Medical rehabilitation of the blind includes treatment of the underlying cause where still possible. Which example is given of this?",
     "options": [
-      "The action phase in which the nurse carries out the plan of care",
-      "A phase that occurs only before assessment, never after planning",
-      "A purely theoretical phase with no direct patient contact",
-      "A phase limited exclusively to documentation with no direct care given"
+      "Cataract surgery even after prolonged blindness, which may restore some vision",
+      "Amputation of an unrelated limb with no connection to visual function",
+      "Tonsillectomy performed regardless of any ocular indication",
+      "Appendectomy performed regardless of any ocular indication"
     ],
     "answer": "A"
   },
   {
     "id": 59,
     "type": "mcq",
-    "stem": "If a nurse assigns some nursing actions to other staff members during implementation, what remains the assigning nurse's responsibility?",
+    "stem": "Orientation and Mobility (O&M) training, a component of functional/physical rehabilitation, teaches the blind person to move about safely using which specific technique, among others?",
     "options": [
-      "Ensuring that the care is given according to the nursing orders in the nursing process",
-      "Nothing further, since all responsibility transfers completely to the assigned staff member",
-      "Only completing unrelated billing paperwork",
-      "Only scheduling the next shift's staffing"
+      "The long white cane technique",
+      "Unassisted running in unfamiliar, obstacle-filled terrain",
+      "Riding a bicycle at high speed in dense urban traffic",
+      "Climbing unsecured ladders without any orientation training"
     ],
     "answer": "A"
   },
   {
     "id": 60,
     "type": "mcq",
-    "stem": "Which THREE nurse roles are specifically listed within the implementation phase of the nursing process?",
+    "stem": "Besides the white cane and guide dogs, which other orientation and mobility technique involves a family member or companion guiding the blind person correctly?",
     "options": [
-      "Independent, dependent, and interdependent roles",
-      "Supervisory, administrative, and clerical roles only",
-      "Surgical, anesthetic, and radiological roles only",
-      "Financial, legal, and marketing roles only"
+      "The sighted guide technique",
+      "The echo-location technique exclusively, with no human guide involved",
+      "The hand-under-hand technique, as used only in teaching, never in mobility",
+      "A technique that does not exist in the described rehabilitation framework"
     ],
     "answer": "A"
   },
   {
     "id": 61,
     "type": "mcq",
-    "stem": "Which of the following is explicitly listed as an importance of documentation in the nursing process?",
+    "stem": "Educational rehabilitation of the blind includes teaching reading and writing through which specific medium?",
     "options": [
-      "It provides evidence for evaluating purposes and ensures continuity of care",
-      "It eliminates the need for any further nursing assessment ever again",
-      "It replaces the need for direct patient communication entirely",
-      "It serves only as a record for the hospital's marketing department"
+      "Braille",
+      "Standard printed text with no adaptation",
+      "Sign language exclusively, with no tactile or auditory component",
+      "Lip-reading exclusively"
     ],
     "answer": "A"
   },
   {
     "id": 62,
     "type": "mcq",
-    "stem": "Evaluation, the final step of the nursing process, is defined as which of the following?",
+    "stem": "Vocational rehabilitation of the blind begins with which activity, to identify suitable trades or occupations?",
     "options": [
-      "A planned, systematic comparison of the client's health status with the goals/expected outcomes",
-      "An unplanned, random comparison performed only once per year",
-      "A process performed exclusively by hospital administrators with no nurse involvement",
-      "A process that occurs only before the care plan is written"
+      "Vocational assessment",
+      "Immediate, unassessed job placement with no prior evaluation",
+      "Permanent exclusion from the workforce by default",
+      "Mandatory retirement regardless of age or ability"
     ],
     "answer": "A"
   },
   {
     "id": 63,
     "type": "mcq",
-    "stem": "Which of the following is explicitly listed among the evaluation indices of the nursing process?",
+    "stem": "Social/psychological rehabilitation of the blind includes support groups and peer counselling, in which blind persons who have successfully adjusted do what?",
     "options": [
-      "Determining the client's progress toward achievement of the stated goals/expected outcomes",
-      "Calculating the hospital's total annual revenue",
-      "Assessing the facility's parking lot capacity",
-      "Reviewing the nurse's personal attendance record"
+      "Mentor newly blind individuals",
+      "Are excluded from any further contact with newly blind individuals",
+      "Are discouraged from discussing their own experience of blindness",
+      "Are assigned exclusively administrative, non-supportive roles"
     ],
     "answer": "A"
   },
   {
     "id": 64,
     "type": "mcq",
-    "stem": "In evaluating progress toward goal achievement, which THREE possible conclusions may be reached?",
+    "stem": "What is Community-Based Rehabilitation (CBR)?",
     "options": [
-      "The goal was met, partially met, or not met",
-      "The goal was billed, coded, or archived",
-      "The goal was admitted, transferred, or discharged",
-      "The goal was scheduled, rescheduled, or canceled"
+      "A strategy that uses community resources to deliver rehabilitation services closer to home, rather than relying solely on centralised institutions",
+      "A strategy that relies exclusively on centralised, specialist institutions with no community involvement",
+      "A strategy limited strictly to urban tertiary hospitals",
+      "A strategy that excludes family members from any involvement in care"
     ],
     "answer": "A"
   },
   {
     "id": 65,
     "type": "mcq",
-    "stem": "The nursing process is described as a systematic process, meaning it proceeds in which manner?",
+    "stem": "Community-Based Rehabilitation (CBR) is described as cost-effective and sustainable, especially given which limitation in Nigeria?",
     "options": [
-      "Step by step",
-      "Entirely at random, with no fixed order",
-      "Only in reverse order, starting from evaluation",
-      "Only when convenient for hospital billing cycles"
+      "A limited number of specialist rehabilitation centres relative to the population in need",
+      "An oversupply of specialist rehabilitation centres with excess capacity",
+      "A complete absence of any blind population requiring rehabilitation",
+      "Unlimited government funding for centralised institutions"
     ],
     "answer": "A"
   },
   {
     "id": 66,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A newly admitted client reports sunken eyes, dry lips, dry skin, and loss of skin turgor, following several days of vomiting and reduced oral intake. Which of the following is correctly written as a problem-focused nursing diagnosis for this client, using the proper format?",
+    "stem": "CASE SCENARIO: A primary health care nurse in a rural community organizes a 'face-washing' campaign, promotes clean water access, and refers a child with trichiasis for surgical correction, while also recognizing that this same community lies along a fast-flowing river with ongoing blackfly exposure. Which combination of prevention levels and conditions is she addressing?",
     "options": [
-      "Deficient fluid volume related to active fluid loss as evidenced by sunken eyes, loss of skin turgor, dry lips, and dry skin",
-      "Deficient fluid volume as evidenced by active fluid loss related to sunken eyes and dry skin",
-      "Risk for deficient fluid volume related to sunken eyes and dry lips",
-      "Active fluid loss related to deficient fluid volume as evidenced by vomiting"
+      "Primary prevention of trachoma through hygiene and water access, and secondary/tertiary intervention for existing trichiasis, while the riverine location also raises her index of suspicion for onchocerciasis",
+      "Only tertiary prevention, since all her activities involve surgical referral exclusively",
+      "Only primary prevention, since trichiasis referral has no bearing on any level of prevention",
+      "An approach irrelevant to Nigerian primary eye care, since trachoma and onchocerciasis never coexist in the same community"
     ],
     "answer": "A"
   },
   {
     "id": 67,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A client newly admitted to a skilled nursing facility has nursing diagnoses of decreased activity tolerance, impaired memory, readiness for enhanced health management, and risk for falls, with identified risk factors including poor vision, gait difficulty, and anxiety with relocation. Which diagnosis should the nurse prioritize FIRST, and why?",
+    "stem": "CASE SCENARIO: A 68-year-old man presents to a PHC facility with gradual, painless bilateral visual decline over two years, and is found to have elevated intraocular pressure with early optic nerve changes on examination, in a community where cataract surgical backlog is high due to cost and distance. Which combination of diagnosis and health-system factors BEST fits this presentation?",
     "options": [
-      "Risk for falls, because the identified risk factors combined with new admission and relocation create an immediate safety concern, even though it is a risk rather than a problem-focused diagnosis",
-      "Decreased activity tolerance, because problem-focused diagnoses are always ranked above risk diagnoses regardless of context",
-      "Readiness for enhanced health management, because health promotion diagnoses always take priority over safety concerns",
-      "Impaired memory, because cognitive diagnoses always outrank safety-related risk diagnoses"
+      "His findings are consistent with glaucoma, the 'silent thief of sight,' which can coexist with the separately leading cause of blindness, cataract, whose backlog in this community is driven by poor awareness, cost, distance, and fear of surgery",
+      "His findings exclude any possibility of glaucoma, since glaucoma always presents with sudden, severe pain",
+      "Cataract and glaucoma can never occur in the same community, so only one diagnosis is possible",
+      "His presentation requires no further action, since gradual visual decline after age 60 is always a normal, non-pathological finding"
     ],
     "answer": "A"
   },
   {
     "id": 68,
     "type": "mcq",
-    "stem": "CASE SCENARIO: During an admission interview, a nurse spends the first few minutes exchanging names, explaining her role, and helping the client feel comfortable before asking any health-related questions. Which phase of the nursing interview is this, and what is it intended to establish?",
+    "stem": "CASE SCENARIO: A nurse is teaching a newly blind adult patient, blind from untreated glaucoma in one eye with early changes now detected in the fellow eye, how to navigate his home safely and use a white cane, while also referring him for vocational assessment. Which combination of rehabilitation and health education principles BEST reflects appropriate care?",
     "options": [
-      "The introduction (joining) phase, intended to establish rapport and trust before the bulk of information is gathered in the working phase",
-      "The working phase, during which the bulk of clinical information is always obtained first",
-      "The termination phase, during which decisions made during the interview are summarized",
-      "A phase that does not exist in the standard three-phase structure of the nursing interview"
+      "Health education should emphasize protecting and monitoring the fellow eye, orientation and mobility training should include the long white cane technique, and vocational rehabilitation should begin with an assessment to identify suitable trades",
+      "The fellow eye requires no monitoring, since the patient is already blind in one eye",
+      "White cane training is unnecessary once a patient has been referred for vocational assessment",
+      "Vocational assessment should be skipped entirely in favor of immediate, unassessed job placement"
     ],
     "answer": "A"
   },
   {
     "id": 69,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A nurse auscultates a client's lungs and hears a low-pitched sound consistent with normal lung tissue, then percusses over a area of suspected pneumonia and hears a dull sound. The nurse also palpates the abdomen to assess liver size and location. Which set of techniques and corresponding findings is correctly matched?",
+    "stem": "CASE SCENARIO: A community health extension worker (CHEW) identifies a child with a white pupillary reflex during a routine vision screening at a rural school. Which immediate action and underlying concern BEST reflect appropriate recognition of this 'red flag' finding?",
     "options": [
-      "Auscultation revealed resonance consistent with normal lung tissue; percussion over the consolidated area revealed dullness consistent with pneumonia; palpation was used to assess the liver's size and location",
-      "Percussion revealed resonance; auscultation over the consolidated area revealed dullness; inspection was used to assess the liver's size and location",
-      "Palpation revealed tympany over the lungs; percussion assessed the liver by listening with a stethoscope; auscultation assessed organ size by touch",
-      "Inspection revealed a dull sound over the lungs; palpation revealed resonance over the liver; percussion was used to listen to heart sounds"
+      "Urgent referral to a secondary/tertiary eye facility, given that leukocoria (white pupillary reflex) is classically associated with retinoblastoma, a tumour requiring prompt specialist evaluation",
+      "Reassurance and discharge with no further action, since a white pupillary reflex in a child is always a normal variant",
+      "A recommendation for corrective spectacles alone, since white pupillary reflex is always due to simple refractive error",
+      "A diagnosis of trachoma, since trichiasis is the only condition associated with abnormal pupil appearance"
     ],
     "answer": "A"
   },
   {
     "id": 70,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A client is being discharged home after a surgical admission. The nurse arranges for a home health aide to assist with wound care and schedules a follow-up home visit by a community health nurse. Which TYPE of planning does this represent, and at what point in the nurse-client relationship does this type of planning typically occur?",
+    "stem": "CASE SCENARIO: A blind woman and her family attend a community-based rehabilitation (CBR) program where she receives counselling for grief and social withdrawal, her family is educated to avoid both overprotection and neglect, and local community health workers coordinate her care instead of referring her to a distant centralised institution. Which rehabilitation approach and its rationale BEST fit this scenario?",
     "options": [
-      "Discharge planning, which involves prescribing nursing intervention at home by caregivers or through a home visit, typically occurring as the nurse-client relationship in the acute setting is ending",
-      "Initial planning, which is based solely on the admission assessment and occurs only on the first day of hospitalization",
-      "Ongoing planning, which occurs only if the client's health status changes during a single shift",
-      "A type of planning that is not recognized within the nursing process and has no defined timing"
+      "Community-Based Rehabilitation, which uses community resources to deliver services closer to home and is considered cost-effective and sustainable given Nigeria's limited number of specialist rehabilitation centres relative to population need",
+      "Exclusively medical rehabilitation, since counselling and family education are not recognised components of any rehabilitation framework",
+      "An inappropriate approach, since all rehabilitation should occur only in centralised, specialist institutions regardless of distance or cost",
+      "Vocational rehabilitation exclusively, since family education and counselling are unrelated to any form of rehabilitation"
     ],
     "answer": "A"
   },
   {
     "id": 71,
     "type": "fitb",
-    "stem": "The nursing process is the totality of actions and inactions toward achieving the purpose of quality ___ care.",
-    "answer": "nursing",
+    "stem": "Primary Eye Care is the integration of essential eye health services into the general ___ system.",
+    "answer": "primary health care",
     "acceptableAnswers": [
-      "nursing"
+      "primary health care",
+      "PHC",
+      "primary healthcare"
     ]
   },
   {
     "id": 72,
     "type": "fitb",
-    "stem": "The six steps of the nursing process are commonly remembered using the acronym ___.",
-    "answer": "ADPIE",
+    "stem": "Trachoma is caused by ___, and is spread by flies and poor hygiene.",
+    "answer": "Chlamydia trachomatis",
     "acceptableAnswers": [
-      "ADPIE"
+      "Chlamydia trachomatis",
+      "chlamydia trachomatis"
     ]
   },
   {
     "id": 73,
     "type": "fitb",
-    "stem": "Nursing assessment is a logical, systematic, and orderly collection of ___ used to evaluate the health status of a client.",
-    "answer": "data",
+    "stem": "The inward-turning of the eyelashes caused by repeated trachoma infection is called ___.",
+    "answer": "trichiasis",
     "acceptableAnswers": [
-      "data"
+      "trichiasis"
     ]
   },
   {
     "id": 74,
     "type": "fitb",
-    "stem": "The two types of assessment listed are initial (comprehensive) assessment and ___ assessment.",
-    "answer": "problem focused",
+    "stem": "Onchocerciasis is caused by the filarial worm ___ and is transmitted by the blackfly.",
+    "answer": "Onchocerca volvulus",
     "acceptableAnswers": [
-      "problem focused",
-      "problem-focused"
+      "Onchocerca volvulus",
+      "onchocerca volvulus"
     ]
   },
   {
     "id": 75,
     "type": "fitb",
-    "stem": "The primary source of data in nursing assessment is usually the ___ directly.",
-    "answer": "patient",
+    "stem": "Severe vitamin A deficiency can cause corneal melting, known as ___.",
+    "answer": "keratomalacia",
     "acceptableAnswers": [
-      "patient"
+      "keratomalacia"
     ]
   },
   {
     "id": 76,
     "type": "fitb",
-    "stem": "Subjective data in nursing assessment is also referred to as symptoms or ___ data.",
-    "answer": "covert",
+    "stem": "Retinoblastoma in children presents classically with a white pupillary reflex, described as ___.",
+    "answer": "leukocoria",
     "acceptableAnswers": [
-      "covert"
+      "leukocoria",
+      "leucocoria"
     ]
   },
   {
     "id": 77,
     "type": "fitb",
-    "stem": "Objective data in nursing assessment is also referred to as signs or ___ data.",
-    "answer": "overt",
+    "stem": "Glaucoma is sometimes called 'the ___ thief of sight' because it is often asymptomatic until advanced.",
+    "answer": "silent",
     "acceptableAnswers": [
-      "overt"
+      "silent"
     ]
   },
   {
     "id": 78,
     "type": "fitb",
-    "stem": "The nursing interview is divided into three phases: introduction (joining), working, and ___ phases.",
-    "answer": "termination",
+    "stem": "According to the WHO classification, blindness is defined as visual acuity of less than ___ in the better eye.",
+    "answer": "3/60",
     "acceptableAnswers": [
-      "termination"
+      "3/60"
     ]
   },
   {
     "id": 79,
     "type": "fitb",
-    "stem": "Comprehensive physical examination is accomplished via inspection, palpation, percussion, and ___.",
-    "answer": "auscultation",
+    "stem": "Avoidable blindness is the sum of preventable blindness and ___ blindness.",
+    "answer": "curable/treatable",
     "acceptableAnswers": [
-      "auscultation"
+      "curable/treatable",
+      "curable",
+      "treatable",
+      "curable or treatable"
     ]
   },
   {
     "id": 80,
     "type": "fitb",
-    "stem": "___ is tapping of areas of the body to elicit sounds that indicate the density of the tissue.",
-    "answer": "Percussion",
+    "stem": "The Nigeria National Blindness and Visual Impairment Survey was conducted over the period ___ to ___.",
+    "answer": "2005; 2007",
     "acceptableAnswers": [
-      "Percussion",
-      "percussion"
+      "2005; 2007"
     ]
   },
   {
     "id": 81,
     "type": "fitb",
-    "stem": "A high-pitched, hollow percussion sound heard over the stomach and bowel is called ___.",
-    "answer": "tympany",
+    "stem": "Blindness prevalence in Nigeria was found to be highest in the ___ geopolitical zone.",
+    "answer": "North-West",
     "acceptableAnswers": [
-      "tympany"
+      "North-West",
+      "North West",
+      "northwest"
     ]
   },
   {
     "id": 82,
     "type": "fitb",
-    "stem": "Auscultation is usually performed with the aid of a ___.",
-    "answer": "stethoscope",
+    "stem": "Approximately ___ percent of blindness in Nigeria is avoidable, that is, preventable or treatable.",
+    "answer": "84",
     "acceptableAnswers": [
-      "stethoscope"
+      "84",
+      "84%"
     ]
   },
   {
     "id": 83,
     "type": "fitb",
-    "stem": "Physical examination should be conducted systematically from ___ to toe.",
-    "answer": "head",
+    "stem": "___ is the single leading cause of blindness in Nigeria, accounting for approximately 43% of cases.",
+    "answer": "Cataract",
     "acceptableAnswers": [
-      "head"
+      "Cataract",
+      "cataract"
     ]
   },
   {
     "id": 84,
     "type": "fitb",
-    "stem": "___'s Functional Health Pattern framework guides assessment that supports nurses in determining NANDA-I nursing diagnoses.",
-    "answer": "Gordon",
+    "stem": "There are three levels of prevention of blindness: primary, ___, and tertiary.",
+    "answer": "secondary",
     "acceptableAnswers": [
-      "Gordon",
-      "Gordon's"
+      "secondary"
     ]
   },
   {
     "id": 85,
     "type": "fitb",
-    "stem": "According to NANDA, nursing diagnosis is a clinical judgment about responses to an actual or potential health problem or ___ process.",
-    "answer": "life",
+    "stem": "'Face-washing' to reduce trachoma transmission is an example of ___ prevention.",
+    "answer": "primary",
     "acceptableAnswers": [
-      "life"
+      "primary"
     ]
   },
   {
     "id": 86,
     "type": "fitb",
-    "stem": "The NANDA-I taxonomy organizes nursing diagnoses into 13 domains and ___ classes.",
-    "answer": "47",
+    "stem": "Prophylactic eye drops or ointment, such as tetracycline, are instilled into every newborn's eyes to prevent ___.",
+    "answer": "ophthalmia neonatorum",
     "acceptableAnswers": [
-      "47"
+      "ophthalmia neonatorum"
     ]
   },
   {
     "id": 87,
     "type": "fitb",
-    "stem": "A problem-focused nursing diagnosis has four components: label, definition, defining characteristics, and ___ factors.",
-    "answer": "related",
+    "stem": "Onchocerciasis in Nigeria is controlled through community-directed treatment with ___.",
+    "answer": "ivermectin",
     "acceptableAnswers": [
-      "related"
+      "ivermectin"
     ]
   },
   {
     "id": 88,
     "type": "fitb",
-    "stem": "In a nursing diagnosis, the human response and the related factor are joined by the phrase 'related ___'.",
-    "answer": "to",
+    "stem": "Vision screening in schools, communities, and at PHC facilities to detect refractive errors early is an example of ___ prevention.",
+    "answer": "secondary",
     "acceptableAnswers": [
-      "to"
+      "secondary"
     ]
   },
   {
     "id": 89,
     "type": "fitb",
-    "stem": "In a nursing diagnosis, the related factor and defining characteristics are joined by the phrase 'as ___ by'.",
-    "answer": "evidenced",
+    "stem": "Cataract surgery, including outreach and free surgical camps, is an example of ___ prevention.",
+    "answer": "tertiary",
     "acceptableAnswers": [
-      "evidenced"
+      "tertiary"
     ]
   },
   {
     "id": 90,
     "type": "fitb",
-    "stem": "A risk nursing diagnosis has three components: label, definition, and ___ factors.",
-    "answer": "risk",
+    "stem": "VISION 2020: The Right to Sight was launched in the year ___.",
+    "answer": "1999",
     "acceptableAnswers": [
-      "risk"
+      "1999"
     ]
   },
   {
     "id": 91,
     "type": "fitb",
-    "stem": "For a health promotion diagnosis, two cues should be present: desire for a higher level of wellness and ___ present status.",
-    "answer": "effective",
+    "stem": "VISION 2020 aims to eliminate avoidable blindness through three core strategies: disease control, human resource development, and ___ development.",
+    "answer": "infrastructure/technology",
     "acceptableAnswers": [
-      "effective"
+      "infrastructure/technology",
+      "infrastructure and technology",
+      "infrastructure"
     ]
   },
   {
     "id": 92,
     "type": "fitb",
-    "stem": "Chronic pain syndrome, a syndrome nursing diagnosis, includes chronic pain plus disturbed sleep pattern, fatigue, impaired physical mobility, or ___.",
-    "answer": "social isolation",
+    "stem": "The SAFE strategy for trachoma control stands for Surgery, Antibiotics, Facial cleanliness, and ___ improvement.",
+    "answer": "Environmental",
     "acceptableAnswers": [
-      "social isolation"
+      "Environmental",
+      "environmental"
     ]
   },
   {
     "id": 93,
     "type": "fitb",
-    "stem": "A nursing diagnosis typically contains two parts: a descriptor/modifier and the ___ of the diagnosis.",
-    "answer": "focus",
+    "stem": "A key goal of health education for the blind is to help the individual understand and ___ their condition.",
+    "answer": "accept",
     "acceptableAnswers": [
-      "focus"
+      "accept"
     ]
   },
   {
     "id": 94,
     "type": "fitb",
-    "stem": "Formulating a nursing diagnosis consists of four activities: collecting data, interpreting data, clustering information, and ___ the cluster.",
-    "answer": "naming",
+    "stem": "A goal of health education for the blind is to reduce ___ by teaching self-care and orientation/mobility skills.",
+    "answer": "dependency",
     "acceptableAnswers": [
-      "naming"
+      "dependency"
     ]
   },
   {
     "id": 95,
     "type": "fitb",
-    "stem": "Expected outcomes are measurable, patient-focused goals derived from the patient's nursing ___.",
-    "answer": "diagnosis",
+    "stem": "Assistive devices for the blind include the white cane, guide dog, braille materials, and ___ devices.",
+    "answer": "talking",
     "acceptableAnswers": [
-      "diagnosis"
+      "talking"
     ]
   },
   {
     "id": 96,
     "type": "fitb",
-    "stem": "The three types of planning in the nursing process are initial planning, ongoing planning, and ___ planning.",
-    "answer": "discharge",
+    "stem": "The 'hand-under-hand' technique is a ___ method used in teaching a blind person.",
+    "answer": "touch",
     "acceptableAnswers": [
-      "discharge"
+      "touch",
+      "tactile"
     ]
   },
   {
     "id": 97,
     "type": "fitb",
-    "stem": "The planning process involves setting priorities, establishing goals/objectives, and selecting nursing ___ and activities.",
-    "answer": "interventions",
+    "stem": "Rehabilitation of the blind aims to help the individual regain maximum physical, psychological, social, educational, and ___ independence.",
+    "answer": "economic",
     "acceptableAnswers": [
-      "interventions",
-      "intervention"
+      "economic"
     ]
   },
   {
     "id": 98,
     "type": "fitb",
-    "stem": "The three nurse roles in implementation are independent, dependent, and ___.",
-    "answer": "interdependent",
+    "stem": "Orientation and Mobility training includes the long white cane technique and the ___ guide technique.",
+    "answer": "sighted",
     "acceptableAnswers": [
-      "interdependent"
+      "sighted"
     ]
   },
   {
     "id": 99,
     "type": "fitb",
-    "stem": "Evaluation is a planned, systematic comparison of the client's health status with the goals or expected ___.",
-    "answer": "outcomes",
+    "stem": "Educational rehabilitation of the blind includes teaching reading and writing through ___.",
+    "answer": "braille",
     "acceptableAnswers": [
-      "outcomes"
+      "braille"
     ]
   },
   {
     "id": 100,
     "type": "fitb",
-    "stem": "In evaluating progress toward goal achievement, there are three possible conclusions: the goal was met, partially met, or ___ met.",
-    "answer": "not",
+    "stem": "Community-Based Rehabilitation (CBR) emphasises empowerment, equal opportunity, and social ___ of the blind person within their own community.",
+    "answer": "inclusion",
     "acceptableAnswers": [
-      "not"
+      "inclusion"
     ]
   }
 ]
