@@ -2,1127 +2,1123 @@
   {
     "id": 1,
     "type": "mcq",
-    "stem": "Primary Eye Care (PEC) is best described as which of the following?",
+    "stem": "The school health programme (SHP) is best described as which of the following?",
     "options": [
-      "The integration of essential eye health services into the general primary health care (PHC) system",
-      "A specialist tertiary service available only in teaching hospitals",
-      "A private insurance product covering only spectacles",
-      "A research programme with no direct patient-care component"
+      "A coordinated, multidisciplinary programme designed to promote, protect, and maintain the health of schoolchildren and school personnel",
+      "A single, isolated vaccination event held once per academic year",
+      "A purely administrative budgeting exercise with no health component",
+      "A programme limited strictly to dental care, excluding all other health domains"
     ],
     "answer": "A"
   },
   {
     "id": 2,
     "type": "mcq",
-    "stem": "Primary Eye Care is usually delivered by which category of health workers, with a functional referral pathway to secondary and tertiary eye units?",
+    "stem": "The Federal Republic of Nigeria (FRN, 2006) views the aim of the school health programme as extending beyond the individual to which broader level?",
     "options": [
-      "Non-specialist health workers such as community health officers, PHC nurses, and community health extension workers (CHEWs)",
-      "Consultant ophthalmologists exclusively",
-      "Pharmaceutical sales representatives exclusively",
-      "Hospital administrators exclusively"
+      "National development",
+      "Only the individual household's finances",
+      "Only the private school sector's profitability",
+      "Only the teacher's personal career advancement"
     ],
     "answer": "A"
   },
   {
     "id": 3,
     "type": "mcq",
-    "stem": "The WHO African Region package of primary eye care interventions is built around health promotion, basic treatment, prompt referral, and which other core component?",
+    "stem": "According to the Nigerian Federal Ministry of Education (2006), the school health programme is a strategic tool for achieving which set of goals, alongside Health for All (HFA)?",
     "options": [
-      "Screening/early detection",
-      "Advanced laser surgery performed by lay community volunteers",
-      "Exclusive distribution of free spectacles with no other service",
-      "Tertiary-level organ transplantation"
+      "Education for All (EFA), health-related Millennium Development Goals (MDGs), NEEDS, the Universal Basic Education Act, and goals of the National Policy on Education (NPE)",
+      "Only goals related to international trade tariffs",
+      "Only goals related to national currency stabilization",
+      "Only goals related to military defense spending"
     ],
     "answer": "A"
   },
   {
     "id": 4,
     "type": "mcq",
-    "stem": "In Nigeria, the concept of Primary Eye Care underlies the National Eye Health Policy and which global programme?",
+    "stem": "According to the EFA Framework rationale, improved health and nutrition status among students is linked to which school-related outcomes?",
     "options": [
-      "VISION 2020: The Right to Sight",
-      "The National Malaria Elimination Programme",
-      "The Expanded Programme on Immunization exclusively",
-      "The National Blood Transfusion Policy"
+      "Improved enrolment and retention, and reduced absenteeism",
+      "Reduced need for any teacher training whatsoever",
+      "Increased classroom overcrowding",
+      "Reduced need for school infrastructure maintenance"
     ],
     "answer": "A"
   },
   {
     "id": 5,
     "type": "mcq",
-    "stem": "Refractive errors such as myopia, hypermetropia, astigmatism, and presbyopia are considered the single commonest cause of visual impairment worldwide, yet remain widely uncorrected in low-resource settings for which reason?",
+    "stem": "The EFA Framework rationale also notes that health promotion for teachers benefits their health, morale, and which other outcome?",
     "options": [
-      "Poor access to refraction and optical services",
-      "Universal, complete access to free spectacles in every community",
-      "A complete absence of any demand for corrective lenses",
-      "Refractive error being untreatable with existing technology"
+      "Quality of instruction",
+      "Only their personal investment portfolio",
+      "Only their eligibility for early retirement",
+      "Only their seniority ranking within the school hierarchy"
     ],
     "answer": "A"
   },
   {
     "id": 6,
     "type": "mcq",
-    "stem": "Repeated trachoma infection scars the eyelid and causes the eyelashes to turn inward, a condition known as which of the following?",
+    "stem": "According to the EFA Framework rationale, health education is MOST effective when delivered using which approach?",
     "options": [
-      "Trichiasis",
-      "Leukocoria",
-      "Xerophthalmia",
-      "Phacomorphic glaucoma"
+      "Interactive methods in a skill-based approach",
+      "Purely passive lecture format with no learner interaction",
+      "Written memoranda distributed with no discussion",
+      "Entirely unsupervised, self-directed reading with no facilitation"
     ],
     "answer": "A"
   },
   {
     "id": 7,
     "type": "mcq",
-    "stem": "Onchocerciasis (river blindness) is transmitted by which vector, which breeds in fast-flowing rivers?",
+    "stem": "Among the reasons justifying special attention to school health programmes, school children are described as an important population segment because the nation's survival and future prosperity depend on which of the following?",
     "options": [
-      "The blackfly (Simulium)",
-      "The mosquito (Anopheles)",
-      "The housefly (Musca domestica)",
-      "The tsetse fly"
+      "This segment of the population",
+      "Only the retired population segment",
+      "Only the adult working population aged over 50",
+      "Only the segment employed in agriculture"
     ],
     "answer": "A"
   },
   {
     "id": 8,
     "type": "mcq",
-    "stem": "Vitamin A deficiency can progress to keratomalacia, which refers to which process?",
+    "stem": "Children at school age are described as constantly undergoing major physical and emotional development, which calls for which type of service?",
     "options": [
-      "Corneal melting",
-      "Thickening of the eyelid margin",
-      "Clouding of the lens",
-      "Retinal detachment"
+      "An effective and well-planned service within the school and community",
+      "No service at all, since development is assumed to occur automatically",
+      "A service limited strictly to physical education classes",
+      "A service limited strictly to examination preparation"
     ],
     "answer": "A"
   },
   {
     "id": 9,
     "type": "mcq",
-    "stem": "Retinopathy of prematurity, a congenital/genetic cause of blindness, is specifically associated with which exposure in preterm or low-birth-weight babies?",
+    "stem": "School age is described as a period when children are still amenable to new ideas, offering a unique opportunity to do what, with an influence that extends to their parents at home?",
     "options": [
-      "Uncontrolled oxygen therapy",
-      "Excessive maternal vitamin A supplementation during the third trimester",
-      "Routine antibiotic eye prophylaxis at birth",
-      "Breastfeeding exclusively for the first six months"
+      "Impart basic knowledge of disease causation and control",
+      "Impart advanced university-level coursework exclusively",
+      "Impart only vocational trade skills unrelated to health",
+      "Impart only foreign language instruction unrelated to health"
     ],
     "answer": "A"
   },
   {
     "id": 10,
     "type": "mcq",
-    "stem": "Retinoblastoma in children presents classically with which finding?",
+    "stem": "Among the AIMS of the school health programme, which statement reflects the ultimate purpose of ensuring every child is as fit as possible?",
     "options": [
-      "A white pupillary reflex, described as leukocoria or 'cat's eye reflex'",
-      "A wing-shaped growth extending onto the cornea",
-      "A red, painful eye with purulent discharge",
-      "Complete absence of the globe at birth"
+      "So that each child may obtain the maximum benefit from his or her education",
+      "So that the school can reduce its total enrolment numbers",
+      "So that the school can increase tuition fees without objection",
+      "So that the school can reduce the number of teachers employed"
     ],
     "answer": "A"
   },
   {
     "id": 11,
     "type": "mcq",
-    "stem": "In the Nigerian context, cataract is described as the single leading cause of blindness, with a large backlog of untreated cases due to which combination of factors?",
+    "stem": "According to the aims of the school health programme, why is it insufficient to simply check that no disease exists?",
     "options": [
-      "Poor awareness, cost, distance to surgical services, and fear of surgery",
-      "Universal free access to surgery with no remaining backlog",
-      "An oversupply of surgeons relative to patients needing care",
-      "A complete absence of any surgical option nationwide"
+      "Because there must be a definite programme designed to make every child acquire positive health habits and knowledge, such as personal hygiene",
+      "Because disease-checking is entirely unnecessary and should be discontinued",
+      "Because only teachers, never health workers, should be involved in health checks",
+      "Because health habits are assumed to be inherited and cannot be taught"
     ],
     "answer": "A"
   },
   {
     "id": 12,
     "type": "mcq",
-    "stem": "Glaucoma, the second leading cause of blindness in Nigeria, is sometimes called 'the silent thief of sight' because it is often which of the following?",
+    "stem": "Among the aims of the school health programme, arrangements should be made for the ascertainment and treatment of which groups of children?",
     "options": [
-      "Asymptomatic until advanced",
-      "Always accompanied by severe pain from the very first symptom",
-      "Exclusively a disease of childhood",
-      "Always visible to an observer as a white pupil"
+      "Various groups of handicapped children, such as the blind, partially sighted, deaf, physically handicapped, educationally subnormal, maladjusted, and epileptic",
+      "Only children who have already achieved perfect academic scores",
+      "Only children belonging to the wealthiest households in the community",
+      "Only children who have never experienced any illness"
     ],
     "answer": "A"
   },
   {
     "id": 13,
     "type": "mcq",
-    "stem": "According to the WHO classification of visual impairment based on presenting visual acuity in the better eye, blindness is defined as visual acuity less than 3/60, OR which alternative criterion?",
+    "stem": "Which principle of an effective school health programme addresses the child's physical, mental, emotional, social, nutritional, and environmental health together?",
     "options": [
-      "A visual field of less than 10 degrees around central fixation",
-      "A visual field of more than 90 degrees around central fixation",
-      "Any visual acuity below 6/6",
-      "Complete inability to perceive color"
+      "Comprehensive care",
+      "Accessibility",
+      "Confidentiality",
+      "Cultural appropriateness"
     ],
     "answer": "A"
   },
   {
     "id": 14,
     "type": "mcq",
-    "stem": "'Low vision' is commonly used to describe which category of visual impairment?",
+    "stem": "Which principle of school health programme places emphasis on preventing disease and promoting health, rather than concentrating only on treatment?",
     "options": [
-      "Moderate to severe visual impairment, worse than 6/18 but better than the blindness threshold, even with best correction",
-      "Total and complete loss of all light perception",
-      "Visual acuity of exactly 6/6 in both eyes",
-      "A visual field defect affecting only peripheral vision with normal central acuity"
+      "Prevention and health promotion",
+      "Child-centred care",
+      "Continuity of care",
+      "Referral and follow-up"
     ],
     "answer": "A"
   },
   {
     "id": 15,
     "type": "mcq",
-    "stem": "'Avoidable blindness' is best described as the sum of which two categories?",
+    "stem": "Which principle of school health programme requires that services be appropriate to the child's age, developmental level, abilities, and culture?",
     "options": [
-      "Preventable blindness and curable/treatable blindness",
-      "Congenital blindness and acquired blindness",
-      "Unilateral blindness and bilateral blindness",
-      "Moderate visual impairment and severe visual impairment"
+      "Child-centred care",
+      "Multidisciplinary collaboration",
+      "Family and community participation",
+      "Confidentiality"
     ],
     "answer": "A"
   },
   {
     "id": 16,
     "type": "mcq",
-    "stem": "According to the Nigeria National Blindness and Visual Impairment Survey (2005-2007), what was the estimated prevalence of blindness among adults aged 40 years and above?",
+    "stem": "Which principle of school health programme requires that services be continuous and linked with appropriate health facilities?",
     "options": [
-      "4.2%, translating to an estimated 1.13 million blind adults",
-      "0.2%, translating to fewer than 50,000 blind adults",
-      "25%, translating to over 10 million blind adults",
-      "42%, affecting nearly half the adult population"
+      "Continuity of care",
+      "Confidentiality",
+      "Child-centred care",
+      "Family and community participation"
     ],
     "answer": "A"
   },
   {
     "id": 17,
     "type": "mcq",
-    "stem": "Blindness prevalence in Nigeria was found to be highest in which geopolitical zone, which also carries the largest share of the country's blind population?",
+    "stem": "Which principle of school health programme emphasises that different professionals should work together to address the complex health needs of children?",
     "options": [
-      "The North-West geopolitical zone",
-      "The South-West geopolitical zone only",
-      "The South-South geopolitical zone only",
-      "The Federal Capital Territory exclusively"
+      "Multidisciplinary collaboration",
+      "Cultural appropriateness",
+      "Accessibility",
+      "Confidentiality"
     ],
     "answer": "A"
   },
   {
     "id": 18,
     "type": "mcq",
-    "stem": "Approximately what percentage of blindness in Nigeria is avoidable, that is, preventable or treatable, according to the national survey?",
+    "stem": "Which principle of school health programme requires that information obtained about a child's health be handled appropriately and shared only when necessary for the child's welfare?",
     "options": [
-      "Approximately 84%",
-      "Approximately 8%",
-      "Approximately 50%",
-      "Approximately 100%, with no exceptions whatsoever"
+      "Confidentiality",
+      "Accessibility",
+      "Cultural appropriateness",
+      "Multidisciplinary collaboration"
     ],
     "answer": "A"
   },
   {
     "id": 19,
     "type": "mcq",
-    "stem": "According to the national survey data cited, approximately what percentage of blindness in Nigeria is attributed to cataract, making it the single leading cause?",
+    "stem": "Which principle of school health programme requires that health interventions consider the beliefs, practices, and socioeconomic circumstances of the community?",
     "options": [
-      "Approximately 43%",
-      "Approximately 4.3%",
-      "Approximately 93%",
-      "Approximately 16.7%"
+      "Cultural appropriateness",
+      "Referral and follow-up",
+      "Comprehensive care",
+      "Continuity of care"
     ],
     "answer": "A"
   },
   {
     "id": 20,
     "type": "mcq",
-    "stem": "Which of the following is explicitly listed as a risk factor contributing to the causes of blindness in Nigeria, related to household wealth?",
+    "stem": "The Nigerian National School Health Policy (2006) identifies how many components of the school health programme?",
     "options": [
-      "Poverty, since cataract surgical coverage and spectacle wear are both lowest among the poor",
-      "High household income exceeding national averages",
-      "Urban residence with easy access to tertiary eye hospitals",
-      "Advanced postgraduate education in ophthalmology"
+      "Five",
+      "Two",
+      "Ten",
+      "Twenty"
     ],
     "answer": "A"
   },
   {
     "id": 21,
     "type": "mcq",
-    "stem": "Which of the following is listed as a leading cause specifically of CHILDHOOD blindness in Nigeria, alongside congenital cataract and congenital glaucoma?",
+    "stem": "Which of the following is explicitly listed as one of the five components of the school health programme under the Nigerian National School Health Policy (2006)?",
     "options": [
-      "Corneal scarring from vitamin A deficiency and measles",
-      "Age-related macular degeneration",
-      "Diabetic retinopathy from long-standing adult-onset diabetes",
-      "Primary open-angle glaucoma of late adulthood"
+      "Healthful School Environment",
+      "International Currency Exchange Management",
+      "Municipal Road Construction",
+      "National Defense Policy"
     ],
     "answer": "A"
   },
   {
     "id": 22,
     "type": "mcq",
-    "stem": "Which level of prevention is aimed at preventing an eye problem from occurring at all?",
+    "stem": "School health services are best described as which of the following?",
     "options": [
-      "Primary prevention",
-      "Secondary prevention",
-      "Tertiary prevention",
-      "Quaternary prevention"
+      "Preventive and curative health services provided at the school for learners and school staff, with a view to protecting, promoting, and maintaining their health",
+      "A service that exists solely to generate school revenue",
+      "A service limited strictly to annual sports day first aid",
+      "A purely theoretical concept with no operational service delivery"
     ],
     "answer": "A"
   },
   {
     "id": 23,
     "type": "mcq",
-    "stem": "Health education on eye hygiene, such as 'face-washing' to reduce trachoma transmission, falls under which level of prevention?",
+    "stem": "Although school health services comprise both preventive and curative approaches, emphasis must be placed on which of the two?",
     "options": [
-      "Primary prevention",
-      "Secondary prevention",
-      "Tertiary prevention",
-      "None of these levels, as hygiene education is unrelated to prevention"
+      "Preventive efforts, rather than curative efforts",
+      "Curative efforts exclusively, with no preventive component",
+      "Neither approach, since both are considered equally unimportant",
+      "Only curative efforts for communicable diseases, never non-communicable ones"
     ],
     "answer": "A"
   },
   {
     "id": 24,
     "type": "mcq",
-    "stem": "Instillation of prophylactic eye drops or ointment, such as tetracycline, into every newborn's eyes immediately after delivery is a primary prevention measure aimed at preventing which condition?",
+    "stem": "According to the WHO's Expert Committee on Comprehensive School Health Education and Promotion, what do children need in order to learn effectively?",
     "options": [
-      "Ophthalmia neonatorum",
-      "Retinoblastoma",
-      "Pterygium",
-      "Age-related macular degeneration"
+      "Good health",
+      "Only advanced textbooks regardless of health status",
+      "Only extended school hours regardless of health status",
+      "Only a larger teacher-to-student ratio regardless of health status"
     ],
     "answer": "A"
   },
   {
     "id": 25,
     "type": "mcq",
-    "stem": "Which primary prevention measure specifically targets onchocerciasis through vector and parasite control?",
+    "stem": "According to Ogundele (2002), the focus and emphasis of school health services includes identification of school members' health needs and which other related step?",
     "options": [
-      "Community-directed treatment with ivermectin (CDTI) and environmental control of blackfly breeding sites",
-      "Routine cataract surgery outreach camps",
-      "Genetic counselling for inherited retinal dystrophies",
-      "Provision of low-vision magnifying devices"
+      "Appropriate selection and utilization of responsive health services to meet those needs",
+      "Elimination of all health services from the school budget",
+      "Exclusive reliance on parental self-diagnosis with no professional involvement",
+      "Permanent exclusion of children with identified health needs from school"
     ],
     "answer": "A"
   },
   {
     "id": 26,
     "type": "mcq",
-    "stem": "Which level of prevention involves early detection and prompt treatment to limit progression or complications of an eye condition?",
+    "stem": "Among the focus areas of school health services per Ogundele (2002), control of communicable diseases should have which strategy at the centre of control efforts?",
     "options": [
-      "Secondary prevention",
-      "Primary prevention",
-      "Tertiary prevention",
-      "There is no such level described in the material"
+      "Prevention",
+      "Mass expulsion of affected children with no treatment",
+      "Permanent school closure at the first sign of any illness",
+      "Exclusive reliance on curative treatment with no preventive measures"
     ],
     "answer": "A"
   },
   {
     "id": 27,
     "type": "mcq",
-    "stem": "Intraocular pressure checks for adults over 40 or those with a family history of glaucoma, and regular fundus examination for diabetics and hypertensives, are examples of which level of prevention?",
+    "stem": "Besides promoting health and preventing disease, which other objective of school health services relates specifically to detection?",
     "options": [
-      "Secondary prevention, through screening of high-risk groups",
-      "Primary prevention, through health education alone",
-      "Tertiary prevention, through surgical intervention alone",
-      "A level of prevention not addressed anywhere in the material"
+      "Promote early detection of defects and diagnosis of diseases amongst all school community members",
+      "Promote delayed detection of defects until adulthood",
+      "Eliminate all diagnostic screening from the school setting",
+      "Restrict detection services exclusively to teaching staff, excluding learners"
     ],
     "answer": "A"
   },
   {
     "id": 28,
     "type": "mcq",
-    "stem": "Training primary health workers and community volunteers to recognise 'red flag' eye conditions requiring urgent referral is an example of which level of prevention?",
+    "stem": "Which of the following is explicitly listed as a service to be provided to school children, related to the school surroundings?",
     "options": [
-      "Secondary prevention",
-      "Primary prevention exclusively",
-      "Tertiary prevention exclusively",
-      "A purely administrative task unrelated to any level of prevention"
+      "Promotion of optimal sanitary conditions in the school environment",
+      "Promotion of increased classroom overcrowding",
+      "Promotion of unrestricted access to hazardous chemicals on school grounds",
+      "Promotion of unsupervised access to the school's electrical systems"
     ],
     "answer": "A"
   },
   {
     "id": 29,
     "type": "mcq",
-    "stem": "Which of the following is specifically listed as a 'red flag' eye condition requiring urgent referral?",
+    "stem": "Besides Health Appraisal and Health Observation, which other activities are listed among the components of school health services?",
     "options": [
-      "A white pupil in a child",
-      "Mild, chronic dry eye with no other symptoms",
-      "A fully corrected refractive error with normal vision",
-      "A healed, non-infected corneal scar with stable vision"
+      "Medical Health Examination and Health Screening, First Aid and Emergency Care, and Health History and Record",
+      "Only classroom decoration and bulletin board design",
+      "Only school uniform tailoring and alteration",
+      "Only inter-school sports tournament scheduling"
     ],
     "answer": "A"
   },
   {
     "id": 30,
     "type": "mcq",
-    "stem": "Case-finding and referral of cataract patients for surgery BEFORE complications such as phacomorphic glaucoma develop is an example of which level of prevention?",
+    "stem": "Health appraisal is best described as which of the following?",
     "options": [
-      "Secondary prevention",
-      "Primary prevention",
-      "A form of tertiary prevention exclusively, with no secondary component",
-      "Not a recognised prevention activity at all"
+      "That aspect of health services which concerns itself with evaluating the health of an individual objectively",
+      "A purely subjective, unstructured opinion with no evaluative component",
+      "A process limited strictly to measuring a child's shoe size",
+      "A process conducted only once in a child's entire school career"
     ],
     "answer": "A"
   },
   {
     "id": 31,
     "type": "mcq",
-    "stem": "Which level of prevention involves treatment and rehabilitation to limit disability once eye damage has already occurred?",
+    "stem": "Health observation is best described as which of the following?",
     "options": [
-      "Tertiary prevention",
-      "Primary prevention",
-      "Secondary prevention",
-      "There is no tertiary level described in the material"
+      "Consciously examining the physical and emotional health and well-being of school children to establish whether there is deviation from normal health status",
+      "A process that requires highly specialized, expensive equipment in every instance",
+      "A process that can only be performed by a radiologist",
+      "A process limited strictly to measuring blood pressure with specialized equipment"
     ],
     "answer": "A"
   },
   {
     "id": 32,
     "type": "mcq",
-    "stem": "Cataract surgery, including outreach and free surgical camps to reach the rural poor, is an example of which level of prevention?",
+    "stem": "According to the material, who can observe the health status of a child through health observation, though closer attention leading to screening may fall to trained professionals?",
     "options": [
-      "Tertiary prevention",
-      "Primary prevention exclusively",
-      "Secondary prevention exclusively",
-      "A level of prevention not mentioned in the material"
+      "Anybody, though closer screening may be the duty of trained professionals like doctors or school nurses",
+      "Only a fully licensed physician, with no role for anyone else",
+      "Only the child's parent, with no role for school staff",
+      "Only a hospital administrator, with no role for clinical staff"
     ],
     "answer": "A"
   },
   {
     "id": 33,
     "type": "mcq",
-    "stem": "Provision of low-vision services, such as magnifying devices and optical aids, for those with irreversible visual impairment falls under which level of prevention?",
+    "stem": "During periodic teacher inspection as part of health observation, which specific findings should prompt referral to the school health centre?",
     "options": [
-      "Tertiary prevention",
-      "Primary prevention",
-      "Secondary prevention",
-      "None of these levels"
+      "Discharge in the ears/eyes, squint, unusual colour of eyes, inability to see the blackboard, inability to hear or read properly, and skin rashes",
+      "A child's preference for a particular subject",
+      "A child's choice of favourite colour",
+      "A child's handwriting style"
     ],
     "answer": "A"
   },
   {
     "id": 34,
     "type": "mcq",
-    "stem": "VISION 2020: The Right to Sight is a global initiative launched in which year?",
+    "stem": "As part of health observation, teachers should measure the heights and weights of children at which point, with results sent to the school health clinic within how many hours?",
     "options": [
-      "1999",
-      "1949",
-      "2020 exactly, matching its name",
-      "2009"
+      "At the beginning of every school term, with results sent within 48 hours",
+      "Only once, at the child's final year of schooling, with no time limit for reporting",
+      "Daily, with results sent within 5 minutes",
+      "Only when a child requests it, with no defined reporting timeframe"
     ],
     "answer": "A"
   },
   {
     "id": 35,
     "type": "mcq",
-    "stem": "VISION 2020 aims to eliminate avoidable blindness through which THREE core strategies?",
+    "stem": "Medical/dental health examination and screening are conducted in which TWO forms?",
     "options": [
-      "Disease control, human resource development, and infrastructure/technology development",
-      "Taxation reform, immigration policy, and trade agreements",
-      "Military intervention, border security, and customs enforcement",
-      "Currency devaluation, interest rate control, and stock market regulation"
+      "Pre-enrolment/pre-employment stage and periodic medical examination/health screening",
+      "Only at graduation, with no earlier screening at all",
+      "Only during school holidays, with no screening during term time",
+      "Only for teaching staff, excluding all learners"
     ],
     "answer": "A"
   },
   {
     "id": 36,
     "type": "mcq",
-    "stem": "The SAFE strategy for trachoma control stands for Surgery, Antibiotics, Facial cleanliness, and which other component?",
+    "stem": "Besides school children, pre-employment medical/dental examination should also be conducted for which other members of the school community?",
     "options": [
-      "Environmental improvement",
-      "Emergency evacuation",
-      "Economic empowerment",
-      "Educational examination only, with no environmental component"
+      "All other members of the school community, including food handlers",
+      "Only the school's financial administrators",
+      "Only visiting dignitaries attending school events",
+      "Only parents attending parent-teacher meetings"
     ],
     "answer": "A"
   },
   {
     "id": 37,
     "type": "mcq",
-    "stem": "In the SAFE strategy for trachoma, the 'S' specifically refers to surgery for which complication?",
+    "stem": "Which category of personnel should conduct pre-entry medical screening, according to the implementation guideline?",
     "options": [
-      "Trichiasis",
-      "Cataract",
-      "Retinal detachment",
-      "Pterygium"
+      "Trained health personnel",
+      "Untrained volunteers with no health background",
+      "Only the school's security staff",
+      "Only the school's bursar"
     ],
     "answer": "A"
   },
   {
     "id": 38,
     "type": "mcq",
-    "stem": "Community-Directed Treatment with Ivermectin (CDTI) is specifically used to control which eye disease in endemic Nigerian communities?",
+    "stem": "Dental/oral health screening, as a preventive and appraisal measure, should be done at the school health services centre by a dentist at which interval?",
     "options": [
-      "Onchocerciasis",
-      "Trachoma",
-      "Cataract",
-      "Diabetic retinopathy"
+      "Every six months",
+      "Every ten years",
+      "Only once, at the child's birth",
+      "Only after the child has already left school"
     ],
     "answer": "A"
   },
   {
     "id": 39,
     "type": "mcq",
-    "stem": "Which of the following is explicitly listed as part of the nurse's role in the PREVENTION of blindness?",
+    "stem": "Regular de-worming exercise, as part of routine screening, should be done at which minimum interval?",
     "options": [
-      "Conducting basic visual acuity screening and recognising danger signs requiring urgent referral",
-      "Performing definitive cataract surgery independently without any referral",
-      "Prescribing systemic chemotherapy for ocular tumours without specialist input",
-      "Issuing final legal disability certifications without any multidisciplinary input"
+      "At least once every 3 months",
+      "At least once every 10 years",
+      "Only once in a child's entire lifetime",
+      "Only when a child specifically requests it"
     ],
     "answer": "A"
   },
   {
     "id": 40,
     "type": "mcq",
-    "stem": "Besides visual acuity screening, which other activity is listed as part of the nurse's role in prevention of blindness, related to newborns?",
+    "stem": "First aid and emergency care in the school setting is given for which specific purpose?",
     "options": [
-      "Administering prophylactic eye care to newborns",
-      "Performing corneal transplantation on newborns",
-      "Prescribing long-term systemic steroids to all newborns",
-      "Discharging newborns without any eye assessment whatsoever"
+      "To reduce pain and complications, and to prevent the injury from growing worse before proper medical attention is given",
+      "To replace the need for any further medical attention entirely",
+      "To delay all medical attention indefinitely",
+      "To be administered only by a fully qualified surgeon on site"
     ],
     "answer": "A"
   },
   {
     "id": 41,
     "type": "mcq",
-    "stem": "The nurse's role in prevention of blindness includes participating in which public health activities?",
+    "stem": "According to the material, who should be trained in basic first aid and emergency care skills within the school setting?",
     "options": [
-      "Mass drug administration (ivermectin) and immunisation campaigns",
-      "Setting national pharmaceutical pricing policy",
-      "Conducting independent clinical drug trials without ethical oversight",
-      "Managing the hospital's financial investment portfolio"
+      "Both staff and learners",
+      "Only the school's most senior administrator",
+      "Only learners, excluding all staff",
+      "No one, since first aid is said to require no training"
     ],
     "answer": "A"
   },
   {
     "id": 42,
     "type": "mcq",
-    "stem": "What is the PRIMARY purpose of health education for blind persons, according to the stated goals?",
+    "stem": "If a learner transfers to another school, what happens to their original health record, according to the material?",
     "options": [
-      "To help the individual understand and accept their condition, and to prepare for rehabilitation and reintegration",
-      "To permanently discourage the individual from seeking any further medical care",
-      "To isolate the individual from family and community as a protective measure",
-      "To replace all medical follow-up with health education alone"
+      "The original health record is expected to go with the learner, while the duplicate is retained by the original school",
+      "The original record is destroyed immediately upon transfer",
+      "The original record remains permanently with the original school, with no copy transferred",
+      "No health record is required to be transferred or retained under any circumstance"
     ],
     "answer": "A"
   },
   {
     "id": 43,
     "type": "mcq",
-    "stem": "A goal of health education for the blind is to prevent further deterioration of remaining vision and prevent complications in which structure, where relevant?",
+    "stem": "Which of the following is explicitly listed as content that the health record should contain?",
     "options": [
-      "The fellow/remaining eye",
-      "The unrelated contralateral limb",
-      "The unrelated auditory system exclusively",
-      "The unrelated gastrointestinal tract exclusively"
+      "Personal and family history, history of past illnesses/hospitalization, records of immunization, and records of screening tests",
+      "Only the child's favourite extracurricular activity",
+      "Only the names of the child's classmates",
+      "Only the child's examination timetable for the current term"
     ],
     "answer": "A"
   },
   {
     "id": 44,
     "type": "mcq",
-    "stem": "A goal of health education for the blind is to reduce dependency by teaching which skills?",
+    "stem": "According to the material, each entry into a student's health record must be dated and authenticated by the staff member making the entry, indicating which specific details?",
     "options": [
-      "Self-care and orientation/mobility skills",
-      "Only advanced calculus and higher mathematics",
-      "Only competitive sports techniques unrelated to daily living",
-      "Only foreign language acquisition unrelated to daily living"
+      "Name, age, and sex",
+      "Only the staff member's favourite subject to teach",
+      "Only the staff member's home address",
+      "Only the staff member's preferred mode of transportation"
     ],
     "answer": "A"
   },
   {
     "id": 45,
     "type": "mcq",
-    "stem": "A goal of health education for the blind is to correct misconceptions, stigma, and harmful cultural beliefs about blindness within which groups?",
+    "stem": "According to the material, what might happen if young people have no opportunities to obtain coping skills through health counselling?",
     "options": [
-      "The family and community",
-      "Only unrelated government regulatory bodies",
-      "Only international trade organisations",
-      "Only the individual's employer, excluding family and community"
+      "They might resort to seeking information from friends and other platforms that may not provide health-supportive solutions",
+      "They will automatically develop coping skills without any external input",
+      "They will be permanently exempted from all further schooling",
+      "They will immediately be referred to a tertiary hospital regardless of the issue"
     ],
     "answer": "A"
   },
   {
     "id": 46,
     "type": "mcq",
-    "stem": "Within the content areas of health education for the blind, a person blind from glaucoma in one eye specifically needs education on which point?",
+    "stem": "Health education, as a component of school health services, is described as entailing which of the following?",
     "options": [
-      "Protecting and monitoring the other (fellow) eye",
-      "Discontinuing all follow-up care for the affected eye permanently",
-      "Avoiding any further contact with health care providers",
-      "Ignoring any new symptoms in the unaffected eye"
+      "Empowering individuals and groups with functional knowledge required to stimulate positive attitudes needed to adopt health-promoting behaviours",
+      "Simply distributing pamphlets with no further engagement",
+      "Restricting health information exclusively to teaching staff",
+      "Replacing all curative services with education alone, eliminating treatment entirely"
     ],
     "answer": "A"
   },
   {
     "id": 47,
     "type": "mcq",
-    "stem": "Which content area of health education for the blind addresses arranging furniture and objects consistently and marking hazards such as steps and hot surfaces?",
+    "stem": "Why do communicable diseases pose MORE threat than non-communicable diseases within the school setting, according to the material?",
     "options": [
-      "Home and environmental safety",
-      "Legal rights and social welfare schemes",
-      "Sexuality and reproductive health education",
-      "Vocational assessment"
+      "Because the presence of many people in the school makes transmission possible and easy, and learners can transport disease to different communities",
+      "Because communicable diseases are the only type of disease that can ever occur in a school",
+      "Because non-communicable diseases are entirely absent from the school-age population",
+      "Because communicable diseases cannot be prevented under any circumstances"
     ],
     "answer": "A"
   },
   {
     "id": 48,
     "type": "mcq",
-    "stem": "Nutrition, as a content area of health education for the blind, is particularly emphasised when which underlying cause contributed to the blindness?",
+    "stem": "In controlling communicable diseases within the school setting, which prevention strategy is described as most preferred?",
     "options": [
-      "Nutritional deficiency, such as vitamin A deficiency",
-      "A purely traumatic cause with no nutritional component",
-      "A purely congenital cause present since birth",
-      "A purely genetic cause with no modifiable component"
+      "Primary prevention",
+      "Tertiary prevention exclusively, with no role for primary prevention",
+      "No prevention strategy at all, relying solely on treatment after illness occurs",
+      "Secondary prevention exclusively, with no role for primary prevention"
     ],
     "answer": "A"
   },
   {
     "id": 49,
     "type": "mcq",
-    "stem": "Which content area of health education for the blind includes the white cane, guide dog, braille materials, and talking devices?",
+    "stem": "The school is described as an important setting for vaccination and immunization, particularly during which circumstance?",
     "options": [
-      "Use of assistive devices",
-      "Legal rights and welfare schemes",
-      "Psychosocial adjustment",
-      "Family and caregiver education"
+      "The outbreak of a disease",
+      "Only during the final week of the academic year",
+      "Only during the school's annual sports day",
+      "Only during parent-teacher conference week"
     ],
     "answer": "A"
   },
   {
     "id": 50,
     "type": "mcq",
-    "stem": "Psychosocial adjustment, as a content area of health education for the blind, involves coping with which experiences?",
+    "stem": "Regarding supervision of food vendors in schools, which of the following should be monitored to prevent foodborne illness?",
     "options": [
-      "Grief/loss of vision, depression, anxiety, and social withdrawal",
-      "Only unrelated financial budgeting concerns",
-      "Only unrelated travel logistics",
-      "Only unrelated academic examination scheduling"
+      "Personal hygiene of food handlers, cleanliness of food preparation areas, and safe water supply",
+      "Only the price charged for food items",
+      "Only the colour scheme of the food vendor's uniform",
+      "Only the vendor's seniority within the school community"
     ],
     "answer": "A"
   },
   {
     "id": 51,
     "type": "mcq",
-    "stem": "Family and caregiver education, as a content area for the blind, includes addressing which harmful belief that fuels stigma?",
+    "stem": "Which of the following is explicitly listed among the common health problems of school-age children?",
     "options": [
-      "That blindness is a curse or punishment",
-      "That blindness can be fully corrected with simple reading glasses in every case",
-      "That blindness always resolves spontaneously within one year",
-      "That blindness is a normal and universal part of ageing requiring no support"
+      "Rheumatic heart disease",
+      "Age-related macular degeneration, which affects only the elderly",
+      "Benign prostatic hyperplasia, which affects only older men",
+      "Osteoarthritis of the hip, which affects only the elderly"
     ],
     "answer": "A"
   },
   {
     "id": 52,
     "type": "mcq",
-    "stem": "Which principle of teaching a blind person emphasises that visual demonstration is not possible, so instructions should instead be given how?",
+    "stem": "Besides rheumatic heart disease and malaria, which other condition is explicitly listed as a common health problem of school-age children, particularly relevant in some populations?",
     "options": [
-      "Through detailed, step-by-step verbal explanation",
-      "Through silent written instructions only, with no verbal component",
-      "Through brief, vague gestures with no further explanation",
-      "Through exclusively visual diagrams with no verbal component"
+      "Anaemia, especially sickle cell anaemia",
+      "Age-related cataract requiring immediate surgery in every case",
+      "Chronic obstructive pulmonary disease from decades of smoking",
+      "Benign prostatic hyperplasia"
     ],
     "answer": "A"
   },
   {
     "id": 53,
     "type": "mcq",
-    "stem": "The 'hand-under-hand' technique, used in teaching a blind person, is an example of which teaching method?",
+    "stem": "Which of the following is explicitly listed as a major responsibility of the school nurse?",
     "options": [
-      "A touch (tactile) method, guiding the person's hands to feel objects, equipment, or layouts",
-      "A purely visual demonstration method",
-      "A purely auditory method using only recorded lectures",
-      "A purely olfactory method using only scent cues"
+      "Conducting or coordinating health assessments and identifying children requiring further care",
+      "Setting the school's final examination questions",
+      "Managing the school's financial accounts exclusively",
+      "Determining the school's academic curriculum content"
     ],
     "answer": "A"
   },
   {
     "id": 54,
     "type": "mcq",
-    "stem": "When teaching a blind person, what should the nurse always do before touching the person or their environment?",
+    "stem": "The school nurse's role in 'environmental health' includes identifying environmental hazards and advocating for which of the following?",
     "options": [
-      "Announce their presence and identify themselves, and explain what they are about to do",
-      "Begin the task immediately without any verbal announcement",
-      "Wait for the patient to initiate all physical contact first in every instance",
-      "Avoid any verbal communication throughout the entire session"
+      "Safe water, sanitation, ventilation, lighting, waste disposal, and food hygiene",
+      "Increased use of untreated water sources",
+      "Reduced ventilation to conserve energy regardless of air quality",
+      "Unregulated waste disposal to reduce costs"
     ],
     "answer": "A"
   },
   {
     "id": 55,
     "type": "mcq",
-    "stem": "Teaching skills to a blind person in their own real environment, wherever possible, serves which purpose?",
+    "stem": "Which member of the school health team is specifically responsible for medical examination, diagnosis, treatment, supervision, and referral?",
     "options": [
-      "So that skills learned are directly applicable",
-      "So that the nurse can avoid any documentation of the teaching session",
-      "So that family members are excluded from the process entirely",
-      "So that the session can be shortened to less than one minute"
+      "The medical practitioner",
+      "The environmental health officer",
+      "The radiographer",
+      "The nutritionist/dietitian"
     ],
     "answer": "A"
   },
   {
     "id": 56,
     "type": "mcq",
-    "stem": "Rehabilitation of the blind is best defined as the process of helping the individual regain maximum possible independence in which domains?",
+    "stem": "Which member of the school health team provides nutritional assessment, counselling, and dietary intervention?",
     "options": [
-      "Physical, psychological, social, educational, and economic domains",
-      "Only financial domains, with no reference to physical or social function",
-      "Only religious domains, with no reference to physical or social function",
-      "Only recreational domains, with no reference to physical or social function"
+      "The nutritionist/dietitian",
+      "The radiographer",
+      "The environmental health officer",
+      "The psychologist/counsellor"
     ],
     "answer": "A"
   },
   {
     "id": 57,
     "type": "mcq",
-    "stem": "Which of the following is explicitly listed as a GOAL of rehabilitation of the blind?",
+    "stem": "Which member of the school health team assesses sanitation, water supply, food hygiene, waste disposal, and environmental hazards?",
     "options": [
-      "Restoring the individual's confidence and self-esteem",
-      "Ensuring permanent social isolation from family and community",
-      "Eliminating the need for any further medical follow-up whatsoever",
-      "Guaranteeing complete restoration of normal vision in every case"
+      "The environmental health officer",
+      "The dentist",
+      "The medical practitioner",
+      "The parent/guardian"
     ],
     "answer": "A"
   },
   {
     "id": 58,
     "type": "mcq",
-    "stem": "Medical rehabilitation of the blind includes treatment of the underlying cause where still possible. Which example is given of this?",
+    "stem": "Parents and guardians, as members of the school health team, are expected to provide relevant health information and do what else regarding decisions about the child's health?",
     "options": [
-      "Cataract surgery even after prolonged blindness, which may restore some vision",
-      "Amputation of an unrelated limb with no connection to visual function",
-      "Tonsillectomy performed regardless of any ocular indication",
-      "Appendectomy performed regardless of any ocular indication"
+      "Participate in decisions concerning the child's health",
+      "Be entirely excluded from any decision-making process",
+      "Delegate all decision-making exclusively to the school principal",
+      "Have no role whatsoever once the child is enrolled in school"
     ],
     "answer": "A"
   },
   {
     "id": 59,
     "type": "mcq",
-    "stem": "Orientation and Mobility (O&M) training, a component of functional/physical rehabilitation, teaches the blind person to move about safely using which specific technique, among others?",
+    "stem": "School administrators, teachers, and community leaders are described as being in a unique position to identify the health needs and problems of children for which reason?",
     "options": [
-      "The long white cane technique",
-      "Unassisted running in unfamiliar, obstacle-filled terrain",
-      "Riding a bicycle at high speed in dense urban traffic",
-      "Climbing unsecured ladders without any orientation training"
+      "By virtue of their proximity to the school",
+      "Because they have formal medical training exceeding that of physicians",
+      "Because they are legally required to diagnose disease independently",
+      "Because they have no connection to the children's daily environment"
     ],
     "answer": "A"
   },
   {
     "id": 60,
     "type": "mcq",
-    "stem": "Besides the white cane and guide dogs, which other orientation and mobility technique involves a family member or companion guiding the blind person correctly?",
+    "stem": "Among the prerequisites for a healthful school, what must be available at all times for emergency situations?",
     "options": [
-      "The sighted guide technique",
-      "The echo-location technique exclusively, with no human guide involved",
-      "The hand-under-hand technique, as used only in teaching, never in mobility",
-      "A technique that does not exist in the described rehabilitation framework"
+      "A first aid box",
+      "A fully equipped operating theatre",
+      "An on-site pharmacy stocked with controlled substances",
+      "A dedicated ambulance fleet owned by the school"
     ],
     "answer": "A"
   },
   {
     "id": 61,
     "type": "mcq",
-    "stem": "Educational rehabilitation of the blind includes teaching reading and writing through which specific medium?",
+    "stem": "Among the prerequisites for a healthful school, what type of support must the headmaster give to children and teachers to make school health activities successful?",
     "options": [
-      "Braille",
-      "Standard printed text with no adaptation",
-      "Sign language exclusively, with no tactile or auditory component",
-      "Lip-reading exclusively"
+      "Both financial and moral support",
+      "Only verbal encouragement with no financial commitment",
+      "Only financial support with no moral or motivational engagement",
+      "No support of any kind, since activities are expected to be self-sustaining"
     ],
     "answer": "A"
   },
   {
     "id": 62,
     "type": "mcq",
-    "stem": "Vocational rehabilitation of the blind begins with which activity, to identify suitable trades or occupations?",
+    "stem": "Which of the following is explicitly listed as an ADVANTAGE of school health programmes/services?",
     "options": [
-      "Vocational assessment",
-      "Immediate, unassessed job placement with no prior evaluation",
-      "Permanent exclusion from the workforce by default",
-      "Mandatory retirement regardless of age or ability"
+      "It helps to identify abnormalities promptly among pupils and to give immediate treatment",
+      "It guarantees elimination of all disease from the general population",
+      "It eliminates the need for any hospital services nationwide",
+      "It replaces the need for any parental involvement in a child's health"
     ],
     "answer": "A"
   },
   {
     "id": 63,
     "type": "mcq",
-    "stem": "Social/psychological rehabilitation of the blind includes support groups and peer counselling, in which blind persons who have successfully adjusted do what?",
+    "stem": "Which of the following is explicitly listed as a factor that influences the health of school children in developing countries?",
     "options": [
-      "Mentor newly blind individuals",
-      "Are excluded from any further contact with newly blind individuals",
-      "Are discouraged from discussing their own experience of blindness",
-      "Are assigned exclusively administrative, non-supportive roles"
+      "Socioeconomic factors",
+      "The international exchange rate of a completely unrelated foreign currency",
+      "The school's choice of academic calendar colour scheme",
+      "The brand of stationery used by the school administration"
     ],
     "answer": "A"
   },
   {
     "id": 64,
     "type": "mcq",
-    "stem": "What is Community-Based Rehabilitation (CBR)?",
+    "stem": "Besides genetic, environmental, and socioeconomic factors, which other factors are listed as influencing the health of school children in developing countries?",
     "options": [
-      "A strategy that uses community resources to deliver rehabilitation services closer to home, rather than relying solely on centralised institutions",
-      "A strategy that relies exclusively on centralised, specialist institutions with no community involvement",
-      "A strategy limited strictly to urban tertiary hospitals",
-      "A strategy that excludes family members from any involvement in care"
+      "Health service factors, communicable diseases, and ignorance of parents",
+      "Only factors related to international space exploration funding",
+      "Only factors related to global shipping container logistics",
+      "Only factors related to unrelated agricultural commodity futures trading"
     ],
     "answer": "A"
   },
   {
     "id": 65,
     "type": "mcq",
-    "stem": "Community-Based Rehabilitation (CBR) is described as cost-effective and sustainable, especially given which limitation in Nigeria?",
+    "stem": "Besides PTAs and grants-in-aid, which other activities are listed as sources of funds for school health programmes?",
     "options": [
-      "A limited number of specialist rehabilitation centres relative to the population in need",
-      "An oversupply of specialist rehabilitation centres with excess capacity",
-      "A complete absence of any blind population requiring rehabilitation",
-      "Unlimited government funding for centralised institutions"
+      "Prize-giving day/graduation ceremony, inter-house competitions, and quiz/debate/drama competitions",
+      "Only unrelated international arbitration settlements",
+      "Only unrelated foreign direct investment in unrelated industries",
+      "Only unrelated cryptocurrency mining operations"
     ],
     "answer": "A"
   },
   {
     "id": 66,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A primary health care nurse in a rural community organizes a 'face-washing' campaign, promotes clean water access, and refers a child with trichiasis for surgical correction, while also recognizing that this same community lies along a fast-flowing river with ongoing blackfly exposure. Which combination of prevention levels and conditions is she addressing?",
+    "stem": "CASE SCENARIO: A school nurse notices during routine teacher-reported health observation that a 9-year-old has a persistent white-reflex-free but markedly reduced ability to read the blackboard, along with a chronic discharge from one ear, and the child's growth chart shows a sudden drop in weight percentile since the last termly measurement. The nurse also recalls the child's health record shows incomplete immunization. Which combination of actions reflects the correct application of health appraisal, health observation, and record-keeping principles?",
     "options": [
-      "Primary prevention of trachoma through hygiene and water access, and secondary/tertiary intervention for existing trichiasis, while the riverine location also raises her index of suspicion for onchocerciasis",
-      "Only tertiary prevention, since all her activities involve surgical referral exclusively",
-      "Only primary prevention, since trichiasis referral has no bearing on any level of prevention",
-      "An approach irrelevant to Nigerian primary eye care, since trachoma and onchocerciasis never coexist in the same community"
+      "Refer the child promptly for visual and ENT screening at the school health centre, investigate the weight drop as a possible nutritional or communicable disease indicator, update and complete the immunization record, and ensure all findings are dated and authenticated in the child's health record",
+      "Ignore the findings since classroom teachers have no legitimate role in identifying health problems",
+      "Withhold referral until the child personally requests it, since referral services are optional for school-age children",
+      "Discard the old health record entirely rather than update it, since incomplete records cannot legally be amended"
     ],
     "answer": "A"
   },
   {
     "id": 67,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A 68-year-old man presents to a PHC facility with gradual, painless bilateral visual decline over two years, and is found to have elevated intraocular pressure with early optic nerve changes on examination, in a community where cataract surgical backlog is high due to cost and distance. Which combination of diagnosis and health-system factors BEST fits this presentation?",
+    "stem": "CASE SCENARIO: During a disease outbreak in a community, the school health team conducts mass immunization at the school, while simultaneously identifying and referring children with early signs of the illness, and the school nurse manages minor related ailments within her scope using approved standing orders, only referring severe cases to hospital. Which principle BEST explains why this layered approach helps decongest hospitals, consistent with the stated advantages of school health programmes?",
     "options": [
-      "His findings are consistent with glaucoma, the 'silent thief of sight,' which can coexist with the separately leading cause of blindness, cataract, whose backlog in this community is driven by poor awareness, cost, distance, and fear of surgery",
-      "His findings exclude any possibility of glaucoma, since glaucoma always presents with sudden, severe pain",
-      "Cataract and glaucoma can never occur in the same community, so only one diagnosis is possible",
-      "His presentation requires no further action, since gradual visual decline after age 60 is always a normal, non-pathological finding"
+      "Because immunization prevents disease, minor ailments are managed on-site, and only serious cases requiring specialist care are referred, reducing unnecessary hospital burden",
+      "Because all cases, regardless of severity, must always be referred to hospital to decongest the school clinic",
+      "Because immunization during outbreaks is never appropriate and should be deferred until the outbreak ends",
+      "Because the school nurse has no authority to manage any ailment, however minor, without physician countersignature"
     ],
     "answer": "A"
   },
   {
     "id": 68,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A nurse is teaching a newly blind adult patient, blind from untreated glaucoma in one eye with early changes now detected in the fellow eye, how to navigate his home safely and use a white cane, while also referring him for vocational assessment. Which combination of rehabilitation and health education principles BEST reflects appropriate care?",
+    "stem": "CASE SCENARIO: A rural school serves a community with low socioeconomic status, limited access to safe water, high rates of childhood anaemia including sickle cell disease, and a shortage of trained health personnel. The PTA proposes funding a school health initiative through proceeds from prize-giving day, inter-house sports, and a quiz competition, while also pushing for improved sanitation facilities as part of a healthful school environment. Which combination of factors and interventions BEST reflects the material's framework for addressing child health in developing-country school settings?",
     "options": [
-      "Health education should emphasize protecting and monitoring the fellow eye, orientation and mobility training should include the long white cane technique, and vocational rehabilitation should begin with an assessment to identify suitable trades",
-      "The fellow eye requires no monitoring, since the patient is already blind in one eye",
-      "White cane training is unnecessary once a patient has been referred for vocational assessment",
-      "Vocational assessment should be skipped entirely in favor of immediate, unassessed job placement"
+      "Socioeconomic status, health service availability, and environmental conditions are recognised influencing factors, and community-generated funding alongside environmental improvements (sanitation, safe water) are appropriate, complementary responses",
+      "Socioeconomic and environmental factors have no documented relationship to school children's health in developing countries",
+      "PTA fundraising activities are explicitly prohibited as a source of funds for school health programmes",
+      "Sanitation and water supply are unrelated to the scope of a healthful school environment and should not be prioritised by the PTA"
     ],
     "answer": "A"
   },
   {
     "id": 69,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A community health extension worker (CHEW) identifies a child with a white pupillary reflex during a routine vision screening at a rural school. Which immediate action and underlying concern BEST reflect appropriate recognition of this 'red flag' finding?",
+    "stem": "CASE SCENARIO: A newly blind adolescent who lost his sight following untreated severe trachoma with trichiasis is enrolled in a community-based rehabilitation programme, where he receives health counselling for emotional adjustment, his family is educated on avoiding both overprotection and neglect, and he is later referred for vocational assessment, while health education sessions emphasize hygiene and early care-seeking to protect other children in the school from similar outcomes. Which combination of school health service components is illustrated here?",
     "options": [
-      "Urgent referral to a secondary/tertiary eye facility, given that leukocoria (white pupillary reflex) is classically associated with retinoblastoma, a tumour requiring prompt specialist evaluation",
-      "Reassurance and discharge with no further action, since a white pupillary reflex in a child is always a normal variant",
-      "A recommendation for corrective spectacles alone, since white pupillary reflex is always due to simple refractive error",
-      "A diagnosis of trachoma, since trichiasis is the only condition associated with abnormal pupil appearance"
+      "Health counselling, referral services, and health education are being used together to address an individual's rehabilitation needs while also preventing similar outcomes in other learners",
+      "Only health education is relevant here, since counselling and referral are not recognised components of school health services",
+      "Rehabilitation and vocational assessment fall entirely outside the scope of any school health service component",
+      "Family education about overprotection and neglect is unrelated to any principle of school health service delivery"
     ],
     "answer": "A"
   },
   {
     "id": 70,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A blind woman and her family attend a community-based rehabilitation (CBR) program where she receives counselling for grief and social withdrawal, her family is educated to avoid both overprotection and neglect, and local community health workers coordinate her care instead of referring her to a distant centralised institution. Which rehabilitation approach and its rationale BEST fit this scenario?",
+    "stem": "CASE SCENARIO: A school food vendor is found by the environmental health officer to have poor personal hygiene and is preparing food near an unsafe water source, while several children have recently presented with gastrointestinal symptoms. The school nurse coordinates with the environmental health officer, the medical practitioner, and the teacher to address the situation, applying the principle that communicable disease control in schools should prioritise one particular level of prevention. Which combination of actions and principle BEST reflects appropriate multidisciplinary response?",
     "options": [
-      "Community-Based Rehabilitation, which uses community resources to deliver services closer to home and is considered cost-effective and sustainable given Nigeria's limited number of specialist rehabilitation centres relative to population need",
-      "Exclusively medical rehabilitation, since counselling and family education are not recognised components of any rehabilitation framework",
-      "An inappropriate approach, since all rehabilitation should occur only in centralised, specialist institutions regardless of distance or cost",
-      "Vocational rehabilitation exclusively, since family education and counselling are unrelated to any form of rehabilitation"
+      "The vendor's hygiene and water source are corrected per public health regulations, affected children are assessed and treated, and primary prevention (hygiene, safe water, supervision) is prioritised going forward, coordinated through the multidisciplinary school health team",
+      "The vendor should continue operating unchanged, since food vendor supervision is outside the scope of school health services",
+      "Only curative treatment of affected children is appropriate, with no attention to the vendor's hygiene or water source",
+      "Multidisciplinary collaboration is unnecessary, since environmental health officers have no legitimate role in food vendor supervision"
     ],
     "answer": "A"
   },
   {
     "id": 71,
     "type": "fitb",
-    "stem": "Primary Eye Care is the integration of essential eye health services into the general ___ system.",
-    "answer": "primary health care",
+    "stem": "The school health programme combines health education, health services, environmental health measures, nutrition, safety, disease prevention, and community ___.",
+    "answer": "participation",
     "acceptableAnswers": [
-      "primary health care",
-      "PHC",
-      "primary healthcare"
+      "participation"
     ]
   },
   {
     "id": 72,
     "type": "fitb",
-    "stem": "Trachoma is caused by ___, and is spread by flies and poor hygiene.",
-    "answer": "Chlamydia trachomatis",
+    "stem": "The Nigerian National School Health Policy (2006) identifies ___ components of the school health programme.",
+    "answer": "five",
     "acceptableAnswers": [
-      "Chlamydia trachomatis",
-      "chlamydia trachomatis"
+      "five",
+      "5"
     ]
   },
   {
     "id": 73,
     "type": "fitb",
-    "stem": "The inward-turning of the eyelashes caused by repeated trachoma infection is called ___.",
-    "answer": "trichiasis",
+    "stem": "School health services should place emphasis on ___ rather than curative efforts.",
+    "answer": "prevention",
     "acceptableAnswers": [
-      "trichiasis"
+      "prevention",
+      "preventive",
+      "preventive efforts"
     ]
   },
   {
     "id": 74,
     "type": "fitb",
-    "stem": "Onchocerciasis is caused by the filarial worm ___ and is transmitted by the blackfly.",
-    "answer": "Onchocerca volvulus",
+    "stem": "According to the WHO's Expert Committee, to learn effectively, children need good ___.",
+    "answer": "health",
     "acceptableAnswers": [
-      "Onchocerca volvulus",
-      "onchocerca volvulus"
+      "health"
     ]
   },
   {
     "id": 75,
     "type": "fitb",
-    "stem": "Severe vitamin A deficiency can cause corneal melting, known as ___.",
-    "answer": "keratomalacia",
+    "stem": "The main objective of health appraisal is early detection of identifiable physical, medical, and ___ defects.",
+    "answer": "mental",
     "acceptableAnswers": [
-      "keratomalacia"
+      "mental"
     ]
   },
   {
     "id": 76,
     "type": "fitb",
-    "stem": "Retinoblastoma in children presents classically with a white pupillary reflex, described as ___.",
-    "answer": "leukocoria",
+    "stem": "Health observation involves consciously examining the physical and ___ health and well-being of school children.",
+    "answer": "emotional",
     "acceptableAnswers": [
-      "leukocoria",
-      "leucocoria"
+      "emotional"
     ]
   },
   {
     "id": 77,
     "type": "fitb",
-    "stem": "Glaucoma is sometimes called 'the ___ thief of sight' because it is often asymptomatic until advanced.",
-    "answer": "silent",
+    "stem": "Teachers should measure the heights and weights of children at the beginning of every school ___.",
+    "answer": "term",
     "acceptableAnswers": [
-      "silent"
+      "term"
     ]
   },
   {
     "id": 78,
     "type": "fitb",
-    "stem": "According to the WHO classification, blindness is defined as visual acuity of less than ___ in the better eye.",
-    "answer": "3/60",
+    "stem": "Results of height and weight measurements must be sent to the school health clinic within ___ hours.",
+    "answer": "48",
     "acceptableAnswers": [
-      "3/60"
+      "48"
     ]
   },
   {
     "id": 79,
     "type": "fitb",
-    "stem": "Avoidable blindness is the sum of preventable blindness and ___ blindness.",
-    "answer": "curable/treatable",
+    "stem": "Medical/dental examination and screening are done in two forms: pre-enrolment/pre-employment and ___ screening.",
+    "answer": "periodic",
     "acceptableAnswers": [
-      "curable/treatable",
-      "curable",
-      "treatable",
-      "curable or treatable"
+      "periodic",
+      "routine"
     ]
   },
   {
     "id": 80,
     "type": "fitb",
-    "stem": "The Nigeria National Blindness and Visual Impairment Survey was conducted over the period ___ to ___.",
-    "answer": "2005; 2007",
+    "stem": "Dental/oral health screening should be done at the school health services centre by a dentist every ___ months.",
+    "answer": "six",
     "acceptableAnswers": [
-      "2005; 2007"
+      "six",
+      "6"
     ]
   },
   {
     "id": 81,
     "type": "fitb",
-    "stem": "Blindness prevalence in Nigeria was found to be highest in the ___ geopolitical zone.",
-    "answer": "North-West",
+    "stem": "Regular de-worming exercise should be done at least once every ___ months.",
+    "answer": "3",
     "acceptableAnswers": [
-      "North-West",
-      "North West",
-      "northwest"
+      "3",
+      "three"
     ]
   },
   {
     "id": 82,
     "type": "fitb",
-    "stem": "Approximately ___ percent of blindness in Nigeria is avoidable, that is, preventable or treatable.",
-    "answer": "84",
+    "stem": "___ supplementation is given as an example of food supplementation under routine screening activities.",
+    "answer": "Vitamin A",
     "acceptableAnswers": [
-      "84",
-      "84%"
+      "Vitamin A",
+      "vitamin A"
     ]
   },
   {
     "id": 83,
     "type": "fitb",
-    "stem": "___ is the single leading cause of blindness in Nigeria, accounting for approximately 43% of cases.",
-    "answer": "Cataract",
+    "stem": "If a learner transfers to another school, the original health record goes with the learner while the ___ is retained by the original school.",
+    "answer": "duplicate",
     "acceptableAnswers": [
-      "Cataract",
-      "cataract"
+      "duplicate"
     ]
   },
   {
     "id": 84,
     "type": "fitb",
-    "stem": "There are three levels of prevention of blindness: primary, ___, and tertiary.",
-    "answer": "secondary",
+    "stem": "Each entry into a student's health record must be dated and authenticated by the staff member, indicating name, age, and ___.",
+    "answer": "sex",
     "acceptableAnswers": [
-      "secondary"
+      "sex"
     ]
   },
   {
     "id": 85,
     "type": "fitb",
-    "stem": "'Face-washing' to reduce trachoma transmission is an example of ___ prevention.",
+    "stem": "Health counselling helps reduce the likelihood of depression and other mental health ___.",
+    "answer": "problems",
+    "acceptableAnswers": [
+      "problems"
+    ]
+  },
+  {
+    "id": 86,
+    "type": "fitb",
+    "stem": "Health education entails empowering individuals and groups with functional ___ to stimulate positive attitudes.",
+    "answer": "knowledge",
+    "acceptableAnswers": [
+      "knowledge"
+    ]
+  },
+  {
+    "id": 87,
+    "type": "fitb",
+    "stem": "Every health worker must understand the point at which their ___ stops and must never attempt to handle cases beyond their scope.",
+    "answer": "expertise",
+    "acceptableAnswers": [
+      "expertise"
+    ]
+  },
+  {
+    "id": 88,
+    "type": "fitb",
+    "stem": "In controlling communicable diseases in the school setting, ___ prevention is the most preferred strategy.",
     "answer": "primary",
     "acceptableAnswers": [
       "primary"
     ]
   },
   {
-    "id": 86,
-    "type": "fitb",
-    "stem": "Prophylactic eye drops or ointment, such as tetracycline, are instilled into every newborn's eyes to prevent ___.",
-    "answer": "ophthalmia neonatorum",
-    "acceptableAnswers": [
-      "ophthalmia neonatorum"
-    ]
-  },
-  {
-    "id": 87,
-    "type": "fitb",
-    "stem": "Onchocerciasis in Nigeria is controlled through community-directed treatment with ___.",
-    "answer": "ivermectin",
-    "acceptableAnswers": [
-      "ivermectin"
-    ]
-  },
-  {
-    "id": 88,
-    "type": "fitb",
-    "stem": "Vision screening in schools, communities, and at PHC facilities to detect refractive errors early is an example of ___ prevention.",
-    "answer": "secondary",
-    "acceptableAnswers": [
-      "secondary"
-    ]
-  },
-  {
     "id": 89,
     "type": "fitb",
-    "stem": "Cataract surgery, including outreach and free surgical camps, is an example of ___ prevention.",
-    "answer": "tertiary",
+    "stem": "Immunization stimulates the body's defense mechanisms to build ___ against a particular disease-causing organism.",
+    "answer": "antibodies",
     "acceptableAnswers": [
-      "tertiary"
+      "antibodies",
+      "anti-bodies"
     ]
   },
   {
     "id": 90,
     "type": "fitb",
-    "stem": "VISION 2020: The Right to Sight was launched in the year ___.",
-    "answer": "1999",
+    "stem": "Food handlers with signs of communicable illness should be managed according to public health ___.",
+    "answer": "regulations",
     "acceptableAnswers": [
-      "1999"
+      "regulations"
     ]
   },
   {
     "id": 91,
     "type": "fitb",
-    "stem": "VISION 2020 aims to eliminate avoidable blindness through three core strategies: disease control, human resource development, and ___ development.",
-    "answer": "infrastructure/technology",
+    "stem": "___ heart disease is explicitly listed as a common health problem of school-age children.",
+    "answer": "Rheumatic",
     "acceptableAnswers": [
-      "infrastructure/technology",
-      "infrastructure and technology",
-      "infrastructure"
+      "Rheumatic",
+      "rheumatic"
     ]
   },
   {
     "id": 92,
     "type": "fitb",
-    "stem": "The SAFE strategy for trachoma control stands for Surgery, Antibiotics, Facial cleanliness, and ___ improvement.",
-    "answer": "Environmental",
+    "stem": "Anaemia, especially ___ cell anaemia, is listed as a common health problem of school-age children.",
+    "answer": "sickle",
     "acceptableAnswers": [
-      "Environmental",
-      "environmental"
+      "sickle"
     ]
   },
   {
     "id": 93,
     "type": "fitb",
-    "stem": "A key goal of health education for the blind is to help the individual understand and ___ their condition.",
-    "answer": "accept",
+    "stem": "The school nurse's management of minor ailments is limited to first-line care within professional scope and approved standing ___.",
+    "answer": "orders",
     "acceptableAnswers": [
-      "accept"
+      "orders"
     ]
   },
   {
     "id": 94,
     "type": "fitb",
-    "stem": "A goal of health education for the blind is to reduce ___ by teaching self-care and orientation/mobility skills.",
-    "answer": "dependency",
+    "stem": "The medical practitioner on the school health team is responsible for medical examination, diagnosis, treatment, supervision, and ___.",
+    "answer": "referral",
     "acceptableAnswers": [
-      "dependency"
+      "referral"
     ]
   },
   {
     "id": 95,
     "type": "fitb",
-    "stem": "Assistive devices for the blind include the white cane, guide dog, braille materials, and ___ devices.",
-    "answer": "talking",
+    "stem": "The ___ assesses sanitation, water supply, food hygiene, waste disposal, and environmental hazards on the school health team.",
+    "answer": "environmental health officer",
     "acceptableAnswers": [
-      "talking"
+      "environmental health officer",
+      "environmental health officer"
     ]
   },
   {
     "id": 96,
     "type": "fitb",
-    "stem": "The 'hand-under-hand' technique is a ___ method used in teaching a blind person.",
-    "answer": "touch",
+    "stem": "School administrators and community leaders are in a unique position to identify children's health needs due to their ___ to the school.",
+    "answer": "proximity",
     "acceptableAnswers": [
-      "touch",
-      "tactile"
+      "proximity"
     ]
   },
   {
     "id": 97,
     "type": "fitb",
-    "stem": "Rehabilitation of the blind aims to help the individual regain maximum physical, psychological, social, educational, and ___ independence.",
-    "answer": "economic",
+    "stem": "Among the prerequisites for a healthful school, a ___ box must be available at all times for emergency situations.",
+    "answer": "first aid",
     "acceptableAnswers": [
-      "economic"
+      "first aid"
     ]
   },
   {
     "id": 98,
     "type": "fitb",
-    "stem": "Orientation and Mobility training includes the long white cane technique and the ___ guide technique.",
-    "answer": "sighted",
+    "stem": "One advantage of the school health programme is that it helps to checkmate the ___ of infections among school children.",
+    "answer": "spread",
     "acceptableAnswers": [
-      "sighted"
+      "spread"
     ]
   },
   {
     "id": 99,
     "type": "fitb",
-    "stem": "Educational rehabilitation of the blind includes teaching reading and writing through ___.",
-    "answer": "braille",
+    "stem": "Factors that influence the health of school children in developing countries include genetic, environmental, socioeconomic, and health ___ factors.",
+    "answer": "service",
     "acceptableAnswers": [
-      "braille"
+      "service"
     ]
   },
   {
     "id": 100,
     "type": "fitb",
-    "stem": "Community-Based Rehabilitation (CBR) emphasises empowerment, equal opportunity, and social ___ of the blind person within their own community.",
-    "answer": "inclusion",
+    "stem": "Parent-Teacher Associations, grant in aid, and ___ competitions are listed as sources of funds for school health programmes.",
+    "answer": "quiz, debate and drama",
     "acceptableAnswers": [
-      "inclusion"
+      "quiz, debate and drama",
+      "quiz/debate/drama",
+      "quiz, debate, drama"
     ]
   }
 ]
