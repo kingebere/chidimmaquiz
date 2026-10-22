@@ -2,942 +2,847 @@
   {
     "id": 1,
     "type": "mcq",
-    "stem": "The school health programme (SHP) is best described as which of the following?",
+    "stem": "Global health is intrinsically linked to which Sustainable Development Goal that focuses on ensuring healthy lives and promoting well-being for all at all ages?",
     "options": [
-      "A coordinated, multidisciplinary programme designed to promote, protect, and maintain the health of schoolchildren and school personnel",
-      "A single, isolated vaccination event held once per academic year",
-      "A purely administrative budgeting exercise with no health component",
-      "A programme limited strictly to dental care, excluding all other health domains"
+      "SDG 3",
+      "SDG 10",
+      "SDG 14",
+      "SDG 17"
     ],
     "answer": "A"
   },
   {
     "id": 2,
     "type": "mcq",
-    "stem": "The Federal Republic of Nigeria (FRN, 2006) views the aim of the school health programme as extending beyond the individual to which broader level?",
+    "stem": "Under the 'Reduce preventable deaths' key aim of SDG 3, which outcome is specifically targeted?",
     "options": [
-      "National development",
-      "Only the individual household's finances",
-      "Only the private school sector's profitability",
-      "Only the teacher's personal career advancement"
+      "Ending preventable deaths of newborns and reducing the global maternal mortality ratio",
+      "Eliminating all deaths from natural causes in elderly populations",
+      "Reducing deaths exclusively from occupational workplace injuries",
+      "Eliminating all deaths related to non-communicable disease only"
     ],
     "answer": "A"
   },
   {
     "id": 3,
     "type": "mcq",
-    "stem": "According to the Nigerian Federal Ministry of Education (2006), the school health programme is a strategic tool for achieving which set of goals, alongside Health for All (HFA)?",
+    "stem": "According to the material, how is health described in relation to overall sustainable development and a precondition for it?",
     "options": [
-      "Education for All (EFA), health-related Millennium Development Goals (MDGs), NEEDS, the Universal Basic Education Act, and goals of the National Policy on Education (NPE)",
-      "Only goals related to international trade tariffs",
-      "Only goals related to national currency stabilization",
-      "Only goals related to military defense spending"
+      "Health is essential for people to thrive, participate in education, and engage in economic activities, all vital for sustainable development",
+      "Health is described as unrelated to educational or economic participation",
+      "Health is described as relevant only to the elderly population",
+      "Health is described as a purely private matter with no bearing on national development"
     ],
     "answer": "A"
   },
   {
     "id": 4,
     "type": "mcq",
-    "stem": "According to the EFA Framework rationale, improved health and nutrition status among students is linked to which school-related outcomes?",
+    "stem": "Which organizations are cited as providing indicators and data to track progress on health-related SDG goals within the 2030 Agenda?",
     "options": [
-      "Improved enrolment and retention, and reduced absenteeism",
-      "Reduced need for any teacher training whatsoever",
-      "Increased classroom overcrowding",
-      "Reduced need for school infrastructure maintenance"
+      "The World Bank and other organizations",
+      "Only private commercial banks with no public health mandate",
+      "Only national ministries of finance, excluding health-focused bodies",
+      "Only university alumni associations"
     ],
     "answer": "A"
   },
   {
     "id": 5,
     "type": "mcq",
-    "stem": "The EFA Framework rationale also notes that health promotion for teachers benefits their health, morale, and which other outcome?",
+    "stem": "Which UN agency is described as focused on providing humanitarian and developmental aid to children and mothers?",
     "options": [
-      "Quality of instruction",
-      "Only their personal investment portfolio",
-      "Only their eligibility for early retirement",
-      "Only their seniority ranking within the school hierarchy"
+      "United Nations Children's Emergency Fund (UNICEF)",
+      "Joint United Nations Programme on HIV/AIDS (UNAIDS)",
+      "World Food Programme (WFP)",
+      "Pan American Health Organization (PAHO)"
     ],
     "answer": "A"
   },
   {
     "id": 6,
     "type": "mcq",
-    "stem": "According to the EFA Framework rationale, health education is MOST effective when delivered using which approach?",
+    "stem": "Which organization is described specifically as the WHO regional office for the Americas?",
     "options": [
-      "Interactive methods in a skill-based approach",
-      "Purely passive lecture format with no learner interaction",
-      "Written memoranda distributed with no discussion",
-      "Entirely unsupervised, self-directed reading with no facilitation"
+      "Pan American Health Organization (PAHO)",
+      "World Food Programme (WFP)",
+      "UNAIDS",
+      "UNICEF"
     ],
     "answer": "A"
   },
   {
     "id": 7,
     "type": "mcq",
-    "stem": "Among the reasons justifying special attention to school health programmes, school children are described as an important population segment because the nation's survival and future prosperity depend on which of the following?",
+    "stem": "Which organization is described as a global network of humanitarian organizations that provides emergency relief and health services?",
     "options": [
-      "This segment of the population",
-      "Only the retired population segment",
-      "Only the adult working population aged over 50",
-      "Only the segment employed in agriculture"
+      "International Federation of Red Cross and Red Crescent Societies (IFRC)",
+      "World Food Programme (WFP)",
+      "UNAIDS",
+      "Pan American Health Organization (PAHO)"
     ],
     "answer": "A"
   },
   {
     "id": 8,
     "type": "mcq",
-    "stem": "Children at school age are described as constantly undergoing major physical and emotional development, which calls for which type of service?",
+    "stem": "Which term describes organizations facilitating the sharing of scientific knowledge, best practices, and resources among countries and partners to improve health systems?",
     "options": [
-      "An effective and well-planned service within the school and community",
-      "No service at all, since development is assumed to occur automatically",
-      "A service limited strictly to physical education classes",
-      "A service limited strictly to examination preparation"
+      "Knowledge and resource sharing",
+      "Resource hoarding",
+      "Exclusive proprietary data retention",
+      "Unilateral embargo on medical information"
     ],
     "answer": "A"
   },
   {
     "id": 9,
     "type": "mcq",
-    "stem": "School age is described as a period when children are still amenable to new ideas, offering a unique opportunity to do what, with an influence that extends to their parents at home?",
+    "stem": "Global collaboration in health extends to partnerships with national governments, NGOs, academic institutions, and which other type of entity, exemplified by WHO collaborating centers?",
     "options": [
-      "Impart basic knowledge of disease causation and control",
-      "Impart advanced university-level coursework exclusively",
-      "Impart only vocational trade skills unrelated to health",
-      "Impart only foreign language instruction unrelated to health"
+      "Other UN agencies",
+      "Exclusively private for-profit retail corporations unrelated to health",
+      "Exclusively foreign military commands",
+      "Exclusively national lottery commissions"
     ],
     "answer": "A"
   },
   {
     "id": 10,
     "type": "mcq",
-    "stem": "Among the AIMS of the school health programme, which statement reflects the ultimate purpose of ensuring every child is as fit as possible?",
+    "stem": "The One Health Joint Plan of Action is described as a collaborative effort involving which group of organizations to mainstream and operationalize the One Health approach at global, regional, and national levels?",
     "options": [
-      "So that each child may obtain the maximum benefit from his or her education",
-      "So that the school can reduce its total enrolment numbers",
-      "So that the school can increase tuition fees without objection",
-      "So that the school can reduce the number of teachers employed"
+      "FAO, OIE, UNEP, and WHO",
+      "Only a single national ministry of agriculture",
+      "Only a regional trade bloc secretariat",
+      "Only a private veterinary pharmaceutical company"
     ],
     "answer": "A"
   },
   {
     "id": 11,
     "type": "mcq",
-    "stem": "According to the aims of the school health programme, why is it insufficient to simply check that no disease exists?",
+    "stem": "The UN's collaboration with NGOs on data-driven decision making combines the UN's emphasis on data with which NGO strength, to create more effective health strategies?",
     "options": [
-      "Because there must be a definite programme designed to make every child acquire positive health habits and knowledge, such as personal hygiene",
-      "Because disease-checking is entirely unnecessary and should be discontinued",
-      "Because only teachers, never health workers, should be involved in health checks",
-      "Because health habits are assumed to be inherited and cannot be taught"
+      "Grassroots community knowledge",
+      "Exclusive access to classified military intelligence",
+      "Control over international currency exchange rates",
+      "Monopoly over global shipping logistics"
     ],
     "answer": "A"
   },
   {
     "id": 12,
     "type": "mcq",
-    "stem": "Among the aims of the school health programme, arrangements should be made for the ascertainment and treatment of which groups of children?",
+    "stem": "Port Health Authorities are mandated by which international instrument to prevent the international spread of infectious diseases and other public health threats?",
     "options": [
-      "Various groups of handicapped children, such as the blind, partially sighted, deaf, physically handicapped, educationally subnormal, maladjusted, and epileptic",
-      "Only children who have already achieved perfect academic scores",
-      "Only children belonging to the wealthiest households in the community",
-      "Only children who have never experienced any illness"
+      "The International Health Regulations (IHR)",
+      "A purely domestic municipal bylaw with no international basis",
+      "A private insurance company's internal policy manual",
+      "An unratified draft treaty with no legal force"
     ],
     "answer": "A"
   },
   {
     "id": 13,
     "type": "mcq",
-    "stem": "Which principle of an effective school health programme addresses the child's physical, mental, emotional, social, nutritional, and environmental health together?",
+    "stem": "Among the functions of Port Health Authorities, 'Surveillance' refers to which activity?",
     "options": [
-      "Comprehensive care",
-      "Accessibility",
-      "Confidentiality",
-      "Cultural appropriateness"
+      "Monitoring for potential public health threats, including infectious diseases",
+      "Monitoring foreign exchange rate fluctuations",
+      "Monitoring airline ticket pricing",
+      "Monitoring passenger luggage for undeclared retail goods only"
     ],
     "answer": "A"
   },
   {
     "id": 14,
     "type": "mcq",
-    "stem": "Which principle of school health programme places emphasis on preventing disease and promoting health, rather than concentrating only on treatment?",
+    "stem": "Among the functions of Port Health Authorities, 'Environmental Health' includes managing sanitation, waste disposal, and other environmental concerns at points of entry, alongside which health services?",
     "options": [
-      "Prevention and health promotion",
-      "Child-centred care",
-      "Continuity of care",
-      "Referral and follow-up"
+      "Pre-travel health vaccinations and maintaining quarantine facilities",
+      "Airport retail licensing",
+      "Currency exchange kiosk regulation",
+      "Airline baggage handling logistics"
     ],
     "answer": "A"
   },
   {
     "id": 15,
     "type": "mcq",
-    "stem": "Which principle of school health programme requires that services be appropriate to the child's age, developmental level, abilities, and culture?",
+    "stem": "As global life expectancy has increased significantly, leading to a larger proportion of older adults in the population, this trend is referred to as which of the following?",
     "options": [
-      "Child-centred care",
-      "Multidisciplinary collaboration",
-      "Family and community participation",
-      "Confidentiality"
+      "Population aging",
+      "Population contraction",
+      "Youth demographic bulge",
+      "Zero population growth"
     ],
     "answer": "A"
   },
   {
     "id": 16,
     "type": "mcq",
-    "stem": "Which principle of school health programme requires that services be continuous and linked with appropriate health facilities?",
+    "stem": "Regarding the epidemiological shift, while still a concern in many regions, which category of disease is no longer the primary cause of death and illness in many parts of the world?",
     "options": [
-      "Continuity of care",
-      "Confidentiality",
-      "Child-centred care",
-      "Family and community participation"
+      "Infectious diseases",
+      "Chronic noncommunicable diseases uniformly worldwide",
+      "Diseases related to population aging exclusively",
+      "Diseases with no identifiable epidemiological pattern"
     ],
     "answer": "A"
   },
   {
     "id": 17,
     "type": "mcq",
-    "stem": "Which principle of school health programme emphasises that different professionals should work together to address the complex health needs of children?",
+    "stem": "The epidemiological and demographic transition is described as complex, dynamic, and varying across societies, influenced by which combination of factors?",
     "options": [
-      "Multidisciplinary collaboration",
-      "Cultural appropriateness",
-      "Accessibility",
-      "Confidentiality"
+      "Socioeconomic, cultural, environmental, and technological changes",
+      "Only astronomical and planetary factors",
+      "Only factors related to international sports competition schedules",
+      "Only factors related to global postal service logistics"
     ],
     "answer": "A"
   },
   {
     "id": 18,
     "type": "mcq",
-    "stem": "Which principle of school health programme requires that information obtained about a child's health be handled appropriately and shared only when necessary for the child's welfare?",
+    "stem": "Maternal, Newborn, and Child Health (MNCH) is a critical area of global health focusing on the well-being of women and children through which life period?",
     "options": [
-      "Confidentiality",
-      "Accessibility",
-      "Cultural appropriateness",
-      "Multidisciplinary collaboration"
+      "Pregnancy through childhood",
+      "Only the first 24 hours after birth, excluding all subsequent periods",
+      "Only adolescence, excluding earlier life stages",
+      "Only adulthood, excluding pregnancy and childhood entirely"
     ],
     "answer": "A"
   },
   {
     "id": 19,
     "type": "mcq",
-    "stem": "Which principle of school health programme requires that health interventions consider the beliefs, practices, and socioeconomic circumstances of the community?",
+    "stem": "Under 'Preventable Mortality' in MNCH, a substantial number of maternal and newborn deaths occur each year, often due to complications during which periods?",
     "options": [
-      "Cultural appropriateness",
-      "Referral and follow-up",
-      "Comprehensive care",
-      "Continuity of care"
+      "Pregnancy, childbirth, or the first month of life",
+      "Only during adolescence, excluding pregnancy and childbirth",
+      "Only after the child reaches school age",
+      "Only during menopause"
     ],
     "answer": "A"
   },
   {
     "id": 20,
     "type": "mcq",
-    "stem": "The Nigerian National School Health Policy (2006) identifies how many components of the school health programme?",
+    "stem": "Regarding 'Quality of Care' in MNCH, the WHO has emphasized the importance of quality care for women and children, including access to skilled healthcare professionals, essential medicines, and which other resource?",
     "options": [
-      "Five",
-      "Two",
-      "Ten",
-      "Twenty"
+      "Adequate infrastructure",
+      "Unlimited elective cosmetic procedures",
+      "Exclusive access to experimental, unregulated therapies",
+      "Mandatory home birth with no facility-based option"
     ],
     "answer": "A"
   },
   {
     "id": 21,
     "type": "mcq",
-    "stem": "Which of the following is explicitly listed as one of the five components of the school health programme under the Nigerian National School Health Policy (2006)?",
+    "stem": "MNCH is directly linked to several SDGs, including those focused on reducing maternal and child mortality, improving access to reproductive health, and ensuring which other broad goal?",
     "options": [
-      "Healthful School Environment",
-      "International Currency Exchange Management",
-      "Municipal Road Construction",
-      "National Defense Policy"
+      "Universal health coverage",
+      "Universal access to luxury consumer goods",
+      "Universal elimination of all taxation",
+      "Universal standardization of academic curricula"
     ],
     "answer": "A"
   },
   {
     "id": 22,
     "type": "mcq",
-    "stem": "School health services are best described as which of the following?",
+    "stem": "Regarding 'Data and Measurement' in MNCH, accurate and timely data on maternal and newborn health indicators are crucial for which purposes?",
     "options": [
-      "Preventive and curative health services provided at the school for learners and school staff, with a view to protecting, promoting, and maintaining their health",
-      "A service that exists solely to generate school revenue",
-      "A service limited strictly to annual sports day first aid",
-      "A purely theoretical concept with no operational service delivery"
+      "Monitoring progress, identifying challenges, and informing interventions",
+      "Determining national sports rankings",
+      "Setting international currency exchange rates",
+      "Allocating broadcast rights for international media events"
     ],
     "answer": "A"
   },
   {
     "id": 23,
     "type": "mcq",
-    "stem": "Although school health services comprise both preventive and curative approaches, emphasis must be placed on which of the two?",
+    "stem": "Which of the following is explicitly listed as a specific MNCH intervention example?",
     "options": [
-      "Preventive efforts, rather than curative efforts",
-      "Curative efforts exclusively, with no preventive component",
-      "Neither approach, since both are considered equally unimportant",
-      "Only curative efforts for communicable diseases, never non-communicable ones"
+      "Skilled birth attendance",
+      "Mandatory university entrance examinations",
+      "National passport issuance procedures",
+      "Corporate tax filing deadlines"
     ],
     "answer": "A"
   },
   {
     "id": 24,
     "type": "mcq",
-    "stem": "According to the WHO's Expert Committee on Comprehensive School Health Education and Promotion, what do children need in order to learn effectively?",
+    "stem": "Democracy, particularly the principles of participation, accountability, and transparency, can positively influence which outcome, per the material, though the relationship is complex and not always straightforward?",
     "options": [
-      "Good health",
-      "Only advanced textbooks regardless of health status",
-      "Only extended school hours regardless of health status",
-      "Only a larger teacher-to-student ratio regardless of health status"
+      "Global health outcomes",
+      "The outcome of unrelated international sporting events",
+      "The outcome of unrelated stock market indices",
+      "The outcome of unrelated weather forecasting accuracy"
     ],
     "answer": "A"
   },
   {
     "id": 25,
     "type": "mcq",
-    "stem": "According to Ogundele (2002), the focus and emphasis of school health services includes identification of school members' health needs and which other related step?",
+    "stem": "Under 'Citizen Participation' as a reason democracy can benefit global health, democracies empower citizens to voice their health needs and priorities, leading to policies that better reflect which of the following?",
     "options": [
-      "Appropriate selection and utilization of responsive health services to meet those needs",
-      "Elimination of all health services from the school budget",
-      "Exclusive reliance on parental self-diagnosis with no professional involvement",
-      "Permanent exclusion of children with identified health needs from school"
+      "Public demand and improve access to healthcare",
+      "Private corporate shareholder preferences exclusively",
+      "Only the preferences of a single ruling political party",
+      "Only military procurement priorities"
     ],
     "answer": "A"
   },
   {
     "id": 26,
     "type": "mcq",
-    "stem": "Among the focus areas of school health services per Ogundele (2002), control of communicable diseases should have which strategy at the centre of control efforts?",
+    "stem": "Under 'Transparency' as a reason democracy can benefit global health, democratic systems often promote transparency in governance, allowing for better oversight of what?",
     "options": [
-      "Prevention",
-      "Mass expulsion of affected children with no treatment",
-      "Permanent school closure at the first sign of any illness",
-      "Exclusive reliance on curative treatment with no preventive measures"
+      "Spending and resource allocation",
+      "Only classified military budgets with no civilian health relevance",
+      "Only private family financial matters",
+      "Only unrelated international trade tariffs"
     ],
     "answer": "A"
   },
   {
     "id": 27,
     "type": "mcq",
-    "stem": "Besides promoting health and preventing disease, which other objective of school health services relates specifically to detection?",
+    "stem": "Under 'Reduced Mortality' as a reason democracy can benefit global health, studies have shown that democracies often experience lower mortality rates, especially from which causes, compared to autocratic regimes?",
     "options": [
-      "Promote early detection of defects and diagnosis of diseases amongst all school community members",
-      "Promote delayed detection of defects until adulthood",
-      "Eliminate all diagnostic screening from the school setting",
-      "Restrict detection services exclusively to teaching staff, excluding learners"
+      "Cardiovascular diseases and transport injuries",
+      "Causes entirely unrelated to any disease or injury category",
+      "Mortality exclusively from natural disasters",
+      "Mortality exclusively from industrial workplace accidents"
     ],
     "answer": "A"
   },
   {
     "id": 28,
     "type": "mcq",
-    "stem": "Which of the following is explicitly listed as a service to be provided to school children, related to the school surroundings?",
+    "stem": "The material notes that while democracies may generally perform better, what can still lead to health disparities within a country?",
     "options": [
-      "Promotion of optimal sanitary conditions in the school environment",
-      "Promotion of increased classroom overcrowding",
-      "Promotion of unrestricted access to hazardous chemicals on school grounds",
-      "Promotion of unsupervised access to the school's electrical systems"
+      "Unequal distribution of resources",
+      "A total absence of any resources nationwide",
+      "The complete elimination of healthcare financing",
+      "The abolition of all government structures"
     ],
     "answer": "A"
   },
   {
     "id": 29,
     "type": "mcq",
-    "stem": "Besides Health Appraisal and Health Observation, which other activities are listed among the components of school health services?",
+    "stem": "Involving security actors, such as the military, in health initiatives can enhance access to resources and improve which overall outcome, by addressing health threats, strengthening health systems, and fostering international cooperation?",
     "options": [
-      "Medical Health Examination and Health Screening, First Aid and Emergency Care, and Health History and Record",
-      "Only classroom decoration and bulletin board design",
-      "Only school uniform tailoring and alteration",
-      "Only inter-school sports tournament scheduling"
+      "Overall health outcomes, contributing to global health security",
+      "Only military recruitment numbers, with no bearing on health",
+      "Only defense budget allocations, with no bearing on health",
+      "Only unrelated border tariff schedules"
     ],
     "answer": "A"
   },
   {
     "id": 30,
     "type": "mcq",
-    "stem": "Health appraisal is best described as which of the following?",
+    "stem": "Documents like the International Health Regulations (IHR) establish rules for countries to do which of the following regarding public health risks and emergencies?",
     "options": [
-      "That aspect of health services which concerns itself with evaluating the health of an individual objectively",
-      "A purely subjective, unstructured opinion with no evaluative component",
-      "A process limited strictly to measuring a child's shoe size",
-      "A process conducted only once in a child's entire school career"
+      "Report and respond to them",
+      "Ignore them entirely without consequence",
+      "Conceal them from international bodies indefinitely",
+      "Transfer all responsibility exclusively to private corporations"
     ],
     "answer": "A"
   },
   {
     "id": 31,
     "type": "mcq",
-    "stem": "Health observation is best described as which of the following?",
+    "stem": "The increasing interconnectedness of the world makes global health a crucial component of foreign policy in order to foster what?",
     "options": [
-      "Consciously examining the physical and emotional health and well-being of school children to establish whether there is deviation from normal health status",
-      "A process that requires highly specialized, expensive equipment in every instance",
-      "A process that can only be performed by a radiologist",
-      "A process limited strictly to measuring blood pressure with specialized equipment"
+      "A safer and more prosperous global community",
+      "Increased isolationism with no cross-border cooperation",
+      "Permanent suspension of all international travel",
+      "Elimination of all international trade agreements"
     ],
     "answer": "A"
   },
   {
     "id": 32,
     "type": "mcq",
-    "stem": "According to the material, who can observe the health status of a child through health observation, though closer attention leading to screening may fall to trained professionals?",
+    "stem": "Among examples of health issues addressed through global health and international policy, 'Access to Medicines' refers to ensuring what?",
     "options": [
-      "Anybody, though closer screening may be the duty of trained professionals like doctors or school nurses",
-      "Only a fully licensed physician, with no role for anyone else",
-      "Only the child's parent, with no role for school staff",
-      "Only a hospital administrator, with no role for clinical staff"
+      "That essential medicines are available to people in need worldwide",
+      "That medicines are restricted exclusively to the wealthiest nations",
+      "That medicines are distributed exclusively through unregulated informal markets",
+      "That medicines are withheld from low-income countries entirely"
     ],
     "answer": "A"
   },
   {
     "id": 33,
     "type": "mcq",
-    "stem": "During periodic teacher inspection as part of health observation, which specific findings should prompt referral to the school health centre?",
+    "stem": "'Health diplomacy' involves bilateral and multilateral agreements, utilizing health as a means to advance broader foreign policy objectives such as national security, trade, and which other goal?",
     "options": [
-      "Discharge in the ears/eyes, squint, unusual colour of eyes, inability to see the blackboard, inability to hear or read properly, and skin rashes",
-      "A child's preference for a particular subject",
-      "A child's choice of favourite colour",
-      "A child's handwriting style"
+      "International cooperation",
+      "Exclusively unrelated currency devaluation",
+      "Exclusively unrelated territorial annexation",
+      "Exclusively unrelated military conscription policy"
     ],
     "answer": "A"
   },
   {
     "id": 34,
     "type": "mcq",
-    "stem": "As part of health observation, teachers should measure the heights and weights of children at which point, with results sent to the school health clinic within how many hours?",
+    "stem": "'Global Health Governance' refers to the structure and processes of global health governance, including the roles of international organizations like the WHO, shaped by power dynamics and which other process?",
     "options": [
-      "At the beginning of every school term, with results sent within 48 hours",
-      "Only once, at the child's final year of schooling, with no time limit for reporting",
-      "Daily, with results sent within 5 minutes",
-      "Only when a child requests it, with no defined reporting timeframe"
+      "Political negotiations among nations",
+      "Exclusively unrelated corporate shareholder votes",
+      "Exclusively unrelated religious council rulings with no governmental role",
+      "Exclusively unrelated academic peer review processes"
     ],
     "answer": "A"
   },
   {
     "id": 35,
     "type": "mcq",
-    "stem": "Medical/dental health examination and screening are conducted in which TWO forms?",
+    "stem": "Regarding the 'Influence of Non-State Actors,' which groups are described as playing a crucial role in global health, often wielding significant influence on policy and resource mobilization?",
     "options": [
-      "Pre-enrolment/pre-employment stage and periodic medical examination/health screening",
-      "Only at graduation, with no earlier screening at all",
-      "Only during school holidays, with no screening during term time",
-      "Only for teaching staff, excluding all learners"
+      "Non-governmental organizations and private companies",
+      "Exclusively national armed forces, with no role for civil society",
+      "Exclusively international sports federations, with no other relevant actor",
+      "Exclusively religious institutions, excluding all other non-state actors"
     ],
     "answer": "A"
   },
   {
     "id": 36,
     "type": "mcq",
-    "stem": "Besides school children, pre-employment medical/dental examination should also be conducted for which other members of the school community?",
+    "stem": "Which pandemic is cited as an example highlighting the interconnection of health and politics, with geopolitical tensions affecting vaccine access and international cooperation?",
     "options": [
-      "All other members of the school community, including food handlers",
-      "Only the school's financial administrators",
-      "Only visiting dignitaries attending school events",
-      "Only parents attending parent-teacher meetings"
+      "The COVID-19 pandemic",
+      "A purely hypothetical pandemic with no real-world example given",
+      "An outbreak confined entirely to a single isolated, non-interconnected village",
+      "An outbreak with no documented political dimension whatsoever"
     ],
     "answer": "A"
   },
   {
     "id": 37,
     "type": "mcq",
-    "stem": "Which category of personnel should conduct pre-entry medical screening, according to the implementation guideline?",
+    "stem": "Regarding 'Health as a National Security Issue,' governments are increasingly recognizing the link between health and national security, leading to increased investments in pandemic preparedness and which other area?",
     "options": [
-      "Trained health personnel",
-      "Untrained volunteers with no health background",
-      "Only the school's security staff",
-      "Only the school's bursar"
+      "Biosecurity",
+      "Exclusively unrelated agricultural export subsidies",
+      "Exclusively unrelated space exploration programs",
+      "Exclusively unrelated currency reserve management"
     ],
     "answer": "A"
   },
   {
     "id": 38,
     "type": "mcq",
-    "stem": "Dental/oral health screening, as a preventive and appraisal measure, should be done at the school health services centre by a dentist at which interval?",
+    "stem": "Under 'State Obligations' in international human rights law, states have a responsibility to respect, protect, and fulfill human rights, which includes refraining from violating rights and taking measures to prevent what?",
     "options": [
-      "Every six months",
-      "Every ten years",
-      "Only once, at the child's birth",
-      "Only after the child has already left school"
+      "Human rights abuses",
+      "Economic growth of any kind",
+      "Any form of international trade",
+      "Any form of domestic taxation"
     ],
     "answer": "A"
   },
   {
     "id": 39,
     "type": "mcq",
-    "stem": "Regular de-worming exercise, as part of routine screening, should be done at which minimum interval?",
+    "stem": "Besides the International Covenant on Civil and Political Rights, which other covenant is explicitly listed as part of the treaty basis for international human rights law?",
     "options": [
-      "At least once every 3 months",
-      "At least once every 10 years",
-      "Only once in a child's entire lifetime",
-      "Only when a child specifically requests it"
+      "The International Covenant on Economic, Social and Cultural Rights",
+      "The International Convention on Postal Rates",
+      "The International Agreement on Aviation Fuel Taxation",
+      "The International Protocol on Satellite Broadcasting Rights"
     ],
     "answer": "A"
   },
   {
     "id": 40,
     "type": "mcq",
-    "stem": "First aid and emergency care in the school setting is given for which specific purpose?",
+    "stem": "Various mechanisms exist to enforce international human rights law, including domestic legal systems, regional human rights courts, and which international body?",
     "options": [
-      "To reduce pain and complications, and to prevent the injury from growing worse before proper medical attention is given",
-      "To replace the need for any further medical attention entirely",
-      "To delay all medical attention indefinitely",
-      "To be administered only by a fully qualified surgeon on site"
+      "The United Nations",
+      "A private international arbitration firm with no public mandate",
+      "A single multinational corporation's internal compliance office",
+      "A regional chamber of commerce"
     ],
     "answer": "A"
   },
   {
     "id": 41,
     "type": "mcq",
-    "stem": "According to the material, who should be trained in basic first aid and emergency care skills within the school setting?",
+    "stem": "International human rights law sets the framework for domestic laws and policies, with states expected to incorporate international standards into which system?",
     "options": [
-      "Both staff and learners",
-      "Only the school's most senior administrator",
-      "Only learners, excluding all staff",
-      "No one, since first aid is said to require no training"
+      "Their national legal systems",
+      "An entirely separate, parallel legal system with no domestic connection",
+      "A private contractual framework between corporations only",
+      "A purely symbolic, non-binding declaration with no legal integration"
     ],
     "answer": "A"
   },
   {
     "id": 42,
     "type": "mcq",
-    "stem": "If a learner transfers to another school, what happens to their original health record, according to the material?",
+    "stem": "Global health draws from various fields like medicine, public health, social sciences, economics, and environmental science, reflecting which type of approach?",
     "options": [
-      "The original health record is expected to go with the learner, while the duplicate is retained by the original school",
-      "The original record is destroyed immediately upon transfer",
-      "The original record remains permanently with the original school, with no copy transferred",
-      "No health record is required to be transferred or retained under any circumstance"
+      "An interdisciplinary approach",
+      "A single-discipline approach limited strictly to clinical medicine",
+      "An approach that excludes all social science input",
+      "An approach that excludes all economic considerations"
     ],
     "answer": "A"
   },
   {
     "id": 43,
     "type": "mcq",
-    "stem": "Which of the following is explicitly listed as content that the health record should contain?",
+    "stem": "Regarding the distinction between International Health and Global Health, international health historically focused on health within developing countries, often framed by which dynamic?",
     "options": [
-      "Personal and family history, history of past illnesses/hospitalization, records of immunization, and records of screening tests",
-      "Only the child's favourite extracurricular activity",
-      "Only the names of the child's classmates",
-      "Only the child's examination timetable for the current term"
+      "A North-South dynamic",
+      "A purely East-West military alliance framework",
+      "A framework limited exclusively to inter-planetary health concerns",
+      "A framework with no geographic or historical context whatsoever"
     ],
     "answer": "A"
   },
   {
     "id": 44,
     "type": "mcq",
-    "stem": "According to the material, each entry into a student's health record must be dated and authenticated by the staff member making the entry, indicating which specific details?",
+    "stem": "Global health, by contrast with international health, emphasizes the interconnectedness of health issues worldwide and the shared responsibility for addressing them, recognizing that health challenges in one region can do what?",
     "options": [
-      "Name, age, and sex",
-      "Only the staff member's favourite subject to teach",
-      "Only the staff member's home address",
-      "Only the staff member's preferred mode of transportation"
+      "Impact other regions, requiring global collaboration",
+      "Have no effect whatsoever on any other region",
+      "Only ever be resolved by a single isolated nation acting alone",
+      "Only ever concern a single named continent in perpetuity"
     ],
     "answer": "A"
   },
   {
     "id": 45,
     "type": "mcq",
-    "stem": "According to the material, what might happen if young people have no opportunities to obtain coping skills through health counselling?",
+    "stem": "Public health nursing emphasizes prevention, health promotion, and disease management within the community, with examples including community health programs, immunization campaigns, and which other activity?",
     "options": [
-      "They might resort to seeking information from friends and other platforms that may not provide health-supportive solutions",
-      "They will automatically develop coping skills without any external input",
-      "They will be permanently exempted from all further schooling",
-      "They will immediately be referred to a tertiary hospital regardless of the issue"
+      "Disease surveillance in a city or region",
+      "Exclusively international currency trading",
+      "Exclusively global shipping logistics coordination",
+      "Exclusively international aviation route planning"
     ],
     "answer": "A"
   },
   {
     "id": 46,
     "type": "mcq",
-    "stem": "Health education, as a component of school health services, is described as entailing which of the following?",
+    "stem": "Food security is defined in the material as access to sufficient, safe, and nutritious food for which purpose?",
     "options": [
-      "Empowering individuals and groups with functional knowledge required to stimulate positive attitudes needed to adopt health-promoting behaviours",
-      "Simply distributing pamphlets with no further engagement",
-      "Restricting health information exclusively to teaching staff",
-      "Replacing all curative services with education alone, eliminating treatment entirely"
+      "An active and healthy life",
+      "Exclusively for competitive athletic training purposes",
+      "Exclusively for commercial food export markets",
+      "Exclusively for ceremonial or religious observance"
     ],
     "answer": "A"
   },
   {
     "id": 47,
     "type": "mcq",
-    "stem": "Why do communicable diseases pose MORE threat than non-communicable diseases within the school setting, according to the material?",
+    "stem": "Food insecurity can lead to malnutrition, including undernutrition (wasting, stunting) and overnutrition due to unhealthy diets, which is also known as which condition?",
     "options": [
-      "Because the presence of many people in the school makes transmission possible and easy, and learners can transport disease to different communities",
-      "Because communicable diseases are the only type of disease that can ever occur in a school",
-      "Because non-communicable diseases are entirely absent from the school-age population",
-      "Because communicable diseases cannot be prevented under any circumstances"
+      "Obesity",
+      "Hypertension exclusively, with no relation to nutrition",
+      "A purely genetic condition unrelated to diet",
+      "A condition exclusive to elderly populations only"
     ],
     "answer": "A"
   },
   {
     "id": 48,
     "type": "mcq",
-    "stem": "In controlling communicable diseases within the school setting, which prevention strategy is described as most preferred?",
+    "stem": "Compromised immune systems due to malnutrition increase the risk of infections, and contaminated food can cause which type of illness?",
     "options": [
-      "Primary prevention",
-      "Tertiary prevention exclusively, with no role for primary prevention",
-      "No prevention strategy at all, relying solely on treatment after illness occurs",
-      "Secondary prevention exclusively, with no role for primary prevention"
+      "Foodborne illnesses",
+      "Illnesses related exclusively to altitude sickness",
+      "Illnesses related exclusively to motion sickness",
+      "Illnesses related exclusively to seasonal allergies"
     ],
     "answer": "A"
   },
   {
     "id": 49,
     "type": "mcq",
-    "stem": "The school is described as an important setting for vaccination and immunization, particularly during which circumstance?",
+    "stem": "Food insecurity can also negatively impact mental health, causing which specific effects?",
     "options": [
-      "The outbreak of a disease",
-      "Only during the final week of the academic year",
-      "Only during the school's annual sports day",
-      "Only during parent-teacher conference week"
+      "Stress, anxiety, and depression",
+      "Exclusively improved mood with no negative mental health effect",
+      "Exclusively enhanced long-term memory retention",
+      "Exclusively increased attention span in all contexts"
     ],
     "answer": "A"
   },
   {
     "id": 50,
     "type": "mcq",
-    "stem": "Regarding supervision of food vendors in schools, which of the following should be monitored to prevent foodborne illness?",
+    "stem": "Conflicts disrupt food production, distribution, and access, leading to what outcomes?",
     "options": [
-      "Personal hygiene of food handlers, cleanliness of food preparation areas, and safe water supply",
-      "Only the price charged for food items",
-      "Only the colour scheme of the food vendor's uniform",
-      "Only the vendor's seniority within the school community"
+      "Food crises and displacement",
+      "Guaranteed universal food abundance with no negative consequence",
+      "Immediate resolution of all nutritional deficiencies",
+      "Permanent elimination of any need for humanitarian aid"
     ],
     "answer": "A"
   },
   {
     "id": 51,
     "type": "mcq",
-    "stem": "Which of the following is explicitly listed among the common health problems of school-age children?",
+    "stem": "Addressing food security requires a multi-pronged approach, including sustainable agriculture, improved infrastructure, and which other type of policy?",
     "options": [
-      "Rheumatic heart disease",
-      "Age-related macular degeneration, which affects only the elderly",
-      "Benign prostatic hyperplasia, which affects only older men",
-      "Osteoarthritis of the hip, which affects only the elderly"
+      "Social safety nets and policies promoting equitable access to food",
+      "Policies that exclusively restrict food access to a single social class",
+      "Policies that exclusively eliminate all agricultural subsidies with no alternative support",
+      "Policies that exclusively prioritize luxury food exports over domestic need"
     ],
     "answer": "A"
   },
   {
     "id": 52,
     "type": "mcq",
-    "stem": "Besides rheumatic heart disease and malaria, which other condition is explicitly listed as a common health problem of school-age children, particularly relevant in some populations?",
+    "stem": "Global environmental health examines the impact of the environment, both natural and human-built, on which outcome worldwide?",
     "options": [
-      "Anaemia, especially sickle cell anaemia",
-      "Age-related cataract requiring immediate surgery in every case",
-      "Chronic obstructive pulmonary disease from decades of smoking",
-      "Benign prostatic hyperplasia"
+      "Human health",
+      "Exclusively unrelated urban architectural aesthetics",
+      "Exclusively unrelated municipal tax revenue",
+      "Exclusively unrelated international shipping container pricing"
     ],
     "answer": "A"
   },
   {
     "id": 53,
     "type": "mcq",
-    "stem": "Which of the following is explicitly listed as a major responsibility of the school nurse?",
+    "stem": "Under 'Environmental Hazards' in global environmental health, which activities are included, such as identifying and mitigating risks from air and water pollution, hazardous materials, and climate impacts like extreme weather events?",
     "options": [
-      "Conducting or coordinating health assessments and identifying children requiring further care",
-      "Setting the school's final examination questions",
-      "Managing the school's financial accounts exclusively",
-      "Determining the school's academic curriculum content"
+      "Identifying and mitigating environmental risks",
+      "Exclusively promoting unrestricted industrial emissions with no mitigation",
+      "Exclusively ignoring any risk from hazardous materials",
+      "Exclusively focusing on risks unrelated to climate or pollution"
     ],
     "answer": "A"
   },
   {
     "id": 54,
     "type": "mcq",
-    "stem": "The school nurse's role in 'environmental health' includes identifying environmental hazards and advocating for which of the following?",
+    "stem": "Environmental hazards can lead to a wide range of health problems, including respiratory illnesses, cardiovascular diseases, and which other category explicitly listed?",
     "options": [
-      "Safe water, sanitation, ventilation, lighting, waste disposal, and food hygiene",
-      "Increased use of untreated water sources",
-      "Reduced ventilation to conserve energy regardless of air quality",
-      "Unregulated waste disposal to reduce costs"
+      "Certain cancers",
+      "Exclusively dental caries with no other listed condition",
+      "Exclusively hearing loss with no other listed condition",
+      "Exclusively joint disorders with no other listed condition"
     ],
     "answer": "A"
   },
   {
     "id": 55,
     "type": "mcq",
-    "stem": "Which member of the school health team is specifically responsible for medical examination, diagnosis, treatment, supervision, and referral?",
+    "stem": "Indoor and outdoor air pollution are cited as contributing to millions of deaths annually due to which disease categories?",
     "options": [
-      "The medical practitioner",
-      "The environmental health officer",
-      "The radiographer",
-      "The nutritionist/dietitian"
+      "Respiratory and cardiovascular diseases",
+      "Exclusively dermatological conditions with no respiratory or cardiovascular link",
+      "Exclusively musculoskeletal conditions unrelated to air quality",
+      "Exclusively ophthalmologic conditions unrelated to air quality"
     ],
     "answer": "A"
   },
   {
     "id": 56,
     "type": "mcq",
-    "stem": "Which member of the school health team provides nutritional assessment, counselling, and dietary intervention?",
+    "stem": "The 'New Health Economy (NHE)' concept involves utilizing data-driven models and digital solutions to do what?",
     "options": [
-      "The nutritionist/dietitian",
-      "The radiographer",
-      "The environmental health officer",
-      "The psychologist/counsellor"
+      "Deliver healthcare services",
+      "Exclusively increase unrelated retail e-commerce sales",
+      "Exclusively regulate unrelated cryptocurrency markets",
+      "Exclusively manage unrelated airline booking systems"
     ],
     "answer": "A"
   },
   {
     "id": 57,
     "type": "mcq",
-    "stem": "Which member of the school health team assesses sanitation, water supply, food hygiene, waste disposal, and environmental hazards?",
+    "stem": "'Innovation in Drug Development' is described as creating new therapies and treatments for diseases that may not be prioritized by which group?",
     "options": [
-      "The environmental health officer",
-      "The dentist",
-      "The medical practitioner",
-      "The parent/guardian"
+      "Traditional pharmaceutical companies",
+      "Exclusively national weather forecasting agencies",
+      "Exclusively international postal services",
+      "Exclusively regional tourism boards"
     ],
     "answer": "A"
   },
   {
     "id": 58,
     "type": "mcq",
-    "stem": "Parents and guardians, as members of the school health team, are expected to provide relevant health information and do what else regarding decisions about the child's health?",
+    "stem": "Among challenges to innovation in global health, 'Regulatory Barriers' refers to the difficulty of navigating complex regulatory landscapes in different countries, which can be challenging for which type of venture?",
     "options": [
-      "Participate in decisions concerning the child's health",
-      "Be entirely excluded from any decision-making process",
-      "Delegate all decision-making exclusively to the school principal",
-      "Have no role whatsoever once the child is enrolled in school"
+      "Healthcare startups",
+      "Exclusively unrelated agricultural cooperatives",
+      "Exclusively unrelated construction firms with no healthcare focus",
+      "Exclusively unrelated media production companies"
     ],
     "answer": "A"
   },
   {
     "id": 59,
     "type": "mcq",
-    "stem": "School administrators, teachers, and community leaders are described as being in a unique position to identify the health needs and problems of children for which reason?",
+    "stem": "Among challenges to innovation in global health, 'Maintaining Social Mission' notes that balancing social impact with which other consideration can be a challenge for social enterprises?",
     "options": [
-      "By virtue of their proximity to the school",
-      "Because they have formal medical training exceeding that of physicians",
-      "Because they are legally required to diagnose disease independently",
-      "Because they have no connection to the children's daily environment"
+      "Financial sustainability",
+      "Exclusively maximizing executive compensation with no regard for mission",
+      "Exclusively eliminating any form of financial planning",
+      "Exclusively abandoning any social mission entirely from inception"
     ],
     "answer": "A"
   },
   {
     "id": 60,
     "type": "mcq",
-    "stem": "Among the prerequisites for a healthful school, what must be available at all times for emergency situations?",
+    "stem": "Which US federal agency is described as working to protect public health, among organizations supporting global health?",
     "options": [
-      "A first aid box",
-      "A fully equipped operating theatre",
-      "An on-site pharmacy stocked with controlled substances",
-      "A dedicated ambulance fleet owned by the school"
+      "The Centers for Disease Control and Prevention (CDC)",
+      "A national passport issuing office",
+      "A national postal regulatory commission",
+      "A federal highway administration"
     ],
     "answer": "A"
   },
   {
     "id": 61,
     "type": "mcq",
-    "stem": "Among the prerequisites for a healthful school, what type of support must the headmaster give to children and teachers to make school health activities successful?",
+    "stem": "Tackling social determinants of health such as poverty, inequality, and discrimination is essential for ensuring what, regarding children and youth?",
     "options": [
-      "Both financial and moral support",
-      "Only verbal encouragement with no financial commitment",
-      "Only financial support with no moral or motivational engagement",
-      "No support of any kind, since activities are expected to be self-sustaining"
+      "That all children and youth have the opportunity to thrive",
+      "That only a select few children have any opportunity to thrive",
+      "That social determinants are entirely irrelevant to child health outcomes",
+      "That poverty has no documented relationship to child health whatsoever"
     ],
     "answer": "A"
   },
   {
     "id": 62,
     "type": "mcq",
-    "stem": "Which of the following is explicitly listed as an ADVANTAGE of school health programmes/services?",
+    "stem": "Addressing the unique health needs of adolescents, including mental health, sexual and reproductive health, and substance use, is essential for building what?",
     "options": [
-      "It helps to identify abnormalities promptly among pupils and to give immediate treatment",
-      "It guarantees elimination of all disease from the general population",
-      "It eliminates the need for any hospital services nationwide",
-      "It replaces the need for any parental involvement in a child's health"
+      "A healthy future",
+      "An exclusively academic-only outcome with no health relevance",
+      "An outcome unrelated to any future life stage",
+      "A uniform outcome identical for every individual with no variation"
     ],
     "answer": "A"
   },
   {
     "id": 63,
     "type": "mcq",
-    "stem": "Which of the following is explicitly listed as a factor that influences the health of school children in developing countries?",
+    "stem": "'Promoting health equity' at a global policy level involves addressing power imbalances and ensuring equitable access to health resources, regardless of which factors?",
     "options": [
-      "Socioeconomic factors",
-      "The international exchange rate of a completely unrelated foreign currency",
-      "The school's choice of academic calendar colour scheme",
-      "The brand of stationery used by the school administration"
+      "Background or political forces at play",
+      "Exclusively a person's preferred leisure activity",
+      "Exclusively a person's choice of reading material",
+      "Exclusively a person's taste in music"
     ],
     "answer": "A"
   },
   {
     "id": 64,
     "type": "mcq",
-    "stem": "Besides genetic, environmental, and socioeconomic factors, which other factors are listed as influencing the health of school children in developing countries?",
+    "stem": "'Advancing health diplomacy' notes that health diplomacy can be a powerful tool for promoting cooperation and addressing global health challenges, but it must be navigated carefully to avoid what?",
     "options": [
-      "Health service factors, communicable diseases, and ignorance of parents",
-      "Only factors related to international space exploration funding",
-      "Only factors related to global shipping container logistics",
-      "Only factors related to unrelated agricultural commodity futures trading"
+      "Exacerbating political tensions",
+      "Guaranteeing permanent peace with no further diplomatic effort required",
+      "Eliminating the need for any further international cooperation",
+      "Ensuring universal agreement on every unrelated political topic"
     ],
     "answer": "A"
   },
   {
     "id": 65,
     "type": "mcq",
-    "stem": "Besides PTAs and grants-in-aid, which other activities are listed as sources of funds for school health programmes?",
+    "stem": "Among the recommended steps for assessing occupational risk, besides understanding the work being done and evaluating work-related hazards, which other step is explicitly listed?",
     "options": [
-      "Prize-giving day/graduation ceremony, inter-house competitions, and quiz/debate/drama competitions",
-      "Only unrelated international arbitration settlements",
-      "Only unrelated foreign direct investment in unrelated industries",
-      "Only unrelated cryptocurrency mining operations"
+      "Examine the control strategies in place for elimination of exposures",
+      "Exclusively audit unrelated corporate tax filings",
+      "Exclusively review unrelated employee dress code policy",
+      "Exclusively assess unrelated client satisfaction survey results"
     ],
     "answer": "A"
   },
   {
     "id": 66,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A school nurse notices during routine teacher-reported health observation that a 9-year-old has a persistent white-reflex-free but markedly reduced ability to read the blackboard, along with a chronic discharge from one ear, and the child's growth chart shows a sudden drop in weight percentile since the last termly measurement. The nurse also recalls the child's health record shows incomplete immunization. Which combination of actions reflects the correct application of health appraisal, health observation, and record-keeping principles?",
+    "stem": "CASE SCENARIO: A novel respiratory pathogen emerges simultaneously in three countries with weak Port Health Authority surveillance capacity. WHO declares a public health emergency, invoking the International Health Regulations to coordinate cross-border reporting, while geopolitical tensions between two affected nations delay a joint vaccine-sharing agreement, and a national government postpones its own IHR-mandated reporting to avoid economic disruption from travel restrictions. Which combination of concepts BEST explains this scenario's unfolding dynamics?",
     "options": [
-      "Refer the child promptly for visual and ENT screening at the school health centre, investigate the weight drop as a possible nutritional or communicable disease indicator, update and complete the immunization record, and ensure all findings are dated and authenticated in the child's health record",
-      "Ignore the findings since classroom teachers have no legitimate role in identifying health problems",
-      "Withhold referral until the child personally requests it, since referral services are optional for school-age children",
-      "Discard the old health record entirely rather than update it, since incomplete records cannot legally be amended"
+      "The IHR legally obligates states to report and respond to public health emergencies, yet geopolitical competition and domestic political priorities can still delay cooperation and produce divergent health policies, illustrating the tension between global health governance and national interests",
+      "The WHO has no authority under the IHR to coordinate any cross-border health response",
+      "Geopolitical tensions are entirely irrelevant to the implementation of international health regulations",
+      "National governments are legally permitted to conceal outbreak data indefinitely under the IHR with no reporting obligation whatsoever"
     ],
     "answer": "A"
   },
   {
     "id": 67,
     "type": "mcq",
-    "stem": "CASE SCENARIO: During a disease outbreak in a community, the school health team conducts mass immunization at the school, while simultaneously identifying and referring children with early signs of the illness, and the school nurse manages minor related ailments within her scope using approved standing orders, only referring severe cases to hospital. Which principle BEST explains why this layered approach helps decongest hospitals, consistent with the stated advantages of school health programmes?",
+    "stem": "CASE SCENARIO: A low-income country with a young, growing population is simultaneously experiencing rising rates of cardiovascular disease and a lingering burden of malaria, while its health ministry must decide how to allocate a limited budget between maternal and newborn health interventions, immunization campaigns, and chronic disease management, all while facing an aging donor-funded workforce. Which combination of concepts from global health transitions and MNCH BEST frames this policy dilemma?",
     "options": [
-      "Because immunization prevents disease, minor ailments are managed on-site, and only serious cases requiring specialist care are referred, reducing unnecessary hospital burden",
-      "Because all cases, regardless of severity, must always be referred to hospital to decongest the school clinic",
-      "Because immunization during outbreaks is never appropriate and should be deferred until the outbreak ends",
-      "Because the school nurse has no authority to manage any ailment, however minor, without physician countersignature"
+      "This reflects the complex, overlapping epidemiological and demographic transition in which infectious disease burden persists alongside a rising noncommunicable disease burden, requiring health systems to balance continuum-of-care MNCH interventions (antenatal care, immunization) against chronic disease needs within constrained resources",
+      "This scenario is impossible, since epidemiological transition requires infectious diseases to disappear entirely before any chronic disease can emerge",
+      "MNCH interventions and chronic disease management can never be addressed by the same health system simultaneously",
+      "A young population by definition cannot experience any rise in noncommunicable disease"
     ],
     "answer": "A"
   },
   {
     "id": 68,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A rural school serves a community with low socioeconomic status, limited access to safe water, high rates of childhood anaemia including sickle cell disease, and a shortage of trained health personnel. The PTA proposes funding a school health initiative through proceeds from prize-giving day, inter-house sports, and a quiz competition, while also pushing for improved sanitation facilities as part of a healthful school environment. Which combination of factors and interventions BEST reflects the material's framework for addressing child health in developing-country school settings?",
+    "stem": "CASE SCENARIO: A coastal community experiences recurrent flooding linked to climate change, which contaminates the local water supply, disrupts food distribution, and increases vector-borne disease risk, while a Port Health Authority nearby also reports rising traveler screening referrals for gastrointestinal illness, and a local NGO partners with the Ministry of Health to deliver mobile health (m-Health) diagnostic support in affected areas. Which combination of concepts BEST explains the interconnections in this scenario?",
     "options": [
-      "Socioeconomic status, health service availability, and environmental conditions are recognised influencing factors, and community-generated funding alongside environmental improvements (sanitation, safe water) are appropriate, complementary responses",
-      "Socioeconomic and environmental factors have no documented relationship to school children's health in developing countries",
-      "PTA fundraising activities are explicitly prohibited as a source of funds for school health programmes",
-      "Sanitation and water supply are unrelated to the scope of a healthful school environment and should not be prioritised by the PTA"
+      "This illustrates how global environmental health hazards (climate-linked flooding, water contamination) intersect with food security and infectious disease risk, prompting a multi-sectoral response combining Port Health Authority surveillance functions with m-Health innovation to extend diagnostic reach",
+      "Climate change has no documented relationship to food security or water-related disease risk",
+      "Port Health Authorities only operate at airports and have no role in any other public health surveillance context",
+      "Mobile health technology is relevant only to chronic disease management and never to acute environmental health emergencies"
     ],
     "answer": "A"
   },
   {
     "id": 69,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A newly blind adolescent who lost his sight following untreated severe trachoma with trichiasis is enrolled in a community-based rehabilitation programme, where he receives health counselling for emotional adjustment, his family is educated on avoiding both overprotection and neglect, and he is later referred for vocational assessment, while health education sessions emphasize hygiene and early care-seeking to protect other children in the school from similar outcomes. Which combination of school health service components is illustrated here?",
+    "stem": "CASE SCENARIO: Following a change in government, a country moves from an autocratic system toward a more participatory democracy. Civil society organizations begin advocating for expanded health budgets, journalists publish investigative reports on prior misallocation of health funds, and the new government commits to regular public reporting of health spending, though implementation is slowed by competing political priorities during the transition. Which combination of concepts regarding democracy and global health BEST explains this scenario?",
     "options": [
-      "Health counselling, referral services, and health education are being used together to address an individual's rehabilitation needs while also preventing similar outcomes in other learners",
-      "Only health education is relevant here, since counselling and referral are not recognised components of school health services",
-      "Rehabilitation and vocational assessment fall entirely outside the scope of any school health service component",
-      "Family education about overprotection and neglect is unrelated to any principle of school health service delivery"
+      "The transition illustrates how citizen participation, social capital (civil society), and transparency can positively influence health policy and accountability, while also reflecting the documented challenge that democracies can face implementation delays due to political cycles and competing priorities",
+      "Democratic transitions have no documented association with transparency or accountability in health spending",
+      "Civil society organizations and investigative journalism play no recognized role in any democratic health governance framework",
+      "Implementation challenges only occur in autocratic systems and never arise during democratic transitions"
     ],
     "answer": "A"
   },
   {
     "id": 70,
     "type": "mcq",
-    "stem": "CASE SCENARIO: A school food vendor is found by the environmental health officer to have poor personal hygiene and is preparing food near an unsafe water source, while several children have recently presented with gastrointestinal symptoms. The school nurse coordinates with the environmental health officer, the medical practitioner, and the teacher to address the situation, applying the principle that communicable disease control in schools should prioritise one particular level of prevention. Which combination of actions and principle BEST reflects appropriate multidisciplinary response?",
+    "stem": "CASE SCENARIO: A multinational pharmaceutical innovation initiative develops a low-cost diagnostic tool for a neglected tropical disease, structured as a social enterprise balancing financial sustainability with its public health mission. The initiative faces difficulty scaling across several countries due to differing regulatory approval pathways, and simultaneously must secure continued donor funding because the target disease offers little commercial return. A regional professional body expresses concern that, without careful navigation, competition for scarce international health funding could strain diplomatic relationships between recipient countries. Which combination of concepts BEST reflects the challenges illustrated in this scenario?",
     "options": [
-      "The vendor's hygiene and water source are corrected per public health regulations, affected children are assessed and treated, and primary prevention (hygiene, safe water, supervision) is prioritised going forward, coordinated through the multidisciplinary school health team",
-      "The vendor should continue operating unchanged, since food vendor supervision is outside the scope of school health services",
-      "Only curative treatment of affected children is appropriate, with no attention to the vendor's hygiene or water source",
-      "Multidisciplinary collaboration is unnecessary, since environmental health officers have no legitimate role in food vendor supervision"
+      "This reflects the innovation challenges of scalability/sustainability and regulatory barriers facing social enterprises addressing neglected diseases, compounded by funding access difficulties, with an added health diplomacy dimension in which competition over health resources could affect international relations",
+      "Social enterprises addressing neglected diseases face no regulatory barriers of any kind across different countries",
+      "Financial sustainability is entirely irrelevant to any social enterprise operating in global health",
+      "Health diplomacy only concerns formal government-to-government treaties and has no connection to funding competition among recipient countries"
     ],
     "answer": "A"
   },
   {
     "id": 71,
     "type": "fitb",
-    "stem": "The school health programme combines health education, health services, environmental health measures, nutrition, safety, disease prevention, and community ___.",
-    "answer": "participation",
-    "acceptableAnswers": [
-      "participation"
-    ]
-  },
-  {
-    "id": 72,
-    "type": "fitb",
-    "stem": "The Nigerian National School Health Policy (2006) identifies ___ components of the school health programme.",
-    "answer": "five",
-    "acceptableAnswers": [
-      "five",
-      "5"
-    ]
-  },
-  {
-    "id": 73,
-    "type": "fitb",
-    "stem": "School health services should place emphasis on ___ rather than curative efforts.",
-    "answer": "prevention",
-    "acceptableAnswers": [
-      "prevention",
-      "preventive",
-      "preventive efforts"
-    ]
-  },
-  {
-    "id": 74,
-    "type": "fitb",
-    "stem": "According to the WHO's Expert Committee, to learn effectively, children need good ___.",
-    "answer": "health",
-    "acceptableAnswers": [
-      "health"
-    ]
-  },
-  {
-    "id": 75,
-    "type": "fitb",
-    "stem": "The main objective of health appraisal is early detection of identifiable physical, medical, and ___ defects.",
-    "answer": "mental",
-    "acceptableAnswers": [
-      "mental"
-    ]
-  },
-  {
-    "id": 76,
-    "type": "fitb",
-    "stem": "Health observation involves consciously examining the physical and ___ health and well-being of school children.",
-    "answer": "emotional",
-    "acceptableAnswers": [
-      "emotional"
-    ]
-  },
-  {
-    "id": 77,
-    "type": "fitb",
-    "stem": "Teachers should measure the heights and weights of children at the beginning of every school ___.",
-    "answer": "term",
-    "acceptableAnswers": [
-      "term"
-    ]
-  },
-  {
-    "id": 78,
-    "type": "fitb",
-    "stem": "Results of height and weight measurements must be sent to the school health clinic within ___ hours.",
-    "answer": "48",
-    "acceptableAnswers": [
-      "48"
-    ]
-  },
-  {
-    "id": 79,
-    "type": "fitb",
-    "stem": "Medical/dental examination and screening are done in two forms: pre-enrolment/pre-employment and ___ screening.",
-    "answer": "periodic",
-    "acceptableAnswers": [
-      "periodic",
-      "routine"
-    ]
-  },
-  {
-    "id": 80,
-    "type": "fitb",
-    "stem": "Dental/oral health screening should be done at the school health services centre by a dentist every ___ months.",
-    "answer": "six",
-    "acceptableAnswers": [
-      "six",
-      "6"
-    ]
-  },
-  {
-    "id": 81,
-    "type": "fitb",
-    "stem": "Regular de-worming exercise should be done at least once every ___ months.",
+    "stem": "Global health is intrinsically linked to SDG ___, which focuses on ensuring healthy lives and promoting well-being for all at all ages.",
     "answer": "3",
     "acceptableAnswers": [
       "3",
@@ -945,180 +850,272 @@
     ]
   },
   {
+    "id": 72,
+    "type": "fitb",
+    "stem": "Universal Health Coverage (UHC) aims to ensure everyone has access to quality health services without financial ___.",
+    "answer": "hardship",
+    "acceptableAnswers": [
+      "hardship"
+    ]
+  },
+  {
+    "id": 73,
+    "type": "fitb",
+    "stem": "The WHO is the UN agency dedicated to global health; it coordinates worldwide responses to health ___.",
+    "answer": "emergencies",
+    "acceptableAnswers": [
+      "emergencies"
+    ]
+  },
+  {
+    "id": 74,
+    "type": "fitb",
+    "stem": "UNICEF is a UN agency focused on providing humanitarian and developmental aid to children and ___.",
+    "answer": "mothers",
+    "acceptableAnswers": [
+      "mothers"
+    ]
+  },
+  {
+    "id": 75,
+    "type": "fitb",
+    "stem": "PAHO is the ___ regional office for the Americas.",
+    "answer": "WHO",
+    "acceptableAnswers": [
+      "WHO",
+      "World Health Organization"
+    ]
+  },
+  {
+    "id": 76,
+    "type": "fitb",
+    "stem": "The ___ approach integrates human, animal, and environmental health to foster intersectoral collaboration.",
+    "answer": "One Health",
+    "acceptableAnswers": [
+      "One Health",
+      "one health"
+    ]
+  },
+  {
+    "id": 77,
+    "type": "fitb",
+    "stem": "The One Health Joint Plan of Action involves FAO, ___, UNEP, and WHO.",
+    "answer": "OIE",
+    "acceptableAnswers": [
+      "OIE"
+    ]
+  },
+  {
+    "id": 78,
+    "type": "fitb",
+    "stem": "Port Health Authorities are national agencies mandated by the ___ to prevent the international spread of infectious diseases at points of entry.",
+    "answer": "International Health Regulations",
+    "acceptableAnswers": [
+      "International Health Regulations",
+      "IHR"
+    ]
+  },
+  {
+    "id": 79,
+    "type": "fitb",
+    "stem": "The function of ___ at ports of entry involves monitoring for potential public health threats, including infectious diseases.",
+    "answer": "surveillance",
+    "acceptableAnswers": [
+      "surveillance"
+    ]
+  },
+  {
+    "id": 80,
+    "type": "fitb",
+    "stem": "The shift in global health from infectious disease dominance to chronic, noncommunicable disease dominance is known as the epidemiological ___.",
+    "answer": "shift",
+    "acceptableAnswers": [
+      "shift",
+      "transition"
+    ]
+  },
+  {
+    "id": 81,
+    "type": "fitb",
+    "stem": "Global life expectancy has increased significantly, leading to a demographic trend known as population ___.",
+    "answer": "aging",
+    "acceptableAnswers": [
+      "aging",
+      "ageing"
+    ]
+  },
+  {
     "id": 82,
     "type": "fitb",
-    "stem": "___ supplementation is given as an example of food supplementation under routine screening activities.",
-    "answer": "Vitamin A",
+    "stem": "MNCH stands for Maternal, ___, and Child Health.",
+    "answer": "Newborn",
     "acceptableAnswers": [
-      "Vitamin A",
-      "vitamin A"
+      "Newborn",
+      "newborn"
     ]
   },
   {
     "id": 83,
     "type": "fitb",
-    "stem": "If a learner transfers to another school, the original health record goes with the learner while the ___ is retained by the original school.",
-    "answer": "duplicate",
+    "stem": "The Continuum of Care principle in MNCH provides comprehensive care from pre-pregnancy to ___.",
+    "answer": "adolescence",
     "acceptableAnswers": [
-      "duplicate"
+      "adolescence"
     ]
   },
   {
     "id": 84,
     "type": "fitb",
-    "stem": "Each entry into a student's health record must be dated and authenticated by the staff member, indicating name, age, and ___.",
-    "answer": "sex",
+    "stem": "MNCH efforts are supported globally by WHO, UNICEF, and ___.",
+    "answer": "UNFPA",
     "acceptableAnswers": [
-      "sex"
+      "UNFPA"
     ]
   },
   {
     "id": 85,
     "type": "fitb",
-    "stem": "Health counselling helps reduce the likelihood of depression and other mental health ___.",
-    "answer": "problems",
+    "stem": "Democracies generally tend to have better health indicators than autocracies, especially regarding noncommunicable diseases and health-related ___.",
+    "answer": "infrastructure",
     "acceptableAnswers": [
-      "problems"
+      "infrastructure"
     ]
   },
   {
     "id": 86,
     "type": "fitb",
-    "stem": "Health education entails empowering individuals and groups with functional ___ to stimulate positive attitudes.",
-    "answer": "knowledge",
+    "stem": "Under the Accountability principle, democratic governments are accountable to their citizens, which can incentivize them to prioritize public ___.",
+    "answer": "health",
     "acceptableAnswers": [
-      "knowledge"
+      "health"
     ]
   },
   {
     "id": 87,
     "type": "fitb",
-    "stem": "Every health worker must understand the point at which their ___ stops and must never attempt to handle cases beyond their scope.",
-    "answer": "expertise",
+    "stem": "Health ___ is the practice of using global health initiatives as a tool for international relations.",
+    "answer": "diplomacy",
     "acceptableAnswers": [
-      "expertise"
+      "diplomacy"
     ]
   },
   {
     "id": 88,
     "type": "fitb",
-    "stem": "In controlling communicable diseases in the school setting, ___ prevention is the most preferred strategy.",
-    "answer": "primary",
+    "stem": "International human rights law recognizes that all individuals are entitled to fundamental rights regardless of nationality, ethnicity, or ___.",
+    "answer": "religion",
     "acceptableAnswers": [
-      "primary"
+      "religion"
     ]
   },
   {
     "id": 89,
     "type": "fitb",
-    "stem": "Immunization stimulates the body's defense mechanisms to build ___ against a particular disease-causing organism.",
-    "answer": "antibodies",
+    "stem": "Customary international law develops from consistent state practice and a belief that such practice is legally ___.",
+    "answer": "binding",
     "acceptableAnswers": [
-      "antibodies",
-      "anti-bodies"
+      "binding"
     ]
   },
   {
     "id": 90,
     "type": "fitb",
-    "stem": "Food handlers with signs of communicable illness should be managed according to public health ___.",
-    "answer": "regulations",
+    "stem": "International Humanitarian Law primarily applies during ___, while human rights law applies in all situations.",
+    "answer": "armed conflict",
     "acceptableAnswers": [
-      "regulations"
+      "armed conflict"
     ]
   },
   {
     "id": 91,
     "type": "fitb",
-    "stem": "___ heart disease is explicitly listed as a common health problem of school-age children.",
-    "answer": "Rheumatic",
+    "stem": "Global health draws from medicine, public health, social sciences, economics, and environmental science, reflecting an ___ approach.",
+    "answer": "interdisciplinary",
     "acceptableAnswers": [
-      "Rheumatic",
-      "rheumatic"
+      "interdisciplinary"
     ]
   },
   {
     "id": 92,
     "type": "fitb",
-    "stem": "Anaemia, especially ___ cell anaemia, is listed as a common health problem of school-age children.",
-    "answer": "sickle",
+    "stem": "International health historically focused on health within developing countries, often framed by a ___ dynamic.",
+    "answer": "North-South",
     "acceptableAnswers": [
-      "sickle"
+      "North-South",
+      "North South"
     ]
   },
   {
     "id": 93,
     "type": "fitb",
-    "stem": "The school nurse's management of minor ailments is limited to first-line care within professional scope and approved standing ___.",
-    "answer": "orders",
+    "stem": "Public health nursing focuses on the health of specific populations within a defined community or geographic ___.",
+    "answer": "area",
     "acceptableAnswers": [
-      "orders"
+      "area"
     ]
   },
   {
     "id": 94,
     "type": "fitb",
-    "stem": "The medical practitioner on the school health team is responsible for medical examination, diagnosis, treatment, supervision, and ___.",
-    "answer": "referral",
+    "stem": "Food security is defined as access to sufficient, safe, and ___ food for an active and healthy life.",
+    "answer": "nutritious",
     "acceptableAnswers": [
-      "referral"
+      "nutritious"
     ]
   },
   {
     "id": 95,
     "type": "fitb",
-    "stem": "The ___ assesses sanitation, water supply, food hygiene, waste disposal, and environmental hazards on the school health team.",
-    "answer": "environmental health officer",
+    "stem": "Food insecurity can lead to malnutrition, including undernutrition and overnutrition due to unhealthy diets, also known as ___.",
+    "answer": "obesity",
     "acceptableAnswers": [
-      "environmental health officer",
-      "environmental health officer"
+      "obesity"
     ]
   },
   {
     "id": 96,
     "type": "fitb",
-    "stem": "School administrators and community leaders are in a unique position to identify children's health needs due to their ___ to the school.",
-    "answer": "proximity",
+    "stem": "___ change is a major threat to food security, affecting crop yields, livestock production, and access to water resources.",
+    "answer": "Climate",
     "acceptableAnswers": [
-      "proximity"
+      "Climate",
+      "climate"
     ]
   },
   {
     "id": 97,
     "type": "fitb",
-    "stem": "Among the prerequisites for a healthful school, a ___ box must be available at all times for emergency situations.",
-    "answer": "first aid",
+    "stem": "Global environmental health examines the impact of the environment on human health, encompassing air and water quality, climate change, and exposure to ___.",
+    "answer": "toxins",
     "acceptableAnswers": [
-      "first aid"
+      "toxins"
     ]
   },
   {
     "id": 98,
     "type": "fitb",
-    "stem": "One advantage of the school health programme is that it helps to checkmate the ___ of infections among school children.",
-    "answer": "spread",
+    "stem": "Mobile Health, also called m-Health, uses mobile technology for health monitoring, diagnosis, and health ___.",
+    "answer": "education",
     "acceptableAnswers": [
-      "spread"
+      "education"
     ]
   },
   {
     "id": 99,
     "type": "fitb",
-    "stem": "Factors that influence the health of school children in developing countries include genetic, environmental, socioeconomic, and health ___ factors.",
-    "answer": "service",
+    "stem": "A key challenge to innovation in global health is securing funding for research and development, particularly for ventures focused on ___ diseases.",
+    "answer": "neglected",
     "acceptableAnswers": [
-      "service"
+      "neglected"
     ]
   },
   {
     "id": 100,
     "type": "fitb",
-    "stem": "Parent-Teacher Associations, grant in aid, and ___ competitions are listed as sources of funds for school health programmes.",
-    "answer": "quiz, debate and drama",
+    "stem": "Strengthening global health governance requires fostering greater transparency, accountability, and ___ in decision-making processes.",
+    "answer": "inclusivity",
     "acceptableAnswers": [
-      "quiz, debate and drama",
-      "quiz/debate/drama",
-      "quiz, debate, drama"
+      "inclusivity"
     ]
   }
 ]
